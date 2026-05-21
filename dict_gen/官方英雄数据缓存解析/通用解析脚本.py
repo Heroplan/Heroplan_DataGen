@@ -68,38 +68,38 @@ REPLACEMENT_RULES = {
         
     ): [
         {
-            "file": "../官方语言字典生成/generated_txt/heroes_name_cn.txt",
+            "file": "generated_txt/heroes_name_cn.txt",
             "prefix": "heroes.name.",
         },
         {
-            "file": "../官方语言字典生成/generated_txt/heroes_name_fancy_cn.txt",
+            "file": "generated_txt/heroes_name_fancy_cn.txt",
             "prefix": "heroes.name_fancy.",
             "compound_rule": {"trigger_keyword": "_costume", "separator": "-"},
         },
     ],
     ("families", "featuredFamilies", "family"): [
         {
-            "file": "../官方语言字典生成/generated_txt/family_title_cn.txt",
+            "file": "generated_txt/family_title_cn.txt",
             "prefix": "herocard.family.title.",
         }
     ],
     ("eventId", "origin", "lotteryProductType"): [
         {
-            "file": "../官方语言字典生成/generated_txt/quests_name_cn.txt",
+            "file": "generated_txt/quests_name_cn.txt",
             "prefix": "quests.name.",
         },
         {
-            "file": "../官方语言字典生成/generated_txt/lottery_title_cn.txt",
+            "file": "generated_txt/lottery_title_cn.txt",
             "prefix": "lottery.title.",
         },
         {
-            "file": "../官方语言字典生成/generated_txt/event_name_cn.txt",
+            "file": "generated_txt/event_name_cn.txt",
             "prefix": "event.name.",
         },
     ],
     ("aetherGift",): [
         {
-            "file": "../官方语言字典生成/generated_txt/aether_power_en.txt",
+            "file": "generated_txt/aether_power_en.txt",
             "prefix": "limitbreak.gift.title.",
         }
     ],
@@ -109,7 +109,7 @@ REPLACEMENT_RULES = {
     ("element",): [{"file": "base_values_cn.txt", "prefix": "base."}],
     ("specialId",): [
         {
-            "file": "../官方语言字典生成/generated_txt/skill_name_cn.txt",
+            "file": "generated_txt/skill_name_cn.txt",
             "prefix": "specials.name.",
         }
     ],
@@ -311,16 +311,19 @@ def parse_object(data, offset):
         code = data[offset]
         offset += 1
         if field_name in SPECIAL_TIMESTAMP_KEYS:
-            if code == 0x05:
+            # 支持多种整数类型：1字节、2字节、4字节、8字节
+            if code == 0x03:          # byte
+                seconds = data[offset]
+                offset += 1
+            elif code == 0x04:        # short (2 bytes)
+                seconds, offset = read_short(data, offset)
+            elif code == 0x05:        # int (4 bytes)
                 seconds, offset = read_int(data, offset)
-            elif code == 0x06:
+            elif code == 0x06:        # long (8 bytes)
                 seconds, offset = read_long(data, offset)
             else:
-                raise ValueError(f"字段 '{field_name}' 后遇到未知长度码 {hex(code)}")
+                raise ValueError(f"字段 '{field_name}' 后遇到未知长度码 {hex(code)} (位置 {offset-1})")
             value = convert_timestamp(seconds)
-        elif field_name in SPECIAL_DURATION_KEYS:
-            seconds, offset = read_value(data, offset, code)
-            value = convert_duration(seconds)
         elif field_name in SPECIAL_BOOLEAN_TRUE_KEYS:
             if code != 0x02:
                 raise ValueError(f"字段 '{field_name}' 期望类型码 0x02")

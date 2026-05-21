@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Когда этот герой получает прямой урон от особых навыков, ему дается смирение: {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Когда этот герой получает прямой урон от особых навыков, ему дается {CURRENTCHARGEFROMDAMAGE} ед. смирения."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Когда этот герой получает прямое исцеление от особых навыков, ему дается смирение: {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Когда этот герой получает прямое исцеление от особых навыков, ему дается {CURRENTCHARGEFROMHEAL} ед. смирения"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","В конце каждого хода герой получает смирение: {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND}."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","В конце каждого хода этот персонаж получает {CURRENTCHARGEONTURNEND} ед. смирения."
 "familybonuses.description.long.abyss","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %/{4MEMBERSCHANCE} %/{5MEMBERSCHANCE} % вероятности, что на поле появится самоцвет Бездны, когда этот герой использует свой особый навык.
 Самоцветы Бездны наносят {FIXEDPOWER} урона случайному врагу каждый ход, пока не совмещены с другими камнями.
 Самоцветы Бездны появляются только на обычных щитах той же стихии, что у героя."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Дает {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} % маны, когда заканчивается призрак с этим персонажем."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Когда этот герой получает урон от вражеского особого навыка, он получает {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT} % маны. Эффект может активироваться только один раз за ход."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % атаки."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % атаки."
@@ -15,12 +22,12 @@
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % атаки."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Все союзники получают {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % накапливаемой атаки всякий раз, когда этот герой пытается ограбить врага. (Макс. накопление: {MAXSTACK})"
 "familybonuses.description.long.build_charge_beauty_beast","У разных героев различные требования к смирению.
-Когда герой использует усиленную версию своего особого навыка, будет использовано только необходимое количество смирения.
+Когда герой использует усиленную версию своего особого навыка, расходуется только определенное количество смирения.
 Максимальное смирение: 100.
 Бонус за количество уникальных героев из той же семьи (1/2/3):
-Когда этому герою наносят прямой урон особыми навыками, он получает {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} смирения.
-Когда этот герой получает прямое исцеление от особых навыков, ему дается {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} смирения."
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","У разных героев различные требования к смирению.
+Когда герой использует усиленную версию своего особого навыка, будет использовано только необходимое количество смирения.
 Когда этому герою наносят прямой урон особыми навыками, он получает {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} смирения. Максимум один раз за ход.
 Когда этот герой получает прямое исцеление от особых навыков, ему дается {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} смирения. Максимум один раз за ход."
 "familybonuses.description.long.build_charge_construct","Структурное ядро заряжается каждый раз, когда герой получает урон от обычных атак или особых навыков."
@@ -31,7 +38,7 @@
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Когда герой получает недуг, влияющий на защиту, есть {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанса наложить полученный недуг на всех врагов."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанс увеличить длительность каждого эффекта статуса от танца удачи, используемого персонажем, на 1 ход."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % дополнительного урона от особого навыка."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % шанс очистить все недуги с героя при получении этим героем урона от вражеского особого навыка."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Шанс {1MEMBERCHANCE}/{2MEMBERSCHANCE} % снять 1 недуг со всех союзников при получении урона от особых навыков."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % шанс очистить случайный очищаемый недуг с героя при получении этим героем урона от вражеского особого навыка"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Когда этот герой получает урон от вражеского особого навыка, с вероятностью {1MEMBERCHANCE} %/{2MEMBERSCHANCE} % со всех союзников очищается случайный снимаемый недуг. Эффект может активироваться только один раз за ход."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанс контратаки с {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % полученного урона."
@@ -88,6 +95,7 @@
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % здоровья"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % здоровья"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % ОЗ."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Все союзники получают +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} заряда восстановления здоровья каждый раз, когда герой пытается заворожить врага. (Макс. зарядов: {STATUSEFFECT1MAXSTACK})."
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","На {1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % больше урона мегаприслужникам."
 "familybonuses.description.long.increased_damage_against_minions_2_members","На {1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} % больше урона прислужникам."
 "familybonuses.description.long.increased_damage_against_minions_3_members","На {1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % больше урона прислужникам."
@@ -136,6 +144,7 @@
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Герой связан с волшебной семьей.
 Герой получает семейный бонус, если в команде есть хотя бы 1 герой из этой семьи. Бонус за 1/2/3/4/5 героев:
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Наносит {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} урона водой в течение {STATUSEFFECT1TURNS} х. врагу, нанесшему герою урон особым навыком."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Мегаприслужники, прислужники, мегапаразиты и паразиты, призванные союзниками, получают {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} % атаки в зависимости от количества героев семьи слизней в команде."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE} % силы особого навыка."
 "familybonuses.description.long.start_battle_with_fox_minion","В начале битвы герой призывает себе {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} хитрых лис с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки героя.
@@ -158,6 +167,7 @@
 "familybonuses.description.members","(Члены семьи: {0})"
 "familybonuses.description.members.realm","(Жители мира: {0})"
 "familybonuses.description.short.abyss","{CHANCE} % вероятности, что на поле появится самоцвет Бездны при использовании особого навыка. Самоцвет Бездны наносит {FIXEDPOWER} урона случайному врагу каждый ход."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Дает {MULTIPLIERPERCENT} % маны после утраты героем призрачной формы."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Этот герой получает {MULTIPLIERPERCENT} % маны при получении урона от вражеского особого навыка."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE} % атаки"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} % атаки"
@@ -174,8 +184,7 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","В начале каждого хода помечает врага с самым большим количеством оставшихся ОЗ кровавой лилией."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","В начале каждого хода помечает врага с самым большим количеством оставшихся ОЗ кровавой лилией."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Дает {ATTACK} % накапливаемой атаки всем союзникам всякий раз, когда этот герой пытается ограбить персонажа. (Макс. накопление: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Когда этот герой получает прямой урон от особых навыков, ему дается {CURRENTCHARGEFROMDAMAGE} смирения.
-Когда этот герой получает прямое исцеление от особых навыков, ему дается {CURRENTCHARGEFROMHEAL} смирения."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Когда этот герой получает прямой урон от особых навыков, ему дается {CURRENTCHARGEFROMDAMAGE} смирения. Максимум один раз за ход.
 Когда этот герой получает прямое исцеление от особых навыков, ему дается {CURRENTCHARGEFROMHEAL} смирения. Максимум один раз за ход."
 "familybonuses.description.short.build_charge_construct","Этот герой заряжает свое структурное ядро, когда получает урон от обычных атак и особых навыков."
@@ -186,7 +195,7 @@
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Когда герой получает недуг, влияющий на защиту, есть {CHANCE} % шанса наложить полученный недуг на всех врагов."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % шанс увеличить длительность эффектов статуса от танца удачи на 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % дополнительного урона от особого навыка."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % шанс очистить все очищаемые недуги с героя, если ему наносят урон вражеским особым навыком"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Шанс {CHANCE} % снять 1 недуг со всех союзников при получении урона от особых навыков"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % шанс очистить случайный очищаемый недуг с героя при получении этим героем урона от вражеского особого навыка"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Когда враг наносит герою урон особым навыком, герой с вероятностью {CHANCE} % может очистить случайный очищаемый недуг со всех союзников. Эффект активируется один раз за ход."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % шанс контратаки с {MULTIPLIERPERCENT} % полученного урона."
@@ -234,6 +243,7 @@
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE} % здоровья"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE} % ОЗ"
 "familybonuses.description.short.health_stack","{CHANCE} % шанс получить исцеляющий эффект +1: +{BASESTACKCOUNT} здоровья в конце каждого хода"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Все союзники получают +{HEAL} зарядов восстановления здоровья каждый раз, когда этот персонаж пытается заворожить врага."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","На {MULTIPLIERPERCENTCHANGE} % больше урона мегаприслужникам."
 "familybonuses.description.short.increased_damage_against_minions_2_members","На {MULTIPLIERPERCENTCHANGE} % больше урона прислужникам."
 "familybonuses.description.short.increased_damage_against_minions_3_members","На {MULTIPLIERPERCENTCHANGE} % больше урона прислужникам."
@@ -280,6 +290,7 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE} % шанса сопротивления уменьшению маны и недугам маны. При сопротивлении герой получает {POWER} % маны"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE} % шанса сопротивления уменьшению маны и недугам маны. При сопротивлении герой получает {POWER} % маны"
 "familybonuses.description.short.share_effects_from_atlantis","Герой связан с семьей Атлантиды. Герой получает семейный бонус связанной семьи, если в команде есть хотя бы 1 связанный герой:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Когда враг наносит урон особым навыком этому герою, враг получает {DAMAGE} ед. водного урона в течение {STATUSEFFECT1TURNS} х."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Мегаприслужники, прислужники, мегапаразиты и паразиты получают {MULTIPLIERPERCENTCHANGE} % атаки."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Бонус Года Крысы: {MULTIPLIERPERCENTCHANGE} % силы особого навыка"
 "familybonuses.description.short.start_battle_with_fox_minion","Призывает {FAMILIARAMOUNT} хитрого лиса для себя в начале боя. Хитрый лис уворачивается от атак с вероятностью 80 %. Успешно увернувшись от атаки, хитрый лис крадет последнее наложенное снимаемое усиление у атакующего и передает его своему хозяину."
@@ -336,7 +347,8 @@
 "herocard.family.description.eventherobonus.alliancequestcastle","Члены этой семьи получают дополнительные преимущества в событии ""Столкновение рыцарей""."
 "herocard.family.description.eventherobonus.alliancequestmoths","Члены этой семьи получают дополнительные преимущества в событии ""Ночь мотылька""."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Участники этой семьи получают дополнительные преимущества в событии ""Храбрые и прекрасные""."
-"herocard.family.description.eventherobonus.beachparty","Члены этой семьи получают дополнительные преимущества в событии ""Пляжная вечеринка""."
+"herocard.family.description.eventherobonus.beachparty","Члены этой семьи получают дополнительные преимущества в событии ""Солнечная вечеринка""."
+"herocard.family.description.eventherobonus.beachparty2026","Члены этой семьи получают дополнительные преимущества в событии ""Солнечная вечеринка""."
 "herocard.family.description.eventherobonus.christmas","Члены этой семьи получают дополнительные преимущества в событии ""Испытание Санты""."
 "herocard.family.description.eventherobonus.easter","Члены этой семьи получают дополнительные преимущества в событии ""Фестиваль Спрингвейла""."
 "herocard.family.description.eventherobonus.halloween","Члены этой семьи получают дополнительные преимущества в событии Хэллоуина."
@@ -418,6 +430,8 @@
 "herocard.family.title.cultist.short","Сектант"
 "herocard.family.title.cupid","Семья купидонов"
 "herocard.family.title.cupid.short","Купидоны"
+"herocard.family.title.dryad","Семья дриад Древноцвета"
+"herocard.family.title.dryad.short","Дриады"
 "herocard.family.title.easter","Семья Спрингвейла"
 "herocard.family.title.easter.short","Спрингвейл"
 "herocard.family.title.fable","Семья Дремучего леса"
@@ -439,6 +453,8 @@
 "herocard.family.title.gargoyle.short","Горгульи"
 "herocard.family.title.garrison","Семья стражей гарнизона"
 "herocard.family.title.garrison.short","Страж гарнизона"
+"herocard.family.title.ghost","Семья призраков Янь Цзяня"
+"herocard.family.title.ghost.short","Призраки Янь Цзяня"
 "herocard.family.title.goblin","Семья гоблинов"
 "herocard.family.title.goblin.short","Гоблин"
 "herocard.family.title.guardian","Семья Хранителей"
@@ -526,6 +542,8 @@
 "herocard.family.title.sand.short","Песочная империя"
 "herocard.family.title.shady_scoundrels","Семья нечестных плутов"
 "herocard.family.title.shady_scoundrels.short","Нечестный плут"
+"herocard.family.title.shark","Семья солнечных акул"
+"herocard.family.title.shark.short","Солнечная акула"
 "herocard.family.title.slayers","Семья убийц"
 "herocard.family.title.slayers.short","Убийцы"
 "herocard.family.title.slime","Склизкая семья"

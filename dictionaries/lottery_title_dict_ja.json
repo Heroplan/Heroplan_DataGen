@@ -7,6 +7,8 @@
   "Astral Summon": "アストラルサモン",
   "Black Friday Summon": "フラックフライテー・サモン",
   "Event Summon": "イヘントサモン",
+  "Charming Costume Summon": "魅惑のコスチュームサモン",
+  "Classic Costume Summon": "古典のコスチュームサモン",
   "Costume Summon": "コスチュームサモン",
   "Covenant Summon": "盟約サモン",
   "Daily Summon": "テイリーサモン",
@@ -31,6 +33,7 @@
   "Underwild Summon": "アンターワイルトサモン",
   "Dunes Summon": "砂丘サモン",
   "Seasonal Summon": "シースンサモン",
+  "Sunbay Summon": "サンヘイサモン",
   "Sanguine Summon": "血のサモン",
   "Fortune Summon": "幸運サモン",
   "Shadow Summon": "シャトウサモン",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "語られさる物語サモン",
   "Mysteries of the Deep": "深海の謎",
   "Treasures of Flame and Frost": "炎とフロストの財宝",
+  "Welcome Back Summon": "おかえりサモン",
   "Wilderness Summon": "荒野のサモン"
 }

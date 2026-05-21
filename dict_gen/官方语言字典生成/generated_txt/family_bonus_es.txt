@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","El héroe obtiene {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Este personaje obtiene {CURRENTCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","El héroe obtiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}  de humildad al recibir curación directa de habilidades especiales."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación directa de habilidades especiales."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","El héroe obtiene {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} de humildad al final de cada turno."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Este personaje obtiene {CURRENTCHARGEONTURNEND} de humildad al final de cada turno."
 "familybonuses.description.long.abyss","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %/{4MEMBERSCHANCE} %/{5MEMBERSCHANCE} % de probabilidad de generar una gema de las profundidades en el tablero cuando este héroe lanza su habilidad especial.
 Las gemas de las profundidades infligen {FIXEDPOWER} de daño a un enemigo aleatorio cada turno hasta que se hace una combinación con ellas.
 Las gemas de las profundidades solo pueden generarse en escudos normales que coincidan con el elemento de este héroe."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Obtiene un {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} % de maná cuando una forma fantasma de este personaje termina."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Este personaje obtiene un {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} % de maná al recibir daño de una habilidad especial. Este efecto se puede activar una vez por turno."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de ataque."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de ataque."
@@ -18,8 +25,7 @@ Las gemas de las profundidades solo pueden generarse en escudos normales que coi
 Cuando el héroe usa la versión fuerte de su habilidad especial, solo se consume la cantidad requerida de humildad.
 Humildad máxima: 100.
 Bonificación por 1/2/3 héroes distintos de la misma familia:
-El héroe obtiene {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales.
-El héroe obtiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} de humildad al recibir curación directa de habilidades especiales."
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Los héroes tienen distintos requisitos de humildad.
 El héroe obtiene {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales (solo una vez por turno).
 El héroe obtiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} de humildad al recibir curación directa de habilidades especiales (solo una vez por turno)."
@@ -31,7 +37,7 @@ El héroe obtiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHAR
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Cuando este héroe recibe un estado alterado que afecta a la defensa, {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de lanzárselo a todos los enemigos."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de aumentar la duración de todos los efectos de estado de bailarines de la fortuna aplicados por este personaje en 1 turno."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % de daño de habilidad especial adicional."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar todos los estados alterados de este personaje cuando recibe daño de la habilidad especial de un enemigo."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar 1 estado alterado de todos los aliados cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de este personaje cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de todos los aliados cuando este personaje recibe daño de la habilidad especial de un enemigo. Este efecto solo se puede activar una vez por turno."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de contraatacar con un {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % del daño recibido"
@@ -88,6 +94,7 @@ Mínimo del {MINSTAT} % y máximo del {MAXSTAT} % de sus valores originales."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de vitalidad"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de vitalidad"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de VIT."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Todos los aliados obtienen +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} de acumulación de regeneración de vitalidad cada vez que este personaje intenta hipnotizar a un enemigo. (Acumulaciones máx.: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % más de daño infligido contra megasecuaces."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} % más de daño infligido contra secuaces."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % más de daño infligido contra secuaces."
@@ -135,6 +142,7 @@ Si la habilidad especial derrota al personaje, la probabilidad es de un {1MEMBER
 El héroe recibe la bonificación de relación familiar cuando está en un equipo con al menos 1 héroe relacionado. Bonificación para 1/2/3/4/5 héroes:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","El héroe está relacionado con la familia mágica.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Inflige {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} de daño de agua durante {STATUSEFFECT1TURNS} turnos a un enemigo que inflija daño de habilidad especial a este personaje."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Los megasecuaces, los secuaces, los megademonios y los demonios invocados por los aliados reciben un {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de ataque según el número de héroes de la familia viscosa que haya en el equipo."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE} % de poder para las habilidades especiales."
 "familybonuses.description.long.start_battle_with_fox_minion","Al comienzo de la batalla, se autoinvoca {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} secuaces zorro astuto con un {FAMILIARHEALTHPERCENT} % de vitalidad y un {FAMILIARATTACK} % de ataque heredados del héroe.
@@ -157,6 +165,7 @@ Si la habilidad especial del enemigo derrota a este personaje, la probabilidad e
 "familybonuses.description.members","(Miembros de la familia: {0})"
 "familybonuses.description.members.realm","(Miembros del reino: {0})"
 "familybonuses.description.short.abyss","{CHANCE} % de probabilidad de generar una gema de las profundidades cuando se lanza una habilidad especial. Esta inflige {FIXEDPOWER} de daño a un enemigo aleatorio cada turno."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Obtiene un {MULTIPLIERPERCENT} % de maná después de que una forma fantasma de este personaje termine."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Este personaje obtiene un {MULTIPLIERPERCENT} % de maná al recibir daño de una habilidad especial."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE} % de ataque"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} % de ataque"
@@ -173,8 +182,7 @@ Si la habilidad especial del enemigo derrota a este personaje, la probabilidad e
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Al comienzo de cada turno, marca al enemigo al que le quede más VIT con un lirio de sangre."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Al comienzo de cada turno, marca al enemigo al que le quede más VIT con un lirio de sangre."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Otorga un {ATTACK} % de acumulación de ataque a todos los aliados cuando este personaje intenta saquear a otro (máx.: {MAXSTACK})."
-"familybonuses.description.short.build_charge_beauty_beast","Este personaje obtiene {CURRENTCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales.
-Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación directa de habilidades especiales."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Este personaje obtiene {CURRENTCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales (solo una vez por turno).
 Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación directa de habilidades especiales (solo una vez por turno)."
 "familybonuses.description.short.build_charge_construct","Este personaje carga su núcleo de creación al recibir daño de los ataques normales y las habilidades especiales."
@@ -185,7 +193,7 @@ Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Cuando este héroe recibe un estado alterado que afecta a la defensa, {CHANCE} % de probabilidad de lanzárselo a todos los enemigos."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % de probabilidad de aumentar la duración de los efectos de estado de bailarines de la fortuna aplicados en 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % de daño de habilidad especial adicional."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de probabilidad de purificar todos los estados alterados purificables de este personaje cuando recibe daño de la habilidad especial de un enemigo."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de probabilidad de purificar 1 estado alterado de todos los aliados cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de este personaje cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Cuando un enemigo inflige daño a este personaje con su habilidad especial, este tiene un {CHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de todos los aliados. Este efecto solo se puede activar una vez por turno."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % de probabilidad de contraatacar con un {MULTIPLIERPERCENT} % del daño recibido"
@@ -233,6 +241,7 @@ Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE} % de vitalidad"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE} % de VIT"
 "familybonuses.description.short.health_stack","{CHANCE} % de probabilidad de recibir +1 acumulación de curación: +{BASESTACKCOUNT} de vitalidad al final de cada turno."
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Todos los aliados obtienen +{HEAL} de acumulación de regeneración de vitalidad cada vez que este personaje intenta hipnotizar a un enemigo."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE} % más de daño infligido contra megasecuaces."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE} % más de daño infligido contra secuaces."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE} % más de daño infligido contra secuaces."
@@ -279,6 +288,7 @@ Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE} % de probabilidad de resistir las reducciones de maná y los estados alterados de maná. Recibe un {POWER} % de maná cada vez que resista uno de estos efectos."
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE} % de probabilidad de resistir las reducciones de maná y los estados alterados de maná. Recibe un {POWER} % de maná cada vez que resista uno de estos efectos."
 "familybonuses.description.short.share_effects_from_atlantis","El héroe está relacionado con la familia Atlantis. El héroe recibe la bonificación de relación familiar cuando está en un equipo con al menos 1 héroe relacionado:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Cuando un enemigo inflige daño de habilidad especial a este personaje, el enemigo recibe {DAMAGE} de daño de agua durante {STATUSEFFECT1TURNS} turnos."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Los megasecuaces, los secuaces, los megademonios y los demonios reciben un {MULTIPLIERPERCENTCHANGE} % de ataque."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonificación de Rata del año lunar: {MULTIPLIERPERCENTCHANGE} % de poder para las habilidades especiales"
 "familybonuses.description.short.start_battle_with_fox_minion","Se autoinvoca {FAMILIARAMOUNT} secuaz zorro astuto al comienzo de la batalla. El secuaz tiene un 80 % de probabilidad de esquivar los ataques. Si esquiva un ataque, roba la última bendición descartable del atacante y se la otorga a su dueño."
@@ -335,7 +345,8 @@ Este héroe obtiene los siguientes beneficios en este evento:"
 "herocard.family.description.eventherobonus.alliancequestcastle","Los miembros de esta familia obtienen beneficios adicionales en el evento del choque de caballeros."
 "herocard.family.description.eventherobonus.alliancequestmoths","Los miembros de esta familia obtienen beneficios adicionales en el evento de la noche de las polillas."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Los miembros de esta familia obtienen beneficios adicionales en el evento de los valientes y los bellos."
-"herocard.family.description.eventherobonus.beachparty","Los miembros de esta familia obtienen beneficios adicionales en el evento Fiesta en la playa."
+"herocard.family.description.eventherobonus.beachparty","Los miembros de esta familia obtienen beneficios adicionales en el evento de la fiesta de Bahía Soleada."
+"herocard.family.description.eventherobonus.beachparty2026","Los miembros de esta familia obtienen beneficios adicionales en el evento de la fiesta de Bahía Soleada."
 "herocard.family.description.eventherobonus.christmas","Los miembros de esta familia obtienen beneficios adicionales en el evento del reto de Santa."
 "herocard.family.description.eventherobonus.easter","Los miembros de esta familia obtienen beneficios adicionales en el evento del Festival de Springvale."
 "herocard.family.description.eventherobonus.halloween","Los miembros de esta familia obtienen beneficios adicionales en el evento de Halloween."
@@ -417,6 +428,8 @@ La familia del año lunar tiene diferentes héroes animales. Cada animal del añ
 "herocard.family.title.cultist.short","Secta"
 "herocard.family.title.cupid","Familia de cupidos"
 "herocard.family.title.cupid.short","Cupidos"
+"herocard.family.title.dryad","Familia de dríades de la flor ancestral"
+"herocard.family.title.dryad.short","Dríades"
 "herocard.family.title.easter","Familia de Springvale"
 "herocard.family.title.easter.short","Springvale"
 "herocard.family.title.fable","Familia del Bosque sombrío"
@@ -438,6 +451,8 @@ La familia del año lunar tiene diferentes héroes animales. Cada animal del añ
 "herocard.family.title.gargoyle.short","Gárgolas"
 "herocard.family.title.garrison","Familia de guardias del fortín"
 "herocard.family.title.garrison.short","Guardias del fortín"
+"herocard.family.title.ghost","Familia de fantasmas de Yang Jian"
+"herocard.family.title.ghost.short","Fantasmas de Yang Jian"
 "herocard.family.title.goblin","Familia de duendes"
 "herocard.family.title.goblin.short","Duendes"
 "herocard.family.title.guardian","Familia de guardianes"
@@ -525,6 +540,8 @@ La familia del año lunar tiene diferentes héroes animales. Cada animal del añ
 "herocard.family.title.sand.short","Imperio de la arena"
 "herocard.family.title.shady_scoundrels","Familia de alimañas turbias"
 "herocard.family.title.shady_scoundrels.short","Alimañas turbias"
+"herocard.family.title.shark","Familia de tiburones de Bahía Soleada"
+"herocard.family.title.shark.short","Tiburón de Bahía Soleada"
 "herocard.family.title.slayers","Familia de asesinos"
 "herocard.family.title.slayers.short","Asesinos"
 "herocard.family.title.slime","Familia viscosa"

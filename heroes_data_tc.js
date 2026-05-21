@@ -417,7 +417,7 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 153 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 153 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
@@ -538,7 +538,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "長槍衝擊",
         "types": [
-            "攻擊所有目標"
+            "攻擊所有目標",
+            "自身攻擊減益"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -675,7 +676,7 @@ window.allHeroes =
         "skill": "喜悅後援",
         "types": [
             "全體治療",
-            "召喚者"
+            "召喚所有"
         ],
         "skill_types": [
             "治療",
@@ -1249,8 +1250,8 @@ window.allHeroes =
         "defense": 533,
         "health": 817,
         "effects": [
-            "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。",
-            "所有盟友獲得 +51% 防禦，持續 5 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。"
+            "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。",
+            "所有盟友獲得 +51% 防禦，持續 5 回合。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
@@ -1355,7 +1356,7 @@ window.allHeroes =
         "skill": "治愈一擊",
         "types": [
             "全體治療",
-            "全體淨化"
+            "淨化全體"
         ],
         "skill_types": [
             "凈化",
@@ -1417,8 +1418,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "魚味十足的糕點",
         "types": [
-            "持續治療",
-            "淨化者"
+            "全體持續治療",
+            "淨化全體"
         ],
         "skill_types": [
             "凈化",
@@ -1483,7 +1484,8 @@ window.allHeroes =
         "skill": "禁止令",
         "types": [
             "攻擊單個目標",
-            "增益免疫"
+            "單體增益免疫減益",
+            "企圖獲得增益時受到傷害(單體)"
         ],
         "skill_types": [
             "增益格擋者",
@@ -1548,7 +1550,8 @@ window.allHeroes =
         "skill": "禁用研究",
         "types": [
             "攻擊單個目標",
-            "增益免疫"
+            "單體增益免疫減益",
+            "企圖獲得增益時受到傷害(單體)"
         ],
         "skill_types": [
             "增益格擋者",
@@ -2144,7 +2147,7 @@ window.allHeroes =
         "defense": 433,
         "health": 902,
         "effects": [
-            "對目標及附近敵人造成 220% 傷害。",
+            "對目標與附近敵人造成 220% 傷害。",
             "所有敵人獲得對冰雪系 -54% 的防禦，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
         ],
         "passives": [],
@@ -2175,6 +2178,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "諾德里 (Nordri) 卡通",
+        "fancy_name": "約頓海姆公仔矮人",
+        "AetherPower": "憤怒",
+        "color": "藍",
+        "class": "野人",
+        "speed": "中等",
+        "skill": "斧頭公仔",
+        "types": [
+            "攻擊3個目標",
+            "3個目標元素防禦降低"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toon_axes",
+        "parent_specialId": "frosty_axes",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_nordri_costume_cute",
+        "star": 3,
+        "power": 564,
+        "attack": 612,
+        "defense": 506,
+        "health": 1025,
+        "effects": [
+            "對目標造成 275% 傷害，並對附近敵人造成輕微傷害。",
+            "目標與附近敵人獲得對冰雪系 -55% 的防禦，持續 4 回合。",
+            "對烈火系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "jotunheim",
+        "costume_id": 2,
+        "originalIndex": 35,
+        "lb1": {
+            "attack": 694,
+            "defense": 573,
+            "health": 1162,
+            "power": 631
+        },
+        "lb2": {
+            "attack": 857,
+            "defense": 708,
+            "health": 1436,
+            "power": 764
+        },
+        "cn_skill_info": []
     },
     {
         "name": "普藍契 (Planchet)",
@@ -2216,7 +2271,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 35,
+        "originalIndex": 36,
         "lb1": {
             "attack": 587,
             "defense": 514,
@@ -2287,7 +2342,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 36,
+        "originalIndex": 37,
         "lb1": {
             "attack": 670,
             "defense": 576,
@@ -2351,7 +2406,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 37,
+        "originalIndex": 38,
         "lb1": {
             "attack": 581,
             "defense": 567,
@@ -2424,11 +2479,11 @@ window.allHeroes =
         ],
         "passives": [
             "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 10% 生命值。此效果每回合僅能啟動一次。",
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。不適用影響元素防禦的狀態異常。"
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。"
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 38,
+        "originalIndex": 39,
         "lb1": {
             "attack": 591,
             "defense": 591,
@@ -2488,7 +2543,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 39,
+        "originalIndex": 40,
         "lb1": {
             "attack": 598,
             "defense": 407,
@@ -2549,7 +2604,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 40,
+        "originalIndex": 41,
         "lb1": {
             "attack": 604,
             "defense": 465,
@@ -2616,7 +2671,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 41,
+        "originalIndex": 42,
         "lb1": {
             "attack": 604,
             "defense": 573,
@@ -2689,7 +2744,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 42,
+        "originalIndex": 43,
         "lb1": {
             "attack": 632,
             "defense": 581,
@@ -2753,7 +2808,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 43,
+        "originalIndex": 44,
         "lb1": {
             "attack": 543,
             "defense": 466,
@@ -2814,7 +2869,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 44,
+        "originalIndex": 45,
         "lb1": {
             "attack": 564,
             "defense": 512,
@@ -2881,7 +2936,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 45,
+        "originalIndex": 46,
         "lb1": {
             "attack": 616,
             "defense": 545,
@@ -2954,7 +3009,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 46,
+        "originalIndex": 47,
         "lb1": {
             "attack": 634,
             "defense": 557,
@@ -3031,11 +3086,11 @@ window.allHeroes =
         ],
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
+            "抵禦防禦異常：該角色對影響防禦的狀態異常具有天生抗性。同樣適用於影響元素防禦的狀態異常。"
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 47,
+        "originalIndex": 48,
         "lb1": {
             "attack": 468,
             "defense": 561,
@@ -3094,7 +3149,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 48,
+        "originalIndex": 49,
         "lb1": {
             "attack": 498,
             "defense": 486,
@@ -3149,14 +3204,14 @@ window.allHeroes =
         "defense": 497,
         "health": 778,
         "effects": [
-            "對目標及附近敵人造成 215% 傷害。",
+            "對目標與附近敵人造成 215% 傷害。",
             "召喚一個魏國戰士小兵，其可從施法者繼承 20% 生命與 25% 攻擊。",
             "魏國戰士小兵每次擊中時都會驅散目標上所有的可驅散增益。"
         ],
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 49,
+        "originalIndex": 50,
         "lb1": {
             "attack": 551,
             "defense": 563,
@@ -3220,7 +3275,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 50,
+        "originalIndex": 51,
         "lb1": {
             "attack": 745,
             "defense": 669,
@@ -3281,7 +3336,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 51,
+        "originalIndex": 52,
         "lb1": {
             "attack": 715,
             "defense": 772,
@@ -3309,6 +3364,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "艾格威 (Agwe) 卡通",
+        "fancy_name": "變色龍薩滿公仔",
+        "AetherPower": "回復已加成",
+        "color": "藍",
+        "class": "牧師",
+        "speed": "中等",
+        "skill": "公仔之波",
+        "types": [
+            "攻擊所有目標",
+            "全體元素防禦增益"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_wave",
+        "parent_specialId": "tidal_wave",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_chameleon_mage_costume_cute",
+        "star": 4,
+        "power": 826,
+        "attack": 903,
+        "defense": 787,
+        "health": 1463,
+        "effects": [
+            "對所有敵人造成 220% 傷害。",
+            "所有盟友獲得對自然系 +54% 的防禦，持續 4 回合。",
+            "對烈火系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 53,
+        "lb1": {
+            "attack": 981,
+            "defense": 855,
+            "health": 1589,
+            "power": 890
+        },
+        "lb2": {
+            "attack": 1137,
+            "defense": 991,
+            "health": 1843,
+            "power": 1018
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "水鎧兵 (Aqualith)",
         "fancy_name": "元素重裝步兵",
         "AetherPower": "傷害減少",
@@ -3318,7 +3425,7 @@ window.allHeroes =
         "skill": "密集隊形",
         "types": [
             "嘲諷",
-            "攻擊所有目標"
+            "全體延遲傷害"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -3352,7 +3459,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 52,
+        "originalIndex": 54,
         "lb1": {
             "attack": 734,
             "defense": 748,
@@ -3388,7 +3495,7 @@ window.allHeroes =
         "skill": "滴水不穿",
         "types": [
             "嘲諷",
-            "攻擊所有目標"
+            "全體延遲傷害"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -3427,7 +3534,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 53,
+        "originalIndex": 55,
         "lb1": {
             "attack": 734,
             "defense": 777,
@@ -3463,7 +3570,7 @@ window.allHeroes =
         "skill": "反擊姿態",
         "types": [
             "全體治療",
-            "反擊"
+            "3個目標反擊"
         ],
         "skill_types": [
             "反擊",
@@ -3492,7 +3599,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 54,
+        "originalIndex": 56,
         "lb1": {
             "attack": 634,
             "defense": 810,
@@ -3528,7 +3635,7 @@ window.allHeroes =
         "skill": "跳舞姿態",
         "types": [
             "全體治療",
-            "反擊"
+            "3個目標反擊"
         ],
         "skill_types": [
             "治療",
@@ -3566,7 +3673,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 55,
+        "originalIndex": 57,
         "lb1": {
             "attack": 690,
             "defense": 779,
@@ -3623,7 +3730,7 @@ window.allHeroes =
         "defense": 760,
         "health": 1241,
         "effects": [
-            "對目標及附近敵人造成 240% 傷害。",
+            "對目標與附近敵人造成 240% 傷害。",
             "目標與附近敵人獲得對特殊技能 -34% 的防禦，持續 3 回合。",
             "施法者和附近盟友獲得對自然系 +86% 的防禦，持續 3 回合。"
         ],
@@ -3636,7 +3743,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 56,
+        "originalIndex": 58,
         "lb1": {
             "attack": 708,
             "defense": 826,
@@ -3697,7 +3804,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 57,
+        "originalIndex": 59,
         "lb1": {
             "attack": 544,
             "defense": 861,
@@ -3751,7 +3858,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 58,
+        "originalIndex": 60,
         "lb1": {
             "attack": 558,
             "defense": 943,
@@ -3804,7 +3911,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 59,
+        "originalIndex": 61,
         "lb1": {
             "attack": 642,
             "defense": 961,
@@ -3854,14 +3961,14 @@ window.allHeroes =
         "defense": 855,
         "health": 1402,
         "effects": [
-            "施法者與附近盟友進行反擊，造成所受傷害 120% 的傷害，持續 5 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。"
+            "施法者與附近盟友進行反擊，造成所受傷害 120% 的傷害，持續 5 回合。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 60,
+        "originalIndex": 62,
         "lb1": {
             "attack": 705,
             "defense": 929,
@@ -3921,7 +4028,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 61,
+        "originalIndex": 63,
         "lb1": {
             "attack": 730,
             "defense": 934,
@@ -3987,7 +4094,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 62,
+        "originalIndex": 64,
         "lb1": {
             "attack": 863,
             "defense": 861,
@@ -4056,7 +4163,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 63,
+        "originalIndex": 65,
         "lb1": {
             "attack": 674,
             "defense": 741,
@@ -4123,7 +4230,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 64,
+        "originalIndex": 66,
         "lb1": {
             "attack": 768,
             "defense": 884,
@@ -4189,12 +4296,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 193 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 193 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 65,
+        "originalIndex": 67,
         "lb1": {
             "attack": 778,
             "defense": 808,
@@ -4253,12 +4360,12 @@ window.allHeroes =
             "所有盟友在 3 回合內恢復 540 點生命值。"
         ],
         "passives": [
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。",
+            "抵禦防禦異常：該角色對影響防禦的狀態異常具有天生抗性。同樣適用於影響元素防禦的狀態異常。",
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 66,
+        "originalIndex": 68,
         "lb1": {
             "attack": 731,
             "defense": 757,
@@ -4299,7 +4406,7 @@ window.allHeroes =
         "skill": "不死刀客",
         "types": [
             "攻擊所有目標",
-            "防禦降低"
+            "全體防禦降低"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -4328,7 +4435,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 67,
+        "originalIndex": 69,
         "lb1": {
             "attack": 690,
             "defense": 695,
@@ -4369,8 +4476,8 @@ window.allHeroes =
         "skill": "不死毀滅者",
         "types": [
             "攻擊所有目標",
-            "持續傷害疊加",
-            "法力生成降低疊加"
+            "全體持續傷害疊加",
+            "全體法力生成降低疊加"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -4404,7 +4511,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 68,
+        "originalIndex": 70,
         "lb1": {
             "attack": 713,
             "defense": 701,
@@ -4482,7 +4589,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 69,
+        "originalIndex": 71,
         "lb1": {
             "attack": 725,
             "defense": 725,
@@ -4550,7 +4657,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 70,
+        "originalIndex": 72,
         "lb1": {
             "attack": 748,
             "defense": 766,
@@ -4615,7 +4722,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 71,
+        "originalIndex": 73,
         "lb1": {
             "attack": 778,
             "defense": 577,
@@ -4676,7 +4783,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 72,
+        "originalIndex": 74,
         "lb1": {
             "attack": 793,
             "defense": 649,
@@ -4737,7 +4844,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 73,
+        "originalIndex": 75,
         "lb1": {
             "attack": 913,
             "defense": 655,
@@ -4804,7 +4911,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 74,
+        "originalIndex": 76,
         "lb1": {
             "attack": 899,
             "defense": 694,
@@ -4877,7 +4984,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 75,
+        "originalIndex": 77,
         "lb1": {
             "attack": 917,
             "defense": 703,
@@ -4949,7 +5056,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 76,
+        "originalIndex": 78,
         "lb1": {
             "attack": 1005,
             "defense": 765,
@@ -5021,7 +5128,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 77,
+        "originalIndex": 79,
         "lb1": {
             "attack": 757,
             "defense": 743,
@@ -5087,7 +5194,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 0,
-        "originalIndex": 78,
+        "originalIndex": 80,
         "lb1": {
             "attack": 782,
             "defense": 660,
@@ -5149,7 +5256,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 79,
+        "originalIndex": 81,
         "lb1": {
             "attack": 713,
             "defense": 731,
@@ -5214,7 +5321,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 80,
+        "originalIndex": 82,
         "lb1": {
             "attack": 778,
             "defense": 753,
@@ -5279,7 +5386,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 81,
+        "originalIndex": 83,
         "lb1": {
             "attack": 796,
             "defense": 849,
@@ -5344,15 +5451,15 @@ window.allHeroes =
         "health": 1272,
         "effects": [
             "為所有盟友恢復 31% 生命值。",
-            "所有盟友獲得 +26% 攻擊力，持續 3 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。",
-            "所有盟友獲得 +26% 防禦，持續 3 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。"
+            "所有盟友獲得 +26% 攻擊力，持續 3 回合。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。",
+            "所有盟友獲得 +26% 防禦，持續 3 回合。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 82,
+        "originalIndex": 84,
         "lb1": {
             "attack": 837,
             "defense": 850,
@@ -5425,7 +5532,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 83,
+        "originalIndex": 85,
         "lb1": {
             "attack": 824,
             "defense": 884,
@@ -5495,7 +5602,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 84,
+        "originalIndex": 86,
         "lb1": {
             "attack": 894,
             "defense": 978,
@@ -5567,7 +5674,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 85,
+        "originalIndex": 87,
         "lb1": {
             "attack": 681,
             "defense": 727,
@@ -5624,7 +5731,7 @@ window.allHeroes =
         "health": 1413,
         "effects": [
             "對目標和鄰近敵人造成 280% 傷害，並對其造成 15 點瘋狂。",
-            "目標與附近敵人在 4 回合內受到共計 388 點詛咒傷害，起始傷害較低，每個回合逐漸增加。",
+            "目標與附近敵人每回合受到 51 -156 點詛咒傷害，持續 4 回合。（第一回合造成 51 點傷害。傷害每回合增加 +45%，最高可達每回合 156 點傷害。）",
             "對施法者造成 55 點瘋狂。"
         ],
         "passives": [
@@ -5632,7 +5739,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 86,
+        "originalIndex": 88,
         "lb1": {
             "attack": 854,
             "defense": 812,
@@ -5697,13 +5804,13 @@ window.allHeroes =
         "passives": [
             "部隊精通：",
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
-            "- 造成額外元素傷害： +100%",
+            "* 造成額外元素傷害： +100%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -10%"
+            "* 受到元素傷害： -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 87,
+        "originalIndex": 89,
         "lb1": {
             "attack": 752,
             "defense": 736,
@@ -5758,13 +5865,13 @@ window.allHeroes =
         "defense": 597,
         "health": 1175,
         "effects": [
-            "對目標及附近敵人造成 150% 傷害。",
+            "對目標與附近敵人造成 150% 傷害。",
             "疊加（最大值： 10 ）：施法者獲得 +10% 攻擊。"
         ],
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 88,
+        "originalIndex": 90,
         "lb1": {
             "attack": 757,
             "defense": 648,
@@ -5829,7 +5936,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 89,
+        "originalIndex": 91,
         "lb1": {
             "attack": 787,
             "defense": 697,
@@ -5909,7 +6016,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 90,
+        "originalIndex": 92,
         "lb1": {
             "attack": 826,
             "defense": 692,
@@ -5986,7 +6093,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 91,
+        "originalIndex": 93,
         "lb1": {
             "attack": 861,
             "defense": 888,
@@ -6050,7 +6157,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 92,
+        "originalIndex": 94,
         "lb1": {
             "attack": 614,
             "defense": 738,
@@ -6110,7 +6217,7 @@ window.allHeroes =
             "* 對目標造成 225% 傷害。",
             "* 攻擊有 35% 的機率無視防禦增益。（包含反擊）",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 250% 傷害。",
+            "* 對目標與附近敵人造成 250% 傷害。",
             "* 攻擊有 60% 的機率無視防禦增益。（包含反擊）",
             "3 倍法力充能：",
             "* 對所有敵人造成 290% 傷害。",
@@ -6119,7 +6226,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 93,
+        "originalIndex": 95,
         "lb1": {
             "attack": 789,
             "defense": 588,
@@ -6178,7 +6285,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 94,
+        "originalIndex": 96,
         "lb1": {
             "attack": 660,
             "defense": 794,
@@ -6239,7 +6346,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 95,
+        "originalIndex": 97,
         "lb1": {
             "attack": 716,
             "defense": 844,
@@ -6300,7 +6407,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 96,
+        "originalIndex": 98,
         "lb1": {
             "attack": 889,
             "defense": 770,
@@ -6367,7 +6474,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 97,
+        "originalIndex": 99,
         "lb1": {
             "attack": 877,
             "defense": 823,
@@ -6440,7 +6547,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 98,
+        "originalIndex": 100,
         "lb1": {
             "attack": 909,
             "defense": 824,
@@ -6481,7 +6588,7 @@ window.allHeroes =
         "skill": "拋扔三叉戟",
         "types": [
             "攻擊單個目標",
-            "治療增益"
+            "全體治療增益"
         ],
         "skill_types": [
             "特殊治療",
@@ -6504,7 +6611,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 99,
+        "originalIndex": 101,
         "lb1": {
             "attack": 782,
             "defense": 653,
@@ -6565,7 +6672,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 100,
+        "originalIndex": 102,
         "lb1": {
             "attack": 749,
             "defense": 742,
@@ -6592,6 +6699,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "崔坦 (Triton) 卡通",
+        "fancy_name": "亞特蘭蒂斯上尉公仔",
+        "AetherPower": "回復",
+        "color": "藍",
+        "class": "遊俠",
+        "speed": "快速",
+        "skill": "三叉戟公仔",
+        "types": [
+            "攻擊單個目標",
+            "全體治療增益"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_trident",
+        "parent_specialId": "heroic_noble",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_triton_costume_cute",
+        "star": 4,
+        "power": 831,
+        "attack": 878,
+        "defense": 856,
+        "health": 1422,
+        "effects": [
+            "對目標造成 365% 傷害。",
+            "所有盟友獲得的治療增加 +45%，持續 4 回合。",
+            "對烈火系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 103,
+        "lb1": {
+            "attack": 954,
+            "defense": 930,
+            "health": 1546,
+            "power": 895
+        },
+        "lb2": {
+            "attack": 1106,
+            "defense": 1078,
+            "health": 1792,
+            "power": 1024
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "法蕾莉 (Valeria)",
         "fancy_name": "暗夜之子",
         "AetherPower": "吸血鬼",
@@ -6602,7 +6761,7 @@ window.allHeroes =
         "types": [
             "攻擊單個目標",
             "單體持續傷害",
-            "偷取治療"
+            "偷取治療 (單體)"
         ],
         "skill_types": [
             "持續傷害",
@@ -6632,7 +6791,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 101,
+        "originalIndex": 104,
         "lb1": {
             "attack": 662,
             "defense": 713,
@@ -6695,7 +6854,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 102,
+        "originalIndex": 105,
         "lb1": {
             "attack": 697,
             "defense": 812,
@@ -6736,7 +6895,7 @@ window.allHeroes =
         "skill": "魚骨刀",
         "types": [
             "攻擊2個目標",
-            "防禦下降"
+            "2個目標防禦減益"
         ],
         "skill_types": [
             "防禦減益",
@@ -6763,7 +6922,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 103,
+        "originalIndex": 106,
         "lb1": {
             "attack": 736,
             "defense": 708,
@@ -6799,7 +6958,7 @@ window.allHeroes =
         "skill": "水生舞步",
         "types": [
             "攻擊2個目標",
-            "防禦下降"
+            "2個目標防禦減益"
         ],
         "skill_types": [
             "防禦減益",
@@ -6828,7 +6987,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 104,
+        "originalIndex": 107,
         "lb1": {
             "attack": 763,
             "defense": 725,
@@ -6887,7 +7046,7 @@ window.allHeroes =
         "defense": 877,
         "health": 1695,
         "effects": [
-            "對目標及附近敵人造成 395% 傷害。",
+            "對目標與附近敵人造成 395% 傷害。",
             "對目標與附近的敵人召喚骨陷阱惡魔。惡魔每回合以 45% 的攻擊力對敵人造成傷害。每回合傷害增加 8%，最高可達 93%。",
             "骨陷阱惡魔會吸收治療效果，並於所吸收的生命值等於其擁有者最大生命值的 35% 時消失。",
             "目標與附近敵人獲得 -56% 防禦，持續 4 回合。"
@@ -6898,7 +7057,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 105,
+        "originalIndex": 108,
         "lb1": {
             "attack": 865,
             "defense": 945,
@@ -6967,7 +7126,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 106,
+        "originalIndex": 109,
         "lb1": {
             "attack": 663,
             "defense": 868,
@@ -7038,7 +7197,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 107,
+        "originalIndex": 110,
         "lb1": {
             "attack": 875,
             "defense": 1046,
@@ -7109,14 +7268,17 @@ window.allHeroes =
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 阿爾法已太。",
             "* 冰雪已太 III。",
+            "史詩：",
             "* 冰雪已太 II。",
+            "稀有：",
             "* 冰雪已太 I。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 108,
+        "originalIndex": 111,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -7191,7 +7353,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 109,
+        "originalIndex": 112,
         "lb1": {
             "attack": 850,
             "defense": 874,
@@ -7260,7 +7422,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 110,
+        "originalIndex": 113,
         "lb1": {
             "attack": 1109,
             "defense": 1210,
@@ -7323,7 +7485,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 111,
+        "originalIndex": 114,
         "lb1": {
             "attack": 796,
             "defense": 761,
@@ -7394,7 +7556,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 112,
+        "originalIndex": 115,
         "lb1": {
             "attack": 1008,
             "defense": 967,
@@ -7469,7 +7631,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 113,
+        "originalIndex": 116,
         "lb1": {
             "attack": 803,
             "defense": 805,
@@ -7534,7 +7696,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 114,
+        "originalIndex": 117,
         "lb1": {
             "attack": 799,
             "defense": 770,
@@ -7614,7 +7776,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 115,
+        "originalIndex": 118,
         "lb1": {
             "attack": 959,
             "defense": 936,
@@ -7674,16 +7836,16 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_anatemah",
         "star": 5,
-        "power": 1250,
-        "attack": 1221,
+        "power": 1260,
+        "attack": 1250,
         "defense": 1361,
         "health": 2263,
         "effects": [
-            "對 5 名隨機敵人造成 400% 傷害。",
+            "對 5 名隨機敵人造成 430% 傷害。",
             "被命中的敵人會受到星界之球影響。",
             "受到星界之球影響後，持有者無法獲得新的增益。",
-            "星界之球在 3 回合後，會對其持有者造成 450 點傷害。",
-            "若星界之球被淨化，持有者將受到持續 3 回合的共振效果。共振對受影響的敵人造成 769 點傷害，並對附近敵人造成 384 點傷害。（星界之球被新的星界之球取代時，會产生爆炸。此效果每回合最多可發生 2 次。）"
+            "星界之球在 3 回合後，會對其持有者造成 500 點傷害。",
+            "若星界之球被淨化，持有者將受到持續 3 回合的共振效果。共振對受影響的敵人造成 787 點傷害，並對附近敵人造成 393 點傷害。（星界之球被新的星界之球取代時，會产生爆炸。此效果每回合最多可發生 2 次。）"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -7692,18 +7854,18 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 116,
+        "originalIndex": 119,
         "lb1": {
-            "attack": 1316,
+            "attack": 1347,
             "defense": 1467,
             "health": 2439,
-            "power": 1337
+            "power": 1348
         },
         "lb2": {
-            "attack": 1506,
+            "attack": 1541,
             "defense": 1678,
             "health": 2791,
-            "power": 1512
+            "power": 1524
         },
         "cn_skill_info": [
             {
@@ -7737,8 +7899,8 @@ window.allHeroes =
         "types": [
             "摧毀所有小兵",
             "摧毀所有惡魔",
-            "焰暴守衛",
-            "法力生成增益"
+            "全體火風暴護體",
+            "全體法力生成增益"
         ],
         "skill_types": [
             "持續傷害",
@@ -7776,7 +7938,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 117,
+        "originalIndex": 120,
         "lb1": {
             "attack": 1234,
             "defense": 1267,
@@ -7838,37 +8000,37 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_andvari_costume_c1",
         "star": 5,
-        "power": 1287,
-        "attack": 1257,
-        "defense": 1321,
-        "health": 2519,
+        "power": 1305,
+        "attack": 1280,
+        "defense": 1345,
+        "health": 2541,
         "effects": [
             "摧毀所有敵人的全部小兵並對所有超級小兵造成傷害。",
             "摧毀所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。",
             "所有敵人抵禦新的小兵 4 回合。",
             "所有盟友對新的惡魔免疫，持續 4 回合。",
-            "所有盟友都可獲得火風暴護體，持續 4 個回合，所受到的特殊技能傷害最高減少 -1450 點。攻擊者為自然元素角色時，額外減少 30% 傷害。"
+            "所有盟友都可獲得火風暴護體，持續 4 個回合，所受到的特殊技能傷害最高減少 -1500 點。攻擊者為自然元素角色時，額外減少 30% 傷害。"
         ],
         "passives": [
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
-            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 370 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 377 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
             "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 118,
+        "originalIndex": 121,
         "lb1": {
-            "attack": 1355,
-            "defense": 1424,
-            "health": 2715,
-            "power": 1378
+            "attack": 1379,
+            "defense": 1449,
+            "health": 2739,
+            "power": 1396
         },
         "lb2": {
-            "attack": 1550,
-            "defense": 1629,
-            "health": 3106,
-            "power": 1558
+            "attack": 1578,
+            "defense": 1658,
+            "health": 3134,
+            "power": 1580
         },
         "cn_skill_info": [
             {
@@ -7931,7 +8093,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 119,
+        "originalIndex": 122,
         "lb1": {
             "attack": 885,
             "defense": 905,
@@ -7978,39 +8140,42 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
         "heroId": "elemental_anzia_costume_jailer",
         "star": 5,
-        "power": 1265,
-        "attack": 1200,
-        "defense": 1236,
-        "health": 2676,
+        "power": 1288,
+        "attack": 1224,
+        "defense": 1261,
+        "health": 2731,
         "effects": [
-            "所有盟友以所受傷害的 70% 進行反擊，且面板中每有一個冰雪護盾則增加 8%，持續 5 回合，總計最多可達 166% 傷害。",
+            "所有盟友以所受傷害的 75% 進行反擊，且面板中每有一個冰雪護盾則增加 8%，持續 5 回合，總計最多可達 171% 傷害。",
             "所有冰雪盟友每次反擊可恢復適量法力，持續 5 個回合。同一回合中，效果經連續啟動會減弱。",
-            "所有盟友受到的所有傷害降低 20%，持續 5 回合。"
+            "所有盟友受到的所有傷害降低 25%，持續 5 回合。"
         ],
         "passives": [
             "部隊精通：",
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
-            "- 造成額外元素傷害： +150%",
+            "* 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "* 受到元素傷害： -25%",
+            "抵禦烈火異常：此角色免疫烈火系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 120,
+        "originalIndex": 123,
         "lb1": {
-            "attack": 1293,
-            "defense": 1332,
-            "health": 2884,
-            "power": 1354
+            "attack": 1319,
+            "defense": 1359,
+            "health": 2943,
+            "power": 1379
         },
         "lb2": {
-            "attack": 1479,
-            "defense": 1524,
-            "health": 3300,
-            "power": 1531
+            "attack": 1510,
+            "defense": 1555,
+            "health": 3368,
+            "power": 1560
         },
         "cn_skill_info": [
             {
@@ -8066,7 +8231,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 121,
+        "originalIndex": 124,
         "lb1": {
             "attack": 939,
             "defense": 805,
@@ -8130,7 +8295,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 122,
+        "originalIndex": 125,
         "lb1": {
             "attack": 788,
             "defense": 828,
@@ -8199,7 +8364,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 123,
+        "originalIndex": 126,
         "lb1": {
             "attack": 1001,
             "defense": 1021,
@@ -8229,6 +8394,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "艾利爾 (Ariel) 卡通",
+        "fancy_name": "亞特蘭蒂斯公主公仔",
+        "AetherPower": "防禦提升",
+        "color": "藍",
+        "class": "牧師",
+        "speed": "中等",
+        "skill": "公仔保護",
+        "types": [
+            "全體治療",
+            "全體法力生成增益",
+            "全體淨化"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toontastic_protection",
+        "parent_specialId": "divine_protection",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_ariel_costume_cute",
+        "star": 5,
+        "power": 1341,
+        "attack": 1348,
+        "defense": 1459,
+        "health": 2403,
+        "effects": [
+            "為所有盟友恢復 46% 生命值。",
+            "所有盟友獲得 +40% 法力產出，持續 4 回合。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。（僅影響從配對磚格所獲的法力，或於回合結束時防禦戰隊所獲的法力。）",
+            "淨化所有盟友的狀態異常。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 127,
+        "lb1": {
+            "attack": 1452,
+            "defense": 1573,
+            "health": 2589,
+            "power": 1436
+        },
+        "lb2": {
+            "attack": 1662,
+            "defense": 1800,
+            "health": 2963,
+            "power": 1625
+        },
+        "cn_skill_info": []
     },
     {
         "name": "阿梅爾 (Armel)",
@@ -8270,7 +8488,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 124,
+        "originalIndex": 128,
         "lb1": {
             "attack": 1145,
             "defense": 1110,
@@ -8338,31 +8556,31 @@ window.allHeroes =
         "defense": 1268,
         "health": 2152,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 668 點流血傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
+            "每次敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "目標與附近敵人在 4 回合內受到共計 608 點流血傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* * * *",
+            "史詩：",
             "- 大马士革刀。",
             "- 策略书卷。",
             "- 望遠鏡。",
-            "* * *",
+            "稀有：",
             "- 精致手套。",
             "- 指南。",
             "- 保暖披風。",
             "- 戰鬥手冊。",
             "- 高筒靴。",
             "- 链甲衫。",
-            "* *",
+            "罕見：",
             "- 粗繩。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 125,
+        "originalIndex": 129,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -8411,9 +8629,9 @@ window.allHeroes =
         "skill": "未來預兆",
         "types": [
             "攻擊所有目標",
-            "強化防禦異常",
+            "全體強化防禦異常",
             "全體法力削減",
-            "延遲法力提升"
+            "全體延遲法力提升"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -8449,7 +8667,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 126,
+        "originalIndex": 130,
         "lb1": {
             "attack": 1289,
             "defense": 1201,
@@ -8523,7 +8741,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 127,
+        "originalIndex": 131,
         "lb1": {
             "attack": 794,
             "defense": 745,
@@ -8599,7 +8817,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 128,
+        "originalIndex": 132,
         "lb1": {
             "attack": 1005,
             "defense": 948,
@@ -8675,7 +8893,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 129,
+        "originalIndex": 133,
         "lb1": {
             "attack": 1141,
             "defense": 1114,
@@ -8762,7 +8980,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 130,
+        "originalIndex": 134,
         "lb1": {
             "attack": 1432,
             "defense": 1480,
@@ -8826,22 +9044,22 @@ window.allHeroes =
         "effects": [
             "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
             "1 倍法力充能：",
-            "* 對目標及附近敵人造成 250% 傷害。",
+            "* 對目標與附近敵人造成 250% 傷害。",
             "* 目標與附近敵人獲得 -35% 精準度，持續 2 回合。（進攻型特殊技能也有機率無法擊中。）",
             "* 若特殊技能在 2 回合內未擊中，則目標和附近敵人對隨機盟友造成 320 傷害。",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 325% 傷害。",
+            "* 對目標與附近敵人造成 325% 傷害。",
             "* 目標與附近敵人獲得 -40% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
             "* 若特殊技能在 3 回合內未擊中，則目標和附近敵人對隨機盟友造成 390 傷害。",
             "3 倍法力充能：",
-            "* 對目標及附近敵人造成 400% 傷害。",
+            "* 對目標與附近敵人造成 400% 傷害。",
             "* 目標與附近敵人獲得 -54% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
             "* 若特殊技能在 4 回合內未擊中，則目標和附近敵人對隨機盟友造成 470 傷害。"
         ],
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 131,
+        "originalIndex": 135,
         "lb1": {
             "attack": 1012,
             "defense": 834,
@@ -8915,7 +9133,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 132,
+        "originalIndex": 136,
         "lb1": {
             "attack": 836,
             "defense": 828,
@@ -8993,7 +9211,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 133,
+        "originalIndex": 137,
         "lb1": {
             "attack": 1378,
             "defense": 1369,
@@ -9064,7 +9282,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 134,
+        "originalIndex": 138,
         "lb1": {
             "attack": 854,
             "defense": 925,
@@ -9134,7 +9352,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 135,
+        "originalIndex": 139,
         "lb1": {
             "attack": 1239,
             "defense": 1342,
@@ -9167,7 +9385,7 @@ window.allHeroes =
         "types": [
             "全體治療",
             "治療成長恩賜",
-            "全體淨化",
+            "淨化全體",
             "全體深度睡眠"
         ],
         "skill_types": [
@@ -9185,13 +9403,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_bhairavi_devi",
         "star": 5,
-        "power": 1289,
-        "attack": 1328,
-        "defense": 1351,
-        "health": 2296,
+        "power": 1304,
+        "attack": 1343,
+        "defense": 1365,
+        "health": 2340,
         "effects": [
-            "為所有盟友恢復 44% 生命值。",
-            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（額外生命值是在施加治療時依照施法者的調整防禦力計算。最多 800 額外治療影響獲得治療的狀態效果會影響治療比率。）",
+            "為所有盟友恢復 49% 生命值。",
+            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（額外生命值是在施加治療時依照施法者的調整防禦力計算。最多 600 額外治療，影響獲得治療的狀態效果會影響治療比率。）",
             "淨化所有盟友的狀態異常。",
             "所有敵人陷入深沉睡眠，睡著時受到的傷害增加 +80%。（陷入深沉睡眠的角色無法獲得法力或进行攻擊。陷入深沉睡眠的角色承受 750 站傷害後將醒来。此效果無法淨化。）"
         ],
@@ -9203,18 +9421,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 136,
+        "originalIndex": 140,
         "lb1": {
-            "attack": 1431,
-            "defense": 1456,
-            "health": 2475,
-            "power": 1380
+            "attack": 1447,
+            "defense": 1471,
+            "health": 2521,
+            "power": 1396
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1666,
-            "health": 2832,
-            "power": 1561
+            "attack": 1656,
+            "defense": 1684,
+            "health": 2885,
+            "power": 1580
         },
         "cn_skill_info": [
             {
@@ -9277,7 +9495,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 137,
+        "originalIndex": 141,
         "lb1": {
             "attack": 1216,
             "defense": 1436,
@@ -9345,7 +9563,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 138,
+        "originalIndex": 142,
         "lb1": {
             "attack": 810,
             "defense": 863,
@@ -9399,10 +9617,10 @@ window.allHeroes =
         ],
         "heroId": "slime_boboosang",
         "star": 5,
-        "power": 1263,
-        "attack": 1299,
-        "defense": 1312,
-        "health": 2261,
+        "power": 1278,
+        "attack": 1314,
+        "defense": 1326,
+        "health": 2305,
         "effects": [
             "對所有敵人造成 500% 傷害。",
             "施法者在 5 個回合內竊取所有敵人產出的法力，一開始僅竊取少量法力，但竊取量會隨每個回合逐漸增加，最後一回合會竊取產出的所有法力。此效果不可淨化，但在施法者被擊敗後會被移除。",
@@ -9415,18 +9633,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 139,
+        "originalIndex": 143,
         "lb1": {
-            "attack": 1400,
-            "defense": 1414,
-            "health": 2437,
-            "power": 1352
+            "attack": 1416,
+            "defense": 1429,
+            "health": 2484,
+            "power": 1368
         },
         "lb2": {
-            "attack": 1602,
-            "defense": 1617,
-            "health": 2788,
-            "power": 1528
+            "attack": 1620,
+            "defense": 1635,
+            "health": 2842,
+            "power": 1547
         },
         "cn_skill_info": [
             {
@@ -9488,7 +9706,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 140,
+        "originalIndex": 144,
         "lb1": {
             "attack": 936,
             "defense": 894,
@@ -9552,7 +9770,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 141,
+        "originalIndex": 145,
         "lb1": {
             "attack": 1320,
             "defense": 1254,
@@ -9629,7 +9847,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 142,
+        "originalIndex": 146,
         "lb1": {
             "attack": 1263,
             "defense": 1198,
@@ -9707,7 +9925,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 143,
+        "originalIndex": 147,
         "lb1": {
             "attack": 905,
             "defense": 925,
@@ -9777,10 +9995,10 @@ window.allHeroes =
         ],
         "heroId": "magic_camilla_costume_flower",
         "star": 5,
-        "power": 1246,
-        "attack": 1259,
-        "defense": 1303,
-        "health": 2255,
+        "power": 1261,
+        "attack": 1276,
+        "defense": 1320,
+        "health": 2285,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -9798,18 +10016,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 144,
+        "originalIndex": 148,
         "lb1": {
-            "attack": 1357,
-            "defense": 1404,
-            "health": 2430,
-            "power": 1333
+            "attack": 1375,
+            "defense": 1423,
+            "health": 2462,
+            "power": 1349
         },
         "lb2": {
-            "attack": 1553,
-            "defense": 1607,
-            "health": 2780,
-            "power": 1507
+            "attack": 1573,
+            "defense": 1628,
+            "health": 2817,
+            "power": 1525
         },
         "cn_skill_info": [
             {
@@ -9870,7 +10088,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 145,
+        "originalIndex": 149,
         "lb1": {
             "attack": 861,
             "defense": 876,
@@ -9950,7 +10168,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 146,
+        "originalIndex": 150,
         "lb1": {
             "attack": 1150,
             "defense": 1207,
@@ -9991,8 +10209,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "不諧咒語",
         "types": [
-            "攻擊單個目標",
             "施加恐懼減益 (單體)",
+            "攻擊單個目標",
             "隨機攻擊5個目標",
             "命中時瘋狂",
             "命中時封印天賦技能",
@@ -10016,14 +10234,13 @@ window.allHeroes =
         ],
         "heroId": "forsaken_cassilda",
         "star": 5,
-        "power": 1283,
-        "attack": 1326,
-        "defense": 1336,
-        "health": 2288,
+        "power": 1308,
+        "attack": 1351,
+        "defense": 1359,
+        "health": 2356,
         "effects": [
-            "對目標造成 325% 傷害。",
-            "目標屈服於恐懼，持續 4 回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 160% 傷害。每個角色 每回合只能觸發一次此效果。）",
-            "對 5 名隨機敵人造成 275% 傷害。（若沒有其他可用目標，則此效果會選擇與第一次打擊相同的敵人）",
+            "目標屈服於恐懼，持續 4 回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 250% 傷害。每個角色 每回合只能觸發一次此效果。）",
+            "對目標和 5 名隨機敵人造成 285% 傷害。（若沒有其他可用目標，則此效果會選擇與第一次打擊相同的敵人）",
             "所有被擊中的目標在每次被擊中時獲得 10 點狂亂。",
             "所有被擊中的目標都無法啟動自己的天賦技能，持續 4 回合。",
             "對施法者造成 45 點瘋狂。"
@@ -10041,18 +10258,18 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 147,
+        "originalIndex": 151,
         "lb1": {
-            "attack": 1429,
-            "defense": 1440,
-            "health": 2466,
-            "power": 1373
+            "attack": 1456,
+            "defense": 1465,
+            "health": 2539,
+            "power": 1400
         },
         "lb2": {
-            "attack": 1635,
-            "defense": 1648,
-            "health": 2821,
-            "power": 1553
+            "attack": 1666,
+            "defense": 1676,
+            "health": 2905,
+            "power": 1584
         },
         "cn_skill_info": [
             {
@@ -10126,7 +10343,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 148,
+        "originalIndex": 152,
         "lb1": {
             "attack": 805,
             "defense": 865,
@@ -10198,7 +10415,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 149,
+        "originalIndex": 153,
         "lb1": {
             "attack": 943,
             "defense": 976,
@@ -10255,7 +10472,7 @@ window.allHeroes =
         "defense": 859,
         "health": 1606,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "目標與附近敵人在 3 回合內無法用特殊技能淨化自己的狀態異常。",
             "目標與附近敵人獲得 -44% 防禦，持續 3 回合。"
         ],
@@ -10264,7 +10481,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 150,
+        "originalIndex": 154,
         "lb1": {
             "attack": 961,
             "defense": 925,
@@ -10301,7 +10518,7 @@ window.allHeroes =
         "skill": "潮汐漩渦",
         "types": [
             "攻擊所有目標",
-            "釋放特技時施加減益",
+            "使用特技時對全體施加減益",
             "全體持續傷害"
         ],
         "skill_types": [
@@ -10342,7 +10559,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 151,
+        "originalIndex": 155,
         "lb1": {
             "attack": 1072,
             "defense": 905,
@@ -10388,6 +10605,7 @@ window.allHeroes =
         "skill": "海洋漩渦",
         "types": [
             "攻擊所有目標",
+            "使用特技時對全體施加減益",
             "全體持續傷害"
         ],
         "skill_types": [
@@ -10433,7 +10651,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 152,
+        "originalIndex": 156,
         "lb1": {
             "attack": 1381,
             "defense": 1150,
@@ -10510,7 +10728,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 153,
+        "originalIndex": 157,
         "lb1": {
             "attack": 1050,
             "defense": 1067,
@@ -10572,8 +10790,8 @@ window.allHeroes =
         "defense": 1266,
         "health": 1775,
         "effects": [
-            "對目標及附近敵人造成 440% 傷害。",
-            "目標與附近敵人在 5 回合內受到共計 730 點詛咒傷害，起始傷害較低，每個回合逐漸增加。",
+            "對目標與附近敵人造成 440% 傷害。",
+            "目標與附近敵人每回合受到 60 -269 點詛咒傷害，持續 5 回合。（第一回合造成 60 點傷害。傷害每回合增加 +45%，最高可達每回合 269 點傷害。）",
             "目標與附近敵人陷入沉默，持續 5 回合。"
         ],
         "passives": [
@@ -10581,7 +10799,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 154,
+        "originalIndex": 158,
         "lb1": {
             "attack": 999,
             "defense": 1365,
@@ -10657,7 +10875,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 155,
+        "originalIndex": 159,
         "lb1": {
             "attack": 1407,
             "defense": 1276,
@@ -10725,13 +10943,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_chitrangada",
         "star": 5,
-        "power": 1252,
-        "attack": 1250,
-        "defense": 1332,
-        "health": 2263,
+        "power": 1267,
+        "attack": 1264,
+        "defense": 1347,
+        "health": 2307,
         "effects": [
-            "為所有盟友恢復 20% 生命值。",
-            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 800 點。影響獲得治療的狀態效果會影響治療比率）",
+            "為所有盟友恢復 25% 生命值。",
+            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 600 點。影響獲得治療的狀態效果會影響治療比率）",
             "每名被擊敗的盟友有 35% 的機率以 35% 的生命值復活。",
             "淨化所有盟友的 1 個狀態異常。（狀態異常會依照獲得的顺序遭到淨化。最新的状態異常會先被淨化。）"
         ],
@@ -10743,18 +10961,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 156,
+        "originalIndex": 160,
         "lb1": {
-            "attack": 1347,
-            "defense": 1436,
-            "health": 2439,
-            "power": 1339
+            "attack": 1363,
+            "defense": 1451,
+            "health": 2486,
+            "power": 1356
         },
         "lb2": {
-            "attack": 1541,
-            "defense": 1643,
-            "health": 2791,
-            "power": 1515
+            "attack": 1559,
+            "defense": 1661,
+            "health": 2844,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -10813,7 +11031,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 157,
+        "originalIndex": 161,
         "lb1": {
             "attack": 1345,
             "defense": 1272,
@@ -10886,7 +11104,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 158,
+        "originalIndex": 162,
         "lb1": {
             "attack": 905,
             "defense": 916,
@@ -10945,7 +11163,7 @@ window.allHeroes =
         "defense": 1081,
         "health": 1940,
         "effects": [
-            "為所有盟友恢復 20% 生命值。可為盟友每一個狀態異常額外恢復 5% 生命，總計最多可恢復 35% 生命。",
+            "為所有盟友恢復 20% 生命值。可為盟友每一個狀態異常額外恢復 5% 生命，總計最多可恢復 40% 生命。",
             "淨化所有盟友的 3 個狀態異常。（狀態異常會依照獲得的顺序遭到淨化。最新的状態異常會先被淨化。）",
             "元素鏈給予所有冰雪盟友抵禦特殊技能的 +30% 防禦，持續 4 回合。此效果無法驅散。"
         ],
@@ -10955,7 +11173,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 159,
+        "originalIndex": 163,
         "lb1": {
             "attack": 1149,
             "defense": 1165,
@@ -11016,7 +11234,7 @@ window.allHeroes =
             "* 對目標造成 320% 傷害。",
             "* 攻擊有 60% 的機率無視防禦增益。（包含反擊）",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 355% 傷害。",
+            "* 對目標與附近敵人造成 355% 傷害。",
             "* 攻擊有 85% 的機率無視防禦增益。（包含反擊）",
             "3 倍法力充能：",
             "* 對所有敵人造成 390% 傷害。",
@@ -11025,7 +11243,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 160,
+        "originalIndex": 164,
         "lb1": {
             "attack": 863,
             "defense": 739,
@@ -11050,6 +11268,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "鈷藍 (Cobalt) C1",
+        "fancy_name": "怒海忍者",
+        "AetherPower": "攻擊提升",
+        "color": "藍",
+        "class": "騎士",
+        "speed": "衝鋒",
+        "skill": "武士刀風暴",
+        "types": [
+            "蓄力",
+            "攻擊 (1/3/所有) 目標",
+            "無視防禦機率",
+            "繞過/穿透時自身法力提升"
+        ],
+        "skill_types": [],
+        "source": "高塔 - 忍者",
+        "Release date": "2026-05-03",
+        "specialId": "katana_tempest",
+        "parent_specialId": "katana_rain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "heroId": "ninja_cobalt_costume_tempest",
+        "star": 5,
+        "power": 1324,
+        "attack": 1426,
+        "defense": 1221,
+        "health": 2559,
+        "effects": [
+            "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
+            "x 1 法力充能：",
+            "對目標造成 420% 傷害。",
+            "攻擊有 65% 的機率無視防禦增益。（包含反擊）",
+            "若無視任何防禦性增益，施法者將會獲得 15% 法力。",
+            "x 2 法力充能：",
+            "對目標與附近敵人造成 430% 傷害。",
+            "攻擊有 85% 的機率無視防禦增益。（包含反擊）",
+            "若無視任何防禦性增益，施法者將會獲得 25% 法力。",
+            "x 3 法力充能：",
+            "對所有敵人造成 440% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "施放特殊技能後，施法者的法力增加 50%。"
+        ],
+        "passives": [
+            "撕裂之觸：每當此角色反擊敵人時，攻擊者在 4 回合內受到 596 點流血傷害。"
+        ],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": 165,
+        "lb1": {
+            "attack": 1537,
+            "defense": 1315,
+            "health": 2758,
+            "power": 1417
+        },
+        "lb2": {
+            "attack": 1758,
+            "defense": 1505,
+            "health": 3155,
+            "power": 1603
+        },
+        "cn_skill_info": []
     },
     {
         "name": "宇宙音響 (Cosmicspeaker)",
@@ -11096,7 +11378,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 161,
+        "originalIndex": 166,
         "lb1": {
             "attack": 1260,
             "defense": 1218,
@@ -11167,7 +11449,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 162,
+        "originalIndex": 167,
         "lb1": {
             "attack": 839,
             "defense": 814,
@@ -11245,7 +11527,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 163,
+        "originalIndex": 168,
         "lb1": {
             "attack": 1076,
             "defense": 1054,
@@ -11301,18 +11583,18 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_dominique",
         "star": 5,
-        "power": 1263,
-        "attack": 1330,
-        "defense": 1271,
-        "health": 2263,
+        "power": 1283,
+        "attack": 1349,
+        "defense": 1289,
+        "health": 2321,
         "effects": [
-            "若施法者擁有 35 以上的謙遜：",
-            "對目標及附近敵人造成 460% 傷害。",
+            "若施法者擁有 40 以上的謙遜：",
+            "對目標與附近敵人造成 460% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 1260 點流血傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 150% 的傷害，持續 4 回合。",
             "否則：",
-            "對目標及附近敵人造成 405% 傷害。",
-            "目標與附近敵人在 4 回合內受到共計 960 點流血傷害。"
+            "對目標與附近敵人造成 415% 傷害。",
+            "目標與附近敵人在 4 回合內受到共計 1060 點流血傷害。"
         ],
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
@@ -11321,18 +11603,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 164,
+        "originalIndex": 169,
         "lb1": {
-            "attack": 1434,
-            "defense": 1369,
-            "health": 2439,
-            "power": 1351
+            "attack": 1454,
+            "defense": 1389,
+            "health": 2501,
+            "power": 1372
         },
         "lb2": {
-            "attack": 1640,
-            "defense": 1567,
-            "health": 2791,
-            "power": 1528
+            "attack": 1663,
+            "defense": 1590,
+            "health": 2862,
+            "power": 1552
         },
         "cn_skill_info": [
             {
@@ -11386,7 +11668,7 @@ window.allHeroes =
         "defense": 1186,
         "health": 2084,
         "effects": [
-            "對目標及附近敵人造成 370% 傷害。",
+            "對目標與附近敵人造成 370% 傷害。",
             "目標與附近的敵人會受到腐蝕冰霜，持續 4 回合。腐蝕冰霜會造成 286 冰霜傷害，而且每個回合降低目標的攻擊 -11%。對擁有小兵或超級小兵的英雄造成額外傷害。",
             "施法者和附近盟友獲得 +54% 攻擊力，持續 4 回合。",
             "元素鏈給予所有冰雪盟友 +20% 暴擊率，持續 4 個回合。此效果無法驅散。"
@@ -11397,7 +11679,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 165,
+        "originalIndex": 170,
         "lb1": {
             "attack": 1316,
             "defense": 1278,
@@ -11467,21 +11749,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "目標在 3 回合內受到共計 387 點劇毒傷害。此效果會蔓延至附近敵人。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 大師術士紋章。",
             "* 大師巫師紋章。",
+            "史詩：",
             "* 術士紋章。",
             "* 巫師紋章。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 166,
+        "originalIndex": 171,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -11552,15 +11836,15 @@ window.allHeroes =
         ],
         "heroId": "institute_emilie",
         "star": 5,
-        "power": 1247,
-        "attack": 1250,
-        "defense": 1316,
-        "health": 2261,
+        "power": 1272,
+        "attack": 1277,
+        "defense": 1336,
+        "health": 2329,
         "effects": [
             "對目標施放完整移除。（完整移除移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是無法驅散或淨化的狀態效果，也會移除。）",
             "目標轉變為深淵幽靈型態，持續 5 個回合。",
-            "在變為深淵幽靈型態時，目標每回合會受到 226 點傷害。",
-            "深淵幽靈型態失效後：對所有盟友造成 1200 傷害，並对其造成 15 點疯狂。",
+            "在變為深淵幽靈型態時，目標每回合會受到 261 點傷害。",
+            "深淵幽靈型態失效後：對所有盟友造成 1300 傷害，並对其造成 15 點疯狂。",
             "對施法者造成 45 點瘋狂。"
         ],
         "passives": [
@@ -11576,18 +11860,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 167,
+        "originalIndex": 172,
         "lb1": {
-            "attack": 1347,
-            "defense": 1418,
-            "health": 2437,
-            "power": 1334
+            "attack": 1376,
+            "defense": 1440,
+            "health": 2510,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1541,
-            "defense": 1623,
-            "health": 2788,
-            "power": 1509
+            "attack": 1574,
+            "defense": 1648,
+            "health": 2872,
+            "power": 1539
         },
         "cn_skill_info": [
             {
@@ -11647,7 +11931,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 168,
+        "originalIndex": 173,
         "lb1": {
             "attack": 821,
             "defense": 841,
@@ -11687,7 +11971,7 @@ window.allHeroes =
         "speed": "中等",
         "skill": "浸滲苦難",
         "types": [
-            "全體持續傷害"
+            "除冰屬性外全體持續傷害"
         ],
         "skill_types": [
             "持續傷害",
@@ -11714,7 +11998,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 169,
+        "originalIndex": 174,
         "lb1": {
             "attack": 852,
             "defense": 836,
@@ -11755,7 +12039,7 @@ window.allHeroes =
         "speed": "中等",
         "skill": "海洋苦難",
         "types": [
-            "全體持續傷害"
+            "除冰屬性外全體持續傷害"
         ],
         "skill_types": [
             "持續傷害",
@@ -11788,7 +12072,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 170,
+        "originalIndex": 175,
         "lb1": {
             "attack": 1131,
             "defense": 1070,
@@ -11858,21 +12142,24 @@ window.allHeroes =
         "effects": [
             "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 530% 傷害。",
-            "若該攻擊將敵人擊敗，那麼施法者將恢復 +50% 生命並獲得 33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* 普通冰雪訓練師英雄。",
-            "* 罕見冰雪訓練師英雄。",
-            "* 稀有冰雪訓練師英雄。",
-            "* 普通冰雪英雄。",
-            "* 罕見冰雪英雄。"
+            "稀有：",
+            "* 訓練師英雄。",
+            "罕見：",
+            "* 訓練師英雄。",
+            "* 罕見冰雪英雄。",
+            "普通：",
+            "* 訓練師英雄。",
+            "* 普通冰雪英雄。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 171,
+        "originalIndex": 176,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -11916,7 +12203,7 @@ window.allHeroes =
         "skill": "龐大撕咬",
         "types": [
             "攻擊單個目標",
-            "擊殺時獲得法力",
+            "擊殺時自身法力提升",
             "自我治療"
         ],
         "skill_types": [
@@ -11944,7 +12231,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 172,
+        "originalIndex": 177,
         "lb1": {
             "attack": 841,
             "defense": 794,
@@ -11983,7 +12270,7 @@ window.allHeroes =
         "types": [
             "攻擊單個目標",
             "自我治療",
-            "自身法力提升"
+            "擊殺時自身法力提升"
         ],
         "skill_types": [
             "特殊治療",
@@ -12012,7 +12299,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 173,
+        "originalIndex": 178,
         "lb1": {
             "attack": 1094,
             "defense": 1000,
@@ -12039,6 +12326,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "芬里爾 (Fenrir) 卡通",
+        "fancy_name": "尼爾夫海姆首領公仔",
+        "AetherPower": "憤怒",
+        "color": "藍",
+        "class": "戰士",
+        "speed": "快速",
+        "skill": "公仔狂咬",
+        "types": [
+            "攻擊單個目標",
+            "擊殺時自身法力提升",
+            "自我治療"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toontastic_bite",
+        "parent_specialId": "gargantuan_bite",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_fenrir_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1440,
+        "defense": 1353,
+        "health": 2391,
+        "effects": [
+            "對目標造成 375% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 750% 傷害。",
+            "若攻擊擊败目標，施法者會獲得 + 50% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "為施法者治療 50% 的傷害。",
+            "對烈火系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "niflheim",
+        "costume_id": 2,
+        "originalIndex": 179,
+        "lb1": {
+            "attack": 1552,
+            "defense": 1458,
+            "health": 2577,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1775,
+            "defense": 1668,
+            "health": 2949,
+            "power": 1626
+        },
+        "cn_skill_info": []
     },
     {
         "name": "弗格斯 (Fergus)",
@@ -12086,7 +12428,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 174,
+        "originalIndex": 180,
         "lb1": {
             "attack": 1145,
             "defense": 1269,
@@ -12155,7 +12497,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 175,
+        "originalIndex": 181,
         "lb1": {
             "attack": 812,
             "defense": 803,
@@ -12221,11 +12563,11 @@ window.allHeroes =
             "所有命中目標獲得 -56% 防禦，持續 3 回合。"
         ],
         "passives": [
-            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 528 劇毒傷害。"
+            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 560 劇毒傷害。"
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 176,
+        "originalIndex": 182,
         "lb1": {
             "attack": 1079,
             "defense": 979,
@@ -12295,7 +12637,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 177,
+        "originalIndex": 183,
         "lb1": {
             "attack": 1010,
             "defense": 956,
@@ -12365,7 +12707,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 178,
+        "originalIndex": 184,
         "lb1": {
             "attack": 1076,
             "defense": 1003,
@@ -12438,7 +12780,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 179,
+        "originalIndex": 185,
         "lb1": {
             "attack": 883,
             "defense": 923,
@@ -12506,7 +12848,7 @@ window.allHeroes =
         "defense": 723,
         "health": 1330,
         "effects": [
-            "對目標及附近敵人造成 350% 傷害。",
+            "對目標與附近敵人造成 350% 傷害。",
             "目標與附近敵人獲得對冰雪系 -54% 的防禦，持續 4 回合。",
             "驅散目標和附近敵人的增益。",
             "元素鏈給予所有冰雪系盟友抵禦自然系的 +46% 防禦，持續 4 回合。此效果無法淨化。"
@@ -12516,7 +12858,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 180,
+        "originalIndex": 186,
         "lb1": {
             "attack": 790,
             "defense": 779,
@@ -12579,7 +12921,7 @@ window.allHeroes =
         "defense": 731,
         "health": 1347,
         "effects": [
-            "為每個盟友召喚一個冰霜妖精小兵，其可從施法者繼承 18% 生命與 20% 攻擊。",
+            "為每個盟友召喚一個冰霜妖精小兵，其可從施法者繼承 20% 生命與 20% 攻擊。",
             "所有盟友的小兵獲得 +40% 生命值和 +40% 攻擊。這個特殊技能使生命值和攻擊增加到高達小兵最初生命值和攻擊的 +200%。",
             "元素鏈會在回合結束時賦予所有 冰系盟友少量法力，持續 4 個回合。此效果無法驅散。"
         ],
@@ -12589,7 +12931,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 181,
+        "originalIndex": 187,
         "lb1": {
             "attack": 836,
             "defense": 788,
@@ -12643,7 +12985,7 @@ window.allHeroes =
         "defense": 1161,
         "health": 2134,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
             "將施法者與附近盟友現有狀態異常的持續時間減少 2 個回合。（修改持續時間會影響可淨化與無法淨化效果。若任意效果的持續時間減少至零，則將效果視為正常失效。）",
             "施法者與附近盟友獲得 +40% 暴擊率，持續 3 回合。"
         ],
@@ -12653,7 +12995,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 182,
+        "originalIndex": 188,
         "lb1": {
             "attack": 1256,
             "defense": 1252,
@@ -12725,7 +13067,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 183,
+        "originalIndex": 189,
         "lb1": {
             "attack": 923,
             "defense": 796,
@@ -12784,10 +13126,10 @@ window.allHeroes =
         "defense": 951,
         "health": 1715,
         "effects": [
-            "對目標及附近敵人造成 385% 傷害。",
+            "對目標與附近敵人造成 385% 傷害。",
             "對目標和附近的敵人召喚墮落星惡魔。",
             "墮落星惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 45% 時消失。",
-            "施法者竊偷目標及附近敵人所產出法力的 45%，效果持續至目標失去墮落星惡魔為止。此效果無法淨化，但會在施法者被擊敗後移除。"
+            "施法者竊偷目標與附近敵人所產出法力的 45%，效果持續至目標失去墮落星惡魔為止。此效果無法淨化，但會在施法者被擊敗後移除。"
         ],
         "passives": [
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
@@ -12798,7 +13140,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 184,
+        "originalIndex": 190,
         "lb1": {
             "attack": 1074,
             "defense": 1025,
@@ -12856,15 +13198,15 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_gitnib",
         "star": 5,
-        "power": 1273,
-        "attack": 1380,
-        "defense": 1236,
-        "health": 2280,
+        "power": 1288,
+        "attack": 1384,
+        "defense": 1262,
+        "health": 2325,
         "effects": [
             "所有敵人在 6 個回合内受到 1500 點重傷流血傷害。（如果目標已擁有此效果，持續時間會被刷新，並增加 300 點傷害。最大總傷害: 3000。）",
-            "對所有敵人召喚食人魚惡魔。惡魔每一回合以 80% 的攻擊對敵人造成傷害。",
-            "食人魚惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 55% 時消失。",
-            "此效果啟用時，将根據施法者所受到的傷害，在 3 個回合後，或施法者被擊敗時對所有敵人造成 400 - 800 點傷害。（在受到最大生命值 50% 的傷害時，效果將最大化。）"
+            "對所有敵人召喚食人魚惡魔。惡魔每一回合以 90% 的攻擊對敵人造成傷害。",
+            "食人魚惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 60% 時消失。",
+            "3 回合後或施法者被擊敗時，根據該效果生效期間施法者受到的傷害，對所有敵人造成 500 - 900 點傷害。此效果無法被驅散。（受到最大生命值 50% 傷害時效果達到最大。）"
         ],
         "passives": [
             "九條命：",
@@ -12879,18 +13221,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 185,
+        "originalIndex": 191,
         "lb1": {
-            "attack": 1487,
-            "defense": 1332,
-            "health": 2457,
-            "power": 1362
+            "attack": 1491,
+            "defense": 1360,
+            "health": 2506,
+            "power": 1378
         },
         "lb2": {
-            "attack": 1701,
-            "defense": 1524,
-            "health": 2811,
-            "power": 1540
+            "attack": 1706,
+            "defense": 1557,
+            "health": 2867,
+            "power": 1559
         },
         "cn_skill_info": [
             {
@@ -12940,14 +13282,14 @@ window.allHeroes =
         ],
         "heroId": "construct_glacivolt",
         "star": 5,
-        "power": 1242,
-        "attack": 1273,
-        "defense": 1277,
-        "health": 2245,
+        "power": 1262,
+        "attack": 1291,
+        "defense": 1295,
+        "health": 2305,
         "effects": [
-            "對所有敵人造成 270% 傷害。",
-            "所有敵人獲得 -25% 防禦，面板中每個冰雪護盾將會額外減少 -5%，持續 3 個回合，最多 -50% 防禦。",
-            "所有敵人在 3 回合內受到共計 456 點冰霜傷害。"
+            "對所有敵人造成 280% 傷害。",
+            "所有敵人獲得 -30% 防禦，面板中每個冰雪護盾將會額外減少 -5%，持續 3 個回合，最多 -55% 防禦。",
+            "所有敵人在 3 回合內受到共計 579 點冰霜傷害。"
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
@@ -12960,18 +13302,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 186,
+        "originalIndex": 192,
         "lb1": {
-            "attack": 1371,
-            "defense": 1376,
-            "health": 2419,
-            "power": 1328
+            "attack": 1391,
+            "defense": 1396,
+            "health": 2484,
+            "power": 1350
         },
         "lb2": {
-            "attack": 1569,
-            "defense": 1574,
-            "health": 2768,
-            "power": 1502
+            "attack": 1592,
+            "defense": 1597,
+            "health": 2842,
+            "power": 1527
         },
         "cn_skill_info": [
             {
@@ -13031,7 +13373,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 187,
+        "originalIndex": 193,
         "lb1": {
             "attack": 1047,
             "defense": 990,
@@ -13094,7 +13436,7 @@ window.allHeroes =
         "defense": 723,
         "health": 1361,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "施法者和附近盟友的特殊技能造成額外 +40% 傷害，持續 4 回合。",
             "淨化所有盟友的狀態異常。",
             "元素鏈會為所有冰雪盟友召喚一個冰雪小兵，其可從施法者繼承 6% 生命與 10% 攻擊。"
@@ -13104,7 +13446,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 188,
+        "originalIndex": 194,
         "lb1": {
             "attack": 808,
             "defense": 779,
@@ -13182,7 +13524,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 189,
+        "originalIndex": 195,
         "lb1": {
             "attack": 1332,
             "defense": 1398,
@@ -13262,7 +13604,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 190,
+        "originalIndex": 196,
         "lb1": {
             "attack": 1136,
             "defense": 1196,
@@ -13323,7 +13665,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 191,
+        "originalIndex": 197,
         "lb1": {
             "attack": 892,
             "defense": 843,
@@ -13379,10 +13721,10 @@ window.allHeroes =
         ],
         "heroId": "construct_halwinter",
         "star": 5,
-        "power": 1253,
-        "attack": 1301,
-        "defense": 1271,
-        "health": 2263,
+        "power": 1273,
+        "attack": 1320,
+        "defense": 1291,
+        "health": 2319,
         "effects": [
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
             "施法者以所受傷害的 120% 對一名隨機敵人進行反擊，持續 4 回合。",
@@ -13401,18 +13743,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 192,
+        "originalIndex": 198,
         "lb1": {
-            "attack": 1403,
-            "defense": 1369,
-            "health": 2439,
-            "power": 1340
+            "attack": 1423,
+            "defense": 1391,
+            "health": 2499,
+            "power": 1362
         },
         "lb2": {
-            "attack": 1605,
-            "defense": 1567,
-            "health": 2791,
-            "power": 1516
+            "attack": 1628,
+            "defense": 1592,
+            "health": 2860,
+            "power": 1540
         },
         "cn_skill_info": [
             {
@@ -13467,7 +13809,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 193,
+        "originalIndex": 199,
         "lb1": {
             "attack": 828,
             "defense": 952,
@@ -13548,7 +13890,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 194,
+        "originalIndex": 200,
         "lb1": {
             "attack": 1197,
             "defense": 1387,
@@ -13619,7 +13961,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 195,
+        "originalIndex": 201,
         "lb1": {
             "attack": 932,
             "defense": 868,
@@ -13689,18 +14031,18 @@ window.allHeroes =
         "health": 2313,
         "effects": [
             "使用霜落打擊攻擊目標與附近敵人，造成最高 2300 點傷害。如果目標為烈火元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
-            "使目標與附近敵人的最大生命值降低 800 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 600 點。）",
+            "使目標與附近敵人的最大生命值降低 800 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 800 點。）",
             "目標與附近敵人獲得的治療減少 -70%，持續 4 回合。"
         ],
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 315 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 315 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 196,
+        "originalIndex": 202,
         "lb1": {
             "attack": 1260,
             "defense": 1294,
@@ -13784,7 +14126,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 197,
+        "originalIndex": 203,
         "lb1": {
             "attack": 1391,
             "defense": 1174,
@@ -13851,7 +14193,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 198,
+        "originalIndex": 204,
         "lb1": {
             "attack": 1272,
             "defense": 1336,
@@ -13908,10 +14250,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_indigon",
         "star": 5,
-        "power": 1278,
-        "attack": 1349,
-        "defense": 1289,
-        "health": 2288,
+        "power": 1283,
+        "attack": 1353,
+        "defense": 1293,
+        "health": 2303,
         "effects": [
             "對所有敵人造成 300% 傷害。",
             "敵人每持有一名惡魔或超級惡魔，都將造成 5% 額外傷害，最多累積造成 350% 傷害。",
@@ -13930,18 +14272,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 199,
+        "originalIndex": 205,
         "lb1": {
-            "attack": 1454,
-            "defense": 1389,
-            "health": 2466,
-            "power": 1368
+            "attack": 1458,
+            "defense": 1394,
+            "health": 2481,
+            "power": 1372
         },
         "lb2": {
-            "attack": 1663,
-            "defense": 1590,
-            "health": 2821,
-            "power": 1547
+            "attack": 1668,
+            "defense": 1595,
+            "health": 2839,
+            "power": 1552
         },
         "cn_skill_info": [
             {
@@ -14009,7 +14351,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 200,
+        "originalIndex": 206,
         "lb1": {
             "attack": 850,
             "defense": 810,
@@ -14073,7 +14415,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 201,
+        "originalIndex": 207,
         "lb1": {
             "attack": 859,
             "defense": 705,
@@ -14134,7 +14476,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 202,
+        "originalIndex": 208,
         "lb1": {
             "attack": 1008,
             "defense": 765,
@@ -14197,7 +14539,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 203,
+        "originalIndex": 209,
         "lb1": {
             "attack": 1131,
             "defense": 887,
@@ -14269,7 +14611,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 204,
+        "originalIndex": 210,
         "lb1": {
             "attack": 1293,
             "defense": 1135,
@@ -14342,7 +14684,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 205,
+        "originalIndex": 211,
         "lb1": {
             "attack": 1577,
             "defense": 1173,
@@ -14417,12 +14759,12 @@ window.allHeroes =
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 206,
+        "originalIndex": 212,
         "lb1": {
             "attack": 1260,
             "defense": 1360,
@@ -14497,7 +14839,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 207,
+        "originalIndex": 213,
         "lb1": {
             "attack": 1154,
             "defense": 1054,
@@ -14571,11 +14913,11 @@ window.allHeroes =
         "passives": [
             "小兵致盲：所有敵方小兵擁有 -60% 精準度。所有敵方超級小兵擁有 -50% 精準度。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
-            "抵禦防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。"
+            "抵抗防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 208,
+        "originalIndex": 214,
         "lb1": {
             "attack": 1225,
             "defense": 1318,
@@ -14644,7 +14986,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 209,
+        "originalIndex": 215,
         "lb1": {
             "attack": 1027,
             "defense": 1043,
@@ -14699,16 +15041,16 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_kesha",
         "star": 5,
-        "power": 1279,
-        "attack": 1306,
-        "defense": 1341,
-        "health": 2301,
+        "power": 1294,
+        "attack": 1320,
+        "defense": 1355,
+        "health": 2344,
         "effects": [
             "對所有敵人造成 485% 傷害。",
             "除了施法者之外，所有盟友跳起愛之舞，持續 5 回合。",
             "愛之舞：",
-            "+44% 法力產出。",
-            "承受的傷害降低 -47%。（僅影響從配對磚格所獲的法力，或於回合結束時防禦戰隊所獲的法力。當添加舞步状態效果時，則移除所有現存狀態效果。舞步能免疫新状態效果。新舞步狀態效果將替代此效果。此舞步效果無法驅散。施法者被擊敗時，效果會被移除。）"
+            "* +44% 法力產出。",
+            "* 所受傷害減少 -47%。（僅影響從配對磚格所獲的法力，或於回合結束時防禦戰隊所獲的法力。當添加舞步状態效果時，則移除所有現存狀態效果。舞步能免疫新状態效果。新舞步狀態效果將替代此效果。此舞步效果無法驅散。施法者被擊敗時，效果會被移除。）"
         ],
         "passives": [
             "轉化增益：每當該角色施放特殊技能時，所有會影響敵人攻擊、防禦與法力產出的增益，皆會轉化為對應的狀態異常，且此状態無法驅散。轉化效果：",
@@ -14723,18 +15065,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 210,
+        "originalIndex": 216,
         "lb1": {
-            "attack": 1407,
-            "defense": 1445,
-            "health": 2479,
-            "power": 1369
+            "attack": 1423,
+            "defense": 1460,
+            "health": 2526,
+            "power": 1385
         },
         "lb2": {
-            "attack": 1610,
-            "defense": 1653,
-            "health": 2837,
-            "power": 1548
+            "attack": 1628,
+            "defense": 1671,
+            "health": 2890,
+            "power": 1567
         },
         "cn_skill_info": [
             {
@@ -14803,7 +15145,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 211,
+        "originalIndex": 217,
         "lb1": {
             "attack": 1023,
             "defense": 970,
@@ -14880,7 +15222,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 212,
+        "originalIndex": 218,
         "lb1": {
             "attack": 763,
             "defense": 790,
@@ -14954,7 +15296,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 213,
+        "originalIndex": 219,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -15025,7 +15367,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 214,
+        "originalIndex": 220,
         "lb1": {
             "attack": 719,
             "defense": 919,
@@ -15098,7 +15440,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 215,
+        "originalIndex": 221,
         "lb1": {
             "attack": 1110,
             "defense": 1158,
@@ -15152,37 +15494,37 @@ window.allHeroes =
         ],
         "heroId": "scoundrel_lane",
         "star": 5,
-        "power": 1258,
-        "attack": 1273,
-        "defense": 1316,
-        "health": 2284,
+        "power": 1268,
+        "attack": 1283,
+        "defense": 1324,
+        "health": 2315,
         "effects": [
             "對目標造成 585% 傷害，並對其餘敵人造成輕微傷害。",
             "施法者進入伏擊狀態。施法者造成的傷害提高 +50%，其受到的傷害降低 -40%。（角色進入伏擊狀態時，移除所有現有的可淨化異常和枯萎效果。角色在伏擊期間無法獲得新的異常或枯萎效果此效果無法淨化。角色受到 1500 點傷害後，伏擊狀態會結束。）",
             "對烈火系造成額外傷害。"
         ],
         "passives": [
-            "小偷的機會：每回合開始時，此角色有 50% 機率劫掠一名随機敵人：",
+            "小偷的機會：每回合開始時，此角色有 100% 機率劫掠一名随機敵人：",
             "劫掠：",
-            "* 竊取 200 生命值。",
+            "* 竊取 100 生命值。",
             "* 安全地從敵人身上竊取一個随機成長效果、正面疊加增益或狀態效果。包括不可驅散的增益和舞蹈效果。",
             "* 安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 216,
+        "originalIndex": 222,
         "lb1": {
-            "attack": 1371,
-            "defense": 1418,
-            "health": 2461,
-            "power": 1346
+            "attack": 1383,
+            "defense": 1427,
+            "health": 2495,
+            "power": 1357
         },
         "lb2": {
-            "attack": 1569,
-            "defense": 1623,
-            "health": 2816,
-            "power": 1522
+            "attack": 1582,
+            "defense": 1633,
+            "health": 2854,
+            "power": 1535
         },
         "cn_skill_info": [
             {
@@ -15242,7 +15584,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 217,
+        "originalIndex": 223,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -15326,7 +15668,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 218,
+        "originalIndex": 224,
         "lb1": {
             "attack": 1429,
             "defense": 1267,
@@ -15389,7 +15731,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 0,
-        "originalIndex": 219,
+        "originalIndex": 225,
         "lb1": {
             "attack": 834,
             "defense": 801,
@@ -15449,7 +15791,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 1,
-        "originalIndex": 220,
+        "originalIndex": 226,
         "lb1": {
             "attack": 1065,
             "defense": 1057,
@@ -15510,11 +15852,11 @@ window.allHeroes =
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
-            "目标每有一層血百合叠加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
+            "目标每有一層血百合疊加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 221,
+        "originalIndex": 227,
         "lb1": {
             "attack": 1374,
             "defense": 1371,
@@ -15573,10 +15915,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_lumi_and_taiga",
         "star": 5,
-        "power": 1274,
-        "attack": 1339,
-        "defense": 1291,
-        "health": 2282,
+        "power": 1284,
+        "attack": 1349,
+        "defense": 1301,
+        "health": 2307,
         "effects": [
             "對所有敵人造成 250% 傷害。",
             "對上泰坦造成 500% 傷害。",
@@ -15592,18 +15934,18 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 222,
+        "originalIndex": 228,
         "lb1": {
-            "attack": 1443,
-            "defense": 1391,
-            "health": 2459,
-            "power": 1363
+            "attack": 1454,
+            "defense": 1403,
+            "health": 2486,
+            "power": 1374
         },
         "lb2": {
-            "attack": 1651,
-            "defense": 1592,
-            "health": 2814,
-            "power": 1542
+            "attack": 1663,
+            "defense": 1605,
+            "health": 2844,
+            "power": 1554
         },
         "cn_skill_info": [
             {
@@ -15662,7 +16004,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 223,
+        "originalIndex": 229,
         "lb1": {
             "attack": 981,
             "defense": 1094,
@@ -15734,7 +16076,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 224,
+        "originalIndex": 230,
         "lb1": {
             "attack": 1349,
             "defense": 1320,
@@ -15798,7 +16140,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 225,
+        "originalIndex": 231,
         "lb1": {
             "attack": 854,
             "defense": 637,
@@ -15859,7 +16201,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 226,
+        "originalIndex": 232,
         "lb1": {
             "attack": 862,
             "defense": 850,
@@ -15914,13 +16256,13 @@ window.allHeroes =
         "defense": 829,
         "health": 1957,
         "effects": [
-            "對目標及附近敵人造成 285% 傷害。",
+            "對目標與附近敵人造成 285% 傷害。",
             "目標與附近敵人獲得對特殊技能 -64% 的防禦，持續 4 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 227,
+        "originalIndex": 233,
         "lb1": {
             "attack": 1030,
             "defense": 893,
@@ -15987,7 +16329,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 228,
+        "originalIndex": 234,
         "lb1": {
             "attack": 1269,
             "defense": 1042,
@@ -16060,7 +16402,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 229,
+        "originalIndex": 235,
         "lb1": {
             "attack": 1456,
             "defense": 1165,
@@ -16118,10 +16460,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_stylish",
         "star": 5,
-        "power": 1296,
-        "attack": 1440,
-        "defense": 1139,
-        "health": 2488,
+        "power": 1337,
+        "attack": 1479,
+        "defense": 1170,
+        "health": 2623,
         "effects": [
             "對目標造成 520% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 620% 傷害。",
@@ -16132,18 +16474,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 230,
+        "originalIndex": 236,
         "lb1": {
-            "attack": 1552,
-            "defense": 1227,
-            "health": 2681,
-            "power": 1387
+            "attack": 1594,
+            "defense": 1261,
+            "health": 2826,
+            "power": 1431
         },
         "lb2": {
-            "attack": 1776,
-            "defense": 1405,
-            "health": 3068,
-            "power": 1569
+            "attack": 1824,
+            "defense": 1442,
+            "health": 3234,
+            "power": 1619
         },
         "cn_skill_info": [
             {
@@ -16172,8 +16514,8 @@ window.allHeroes =
         "speed": "快速",
         "skill": "治癒鏡",
         "types": [
-            "全體治療",
-            "月玫瑰守護 (全體)",
+            "全體生命值加成",
+            "全體特技傷害降低（月升護壁）",
             "全體淨化"
         ],
         "skill_types": [
@@ -16203,7 +16545,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 231,
+        "originalIndex": 237,
         "lb1": {
             "attack": 1143,
             "defense": 1163,
@@ -16233,6 +16575,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "馬可 (Marko)",
+        "fancy_name": "斯普林維爾旅人",
+        "AetherPower": "治療增加",
+        "color": "藍",
+        "class": "僧侶",
+        "speed": "中等",
+        "skill": "周遊禮物",
+        "types": [
+            "全體治療",
+            "每回合淨化全體",
+            "全體閃避率增益",
+            "自身法力生成減益"
+        ],
+        "skill_types": [],
+        "source": "月活動 - 斯普林維爾",
+        "Release date": "2026-03-30",
+        "specialId": "globetrotting_gifts",
+        "passiveSkills": [
+            "easter_health_generation_stack_on_special"
+        ],
+        "heroId": "easter_marko",
+        "star": 5,
+        "power": 1293,
+        "attack": 1328,
+        "defense": 1361,
+        "health": 2307,
+        "effects": [
+            "為所有盟友恢復 50% 生命值。",
+            "每回合結束時淨化所有盟友的狀態異常，持續 4 回合。",
+            "所有盟友有 +40% 機率閃避可造成傷害的特殊技能，持續 4 回合。",
+            "施法者獲得 -10% 法力產出，持續 4 回合。此效果無法淨化。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）"
+        ],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）：每回合回復 30 點生命值。"
+        ],
+        "family": "easter",
+        "costume_id": 0,
+        "originalIndex": 238,
+        "lb1": {
+            "attack": 1431,
+            "defense": 1467,
+            "health": 2486,
+            "power": 1384
+        },
+        "lb2": {
+            "attack": 1638,
+            "defense": 1678,
+            "health": 2844,
+            "power": 1566
+        },
+        "cn_skill_info": []
     },
     {
         "name": "天兔大師 (Master Lepus)",
@@ -16267,7 +16662,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 232,
+        "originalIndex": 239,
         "lb1": {
             "attack": 856,
             "defense": 743,
@@ -16327,10 +16722,12 @@ window.allHeroes =
             "對所有敵人造成 280% 傷害。",
             "施法者獲得 -24% 法力產出，持續 4 回合。此效果無法淨化。"
         ],
-        "passives": [],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 233,
+        "originalIndex": 240,
         "lb1": {
             "attack": 1126,
             "defense": 1027,
@@ -16396,7 +16793,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 234,
+        "originalIndex": 241,
         "lb1": {
             "attack": 888,
             "defense": 868,
@@ -16460,7 +16857,7 @@ window.allHeroes =
         "defense": 1032,
         "health": 1709,
         "effects": [
-            "對目標及附近敵人造成 310% 傷害。",
+            "對目標與附近敵人造成 310% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 824 點冰霜傷害。",
             "目標與附近敵人在 4 回合內免疫新的狀態效果增益，且每次嘗試獲得增益時受到 300 點傷害。",
             "元素鏈會為所有冰雪盟友提供 +20% 暴擊率，持續 6 個回合。此效果無法驅散。"
@@ -16471,7 +16868,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 235,
+        "originalIndex": 242,
         "lb1": {
             "attack": 1174,
             "defense": 1112,
@@ -16538,7 +16935,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 236,
+        "originalIndex": 243,
         "lb1": {
             "attack": 768,
             "defense": 839,
@@ -16606,7 +17003,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 237,
+        "originalIndex": 244,
         "lb1": {
             "attack": 896,
             "defense": 890,
@@ -16673,13 +17070,13 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_milady_de_winter_costume_herbalist",
         "star": 5,
-        "power": 1285,
-        "attack": 1280,
-        "defense": 1296,
+        "power": 1311,
+        "attack": 1321,
+        "defense": 1338,
         "health": 2498,
         "effects": [
-            "對所有敵人造成 480% 傷害。",
-            "施法者在 6 個回合內恢復 1500 點加成生命值。加成生命值能夠超過最大生命值。",
+            "對所有敵人造成 510% 傷害。",
+            "施法者在 6 個回合內恢復 1620 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有敵人將狀態效果增益反射給敵方戰隊的隨機角色，持續 6 回合。",
             "所有盟友將狀態異常反射給敵方戰隊的隨機角色，持續 6 個回合。"
         ],
@@ -16689,18 +17086,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 238,
+        "originalIndex": 245,
         "lb1": {
-            "attack": 1379,
-            "defense": 1397,
+            "attack": 1424,
+            "defense": 1442,
             "health": 2692,
-            "power": 1375
+            "power": 1404
         },
         "lb2": {
-            "attack": 1578,
-            "defense": 1598,
+            "attack": 1629,
+            "defense": 1649,
             "health": 3080,
-            "power": 1555
+            "power": 1588
         },
         "cn_skill_info": [
             {
@@ -16773,7 +17170,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 239,
+        "originalIndex": 246,
         "lb1": {
             "attack": 845,
             "defense": 834,
@@ -16818,8 +17215,8 @@ window.allHeroes =
             "全體治療",
             "全體淨化",
             "攻擊所有目標",
-            "全體驅散",
-            "全體持續傷害"
+            "全體持續傷害",
+            "全體驅散"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -16852,8 +17249,8 @@ window.allHeroes =
             "* 淨化所有盟友的狀態異常。",
             "2 倍法力充能：",
             "* 對所有敵人造成 440% 傷害。",
-            "* 驅散所有敵人的增益。",
-            "* 所有敵人在 5 回合內受到共計 340 點冰霜傷害。"
+            "* 所有敵人在 5 回合內受到共計 340 點冰霜傷害。",
+            "* 驅散所有敵人的增益。"
         ],
         "passives": [
             "暴增的法力：此角色施放特殊技能時，有 60% 機率送出 10% 法力給所有盟友。若特殊技能已完全暴增，則機率為 100%。",
@@ -16861,7 +17258,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 240,
+        "originalIndex": 247,
         "lb1": {
             "attack": 1338,
             "defense": 1307,
@@ -16937,7 +17334,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 241,
+        "originalIndex": 248,
         "lb1": {
             "attack": 854,
             "defense": 903,
@@ -17001,7 +17398,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 242,
+        "originalIndex": 249,
         "lb1": {
             "attack": 779,
             "defense": 810,
@@ -17060,13 +17457,13 @@ window.allHeroes =
         "health": 1719,
         "effects": [
             "對目標造成 280% 傷害。",
-            "有 42% 的機率可額外攻擊隨機敵人最多 3 次。",
+            "有 42% 的機率可額外攻擊隨機敵人最多 3 次。額外攻擊造成輕微傷害。",
             "在 3 回合內，若被命中之目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 243,
+        "originalIndex": 250,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -17094,6 +17491,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "米桑德拉 (Misandra) 卡通",
+        "fancy_name": "華麗公仔",
+        "AetherPower": "攻擊提升",
+        "color": "藍",
+        "class": "戰士",
+        "speed": "快速",
+        "skill": "鎖鏈公仔",
+        "types": [
+            "攻擊單個目標",
+            "可能的額外攻擊",
+            "命中時全體法力提升"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_chain",
+        "parent_specialId": "chain_strike",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_mercenary_woman_costume_cute",
+        "star": 5,
+        "power": 1348,
+        "attack": 1382,
+        "defense": 1379,
+        "health": 2524,
+        "effects": [
+            "對目標造成 410% 傷害。",
+            "有 80% 的機率可額外攻擊隨機敵人最多 4 次。額外攻擊造成輕微傷害。",
+            "每次攻擊所有盟友可增加適量法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "對烈火系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 251,
+        "lb1": {
+            "attack": 1490,
+            "defense": 1486,
+            "health": 2720,
+            "power": 1443
+        },
+        "lb2": {
+            "attack": 1705,
+            "defense": 1700,
+            "health": 3112,
+            "power": 1633
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "伊索小姐 (Miss Ethel)",
         "fancy_name": "斯普林維爾防衛者",
         "AetherPower": "攻擊提升",
@@ -17102,8 +17553,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "吽吽戰意",
         "types": [
-            "攻擊2個目標",
-            "連鎖攻擊"
+            "攻擊單個目標",
+            "連鎖攻擊",
+            "自身法力生成減益"
         ],
         "skill_types": [
             "狙擊手",
@@ -17128,7 +17580,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 244,
+        "originalIndex": 252,
         "lb1": {
             "attack": 1087,
             "defense": 1030,
@@ -17200,7 +17652,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 245,
+        "originalIndex": 253,
         "lb1": {
             "attack": 1076,
             "defense": 1187,
@@ -17270,7 +17722,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 246,
+        "originalIndex": 254,
         "lb1": {
             "attack": 950,
             "defense": 910,
@@ -17347,7 +17799,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 247,
+        "originalIndex": 255,
         "lb1": {
             "attack": 1263,
             "defense": 1334,
@@ -17423,7 +17875,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 248,
+        "originalIndex": 256,
         "lb1": {
             "attack": 1147,
             "defense": 1260,
@@ -17492,7 +17944,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 249,
+        "originalIndex": 257,
         "lb1": {
             "attack": 832,
             "defense": 803,
@@ -17565,7 +18017,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 250,
+        "originalIndex": 258,
         "lb1": {
             "attack": 1154,
             "defense": 955,
@@ -17630,7 +18082,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 251,
+        "originalIndex": 259,
         "lb1": {
             "attack": 865,
             "defense": 841,
@@ -17708,7 +18160,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 252,
+        "originalIndex": 260,
         "lb1": {
             "attack": 1186,
             "defense": 1152,
@@ -17789,7 +18241,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 253,
+        "originalIndex": 261,
         "lb1": {
             "attack": 1074,
             "defense": 1074,
@@ -17862,7 +18314,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 254,
+        "originalIndex": 262,
         "lb1": {
             "attack": 1354,
             "defense": 1294,
@@ -17941,7 +18393,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 255,
+        "originalIndex": 263,
         "lb1": {
             "attack": 965,
             "defense": 1025,
@@ -18022,7 +18474,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 256,
+        "originalIndex": 264,
         "lb1": {
             "attack": 1440,
             "defense": 1374,
@@ -18062,7 +18514,7 @@ window.allHeroes =
         "types": [
             "單體元素交換",
             "攻擊單個目標",
-            "單體元素防禦降低"
+            "單體屬性防禦減益"
         ],
         "skill_types": [
             "狙擊手",
@@ -18088,13 +18540,13 @@ window.allHeroes =
         "passives": [
             "部隊精通：",
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
-            "- 造成額外元素傷害： +100%",
+            "* 造成額外元素傷害： +100%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -10%"
+            "* 受到元素傷害： -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 257,
+        "originalIndex": 265,
         "lb1": {
             "attack": 1216,
             "defense": 1110,
@@ -18173,7 +18625,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 258,
+        "originalIndex": 266,
         "lb1": {
             "attack": 956,
             "defense": 1034,
@@ -18244,21 +18696,21 @@ window.allHeroes =
             "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
             "x 1 法力充能：",
             "- 為施法者提供 390 點加成生命值。加成生命值能夠超過最大生命值。",
-            "- 施法者受到的嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續 2 回合。此效果無法驅散。",
+            "- 施法者獲得嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續 2 回合。此效果無法驅散。",
             "- 施法者以所受傷害的 50% 進行反擊，持續 2 回合。",
             "x 2 法力充能：",
             "- 為施法者提供 490 點加成生命值。加成生命值能夠超過最大生命值。",
-            "- 施法者受到的嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續 3 回合。此效果無法驅散。",
+            "- 施法者獲得嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續 3 回合。此效果無法驅散。",
             "- 施法者以所受傷害的 105% 進行反擊，持續 3 回合。",
             "x 3 法力充能：",
             "- 為施法者提供 540 點加成生命值。加成生命值能夠超過最大生命值。",
-            "- 施法者受到的嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續 4 回合。此效果無法驅散。",
+            "- 施法者獲得嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續 4 回合。此效果無法驅散。",
             "- 施法者以所受傷害的 133% 進行反擊，持續 3 回合。"
         ],
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 259,
+        "originalIndex": 267,
         "lb1": {
             "attack": 796,
             "defense": 961,
@@ -18325,12 +18777,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能施放時摧毀惡魔：此角色施放其特殊技能時，摧毀自身所有惡魔。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
-            "抵禦治療異常：此角色對影響治療的狀態異常具有天生抗性。"
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
+            "抵禦治療異常：此角色對影響治療的狀態異常免疫。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 260,
+        "originalIndex": 268,
         "lb1": {
             "attack": 1272,
             "defense": 1389,
@@ -18397,7 +18849,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 261,
+        "originalIndex": 269,
         "lb1": {
             "attack": 999,
             "defense": 1165,
@@ -18465,7 +18917,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 262,
+        "originalIndex": 270,
         "lb1": {
             "attack": 814,
             "defense": 865,
@@ -18540,7 +18992,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 263,
+        "originalIndex": 271,
         "lb1": {
             "attack": 952,
             "defense": 1255,
@@ -18613,7 +19065,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 264,
+        "originalIndex": 272,
         "lb1": {
             "attack": 1325,
             "defense": 1320,
@@ -18687,7 +19139,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 265,
+        "originalIndex": 273,
         "lb1": {
             "attack": 781,
             "defense": 752,
@@ -18753,7 +19205,7 @@ window.allHeroes =
         "defense": 879,
         "health": 1983,
         "effects": [
-            "對目標及附近敵人造成 405% 傷害。",
+            "對目標與附近敵人造成 405% 傷害。",
             "目標與附近敵人獲得的治療減少 -100%，持續 4 回合。此效果無法淨化。",
             "目標與附近敵人獲得對冰雪系 -68% 的防禦，持續 4 回合。",
             "元素鏈給予所有冰雪盟友 +10% 法力產出，持續 4 個回合。此效果無法驅散。"
@@ -18763,7 +19215,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 266,
+        "originalIndex": 274,
         "lb1": {
             "attack": 1000,
             "defense": 948,
@@ -18823,7 +19275,7 @@ window.allHeroes =
         "health": 1767,
         "effects": [
             "目標與附近敵人獲得 -30% 防禦，持續 3 回合。如果在持續時間結束前移除效果，則具有該效果的目標將承受 668 點傷害。",
-            "對目標及附近敵人造成 390% 傷害。",
+            "對目標與附近敵人造成 390% 傷害。",
             "附近盟友獲得柔軟膚。（他們下次受到的傷害減少 -90%，並抵抗所有狀態異常和法力減損。此效果無法驅散）"
         ],
         "passives": [
@@ -18831,7 +19283,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 267,
+        "originalIndex": 275,
         "lb1": {
             "attack": 1163,
             "defense": 1149,
@@ -18911,7 +19363,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 268,
+        "originalIndex": 276,
         "lb1": {
             "attack": 919,
             "defense": 890,
@@ -18972,14 +19424,14 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_porthos_costume_merchant",
         "star": 5,
-        "power": 1274,
-        "attack": 1311,
-        "defense": 1260,
-        "health": 2414,
+        "power": 1300,
+        "attack": 1328,
+        "defense": 1277,
+        "health": 2524,
         "effects": [
-            "對所有敵人造成 485% 傷害。",
+            "對所有敵人造成 515% 傷害。",
             "改變面板上所有冰雪系護盾的強度。攻擊英雄施放該特技時，護盾受到 +64% 攻擊力的強化，防禦英雄施放該特技時，護盾受到 -57% 攻擊力的弱化。",
-            "施法者在 6 個回合內恢復 1530 點加成生命值。加成生命值能夠超過最大生命值。",
+            "施法者在 6 個回合內恢復 1620 點加成生命值。加成生命值能夠超過最大生命值。",
             "對烈火系造成額外傷害。"
         ],
         "passives": [
@@ -18988,18 +19440,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 269,
+        "originalIndex": 277,
         "lb1": {
-            "attack": 1412,
-            "defense": 1358,
-            "health": 2601,
-            "power": 1363
+            "attack": 1431,
+            "defense": 1376,
+            "health": 2720,
+            "power": 1391
         },
         "lb2": {
-            "attack": 1616,
-            "defense": 1554,
-            "health": 2976,
-            "power": 1542
+            "attack": 1637,
+            "defense": 1574,
+            "health": 3113,
+            "power": 1574
         },
         "cn_skill_info": [
             {
@@ -19052,18 +19504,18 @@ window.allHeroes =
         "defense": 1176,
         "health": 1969,
         "effects": [
-            "對目標及附近敵人造成 450% 傷害。",
-            "目標和附近敵人在 4 個回合內受到 788 點水系傷害。所有盟友能吸收所造成之水系傷害的 50% 作為加成生命值。",
+            "對目標與附近敵人造成 450% 傷害。",
+            "目標和附近敵人在 4 個回合內受到 792 點水系傷害。所有盟友能吸收所造成之水系傷害的 50% 作為加成生命值。",
             "成長：所有盟友獲得 200 點攻擊和 200 點防禦。"
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 270,
+        "originalIndex": 278,
         "lb1": {
             "attack": 1318,
             "defense": 1267,
@@ -19150,7 +19602,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 271,
+        "originalIndex": 279,
         "lb1": {
             "attack": 972,
             "defense": 1043,
@@ -19178,6 +19630,72 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "奎因 (Quinn) C1",
+        "fancy_name": "宇宙煉金術士",
+        "AetherPower": "防禦提升",
+        "color": "藍",
+        "class": "僧侶",
+        "speed": "快速",
+        "skill": "鳳梨鍊金術士",
+        "types": [
+            "全體強化治療",
+            "全體增益免疫狀態異常",
+            "全體火屬性敵人致盲",
+            "全體暗屬性敵人法力生成減益",
+            "全體聖屬性敵人防禦減益",
+            "全體自然屬性敵人攻擊減益"
+        ],
+        "skill_types": [],
+        "source": "超級元素",
+        "Release date": "2026-05-15",
+        "specialId": "pineapple_alchemist",
+        "parent_specialId": "pineapple_barbeque",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "heroId": "elemental_quinn_costume_alchemist",
+        "star": 5,
+        "power": 1322,
+        "attack": 1305,
+        "defense": 1391,
+        "health": 2509,
+        "effects": [
+            "為所有盟友提供 850 點加成生命值。加成生命值能夠超過最大生命值。",
+            "所有敵人在 3 回合內無法獲得新的狀態效果增益。此狀態效果無法驅散，對烈火系角色持續時間延長 2 回合。",
+            "所有烈火敵人獲得 -44% 精準度，持續 3 回合。",
+            "所有暗黑敵人獲得 -44% 法力產出，持續 3 回合。",
+            "所有神聖敵人獲得 -44% 防禦，持續 3 回合。",
+            "所有自然敵人獲得 -44% 攻擊力，持續 3 回合。"
+        ],
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
+            "* 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
+            "* 受到元素傷害： -25%",
+            "抵禦烈火異常：此角色免疫烈火系角色施放的異常狀態及負面效果疊加。"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 280,
+        "lb1": {
+            "attack": 1406,
+            "defense": 1499,
+            "health": 2703,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1609,
+            "defense": 1715,
+            "health": 3093,
+            "power": 1601
+        },
+        "cn_skill_info": []
     },
     {
         "name": "昆汀 (Quintin)",
@@ -19213,7 +19731,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 272,
+        "originalIndex": 281,
         "lb1": {
             "attack": 885,
             "defense": 825,
@@ -19281,7 +19799,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 273,
+        "originalIndex": 282,
         "lb1": {
             "attack": 701,
             "defense": 865,
@@ -19356,7 +19874,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 274,
+        "originalIndex": 283,
         "lb1": {
             "attack": 781,
             "defense": 881,
@@ -19426,7 +19944,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 275,
+        "originalIndex": 284,
         "lb1": {
             "attack": 694,
             "defense": 881,
@@ -19487,7 +20005,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 276,
+        "originalIndex": 285,
         "lb1": {
             "attack": 792,
             "defense": 1000,
@@ -19543,13 +20061,13 @@ window.allHeroes =
         "defense": 850,
         "health": 1931,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "目標與附近敵人獲得 -30% 攻擊，並在每次被擊中後減少 -2%，持續 4 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 277,
+        "originalIndex": 286,
         "lb1": {
             "attack": 1025,
             "defense": 916,
@@ -19616,7 +20134,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 278,
+        "originalIndex": 287,
         "lb1": {
             "attack": 1235,
             "defense": 1101,
@@ -19689,7 +20207,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 279,
+        "originalIndex": 288,
         "lb1": {
             "attack": 1398,
             "defense": 1239,
@@ -19747,10 +20265,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_stylish",
         "star": 5,
-        "power": 1294,
-        "attack": 1375,
-        "defense": 1211,
-        "health": 2496,
+        "power": 1335,
+        "attack": 1412,
+        "defense": 1244,
+        "health": 2631,
         "effects": [
             "對目標造成 585% 傷害，並對附近敵人造成輕微傷害。",
             "對剩餘生命值少於 50% 的敵人造成額外傷害。",
@@ -19761,18 +20279,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 280,
+        "originalIndex": 289,
         "lb1": {
-            "attack": 1482,
-            "defense": 1306,
-            "health": 2690,
-            "power": 1385
+            "attack": 1522,
+            "defense": 1341,
+            "health": 2835,
+            "power": 1430
         },
         "lb2": {
-            "attack": 1696,
-            "defense": 1494,
-            "health": 3077,
-            "power": 1567
+            "attack": 1742,
+            "defense": 1534,
+            "health": 3244,
+            "power": 1618
         },
         "cn_skill_info": [
             {
@@ -19829,7 +20347,7 @@ window.allHeroes =
         "health": 2255,
         "effects": [
             "驅散目標和附近敵人的增益。",
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "目標與附近敵人受到 540 點水系傷害，持續 3 回合。施法者能吸收已造成之水系傷害的 50% 作為生命值。",
             "目標和附近敵人受到異常效果的持續 +50% 額外傷害。（此效果會持續到被驅散、替代或移除為止。）"
         ],
@@ -19838,7 +20356,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 281,
+        "originalIndex": 290,
         "lb1": {
             "attack": 1378,
             "defense": 1305,
@@ -19919,7 +20437,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 282,
+        "originalIndex": 291,
         "lb1": {
             "attack": 790,
             "defense": 752,
@@ -20000,7 +20518,7 @@ window.allHeroes =
             "抽取一張特殊效果卡片：",
             "骷髏：",
             "* 使所有敵人的最大生命值降低 550 點。最大生命值不得低於原最大生命值的 30%。",
-            "* 所有敵人受到腐蝕劇毒，持續 4 回合。腐蝕劇毒會造成 69 點劇毒傷害，而且每個回合降低目標的法力產出 -9%。對擁有小兵或超級小兵的英雄造成額外傷害。",
+            "* 所有敵人受到腐蝕劇毒，持續 4 回合。腐蝕劇毒會造成 73 點劇毒傷害，而且每個回合降低目標的法力產出 -9%。對擁有小兵或超級小兵的英雄造成額外傷害。",
             "十字架：",
             "* 為所有盟友提供 620 點加成生命值。加成生命值能夠超過最大生命值。",
             "* 所有盟友對新的狀態異常免疫，持續 4 回合。",
@@ -20011,7 +20529,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 283,
+        "originalIndex": 292,
         "lb1": {
             "attack": 989,
             "defense": 951,
@@ -20093,7 +20611,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 284,
+        "originalIndex": 293,
         "lb1": {
             "attack": 854,
             "defense": 843,
@@ -20173,7 +20691,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 285,
+        "originalIndex": 294,
         "lb1": {
             "attack": 1137,
             "defense": 1096,
@@ -20253,7 +20771,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 286,
+        "originalIndex": 295,
         "lb1": {
             "attack": 1320,
             "defense": 1360,
@@ -20326,7 +20844,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 287,
+        "originalIndex": 296,
         "lb1": {
             "attack": 1276,
             "defense": 1343,
@@ -20404,7 +20922,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 288,
+        "originalIndex": 297,
         "lb1": {
             "attack": 1070,
             "defense": 1067,
@@ -20486,7 +21004,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 289,
+        "originalIndex": 298,
         "lb1": {
             "attack": 1198,
             "defense": 1398,
@@ -20512,6 +21030,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "瑟拉芬 (Seraphine)",
+        "fancy_name": "美人惡毒姐姐",
+        "AetherPower": "傷害減少",
+        "color": "藍",
+        "class": "術士",
+        "speed": "中等",
+        "skill": "無情嘲諷",
+        "types": [
+            "謙遜",
+            "攻擊所有目標",
+            "全體治療抵抗減益",
+            "每次治療被抵抗時受到傷害(全體)",
+            "全體受到傷害提高減益疊加",
+            "全體法力生成降低"
+        ],
+        "skill_types": [],
+        "source": "聯盟 - 勇者與美人",
+        "Release date": "2026-05-08",
+        "specialId": "ruthless_derision",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_seraphine",
+        "star": 5,
+        "power": 1324,
+        "attack": 1398,
+        "defense": 1343,
+        "health": 2385,
+        "effects": [
+            "若施法者擁有 40 以上的謙遜：",
+            "對所有敵人造成 400% 傷害。",
+            "剩餘生命低於 50% 的敵人抵禦治療，且每次抵禦治療受到 400 傷害，持續 4 回合。",
+            "疊加 +2 （最大值： 10 ）：所有敵人受到的所有傷害增加 +10%。",
+            "所有敵人獲得 -34% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
+            "否則：",
+            "對所有敵人造成 350% 傷害。",
+            "剩餘生命低於 50% 的敵人抵禦治療，且每次抵禦治療受到 300 傷害，持續 4 回合。",
+            "疊加（最大值： 10 ）：所有敵人受到的所有傷害增加 +5%。"
+        ],
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": 299,
+        "lb1": {
+            "attack": 1507,
+            "defense": 1447,
+            "health": 2570,
+            "power": 1417
+        },
+        "lb2": {
+            "attack": 1724,
+            "defense": 1656,
+            "health": 2941,
+            "power": 1603
+        },
+        "cn_skill_info": []
     },
     {
         "name": "西格恩 (Sigyn)",
@@ -20557,7 +21139,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 290,
+        "originalIndex": 300,
         "lb1": {
             "attack": 1249,
             "defense": 1163,
@@ -20629,7 +21211,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 291,
+        "originalIndex": 301,
         "lb1": {
             "attack": 1149,
             "defense": 1050,
@@ -20694,7 +21276,7 @@ window.allHeroes =
         "defense": 1062,
         "health": 1831,
         "effects": [
-            "對目標及附近敵人造成 290% 傷害。",
+            "對目標與附近敵人造成 290% 傷害。",
             "攻擊會無視防禦增益。（包含反擊。）",
             "目標與附近敵人獲得 -40% 攻擊力，持續 3 回合。攻擊力每回合減少 -5%，最多至 -50%。",
             "目標與附近敵人獲得的治療減少 -80%，持續 3 回合。"
@@ -20704,7 +21286,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 292,
+        "originalIndex": 302,
         "lb1": {
             "attack": 1176,
             "defense": 1145,
@@ -20775,7 +21357,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 0,
-        "originalIndex": 293,
+        "originalIndex": 303,
         "lb1": {
             "attack": 750,
             "defense": 854,
@@ -20842,7 +21424,7 @@ window.allHeroes =
         "defense": 975,
         "health": 1866,
         "effects": [
-            "對目標及附近敵人造成 320% 傷害。",
+            "對目標與附近敵人造成 320% 傷害。",
             "每有一個敵人被擊敗，傷害增加 35%。",
             "疊加（最大值： 10 ）：每個回合結束時，每個落敗的敵人或敵方小兵，都會讓所有敵人受到 54 點冰霜傷害。",
             "疊加（最大值： 10 ）：每個落敗的敵人或敵方小兵，都會讓所有敵人獲得 -7% 法力產出。"
@@ -20850,7 +21432,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 1,
-        "originalIndex": 294,
+        "originalIndex": 304,
         "lb1": {
             "attack": 1011,
             "defense": 1051,
@@ -20926,12 +21508,11 @@ window.allHeroes =
         "passives": [
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
             "腐蝕核心：此角色的構造體核心為腐蝕核心。每次啟動腐蝕核心時，會施放此角色的特殊技能：",
-            "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 153 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
-            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+            "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 153 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。"
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 295,
+        "originalIndex": 305,
         "lb1": {
             "attack": 1183,
             "defense": 1110,
@@ -21001,7 +21582,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 296,
+        "originalIndex": 306,
         "lb1": {
             "attack": 1298,
             "defense": 1254,
@@ -21067,7 +21648,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 297,
+        "originalIndex": 307,
         "lb1": {
             "attack": 814,
             "defense": 805,
@@ -21143,7 +21724,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 298,
+        "originalIndex": 308,
         "lb1": {
             "attack": 1068,
             "defense": 979,
@@ -21218,7 +21799,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 299,
+        "originalIndex": 309,
         "lb1": {
             "attack": 925,
             "defense": 805,
@@ -21292,7 +21873,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 300,
+        "originalIndex": 310,
         "lb1": {
             "attack": 1306,
             "defense": 1197,
@@ -21362,8 +21943,8 @@ window.allHeroes =
         "health": 2202,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
-            "對目標及附近敵人造成 450% 傷害。",
-            "為施法者及附近盟友治療 20% 的傷害。",
+            "對目標與附近敵人造成 450% 傷害。",
+            "為施法者與附近盟友治療 20% 的傷害。",
             "目標與附近敵人陷入沉默，持續 4 回合。",
             "目標與附近敵人獲得 -30% 防禦，持續 4 回合。"
         ],
@@ -21377,7 +21958,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 301,
+        "originalIndex": 311,
         "lb1": {
             "attack": 1332,
             "defense": 1300,
@@ -21454,7 +22035,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 302,
+        "originalIndex": 312,
         "lb1": {
             "attack": 1014,
             "defense": 985,
@@ -21491,7 +22072,7 @@ window.allHeroes =
         "skill": "星座權杖",
         "types": [
             "攻擊所有目標",
-            "防禦降低"
+            "全體防禦降低"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -21525,7 +22106,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 303,
+        "originalIndex": 313,
         "lb1": {
             "attack": 1121,
             "defense": 1085,
@@ -21602,7 +22183,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 304,
+        "originalIndex": 314,
         "lb1": {
             "attack": 863,
             "defense": 823,
@@ -21673,12 +22254,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 346 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 346 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 305,
+        "originalIndex": 315,
         "lb1": {
             "attack": 1383,
             "defense": 1312,
@@ -21754,7 +22335,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 306,
+        "originalIndex": 316,
         "lb1": {
             "attack": 1265,
             "defense": 1394,
@@ -21815,7 +22396,7 @@ window.allHeroes =
         "defense": 770,
         "health": 1468,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 396 點水系傷害。",
             "所有非冰雪元素的英雄獲得 +30% 攻擊力，持續 3 回合。",
             "所有冰雪盟友獲得 +60% 攻擊，持續 3 回合。"
@@ -21823,7 +22404,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 307,
+        "originalIndex": 317,
         "lb1": {
             "attack": 892,
             "defense": 830,
@@ -21886,7 +22467,7 @@ window.allHeroes =
         "defense": 955,
         "health": 1901,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 657 點水系傷害。",
             "所有非冰雪元素的英雄獲得 +35% 攻擊力，持續 3 回合。",
             "所有冰雪盟友獲得 +65% 攻擊，持續 3 回合。"
@@ -21894,7 +22475,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 308,
+        "originalIndex": 318,
         "lb1": {
             "attack": 1129,
             "defense": 1029,
@@ -21936,7 +22517,7 @@ window.allHeroes =
         "skill": "大海擁抱",
         "types": [
             "全體治療",
-            "全體狀態異常免疫",
+            "全體異常狀態免疫增益",
             "全體異常狀態持續時間重置"
         ],
         "skill_types": [
@@ -21973,7 +22554,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 309,
+        "originalIndex": 319,
         "lb1": {
             "attack": 965,
             "defense": 1074,
@@ -22014,8 +22595,8 @@ window.allHeroes =
         "skill": "水晶擁抱",
         "types": [
             "全體治療",
-            "狀態異常重置",
-            "狀態異常免疫"
+            "全體異常狀態免疫增益",
+            "全體重置狀態異常"
         ],
         "skill_types": [
             "生命強化",
@@ -22056,7 +22637,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 310,
+        "originalIndex": 320,
         "lb1": {
             "attack": 1295,
             "defense": 1321,
@@ -22139,7 +22720,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 311,
+        "originalIndex": 321,
         "lb1": {
             "attack": 879,
             "defense": 919,
@@ -22204,7 +22785,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 312,
+        "originalIndex": 322,
         "lb1": {
             "attack": 792,
             "defense": 865,
@@ -22261,7 +22842,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 313,
+        "originalIndex": 323,
         "lb1": {
             "attack": 688,
             "defense": 854,
@@ -22317,7 +22898,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 314,
+        "originalIndex": 324,
         "lb1": {
             "attack": 842,
             "defense": 913,
@@ -22374,14 +22955,14 @@ window.allHeroes =
         "defense": 967,
         "health": 1865,
         "effects": [
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "使目標和附近敵人的法力減少 15%。",
             "施法者在 4 回合內恢復適量法力。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 315,
+        "originalIndex": 325,
         "lb1": {
             "attack": 962,
             "defense": 1042,
@@ -22450,7 +23031,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 316,
+        "originalIndex": 326,
         "lb1": {
             "attack": 1149,
             "defense": 1255,
@@ -22515,7 +23096,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 317,
+        "originalIndex": 327,
         "lb1": {
             "attack": 1313,
             "defense": 1406,
@@ -22584,7 +23165,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 318,
+        "originalIndex": 328,
         "lb1": {
             "attack": 1083,
             "defense": 1072,
@@ -22651,7 +23232,7 @@ window.allHeroes =
         "defense": 807,
         "health": 1444,
         "effects": [
-            "對目標及附近敵人造成 340% 傷害。",
+            "對目標與附近敵人造成 340% 傷害。",
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。",
             "目標與附近敵人獲得 -14% 防禦，且面板上每有一個冰雪護盾則進一步降低 -5%，持續 4 回合，最多 -54% 防禦。",
             "目標與附近敵人獲得 -10% 精準度，且面板上每有一個冰雪護盾則進一步降低 -5%，持續 4 回合，最多 -50% 精準度。"
@@ -22659,7 +23240,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 319,
+        "originalIndex": 329,
         "lb1": {
             "attack": 919,
             "defense": 870,
@@ -22735,7 +23316,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 320,
+        "originalIndex": 330,
         "lb1": {
             "attack": 965,
             "defense": 1027,
@@ -22802,7 +23383,7 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 次直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
             "所有冰雪盟友獲得 4 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
@@ -22826,7 +23407,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 321,
+        "originalIndex": 331,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -22871,8 +23452,9 @@ window.allHeroes =
         "types": [
             "蓄力",
             "召喚所有小兵",
+            "法力生成增益小兵",
             "召喚所有惡魔",
-            "法力生成降低惡魔"
+            "法力生成減益小怪"
         ],
         "skill_types": [
             "召喚惡魔",
@@ -22910,7 +23492,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 322,
+        "originalIndex": 332,
         "lb1": {
             "attack": 963,
             "defense": 987,
@@ -22953,7 +23535,9 @@ window.allHeroes =
         "types": [
             "蓄力",
             "召喚所有小兵",
-            "召喚所有惡魔"
+            "小怪法力提升",
+            "召喚所有惡魔",
+            "魔僕法力偷取"
         ],
         "skill_types": [
             "召喚惡魔",
@@ -22975,10 +23559,10 @@ window.allHeroes =
         ],
         "heroId": "magic_ulius_costume_buccaneer",
         "star": 5,
-        "power": 1256,
-        "attack": 1236,
-        "defense": 1267,
-        "health": 2460,
+        "power": 1273,
+        "attack": 1254,
+        "defense": 1286,
+        "health": 2494,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -22996,18 +23580,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 323,
+        "originalIndex": 333,
         "lb1": {
-            "attack": 1332,
-            "defense": 1366,
-            "health": 2651,
-            "power": 1344
+            "attack": 1351,
+            "defense": 1386,
+            "health": 2688,
+            "power": 1362
         },
         "lb2": {
-            "attack": 1524,
-            "defense": 1563,
-            "health": 3033,
-            "power": 1520
+            "attack": 1546,
+            "defense": 1585,
+            "health": 3076,
+            "power": 1540
         },
         "cn_skill_info": [
             {
@@ -23027,6 +23611,65 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "巫煞 (Ushal)",
+        "fancy_name": "星界惡魔天賦",
+        "AetherPower": "傷害減少",
+        "color": "藍",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "宇宙靈魂",
+        "types": [
+            "攻擊所有目標",
+            "無視防禦",
+            "全體攻擊衰減",
+            "自身星光射線增益"
+        ],
+        "skill_types": [],
+        "source": "星界召喚",
+        "Release date": "2026-05-13",
+        "specialId": "cosmic_spirals",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_ushal",
+        "star": 5,
+        "power": 1325,
+        "attack": 1398,
+        "defense": 1359,
+        "health": 2360,
+        "effects": [
+            "對所有敵人造成 355% 傷害。",
+            "此攻擊會避開反擊和反射效果。",
+            "枯萎：所有敵人獲得 -425 點攻擊。",
+            "每回合結束時，施法者對隨機敵人發出星界射線，持續 4 個回合。",
+            "每道星界射線造成 300% 傷害。",
+            "每道星界射線能使被擊中敵人的最大生命值減少 300。"
+        ],
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": 334,
+        "lb1": {
+            "attack": 1507,
+            "defense": 1465,
+            "health": 2544,
+            "power": 1418
+        },
+        "lb2": {
+            "attack": 1724,
+            "defense": 1676,
+            "health": 2910,
+            "power": 1605
+        },
+        "cn_skill_info": []
     },
     {
         "name": "薇拉 (Vela)",
@@ -23072,7 +23715,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 324,
+        "originalIndex": 335,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -23115,8 +23758,8 @@ window.allHeroes =
         "skill": "紅鞋子",
         "types": [
             "攻擊3個目標",
-            "強化防禦降低",
-            "延遲法力生成降低"
+            "3個目標強化防禦減益",
+            "3個目標延遲法力生成減益"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -23139,7 +23782,7 @@ window.allHeroes =
         "defense": 1073,
         "health": 2148,
         "effects": [
-            "對目標及附近敵人造成 350% 傷害。",
+            "對目標與附近敵人造成 350% 傷害。",
             "強化防禦異常：目標與附近敵人獲得 -50% 對特殊技能的防禦。此效果持續到敵人受到特殊技能 3 次傷害為止。",
             "在強化防禦異常結束、移除或取代後，敵人獲得 -40% 法力產出，持續 3 個回合。"
         ],
@@ -23150,7 +23793,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 325,
+        "originalIndex": 336,
         "lb1": {
             "attack": 1265,
             "defense": 1156,
@@ -23204,18 +23847,18 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_vernix",
         "star": 5,
-        "power": 1247,
-        "attack": 1359,
+        "power": 1262,
+        "attack": 1378,
         "defense": 1207,
-        "health": 2206,
+        "health": 2268,
         "effects": [
             "如果敵人有冰霜狀態異常：",
-            "* 對所有敵人造成 310% 傷害。",
+            "* 對所有敵人造成 320% 傷害。",
             "* 使所有敵人的法力减少 5%。",
-            "* 所有敵人在 5 回合內受到共計 1630 點冰霜傷害。",
+            "* 所有敵人在 5 回合內受到共計 1685 點冰霜傷害。",
             "否則：",
-            "* 對所有敵人造成 260% 傷害。",
-            "* 所有敵人在 5 回合內受到共計 1275 點冰霜傷害。"
+            "* 對所有敵人造成 270% 傷害。",
+            "* 所有敵人在 5 回合內受到共計 1340 點冰霜傷害。"
         ],
         "passives": [
             "九條命：",
@@ -23230,18 +23873,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 326,
+        "originalIndex": 337,
         "lb1": {
-            "attack": 1465,
+            "attack": 1485,
             "defense": 1300,
-            "health": 2377,
-            "power": 1334
+            "health": 2444,
+            "power": 1350
         },
         "lb2": {
-            "attack": 1676,
+            "attack": 1699,
             "defense": 1488,
-            "health": 2720,
-            "power": 1509
+            "health": 2796,
+            "power": 1527
         },
         "cn_skill_info": [
             {
@@ -23307,7 +23950,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 327,
+        "originalIndex": 338,
         "lb1": {
             "attack": 1269,
             "defense": 1163,
@@ -23386,7 +24029,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 328,
+        "originalIndex": 339,
         "lb1": {
             "attack": 930,
             "defense": 885,
@@ -23455,7 +24098,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 329,
+        "originalIndex": 340,
         "lb1": {
             "attack": 1178,
             "defense": 1267,
@@ -23537,7 +24180,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 330,
+        "originalIndex": 341,
         "lb1": {
             "attack": 1394,
             "defense": 1336,
@@ -23616,7 +24259,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 331,
+        "originalIndex": 342,
         "lb1": {
             "attack": 1443,
             "defense": 1429,
@@ -23686,7 +24329,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 332,
+        "originalIndex": 343,
         "lb1": {
             "attack": 1065,
             "defense": 990,
@@ -23764,7 +24407,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 333,
+        "originalIndex": 344,
         "lb1": {
             "attack": 947,
             "defense": 874,
@@ -23820,7 +24463,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
         "heroId": "elemental_zengar_costume_farmer",
         "star": 5,
         "power": 1227,
@@ -23830,20 +24475,21 @@ window.allHeroes =
         "effects": [
             "對目標造成 450% 傷害。",
             "若目標為烈火元素，則對附近敵人造成 400% 傷害。",
+            "施法者會吸收所造成傷害的 30% 並轉化為生命值。",
             "目標在 3 回合內受到共計 1020 點冰霜傷害。",
-            "若目標為烈火系，則其附近敵人在 3 個回合內受到 693 點冰霜傷害。",
-            "施法者會吸收所造成傷害的 30% 並轉化為生命值。"
+            "若目標為烈火系，則其附近敵人在 3 個回合內受到 693 點冰霜傷害。"
         ],
         "passives": [
             "部隊精通：",
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
-            "- 造成額外元素傷害： +150%",
+            "* 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "* 受到元素傷害： -25%",
+            "抵禦烈火異常：此角色免疫烈火系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 334,
+        "originalIndex": 345,
         "lb1": {
             "attack": 1311,
             "defense": 1243,
@@ -23906,10 +24552,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_zheng_tianshou",
         "star": 5,
-        "power": 1276,
-        "attack": 1310,
-        "defense": 1326,
-        "health": 2301,
+        "power": 1291,
+        "attack": 1324,
+        "defense": 1341,
+        "health": 2342,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
             "對所有敵人造成 470% 傷害。",
@@ -23926,18 +24572,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 335,
+        "originalIndex": 346,
         "lb1": {
-            "attack": 1411,
-            "defense": 1429,
-            "health": 2479,
-            "power": 1366
+            "attack": 1427,
+            "defense": 1445,
+            "health": 2524,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1635,
-            "health": 2837,
-            "power": 1545
+            "attack": 1633,
+            "defense": 1653,
+            "health": 2887,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -24006,7 +24652,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 336,
+        "originalIndex": 347,
         "lb1": {
             "attack": 792,
             "defense": 905,
@@ -24064,7 +24710,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 337,
+        "originalIndex": 348,
         "lb1": {
             "attack": 209,
             "defense": 183,
@@ -24109,7 +24755,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 338,
+        "originalIndex": 349,
         "lb1": {
             "attack": 193,
             "defense": 197,
@@ -24154,7 +24800,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 339,
+        "originalIndex": 350,
         "lb1": {
             "attack": 295,
             "defense": 340,
@@ -24199,7 +24845,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 340,
+        "originalIndex": 351,
         "lb1": {
             "attack": 328,
             "defense": 325,
@@ -24244,7 +24890,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 341,
+        "originalIndex": 352,
         "lb1": {
             "attack": 358,
             "defense": 315,
@@ -24288,7 +24934,7 @@ window.allHeroes =
         "defense": 481,
         "health": 804,
         "effects": [
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "在 3 個回合內使目標與附近敵人的最大生命值降低 204 點。對有生命加成的目標效果更大。最大生命值不得低於最大生命值的 30%。任何生命值加成會造成額外降低每回合 68 點。"
         ],
         "passives": [
@@ -24296,7 +24942,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 342,
+        "originalIndex": 353,
         "lb1": {
             "attack": 573,
             "defense": 545,
@@ -24368,7 +25014,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 343,
+        "originalIndex": 354,
         "lb1": {
             "attack": 614,
             "defense": 622,
@@ -24432,7 +25078,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 344,
+        "originalIndex": 355,
         "lb1": {
             "attack": 482,
             "defense": 510,
@@ -24493,7 +25139,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 345,
+        "originalIndex": 356,
         "lb1": {
             "attack": 505,
             "defense": 533,
@@ -24553,7 +25199,7 @@ window.allHeroes =
         "health": 875,
         "effects": [
             "為所有盟友恢復 35% 生命值。",
-            "所有盟友獲得 +34% 防禦，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。",
+            "所有盟友獲得 +34% 防禦，持續 3 回合。對所有自然系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
             "驅散所有敵人的增益。"
         ],
         "passives": [
@@ -24561,7 +25207,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 346,
+        "originalIndex": 357,
         "lb1": {
             "attack": 577,
             "defense": 564,
@@ -24631,7 +25277,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 347,
+        "originalIndex": 358,
         "lb1": {
             "attack": 597,
             "defense": 576,
@@ -24657,6 +25303,57 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "貝麗絲 (Belith) 英姿",
+        "fancy_name": "時尚靈魂",
+        "AetherPower": "防禦提升",
+        "color": "綠",
+        "class": "德魯伊",
+        "speed": "中等",
+        "skill": "時尚迷霧",
+        "types": [
+            "全體治療",
+            "全體驅散"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_mist",
+        "parent_specialId": "calming_mist",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "forest_female_spirit_costume_stylish",
+        "star": 3,
+        "power": 544,
+        "attack": 553,
+        "defense": 543,
+        "health": 960,
+        "effects": [
+            "恢復剩餘生命值最低的盟友 44% 生命值。恢復其餘盟友 37% 生命值。",
+            "驅散所有敵人的增益。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 359,
+        "lb1": {
+            "attack": 627,
+            "defense": 615,
+            "health": 1088,
+            "power": 608
+        },
+        "lb2": {
+            "attack": 775,
+            "defense": 760,
+            "health": 1344,
+            "power": 737
+        },
+        "cn_skill_info": []
     },
     {
         "name": "博爾登 (Berden)",
@@ -24691,7 +25388,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 348,
+        "originalIndex": 360,
         "lb1": {
             "attack": 533,
             "defense": 482,
@@ -24752,7 +25449,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 349,
+        "originalIndex": 361,
         "lb1": {
             "attack": 529,
             "defense": 550,
@@ -24819,7 +25516,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 350,
+        "originalIndex": 362,
         "lb1": {
             "attack": 616,
             "defense": 555,
@@ -24892,7 +25589,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 351,
+        "originalIndex": 363,
         "lb1": {
             "attack": 636,
             "defense": 564,
@@ -24953,7 +25650,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 352,
+        "originalIndex": 364,
         "lb1": {
             "attack": 506,
             "defense": 508,
@@ -25006,7 +25703,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 353,
+        "originalIndex": 365,
         "lb1": {
             "attack": 539,
             "defense": 541,
@@ -25056,14 +25753,14 @@ window.allHeroes =
         "defense": 489,
         "health": 884,
         "effects": [
-            "所有盟友獲得 +45% 攻擊力，並在每次被擊中後增加 20%，持續 5 回合，最高 +145% 攻擊力。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "所有盟友獲得 +45% 攻擊力，並在每次被擊中後增加 20%，持續 5 回合，最高 +145% 攻擊力。對所有自然系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 354,
+        "originalIndex": 366,
         "lb1": {
             "attack": 575,
             "defense": 555,
@@ -25124,7 +25821,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 355,
+        "originalIndex": 367,
         "lb1": {
             "attack": 541,
             "defense": 609,
@@ -25185,7 +25882,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 356,
+        "originalIndex": 368,
         "lb1": {
             "attack": 581,
             "defense": 640,
@@ -25254,7 +25951,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 357,
+        "originalIndex": 369,
         "lb1": {
             "attack": 494,
             "defense": 506,
@@ -25319,7 +26016,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 358,
+        "originalIndex": 370,
         "lb1": {
             "attack": 525,
             "defense": 508,
@@ -25380,7 +26077,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 359,
+        "originalIndex": 371,
         "lb1": {
             "attack": 583,
             "defense": 522,
@@ -25447,7 +26144,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 360,
+        "originalIndex": 372,
         "lb1": {
             "attack": 609,
             "defense": 584,
@@ -25516,7 +26213,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 361,
+        "originalIndex": 373,
         "lb1": {
             "attack": 709,
             "defense": 488,
@@ -25580,12 +26277,12 @@ window.allHeroes =
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "特殊技能施放時摧毀惡魔：此角色施放其特殊技能時，摧毀自身所有惡魔。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 362,
+        "originalIndex": 374,
         "lb1": {
             "attack": 573,
             "defense": 612,
@@ -25621,11 +26318,11 @@ window.allHeroes =
         "speed": "魔法",
         "skill": "浩繁瀚力",
         "types": [
-            "傷害分擔增益",
-            "防禦增益",
-            "傷害分擔減益",
-            "防禦降低",
-            "蓄力"
+            "蓄力",
+            "友方傷害分擔",
+            "全體防禦增益",
+            "敵方傷害分擔",
+            "全體防禦降低"
         ],
         "skill_types": [
             "防禦增益",
@@ -25659,7 +26356,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 363,
+        "originalIndex": 375,
         "lb1": {
             "attack": 524,
             "defense": 571,
@@ -25718,11 +26415,11 @@ window.allHeroes =
             "剩餘生命值最高的敵人会被用血百合標記。（来自血花家族的紀念品。此效果可疊加（最大值： 10 ）。每層血百合效果叠加，每回合可對目標造成 4 點傷害。己方隊伍中的血花角色將獲得等同於造成之傷害量的生命值，並在他們之間平均分配。每層血百合效果叠加，也會使血花家族成員對該目標造成的傷害增加。血百合叠加可透過各種影響叠加的效果来避免或移除。）"
         ],
         "passives": [
-            "目标每有一層血百合叠加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
+            "目标每有一層血百合疊加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 364,
+        "originalIndex": 376,
         "lb1": {
             "attack": 598,
             "defense": 596,
@@ -25785,7 +26482,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 365,
+        "originalIndex": 377,
         "lb1": {
             "attack": 527,
             "defense": 555,
@@ -25862,7 +26559,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 366,
+        "originalIndex": 378,
         "lb1": {
             "attack": 518,
             "defense": 586,
@@ -25925,7 +26622,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 367,
+        "originalIndex": 379,
         "lb1": {
             "attack": 648,
             "defense": 482,
@@ -25998,7 +26695,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 368,
+        "originalIndex": 380,
         "lb1": {
             "attack": 652,
             "defense": 581,
@@ -26056,7 +26753,7 @@ window.allHeroes =
         "defense": 453,
         "health": 785,
         "effects": [
-            "對目標及附近敵人造成 225% 傷害。",
+            "對目標與附近敵人造成 225% 傷害。",
             "對目標與附近的敵人召喚骨陷阱惡魔。惡魔每回合以 45% 的攻擊力對敵人造成傷害。每回合傷害增加 8%，最高可達 93%。",
             "骨陷阱惡魔會吸收治療效果，並於所吸收的生命值等於其擁有者最大生命值的 35% 時消失。"
         ],
@@ -26066,7 +26763,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 369,
+        "originalIndex": 381,
         "lb1": {
             "attack": 591,
             "defense": 514,
@@ -26125,7 +26822,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 370,
+        "originalIndex": 382,
         "lb1": {
             "attack": 520,
             "defense": 510,
@@ -26186,7 +26883,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 371,
+        "originalIndex": 383,
         "lb1": {
             "attack": 548,
             "defense": 541,
@@ -26244,14 +26941,14 @@ window.allHeroes =
         "health": 817,
         "effects": [
             "為施法者和附近盟友恢復 40% 生命值。",
-            "施法者和附近盟友獲得 +12% 法力產出，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "施法者和附近盟友獲得 +12% 法力產出，持續 3 回合。對所有自然系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 372,
+        "originalIndex": 384,
         "lb1": {
             "attack": 598,
             "defense": 591,
@@ -26320,7 +27017,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 373,
+        "originalIndex": 385,
         "lb1": {
             "attack": 627,
             "defense": 599,
@@ -26382,7 +27079,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 374,
+        "originalIndex": 386,
         "lb1": {
             "attack": 589,
             "defense": 575,
@@ -26446,7 +27143,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 375,
+        "originalIndex": 387,
         "lb1": {
             "attack": 559,
             "defense": 512,
@@ -26483,7 +27180,7 @@ window.allHeroes =
         "skill": "糖後興奮感",
         "types": [
             "攻擊所有目標",
-            "法力生成降低"
+            "全體法力生成降低"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -26512,7 +27209,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 376,
+        "originalIndex": 388,
         "lb1": {
             "attack": 567,
             "defense": 529,
@@ -26553,7 +27250,7 @@ window.allHeroes =
         "skill": "長老的妙法",
         "types": [
             "復活者",
-            "法力再生"
+            "全體法力持續恢復"
         ],
         "skill_types": [
             "復活",
@@ -26580,7 +27277,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 377,
+        "originalIndex": 389,
         "lb1": {
             "attack": 508,
             "defense": 583,
@@ -26616,7 +27313,7 @@ window.allHeroes =
         "skill": "園丁的妙法",
         "types": [
             "復活者",
-            "持續治療"
+            "全體持續治療"
         ],
         "skill_types": [
             "持續治療",
@@ -26645,7 +27342,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 378,
+        "originalIndex": 390,
         "lb1": {
             "attack": 520,
             "defense": 584,
@@ -26701,7 +27398,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 379,
+        "originalIndex": 391,
         "lb1": {
             "attack": 457,
             "defense": 695,
@@ -26738,8 +27435,8 @@ window.allHeroes =
         "types": [
             "攻擊單個目標",
             "單體持續傷害",
-            "治療降低",
-            "自我淨化"
+            "單體治療降低",
+            "自身淨化"
         ],
         "skill_types": [
             "凈化",
@@ -26767,7 +27464,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 380,
+        "originalIndex": 392,
         "lb1": {
             "attack": 612,
             "defense": 443,
@@ -26826,7 +27523,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 381,
+        "originalIndex": 393,
         "lb1": {
             "attack": 514,
             "defense": 472,
@@ -26882,7 +27579,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 382,
+        "originalIndex": 394,
         "lb1": {
             "attack": 552,
             "defense": 453,
@@ -26946,7 +27643,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 383,
+        "originalIndex": 395,
         "lb1": {
             "attack": 548,
             "defense": 530,
@@ -27011,7 +27708,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 384,
+        "originalIndex": 396,
         "lb1": {
             "attack": 574,
             "defense": 539,
@@ -27072,7 +27769,7 @@ window.allHeroes =
         "passives": [],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 385,
+        "originalIndex": 397,
         "lb1": {
             "attack": 604,
             "defense": 644,
@@ -27135,7 +27832,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 386,
+        "originalIndex": 398,
         "lb1": {
             "attack": 567,
             "defense": 549,
@@ -27198,7 +27895,7 @@ window.allHeroes =
         "defense": 561,
         "health": 975,
         "effects": [
-            "若施法者擁有 35 以上的謙遜：",
+            "若施法者擁有 40 以上的謙遜：",
             "* 對敵人造成 270% 傷害，並對附近敵人造成輕微傷害。",
             "* 施法者以所受傷害的 90% 進行反擊，持續 4 個回合。",
             "否則：",
@@ -27211,7 +27908,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 387,
+        "originalIndex": 399,
         "lb1": {
             "attack": 630,
             "defense": 636,
@@ -27270,7 +27967,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 388,
+        "originalIndex": 400,
         "lb1": {
             "attack": 537,
             "defense": 488,
@@ -27331,7 +28028,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 389,
+        "originalIndex": 401,
         "lb1": {
             "attack": 568,
             "defense": 497,
@@ -27356,6 +28053,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "內修斯 (Mnesseus) 卡通",
+        "fancy_name": "男性人魚公仔",
+        "AetherPower": "攻擊提升",
+        "color": "綠",
+        "class": "牧師",
+        "speed": "快速",
+        "skill": "亞特蘭蒂斯長矛公仔",
+        "types": [
+            "攻擊單個目標",
+            "全體驅散"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "atlantean_toon_spear",
+        "parent_specialId": "frightening_pinch",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_merman_costume_cute",
+        "star": 3,
+        "power": 559,
+        "attack": 620,
+        "defense": 540,
+        "health": 899,
+        "effects": [
+            "對目標造成 330% 傷害。",
+            "對冰雪系造成額外傷害。",
+            "驅散所有敵人的增益。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 402,
+        "lb1": {
+            "attack": 703,
+            "defense": 612,
+            "health": 1019,
+            "power": 625
+        },
+        "lb2": {
+            "attack": 869,
+            "defense": 757,
+            "health": 1259,
+            "power": 757
+        },
+        "cn_skill_info": []
     },
     {
         "name": "麻吉 (Muggy)",
@@ -27392,7 +28141,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 390,
+        "originalIndex": 403,
         "lb1": {
             "attack": 719,
             "defense": 423,
@@ -27451,7 +28200,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 391,
+        "originalIndex": 404,
         "lb1": {
             "attack": 610,
             "defense": 581,
@@ -27521,7 +28270,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 392,
+        "originalIndex": 405,
         "lb1": {
             "attack": 516,
             "defense": 579,
@@ -27566,7 +28315,7 @@ window.allHeroes =
             "攻擊單個目標",
             "傷害鏈接 (單體)",
             "全體機率穿透",
-            "全體暴擊機率"
+            "全體暴擊幾率增益"
         ],
         "skill_types": [
             "攻擊增益",
@@ -27605,7 +28354,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 393,
+        "originalIndex": 406,
         "lb1": {
             "attack": 585,
             "defense": 600,
@@ -27670,7 +28419,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 394,
+        "originalIndex": 407,
         "lb1": {
             "attack": 397,
             "defense": 581,
@@ -27726,7 +28475,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 395,
+        "originalIndex": 408,
         "lb1": {
             "attack": 628,
             "defense": 460,
@@ -27784,7 +28533,7 @@ window.allHeroes =
         "defense": 500,
         "health": 712,
         "effects": [
-            "對目標及附近敵人造成 210% 傷害。",
+            "對目標與附近敵人造成 210% 傷害。",
             "施法者和附近盟友獲得 +36% 防禦，持續 3 回合。",
             "施法者與附近盟友獲得 +36% 暴擊率，持續 3 回合。"
         ],
@@ -27794,7 +28543,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 396,
+        "originalIndex": 409,
         "lb1": {
             "attack": 616,
             "defense": 567,
@@ -27868,7 +28617,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 397,
+        "originalIndex": 410,
         "lb1": {
             "attack": 512,
             "defense": 539,
@@ -27915,8 +28664,8 @@ window.allHeroes =
         "skill": "鈴鼓獨奏",
         "types": [
             "攻擊所有目標",
-            "攻擊降低",
-            "阻止淨化"
+            "全體攻擊降低",
+            "全體淨化免疫"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -27945,7 +28694,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 398,
+        "originalIndex": 411,
         "lb1": {
             "attack": 559,
             "defense": 565,
@@ -28000,7 +28749,7 @@ window.allHeroes =
         "defense": 474,
         "health": 698,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "敵人的法力越低，受到的傷害越大，最高可達 300%。"
         ],
         "passives": [
@@ -28008,7 +28757,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 399,
+        "originalIndex": 412,
         "lb1": {
             "attack": 620,
             "defense": 537,
@@ -28066,7 +28815,7 @@ window.allHeroes =
         "defense": 533,
         "health": 782,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "敵人的法力越低，受到的傷害越大，最高可達 330%。",
             "目標與附近敵人獲得對自然系 -34% 的防禦，持續 4 回合。"
         ],
@@ -28075,7 +28824,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 400,
+        "originalIndex": 413,
         "lb1": {
             "attack": 697,
             "defense": 604,
@@ -28152,7 +28901,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 401,
+        "originalIndex": 414,
         "lb1": {
             "attack": 766,
             "defense": 704,
@@ -28210,14 +28959,14 @@ window.allHeroes =
         "defense": 648,
         "health": 1262,
         "effects": [
-            "對目標及附近敵人造成 150% 傷害。",
+            "對目標與附近敵人造成 150% 傷害。",
             "使目標與附近敵人的最大生命值降低 75 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 75 點。）",
             "目標與附近敵人獲得對自然系 -54% 的防禦，持續 4 回合。"
         ],
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 0,
-        "originalIndex": 402,
+        "originalIndex": 415,
         "lb1": {
             "attack": 681,
             "defense": 704,
@@ -28282,7 +29031,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 1,
-        "originalIndex": 403,
+        "originalIndex": 416,
         "lb1": {
             "attack": 725,
             "defense": 689,
@@ -28314,6 +29063,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "艾姆 (Almur) 卡通",
+        "fancy_name": "斯瓦塔爾法海姆的暗影公仔",
+        "AetherPower": "特殊加成",
+        "color": "綠",
+        "class": "術士",
+        "speed": "快速",
+        "skill": "掃蕩公仔",
+        "types": [
+            "攻擊3個目標",
+            "3個目標最大生命值降低",
+            "3個目標元素防禦降低"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toon_sweep",
+        "parent_specialId": "shadow_sweep",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_almur_costume_cute",
+        "star": 4,
+        "power": 836,
+        "attack": 812,
+        "defense": 845,
+        "health": 1649,
+        "effects": [
+            "對目標與附近敵人造成 180% 傷害。",
+            "使目標與附近敵人的最大生命值降低 100 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 100 點。）",
+            "目標與附近敵人獲得對自然系 -59% 的防禦，持續 4 回合。",
+            "對冰雪系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "svartalfheim",
+        "costume_id": 2,
+        "originalIndex": 417,
+        "lb1": {
+            "attack": 882,
+            "defense": 918,
+            "health": 1792,
+            "power": 901
+        },
+        "lb2": {
+            "attack": 1023,
+            "defense": 1064,
+            "health": 2077,
+            "power": 1031
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "安東 (Anton)",
         "fancy_name": "年輕學者",
         "AetherPower": "防禦提升",
@@ -28322,11 +29125,11 @@ window.allHeroes =
         "speed": "魔法",
         "skill": "日正當中",
         "types": [
+            "蓄力",
             "攻擊所有目標",
-            "劇毒",
+            "全體持續傷害",
             "復活者",
-            "全體持續治療",
-            "蓄力"
+            "全體持續治療"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -28362,7 +29165,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 404,
+        "originalIndex": 418,
         "lb1": {
             "attack": 706,
             "defense": 695,
@@ -28436,11 +29239,11 @@ window.allHeroes =
         ],
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
+            "抵禦防禦異常：該角色對影響防禦的狀態異常具有天生抗性。同樣適用於影響元素防禦的狀態異常。"
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 405,
+        "originalIndex": 419,
         "lb1": {
             "attack": 750,
             "defense": 778,
@@ -28506,7 +29309,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 406,
+        "originalIndex": 420,
         "lb1": {
             "attack": 743,
             "defense": 662,
@@ -28565,7 +29368,7 @@ window.allHeroes =
         "defense": 690,
         "health": 1323,
         "effects": [
-            "對目標及附近敵人造成 205% 傷害。",
+            "對目標與附近敵人造成 205% 傷害。",
             "為施法者與附近盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命和 10% 攻擊。",
             "目標與附近敵人獲得 -24% 攻擊力，持續 3 回合。",
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。"
@@ -28573,7 +29376,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 407,
+        "originalIndex": 421,
         "lb1": {
             "attack": 577,
             "defense": 750,
@@ -28641,7 +29444,7 @@ window.allHeroes =
         "defense": 855,
         "health": 1665,
         "effects": [
-            "對目標及附近敵人造成 220% 傷害。",
+            "對目標與附近敵人造成 220% 傷害。",
             "為施法者與附近盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命和 10% 攻擊。",
             "目標與附近敵人獲得 -18% 攻擊力，持續 3 回合。",
             "目標與附近敵人獲得 -38% 防禦，持續 3 回合。",
@@ -28652,7 +29455,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 408,
+        "originalIndex": 422,
         "lb1": {
             "attack": 727,
             "defense": 929,
@@ -28718,7 +29521,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 409,
+        "originalIndex": 423,
         "lb1": {
             "attack": 690,
             "defense": 692,
@@ -28779,7 +29582,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 410,
+        "originalIndex": 424,
         "lb1": {
             "attack": 743,
             "defense": 736,
@@ -28836,14 +29639,14 @@ window.allHeroes =
         "defense": 720,
         "health": 1341,
         "effects": [
-            "對目標及附近敵人造成 275% 傷害。",
+            "對目標與附近敵人造成 275% 傷害。",
             "目標和附近敵人在 3 回合內無法獲得新的狀態效果增益。",
             "驅散目標和附近敵人的增益。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 411,
+        "originalIndex": 425,
         "lb1": {
             "attack": 809,
             "defense": 783,
@@ -28915,7 +29718,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 412,
+        "originalIndex": 426,
         "lb1": {
             "attack": 826,
             "defense": 807,
@@ -28990,7 +29793,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 413,
+        "originalIndex": 427,
         "lb1": {
             "attack": 843,
             "defense": 818,
@@ -29067,7 +29870,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 414,
+        "originalIndex": 428,
         "lb1": {
             "attack": 924,
             "defense": 891,
@@ -29139,7 +29942,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 415,
+        "originalIndex": 429,
         "lb1": {
             "attack": 600,
             "defense": 741,
@@ -29206,7 +30009,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 416,
+        "originalIndex": 430,
         "lb1": {
             "attack": 803,
             "defense": 812,
@@ -29268,7 +30071,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 417,
+        "originalIndex": 431,
         "lb1": {
             "attack": 671,
             "defense": 750,
@@ -29334,7 +30137,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 418,
+        "originalIndex": 432,
         "lb1": {
             "attack": 665,
             "defense": 784,
@@ -29361,6 +30164,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "嘉德利亞斯 (Gadeirus) 卡通",
+        "fancy_name": "亞特蘭蒂斯守望者公仔",
+        "AetherPower": "惡魔抵禦",
+        "color": "綠",
+        "class": "德魯伊",
+        "speed": "慢速",
+        "skill": "公仔猛擊",
+        "types": [
+            "攻擊3個目標",
+            "3個目標攻擊增益",
+            "3個目標持續治療"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_bash",
+        "parent_specialId": "empowering_bash",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_atlantean_robot_costume_cute",
+        "star": 4,
+        "power": 825,
+        "attack": 820,
+        "defense": 884,
+        "health": 1474,
+        "effects": [
+            "對目標造成 195% 傷害，並對附近敵人造成輕微傷害。",
+            "施法者和附近盟友獲得 +50% 攻擊力，持續 4 回合。",
+            "施法者和附近盟友在 4 回合內恢復 812 點生命值。",
+            "對冰雪系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 433,
+        "lb1": {
+            "attack": 891,
+            "defense": 960,
+            "health": 1602,
+            "power": 889
+        },
+        "lb2": {
+            "attack": 1033,
+            "defense": 1113,
+            "health": 1857,
+            "power": 1018
+        },
+        "cn_skill_info": []
     },
     {
         "name": "戈不勒 (Gobbler)",
@@ -29398,7 +30255,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 419,
+        "originalIndex": 434,
         "lb1": {
             "attack": 697,
             "defense": 667,
@@ -29463,7 +30320,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 420,
+        "originalIndex": 435,
         "lb1": {
             "attack": 637,
             "defense": 718,
@@ -29532,7 +30389,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 421,
+        "originalIndex": 436,
         "lb1": {
             "attack": 759,
             "defense": 653,
@@ -29602,7 +30459,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 422,
+        "originalIndex": 437,
         "lb1": {
             "attack": 729,
             "defense": 770,
@@ -29642,7 +30499,8 @@ window.allHeroes =
         "speed": "快速",
         "skill": "魯莽連斬",
         "types": [
-            "攻擊所有目標"
+            "攻擊所有目標",
+            "自身防禦減益"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -29665,7 +30523,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 423,
+        "originalIndex": 438,
         "lb1": {
             "attack": 808,
             "defense": 655,
@@ -29700,8 +30558,9 @@ window.allHeroes =
         "speed": "快速",
         "skill": "雞蛋彈幕",
         "types": [
-            "攻擊所有目標",
-            "連鎖"
+            "攻擊單個目標",
+            "連鎖攻擊",
+            "除自身外全體隊友攻擊減益"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -29727,10 +30586,12 @@ window.allHeroes =
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
             "除了施法者，所有盟友獲得 -20% 攻擊力，持續 3 回合。此效果無法驅散。"
         ],
-        "passives": [],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 424,
+        "originalIndex": 439,
         "lb1": {
             "attack": 927,
             "defense": 853,
@@ -29795,7 +30656,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 425,
+        "originalIndex": 440,
         "lb1": {
             "attack": 912,
             "defense": 798,
@@ -29861,7 +30722,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 426,
+        "originalIndex": 441,
         "lb1": {
             "attack": 681,
             "defense": 704,
@@ -29921,7 +30782,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 427,
+        "originalIndex": 442,
         "lb1": {
             "attack": 595,
             "defense": 704,
@@ -29983,7 +30844,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 428,
+        "originalIndex": 443,
         "lb1": {
             "attack": 649,
             "defense": 765,
@@ -30044,7 +30905,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 429,
+        "originalIndex": 444,
         "lb1": {
             "attack": 650,
             "defense": 831,
@@ -30102,14 +30963,14 @@ window.allHeroes =
         "health": 1659,
         "effects": [
             "為施法者和附近盟友恢復 48% 生命值。",
-            "施法者和附近盟友獲得對烈火系 +84% 的防禦，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "施法者和附近盟友獲得對烈火系 +84% 的防禦，持續 3 回合。對所有自然系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 430,
+        "originalIndex": 445,
         "lb1": {
             "attack": 740,
             "defense": 751,
@@ -30178,7 +31039,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 431,
+        "originalIndex": 446,
         "lb1": {
             "attack": 802,
             "defense": 736,
@@ -30252,7 +31113,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 432,
+        "originalIndex": 447,
         "lb1": {
             "attack": 893,
             "defense": 868,
@@ -30296,7 +31157,8 @@ window.allHeroes =
         "skill": "星座之衣",
         "types": [
             "攻擊3個目標",
-            "閃避"
+            "3個目標治療偷取",
+            "3個目標閃避率"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -30321,7 +31183,7 @@ window.allHeroes =
         "health": 1292,
         "effects": [
             "此特殊技能必定命中目標。",
-            "對目標及附近敵人造成 245% 傷害。",
+            "對目標與附近敵人造成 245% 傷害。",
             "施法者偷取目標及其附近敵人所獲治療的 50%，持續 2 回合。",
             "施法者與附近盟友有 +45% 的機率閃避可造成傷害的特殊技能，持續 2 回合。"
         ],
@@ -30331,7 +31193,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 433,
+        "originalIndex": 448,
         "lb1": {
             "attack": 743,
             "defense": 748,
@@ -30395,7 +31257,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 434,
+        "originalIndex": 449,
         "lb1": {
             "attack": 805,
             "defense": 618,
@@ -30457,7 +31319,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 435,
+        "originalIndex": 450,
         "lb1": {
             "attack": 837,
             "defense": 691,
@@ -30519,7 +31381,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 436,
+        "originalIndex": 451,
         "lb1": {
             "attack": 913,
             "defense": 693,
@@ -30586,7 +31448,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 437,
+        "originalIndex": 452,
         "lb1": {
             "attack": 915,
             "defense": 756,
@@ -30659,7 +31521,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 438,
+        "originalIndex": 453,
         "lb1": {
             "attack": 936,
             "defense": 766,
@@ -30720,14 +31582,14 @@ window.allHeroes =
         "defense": 626,
         "health": 1338,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "所有具有可淨化攻擊狀態異常的英雄獲得 +50% 攻擊力，持續 3 回合。",
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。"
         ],
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 439,
+        "originalIndex": 454,
         "lb1": {
             "attack": 711,
             "defense": 681,
@@ -30791,7 +31653,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 440,
+        "originalIndex": 455,
         "lb1": {
             "attack": 775,
             "defense": 637,
@@ -30855,7 +31717,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 441,
+        "originalIndex": 456,
         "lb1": {
             "attack": 773,
             "defense": 726,
@@ -30920,7 +31782,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 442,
+        "originalIndex": 457,
         "lb1": {
             "attack": 743,
             "defense": 902,
@@ -30981,7 +31843,7 @@ window.allHeroes =
         "health": 1234,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
-            "所有盟友獲得 +34% 防禦，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。",
+            "所有盟友獲得 +34% 防禦，持續 3 回合。對所有自然系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
             "驅散所有敵人的增益。"
         ],
         "passives": [
@@ -30989,7 +31851,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 443,
+        "originalIndex": 458,
         "lb1": {
             "attack": 869,
             "defense": 791,
@@ -31059,7 +31921,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 444,
+        "originalIndex": 459,
         "lb1": {
             "attack": 882,
             "defense": 807,
@@ -31125,7 +31987,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 445,
+        "originalIndex": 460,
         "lb1": {
             "attack": 960,
             "defense": 891,
@@ -31160,8 +32022,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "妖精之歌",
         "types": [
-            "召喚者",
-            "攻擊降低"
+            "召喚所有",
+            "法力生成增益小兵",
+            "全體攻擊降低"
         ],
         "skill_types": [
             "攻擊減益",
@@ -31190,7 +32053,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 446,
+        "originalIndex": 461,
         "lb1": {
             "attack": 667,
             "defense": 704,
@@ -31230,8 +32093,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "妖精讚歌",
         "types": [
-            "召喚者",
-            "攻擊降低"
+            "召喚所有",
+            "法力生成增益小兵",
+            "全體攻擊降低"
         ],
         "skill_types": [
             "攻擊減益",
@@ -31262,7 +32126,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 447,
+        "originalIndex": 462,
         "lb1": {
             "attack": 663,
             "defense": 732,
@@ -31303,7 +32167,7 @@ window.allHeroes =
         "skill": "厭惡劈擊",
         "types": [
             "攻擊3個目標",
-            "法力削減",
+            "3個目標法力削減",
             "全體持續傷害"
         ],
         "skill_types": [
@@ -31328,10 +32192,10 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 230% 傷害。",
+            "* 對目標與附近敵人造成 230% 傷害。",
             "* 使目標和附近敵人的法力減少 10%。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 260% 傷害。",
+            "* 對目標與附近敵人造成 260% 傷害。",
             "* 使目標和附近敵人的法力減少 15%。",
             "* 所有敵人在 5 個回合內受到 570 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 50% 作為生命值。"
         ],
@@ -31342,7 +32206,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 448,
+        "originalIndex": 463,
         "lb1": {
             "attack": 780,
             "defense": 699,
@@ -31385,7 +32249,7 @@ window.allHeroes =
         "skill": "毒和弦",
         "types": [
             "攻擊3個目標",
-            "法力削減",
+            "3個目標法力削減",
             "全體持續傷害"
         ],
         "skill_types": [
@@ -31414,10 +32278,10 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 220% 傷害。",
+            "* 對目標與附近敵人造成 220% 傷害。",
             "* 使目標和附近敵人的法力減少 8%。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 280% 傷害。",
+            "* 對目標與附近敵人造成 280% 傷害。",
             "* 使目標和附近敵人的法力減少 18%。",
             "* 所有敵人在 5 個回合內受到 665 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 55% 作為生命值。"
         ],
@@ -31429,7 +32293,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 449,
+        "originalIndex": 464,
         "lb1": {
             "attack": 725,
             "defense": 793,
@@ -31472,8 +32336,8 @@ window.allHeroes =
         "skill": "稀有的栽培品種",
         "types": [
             "攻擊3個目標",
-            "強化防禦異常",
-            "延遲擴散持續傷害"
+            "3個目標強化防禦異常",
+            "3個目標延遲擴散式持續傷害"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -31507,7 +32371,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 450,
+        "originalIndex": 465,
         "lb1": {
             "attack": 854,
             "defense": 720,
@@ -31583,7 +32447,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 451,
+        "originalIndex": 466,
         "lb1": {
             "attack": 729,
             "defense": 725,
@@ -31656,7 +32520,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 452,
+        "originalIndex": 467,
         "lb1": {
             "attack": 690,
             "defense": 738,
@@ -31726,7 +32590,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 453,
+        "originalIndex": 468,
         "lb1": {
             "attack": 699,
             "defense": 697,
@@ -31790,7 +32654,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 454,
+        "originalIndex": 469,
         "lb1": {
             "attack": 734,
             "defense": 775,
@@ -31857,7 +32721,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 455,
+        "originalIndex": 470,
         "lb1": {
             "attack": 637,
             "defense": 745,
@@ -31933,7 +32797,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 456,
+        "originalIndex": 471,
         "lb1": {
             "attack": 626,
             "defense": 784,
@@ -32000,7 +32864,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 457,
+        "originalIndex": 472,
         "lb1": {
             "attack": 713,
             "defense": 775,
@@ -32060,7 +32924,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 458,
+        "originalIndex": 473,
         "lb1": {
             "attack": 791,
             "defense": 658,
@@ -32121,7 +32985,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 459,
+        "originalIndex": 474,
         "lb1": {
             "attack": 862,
             "defense": 699,
@@ -32182,7 +33046,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 460,
+        "originalIndex": 475,
         "lb1": {
             "attack": 900,
             "defense": 772,
@@ -32249,7 +33113,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 461,
+        "originalIndex": 476,
         "lb1": {
             "attack": 918,
             "defense": 767,
@@ -32322,7 +33186,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 462,
+        "originalIndex": 477,
         "lb1": {
             "attack": 956,
             "defense": 772,
@@ -32352,6 +33216,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "柱子骷髏 (Skittleskull) 英姿",
+        "fancy_name": "時尚女巫",
+        "AetherPower": "法力加成",
+        "color": "綠",
+        "class": "術士",
+        "speed": "慢速",
+        "skill": "時尚藤蔓",
+        "types": [
+            "攻擊所有目標",
+            "全體攻擊降低"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_vines",
+        "parent_specialId": "creeping_vines",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "goblin_mage_costume_stylish",
+        "star": 4,
+        "power": 815,
+        "attack": 972,
+        "defense": 767,
+        "health": 1254,
+        "effects": [
+            "對所有敵人造成 235% 傷害。",
+            "對剩餘生命少於 50% 的敵人造成 315% 傷害。",
+            "所有敵人獲得 -32% 攻擊力，持續 6 回合。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 478,
+        "lb1": {
+            "attack": 1056,
+            "defense": 834,
+            "health": 1362,
+            "power": 878
+        },
+        "lb2": {
+            "attack": 1224,
+            "defense": 967,
+            "health": 1579,
+            "power": 1005
+        },
+        "cn_skill_info": []
     },
     {
         "name": "斯諾理 (Snorri)",
@@ -32393,12 +33309,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 209 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 209 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 463,
+        "originalIndex": 479,
         "lb1": {
             "attack": 842,
             "defense": 815,
@@ -32436,7 +33352,7 @@ window.allHeroes =
         "skill": "致殘抓握",
         "types": [
             "攻擊單個目標",
-            "沈默",
+            "單體沈默",
             "單體持續傷害"
         ],
         "skill_types": [
@@ -32466,7 +33382,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 464,
+        "originalIndex": 480,
         "lb1": {
             "attack": 720,
             "defense": 725,
@@ -32504,7 +33420,7 @@ window.allHeroes =
         "skill": "令人低落的取笑",
         "types": [
             "攻擊單個目標",
-            "沈默",
+            "單體沈默",
             "單體持續傷害"
         ],
         "skill_types": [
@@ -32536,7 +33452,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 465,
+        "originalIndex": 481,
         "lb1": {
             "attack": 803,
             "defense": 713,
@@ -32597,7 +33513,7 @@ window.allHeroes =
         "defense": 680,
         "health": 1200,
         "effects": [
-            "對目標及附近敵人造成 165% 傷害。",
+            "對目標與附近敵人造成 165% 傷害。",
             "對目標與附近敵人召喚間諜惡魔。惡魔每回合以 45% 的攻擊力對敵人造成傷害。",
             "間諜惡魔會吸收治療效果。在吸收的治療量等於其擁有者最大生命值的 30% 時消失。",
             "每個回合結束時，間諜惡魔會盜取其中一個目標的可驅散增益，給予敵對戰隊的一個角色。",
@@ -32608,7 +33524,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 466,
+        "originalIndex": 482,
         "lb1": {
             "attack": 755,
             "defense": 738,
@@ -32674,7 +33590,7 @@ window.allHeroes =
         "defense": 777,
         "health": 1435,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "對目標與附近敵人召喚間諜惡魔。惡魔每回合以 45% 的攻擊力對敵人造成傷害。",
             "間諜惡魔會吸收治療效果。在吸收的治療量等於其擁有者最大生命值的 30% 時消失。",
             "每個回合結束時，間諜惡魔會盜取其中一個目標的可驅散增益，給予敵對戰隊的一個角色。",
@@ -32686,7 +33602,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 467,
+        "originalIndex": 483,
         "lb1": {
             "attack": 878,
             "defense": 844,
@@ -32749,7 +33665,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 468,
+        "originalIndex": 484,
         "lb1": {
             "attack": 734,
             "defense": 699,
@@ -32775,6 +33691,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "蓍草 (Achillea)",
+        "fancy_name": "無畏角鬥士史萊姆",
+        "AetherPower": "憤怒",
+        "color": "綠",
+        "class": "戰士",
+        "speed": "快速",
+        "skill": "粉碎擠壓",
+        "types": [
+            "攻擊3個目標",
+            "3個目標吞噬黏液減益",
+            "3個目標反擊"
+        ],
+        "skill_types": [],
+        "source": "超級元素",
+        "Release date": "2026-04-24",
+        "specialId": "squish_squash_achillea",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "heroId": "slime_achillea",
+        "star": 5,
+        "power": 1315,
+        "attack": 1392,
+        "defense": 1332,
+        "health": 2358,
+        "effects": [
+            "對目標與附近敵人造成 310% 傷害。",
+            "目標與附近敵人受到吞噬黏液狀態異常，持續 4 回合。",
+            "吞噬黏液：移除所有可驅散的增益和成長效果，每回合造成 100 點傷害，並且每移除一個效果就會受到 100 點傷害。（如果目標已有此效果，則會刷新持續時間，並從移除效果所受的額外傷害將會加到新效果中。每回合傷害不得超過 700 ）",
+            "施法者與附近盟友在 4 個回合內以所受傷害的 95% 進行反擊，每回合反擊傷害提升 +10%，最高可提升至 +135%。"
+        ],
+        "passives": [
+            "被擊敗時召喚史萊姆小兵：當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的 50% 生命值和 40% 攻擊力。",
+            "史萊姆小兵分裂：當此角色一次失去超過 25% 的最大生命值時，會為自身召喚史萊姆超級小兵，小兵具有 50% 生命值和 40% 攻擊力。"
+        ],
+        "family": "slime",
+        "costume_id": 0,
+        "originalIndex": 485,
+        "lb1": {
+            "attack": 1500,
+            "defense": 1436,
+            "health": 2541,
+            "power": 1407
+        },
+        "lb2": {
+            "attack": 1717,
+            "defense": 1643,
+            "health": 2908,
+            "power": 1593
+        },
+        "cn_skill_info": []
     },
     {
         "name": "乙太模仿怪 (Aether Mimic Nature)",
@@ -32820,14 +33790,17 @@ window.allHeroes =
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 阿爾法已太。",
             "* 自然已太 III。",
+            "史詩：",
             "* 自然已太 II。",
+            "稀有：",
             "* 自然已太 I。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 469,
+        "originalIndex": 486,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -32902,7 +33875,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 470,
+        "originalIndex": 487,
         "lb1": {
             "attack": 865,
             "defense": 927,
@@ -32975,7 +33948,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 471,
+        "originalIndex": 488,
         "lb1": {
             "attack": 1258,
             "defense": 1319,
@@ -33040,7 +34013,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 472,
+        "originalIndex": 489,
         "lb1": {
             "attack": 781,
             "defense": 799,
@@ -33114,7 +34087,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 473,
+        "originalIndex": 490,
         "lb1": {
             "attack": 983,
             "defense": 1020,
@@ -33189,7 +34162,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 474,
+        "originalIndex": 491,
         "lb1": {
             "attack": 1223,
             "defense": 1307,
@@ -33234,7 +34207,7 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "全體增益免疫狀態異常",
-            "企圖獲得增益時受到傷害",
+            "企圖獲得增益時受到傷害(全體)",
             "自身致盲"
         ],
         "skill_types": [
@@ -33260,7 +34233,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 475,
+        "originalIndex": 492,
         "lb1": {
             "attack": 939,
             "defense": 892,
@@ -33297,8 +34270,9 @@ window.allHeroes =
         "skill": "精力牧歌",
         "types": [
             "攻擊所有目標",
-            "增益免疫狀態異常",
-            "自我致盲"
+            "全體增益免疫狀態異常",
+            "企圖獲得增益時受到傷害",
+            "自身致盲"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -33324,10 +34298,12 @@ window.allHeroes =
             "所有敵人免疫新狀態效果增益，持續 4 回合，每獲得一個新增益，將會受到 300 傷害。",
             "施法者獲得 -10% 精準度，持續 4 回合。此效果無法淨化。（進攻型特殊技能也有機率無法擊中。）"
         ],
-        "passives": [],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 476,
+        "originalIndex": 493,
         "lb1": {
             "attack": 1267,
             "defense": 1204,
@@ -33395,7 +34371,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 477,
+        "originalIndex": 494,
         "lb1": {
             "attack": 836,
             "defense": 894,
@@ -33460,7 +34436,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 478,
+        "originalIndex": 495,
         "lb1": {
             "attack": 1165,
             "defense": 1274,
@@ -33528,31 +34504,31 @@ window.allHeroes =
         "defense": 1268,
         "health": 2152,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 668 點流血傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
+            "每次敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "目標與附近敵人在 4 回合內受到共計 608 點流血傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* * * *",
+            "史詩：",
             "- 大马士革刀。",
             "- 策略书卷。",
             "- 神秘補藥。",
-            "* * *",
+            "稀有：",
             "- 精致手套。",
             "- 指南。",
             "- 堅固護盾。",
             "- 高筒靴。",
             "- 劍鞘。",
-            "* *",
+            "罕見：",
             "- 粗繩。",
             "- 匕首。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 479,
+        "originalIndex": 496,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -33637,7 +34613,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 480,
+        "originalIndex": 497,
         "lb1": {
             "attack": 932,
             "defense": 805,
@@ -33700,16 +34676,16 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_athos_costume_farrier",
         "star": 5,
-        "power": 1259,
-        "attack": 1333,
-        "defense": 1144,
-        "health": 2483,
+        "power": 1285,
+        "attack": 1350,
+        "defense": 1159,
+        "health": 2597,
         "effects": [
             "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
-            "對目標造成 480% 傷害。",
+            "對目標造成 510% 傷害。",
             "每個摧毀的小兵使施法者獲得 20% 法力。",
             "攻擊會無視防禦增益。（包含反擊）",
-            "施法者在 2 個回合內恢復 700 點加成生命值。加成生命值能夠超過最大生命值。"
+            "施法者在 2 個回合內恢復 800 點加成生命值。加成生命值能夠超過最大生命值。"
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
@@ -33717,18 +34693,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 481,
+        "originalIndex": 498,
         "lb1": {
-            "attack": 1436,
-            "defense": 1232,
-            "health": 2676,
-            "power": 1347
+            "attack": 1455,
+            "defense": 1249,
+            "health": 2798,
+            "power": 1375
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1410,
-            "health": 3062,
-            "power": 1523
+            "attack": 1665,
+            "defense": 1429,
+            "health": 3202,
+            "power": 1556
         },
         "cn_skill_info": [
             {
@@ -33781,7 +34757,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 482,
+        "originalIndex": 499,
         "lb1": {
             "attack": 790,
             "defense": 783,
@@ -33849,7 +34825,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 483,
+        "originalIndex": 500,
         "lb1": {
             "attack": 987,
             "defense": 979,
@@ -33879,6 +34855,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "阿多莫斯 (Atomos) 卡通",
+        "fancy_name": "亞特蘭蒂斯守護者公仔",
+        "AetherPower": "憤怒",
+        "color": "綠",
+        "class": "野人",
+        "speed": "中等",
+        "skill": "公仔殲滅",
+        "types": [
+            "攻擊所有目標",
+            "自我復活"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_annihilation",
+        "parent_specialId": "immortal_annihilator",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_skyllaros_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1390,
+        "defense": 1340,
+        "health": 2540,
+        "effects": [
+            "對所有敵人造成 320% 傷害。",
+            "敵人的法力越高，受到的傷害越大，最高可達 440%。",
+            "如果施法者在後續 5 個回合中被擊敗，他們將在下一個回合開頭以 45% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。",
+            "對冰雪系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 501,
+        "lb1": {
+            "attack": 1498,
+            "defense": 1444,
+            "health": 2737,
+            "power": 1436
+        },
+        "lb2": {
+            "attack": 1714,
+            "defense": 1652,
+            "health": 3132,
+            "power": 1625
+        },
+        "cn_skill_info": []
     },
     {
         "name": "艾烏 (Atwood)",
@@ -33924,7 +34953,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 484,
+        "originalIndex": 502,
         "lb1": {
             "attack": 1209,
             "defense": 1196,
@@ -33998,7 +35027,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 485,
+        "originalIndex": 503,
         "lb1": {
             "attack": 854,
             "defense": 912,
@@ -34081,7 +35110,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 486,
+        "originalIndex": 504,
         "lb1": {
             "attack": 821,
             "defense": 814,
@@ -34148,7 +35177,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 487,
+        "originalIndex": 505,
         "lb1": {
             "attack": 1445,
             "defense": 1438,
@@ -34216,7 +35245,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 488,
+        "originalIndex": 506,
         "lb1": {
             "attack": 774,
             "defense": 834,
@@ -34287,7 +35316,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 489,
+        "originalIndex": 507,
         "lb1": {
             "attack": 1123,
             "defense": 1001,
@@ -34350,14 +35379,14 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_bonga",
         "star": 5,
-        "power": 1256,
-        "attack": 1277,
-        "defense": 1316,
-        "health": 2261,
+        "power": 1271,
+        "attack": 1291,
+        "defense": 1330,
+        "health": 2305,
         "effects": [
             "對所有敵人造成 415% 傷害。",
-            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 800 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
-            "為每位盟友召喚一個籃靈小兵，其可從施法者繼承 30% 生命值與 30% 攻擊力。",
+            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 600 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
+            "為每位盟友召喚一個籃靈小兵，其可從施法者繼承 32% 生命值與 32% 攻擊力。",
             "籃靈小兵每次擊中敵人時，會從敵方處竊取一個可驅散的增益並交給其主人。"
         ],
         "passives": [
@@ -34368,18 +35397,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 490,
+        "originalIndex": 508,
         "lb1": {
-            "attack": 1376,
-            "defense": 1418,
-            "health": 2437,
-            "power": 1344
+            "attack": 1391,
+            "defense": 1434,
+            "health": 2484,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1574,
-            "defense": 1623,
-            "health": 2788,
-            "power": 1520
+            "attack": 1592,
+            "defense": 1640,
+            "health": 2842,
+            "power": 1539
         },
         "cn_skill_info": [
             {
@@ -34441,7 +35470,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 491,
+        "originalIndex": 509,
         "lb1": {
             "attack": 1394,
             "defense": 1152,
@@ -34512,7 +35541,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 492,
+        "originalIndex": 510,
         "lb1": {
             "attack": 961,
             "defense": 1034,
@@ -34566,10 +35595,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_borgholf",
         "star": 5,
-        "power": 1281,
-        "attack": 1341,
-        "defense": 1306,
-        "health": 2294,
+        "power": 1291,
+        "attack": 1351,
+        "defense": 1316,
+        "health": 2325,
         "effects": [
             "對 3 名隨機敵人造成 275% 傷害。",
             "被擊中的敵人受到尖刺陷阱影響。",
@@ -34585,18 +35614,18 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 493,
+        "originalIndex": 511,
         "lb1": {
-            "attack": 1445,
-            "defense": 1407,
-            "health": 2473,
-            "power": 1370
+            "attack": 1456,
+            "defense": 1418,
+            "health": 2506,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1653,
-            "defense": 1610,
-            "health": 2829,
-            "power": 1550
+            "attack": 1666,
+            "defense": 1623,
+            "health": 2867,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -34627,7 +35656,8 @@ window.allHeroes =
         "skill": "森林祝福",
         "types": [
             "全體治療",
-            "安全淨化"
+            "全體延遲法力提升",
+            "全體安全淨化"
         ],
         "skill_types": [
             "治療",
@@ -34657,11 +35687,12 @@ window.allHeroes =
         "passives": [
             "小兵致盲：所有敵方小兵擁有 -60% 精準度。所有敵方超級小兵擁有 -50% 精準度。",
             "抵抗防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。",
+            "resist insa。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 494,
+        "originalIndex": 512,
         "lb1": {
             "attack": 1205,
             "defense": 1274,
@@ -34703,7 +35734,8 @@ window.allHeroes =
         "types": [
             "治療3個目標",
             "3個目標拔除並淨化",
-            "全體成長"
+            "全體攻擊力成長",
+            "全體防禦力成長"
         ],
         "skill_types": [
             "召喚惡魔",
@@ -34720,13 +35752,14 @@ window.allHeroes =
         ],
         "heroId": "vegetable_broseph",
         "star": 5,
-        "power": 1278,
-        "attack": 1320,
-        "defense": 1322,
-        "health": 2294,
+        "power": 1283,
+        "attack": 1324,
+        "defense": 1328,
+        "health": 2307,
         "effects": [
             "為施法者和附近盟友恢復 50% 生命值。",
-            "拔除施法者與附近盟友的减益。（拔除可以從每個目標上安全地移除 2 個状態異常、負面疊加或枯萎效果。包含不可淨化的狀態異常與跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全淨化可避免移除状態異常時的第二效果，例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。枯萎效果會最先被移除。其他效果則是以最後獲得的開始移除。）",
+            "拔除施法者與附近盟友的减益。（拔除可以從每個目標上安全地移除 2 個状態異常、負面疊加或枯萎效果。包含不可淨化的狀態異常與跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全淨化可避免移除状態異常時的第二效果，例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。）",
+            "枯萎效果會最先被移除。其他效果則是以最後獲得的開始移除。",
             "成長：所有盟友獲得 125 點攻擊和 125 點防禦。"
         ],
         "passives": [
@@ -34741,18 +35774,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 495,
+        "originalIndex": 513,
         "lb1": {
-            "attack": 1423,
-            "defense": 1425,
-            "health": 2473,
-            "power": 1368
+            "attack": 1427,
+            "defense": 1431,
+            "health": 2486,
+            "power": 1373
         },
         "lb2": {
-            "attack": 1628,
-            "defense": 1630,
-            "health": 2829,
-            "power": 1547
+            "attack": 1633,
+            "defense": 1638,
+            "health": 2844,
+            "power": 1553
         },
         "cn_skill_info": [
             {
@@ -34783,7 +35816,7 @@ window.allHeroes =
         "skill": "建造磚",
         "types": [
             "攻擊3個目標",
-            "3個目標攻擊增益",
+            "3個目標攻擊力成長",
             "3個目標元素反射",
             "3個目標元素反擊",
             "自我史萊姆復活"
@@ -34804,12 +35837,12 @@ window.allHeroes =
         ],
         "heroId": "slime_bulklug",
         "star": 5,
-        "power": 1257,
-        "attack": 1293,
-        "defense": 1297,
-        "health": 2261,
+        "power": 1272,
+        "attack": 1308,
+        "defense": 1312,
+        "health": 2305,
         "effects": [
-            "對目標及附近敵人造成 450% 傷害。",
+            "對目標與附近敵人造成 450% 傷害。",
             "成長：施法者和附近盟友獲得 200 點攻擊。",
             "施法者和附近盟友將全部状態異常和 160% 傷害反射給進攻者，並抵擋其它來自敵人烈火特殊技能的負面效果，持續 4 回合。此效果無法驅散。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）",
             "施法者獲得史萊姆復活，持續 4 個回合。此效果無法驅散。",
@@ -34821,18 +35854,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 496,
+        "originalIndex": 514,
         "lb1": {
-            "attack": 1394,
-            "defense": 1398,
-            "health": 2437,
-            "power": 1345
+            "attack": 1409,
+            "defense": 1414,
+            "health": 2484,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1595,
-            "defense": 1600,
-            "health": 2788,
-            "power": 1521
+            "attack": 1612,
+            "defense": 1617,
+            "health": 2842,
+            "power": 1539
         },
         "cn_skill_info": [
             {
@@ -34900,7 +35933,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 497,
+        "originalIndex": 515,
         "lb1": {
             "attack": 1296,
             "defense": 1229,
@@ -34969,12 +36002,12 @@ window.allHeroes =
             "元素鏈給予所有自然盟友 +20% 暴擊率，持續 6 個回合。此效果無法驅散。"
         ],
         "passives": [
-            "抵禦治療異常：此角色對影響治療的異常具有天生抗性。",
+            "抵禦治療異常：此角色對影響治療的狀態異常免疫。",
             "敵人施展特殊技能時提升生命值：當敵人施放特殊技能時，此角色會有 50% 機率提升自身生命值 100 點。"
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 498,
+        "originalIndex": 516,
         "lb1": {
             "attack": 985,
             "defense": 1274,
@@ -35045,7 +36078,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 499,
+        "originalIndex": 517,
         "lb1": {
             "attack": 952,
             "defense": 785,
@@ -35072,6 +36105,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "科斯頓 (Coleston)",
+        "fancy_name": "勢不可擋的半身人",
+        "AetherPower": "攻擊提升",
+        "color": "綠",
+        "class": "戰士",
+        "speed": "快速",
+        "skill": "農工之怒",
+        "types": [
+            "攻擊單個目標",
+            "無視防禦",
+            "單體防禦衰減"
+        ],
+        "skill_types": [],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-05-01",
+        "specialId": "farmhands_fury",
+        "passiveSkills": [
+            "resist_burn",
+            "dodge_enemy_damage_special"
+        ],
+        "heroId": "nature_god_coleston",
+        "star": 5,
+        "power": 1223,
+        "attack": 1330,
+        "defense": 1279,
+        "health": 1965,
+        "effects": [
+            "對目標造成 600% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "枯萎：目標獲得 -330 點防禦。",
+            "元素鏈使所有自然盟友恢復 +4% 生命，持續 6 個回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。",
+            "抵禦燃燒：此角色對燃燒效果具有天生抗性。"
+        ],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 518,
+        "lb1": {
+            "attack": 1434,
+            "defense": 1378,
+            "health": 2117,
+            "power": 1309
+        },
+        "lb2": {
+            "attack": 1640,
+            "defense": 1577,
+            "health": 2423,
+            "power": 1479
+        },
+        "cn_skill_info": []
     },
     {
         "name": "康葛拉克 (Congalach)",
@@ -35111,7 +36198,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 500,
+        "originalIndex": 519,
         "lb1": {
             "attack": 852,
             "defense": 843,
@@ -35147,7 +36234,7 @@ window.allHeroes =
         "skill": "海草連枷",
         "types": [
             "隨機攻擊5個目標",
-            "攻擊降低疊加"
+            "命中時攻擊減益疊加"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -35180,7 +36267,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 501,
+        "originalIndex": 520,
         "lb1": {
             "attack": 1105,
             "defense": 1082,
@@ -35251,7 +36338,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 502,
+        "originalIndex": 521,
         "lb1": {
             "attack": 1107,
             "defense": 1163,
@@ -35327,7 +36414,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 503,
+        "originalIndex": 522,
         "lb1": {
             "attack": 852,
             "defense": 819,
@@ -35386,10 +36473,10 @@ window.allHeroes =
         ],
         "heroId": "magic_cristobal_costume_emerald",
         "star": 5,
-        "power": 1249,
-        "attack": 1302,
-        "defense": 1225,
-        "health": 2327,
+        "power": 1263,
+        "attack": 1318,
+        "defense": 1240,
+        "health": 2356,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -35405,18 +36492,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 504,
+        "originalIndex": 523,
         "lb1": {
-            "attack": 1404,
-            "defense": 1320,
-            "health": 2508,
-            "power": 1337
+            "attack": 1421,
+            "defense": 1336,
+            "health": 2539,
+            "power": 1351
         },
         "lb2": {
-            "attack": 1606,
-            "defense": 1511,
-            "health": 2870,
-            "power": 1511
+            "attack": 1626,
+            "defense": 1529,
+            "health": 2905,
+            "power": 1528
         },
         "cn_skill_info": [
             {
@@ -35462,10 +36549,10 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_crustee",
         "star": 5,
-        "power": 1272,
-        "attack": 1318,
-        "defense": 1320,
-        "health": 2263,
+        "power": 1287,
+        "attack": 1332,
+        "defense": 1334,
+        "health": 2307,
         "effects": [
             "隨機重新排列敵人位置。",
             "對所有敵人造成 350% 傷害。",
@@ -35485,18 +36572,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 505,
+        "originalIndex": 524,
         "lb1": {
-            "attack": 1420,
-            "defense": 1423,
-            "health": 2439,
-            "power": 1361
+            "attack": 1436,
+            "defense": 1438,
+            "health": 2486,
+            "power": 1378
         },
         "lb2": {
-            "attack": 1625,
-            "defense": 1628,
-            "health": 2791,
-            "power": 1540
+            "attack": 1643,
+            "defense": 1645,
+            "health": 2844,
+            "power": 1558
         },
         "cn_skill_info": [
             {
@@ -35566,7 +36653,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 506,
+        "originalIndex": 525,
         "lb1": {
             "attack": 1318,
             "defense": 1245,
@@ -35601,6 +36688,65 @@ window.allHeroes =
         ]
     },
     {
+        "name": "達格 (Dagr) C1",
+        "fancy_name": "矮人瘟疫薩滿",
+        "AetherPower": "惡魔抵禦",
+        "color": "綠",
+        "class": "僧侶",
+        "speed": "中等",
+        "skill": "療癒毒液",
+        "types": [
+            "火暴擊 (全體)",
+            "無視小兵",
+            "全體持續傷害",
+            "全體灼燒與中毒傷害增加減益"
+        ],
+        "skill_types": [],
+        "source": "S7 - 火焰與冰霜的寶藏",
+        "Release date": "2026-05-01",
+        "specialId": "curing_venom",
+        "parent_specialId": "blazing_venom",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "tales2_dagr_costume_plague_shaman",
+        "star": 5,
+        "power": 1322,
+        "attack": 1409,
+        "defense": 1305,
+        "health": 2418,
+        "effects": [
+            "使用火風暴打擊攻擊所有敵人，造成最多 1650 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
+            "傷害避開目標的小兵。",
+            "所有敵人在 4 回合內受到共計 464 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 10% 作為生命值。",
+            "所有敵人受到燃燒和劇毒異常效果的 +52% 額外傷害，持續 4 回合。"
+        ],
+        "passives": [
+            "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
+            "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 415 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+        ],
+        "family": "nidavellir",
+        "costume_id": 1,
+        "originalIndex": 526,
+        "lb1": {
+            "attack": 1518,
+            "defense": 1407,
+            "health": 2606,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1737,
+            "defense": 1609,
+            "health": 2982,
+            "power": 1600
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "丹克雷 (Dancrag)",
         "fancy_name": "上古巨型構造體",
         "AetherPower": "傷害減少",
@@ -35627,10 +36773,10 @@ window.allHeroes =
         ],
         "heroId": "construct_dancrag",
         "star": 5,
-        "power": 1291,
-        "attack": 1318,
-        "defense": 1374,
-        "health": 2292,
+        "power": 1311,
+        "attack": 1336,
+        "defense": 1392,
+        "health": 2348,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
             "每個落敗盟友有 25% 機率以 40% 生命值復活。",
@@ -35649,18 +36795,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 507,
+        "originalIndex": 527,
         "lb1": {
-            "attack": 1420,
-            "defense": 1480,
-            "health": 2470,
-            "power": 1382
+            "attack": 1440,
+            "defense": 1500,
+            "health": 2530,
+            "power": 1403
         },
         "lb2": {
-            "attack": 1625,
-            "defense": 1694,
-            "health": 2827,
-            "power": 1563
+            "attack": 1648,
+            "defense": 1717,
+            "health": 2895,
+            "power": 1587
         },
         "cn_skill_info": [
             {
@@ -35719,7 +36865,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 508,
+        "originalIndex": 528,
         "lb1": {
             "attack": 1147,
             "defense": 1145,
@@ -35761,7 +36907,7 @@ window.allHeroes =
         "skill": "玉刃",
         "types": [
             "攻擊2個目標",
-            "為3個目標提升生命值",
+            "造成傷害時提升生命值(3個目標)",
             "2個目標沉默"
         ],
         "skill_types": [
@@ -35796,7 +36942,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 509,
+        "originalIndex": 529,
         "lb1": {
             "attack": 1085,
             "defense": 1050,
@@ -35863,7 +37009,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 510,
+        "originalIndex": 530,
         "lb1": {
             "attack": 1234,
             "defense": 1276,
@@ -35928,7 +37074,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 511,
+        "originalIndex": 531,
         "lb1": {
             "attack": 1365,
             "defense": 1227,
@@ -35994,7 +37140,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 512,
+        "originalIndex": 532,
         "lb1": {
             "attack": 994,
             "defense": 959,
@@ -36070,7 +37216,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 513,
+        "originalIndex": 533,
         "lb1": {
             "attack": 1393,
             "defense": 1302,
@@ -36139,7 +37285,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 514,
+        "originalIndex": 534,
         "lb1": {
             "attack": 848,
             "defense": 810,
@@ -36212,7 +37358,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 515,
+        "originalIndex": 535,
         "lb1": {
             "attack": 1271,
             "defense": 1371,
@@ -36289,7 +37435,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 516,
+        "originalIndex": 536,
         "lb1": {
             "attack": 916,
             "defense": 865,
@@ -36330,7 +37476,8 @@ window.allHeroes =
         "skill": "誘惑之歌",
         "types": [
             "攻擊3個目標",
-            "增益免疫"
+            "3個目標增益免疫",
+            "企圖獲得增益時受到傷害(3個目標)"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -36349,7 +37496,7 @@ window.allHeroes =
         "defense": 797,
         "health": 1514,
         "effects": [
-            "對目標及附近敵人造成 305% 傷害。",
+            "對目標與附近敵人造成 305% 傷害。",
             "目標與附近敵人免疫新狀態效果增益，持續 3 回合，每獲得一個新增益，將會受到 200 傷害。"
         ],
         "passives": [
@@ -36359,7 +37506,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 517,
+        "originalIndex": 537,
         "lb1": {
             "attack": 919,
             "defense": 859,
@@ -36395,7 +37542,8 @@ window.allHeroes =
         "skill": "慰藉之歌",
         "types": [
             "攻擊3個目標",
-            "增益免疫"
+            "3個目標增益免疫",
+            "企圖獲得增益時受到傷害(3個目標)"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -36420,7 +37568,7 @@ window.allHeroes =
         "defense": 1135,
         "health": 2255,
         "effects": [
-            "對目標及附近敵人造成 295% 傷害。",
+            "對目標與附近敵人造成 295% 傷害。",
             "目標與附近敵人在 3 回合內免疫新的狀態效果增益，且每次嘗試獲得增益時受到 400 點傷害。"
         ],
         "passives": [
@@ -36432,7 +37580,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 518,
+        "originalIndex": 538,
         "lb1": {
             "attack": 1361,
             "defense": 1223,
@@ -36491,7 +37639,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 519,
+        "originalIndex": 539,
         "lb1": {
             "attack": 728,
             "defense": 845,
@@ -36547,13 +37695,13 @@ window.allHeroes =
         "defense": 928,
         "health": 1495,
         "effects": [
-            "對目標及附近敵人造成 280% 傷害。",
+            "對目標與附近敵人造成 280% 傷害。",
             "施法者偷取目標及其附近敵人所獲治療的 61%，持續 3 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 520,
+        "originalIndex": 540,
         "lb1": {
             "attack": 797,
             "defense": 1000,
@@ -36614,7 +37762,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 521,
+        "originalIndex": 541,
         "lb1": {
             "attack": 973,
             "defense": 1053,
@@ -36681,7 +37829,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 522,
+        "originalIndex": 542,
         "lb1": {
             "attack": 1262,
             "defense": 1166,
@@ -36750,7 +37898,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 523,
+        "originalIndex": 543,
         "lb1": {
             "attack": 1429,
             "defense": 1313,
@@ -36804,10 +37952,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_stylish",
         "star": 5,
-        "power": 1301,
-        "attack": 1406,
-        "defense": 1284,
-        "health": 2324,
+        "power": 1342,
+        "attack": 1444,
+        "defense": 1319,
+        "health": 2450,
         "effects": [
             "對目標造成 430% 傷害，並對附近敵人造成輕微傷害。",
             "對剩餘生命值少於 50% 的敵人造成額外傷害。",
@@ -36818,18 +37966,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 524,
+        "originalIndex": 544,
         "lb1": {
-            "attack": 1515,
-            "defense": 1384,
-            "health": 2505,
-            "power": 1393
+            "attack": 1556,
+            "defense": 1421,
+            "health": 2640,
+            "power": 1437
         },
         "lb2": {
-            "attack": 1733,
-            "defense": 1583,
-            "health": 2866,
-            "power": 1576
+            "attack": 1780,
+            "defense": 1626,
+            "health": 3021,
+            "power": 1626
         },
         "cn_skill_info": [
             {
@@ -36877,15 +38025,15 @@ window.allHeroes =
         ],
         "heroId": "institute_ellery",
         "star": 5,
-        "power": 1259,
-        "attack": 1310,
-        "defense": 1283,
-        "health": 2259,
+        "power": 1284,
+        "attack": 1334,
+        "defense": 1308,
+        "health": 2333,
         "effects": [
-            "成長：施法者和附近盟友獲得 400 點攻擊和 400 點防禦。",
-            "召喚一個畸變超級小兵，繼承施法者 40% 的生命值和 170% 的攻擊力。",
+            "成長：施法者和附近盟友獲得 450 點攻擊和 450 點防禦。",
+            "召喚一個畸變超級小兵，繼承施法者 45% 的生命值和 180% 的攻擊力。",
             "畸變超級小兵的每一次命中都會賦予目標以下狀態異常：",
-            "* 目標在 3 回合內受到共計 489 點劇毒傷害。對生命值加成、擁有小兵或超級小兵的目標，傷害會增加。（對擁有生命值加成的目標，劇毒傷害增加 +100%。目標擁有的每個小兵或超級小兵，劇毒傷害增加 +33%。傷害最大增加值為 +199%。）",
+            "* 目標在 3 回合內受到共計 552 點劇毒傷害。對生命值加成、擁有小兵或超級小兵的目標，傷害會增加。（對擁有生命值加成的目標，劇毒傷害增加 +100%。目標擁有的每個小兵或超級小兵，劇毒傷害增加 +33%。傷害最大增加值為 +199%。）",
             "* 對目標造成 10 點瘋狂。",
             "對施法者造成 45 點瘋狂。"
         ],
@@ -36902,18 +38050,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 525,
+        "originalIndex": 545,
         "lb1": {
-            "attack": 1411,
-            "defense": 1383,
-            "health": 2435,
-            "power": 1346
+            "attack": 1438,
+            "defense": 1409,
+            "health": 2515,
+            "power": 1374
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1582,
-            "health": 2786,
-            "power": 1523
+            "attack": 1645,
+            "defense": 1612,
+            "health": 2877,
+            "power": 1554
         },
         "cn_skill_info": [
             {
@@ -36972,7 +38120,7 @@ window.allHeroes =
         "defense": 745,
         "health": 1353,
         "effects": [
-            "對目標及附近敵人造成 345% 傷害。",
+            "對目標與附近敵人造成 345% 傷害。",
             "施法者將從狀態異常或負面疊加得到的 130% 傷害反射給所有敵人，持續 4 回合。",
             "元素鏈會在回合結束時賦予所有自然盟友少量法力，持續 4 個回合。此效果無法驅散。"
         ],
@@ -36982,7 +38130,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 526,
+        "originalIndex": 546,
         "lb1": {
             "attack": 825,
             "defense": 803,
@@ -37061,7 +38209,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 527,
+        "originalIndex": 547,
         "lb1": {
             "attack": 1254,
             "defense": 1398,
@@ -37125,21 +38273,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "目標在 3 回合內受到共計 387 點劇毒傷害。此效果會蔓延至附近敵人。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 大師騎士紋章。",
             "* 大師德魯伊紋章。",
+            "史詩：",
             "* 騎士紋章。",
             "* 德魯伊紋章。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 528,
+        "originalIndex": 548,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -37222,7 +38372,7 @@ window.allHeroes =
         ],
         "family": "mystery",
         "costume_id": 0,
-        "originalIndex": 529,
+        "originalIndex": 549,
         "lb1": {
             "attack": 888,
             "defense": 883,
@@ -37281,7 +38431,7 @@ window.allHeroes =
         "defense": 712,
         "health": 1355,
         "effects": [
-            "對目標及附近敵人造成 320% 傷害。",
+            "對目標與附近敵人造成 320% 傷害。",
             "目標與附近敵人獲得對自然系 -54% 的防禦，持續 4 回合。",
             "驅散目標和附近敵人的增益。",
             "元素鏈會為所有自然盟友恢復 4% 生命，持續 6 回合。此效果無法淨化。"
@@ -37289,7 +38439,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 530,
+        "originalIndex": 550,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -37355,7 +38505,7 @@ window.allHeroes =
         "defense": 895,
         "health": 1914,
         "effects": [
-            "對目標及附近敵人造成 310% 傷害。",
+            "對目標與附近敵人造成 310% 傷害。",
             "目標與附近敵人獲得對自然系 -56% 的防禦，持續 4 回合。",
             "驅散目標和附近敵人的增益。",
             "元素鏈會為所有自然盟友恢復 4% 生命，持續 6 回合。此效果無法驅散。"
@@ -37365,7 +38515,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 531,
+        "originalIndex": 551,
         "lb1": {
             "attack": 1025,
             "defense": 965,
@@ -37434,21 +38584,24 @@ window.allHeroes =
         "effects": [
             "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 530% 傷害。",
-            "若該攻擊將敵人擊敗，那麼施法者將恢復 +50% 生命並獲得 33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* 普通自然訓練師英雄。",
-            "* 罕見自然訓練師英雄。",
-            "* 稀有自然訓練師英雄。",
-            "* 普通自然英雄。",
-            "* 罕見自然英雄。"
+            "稀有：",
+            "* 訓練師英雄。",
+            "罕見：",
+            "* 訓練師英雄。",
+            "* 罕見自然英雄。",
+            "普通：",
+            "* 訓練師英雄。",
+            "* 普通自然英雄。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 532,
+        "originalIndex": 552,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -37525,12 +38678,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 337 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 337 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 533,
+        "originalIndex": 553,
         "lb1": {
             "attack": 1347,
             "defense": 1265,
@@ -37607,7 +38760,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 534,
+        "originalIndex": 554,
         "lb1": {
             "attack": 954,
             "defense": 983,
@@ -37675,7 +38828,7 @@ window.allHeroes =
         "defense": 908,
         "health": 1800,
         "effects": [
-            "對目標及附近敵人造成 390% 傷害。",
+            "對目標與附近敵人造成 390% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 576 點流血傷害。",
             "目標與附近敵人獲得對自然系 -60% 的防禦，持續 3 回合。"
         ],
@@ -37687,7 +38840,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 535,
+        "originalIndex": 555,
         "lb1": {
             "attack": 987,
             "defense": 979,
@@ -37759,7 +38912,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 536,
+        "originalIndex": 556,
         "lb1": {
             "attack": 1260,
             "defense": 1223,
@@ -37819,7 +38972,7 @@ window.allHeroes =
         "defense": 1233,
         "health": 1889,
         "effects": [
-            "對目標及附近敵人造成 375% 傷害。",
+            "對目標與附近敵人造成 375% 傷害。",
             "目標與附近敵人每回合持續受到 250 點流血傷害。（此效果會持續到被驅散、替代或移除為止。）",
             "在 2 個回合後，目標和附近的敵人會遭到麻痺，持續 1 個回合。（麻痹的敵人無法进行攻墼或獲得法力，受到的傷害也會提高 +50%。一旦被麻痺，效果無法淨化。頭目、泰坦和神話泰坦不受此状態效果影響）"
         ],
@@ -37828,7 +38981,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 537,
+        "originalIndex": 557,
         "lb1": {
             "attack": 1354,
             "defense": 1329,
@@ -37886,7 +39039,7 @@ window.allHeroes =
         "defense": 743,
         "health": 1353,
         "effects": [
-            "對目標及附近敵人造成 225% 傷害。",
+            "對目標與附近敵人造成 225% 傷害。",
             "每回合結束時淨化所有盟友的狀態異常，持續 3 回合。",
             "對冰雪系造成額外傷害。"
         ],
@@ -37895,7 +39048,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 538,
+        "originalIndex": 558,
         "lb1": {
             "attack": 841,
             "defense": 801,
@@ -37959,7 +39112,7 @@ window.allHeroes =
         "defense": 1124,
         "health": 2059,
         "effects": [
-            "對目標及附近敵人造成 225% 傷害。",
+            "對目標與附近敵人造成 225% 傷害。",
             "每個回合結束時淨化所有盟友的狀態異常，持續 3 回合。此效果無法驅散。",
             "所有冰雪敵人獲得對自然系 -54% 的防禦，持續 3 回合。"
         ],
@@ -37968,7 +39121,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 539,
+        "originalIndex": 559,
         "lb1": {
             "attack": 1272,
             "defense": 1212,
@@ -38043,7 +39196,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 540,
+        "originalIndex": 560,
         "lb1": {
             "attack": 1303,
             "defense": 1420,
@@ -38110,7 +39263,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 541,
+        "originalIndex": 561,
         "lb1": {
             "attack": 812,
             "defense": 819,
@@ -38178,7 +39331,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 542,
+        "originalIndex": 562,
         "lb1": {
             "attack": 1045,
             "defense": 1042,
@@ -38248,7 +39401,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 543,
+        "originalIndex": 563,
         "lb1": {
             "attack": 990,
             "defense": 1023,
@@ -38314,7 +39467,7 @@ window.allHeroes =
         "defense": 959,
         "health": 1736,
         "effects": [
-            "對目標及附近敵人造成 375% 傷害。",
+            "對目標與附近敵人造成 375% 傷害。",
             "如果目標有生命加成，會造成 900 額外傷害。",
             "所有盟友的普通攻擊與特殊技能對有生命值加成的目標造成 +85% 傷害，持續 3 個回合。"
         ],
@@ -38326,7 +39479,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 544,
+        "originalIndex": 564,
         "lb1": {
             "attack": 1061,
             "defense": 1034,
@@ -38398,7 +39551,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 545,
+        "originalIndex": 565,
         "lb1": {
             "attack": 1165,
             "defense": 1303,
@@ -38438,7 +39591,7 @@ window.allHeroes =
             "摧毀所有小兵",
             "攻擊所有目標",
             "全體防禦增益",
-            "小怪被摧毀時治療疊加"
+            "小怪被消滅時自身治療疊加"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -38462,11 +39615,11 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 摧毀所有敵人的全部小兵。",
+            "* 摧毀所有敵人的全部小兵並對所有超級小兵造成傷害。",
             "* 對所有敵人造成 280% 傷害。",
             "* 所有盟友獲得 +30% 防禦，持續 3 回合。",
             "第 2 次：",
-            "* 摧毀所有敵人的全部小兵。",
+            "* 摧毀所有敵人的全部小兵並對所有超級小兵造成傷害。",
             "* 對所有敵人造成 370% 傷害。",
             "* 疊加（最大值： 10 ）：每摧毀一名小兵，施法者每個回合恢復 24 點生命值。",
             "* 所有盟友獲得 +50% 防禦，持續 3 回合。"
@@ -38478,7 +39631,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 546,
+        "originalIndex": 566,
         "lb1": {
             "attack": 865,
             "defense": 1032,
@@ -38519,9 +39672,10 @@ window.allHeroes =
         "speed": "潮汐",
         "skill": "龜甲岩石",
         "types": [
-            "摧毀小兵",
+            "消滅全體小怪",
             "攻擊所有目標",
-            "防禦增益者"
+            "全體防禦增益",
+            "小怪被消滅時自身治療疊加"
         ],
         "skill_types": [
             "反製小兵",
@@ -38566,7 +39720,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 547,
+        "originalIndex": 567,
         "lb1": {
             "attack": 1142,
             "defense": 1307,
@@ -38635,7 +39789,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 548,
+        "originalIndex": 568,
         "lb1": {
             "attack": 852,
             "defense": 834,
@@ -38671,7 +39825,7 @@ window.allHeroes =
         "skill": "耐力風箏",
         "types": [
             "攻擊單個目標",
-            "自我持續治療"
+            "自身持續治療"
         ],
         "skill_types": [
             "持續治療",
@@ -38705,7 +39859,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 549,
+        "originalIndex": 569,
         "lb1": {
             "attack": 1082,
             "defense": 1096,
@@ -38743,7 +39897,8 @@ window.allHeroes =
             "全體生命值加成",
             "全體最大生命值降低",
             "4個目標軟膚",
-            "全體治療減益免疫"
+            "全體治療減益免疫",
+            "淨化全體治療減益"
         ],
         "skill_types": [
             "凈化",
@@ -38775,7 +39930,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 550,
+        "originalIndex": 570,
         "lb1": {
             "attack": 1129,
             "defense": 1167,
@@ -38853,7 +40008,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 551,
+        "originalIndex": 571,
         "lb1": {
             "attack": 1101,
             "defense": 943,
@@ -38946,7 +40101,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 552,
+        "originalIndex": 572,
         "lb1": {
             "attack": 1435,
             "defense": 1182,
@@ -39018,7 +40173,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 553,
+        "originalIndex": 573,
         "lb1": {
             "attack": 1032,
             "defense": 1007,
@@ -39094,7 +40249,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 554,
+        "originalIndex": 574,
         "lb1": {
             "attack": 1420,
             "defense": 1377,
@@ -39171,7 +40326,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 555,
+        "originalIndex": 575,
         "lb1": {
             "attack": 1307,
             "defense": 1374,
@@ -39251,7 +40406,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 556,
+        "originalIndex": 576,
         "lb1": {
             "attack": 1365,
             "defense": 1340,
@@ -39316,7 +40471,7 @@ window.allHeroes =
         "defense": 770,
         "health": 1460,
         "effects": [
-            "對目標及附近敵人造成 395% 傷害。",
+            "對目標與附近敵人造成 395% 傷害。",
             "目標和附近敵人無法施放任何新的嘲諷狀態效果，持續 3 回合。",
             "目標與附近敵人獲得對特殊技能 -34% 的防禦，持續 3 回合。",
             "元素鏈讓所有自然系盟友對新惡魔免疫，持續 4 回合。"
@@ -39327,7 +40482,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 557,
+        "originalIndex": 577,
         "lb1": {
             "attack": 819,
             "defense": 830,
@@ -39391,7 +40546,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 558,
+        "originalIndex": 578,
         "lb1": {
             "attack": 954,
             "defense": 883,
@@ -39462,7 +40617,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 559,
+        "originalIndex": 579,
         "lb1": {
             "attack": 785,
             "defense": 765,
@@ -39530,7 +40685,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 560,
+        "originalIndex": 580,
         "lb1": {
             "attack": 1034,
             "defense": 953,
@@ -39592,7 +40747,7 @@ window.allHeroes =
         "health": 2142,
         "effects": [
             "目標與附近敵人獲得對自然系 -40% 的防禦，持續 3 回合。",
-            "對目標及附近敵人造成 320% 傷害。",
+            "對目標與附近敵人造成 320% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 591 點流血傷害。",
             "施法者在 3 回合內恢復 810 點生命值。"
         ],
@@ -39603,7 +40758,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 561,
+        "originalIndex": 581,
         "lb1": {
             "attack": 1307,
             "defense": 1287,
@@ -39679,7 +40834,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 562,
+        "originalIndex": 582,
         "lb1": {
             "attack": 1320,
             "defense": 1354,
@@ -39739,14 +40894,14 @@ window.allHeroes =
         "defense": 774,
         "health": 1464,
         "effects": [
-            "對目標及附近敵人造成 390% 傷害。",
+            "對目標與附近敵人造成 390% 傷害。",
             "傷害避開目標的小兵。",
             "目標和附近敵人獲得 -25% 防禦，且敵人每持有一名小兵則再降低 -3 防禦，持續 3 回合，最多可達 -70% 防禦。此效果無法淨化。"
         ],
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 563,
+        "originalIndex": 583,
         "lb1": {
             "attack": 890,
             "defense": 834,
@@ -39810,7 +40965,7 @@ window.allHeroes =
         "defense": 1087,
         "health": 1965,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "傷害避開目標的小兵。",
             "目標和附近敵人獲得 -30% 防禦，且敵人每持有一名小兵則再降低 -5%，持續 4 回合，最多可達 -65% 防禦。此效果無法淨化。"
         ],
@@ -39822,7 +40977,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 564,
+        "originalIndex": 584,
         "lb1": {
             "attack": 1234,
             "defense": 1171,
@@ -39892,7 +41047,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 565,
+        "originalIndex": 585,
         "lb1": {
             "attack": 770,
             "defense": 841,
@@ -39952,7 +41107,7 @@ window.allHeroes =
         "defense": 883,
         "health": 1629,
         "effects": [
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "目標與附近敵人受到的所有傷害提高 +50%，持續 4 回合。"
         ],
         "passives": [
@@ -39961,7 +41116,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 566,
+        "originalIndex": 586,
         "lb1": {
             "attack": 883,
             "defense": 952,
@@ -39996,11 +41151,12 @@ window.allHeroes =
         "speed": "中等",
         "skill": "必需物品包",
         "types": [
-            "攻擊增益",
-            "防禦增益",
-            "法力生成增益",
-            "持續治療",
-            "反擊"
+            "全體攻擊增益",
+            "全體防禦增益",
+            "全體法力生成增益",
+            "全體持續治療",
+            "反擊",
+            "全體反擊"
         ],
         "skill_types": [
             "攻擊增益",
@@ -40044,7 +41200,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 567,
+        "originalIndex": 587,
         "lb1": {
             "attack": 819,
             "defense": 1054,
@@ -40114,7 +41270,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 568,
+        "originalIndex": 588,
         "lb1": {
             "attack": 705,
             "defense": 910,
@@ -40180,7 +41336,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 569,
+        "originalIndex": 589,
         "lb1": {
             "attack": 897,
             "defense": 1184,
@@ -40240,7 +41396,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 570,
+        "originalIndex": 590,
         "lb1": {
             "attack": 708,
             "defense": 701,
@@ -40301,7 +41457,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 571,
+        "originalIndex": 591,
         "lb1": {
             "attack": 802,
             "defense": 805,
@@ -40368,7 +41524,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 572,
+        "originalIndex": 592,
         "lb1": {
             "attack": 907,
             "defense": 953,
@@ -40438,7 +41594,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 573,
+        "originalIndex": 593,
         "lb1": {
             "attack": 1015,
             "defense": 1176,
@@ -40511,7 +41667,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 574,
+        "originalIndex": 594,
         "lb1": {
             "attack": 1169,
             "defense": 1313,
@@ -40574,7 +41730,7 @@ window.allHeroes =
         "health": 2208,
         "effects": [
             "摧毁目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
-            "對目標及附近敵人造成 430% 傷害。",
+            "對目標與附近敵人造成 430% 傷害。",
             "對目標和附近的敵人召唤捕蠅草惡魔。",
             "捕蠅草惡魔捕蠅草惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 45% 時消失。",
             "召唤後，捕蠅草恶魔每回合會使目標的最大生命值减少 65 點，对有生命值加成的目標效果更強。只要目標身上存在捕蠅草恶魔，效果就會持續。此效果無法淨化。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 65 點。）"
@@ -40584,7 +41740,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 575,
+        "originalIndex": 595,
         "lb1": {
             "attack": 1398,
             "defense": 1369,
@@ -40657,7 +41813,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 576,
+        "originalIndex": 596,
         "lb1": {
             "attack": 1132,
             "defense": 1196,
@@ -40734,7 +41890,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 577,
+        "originalIndex": 597,
         "lb1": {
             "attack": 1294,
             "defense": 1418,
@@ -40798,7 +41954,7 @@ window.allHeroes =
         "defense": 791,
         "health": 1474,
         "effects": [
-            "對目標及附近敵人造成 280% 傷害。",
+            "對目標與附近敵人造成 280% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 243 點水系傷害。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
             "施法者偷取目標及其附近敵人所獲治療的 51%，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
         ],
@@ -40807,7 +41963,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 578,
+        "originalIndex": 598,
         "lb1": {
             "attack": 874,
             "defense": 852,
@@ -40877,7 +42033,7 @@ window.allHeroes =
             "- 為所有盟友提升所造成傷害 25% 的生命值。",
             "- 目標獲得 -35% 法力產出，持續 2 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
             "x 2 法力充能：",
-            "- 對目標及附近敵人造成 440% 傷害。",
+            "- 對目標與附近敵人造成 440% 傷害。",
             "- 為所有盟友提升所造成傷害 25% 的生命值。",
             "- 目標與附近敵人獲得 -40% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
             "x 3 法力充能：",
@@ -40890,7 +42046,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 579,
+        "originalIndex": 599,
         "lb1": {
             "attack": 1276,
             "defense": 1276,
@@ -40964,7 +42120,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 580,
+        "originalIndex": 600,
         "lb1": {
             "attack": 745,
             "defense": 883,
@@ -41028,7 +42184,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 581,
+        "originalIndex": 601,
         "lb1": {
             "attack": 750,
             "defense": 825,
@@ -41091,7 +42247,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 582,
+        "originalIndex": 602,
         "lb1": {
             "attack": 810,
             "defense": 963,
@@ -41159,7 +42315,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 583,
+        "originalIndex": 603,
         "lb1": {
             "attack": 904,
             "defense": 1116,
@@ -41231,7 +42387,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 584,
+        "originalIndex": 604,
         "lb1": {
             "attack": 1266,
             "defense": 1159,
@@ -41304,7 +42460,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 585,
+        "originalIndex": 605,
         "lb1": {
             "attack": 1445,
             "defense": 1297,
@@ -41334,6 +42490,74 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "影山長門 (Kageyama Nagato)",
+        "fancy_name": "小偷手裡劍浪人",
+        "AetherPower": "攻擊提升",
+        "color": "綠",
+        "class": "盜賊",
+        "speed": "衝鋒",
+        "skill": "手裡劍風暴",
+        "types": [
+            "蓄力",
+            "每回合偷取1個目標的增益",
+            "每回合隨機攻擊單體並增益自身/3個目標/全體"
+        ],
+        "skill_types": [],
+        "source": "高塔 - 忍者",
+        "Release date": "2026-04-06",
+        "specialId": "shuriken_storm",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "heroId": "ronin_kageyama_nagato",
+        "star": 5,
+        "power": 1320,
+        "attack": 1392,
+        "defense": 1336,
+        "health": 2385,
+        "effects": [
+            "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
+            "x 1 法力充能：",
+            "對目標造成 500% 傷害。",
+            "從目標竊取一項隨機可驅散増益並分給施法者。",
+            "每回合結束時，施法者對隨機敵人投擲尖銳手裡劍，持續 2 回合。",
+            "每把尖銳手裡劍可造成 330% 傷害。",
+            "x 2 法力充能：",
+            "對目標造成 600% 傷害。",
+            "從目標竊取 2 項隨機可驅散增益並分給施法者。",
+            "每回合結束時，施法者和附近的盟友對隨機敵人投擲尖銳手裡劍，持續 3 回合。",
+            "每把尖銳手裡劍可造成 330% 傷害。",
+            "x 3 法力充能：",
+            "對目標造成 700% 傷害。",
+            "從目標上偷走所有可驅散增益至施法者。",
+            "每回合結束時，所有盟友對随機敵人投擲尖銳手裡劍，持續 5 回合。",
+            "每把尖銳手裡劍可造成 330% 傷害。"
+        ],
+        "passives": [
+            "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
+            "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
+        ],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": 606,
+        "lb1": {
+            "attack": 1500,
+            "defense": 1440,
+            "health": 2570,
+            "power": 1413
+        },
+        "lb2": {
+            "attack": 1717,
+            "defense": 1648,
+            "health": 2941,
+            "power": 1599
+        },
+        "cn_skill_info": []
     },
     {
         "name": "凱 (Kai)",
@@ -41382,7 +42606,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 586,
+        "originalIndex": 607,
         "lb1": {
             "attack": 959,
             "defense": 896,
@@ -41472,7 +42696,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 587,
+        "originalIndex": 608,
         "lb1": {
             "attack": 1414,
             "defense": 1287,
@@ -41544,7 +42768,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 588,
+        "originalIndex": 609,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -41617,7 +42841,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 589,
+        "originalIndex": 610,
         "lb1": {
             "attack": 1216,
             "defense": 1203,
@@ -41687,7 +42911,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 590,
+        "originalIndex": 611,
         "lb1": {
             "attack": 868,
             "defense": 717,
@@ -41756,7 +42980,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 591,
+        "originalIndex": 612,
         "lb1": {
             "attack": 1102,
             "defense": 896,
@@ -41819,7 +43043,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 592,
+        "originalIndex": 613,
         "lb1": {
             "attack": 814,
             "defense": 799,
@@ -41885,7 +43109,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 593,
+        "originalIndex": 614,
         "lb1": {
             "attack": 1020,
             "defense": 1010,
@@ -41947,18 +43171,18 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_laurent",
         "star": 5,
-        "power": 1274,
-        "attack": 1312,
-        "defense": 1324,
-        "health": 2282,
+        "power": 1294,
+        "attack": 1332,
+        "defense": 1343,
+        "health": 2338,
         "effects": [
-            "若施法者擁有 50 以上的謙遜：",
+            "若施法者擁有 60 以上的謙遜：",
             "對目標造成 600% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
             "施法者使出石膚，將對施法者造成的所有傷害降至 1 點，但在 5 次命中後移除。此效果無法驅散。",
             "否則：",
-            "對目標造成 460% 傷害，並對附近敵人造成輕微傷害。",
+            "對目標造成 490% 傷害，並對附近敵人造成輕微傷害。",
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
             "施法者使出石膚，將對施法者造成的所有傷害降至 1 點，但在 4 次命中後移除。此效果無法驅散。"
         ],
@@ -41969,18 +43193,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 594,
+        "originalIndex": 615,
         "lb1": {
-            "attack": 1414,
-            "defense": 1427,
-            "health": 2459,
-            "power": 1363
+            "attack": 1436,
+            "defense": 1447,
+            "health": 2519,
+            "power": 1385
         },
         "lb2": {
-            "attack": 1617,
-            "defense": 1633,
-            "health": 2814,
-            "power": 1542
+            "attack": 1643,
+            "defense": 1656,
+            "health": 2882,
+            "power": 1567
         },
         "cn_skill_info": [
             {
@@ -42044,7 +43268,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 595,
+        "originalIndex": 616,
         "lb1": {
             "attack": 896,
             "defense": 987,
@@ -42113,7 +43337,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 596,
+        "originalIndex": 617,
         "lb1": {
             "attack": 1072,
             "defense": 1101,
@@ -42188,7 +43412,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 597,
+        "originalIndex": 618,
         "lb1": {
             "attack": 1456,
             "defense": 1232,
@@ -42245,7 +43469,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 598,
+        "originalIndex": 619,
         "lb1": {
             "attack": 785,
             "defense": 774,
@@ -42301,7 +43525,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 599,
+        "originalIndex": 620,
         "lb1": {
             "attack": 898,
             "defense": 865,
@@ -42362,7 +43586,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 600,
+        "originalIndex": 621,
         "lb1": {
             "attack": 1048,
             "defense": 973,
@@ -42426,7 +43650,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 601,
+        "originalIndex": 622,
         "lb1": {
             "attack": 1228,
             "defense": 1197,
@@ -42491,7 +43715,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 602,
+        "originalIndex": 623,
         "lb1": {
             "attack": 1425,
             "defense": 1320,
@@ -42542,10 +43766,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_stylish",
         "star": 5,
-        "power": 1297,
-        "attack": 1410,
-        "defense": 1288,
-        "health": 2271,
+        "power": 1337,
+        "attack": 1448,
+        "defense": 1322,
+        "health": 2394,
         "effects": [
             "對目標造成 612% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 712% 傷害。"
@@ -42555,18 +43779,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 603,
+        "originalIndex": 624,
         "lb1": {
-            "attack": 1519,
-            "defense": 1388,
-            "health": 2447,
-            "power": 1387
+            "attack": 1560,
+            "defense": 1425,
+            "health": 2580,
+            "power": 1431
         },
         "lb2": {
-            "attack": 1738,
-            "defense": 1588,
-            "health": 2800,
-            "power": 1569
+            "attack": 1785,
+            "defense": 1631,
+            "health": 2951,
+            "power": 1619
         },
         "cn_skill_info": [
             {
@@ -42626,7 +43850,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 604,
+        "originalIndex": 625,
         "lb1": {
             "attack": 1327,
             "defense": 1334,
@@ -42695,10 +43919,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_lin_chong",
         "star": 5,
-        "power": 1262,
-        "attack": 1328,
-        "defense": 1273,
-        "health": 2259,
+        "power": 1277,
+        "attack": 1343,
+        "defense": 1287,
+        "health": 2303,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
             "對目標造成 390% 傷害，並對附近敵人造成輕微傷害。",
@@ -42715,18 +43939,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 605,
+        "originalIndex": 626,
         "lb1": {
-            "attack": 1431,
-            "defense": 1371,
-            "health": 2435,
-            "power": 1350
+            "attack": 1447,
+            "defense": 1387,
+            "health": 2481,
+            "power": 1367
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1569,
-            "health": 2786,
-            "power": 1527
+            "attack": 1656,
+            "defense": 1587,
+            "health": 2839,
+            "power": 1546
         },
         "cn_skill_info": [
             {
@@ -42794,7 +44018,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 606,
+        "originalIndex": 627,
         "lb1": {
             "attack": 1307,
             "defense": 1245,
@@ -42851,14 +44075,14 @@ window.allHeroes =
         "defense": 799,
         "health": 1450,
         "effects": [
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "為每個盟友召喚一個蜀國戰士小兵，其可從施法者繼承 16% 生命值與 17% 攻擊。",
             "召喚蜀國戰士小兵之後，主人擁有蜀國戰士小兵期間，蜀國戰士小兵會給予其主人以所受傷害 60% 的反擊能力。此效果無法驅散。"
         ],
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 607,
+        "originalIndex": 628,
         "lb1": {
             "attack": 879,
             "defense": 861,
@@ -42922,7 +44146,7 @@ window.allHeroes =
         "defense": 1065,
         "health": 2058,
         "effects": [
-            "對目標及附近敵人造成 350% 傷害。",
+            "對目標與附近敵人造成 350% 傷害。",
             "為每個盟友召喚一個蜀國戰士小兵，其可從施法者繼承 33% 生命值與 33% 攻擊。",
             "召喚蜀國戰士小兵之後，主人擁有蜀國戰士小兵期間，蜀國戰士小兵會給予其主人以所受傷害 55% 的反擊能力。此效果無法驅散。"
         ],
@@ -42934,7 +44158,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 608,
+        "originalIndex": 629,
         "lb1": {
             "attack": 1222,
             "defense": 1147,
@@ -42974,7 +44198,7 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "超凡法術",
         "types": [
-            "自我完全移除",
+            "自身完全淨化",
             "幽靈形態",
             "幽靈形態下4個目標防禦增益",
             "幽靈形態下4個目標強化持續治療"
@@ -43012,7 +44236,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 609,
+        "originalIndex": 630,
         "lb1": {
             "attack": 777,
             "defense": 896,
@@ -43048,7 +44272,7 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "超凡充能",
         "types": [
-            "自我完全移除",
+            "自身完全淨化",
             "幽靈形態",
             "幽靈形態下4個目標防禦增益",
             "幽靈形態下4個目標強化持續治療"
@@ -43089,7 +44313,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 610,
+        "originalIndex": 631,
         "lb1": {
             "attack": 1001,
             "defense": 1186,
@@ -43158,7 +44382,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 611,
+        "originalIndex": 632,
         "lb1": {
             "attack": 896,
             "defense": 901,
@@ -43234,7 +44458,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 612,
+        "originalIndex": 633,
         "lb1": {
             "attack": 1290,
             "defense": 1316,
@@ -43300,12 +44524,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能施放時摧毀惡魔：此角色施放其特殊技能時，摧毀自身所有惡魔。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
-            "抵禦治療異常：此角色對影響治療的狀態異常具有天生抗性。"
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
+            "抵禦治療異常：此角色對影響治療的狀態異常免疫。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 613,
+        "originalIndex": 634,
         "lb1": {
             "attack": 1263,
             "defense": 1354,
@@ -43364,7 +44588,7 @@ window.allHeroes =
         "defense": 648,
         "health": 1260,
         "effects": [
-            "對目標及附近敵人造成 150% 傷害。",
+            "對目標與附近敵人造成 150% 傷害。",
             "施法者與附近盟友有 +30% 至 +90% 的機率躲避可造成傷害的特殊技能。特殊技能的傷害越高，閃避的機率也越高。每次閃避可為目標提供 +24% 法力。此效果持續 3 回合。",
             "元素鏈給予所有自然系盟友抵禦烈火系的 +46% 防禦，持續 4 回合。此效果無法驅散。"
         ],
@@ -43373,7 +44597,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 614,
+        "originalIndex": 635,
         "lb1": {
             "attack": 885,
             "defense": 699,
@@ -43442,7 +44666,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 615,
+        "originalIndex": 636,
         "lb1": {
             "attack": 901,
             "defense": 934,
@@ -43505,7 +44729,7 @@ window.allHeroes =
         "defense": 966,
         "health": 1790,
         "effects": [
-            "對目標及附近敵人造成 280% 傷害。",
+            "對目標與附近敵人造成 280% 傷害。",
             "目標獲得 -24% 防禦，持續 3 回合。若該角色受到狀態異常，則效果持續時間會重設。",
             "對冰雪系造成額外傷害。"
         ],
@@ -43515,7 +44739,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 616,
+        "originalIndex": 637,
         "lb1": {
             "attack": 1147,
             "defense": 1041,
@@ -43575,13 +44799,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_meenakshi",
         "star": 5,
-        "power": 1283,
-        "attack": 1301,
-        "defense": 1363,
-        "health": 2296,
+        "power": 1298,
+        "attack": 1316,
+        "defense": 1378,
+        "health": 2338,
         "effects": [
-            "為施法者和附近盟友恢復 10% 生命值。",
-            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 800 點。影響獲得治療的狀態效果會影響治療比率）",
+            "為施法者和附近盟友恢復 25% 生命值。",
+            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 600 點。影響獲得治療的狀態效果會影響治療比率）",
             "施法者與附近盟友進行反擊，造成所受傷害 150% 的傷害，持續 4 回合。",
             "施法者與附近盟友每次反擊可恢復適量法力，持續 4 回合。同一回合中，效果經連續啟動會減弱。"
         ],
@@ -43593,18 +44817,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 617,
+        "originalIndex": 638,
         "lb1": {
-            "attack": 1403,
-            "defense": 1469,
-            "health": 2475,
-            "power": 1373
+            "attack": 1418,
+            "defense": 1485,
+            "health": 2519,
+            "power": 1389
         },
         "lb2": {
-            "attack": 1605,
-            "defense": 1681,
-            "health": 2832,
-            "power": 1553
+            "attack": 1623,
+            "defense": 1699,
+            "health": 2882,
+            "power": 1572
         },
         "cn_skill_info": [
             {
@@ -43624,6 +44848,69 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "梅洛尼厄斯 (Melonius)",
+        "fancy_name": "西瓜巫師",
+        "AetherPower": "回復",
+        "color": "綠",
+        "class": "牧師",
+        "speed": "慢速",
+        "skill": "魔法提神",
+        "types": [
+            "全體法力提升",
+            "連根拔起並淨化全體",
+            "自身生命值加成持續治療"
+        ],
+        "skill_types": [],
+        "source": "挑戰 - 警戒蔬菜召唤",
+        "Release date": "2026-05-17",
+        "specialId": "magical_refreshment",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_melonius",
+        "star": 5,
+        "power": 1326,
+        "attack": 1347,
+        "defense": 1409,
+        "health": 2395,
+        "effects": [
+            "所有盟友獲得 25% 法力。",
+            "敵方每持有一個惡魔或超級惡魔，所有盟友都會额外獲得 5% 法力，最多累積可獲得 50% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "拔除所有盟友的減益。（拔除可以從每個目標上安全地移除 2 個状態異常、負面疊加或枯萎效果。包含不可淨化的狀態異常與跳舞效果。）",
+            "* 每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。",
+            "* 安全淨化可避免移除状態異常時的第二效果，例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。",
+            "* 枯萎效果會最先被移除。其他效果則是以最後獲得的開始移除。",
+            "施法者在 5 個回合內恢復 1200 點加成生命值。加成生命值能夠超過最大生命值。"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "樹苗召喚：每回合對一位随機敵人召喚一個種子恶魔。",
+            "* 2 回合後，種子惡魔會進化為發芽惡魔。",
+            "* 2 回合後，發芽惡魔會进化為盛開超級惡魔。",
+            "* 惡魔每次吸收傷害後，進化會延遲 1 回合。",
+            "1 ） 种子惡魔： 50% 攻撃、 20% 生命。",
+            "2 ） 發芽惡魔： 75% 攻撃、 30% 生命。",
+            "3 ） 盛开超級惡魔： 250% 攻撃、 60% 生命。"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 639,
+        "lb1": {
+            "attack": 1451,
+            "defense": 1518,
+            "health": 2581,
+            "power": 1419
+        },
+        "lb2": {
+            "attack": 1661,
+            "defense": 1737,
+            "health": 2954,
+            "power": 1606
+        },
+        "cn_skill_info": []
     },
     {
         "name": "梅納 (Mena)",
@@ -43667,7 +44954,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 618,
+        "originalIndex": 640,
         "lb1": {
             "attack": 1187,
             "defense": 1132,
@@ -43735,7 +45022,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 619,
+        "originalIndex": 641,
         "lb1": {
             "attack": 1334,
             "defense": 1363,
@@ -43798,7 +45085,7 @@ window.allHeroes =
         "defense": 881,
         "health": 1524,
         "effects": [
-            "對目標及附近敵人造成 350% 傷害。",
+            "對目標與附近敵人造成 350% 傷害。",
             "目標和附近敵人抵禦治療，且每次抵禦治療，則受到 220 傷害，持續 3 回合。",
             "疊加（最大值： 10 ）：施法者對弱點元素獲得 +15% 攻擊。"
         ],
@@ -43808,7 +45095,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 620,
+        "originalIndex": 642,
         "lb1": {
             "attack": 954,
             "defense": 950,
@@ -43879,7 +45166,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 621,
+        "originalIndex": 643,
         "lb1": {
             "attack": 1072,
             "defense": 1156,
@@ -43938,7 +45225,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 622,
+        "originalIndex": 644,
         "lb1": {
             "attack": 772,
             "defense": 777,
@@ -44010,7 +45297,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 623,
+        "originalIndex": 645,
         "lb1": {
             "attack": 652,
             "defense": 883,
@@ -44079,7 +45366,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 624,
+        "originalIndex": 646,
         "lb1": {
             "attack": 863,
             "defense": 1225,
@@ -44150,7 +45437,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 625,
+        "originalIndex": 647,
         "lb1": {
             "attack": 1258,
             "defense": 1232,
@@ -44224,7 +45511,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 626,
+        "originalIndex": 648,
         "lb1": {
             "attack": 881,
             "defense": 963,
@@ -44295,7 +45582,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 627,
+        "originalIndex": 649,
         "lb1": {
             "attack": 1181,
             "defense": 1178,
@@ -44365,7 +45652,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 628,
+        "originalIndex": 650,
         "lb1": {
             "attack": 1107,
             "defense": 1076,
@@ -44441,7 +45728,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 629,
+        "originalIndex": 651,
         "lb1": {
             "attack": 1218,
             "defense": 1278,
@@ -44501,35 +45788,35 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_ott_costume_herbalist",
         "star": 5,
-        "power": 1274,
-        "attack": 1237,
-        "defense": 1316,
-        "health": 2483,
+        "power": 1291,
+        "attack": 1259,
+        "defense": 1340,
+        "health": 2505,
         "effects": [
-            "為所有盟友提供 800 點加成生命值。加成生命值能夠超過最大生命值。",
-            "所有盟友都可獲得火風暴護體，持續 3 個回合，所受到的特殊技能傷害最高減少 -1280 點。攻擊者為自然元素角色時，額外減少 30% 傷害。",
+            "為所有盟友提供 900 點加成生命值。加成生命值能夠超過最大生命值。",
+            "所有盟友都可獲得火風暴護體，持續 3 個回合，所受到的特殊技能傷害最高減少 -1350 點。攻擊者為自然元素角色時，額外減少 30% 傷害。",
             "所有盟友在 3 回合內對增益驅散和轉移免疫。（此免疫也包含此效果本身）"
         ],
         "passives": [
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
-            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 364 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 371 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
             "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 630,
+        "originalIndex": 652,
         "lb1": {
-            "attack": 1333,
-            "defense": 1418,
-            "health": 2676,
-            "power": 1363
+            "attack": 1357,
+            "defense": 1444,
+            "health": 2700,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1525,
-            "defense": 1623,
-            "health": 3061,
-            "power": 1541
+            "attack": 1553,
+            "defense": 1652,
+            "health": 3089,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -44585,7 +45872,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 631,
+        "originalIndex": 653,
         "lb1": {
             "attack": 1267,
             "defense": 1260,
@@ -44628,7 +45915,7 @@ window.allHeroes =
         "skill": "妖火劈斬",
         "types": [
             "攻擊3個目標",
-            "3個目標強化閃避",
+            "3個目標強化閃避增益",
             "3個目標延遲攻擊增益"
         ],
         "skill_types": [
@@ -44652,7 +45939,7 @@ window.allHeroes =
         "defense": 1110,
         "health": 2177,
         "effects": [
-            "對目標及附近敵人造成 450% 傷害。",
+            "對目標與附近敵人造成 450% 傷害。",
             "強化閃避：施法者和附近盟友有 +55% 的機率閃避可造成傷害的特殊技能。此效果在盟友成功閃避 5 次後消失。",
             "強化閃避結束、移除或取代後，盟友獲得 +70% 攻擊，持續 5 回合。"
         ],
@@ -44663,7 +45950,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 632,
+        "originalIndex": 654,
         "lb1": {
             "attack": 1223,
             "defense": 1196,
@@ -44728,7 +46015,7 @@ window.allHeroes =
             "• 目標在 2 回合內受到共計 220 點劇毒傷害。",
             "• 目標獲得 -35% 精準度，持續 2 回合。（進攻型特殊技能也有機率無法擊中。）",
             "x 2 法力充能：",
-            "* 對目標及附近敵人造成 280% 傷害。",
+            "* 對目標與附近敵人造成 280% 傷害。",
             "* 目標與附近敵人在 3 回合內受到共計 438 點劇毒傷害。",
             "* 目標與附近敵人獲得 -40% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
             "x 3 法力充能：",
@@ -44739,7 +46026,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 633,
+        "originalIndex": 655,
         "lb1": {
             "attack": 879,
             "defense": 796,
@@ -44807,7 +46094,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 634,
+        "originalIndex": 656,
         "lb1": {
             "attack": 896,
             "defense": 783,
@@ -44885,7 +46172,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 635,
+        "originalIndex": 657,
         "lb1": {
             "attack": 1145,
             "defense": 1038,
@@ -44961,7 +46248,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 636,
+        "originalIndex": 658,
         "lb1": {
             "attack": 1263,
             "defense": 1181,
@@ -45003,7 +46290,7 @@ window.allHeroes =
             "蒼鷺之舞 (4個目標)",
             "4個目標反擊",
             "4個目標傷害減免",
-            "狀態效果免疫"
+            "4個目標狀態效果免疫"
         ],
         "skill_types": [
             "反擊",
@@ -45041,7 +46328,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 637,
+        "originalIndex": 659,
         "lb1": {
             "attack": 1061,
             "defense": 1047,
@@ -45115,7 +46402,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 638,
+        "originalIndex": 660,
         "lb1": {
             "attack": 1078,
             "defense": 1027,
@@ -45189,7 +46476,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 639,
+        "originalIndex": 661,
         "lb1": {
             "attack": 799,
             "defense": 994,
@@ -45246,14 +46533,14 @@ window.allHeroes =
         "defense": 760,
         "health": 1433,
         "effects": [
-            "對目標及附近敵人造成 320% 傷害。",
+            "對目標與附近敵人造成 320% 傷害。",
             "施法者下一次使用特殊技能時，其特殊技能的威力會增加 +40%，之後每回合都會額外增加 +40%，最多加到 200%。",
             "施法者在 3 回合內恢復 600 點生命值。"
         ],
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 640,
+        "originalIndex": 662,
         "lb1": {
             "attack": 856,
             "defense": 819,
@@ -45313,7 +46600,7 @@ window.allHeroes =
         "defense": 1121,
         "health": 2115,
         "effects": [
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "施法者下一次使用特殊技能時，其特殊技能的威力會增加 +30%，之後每回合都會額外增加 +30%，最多加到 +150%。",
             "施法者在 3 回合內恢復 600 點生命值。"
         ],
@@ -45324,7 +46611,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 641,
+        "originalIndex": 663,
         "lb1": {
             "attack": 1274,
             "defense": 1209,
@@ -45381,10 +46668,10 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_ragrim",
         "star": 5,
-        "power": 1246,
-        "attack": 1266,
-        "defense": 1295,
-        "health": 2255,
+        "power": 1261,
+        "attack": 1281,
+        "defense": 1310,
+        "health": 2298,
         "effects": [
             "摧毀所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。",
             "恢復剩餘生命值最低的盟友 65% 生命值。恢復其餘盟友 45% 生命值。",
@@ -45403,18 +46690,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 642,
+        "originalIndex": 664,
         "lb1": {
-            "attack": 1365,
-            "defense": 1396,
-            "health": 2430,
-            "power": 1333
+            "attack": 1380,
+            "defense": 1411,
+            "health": 2477,
+            "power": 1349
         },
         "lb2": {
-            "attack": 1562,
-            "defense": 1597,
-            "health": 2781,
-            "power": 1508
+            "attack": 1579,
+            "defense": 1615,
+            "health": 2834,
+            "power": 1526
         },
         "cn_skill_info": [
             {
@@ -45471,7 +46758,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 643,
+        "originalIndex": 665,
         "lb1": {
             "attack": 812,
             "defense": 799,
@@ -45534,7 +46821,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 644,
+        "originalIndex": 666,
         "lb1": {
             "attack": 1165,
             "defense": 937,
@@ -45600,7 +46887,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 645,
+        "originalIndex": 667,
         "lb1": {
             "attack": 1021,
             "defense": 1118,
@@ -45673,7 +46960,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 646,
+        "originalIndex": 668,
         "lb1": {
             "attack": 1056,
             "defense": 1178,
@@ -45746,7 +47033,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 647,
+        "originalIndex": 669,
         "lb1": {
             "attack": 1012,
             "defense": 979,
@@ -45791,7 +47078,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
         "heroId": "elemental_roz_costume_disco",
         "star": 5,
         "power": 1221,
@@ -45809,11 +47098,12 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "* 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "* 受到元素傷害： -25%"
+            "* 受到元素傷害： -25%",
+            "抵禦冰雪異常：此角色免疫冰雪系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 648,
+        "originalIndex": 670,
         "lb1": {
             "attack": 1311,
             "defense": 1291,
@@ -45851,8 +47141,8 @@ window.allHeroes =
             "攻擊單個目標",
             "單體沈默者",
             "單體特殊技能防禦降低",
-            "單體淨化免疫",
-            "單體最大生命值降低"
+            "單體淨化免疫減益",
+            "自身最大生命值降低"
         ],
         "skill_types": [
             "狙擊手",
@@ -45881,7 +47171,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 649,
+        "originalIndex": 671,
         "lb1": {
             "attack": 1338,
             "defense": 1207,
@@ -45953,7 +47243,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 650,
+        "originalIndex": 672,
         "lb1": {
             "attack": 996,
             "defense": 1003,
@@ -46017,7 +47307,7 @@ window.allHeroes =
         "health": 1425,
         "effects": [
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。",
-            "對目標造成 380% 傷害。",
+            "對目標造成 390% 傷害。",
             "為所有盟友召喚一個森林密友小兵，其可從施法者繼承 15% 生命與 15% 攻擊。",
             "元素鏈會賦予所有自然盟友 +10% 攻擊力，持續 4 個回合。此效果無法驅散。"
         ],
@@ -46027,7 +47317,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 651,
+        "originalIndex": 673,
         "lb1": {
             "attack": 839,
             "defense": 808,
@@ -46100,7 +47390,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 652,
+        "originalIndex": 674,
         "lb1": {
             "attack": 979,
             "defense": 1023,
@@ -46156,7 +47446,7 @@ window.allHeroes =
         "defense": 832,
         "health": 1518,
         "effects": [
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "對目標與附近敵人召喚倒鉤箭惡魔。惡魔每回合以 43% 的攻擊力對敵人造成傷害。",
             "倒鉤箭惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 28% 時消失。",
             "召喚倒鉤箭惡魔之後，主人擁有倒鉤箭惡魔的期間，目標所受到的所有傷害來源增加 +40%。此效果無法淨化。"
@@ -46167,7 +47457,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 653,
+        "originalIndex": 675,
         "lb1": {
             "attack": 947,
             "defense": 896,
@@ -46242,7 +47532,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 654,
+        "originalIndex": 676,
         "lb1": {
             "attack": 1425,
             "defense": 1369,
@@ -46316,7 +47606,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 655,
+        "originalIndex": 677,
         "lb1": {
             "attack": 1050,
             "defense": 1147,
@@ -46394,7 +47684,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 656,
+        "originalIndex": 678,
         "lb1": {
             "attack": 1292,
             "defense": 1528,
@@ -46461,7 +47751,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 657,
+        "originalIndex": 679,
         "lb1": {
             "attack": 1320,
             "defense": 1320,
@@ -46522,10 +47812,10 @@ window.allHeroes =
         ],
         "heroId": "rodent_sproutwhisker",
         "star": 5,
-        "power": 1290,
-        "attack": 1322,
-        "defense": 1363,
-        "health": 2294,
+        "power": 1310,
+        "attack": 1341,
+        "defense": 1382,
+        "health": 2350,
         "effects": [
             "荒野：持續 4 回合，所有盟友每回合回復 400 點生命值，或獲得 800 點强化生命值。（荒野每回合有機率使此效果更具威力。此荒野效果有 50% 機率在該回合額外治療 +100% 點生命值。觸發额外治療時，目标将额外獲得强化生命值。荒野效果不受大多数阻止其生效的效果影響。荒野效果可與同類型的其他效果同時存在。）",
             "接下来 4 個回合，所有盟友都會在回合结束時獲得 10% 法力。",
@@ -46537,18 +47827,18 @@ window.allHeroes =
         ],
         "family": "rodent",
         "costume_id": 0,
-        "originalIndex": 658,
+        "originalIndex": 680,
         "lb1": {
-            "attack": 1425,
-            "defense": 1469,
-            "health": 2473,
-            "power": 1381
+            "attack": 1445,
+            "defense": 1489,
+            "health": 2533,
+            "power": 1402
         },
         "lb2": {
-            "attack": 1630,
-            "defense": 1681,
-            "health": 2829,
-            "power": 1562
+            "attack": 1653,
+            "defense": 1704,
+            "health": 2898,
+            "power": 1586
         },
         "cn_skill_info": [
             {
@@ -46599,7 +47889,7 @@ window.allHeroes =
         "defense": 844,
         "health": 1540,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "目標和附近敵人獲得 -30% 精準度，持續 3 回合。精準度每回合降低 -10%，最多至 -50%。",
             "目標與附近敵人在 3 回合內受到共計 363 點劇毒傷害。"
         ],
@@ -46609,7 +47899,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 659,
+        "originalIndex": 681,
         "lb1": {
             "attack": 967,
             "defense": 910,
@@ -46670,7 +47960,7 @@ window.allHeroes =
         "health": 1788,
         "effects": [
             "此特殊技能必定命中目標。",
-            "對目標及附近敵人造成 550% 傷害。",
+            "對目標與附近敵人造成 550% 傷害。",
             "每當被擊中的敵人法力滿格時，自動對其造成 701 點傷害，並使其法力減少 75%，持續 3 回合。"
         ],
         "passives": [
@@ -46679,7 +47969,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 660,
+        "originalIndex": 682,
         "lb1": {
             "attack": 1112,
             "defense": 1256,
@@ -46767,7 +48057,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 661,
+        "originalIndex": 683,
         "lb1": {
             "attack": 1380,
             "defense": 1320,
@@ -46846,7 +48136,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 662,
+        "originalIndex": 684,
         "lb1": {
             "attack": 1232,
             "defense": 1161,
@@ -46921,7 +48211,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 663,
+        "originalIndex": 685,
         "lb1": {
             "attack": 1407,
             "defense": 1256,
@@ -46952,6 +48242,65 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "賽洛西斯 (Sylosis)",
+        "fancy_name": "武術家構造體",
+        "AetherPower": "反擊",
+        "color": "綠",
+        "class": "僧侶",
+        "speed": "快速",
+        "skill": "上古武術家",
+        "types": [
+            "攻擊單個目標",
+            "全體反擊",
+            "盟友釋放特殊技能時攻擊全體"
+        ],
+        "skill_types": [],
+        "source": "聖約召喚",
+        "Release date": "2026-04-28",
+        "specialId": "ancient_martial_arts",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_sylosis",
+        "star": 5,
+        "power": 1323,
+        "attack": 1367,
+        "defense": 1382,
+        "health": 2379,
+        "effects": [
+            "對目標造成 600% 傷害。",
+            "所有盟友以所受傷害的 100% 進行反擊，持續 3 回合。",
+            "在接下來 3 個回合內，在任何其他盟友施放其特殊技能後，此角色會對所有敵人造成 250% 傷害。（每個角色每回合可以觸發一次此效果）"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "小兵核心：此角色的横造體核心是小兵核心。",
+            "每次施放此角色的特殊技能時就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
+            "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
+            "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -50。"
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 686,
+        "lb1": {
+            "attack": 1474,
+            "defense": 1489,
+            "health": 2564,
+            "power": 1416
+        },
+        "lb2": {
+            "attack": 1686,
+            "defense": 1704,
+            "health": 2933,
+            "power": 1602
+        },
+        "cn_skill_info": []
     },
     {
         "name": "為朝 (Tametomo)",
@@ -47001,7 +48350,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 664,
+        "originalIndex": 687,
         "lb1": {
             "attack": 1127,
             "defense": 954,
@@ -47062,7 +48411,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 665,
+        "originalIndex": 688,
         "lb1": {
             "attack": 888,
             "defense": 719,
@@ -47123,7 +48472,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 666,
+        "originalIndex": 689,
         "lb1": {
             "attack": 935,
             "defense": 1110,
@@ -47191,7 +48540,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 667,
+        "originalIndex": 690,
         "lb1": {
             "attack": 1074,
             "defense": 1074,
@@ -47264,7 +48613,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 668,
+        "originalIndex": 691,
         "lb1": {
             "attack": 661,
             "defense": 896,
@@ -47347,7 +48696,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 669,
+        "originalIndex": 692,
         "lb1": {
             "attack": 954,
             "defense": 932,
@@ -47392,8 +48741,10 @@ window.allHeroes =
             "蓄力",
             "全體承受的狀態異常傷害增加",
             "全體持續傷害",
+            "處於持續傷害狀態時治療自身",
             "治療3個目標",
-            "3個目標異常狀態傷害免疫"
+            "3個目標異常狀態傷害免疫",
+            "企圖施加異常狀態時獲得治療(3個目標)"
         ],
         "skill_types": [
             "持續傷害",
@@ -47418,15 +48769,15 @@ window.allHeroes =
         ],
         "heroId": "magic_telonius_costume_brew",
         "star": 5,
-        "power": 1263,
-        "attack": 1323,
-        "defense": 1271,
-        "health": 2286,
+        "power": 1279,
+        "attack": 1341,
+        "defense": 1288,
+        "health": 2317,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "x 1 法力充能：",
             "* 所有敵人受到異常效果的 +55% 額外傷害，持續 3 回合。",
-            "* 所有敵人在 3 個回合內受到 573 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 10% 作為生命值。",
+            "* 所有敵人在 3 個回合內受到 582 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 10% 作為生命值。",
             "x 2 法力充能：",
             "* 為施法者和附近盟友恢復 75% 生命值。",
             "* 施法者和附近的盟友免疫新状態異常，持續 5 回合，原本每應獲得一個新狀態異常，他們將會獲得 350 生命。"
@@ -47438,18 +48789,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 670,
+        "originalIndex": 693,
         "lb1": {
-            "attack": 1425,
-            "defense": 1370,
-            "health": 2464,
-            "power": 1352
+            "attack": 1445,
+            "defense": 1388,
+            "health": 2497,
+            "power": 1368
         },
         "lb2": {
-            "attack": 1631,
-            "defense": 1567,
-            "health": 2819,
-            "power": 1529
+            "attack": 1653,
+            "defense": 1588,
+            "health": 2856,
+            "power": 1548
         },
         "cn_skill_info": [
             {
@@ -47522,7 +48873,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 671,
+        "originalIndex": 694,
         "lb1": {
             "attack": 1438,
             "defense": 1305,
@@ -47586,7 +48937,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 672,
+        "originalIndex": 695,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -47654,7 +49005,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 673,
+        "originalIndex": 696,
         "lb1": {
             "attack": 1029,
             "defense": 943,
@@ -47719,7 +49070,7 @@ window.allHeroes =
         "effects": [
             "對所有敵人造成 450% 傷害。",
             "將所有盟友現有狀態異常的持續時間減少 3 個回合。（修改持續時間會影響可淨化與無法淨化狀態異常。若任意異常的持續時間減少至零，則將效果視為正常失效）",
-            "將所有敵人現有增益的持續時間減少 3 個回合。（修改持續時間會影響可驅散與无法驅散狀態效果增益。若任意增益的持續時間減少至零，則將效果視為正常失效）",
+            "將所有敵人現有增益的持續時間減少 3 個回合。（修改持續時間會影響可驅散與無法驅散狀態效果增益。若任意增益的持續時間減少至零，則將效果視為正常失效）",
             "所有盟友獲得 +35% 防禦，持續 5 回合。",
             "所有敵人獲得 -35% 防禦，持續 5 回合。"
         ],
@@ -47730,7 +49081,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 674,
+        "originalIndex": 697,
         "lb1": {
             "attack": 1174,
             "defense": 1247,
@@ -47803,7 +49154,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 675,
+        "originalIndex": 698,
         "lb1": {
             "attack": 834,
             "defense": 819,
@@ -47877,7 +49228,7 @@ window.allHeroes =
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 676,
+        "originalIndex": 699,
         "lb1": {
             "attack": 1247,
             "defense": 1415,
@@ -47904,6 +49255,93 @@ window.allHeroes =
             {
                 "负面效果": [
                     "狀態-淨化狀態異常"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "部隊模仿怪 (Troop Mimic Nature)",
+        "fancy_name": "恐懼軍火庫賞金",
+        "AetherPower": "壁壘",
+        "color": "綠",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "貪婪咀嚼",
+        "types": [
+            "攻擊單個目標",
+            "寶箱怪",
+            "全體普通攻擊增益"
+        ],
+        "skill_types": [],
+        "source": "市場召喚",
+        "Release date": "2026-05-02",
+        "specialId": "gluttonous_chomp_green",
+        "passiveSkills": [
+            "mimic_troop_green",
+            "never_miss_special"
+        ],
+        "heroId": "mimic_troop_green",
+        "star": 5,
+        "power": 1282,
+        "attack": 1336,
+        "defense": 1332,
+        "health": 2263,
+        "effects": [
+            "對目標造成 480% 傷害。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "所有自然系盟友獲得 4 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ],
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "稀有：",
+            "* 叛逆神射手。",
+            "* 深林樹精。",
+            "* 叛逆幻術師。",
+            "* 訓練師部隊。",
+            "罕見：",
+            "* 叛逆箭手。",
+            "* 村莊戰士。",
+            "* 訓練師部隊。",
+            "普通：",
+            "* 普通村民。",
+            "* 叛逆盗賊。",
+            "* 深林巫師。",
+            "* 訓練師部隊。"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 700,
+        "lb1": {
+            "attack": 1440,
+            "defense": 1436,
+            "health": 2439,
+            "power": 1372
+        },
+        "lb2": {
+            "attack": 1648,
+            "defense": 1643,
+            "health": 2791,
+            "power": 1552
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-無視閃避",
+                    "治療-自我恢復/提高生命",
+                    "法力-法力恢復（擊殺）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-攻擊力↑",
+                    "防禦-擬態"
                 ]
             }
         ]
@@ -47940,16 +49378,16 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_turundh",
         "star": 5,
-        "power": 1265,
-        "attack": 1320,
-        "defense": 1310,
-        "health": 2224,
+        "power": 1275,
+        "attack": 1328,
+        "defense": 1322,
+        "health": 2251,
         "effects": [
-            "對目標造成 525% 傷害。",
+            "對目標造成 550% 傷害。",
             "目標無法在敵人或盟友身上施放任何新的狀態效果，持續 3 個回合。（包含叠加。包含以特殊技能施放的狀態效果。）",
-            "對一名隨機敵人造成 525% 傷害。",
-            "二次擊中的目標将抵禦治療，且每次抵禦治療都會受到 300 點傷害，持續 3 個回合。",
-            "若兩次攻擊皆命中同一目標，則施法者獲得 20% 法力。"
+            "對一名隨機敵人造成 550% 傷害。",
+            "二次擊中的目標将抵禦治療，且每次抵禦治療都會受到 350 點傷害，持續 3 個回合。",
+            "若兩次攻擊皆命中同一目標，則施法者獲得 25% 法力。"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -47958,18 +49396,18 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 677,
+        "originalIndex": 701,
         "lb1": {
-            "attack": 1423,
-            "defense": 1411,
-            "health": 2397,
-            "power": 1353
+            "attack": 1431,
+            "defense": 1425,
+            "health": 2426,
+            "power": 1364
         },
         "lb2": {
-            "attack": 1628,
-            "defense": 1615,
-            "health": 2743,
-            "power": 1531
+            "attack": 1638,
+            "defense": 1630,
+            "health": 2776,
+            "power": 1543
         },
         "cn_skill_info": [
             {
@@ -48021,7 +49459,7 @@ window.allHeroes =
         "defense": 807,
         "health": 1481,
         "effects": [
-            "對目標及附近敵人造成 270% 傷害。",
+            "對目標與附近敵人造成 270% 傷害。",
             "所有敵人獲得 -30% 精準度，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [
@@ -48029,7 +49467,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 678,
+        "originalIndex": 702,
         "lb1": {
             "attack": 861,
             "defense": 870,
@@ -48086,7 +49524,7 @@ window.allHeroes =
         "defense": 1065,
         "health": 1974,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "所有敵人獲得 -25% 精準度，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [
@@ -48094,7 +49532,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 679,
+        "originalIndex": 703,
         "lb1": {
             "attack": 1183,
             "defense": 1148,
@@ -48150,7 +49588,7 @@ window.allHeroes =
         "defense": 1126,
         "health": 2434,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
             "所有盟友獲得黏黏表面，持續 3 回合。此效果無法驅散。",
             "黏黏表面：從進行攻擊的敵人身上竊取 1 個隨機可驅散增益或成長效果。（被盜的可驅散增益或成長效果是隨機選擇的。 當受到敵人的傷害時，就會啟用黏黏表面。 每個擁有黏黏表面的角色，每回合只能透過普通攻擊竊取一個狀態、增益或成長效果）"
         ],
@@ -48160,7 +49598,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 680,
+        "originalIndex": 704,
         "lb1": {
             "attack": 1345,
             "defense": 1214,
@@ -48227,7 +49665,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 681,
+        "originalIndex": 705,
         "lb1": {
             "attack": 1420,
             "defense": 1416,
@@ -48294,7 +49732,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 682,
+        "originalIndex": 706,
         "lb1": {
             "attack": 1158,
             "defense": 1127,
@@ -48361,7 +49799,7 @@ window.allHeroes =
         "health": 1524,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
-            "對目標及附近敵人造成 370% 傷害。",
+            "對目標與附近敵人造成 370% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 572 點劇毒傷害。",
             "元素鏈使所有自然盟友有 +5% 機率閃避狀態異常，持續 4 個回合。此效果無法驅散。"
         ],
@@ -48371,7 +49809,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 683,
+        "originalIndex": 707,
         "lb1": {
             "attack": 772,
             "defense": 890,
@@ -48450,7 +49888,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 684,
+        "originalIndex": 708,
         "lb1": {
             "attack": 1458,
             "defense": 1405,
@@ -48527,7 +49965,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 685,
+        "originalIndex": 709,
         "lb1": {
             "attack": 894,
             "defense": 896,
@@ -48602,7 +50040,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 686,
+        "originalIndex": 710,
         "lb1": {
             "attack": 910,
             "defense": 921,
@@ -48664,40 +50102,43 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
         "heroId": "elemental_xandrella_costume_idol",
         "star": 5,
-        "power": 1261,
-        "attack": 1236,
-        "defense": 1254,
-        "health": 2519,
+        "power": 1284,
+        "attack": 1261,
+        "defense": 1279,
+        "health": 2570,
         "effects": [
-            "對目標與所有冰雪敵人造成 480% 傷害。",
-            "目標與所有冰雪敵人法力滿格時，自動對其造成 555 點傷害，並使目標法力減少 50% ,持續 4 個回合。",
+            "對目標與所有冰雪敵人造成 500% 傷害。",
+            "目標與所有冰雪敵人法力滿格時，自動對其造成 630 點傷害，並使目標法力減少 50% ,持續 4 個回合。",
             "改變面板上所有自然系護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加 +40%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少 -33%。",
-            "所有冰雪敵人獲得對自然系 -20% 的防禦，持續 4 回合。"
+            "所有冰雪敵人獲得對自然系 -25% 的防禦，持續 4 回合。"
         ],
         "passives": [
             "部隊精通：",
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "- 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "- 受到元素傷害： -25%",
+            "抵禦冰雪異常：此角色免疫冰雪系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 687,
+        "originalIndex": 711,
         "lb1": {
-            "attack": 1332,
-            "defense": 1351,
-            "health": 2715,
-            "power": 1349
+            "attack": 1359,
+            "defense": 1379,
+            "health": 2770,
+            "power": 1374
         },
         "lb2": {
-            "attack": 1524,
-            "defense": 1546,
-            "health": 3106,
-            "power": 1526
+            "attack": 1555,
+            "defense": 1578,
+            "health": 3169,
+            "power": 1554
         },
         "cn_skill_info": [
             {
@@ -48759,7 +50200,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 688,
+        "originalIndex": 712,
         "lb1": {
             "attack": 1125,
             "defense": 1007,
@@ -48822,10 +50263,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_xiang_chong",
         "star": 5,
-        "power": 1292,
-        "attack": 1369,
-        "defense": 1314,
-        "health": 2288,
+        "power": 1307,
+        "attack": 1384,
+        "defense": 1328,
+        "health": 2331,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
             "對所有敵人造成 270% 傷害。",
@@ -48841,18 +50282,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 689,
+        "originalIndex": 713,
         "lb1": {
-            "attack": 1476,
-            "defense": 1416,
-            "health": 2466,
-            "power": 1383
+            "attack": 1491,
+            "defense": 1431,
+            "health": 2513,
+            "power": 1399
         },
         "lb2": {
-            "attack": 1689,
-            "defense": 1620,
-            "health": 2821,
-            "power": 1564
+            "attack": 1706,
+            "defense": 1638,
+            "health": 2875,
+            "power": 1583
         },
         "cn_skill_info": [
             {
@@ -48911,7 +50352,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 690,
+        "originalIndex": 714,
         "lb1": {
             "attack": 1207,
             "defense": 1274,
@@ -48975,14 +50416,14 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_xshahr",
         "star": 5,
-        "power": 1248,
+        "power": 1258,
         "attack": 1322,
-        "defense": 1233,
-        "health": 2255,
+        "defense": 1260,
+        "health": 2268,
         "effects": [
-            "對目標造成 610% 傷害。",
-            "為施法者提升所造成傷害 45% 的生命值。",
-            "目標將受到持續 3 回合的共振效果，共振對受影響的敵人造成 429 點傷害，並對附近敵人造成 214 點傷害。",
+            "對目標造成 630% 傷害。",
+            "為施法者提升所造成傷害 50% 的生命值。",
+            "目標將受到持續 3 回合的共振效果，共振對受影響的敵人造成 456 點傷害，並對附近敵人造成 228 點傷害。",
             "施法者擁有生命加成時，每回合结束時會對隨機敵人造成 250% 傷害。此效果無法驅散。"
         ],
         "passives": [
@@ -48992,18 +50433,18 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 691,
+        "originalIndex": 715,
         "lb1": {
             "attack": 1425,
-            "defense": 1329,
-            "health": 2430,
-            "power": 1336
+            "defense": 1358,
+            "health": 2444,
+            "power": 1346
         },
         "lb2": {
             "attack": 1630,
-            "defense": 1521,
-            "health": 2781,
-            "power": 1510
+            "defense": 1554,
+            "health": 2796,
+            "power": 1522
         },
         "cn_skill_info": [
             {
@@ -49064,7 +50505,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 692,
+        "originalIndex": 716,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -49134,7 +50575,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 693,
+        "originalIndex": 717,
         "lb1": {
             "attack": 863,
             "defense": 1071,
@@ -49210,7 +50651,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 694,
+        "originalIndex": 718,
         "lb1": {
             "attack": 1272,
             "defense": 1172,
@@ -49278,7 +50719,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 695,
+        "originalIndex": 719,
         "lb1": {
             "attack": 823,
             "defense": 741,
@@ -49361,7 +50802,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 696,
+        "originalIndex": 720,
         "lb1": {
             "attack": 1037,
             "defense": 951,
@@ -49427,14 +50868,14 @@ window.allHeroes =
         ],
         "heroId": "institute_zenas",
         "star": 5,
-        "power": 1277,
-        "attack": 1332,
-        "defense": 1303,
-        "health": 2294,
+        "power": 1302,
+        "attack": 1357,
+        "defense": 1328,
+        "health": 2362,
         "effects": [
-            "對目標和鄰近敵人造成 360% 傷害，並對其造成 35 點瘋狂。",
-            "對目標和附近的敵人召喚綠玻隕石貓頭鷹惡魔。惡魔每回合以 60% 的攻擊對敵人造成傷害。",
-            "綠玻隕石貓頭鷹惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 25% 時消失。",
+            "對目標和鄰近敵人造成 390% 傷害，並對其造成 35 點瘋狂。",
+            "對目標和附近的敵人召喚綠玻隕石貓頭鷹惡魔。惡魔每回合以 70% 的攻擊對敵人造成傷害。",
+            "綠玻隕石貓頭鷹惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 30% 時消失。",
             "綠玻隕石貓頭鷹惡魔每回合會對擁有者造成 5 點瘋狂。",
             "每回合結束時，綠玻隕石貓頭鷹惡魔會驅散其中一個目標的可驅散增益。",
             "對施法者造成 40 點瘋狂。"
@@ -49452,18 +50893,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 697,
+        "originalIndex": 721,
         "lb1": {
-            "attack": 1436,
-            "defense": 1405,
-            "health": 2473,
-            "power": 1367
+            "attack": 1462,
+            "defense": 1431,
+            "health": 2546,
+            "power": 1393
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1607,
-            "health": 2829,
-            "power": 1546
+            "attack": 1673,
+            "defense": 1638,
+            "health": 2913,
+            "power": 1577
         },
         "cn_skill_info": [
             {
@@ -49530,7 +50971,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 698,
+        "originalIndex": 722,
         "lb1": {
             "attack": 796,
             "defense": 781,
@@ -49566,9 +51007,9 @@ window.allHeroes =
         "skill": "懸浮滑板猛撞",
         "types": [
             "攻擊單個目標",
-            "冰屬性命中時攻擊全體",
-            "命中時施加全體攻擊減益",
-            "命中時施加全體防禦減益"
+            "若是冰屬性則攻擊 4 個目標",
+            "命中時攻擊降低",
+            "命中時防禦減益"
         ],
         "skill_types": [
             "攻擊減益",
@@ -49603,7 +51044,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 699,
+        "originalIndex": 723,
         "lb1": {
             "attack": 1016,
             "defense": 994,
@@ -49630,6 +51071,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "魯尼 (Zuni) C1",
+        "fancy_name": "懸浮板法師",
+        "AetherPower": "閃避",
+        "color": "綠",
+        "class": "術士",
+        "speed": "快速",
+        "skill": "懸浮滑板撞擊",
+        "types": [
+            "攻擊單個目標",
+            "無視防禦",
+            "若是冰屬性則攻擊 4 個目標",
+            "命中時攻擊降低",
+            "命中時防禦減益"
+        ],
+        "skill_types": [],
+        "source": "超級元素",
+        "Release date": "2026-04-24",
+        "specialId": "hoverboard_crash",
+        "parent_specialId": "hoverboard_slam",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "heroId": "elemental_zuni_costume_mage",
+        "star": 5,
+        "power": 1322,
+        "attack": 1374,
+        "defense": 1335,
+        "health": 2452,
+        "effects": [
+            "對目標造成 500% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "若目標為冰雪系，則對其餘敵人造成 300% 傷害。",
+            "被命中的敵人獲得 -39% 攻擊力，持續 3 回合。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
+            "被命中的敵人獲得 -39% 防禦，持續 3 回合。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
+        ],
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
+            "- 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
+            "- 受到元素傷害： -25%",
+            "抵禦冰雪異常：此角色免疫冰雪系角色施放的異常狀態及負面效果疊加。"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 724,
+        "lb1": {
+            "attack": 1480,
+            "defense": 1438,
+            "health": 2643,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1694,
+            "defense": 1646,
+            "health": 3024,
+            "power": 1602
+        },
+        "cn_skill_info": []
     },
     {
         "name": "弗萊徹 (Fletcher)",
@@ -49661,7 +51166,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 700,
+        "originalIndex": 725,
         "lb1": {
             "attack": 215,
             "defense": 175,
@@ -49706,7 +51211,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 701,
+        "originalIndex": 726,
         "lb1": {
             "attack": 183,
             "defense": 197,
@@ -49751,7 +51256,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 702,
+        "originalIndex": 727,
         "lb1": {
             "attack": 363,
             "defense": 310,
@@ -49796,7 +51301,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 703,
+        "originalIndex": 728,
         "lb1": {
             "attack": 336,
             "defense": 340,
@@ -49841,7 +51346,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 704,
+        "originalIndex": 729,
         "lb1": {
             "attack": 293,
             "defense": 290,
@@ -49889,7 +51394,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 705,
+        "originalIndex": 730,
         "lb1": {
             "attack": 512,
             "defense": 563,
@@ -49946,7 +51451,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 706,
+        "originalIndex": 731,
         "lb1": {
             "attack": 480,
             "defense": 571,
@@ -49982,7 +51487,7 @@ window.allHeroes =
         "skill": "縱身一躍",
         "types": [
             "攻擊3個目標",
-            "3個目標閃避增益"
+            "3個目標閃避率增益"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -50003,7 +51508,7 @@ window.allHeroes =
         "defense": 498,
         "health": 870,
         "effects": [
-            "對目標及附近敵人造成 155% 傷害。",
+            "對目標與附近敵人造成 155% 傷害。",
             "施法者與附近盟友有 +45% 的機率可躲避特殊技能，持續 3 回合。每次閃避都會獲得 +5% 防禦疊加。（最大值： 10 ）"
         ],
         "passives": [
@@ -50013,7 +51518,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 707,
+        "originalIndex": 732,
         "lb1": {
             "attack": 510,
             "defense": 565,
@@ -50050,7 +51555,7 @@ window.allHeroes =
         "skill": "先行施咒",
         "types": [
             "攻擊3個目標",
-            "3個目標閃避增益"
+            "3個目標閃避率增益"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -50076,7 +51581,7 @@ window.allHeroes =
         "defense": 489,
         "health": 905,
         "effects": [
-            "對目標及附近敵人造成 145% 傷害。",
+            "對目標與附近敵人造成 145% 傷害。",
             "施法者與附近盟友有 +45% 的機率可躲避特殊技能，持續 3 回合。每次閃避都會獲得 +10% 防禦疊加。（最大值： 10 ）"
         ],
         "passives": [
@@ -50088,7 +51593,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 708,
+        "originalIndex": 733,
         "lb1": {
             "attack": 540,
             "defense": 554,
@@ -50145,7 +51650,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 709,
+        "originalIndex": 734,
         "lb1": {
             "attack": 547,
             "defense": 478,
@@ -50201,7 +51706,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 710,
+        "originalIndex": 735,
         "lb1": {
             "attack": 604,
             "defense": 493,
@@ -50266,7 +51771,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 711,
+        "originalIndex": 736,
         "lb1": {
             "attack": 636,
             "defense": 539,
@@ -50331,7 +51836,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 712,
+        "originalIndex": 737,
         "lb1": {
             "attack": 671,
             "defense": 543,
@@ -50395,7 +51900,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 713,
+        "originalIndex": 738,
         "lb1": {
             "attack": 719,
             "defense": 571,
@@ -50451,7 +51956,7 @@ window.allHeroes =
         "defense": 477,
         "health": 783,
         "effects": [
-            "對目標及附近敵人造成 210% 傷害。",
+            "對目標與附近敵人造成 210% 傷害。",
             "附近盟友獲得柔軟膚。（他們下次受到的傷害減少 -90%，並抵抗所有狀態異常和法力減損。此效果無法驅散）"
         ],
         "passives": [
@@ -50459,7 +51964,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 714,
+        "originalIndex": 739,
         "lb1": {
             "attack": 600,
             "defense": 541,
@@ -50519,7 +52024,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 715,
+        "originalIndex": 740,
         "lb1": {
             "attack": 520,
             "defense": 494,
@@ -50584,7 +52089,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 716,
+        "originalIndex": 741,
         "lb1": {
             "attack": 527,
             "defense": 517,
@@ -50615,6 +52120,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "比約恩 (Bjorn) 卡通",
+        "fancy_name": "英勇公仔",
+        "AetherPower": "攻擊提升",
+        "color": "紫",
+        "class": "僧侶",
+        "speed": "中等",
+        "skill": "雙公仔連斬",
+        "types": [
+            "攻擊單個目標",
+            "隨機攻擊1個目標"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "dual_toon_slash",
+        "parent_specialId": "dual_slash",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_bjorn_costume_cute",
+        "star": 3,
+        "power": 563,
+        "attack": 575,
+        "defense": 543,
+        "health": 1036,
+        "effects": [
+            "對目標造成 230% 傷害。",
+            "對一名隨機的不同的敵人造成 410% 傷害。對神聖系造成額外傷害。（若沒有其他可用目標，則此效果會選擇與第一次打擊相同的敵人）",
+            "對神聖系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "midgard",
+        "costume_id": 2,
+        "originalIndex": 742,
+        "lb1": {
+            "attack": 652,
+            "defense": 615,
+            "health": 1174,
+            "power": 629
+        },
+        "lb2": {
+            "attack": 806,
+            "defense": 760,
+            "health": 1451,
+            "power": 763
+        },
+        "cn_skill_info": []
     },
     {
         "name": "布達丁 (Budatin)",
@@ -50653,7 +52210,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 717,
+        "originalIndex": 743,
         "lb1": {
             "attack": 567,
             "defense": 569,
@@ -50701,13 +52258,13 @@ window.allHeroes =
         "defense": 512,
         "health": 684,
         "effects": [
-            "對目標及附近敵人造成 215% 傷害。",
+            "對目標與附近敵人造成 215% 傷害。",
             "目標與附近敵人獲得 -24% 法力產出，持續 3 回合。"
         ],
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 718,
+        "originalIndex": 744,
         "lb1": {
             "attack": 468,
             "defense": 581,
@@ -50765,7 +52322,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 719,
+        "originalIndex": 745,
         "lb1": {
             "attack": 596,
             "defense": 510,
@@ -50828,7 +52385,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 720,
+        "originalIndex": 746,
         "lb1": {
             "attack": 494,
             "defense": 514,
@@ -50889,7 +52446,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 721,
+        "originalIndex": 747,
         "lb1": {
             "attack": 543,
             "defense": 501,
@@ -50915,6 +52472,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "吉爾拉 (Gill-Ra) 卡通",
+        "fancy_name": "獵人公仔",
+        "AetherPower": "反擊",
+        "color": "紫",
+        "class": "術士",
+        "speed": "慢速",
+        "skill": "公仔輓歌",
+        "types": [
+            "全體防禦降低",
+            "全體攻擊降低",
+            "全體淨化"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_lament",
+        "parent_specialId": "song_of_regression",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_fiji_mermaid_costume_cute",
+        "star": 3,
+        "power": 560,
+        "attack": 536,
+        "defense": 614,
+        "health": 971,
+        "effects": [
+            "所有敵人獲得 -34% 防禦，持續 4 個回合此狀態效果在神聖系角色上無法淨化，且會持續額外 2 個回合。",
+            "所有敵人獲得 -34% 攻擊力，持續 4 回合。對神聖系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
+            "淨化所有盟友的狀態異常。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 748,
+        "lb1": {
+            "attack": 607,
+            "defense": 695,
+            "health": 1101,
+            "power": 626
+        },
+        "lb2": {
+            "attack": 750,
+            "defense": 859,
+            "health": 1360,
+            "power": 758
+        },
+        "cn_skill_info": []
     },
     {
         "name": "格立爾 (Greel)",
@@ -50959,7 +52569,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 722,
+        "originalIndex": 749,
         "lb1": {
             "attack": 596,
             "defense": 541,
@@ -51018,7 +52628,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 723,
+        "originalIndex": 750,
         "lb1": {
             "attack": 496,
             "defense": 474,
@@ -51081,7 +52691,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 724,
+        "originalIndex": 751,
         "lb1": {
             "attack": 557,
             "defense": 510,
@@ -51141,7 +52751,7 @@ window.allHeroes =
         "defense": 509,
         "health": 794,
         "effects": [
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "目標與附近敵人獲得 -44% 防禦，持續 4 回合。",
             "疊加（最大值： 10 ）：施法者獲得 +5% 法力產出。",
             "疊加（最大值： 10 ）：施法者每回合恢復 5 點生命值。"
@@ -51151,7 +52761,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 725,
+        "originalIndex": 752,
         "lb1": {
             "attack": 520,
             "defense": 577,
@@ -51225,7 +52835,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 726,
+        "originalIndex": 753,
         "lb1": {
             "attack": 612,
             "defense": 545,
@@ -51262,10 +52872,10 @@ window.allHeroes =
         "speed": "中等",
         "skill": "挖洞",
         "types": [
-            "自我淨化",
-            "挖洞者",
-            "攻擊單個目標",
-            "單體法力獲取凍結"
+            "自身淨化",
+            "自身隱藏/潛行",
+            "延遲隨機攻擊單體",
+            "延遲單體法力獲取凍結"
         ],
         "skill_types": [
             "凈化",
@@ -51289,7 +52899,7 @@ window.allHeroes =
         "effects": [
             "移除施法者的所有狀態效果和疊加。即使是無法驅散或淨化的狀態效果和疊加，也會移除。",
             "施法者會挖一個洞，躲在裡頭 2 回合。",
-            "在洞內時，施法者無法得到法力，但對普通攻擊、特殊攻擊和所有狀態效果免疫。",
+            "在洞內時，施法者無法得到法力，且無法被特殊技能治療，但對普通攻擊、特殊技能攻擊和所有狀態效果和疊加免疫。",
             "經過 2 個回合後，施法者從洞內跳出，對一個隨機敵人造成 223 傷害。",
             "被擊中的敵人得到以下狀態異常：",
             "* 目標不能增加法力，持續 2 個回合。"
@@ -51299,7 +52909,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 727,
+        "originalIndex": 754,
         "lb1": {
             "attack": 575,
             "defense": 547,
@@ -51340,10 +52950,10 @@ window.allHeroes =
         "speed": "中等",
         "skill": "挖洞",
         "types": [
-            "自我淨化",
-            "挖洞者",
-            "攻擊單個目標",
-            "法力獲取凍結"
+            "自身淨化",
+            "自身隱藏/潛行",
+            "延遲隨機攻擊單體",
+            "延遲單體法力獲取凍結"
         ],
         "skill_types": [
             "疊加",
@@ -51367,9 +52977,9 @@ window.allHeroes =
         "defense": 512,
         "health": 771,
         "effects": [
-            "移除施法者的所有狀態效果和疊加，包括那些無法驅散或淨化的狀態效果和疊加。",
+            "移除施法者的所有狀態效果和疊加。即使是無法驅散或淨化的狀態效果和疊加，也會移除。",
             "施法者會挖一個洞，躲在裡頭 3 回合。",
-            "在洞內時，施法者無法得到法力，且無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、狀態效果和疊加免疫。",
+            "在洞內時，施法者無法得到法力，且無法被特殊技能治療，但對普通攻擊、特殊技能攻擊和所有狀態效果和疊加免疫。",
             "經過 3 個回合後，施法者從洞內跳出，對一個隨機敵人造成 143 傷害。",
             "被擊中的敵人得到以下狀態異常：",
             "目標不能增加法力，持續 3 個回合。"
@@ -51379,7 +52989,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 728,
+        "originalIndex": 755,
         "lb1": {
             "attack": 558,
             "defense": 580,
@@ -51444,7 +53054,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 729,
+        "originalIndex": 756,
         "lb1": {
             "attack": 478,
             "defense": 466,
@@ -51503,7 +53113,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 730,
+        "originalIndex": 757,
         "lb1": {
             "attack": 478,
             "defense": 535,
@@ -51570,7 +53180,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 731,
+        "originalIndex": 758,
         "lb1": {
             "attack": 582,
             "defense": 530,
@@ -51644,7 +53254,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 732,
+        "originalIndex": 759,
         "lb1": {
             "attack": 609,
             "defense": 539,
@@ -51685,8 +53295,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "熟稔巫術",
         "types": [
-            "全體恢復",
-            "攻擊降低"
+            "全體治療",
+            "全體攻擊降低"
         ],
         "skill_types": [
             "攻擊減益",
@@ -51713,7 +53323,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 733,
+        "originalIndex": 760,
         "lb1": {
             "attack": 518,
             "defense": 541,
@@ -51772,7 +53382,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 734,
+        "originalIndex": 761,
         "lb1": {
             "attack": 468,
             "defense": 525,
@@ -51833,7 +53443,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 735,
+        "originalIndex": 762,
         "lb1": {
             "attack": 480,
             "defense": 539,
@@ -51900,7 +53510,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 736,
+        "originalIndex": 763,
         "lb1": {
             "attack": 541,
             "defense": 604,
@@ -51969,7 +53579,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 737,
+        "originalIndex": 764,
         "lb1": {
             "attack": 576,
             "defense": 604,
@@ -51995,6 +53605,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "普利斯卡 (Prisca) 英姿",
+        "fancy_name": "時尚獄長",
+        "AetherPower": "特殊加成",
+        "color": "紫",
+        "class": "騎士",
+        "speed": "中等",
+        "skill": "時尚戳擊",
+        "types": [
+            "攻擊單個目標",
+            "自我治療"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_stab",
+        "parent_specialId": "bleeding_stab",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "blackguard_female_captain_costume_stylish",
+        "star": 3,
+        "power": 550,
+        "attack": 543,
+        "defense": 562,
+        "health": 989,
+        "effects": [
+            "對目標造成 285% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 360% 傷害。",
+            "為施法者治療 50% 的傷害。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 765,
+        "lb1": {
+            "attack": 615,
+            "defense": 637,
+            "health": 1121,
+            "power": 615
+        },
+        "lb2": {
+            "attack": 760,
+            "defense": 788,
+            "health": 1385,
+            "power": 745
+        },
+        "cn_skill_info": []
     },
     {
         "name": "雷恩菲爾德 (Renfeld)",
@@ -52029,7 +53691,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 738,
+        "originalIndex": 766,
         "lb1": {
             "attack": 553,
             "defense": 451,
@@ -52091,7 +53753,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 739,
+        "originalIndex": 767,
         "lb1": {
             "attack": 495,
             "defense": 526,
@@ -52158,7 +53820,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 740,
+        "originalIndex": 768,
         "lb1": {
             "attack": 543,
             "defense": 555,
@@ -52227,7 +53889,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 741,
+        "originalIndex": 769,
         "lb1": {
             "attack": 571,
             "defense": 557,
@@ -52293,7 +53955,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 742,
+        "originalIndex": 770,
         "lb1": {
             "attack": 492,
             "defense": 577,
@@ -52354,7 +54016,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 743,
+        "originalIndex": 771,
         "lb1": {
             "attack": 439,
             "defense": 478,
@@ -52415,7 +54077,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 744,
+        "originalIndex": 772,
         "lb1": {
             "attack": 480,
             "defense": 516,
@@ -52482,7 +54144,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 745,
+        "originalIndex": 773,
         "lb1": {
             "attack": 548,
             "defense": 527,
@@ -52555,7 +54217,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 746,
+        "originalIndex": 774,
         "lb1": {
             "attack": 574,
             "defense": 534,
@@ -52629,7 +54291,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 747,
+        "originalIndex": 775,
         "lb1": {
             "attack": 608,
             "defense": 591,
@@ -52698,7 +54360,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 748,
+        "originalIndex": 776,
         "lb1": {
             "attack": 417,
             "defense": 551,
@@ -52733,7 +54395,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "木乃伊斬擊",
         "types": [
-            "攻擊3個目標"
+            "攻擊3個目標",
+            "擊殺時全體法力提升"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -52762,7 +54425,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 749,
+        "originalIndex": 777,
         "lb1": {
             "attack": 752,
             "defense": 715,
@@ -52797,7 +54460,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "木乃伊打擊",
         "types": [
-            "攻擊3個目標"
+            "攻擊3個目標",
+            "擊殺時全體法力提升"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -52833,7 +54497,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 750,
+        "originalIndex": 778,
         "lb1": {
             "attack": 718,
             "defense": 767,
@@ -52895,7 +54559,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 751,
+        "originalIndex": 779,
         "lb1": {
             "attack": 838,
             "defense": 572,
@@ -52959,7 +54623,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 752,
+        "originalIndex": 780,
         "lb1": {
             "attack": 761,
             "defense": 708,
@@ -53021,7 +54685,7 @@ window.allHeroes =
             "* 對目標造成 220% 傷害。",
             "2 倍法力充能：",
             "* 驅散目標和附近敵人的增益。",
-            "* 對目標及附近敵人造成 255% 傷害。",
+            "* 對目標與附近敵人造成 255% 傷害。",
             "3 倍法力充能：",
             "* 驅散所有敵人的增益。",
             "* 對所有敵人造成 300% 傷害。"
@@ -53029,7 +54693,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 753,
+        "originalIndex": 781,
         "lb1": {
             "attack": 778,
             "defense": 609,
@@ -53097,7 +54761,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 754,
+        "originalIndex": 782,
         "lb1": {
             "attack": 681,
             "defense": 757,
@@ -53173,7 +54837,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 755,
+        "originalIndex": 783,
         "lb1": {
             "attack": 796,
             "defense": 860,
@@ -53237,23 +54901,23 @@ window.allHeroes =
         "effects": [
             "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
             "1 倍法力充能：",
-            "* 對目標及附近敵人造成 165% 傷害。",
+            "* 對目標與附近敵人造成 165% 傷害。",
             "* 施法者和附近盟友獲得 +30% 攻擊力，持續 3 回合。",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 215% 傷害。",
+            "* 對目標與附近敵人造成 215% 傷害。",
             "* 目標與附近敵人獲得 -34% 防禦，持續 3 回合。",
             "3 倍法力充能：",
-            "* 對目標及附近敵人造成 365% 傷害。",
+            "* 對目標與附近敵人造成 365% 傷害。",
             "* 施法者和附近盟友獲得 +50% 攻擊力，持續 3 回合。",
             "* 目標與附近敵人獲得 -44% 防禦，持續 3 回合。"
         ],
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
+            "抵禦防禦異常：該角色對影響防禦的狀態異常具有天生抗性。同樣適用於影響元素防禦的狀態異常。"
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 756,
+        "originalIndex": 784,
         "lb1": {
             "attack": 720,
             "defense": 692,
@@ -53317,7 +54981,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 757,
+        "originalIndex": 785,
         "lb1": {
             "attack": 588,
             "defense": 720,
@@ -53378,7 +55042,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 758,
+        "originalIndex": 786,
         "lb1": {
             "attack": 715,
             "defense": 697,
@@ -53443,7 +55107,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 759,
+        "originalIndex": 787,
         "lb1": {
             "attack": 814,
             "defense": 700,
@@ -53512,7 +55176,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 760,
+        "originalIndex": 788,
         "lb1": {
             "attack": 750,
             "defense": 674,
@@ -53573,7 +55237,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 761,
+        "originalIndex": 789,
         "lb1": {
             "attack": 611,
             "defense": 658,
@@ -53626,7 +55290,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 762,
+        "originalIndex": 790,
         "lb1": {
             "attack": 615,
             "defense": 773,
@@ -53685,7 +55349,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 763,
+        "originalIndex": 791,
         "lb1": {
             "attack": 716,
             "defense": 796,
@@ -53737,14 +55401,14 @@ window.allHeroes =
         "defense": 703,
         "health": 1687,
         "effects": [
-            "施法者與附近盟友以所受傷害的 125% 進行反擊，持續 5 回合。此狀態效果无法驅散，對暗黑系角色持續時間延長 2 回合。"
+            "施法者與附近盟友以所受傷害的 125% 進行反擊，持續 5 回合。此狀態效果無法驅散，對暗黑系角色持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 764,
+        "originalIndex": 792,
         "lb1": {
             "attack": 713,
             "defense": 764,
@@ -53804,7 +55468,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 765,
+        "originalIndex": 793,
         "lb1": {
             "attack": 722,
             "defense": 783,
@@ -53825,6 +55489,57 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "塞普里恩 (Cyprian) 英姿",
+        "fancy_name": "時尚馭死領主",
+        "AetherPower": "反擊",
+        "color": "紫",
+        "class": "騎士",
+        "speed": "中等",
+        "skill": "時尚還擊",
+        "types": [
+            "3個目標反擊",
+            "全體持續治療"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_riposte_cyprian",
+        "parent_specialId": "perfect_riposte",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "undead_captain_warrior_costume_stylish",
+        "star": 4,
+        "power": 813,
+        "attack": 723,
+        "defense": 792,
+        "health": 1809,
+        "effects": [
+            "施法者與附近盟友進行反擊，造成所受傷害 125% 的傷害，持續 5 回合。",
+            "所有盟友在 5 回合內恢復 500 點生命值。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 794,
+        "lb1": {
+            "attack": 786,
+            "defense": 861,
+            "health": 1966,
+            "power": 876
+        },
+        "lb2": {
+            "attack": 911,
+            "defense": 998,
+            "health": 2279,
+            "power": 1002
+        },
+        "cn_skill_info": []
     },
     {
         "name": "帝吉 (Dizzy)",
@@ -53856,14 +55571,14 @@ window.allHeroes =
         "defense": 684,
         "health": 1249,
         "effects": [
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "為施法者與附近盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命和 10% 攻擊。",
             "施法者與附近盟友將全部狀態效果和 100% 傷害反射給進攻者，並抵擋其它來自敵人神聖系特殊技能的負面效果，持續 4 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
         ],
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 766,
+        "originalIndex": 795,
         "lb1": {
             "attack": 734,
             "defense": 743,
@@ -53926,7 +55641,7 @@ window.allHeroes =
         "defense": 701,
         "health": 1370,
         "effects": [
-            "對目標及附近敵人造成 255% 傷害。",
+            "對目標與附近敵人造成 255% 傷害。",
             "目標和附近敵人每個回合持續受到 97 點劇毒傷害。（此效果會持續到被驅散、替代或移除為止。）",
             "目標與附近敵人獲得 -30% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）"
         ],
@@ -53935,7 +55650,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 767,
+        "originalIndex": 796,
         "lb1": {
             "attack": 854,
             "defense": 761,
@@ -53999,7 +55714,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 0,
-        "originalIndex": 768,
+        "originalIndex": 797,
         "lb1": {
             "attack": 768,
             "defense": 683,
@@ -54057,14 +55772,14 @@ window.allHeroes =
         "defense": 625,
         "health": 1139,
         "effects": [
-            "對目標及附近敵人造成 280% 傷害。",
+            "對目標與附近敵人造成 280% 傷害。",
             "使目標和附近敵人的法力減少 15%。",
             "目標與附近敵人獲得的治療減少 -75%，持續 3 回合。"
         ],
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 1,
-        "originalIndex": 769,
+        "originalIndex": 798,
         "lb1": {
             "attack": 815,
             "defense": 680,
@@ -54096,6 +55811,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "弗拉 (Fura) 卡通",
+        "fancy_name": "斯瓦塔爾法海姆毒劑師公仔",
+        "AetherPower": "攻擊提升",
+        "color": "紫",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "公仔林地花粉",
+        "types": [
+            "攻擊所有目標",
+            "全體最大生命值降低",
+            "全體治療降低"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toonglade_pollen",
+        "parent_specialId": "nightglade_pollen",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_fura_costume_cute",
+        "star": 4,
+        "power": 834,
+        "attack": 917,
+        "defense": 820,
+        "health": 1419,
+        "effects": [
+            "對所有敵人造成 180% 傷害。",
+            "使所有敵人的最大生命值降低 150 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 150 點。）",
+            "所有敵人獲得的治療減少 -55%，持續 4 回合。",
+            "對神聖系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "svartalfheim",
+        "costume_id": 2,
+        "originalIndex": 799,
+        "lb1": {
+            "attack": 996,
+            "defense": 891,
+            "health": 1542,
+            "power": 898
+        },
+        "lb2": {
+            "attack": 1155,
+            "defense": 1033,
+            "health": 1788,
+            "power": 1028
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "賈法爾 (Gafar)",
         "fancy_name": "飛沙帝國大臣",
         "AetherPower": "攻擊提升",
@@ -54106,8 +55875,8 @@ window.allHeroes =
         "types": [
             "攻擊單個目標",
             "單體持續傷害",
-            "治療降低",
-            "自我淨化"
+            "單體治療降低",
+            "自身淨化"
         ],
         "skill_types": [
             "凈化",
@@ -54134,7 +55903,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 770,
+        "originalIndex": 800,
         "lb1": {
             "attack": 773,
             "defense": 688,
@@ -54199,7 +55968,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 771,
+        "originalIndex": 801,
         "lb1": {
             "attack": 727,
             "defense": 678,
@@ -54268,7 +56037,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 772,
+        "originalIndex": 802,
         "lb1": {
             "attack": 688,
             "defense": 743,
@@ -54312,8 +56081,8 @@ window.allHeroes =
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
-            "治療降低",
-            "自我淨化"
+            "3個目標治療降低",
+            "自身淨化"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -54340,7 +56109,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 773,
+        "originalIndex": 803,
         "lb1": {
             "attack": 577,
             "defense": 750,
@@ -54409,7 +56178,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 774,
+        "originalIndex": 804,
         "lb1": {
             "attack": 736,
             "defense": 752,
@@ -54484,7 +56253,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 775,
+        "originalIndex": 805,
         "lb1": {
             "attack": 699,
             "defense": 720,
@@ -54556,7 +56325,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 776,
+        "originalIndex": 806,
         "lb1": {
             "attack": 817,
             "defense": 863,
@@ -54621,7 +56390,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 777,
+        "originalIndex": 807,
         "lb1": {
             "attack": 773,
             "defense": 692,
@@ -54693,7 +56462,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 778,
+        "originalIndex": 808,
         "lb1": {
             "attack": 736,
             "defense": 775,
@@ -54759,7 +56528,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 779,
+        "originalIndex": 809,
         "lb1": {
             "attack": 771,
             "defense": 671,
@@ -54821,7 +56590,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 780,
+        "originalIndex": 810,
         "lb1": {
             "attack": 741,
             "defense": 718,
@@ -54882,14 +56651,14 @@ window.allHeroes =
         "defense": 633,
         "health": 1119,
         "effects": [
-            "對目標及附近敵人造成 210% 傷害。",
+            "對目標與附近敵人造成 210% 傷害。",
             "敵人的法力越高，受到的傷害越大，最高可達 270%。",
             "在 3 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 781,
+        "originalIndex": 811,
         "lb1": {
             "attack": 812,
             "defense": 688,
@@ -54953,7 +56722,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 782,
+        "originalIndex": 812,
         "lb1": {
             "attack": 768,
             "defense": 646,
@@ -55015,7 +56784,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 783,
+        "originalIndex": 813,
         "lb1": {
             "attack": 841,
             "defense": 604,
@@ -55041,6 +56810,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "普羅透斯 (Proteus) 卡通",
+        "fancy_name": "亞特蘭蒂斯法師公仔",
+        "AetherPower": "傷害減少",
+        "color": "紫",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "深淵公仔",
+        "types": [
+            "3個目標持續傷害",
+            "3個目標法力獲取凍結"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_of_the_depths",
+        "parent_specialId": "scar_of_the_depths",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_proteus_costume_cute",
+        "star": 4,
+        "power": 828,
+        "attack": 908,
+        "defense": 792,
+        "health": 1457,
+        "effects": [
+            "目標與附近敵人在 3 回合內受到共計 474 點劇毒傷害。",
+            "目標與附近敵人不能增加法力，持續 3 回合。",
+            "對神聖系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 814,
+        "lb1": {
+            "attack": 987,
+            "defense": 861,
+            "health": 1583,
+            "power": 893
+        },
+        "lb2": {
+            "attack": 1144,
+            "defense": 998,
+            "health": 1835,
+            "power": 1021
+        },
+        "cn_skill_info": []
     },
     {
         "name": "里加 (Rigard)",
@@ -55075,7 +56896,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 784,
+        "originalIndex": 815,
         "lb1": {
             "attack": 646,
             "defense": 731,
@@ -55139,7 +56960,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 785,
+        "originalIndex": 816,
         "lb1": {
             "attack": 701,
             "defense": 778,
@@ -55208,7 +57029,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 786,
+        "originalIndex": 817,
         "lb1": {
             "attack": 780,
             "defense": 878,
@@ -55273,7 +57094,7 @@ window.allHeroes =
         "health": 1275,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
-            "所有盟友獲得 +34% 防禦，持續 3 回合。此狀態效果无法驅散，對暗黑系角色持續時間延長 2 回合。",
+            "所有盟友獲得 +34% 防禦，持續 3 回合。此狀態效果無法驅散，對暗黑系角色持續時間延長 2 回合。",
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
@@ -55281,7 +57102,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 787,
+        "originalIndex": 818,
         "lb1": {
             "attack": 875,
             "defense": 794,
@@ -55355,7 +57176,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 788,
+        "originalIndex": 819,
         "lb1": {
             "attack": 906,
             "defense": 829,
@@ -55429,7 +57250,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 789,
+        "originalIndex": 820,
         "lb1": {
             "attack": 861,
             "defense": 891,
@@ -55494,7 +57315,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 790,
+        "originalIndex": 821,
         "lb1": {
             "attack": 759,
             "defense": 628,
@@ -55558,7 +57379,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 791,
+        "originalIndex": 822,
         "lb1": {
             "attack": 822,
             "defense": 711,
@@ -55627,7 +57448,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 792,
+        "originalIndex": 823,
         "lb1": {
             "attack": 801,
             "defense": 884,
@@ -55692,7 +57513,7 @@ window.allHeroes =
         "health": 1135,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
-            "所有盟友獲得 +34% 防禦，持續 3 回合。此狀態效果无法驅散，對暗黑系角色持續時間延長 2 回合。",
+            "所有盟友獲得 +34% 防禦，持續 3 回合。此狀態效果無法驅散，對暗黑系角色持續時間延長 2 回合。",
             "驅散所有敵人的增益。"
         ],
         "passives": [
@@ -55700,7 +57521,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 793,
+        "originalIndex": 824,
         "lb1": {
             "attack": 872,
             "defense": 845,
@@ -55770,7 +57591,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 794,
+        "originalIndex": 825,
         "lb1": {
             "attack": 901,
             "defense": 849,
@@ -55806,9 +57627,9 @@ window.allHeroes =
         "speed": "魔法",
         "skill": "午夜明月",
         "types": [
-            "元素防禦降低",
-            "普通攻擊增益",
-            "蓄力"
+            "蓄力",
+            "全體元素防禦降低",
+            "全體普通攻擊增益"
         ],
         "skill_types": [
             "攻擊增益",
@@ -55839,7 +57660,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 795,
+        "originalIndex": 826,
         "lb1": {
             "attack": 715,
             "defense": 674,
@@ -55908,7 +57729,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 796,
+        "originalIndex": 827,
         "lb1": {
             "attack": 706,
             "defense": 766,
@@ -55978,7 +57799,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 797,
+        "originalIndex": 828,
         "lb1": {
             "attack": 798,
             "defense": 711,
@@ -56037,7 +57858,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 798,
+        "originalIndex": 829,
         "lb1": {
             "attack": 773,
             "defense": 761,
@@ -56105,7 +57926,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 799,
+        "originalIndex": 830,
         "lb1": {
             "attack": 842,
             "defense": 761,
@@ -56170,7 +57991,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 800,
+        "originalIndex": 831,
         "lb1": {
             "attack": 789,
             "defense": 676,
@@ -56232,11 +58053,11 @@ window.allHeroes =
             "所有带有血百合合標記的敵人，在 3 回合內受到 189 點流血傷害。"
         ],
         "passives": [
-            "目标每有一層血百合叠加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
+            "目标每有一層血百合疊加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 801,
+        "originalIndex": 832,
         "lb1": {
             "attack": 861,
             "defense": 831,
@@ -56297,7 +58118,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 802,
+        "originalIndex": 833,
         "lb1": {
             "attack": 718,
             "defense": 688,
@@ -56358,7 +58179,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 803,
+        "originalIndex": 834,
         "lb1": {
             "attack": 763,
             "defense": 748,
@@ -56419,7 +58240,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 804,
+        "originalIndex": 835,
         "lb1": {
             "attack": 793,
             "defense": 825,
@@ -56486,7 +58307,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 805,
+        "originalIndex": 836,
         "lb1": {
             "attack": 821,
             "defense": 861,
@@ -56559,7 +58380,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 806,
+        "originalIndex": 837,
         "lb1": {
             "attack": 846,
             "defense": 871,
@@ -56615,7 +58436,7 @@ window.allHeroes =
         "Release date": "2026-03-10",
         "specialId": "lethal_strikes",
         "passiveSkills": [
-            "dishonorable_death",
+            "dishonorable_death_epic",
             "prevent_boosted_health"
         ],
         "heroId": "ronin_tokage_daigo",
@@ -56650,7 +58471,7 @@ window.allHeroes =
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 807,
+        "originalIndex": 838,
         "lb1": {
             "attack": 969,
             "defense": 863,
@@ -56715,7 +58536,7 @@ window.allHeroes =
         "defense": 959,
         "health": 1604,
         "effects": [
-            "對目標及附近敵人造成 355% 傷害。",
+            "對目標與附近敵人造成 355% 傷害。",
             "枯萎：目標與附近敵人獲得 -225 點攻擊和 -225 點防禦。",
             "目標和附近敵人將狀態效果增益反射給敵方戰隊的隨機角色，持續 3 回合。（僅反射可驅散的增益）"
         ],
@@ -56726,7 +58547,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 808,
+        "originalIndex": 839,
         "lb1": {
             "attack": 1114,
             "defense": 1034,
@@ -56796,7 +58617,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 809,
+        "originalIndex": 840,
         "lb1": {
             "attack": 939,
             "defense": 925,
@@ -56852,40 +58673,43 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
         "heroId": "elemental_aconia_costume_courier",
         "star": 5,
-        "power": 1279,
-        "attack": 1290,
-        "defense": 1256,
-        "health": 2507,
+        "power": 1302,
+        "attack": 1316,
+        "defense": 1282,
+        "health": 2558,
         "effects": [
-            "對目標與神聖敵人召喚匕首惡魔。惡魔每回合以 200% 的攻擊力對目標造成傷害。",
-            "匕首惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 30% 時消失。",
-            "當匕首惡魔吸收足夠治療量而消失時，其主人在 3 個回合內受到 1011 點流血傷害。",
-            "所有敵人受到狀態異常和負面疊加的 +30% 額外傷害，持續 6 回合。"
+            "對目標與神聖敵人召喚匕首惡魔。惡魔每回合以 240% 的攻擊力對目標造成傷害。",
+            "匕首惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 35% 時消失。",
+            "當匕首惡魔吸收足夠治療量而消失時，其主人在 3 個回合內受到 1125 點流血傷害。",
+            "所有敵人受到狀態異常和負面疊加的 +35% 額外傷害，持續 6 回合。"
         ],
         "passives": [
             "部隊精通：",
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "* 所造成额外傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "* 所受到傷害： -25%"
+            "* 所受到傷害： -25%",
+            "抵禦神聖異常：此角色免疫神聖系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 810,
+        "originalIndex": 841,
         "lb1": {
-            "attack": 1390,
-            "defense": 1354,
-            "health": 2702,
-            "power": 1368
+            "attack": 1418,
+            "defense": 1381,
+            "health": 2757,
+            "power": 1393
         },
         "lb2": {
-            "attack": 1590,
-            "defense": 1549,
-            "health": 3091,
-            "power": 1547
+            "attack": 1623,
+            "defense": 1581,
+            "health": 3154,
+            "power": 1577
         },
         "cn_skill_info": [
             {
@@ -56945,7 +58769,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 811,
+        "originalIndex": 842,
         "lb1": {
             "attack": 790,
             "defense": 768,
@@ -57018,7 +58842,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 812,
+        "originalIndex": 843,
         "lb1": {
             "attack": 968,
             "defense": 1004,
@@ -57088,14 +58912,17 @@ window.allHeroes =
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 阿爾法已太。",
             "* 暗黑已太 III。",
+            "史詩：",
             "* 暗黑已太 II。",
+            "稀有：",
             "* 暗黑已太 I。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 813,
+        "originalIndex": 844,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -57183,7 +59010,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 814,
+        "originalIndex": 845,
         "lb1": {
             "attack": 1447,
             "defense": 1294,
@@ -57270,7 +59097,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 815,
+        "originalIndex": 846,
         "lb1": {
             "attack": 814,
             "defense": 850,
@@ -57364,7 +59191,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 816,
+        "originalIndex": 847,
         "lb1": {
             "attack": 1282,
             "defense": 1338,
@@ -57449,7 +59276,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 817,
+        "originalIndex": 848,
         "lb1": {
             "attack": 1240,
             "defense": 1163,
@@ -57517,7 +59344,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 0,
-        "originalIndex": 818,
+        "originalIndex": 849,
         "lb1": {
             "attack": 710,
             "defense": 910,
@@ -57583,7 +59410,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 1,
-        "originalIndex": 819,
+        "originalIndex": 850,
         "lb1": {
             "attack": 841,
             "defense": 1250,
@@ -57640,10 +59467,10 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_amelia",
         "star": 5,
-        "power": 1257,
-        "attack": 1301,
-        "defense": 1308,
-        "health": 2222,
+        "power": 1272,
+        "attack": 1316,
+        "defense": 1322,
+        "health": 2263,
         "effects": [
             "為所有盟友恢復 26% 生命值。",
             "從所有敵人身上驅散 1 個增益。（優先驅散最新的增益）",
@@ -57662,18 +59489,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 820,
+        "originalIndex": 851,
         "lb1": {
-            "attack": 1403,
-            "defense": 1409,
-            "health": 2395,
-            "power": 1345
+            "attack": 1418,
+            "defense": 1425,
+            "health": 2439,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1605,
-            "defense": 1612,
-            "health": 2740,
-            "power": 1521
+            "attack": 1623,
+            "defense": 1630,
+            "health": 2791,
+            "power": 1540
         },
         "cn_skill_info": [
             {
@@ -57736,7 +59563,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 821,
+        "originalIndex": 852,
         "lb1": {
             "attack": 936,
             "defense": 870,
@@ -57806,7 +59633,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 822,
+        "originalIndex": 853,
         "lb1": {
             "attack": 972,
             "defense": 1061,
@@ -57880,7 +59707,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 823,
+        "originalIndex": 854,
         "lb1": {
             "attack": 879,
             "defense": 916,
@@ -57917,9 +59744,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "胡狼印記",
         "types": [
-            "貪婪",
+            "單體貪婪",
             "全體持續傷害",
-            "防禦降低"
+            "全體防禦降低"
         ],
         "skill_types": [
             "增益格擋者",
@@ -57957,7 +59784,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 824,
+        "originalIndex": 855,
         "lb1": {
             "attack": 1281,
             "defense": 1316,
@@ -58018,7 +59845,7 @@ window.allHeroes =
         "defense": 780,
         "health": 1402,
         "effects": [
-            "對目標及附近敵人造成 375% 傷害。",
+            "對目標與附近敵人造成 375% 傷害。",
             "為所有盟友提升所造成傷害 30% 的生命值。",
             "所有盟友對新的狀態異常免疫，持續 3 個回合。此效果無法驅散。",
             "施法者獲得 +30% 防禦，持續 3 回合。"
@@ -58028,7 +59855,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 825,
+        "originalIndex": 856,
         "lb1": {
             "attack": 941,
             "defense": 841,
@@ -58088,15 +59915,15 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_aramis_costume_boulanger",
         "star": 5,
-        "power": 1254,
-        "attack": 1369,
-        "defense": 1203,
+        "power": 1281,
+        "attack": 1413,
+        "defense": 1242,
         "health": 2241,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 410% 傷害。",
             "為所有盟友提升所造成傷害 30% 的生命值。",
             "所有盟友對新的狀態異常免疫，持續 3 個回合。此效果無法驅散。",
-            "施法者受到的所有傷害降低 -20%，持續 3 回合。"
+            "施法者受到的所有傷害降低 -25%，持續 3 回合。"
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
@@ -58104,18 +59931,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 826,
+        "originalIndex": 857,
         "lb1": {
-            "attack": 1476,
-            "defense": 1297,
+            "attack": 1523,
+            "defense": 1339,
             "health": 2415,
-            "power": 1342
+            "power": 1371
         },
         "lb2": {
-            "attack": 1688,
-            "defense": 1484,
+            "attack": 1743,
+            "defense": 1532,
             "health": 2763,
-            "power": 1518
+            "power": 1550
         },
         "cn_skill_info": [
             {
@@ -58175,7 +60002,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 827,
+        "originalIndex": 858,
         "lb1": {
             "attack": 848,
             "defense": 810,
@@ -58233,14 +60060,14 @@ window.allHeroes =
         ],
         "heroId": "construct_arzen",
         "star": 5,
-        "power": 1279,
-        "attack": 1345,
-        "defense": 1326,
-        "health": 2233,
+        "power": 1299,
+        "attack": 1363,
+        "defense": 1345,
+        "health": 2290,
         "effects": [
-            "對目標造成 510% 傷害。",
+            "對目標造成 540% 傷害。",
             "有 85% 的機率可額外攻擊隨機敵人最多 4 次。額外攻擊造成輕微傷害。",
-            "目標抵禦治療，且每次抵禦治療則受到 200 點傷害，持續 3 回合。"
+            "目標抵禦治療，且每次抵禦治療則受到 250 點傷害，持續 3 回合。"
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
@@ -58253,18 +60080,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 828,
+        "originalIndex": 859,
         "lb1": {
-            "attack": 1449,
-            "defense": 1429,
-            "health": 2406,
-            "power": 1369
+            "attack": 1469,
+            "defense": 1449,
+            "health": 2468,
+            "power": 1390
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1635,
-            "health": 2753,
-            "power": 1548
+            "attack": 1681,
+            "defense": 1658,
+            "health": 2824,
+            "power": 1572
         },
         "cn_skill_info": [
             {
@@ -58321,31 +60148,31 @@ window.allHeroes =
         "defense": 1268,
         "health": 2152,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 668 點流血傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
+            "每次敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "目標與附近敵人在 4 回合內受到共計 608 點流血傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* * * *",
+            "史詩：",
             "- 大马士革刀。",
             "- 策略书卷。",
             "- 皇室戰袍。",
-            "* * *",
+            "稀有：",
             "- 精致手套。",
             "- 指南。",
             "- 陷阱工具。",
             "- 高筒靴。",
             "- 劍鞘。",
-            "* *",
+            "罕見：",
             "- 粗繩。",
             "- 匕首。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 829,
+        "originalIndex": 860,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -58421,7 +60248,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 830,
+        "originalIndex": 861,
         "lb1": {
             "attack": 1314,
             "defense": 1294,
@@ -58448,6 +60275,68 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "奧貝爾 (Auberguy)",
+        "fancy_name": "奧貝吉精靈",
+        "AetherPower": "特殊盔甲",
+        "color": "紫",
+        "class": "巫師",
+        "speed": "非常慢",
+        "skill": "苦痛纏繞",
+        "types": [
+            "攻擊所有目標",
+            "全體最大生命值降低",
+            "收割全體增益",
+            "自身生命值提升",
+            "全體防禦枯萎減益"
+        ],
+        "skill_types": [],
+        "source": "挑戰 - 警戒蔬菜召唤",
+        "Release date": "2026-04-02",
+        "specialId": "bitter_wilting",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_auberguy",
+        "star": 5,
+        "power": 1299,
+        "attack": 1339,
+        "defense": 1355,
+        "health": 2329,
+        "effects": [
+            "對所有敵人造成 530% 傷害。",
+            "使所有敵人的最大生命值降低 800 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 800 點。）",
+            "從所有敵人的身上豐收增益。（豐收可以從每個目标上，安全地移除 2 個增益、正面叠加或成長效果。包含無法驅散增益和跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全移除可避免移除狀態效果增益时的第二效果。例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。成長效果會最先被移除。其他效果則是以最新的開始移除。）",
+            "枯萎：所有敵人獲得 -450 點防禦。"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "樹苗召喚：每回合對一位随機敵人召喚一個種子恶魔。",
+            "* 2 回合後，種子惡魔會進化為發芽惡魔。",
+            "* 2 回合後，發芽惡魔會进化為盛開超級惡魔。",
+            "* 惡魔每次吸收傷害後，進化會延遲 1 回合。",
+            "1 ） 种子惡魔： 50% 攻撃、 20% 生命。",
+            "2 ） 發芽惡魔： 75% 攻撃、 30% 生命。",
+            "3 ） 盛开超級惡魔： 250% 攻撃、 60% 生命。"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 862,
+        "lb1": {
+            "attack": 1443,
+            "defense": 1460,
+            "health": 2510,
+            "power": 1390
+        },
+        "lb2": {
+            "attack": 1651,
+            "defense": 1671,
+            "health": 2872,
+            "power": 1572
+        },
+        "cn_skill_info": []
     },
     {
         "name": "芭絲特 (Bastet)",
@@ -58490,7 +60379,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 831,
+        "originalIndex": 863,
         "lb1": {
             "attack": 872,
             "defense": 907,
@@ -58527,7 +60416,7 @@ window.allHeroes =
         "skill": "蘭花與玫瑰",
         "types": [
             "攻擊所有目標",
-            "閃避增益"
+            "全體閃避率增益"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -58565,7 +60454,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 832,
+        "originalIndex": 864,
         "lb1": {
             "attack": 1236,
             "defense": 1368,
@@ -58642,7 +60531,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 833,
+        "originalIndex": 865,
         "lb1": {
             "attack": 950,
             "defense": 963,
@@ -58690,7 +60579,7 @@ window.allHeroes =
             "攻擊單個目標",
             "敵人特殊技能時降低4個敵人法力",
             "3個目標元素防禦增益",
-            "法力增長",
+            "全體法力增加",
             "盟友釋放特殊技能時攻擊全體"
         ],
         "skill_types": [
@@ -58736,7 +60625,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 834,
+        "originalIndex": 866,
         "lb1": {
             "attack": 1345,
             "defense": 1358,
@@ -58815,7 +60704,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 835,
+        "originalIndex": 867,
         "lb1": {
             "attack": 925,
             "defense": 916,
@@ -58880,7 +60769,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 836,
+        "originalIndex": 868,
         "lb1": {
             "attack": 801,
             "defense": 808,
@@ -58951,7 +60840,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 837,
+        "originalIndex": 869,
         "lb1": {
             "attack": 1025,
             "defense": 997,
@@ -59019,7 +60908,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 838,
+        "originalIndex": 870,
         "lb1": {
             "attack": 610,
             "defense": 890,
@@ -59075,10 +60964,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_brachynd",
         "star": 5,
-        "power": 1287,
-        "attack": 1355,
-        "defense": 1306,
-        "health": 2303,
+        "power": 1297,
+        "attack": 1365,
+        "defense": 1316,
+        "health": 2333,
         "effects": [
             "對所有敵人造成 250% 傷害。",
             "對上泰坦造成 500% 傷害。",
@@ -59086,25 +60975,26 @@ window.allHeroes =
             "所有盟友得到靈魂連結，持續 4 回合。靈魂連結的盟友會分享承受的傷害。"
         ],
         "passives": [
-            "增強特殊技能護盾：",
-            "攻擊角色時的被動技能：此角色施放其特殊技能時，在面板上的暗黑護盾會強化 +54% 暴擊率。",
-            "防禦角色時的被動技能：此角色施放其特殊技能時，在面板上的暗黑護盾會降低 -47% 精準度。",
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的暗黑護盾會強化 +54% 暴擊率。",
+            "防禦角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的暗黑護盾會降低 -47% 精準度。",
             "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 839,
+        "originalIndex": 871,
         "lb1": {
-            "attack": 1460,
-            "defense": 1407,
-            "health": 2481,
-            "power": 1377
+            "attack": 1471,
+            "defense": 1418,
+            "health": 2515,
+            "power": 1388
         },
         "lb2": {
-            "attack": 1671,
-            "defense": 1610,
-            "health": 2839,
-            "power": 1558
+            "attack": 1684,
+            "defense": 1623,
+            "health": 2877,
+            "power": 1571
         },
         "cn_skill_info": [
             {
@@ -59170,7 +61060,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 840,
+        "originalIndex": 872,
         "lb1": {
             "attack": 1105,
             "defense": 1118,
@@ -59239,7 +61129,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 841,
+        "originalIndex": 873,
         "lb1": {
             "attack": 1110,
             "defense": 1136,
@@ -59307,7 +61197,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 842,
+        "originalIndex": 874,
         "lb1": {
             "attack": 1218,
             "defense": 1185,
@@ -59383,7 +61273,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 843,
+        "originalIndex": 875,
         "lb1": {
             "attack": 803,
             "defense": 841,
@@ -59463,7 +61353,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 844,
+        "originalIndex": 876,
         "lb1": {
             "attack": 1338,
             "defense": 1338,
@@ -59546,7 +61436,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 845,
+        "originalIndex": 877,
         "lb1": {
             "attack": 799,
             "defense": 923,
@@ -59601,7 +61491,7 @@ window.allHeroes =
         "defense": 712,
         "health": 1367,
         "effects": [
-            "對目標及附近敵人造成 175% 傷害。",
+            "對目標與附近敵人造成 175% 傷害。",
             "目標與附近敵人在 2 回合內受到共計 344 點劇毒傷害。",
             "對神聖系造成額外傷害。",
             "元素鏈給予所有暗黑系盟友抵禦特殊技能的 +30% 防禦，持續 4 回合。此效果無法淨化。"
@@ -59611,7 +61501,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 846,
+        "originalIndex": 878,
         "lb1": {
             "attack": 790,
             "defense": 768,
@@ -59642,6 +61532,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "柯德莉亞 (Cordelia)",
+        "fancy_name": "詛咒女王",
+        "AetherPower": "傷害減少",
+        "color": "紫",
+        "class": "術士",
+        "speed": "慢速",
+        "skill": "命定詛咒",
+        "types": [
+            "攻擊3個目標",
+            "3個目標持續傷害",
+            "若目標被擊敗則傷害全體"
+        ],
+        "skill_types": [],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-04-01",
+        "specialId": "destined_curse",
+        "passiveSkills": [
+            "resist_poison",
+            "resist_direct_mana_reductions"
+        ],
+        "heroId": "dark_god_cordelia",
+        "star": 5,
+        "power": 1193,
+        "attack": 1168,
+        "defense": 1227,
+        "health": 2255,
+        "effects": [
+            "對目標與附近敵人造成 385% 傷害。",
+            "目標與附近敵人在 5 回合內受到共計 1165 點詛咒傷害，起始傷害較低，每個回合逐漸增加。",
+            "若目標在 4 回合內被擊敗，則所有敵人受到 1027 點傷害。",
+            "元素鏈給予所有暗黑系盟友 +20% 暴擊率，持續 4 個回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "抵禦法力減損：此角色對法力減損具有天生抗性。",
+            "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
+        ],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 879,
+        "lb1": {
+            "attack": 1258,
+            "defense": 1323,
+            "health": 2430,
+            "power": 1275
+        },
+        "lb2": {
+            "attack": 1440,
+            "defense": 1513,
+            "health": 2781,
+            "power": 1441
+        },
+        "cn_skill_info": []
     },
     {
         "name": "暗黑領主 (Dark Lord)",
@@ -59683,7 +61627,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 847,
+        "originalIndex": 880,
         "lb1": {
             "attack": 863,
             "defense": 808,
@@ -59754,15 +61698,15 @@ window.allHeroes =
         "health": 2165,
         "effects": [
             "對目標造成 560% 傷害。",
-            "將目標與附近敵人的增益持續時間減少 2 個回合。（修改持續時間會影響可驅散與无法驅散效果。若任意效果的持續時間減少至零，則將效果視為正常失效）",
+            "將目標與附近敵人的增益持續時間減少 2 個回合。（修改持續時間會影響可驅散與無法驅散效果。若任意效果的持續時間減少至零，則將效果視為正常失效）",
             "目標與附近敵人會受到腐蝕劇毒，持續 4 回合。腐蝕劇毒會造成 320 點劇毒傷害，而且每個回合降低目標的法力產出 -15%。對擁有小兵或超級小兵的英雄造成額外傷害。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）"
         ],
         "passives": [
-            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 473 詛咒傷害，傷害從低開始並每回合增加。"
+            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 531 詛咒傷害，傷害從低開始並每回合增加。"
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 848,
+        "originalIndex": 881,
         "lb1": {
             "attack": 1439,
             "defense": 1195,
@@ -59838,7 +61782,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 849,
+        "originalIndex": 882,
         "lb1": {
             "attack": 1285,
             "defense": 1314,
@@ -59913,7 +61857,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 850,
+        "originalIndex": 883,
         "lb1": {
             "attack": 976,
             "defense": 1016,
@@ -59985,7 +61929,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 851,
+        "originalIndex": 884,
         "lb1": {
             "attack": 1038,
             "defense": 967,
@@ -60062,7 +62006,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 852,
+        "originalIndex": 885,
         "lb1": {
             "attack": 1181,
             "defense": 1152,
@@ -60121,15 +62065,15 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_devyani",
         "star": 5,
-        "power": 1261,
-        "attack": 1328,
-        "defense": 1268,
-        "health": 2261,
+        "power": 1276,
+        "attack": 1343,
+        "defense": 1283,
+        "health": 2305,
         "effects": [
             "此特殊技能必定命中目標。",
             "對目標造成 500% 傷害。",
-            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 ８００ 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
-            "枯萎：目標獲得 -350 點防禦。"
+            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 600 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
+            "枯萎：目標獲得 -400 點防禦。"
         ],
         "passives": [
             "受到傷害時獲得法力：",
@@ -60139,18 +62083,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 853,
+        "originalIndex": 886,
         "lb1": {
-            "attack": 1431,
-            "defense": 1367,
-            "health": 2437,
-            "power": 1349
+            "attack": 1447,
+            "defense": 1383,
+            "health": 2484,
+            "power": 1366
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1564,
-            "health": 2788,
-            "power": 1526
+            "attack": 1656,
+            "defense": 1582,
+            "health": 2842,
+            "power": 1545
         },
         "cn_skill_info": [
             {
@@ -60207,7 +62151,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 854,
+        "originalIndex": 887,
         "lb1": {
             "attack": 868,
             "defense": 859,
@@ -60279,7 +62223,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 855,
+        "originalIndex": 888,
         "lb1": {
             "attack": 1156,
             "defense": 1174,
@@ -60342,7 +62286,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 856,
+        "originalIndex": 889,
         "lb1": {
             "attack": 781,
             "defense": 730,
@@ -60407,7 +62351,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 857,
+        "originalIndex": 890,
         "lb1": {
             "attack": 903,
             "defense": 840,
@@ -60465,14 +62409,14 @@ window.allHeroes =
         "defense": 903,
         "health": 1862,
         "effects": [
-            "對目標及附近敵人造成 335% 傷害。",
+            "對目標與附近敵人造成 335% 傷害。",
             "目標與附近敵人獲得對暗黑系 -64% 的防禦，持續 4 回合。對神聖系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
             "對神聖系造成額外傷害。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 858,
+        "originalIndex": 891,
         "lb1": {
             "attack": 1013,
             "defense": 973,
@@ -60547,7 +62491,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 859,
+        "originalIndex": 892,
         "lb1": {
             "attack": 1259,
             "defense": 1121,
@@ -60624,7 +62568,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 860,
+        "originalIndex": 893,
         "lb1": {
             "attack": 1441,
             "defense": 1243,
@@ -60656,6 +62600,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "多米西亞 (Domitia) 英姿",
+        "fancy_name": "時尚狙擊手",
+        "AetherPower": "攻擊提升",
+        "color": "紫",
+        "class": "盜賊",
+        "speed": "中等",
+        "skill": "時尚閃電",
+        "types": [
+            "攻擊單個目標",
+            "3個目標元素防禦增益",
+            "驅散3個目標"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_bolt",
+        "parent_specialId": "shock_bolt",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "magitech_sniper_costume_stylish",
+        "star": 5,
+        "power": 1341,
+        "attack": 1467,
+        "defense": 1244,
+        "health": 2534,
+        "effects": [
+            "對目標造成 610% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 755% 傷害。",
+            "施法者和附近盟友獲得對神聖系 +84% 的防禦，持續 4 回合。",
+            "驅散目標和附近敵人的增益。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 894,
+        "lb1": {
+            "attack": 1581,
+            "defense": 1341,
+            "health": 2731,
+            "power": 1436
+        },
+        "lb2": {
+            "attack": 1809,
+            "defense": 1534,
+            "health": 3125,
+            "power": 1625
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "莫羅博士 (Dr. Moreau)",
         "fancy_name": "邪惡科學家",
         "AetherPower": "攻擊提升",
@@ -60684,7 +62682,7 @@ window.allHeroes =
         "defense": 751,
         "health": 1439,
         "effects": [
-            "對目標及附近敵人造成 270% 傷害。",
+            "對目標與附近敵人造成 270% 傷害。",
             "目標與附近敵人獲得 -35% 精準度，持續 3 回合。如果目標受到治療，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [
@@ -60692,7 +62690,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 861,
+        "originalIndex": 895,
         "lb1": {
             "attack": 834,
             "defense": 810,
@@ -60751,7 +62749,7 @@ window.allHeroes =
         "defense": 993,
         "health": 1952,
         "effects": [
-            "對目標及附近敵人造成 265% 傷害。",
+            "對目標與附近敵人造成 265% 傷害。",
             "目標與附近敵人獲得 -40% 精準度，持續 4 回合。如果目標受到治療，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [
@@ -60760,7 +62758,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 862,
+        "originalIndex": 896,
         "lb1": {
             "attack": 1064,
             "defense": 1070,
@@ -60832,7 +62830,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 863,
+        "originalIndex": 897,
         "lb1": {
             "attack": 1094,
             "defense": 1143,
@@ -60908,7 +62906,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 864,
+        "originalIndex": 898,
         "lb1": {
             "attack": 1181,
             "defense": 1165,
@@ -60984,7 +62982,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 865,
+        "originalIndex": 899,
         "lb1": {
             "attack": 1232,
             "defense": 1274,
@@ -61010,6 +63008,64 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "杜拉弗爾 (Dularfulr) C1",
+        "fancy_name": "矮人暗黑工程師",
+        "AetherPower": "防禦提升",
+        "color": "紫",
+        "class": "騎士",
+        "speed": "快速",
+        "skill": "夜間校準",
+        "types": [
+            "全體持續治療",
+            "全體火風暴護體",
+            "全體狀態異常免疫",
+            "企圖施加異常狀態時獲得治療"
+        ],
+        "skill_types": [],
+        "source": "S7 - 火焰與冰霜的寶藏",
+        "Release date": "2026-04-07",
+        "specialId": "nights_calibration",
+        "parent_specialId": "nights_whisper",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "tales2_dularfulr_costume_engineer",
+        "star": 5,
+        "power": 1315,
+        "attack": 1305,
+        "defense": 1347,
+        "health": 2549,
+        "effects": [
+            "所有盟友在 4 回合內恢復 1300 點生命值。",
+            "所有盟友都可獲得火風暴護體，持續 4 個回合，所受到的特殊技能傷害最高減少 -1400 點。攻擊者為自然元素角色時，額外減少 30% 傷害。",
+            "所有盟友對新的狀態異常免疫，持續 4 回合，且每當有狀態異常嘗試施加於其上，他們都將恢復 300 點生命值。"
+        ],
+        "passives": [
+            "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
+            "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 384 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+        ],
+        "family": "nidavellir",
+        "costume_id": 1,
+        "originalIndex": 900,
+        "lb1": {
+            "attack": 1407,
+            "defense": 1452,
+            "health": 2747,
+            "power": 1408
+        },
+        "lb2": {
+            "attack": 1609,
+            "defense": 1662,
+            "health": 3142,
+            "power": 1593
+        },
+        "cn_skill_info": []
     },
     {
         "name": "杜瓦爾 (Duval)",
@@ -61038,37 +63094,37 @@ window.allHeroes =
         ],
         "heroId": "scoundrel_duval",
         "star": 5,
-        "power": 1258,
-        "attack": 1295,
-        "defense": 1293,
-        "health": 2270,
+        "power": 1268,
+        "attack": 1306,
+        "defense": 1303,
+        "health": 2298,
         "effects": [
             "劫掠目標，竊取生命和增益。（竊取 400 生命。安全地從目標身上竊取一個隨機成長效果、正面疊加增益或狀態效果。包括不可驅散的增益和舞蹈效果。安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。）",
             "對目標造成 560% 傷害。",
             "目標在 3 回合內受到共計 1413 點劇毒傷害。此效果會蔓延至附近敵人。"
         ],
         "passives": [
-            "小偷的機會：每回合開始時，此角色有 50% 機率劫掠一名随機敵人：",
+            "小偷的機會：每回合開始時，此角色有 100% 機率劫掠一名随機敵人：",
             "劫掠：",
-            "* 竊取 200 生命值。",
+            "* 竊取 100 生命值。",
             "* 安全地從敵人身上竊取一個随機成長效果、正面疊加增益或狀態效果。包括不可驅散的增益和舞蹈效果。",
             "* 安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 866,
+        "originalIndex": 901,
         "lb1": {
-            "attack": 1396,
-            "defense": 1394,
-            "health": 2446,
-            "power": 1346
+            "attack": 1407,
+            "defense": 1405,
+            "health": 2477,
+            "power": 1357
         },
         "lb2": {
-            "attack": 1597,
-            "defense": 1595,
-            "health": 2799,
-            "power": 1522
+            "attack": 1610,
+            "defense": 1607,
+            "health": 2834,
+            "power": 1535
         },
         "cn_skill_info": [
             {
@@ -61133,7 +63189,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 867,
+        "originalIndex": 902,
         "lb1": {
             "attack": 1280,
             "defense": 1218,
@@ -61193,10 +63249,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_elsbeth",
         "star": 5,
-        "power": 1277,
-        "attack": 1332,
-        "defense": 1303,
-        "health": 2294,
+        "power": 1282,
+        "attack": 1336,
+        "defense": 1308,
+        "health": 2309,
         "effects": [
             "對目標造成 600% 傷害。",
             "如果目標有惡魔或超級惡魔，则對不同的隨機敵人造成 500% 傷害。",
@@ -61215,18 +63271,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 868,
+        "originalIndex": 903,
         "lb1": {
-            "attack": 1436,
-            "defense": 1405,
-            "health": 2473,
-            "power": 1367
+            "attack": 1440,
+            "defense": 1409,
+            "health": 2488,
+            "power": 1371
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1607,
-            "health": 2829,
-            "power": 1546
+            "attack": 1648,
+            "defense": 1612,
+            "health": 2847,
+            "power": 1551
         },
         "cn_skill_info": [
             {
@@ -61284,21 +63340,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "目標在 3 回合內受到共計 387 點劇毒傷害。此效果會蔓延至附近敵人。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 大師盜賊紋章。",
             "* 大師遊俠紋章。",
+            "史詩：",
             "* 盜賊紋章。",
             "* 遊俠紋章。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 869,
+        "originalIndex": 904,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -61375,7 +63433,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 870,
+        "originalIndex": 905,
         "lb1": {
             "attack": 1087,
             "defense": 1010,
@@ -61439,21 +63497,24 @@ window.allHeroes =
         "effects": [
             "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 530% 傷害。",
-            "若該攻擊將敵人擊敗，那麼施法者將恢復 +50% 生命並獲得 33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* 普通暗黑訓練師英雄。",
-            "* 罕見暗黑訓練師英雄。",
-            "* 稀有暗黑訓練師英雄。",
-            "* 普通暗黑英雄。",
-            "* 罕見暗黑英雄。"
+            "稀有：",
+            "* 訓練師英雄。",
+            "罕見：",
+            "* 訓練師英雄。",
+            "* 罕見暗黑英雄。",
+            "普通：",
+            "* 訓練師英雄。",
+            "* 普通暗黑英雄。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 871,
+        "originalIndex": 906,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -61531,7 +63592,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 872,
+        "originalIndex": 907,
         "lb1": {
             "attack": 1085,
             "defense": 1036,
@@ -61594,7 +63655,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 873,
+        "originalIndex": 908,
         "lb1": {
             "attack": 836,
             "defense": 801,
@@ -61659,7 +63720,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 874,
+        "originalIndex": 909,
         "lb1": {
             "attack": 1042,
             "defense": 1051,
@@ -61727,7 +63788,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 875,
+        "originalIndex": 910,
         "lb1": {
             "attack": 1158,
             "defense": 1087,
@@ -61786,18 +63847,18 @@ window.allHeroes =
         "defense": 1203,
         "health": 2092,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "枯萎：目標與附近敵人獲得 -350 點攻擊。",
             "目標和附近敵人受到的傷害增加 +25%，持續 3 回合。所有敵人每持有一名小兵或超級小兵，效果將提升 +10%，最多累積至 +85%。"
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 876,
+        "originalIndex": 911,
         "lb1": {
             "attack": 1325,
             "defense": 1296,
@@ -61858,7 +63919,7 @@ window.allHeroes =
         "defense": 1126,
         "health": 2076,
         "effects": [
-            "對目標及附近敵人造成 385% 傷害。",
+            "對目標與附近敵人造成 385% 傷害。",
             "對目標與附近敵人召喚史萊姆惡魔。惡魔每回合以 50% 的攻擊力對敵人造成傷害。",
             "史萊姆惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 40% 時消失。",
             "每個回合結束時，史萊姆惡魔會盜取目標的其中一個可驅散增益或成長效果，並隨機給予敵對戰隊的一個角色。"
@@ -61869,7 +63930,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 877,
+        "originalIndex": 912,
         "lb1": {
             "attack": 1289,
             "defense": 1214,
@@ -61938,7 +63999,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 878,
+        "originalIndex": 913,
         "lb1": {
             "attack": 979,
             "defense": 903,
@@ -62002,7 +64063,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 879,
+        "originalIndex": 914,
         "lb1": {
             "attack": 888,
             "defense": 863,
@@ -62063,11 +64124,11 @@ window.allHeroes =
         "health": 2212,
         "effects": [
             "對所有敵人造成 410% 傷害。",
-            "所有敵人在 6 回合內受到共計 1230 點詛咒傷害，起始傷害較低，每個回合逐漸增加。",
+            "所有敵人每回合會受到 124 -308 的詛咒傷害，持續 6 回合。（第一回合造成 124 點傷害。傷害每回合增加 +20%，最高可達每回合 308 點傷害。）",
             "異常來源：以下效果在每回合開始時對一名隨機敵人施放。",
             "* 從狀態異常受到 +60% 傷害，持續 5 個回合。",
             "* 獲得 -60% 治療，持續 5 個回合。",
-            "異常來源將啟動 6 次。每次嘗試驅散則移除一次啟動數。"
+            "異常來源將啟動 6 次。 此效果為頑固。（每次嘗試驅散、淨化或轉移一個顽固效果，持續時間減少 1 回合或是剩餘的啟動次数减少 1 次。）"
         ],
         "passives": [
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。",
@@ -62076,7 +64137,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 880,
+        "originalIndex": 915,
         "lb1": {
             "attack": 1329,
             "defense": 1365,
@@ -62146,7 +64207,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 881,
+        "originalIndex": 916,
         "lb1": {
             "attack": 925,
             "defense": 943,
@@ -62197,7 +64258,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
         "heroId": "elemental_griffex_costume_camera",
         "star": 5,
         "power": 1231,
@@ -62214,11 +64277,12 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "- 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "- 受到元素傷害： -25%",
+            "抵禦神聖異常：此角色免疫神聖系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 882,
+        "originalIndex": 917,
         "lb1": {
             "attack": 1283,
             "defense": 1339,
@@ -62287,7 +64351,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 883,
+        "originalIndex": 918,
         "lb1": {
             "attack": 663,
             "defense": 888,
@@ -62347,14 +64411,14 @@ window.allHeroes =
         "defense": 630,
         "health": 1349,
         "effects": [
-            "對目標及附近敵人造成 210% 傷害。",
+            "對目標與附近敵人造成 210% 傷害。",
             "目標與附近敵人獲得對暗黑系 -54% 的防禦，持續 4 回合。",
             "驅散目標和附近敵人的增益。"
         ],
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 884,
+        "originalIndex": 919,
         "lb1": {
             "attack": 848,
             "defense": 679,
@@ -62423,7 +64487,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 885,
+        "originalIndex": 920,
         "lb1": {
             "attack": 1048,
             "defense": 868,
@@ -62499,7 +64563,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 886,
+        "originalIndex": 921,
         "lb1": {
             "attack": 1283,
             "defense": 1221,
@@ -62558,7 +64622,7 @@ window.allHeroes =
         "defense": 747,
         "health": 1433,
         "effects": [
-            "對目標及附近敵人造成 215% 傷害。",
+            "對目標與附近敵人造成 215% 傷害。",
             "對目標與附近敵人召喚金像惡魔。惡魔每回合以 43% 的攻擊力對敵人造成傷害。",
             "金像惡魔會吸收治療效果。在吸收的治療量等於其擁有者最大生命值的 20% 時消失。",
             "召喚金像惡魔之後，主人擁有金像惡魔期間，金像惡魔會給予其主人 -20% 攻擊。此效果無法淨化。"
@@ -62568,7 +64632,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 887,
+        "originalIndex": 922,
         "lb1": {
             "attack": 841,
             "defense": 805,
@@ -62609,7 +64673,8 @@ window.allHeroes =
         "skill": "美味偶像",
         "types": [
             "攻擊3個目標",
-            "3個惡魔"
+            "召喚3個惡魔",
+            "攻擊降低惡魔"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -62634,7 +64699,7 @@ window.allHeroes =
         "defense": 961,
         "health": 1916,
         "effects": [
-            "對目標及附近敵人造成 225% 傷害。",
+            "對目標與附近敵人造成 225% 傷害。",
             "對目標與附近敵人召喚金像惡魔。惡魔每回合以 36% 的攻擊力對敵人造成傷害。",
             "金像惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 28% 時消失。",
             "召喚時，主人擁有金像惡魔的期間，金像惡魔會給予其主人 -20% 攻擊。此效果無法淨化。"
@@ -62645,7 +64710,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 888,
+        "originalIndex": 923,
         "lb1": {
             "attack": 1111,
             "defense": 1036,
@@ -62710,10 +64775,10 @@ window.allHeroes =
         "defense": 1308,
         "health": 2255,
         "effects": [
-            "對目標及附近敵人造成 390% 傷害。",
-            "敵人的法力越高，受到的傷害越大，最高可達 450%。",
-            "目標與附近敵人受到共振，持續 3 回合。每個回合，共振對受影響的敵人造成 541 點傷害，並對附近敵人造成 270 點傷害。",
-            "目標和附近敵人受到法力腐朽，持續 3 個回合。每當受影響的目標從其他來源獲得法力時，都會受到 800 點傷害。（只有當目標具有法力產生增益或正的法力產生疊加時，於回合結束或從相符方塊中為防禦隊伍附加法力才會使法力腐朽生效。從其他來源附加法力一律會使法力腐朽生效。）"
+            "對目標與附近敵人造成 390% 傷害。",
+            "敵人的法力越高，受到的傷害越大，最高可達 460%。",
+            "目標與附近敵人受到共振，持續 3 回合。每個回合，共振對受影響的敵人造成 453 點傷害，並對附近敵人造成 226 點傷害。",
+            "目標和附近敵人受到法力腐朽，持續 3 個回合。每當受影響的目標從其他來源獲得法力時，都會受到 850 點傷害。（只有當目標具有法力產生增益或正的法力產生疊加時，於回合結束或從相符方塊中為防禦隊伍附加法力才會使法力腐朽生效。從其他來源附加法力一律會使法力腐朽生效。）"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -62722,7 +64787,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 889,
+        "originalIndex": 924,
         "lb1": {
             "attack": 1458,
             "defense": 1409,
@@ -62800,7 +64865,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 890,
+        "originalIndex": 925,
         "lb1": {
             "attack": 883,
             "defense": 941,
@@ -62866,7 +64931,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 891,
+        "originalIndex": 926,
         "lb1": {
             "attack": 803,
             "defense": 745,
@@ -62942,7 +65007,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 892,
+        "originalIndex": 927,
         "lb1": {
             "attack": 1028,
             "defense": 939,
@@ -62972,6 +65037,62 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "赫爾 (Hel) 卡通",
+        "fancy_name": "暗黑天宇公仔",
+        "AetherPower": "攻擊提升",
+        "color": "紫",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "赫爾公仔粉碎",
+        "types": [
+            "攻擊3個目標",
+            "3個目標元素防禦降低",
+            "3個目標法力獲取凍結"
+        ],
+        "skill_types": [],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-04-29",
+        "specialId": "crush_of_toon_hel",
+        "parent_specialId": "crush_of_hel",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "dark_god_hel_costume_cute",
+        "star": 5,
+        "power": 1343,
+        "attack": 1420,
+        "defense": 1311,
+        "health": 2528,
+        "effects": [
+            "對目標造成 570% 傷害，並對附近敵人造成輕微傷害。",
+            "目標與附近敵人獲得對暗黑系 -34% 的防禦，持續 4 回合。",
+            "目標與附近敵人不能增加法力，持續 4 回合。",
+            "對神聖系造成額外傷害。",
+            "元素鏈給予所有暗黑盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。",
+            "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
+        ],
+        "family": "hotm2017",
+        "costume_id": 2,
+        "originalIndex": 928,
+        "lb1": {
+            "attack": 1531,
+            "defense": 1413,
+            "health": 2724,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1751,
+            "defense": 1616,
+            "health": 3117,
+            "power": 1626
+        },
+        "cn_skill_info": []
     },
     {
         "name": "赫里德馬爾 (Hreidmarr)",
@@ -63023,7 +65144,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 893,
+        "originalIndex": 929,
         "lb1": {
             "attack": 1247,
             "defense": 1274,
@@ -63087,10 +65208,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_hu_sanniang",
         "star": 5,
-        "power": 1271,
-        "attack": 1291,
-        "defense": 1341,
-        "health": 2278,
+        "power": 1286,
+        "attack": 1306,
+        "defense": 1355,
+        "health": 2321,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
             "對目標造成 500% 傷害。",
@@ -63108,18 +65229,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 894,
+        "originalIndex": 930,
         "lb1": {
-            "attack": 1391,
-            "defense": 1445,
-            "health": 2455,
-            "power": 1360
+            "attack": 1407,
+            "defense": 1460,
+            "health": 2501,
+            "power": 1376
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1653,
-            "health": 2809,
-            "power": 1538
+            "attack": 1610,
+            "defense": 1671,
+            "health": 2862,
+            "power": 1557
         },
         "cn_skill_info": [
             {
@@ -63182,7 +65303,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 895,
+        "originalIndex": 931,
         "lb1": {
             "attack": 816,
             "defense": 843,
@@ -63256,7 +65377,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 896,
+        "originalIndex": 932,
         "lb1": {
             "attack": 1059,
             "defense": 1125,
@@ -63327,7 +65448,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 897,
+        "originalIndex": 933,
         "lb1": {
             "attack": 1276,
             "defense": 1216,
@@ -63397,7 +65518,7 @@ window.allHeroes =
         "defense": 852,
         "health": 1551,
         "effects": [
-            "對目標及附近敵人造成 410% 傷害。",
+            "對目標與附近敵人造成 410% 傷害。",
             "重置目標和附近敵人狀態異常的持續時間。",
             "目標與附近敵人在 4 回合內受到共計 916 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 50% 作為生命值。",
             "疊加（最大值： 10 ）：施法者對弱點元素獲得 +20% 攻擊。"
@@ -63408,7 +65529,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 898,
+        "originalIndex": 934,
         "lb1": {
             "attack": 970,
             "defense": 919,
@@ -63475,17 +65596,17 @@ window.allHeroes =
         ],
         "heroId": "beowulf_hygd",
         "star": 5,
-        "power": 1270,
-        "attack": 1291,
-        "defense": 1336,
-        "health": 2286,
+        "power": 1285,
+        "attack": 1306,
+        "defense": 1349,
+        "health": 2329,
         "effects": [
             "淨化所有盟友的狀態異常。",
             "為所有盟友恢復 50% 生命值。",
             "增益來源：以下效果在每回合開始時對所有盟友施放：",
             "對特殊技能的 +40% 防禦，持續 2 個回合。",
             "獲得治療增加 +40%，持續 2 個回合。",
-            "增益來源將啟動 3 次。每次嘗試驅散則移除一次啟動數。"
+            "增益來源將啟動 3 次。 此效果為頑固。（每次嘗試驅散、淨化或轉移一個顽固效果，持續時間減少 1 回合或是剩餘的啟動次数减少 1 次。）"
         ],
         "passives": [
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。",
@@ -63494,18 +65615,18 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 899,
+        "originalIndex": 935,
         "lb1": {
-            "attack": 1391,
-            "defense": 1440,
-            "health": 2464,
-            "power": 1360
+            "attack": 1407,
+            "defense": 1454,
+            "health": 2510,
+            "power": 1375
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1648,
-            "health": 2819,
-            "power": 1538
+            "attack": 1610,
+            "defense": 1663,
+            "health": 2872,
+            "power": 1556
         },
         "cn_skill_info": [
             {
@@ -63577,7 +65698,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 900,
+        "originalIndex": 936,
         "lb1": {
             "attack": 1323,
             "defense": 1414,
@@ -63599,6 +65720,68 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "伊薇特 (Ivete)",
+        "fancy_name": "受詛咒城堡的忌妒精靈",
+        "AetherPower": "反擊",
+        "color": "紫",
+        "class": "巫師",
+        "speed": "慢速",
+        "skill": "蠱惑爆裂",
+        "types": [
+            "攻擊所有目標",
+            "全體延遲麻痹",
+            "全體持續傷害"
+        ],
+        "skill_types": [],
+        "source": "聯盟 - 勇者與美人",
+        "Release date": "2026-04-16",
+        "specialId": "bewitching_blast",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_ivete",
+        "star": 5,
+        "power": 1318,
+        "attack": 1380,
+        "defense": 1355,
+        "health": 2364,
+        "effects": [
+            "若施法者擁有 40 以上的謙遜：",
+            "對所有敵人造成 550% 傷害。",
+            "在 1 個回合後，所有敵人會遭到麻痺，持續 2 個回合。（麻痹的敵人無法进行攻墼或獲得法力，受到的傷害也會提高 +50%。一旦被麻痺，效果無法淨化。頭目、泰坦和神話泰坦不受此状態效果影響。）",
+            "所有敵人在 5 回合內受到共計 755 點劇毒傷害。",
+            "所有敵人在 6 回合內受到共計 749 點詛咒傷害，起始傷害較低，每個回合逐漸增加。",
+            "否則：",
+            "對所有敵人造成 485% 傷害。",
+            "在 1 個回合後，目標和附近的敵人會遭到麻痺，持續 2 個回合。",
+            "（麻痹的敵人無法进行攻墼或獲得法力，受到的傷害也會提高 +50%。一旦被麻痺，效果無法淨化。頭目、泰坦和神話泰坦不受此状態效果影響。）",
+            "所有敵人在 5 回合內受到共計 755 點劇毒傷害。"
+        ],
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 10% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": 937,
+        "lb1": {
+            "attack": 1487,
+            "defense": 1460,
+            "health": 2548,
+            "power": 1410
+        },
+        "lb2": {
+            "attack": 1701,
+            "defense": 1671,
+            "health": 2915,
+            "power": 1596
+        },
+        "cn_skill_info": []
     },
     {
         "name": "炸脖龍 (Jabberwock)",
@@ -63633,7 +65816,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 901,
+        "originalIndex": 938,
         "lb1": {
             "attack": 801,
             "defense": 805,
@@ -63701,7 +65884,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 902,
+        "originalIndex": 939,
         "lb1": {
             "attack": 1031,
             "defense": 998,
@@ -63739,10 +65922,9 @@ window.allHeroes =
         "skill": "地獄之霧",
         "types": [
             "蓄力",
-            "攻擊單個目標",
-            "單體持續傷害",
-            "攻擊所有目標",
-            "全體持續傷害"
+            "攻擊單體/全體",
+            "持續傷害單體/全體",
+            "受到持續傷害時自身/全體治療提升"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -63782,7 +65964,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 903,
+        "originalIndex": 940,
         "lb1": {
             "attack": 1034,
             "defense": 1003,
@@ -63826,10 +66008,9 @@ window.allHeroes =
         "skill": "地獄凝視",
         "types": [
             "蓄力",
-            "攻擊單個目標",
-            "單體持續傷害",
-            "攻擊所有目標",
-            "全體持續傷害"
+            "攻擊單體/全體",
+            "持續傷害單體/全體",
+            "受到持續傷害時自身/全體治療提升"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -63855,15 +66036,15 @@ window.allHeroes =
         ],
         "heroId": "magic_jett_costume_eyes",
         "star": 5,
-        "power": 1277,
-        "attack": 1333,
-        "defense": 1282,
-        "health": 2333,
+        "power": 1293,
+        "attack": 1352,
+        "defense": 1300,
+        "health": 2367,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "x 1 法力充能：",
             "* 對目標造成 300% 傷害。",
-            "* 目標在 3 個回合內受到 858 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 100% 作為生命值加成。",
+            "* 目標在 3 個回合內受到 870 點劇毒傷害。施法者能吸收所造成之劇毒傷害的 100% 作為生命值加成。",
             "x 2 法力充能：",
             "* 對所有敵人造成 300% 傷害。",
             "* 所有敵人在 5 個回合內受到 1085 點劇毒傷害。施法者和所有其盟友能吸收所造成之劇毒傷害的 30% 作為生命值加成。"
@@ -63875,18 +66056,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 904,
+        "originalIndex": 941,
         "lb1": {
-            "attack": 1436,
-            "defense": 1381,
-            "health": 2514,
-            "power": 1366
+            "attack": 1457,
+            "defense": 1401,
+            "health": 2551,
+            "power": 1384
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1580,
-            "health": 2877,
-            "power": 1545
+            "attack": 1667,
+            "defense": 1603,
+            "health": 2918,
+            "power": 1565
         },
         "cn_skill_info": [
             {
@@ -63922,6 +66103,7 @@ window.allHeroes =
             "施加恐懼減益 (單體)",
             "攻擊單個目標",
             "單體狂亂",
+            "若目標被擊敗則對 2 個目標施加恐懼減益",
             "自我狂亂"
         ],
         "skill_types": [
@@ -63942,13 +66124,13 @@ window.allHeroes =
         ],
         "heroId": "forsaken_kadath",
         "star": 5,
-        "power": 1251,
-        "attack": 1303,
-        "defense": 1268,
-        "health": 2251,
+        "power": 1276,
+        "attack": 1326,
+        "defense": 1293,
+        "health": 2321,
         "effects": [
-            "目標屈服於恐懼，持續 3 回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 160% 傷害。每個角色 每回合只能觸發一次此效果。）",
-            "對目標造成 570% 傷害，並對其造成 55 點瘋狂。",
+            "目標屈服於恐懼，持續 3 回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 250% 傷害。每個角色 每回合只能觸發一次此效果。）",
+            "對目標造成 600% 傷害，並對其造成 50 點瘋狂。",
             "若目標被攻擊擊敗，則附近敵人會屈服於恐懼，持續 3 個回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 160% 傷害。每個角色 每回合只能觸發一次此效果。）",
             "對施法者造成 40 點瘋狂。"
         ],
@@ -63958,18 +66140,18 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 905,
+        "originalIndex": 942,
         "lb1": {
-            "attack": 1405,
-            "defense": 1367,
-            "health": 2426,
-            "power": 1339
+            "attack": 1429,
+            "defense": 1394,
+            "health": 2501,
+            "power": 1365
         },
         "lb2": {
-            "attack": 1607,
-            "defense": 1564,
-            "health": 2776,
-            "power": 1514
+            "attack": 1635,
+            "defense": 1595,
+            "health": 2862,
+            "power": 1544
         },
         "cn_skill_info": [
             {
@@ -64032,7 +66214,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 906,
+        "originalIndex": 943,
         "lb1": {
             "attack": 841,
             "defense": 770,
@@ -64104,7 +66286,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 907,
+        "originalIndex": 944,
         "lb1": {
             "attack": 1023,
             "defense": 982,
@@ -64135,6 +66317,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "凱基布拉多 (Kageburado) 卡通",
+        "fancy_name": "受詛咒的公仔霸主",
+        "AetherPower": "閃避",
+        "color": "紫",
+        "class": "野人",
+        "speed": "飛速",
+        "skill": "公仔打擊",
+        "types": [
+            "安全驅散單體 1 個增益",
+            "攻擊單個目標"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_strike",
+        "parent_specialId": "break_strike",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_cursed_samurai_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1479,
+        "defense": 1313,
+        "health": 2375,
+        "effects": [
+            "安全驅散目標的增益。",
+            "對目標造成 275% 傷害。",
+            "如果目標剩餘生命超過 50%，可對其造成 550% 傷害。",
+            "對神聖系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": 945,
+        "lb1": {
+            "attack": 1594,
+            "defense": 1415,
+            "health": 2560,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1823,
+            "defense": 1619,
+            "health": 2929,
+            "power": 1626
+        },
+        "cn_skill_info": []
     },
     {
         "name": "卡諾夫 (Karnov)",
@@ -64171,7 +66406,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 908,
+        "originalIndex": 946,
         "lb1": {
             "attack": 825,
             "defense": 803,
@@ -64241,7 +66476,7 @@ window.allHeroes =
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 909,
+        "originalIndex": 947,
         "lb1": {
             "attack": 1387,
             "defense": 1198,
@@ -64305,7 +66540,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 910,
+        "originalIndex": 948,
         "lb1": {
             "attack": 892,
             "defense": 876,
@@ -64361,7 +66596,7 @@ window.allHeroes =
         "defense": 834,
         "health": 1586,
         "effects": [
-            "對目標及附近敵人造成 275% 傷害。",
+            "對目標與附近敵人造成 275% 傷害。",
             "對目標與附近敵人召喚聖甲蟲炸彈惡魔。惡魔每回合以 38% 的攻擊力對敵人造成傷害。",
             "聖甲蟲炸彈惡魔會吸收治療效果。在吸收的治療量等於其擁有者最大生命值的 30% 時消失。",
             "聖甲蟲炸彈惡魔會在 3 個回合後爆炸，對目標造成 600 點傷害，並對附近敵人造成少量傷害。"
@@ -64373,7 +66608,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 911,
+        "originalIndex": 949,
         "lb1": {
             "attack": 863,
             "defense": 899,
@@ -64435,7 +66670,7 @@ window.allHeroes =
         "defense": 1179,
         "health": 2317,
         "effects": [
-            "對目標及附近敵人造成 265% 傷害。",
+            "對目標與附近敵人造成 265% 傷害。",
             "對目標與附近敵人召喚聖甲蟲炸彈惡魔。惡魔每回合以 38% 的攻擊力對敵人造成傷害。",
             "聖甲蟲炸彈惡魔會吸收治療效果。在吸收的治療量等於其擁有者最大生命值的 30% 時消失。",
             "聖甲蟲炸彈惡魔會在 3 個回合後爆炸，對目標造成 900 點傷害，並對附近敵人造成少量傷害。"
@@ -64449,7 +66684,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 912,
+        "originalIndex": 950,
         "lb1": {
             "attack": 1313,
             "defense": 1271,
@@ -64511,7 +66746,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 913,
+        "originalIndex": 951,
         "lb1": {
             "attack": 796,
             "defense": 763,
@@ -64579,7 +66814,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 914,
+        "originalIndex": 952,
         "lb1": {
             "attack": 1040,
             "defense": 951,
@@ -64644,7 +66879,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 915,
+        "originalIndex": 953,
         "lb1": {
             "attack": 930,
             "defense": 836,
@@ -64715,7 +66950,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 916,
+        "originalIndex": 954,
         "lb1": {
             "attack": 1371,
             "defense": 1191,
@@ -64774,7 +67009,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 917,
+        "originalIndex": 955,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -64834,10 +67069,12 @@ window.allHeroes =
             "對所有敵人造成 330% 傷害。",
             "除了施法者，所有盟友獲得 -20% 攻擊力，持續 3 回合。此效果無法淨化。"
         ],
-        "passives": [],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 918,
+        "originalIndex": 956,
         "lb1": {
             "attack": 1048,
             "defense": 1120,
@@ -64893,14 +67130,14 @@ window.allHeroes =
         "defense": 999,
         "health": 1823,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "在 3 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放莽夫亂拳。",
             "為每個盟友召喚一個塔餅小兵，其可從施法者繼承 10% 生命值與 32% 攻擊力。小兵被擊敗時，會為主人恢復 10% 生命。"
         ],
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 919,
+        "originalIndex": 957,
         "lb1": {
             "attack": 1163,
             "defense": 1076,
@@ -64979,7 +67216,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 920,
+        "originalIndex": 958,
         "lb1": {
             "attack": 1338,
             "defense": 1305,
@@ -65049,7 +67286,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 921,
+        "originalIndex": 959,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -65115,12 +67352,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能施放時摧毀惡魔：此角色施放其特殊技能時，摧毀自身所有惡魔。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "抵禦治療異常：此角色對影響治療的狀態異常免疫。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 922,
+        "originalIndex": 960,
         "lb1": {
             "attack": 1320,
             "defense": 1418,
@@ -65196,7 +67433,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 923,
+        "originalIndex": 961,
         "lb1": {
             "attack": 841,
             "defense": 839,
@@ -65275,7 +67512,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 924,
+        "originalIndex": 962,
         "lb1": {
             "attack": 1059,
             "defense": 1111,
@@ -65346,7 +67583,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 925,
+        "originalIndex": 963,
         "lb1": {
             "attack": 1316,
             "defense": 1383,
@@ -65427,11 +67664,11 @@ window.allHeroes =
             "* 最多 +35% 法力產出。",
             "* 最多 +25% 額外閃避機率。",
             "* 角色擁有的飛行動量越少，效果越弱。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。"
+            "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 926,
+        "originalIndex": 964,
         "lb1": {
             "attack": 1298,
             "defense": 1409,
@@ -65504,7 +67741,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 927,
+        "originalIndex": 965,
         "lb1": {
             "attack": 999,
             "defense": 932,
@@ -65577,7 +67814,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 928,
+        "originalIndex": 966,
         "lb1": {
             "attack": 1279,
             "defense": 1332,
@@ -65646,7 +67883,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 929,
+        "originalIndex": 967,
         "lb1": {
             "attack": 850,
             "defense": 863,
@@ -65724,7 +67961,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 930,
+        "originalIndex": 968,
         "lb1": {
             "attack": 1147,
             "defense": 1183,
@@ -65788,7 +68025,7 @@ window.allHeroes =
         "defense": 931,
         "health": 1751,
         "effects": [
-            "對目標及附近敵人造成 470% 傷害。",
+            "對目標與附近敵人造成 470% 傷害。",
             "目標與附近敵人獲得 -40% 精準度，持續 6 回合。（進攻型特殊技能也有機率無法擊中。）",
             "目標與附近敵人獲得 -34% 防禦，持續 6 回合。",
             "施法者在 6 回合內恢復 918 點生命值。"
@@ -65798,7 +68035,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 931,
+        "originalIndex": 969,
         "lb1": {
             "attack": 932,
             "defense": 1003,
@@ -65867,7 +68104,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 932,
+        "originalIndex": 970,
         "lb1": {
             "attack": 779,
             "defense": 910,
@@ -65932,7 +68169,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 933,
+        "originalIndex": 971,
         "lb1": {
             "attack": 985,
             "defense": 967,
@@ -66006,7 +68243,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 934,
+        "originalIndex": 972,
         "lb1": {
             "attack": 999,
             "defense": 1043,
@@ -66082,7 +68319,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 935,
+        "originalIndex": 973,
         "lb1": {
             "attack": 1212,
             "defense": 1318,
@@ -66147,7 +68384,7 @@ window.allHeroes =
         "defense": 741,
         "health": 1339,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
             "隨機施展下列其中一種效果：",
             "方案 1：",
             "* 目標與附近敵人獲得 -54% 防禦，持續 3 回合。",
@@ -66165,7 +68402,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 936,
+        "originalIndex": 974,
         "lb1": {
             "attack": 825,
             "defense": 799,
@@ -66242,7 +68479,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 937,
+        "originalIndex": 975,
         "lb1": {
             "attack": 834,
             "defense": 779,
@@ -66320,7 +68557,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 938,
+        "originalIndex": 976,
         "lb1": {
             "attack": 1031,
             "defense": 998,
@@ -66374,14 +68611,14 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_marnes",
         "star": 5,
-        "power": 1252,
-        "attack": 1324,
+        "power": 1267,
+        "attack": 1345,
         "defense": 1254,
-        "health": 2233,
+        "health": 2288,
         "effects": [
             "對位於陣型邊緣的敵人造成 300% 爪擊傷害。如果只有一個敵人，傷害加倍。（對有任意防禦增益、小兵或超級小兵的敵人造成 400% 傷害。有任意防禦增益、小兵或超級小兵的敵人獲得 -35% 防禦，持續 5 回合。）",
-            "位於敵方陣型邊緣的敵人在 5 個回合內受到 1500 點重傷流血傷害。如果目標已擁有此效果，持續時間會被刷新，並增加 250 點傷害。最大總傷害: 3000。）",
-            "位於敵方陣型邊緣的敵人在 5 個回合內受到 625 點劇毒傷害。"
+            "位於敵方陣型邊緣的敵人在 5 個回合內受到 1600 點重傷流血傷害。如果目標已擁有此效果，持續時間會被刷新，並增加 250 點傷害。最大總傷害: 3000。）",
+            "位於敵方陣型邊緣的敵人在 5 個回合內受到 705 點劇毒傷害。"
         ],
         "passives": [
             "九條命：",
@@ -66396,18 +68633,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 939,
+        "originalIndex": 977,
         "lb1": {
-            "attack": 1427,
+            "attack": 1449,
             "defense": 1351,
-            "health": 2406,
-            "power": 1339
+            "health": 2466,
+            "power": 1355
         },
         "lb2": {
-            "attack": 1633,
+            "attack": 1658,
             "defense": 1546,
-            "health": 2753,
-            "power": 1514
+            "health": 2821,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -66434,7 +68671,7 @@ window.allHeroes =
         "skill": "來！接住！",
         "types": [
             "攻擊所有目標",
-            "強化閃避"
+            "自身強化閃避"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -66468,7 +68705,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 940,
+        "originalIndex": 978,
         "lb1": {
             "attack": 1318,
             "defense": 1205,
@@ -66528,11 +68765,11 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 365% 傷害。",
+            "* 對目標與附近敵人造成 365% 傷害。",
             "* 在 3 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放變幻莽夫亂拳。觸發此效果時，效果將轉移到該盟友身上，並且刷新持續時間。",
             "* 目標與附近敵人獲得的治療減少 -50%，持續 3 回合。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 430% 傷害。",
+            "* 對目標與附近敵人造成 430% 傷害。",
             "* 在 4 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放變幻莽夫亂拳。觸發此效果時，效果將轉移到該盟友身上，並且刷新持續時間。",
             "* 目標與附近敵人獲得的治療減少 -75%，持續 4 回合。"
         ],
@@ -66543,7 +68780,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 941,
+        "originalIndex": 979,
         "lb1": {
             "attack": 1076,
             "defense": 1087,
@@ -66607,11 +68844,11 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 355% 傷害。",
+            "* 對目標與附近敵人造成 355% 傷害。",
             "* 在 3 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放變幻莽夫亂拳。觸發此效果時，效果將轉移到該盟友身上，並且刷新持續時間。",
             "* 目標與附近敵人獲得的治療減少 -45%，持續 3 回合。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 450% 傷害。",
+            "* 對目標與附近敵人造成 450% 傷害。",
             "* 在 4 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放變幻莽夫亂拳。觸發此效果時，效果將轉移到該盟友身上，並且刷新持續時間。",
             "* 目標與附近敵人獲得的治療減少 -85%，持續 4 回合。"
         ],
@@ -66623,7 +68860,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 942,
+        "originalIndex": 980,
         "lb1": {
             "attack": 1415,
             "defense": 1363,
@@ -66694,7 +68931,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 943,
+        "originalIndex": 981,
         "lb1": {
             "attack": 1178,
             "defense": 1245,
@@ -66744,7 +68981,7 @@ window.allHeroes =
             "攻擊單個目標",
             "隨機攻擊 1 / 4 / 10 次",
             "命中時 驅散 / 安全驅散 1個增益",
-            "命中時防禦疊加"
+            "命中時防禦減益疊加"
         ],
         "skill_types": [
             "狙擊手",
@@ -66761,47 +68998,47 @@ window.allHeroes =
         ],
         "heroId": "ronin_mikanagi_miran",
         "star": 5,
-        "power": 1288,
-        "attack": 1351,
-        "defense": 1318,
-        "health": 2296,
+        "power": 1313,
+        "attack": 1374,
+        "defense": 1343,
+        "health": 2366,
         "effects": [
             "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
             "x 1 法力充能：",
-            "對目標造成 310% 傷害。",
-            "對隨機 1 名敵人造成額外 310% 傷害。",
+            "對目標造成 320% 傷害。",
+            "對隨機 1 名敵人造成額外 320% 傷害。",
             "驅散每名被擊中敵人身上的 1 個增益效果。",
             "x 2 法力充能：",
-            "對目標造成 320% 傷害。",
-            "對隨機 4 名敵人造成額外 320% 傷害。",
+            "對目標造成 330% 傷害。",
+            "對隨機 4 名敵人造成額外 330% 傷害。",
             "疊加（最大值： 10 ）：每次擊中時使目標獲得 -5% 防禦。",
             "驅散每名被擊中敵人身上的 1 個增益效果。",
             "x 3 法力充能：",
-            "對目標造成 330% 傷害。",
-            "對隨機 10 名敵人造成額外 330% 傷害。",
+            "對目標造成 340% 傷害。",
+            "對隨機 10 名敵人造成額外 340% 傷害。",
             "疊加（最大值： 10 ）：每次擊中時使目標獲得 -5% 防禦。",
             "安全驅散每名被擊中敵人身上的 1 個增益。"
         ],
         "passives": [
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
-            "* 攻擊者受到 400% 點傷害。",
-            "* 攻擊者受到 1200 點流血傷害，持續 3 回合。"
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 944,
+        "originalIndex": 982,
         "lb1": {
-            "attack": 1456,
-            "defense": 1420,
-            "health": 2475,
-            "power": 1378
+            "attack": 1480,
+            "defense": 1447,
+            "health": 2550,
+            "power": 1405
         },
         "lb2": {
-            "attack": 1666,
-            "defense": 1625,
-            "health": 2832,
-            "power": 1559
+            "attack": 1694,
+            "defense": 1656,
+            "health": 2918,
+            "power": 1590
         },
         "cn_skill_info": [
             {
@@ -66831,9 +69068,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "黑潮",
         "types": [
-            "攻擊所有目標",
-            "攻擊全體隊友",
-            "攻擊無視暗黑系"
+            "除暗屬性外攻擊全體",
+            "除暗屬性外攻擊全體隊友"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -66859,7 +69095,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 945,
+        "originalIndex": 983,
         "lb1": {
             "attack": 799,
             "defense": 741,
@@ -66901,7 +69137,9 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "全體暗屬性攻擊增益",
-            "非暗屬性全體攻擊減益"
+            "全體暗屬性敵人攻擊增益",
+            "除暗屬性外全體攻擊減益",
+            "除暗屬性外全體隊友攻擊減益"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -66931,7 +69169,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 946,
+        "originalIndex": 984,
         "lb1": {
             "attack": 1012,
             "defense": 924,
@@ -66966,6 +69204,62 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "巨齒鯊 (Mok-Arr) 卡通",
+        "fancy_name": "野蠻公仔",
+        "AetherPower": "憤怒",
+        "color": "紫",
+        "class": "野人",
+        "speed": "中等",
+        "skill": "浪潮公仔",
+        "types": [
+            "除暗屬性外攻擊全體",
+            "除暗屬性外攻擊全體隊友",
+            "除暗屬性外全體元素防禦增益",
+            "除暗屬性外全體隊友元素防禦減益"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_tide",
+        "parent_specialId": "black_tide",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_hammerhead_hulk_costume_cute",
+        "star": 5,
+        "power": 1344,
+        "attack": 1375,
+        "defense": 1267,
+        "health": 2739,
+        "effects": [
+            "對所有敵人造成 500% 傷害。",
+            "對所有盟友造成 50% 傷害。",
+            "所有盟友與敵人對暗黑增加 -54% 防禦，持續 4 回合。",
+            "對神聖系造成額外傷害。",
+            "所有暗黑盟友與敵人對此攻擊免疫。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 985,
+        "lb1": {
+            "attack": 1482,
+            "defense": 1365,
+            "health": 2952,
+            "power": 1439
+        },
+        "lb2": {
+            "attack": 1695,
+            "defense": 1562,
+            "health": 3378,
+            "power": 1628
+        },
+        "cn_skill_info": []
     },
     {
         "name": "摩拉克斯 (Morax)",
@@ -67012,7 +69306,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 947,
+        "originalIndex": 986,
         "lb1": {
             "attack": 828,
             "defense": 830,
@@ -67088,7 +69382,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 948,
+        "originalIndex": 987,
         "lb1": {
             "attack": 1292,
             "defense": 1358,
@@ -67163,7 +69457,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 949,
+        "originalIndex": 988,
         "lb1": {
             "attack": 912,
             "defense": 927,
@@ -67229,7 +69523,7 @@ window.allHeroes =
         ],
         "family": "mystery",
         "costume_id": 0,
-        "originalIndex": 950,
+        "originalIndex": 989,
         "lb1": {
             "attack": 839,
             "defense": 801,
@@ -67295,7 +69589,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 951,
+        "originalIndex": 990,
         "lb1": {
             "attack": 910,
             "defense": 850,
@@ -67333,7 +69627,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "雪橇猛擊",
+        "skill": "雪橇滑行",
         "types": [
             "全體強化治療",
             "全體強化閃避",
@@ -67367,7 +69661,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 952,
+        "originalIndex": 991,
         "lb1": {
             "attack": 1378,
             "defense": 1429,
@@ -67397,6 +69691,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "尼西塔洛斯 (Nyctalos)",
+        "fancy_name": "全知恐懼",
+        "AetherPower": "攻擊提升",
+        "color": "紫",
+        "class": "遊俠",
+        "speed": "飛速",
+        "skill": "眼部射線",
+        "types": [
+            "攻擊3個目標",
+            "3個目標狂亂",
+            "奧術/眼部射線(3個目標)",
+            "奧術/眼部射線隨機攻擊單體",
+            "自我狂亂"
+        ],
+        "skill_types": [],
+        "source": "暗影召喚",
+        "Release date": "2026-05-19",
+        "specialId": "ocular_ray",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "forsaken_nyctalos",
+        "star": 5,
+        "power": 1327,
+        "attack": 1392,
+        "defense": 1359,
+        "health": 2391,
+        "effects": [
+            "對目標和鄰近敵人造成 350% 傷害，並對其造成 10 點瘋狂。",
+            "每回合結束時，施法者和附近盟友朝一名隨機敵人射擊眼部光線，持續 2 回合。",
+            "每條眼部光線會對擊中的敵人造成 10 點瘋狂。",
+            "每條眼部光線會使擊中的敵人最大生命值降低 100。",
+            "對施法者造成 35 點瘋狂。"
+        ],
+        "passives": [
+            "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
+            "被舊者烙印：此角色每有 10 點疯狂，其普通攻擊和特殊技能造成的所有傷害提升 6%，最高提升 60%。"
+        ],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 992,
+        "lb1": {
+            "attack": 1500,
+            "defense": 1465,
+            "health": 2577,
+            "power": 1420
+        },
+        "lb2": {
+            "attack": 1717,
+            "defense": 1676,
+            "health": 2948,
+            "power": 1607
+        },
+        "cn_skill_info": []
     },
     {
         "name": "尼克斯 (Nyx)",
@@ -67449,7 +69800,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 953,
+        "originalIndex": 993,
         "lb1": {
             "attack": 883,
             "defense": 890,
@@ -67513,7 +69864,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 954,
+        "originalIndex": 994,
         "lb1": {
             "attack": 821,
             "defense": 688,
@@ -67574,7 +69925,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 955,
+        "originalIndex": 995,
         "lb1": {
             "attack": 900,
             "defense": 827,
@@ -67631,14 +69982,14 @@ window.allHeroes =
         "defense": 890,
         "health": 1910,
         "effects": [
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 95% 的傷害，持續 3 回合。",
             "施法者與附近盟友每次反擊可恢復適量法力。同一回合中效果經連續激活會減弱。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 956,
+        "originalIndex": 996,
         "lb1": {
             "attack": 1002,
             "defense": 959,
@@ -67706,7 +70057,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 957,
+        "originalIndex": 997,
         "lb1": {
             "attack": 1242,
             "defense": 1135,
@@ -67779,7 +70130,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 958,
+        "originalIndex": 998,
         "lb1": {
             "attack": 1406,
             "defense": 1274,
@@ -67837,10 +70188,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_stylish",
         "star": 5,
-        "power": 1300,
-        "attack": 1387,
-        "defense": 1246,
-        "health": 2435,
+        "power": 1340,
+        "attack": 1424,
+        "defense": 1279,
+        "health": 2566,
         "effects": [
             "對目標造成 410% 傷害，並對附近敵人造成輕微傷害。",
             "對剩餘生命值少於 50% 的敵人造成額外傷害。",
@@ -67851,18 +70202,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 959,
+        "originalIndex": 999,
         "lb1": {
-            "attack": 1494,
-            "defense": 1342,
-            "health": 2624,
-            "power": 1391
+            "attack": 1535,
+            "defense": 1379,
+            "health": 2766,
+            "power": 1435
         },
         "lb2": {
-            "attack": 1710,
-            "defense": 1536,
-            "health": 3002,
-            "power": 1573
+            "attack": 1756,
+            "defense": 1578,
+            "health": 3164,
+            "power": 1624
         },
         "cn_skill_info": [
             {
@@ -67925,12 +70276,12 @@ window.allHeroes =
             "* 此效果無法驅散。施法者陣亡後效果移除。"
         ],
         "passives": [
-            "抵禦防禦異常：此英雄對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。",
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
             "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 5% 生命值。此效果每回合僅能啟動一次。"
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 960,
+        "originalIndex": 1000,
         "lb1": {
             "attack": 1147,
             "defense": 1027,
@@ -68005,7 +70356,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 961,
+        "originalIndex": 1001,
         "lb1": {
             "attack": 1063,
             "defense": 1103,
@@ -68076,7 +70427,7 @@ window.allHeroes =
             "* 目標在 3 回合內無法獲得新的狀態效果增益。",
             "* 驅散目標的增益。",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 340% 傷害。",
+            "* 對目標與附近敵人造成 340% 傷害。",
             "* 目標與附近敵人在 4 回合內無法獲得新的狀態效果增益。",
             "* 驅散目標和附近敵人的增益。",
             "3 倍法力充能：",
@@ -68087,7 +70438,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 962,
+        "originalIndex": 1002,
         "lb1": {
             "attack": 865,
             "defense": 761,
@@ -68148,15 +70499,15 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_paimon",
         "star": 5,
-        "power": 1248,
-        "attack": 1291,
-        "defense": 1266,
-        "health": 2263,
+        "power": 1258,
+        "attack": 1301,
+        "defense": 1277,
+        "health": 2292,
         "effects": [
             "驅散目標和附近敵人的增益。",
-            "對目標造成 580% 傷害，並對附近敵人造成輕微傷害。",
-            "目標與附近敵人獲得 -50% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
-            "若特殊技能在 4 回合內未擊中，则目標和附近敵人對隨機盟友造成 450 傷害。"
+            "對目標造成 595% 傷害，並對附近敵人造成輕微傷害。",
+            "目標與附近敵人獲得 -55% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
+            "若特殊技能在 4 回合內未擊中，则目標和附近敵人對隨機盟友造成 500 傷害。"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -68165,18 +70516,18 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 963,
+        "originalIndex": 1003,
         "lb1": {
-            "attack": 1391,
-            "defense": 1365,
-            "health": 2439,
-            "power": 1335
+            "attack": 1403,
+            "defense": 1376,
+            "health": 2470,
+            "power": 1347
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1562,
-            "health": 2791,
-            "power": 1510
+            "attack": 1605,
+            "defense": 1574,
+            "health": 2827,
+            "power": 1523
         },
         "cn_skill_info": [
             {
@@ -68238,7 +70589,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 964,
+        "originalIndex": 1004,
         "lb1": {
             "attack": 888,
             "defense": 901,
@@ -68308,7 +70659,7 @@ window.allHeroes =
         "defense": 933,
         "health": 1707,
         "effects": [
-            "對目標及附近敵人造成 405% 傷害。",
+            "對目標與附近敵人造成 405% 傷害。",
             "目標與附近敵人跳起癡迷民謠，持續 4 回合。添加此效果時將移除所有現有狀態效果。",
             "癡迷民謠：",
             "* -40% 法力產出。",
@@ -68322,7 +70673,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 965,
+        "originalIndex": 1005,
         "lb1": {
             "attack": 1018,
             "defense": 1005,
@@ -68402,7 +70753,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 966,
+        "originalIndex": 1006,
         "lb1": {
             "attack": 994,
             "defense": 890,
@@ -68439,8 +70790,9 @@ window.allHeroes =
         "skill": "深淵秩序",
         "types": [
             "召喚3個小兵",
+            "小怪增加法力",
             "嘲諷",
-            "全體攻擊疊加"
+            "全體小怪攻擊疊加"
         ],
         "skill_types": [
             "小兵強化",
@@ -68485,7 +70837,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 967,
+        "originalIndex": 1007,
         "lb1": {
             "attack": 1295,
             "defense": 1133,
@@ -68552,7 +70904,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 968,
+        "originalIndex": 1008,
         "lb1": {
             "attack": 888,
             "defense": 872,
@@ -68624,7 +70976,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 969,
+        "originalIndex": 1009,
         "lb1": {
             "attack": 1325,
             "defense": 1409,
@@ -68700,7 +71052,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 970,
+        "originalIndex": 1010,
         "lb1": {
             "attack": 810,
             "defense": 834,
@@ -68761,7 +71113,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 971,
+        "originalIndex": 1011,
         "lb1": {
             "attack": 805,
             "defense": 685,
@@ -68817,7 +71169,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 972,
+        "originalIndex": 1012,
         "lb1": {
             "attack": 933,
             "defense": 770,
@@ -68872,13 +71224,13 @@ window.allHeroes =
         "defense": 831,
         "health": 1942,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "在 4 回合內，若目標或附近敵人在回合開始時法力滿格，該敵人將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 973,
+        "originalIndex": 1013,
         "lb1": {
             "attack": 1048,
             "defense": 896,
@@ -68942,7 +71294,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 974,
+        "originalIndex": 1014,
         "lb1": {
             "attack": 1152,
             "defense": 1180,
@@ -69007,7 +71359,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 975,
+        "originalIndex": 1015,
         "lb1": {
             "attack": 1320,
             "defense": 1320,
@@ -69078,7 +71430,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 976,
+        "originalIndex": 1016,
         "lb1": {
             "attack": 1101,
             "defense": 1145,
@@ -69104,6 +71456,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "榮恩 (Rawn)",
+        "fancy_name": "山獅竊賊",
+        "AetherPower": "嘲諷",
+        "color": "紫",
+        "class": "野人",
+        "speed": "慢速",
+        "skill": "被捕兇惡",
+        "types": [
+            "攻擊所有目標",
+            "嘲諷",
+            "擊倒全體"
+        ],
+        "skill_types": [],
+        "source": "野地召喚",
+        "Release date": "2026-04-09",
+        "specialId": "caught_and_vicious",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_rawn",
+        "star": 5,
+        "power": 1311,
+        "attack": 1431,
+        "defense": 1287,
+        "health": 2321,
+        "effects": [
+            "對所有敵人造成 410% 爪擊傷害。（對有任意防禦增益、小兵或超級小兵的敵人造成 600% 傷害。有任意防禦增益、小兵或超級小兵的敵人獲得 -35% 防禦，持續 6 回合。）",
+            "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 5 回合。",
+            "擊倒敵人。這會根據該角色的隊伍產生不同的效果。",
+            "攻擊隊伍：",
+            "所有敵人的普通攻擊延遲 3 回合。",
+            "防禦隊伍：",
+            "所有敵人在 3 回合內不會造成隊伍傷害。"
+        ],
+        "passives": [
+            "九條命：",
+            "* 落敗時，此角色有 80% 機率於其下個回合開始時復活，並恢復 50% 生命值和 80% 法力。",
+            "* 最多可觸發 9 次。復活幾率會在每次觸發後衰減。無法通過狀態異常或被動技能阻止該效果。",
+            "特性：輕巧自如的身姿。",
+            "此角色不受增加或減少防票的效果影響。",
+            "這包括：",
+            "* - 狀態效果增益以及異常。",
+            "* - 正面與負面疊加。",
+            "* - 成長和枯萎效果。"
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1017,
+        "lb1": {
+            "attack": 1542,
+            "defense": 1387,
+            "health": 2501,
+            "power": 1403
+        },
+        "lb2": {
+            "attack": 1765,
+            "defense": 1587,
+            "health": 2862,
+            "power": 1587
+        },
+        "cn_skill_info": []
     },
     {
         "name": "芮恩 (Rayne)",
@@ -69138,7 +71554,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 977,
+        "originalIndex": 1018,
         "lb1": {
             "attack": 879,
             "defense": 841,
@@ -69202,7 +71618,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 978,
+        "originalIndex": 1019,
         "lb1": {
             "attack": 952,
             "defense": 916,
@@ -69227,6 +71643,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "羅契弗 (Rochefort) C1",
+        "fancy_name": "冷酷捕鼠人",
+        "AetherPower": "惡魔抵禦",
+        "color": "紫",
+        "class": "盜賊",
+        "speed": "中等",
+        "skill": "滅鼠者的詭計",
+        "types": [
+            "攻擊3個目標",
+            "若目標被擊敗則傷害全體",
+            "自身生命值加成持續治療"
+        ],
+        "skill_types": [],
+        "source": "聯盟 - 勇者與美人",
+        "Release date": "2026-04-16",
+        "specialId": "exterminators_ploy",
+        "parent_specialId": "dishonorable_ploy",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "musketeer_rochefort_costume_ratcatcher",
+        "star": 5,
+        "power": 1321,
+        "attack": 1341,
+        "defense": 1283,
+        "health": 2626,
+        "effects": [
+            "對目標造成 600% 傷害，並對附近敵人造成輕微傷害。",
+            "若目標在 3 回合內被擊敗，則所有敵人受到 978 點傷害。",
+            "施法者在 4 個回合內恢復 1320 點加成生命值。加成生命值能夠超過最大生命值。"
+        ],
+        "passives": [
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。"
+        ],
+        "family": "musketeer",
+        "costume_id": 1,
+        "originalIndex": 1020,
+        "lb1": {
+            "attack": 1445,
+            "defense": 1383,
+            "health": 2830,
+            "power": 1414
+        },
+        "lb2": {
+            "attack": 1654,
+            "defense": 1582,
+            "health": 3238,
+            "power": 1600
+        },
+        "cn_skill_info": []
     },
     {
         "name": "鮭魚洛基 (Salmon Loki)",
@@ -69263,7 +71734,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 979,
+        "originalIndex": 1021,
         "lb1": {
             "attack": 803,
             "defense": 810,
@@ -69331,7 +71802,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 980,
+        "originalIndex": 1022,
         "lb1": {
             "attack": 1028,
             "defense": 1091,
@@ -69395,7 +71866,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 981,
+        "originalIndex": 1023,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -69463,7 +71934,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 982,
+        "originalIndex": 1024,
         "lb1": {
             "attack": 998,
             "defense": 1068,
@@ -69524,7 +71995,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 983,
+        "originalIndex": 1025,
         "lb1": {
             "attack": 748,
             "defense": 754,
@@ -69583,7 +72054,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 984,
+        "originalIndex": 1026,
         "lb1": {
             "attack": 795,
             "defense": 895,
@@ -69641,7 +72112,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 985,
+        "originalIndex": 1027,
         "lb1": {
             "attack": 970,
             "defense": 933,
@@ -69713,7 +72184,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 986,
+        "originalIndex": 1028,
         "lb1": {
             "attack": 1176,
             "defense": 1163,
@@ -69787,7 +72258,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 987,
+        "originalIndex": 1029,
         "lb1": {
             "attack": 1332,
             "defense": 1309,
@@ -69846,32 +72317,32 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_stylish",
         "star": 5,
-        "power": 1301,
-        "attack": 1310,
-        "defense": 1280,
-        "health": 2572,
+        "power": 1343,
+        "attack": 1346,
+        "defense": 1315,
+        "health": 2711,
         "effects": [
             "對目標造成 550% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 615% 傷害。",
-            "目標在 3 回合內受到共計 708 點劇毒傷害。"
+            "目標在 3 回合內受到共計 729 點劇毒傷害。"
         ],
         "passives": [
             "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 988,
+        "originalIndex": 1030,
         "lb1": {
-            "attack": 1412,
-            "defense": 1379,
-            "health": 2772,
-            "power": 1393
+            "attack": 1450,
+            "defense": 1417,
+            "health": 2922,
+            "power": 1438
         },
         "lb2": {
-            "attack": 1616,
-            "defense": 1578,
-            "health": 3171,
-            "power": 1576
+            "attack": 1660,
+            "defense": 1621,
+            "health": 3343,
+            "power": 1627
         },
         "cn_skill_info": [
             {
@@ -69931,7 +72402,7 @@ window.allHeroes =
             "* 躲藏時，施法者無法獲取新的狀態效果或疊加，且受到的傷害全部降低 -30%。",
             "* 當施法者離開藏身處時，可對在其躲藏期間使用過特殊技能的所有敵人造成 330 傷害。",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 425% 傷害。",
+            "* 對目標與附近敵人造成 425% 傷害。",
             "* 施法者躲藏 2 個回合。",
             "* 躲藏時，施法者無法獲取新的狀態效果或疊加，且受到的傷害全部降低 -60%。",
             "* 當施法者離開藏身處時，可對在其躲藏期間使用過特殊技能的所有敵人造成 449 傷害。",
@@ -69946,7 +72417,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 989,
+        "originalIndex": 1031,
         "lb1": {
             "attack": 1274,
             "defense": 1332,
@@ -70022,7 +72493,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 990,
+        "originalIndex": 1032,
         "lb1": {
             "attack": 1016,
             "defense": 1067,
@@ -70100,7 +72571,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 991,
+        "originalIndex": 1033,
         "lb1": {
             "attack": 788,
             "defense": 876,
@@ -70184,7 +72655,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 992,
+        "originalIndex": 1034,
         "lb1": {
             "attack": 1341,
             "defense": 1237,
@@ -70260,7 +72731,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 993,
+        "originalIndex": 1035,
         "lb1": {
             "attack": 1265,
             "defense": 1309,
@@ -70333,7 +72804,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 994,
+        "originalIndex": 1036,
         "lb1": {
             "attack": 819,
             "defense": 737,
@@ -70412,7 +72883,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 1,
-        "originalIndex": 995,
+        "originalIndex": 1037,
         "lb1": {
             "attack": 1057,
             "defense": 920,
@@ -70485,7 +72956,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 996,
+        "originalIndex": 1038,
         "lb1": {
             "attack": 870,
             "defense": 907,
@@ -70526,9 +72997,9 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "暴君軍團",
         "types": [
-            "召喚者",
+            "召喚所有",
             "全體持續傷害",
-            "被擊敗時全體法力降低"
+            "自身被擊敗時全體法力削減"
         ],
         "skill_types": [
             "持續傷害",
@@ -70566,7 +73037,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 997,
+        "originalIndex": 1039,
         "lb1": {
             "attack": 1306,
             "defense": 1284,
@@ -70631,9 +73102,9 @@ window.allHeroes =
         "defense": 910,
         "health": 1847,
         "effects": [
-            "對目標及附近敵人造成 370% 傷害。",
+            "對目標與附近敵人造成 370% 傷害。",
             "自目標與附近敵人偷取 25% 法力，並分給施法者與附近盟友。",
-            "複製目標及附近敵人的全部可驅散增益，並隨機分配給所有盟友。"
+            "複製目標與附近敵人的全部可驅散增益，並隨機分配給所有盟友。"
         ],
         "passives": [
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
@@ -70643,7 +73114,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 998,
+        "originalIndex": 1040,
         "lb1": {
             "attack": 1072,
             "defense": 981,
@@ -70718,7 +73189,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 999,
+        "originalIndex": 1041,
         "lb1": {
             "attack": 1232,
             "defense": 1227,
@@ -70775,10 +73246,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_shi_jin",
         "star": 5,
-        "power": 1284,
-        "attack": 1339,
-        "defense": 1316,
-        "health": 2301,
+        "power": 1299,
+        "attack": 1353,
+        "defense": 1330,
+        "health": 2344,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
             "對目標造成 550% 傷害。",
@@ -70795,18 +73266,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1000,
+        "originalIndex": 1042,
         "lb1": {
-            "attack": 1443,
-            "defense": 1418,
-            "health": 2479,
-            "power": 1374
+            "attack": 1458,
+            "defense": 1434,
+            "health": 2526,
+            "power": 1390
         },
         "lb2": {
-            "attack": 1651,
-            "defense": 1623,
-            "health": 2837,
-            "power": 1554
+            "attack": 1668,
+            "defense": 1640,
+            "health": 2890,
+            "power": 1572
         },
         "cn_skill_info": [
             {
@@ -70872,7 +73343,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1001,
+        "originalIndex": 1043,
         "lb1": {
             "attack": 1065,
             "defense": 1129,
@@ -70933,10 +73404,10 @@ window.allHeroes =
         ],
         "heroId": "slime_slaymire",
         "star": 5,
-        "power": 1281,
-        "attack": 1299,
-        "defense": 1359,
-        "health": 2292,
+        "power": 1296,
+        "attack": 1314,
+        "defense": 1374,
+        "health": 2336,
         "effects": [
             "對目標造成 630% 傷害。",
             "若目標被攻擊擊敗，所有盟友獲得 +30% 法力，且所有盟友生命值加成 1200。生命值加成可以超過最大生命值。",
@@ -70948,18 +73419,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1002,
+        "originalIndex": 1044,
         "lb1": {
-            "attack": 1400,
-            "defense": 1465,
-            "health": 2470,
-            "power": 1371
+            "attack": 1416,
+            "defense": 1480,
+            "health": 2517,
+            "power": 1387
         },
         "lb2": {
-            "attack": 1602,
-            "defense": 1676,
-            "health": 2827,
-            "power": 1550
+            "attack": 1620,
+            "defense": 1694,
+            "health": 2880,
+            "power": 1569
         },
         "cn_skill_info": [
             {
@@ -71023,7 +73494,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1003,
+        "originalIndex": 1045,
         "lb1": {
             "attack": 1316,
             "defense": 1425,
@@ -71088,7 +73559,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1004,
+        "originalIndex": 1046,
         "lb1": {
             "attack": 899,
             "defense": 879,
@@ -71125,8 +73596,8 @@ window.allHeroes =
         "skill": "恐懼謎語",
         "types": [
             "攻擊單個目標",
-            "連鎖",
-            "對命中目標施加增益免疫"
+            "連鎖攻擊",
+            "命中時施加增益免疫減益"
         ],
         "skill_types": [
             "增益格擋者",
@@ -71164,7 +73635,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1005,
+        "originalIndex": 1047,
         "lb1": {
             "attack": 1303,
             "defense": 1274,
@@ -71222,7 +73693,7 @@ window.allHeroes =
         "defense": 1262,
         "health": 2263,
         "effects": [
-            "對目標及附近敵人造成 410% 傷害。",
+            "對目標與附近敵人造成 410% 傷害。",
             "在 3 個回合內使目標與附近敵人的最大生命值降低 1200 點。對有生命加成的目標效果更大。如果目標受到治療，效果持續時間會重設。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 400 點。）",
             "對神聖系造成額外傷害。"
         ],
@@ -71232,7 +73703,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1006,
+        "originalIndex": 1048,
         "lb1": {
             "attack": 1416,
             "defense": 1360,
@@ -71308,7 +73779,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1007,
+        "originalIndex": 1049,
         "lb1": {
             "attack": 1287,
             "defense": 1192,
@@ -71389,7 +73860,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1008,
+        "originalIndex": 1050,
         "lb1": {
             "attack": 1214,
             "defense": 1218,
@@ -71462,7 +73933,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1009,
+        "originalIndex": 1051,
         "lb1": {
             "attack": 1085,
             "defense": 1023,
@@ -71519,20 +73990,20 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_the_beast",
         "star": 5,
-        "power": 1254,
-        "attack": 1297,
-        "defense": 1281,
-        "health": 2263,
+        "power": 1274,
+        "attack": 1316,
+        "defense": 1301,
+        "health": 2319,
         "effects": [
-            "若施法者擁有 35 以上的謙遜：",
-            "* 對隨機 6 名敵人造成 460% 傷害。",
+            "若施法者擁有 40 以上的謙遜：",
+            "* 對隨機 6 名敵人造成 470% 傷害。",
             "* 所有命中目標獲得 -54% 抵禦暗黑系的防禦，持續 4 回合。",
             "* 回合開始時，命中的敵人的法力一旦滿格，便會自動對隨機盟友施放莽夫亂拳持續 4 個回合。",
-            "* 施法者可在 4 個回合內恢復 1200 點加成生命值。加成生命值能夠超過最大生命值。",
+            "* 施法者可在 4 個回合內恢復 1300 點加成生命值。加成生命值能夠超過最大生命值。",
             "否則：",
-            "* 對隨機 5 名敵人造成 430% 傷害。",
-            "* 所有命中目標獲得 -40% 抵禦暗黑系的防禦，持續 4 回合。",
-            "* 施法者可在 4 個回合內恢復 1000 點加成生命值。加成生命值能夠超過最大生命值。"
+            "* 對隨機 5 名敵人造成 440% 傷害。",
+            "* 所有命中目標獲得 -45% 抵禦暗黑系的防禦，持續 4 回合。",
+            "* 施法者可在 4 個回合內恢復 1100 點加成生命值。加成生命值能夠超過最大生命值。"
         ],
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
@@ -71541,18 +74012,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1010,
+        "originalIndex": 1052,
         "lb1": {
-            "attack": 1398,
-            "defense": 1380,
-            "health": 2439,
-            "power": 1342
+            "attack": 1418,
+            "defense": 1403,
+            "health": 2499,
+            "power": 1364
         },
         "lb2": {
-            "attack": 1600,
-            "defense": 1579,
-            "health": 2791,
-            "power": 1517
+            "attack": 1623,
+            "defense": 1605,
+            "health": 2860,
+            "power": 1542
         },
         "cn_skill_info": [
             {
@@ -71603,14 +74074,14 @@ window.allHeroes =
         "defense": 694,
         "health": 1361,
         "effects": [
-            "對目標及附近敵人造成 340% 傷害。",
+            "對目標與附近敵人造成 340% 傷害。",
             "為施法者與附近盟友召喚一個不死小兵，其可從施法者繼承 30% 生命和 20% 攻擊。",
             "元素鏈給予所有暗黑盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1011,
+        "originalIndex": 1053,
         "lb1": {
             "attack": 788,
             "defense": 748,
@@ -71667,7 +74138,7 @@ window.allHeroes =
         "defense": 892,
         "health": 2001,
         "effects": [
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "為施法者與附近盟友召喚一個不死小兵，其可從施法者繼承 27% 生命和 27% 攻擊。",
             "元素鏈給予所有暗黑盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
@@ -71676,7 +74147,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1012,
+        "originalIndex": 1054,
         "lb1": {
             "attack": 983,
             "defense": 962,
@@ -71701,6 +74172,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "圖特阿蒙 (Thoth-Amun) 卡通",
+        "fancy_name": "公仔地穴大師",
+        "AetherPower": "復活",
+        "color": "紫",
+        "class": "術士",
+        "speed": "快速",
+        "skill": "骷髏公仔召喚",
+        "types": [
+            "攻擊3個目標",
+            "召喚3個小兵"
+        ],
+        "skill_types": [],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-04-29",
+        "specialId": "skeletoon_summon",
+        "parent_specialId": "soul_cage",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "witch_king_costume_cute",
+        "star": 5,
+        "power": 1343,
+        "attack": 1385,
+        "defense": 1322,
+        "health": 2598,
+        "effects": [
+            "對目標與附近敵人造成 410% 傷害。",
+            "為施法者與附近盟友召喚一個不死小兵，其可從施法者繼承 32% 生命和 27% 攻擊。",
+            "對神聖系造成額外傷害。",
+            "元素鏈給予所有暗黑盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。",
+            "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
+        ],
+        "family": "hotm2017",
+        "costume_id": 2,
+        "originalIndex": 1055,
+        "lb1": {
+            "attack": 1493,
+            "defense": 1425,
+            "health": 2800,
+            "power": 1438
+        },
+        "lb2": {
+            "attack": 1708,
+            "defense": 1631,
+            "health": 3204,
+            "power": 1628
+        },
+        "cn_skill_info": []
     },
     {
         "name": "特里瓦爾迪 (Thrivaldi)",
@@ -71746,12 +74271,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 331 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 331 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1013,
+        "originalIndex": 1056,
         "lb1": {
             "attack": 1323,
             "defense": 1240,
@@ -71824,7 +74349,7 @@ window.allHeroes =
             "- 敵人每持有一名小兵或超級小兵，都將造成額外 35% 傷害，最多累積造成 750% 傷害。",
             "- 攻擊会無視防禦增益。（包含反擊）",
             "x 2 法力充能：",
-            "- 對目標及附近敵人造成 425% 傷害。",
+            "- 對目標與附近敵人造成 425% 傷害。",
             "- 敵人每持有一名小兵或超級小兵，都將造成額外 35% 傷害，最多累積造成 775% 傷害。",
             "- 攻擊会無視防禦增益。（包含反擊）",
             "x 3 法力充能：",
@@ -71837,7 +74362,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1014,
+        "originalIndex": 1057,
         "lb1": {
             "attack": 1329,
             "defense": 1187,
@@ -71893,13 +74418,13 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 次直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
-            "所有暗黑盟友獲得 4 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "所有暗黑盟友獲得 2 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
-            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
             "稀有：",
             "* 復生戰士。",
             "* 復生騎士。",
@@ -71917,7 +74442,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1015,
+        "originalIndex": 1058,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -71992,7 +74517,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1016,
+        "originalIndex": 1059,
         "lb1": {
             "attack": 912,
             "defense": 790,
@@ -72028,9 +74553,9 @@ window.allHeroes =
         "skill": "當恩與迪迪",
         "types": [
             "隨機攻擊1個目標",
-            "防禦降低",
+            "單體防禦降低",
             "隨機攻擊1個目標",
-            "攻擊降低"
+            "單體攻擊降低"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -72062,7 +74587,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1017,
+        "originalIndex": 1060,
         "lb1": {
             "attack": 1036,
             "defense": 1021,
@@ -72142,7 +74667,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1018,
+        "originalIndex": 1061,
         "lb1": {
             "attack": 1063,
             "defense": 956,
@@ -72185,7 +74710,7 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "3個目標反擊",
-            "3個目標傷害減免"
+            "3個目標傷害減免增益"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -72228,7 +74753,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1019,
+        "originalIndex": 1062,
         "lb1": {
             "attack": 1386,
             "defense": 1201,
@@ -72300,7 +74825,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1020,
+        "originalIndex": 1063,
         "lb1": {
             "attack": 990,
             "defense": 974,
@@ -72378,7 +74903,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1021,
+        "originalIndex": 1064,
         "lb1": {
             "attack": 1314,
             "defense": 1232,
@@ -72447,7 +74972,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1022,
+        "originalIndex": 1065,
         "lb1": {
             "attack": 819,
             "defense": 788,
@@ -72491,7 +75016,7 @@ window.allHeroes =
             "攻擊所有目標",
             "全體元素反射",
             "全體元素反擊",
-            "全體暗屬性防禦減益"
+            "全體神聖元素防禦降低"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -72520,7 +75045,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1023,
+        "originalIndex": 1066,
         "lb1": {
             "attack": 1010,
             "defense": 996,
@@ -72598,7 +75123,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1024,
+        "originalIndex": 1067,
         "lb1": {
             "attack": 1001,
             "defense": 799,
@@ -72671,7 +75196,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1025,
+        "originalIndex": 1068,
         "lb1": {
             "attack": 1161,
             "defense": 1143,
@@ -72749,7 +75274,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1026,
+        "originalIndex": 1069,
         "lb1": {
             "attack": 1201,
             "defense": 1185,
@@ -72814,12 +75339,12 @@ window.allHeroes =
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1027,
+        "originalIndex": 1070,
         "lb1": {
             "attack": 1298,
             "defense": 1327,
@@ -72858,7 +75383,7 @@ window.allHeroes =
         "types": [
             "攻擊3個目標",
             "攻擊成長恩賜",
-            "全體閃避增益",
+            "全體閃避率增益",
             "閃避時造成傷害"
         ],
         "skill_types": [
@@ -72876,14 +75401,14 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_veer",
         "star": 5,
-        "power": 1275,
-        "attack": 1345,
-        "defense": 1287,
-        "health": 2282,
+        "power": 1290,
+        "attack": 1359,
+        "defense": 1301,
+        "health": 2325,
         "effects": [
-            "對目標及附近敵人造成 370% 傷害。",
+            "對目標與附近敵人造成 370% 傷害。",
             "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 800 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
-            "所有盟友獲得 +45% 的機率閃避特殊技能，持續 3 個回合。每次成功閃避將對攻擊者造成 250 傷害。"
+            "所有盟友獲得 +45% 的機率閃避特殊技能，持續 3 個回合。每次成功閃避將對攻擊者造成 300 傷害。"
         ],
         "passives": [
             "受到傷害時獲得法力：",
@@ -72893,18 +75418,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1028,
+        "originalIndex": 1071,
         "lb1": {
-            "attack": 1449,
-            "defense": 1387,
-            "health": 2459,
-            "power": 1364
+            "attack": 1465,
+            "defense": 1403,
+            "health": 2506,
+            "power": 1381
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1587,
-            "health": 2814,
-            "power": 1543
+            "attack": 1676,
+            "defense": 1605,
+            "health": 2867,
+            "power": 1562
         },
         "cn_skill_info": [
             {
@@ -72960,7 +75485,7 @@ window.allHeroes =
         "health": 1347,
         "effects": [
             "對目標造成 250% 傷害。",
-            "目标在 5 个回合內受到 510 點重傷流血傷害。（如果目標已擁有此效果，持續時間会被刷新，並增加 455 點傷害。最大總傷害: 1410。）",
+            "目标在 5 个回合內受到 340 點重傷流血傷害。（如果目標已擁有此效果，持續時間会被刷新，並增加 300 點傷害。最大總傷害: 940。）",
             "施法者偷取目標所獲治療的 75%，持續 5 回合。",
             "所有盟友獲得 +30% 防禦，持續 5 回合。"
         ],
@@ -72969,7 +75494,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1029,
+        "originalIndex": 1072,
         "lb1": {
             "attack": 839,
             "defense": 723,
@@ -73037,7 +75562,7 @@ window.allHeroes =
         "defense": 1032,
         "health": 2075,
         "effects": [
-            "對目標及附近敵人造成 155% 傷害。",
+            "對目標與附近敵人造成 155% 傷害。",
             "目标在 5 个回合內受到 330 點重傷流血傷害。如果目標已擁有此效果，持續時間会被刷新，並增加 450 點傷害。最大總傷害: 1225。",
             "施法者偷取目標及其附近敵人所獲治療的 61%，持續 5 回合。",
             "目標與附近敵人獲得 -24% 防禦，持續 5 回合。"
@@ -73047,7 +75572,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1030,
+        "originalIndex": 1073,
         "lb1": {
             "attack": 1245,
             "defense": 1112,
@@ -73120,7 +75645,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1031,
+        "originalIndex": 1074,
         "lb1": {
             "attack": 1236,
             "defense": 1181,
@@ -73202,7 +75727,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1032,
+        "originalIndex": 1075,
         "lb1": {
             "attack": 788,
             "defense": 872,
@@ -73241,7 +75766,7 @@ window.allHeroes =
         "types": [
             "重新部署",
             "攻擊所有目標",
-            "4名盟友元素交換"
+            "4個隊友屬性轉變"
         ],
         "skill_types": [
             "重排隊伍",
@@ -73267,7 +75792,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1033,
+        "originalIndex": 1076,
         "lb1": {
             "attack": 1296,
             "defense": 1240,
@@ -73338,7 +75863,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1034,
+        "originalIndex": 1077,
         "lb1": {
             "attack": 1081,
             "defense": 1201,
@@ -73412,12 +75937,12 @@ window.allHeroes =
             "舞蹈效果無法驅散。施法者陣亡後效果移除。"
         ],
         "passives": [
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。不適用影響元素防禦的狀態異常。",
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
             "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 10% 生命值。此效果每回合僅能啟動一次。"
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1035,
+        "originalIndex": 1078,
         "lb1": {
             "attack": 1265,
             "defense": 1134,
@@ -73491,7 +76016,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1036,
+        "originalIndex": 1079,
         "lb1": {
             "attack": 1105,
             "defense": 1052,
@@ -73566,7 +76091,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1037,
+        "originalIndex": 1080,
         "lb1": {
             "attack": 825,
             "defense": 979,
@@ -73641,7 +76166,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1038,
+        "originalIndex": 1081,
         "lb1": {
             "attack": 828,
             "defense": 854,
@@ -73720,7 +76245,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1039,
+        "originalIndex": 1082,
         "lb1": {
             "attack": 1076,
             "defense": 1160,
@@ -73761,8 +76286,8 @@ window.allHeroes =
         "skill": "鞭打",
         "types": [
             "攻擊3個目標",
-            "強化防禦異常",
-            "延遲驅散"
+            "3個目標強化防禦異常",
+            "3個目標延遲驅散"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -73796,7 +76321,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1040,
+        "originalIndex": 1083,
         "lb1": {
             "attack": 1267,
             "defense": 1192,
@@ -73855,13 +76380,13 @@ window.allHeroes =
         ],
         "heroId": "construct_zavok",
         "star": 5,
-        "power": 1272,
-        "attack": 1287,
-        "defense": 1349,
-        "health": 2284,
+        "power": 1292,
+        "attack": 1306,
+        "defense": 1367,
+        "health": 2340,
         "effects": [
-            "對所有敵人造成 470% 傷害。",
-            "所有敵人獲得 -12% 精準度，面板上每有一個黑暗護盾再降低 -6%，持續 5 回合，最多 -60% 精準度。",
+            "對所有敵人造成 500% 傷害。",
+            "所有敵人獲得 -20% 精準度，面板上每有一個黑暗護盾再降低 -5%，持續 5 回合，最多 -60% 精準度。",
             "所有盟友抵禦新的負面法力效果，持續 5 回合，根據每個抵禦的效果，法力提升 15%。"
         ],
         "passives": [
@@ -73875,18 +76400,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1041,
+        "originalIndex": 1084,
         "lb1": {
-            "attack": 1387,
-            "defense": 1454,
-            "health": 2461,
-            "power": 1362
+            "attack": 1407,
+            "defense": 1474,
+            "health": 2521,
+            "power": 1383
         },
         "lb2": {
-            "attack": 1587,
-            "defense": 1663,
-            "health": 2816,
-            "power": 1540
+            "attack": 1610,
+            "defense": 1686,
+            "health": 2885,
+            "power": 1564
         },
         "cn_skill_info": [
             {
@@ -73951,7 +76476,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1042,
+        "originalIndex": 1085,
         "lb1": {
             "attack": 1245,
             "defense": 1116,
@@ -74024,7 +76549,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1043,
+        "originalIndex": 1086,
         "lb1": {
             "attack": 721,
             "defense": 843,
@@ -74081,7 +76606,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1044,
+        "originalIndex": 1087,
         "lb1": {
             "attack": 168,
             "defense": 205,
@@ -74126,7 +76651,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1045,
+        "originalIndex": 1088,
         "lb1": {
             "attack": 208,
             "defense": 200,
@@ -74171,7 +76696,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1046,
+        "originalIndex": 1089,
         "lb1": {
             "attack": 350,
             "defense": 288,
@@ -74216,7 +76741,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1047,
+        "originalIndex": 1090,
         "lb1": {
             "attack": 320,
             "defense": 325,
@@ -74261,7 +76786,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1048,
+        "originalIndex": 1091,
         "lb1": {
             "attack": 356,
             "defense": 275,
@@ -74306,7 +76831,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1049,
+        "originalIndex": 1092,
         "lb1": {
             "attack": 312,
             "defense": 359,
@@ -74354,7 +76879,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1050,
+        "originalIndex": 1093,
         "lb1": {
             "attack": 559,
             "defense": 468,
@@ -74409,13 +76934,13 @@ window.allHeroes =
         "defense": 463,
         "health": 730,
         "effects": [
-            "對目標及附近敵人造成 170% 傷害。",
+            "對目標與附近敵人造成 170% 傷害。",
             "使目標和附近敵人的法力減少 15%。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1051,
+        "originalIndex": 1094,
         "lb1": {
             "attack": 573,
             "defense": 524,
@@ -74482,7 +77007,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1052,
+        "originalIndex": 1095,
         "lb1": {
             "attack": 666,
             "defense": 521,
@@ -74551,7 +77076,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1053,
+        "originalIndex": 1096,
         "lb1": {
             "attack": 688,
             "defense": 530,
@@ -74579,6 +77104,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "阿薩爾 (Azar) 英姿",
+        "fancy_name": "風格追尋者",
+        "AetherPower": "憤怒",
+        "color": "紅",
+        "class": "野人",
+        "speed": "快速",
+        "skill": "時尚切割",
+        "types": [
+            "攻擊單個目標",
+            "單體法力削減"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_cut",
+        "parent_specialId": "sharp_cut",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "nomad_female_swordmaster_costume_stylish",
+        "star": 3,
+        "power": 546,
+        "attack": 651,
+        "defense": 488,
+        "health": 833,
+        "effects": [
+            "對目標造成 305% 傷害。",
+            "使目標的法力減少 25%。",
+            "如果目標剩餘生命少於 50%，可對其造成 355% 傷害。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 1097,
+        "lb1": {
+            "attack": 738,
+            "defense": 554,
+            "health": 945,
+            "power": 610
+        },
+        "lb2": {
+            "attack": 912,
+            "defense": 684,
+            "health": 1167,
+            "power": 739
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "巴鬼格 (Bagreg)",
         "fancy_name": "漁夫衝突戰首領",
         "AetherPower": "閃避",
@@ -74588,7 +77165,7 @@ window.allHeroes =
         "skill": "燃燒標槍",
         "types": [
             "攻擊3個目標",
-            "元素防禦降低"
+            "3個目標元素防禦降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -74609,10 +77186,10 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 180% 傷害。",
+            "* 對目標與附近敵人造成 180% 傷害。",
             "* 目標與附近敵人獲得對烈火系 -34% 的防禦，持續 3 回合。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 200% 傷害。",
+            "* 對目標與附近敵人造成 200% 傷害。",
             "* 目標與附近敵人獲得對烈火系 -54% 的防禦，持續 3 回合。"
         ],
         "passives": [
@@ -74622,7 +77199,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1054,
+        "originalIndex": 1098,
         "lb1": {
             "attack": 648,
             "defense": 457,
@@ -74658,7 +77235,7 @@ window.allHeroes =
         "skill": "密探的小型望遠鏡",
         "types": [
             "攻擊3個目標",
-            "元素防禦降低"
+            "3個目標元素防禦降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -74683,10 +77260,10 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 170% 傷害。",
+            "* 對目標與附近敵人造成 170% 傷害。",
             "* 目標與附近敵人獲得對烈火系 -33% 的防禦，持續 3 回合。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 220% 傷害。",
+            "* 對目標與附近敵人造成 220% 傷害。",
             "* 目標與附近敵人獲得對烈火系 -55% 的防禦，持續 3 回合。"
         ],
         "passives": [
@@ -74697,7 +77274,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1055,
+        "originalIndex": 1099,
         "lb1": {
             "attack": 580,
             "defense": 564,
@@ -74765,7 +77342,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1056,
+        "originalIndex": 1100,
         "lb1": {
             "attack": 522,
             "defense": 610,
@@ -74824,7 +77401,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1057,
+        "originalIndex": 1101,
         "lb1": {
             "attack": 476,
             "defense": 514,
@@ -74886,7 +77463,7 @@ window.allHeroes =
         "defense": 458,
         "health": 959,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "枯萎：目標與附近敵人獲得 -40 點攻擊和 -40 點防禦。",
             "目標與附近敵人獲得 -35% 防禦，持續 3 回合。若該效果在持續時間結束前被移除，其擁有者將受到 124 點傷害。"
         ],
@@ -74897,7 +77474,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1058,
+        "originalIndex": 1102,
         "lb1": {
             "attack": 516,
             "defense": 520,
@@ -74940,8 +77517,8 @@ window.allHeroes =
         "skill": "霜凍搥擊",
         "types": [
             "攻擊3個目標",
-            "召喚者",
-            "傷害降低"
+            "自身召喚師",
+            "3個目標受到傷害增加減益"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -74959,14 +77536,14 @@ window.allHeroes =
         "defense": 451,
         "health": 825,
         "effects": [
-            "對目標及附近敵人造成 275% 傷害。",
+            "對目標與附近敵人造成 275% 傷害。",
             "為施法者召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。",
             "目標與附近敵人受到的所有傷害提高 +24%，且面板上每有一個烈火護盾則額外增加 +2%，持續 4 回合，最高可達 +40% 所受傷害。"
         ],
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1059,
+        "originalIndex": 1103,
         "lb1": {
             "attack": 577,
             "defense": 512,
@@ -75042,11 +77619,11 @@ window.allHeroes =
         ],
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
+            "抵禦防禦異常：該角色對影響防禦的狀態異常具有天生抗性。同樣適用於影響元素防禦的狀態異常。"
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1060,
+        "originalIndex": 1104,
         "lb1": {
             "attack": 608,
             "defense": 535,
@@ -75126,7 +77703,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1061,
+        "originalIndex": 1105,
         "lb1": {
             "attack": 591,
             "defense": 616,
@@ -75192,13 +77769,13 @@ window.allHeroes =
         "defense": 481,
         "health": 851,
         "effects": [
-            "對目標及附近敵人造成 240% 傷害。",
+            "對目標與附近敵人造成 240% 傷害。",
             "目標與附近敵人獲得 -24% 法力產出，持續 4 回合。"
         ],
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 1062,
+        "originalIndex": 1106,
         "lb1": {
             "attack": 478,
             "defense": 545,
@@ -75259,7 +77836,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 1063,
+        "originalIndex": 1107,
         "lb1": {
             "attack": 570,
             "defense": 472,
@@ -75284,6 +77861,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "艾-敦 (Ei-Dunn) 卡通",
+        "fancy_name": "受詛咒維京公仔",
+        "AetherPower": "異常免疫",
+        "color": "紅",
+        "class": "騎士",
+        "speed": "中等",
+        "skill": "斧頭公仔",
+        "types": [
+            "攻擊3個目標",
+            "3個目標法力生成降低"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toon_axe",
+        "parent_specialId": "tainted_axe",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_ei_dunn_costume_cute",
+        "star": 3,
+        "power": 567,
+        "attack": 530,
+        "defense": 599,
+        "health": 1066,
+        "effects": [
+            "對目標與附近敵人造成 275% 傷害。",
+            "目標與附近敵人獲得 -30% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
+            "對自然系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "niflheim",
+        "costume_id": 2,
+        "originalIndex": 1108,
+        "lb1": {
+            "attack": 600,
+            "defense": 679,
+            "health": 1209,
+            "power": 634
+        },
+        "lb2": {
+            "attack": 742,
+            "defense": 839,
+            "health": 1493,
+            "power": 768
+        },
+        "cn_skill_info": []
     },
     {
         "name": "經驗模仿怪 (Experience Mimic) Rare Fire",
@@ -75333,7 +77962,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1064,
+        "originalIndex": 1109,
         "lb1": {
             "attack": 620,
             "defense": 620,
@@ -75403,7 +78032,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1065,
+        "originalIndex": 1110,
         "lb1": {
             "attack": 518,
             "defense": 522,
@@ -75460,7 +78089,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1066,
+        "originalIndex": 1111,
         "lb1": {
             "attack": 537,
             "defense": 506,
@@ -75516,7 +78145,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1067,
+        "originalIndex": 1112,
         "lb1": {
             "attack": 569,
             "defense": 545,
@@ -75574,14 +78203,14 @@ window.allHeroes =
         "health": 765,
         "effects": [
             "為所有盟友恢復 35% 生命值。",
-            "所有盟友獲得 +34% 防禦，持續 3 回合。對所有烈火系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "所有盟友獲得 +34% 防禦，持續 3 回合。對所有烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1068,
+        "originalIndex": 1113,
         "lb1": {
             "attack": 618,
             "defense": 589,
@@ -75647,7 +78276,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1069,
+        "originalIndex": 1114,
         "lb1": {
             "attack": 669,
             "defense": 592,
@@ -75718,7 +78347,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1070,
+        "originalIndex": 1115,
         "lb1": {
             "attack": 618,
             "defense": 606,
@@ -75791,7 +78420,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1071,
+        "originalIndex": 1116,
         "lb1": {
             "attack": 657,
             "defense": 641,
@@ -75850,7 +78479,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1072,
+        "originalIndex": 1117,
         "lb1": {
             "attack": 565,
             "defense": 494,
@@ -75912,7 +78541,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1073,
+        "originalIndex": 1118,
         "lb1": {
             "attack": 594,
             "defense": 512,
@@ -75980,7 +78609,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1074,
+        "originalIndex": 1119,
         "lb1": {
             "attack": 629,
             "defense": 545,
@@ -76054,7 +78683,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1075,
+        "originalIndex": 1120,
         "lb1": {
             "attack": 648,
             "defense": 557,
@@ -76127,7 +78756,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1076,
+        "originalIndex": 1121,
         "lb1": {
             "attack": 689,
             "defense": 588,
@@ -76168,9 +78797,9 @@ window.allHeroes =
         "speed": "魔法",
         "skill": "幻想增長",
         "types": [
-            "攻擊增益",
-            "防禦降低",
-            "蓄力"
+            "蓄力",
+            "3個目標攻擊增益",
+            "3個目標防禦降低"
         ],
         "skill_types": [
             "攻擊增益",
@@ -76200,7 +78829,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1077,
+        "originalIndex": 1122,
         "lb1": {
             "attack": 535,
             "defense": 555,
@@ -76262,7 +78891,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1078,
+        "originalIndex": 1123,
         "lb1": {
             "attack": 545,
             "defense": 551,
@@ -76341,7 +78970,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1079,
+        "originalIndex": 1124,
         "lb1": {
             "attack": 563,
             "defense": 634,
@@ -76401,7 +79030,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1080,
+        "originalIndex": 1125,
         "lb1": {
             "attack": 596,
             "defense": 474,
@@ -76460,7 +79089,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1081,
+        "originalIndex": 1126,
         "lb1": {
             "attack": 583,
             "defense": 415,
@@ -76522,7 +79151,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1082,
+        "originalIndex": 1127,
         "lb1": {
             "attack": 655,
             "defense": 427,
@@ -76590,7 +79219,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1083,
+        "originalIndex": 1128,
         "lb1": {
             "attack": 706,
             "defense": 459,
@@ -76664,7 +79293,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1084,
+        "originalIndex": 1129,
         "lb1": {
             "attack": 734,
             "defense": 467,
@@ -76729,7 +79358,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1085,
+        "originalIndex": 1130,
         "lb1": {
             "attack": 506,
             "defense": 591,
@@ -76790,7 +79419,7 @@ window.allHeroes =
         "passives": [],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1086,
+        "originalIndex": 1131,
         "lb1": {
             "attack": 614,
             "defense": 555,
@@ -76854,7 +79483,7 @@ window.allHeroes =
         "defense": 540,
         "health": 773,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "目標與附近敵人在 4 個回合內受到 144 點劇毒傷害。有加成生命值、小兵或一名超級小兵的目標會受到額外傷害。（對有加成生命值的目標造成的劇毒傷害 +100%。目標所擁有的每個小兵或超級小兵會額外增加 +33% 傷害，最高共可達 +199% ）"
         ],
         "passives": [
@@ -76862,7 +79491,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1087,
+        "originalIndex": 1132,
         "lb1": {
             "attack": 581,
             "defense": 612,
@@ -76904,8 +79533,8 @@ window.allHeroes =
         "skill": "鹿角攻擊",
         "types": [
             "攻擊單個目標",
-            "法力削減",
-            "召喚者"
+            "單體法力削減",
+            "自身召喚師"
         ],
         "skill_types": [
             "法力削減或格擋",
@@ -76930,7 +79559,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1088,
+        "originalIndex": 1133,
         "lb1": {
             "attack": 612,
             "defense": 443,
@@ -76968,7 +79597,7 @@ window.allHeroes =
         "types": [
             "攻擊單個目標",
             "單體法力削減",
-            "召喚者",
+            "自身召喚師",
             "自我防禦增益"
         ],
         "skill_types": [
@@ -77002,7 +79631,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1089,
+        "originalIndex": 1134,
         "lb1": {
             "attack": 735,
             "defense": 541,
@@ -77076,7 +79705,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1090,
+        "originalIndex": 1135,
         "lb1": {
             "attack": 569,
             "defense": 529,
@@ -77131,13 +79760,13 @@ window.allHeroes =
         "defense": 472,
         "health": 762,
         "effects": [
-            "對目標及附近敵人造成 225% 傷害。",
+            "對目標與附近敵人造成 225% 傷害。",
             "施法者和附近盟友獲得 +45% 攻擊，並在每次被擊中後增加 +20%，持續 3 回合。"
         ],
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1091,
+        "originalIndex": 1136,
         "lb1": {
             "attack": 559,
             "defense": 535,
@@ -77172,7 +79801,8 @@ window.allHeroes =
         "speed": "快速",
         "skill": "魯莽戳擊",
         "types": [
-            "攻擊單個目標"
+            "攻擊單個目標",
+            "自身防禦減益"
         ],
         "skill_types": [
             "對自身或友軍負面效果",
@@ -77195,7 +79825,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1092,
+        "originalIndex": 1137,
         "lb1": {
             "attack": 610,
             "defense": 433,
@@ -77220,6 +79850,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "兔子侍從 (Squire Wabbit) C1",
+        "fancy_name": "斯普林維爾初級騎士",
+        "AetherPower": "特殊加成",
+        "color": "紅",
+        "class": "戰士",
+        "speed": "快速",
+        "skill": "謹慎戳擊",
+        "types": [
+            "攻擊單個目標",
+            "自身防禦減益"
+        ],
+        "skill_types": [],
+        "source": "月活動 - 斯普林維爾",
+        "Release date": "2026-03-30",
+        "specialId": "prudent_stab",
+        "parent_specialId": "reckless_stab",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "heroId": "rabbit_red_costume_knight",
+        "star": 3,
+        "power": 541,
+        "attack": 679,
+        "defense": 467,
+        "health": 769,
+        "effects": [
+            "對目標造成 375% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 400% 傷害。",
+            "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
+        ],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
+        "family": "easter",
+        "costume_id": 1,
+        "originalIndex": 1138,
+        "lb1": {
+            "attack": 770,
+            "defense": 529,
+            "health": 871,
+            "power": 604
+        },
+        "lb2": {
+            "attack": 952,
+            "defense": 654,
+            "health": 1077,
+            "power": 732
+        },
+        "cn_skill_info": []
     },
     {
         "name": "敏捷之星 (Starswift)",
@@ -77253,7 +79935,7 @@ window.allHeroes =
         "health": 787,
         "effects": [
             "此特殊技能必定命中目標。",
-            "對目標及附近敵人造成 265% 傷害。",
+            "對目標與附近敵人造成 265% 傷害。",
             "施法者和附近盟友獲得 +20% 法力產出，持續 3 回合。"
         ],
         "passives": [
@@ -77262,7 +79944,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1093,
+        "originalIndex": 1139,
         "lb1": {
             "attack": 594,
             "defense": 545,
@@ -77325,7 +80007,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1094,
+        "originalIndex": 1140,
         "lb1": {
             "attack": 498,
             "defense": 549,
@@ -77387,7 +80069,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1095,
+        "originalIndex": 1141,
         "lb1": {
             "attack": 539,
             "defense": 583,
@@ -77446,7 +80128,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1096,
+        "originalIndex": 1142,
         "lb1": {
             "attack": 550,
             "defense": 584,
@@ -77506,7 +80188,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1097,
+        "originalIndex": 1143,
         "lb1": {
             "attack": 606,
             "defense": 535,
@@ -77578,7 +80260,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1098,
+        "originalIndex": 1144,
         "lb1": {
             "attack": 653,
             "defense": 506,
@@ -77627,7 +80309,7 @@ window.allHeroes =
         "Release date": "2026-03-10",
         "specialId": "flying_front_kick",
         "passiveSkills": [
-            "dishonorable_death",
+            "dishonorable_death_rare",
             "prevent_boosted_health"
         ],
         "heroId": "ronin_yamada_jingasa",
@@ -77658,7 +80340,7 @@ window.allHeroes =
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 1099,
+        "originalIndex": 1145,
         "lb1": {
             "attack": 650,
             "defense": 610,
@@ -77731,7 +80413,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1100,
+        "originalIndex": 1146,
         "lb1": {
             "attack": 681,
             "defense": 743,
@@ -77796,7 +80478,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1101,
+        "originalIndex": 1147,
         "lb1": {
             "attack": 639,
             "defense": 773,
@@ -77857,7 +80539,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1102,
+        "originalIndex": 1148,
         "lb1": {
             "attack": 689,
             "defense": 815,
@@ -77919,7 +80601,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1103,
+        "originalIndex": 1149,
         "lb1": {
             "attack": 748,
             "defense": 902,
@@ -77978,14 +80660,14 @@ window.allHeroes =
         "health": 1324,
         "effects": [
             "為所有盟友恢復 33% 生命值。",
-            "所有盟友獲得 +40% 攻擊力，持續 4 回合。對所有烈火系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "所有盟友獲得 +40% 攻擊力，持續 4 回合。對所有烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1104,
+        "originalIndex": 1150,
         "lb1": {
             "attack": 759,
             "defense": 910,
@@ -78054,7 +80736,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1105,
+        "originalIndex": 1151,
         "lb1": {
             "attack": 769,
             "defense": 928,
@@ -78120,7 +80802,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1106,
+        "originalIndex": 1152,
         "lb1": {
             "attack": 837,
             "defense": 1017,
@@ -78182,7 +80864,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1107,
+        "originalIndex": 1153,
         "lb1": {
             "attack": 678,
             "defense": 701,
@@ -78239,7 +80921,7 @@ window.allHeroes =
         "defense": 682,
         "health": 1292,
         "effects": [
-            "對目標及附近敵人造成 315% 傷害。",
+            "對目標與附近敵人造成 315% 傷害。",
             "如果施法者在後續 4 個回合中被擊敗，他們將在下一個回合開始時以 27% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。",
             "疊加（最大值： 10 ）：施法者獲得 +5% 法力產出。",
             "疊加 +2 （最大值： 10 ）：施法者每個回合恢復 20 點生命值。"
@@ -78249,7 +80931,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1108,
+        "originalIndex": 1154,
         "lb1": {
             "attack": 685,
             "defense": 741,
@@ -78310,7 +80992,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1109,
+        "originalIndex": 1155,
         "lb1": {
             "attack": 791,
             "defense": 584,
@@ -78372,7 +81054,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1110,
+        "originalIndex": 1156,
         "lb1": {
             "attack": 854,
             "defense": 605,
@@ -78429,14 +81111,14 @@ window.allHeroes =
         "defense": 625,
         "health": 1315,
         "effects": [
-            "對目標及附近敵人造成 285% 傷害。",
+            "對目標與附近敵人造成 285% 傷害。",
             "目標與附近敵人獲得對烈火系 -54% 的防禦，持續 6 回合。",
             "對自然系造成額外傷害。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1111,
+        "originalIndex": 1157,
         "lb1": {
             "attack": 900,
             "defense": 679,
@@ -78508,7 +81190,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1112,
+        "originalIndex": 1158,
         "lb1": {
             "attack": 915,
             "defense": 707,
@@ -78582,7 +81264,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1113,
+        "originalIndex": 1159,
         "lb1": {
             "attack": 956,
             "defense": 703,
@@ -78613,6 +81295,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "科倫 (Colen) 英姿",
+        "fancy_name": "時尚賞金獵人",
+        "AetherPower": "攻擊提升",
+        "color": "紅",
+        "class": "戰士",
+        "speed": "慢速",
+        "skill": "時尚火焰",
+        "types": [
+            "攻擊所有目標",
+            "全體持續傷害"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_flames",
+        "parent_specialId": "fire_storm",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "nomad_axe_adventurer_costume_stylish",
+        "star": 4,
+        "power": 813,
+        "attack": 969,
+        "defense": 701,
+        "health": 1381,
+        "effects": [
+            "對所有敵人造成 230% 傷害。",
+            "對剩餘生命少於 50% 的敵人造成 310% 傷害。",
+            "所有敵人在 3 回合內受到共計 219 點燃燒傷害。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 1160,
+        "lb1": {
+            "attack": 1053,
+            "defense": 762,
+            "health": 1500,
+            "power": 876
+        },
+        "lb2": {
+            "attack": 1221,
+            "defense": 883,
+            "health": 1740,
+            "power": 1003
+        },
+        "cn_skill_info": []
     },
     {
         "name": "易百伯 (Eichbelborg)",
@@ -78647,7 +81381,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1161,
         "lb1": {
             "attack": 692,
             "defense": 713,
@@ -78705,7 +81439,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1115,
+        "originalIndex": 1162,
         "lb1": {
             "attack": 690,
             "defense": 646,
@@ -78771,7 +81505,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1116,
+        "originalIndex": 1163,
         "lb1": {
             "attack": 722,
             "defense": 683,
@@ -78830,7 +81564,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1117,
+        "originalIndex": 1164,
         "lb1": {
             "attack": 618,
             "defense": 614,
@@ -78894,7 +81628,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1118,
+        "originalIndex": 1165,
         "lb1": {
             "attack": 676,
             "defense": 672,
@@ -78956,7 +81690,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1119,
+        "originalIndex": 1166,
         "lb1": {
             "attack": 796,
             "defense": 685,
@@ -79023,7 +81757,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1120,
+        "originalIndex": 1167,
         "lb1": {
             "attack": 696,
             "defense": 807,
@@ -79097,7 +81831,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1121,
+        "originalIndex": 1168,
         "lb1": {
             "attack": 714,
             "defense": 818,
@@ -79155,13 +81889,13 @@ window.allHeroes =
         "defense": 754,
         "health": 1126,
         "effects": [
-            "對目標及附近敵人造成 225% 傷害。",
+            "對目標與附近敵人造成 225% 傷害。",
             "目標與附近敵人獲得對烈火系 -54% 的防禦，持續 4 回合。"
         ],
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1169,
         "lb1": {
             "attack": 600,
             "defense": 819,
@@ -79219,7 +81953,7 @@ window.allHeroes =
         "defense": 796,
         "health": 1445,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 100% 的傷害，持續 4 回合。",
             "施法者與附近盟友會獲得燃燒之觸，持續 4 回合。（燃燒之觸：擁有此狀態效果的角色每次反擊敵人時，攻擊者將在 4 回合內受到共計 324 點燃燒傷害）"
         ],
@@ -79235,7 +81969,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1123,
+        "originalIndex": 1170,
         "lb1": {
             "attack": 886,
             "defense": 865,
@@ -79269,7 +82003,7 @@ window.allHeroes =
     },
     {
         "name": "伊特海姆 (Itham)",
-        "fancy_name": "巫師游泳學校講師",
+        "fancy_name": "游泳教練精靈",
         "AetherPower": "攻擊提升",
         "color": "紅",
         "class": "騎士",
@@ -79298,7 +82032,7 @@ window.allHeroes =
         "defense": 703,
         "health": 1211,
         "effects": [
-            "對目標及附近敵人造成 270% 傷害。",
+            "對目標與附近敵人造成 270% 傷害。",
             "目標與附近敵人在 3 回合內免疫新的狀態效果增益，且每次嘗試獲得增益時受到 70 點傷害。",
             "施法者與附近盟友均可抵抗禁用特殊技能的效果，持續 3 回合。"
         ],
@@ -79308,7 +82042,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1124,
+        "originalIndex": 1171,
         "lb1": {
             "attack": 729,
             "defense": 764,
@@ -79349,7 +82083,7 @@ window.allHeroes =
         "skill": "斬擊支援",
         "types": [
             "攻擊單個目標",
-            "傷害治療"
+            "全體傷害治療"
         ],
         "skill_types": [
             "特殊治療",
@@ -79378,7 +82112,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1125,
+        "originalIndex": 1172,
         "lb1": {
             "attack": 812,
             "defense": 623,
@@ -79410,7 +82144,7 @@ window.allHeroes =
         "skill": "打擊支援",
         "types": [
             "攻擊單個目標",
-            "傷害治療"
+            "全體傷害治療"
         ],
         "skill_types": [
             "狙擊手",
@@ -79446,7 +82180,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1126,
+        "originalIndex": 1173,
         "lb1": {
             "attack": 781,
             "defense": 687,
@@ -79501,7 +82235,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1127,
+        "originalIndex": 1174,
         "lb1": {
             "attack": 734,
             "defense": 745,
@@ -79560,7 +82294,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1128,
+        "originalIndex": 1175,
         "lb1": {
             "attack": 827,
             "defense": 765,
@@ -79618,13 +82352,13 @@ window.allHeroes =
         "defense": 767,
         "health": 1137,
         "effects": [
-            "對目標及附近敵人造成 220% 傷害。",
+            "對目標與附近敵人造成 220% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 198 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 30% 作為生命值。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1129,
+        "originalIndex": 1176,
         "lb1": {
             "attack": 857,
             "defense": 833,
@@ -79697,7 +82431,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1130,
+        "originalIndex": 1177,
         "lb1": {
             "attack": 886,
             "defense": 826,
@@ -79771,7 +82505,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1131,
+        "originalIndex": 1178,
         "lb1": {
             "attack": 912,
             "defense": 835,
@@ -79802,6 +82536,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "卡莉萊 (Kelile) 英姿",
+        "fancy_name": "時尚女祭司",
+        "AetherPower": "攻擊提升",
+        "color": "紅",
+        "class": "盜賊",
+        "speed": "快速",
+        "skill": "時尚舞步",
+        "types": [
+            "攻擊單個目標",
+            "單體持續傷害"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_dance",
+        "parent_specialId": "dance_of_fire",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "nomad_female_berserker_costume_stylish",
+        "star": 4,
+        "power": 815,
+        "attack": 928,
+        "defense": 831,
+        "health": 1237,
+        "effects": [
+            "對目標造成 345% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 395% 傷害。",
+            "目標在 3 回合內受到共計 279 點燃燒傷害。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 1179,
+        "lb1": {
+            "attack": 1008,
+            "defense": 903,
+            "health": 1344,
+            "power": 878
+        },
+        "lb2": {
+            "attack": 1169,
+            "defense": 1047,
+            "health": 1559,
+            "power": 1005
+        },
+        "cn_skill_info": []
     },
     {
         "name": "勒明蓋寧 (Lemminkainen)",
@@ -79840,7 +82626,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1180,
         "lb1": {
             "attack": 701,
             "defense": 669,
@@ -79906,7 +82692,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1133,
+        "originalIndex": 1181,
         "lb1": {
             "attack": 730,
             "defense": 687,
@@ -79943,7 +82729,9 @@ window.allHeroes =
         "skill": "魔球爆裂",
         "types": [
             "攻擊單個目標",
-            "法力生成"
+            "目標釋放特技時削減 4 個目標的法力",
+            "全體法力生成增益",
+            "盟友釋放特殊技能時攻擊全體"
         ],
         "skill_types": [
             "法力生成增益",
@@ -79981,7 +82769,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1134,
+        "originalIndex": 1182,
         "lb1": {
             "attack": 715,
             "defense": 736,
@@ -80023,8 +82811,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "半身機智",
         "types": [
-            "反擊",
-            "攻擊增益"
+            "3個目標反擊",
+            "3個目標攻擊增益"
         ],
         "skill_types": [
             "攻擊增益",
@@ -80051,7 +82839,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1183,
         "lb1": {
             "attack": 701,
             "defense": 745,
@@ -80082,8 +82870,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "半身人的智慧",
         "types": [
-            "反擊",
-            "攻擊增益"
+            "3個目標反擊",
+            "3個目標攻擊增益"
         ],
         "skill_types": [
             "反擊",
@@ -80112,7 +82900,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1136,
+        "originalIndex": 1184,
         "lb1": {
             "attack": 715,
             "defense": 777,
@@ -80180,7 +82968,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1137,
+        "originalIndex": 1185,
         "lb1": {
             "attack": 882,
             "defense": 831,
@@ -80249,7 +83037,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1186,
         "lb1": {
             "attack": 713,
             "defense": 731,
@@ -80309,7 +83097,7 @@ window.allHeroes =
         "defense": 718,
         "health": 1289,
         "effects": [
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 296 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 20% 作為生命值。"
         ],
         "passives": [
@@ -80325,7 +83113,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1139,
+        "originalIndex": 1187,
         "lb1": {
             "attack": 810,
             "defense": 780,
@@ -80402,7 +83190,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1188,
         "lb1": {
             "attack": 699,
             "defense": 785,
@@ -80468,7 +83256,7 @@ window.allHeroes =
         "defense": 629,
         "health": 1198,
         "effects": [
-            "對目標及附近敵人造成 120% 傷害。",
+            "對目標與附近敵人造成 120% 傷害。",
             "目標與附近敵人跳起愛慕民謠，持續 3 回合。添加此效果時將移除所有現有狀態效果。",
             "愛慕民謠：",
             "* -20% 法力產出。",
@@ -80482,7 +83270,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1189,
         "lb1": {
             "attack": 815,
             "defense": 683,
@@ -80553,7 +83341,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1190,
         "lb1": {
             "attack": 768,
             "defense": 715,
@@ -80620,7 +83408,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1143,
+        "originalIndex": 1191,
         "lb1": {
             "attack": 788,
             "defense": 737,
@@ -80680,7 +83468,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1192,
         "lb1": {
             "attack": 833,
             "defense": 551,
@@ -80744,7 +83532,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1145,
+        "originalIndex": 1193,
         "lb1": {
             "attack": 852,
             "defense": 622,
@@ -80812,7 +83600,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1146,
+        "originalIndex": 1194,
         "lb1": {
             "attack": 937,
             "defense": 642,
@@ -80879,7 +83667,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1147,
+        "originalIndex": 1195,
         "lb1": {
             "attack": 915,
             "defense": 710,
@@ -80952,7 +83740,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1148,
+        "originalIndex": 1196,
         "lb1": {
             "attack": 945,
             "defense": 711,
@@ -81022,7 +83810,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1197,
         "lb1": {
             "attack": 646,
             "defense": 690,
@@ -81090,7 +83878,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1150,
+        "originalIndex": 1198,
         "lb1": {
             "attack": 655,
             "defense": 681,
@@ -81152,7 +83940,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1199,
         "lb1": {
             "attack": 822,
             "defense": 579,
@@ -81215,7 +84003,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1152,
+        "originalIndex": 1200,
         "lb1": {
             "attack": 722,
             "defense": 688,
@@ -81280,7 +84068,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1153,
+        "originalIndex": 1201,
         "lb1": {
             "attack": 706,
             "defense": 753,
@@ -81306,6 +84094,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "住友 (Sumitomo) 卡通",
+        "fancy_name": "謊言公仔",
+        "AetherPower": "攻擊提升",
+        "color": "紅",
+        "class": "戰士",
+        "speed": "中等",
+        "skill": "公仔秘技",
+        "types": [
+            "攻擊單個目標",
+            "自身反擊",
+            "反擊時自身獲得法力"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_waza",
+        "parent_specialId": "oji_waza",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_demon_master_costume_cute",
+        "star": 4,
+        "power": 829,
+        "attack": 881,
+        "defense": 806,
+        "health": 1503,
+        "effects": [
+            "對目標造成 330% 傷害。",
+            "施法者以所受傷害的 155% 進行反擊，持續 5 回合。",
+            "施法者每次反擊可恢復適量法力，持續 5 回合。同一回合中，效果經連續啟動會減弱。",
+            "對自然系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": 1202,
+        "lb1": {
+            "attack": 957,
+            "defense": 876,
+            "health": 1633,
+            "power": 893
+        },
+        "lb2": {
+            "attack": 1110,
+            "defense": 1016,
+            "health": 1893,
+            "power": 1023
+        },
+        "cn_skill_info": []
     },
     {
         "name": "蘇姆勒 (Sumle)",
@@ -81340,7 +84182,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1154,
+        "originalIndex": 1203,
         "lb1": {
             "attack": 778,
             "defense": 683,
@@ -81395,13 +84237,13 @@ window.allHeroes =
         "defense": 656,
         "health": 1162,
         "effects": [
-            "對目標及附近敵人造成 365% 傷害。每一下攻擊的精準度為 85%。",
+            "對目標與附近敵人造成 365% 傷害。每一下攻擊的精準度為 85%。",
             "每有一個敵人被擊敗，傷害增加 25%。"
         ],
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1155,
+        "originalIndex": 1204,
         "lb1": {
             "attack": 784,
             "defense": 713,
@@ -81426,6 +84268,57 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "蘇姆勒 (Sumle) 卡通",
+        "fancy_name": "烈火巨人公仔",
+        "AetherPower": "反擊",
+        "color": "紅",
+        "class": "僧侶",
+        "speed": "慢速",
+        "skill": "岩漿巨石公仔",
+        "types": [
+            "攻擊所有目標"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toon_magma_boulders",
+        "parent_specialId": "magma_boulders",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_sumle_costume_cute",
+        "star": 4,
+        "power": 836,
+        "attack": 933,
+        "defense": 814,
+        "health": 1408,
+        "effects": [
+            "對所有敵人造成 265% 傷害。每一下攻擊的精準度為 85%。",
+            "每有一個敵人被擊敗，傷害增加 75%。",
+            "對自然系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "muspelheim",
+        "costume_id": 2,
+        "originalIndex": 1205,
+        "lb1": {
+            "attack": 1014,
+            "defense": 885,
+            "health": 1530,
+            "power": 901
+        },
+        "lb2": {
+            "attack": 1176,
+            "defense": 1026,
+            "health": 1774,
+            "power": 1032
+        },
+        "cn_skill_info": []
     },
     {
         "name": "孫尚香 (Sun Shangxiang)",
@@ -81460,7 +84353,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1206,
         "lb1": {
             "attack": 849,
             "defense": 593,
@@ -81519,17 +84412,17 @@ window.allHeroes =
         "defense": 680,
         "health": 1285,
         "effects": [
-            "對目標及附近敵人造成 285% 傷害。",
+            "對目標與附近敵人造成 285% 傷害。",
             "對目標與附近敵人召喚烈火精靈惡魔。",
             "烈火精靈惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 35% 時消失。",
-            "施法者竊偷目標及附近敵人所產出法力的 30%，效果持續至目標失去烈火精靈惡魔為止。此效果無法淨化，但會在施法者被擊敗後移除。"
+            "施法者竊偷目標與附近敵人所產出法力的 30%，效果持續至目標失去烈火精靈惡魔為止。此效果無法淨化，但會在施法者被擊敗後移除。"
         ],
         "passives": [
             "石像鬼的柔軟膚：每次此石像鬼施放特殊技能時，其柔軟膚啟動。它們受之後 4 次的傷害，其傷害减少 -90% 且也對所有状態異常、法力減损與瘋狂免疫。此效果無法驅散。"
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1157,
+        "originalIndex": 1207,
         "lb1": {
             "attack": 768,
             "defense": 738,
@@ -81598,7 +84491,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 1158,
+        "originalIndex": 1208,
         "lb1": {
             "attack": 658,
             "defense": 750,
@@ -81660,7 +84553,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 1159,
+        "originalIndex": 1209,
         "lb1": {
             "attack": 713,
             "defense": 737,
@@ -81696,7 +84589,7 @@ window.allHeroes =
         "skill": "苦難旋律",
         "types": [
             "攻擊單個目標",
-            "狀態異常重置"
+            "全體重置狀態異常"
         ],
         "skill_types": [
             "效果持續重置",
@@ -81724,7 +84617,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1160,
+        "originalIndex": 1210,
         "lb1": {
             "attack": 715,
             "defense": 655,
@@ -81786,7 +84679,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1161,
+        "originalIndex": 1211,
         "lb1": {
             "attack": 695,
             "defense": 729,
@@ -81863,7 +84756,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1162,
+        "originalIndex": 1212,
         "lb1": {
             "attack": 766,
             "defense": 748,
@@ -81932,7 +84825,7 @@ window.allHeroes =
             "對所有敵人造成 260% 傷害。",
             "為每個盟友召喚一個徐璐小兵，其可從施法者繼承 15% 生命值及 20% 攻擊力。",
             "徐璐小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常：",
-            "* 目標在 4 回合內受到共計 340 點流血傷害。",
+            "* 目標在 4 回合內受到共計 344 點流血傷害。",
             "* 對目標造成 5 點瘋狂。",
             "對施法者造成 50 點瘋狂。"
         ],
@@ -81941,7 +84834,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1163,
+        "originalIndex": 1213,
         "lb1": {
             "attack": 1227,
             "defense": 1254,
@@ -82002,10 +84895,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_adelitza",
         "star": 5,
-        "power": 1264,
-        "attack": 1312,
-        "defense": 1297,
-        "health": 2263,
+        "power": 1274,
+        "attack": 1322,
+        "defense": 1308,
+        "health": 2288,
         "effects": [
             "對目標造成 600% 傷害。",
             "對上泰坦造成 700% 傷害。",
@@ -82021,18 +84914,18 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 1164,
+        "originalIndex": 1214,
         "lb1": {
-            "attack": 1414,
-            "defense": 1398,
-            "health": 2439,
-            "power": 1352
+            "attack": 1425,
+            "defense": 1409,
+            "health": 2466,
+            "power": 1363
         },
         "lb2": {
-            "attack": 1617,
-            "defense": 1600,
-            "health": 2791,
-            "power": 1529
+            "attack": 1630,
+            "defense": 1612,
+            "health": 2821,
+            "power": 1541
         },
         "cn_skill_info": [
             {
@@ -82096,14 +84989,17 @@ window.allHeroes =
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 阿爾法已太。",
             "* 烈火已太 III。",
+            "史詩：",
             "* 烈火已太 II。",
+            "稀有：",
             "* 烈火已太 I。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1215,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -82178,7 +85074,7 @@ window.allHeroes =
         "effects": [
             "使用火風暴打擊攻擊目標，造成最多 4000 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
             "所有盟友有 +45% 機率閃避攻擊與特殊技能，持續 5 回合。",
-            "此角色獲得一個獻祭標記，持續 5 個回合。每當敵人或盟友受到燃燒傷害時，施法者獲得ㄧ層疊加（最大值： 10 ）。每層疊加能提升 +6% 施法者的法力產出。"
+            "角色獲得獻祭印記，持續 5 回合。每當敵人或盟友受到燃燒傷害時，施法者就會獲得一層疊加。 （最大值： 10 ）。每層疊加都會使施法者的法力生成增加 +6%。"
         ],
         "passives": [
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
@@ -82188,7 +85084,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1166,
+        "originalIndex": 1216,
         "lb1": {
             "attack": 1249,
             "defense": 1278,
@@ -82256,7 +85152,7 @@ window.allHeroes =
         "health": 1454,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "每摧毀一名小兵，所有盟友恢復 10% 生命值。",
             "每摧毀一名小兵，所有盟友獲得 3% 法力。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -82266,7 +85162,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1217,
         "lb1": {
             "attack": 919,
             "defense": 865,
@@ -82331,7 +85227,7 @@ window.allHeroes =
         "health": 2231,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
-            "對目標及附近敵人造成 245% 傷害。",
+            "對目標與附近敵人造成 245% 傷害。",
             "每摧毀一名小兵，所有盟友恢復 12% 生命值。",
             "每摧毀一名小兵，所有盟友獲得 3% 法力。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -82341,7 +85237,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1168,
+        "originalIndex": 1218,
         "lb1": {
             "attack": 1495,
             "defense": 1165,
@@ -82369,6 +85265,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "阿米洛薩 (Amarosa)",
+        "fancy_name": "外域女皇",
+        "AetherPower": "吸血鬼",
+        "color": "紅",
+        "class": "騎士",
+        "speed": "中等",
+        "skill": "徐沃斯之劍",
+        "types": [
+            "攻擊所有目標",
+            "全體狂亂",
+            "全體治療偷取",
+            "自我狂亂"
+        ],
+        "skill_types": [],
+        "source": "暗影召喚",
+        "Release date": "2026-04-14",
+        "specialId": "sword_of_xuvhosh",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "forsaken_amarosa",
+        "star": 5,
+        "power": 1322,
+        "attack": 1396,
+        "defense": 1339,
+        "health": 2383,
+        "effects": [
+            "對剩餘生命值最低的敵人造成 525% 傷害。對其餘敵人造成 300% 傷害。",
+            "對所有敵人造成 20 點瘋狂。",
+            "施法者偷取所有敵人所獲治療的 70%，持續 4 回合。",
+            "對施法者造成 45 點瘋狂。"
+        ],
+        "passives": [
+            "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
+            "被舊者烙印：此角色每有 10 點疯狂，其普通攻擊和特殊技能造成的所有傷害提升 6%，最高提升 60%。"
+        ],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 1219,
+        "lb1": {
+            "attack": 1505,
+            "defense": 1443,
+            "health": 2568,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1722,
+            "defense": 1651,
+            "health": 2938,
+            "power": 1601
+        },
+        "cn_skill_info": []
     },
     {
         "name": "安貝兒 (Amber)",
@@ -82411,7 +85362,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1169,
+        "originalIndex": 1220,
         "lb1": {
             "attack": 999,
             "defense": 954,
@@ -82475,7 +85426,7 @@ window.allHeroes =
         "defense": 1264,
         "health": 1845,
         "effects": [
-            "對目標及附近敵人造成 390% 傷害。",
+            "對目標與附近敵人造成 390% 傷害。",
             "為一個隨機盟友提供掩護，持續 5 個回合。此效果無法被驅散。（在受掩護期間，盟友不會受到特殊攻擊或普通攻擊的傷害。進行掩護的角色會承受對盟友所造成的 50% 傷害。）",
             "施法者與附近盟友獲得 +89% 冰雪系防禦，持續 5 個回合。",
             "元素鏈給予所有烈火盟友 +20% 暴擊率，持續 4 個回合。此效果無法驅散。"
@@ -82486,7 +85437,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 1170,
+        "originalIndex": 1221,
         "lb1": {
             "attack": 1329,
             "defense": 1363,
@@ -82557,7 +85508,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1171,
+        "originalIndex": 1222,
         "lb1": {
             "attack": 1325,
             "defense": 1287,
@@ -82627,7 +85578,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1172,
+        "originalIndex": 1223,
         "lb1": {
             "attack": 752,
             "defense": 854,
@@ -82689,7 +85640,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1224,
         "lb1": {
             "attack": 956,
             "defense": 925,
@@ -82763,7 +85714,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1225,
         "lb1": {
             "attack": 1249,
             "defense": 1189,
@@ -82831,7 +85782,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1175,
+        "originalIndex": 1226,
         "lb1": {
             "attack": 710,
             "defense": 799,
@@ -82903,7 +85854,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1176,
+        "originalIndex": 1227,
         "lb1": {
             "attack": 943,
             "defense": 965,
@@ -82932,6 +85883,61 @@ window.allHeroes =
         ]
     },
     {
+        "name": "阿瑞斯 (Ares) 卡通",
+        "fancy_name": "戰爭公仔",
+        "AetherPower": "防禦提升",
+        "color": "紅",
+        "class": "騎士",
+        "speed": "中等",
+        "skill": "公仔阿瑞斯之力",
+        "types": [
+            "全體攻擊增益",
+            "全體暴擊幾率增益",
+            "全體持續治療"
+        ],
+        "skill_types": [],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-04-29",
+        "specialId": "might_of_toon_ares",
+        "parent_specialId": "might_of_ares",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "fire_god_ares_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1248,
+        "defense": 1412,
+        "health": 2755,
+        "effects": [
+            "所有盟友獲得 +55% 攻擊力，持續 4 回合。對所有烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
+            "所有盟友獲得 +50% 暴擊率，持續 4 回合。 對所有烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
+            "所有盟友在 4 回合內恢復 1000 點生命值。對所有烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
+            "元素鏈給予所有烈火盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。",
+            "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
+        ],
+        "family": "hotm2017",
+        "costume_id": 2,
+        "originalIndex": 1228,
+        "lb1": {
+            "attack": 1345,
+            "defense": 1522,
+            "health": 2969,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1539,
+            "defense": 1742,
+            "health": 3397,
+            "power": 1626
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "朝倉正雄 (Asakura Masao)",
         "fancy_name": "狂怒浪人",
         "AetherPower": "傷害減少",
@@ -82943,7 +85949,8 @@ window.allHeroes =
             "蓄力",
             "攻擊單個目標",
             "連鎖攻擊",
-            "成長：自身 / 3個目標 / 全體"
+            "全體攻擊力成長",
+            "全體防禦力成長"
         ],
         "skill_types": [
             "狙擊手",
@@ -82959,45 +85966,45 @@ window.allHeroes =
         ],
         "heroId": "ronin_asakura_masao",
         "star": 5,
-        "power": 1288,
-        "attack": 1316,
-        "defense": 1357,
-        "health": 2307,
+        "power": 1313,
+        "attack": 1341,
+        "defense": 1382,
+        "health": 2371,
         "effects": [
             "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
             "x 1 法力充能：",
-            "對目標造成 250% 傷害。",
+            "對目標造成 280% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
-            "成長：施法者獲得 100 點攻擊和 100 點防禦。",
+            "成長：所有盟友獲得 100 點攻擊和 100 點防禦。",
             "x 2 法力充能：",
-            "對目標造成 400% 傷害。",
+            "對目標造成 430% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
-            "成長：施法者和附近盟友獲得 250 點攻擊和 250 點防禦。",
+            "成長：所有盟友獲得 175 點攻擊和 175 點防禦。",
             "x 3 法力充能：",
-            "對目標造成 600% 傷害。",
+            "對目標造成 650% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
-            "成長：所有盟友獲得 600 點攻擊和 600 點防禦。"
+            "成長：所有盟友獲得 650 點攻擊和 650 點防禦。"
         ],
         "passives": [
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
-            "* 攻擊者受到 400% 點傷害。",
-            "* 攻擊者受到 1200 點流血傷害，持續 3 回合。"
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 1177,
+        "originalIndex": 1229,
         "lb1": {
-            "attack": 1418,
-            "defense": 1462,
-            "health": 2486,
-            "power": 1378
+            "attack": 1445,
+            "defense": 1489,
+            "health": 2555,
+            "power": 1405
         },
         "lb2": {
-            "attack": 1623,
-            "defense": 1673,
-            "health": 2844,
-            "power": 1559
+            "attack": 1653,
+            "defense": 1704,
+            "health": 2923,
+            "power": 1589
         },
         "cn_skill_info": [
             {
@@ -83015,7 +86022,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "升等模仿怪 (Ascension Mimic)",
+        "name": "升等模仿怪 (Ascension Mimic Fire)",
         "fancy_name": "邪惡詭笑寶箱",
         "AetherPower": "壁壘",
         "color": "紅",
@@ -83027,15 +86034,7 @@ window.allHeroes =
             "3個目標持續傷害",
             "寶箱怪"
         ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
+        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
@@ -83050,30 +86049,29 @@ window.allHeroes =
         "defense": 1268,
         "health": 2152,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 668 點流血傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
+            "每次敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "目標與附近敵人在 4 回合內受到共計 608 點流血傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* * * *",
+            "史詩：",
             "- 大马士革刀。",
             "- 策略书卷。",
             "- 神妙戒指。",
-            "* * *",
+            "稀有：",
             "- 精致手套。",
             "- 指南。",
             "- 袖剑。",
             "- 链甲衫。",
             "- 高筒靴。",
-            "* *",
             "- 奧術手稿。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1178,
+        "originalIndex": 1230,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -83155,7 +86153,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1179,
+        "originalIndex": 1231,
         "lb1": {
             "attack": 1221,
             "defense": 1152,
@@ -83219,14 +86217,14 @@ window.allHeroes =
         "defense": 762,
         "health": 1355,
         "effects": [
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "將目標與附近敵人的增益持續時間減少 1 回合。",
             "目標與附近敵人會受到腐蝕燃燒，持續 3 回合。腐蝕燃燒會造成 101 點燃燒傷害，而且每個回合降低目標的防禦 -16%。對擁有小兵或超級小兵的英雄造成額外傷害。"
         ],
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1180,
+        "originalIndex": 1232,
         "lb1": {
             "attack": 845,
             "defense": 821,
@@ -83301,7 +86299,7 @@ window.allHeroes =
             "* 目標獲得一枚流血標記，持續 2 個回合。被標記的目標受到流血傷害時，其獲得一次疊加 （最大值： 10 ）。每次疊加都能增加目標所承受傷害 +5%。",
             "* 目標在 2 回合內受到共計 316 點流血傷害。",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 395% 傷害。",
+            "* 對目標與附近敵人造成 395% 傷害。",
             "* 目標和附近敵人獲得一枚流血標記，持續 4 個回合。被標記的目標受到流血傷害時，其獲得一次疊加 （最大值： 10 ）。每次疊加都能增加目標所承受傷害 +5%。",
             "* 目標與附近敵人在 4 回合內受到共計 792 點流血傷害。",
             "3 倍法力充能：",
@@ -83314,7 +86312,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1181,
+        "originalIndex": 1233,
         "lb1": {
             "attack": 1427,
             "defense": 1229,
@@ -83341,6 +86339,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "阿維斯塔隆 (Avestalon)",
+        "fancy_name": "雨林部隊",
+        "AetherPower": "回復",
+        "color": "紅",
+        "class": "術士",
+        "speed": "快速",
+        "skill": "深紅陷阱",
+        "types": [
+            "隨機攻擊3個目標",
+            "命中時觸發爆炸釘刺陷阱",
+            "命中時施加元素防禦降低減益"
+        ],
+        "skill_types": [],
+        "source": "泰坦獵人召喚",
+        "Release date": "2026-05-20",
+        "specialId": "crimson_trap",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_red_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_avestalon",
+        "star": 5,
+        "power": 1327,
+        "attack": 1394,
+        "defense": 1357,
+        "health": 2387,
+        "effects": [
+            "對 3 名隨機敵人造成 275% 傷害。",
+            "被擊中的敵人受到尖刺陷阱影響。",
+            "尖刺陷阱會赋予其目標 -42% 對烈火的防禦。對自然泰坦時，尖刺陷阱會赋予其目標 -65% 對烈火的防禦。",
+            "尖刺陷阱會在 3 回合後爆炸，對其所有者造成 300 點傷害。（尖刺陷阱被相同元素的新尖刺陷阱取代時，會產生爆炸。此效果每回合最多可發生 2 次。）"
+        ],
+        "passives": [
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的烈火護盾會強化 +54% 暴擊率。",
+            "防禦角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的烈火護盾會降低 -47% 精準度。",
+            "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": 1234,
+        "lb1": {
+            "attack": 1502,
+            "defense": 1462,
+            "health": 2572,
+            "power": 1420
+        },
+        "lb2": {
+            "attack": 1719,
+            "defense": 1673,
+            "health": 2943,
+            "power": 1607
+        },
+        "cn_skill_info": []
     },
     {
         "name": "阿茲拉 (Azlar)",
@@ -83375,7 +86430,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1182,
+        "originalIndex": 1235,
         "lb1": {
             "attack": 854,
             "defense": 654,
@@ -83432,14 +86487,14 @@ window.allHeroes =
         "defense": 714,
         "health": 1562,
         "effects": [
-            "對目標及附近敵人造成 205% 傷害。",
+            "對目標與附近敵人造成 205% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 410% 傷害。",
             "目標與附近敵人在 2 回合內受到共計 472 點燃燒傷害。此效果無法淨化。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1183,
+        "originalIndex": 1236,
         "lb1": {
             "attack": 953,
             "defense": 770,
@@ -83502,13 +86557,13 @@ window.allHeroes =
         "defense": 810,
         "health": 1809,
         "effects": [
-            "對目標及附近敵人造成 310% 傷害。",
+            "對目標與附近敵人造成 310% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 636 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 40% 作為生命值。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1184,
+        "originalIndex": 1237,
         "lb1": {
             "attack": 1116,
             "defense": 873,
@@ -83581,7 +86636,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1185,
+        "originalIndex": 1238,
         "lb1": {
             "attack": 1273,
             "defense": 1138,
@@ -83655,7 +86710,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1186,
+        "originalIndex": 1239,
         "lb1": {
             "attack": 1441,
             "defense": 1282,
@@ -83714,32 +86769,32 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_stylish",
         "star": 5,
-        "power": 1302,
-        "attack": 1417,
-        "defense": 1253,
-        "health": 2362,
+        "power": 1343,
+        "attack": 1456,
+        "defense": 1287,
+        "health": 2490,
         "effects": [
             "對所有敵人造成 375% 傷害。",
             "對剩餘生命少於 50% 的敵人造成 525% 傷害。",
-            "所有敵人在 3 回合內受到共計 720 點燃燒傷害。"
+            "所有敵人在 3 回合內受到共計 741 點燃燒傷害。"
         ],
         "passives": [
             "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1187,
+        "originalIndex": 1240,
         "lb1": {
-            "attack": 1527,
-            "defense": 1351,
-            "health": 2546,
-            "power": 1394
+            "attack": 1569,
+            "defense": 1387,
+            "health": 2683,
+            "power": 1438
         },
         "lb2": {
-            "attack": 1748,
-            "defense": 1545,
-            "health": 2913,
-            "power": 1577
+            "attack": 1795,
+            "defense": 1587,
+            "health": 3070,
+            "power": 1627
         },
         "cn_skill_info": [
             {
@@ -83808,7 +86863,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1188,
+        "originalIndex": 1241,
         "lb1": {
             "attack": 1431,
             "defense": 1434,
@@ -83886,7 +86941,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1242,
         "lb1": {
             "attack": 870,
             "defense": 750,
@@ -83951,7 +87006,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1190,
+        "originalIndex": 1243,
         "lb1": {
             "attack": 1065,
             "defense": 1000,
@@ -84018,7 +87073,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1191,
+        "originalIndex": 1244,
         "lb1": {
             "attack": 963,
             "defense": 879,
@@ -84074,14 +87129,14 @@ window.allHeroes =
         ],
         "heroId": "vegetable_bartholomew",
         "star": 5,
-        "power": 1277,
-        "attack": 1336,
-        "defense": 1306,
-        "health": 2278,
+        "power": 1282,
+        "attack": 1341,
+        "defense": 1310,
+        "health": 2292,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "敵人每持有一名惡魔或超級惡魔，都將造成 15% 額外傷害，最多累積造成 450% 傷害。",
-            "從目標和附近敵人的身上豐收增益。（豐收可以從每個目标上，安全地移除 2 個增益、正面叠加或成長效果。包含无法驅散增益和跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全移除可避免移除狀態效果增益时的第二效果。例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。成長效果會最先被移除。其他效果則是以最新的開始移除。）",
+            "從目標和附近敵人的身上豐收增益。（豐收可以從每個目标上，安全地移除 2 個增益、正面叠加或成長效果。包含無法驅散增益和跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全移除可避免移除狀態效果增益时的第二效果。例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。成長效果會最先被移除。其他效果則是以最新的開始移除。）",
             "施法者與附近盟友以所受傷害的 110% 進行反擊，持續 4 回合。"
         ],
         "passives": [
@@ -84096,18 +87151,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1192,
+        "originalIndex": 1245,
         "lb1": {
-            "attack": 1440,
-            "defense": 1407,
-            "health": 2455,
-            "power": 1366
+            "attack": 1445,
+            "defense": 1411,
+            "health": 2470,
+            "power": 1371
         },
         "lb2": {
-            "attack": 1648,
-            "defense": 1610,
-            "health": 2809,
-            "power": 1545
+            "attack": 1653,
+            "defense": 1615,
+            "health": 2827,
+            "power": 1551
         },
         "cn_skill_info": [
             {
@@ -84140,7 +87195,7 @@ window.allHeroes =
         "types": [
             "全體驅散",
             "攻擊所有目標",
-            "全體詛咒畫像"
+            "全體詛咒畫像減益"
         ],
         "skill_types": [
             "驅散",
@@ -84172,7 +87227,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1246,
         "lb1": {
             "attack": 1090,
             "defense": 1221,
@@ -84252,7 +87307,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1194,
+        "originalIndex": 1247,
         "lb1": {
             "attack": 1394,
             "defense": 1194,
@@ -84312,16 +87367,16 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_bhima",
         "star": 5,
-        "power": 1252,
-        "attack": 1328,
-        "defense": 1236,
-        "health": 2261,
+        "power": 1267,
+        "attack": 1343,
+        "defense": 1250,
+        "health": 2305,
         "effects": [
             "此特殊技能必定命中目標。",
-            "對目標及附近敵人造成 410% 傷害。",
-            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（最多 800 點額外傷害。影響造成傷害的狀態效果會影響額外傷害。防禦數值不會影響額外傷害。影響傷害數值的狀態效果不會影響額外傷害）",
-            "使目標與附近敵人的最大生命值降低 850 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 850 點。）",
-            "目標與附近敵人獲得 -50% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）"
+            "對目標與附近敵人造成 410% 傷害。",
+            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（最多 600 點額外傷害。影響造成傷害的狀態效果會影響額外傷害。防禦數值不會影響額外傷害。影響傷害數值的狀態效果不會影響額外傷害）",
+            "使目標與附近敵人的最大生命值降低 1000 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 1000 點。）",
+            "目標與附近敵人獲得 -55% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [
             "受到傷害時獲得法力：",
@@ -84331,18 +87386,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1195,
+        "originalIndex": 1248,
         "lb1": {
-            "attack": 1431,
-            "defense": 1332,
-            "health": 2437,
-            "power": 1339
+            "attack": 1447,
+            "defense": 1347,
+            "health": 2484,
+            "power": 1356
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1524,
-            "health": 2788,
-            "power": 1515
+            "attack": 1656,
+            "defense": 1541,
+            "health": 2842,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -84363,6 +87418,66 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "大巴瑞 (Big Barry)",
+        "fancy_name": "草莓惡棍",
+        "AetherPower": "憤怒",
+        "color": "紅",
+        "class": "野人",
+        "speed": "快速",
+        "skill": "尖刺蝙蝠痛擊",
+        "types": [
+            "攻擊單個目標",
+            "單體持續性傷害",
+            "自我攻擊增益"
+        ],
+        "skill_types": [],
+        "source": "挑戰 - 警戒蔬菜召唤",
+        "Release date": "2026-04-25",
+        "specialId": "spiked_bat_thrashing",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_big_barry",
+        "star": 5,
+        "power": 1305,
+        "attack": 1374,
+        "defense": 1332,
+        "health": 2331,
+        "effects": [
+            "對目標造成 560% 傷害。",
+            "敵人每持有一名惡魔或超級惡魔，都將造成 15% 額外傷害，最多累積造成 710% 傷害。",
+            "目標每個回合持續受到 320 點流血傷害。（此效果會持續到被驅散、替代或移除為止。）",
+            "施法者獲得 +40% 攻擊力，並在每次被擊中時再增加 20% 攻擊力，最高 140% 攻擊力，持續 4 回合。"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "樹苗召喚：每回合對一位随機敵人召喚一個種子恶魔。",
+            "* 2 回合後，種子惡魔會進化為發芽惡魔。",
+            "* 2 回合後，發芽惡魔會进化為盛開超級惡魔。",
+            "* 惡魔每次吸收傷害後，進化會延遲 1 回合。",
+            "1 ） 种子惡魔： 50% 攻撃、 20% 生命。",
+            "2 ） 發芽惡魔： 75% 攻撃、 30% 生命。",
+            "3 ） 盛开超級惡魔： 250% 攻撃、 60% 生命。"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 1249,
+        "lb1": {
+            "attack": 1480,
+            "defense": 1436,
+            "health": 2513,
+            "power": 1396
+        },
+        "lb2": {
+            "attack": 1694,
+            "defense": 1643,
+            "health": 2875,
+            "power": 1580
+        },
+        "cn_skill_info": []
     },
     {
         "name": "黑凱撒 (Black Caesar)",
@@ -84405,7 +87520,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1250,
         "lb1": {
             "attack": 1018,
             "defense": 1085,
@@ -84472,7 +87587,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1197,
+        "originalIndex": 1251,
         "lb1": {
             "attack": 659,
             "defense": 912,
@@ -84533,7 +87648,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1198,
+        "originalIndex": 1252,
         "lb1": {
             "attack": 854,
             "defense": 1126,
@@ -84601,7 +87716,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1199,
+        "originalIndex": 1253,
         "lb1": {
             "attack": 954,
             "defense": 1081,
@@ -84671,7 +87786,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1200,
+        "originalIndex": 1254,
         "lb1": {
             "attack": 983,
             "defense": 907,
@@ -84747,7 +87862,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1201,
+        "originalIndex": 1255,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -84809,13 +87924,13 @@ window.allHeroes =
         "defense": 702,
         "health": 1353,
         "effects": [
-            "對目標及附近敵人造成 215% 傷害。",
+            "對目標與附近敵人造成 215% 傷害。",
             "敵人的法力越高，受到的傷害越大，最高可達 335%。"
         ],
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1256,
         "lb1": {
             "attack": 783,
             "defense": 757,
@@ -84877,7 +87992,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1203,
+        "originalIndex": 1257,
         "lb1": {
             "attack": 885,
             "defense": 810,
@@ -84945,7 +88060,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1204,
+        "originalIndex": 1258,
         "lb1": {
             "attack": 1165,
             "defense": 1059,
@@ -85013,7 +88128,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1205,
+        "originalIndex": 1259,
         "lb1": {
             "attack": 950,
             "defense": 936,
@@ -85080,7 +88195,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1206,
+        "originalIndex": 1260,
         "lb1": {
             "attack": 976,
             "defense": 950,
@@ -85106,6 +88221,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "卡薩薩 (Carthizux)",
+        "fancy_name": "星界惡魔狂熱者",
+        "AetherPower": "憤怒",
+        "color": "紅",
+        "class": "盜賊",
+        "speed": "快速",
+        "skill": "星界瘋狂已釋放",
+        "types": [
+            "攻擊單個目標",
+            "機率隨機攻擊 4 個目標",
+            "命中時觸發共鳴傷害",
+            "命中時偷取法力"
+        ],
+        "skill_types": [],
+        "source": "星界召喚",
+        "Release date": "2026-04-05",
+        "specialId": "astral_madness_unleashed",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_carthizux",
+        "star": 5,
+        "power": 1304,
+        "attack": 1390,
+        "defense": 1330,
+        "health": 2288,
+        "effects": [
+            "對目標造成 410% 傷害。",
+            "有 75% 的機率可額外攻擊隨機敵人最多 4 次。額外攻擊造成輕微傷害。",
+            "被命中的敵人將受到持續 3 回合的共振效果，共振對受影響的敵人造成 284 點傷害，並對附近敵人造成 142 點傷害。",
+            "施法者在 3 個回合內竊取被命中的敵人產出的法力 20%。此效果在施法者被擊敗後會被移除。"
+        ],
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": 1261,
+        "lb1": {
+            "attack": 1498,
+            "defense": 1434,
+            "health": 2466,
+            "power": 1396
+        },
+        "lb2": {
+            "attack": 1714,
+            "defense": 1640,
+            "health": 2821,
+            "power": 1579
+        },
+        "cn_skill_info": []
     },
     {
         "name": "卡塔莉娜 (Catalina)",
@@ -85135,14 +88307,14 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_catalina",
         "star": 5,
-        "power": 1267,
-        "attack": 1402,
-        "defense": 1196,
-        "health": 2263,
+        "power": 1282,
+        "attack": 1417,
+        "defense": 1211,
+        "health": 2305,
         "effects": [
-            "對目標造成 550% 爪擊傷害。（對有任意防禦增益、小兵或超級小兵的敵人造成 825% 傷害。有任意防禦增益、小兵或超級小兵的敵人獲得 -35% 防禦，持續 6 回合。）",
-            "除了施法者，所有盟友獲得 +40% 攻擊力，持續 4 回合。",
-            "除了施法者之外，所有盟友獲得 +40% 暴擊率，持續 4 回合。",
+            "對目標造成 580% 爪擊傷害。（對有任意防禦增益、小兵或超級小兵的敵人造成 825% 傷害。有任意防禦增益、小兵或超級小兵的敵人獲得 -35% 防禦，持續 6 回合。）",
+            "除了施法者，所有盟友獲得 +45% 攻擊力，持續 4 回合。",
+            "除了施法者之外，所有盟友獲得 +45% 暴擊率，持續 4 回合。",
             "除了施法者之外，所有盟友恢復相當於所造成普通傷害 100% 的生命值，持續 4 回合。"
         ],
         "passives": [
@@ -85158,18 +88330,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1262,
         "lb1": {
-            "attack": 1511,
-            "defense": 1289,
-            "health": 2439,
-            "power": 1356
+            "attack": 1527,
+            "defense": 1305,
+            "health": 2484,
+            "power": 1372
         },
         "lb2": {
-            "attack": 1729,
-            "defense": 1475,
-            "health": 2791,
-            "power": 1533
+            "attack": 1747,
+            "defense": 1493,
+            "health": 2842,
+            "power": 1552
         },
         "cn_skill_info": [
             {
@@ -85230,12 +88402,12 @@ window.allHeroes =
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1208,
+        "originalIndex": 1263,
         "lb1": {
             "attack": 1307,
             "defense": 1300,
@@ -85301,7 +88473,7 @@ window.allHeroes =
         "defense": 1009,
         "health": 2064,
         "effects": [
-            "對目標及附近敵人造成 450% 傷害。",
+            "對目標與附近敵人造成 450% 傷害。",
             "目標與附近敵人跳起譴責民謠，持續 3 回合。",
             "譴責民謠：",
             "-50% 法力產出。",
@@ -85314,7 +88486,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1264,
         "lb1": {
             "attack": 1243,
             "defense": 1087,
@@ -85381,7 +88553,7 @@ window.allHeroes =
         "defense": 1130,
         "health": 2432,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "目標與附近敵人受到吞噬黏液狀態異常，持續 5 回合。",
             "吞噬黏液：移除所有可驅散的增益和成長效果，每回合造成 300 點傷害，並且每移除一個效果就會受到 100 點傷害。（如果目標已有此效果，則會刷新持續時間，並從移除效果所受的額外傷害將會加到新效果中。每回合傷害不得超過 700。）",
             "在 1 個回合後，目標和附近的敵人會遭到麻痺，持續 4 個回合。（麻痹的敵人無法进行攻墼或獲得法力，受到的傷害也會提高 +50%。一旦被麻痺，效果無法淨化。頭目、泰坦和神話泰坦不受此状態效果影響。）"
@@ -85392,7 +88564,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1210,
+        "originalIndex": 1265,
         "lb1": {
             "attack": 1194,
             "defense": 1218,
@@ -85446,12 +88618,12 @@ window.allHeroes =
         ],
         "heroId": "slime_chingiriko",
         "star": 5,
-        "power": 1276,
-        "attack": 1345,
-        "defense": 1291,
-        "health": 2280,
+        "power": 1291,
+        "attack": 1359,
+        "defense": 1306,
+        "health": 2323,
         "effects": [
-            "對目標及附近敵人造成 450% 傷害。",
+            "對目標與附近敵人造成 450% 傷害。",
             "目標與附近敵人精準度變為 -39%，持續 4 個回合。如果目標受到治癒，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）",
             "所有盟友獲得黏黏表面，持續 4 回合。此效果無法驅散。",
             "黏黏表面：從進行攻擊的敵人身上竊取 1 個隨機可驅散增益或成長效果。（被盜的可驅散增益或成長效果是隨機選擇的。 當受到敵人的傷害時，就會啟用黏黏表面。 每個擁有黏黏表面的角色，每回合只能透過普通攻擊竊取一個狀態、增益或成長效果）"
@@ -85462,18 +88634,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1211,
+        "originalIndex": 1266,
         "lb1": {
-            "attack": 1449,
-            "defense": 1391,
-            "health": 2457,
-            "power": 1365
+            "attack": 1465,
+            "defense": 1407,
+            "health": 2504,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1592,
-            "health": 2811,
-            "power": 1544
+            "attack": 1676,
+            "defense": 1610,
+            "health": 2865,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -85525,7 +88697,7 @@ window.allHeroes =
         "defense": 863,
         "health": 1520,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "治療每個盟友所受總傷害的 40%。",
             "目標與附近敵人在 4 回合內受到共計 368 點流血傷害。"
         ],
@@ -85535,7 +88707,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1212,
+        "originalIndex": 1267,
         "lb1": {
             "attack": 916,
             "defense": 930,
@@ -85608,7 +88780,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1213,
+        "originalIndex": 1268,
         "lb1": {
             "attack": 1247,
             "defense": 1400,
@@ -85681,7 +88853,7 @@ window.allHeroes =
         ],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1269,
         "lb1": {
             "attack": 1112,
             "defense": 1107,
@@ -85753,7 +88925,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1215,
+        "originalIndex": 1270,
         "lb1": {
             "attack": 919,
             "defense": 930,
@@ -85820,7 +88992,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1216,
+        "originalIndex": 1271,
         "lb1": {
             "attack": 987,
             "defense": 1043,
@@ -85878,7 +89050,7 @@ window.allHeroes =
         "defense": 805,
         "health": 1545,
         "effects": [
-            "對目標及附近敵人造成 295% 傷害。",
+            "對目標與附近敵人造成 295% 傷害。",
             "法力全滿時，目標和附近敵人強制施放莽夫治療，持續 3 回合。",
             "莽夫治療：為剩餘生命值最低的敵方角色恢復 20% 生命值。"
         ],
@@ -85887,7 +89059,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1217,
+        "originalIndex": 1272,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -85946,7 +89118,7 @@ window.allHeroes =
         "defense": 1251,
         "health": 2410,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "目標與附近敵人獲得對烈火系 -34% 的防禦，持續 3 回合。",
             "法力全滿時，目標和附近敵人強制施放莽夫治療，持續 3 回合。",
             "莽夫治療：為剩餘生命值最低的敵方角色恢復 20% 生命值。"
@@ -85956,7 +89128,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1218,
+        "originalIndex": 1273,
         "lb1": {
             "attack": 1414,
             "defense": 1348,
@@ -86023,7 +89195,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1219,
+        "originalIndex": 1274,
         "lb1": {
             "attack": 934,
             "defense": 899,
@@ -86085,14 +89257,14 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_dartagnan_costume_chimney_sweeper",
         "star": 5,
-        "power": 1281,
-        "attack": 1330,
-        "defense": 1276,
-        "health": 2382,
+        "power": 1307,
+        "attack": 1347,
+        "defense": 1293,
+        "health": 2491,
         "effects": [
-            "對目標造成 560% 傷害。",
-            "目標在 3 回合內受到共計 1692 點燃燒傷害。此效果會擴散至附近的敵人。",
-            "施法者在 3 個回合內恢復 915 點加成生命值。加成生命值能夠超過最大生命值。"
+            "對目標造成 570% 傷害。",
+            "目標在 3 回合內受到共計 1716 點燃燒傷害。此效果會擴散至附近的敵人。",
+            "施法者在 3 個回合內恢復 1005 點加成生命值。加成生命值能夠超過最大生命值。"
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
@@ -86100,18 +89272,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1220,
+        "originalIndex": 1275,
         "lb1": {
-            "attack": 1433,
-            "defense": 1375,
-            "health": 2567,
-            "power": 1370
+            "attack": 1452,
+            "defense": 1393,
+            "health": 2685,
+            "power": 1399
         },
         "lb2": {
-            "attack": 1639,
-            "defense": 1573,
-            "health": 2937,
-            "power": 1550
+            "attack": 1661,
+            "defense": 1594,
+            "health": 3072,
+            "power": 1582
         },
         "cn_skill_info": [
             {
@@ -86175,7 +89347,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1221,
+        "originalIndex": 1276,
         "lb1": {
             "attack": 1187,
             "defense": 1056,
@@ -86260,7 +89432,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1222,
+        "originalIndex": 1277,
         "lb1": {
             "attack": 1387,
             "defense": 1347,
@@ -86324,7 +89496,7 @@ window.allHeroes =
         "defense": 1112,
         "health": 1963,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "目標獲得 -25% 防禦，持續 4 回合。若該敵人受到治療，則效果持續時間將重設。",
             "召喚一個從此施法者繼承 35% 生命值和 300% 攻擊力的刀劍守衛超級小兵。",
             "被刀劍守衛超級小兵擊中的目標在 3 個回合內受到 456 點流血傷害。此效果會擴散至附近的敵人。"
@@ -86335,7 +89507,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1223,
+        "originalIndex": 1278,
         "lb1": {
             "attack": 1265,
             "defense": 1198,
@@ -86403,10 +89575,10 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 380% 傷害。",
+            "* 對目標與附近敵人造成 380% 傷害。",
             "* 目標與附近敵人受到腐蝕燃燒，持續 4 回合。腐蝕燃燒會造成 201 點燃燒傷害，而且每個回合降低目標的防禦 -12%。對擁有小兵或超級小兵的英雄造成額外傷害。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 455% 傷害。",
+            "* 對目標與附近敵人造成 455% 傷害。",
             "* 目標與附近敵人受到腐蝕燃燒，持續 4 回合。腐蝕燃燒會造成 231 點燃燒傷害，而且每個回合降低目標的防禦 -16%。對擁有小兵或超級小兵的英雄造成額外傷害。"
         ],
         "passives": [
@@ -86416,7 +89588,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1224,
+        "originalIndex": 1279,
         "lb1": {
             "attack": 1061,
             "defense": 1067,
@@ -86483,10 +89655,10 @@ window.allHeroes =
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
-            "* 對目標及附近敵人造成 360% 傷害。",
+            "* 對目標與附近敵人造成 360% 傷害。",
             "* 目標與附近敵人受到腐蝕燃燒，持續 4 回合。腐蝕燃燒會造成 240 點燃燒傷害，而且每個回合降低目標的防禦 -10%。對擁有小兵或超級小兵的英雄造成額外傷害。",
             "第 2 次：",
-            "* 對目標及附近敵人造成 485% 傷害。",
+            "* 對目標與附近敵人造成 485% 傷害。",
             "* 目標與附近敵人受到腐蝕燃燒，持續 4 回合。腐蝕燃燒會造成 375 點燃燒傷害，而且每個回合降低目標的防禦 -18%。對擁有小兵或超級小兵的英雄造成額外傷害。"
         ],
         "passives": [
@@ -86497,7 +89669,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1225,
+        "originalIndex": 1280,
         "lb1": {
             "attack": 1327,
             "defense": 1395,
@@ -86569,7 +89741,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1226,
+        "originalIndex": 1281,
         "lb1": {
             "attack": 956,
             "defense": 892,
@@ -86625,7 +89797,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
         "heroId": "elemental_doxan_costume_hacker",
         "star": 5,
         "power": 1233,
@@ -86642,11 +89816,12 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "- 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "- 受到元素傷害： -25%",
+            "抵禦自然異常：此角色免疫自然系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1227,
+        "originalIndex": 1282,
         "lb1": {
             "attack": 1336,
             "defense": 1255,
@@ -86678,6 +89853,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "惠特利公爵 (Duke Whitley)",
+        "fancy_name": "斯普林維爾高等法師",
+        "AetherPower": "特殊加成",
+        "color": "紅",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "烤公雞",
+        "types": [
+            "攻擊3個目標",
+            "3個目標持續傷害",
+            "處於持續傷害狀態時全體治療",
+            "3個目標治療降低",
+            "自身元素防禦減益"
+        ],
+        "skill_types": [],
+        "source": "月活動 - 斯普林維爾",
+        "Release date": "2026-03-30",
+        "specialId": "roasting_rooster",
+        "passiveSkills": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "heroId": "easter_duke_whitley",
+        "star": 5,
+        "power": 1293,
+        "attack": 1369,
+        "defense": 1312,
+        "health": 2301,
+        "effects": [
+            "對目標與附近敵人造成 450% 傷害。",
+            "目標與附近敵人在 4 回合內受到共計 848 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 30% 作為生命值。",
+            "目標與附近敵人獲得的治療減少 -54%，持續 4 回合。",
+            "施法者獲得對冰雪系 -51% 的防禦，持續 4 回合。此效果無法淨化。"
+        ],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
+        "family": "easter",
+        "costume_id": 0,
+        "originalIndex": 1283,
+        "lb1": {
+            "attack": 1476,
+            "defense": 1414,
+            "health": 2479,
+            "power": 1384
+        },
+        "lb2": {
+            "attack": 1689,
+            "defense": 1617,
+            "health": 2837,
+            "power": 1566
+        },
+        "cn_skill_info": []
     },
     {
         "name": "鄧納爾哈特 (Dunnar Hart)",
@@ -86728,7 +89957,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1284,
         "lb1": {
             "attack": 1312,
             "defense": 1336,
@@ -86812,7 +90041,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1229,
+        "originalIndex": 1285,
         "lb1": {
             "attack": 914,
             "defense": 923,
@@ -86879,7 +90108,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1230,
+        "originalIndex": 1286,
         "lb1": {
             "attack": 896,
             "defense": 841,
@@ -86936,7 +90165,7 @@ window.allHeroes =
         "defense": 947,
         "health": 1648,
         "effects": [
-            "對目標及附近敵人造成 325% 傷害。",
+            "對目標與附近敵人造成 325% 傷害。",
             "施法者和附近盟友在 4 個回合後恢復 1000 點生命。若效果在持續時間結束前移除，則改為恢復 1300 點生命。",
             "施法者與附近盟友進行反擊，造成所受傷害 125% 的傷害，持續 4 回合。"
         ],
@@ -86945,7 +90174,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1231,
+        "originalIndex": 1287,
         "lb1": {
             "attack": 1065,
             "defense": 1021,
@@ -87005,7 +90234,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1232,
+        "originalIndex": 1288,
         "lb1": {
             "attack": 872,
             "defense": 623,
@@ -87066,7 +90295,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1233,
+        "originalIndex": 1289,
         "lb1": {
             "attack": 980,
             "defense": 682,
@@ -87127,7 +90356,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1234,
+        "originalIndex": 1290,
         "lb1": {
             "attack": 996,
             "defense": 916,
@@ -87194,7 +90423,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1235,
+        "originalIndex": 1291,
         "lb1": {
             "attack": 1101,
             "defense": 1211,
@@ -87267,7 +90496,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1236,
+        "originalIndex": 1292,
         "lb1": {
             "attack": 1305,
             "defense": 1297,
@@ -87342,7 +90571,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1237,
+        "originalIndex": 1293,
         "lb1": {
             "attack": 1189,
             "defense": 1183,
@@ -87416,7 +90645,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1294,
         "lb1": {
             "attack": 828,
             "defense": 812,
@@ -87496,7 +90725,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1239,
+        "originalIndex": 1295,
         "lb1": {
             "attack": 1096,
             "defense": 1064,
@@ -87558,17 +90787,17 @@ window.allHeroes =
         "defense": 1256,
         "health": 2261,
         "effects": [
-            "對目標及附近敵人造成 465% 傷害。",
+            "對目標與附近敵人造成 465% 傷害。",
             "所有盟友對阻擋特殊技能使用的新效果免疫，持續 4 個回合。",
             "為所有盟友召唤一個腥紅蝙蝠小兵，其可從施法者那裡繼承 25% 生命值和 30% 攻擊力。",
             "被腥紅蝙蝠小兵擊中的目標，會獲得血百合標記。（来自血花家族的紀念品。此效果可疊加（最大值： 10 ）。每層血百合效果叠加，每回合可對目標造成 10 點傷害。己方隊伍中的血花角色將獲得等同於造成之傷害量的生命值，並在他們之間平均分配。每層血百合效果叠加，也會使血花家族成員對該目標造成的傷害增加。血百合叠加可透過各種影響叠加的效果来避免或移除。）"
         ],
         "passives": [
-            "目标每有一層血百合叠加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
+            "目标每有一層血百合疊加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1240,
+        "originalIndex": 1296,
         "lb1": {
             "attack": 1389,
             "defense": 1354,
@@ -87642,7 +90871,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1241,
+        "originalIndex": 1297,
         "lb1": {
             "attack": 1358,
             "defense": 1334,
@@ -87703,13 +90932,13 @@ window.allHeroes =
         ],
         "heroId": "rodent_embertail",
         "star": 5,
-        "power": 1290,
-        "attack": 1365,
-        "defense": 1322,
-        "health": 2268,
+        "power": 1310,
+        "attack": 1384,
+        "defense": 1341,
+        "health": 2323,
         "effects": [
-            "對目標及附近敵人造成 390% 傷害。",
-            "荒野：持續 3 回合，目標與附近敵人每回合受到 204 或 408 點燃燒傷害。（荒野每回合有機率使此效果更具威力。此荒野效果有 50% 楼率在該回合造成 +100% 額外傷害。造成額外傷害時，此效果亦会降低敵人的最大生命值，且對擁有强化生命值的敵人造成更大傷害。荒野效果不受大多数阻止其生效的效果影警。荒野效果可奥同類型的其他效果同時存在）",
+            "對目標與附近敵人造成 390% 傷害。",
+            "荒野：持續 3 回合，目標與附近敵人每回合受到 207 或 414 點燃燒傷害。（荒野每回合有機率使此效果更具威力。此荒野效果有 50% 楼率在該回合造成 +100% 額外傷害。造成額外傷害時，此效果亦会降低敵人的最大生命值，且對擁有强化生命值的敵人造成更大傷害。荒野效果不受大多数阻止其生效的效果影警。荒野效果可奥同類型的其他效果同時存在）",
             "施法者和附近盟友獲得 +35% 法力產出，持續 3 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）"
         ],
         "passives": [
@@ -87718,18 +90947,18 @@ window.allHeroes =
         ],
         "family": "rodent",
         "costume_id": 0,
-        "originalIndex": 1242,
+        "originalIndex": 1298,
         "lb1": {
-            "attack": 1471,
-            "defense": 1425,
-            "health": 2444,
-            "power": 1381
+            "attack": 1491,
+            "defense": 1445,
+            "health": 2504,
+            "power": 1402
         },
         "lb2": {
-            "attack": 1684,
-            "defense": 1630,
-            "health": 2796,
-            "power": 1562
+            "attack": 1706,
+            "defense": 1653,
+            "health": 2865,
+            "power": 1586
         },
         "cn_skill_info": [
             {
@@ -87793,21 +91022,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "目標在 3 回合內受到共計 387 點劇毒傷害。此效果會蔓延至附近敵人。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 大師戰士紋章。",
             "* 大師野人紋章。",
+            "史詩：",
             "* 戰士紋章。",
             "* 野人紋章。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1243,
+        "originalIndex": 1299,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -87889,7 +91120,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1300,
         "lb1": {
             "attack": 810,
             "defense": 865,
@@ -87974,7 +91205,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1245,
+        "originalIndex": 1301,
         "lb1": {
             "attack": 1334,
             "defense": 1254,
@@ -88063,7 +91294,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1246,
+        "originalIndex": 1302,
         "lb1": {
             "attack": 896,
             "defense": 881,
@@ -88134,7 +91365,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1247,
+        "originalIndex": 1303,
         "lb1": {
             "attack": 1192,
             "defense": 1154,
@@ -88167,7 +91398,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "經驗模仿怪 (Experience Mimic)",
+        "name": "經驗模仿怪 (Experience Mimic Fire)",
         "fancy_name": "千牙寶藏",
         "AetherPower": "壁壘",
         "color": "紅",
@@ -88179,15 +91410,7 @@ window.allHeroes =
             "攻擊單個目標",
             "寶箱怪"
         ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手",
-            "特殊治療",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
+        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
@@ -88204,21 +91427,24 @@ window.allHeroes =
         "effects": [
             "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 530% 傷害。",
-            "若該攻擊將敵人擊敗，那麼施法者將恢復 +50% 生命並獲得 33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* 普通烈火訓練師英雄。",
-            "* 罕見烈火訓練師英雄。",
-            "* 稀有烈火訓練師英雄。",
-            "* 普通烈火英雄。",
-            "* 罕見烈火英雄。"
+            "稀有：",
+            "* 訓練師英雄。",
+            "罕見：",
+            "* 訓練師英雄。",
+            "* 罕見烈火英雄。",
+            "普通：",
+            "* 訓練師英雄。",
+            "* Common Fire Hero。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1248,
+        "originalIndex": 1304,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -88297,12 +91523,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 338 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 338 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1249,
+        "originalIndex": 1305,
         "lb1": {
             "attack": 1351,
             "defense": 1303,
@@ -88382,7 +91608,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1250,
+        "originalIndex": 1306,
         "lb1": {
             "attack": 1294,
             "defense": 1252,
@@ -88456,7 +91682,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1251,
+        "originalIndex": 1307,
         "lb1": {
             "attack": 899,
             "defense": 934,
@@ -88531,7 +91757,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1252,
+        "originalIndex": 1308,
         "lb1": {
             "attack": 1230,
             "defense": 1339,
@@ -88563,6 +91789,72 @@ window.allHeroes =
         ]
     },
     {
+        "name": "食物模仿怪 (Food Mimic Fire)",
+        "fancy_name": "食肉寶箱",
+        "AetherPower": "壁壘",
+        "color": "紅",
+        "class": "德魯伊",
+        "speed": "中等",
+        "skill": "邪惡舔擊",
+        "types": [
+            "攻擊3個目標",
+            "造成傷害時治療全體",
+            "寶箱怪"
+        ],
+        "skill_types": [],
+        "source": "市場召喚",
+        "Release date": "2026-05-10",
+        "specialId": "wicked_lick_red",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_red"
+        ],
+        "heroId": "mimic_food_red",
+        "star": 5,
+        "power": 1354,
+        "attack": 1425,
+        "defense": 1419,
+        "health": 2385,
+        "effects": [
+            "對目標造成 500% 傷害。",
+            "若攻擊擊败目標，施法者會獲得 +33% 法力。",
+            "為所有盟友治療 30% 的傷害。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ],
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
+            "* 食物巨禮包。",
+            "史詩：",
+            "* 食物大禮包。",
+            "稀有：",
+            "* 食物中禮包。",
+            "罕見：",
+            "* 食物小禮包。",
+            "* 訓練師英雄。",
+            "普通：",
+            "* 食物迷你禮包。",
+            "* 訓練師英雄。"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1309,
+        "lb1": {
+            "attack": 1536,
+            "defense": 1529,
+            "health": 2570,
+            "power": 1450
+        },
+        "lb2": {
+            "attack": 1757,
+            "defense": 1750,
+            "health": 2941,
+            "power": 1641
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "芙維亞 (Fulvia)",
         "fancy_name": "貓頭鷹高塔的皇后",
         "AetherPower": "反擊",
@@ -88572,7 +91864,7 @@ window.allHeroes =
         "skill": "皇家襲擊",
         "types": [
             "攻擊3個目標",
-            "3個目標法力削減",
+            "每回合削減 3 個目標的法力",
             "3個目標治療降低"
         ],
         "skill_types": [
@@ -88603,7 +91895,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1253,
+        "originalIndex": 1310,
         "lb1": {
             "attack": 1112,
             "defense": 1090,
@@ -88672,14 +91964,14 @@ window.allHeroes =
             "對目標造成 435% 傷害。",
             "在 4 個回合內，目標受到 628 點劇毒傷害:有加成生命值、小兵或一名超级小兵的目標會受到額外傷害。（針對有加成生命值的目标，猛毒傷害提升 +100%。目标每持有一名小兵或超级小兵，猛毒傷害都會提升 +33%。最多傷害累積至 +199%。）",
             "對位於敵方陣型邊緣的敵人造成 435% 傷害。如果只有一個敵人，傷害加倍。",
-            "所有位於敵方陣型邊緣的敵人管陷入深沉睡眠，深沉睡眠時受到的傷害增加 +80%。（陷入深沉睡眠的角色無法獲得法力或进行攻擊。陷入深沉睡眠的角色承受 750 站傷害後將醒来。此效果無法淨化。）"
+            "所有位於敵方陣型邊緣的敵人管陷入深沉睡眠，深沉睡眠時受到的傷害增加 +80%。（陷入深沉睡眠的角色無法獲得法力或进行攻擊。陷入深沉睡眠的角色承受 500 站傷害後將醒来。此效果無法淨化。）"
         ],
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1254,
+        "originalIndex": 1311,
         "lb1": {
             "attack": 1405,
             "defense": 1300,
@@ -88749,7 +92041,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1255,
+        "originalIndex": 1312,
         "lb1": {
             "attack": 788,
             "defense": 810,
@@ -88808,7 +92100,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1256,
+        "originalIndex": 1313,
         "lb1": {
             "attack": 832,
             "defense": 825,
@@ -88864,12 +92156,12 @@ window.allHeroes =
         "health": 1729,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
-            "對目標及附近敵人造成 335% 傷害。"
+            "對目標與附近敵人造成 335% 傷害。"
         ],
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1257,
+        "originalIndex": 1314,
         "lb1": {
             "attack": 1045,
             "defense": 1065,
@@ -88947,7 +92239,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1258,
+        "originalIndex": 1315,
         "lb1": {
             "attack": 967,
             "defense": 1023,
@@ -89036,7 +92328,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1259,
+        "originalIndex": 1316,
         "lb1": {
             "attack": 1309,
             "defense": 1253,
@@ -89113,7 +92405,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1260,
+        "originalIndex": 1317,
         "lb1": {
             "attack": 1227,
             "defense": 1292,
@@ -89171,7 +92463,7 @@ window.allHeroes =
         "defense": 708,
         "health": 1363,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "目標與附近敵人在 2 回合內受到共計 492 點燃燒傷害。",
             "對自然系造成額外傷害。",
             "元素鏈給予所有烈火盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法淨化。"
@@ -89179,7 +92471,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1261,
+        "originalIndex": 1318,
         "lb1": {
             "attack": 783,
             "defense": 763,
@@ -89254,7 +92546,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1262,
+        "originalIndex": 1319,
         "lb1": {
             "attack": 994,
             "defense": 951,
@@ -89325,7 +92617,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1263,
+        "originalIndex": 1320,
         "lb1": {
             "attack": 677,
             "defense": 881,
@@ -89387,7 +92679,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1264,
+        "originalIndex": 1321,
         "lb1": {
             "attack": 848,
             "defense": 632,
@@ -89457,7 +92749,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1265,
+        "originalIndex": 1322,
         "lb1": {
             "attack": 1085,
             "defense": 801,
@@ -89528,7 +92820,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1266,
+        "originalIndex": 1323,
         "lb1": {
             "attack": 1061,
             "defense": 1198,
@@ -89600,7 +92892,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1267,
+        "originalIndex": 1324,
         "lb1": {
             "attack": 1107,
             "defense": 1134,
@@ -89671,7 +92963,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1268,
+        "originalIndex": 1325,
         "lb1": {
             "attack": 834,
             "defense": 856,
@@ -89745,7 +93037,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1269,
+        "originalIndex": 1326,
         "lb1": {
             "attack": 1203,
             "defense": 1255,
@@ -89814,7 +93106,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1270,
+        "originalIndex": 1327,
         "lb1": {
             "attack": 868,
             "defense": 863,
@@ -89887,7 +93179,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1271,
+        "originalIndex": 1328,
         "lb1": {
             "attack": 1431,
             "defense": 1427,
@@ -89967,7 +93259,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1329,
         "lb1": {
             "attack": 1101,
             "defense": 1196,
@@ -90045,7 +93337,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1273,
+        "originalIndex": 1330,
         "lb1": {
             "attack": 912,
             "defense": 841,
@@ -90119,7 +93411,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1274,
+        "originalIndex": 1331,
         "lb1": {
             "attack": 1294,
             "defense": 1263,
@@ -90196,7 +93488,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1275,
+        "originalIndex": 1332,
         "lb1": {
             "attack": 956,
             "defense": 996,
@@ -90255,7 +93547,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
         "heroId": "elemental_ignazio_costume_medic",
         "star": 5,
         "power": 1197,
@@ -90265,7 +93559,7 @@ window.allHeroes =
         "effects": [
             "為所有盟友恢復 28% 生命值。",
             "面板上每有一個烈火護盾，便額外回復 4% 生命，最多回復 60%。",
-            "所有盟友獲得 55% 攻擊力，持續 4 回合。對烈火系盟友，此狀態效果變為无法驅散且持續時間延長 2 回合。",
+            "所有盟友獲得 55% 攻擊力，持續 4 回合。對烈火系盟友，此狀態效果變為無法驅散且持續時間延長 2 回合。",
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
@@ -90273,11 +93567,12 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "- 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "- 受到元素傷害： -25%",
+            "抵禦自然異常：此角色免疫自然系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1276,
+        "originalIndex": 1333,
         "lb1": {
             "attack": 1219,
             "defense": 1303,
@@ -90341,7 +93636,7 @@ window.allHeroes =
         "health": 1794,
         "effects": [
             "減少所有冰雪系敵人 40% 法力。減少所有其他敵人 20% 法力。",
-            "所有敵人得到靈魂連結，持續 4 回合。靈魂連結的敵人會分享承受的傷害。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。",
+            "所有敵人得到靈魂連結，持續 4 回合。靈魂連結的敵人會分享承受的傷害。此狀態效果無法驅散，對冰雪系角色持續時間延長 2 回合。",
             "所有敵人獲得 -56% 防禦，持續 4 回合。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
         ],
         "passives": [
@@ -90349,7 +93644,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1277,
+        "originalIndex": 1334,
         "lb1": {
             "attack": 930,
             "defense": 999,
@@ -90391,7 +93686,7 @@ window.allHeroes =
         "types": [
             "全體法力削減",
             "敵方傷害分擔",
-            "防禦降低"
+            "全體防禦降低"
         ],
         "skill_types": [
             "治療削減",
@@ -90422,7 +93717,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1278,
+        "originalIndex": 1335,
         "lb1": {
             "attack": 1240,
             "defense": 1347,
@@ -90488,7 +93783,7 @@ window.allHeroes =
         "effects": [
             "攻擊會無視防禦增益。（包含反擊）",
             "對目標和 2 名隨機敵人造成 320% 傷害。",
-            "每次擊中時，被命中敵人的所有狀態效果增益持續時間減少一回合。（修改持續時間會影響可驅散與无法驅散狀態效果增益。若任意增益的持續時間減少至零，則將效果視為正常失效）"
+            "每次擊中時，被命中敵人的所有狀態效果增益持續時間減少一回合。（修改持續時間會影響可驅散與無法驅散狀態效果增益。若任意增益的持續時間減少至零，則將效果視為正常失效）"
         ],
         "passives": [
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
@@ -90496,7 +93791,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1279,
+        "originalIndex": 1336,
         "lb1": {
             "attack": 1260,
             "defense": 1163,
@@ -90565,11 +93860,11 @@ window.allHeroes =
         "passives": [
             "小兵致盲：所有敵方小兵擁有 -60% 精準度。所有敵方超級小兵擁有 -50% 精準度。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
-            "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。"
+            "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1337,
         "lb1": {
             "attack": 1276,
             "defense": 1205,
@@ -90625,14 +93920,14 @@ window.allHeroes =
         "defense": 768,
         "health": 1423,
         "effects": [
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "施法者與附近盟友以所受傷害的 110% 進行反擊，持續 3 回合。",
             "施法者與附近盟友每次反擊可恢復適量法力，持續 3 回合。同一回合中，效果經連續啟動會減弱。"
         ],
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1281,
+        "originalIndex": 1338,
         "lb1": {
             "attack": 816,
             "defense": 828,
@@ -90701,7 +93996,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1339,
         "lb1": {
             "attack": 794,
             "defense": 779,
@@ -90766,14 +94061,14 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_jwala",
         "star": 5,
-        "power": 1266,
-        "attack": 1324,
-        "defense": 1289,
-        "health": 2263,
+        "power": 1281,
+        "attack": 1339,
+        "defense": 1303,
+        "health": 2307,
         "effects": [
             "對所有敵人造成 350% 傷害。",
             "重置所有敵人狀態異常的持續時間。",
-            "所有敵人受到腐蝕燒傷，持續 4 回合。腐蝕燒傷會造成 443 燃燒傷害，而且每個回合降低目標的防禦 -14%。對擁有小兵或超級小兵的英雄造成額外傷害。"
+            "所有敵人受到腐蝕燒傷，持續 4 回合。腐蝕燒傷會造成 448 燃燒傷害，而且每個回合降低目標的防禦 -14%。對擁有小兵或超級小兵的英雄造成額外傷害。"
         ],
         "passives": [
             "轉化增益：每當該角色施放特殊技能時，所有會影響敵人攻擊、防禦與法力產出的增益，皆會轉化為對應的狀態異常，且此状態無法驅散。轉化效果：",
@@ -90788,18 +94083,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1283,
+        "originalIndex": 1340,
         "lb1": {
-            "attack": 1427,
-            "defense": 1389,
-            "health": 2439,
-            "power": 1354
+            "attack": 1443,
+            "defense": 1405,
+            "health": 2486,
+            "power": 1371
         },
         "lb2": {
-            "attack": 1633,
-            "defense": 1590,
-            "health": 2791,
-            "power": 1532
+            "attack": 1651,
+            "defense": 1607,
+            "health": 2844,
+            "power": 1550
         },
         "cn_skill_info": [
             {
@@ -90855,13 +94150,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_jyoti",
         "star": 5,
-        "power": 1268,
-        "attack": 1303,
-        "defense": 1314,
-        "health": 2282,
+        "power": 1283,
+        "attack": 1318,
+        "defense": 1328,
+        "health": 2325,
         "effects": [
-            "為所有盟友恢復 37% 生命值。",
-            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 800 點。影響獲得治療的狀態效果會影響治療比率）",
+            "為所有盟友恢復 42% 生命值。",
+            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 600 點。影響獲得治療的狀態效果會影響治療比率）",
             "所有盟友免疫新状態異常，持續 4 回合對於每一個原本應獲得的新狀態異常，他們將會獲得 205 生命。",
             "改變面板上所有烈火系護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加 +37%。防禦英雄施放該特技時，護盾會弱化，且提供的法力减少 -30%。"
         ],
@@ -90873,18 +94168,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1284,
+        "originalIndex": 1341,
         "lb1": {
-            "attack": 1405,
-            "defense": 1416,
-            "health": 2459,
-            "power": 1357
+            "attack": 1420,
+            "defense": 1431,
+            "health": 2506,
+            "power": 1373
         },
         "lb2": {
-            "attack": 1607,
-            "defense": 1620,
-            "health": 2814,
-            "power": 1535
+            "attack": 1625,
+            "defense": 1638,
+            "health": 2867,
+            "power": 1553
         },
         "cn_skill_info": [
             {
@@ -90934,14 +94229,14 @@ window.allHeroes =
         "defense": 642,
         "health": 1458,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
             "施法者和附近盟友獲得 +24% 法力產出，持續 5 回合。",
             "施法者和附近盟友獲得 +63% 防禦，持續 5 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1285,
+        "originalIndex": 1342,
         "lb1": {
             "attack": 765,
             "defense": 692,
@@ -91006,7 +94301,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1286,
+        "originalIndex": 1343,
         "lb1": {
             "attack": 883,
             "defense": 802,
@@ -91071,7 +94366,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1287,
+        "originalIndex": 1344,
         "lb1": {
             "attack": 1002,
             "defense": 927,
@@ -91132,7 +94427,7 @@ window.allHeroes =
         "defense": 964,
         "health": 2416,
         "effects": [
-            "對目標及附近敵人造成 530% 傷害。",
+            "對目標與附近敵人造成 530% 傷害。",
             "施法者和附近盟友獲得 +22% 法力產出，持續 5 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
             "施法者和附近盟友獲得 +61% 防禦，持續 5 回合。",
             "對自然系造成額外傷害。"
@@ -91142,7 +94437,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1288,
+        "originalIndex": 1345,
         "lb1": {
             "attack": 1245,
             "defense": 1039,
@@ -91209,7 +94504,7 @@ window.allHeroes =
         "defense": 1081,
         "health": 2537,
         "effects": [
-            "對目標及附近敵人造成 540% 傷害。",
+            "對目標與附近敵人造成 540% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
             "施法者和附近盟友獲得 +23% 法力產出，持續 5 回合。",
             "施法者和附近盟友獲得 +62% 防禦，持續 5 回合。"
@@ -91219,7 +94514,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1289,
+        "originalIndex": 1346,
         "lb1": {
             "attack": 1414,
             "defense": 1165,
@@ -91261,7 +94556,7 @@ window.allHeroes =
         "skill": "不解之謎",
         "types": [
             "攻擊單個目標",
-            "連鎖",
+            "連鎖攻擊",
             "單體屬性防禦減益"
         ],
         "skill_types": [
@@ -91293,7 +94588,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1347,
         "lb1": {
             "attack": 883,
             "defense": 863,
@@ -91330,8 +94625,8 @@ window.allHeroes =
         "skill": "水下謎語",
         "types": [
             "攻擊單個目標",
-            "連鎖",
-            "元素防禦降低"
+            "連鎖攻擊",
+            "單體屬性防禦減益"
         ],
         "skill_types": [
             "狙擊手",
@@ -91368,7 +94663,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1291,
+        "originalIndex": 1348,
         "lb1": {
             "attack": 1326,
             "defense": 1220,
@@ -91405,6 +94700,7 @@ window.allHeroes =
         "skill": "必死無疑",
         "types": [
             "全體阻止復活",
+            "全體復活免疫",
             "攻擊3個目標"
         ],
         "skill_types": [
@@ -91433,7 +94729,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1349,
         "lb1": {
             "attack": 848,
             "defense": 836,
@@ -91469,6 +94765,7 @@ window.allHeroes =
         "skill": "美味滅亡",
         "types": [
             "全體阻止復活",
+            "全體復活免疫",
             "攻擊3個目標"
         ],
         "skill_types": [
@@ -91502,7 +94799,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1293,
+        "originalIndex": 1350,
         "lb1": {
             "attack": 1099,
             "defense": 1070,
@@ -91563,7 +94860,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1351,
         "lb1": {
             "attack": 805,
             "defense": 836,
@@ -91627,7 +94924,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1295,
+        "originalIndex": 1352,
         "lb1": {
             "attack": 946,
             "defense": 1179,
@@ -91703,7 +95000,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1296,
+        "originalIndex": 1353,
         "lb1": {
             "attack": 1072,
             "defense": 916,
@@ -91783,7 +95080,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1297,
+        "originalIndex": 1354,
         "lb1": {
             "attack": 1344,
             "defense": 1241,
@@ -91843,7 +95140,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1298,
+        "originalIndex": 1355,
         "lb1": {
             "attack": 856,
             "defense": 861,
@@ -91920,7 +95217,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1356,
         "lb1": {
             "attack": 1245,
             "defense": 1389,
@@ -91989,7 +95286,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1300,
+        "originalIndex": 1357,
         "lb1": {
             "attack": 1123,
             "defense": 1118,
@@ -92076,7 +95373,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1301,
+        "originalIndex": 1358,
         "lb1": {
             "attack": 1376,
             "defense": 1336,
@@ -92151,7 +95448,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1302,
+        "originalIndex": 1359,
         "lb1": {
             "attack": 1012,
             "defense": 999,
@@ -92224,14 +95521,14 @@ window.allHeroes =
             "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
             "x 1 法力充能：",
             "- 使目標與附近敵人的最大生命值降低 500 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 500 點）",
-            "- 對目標及附近敵人造成 250% 傷害。",
+            "- 對目標與附近敵人造成 250% 傷害。",
             "x 2 法力充能：",
             "- 使目標與附近敵人的最大生命值降低 650 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 650 點）",
-            "- 對目標及附近敵人造成 375% 傷害。",
+            "- 對目標與附近敵人造成 375% 傷害。",
             "- 攻擊会無視防禦增益。（包含反擊）",
             "x 3 法力充能：",
             "- 使目標與附近敵人的最大生命值降低 800 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 800 點）",
-            "- 對目標及附近敵人造成 500% 傷害。",
+            "- 對目標與附近敵人造成 500% 傷害。",
             "- 攻擊会無視防禦增益。（包含反擊）",
             "- 目標與附近敵人抵禦治療，且每次抵禦治療，則受到 450 傷害，持續 6 回合。"
         ],
@@ -92240,7 +95537,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1303,
+        "originalIndex": 1360,
         "lb1": {
             "attack": 1411,
             "defense": 1192,
@@ -92310,11 +95607,11 @@ window.allHeroes =
         ],
         "passives": [
             "抵禦增益免疫：此角色對於免疫新的狀態效果增益的狀態異常具有天生抗性。",
-            "此角色獲得增益或正面叠加時會恢復 5% 的生命值。"
+            "此角色獲得增益或正面疊加時會恢復 5% 的生命值。"
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1304,
+        "originalIndex": 1361,
         "lb1": {
             "attack": 1192,
             "defense": 1252,
@@ -92373,7 +95670,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1362,
         "lb1": {
             "attack": 721,
             "defense": 768,
@@ -92438,7 +95735,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1306,
+        "originalIndex": 1363,
         "lb1": {
             "attack": 875,
             "defense": 817,
@@ -92496,14 +95793,14 @@ window.allHeroes =
         "defense": 866,
         "health": 1963,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
             "目標與附近敵人在 3 回合內受到共計 321 點燃燒傷害。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1307,
+        "originalIndex": 1364,
         "lb1": {
             "attack": 999,
             "defense": 933,
@@ -92572,7 +95869,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1308,
+        "originalIndex": 1365,
         "lb1": {
             "attack": 1166,
             "defense": 1173,
@@ -92646,7 +95943,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1309,
+        "originalIndex": 1366,
         "lb1": {
             "attack": 1414,
             "defense": 1247,
@@ -92705,32 +96002,32 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_stylish",
         "star": 5,
-        "power": 1296,
-        "attack": 1391,
-        "defense": 1219,
-        "health": 2454,
+        "power": 1337,
+        "attack": 1428,
+        "defense": 1252,
+        "health": 2586,
         "effects": [
             "對目標造成 558% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 658% 傷害。",
-            "目標在 3 回合內受到共計 729 點燃燒傷害。"
+            "目標在 3 回合內受到共計 747 點燃燒傷害。"
         ],
         "passives": [
             "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1310,
+        "originalIndex": 1367,
         "lb1": {
-            "attack": 1499,
-            "defense": 1314,
-            "health": 2644,
-            "power": 1387
+            "attack": 1539,
+            "defense": 1349,
+            "health": 2787,
+            "power": 1431
         },
         "lb2": {
-            "attack": 1715,
-            "defense": 1503,
-            "health": 3026,
-            "power": 1569
+            "attack": 1761,
+            "defense": 1544,
+            "health": 3189,
+            "power": 1620
         },
         "cn_skill_info": [
             {
@@ -92781,14 +96078,14 @@ window.allHeroes =
         "defense": 727,
         "health": 1450,
         "effects": [
-            "對目標及附近敵人造成 245% 傷害。",
+            "對目標與附近敵人造成 245% 傷害。",
             "使目標和附近敵人的法力減少 20%。",
             "所有盟友將全部狀態效果和 115% 傷害反射給進攻者，並抵擋其它來自敵人冰雪特殊技能的負面效果，持續 4 回合。同隊角色、小兵和惡魔施放的狀態效果無法反彈。"
         ],
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1368,
         "lb1": {
             "attack": 750,
             "defense": 783,
@@ -92858,7 +96155,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1312,
+        "originalIndex": 1369,
         "lb1": {
             "attack": 965,
             "defense": 932,
@@ -92888,6 +96185,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "光子 (Mitsuko) 卡通",
+        "fancy_name": "美女公仔",
+        "AetherPower": "特殊加成",
+        "color": "紅",
+        "class": "術士",
+        "speed": "中等",
+        "skill": "公仔之鏡",
+        "types": [
+            "攻擊3個目標",
+            "3個目標法力削減",
+            "全體元素反射",
+            "全體元素反擊"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_mirror",
+        "parent_specialId": "dark_mirror",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_noble_lady_costume_cute",
+        "star": 5,
+        "power": 1347,
+        "attack": 1317,
+        "defense": 1344,
+        "health": 2755,
+        "effects": [
+            "對目標與附近敵人造成 255% 傷害。",
+            "使目標和附近敵人的法力減少 50%。",
+            "所有盟友將全部狀態效果和 160% 傷害反射給進攻者，並抵擋其它來自敵人冰雪特殊技能的負面效果，持續 4 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）",
+            "對自然系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": 1370,
+        "lb1": {
+            "attack": 1419,
+            "defense": 1448,
+            "health": 2969,
+            "power": 1442
+        },
+        "lb2": {
+            "attack": 1624,
+            "defense": 1657,
+            "health": 3397,
+            "power": 1632
+        },
+        "cn_skill_info": []
     },
     {
         "name": "納德茲達 (Nadezhda)",
@@ -92939,7 +96291,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1371,
         "lb1": {
             "attack": 836,
             "defense": 843,
@@ -92984,7 +96336,7 @@ window.allHeroes =
         "skill": "龍寵包裹",
         "types": [
             "蓄力",
-            "全體持續傷害",
+            "3個目標持續傷害",
             "自我復活",
             "復活者",
             "全體強化持續治療",
@@ -93018,7 +96370,7 @@ window.allHeroes =
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
-            "* 所有敵人在 2 回合內受到共計 350 點燃燒傷害。施法者能吸收已造成之燃燒傷害的 10% 作為生命值。",
+            "* 目標與附近敵人在 2 回合內受到共計 350 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 10% 作為生命值。",
             "* 如果施法者在後續 2 個回合中被擊敗，施法者將在下一個回合開頭以 40% 生命值復活。施法者被擊敗時，所有狀態效果與量加會被移除。",
             "2 倍法力充能：",
             "* 每個落敗盟友有 55% 的機率以 44% 生命復活。",
@@ -93031,7 +96383,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1314,
+        "originalIndex": 1372,
         "lb1": {
             "attack": 1341,
             "defense": 1310,
@@ -93104,7 +96456,7 @@ window.allHeroes =
         "defense": 1223,
         "health": 2187,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 145% 的傷害，持續 4 回合。",
             "施法者與附近盟友會獲得飛沙之觸，持續 4 回合。（飛沙之觸：擁有此狀態效果的角色每次反擊敵人時，攻擊者將在 4 回合內受到共計 452 點飛沙傷害）"
         ],
@@ -93121,7 +96473,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1373,
         "lb1": {
             "attack": 1316,
             "defense": 1318,
@@ -93195,7 +96547,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1374,
         "lb1": {
             "attack": 774,
             "defense": 732,
@@ -93271,7 +96623,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1317,
+        "originalIndex": 1375,
         "lb1": {
             "attack": 1008,
             "defense": 917,
@@ -93349,7 +96701,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1318,
+        "originalIndex": 1376,
         "lb1": {
             "attack": 888,
             "defense": 976,
@@ -93421,7 +96773,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1319,
+        "originalIndex": 1377,
         "lb1": {
             "attack": 1325,
             "defense": 1267,
@@ -93491,7 +96843,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1378,
         "lb1": {
             "attack": 1043,
             "defense": 1116,
@@ -93556,7 +96908,7 @@ window.allHeroes =
             "* 如果目標剩餘生命少於 50%，可對其造成 600% 傷害。",
             "* 如果目標被此攻擊擊敗，所有盟友將獲得 +20% 法力產出，持續 2 回合。",
             "2 倍法力充能：",
-            "* 對目標及附近敵人造成 425% 傷害。",
+            "* 對目標與附近敵人造成 425% 傷害。",
             "* 對剩餘生命值少於 50% 的敵人造成 638% 傷害。",
             "* 如果目標被此攻擊擊敗，所有盟友將獲得 +30% 法力產出，持續 3 回合。",
             "3 倍法力充能：",
@@ -93569,7 +96921,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1321,
+        "originalIndex": 1379,
         "lb1": {
             "attack": 1345,
             "defense": 1149,
@@ -93643,7 +96995,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1322,
+        "originalIndex": 1380,
         "lb1": {
             "attack": 759,
             "defense": 843,
@@ -93713,7 +97065,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1381,
         "lb1": {
             "attack": 1092,
             "defense": 1070,
@@ -93776,7 +97128,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1382,
         "lb1": {
             "attack": 952,
             "defense": 792,
@@ -93841,7 +97193,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1325,
+        "originalIndex": 1383,
         "lb1": {
             "attack": 1204,
             "defense": 982,
@@ -93907,7 +97259,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1384,
         "lb1": {
             "attack": 821,
             "defense": 859,
@@ -93983,7 +97335,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1327,
+        "originalIndex": 1385,
         "lb1": {
             "attack": 1142,
             "defense": 1119,
@@ -94059,7 +97411,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1386,
         "lb1": {
             "attack": 1267,
             "defense": 1196,
@@ -94134,7 +97486,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1387,
         "lb1": {
             "attack": 927,
             "defense": 936,
@@ -94201,7 +97553,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1330,
+        "originalIndex": 1388,
         "lb1": {
             "attack": 1256,
             "defense": 1185,
@@ -94259,20 +97611,20 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_pendulus_clonk",
         "star": 5,
-        "power": 1287,
-        "attack": 1359,
-        "defense": 1299,
-        "health": 2307,
+        "power": 1307,
+        "attack": 1378,
+        "defense": 1318,
+        "health": 2362,
         "effects": [
-            "若施法者擁有 35 以上的謙遜：",
-            "對目標造成 750% 傷害。",
-            "若攻擊擊败目標，施法者會獲得 +50% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
-            "在接下来 3 個回合内，在一位随機敵人施放其特殊技能後，此角色會對所有敵人造成 600% 傷害。（每個敵人每回合可以觸發一次此效果。）",
-            "施法者在 3 個回合後恢復 1000 點生命值。若效果在持續時問結束前遭移除或替代则轉而恢復 1400 點生命值。",
+            "若施法者擁有 40 以上的謙遜：",
+            "對目標造成 780% 傷害。",
+            "若攻擊擊败目標，施法者會獲得 +55% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "在接下来 3 個回合内，在一位随機敵人施放其特殊技能後，此角色會對所有敵人造成 630% 傷害。（每個敵人每回合可以觸發一次此效果。）",
+            "施法者在 3 個回合後恢復 1100 點生命值。若效果在持續時問結束前遭移除或替代则轉而恢復 1500 點生命值。",
             "否則：",
-            "對目標造成 600% 傷害。",
-            "在接下来 3 個回合内，在一位随機敵人施放其特殊技能後，此角色會對所有敵人造成 500% 傷害。（每個敵人每回合可以觸發一次此效果。）",
-            "施法者在 3 個回合後恢復 800 點生命值。若效果在持續時問結束前遭移除或替代则轉而恢復 1200 點生命值。"
+            "對目標造成 630% 傷害。",
+            "在接下来 3 個回合内，在一位随機敵人施放其特殊技能後，此角色會對所有敵人造成 530% 傷害。（每個敵人每回合可以觸發一次此效果。）",
+            "施法者在 3 個回合後恢復 900 點生命值。若效果在持續時問結束前遭移除或替代则轉而恢復 1300 點生命值。"
         ],
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
@@ -94281,18 +97633,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1331,
+        "originalIndex": 1389,
         "lb1": {
-            "attack": 1465,
-            "defense": 1400,
-            "health": 2486,
-            "power": 1377
+            "attack": 1485,
+            "defense": 1420,
+            "health": 2546,
+            "power": 1398
         },
         "lb2": {
-            "attack": 1676,
-            "defense": 1602,
-            "health": 2844,
-            "power": 1558
+            "attack": 1699,
+            "defense": 1625,
+            "health": 2913,
+            "power": 1582
         },
         "cn_skill_info": [
             {
@@ -94351,7 +97703,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1332,
+        "originalIndex": 1390,
         "lb1": {
             "attack": 1132,
             "defense": 1027,
@@ -94430,7 +97782,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1391,
         "lb1": {
             "attack": 883,
             "defense": 916,
@@ -94505,12 +97857,12 @@ window.allHeroes =
         ],
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1392,
         "lb1": {
             "attack": 1343,
             "defense": 1334,
@@ -94579,7 +97931,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1393,
         "lb1": {
             "attack": 823,
             "defense": 783,
@@ -94650,7 +98002,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 1336,
+        "originalIndex": 1394,
         "lb1": {
             "attack": 1150,
             "defense": 846,
@@ -94712,7 +98064,7 @@ window.allHeroes =
         "defense": 729,
         "health": 1545,
         "effects": [
-            "對目標及附近敵人造成 240% 傷害。",
+            "對目標與附近敵人造成 240% 傷害。",
             "召喚一個撲克小兵，其可從施法者繼承 16% 生命值與 30% 攻擊。",
             "召喚撲克小兵之後，主人擁有撲克小兵期間，撲克小兵會給予其主人嘲諷。此效果無法被驅散。",
             "施法者獲得 74% 特殊技能防禦，持續 4 回合。"
@@ -94720,7 +98072,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1395,
         "lb1": {
             "attack": 688,
             "defense": 785,
@@ -94787,7 +98139,7 @@ window.allHeroes =
         "defense": 981,
         "health": 2177,
         "effects": [
-            "對目標及附近敵人造成 200% 傷害。",
+            "對目標與附近敵人造成 200% 傷害。",
             "召喚一個撲克小兵，其可從施法者繼承 25% 生命值與 40% 攻擊。",
             "召喚撲克小兵之後，主人擁有撲克小兵期間，撲克小兵會給予其主人嘲諷。此效果無法被驅散。",
             "施法者獲得 +74% 特殊技能防禦，持續 4 回合。"
@@ -94797,7 +98149,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1338,
+        "originalIndex": 1396,
         "lb1": {
             "attack": 806,
             "defense": 1057,
@@ -94884,7 +98236,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1339,
+        "originalIndex": 1397,
         "lb1": {
             "attack": 1423,
             "defense": 1272,
@@ -94958,7 +98310,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1340,
+        "originalIndex": 1398,
         "lb1": {
             "attack": 1298,
             "defense": 1216,
@@ -95045,7 +98397,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1341,
+        "originalIndex": 1399,
         "lb1": {
             "attack": 934,
             "defense": 979,
@@ -95144,7 +98496,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1342,
+        "originalIndex": 1400,
         "lb1": {
             "attack": 1346,
             "defense": 1393,
@@ -95221,7 +98573,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1343,
+        "originalIndex": 1401,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -95302,7 +98654,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1344,
+        "originalIndex": 1402,
         "lb1": {
             "attack": 1276,
             "defense": 1229,
@@ -95373,35 +98725,35 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_regin_costume_omen",
         "star": 5,
-        "power": 1274,
-        "attack": 1314,
-        "defense": 1246,
-        "health": 2432,
+        "power": 1291,
+        "attack": 1338,
+        "defense": 1268,
+        "health": 2454,
         "effects": [
             "驅散目標和附近敵人的增益。",
-            "使用火風暴打擊攻擊目標與附近敵人，造成最多 2220 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
+            "使用火風暴打擊攻擊目標與附近敵人，造成最多 2300 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
             "目標和附近敵人在 3 回合內無法獲得新的狀態效果增益。"
         ],
         "passives": [
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
-            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 387 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 394 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
             "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1345,
+        "originalIndex": 1403,
         "lb1": {
-            "attack": 1416,
-            "defense": 1343,
-            "health": 2621,
-            "power": 1363
+            "attack": 1442,
+            "defense": 1367,
+            "health": 2645,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1620,
-            "defense": 1536,
-            "health": 2999,
-            "power": 1541
+            "attack": 1649,
+            "defense": 1564,
+            "health": 3026,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -95457,7 +98809,7 @@ window.allHeroes =
         "defense": 737,
         "health": 1310,
         "effects": [
-            "對目標及附近敵人造成 340% 傷害。",
+            "對目標與附近敵人造成 340% 傷害。",
             "所有盟友從狀態效果受到的傷害减少 -80% ,持續 4 個回合。",
             "元素鏈會為所有烈火盟友召喚一個烈火小兵，其可從施法者繼承 6% 生命與 10% 攻擊。"
         ],
@@ -95466,7 +98818,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1346,
+        "originalIndex": 1404,
         "lb1": {
             "attack": 825,
             "defense": 794,
@@ -95536,7 +98888,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1347,
+        "originalIndex": 1405,
         "lb1": {
             "attack": 1212,
             "defense": 1214,
@@ -95609,7 +98961,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1348,
+        "originalIndex": 1406,
         "lb1": {
             "attack": 1156,
             "defense": 1103,
@@ -95680,7 +99032,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1349,
+        "originalIndex": 1407,
         "lb1": {
             "attack": 1329,
             "defense": 1249,
@@ -95741,22 +99093,22 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_rose_de_flo",
         "star": 5,
-        "power": 1254,
-        "attack": 1289,
-        "defense": 1293,
-        "health": 2257,
+        "power": 1274,
+        "attack": 1308,
+        "defense": 1314,
+        "health": 2313,
         "effects": [
-            "若施法者擁有 50 以上的謙遜：",
-            "* 為所有盟友恢復 30% 生命值。",
+            "若施法者擁有 60 以上的謙遜：",
+            "* 為所有盟友恢復 32% 生命值。",
             "* 淨化所有盟友的狀態異常。",
-            "* 成長：所有盟友獲得 150 點攻擊。",
+            "* 成長：所有盟友獲得 200 點攻擊。",
             "* 所有盟友在 3 回合內恢復 1440 點生命值。",
-            "* 施法者獲得抵禦特殊技能的 +74% 防禦，持續 3 個回合。",
+            "* 施法者獲得抵禦特殊技能的 +84% 防禦，持續 3 個回合。",
             "否則：",
-            "* 為所有盟友恢復 20% 生命值。",
+            "* 為所有盟友恢復 25% 生命值。",
             "* 淨化所有盟友的 1 個狀態異常。（狀態異常會依照獲得的顺序遭到淨化。最新的状態異常會先被淨化。）",
-            "* 成長：所有盟友獲得 100 點攻擊。",
-            "* 所有盟友在 3 回合內恢復 900 點生命值。"
+            "* 成長：所有盟友獲得 150 點攻擊。",
+            "* 所有盟友在 3 回合內恢復 1005 點生命值。"
         ],
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
@@ -95765,18 +99117,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1350,
+        "originalIndex": 1408,
         "lb1": {
-            "attack": 1389,
-            "defense": 1394,
-            "health": 2433,
-            "power": 1342
+            "attack": 1409,
+            "defense": 1416,
+            "health": 2493,
+            "power": 1363
         },
         "lb2": {
-            "attack": 1590,
-            "defense": 1595,
-            "health": 2783,
-            "power": 1517
+            "attack": 1612,
+            "defense": 1620,
+            "health": 2852,
+            "power": 1542
         },
         "cn_skill_info": [
             {
@@ -95842,7 +99194,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1351,
+        "originalIndex": 1409,
         "lb1": {
             "attack": 872,
             "defense": 772,
@@ -95923,7 +99275,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1352,
+        "originalIndex": 1410,
         "lb1": {
             "attack": 1174,
             "defense": 1201,
@@ -95995,7 +99347,7 @@ window.allHeroes =
             "- 使目標的法力減少 25%。",
             "- 目標獲得 -14% 法力產出，持續 2 回合。",
             "2 倍法力充能：",
-            "- 對目標及附近敵人造成 330% 傷害。",
+            "- 對目標與附近敵人造成 330% 傷害。",
             "- 使目標和附近敵人的法力減少 50%。",
             "- 目標與附近敵人獲得 -24% 法力產出，持續 3 回合。",
             "3 倍法力充能：",
@@ -96006,7 +99358,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1353,
+        "originalIndex": 1411,
         "lb1": {
             "attack": 883,
             "defense": 788,
@@ -96080,7 +99432,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1354,
+        "originalIndex": 1412,
         "lb1": {
             "attack": 856,
             "defense": 796,
@@ -96145,7 +99497,7 @@ window.allHeroes =
         "defense": 1141,
         "health": 2150,
         "effects": [
-            "對目標及附近敵人造成 535% 傷害。",
+            "對目標與附近敵人造成 535% 傷害。",
             "目標每個回合持續受到 210 點流血傷害。（此效果持續至被淨化或移除）",
             "為生命值最低的盟友提供掩護，持續 5 回合。此效果無法驅散。（在掩護期間，該盟友不會受到特殊攻擊或普通攻擊的傷害。提供掩護的角色將承受對該盟友造成傷害的 50% ）",
             "施法者在 5 回合內恢復 1750 點生命值。"
@@ -96155,7 +99507,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1355,
+        "originalIndex": 1413,
         "lb1": {
             "attack": 1203,
             "defense": 1229,
@@ -96227,7 +99579,7 @@ window.allHeroes =
         "health": 1919,
         "effects": [
             "驅散目標和附近敵人的增益。",
-            "對目標及附近敵人造成 375% 傷害。",
+            "對目標與附近敵人造成 375% 傷害。",
             "目標與附近敵人受到小兵創傷，持續 3 回合。",
             "小兵創傷：每個回合，目標的小兵生命減少 50%，超級小兵生命則是減少 25%。（此效果對其擁有的小兵和任何獲得的任何小兵皆有效。減損效果只影響小兵當前生命值。）",
             "目標與附近敵人獲得的治療減少 -80%，持續 3 回合。"
@@ -96238,7 +99590,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1356,
+        "originalIndex": 1414,
         "lb1": {
             "attack": 1349,
             "defense": 1232,
@@ -96280,8 +99632,8 @@ window.allHeroes =
         "skill": "星界協助",
         "types": [
             "惡魔摧毀者",
-            "全體強化治療",
-            "全體星界射線"
+            "全體治療",
+            "全體星光射線增益"
         ],
         "skill_types": [
             "反製惡魔",
@@ -96305,10 +99657,10 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "摧毁所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。",
-            "為所有盟友提供 1300 點加成生命值。加成生命值能夠超過最大生命值。",
+            "為所有盟友恢復 50% 生命值。",
             "每回合結束時，所有盟友對隨機敵人發出星界射線，持續 4 個回合。",
-            "每道星界射線造成 200% 傷害。",
-            "每道星界射線能使被擊中敵人的最大生命值減少 200。"
+            "每道星界射線造成 100% 傷害。",
+            "每道星界射線能使被擊中敵人的最大生命值減少 100。"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -96317,7 +99669,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1357,
+        "originalIndex": 1415,
         "lb1": {
             "attack": 1371,
             "defense": 1425,
@@ -96392,7 +99744,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1358,
+        "originalIndex": 1416,
         "lb1": {
             "attack": 666,
             "defense": 894,
@@ -96469,7 +99821,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1359,
+        "originalIndex": 1417,
         "lb1": {
             "attack": 942,
             "defense": 1210,
@@ -96536,7 +99888,7 @@ window.allHeroes =
         "defense": 809,
         "health": 1433,
         "effects": [
-            "對目標及附近敵人造成 315% 傷害。",
+            "對目標與附近敵人造成 315% 傷害。",
             "目標與附近敵人獲得 -54% 防禦，持續 3 回合。",
             "疊加 +2 （最大值： 10 ）：施法者獲得 +10% 法力產出。",
             "疊加（最大值： 10 ）：施法者每回合恢復 10 點生命值。"
@@ -96546,7 +99898,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1360,
+        "originalIndex": 1418,
         "lb1": {
             "attack": 794,
             "defense": 872,
@@ -96618,7 +99970,7 @@ window.allHeroes =
         "defense": 1377,
         "health": 2449,
         "effects": [
-            "對目標及附近敵人造成 335% 傷害。",
+            "對目標與附近敵人造成 335% 傷害。",
             "目標與附近敵人獲得 -44% 防禦，持續 3 回合。",
             "疊加 +3 （最大值： 10 ）：施法者獲得 +18% 法力產出。",
             "疊加 +2 （最大值： 10 ）：施法者每個回合恢復 30 點生命值。"
@@ -96629,7 +99981,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1361,
+        "originalIndex": 1419,
         "lb1": {
             "attack": 1108,
             "defense": 1484,
@@ -96709,7 +100061,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1362,
+        "originalIndex": 1420,
         "lb1": {
             "attack": 1127,
             "defense": 1083,
@@ -96783,7 +100135,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1363,
+        "originalIndex": 1421,
         "lb1": {
             "attack": 1369,
             "defense": 1323,
@@ -96857,7 +100209,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1364,
+        "originalIndex": 1422,
         "lb1": {
             "attack": 959,
             "defense": 843,
@@ -96925,7 +100277,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1365,
+        "originalIndex": 1423,
         "lb1": {
             "attack": 1432,
             "defense": 1191,
@@ -96994,7 +100346,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1366,
+        "originalIndex": 1424,
         "lb1": {
             "attack": 987,
             "defense": 850,
@@ -97021,6 +100373,66 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "沙爾·阿倫 (Shar-alen)",
+        "fancy_name": "無情前線猞猁",
+        "AetherPower": "特殊加成",
+        "color": "紅",
+        "class": "遊俠",
+        "speed": "飛速",
+        "skill": "長矛尖端",
+        "types": [
+            "攻擊單個目標",
+            "單體法力削減",
+            "傷害鏈接 (單體)"
+        ],
+        "skill_types": [],
+        "source": "野地召喚",
+        "Release date": "2026-03-30",
+        "specialId": "tip_of_the_spear",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_sharalen",
+        "star": 5,
+        "power": 1308,
+        "attack": 1444,
+        "defense": 1238,
+        "health": 2366,
+        "effects": [
+            "對目標造成 410% 爪擊傷害。（對有任意防禦增益、小兵或超級小兵的敵人造成 600% 傷害。有任意防禦增益、小兵或超級小兵的敵人獲得 -35% 防禦，持續 6 回合。）",
+            "使目標的法力減少 15%。",
+            "目標承受盟友受到所有傷害的 75%，持續 4 回合。"
+        ],
+        "passives": [
+            "九條命：",
+            "* 落敗時，此角色有 80% 機率於其下個回合開始時復活，並恢復 50% 生命值和 80% 法力。",
+            "* 最多可觸發 9 次。復活幾率會在每次觸發後衰減。無法通過狀態異常或被動技能阻止該效果。",
+            "特性：輕巧自如的身姿。",
+            "此角色不受增加或減少防票的效果影響。",
+            "這包括：",
+            "* 狀態效果增益以及異常。",
+            "* 正面與負面疊加。",
+            "* 成長和枯萎效果。"
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1425,
+        "lb1": {
+            "attack": 1556,
+            "defense": 1334,
+            "health": 2550,
+            "power": 1400
+        },
+        "lb2": {
+            "attack": 1780,
+            "defense": 1526,
+            "health": 2918,
+            "power": 1583
+        },
+        "cn_skill_info": []
     },
     {
         "name": "嘶嘶機 (Sizzleomatic)",
@@ -97051,14 +100463,14 @@ window.allHeroes =
         ],
         "heroId": "construct_sizzleomatic",
         "star": 5,
-        "power": 1265,
-        "attack": 1308,
-        "defense": 1306,
-        "health": 2261,
+        "power": 1285,
+        "attack": 1328,
+        "defense": 1326,
+        "health": 2317,
         "effects": [
-            "對所有敵人造成 475% 傷害。",
-            "面板上每擁有一個烈火護盾，傷害就會增加 20%，最多造成 635% 傷害。",
-            "所有盟友獲得 +50% 攻擊力，持續 5 回合。",
+            "對所有敵人造成 500% 傷害。",
+            "面板上每擁有一個烈火護盾，傷害就會增加 20%，最多造成 660% 傷害。",
+            "所有盟友獲得 +55% 攻擊力，持續 5 回合。",
             "所有盟友反射狀態異常和負面效果疊加，持續 5 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
         ],
         "passives": [
@@ -97073,18 +100485,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1367,
+        "originalIndex": 1426,
         "lb1": {
-            "attack": 1409,
-            "defense": 1407,
-            "health": 2437,
-            "power": 1353
+            "attack": 1431,
+            "defense": 1429,
+            "health": 2497,
+            "power": 1375
         },
         "lb2": {
-            "attack": 1612,
-            "defense": 1610,
-            "health": 2788,
-            "power": 1530
+            "attack": 1638,
+            "defense": 1635,
+            "health": 2857,
+            "power": 1556
         },
         "cn_skill_info": [
             {
@@ -97138,7 +100550,7 @@ window.allHeroes =
         "defense": 791,
         "health": 1497,
         "effects": [
-            "對目標及附近敵人造成 345% 傷害。",
+            "對目標與附近敵人造成 345% 傷害。",
             "使目標和附近敵人的法力減少 20%。",
             "目標與附近敵人獲得 -35% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
             "元素鏈給予所有烈火盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
@@ -97149,7 +100561,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1368,
+        "originalIndex": 1427,
         "lb1": {
             "attack": 825,
             "defense": 852,
@@ -97216,7 +100628,7 @@ window.allHeroes =
         "health": 1687,
         "effects": [
             "此特殊技能必定命中目標。",
-            "對目標及附近敵人造成 430% 傷害。",
+            "對目標與附近敵人造成 430% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 472 點燃燒傷害。施法者和其所有盟友能吸收所造成之燃燒傷害的 45% 作為加成生命值。",
             "目標和附近敵人將狀態效果增益反射給敵方戰隊的隨機角色，持續 4 回合。（僅反射可驅散的增益）"
         ],
@@ -97226,7 +100638,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1369,
+        "originalIndex": 1428,
         "lb1": {
             "attack": 1143,
             "defense": 1078,
@@ -97290,14 +100702,14 @@ window.allHeroes =
         "defense": 797,
         "health": 1528,
         "effects": [
-            "對目標及附近敵人造成 340% 傷害。",
+            "對目標與附近敵人造成 340% 傷害。",
             "為每個盟友召喚一個吳國戰士小兵，其可從施法者繼承 10% 生命值與 18% 攻擊。",
             "被吳國戰士小兵擊中的目標會在 3 回合內受到共計 258 點燃燒傷害。"
         ],
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1370,
+        "originalIndex": 1429,
         "lb1": {
             "attack": 852,
             "defense": 859,
@@ -97362,7 +100774,7 @@ window.allHeroes =
         "defense": 1020,
         "health": 2186,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "為每個盟友召喚一個吳國戰士小兵，其可從施法者繼承 22% 生命值與 30% 攻擊。",
             "被吳國戰士小兵擊中的目標會在 3 回合內受到共計 543 點燃燒傷害。"
         ],
@@ -97374,7 +100786,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1371,
+        "originalIndex": 1430,
         "lb1": {
             "attack": 1213,
             "defense": 1099,
@@ -97450,7 +100862,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1372,
+        "originalIndex": 1431,
         "lb1": {
             "attack": 856,
             "defense": 799,
@@ -97524,7 +100936,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1373,
+        "originalIndex": 1432,
         "lb1": {
             "attack": 894,
             "defense": 870,
@@ -97565,7 +100977,8 @@ window.allHeroes =
         "skill": "古代火焰",
         "types": [
             "攻擊3個目標",
-            "單體防禦降低"
+            "單體防禦降低",
+            "若目標被擊敗則全體法力提升"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -97603,7 +101016,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1374,
+        "originalIndex": 1433,
         "lb1": {
             "attack": 1351,
             "defense": 1213,
@@ -97643,8 +101056,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "冒險之旅正等著你！",
         "types": [
-            "治療者",
-            "攻擊增益"
+            "全體生命值加成",
+            "全體攻擊增益",
+            "自身防禦減益"
         ],
         "skill_types": [
             "生命強化",
@@ -97669,7 +101083,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1375,
+        "originalIndex": 1434,
         "lb1": {
             "attack": 1054,
             "defense": 1067,
@@ -97734,14 +101148,14 @@ window.allHeroes =
         "effects": [
             "目標承受盟友受到所有傷害的 80%，持續 3 回合。",
             "目標獲得 -44% 防禦，持續 3 回合。",
-            "對目標及附近敵人造成 200% 傷害。"
+            "對目標與附近敵人造成 200% 傷害。"
         ],
         "passives": [
             "獲得增益的生命值回復：此角色獲得增益或正面疊加時，會恢復 5% 的生命值。"
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1435,
         "lb1": {
             "attack": 1114,
             "defense": 1018,
@@ -97804,13 +101218,13 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 次直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
             "所有烈火盟友獲得 4 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
-            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
             "稀有：",
             "* 野蠻戰錘人。",
             "* 野蠻牛頭怪。",
@@ -97828,7 +101242,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1377,
+        "originalIndex": 1436,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -97904,7 +101318,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1437,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -97972,7 +101386,7 @@ window.allHeroes =
         "defense": 967,
         "health": 1771,
         "effects": [
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "攻擊會無視防禦增益。（包含反擊。）",
             "目標與附近敵人在 4 回合內受到共計 648 點流血傷害。施法者能吸收所造成之流血傷害的 40% 作為生命值。",
             "如果施法者在後續 4 個回合中被擊敗，他們將在下一個回合開頭以 40% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。"
@@ -97980,7 +101394,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1379,
+        "originalIndex": 1438,
         "lb1": {
             "attack": 1065,
             "defense": 1042,
@@ -98061,7 +101475,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1380,
+        "originalIndex": 1439,
         "lb1": {
             "attack": 912,
             "defense": 1007,
@@ -98138,7 +101552,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1381,
+        "originalIndex": 1440,
         "lb1": {
             "attack": 1249,
             "defense": 1323,
@@ -98211,7 +101625,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1382,
+        "originalIndex": 1441,
         "lb1": {
             "attack": 834,
             "defense": 792,
@@ -98285,7 +101699,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1383,
+        "originalIndex": 1442,
         "lb1": {
             "attack": 1242,
             "defense": 1198,
@@ -98360,7 +101774,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1384,
+        "originalIndex": 1443,
         "lb1": {
             "attack": 1214,
             "defense": 1192,
@@ -98419,14 +101833,14 @@ window.allHeroes =
         ],
         "heroId": "beowulf_wiglaf",
         "star": 5,
-        "power": 1252,
-        "attack": 1310,
-        "defense": 1256,
-        "health": 2263,
+        "power": 1267,
+        "attack": 1324,
+        "defense": 1271,
+        "health": 2307,
         "effects": [
-            "對目標及附近敵人造成 400% 傷害。",
+            "對目標與附近敵人造成 400% 傷害。",
             "每有一名盟友落敗，傷害增加 30%。",
-            "目標與附近敵人在 3 個回合內受到 687 點燃燒傷害。",
+            "目標與附近敵人在 3 個回合內受到 693 點燃燒傷害。",
             "所有剩餘生命值低於或等於 50% 的盟友，其特殊技能攻擊將獲得額外的 +50% 威力，持續 3 回合。此效果無法被移除。"
         ],
         "passives": [
@@ -98436,18 +101850,18 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1385,
+        "originalIndex": 1444,
         "lb1": {
-            "attack": 1411,
-            "defense": 1354,
-            "health": 2439,
-            "power": 1339
+            "attack": 1427,
+            "defense": 1369,
+            "health": 2486,
+            "power": 1355
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1549,
-            "health": 2791,
-            "power": 1514
+            "attack": 1633,
+            "defense": 1567,
+            "health": 2844,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -98505,13 +101919,13 @@ window.allHeroes =
         ],
         "heroId": "institute_wilcox",
         "star": 5,
-        "power": 1270,
-        "attack": 1343,
-        "defense": 1293,
-        "health": 2241,
+        "power": 1295,
+        "attack": 1365,
+        "defense": 1318,
+        "health": 2309,
         "effects": [
             "攻擊會無視防禦增益。",
-            "對目標造成 265% 傷害。",
+            "對目標造成 300% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
             "所有被擊中的目標獲得 20 點瘋狂。",
             "在 1 個回合後，目標會遭到麻痺，持續 4 個回合。（麻痹的敵人無法进行攻墼或獲得法力，受到的傷害也會提高 +50%。一旦被麻痺，效果無法淨化。頭目、泰坦和神話泰坦不受此状態效果影響。）",
@@ -98530,18 +101944,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1445,
         "lb1": {
-            "attack": 1447,
-            "defense": 1394,
-            "health": 2415,
-            "power": 1359
+            "attack": 1471,
+            "defense": 1420,
+            "health": 2488,
+            "power": 1385
         },
         "lb2": {
-            "attack": 1656,
-            "defense": 1595,
-            "health": 2763,
-            "power": 1538
+            "attack": 1684,
+            "defense": 1625,
+            "health": 2847,
+            "power": 1567
         },
         "cn_skill_info": [
             {
@@ -98602,7 +102016,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1446,
         "lb1": {
             "attack": 899,
             "defense": 865,
@@ -98646,6 +102060,7 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "全體持續傷害",
+            "灼燒時治療自身",
             "全體法力偷取"
         ],
         "skill_types": [
@@ -98682,7 +102097,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1388,
+        "originalIndex": 1447,
         "lb1": {
             "attack": 1157,
             "defense": 1139,
@@ -98754,7 +102169,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1448,
         "lb1": {
             "attack": 921,
             "defense": 883,
@@ -98823,7 +102238,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1390,
+        "originalIndex": 1449,
         "lb1": {
             "attack": 1428,
             "defense": 1372,
@@ -98893,7 +102308,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1391,
+        "originalIndex": 1450,
         "lb1": {
             "attack": 1058,
             "defense": 1032,
@@ -98962,7 +102377,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1392,
+        "originalIndex": 1451,
         "lb1": {
             "attack": 801,
             "defense": 821,
@@ -98999,7 +102414,7 @@ window.allHeroes =
         "skill": "誘人幻象",
         "types": [
             "攻擊3個目標",
-            "強化閃避"
+            "3個目標強化閃避"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -99023,7 +102438,7 @@ window.allHeroes =
         "defense": 1097,
         "health": 2173,
         "effects": [
-            "對目標及附近敵人造成 450% 傷害。",
+            "對目標與附近敵人造成 450% 傷害。",
             "強化閃避：施法者和附近盟友有 +55% 的機率閃避可造成傷害的特殊技能。此效果在盟友成功閃避 3 次後消失。",
             "強化閃避結束、移除或取代後，一名隨機敵人獲得 -55% 精準度，持續 3 回合，且一名隨機敵人在 3 回合內受到 765 點流血傷害。（進攻型特殊技能也有機率無法擊中。）"
         ],
@@ -99034,7 +102449,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1393,
+        "originalIndex": 1452,
         "lb1": {
             "attack": 1338,
             "defense": 1183,
@@ -99111,7 +102526,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1394,
+        "originalIndex": 1453,
         "lb1": {
             "attack": 836,
             "defense": 814,
@@ -99175,8 +102590,8 @@ window.allHeroes =
         "defense": 867,
         "health": 1652,
         "effects": [
-            "對目標造成 465% 傷害。",
-            "目標有 55% 機率在 6 回合內受到共計 1068 點流血傷害。",
+            "對目標造成 495% 傷害。",
+            "目標有 60% 機率在 6 回合內受到共計 1068 點流血傷害。",
             "目標獲得一枚流血標記，持續 6 個回合。被標記的目標受到流血傷害時，其獲得一次疊加 （最大值： 10 ）。每次疊加都能增加目標所承受傷害 5%。",
             "元素鏈使所有烈火盟友提高 +5% 閃避機率，持續 6 個回合。此效果無法驅散。"
         ],
@@ -99186,7 +102601,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1395,
+        "originalIndex": 1454,
         "lb1": {
             "attack": 1152,
             "defense": 934,
@@ -99260,7 +102675,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1396,
+        "originalIndex": 1455,
         "lb1": {
             "attack": 1076,
             "defense": 1018,
@@ -99327,7 +102742,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1397,
+        "originalIndex": 1456,
         "lb1": {
             "attack": 888,
             "defense": 814,
@@ -99400,7 +102815,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1398,
+        "originalIndex": 1457,
         "lb1": {
             "attack": 1171,
             "defense": 1038,
@@ -99435,9 +102850,10 @@ window.allHeroes =
         "speed": "中等",
         "skill": "櫻桃布丁上桌了！",
         "types": [
-            "2個目標法力增加",
             "治療3個目標",
-            "2個目標成長",
+            "2個目標法力增加",
+            "2個目標攻擊成長",
+            "2個目標防禦成長",
             "自身召喚史萊姆超級小兵"
         ],
         "skill_types": [
@@ -99455,13 +102871,13 @@ window.allHeroes =
         ],
         "heroId": "slime_zestique",
         "star": 5,
-        "power": 1243,
-        "attack": 1289,
-        "defense": 1254,
-        "health": 2261,
+        "power": 1258,
+        "attack": 1301,
+        "defense": 1266,
+        "health": 2315,
         "effects": [
-            "使附近盟友的法力增加 30%。",
             "為施法者和附近盟友恢復 25% 生命值。",
+            "使附近盟友的法力增加 30%。",
             "成長:附近盟友獲得 300 點攻擊和 300 點防禦。",
             "召唤從此施法者繼承 50% 生命值和 40% 攻撃力的史莱姆超级小兵。"
         ],
@@ -99471,18 +102887,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1399,
+        "originalIndex": 1458,
         "lb1": {
-            "attack": 1389,
-            "defense": 1351,
-            "health": 2437,
-            "power": 1330
+            "attack": 1403,
+            "defense": 1365,
+            "health": 2495,
+            "power": 1347
         },
         "lb2": {
-            "attack": 1590,
-            "defense": 1546,
-            "health": 2788,
-            "power": 1504
+            "attack": 1605,
+            "defense": 1562,
+            "health": 2854,
+            "power": 1523
         },
         "cn_skill_info": [
             {
@@ -99542,11 +102958,11 @@ window.allHeroes =
             "從目標竊取最新的可驅散增益並分給施法者。",
             "隨機施展下列其中一種效果：",
             "倒鉤之箭：",
-            "* 目標在 3 回合內受到共計 504 點流血傷害。",
+            "* 目標在 3 回合內受到共計 510 點流血傷害。",
             "劇毒弩箭：",
-            "* 目標在 3 回合內受到共計 537 點劇毒傷害。",
+            "* 目標在 3 回合內受到共計 543 點劇毒傷害。",
             "火焰弩箭：",
-            "* 目標在 3 回合內受到共計 570 點燃燒傷害。",
+            "* 目標在 3 回合內受到共計 576 點燃燒傷害。",
             "元素鏈給予所有烈火盟友 +20% 暴擊率，持續 6 個回合。此效果無法驅散。"
         ],
         "passives": [
@@ -99555,7 +102971,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1400,
+        "originalIndex": 1459,
         "lb1": {
             "attack": 1223,
             "defense": 1047,
@@ -99628,7 +103044,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1401,
+        "originalIndex": 1460,
         "lb1": {
             "attack": 770,
             "defense": 734,
@@ -99702,7 +103118,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1402,
+        "originalIndex": 1461,
         "lb1": {
             "attack": 980,
             "defense": 945,
@@ -99763,7 +103179,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1403,
+        "originalIndex": 1462,
         "lb1": {
             "attack": 222,
             "defense": 189,
@@ -99808,7 +103224,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1463,
         "lb1": {
             "attack": 205,
             "defense": 188,
@@ -99853,7 +103269,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1405,
+        "originalIndex": 1464,
         "lb1": {
             "attack": 366,
             "defense": 341,
@@ -99901,7 +103317,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1406,
+        "originalIndex": 1465,
         "lb1": {
             "attack": 331,
             "defense": 343,
@@ -99946,7 +103362,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1407,
+        "originalIndex": 1466,
         "lb1": {
             "attack": 275,
             "defense": 345,
@@ -99994,7 +103410,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1408,
+        "originalIndex": 1467,
         "lb1": {
             "attack": 630,
             "defense": 551,
@@ -100059,7 +103475,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1409,
+        "originalIndex": 1468,
         "lb1": {
             "attack": 541,
             "defense": 474,
@@ -100121,7 +103537,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1469,
         "lb1": {
             "attack": 531,
             "defense": 464,
@@ -100182,7 +103598,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1411,
+        "originalIndex": 1470,
         "lb1": {
             "attack": 611,
             "defense": 489,
@@ -100249,7 +103665,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1412,
+        "originalIndex": 1471,
         "lb1": {
             "attack": 623,
             "defense": 514,
@@ -100322,7 +103738,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1413,
+        "originalIndex": 1472,
         "lb1": {
             "attack": 643,
             "defense": 523,
@@ -100383,7 +103799,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1414,
+        "originalIndex": 1473,
         "lb1": {
             "attack": 557,
             "defense": 522,
@@ -100437,7 +103853,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1474,
         "lb1": {
             "attack": 527,
             "defense": 553,
@@ -100503,7 +103919,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1475,
         "lb1": {
             "attack": 606,
             "defense": 541,
@@ -100571,7 +103987,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1417,
+        "originalIndex": 1476,
         "lb1": {
             "attack": 551,
             "defense": 529,
@@ -100629,7 +104045,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1418,
+        "originalIndex": 1477,
         "lb1": {
             "attack": 553,
             "defense": 443,
@@ -100685,7 +104101,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1419,
+        "originalIndex": 1478,
         "lb1": {
             "attack": 609,
             "defense": 489,
@@ -100750,7 +104166,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1420,
+        "originalIndex": 1479,
         "lb1": {
             "attack": 609,
             "defense": 582,
@@ -100815,7 +104231,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1421,
+        "originalIndex": 1480,
         "lb1": {
             "attack": 636,
             "defense": 590,
@@ -100884,7 +104300,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1422,
+        "originalIndex": 1481,
         "lb1": {
             "attack": 594,
             "defense": 555,
@@ -100952,7 +104368,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1423,
+        "originalIndex": 1482,
         "lb1": {
             "attack": 494,
             "defense": 577,
@@ -101025,7 +104441,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1483,
         "lb1": {
             "attack": 608,
             "defense": 579,
@@ -101104,7 +104520,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1425,
+        "originalIndex": 1484,
         "lb1": {
             "attack": 709,
             "defense": 663,
@@ -101169,7 +104585,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1426,
+        "originalIndex": 1485,
         "lb1": {
             "attack": 529,
             "defense": 411,
@@ -101230,7 +104646,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1427,
+        "originalIndex": 1486,
         "lb1": {
             "attack": 600,
             "defense": 430,
@@ -101297,7 +104713,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1428,
+        "originalIndex": 1487,
         "lb1": {
             "attack": 611,
             "defense": 478,
@@ -101366,7 +104782,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1429,
+        "originalIndex": 1488,
         "lb1": {
             "attack": 632,
             "defense": 488,
@@ -101434,7 +104850,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1430,
+        "originalIndex": 1489,
         "lb1": {
             "attack": 672,
             "defense": 514,
@@ -101502,7 +104918,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1431,
+        "originalIndex": 1490,
         "lb1": {
             "attack": 620,
             "defense": 577,
@@ -101576,7 +104992,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1432,
+        "originalIndex": 1491,
         "lb1": {
             "attack": 614,
             "defense": 594,
@@ -101648,7 +105064,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1433,
+        "originalIndex": 1492,
         "lb1": {
             "attack": 579,
             "defense": 535,
@@ -101724,7 +105140,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1434,
+        "originalIndex": 1493,
         "lb1": {
             "attack": 510,
             "defense": 638,
@@ -101789,7 +105205,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1435,
+        "originalIndex": 1494,
         "lb1": {
             "attack": 512,
             "defense": 525,
@@ -101854,7 +105270,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1436,
+        "originalIndex": 1495,
         "lb1": {
             "attack": 486,
             "defense": 514,
@@ -101911,7 +105327,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1437,
+        "originalIndex": 1496,
         "lb1": {
             "attack": 489,
             "defense": 575,
@@ -101964,15 +105380,15 @@ window.allHeroes =
         "defense": 525,
         "health": 878,
         "effects": [
-            "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。對所有神聖系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。",
-            "所有盟友獲得 56% 防禦，持續 5 回合。對所有神聖系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。對所有神聖系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
+            "所有盟友獲得 56% 防禦，持續 5 回合。對所有神聖系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1438,
+        "originalIndex": 1497,
         "lb1": {
             "attack": 557,
             "defense": 595,
@@ -102037,7 +105453,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1439,
+        "originalIndex": 1498,
         "lb1": {
             "attack": 555,
             "defense": 627,
@@ -102102,7 +105518,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1440,
+        "originalIndex": 1499,
         "lb1": {
             "attack": 583,
             "defense": 674,
@@ -102170,7 +105586,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1500,
         "lb1": {
             "attack": 616,
             "defense": 583,
@@ -102228,7 +105644,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1501,
         "lb1": {
             "attack": 486,
             "defense": 480,
@@ -102299,7 +105715,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 1443,
+        "originalIndex": 1502,
         "lb1": {
             "attack": 486,
             "defense": 503,
@@ -102330,6 +105746,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "克瓦希爾 (Kvasir) 卡通",
+        "fancy_name": "養蜂人公仔",
+        "AetherPower": "防禦提升",
+        "color": "黃",
+        "class": "德魯伊",
+        "speed": "快速",
+        "skill": "蜜蜂公仔",
+        "types": [
+            "召喚所有",
+            "帶持續傷害的小怪",
+            "帶小怪阻擋效果的小怪"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "toon_bees",
+        "parent_specialId": "bee_bravado",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_kvasir_costume_cute",
+        "star": 3,
+        "power": 562,
+        "attack": 536,
+        "defense": 534,
+        "health": 1149,
+        "effects": [
+            "所有盟友獲得對暗黑系 +54% 的防禦，持續 3 回合。對所有神聖系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。",
+            "為每個盟友召喚一個蜜蜂小兵。蜜蜂小兵繼承施法者 20% 生命與 20% 攻擊。",
+            "蜜蜂小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常：",
+            "目標在 2 回合內受到共計 62 點劇毒傷害。",
+            "目標無法獲得新的小兵，持續 4 回合。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "alfheim",
+        "costume_id": 2,
+        "originalIndex": 1503,
+        "lb1": {
+            "attack": 608,
+            "defense": 605,
+            "health": 1302,
+            "power": 629
+        },
+        "lb2": {
+            "attack": 751,
+            "defense": 748,
+            "health": 1609,
+            "power": 762
+        },
+        "cn_skill_info": []
     },
     {
         "name": "梅里亞 (Melia)",
@@ -102364,7 +105835,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1444,
+        "originalIndex": 1504,
         "lb1": {
             "attack": 573,
             "defense": 459,
@@ -102425,7 +105896,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1445,
+        "originalIndex": 1505,
         "lb1": {
             "attack": 606,
             "defense": 460,
@@ -102450,6 +105921,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "梅里亞 (Melia) 卡通",
+        "fancy_name": "美人魚公仔",
+        "AetherPower": "攻擊提升",
+        "color": "黃",
+        "class": "德魯伊",
+        "speed": "快速",
+        "skill": "亞特蘭蒂斯刀劍公仔",
+        "types": [
+            "攻擊所有目標",
+            "全體暴擊幾率增益"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "atlantean_toon_sword",
+        "parent_specialId": "atlantean_blade",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_merwoman_costume_cute",
+        "star": 3,
+        "power": 561,
+        "attack": 658,
+        "defense": 507,
+        "health": 890,
+        "effects": [
+            "對所有敵人造成 130% 傷害。",
+            "所有盟友獲得 +36% 暴擊率，持續 4 回合。",
+            "對暗黑系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 1506,
+        "lb1": {
+            "attack": 746,
+            "defense": 574,
+            "health": 1009,
+            "power": 628
+        },
+        "lb2": {
+            "attack": 922,
+            "defense": 710,
+            "health": 1246,
+            "power": 760
+        },
+        "cn_skill_info": []
     },
     {
         "name": "裴伊雅 (Paeia)",
@@ -102491,7 +106014,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1507,
         "lb1": {
             "attack": 490,
             "defense": 604,
@@ -102548,7 +106071,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1508,
         "lb1": {
             "attack": 484,
             "defense": 494,
@@ -102584,7 +106107,7 @@ window.allHeroes =
         "skill": "彈射閃電",
         "types": [
             "攻擊單個目標",
-            "額外隨機攻擊 1 次的機會"
+            "機率隨機攻擊單體"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -102611,7 +106134,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1448,
+        "originalIndex": 1509,
         "lb1": {
             "attack": 563,
             "defense": 514,
@@ -102643,7 +106166,7 @@ window.allHeroes =
         "skill": "昏睡閃電",
         "types": [
             "攻擊單個目標",
-            "額外隨機攻擊 1 次的機會"
+            "機率隨機攻擊單體"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -102672,7 +106195,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1449,
+        "originalIndex": 1510,
         "lb1": {
             "attack": 578,
             "defense": 522,
@@ -102734,7 +106257,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1511,
         "lb1": {
             "attack": 533,
             "defense": 559,
@@ -102808,7 +106331,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1451,
+        "originalIndex": 1512,
         "lb1": {
             "attack": 558,
             "defense": 562,
@@ -102867,7 +106390,7 @@ window.allHeroes =
         "defense": 500,
         "health": 782,
         "effects": [
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "使目標和附近敵人的法力減少 15%。",
             "目標與附近敵人在 4 回合內受到共計 260 點劇毒傷害。"
         ],
@@ -102877,7 +106400,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1452,
+        "originalIndex": 1513,
         "lb1": {
             "attack": 551,
             "defense": 567,
@@ -102955,7 +106478,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1514,
         "lb1": {
             "attack": 561,
             "defense": 577,
@@ -103014,7 +106537,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1454,
+        "originalIndex": 1515,
         "lb1": {
             "attack": 549,
             "defense": 529,
@@ -103081,7 +106604,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1455,
+        "originalIndex": 1516,
         "lb1": {
             "attack": 606,
             "defense": 539,
@@ -103154,7 +106677,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1456,
+        "originalIndex": 1517,
         "lb1": {
             "attack": 771,
             "defense": 801,
@@ -103228,7 +106751,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1518,
         "lb1": {
             "attack": 725,
             "defense": 681,
@@ -103295,7 +106818,7 @@ window.allHeroes =
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* * *",
+            "稀有：",
             "- 袖剑。",
             "- 魔法球。",
             "- 堅固護盾。",
@@ -103305,21 +106828,21 @@ window.allHeroes =
             "- 链甲衫。",
             "- 劍鞘。",
             "- 高筒靴。",
-            "* *",
+            "罕見：",
             "- 奥術手稿。",
             "- 匕首。",
             "- 皮甲。",
             "- 磨刀石。",
             "- 粗繩。",
             "- 木質護盾。",
-            "*",
+            "普通：",
             "- 冒險家行囊。",
             "- 練習劍。",
             "- 粗布衣服。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1458,
+        "originalIndex": 1519,
         "lb1": {
             "attack": 865,
             "defense": 865,
@@ -103393,7 +106916,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1459,
+        "originalIndex": 1520,
         "lb1": {
             "attack": 759,
             "defense": 685,
@@ -103460,7 +106983,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1460,
+        "originalIndex": 1521,
         "lb1": {
             "attack": 708,
             "defense": 731,
@@ -103518,7 +107041,7 @@ window.allHeroes =
         "defense": 775,
         "health": 1374,
         "effects": [
-            "若施法者擁有 35 以上的謙遜：",
+            "若施法者擁有 40 以上的謙遜：",
             "* 對位於敵方陣型邊緣的敵人造成 300% 傷害。如果只有一個敵人，傷害加倍。",
             "* 使位於敵方陣型邊緣的敵人最大生命值降低 500，對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 500 點。）",
             "否則：",
@@ -103531,7 +107054,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1461,
+        "originalIndex": 1522,
         "lb1": {
             "attack": 909,
             "defense": 842,
@@ -103590,7 +107113,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1462,
+        "originalIndex": 1523,
         "lb1": {
             "attack": 660,
             "defense": 734,
@@ -103652,7 +107175,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1463,
+        "originalIndex": 1524,
         "lb1": {
             "attack": 746,
             "defense": 753,
@@ -103707,13 +107230,13 @@ window.allHeroes =
         "defense": 706,
         "health": 1280,
         "effects": [
-            "對目標及附近敵人造成 275% 傷害。",
+            "對目標與附近敵人造成 275% 傷害。",
             "目標與附近敵人獲得 -24% 法力產出，持續 3 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1464,
+        "originalIndex": 1525,
         "lb1": {
             "attack": 844,
             "defense": 767,
@@ -103780,7 +107303,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1465,
+        "originalIndex": 1526,
         "lb1": {
             "attack": 877,
             "defense": 764,
@@ -103849,7 +107372,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1466,
+        "originalIndex": 1527,
         "lb1": {
             "attack": 914,
             "defense": 755,
@@ -103917,7 +107440,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1528,
         "lb1": {
             "attack": 683,
             "defense": 692,
@@ -103987,7 +107510,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1529,
         "lb1": {
             "attack": 676,
             "defense": 692,
@@ -104071,7 +107594,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1469,
+        "originalIndex": 1530,
         "lb1": {
             "attack": 663,
             "defense": 725,
@@ -104153,7 +107676,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1531,
         "lb1": {
             "attack": 785,
             "defense": 852,
@@ -104227,7 +107750,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1532,
         "lb1": {
             "attack": 780,
             "defense": 755,
@@ -104310,7 +107833,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1472,
+        "originalIndex": 1533,
         "lb1": {
             "attack": 879,
             "defense": 840,
@@ -104385,7 +107908,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1534,
         "lb1": {
             "attack": 699,
             "defense": 778,
@@ -104449,7 +107972,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1474,
+        "originalIndex": 1535,
         "lb1": {
             "attack": 764,
             "defense": 651,
@@ -104517,7 +108040,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1536,
         "lb1": {
             "attack": 803,
             "defense": 695,
@@ -104582,7 +108105,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1476,
+        "originalIndex": 1537,
         "lb1": {
             "attack": 824,
             "defense": 727,
@@ -104657,7 +108180,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1477,
+        "originalIndex": 1538,
         "lb1": {
             "attack": 815,
             "defense": 785,
@@ -104722,7 +108245,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1478,
+        "originalIndex": 1539,
         "lb1": {
             "attack": 831,
             "defense": 577,
@@ -104783,7 +108306,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1479,
+        "originalIndex": 1540,
         "lb1": {
             "attack": 734,
             "defense": 724,
@@ -104845,7 +108368,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1541,
         "lb1": {
             "attack": 660,
             "defense": 660,
@@ -104914,7 +108437,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 1481,
+        "originalIndex": 1542,
         "lb1": {
             "attack": 665,
             "defense": 692,
@@ -104983,7 +108506,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1482,
+        "originalIndex": 1543,
         "lb1": {
             "attack": 676,
             "defense": 778,
@@ -105048,7 +108571,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1544,
         "lb1": {
             "attack": 655,
             "defense": 685,
@@ -105112,7 +108635,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1484,
+        "originalIndex": 1545,
         "lb1": {
             "attack": 644,
             "defense": 825,
@@ -105177,7 +108700,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1485,
+        "originalIndex": 1546,
         "lb1": {
             "attack": 716,
             "defense": 868,
@@ -105245,7 +108768,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1486,
+        "originalIndex": 1547,
         "lb1": {
             "attack": 810,
             "defense": 780,
@@ -105318,7 +108841,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1487,
+        "originalIndex": 1548,
         "lb1": {
             "attack": 884,
             "defense": 741,
@@ -105382,7 +108905,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1549,
         "lb1": {
             "attack": 681,
             "defense": 725,
@@ -105407,6 +108930,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "伍勒頓女士 (Lady Woolerton) C1",
+        "fancy_name": "斯普林維爾理髮師",
+        "AetherPower": "回復已加成",
+        "color": "黃",
+        "class": "術士",
+        "speed": "快速",
+        "skill": "剪切處理",
+        "types": [
+            "全體治療",
+            "自身屬性防禦增益",
+            "自身法力獲取減益"
+        ],
+        "skill_types": [],
+        "source": "月活動 - 斯普林維爾",
+        "Release date": "2026-03-30",
+        "specialId": "shearing_treatment",
+        "parent_specialId": "smooth_treatment",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_health_generation_stack_on_special_epic"
+        ],
+        "heroId": "easter_lady_woolerton_costume_coiffeuse",
+        "star": 4,
+        "power": 801,
+        "attack": 772,
+        "defense": 835,
+        "health": 1517,
+        "effects": [
+            "為所有盟友恢復 42% 生命值。",
+            "施法者獲得對暗黑系 +50% 的防禦，持續 3 回合。",
+            "施法者無法獲得法力，持續 2 回合。此效果無法淨化。"
+        ],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）：每回合回復 10 點生命值。"
+        ],
+        "family": "easter",
+        "costume_id": 1,
+        "originalIndex": 1550,
+        "lb1": {
+            "attack": 838,
+            "defense": 907,
+            "health": 1649,
+            "power": 863
+        },
+        "lb2": {
+            "attack": 972,
+            "defense": 1052,
+            "health": 1912,
+            "power": 987
+        },
+        "cn_skill_info": []
     },
     {
         "name": "李繡 (Li Xiu)",
@@ -105441,7 +109017,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1551,
         "lb1": {
             "attack": 669,
             "defense": 722,
@@ -105502,7 +109078,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1490,
+        "originalIndex": 1552,
         "lb1": {
             "attack": 731,
             "defense": 765,
@@ -105557,13 +109133,13 @@ window.allHeroes =
         "defense": 752,
         "health": 1300,
         "effects": [
-            "對目標及附近敵人造成 270% 傷害。",
+            "對目標與附近敵人造成 270% 傷害。",
             "目標與附近敵人陷入沉默，持續 3 回合。"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1491,
+        "originalIndex": 1553,
         "lb1": {
             "attack": 788,
             "defense": 817,
@@ -105630,7 +109206,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1492,
+        "originalIndex": 1554,
         "lb1": {
             "attack": 788,
             "defense": 848,
@@ -105699,7 +109275,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1493,
+        "originalIndex": 1555,
         "lb1": {
             "attack": 873,
             "defense": 807,
@@ -105767,7 +109343,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1494,
+        "originalIndex": 1556,
         "lb1": {
             "attack": 960,
             "defense": 879,
@@ -105825,7 +109401,7 @@ window.allHeroes =
         "defense": 603,
         "health": 1196,
         "effects": [
-            "對目標及附近敵人造成 175% 傷害。",
+            "對目標與附近敵人造成 175% 傷害。",
             "目標和附近敵人在 3 回合內無法獲得新的狀態效果增益。",
             "目標與附近敵人獲得對特殊技能 -34% 的防禦，持續 3 回合。",
             "目標與附近敵人獲得 -64% 法力產出，持續 3 回合。"
@@ -105833,7 +109409,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1495,
+        "originalIndex": 1557,
         "lb1": {
             "attack": 745,
             "defense": 655,
@@ -105872,7 +109448,7 @@ window.allHeroes =
         "types": [
             "攻擊單個目標",
             "收穫增益 (單體)",
-            "自身法力生成增益 (疊加)"
+            "自身法力生成增益疊加"
         ],
         "skill_types": [
             "召喚惡魔",
@@ -105896,7 +109472,7 @@ window.allHeroes =
         "health": 1300,
         "effects": [
             "對目標造成 415% 傷害。",
-            "從目標的身上豐收增益。（豐收可以從每個目标上，安全地移除 2 個增益、正面叠加或成長效果。包含无法驅散增益和跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全移除可避免移除狀態效果增益时的第二效果。例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。成長效果會最先被移除。其他效果則是以最新的開始移除。）",
+            "從目標的身上豐收增益。（豐收可以從每個目标上，安全地移除 2 個增益、正面叠加或成長效果。包含無法驅散增益和跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全移除可避免移除狀態效果增益时的第二效果。例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。成長效果會最先被移除。其他效果則是以最新的開始移除。）",
             "疊加（最大值： 10 ）：施法者獲得 +6% 法力產出。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）"
         ],
         "passives": [
@@ -105911,7 +109487,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1496,
+        "originalIndex": 1558,
         "lb1": {
             "attack": 935,
             "defense": 895,
@@ -105980,7 +109556,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1559,
         "lb1": {
             "attack": 688,
             "defense": 711,
@@ -106056,7 +109632,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1498,
+        "originalIndex": 1560,
         "lb1": {
             "attack": 732,
             "defense": 704,
@@ -106129,7 +109705,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1499,
+        "originalIndex": 1561,
         "lb1": {
             "attack": 669,
             "defense": 801,
@@ -106201,7 +109777,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1500,
+        "originalIndex": 1562,
         "lb1": {
             "attack": 921,
             "defense": 828,
@@ -106265,7 +109841,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1563,
         "lb1": {
             "attack": 706,
             "defense": 699,
@@ -106333,7 +109909,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1502,
+        "originalIndex": 1564,
         "lb1": {
             "attack": 836,
             "defense": 828,
@@ -106403,7 +109979,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1565,
         "lb1": {
             "attack": 681,
             "defense": 759,
@@ -106462,7 +110038,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1504,
+        "originalIndex": 1566,
         "lb1": {
             "attack": 734,
             "defense": 771,
@@ -106533,7 +110109,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1505,
+        "originalIndex": 1567,
         "lb1": {
             "attack": 753,
             "defense": 841,
@@ -106595,7 +110171,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1506,
+        "originalIndex": 1568,
         "lb1": {
             "attack": 768,
             "defense": 674,
@@ -106656,7 +110232,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1507,
+        "originalIndex": 1569,
         "lb1": {
             "attack": 807,
             "defense": 765,
@@ -106715,7 +110291,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1508,
+        "originalIndex": 1570,
         "lb1": {
             "attack": 868,
             "defense": 788,
@@ -106771,14 +110347,14 @@ window.allHeroes =
         "defense": 795,
         "health": 1291,
         "effects": [
-            "所有盟友獲得 +175% 攻擊力與 -32% 精準度，持續 5 回合。對所有神聖系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "所有盟友獲得 +175% 攻擊力與 -32% 精準度，持續 5 回合。對所有神聖系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1509,
+        "originalIndex": 1571,
         "lb1": {
             "attack": 810,
             "defense": 864,
@@ -106845,7 +110421,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1510,
+        "originalIndex": 1572,
         "lb1": {
             "attack": 840,
             "defense": 868,
@@ -106904,7 +110480,7 @@ window.allHeroes =
         "health": 1234,
         "effects": [
             "改變面板上所有神聖系護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加 +30%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少 -23%。",
-            "所有盟友獲得 +35% 攻擊力，持續 4 回合。對所有神聖系角色，該狀態效果變為无法驅散且持續時間延長 2 回合。"
+            "所有盟友獲得 +35% 攻擊力，持續 4 回合。對所有神聖系角色，該狀態效果變為無法驅散且持續時間延長 2 回合。"
         ],
         "passives": [
             "部隊精通：",
@@ -106915,7 +110491,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1511,
+        "originalIndex": 1573,
         "lb1": {
             "attack": 738,
             "defense": 750,
@@ -106985,14 +110561,17 @@ window.allHeroes =
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 阿爾法已太。",
             "* 神聖已太 III。",
+            "史詩：",
             "* 神聖已太 II。",
+            "稀有：",
             "* 神聖已太 I。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1512,
+        "originalIndex": 1574,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -107028,6 +110607,63 @@ window.allHeroes =
         ]
     },
     {
+        "name": "阿傑亞 (Ajay)",
+        "fancy_name": "美妙勇士",
+        "AetherPower": "攻擊提升",
+        "color": "黃",
+        "class": "野人",
+        "speed": "快速",
+        "skill": "美妙之雨",
+        "types": [
+            "攻擊單個目標",
+            "連鎖攻擊",
+            "命中時觸發持續傷害",
+            "攻擊成長恩賜"
+        ],
+        "skill_types": [],
+        "source": "神殿召喚",
+        "Release date": "2026-04-21",
+        "specialId": "urumi_lashing",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "heroId": "mahayoddha_ajay",
+        "star": 5,
+        "power": 1314,
+        "attack": 1384,
+        "defense": 1339,
+        "health": 2360,
+        "effects": [
+            "對目標造成 310% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "所有被擊中的目標在 3 回合內受到共計 933 點流血傷害。",
+            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 600 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）"
+        ],
+        "passives": [
+            "受到傷害時獲得法力：",
+            "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
+            "* 每回合最多可獲得 10% 法力。",
+            "對小兵和超級小兵造成額外傷害：此角色對小兵和超級小兵造成 +150% 傷害。"
+        ],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1575,
+        "lb1": {
+            "attack": 1491,
+            "defense": 1443,
+            "health": 2544,
+            "power": 1407
+        },
+        "lb2": {
+            "attack": 1706,
+            "defense": 1651,
+            "health": 2910,
+            "power": 1591
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "阿克洛格 (Akkorog)",
         "fancy_name": "莫洛克人首領",
         "AetherPower": "攻擊提升",
@@ -107057,14 +110693,14 @@ window.allHeroes =
         "health": 1371,
         "effects": [
             "隨機重新排列敵人位置。",
-            "對目標及附近敵人造成 280% 傷害。"
+            "對目標與附近敵人造成 280% 傷害。"
         ],
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1513,
+        "originalIndex": 1576,
         "lb1": {
             "attack": 843,
             "defense": 832,
@@ -107129,7 +110765,7 @@ window.allHeroes =
         "health": 1891,
         "effects": [
             "隨機重新排列敵人位置。",
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "施法者有 +45% 的機率閃避特殊技能，持續 3 回合。每次閃避都會獲得 +5% 防禦疊加。（最大值： 10 ）"
         ],
         "passives": [
@@ -107138,7 +110774,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1514,
+        "originalIndex": 1577,
         "lb1": {
             "attack": 1062,
             "defense": 1105,
@@ -107206,7 +110842,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1515,
+        "originalIndex": 1578,
         "lb1": {
             "attack": 1194,
             "defense": 1232,
@@ -107276,7 +110912,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1516,
+        "originalIndex": 1579,
         "lb1": {
             "attack": 1256,
             "defense": 1192,
@@ -107351,7 +110987,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1517,
+        "originalIndex": 1580,
         "lb1": {
             "attack": 1287,
             "defense": 1238,
@@ -107420,7 +111056,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1518,
+        "originalIndex": 1581,
         "lb1": {
             "attack": 883,
             "defense": 859,
@@ -107488,7 +111124,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1519,
+        "originalIndex": 1582,
         "lb1": {
             "attack": 1320,
             "defense": 1196,
@@ -107555,7 +111191,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1520,
+        "originalIndex": 1583,
         "lb1": {
             "attack": 874,
             "defense": 843,
@@ -107623,7 +111259,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1521,
+        "originalIndex": 1584,
         "lb1": {
             "attack": 1220,
             "defense": 1096,
@@ -107685,30 +111321,30 @@ window.allHeroes =
         "defense": 1268,
         "health": 2152,
         "effects": [
-            "對目標及附近敵人造成 380% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 668 點流血傷害。",
+            "對目標與附近敵人造成 380% 傷害。",
+            "每次敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "目標與附近敵人在 4 回合內受到共計 608 點流血傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* * * *",
+            "史詩：",
             "- 大马士革刀。",
             "- 策略书卷。",
             "- 毒鏢。",
-            "* * *",
+            "稀有：",
             "- 精致手套。",
             "- 指南。",
             "- 魔法球。",
             "- 链甲衫。",
             "- 高筒靴。",
-            "* *",
+            "罕見：",
             "- 奧術手稿。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1522,
+        "originalIndex": 1585,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -107793,7 +111429,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1523,
+        "originalIndex": 1586,
         "lb1": {
             "attack": 1305,
             "defense": 1272,
@@ -107872,7 +111508,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1524,
+        "originalIndex": 1587,
         "lb1": {
             "attack": 999,
             "defense": 1349,
@@ -107944,7 +111580,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1525,
+        "originalIndex": 1588,
         "lb1": {
             "attack": 1434,
             "defense": 1203,
@@ -108011,7 +111647,7 @@ window.allHeroes =
         "health": 1751,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
-            "對目標及附近敵人造成 360% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "目標與附近敵人獲得 -40% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
             "元素鏈使所有神聖盟友提高 +20% 攻擊，持續 4 個回合。此效果無法驅散。"
         ],
@@ -108021,7 +111657,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1526,
+        "originalIndex": 1589,
         "lb1": {
             "attack": 1316,
             "defense": 1292,
@@ -108085,7 +111721,7 @@ window.allHeroes =
         "defense": 962,
         "health": 1680,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "目標與附近敵人在 4 回合內無法獲得新的狀態效果增益。",
             "施法者與附近盟友獲得 +50% 暴擊率，持續 4 回合。",
             "元素鏈使所有神聖盟友提高 +5% 閃避機率，持續 6 個回合。此效果無法驅散。"
@@ -108096,7 +111732,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1527,
+        "originalIndex": 1590,
         "lb1": {
             "attack": 1110,
             "defense": 1036,
@@ -108169,7 +111805,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1528,
+        "originalIndex": 1591,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -108237,7 +111873,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1529,
+        "originalIndex": 1592,
         "lb1": {
             "attack": 1267,
             "defense": 1207,
@@ -108311,7 +111947,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1530,
+        "originalIndex": 1593,
         "lb1": {
             "attack": 1371,
             "defense": 1367,
@@ -108386,7 +112022,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1531,
+        "originalIndex": 1594,
         "lb1": {
             "attack": 777,
             "defense": 885,
@@ -108472,7 +112108,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1532,
+        "originalIndex": 1595,
         "lb1": {
             "attack": 1300,
             "defense": 1286,
@@ -108549,7 +112185,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1533,
+        "originalIndex": 1596,
         "lb1": {
             "attack": 790,
             "defense": 859,
@@ -108605,20 +112241,20 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_cerissa",
         "star": 5,
-        "power": 1281,
-        "attack": 1320,
-        "defense": 1332,
-        "health": 2294,
+        "power": 1301,
+        "attack": 1341,
+        "defense": 1351,
+        "health": 2350,
         "effects": [
-            "若施法者擁有 50 以上的謙遜：",
-            "為施法者和附近盟友提供 1450 點加成生命值。加成生命值能夠超過最大生命值。",
+            "若施法者擁有 60 以上的謙遜：",
+            "為施法者和附近盟友提供 1550 點加成生命值。加成生命值能夠超過最大生命值。",
             "疊加 +2 （最大值： 10 ）：施法者和附近盟友受到的所有傷害减少 -8%。",
-            "接下來 4 個回合內，每次任何其他盟友施放其特殊技能後，此角色會恢復施法者和附近盟友 750 點加成生命值。（每個角色每回合可以觸發一次此效果）",
-            "施法者和附近盟友獲得 +30% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
+            "接下來 4 個回合內，每次任何其他盟友施放其特殊技能後，此角色會恢復施法者和附近盟友 850 點加成生命值。（每個角色每回合可以觸發一次此效果）",
+            "施法者和附近盟友獲得 +35% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
             "否則：",
-            "為施法者和附近盟友提供 1100 點加成生命值。加成生命值能夠超過最大生命值。",
-            "疊加（最大值： 10 ）：施法者和附近盟友受到的所有傷害减少 -4%。",
-            "接下來 4 個回合內，每次任何其他盟友施放其特殊技能後，此角色會恢復施法者和附近盟友 550 點加成生命值。（每個角色每回合可以觸發一次此效果）"
+            "為施法者和附近盟友提供 1200 點加成生命值。加成生命值能夠超過最大生命值。",
+            "疊加（最大值： 10 ）：施法者和附近盟友受到的所有傷害减少 -5%。",
+            "接下來 4 個回合內，每次任何其他盟友施放其特殊技能後，此角色會恢復施法者和附近盟友 650 點加成生命值。（每個角色每回合可以觸發一次此效果）"
         ],
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
@@ -108627,18 +112263,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1534,
+        "originalIndex": 1597,
         "lb1": {
-            "attack": 1423,
-            "defense": 1436,
-            "health": 2473,
-            "power": 1371
+            "attack": 1445,
+            "defense": 1456,
+            "health": 2533,
+            "power": 1393
         },
         "lb2": {
-            "attack": 1628,
-            "defense": 1643,
-            "health": 2829,
-            "power": 1550
+            "attack": 1653,
+            "defense": 1666,
+            "health": 2898,
+            "power": 1575
         },
         "cn_skill_info": [
             {
@@ -108693,7 +112329,7 @@ window.allHeroes =
         "defense": 894,
         "health": 1672,
         "effects": [
-            "對目標及附近敵人造成 355% 傷害。",
+            "對目標與附近敵人造成 355% 傷害。",
             "目標與附近敵人跳起熱情民謠，持續 3 回合。",
             "熱情民謠：",
             "* -40% 精準度。",
@@ -108710,7 +112346,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1535,
+        "originalIndex": 1598,
         "lb1": {
             "attack": 1072,
             "defense": 963,
@@ -108785,7 +112421,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1536,
+        "originalIndex": 1599,
         "lb1": {
             "attack": 828,
             "defense": 916,
@@ -108862,7 +112498,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1537,
+        "originalIndex": 1600,
         "lb1": {
             "attack": 1171,
             "defense": 1348,
@@ -108928,7 +112564,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1538,
+        "originalIndex": 1601,
         "lb1": {
             "attack": 939,
             "defense": 976,
@@ -108958,6 +112594,62 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "康斯坦絲 (Constance) C1",
+        "fancy_name": "無畏火槍兵",
+        "AetherPower": "回復",
+        "color": "黃",
+        "class": "遊俠",
+        "speed": "快速",
+        "skill": "火槍兵之怒",
+        "types": [
+            "攻擊所有目標",
+            "全體閃避率增益",
+            "閃避時傷害攻擊者",
+            "自身生命值加成治療"
+        ],
+        "skill_types": [],
+        "source": "聯盟 - 勇者與美人",
+        "Release date": "2026-05-08",
+        "specialId": "fusiliers_flurry",
+        "parent_specialId": "sword_dance",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "musketeer_constance_costume_fusilier",
+        "star": 5,
+        "power": 1321,
+        "attack": 1289,
+        "defense": 1371,
+        "health": 2580,
+        "effects": [
+            "對所有敵人造成 280% 傷害。",
+            "所有盟友有 +45% 機率閃避特殊技能，持續 3 回合。每次閃避會對攻擊者造成 300 點傷害。",
+            "施法者在 3 個回合內恢復 960 點加成生命值。加成生命值能夠超過最大生命值。"
+        ],
+        "passives": [
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。"
+        ],
+        "family": "musketeer",
+        "costume_id": 1,
+        "originalIndex": 1602,
+        "lb1": {
+            "attack": 1389,
+            "defense": 1478,
+            "health": 2780,
+            "power": 1414
+        },
+        "lb2": {
+            "attack": 1590,
+            "defense": 1691,
+            "health": 3181,
+            "power": 1600
+        },
+        "cn_skill_info": []
     },
     {
         "name": "黛布雅 (Dabria)",
@@ -109001,7 +112693,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1539,
+        "originalIndex": 1603,
         "lb1": {
             "attack": 916,
             "defense": 963,
@@ -109027,6 +112719,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "達格尼 (Dagny)",
+        "fancy_name": "荒野先鋒",
+        "AetherPower": "攻擊提升",
+        "color": "黃",
+        "class": "僧侶",
+        "speed": "快速",
+        "skill": "沙漠狩獵",
+        "types": [
+            "攻擊單個目標",
+            "無視防禦",
+            "單體防禦降低"
+        ],
+        "skill_types": [],
+        "source": "泰坦獵人召喚",
+        "Release date": "2026-04-18",
+        "specialId": "desert_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_yellow_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_savanna",
+        "star": 5,
+        "power": 1308,
+        "attack": 1365,
+        "defense": 1349,
+        "health": 2340,
+        "effects": [
+            "對目標造成 600% 傷害。",
+            "對上泰坦造成 700% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "目標獲得 -40% 防禦，持續 3 個回合。對上暗黑泰坦時，目標獲得 -60% 防禦，且狀態效果會持續額外 2 回合。"
+        ],
+        "passives": [
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 当此角色施放特殊技能时，面板上神圣系护盾的暴击几率将提升 +54%。",
+            "防禦角色時的被動技能：",
+            "* 当此角色施放特殊技能时，面板上神圣系护盾的精准度被削弱 -47%。",
+            "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": 1604,
+        "lb1": {
+            "attack": 1471,
+            "defense": 1454,
+            "health": 2521,
+            "power": 1399
+        },
+        "lb2": {
+            "attack": 1684,
+            "defense": 1663,
+            "health": 2885,
+            "power": 1583
+        },
+        "cn_skill_info": []
     },
     {
         "name": "達利拉 (Delilah)",
@@ -109063,7 +112812,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1540,
+        "originalIndex": 1605,
         "lb1": {
             "attack": 794,
             "defense": 759,
@@ -109131,7 +112880,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1541,
+        "originalIndex": 1606,
         "lb1": {
             "attack": 988,
             "defense": 976,
@@ -109192,7 +112941,7 @@ window.allHeroes =
         "defense": 756,
         "health": 1404,
         "effects": [
-            "對目標及附近敵人造成 315% 傷害。",
+            "對目標與附近敵人造成 315% 傷害。",
             "召喚一個猞猁小兵，其可從施法者繼承 35% 生命與 35% 攻擊。",
             "猞猁小兵會先殲滅目標的所有小兵再攻擊目標。",
             "驅散目標和附近敵人的增益。",
@@ -109204,7 +112953,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1542,
+        "originalIndex": 1607,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -109272,7 +113021,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1543,
+        "originalIndex": 1608,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -109345,7 +113094,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1544,
+        "originalIndex": 1609,
         "lb1": {
             "attack": 1214,
             "defense": 1491,
@@ -109422,7 +113171,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1545,
+        "originalIndex": 1610,
         "lb1": {
             "attack": 1223,
             "defense": 1189,
@@ -109485,14 +113234,14 @@ window.allHeroes =
         "defense": 712,
         "health": 1353,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "目標與附近敵人獲得 -35% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
             "元素鏈給予所有神聖盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1546,
+        "originalIndex": 1611,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -109552,7 +113301,7 @@ window.allHeroes =
         "defense": 890,
         "health": 1947,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "目標與附近敵人獲得 -50% 精準度，持續 3 回合。如果目標受到治療，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）",
             "元素鏈給予所有神聖盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法驅散。"
         ],
@@ -109561,7 +113310,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1547,
+        "originalIndex": 1612,
         "lb1": {
             "attack": 1017,
             "defense": 959,
@@ -109622,7 +113371,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1548,
+        "originalIndex": 1613,
         "lb1": {
             "attack": 865,
             "defense": 854,
@@ -109691,21 +113440,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "對目標造成 480% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "目標在 3 回合內受到共計 387 點劇毒傷害。此效果會蔓延至附近敵人。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
             "* 大師牧師紋章。",
             "* 大師僧侶紋章。",
+            "史詩：",
             "* 牧師紋章。",
             "* 僧侶紋章。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1549,
+        "originalIndex": 1614,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -109793,7 +113544,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1550,
+        "originalIndex": 1615,
         "lb1": {
             "attack": 976,
             "defense": 992,
@@ -109873,7 +113624,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1551,
+        "originalIndex": 1616,
         "lb1": {
             "attack": 1227,
             "defense": 1290,
@@ -109933,7 +113684,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1552,
+        "originalIndex": 1617,
         "lb1": {
             "attack": 910,
             "defense": 859,
@@ -110008,7 +113759,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1553,
+        "originalIndex": 1618,
         "lb1": {
             "attack": 896,
             "defense": 872,
@@ -110087,7 +113838,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1554,
+        "originalIndex": 1619,
         "lb1": {
             "attack": 1335,
             "defense": 1236,
@@ -110153,21 +113904,24 @@ window.allHeroes =
         "effects": [
             "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 530% 傷害。",
-            "若該攻擊將敵人擊敗，那麼施法者將恢復 +50% 生命並獲得 33% 法力。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
-            "* 稀有神聖訓練師英雄。",
-            "* 罕見神聖訓練師英雄。",
+            "稀有：",
+            "* 訓練師英雄。",
+            "罕見：",
+            "* 訓練師英雄。",
             "* 罕見神聖英雄。",
-            "* 普通神聖訓練師英雄。",
+            "普通：",
+            "* 訓練師英雄。",
             "* 普通神聖英雄。"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1555,
+        "originalIndex": 1620,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -110246,7 +114000,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1556,
+        "originalIndex": 1621,
         "lb1": {
             "attack": 1123,
             "defense": 1194,
@@ -110301,13 +114055,13 @@ window.allHeroes =
         "defense": 751,
         "health": 1394,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "被擊中的基礎法力速度最快的敵人將獲得 -64% 法力產出，持續 3 回合。"
         ],
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1557,
+        "originalIndex": 1622,
         "lb1": {
             "attack": 845,
             "defense": 810,
@@ -110375,7 +114129,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1558,
+        "originalIndex": 1623,
         "lb1": {
             "attack": 1425,
             "defense": 1365,
@@ -110438,7 +114192,7 @@ window.allHeroes =
         "defense": 1104,
         "health": 1893,
         "effects": [
-            "對目標及附近敵人造成 350% 傷害。",
+            "對目標與附近敵人造成 350% 傷害。",
             "若任何盟友在此特殊技能施放前持有超級小兵，則轉為對所有敵人造成 365% 傷害。",
             "召喚一個從此施法者繼承 20% 生命值和 100% 攻擊力的新兵守衛超級小兵。",
             "有更多獨特的衛戍守衛英雄在隊伍內時，新兵守衛超級小兵將可獲得更高生命與攻擊力，最高可達 30% 生命和 140% 攻擊力。"
@@ -110449,7 +114203,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1559,
+        "originalIndex": 1624,
         "lb1": {
             "attack": 1258,
             "defense": 1189,
@@ -110525,7 +114279,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1560,
+        "originalIndex": 1625,
         "lb1": {
             "attack": 843,
             "defense": 892,
@@ -110604,7 +114358,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1561,
+        "originalIndex": 1626,
         "lb1": {
             "attack": 1347,
             "defense": 1420,
@@ -110686,7 +114440,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1562,
+        "originalIndex": 1627,
         "lb1": {
             "attack": 1258,
             "defense": 1252,
@@ -110754,35 +114508,35 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_gandr_costume_guardian",
         "star": 5,
-        "power": 1277,
-        "attack": 1291,
-        "defense": 1280,
-        "health": 2445,
+        "power": 1295,
+        "attack": 1315,
+        "defense": 1303,
+        "health": 2467,
         "effects": [
-            "使用火風暴打擊攻擊所有敵人，造成最多 2500 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
+            "使用火風暴打擊攻擊所有敵人，造成最多 2600 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
             "為所有盟友提升所造成傷害 27% 的生命值。",
-            "所有盟友以所受傷害的 70% 進行反擊，持續 5 回合。"
+            "所有盟友以所受傷害的 75% 進行反擊，持續 5 回合。"
         ],
         "passives": [
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
-            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 380 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 387 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
             "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1563,
+        "originalIndex": 1628,
         "lb1": {
-            "attack": 1391,
-            "defense": 1379,
-            "health": 2635,
-            "power": 1366
+            "attack": 1417,
+            "defense": 1404,
+            "health": 2659,
+            "power": 1386
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1578,
-            "health": 3015,
-            "power": 1546
+            "attack": 1621,
+            "defense": 1607,
+            "health": 3042,
+            "power": 1568
         },
         "cn_skill_info": [
             {
@@ -110851,7 +114605,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1564,
+        "originalIndex": 1629,
         "lb1": {
             "attack": 1209,
             "defense": 1256,
@@ -110928,7 +114682,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 1565,
+        "originalIndex": 1630,
         "lb1": {
             "attack": 1367,
             "defense": 1358,
@@ -110992,7 +114746,7 @@ window.allHeroes =
         "defense": 770,
         "health": 1555,
         "effects": [
-            "對目標及附近敵人造成 410% 傷害。",
+            "對目標與附近敵人造成 410% 傷害。",
             "攻擊有 80% 的機率無視防禦增益。（包含反擊。）",
             "所有盟友獲得 +45% 防禦，持續 4 回合。",
             "元素鏈使所有神聖盟友有 +5% 機率閃避狀態異常，持續 4 個回合。此效果無法驅散。"
@@ -111003,7 +114757,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1566,
+        "originalIndex": 1631,
         "lb1": {
             "attack": 812,
             "defense": 830,
@@ -111076,7 +114830,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1567,
+        "originalIndex": 1632,
         "lb1": {
             "attack": 1465,
             "defense": 1176,
@@ -111146,7 +114900,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1568,
+        "originalIndex": 1633,
         "lb1": {
             "attack": 943,
             "defense": 1123,
@@ -111220,7 +114974,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1569,
+        "originalIndex": 1634,
         "lb1": {
             "attack": 1343,
             "defense": 1249,
@@ -111279,7 +115033,7 @@ window.allHeroes =
         "defense": 1081,
         "health": 1854,
         "effects": [
-            "如果面板中有 8 道以上的神聖護盾，則此特殊技能所施放的所有效果均无法驅散。",
+            "如果面板中有 8 道以上的神聖護盾，則此特殊技能所施放的所有效果均無法驅散。",
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 5 回合。",
             "所有盟友在 5 個回合內恢復 1300 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友獲得 +44% 法力產出，持續 5 回合。"
@@ -111293,7 +115047,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1570,
+        "originalIndex": 1635,
         "lb1": {
             "attack": 1085,
             "defense": 1165,
@@ -111368,7 +115122,7 @@ window.allHeroes =
         ],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1571,
+        "originalIndex": 1636,
         "lb1": {
             "attack": 1067,
             "defense": 1145,
@@ -111438,7 +115192,7 @@ window.allHeroes =
         "defense": 741,
         "health": 1324,
         "effects": [
-            "移除施法者以外所有盟友的狀態效果，包含无法驅散或無法淨化的狀態效果。",
+            "移除施法者以外所有盟友的狀態效果，包含無法驅散或無法淨化的狀態效果。",
             "施法者在 4 回合內恢復 612 點生命值。",
             "除施法者外的所有盟友跳起靈魂之舞，持續 4 回合：",
             "* +100% 攻擊力。",
@@ -111449,7 +115203,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1572,
+        "originalIndex": 1637,
         "lb1": {
             "attack": 810,
             "defense": 799,
@@ -111519,7 +115273,7 @@ window.allHeroes =
         "defense": 934,
         "health": 1762,
         "effects": [
-            "移除所有盟友（除施法者外）的狀態效果。包含无法驅散或無法淨化的狀態效果。",
+            "移除所有盟友（除施法者外）的狀態效果。包含無法驅散或無法淨化的狀態效果。",
             "為所有盟友恢復 48% 生命值。",
             "除施法者外的所有盟友跳起靈魂之舞，持續 4 回合：",
             "* +110% 攻擊力。",
@@ -111530,7 +115284,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1573,
+        "originalIndex": 1638,
         "lb1": {
             "attack": 1060,
             "defense": 1007,
@@ -111601,7 +115355,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1574,
+        "originalIndex": 1639,
         "lb1": {
             "attack": 648,
             "defense": 856,
@@ -111669,11 +115423,11 @@ window.allHeroes =
             "接下来 4 回合，每回合结束时，对所有受到血百合標記的敵人造成 135% 傷害。（每個角色每回合可以觸發一次此效果）"
         ],
         "passives": [
-            "目标每有一層血百合叠加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
+            "目标每有一層血百合疊加，受到此角色的普通攻擎和特殊技能造成的增加 5%。"
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1575,
+        "originalIndex": 1640,
         "lb1": {
             "attack": 1431,
             "defense": 1309,
@@ -111740,7 +115494,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1576,
+        "originalIndex": 1641,
         "lb1": {
             "attack": 721,
             "defense": 839,
@@ -111811,7 +115565,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1577,
+        "originalIndex": 1642,
         "lb1": {
             "attack": 859,
             "defense": 1076,
@@ -111892,7 +115646,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1578,
+        "originalIndex": 1643,
         "lb1": {
             "attack": 1318,
             "defense": 1414,
@@ -111974,7 +115728,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1579,
+        "originalIndex": 1644,
         "lb1": {
             "attack": 1167,
             "defense": 1105,
@@ -112044,7 +115798,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1580,
+        "originalIndex": 1645,
         "lb1": {
             "attack": 945,
             "defense": 870,
@@ -112114,7 +115868,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1581,
+        "originalIndex": 1646,
         "lb1": {
             "attack": 1363,
             "defense": 1307,
@@ -112188,7 +115942,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1582,
+        "originalIndex": 1647,
         "lb1": {
             "attack": 777,
             "defense": 859,
@@ -112266,7 +116020,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1583,
+        "originalIndex": 1648,
         "lb1": {
             "attack": 1367,
             "defense": 1272,
@@ -112333,7 +116087,7 @@ window.allHeroes =
         "defense": 1133,
         "health": 1707,
         "effects": [
-            "對目標及附近敵人造成 435% 傷害。",
+            "對目標與附近敵人造成 435% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 708 點流血傷害。所有盟友能吸收所造成之流血傷害的 50% 作為加成生命值。",
             "目標和附近敵人在 4 回合內無法獲得新的狀態效果增益。"
         ],
@@ -112342,7 +116096,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1584,
+        "originalIndex": 1649,
         "lb1": {
             "attack": 1183,
             "defense": 1221,
@@ -112373,6 +116127,75 @@ window.allHeroes =
         ]
     },
     {
+        "name": "日和 (Hiyori)",
+        "fancy_name": "蓬萊山藝妓",
+        "AetherPower": "回復",
+        "color": "黃",
+        "class": "術士",
+        "speed": "衝鋒",
+        "skill": "永生扇子",
+        "types": [
+            "蓄力",
+            "全體治療",
+            "復活者",
+            "全體法力提升",
+            "淨化全體最近的/全部異常狀態"
+        ],
+        "skill_types": [],
+        "source": "高塔 - 忍者",
+        "Release date": "2026-05-03",
+        "specialId": "sensu_of_immortality",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "heroId": "ronin_hiyori",
+        "star": 5,
+        "power": 1323,
+        "attack": 1363,
+        "defense": 1386,
+        "health": 2381,
+        "effects": [
+            "特殊技能在法力充能達 100% / 200% / 300% 時有不同效果：",
+            "x 1 法力充能：",
+            "* 為所有盟友恢復 15% 生命值。",
+            "* 每個落敗盟友有 30% 的機率以 30% 生命復活。",
+            "* 接下來 2 個回合，所有盟友都會在回合结束時獲得 10% 法力。",
+            "x 2 法力充能：",
+            "* 為所有盟友恢復 35% 生命值。",
+            "* 每個落敗盟友有 40% 的機率以 40% 生命復活。",
+            "* 淨化所有盟友的 1 個狀態異常。（狀態異常會依照獲得的顺序遭到淨化。最新的状態異常會先被淨化。）",
+            "* 接下來 3 個回合，所有盟友都會在回合结束時獲得 10% 法力。",
+            "x 3 法力充能：",
+            "* 為所有盟友恢復 55% 生命值。",
+            "* 每個落敗盟友有 60% 的機率以 60% 生命復活。",
+            "* 淨化所有盟友的狀態異常。",
+            "* 接下來 5 個回合，所有盟友都會在回合结束時獲得 15% 法力。"
+        ],
+        "passives": [
+            "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
+            "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
+        ],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": 1650,
+        "lb1": {
+            "attack": 1469,
+            "defense": 1494,
+            "health": 2566,
+            "power": 1416
+        },
+        "lb2": {
+            "attack": 1681,
+            "defense": 1709,
+            "health": 2936,
+            "power": 1602
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "荷魯斯 (Horus)",
         "fancy_name": "狩獵之神",
         "AetherPower": "閃避",
@@ -112401,7 +116224,7 @@ window.allHeroes =
         "defense": 795,
         "health": 1598,
         "effects": [
-            "對目標及附近敵人造成 250% 傷害。",
+            "對目標與附近敵人造成 250% 傷害。",
             "在 3 個回合內使目標與附近敵人的最大生命值降低 450 點。對有生命加成的目標效果更大。最大生命值不得低於原生命值的 30%。任何生命值加成會造成額外降低每回合 150 點。"
         ],
         "passives": [
@@ -112411,7 +116234,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1585,
+        "originalIndex": 1651,
         "lb1": {
             "attack": 888,
             "defense": 856,
@@ -112471,7 +116294,7 @@ window.allHeroes =
         "defense": 1158,
         "health": 2394,
         "effects": [
-            "對目標及附近敵人造成 230% 傷害。",
+            "對目標與附近敵人造成 230% 傷害。",
             "在 3 個回合內使目標與附近敵人的最大生命值降低 600 點。對有生命加成的目標效果更大。最大生命值不得低於原生命值的 30%。任何生命值加成會造成額外降低每回合 200 點。"
         ],
         "passives": [
@@ -112483,7 +116306,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1586,
+        "originalIndex": 1652,
         "lb1": {
             "attack": 1284,
             "defense": 1248,
@@ -112538,14 +116361,14 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_ibelis",
         "star": 5,
-        "power": 1273,
-        "attack": 1359,
-        "defense": 1299,
-        "health": 2210,
+        "power": 1283,
+        "attack": 1367,
+        "defense": 1310,
+        "health": 2235,
         "effects": [
             "對位於敵方陣型邊緣的敵人造成 310% 傷害。如果只有一個敵人，傷害加倍。",
             "減少 20% 位於敵方陣型邊緣的敵人法力。如果只有一個敵人，法力減損加倍。",
-            "敵方陣型邊緣的敵人將受到持續 2 回合的共振效果，共振對受影響的敵人造成 716 點傷害，並對附近敵人造成 358 點傷害。"
+            "敵方陣型邊緣的敵人將受到持續 2 回合的共振效果，共振對受影響的敵人造成 720 點傷害，並對附近敵人造成 360 點傷害。"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -112554,18 +116377,18 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1587,
+        "originalIndex": 1653,
         "lb1": {
-            "attack": 1465,
-            "defense": 1400,
-            "health": 2382,
-            "power": 1363
+            "attack": 1474,
+            "defense": 1411,
+            "health": 2408,
+            "power": 1373
         },
         "lb2": {
-            "attack": 1676,
-            "defense": 1602,
-            "health": 2725,
-            "power": 1541
+            "attack": 1686,
+            "defense": 1615,
+            "health": 2755,
+            "power": 1553
         },
         "cn_skill_info": [
             {
@@ -112636,7 +116459,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1588,
+        "originalIndex": 1654,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -112689,15 +116512,15 @@ window.allHeroes =
         ],
         "heroId": "forsaken_inanis",
         "star": 5,
-        "power": 1266,
-        "attack": 1345,
-        "defense": 1293,
-        "health": 2202,
+        "power": 1291,
+        "attack": 1369,
+        "defense": 1318,
+        "health": 2276,
         "effects": [
-            "對目標造成 330% 傷害。",
-            "對隨機 2 名敵人造成額外 330% 傷害。",
+            "對目標造成 350% 傷害。",
+            "對隨機 2 名敵人造成額外 350% 傷害。",
             "所有被擊中的目標在每次被擊中時獲得 15 點狂亂。",
-            "疊加（最大值： 10 ）：被命中的敵人受到的所有傷害增加 4%。",
+            "疊加（最大值： 10 ）：被命中的敵人受到的所有傷害增加 5%。",
             "對施法者造成 35 點瘋狂。"
         ],
         "passives": [
@@ -112706,18 +116529,18 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1589,
+        "originalIndex": 1655,
         "lb1": {
-            "attack": 1449,
-            "defense": 1394,
-            "health": 2373,
-            "power": 1354
+            "attack": 1476,
+            "defense": 1420,
+            "health": 2453,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1595,
-            "health": 2715,
-            "power": 1532
+            "attack": 1689,
+            "defense": 1625,
+            "health": 2806,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -112772,7 +116595,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1590,
+        "originalIndex": 1656,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -112844,7 +116667,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1591,
+        "originalIndex": 1657,
         "lb1": {
             "attack": 1040,
             "defense": 921,
@@ -112931,7 +116754,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1592,
+        "originalIndex": 1658,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -113009,7 +116832,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1593,
+        "originalIndex": 1659,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -113085,7 +116908,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1594,
+        "originalIndex": 1660,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -113159,7 +116982,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1595,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -113225,7 +117048,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1596,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -113296,10 +117119,12 @@ window.allHeroes =
             "所有盟友獲得 +60% 暴擊率，持續 5 回合。",
             "施法者獲得 -5% 法力產出，持續 5 回合。此效果無法淨化。"
         ],
-        "passives": [],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）：每回合回復 30 點生命值。"
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1597,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 1129,
             "defense": 1270,
@@ -113380,7 +117205,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1598,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -113434,7 +117259,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "heroId": "elemental_jequn_costume_gilded",
         "star": 5,
         "power": 1214,
@@ -113453,11 +117280,12 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "- 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "- 受到元素傷害： -25%",
+            "抵禦暗黑異常：此角色免疫暗黑系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1599,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 1308,
             "defense": 1191,
@@ -113519,7 +117347,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1600,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -113580,7 +117408,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1601,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 908,
             "defense": 787,
@@ -113637,14 +117465,14 @@ window.allHeroes =
         "defense": 826,
         "health": 1901,
         "effects": [
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 195 點燃燒傷害。",
             "目標與附近敵人獲得 -35% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1602,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 1048,
             "defense": 890,
@@ -113713,7 +117541,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1603,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 1255,
             "defense": 1070,
@@ -113786,7 +117614,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1604,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1445,
             "defense": 1188,
@@ -113816,6 +117644,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "尤恩 (Joon) 英姿",
+        "fancy_name": "時尚太陽僧侶",
+        "AetherPower": "閃避",
+        "color": "黃",
+        "class": "僧侶",
+        "speed": "快速",
+        "skill": "時尚光束",
+        "types": [
+            "攻擊單個目標",
+            "單體致盲"
+        ],
+        "skill_types": [],
+        "source": "服裝間",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_beam",
+        "parent_specialId": "solar_beam",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "oriental_enchanted_monk_costume_stylish",
+        "star": 5,
+        "power": 1332,
+        "attack": 1483,
+        "defense": 1174,
+        "health": 2570,
+        "effects": [
+            "對目標造成 568% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 668% 傷害。",
+            "目標獲得 -39% 精準度，持續 6 回合。"
+        ],
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 1671,
+        "lb1": {
+            "attack": 1598,
+            "defense": 1265,
+            "health": 2770,
+            "power": 1426
+        },
+        "lb2": {
+            "attack": 1829,
+            "defense": 1447,
+            "health": 3169,
+            "power": 1613
+        },
+        "cn_skill_info": []
     },
     {
         "name": "賈夫 (Jove)",
@@ -113857,7 +117737,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1605,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -113917,7 +117797,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1606,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -113985,7 +117865,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1607,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 820,
             "defense": 878,
@@ -114053,7 +117933,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1608,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 959,
             "defense": 970,
@@ -114125,7 +118005,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1609,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 1269,
             "defense": 1008,
@@ -114198,7 +118078,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1610,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 1452,
             "defense": 1126,
@@ -114256,10 +118136,10 @@ window.allHeroes =
         ],
         "heroId": "slime_justico",
         "star": 5,
-        "power": 1289,
-        "attack": 1310,
-        "defense": 1369,
-        "health": 2303,
+        "power": 1304,
+        "attack": 1324,
+        "defense": 1384,
+        "health": 2346,
         "effects": [
             "對所有敵人造成 350% 傷害。",
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
@@ -114272,18 +118152,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1611,
+        "originalIndex": 1678,
         "lb1": {
-            "attack": 1411,
-            "defense": 1476,
-            "health": 2481,
-            "power": 1379
+            "attack": 1427,
+            "defense": 1491,
+            "health": 2528,
+            "power": 1395
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1689,
-            "health": 2839,
-            "power": 1560
+            "attack": 1633,
+            "defense": 1706,
+            "health": 2893,
+            "power": 1579
         },
         "cn_skill_info": [
             {
@@ -114342,7 +118222,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1612,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -114404,7 +118284,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1613,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -114472,7 +118352,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1614,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1145,
             "defense": 1207,
@@ -114553,7 +118433,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1615,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -114621,16 +118501,17 @@ window.allHeroes =
         ],
         "heroId": "slime_labblub",
         "star": 5,
-        "power": 1249,
-        "attack": 1254,
-        "defense": 1316,
-        "health": 2263,
+        "power": 1264,
+        "attack": 1268,
+        "defense": 1330,
+        "health": 2307,
         "effects": [
             "摧毀所有敵人的全部小兵並對所有超級小兵造成傷害。",
             "對所有敵人造成 350% 傷害。",
             "每摧毀一名小兵，所有盟友獲得 5% 法力。",
             "所有盟友抵禦新的負面法力效果，持續 4 回合，根據每個抵禦的效果，法力提升 20%。",
-            "所有敵人受到吞噬黏液狀態異常，持續 4 回合。移除所有可驅散的增益和成長效果，每回合造成 200 點傷害，並且每移除一個效果就會受到 50 點傷害。"
+            "所有敵人受到吞噬黏液狀態異常，持續 4 回合。",
+            "吞噬黏液：移除所有可驅散的增益和成長效果，每回合造成 200 點傷害，並且每移除一個效果就會受到 50 點傷害。（如果目標已有此效果，則會刷新持續時間，並從移除效果所受的額外傷害將會加到新效果中。每回合傷害不得超過 700 ）"
         ],
         "passives": [
             "被擊敗時召喚史萊姆小兵：當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的 50% 生命值和 40% 攻擊力。",
@@ -114638,18 +118519,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1616,
+        "originalIndex": 1683,
         "lb1": {
-            "attack": 1351,
-            "defense": 1418,
-            "health": 2439,
-            "power": 1336
+            "attack": 1367,
+            "defense": 1434,
+            "health": 2486,
+            "power": 1353
         },
         "lb2": {
-            "attack": 1546,
-            "defense": 1623,
-            "health": 2791,
-            "power": 1511
+            "attack": 1564,
+            "defense": 1640,
+            "health": 2844,
+            "power": 1529
         },
         "cn_skill_info": [
             {
@@ -114728,7 +118609,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1617,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -114798,7 +118679,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1618,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -114867,7 +118748,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1619,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1414,
             "defense": 1345,
@@ -114945,7 +118826,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1620,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -115019,7 +118900,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1621,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -115082,7 +118963,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1622,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -115147,7 +119028,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1623,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 870,
             "defense": 898,
@@ -115212,7 +119093,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1624,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 999,
             "defense": 1010,
@@ -115287,7 +119168,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1625,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 1228,
             "defense": 1187,
@@ -115360,7 +119241,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1626,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 1441,
             "defense": 1301,
@@ -115420,10 +119301,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_stylish",
         "star": 5,
-        "power": 1292,
-        "attack": 1417,
-        "defense": 1272,
-        "health": 2252,
+        "power": 1332,
+        "attack": 1456,
+        "defense": 1307,
+        "health": 2374,
         "effects": [
             "對目標造成 585% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 730% 傷害。",
@@ -115435,18 +119316,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1627,
+        "originalIndex": 1694,
         "lb1": {
-            "attack": 1527,
-            "defense": 1371,
-            "health": 2427,
-            "power": 1383
+            "attack": 1569,
+            "defense": 1408,
+            "health": 2558,
+            "power": 1426
         },
         "lb2": {
-            "attack": 1748,
-            "defense": 1569,
-            "health": 2777,
-            "power": 1564
+            "attack": 1795,
+            "defense": 1611,
+            "health": 2927,
+            "power": 1614
         },
         "cn_skill_info": [
             {
@@ -115507,7 +119388,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1628,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -115583,7 +119464,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1629,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -115662,7 +119543,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1630,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -115731,11 +119612,11 @@ window.allHeroes =
             "元素鏈給予所有神聖盟友 +10% 暴擊率，持續 6 個回合。此效果無法淨化。"
         ],
         "passives": [
-            "抵禦防禦異常：此英雄對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。"
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。"
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -115803,7 +119684,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1632,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -115880,7 +119761,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1633,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -115954,7 +119835,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -116030,7 +119911,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1635,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -116099,7 +119980,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1636,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -116181,7 +120062,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1637,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1287,
             "defense": 1310,
@@ -116259,7 +120140,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -116328,7 +120209,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1639,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -116406,7 +120287,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -116475,7 +120356,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1641,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -116546,12 +120427,12 @@ window.allHeroes =
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
-            "* 所有敵人獲得腐蝕冰霜，持續 3 回合。極地核心完全暴增時，腐蝕冰霜會造成 316 冰霜傷害，並在每回合降低目標 -15% 攻擊。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 316 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
             "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -116611,7 +120492,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1643,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -116680,7 +120561,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1644,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 1065,
             "defense": 939,
@@ -116748,7 +120629,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1645,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -116830,7 +120711,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1646,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -116895,7 +120776,7 @@ window.allHeroes =
         "defense": 1126,
         "health": 2200,
         "effects": [
-            "對目標及附近敵人造成 335% 傷害。",
+            "對目標與附近敵人造成 335% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 150% 的傷害，持續 4 回合。",
             "施法者與附近盟友會獲得燃燒之觸，持續 4 回合。（燃燒之觸：擁有此狀態效果的角色每次反擊敵人時，攻擊者將在 4 回合內受到共計 492 點燃燒傷害）"
         ],
@@ -116906,7 +120787,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1647,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -116964,13 +120845,13 @@ window.allHeroes =
         "defense": 718,
         "health": 1369,
         "effects": [
-            "對目標及附近敵人造成 280% 傷害。",
+            "對目標與附近敵人造成 280% 傷害。",
             "目標與附近敵人在 5 個回合中對具有強大抗性的元素會減弱抗性。對於通常較弱的元素，抗性還是較低。"
         ],
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1648,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -117024,13 +120905,13 @@ window.allHeroes =
         "defense": 920,
         "health": 1663,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "目標與附近敵人在 6 個回合中對具有強大抗性的元素會減弱抗性。對於通常較弱的元素，抗性還是較低。"
         ],
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1649,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1145,
             "defense": 991,
@@ -117055,6 +120936,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "諾恩 (Norns) 卡通",
+        "fancy_name": "公仔命運編織者",
+        "AetherPower": "特殊加成",
+        "color": "黃",
+        "class": "術士",
+        "speed": "中等",
+        "skill": "公仔命運扭轉",
+        "types": [
+            "攻擊3個目標",
+            "3個目標防禦弱化"
+        ],
+        "skill_types": [],
+        "source": "S3 - 瓦爾哈拉",
+        "Release date": "2026-04-29",
+        "specialId": "twist_of_toon_fate",
+        "parent_specialId": "twist_of_fate",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_norns_costume_cute",
+        "star": 5,
+        "power": 1348,
+        "attack": 1421,
+        "defense": 1319,
+        "health": 2547,
+        "effects": [
+            "對目標與附近敵人造成 330% 傷害。",
+            "目標與附近敵人在 5 個回合中對具有強大抗性的元素會減弱抗性。對於通常較弱的元素，抗性還是較低。",
+            "對暗黑系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "vanaheim",
+        "costume_id": 2,
+        "originalIndex": 1717,
+        "lb1": {
+            "attack": 1531,
+            "defense": 1421,
+            "health": 2744,
+            "power": 1442
+        },
+        "lb2": {
+            "attack": 1752,
+            "defense": 1626,
+            "health": 3140,
+            "power": 1633
+        },
+        "cn_skill_info": []
     },
     {
         "name": "歐丁 (Odin)",
@@ -117091,7 +121024,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1650,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -117159,7 +121092,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1651,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1031,
             "defense": 1054,
@@ -117232,7 +121165,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1652,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -117295,7 +121228,7 @@ window.allHeroes =
         "defense": 815,
         "health": 1437,
         "effects": [
-            "對目標及附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 330% 傷害。",
             "施法者在 4 個回合內竊取目標與附近敵人產出的法力，一開始僅竊取少量法力，每個回合逐漸增加，最後一回合會竊取產出的所有法力。此效果無法淨化，但在施法者被擊敗後會被移除。",
             "元素鏈會為所有神聖盟友恢復 4% 生命，持續 6 回合。此效果無法淨化。"
         ],
@@ -117304,7 +121237,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1653,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -117359,17 +121292,17 @@ window.allHeroes =
         ],
         "heroId": "vegetable_onwyn",
         "star": 5,
-        "power": 1285,
-        "attack": 1336,
-        "defense": 1322,
-        "health": 2305,
+        "power": 1290,
+        "attack": 1341,
+        "defense": 1326,
+        "health": 2317,
         "effects": [
-            "對目標和 5 名隨機敵人造成 375% 傷害。",
+            "對目標和 5 名隨機敵人造成 385% 傷害。",
             "每攻擊一個敵人，就召唤一個種子惡魔。（2 回合後，种子态會进化為發芽惡魔。 2 回合後，發芽惡魔會进化為盛開超級惡魔。）",
             "* 种子惡魔： 50% 攻撃、 20% 生命。",
             "* 發芽惡魔： 75% 攻撃、 30% 生命。",
             "* 盛开超級惡魔： 250% 攻撃、 60% 生命。（惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值决定所需的治療量。惡魔每次吸收傷害時，會使進化延遲 1 回合。）",
-            "所有命中目標獲得 -49% 精準度，持續 5 個回合。（進攻型特殊技能也有機率無法擊中。）"
+            "所有命中目標獲得 -55% 精準度，持續 6 個回合。（進攻型特殊技能也有機率無法擊中。）"
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
@@ -117383,18 +121316,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1654,
+        "originalIndex": 1722,
         "lb1": {
-            "attack": 1440,
-            "defense": 1425,
-            "health": 2484,
-            "power": 1375
+            "attack": 1445,
+            "defense": 1429,
+            "health": 2497,
+            "power": 1380
         },
         "lb2": {
-            "attack": 1648,
-            "defense": 1630,
-            "health": 2842,
-            "power": 1556
+            "attack": 1653,
+            "defense": 1635,
+            "health": 2857,
+            "power": 1561
         },
         "cn_skill_info": [
             {
@@ -117456,7 +121389,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1655,
+        "originalIndex": 1723,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -117542,7 +121475,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1656,
+        "originalIndex": 1724,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -117619,7 +121552,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1657,
+        "originalIndex": 1725,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -117702,7 +121635,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1658,
+        "originalIndex": 1726,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -117792,7 +121725,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1659,
+        "originalIndex": 1727,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -117870,7 +121803,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1660,
+        "originalIndex": 1728,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -117948,7 +121881,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1661,
+        "originalIndex": 1729,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -118016,7 +121949,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1730,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -118077,7 +122010,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1663,
+        "originalIndex": 1731,
         "lb1": {
             "attack": 990,
             "defense": 957,
@@ -118102,6 +122035,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "波塞冬 (Poseidon) 卡通",
+        "fancy_name": "亞特蘭蒂斯統治者公仔",
+        "AetherPower": "攻擊提升",
+        "color": "黃",
+        "class": "戰士",
+        "speed": "快速",
+        "skill": "海洋公仔",
+        "types": [
+            "攻擊單個目標",
+            "全體法力減益免疫",
+            "全體特技阻擋免疫"
+        ],
+        "skill_types": [],
+        "source": "S2 - 亞特蘭蒂斯",
+        "Release date": "2026-04-29",
+        "specialId": "toon_of_the_seas",
+        "parent_specialId": "ruler_of_seas",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_poseidon_costume_cute",
+        "star": 5,
+        "power": 1348,
+        "attack": 1375,
+        "defense": 1371,
+        "health": 2563,
+        "effects": [
+            "對目標造成 550% 傷害。",
+            "所有盟友可抵禦新的負面法力效果，持續 3 回合，每次抵抗時法力增加 20%。",
+            "所有盟友對阻擋特殊技能使用的新效果免疫，持續 3 個回合。",
+            "對暗黑系造成額外傷害。"
+        ],
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 1732,
+        "lb1": {
+            "attack": 1482,
+            "defense": 1477,
+            "health": 2762,
+            "power": 1443
+        },
+        "lb2": {
+            "attack": 1695,
+            "defense": 1690,
+            "health": 3161,
+            "power": 1633
+        },
+        "cn_skill_info": []
     },
     {
         "name": "安柏斯教授 (Prof. Ambrose)",
@@ -118137,14 +122124,14 @@ window.allHeroes =
         ],
         "heroId": "institute_professor_ambrose",
         "star": 5,
-        "power": 1289,
-        "attack": 1316,
-        "defense": 1361,
-        "health": 2307,
+        "power": 1314,
+        "attack": 1341,
+        "defense": 1384,
+        "health": 2375,
         "effects": [
             "所有敵人屈服於恐懼，持續 5 回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 160% 傷害。每個角色 每回合只能觸發一次此效果。）",
             "枯萎：所有敵人獲得 -400 點攻擊。",
-            "對所有敵人造成 400% 傷害，并对其造成 25 點疯狂。",
+            "對所有敵人造成 420% 傷害，并对其造成 25 點疯狂。",
             "對施法者造成 45 點瘋狂。"
         ],
         "passives": [
@@ -118153,18 +122140,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1664,
+        "originalIndex": 1733,
         "lb1": {
-            "attack": 1418,
-            "defense": 1467,
-            "health": 2486,
-            "power": 1380
+            "attack": 1445,
+            "defense": 1491,
+            "health": 2559,
+            "power": 1406
         },
         "lb2": {
-            "attack": 1623,
-            "defense": 1678,
-            "health": 2844,
-            "power": 1561
+            "attack": 1653,
+            "defense": 1706,
+            "health": 2928,
+            "power": 1591
         },
         "cn_skill_info": [
             {
@@ -118232,7 +122219,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1665,
+        "originalIndex": 1734,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -118304,7 +122291,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1666,
+        "originalIndex": 1735,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -118367,7 +122354,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1667,
+        "originalIndex": 1736,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -118430,7 +122417,7 @@ window.allHeroes =
         "defense": 710,
         "health": 1367,
         "effects": [
-            "對目標及附近敵人造成 185% 傷害。",
+            "對目標與附近敵人造成 185% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 402 點沙系傷害。",
             "目標與附近敵人獲得的治療增加 -75%，持續 2 回合。此效果無法淨化。",
             "淨化施法者的狀態異常。"
@@ -118438,7 +122425,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1737,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -118500,7 +122487,7 @@ window.allHeroes =
         "defense": 908,
         "health": 1708,
         "effects": [
-            "對目標及附近敵人造成 185% 傷害。",
+            "對目標與附近敵人造成 185% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 708 點水系傷害。",
             "目標與附近敵人獲得的治療減少 -75%，持續 4 回合。此效果無法淨化。",
             "淨化施法者和附近盟友的狀態異常。"
@@ -118508,7 +122495,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1669,
+        "originalIndex": 1738,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -118577,7 +122564,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1739,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -118646,7 +122633,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1740,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -118713,7 +122700,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1741,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -118785,7 +122772,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1742,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -118851,7 +122838,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1674,
+        "originalIndex": 1743,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -118928,7 +122915,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1744,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -119009,7 +122996,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1676,
+        "originalIndex": 1745,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -119090,7 +123077,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1677,
+        "originalIndex": 1746,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -119154,7 +123141,7 @@ window.allHeroes =
         "health": 1979,
         "effects": [
             "驅散目標和附近敵人的增益。",
-            "對目標及附近敵人造成 420% 傷害。",
+            "對目標與附近敵人造成 420% 傷害。",
             "目標與附近敵人在 4 個回合內受到 620 點劇毒傷害。有加成生命值、小兵或一名超級小兵的目標會受到額外傷害。（對有加成生命值的目標造成的劇毒傷害 +100%。目標所擁有的每個小兵或超級小兵會額外增加 +33% 傷害，最高共可達 +199% ）",
             "施法者在 4 回合內恢復 1400 點生命值。"
         ],
@@ -119163,7 +123150,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1678,
+        "originalIndex": 1747,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -119228,14 +123215,14 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_savann",
         "star": 5,
-        "power": 1285,
-        "attack": 1392,
-        "defense": 1252,
-        "health": 2307,
+        "power": 1300,
+        "attack": 1406,
+        "defense": 1266,
+        "health": 2350,
         "effects": [
-            "使目標的最大生命值降低 1500 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 1500 點。）",
+            "使目標的最大生命值降低 1600 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 1600 點。）",
             "目標陷入沉默，持續 3 回合。",
-            "成長：附近盟友獲得 400 點攻擊。"
+            "成長：附近盟友獲得 450 點攻擊。"
         ],
         "passives": [
             "九條命：",
@@ -119250,18 +123237,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1679,
+        "originalIndex": 1748,
         "lb1": {
-            "attack": 1500,
-            "defense": 1349,
-            "health": 2486,
-            "power": 1375
+            "attack": 1516,
+            "defense": 1365,
+            "health": 2533,
+            "power": 1392
         },
         "lb2": {
-            "attack": 1717,
-            "defense": 1544,
-            "health": 2844,
-            "power": 1556
+            "attack": 1734,
+            "defense": 1562,
+            "health": 2898,
+            "power": 1574
         },
         "cn_skill_info": [
             {
@@ -119321,7 +123308,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1680,
+        "originalIndex": 1749,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -119404,7 +123391,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1750,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -119468,15 +123455,15 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_shareef",
         "star": 5,
-        "power": 1251,
-        "attack": 1336,
-        "defense": 1268,
-        "health": 2167,
+        "power": 1266,
+        "attack": 1351,
+        "defense": 1283,
+        "health": 2210,
         "effects": [
             "對目標造成 400% 傷害。",
             "對 2 名隨機敵人造成 400% 傷害。（若没有其他可用目标，则此效果會選擇與第一次打擊相同的敵人。）",
             "被命中的所有敵人，受到的傷害增加 +30%，持續 3 回合。",
-            "所有被擊中的目標在 3 回合內受到共計 657 點流血傷害。"
+            "所有被擊中的目標在 3 回合內受到共計 663 點流血傷害。"
         ],
         "passives": [
             "轉化增益：每當該角色施放特殊技能時，所有會影響敵人攻擊、防禦與法力產出的增益，皆會轉化為對應的狀態異常，且此状態無法驅散。轉化效果：",
@@ -119491,18 +123478,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1751,
         "lb1": {
-            "attack": 1440,
-            "defense": 1367,
-            "health": 2335,
-            "power": 1338
+            "attack": 1456,
+            "defense": 1383,
+            "health": 2382,
+            "power": 1355
         },
         "lb2": {
-            "attack": 1648,
-            "defense": 1564,
-            "health": 2672,
-            "power": 1513
+            "attack": 1666,
+            "defense": 1582,
+            "health": 2725,
+            "power": 1532
         },
         "cn_skill_info": [
             {
@@ -119557,7 +123544,7 @@ window.allHeroes =
         "defense": 1149,
         "health": 1703,
         "effects": [
-            "對目標及附近敵人造成 300% 傷害。",
+            "對目標與附近敵人造成 300% 傷害。",
             "召喚一個從此施法者繼承 35% 生命值和 300% 攻擊力的刀劍守衛超級小兵。",
             "被刀劍守衛超級小兵擊中的目標會在 3 回合內受到共計 411 點流血傷害。此效果會蔓延至附近敵人。"
         ],
@@ -119567,7 +123554,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1683,
+        "originalIndex": 1752,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -119636,7 +123623,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1753,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -119698,7 +123685,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1685,
+        "originalIndex": 1754,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -119762,7 +123749,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1755,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -119829,7 +123816,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1687,
+        "originalIndex": 1756,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -119855,6 +123842,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "盧斯特力爵士 (Sir Roostley) C1",
+        "fancy_name": "斯普林維爾勇猛鍊金術士",
+        "AetherPower": "攻擊提升",
+        "color": "黃",
+        "class": "牧師",
+        "speed": "中等",
+        "skill": "煉金術士長槍",
+        "types": [
+            "攻擊單個目標",
+            "連鎖攻擊",
+            "自身防禦減益"
+        ],
+        "skill_types": [],
+        "source": "月活動 - 斯普林維爾",
+        "Release date": "2026-03-30",
+        "specialId": "alchemist_lance",
+        "parent_specialId": "luminous_lance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "heroId": "easter_sir_roostley_costume_alchemist",
+        "star": 5,
+        "power": 1291,
+        "attack": 1369,
+        "defense": 1272,
+        "health": 2363,
+        "effects": [
+            "對目標造成 430% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。",
+            "對暗黑系造成額外傷害。"
+        ],
+        "passives": [
+            "特殊技能疊加：此角色施展特殊技能時，所有敵人獲得疊加（上限： 10 ）： -5% 防禦。"
+        ],
+        "family": "easter",
+        "costume_id": 1,
+        "originalIndex": 1757,
+        "lb1": {
+            "attack": 1476,
+            "defense": 1371,
+            "health": 2547,
+            "power": 1382
+        },
+        "lb2": {
+            "attack": 1689,
+            "defense": 1569,
+            "health": 2914,
+            "power": 1563
+        },
+        "cn_skill_info": []
     },
     {
         "name": "斯拉吉斯 (Sludgus)",
@@ -119901,7 +123942,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1758,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -119985,7 +124026,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1689,
+        "originalIndex": 1759,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -120055,7 +124096,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1690,
+        "originalIndex": 1760,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -120085,6 +124126,66 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "天戈 (Tengo)",
+        "fancy_name": "褻瀆太陽之主構造體",
+        "AetherPower": "回復",
+        "color": "黃",
+        "class": "牧師",
+        "speed": "中等",
+        "skill": "太陽之主的禁忌烈焰",
+        "types": [
+            "攻擊所有目標",
+            "自我治療",
+            "嘲諷",
+            "全體延遲攻擊"
+        ],
+        "skill_types": [],
+        "source": "聖約召喚",
+        "Release date": "2026-05-16",
+        "specialId": "sunlords_forbidden_flame",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_tengo",
+        "star": 5,
+        "power": 1326,
+        "attack": 1413,
+        "defense": 1374,
+        "health": 2301,
+        "effects": [
+            "對目標造成 500% 傷害，並對其餘敵人造成輕微傷害。",
+            "為施法者治療 30% 的傷害。",
+            "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
+            "此效果啟用時，将根據施法者所受到的傷害，在 4 個回合後對所有敵人造成 480 -1243 點傷害。（在受到最大生命值 50% 的傷害時，效果將最大化）"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
+            "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
+            "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -50。"
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 1761,
+        "lb1": {
+            "attack": 1522,
+            "defense": 1480,
+            "health": 2479,
+            "power": 1419
+        },
+        "lb2": {
+            "attack": 1742,
+            "defense": 1694,
+            "health": 2837,
+            "power": 1606
+        },
+        "cn_skill_info": []
     },
     {
         "name": "索爾 (Thor)",
@@ -120119,7 +124220,7 @@ window.allHeroes =
             "* 對目標造成 280% 傷害。",
             "* 目標獲得 -40% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
             "第 2 次：",
-            "* 對目標及附近敵人造成 280% 傷害。",
+            "* 對目標與附近敵人造成 280% 傷害。",
             "* 目標與附近敵人獲得 -40% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
             "第三次：",
             "* 對所有敵人造成 280% 傷害。",
@@ -120128,7 +124229,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1762,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -120197,7 +124298,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1692,
+        "originalIndex": 1763,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -120268,7 +124369,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1693,
+        "originalIndex": 1764,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -120334,7 +124435,7 @@ window.allHeroes =
         "defense": 1065,
         "health": 2072,
         "effects": [
-            "對目標及附近敵人造成 355% 傷害。",
+            "對目標與附近敵人造成 355% 傷害。",
             "敵人的生命越高，受到的傷害越多，最高可達 435%。",
             "施法者和附近盟友攻擊無視防禦增益，持續 3 回合。（包含反擊）",
             "施法者和附近盟友的特殊技能造成額外 +80% 傷害，持續 3 回合。"
@@ -120345,7 +124446,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1694,
+        "originalIndex": 1765,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -120408,7 +124509,7 @@ window.allHeroes =
             "* 每摧毀一名小兵，所有盟友獲得少量法力。",
             "x 2 法力充能：",
             "* 摧毀目標和附近敵人的所有小兵。此效果會對超級小兵造成傷害。",
-            "* 對目標及附近敵人造成 350% 傷害。",
+            "* 對目標與附近敵人造成 350% 傷害。",
             "* 每摧毀一名小兵，所有盟友獲得少量法力。",
             "x 3 法力充能：",
             "* 摧毀所有敵人的所有小兵。此效果會對超級小兵造成傷害。",
@@ -120418,7 +124519,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1695,
+        "originalIndex": 1766,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -120445,6 +124546,93 @@ window.allHeroes =
             {
                 "增益效果": [
                     "法力-法力恢復"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "部隊模仿怪 (Troop Mimic Holy)",
+        "fancy_name": "恐懼軍火庫賞金",
+        "AetherPower": "壁壘",
+        "color": "黃",
+        "class": "巫師",
+        "speed": "中等",
+        "skill": "貪婪咀嚼",
+        "types": [
+            "攻擊單個目標",
+            "寶箱怪",
+            "全體普通攻擊增益"
+        ],
+        "skill_types": [],
+        "source": "市場召喚",
+        "Release date": "2026-04-08",
+        "specialId": "gluttonous_chomp_yellow",
+        "passiveSkills": [
+            "mimic_troop_yellow",
+            "never_miss_special"
+        ],
+        "heroId": "mimic_troop_yellow",
+        "star": 5,
+        "power": 1282,
+        "attack": 1336,
+        "defense": 1332,
+        "health": 2263,
+        "effects": [
+            "對目標造成 480% 傷害。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "所有冰雪盟友獲得 4 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ],
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "稀有：",
+            "* 虔誠鬥士。",
+            "* 虔誠刺客。",
+            "* 高級守護建造物。",
+            "* 訓練師部隊。",
+            "罕見：",
+            "* 尊貴僧侶。",
+            "* 虔誠巫師。",
+            "* 訓練師部隊。",
+            "普通：",
+            "* 普通村民。",
+            "* 修行盜賊。",
+            "* 虔誠戰士。",
+            "* 訓練師部隊。"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1767,
+        "lb1": {
+            "attack": 1440,
+            "defense": 1436,
+            "health": 2439,
+            "power": 1372
+        },
+        "lb2": {
+            "attack": 1648,
+            "defense": 1643,
+            "health": 2791,
+            "power": 1552
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-無視閃避",
+                    "治療-自我恢復/提高生命",
+                    "法力-法力恢復（擊殺）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-攻擊力↑",
+                    "防禦-擬態"
                 ]
             }
         ]
@@ -120495,7 +124683,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1696,
+        "originalIndex": 1768,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -120563,8 +124751,8 @@ window.allHeroes =
         "defense": 1324,
         "health": 2263,
         "effects": [
-            "對所有敵人造成 355% 傷害。",
-            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 800 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
+            "對所有敵人造成 305% 傷害。",
+            "成長恩惠：每一點已修改的攻擊造成 2 x點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 600 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
             "所有敵人獲得 -34% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
             "所有敵人在 4 回合內無法獲得新的狀態效果增益。"
         ],
@@ -120576,7 +124764,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1697,
+        "originalIndex": 1769,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -120663,7 +124851,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1698,
+        "originalIndex": 1770,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -120761,7 +124949,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1699,
+        "originalIndex": 1771,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -120833,7 +125021,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1700,
+        "originalIndex": 1772,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -120902,7 +125090,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1701,
+        "originalIndex": 1773,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -120971,7 +125159,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1702,
+        "originalIndex": 1774,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -121036,7 +125224,7 @@ window.allHeroes =
         "health": 2227,
         "effects": [
             "為所有盟友恢復 54% 生命值。",
-            "所有盟友獲得 +45% 防禦，持續 4 回合。對所有神聖系角色，此狀態效果无法驅散且持續時間延長 2 回合。",
+            "所有盟友獲得 +45% 防禦，持續 4 回合。對所有神聖系角色，此狀態效果無法驅散且持續時間延長 2 回合。",
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
@@ -121044,7 +125232,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1703,
+        "originalIndex": 1775,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -121121,7 +125309,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1704,
+        "originalIndex": 1776,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -121181,10 +125369,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_stylish",
         "star": 5,
-        "power": 1297,
-        "attack": 1307,
-        "defense": 1333,
-        "health": 2439,
+        "power": 1337,
+        "attack": 1342,
+        "defense": 1369,
+        "health": 2570,
         "effects": [
             "恢復剩餘生命值最低的盟友 65% 生命值。恢復其餘盟友 56% 生命值。",
             "所有盟友獲得 +61% 防禦，持續 4 回合。",
@@ -121195,18 +125383,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1705,
+        "originalIndex": 1777,
         "lb1": {
-            "attack": 1408,
-            "defense": 1437,
-            "health": 2628,
-            "power": 1388
+            "attack": 1446,
+            "defense": 1476,
+            "health": 2770,
+            "power": 1432
         },
         "lb2": {
-            "attack": 1611,
-            "defense": 1644,
-            "health": 3007,
-            "power": 1570
+            "attack": 1655,
+            "defense": 1689,
+            "health": 3169,
+            "power": 1620
         },
         "cn_skill_info": [
             {
@@ -121264,7 +125452,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1778,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -121345,7 +125533,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1707,
+        "originalIndex": 1779,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -121408,17 +125596,17 @@ window.allHeroes =
         ],
         "heroId": "beowulf_weland",
         "star": 5,
-        "power": 1260,
-        "attack": 1291,
-        "defense": 1312,
-        "health": 2261,
+        "power": 1275,
+        "attack": 1306,
+        "defense": 1326,
+        "health": 2303,
         "effects": [
             "對所有敵人造成 475% 傷害。",
             "所有盟友有 45% 機率將受到的任何傷害降低至 1 點，持續 5 回合。",
             "增益來源：以下效果在每回合開始時對一名隨機盟友施放：",
             "* +100% 特殊技能傷害，持續 5 回合。",
             "* +44% 法力產出，持續 5 回合。",
-            "增益來源將啟動 6 次。每次嘗試驅散則移除一次啟動數。"
+            "增益來源將啟動 6 次。 此效果為頑固。（每次嘗試驅散、淨化或轉移一個顽固效果，持續時間減少 1 回合或是剩餘的啟動次数减少 1 次。）"
         ],
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
@@ -121427,18 +125615,18 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1780,
         "lb1": {
-            "attack": 1391,
-            "defense": 1414,
-            "health": 2437,
-            "power": 1348
+            "attack": 1407,
+            "defense": 1429,
+            "health": 2481,
+            "power": 1364
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1617,
-            "health": 2788,
-            "power": 1525
+            "attack": 1610,
+            "defense": 1635,
+            "health": 2839,
+            "power": 1543
         },
         "cn_skill_info": [
             {
@@ -121487,13 +125675,13 @@ window.allHeroes =
         "defense": 749,
         "health": 1353,
         "effects": [
-            "對目標及附近敵人造成 280% 傷害。",
+            "對目標與附近敵人造成 280% 傷害。",
             "目標獲得 -34% 防禦，持續 4 回合。若目標受到治療，效果持續時間將重置。此效果無法淨化。"
         ],
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1709,
+        "originalIndex": 1781,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -121550,7 +125738,7 @@ window.allHeroes =
         "defense": 926,
         "health": 1883,
         "effects": [
-            "對目標及附近敵人造成 260% 傷害。",
+            "對目標與附近敵人造成 260% 傷害。",
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。若目標受到治療，效果持續時間將重置。此效果無法淨化。"
         ],
         "passives": [
@@ -121558,7 +125746,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1710,
+        "originalIndex": 1782,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -121642,7 +125830,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1783,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -121724,7 +125912,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1784,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -121793,7 +125981,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1713,
+        "originalIndex": 1785,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -121866,7 +126054,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1714,
+        "originalIndex": 1786,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -121925,10 +126113,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_wu_yong",
         "star": 5,
-        "power": 1249,
-        "attack": 1256,
-        "defense": 1316,
-        "health": 2263,
+        "power": 1264,
+        "attack": 1271,
+        "defense": 1330,
+        "health": 2305,
         "effects": [
             "此特殊技能有機會造成暴擊。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）。（造成暴擊的機率，是根據造成攻擊時英雄的整體暴擊率而定。此特殊技能造成的暴擊，造成 50% 額外傷害。在 PvP 戰鬥中，暴擊可降低敵人的最大生命值。敵人獲得生命值加成時，此效果更為顯著）",
             "對目標造成 450% 傷害。",
@@ -121946,18 +126134,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1715,
+        "originalIndex": 1787,
         "lb1": {
-            "attack": 1354,
-            "defense": 1418,
-            "health": 2439,
-            "power": 1337
+            "attack": 1369,
+            "defense": 1434,
+            "health": 2484,
+            "power": 1353
         },
         "lb2": {
-            "attack": 1549,
-            "defense": 1623,
-            "health": 2791,
-            "power": 1512
+            "attack": 1567,
+            "defense": 1640,
+            "health": 2842,
+            "power": 1530
         },
         "cn_skill_info": [
             {
@@ -122015,7 +126203,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1788,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -122093,7 +126281,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1717,
+        "originalIndex": 1789,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -122146,17 +126334,19 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "heroId": "elemental_xavier_costume_arthropod",
         "star": 5,
-        "power": 1289,
-        "attack": 1363,
-        "defense": 1257,
-        "health": 2399,
+        "power": 1314,
+        "attack": 1391,
+        "defense": 1284,
+        "health": 2449,
         "effects": [
-            "對目標造成 270% 傷害。",
-            "若戰隊裡有 1 名神聖系盟友，該傷害將增加至 330% 並影響附近的敵人。",
-            "若戰隊裡有 2 名神聖系盟友，該傷害將增加至 360% 並影響所有敵人。友方英雄需活著才能觸發該效果。",
+            "對目標造成 300% 傷害。",
+            "若戰隊裡有 1 名神聖系盟友，該傷害將增加至 350% 並影響附近的敵人。",
+            "若戰隊裡有 2 名神聖系盟友，該傷害將增加至 400% 並影響所有敵人。友方英雄需活著才能觸發該效果。",
             "使所有命中的敵人減少 -25% 法力。",
             "對暗黑系造成額外傷害。"
         ],
@@ -122165,22 +126355,23 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "* 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "* 受到元素傷害： -25%"
+            "* 受到元素傷害： -25%",
+            "抵禦暗黑異常：此角色免疫暗黑系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1718,
+        "originalIndex": 1790,
         "lb1": {
-            "attack": 1469,
-            "defense": 1355,
-            "health": 2586,
-            "power": 1380
+            "attack": 1500,
+            "defense": 1384,
+            "health": 2640,
+            "power": 1407
         },
         "lb2": {
-            "attack": 1680,
-            "defense": 1550,
-            "health": 2958,
-            "power": 1561
+            "attack": 1716,
+            "defense": 1583,
+            "health": 3020,
+            "power": 1591
         },
         "cn_skill_info": [
             {
@@ -122240,7 +126431,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1719,
+        "originalIndex": 1791,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -122291,16 +126482,18 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "heroId": "elemental_zandria_costume_planet",
         "star": 5,
-        "power": 1254,
-        "attack": 1203,
-        "defense": 1275,
-        "health": 2507,
+        "power": 1276,
+        "attack": 1227,
+        "defense": 1301,
+        "health": 2558,
         "effects": [
-            "對所有敵人造成 250% 傷害。",
-            "面板中每個神聖護盾將造成 25% 额外傷害，最多累積造成 550% 傷害。",
+            "對所有敵人造成 260% 傷害。",
+            "面板中每個神聖護盾將造成 25% 额外傷害，最多累積造成 560% 傷害。",
             "每個落敗盟友有 20% 機率以 45% 生命值復活。",
             "每個在面板上的神聖護盾會增加 5% 復活機率，最高至 80% 總機率。對暗黑造成額外傷害。",
             "對暗黑系造成額外傷害。"
@@ -122310,22 +126503,23 @@ window.allHeroes =
             "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
             "- 造成額外元素傷害： +150%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
-            "- 受到元素傷害： -25%"
+            "- 受到元素傷害： -25%",
+            "抵禦暗黑異常：此角色免疫暗黑系角色施放的異常狀態及負面效果疊加。"
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1720,
+        "originalIndex": 1792,
         "lb1": {
-            "attack": 1296,
-            "defense": 1374,
-            "health": 2702,
-            "power": 1341
+            "attack": 1323,
+            "defense": 1402,
+            "health": 2757,
+            "power": 1366
         },
         "lb2": {
-            "attack": 1483,
-            "defense": 1572,
-            "health": 3091,
-            "power": 1516
+            "attack": 1513,
+            "defense": 1604,
+            "health": 3154,
+            "power": 1545
         },
         "cn_skill_info": [
             {
@@ -122395,7 +126589,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1721,
+        "originalIndex": 1793,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -122464,7 +126658,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1722,
+        "originalIndex": 1794,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -122506,7 +126700,7 @@ window.allHeroes =
         "skill": "銳利刺針",
         "types": [
             "攻擊單個目標",
-            "彈射",
+            "隨機攻擊1個目標",
             "單體防禦降低"
         ],
         "skill_types": [
@@ -122542,7 +126736,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1723,
+        "originalIndex": 1795,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -122608,7 +126802,7 @@ window.allHeroes =
         "defense": 1001,
         "health": 1889,
         "effects": [
-            "對目標及附近敵人造成 275% 傷害。",
+            "對目標與附近敵人造成 275% 傷害。",
             "目標和附近敵人每獲得一個狀態異常便受到 225 點傷害，持續 4 回合。",
             "施法者和附近盟友對新的狀態異常免疫，持續 4 回合，且每當有狀態異常嘗試施加於其上，他們都將恢復 225 點生命值。"
         ],
@@ -122618,7 +126812,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1724,
+        "originalIndex": 1796,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -122682,7 +126876,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1725,
+        "originalIndex": 1797,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -122753,7 +126947,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1726,
+        "originalIndex": 1798,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -122822,7 +127016,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1727,
+        "originalIndex": 1799,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -122895,7 +127089,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1728,
+        "originalIndex": 1800,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -122950,34 +127144,33 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_zondalath",
         "star": 5,
-        "power": 1286,
-        "attack": 1312,
-        "defense": 1359,
-        "health": 2301,
+        "power": 1296,
+        "attack": 1322,
+        "defense": 1367,
+        "health": 2327,
         "effects": [
-            "為所有盟友恢復 45% 生命值。",
+            "為所有盟友恢復 46% 生命值。",
             "所有盟友受到的所有傷害降低 -50%，持續 4 回合。",
-            "除了施法者之外的所有盟友下一次使用特殊技能時獲得額外 +30% 攻擊力。额外攻擊力每回合增加 +30%，總計最多增加 +120%。"
+            "除了施法者之外的所有盟友下一次使用特殊技能時獲得額外 +35% 攻擊力。额外攻擊力每回合增加 +30%，總計最多增加 +125%。"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
-            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
-            "抵禦治療異常：此角色對影響治療的狀態異常免疫。"
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。"
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1729,
+        "originalIndex": 1801,
         "lb1": {
-            "attack": 1414,
-            "defense": 1465,
-            "health": 2479,
-            "power": 1377
+            "attack": 1425,
+            "defense": 1474,
+            "health": 2508,
+            "power": 1387
         },
         "lb2": {
-            "attack": 1617,
-            "defense": 1676,
-            "health": 2837,
-            "power": 1557
+            "attack": 1630,
+            "defense": 1686,
+            "health": 2870,
+            "power": 1569
         },
         "cn_skill_info": [
             {
@@ -123036,7 +127229,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1730,
+        "originalIndex": 1802,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -123066,213 +127259,5 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "盧斯特力爵士 (Sir Roostley) C1",
-        "fancy_name": "斯普林維爾勇猛鍊金術士",
-        "AetherPower": "",
-        "color": "黃",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_sir_roostley_costume_alchemist",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 1,
-        "originalIndex": 1731,
-        "cn_skill_info": []
-    },
-    {
-        "name": "伍勒頓女士 (Lady Woolerton) C1",
-        "fancy_name": "斯普林維爾理髮師",
-        "AetherPower": "",
-        "color": "黃",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_lady_woolerton_costume_coiffeuse",
-        "star": 4,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 1,
-        "originalIndex": 1732,
-        "cn_skill_info": []
-    },
-    {
-        "name": "兔子侍從 (Squire Wabbit) C1",
-        "fancy_name": "斯普林維爾初級騎士",
-        "AetherPower": "",
-        "color": "紅",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "rabbit_red_costume_knight",
-        "star": 3,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 1,
-        "originalIndex": 1733,
-        "cn_skill_info": []
-    },
-    {
-        "name": "惠特利公爵 (Duke Whitley)",
-        "fancy_name": "斯普林維爾高等法師",
-        "AetherPower": "",
-        "color": "紅",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_duke_whitley",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 0,
-        "originalIndex": 1734,
-        "cn_skill_info": []
-    },
-    {
-        "name": "馬可 (Marko)",
-        "fancy_name": "斯普林維爾旅人",
-        "AetherPower": "",
-        "color": "藍",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_marko",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 0,
-        "originalIndex": 1735,
-        "cn_skill_info": []
-    },
-    {
-        "name": "奧貝爾 (Auberguy)",
-        "fancy_name": "奧貝吉精靈",
-        "AetherPower": "",
-        "color": "紫",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_auberguy",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": 1736,
-        "cn_skill_info": []
-    },
-    {
-        "name": "卡薩薩 (Carthizux)",
-        "fancy_name": "星界惡魔狂熱者",
-        "AetherPower": "",
-        "color": "紅",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "astral_demon_carthizux",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "astral_demons",
-        "costume_id": 0,
-        "originalIndex": 1737,
-        "cn_skill_info": []
-    },
-    {
-        "name": "影山長門 (Kageyama Nagato)",
-        "fancy_name": "小偷手裡劍浪人",
-        "AetherPower": "",
-        "color": "綠",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ronin_kageyama_nagato",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ronin",
-        "costume_id": 0,
-        "originalIndex": 1738,
-        "cn_skill_info": []
     }
 ];

@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Pahlawan mendapatkan {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Kerendahan Hati saat menerima kerusakan langsung dari Keahlian Khusus."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Karakter ini meraih {CURRENTCHARGEFROMDAMAGE} Kerendahan Hati saat menerima kerusakan langsung dari Keahlian Khusus."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Pahlawan mendapatkan {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Kerendahan Hati saat menerima penyembuhan langsung dari Keahlian Khusus."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyembuhan langsung dari Keahlian Khusus."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","Pahlawan mendapatkan {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} Kerendahan Hati di akhir tiap giliran."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Karakter ini mendapatkan {CURRENTCHARGEONTURNEND} Kerendahan Hati pada akhir setiap giliran."
 "familybonuses.description.long.abyss","Peluang {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% untuk mengeluarkan Permata Jurang Liar saat Pahlawan ini merapal Keahlian Khususnya.
 Permata Jurang Liar menimbulkan {FIXEDPOWER} kerusakan kepada satu musuh secara acak setiap giliran sampai permata dicocokkan.
 Permata Jurang Liar hanya dapat muncul di perisai biasa yang cocok dengan elemen Pahlawan ini."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Mendapatkan {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}% mana saat wujud Hantu pada karakter ini kedaluwarsa."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Karakter ini meraih {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% mana saat menderita kerusakan Keahlian Khusus. Efek ini bisa diaktifkan satu kali per giliran."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% serangan."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% serangan."
@@ -14,13 +21,14 @@ Permata Jurang Liar hanya dapat muncul di perisai biasa yang cocok dengan elemen
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% serangan."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% serangan."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Semua sekutu mendapat {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% tumpukan serangan setiap kali karakter ini berupaya untuk Menggeledah musuh. (Tumpukan maks: {MAXSTACK})"
-"familybonuses.description.long.build_charge_beauty_beast","Beda pahlawan, beda persyaratan Kerendahan Hati.
+"familybonuses.description.long.build_charge_beauty_beast","Pahlawan memiliki persyaratan Kerendahan Hati masing-masing.
+Saat Pahlawan merapal versi kuat dari Keahlian Khusus, jumlah Kerendahan Hati yang terpakai hanyalah yang diperlukan.
+Kerendahan Hati maksimum: 100.
+Bonus untuk 1/2/3 Pahlawan unik dari keluarga yang sama:
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Beda pahlawan, beda persyaratan Kerendahan Hati.
 Saat Pahlawan merapal versi kuat dari Keahlian Khususnya, hanya jumlah Kerendahan Hati yang dibutuhkan yang dikonsumsi.
 Maksimum Kerendahan Hati: 100.
-Bonus untuk 1/2/3 Pahlawan unik dari keluarga yang sama:
-Pahlawan meraih {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Kerendahan Hati saat menerima kerusakan langsung dari Keahlian Khusus.
-Pahlawan meraih {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Kerendahan Hati saat menerima penyembuhan langsung dari Keahlian Khusus."
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Beda pahlawan, beda persyaratan Kerendahan Hati.
 Pahlawan meraih {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Kerendahan Hati saat menerima kerusakan langsung dari Keahlian Khusus. Maks. sekali per giliran.
 Pahlawan meraih {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Kerendahan Hati saat menerima penyembuhan langsung dari Keahlian Khusus. Maks. sekali per giliran."
 "familybonuses.description.long.build_charge_construct","Inti Konstruksi dicas setiap kali karakter ini mengalami kerusakan dari serangan normal atau Keahlian Khusus."
@@ -31,7 +39,7 @@ Pahlawan meraih {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGE
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Saat Pahlawan ini menerima status pelemahan yang memengaruhi pertahanan, berpeluang {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% untuk merapal pelemahan yang diterima kepada semua musuh."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","Peluang {2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% untuk meningkatkan durasi tiap efek status Tarian Hoki yang dirapal oleh karakter ini sebesar 1 giliran."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% kerusakan Keahlian Khusus tambahan."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Peluang {1MEMBERCHANCE}/{2MEMBERSCHANCE}% untuk membersihkan semua status pelemahan karakter ini saat menderita kerusakan dari Keahlian Khusus."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Peluang {1MEMBERCHANCE}/{2MEMBERSCHANCE}% untuk membersihkan 1 status pelemahan dari semua sekutu saat menderita kerusakan dari Keahlian Khusus."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","Peluang {1MEMBERCHANCE}/{2MEMBERSCHANCE}% untuk membersihkan status pelemahan acak yang bisa dibersihkan dari karakter ini saat menderita kerusakan dari Keahlian Khusus."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Peluang {1MEMBERCHANCE}%/{2MEMBERSCHANCE}% untuk membersihkan status pelemahan acak yang bisa dibersihkan dari semua sekutu saat karakter ini menderita kerusakan dari Keahlian Khusus musuh. Efek ini hanya bisa diaktifkan satu kali per giliran."
 "familybonuses.description.long.counter_attack_ninja","Peluang {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%  untuk menyerang balik dengan {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dari kerusakan yang diderita."
@@ -89,6 +97,7 @@ Minimal {MINSTAT}% dan maksimal {MAXSTAT}% dari nilai aslinya."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% kesehatan"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% kesehatan"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% HP."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Semua sekutu mendapat +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} tumpukan regenerasi kesehatan setiap kali karakter ini berupaya untuk Menenung musuh. (Tumpukan maks: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","Kerusakan {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%  lebih banyak ditimbulkan terhadap Antek Mega."
 "familybonuses.description.long.increased_damage_against_minions_2_members","Kerusakan {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}% lebih banyak ditimbulkan terhadap Antek."
 "familybonuses.description.long.increased_damage_against_minions_3_members","Kerusakan {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% lebih banyak ditimbulkan terhadap Antek."
@@ -136,6 +145,7 @@ Jika Keahlian Khusus musuh mengalahkan karakter ini, peluangnya {1MEMBERCHANCEPE
 Pahlawan menerima bonus keluarga dari keluarga terkait saat masuk tim dengan setidaknya 1 pahlawan terkait. Bonus untuk 1/2/3/4/5 pahlawan:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Pahlawan terkait dengan Keluarga Sihir.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Menimbulkan {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} kerusakan Air selama {STATUSEFFECT1TURNS} giliran pada musuh yang menimbulkan kerusakan Keahlian Khusus pada karakter ini."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Antek Mega, Antek, Iblis Mega, dan Iblis yang dipanggil sekutu mendapat {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% serangan berdasarkan jumlah Pahlawan Keluarga Lendir di tim"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% kekuatan Keahlian Khusus."
 "familybonuses.description.long.start_battle_with_fox_minion","Di awal pertempuran, memanggil {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} Antek Rubah Licik untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% kesehatan dan {FAMILIARATTACK}% serangan yang diwarisi dari pahlawan.
@@ -157,6 +167,7 @@ Keahlian tambahan dengan 3 anggota keluarga: Ketika dipanggil, Antek Topeng memb
 "familybonuses.description.members","(Anggota keluarga: {0})"
 "familybonuses.description.members.realm","(Anggota area: {0})"
 "familybonuses.description.short.abyss","Peluang {CHANCE}% untuk memanggil Permata Jurang Liar ketika Keahlian Khusus dirapal. Permata Jurang Liar menimbulkan {FIXEDPOWER} kerusakan kepada musuh secara acak setiap giliran."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Mendapatkan {MULTIPLIERPERCENT}% mana setelah wujud Hantu pada karakter ini kedaluwarsa."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Karakter ini mendapat {MULTIPLIERPERCENT}% mana atas kerusakan Keahlian Khusus yang diderita."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}% serangan"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}% serangan"
@@ -173,8 +184,7 @@ Keahlian tambahan dengan 3 anggota keluarga: Ketika dipanggil, Antek Topeng memb
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Di awal setiap giliran, tandai musuh dengan sisa HP tertinggi dengan Lili Berdarah."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Di awal setiap giliran, tandai musuh dengan sisa HP tertinggi dengan Lili Berdarah."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Merapal {ATTACK}% tumpukan serangan pada semua sekutu saat karakter ini mencoba Menggeledah satu karakter. (Tumpukan maks.: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Karakter ini meraih {CURRENTCHARGEFROMDAMAGE} Kerendahan Hati saat menerima kerusakan langsung dari Keahlian Khusus.
-Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyembuhan langsung dari Keahlian Khusus."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Karakter ini meraih {CURRENTCHARGEFROMDAMAGE} Kerendahan Hati saat menerima kerusakan langsung dari Keahlian Khusus. Maks. sekali per giliran.
 Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyembuhan langsung dari Keahlian Khusus. Maks. sekali per giliran."
 "familybonuses.description.short.build_charge_construct","Karakter ini mencas Inti Konstruksinya saat mengalami kerusakan dari serangan normal dan Keahlian Khusus."
@@ -185,7 +195,7 @@ Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyem
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Saat Pahlawan ini menerima status pelemahan yang memengaruhi pertahanan, berpeluang {CHANCE}% untuk merapal pelemahan yang diterima kepada semua musuh."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","Peluang {CHANCE}% untuk meningkatkan durasi efek status Tarian Hoki yang dirapalkan sebanyak 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% kerusakan Keahlian Khusus tambahan."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Peluang {CHANCE}% untuk membersihkan semua status pelemahan yang bisa dibersihkan dari karakter ini atas kerusakan Keahlian Khusus yang diderita"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Peluang {CHANCE}% untuk membersihkan 1 status pelemahan dari semua sekutu atas kerusakan Keahlian Khusus yang diderita"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","Peluang {CHANCE}% untuk membersihkan status pelemahan acak yang bisa dibersihkan dari karakter ini atas kerusakan Keahlian Khusus yang diderita."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Ketika musuh menimbulkan kerusakan Keahlian Khusus pada karakter ini, terdapat peluang {CHANCE}% bagi karakter ini untuk membersihkan status pelemahan acak yang bisa dibersihkan dari semua sekutu. Efek ini hanya bisa diaktifkan sekali per giliran."
 "familybonuses.description.short.counter_attack_ninja","Peluang {CHANCE}% untuk menyerang balik dengan {MULTIPLIERPERCENT}% dari kerusakan yang diderita."
@@ -233,6 +243,7 @@ Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyem
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}% kesehatan"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}% HP"
 "familybonuses.description.short.health_stack","Peluang {CHANCE}% untuk mendapat Tumpukan Penyembuhan +1: +{BASESTACKCOUNT} kesehatan pada akhir giliran"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Semua sekutu mendapat +{HEAL} tumpukan regenerasi kesehatan setiap kali karakter ini berupaya untuk Menenung musuh."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","Kerusakan {MULTIPLIERPERCENTCHANGE}% lebih banyak ditimbulkan terhadap Antek Mega."
 "familybonuses.description.short.increased_damage_against_minions_2_members","Kerusakan {MULTIPLIERPERCENTCHANGE}% lebih banyak ditimbulkan terhadap Antek."
 "familybonuses.description.short.increased_damage_against_minions_3_members","Kerusakan {MULTIPLIERPERCENTCHANGE}% lebih banyak ditimbulkan terhadap Antek."
@@ -279,6 +290,7 @@ Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyem
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","Berpeluang {CHANCE}% untuk menampik pengurangan mana dan status pelemahan mana dan menerima {POWER}% mana saat menampik"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","Berpeluang {CHANCE}% untuk menampik pengurangan mana dan status pelemahan mana dan menerima {POWER}% mana saat menampik"
 "familybonuses.description.short.share_effects_from_atlantis","Pahlawan terkait dengan Keluarga Atlantis. Pahlawan menerima bonus keluarga dari keluarga terkait saat masuk satu tim dengan setidaknya 1 pahlawan terkait:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Saat musuh menimbulkan kerusakan Keahlian Khusus pada karakter ini, musuh menerima {DAMAGE} kerusakan Air selama {STATUSEFFECT1TURNS} giliran."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Antek Mega, Antek, Iblis Mega, dan Iblis mendapat {MULTIPLIERPERCENTCHANGE}% serangan."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonus Imlek Tahun Tikus: {MULTIPLIERPERCENTCHANGE}% kekuatan Keahlian Khusus"
 "familybonuses.description.short.start_battle_with_fox_minion","Memanggil {FAMILIARAMOUNT} Antek Rubah Licik untuk diri sendiri di awal pertempuran. Antek Rubah Licik berpeluang 80% untuk berkelit dari serangan masuk. Jika berhasil berkelit, ia mencuri genjotanterbaru yang dapat dienyahkan dari penyerang dan memberikannya kepada pemiliknya."
@@ -334,7 +346,8 @@ Biaya naik level dan kenaikan Mimik berkurang."
 "herocard.family.description.eventherobonus.alliancequestcastle","Anggota keluarga ini memiliki manfaat tambahan di acara Bentrokan Kesatria."
 "herocard.family.description.eventherobonus.alliancequestmoths","Anggota keluarga ini memiliki manfaat tambahan di acara Malam Ngengat."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Anggota keluarga ini memiliki manfaat tambahan di acara Si Pemberani & si Cantik."
-"herocard.family.description.eventherobonus.beachparty","Anggota keluarga ini memiliki manfaat tambahan di acara Pesta Pantai."
+"herocard.family.description.eventherobonus.beachparty","Anggota keluarga ini memiliki manfaat tambahan di acara Pesta Teluk Matahari."
+"herocard.family.description.eventherobonus.beachparty2026","Anggota keluarga ini memiliki manfaat tambahan di acara Pesta Teluk Matahari."
 "herocard.family.description.eventherobonus.christmas","Anggota keluarga ini memiliki manfaat tambahan di acara Tantangan Santa."
 "herocard.family.description.eventherobonus.easter","Anggota keluarga ini memiliki manfaat tambahan di acara Festival Springvale."
 "herocard.family.description.eventherobonus.halloween","Anggota keluarga ini memiliki manfaat tambahan di acara Halloween."
@@ -416,6 +429,8 @@ Keluarga Imlek menampilkan Pahlawan Hewan Imlek yang berbeda. Setiap Hewan Imlek
 "herocard.family.title.cultist.short","Kultus"
 "herocard.family.title.cupid","Keluarga Cupid"
 "herocard.family.title.cupid.short","Cupid"
+"herocard.family.title.dryad","Dryad dari Keluarga Mekar Kuno"
+"herocard.family.title.dryad.short","Dryad"
 "herocard.family.title.easter","Keluarga Springvale"
 "herocard.family.title.easter.short","Springvale"
 "herocard.family.title.fable","Keluarga Hutankelam"
@@ -437,6 +452,8 @@ Keluarga Imlek menampilkan Pahlawan Hewan Imlek yang berbeda. Setiap Hewan Imlek
 "herocard.family.title.gargoyle.short","Gargoyle"
 "herocard.family.title.garrison","Keluarga Penjaga Garnisun"
 "herocard.family.title.garrison.short","Penjaga Garnisun"
+"herocard.family.title.ghost","Hantu Keluarga Yang Jian"
+"herocard.family.title.ghost.short","Hantu Yang Jian"
 "herocard.family.title.goblin","Keluarga Goblin"
 "herocard.family.title.goblin.short","Goblin"
 "herocard.family.title.guardian","Keluarga Penjaga"
@@ -524,6 +541,8 @@ Keluarga Imlek menampilkan Pahlawan Hewan Imlek yang berbeda. Setiap Hewan Imlek
 "herocard.family.title.sand.short","Kekaisaran Pasir"
 "herocard.family.title.shady_scoundrels","Keluarga Bangsat Busuk"
 "herocard.family.title.shady_scoundrels.short","Bangsat Busuk"
+"herocard.family.title.shark","Keluarga Hiu Teluk Matahari"
+"herocard.family.title.shark.short","Hiu Teluk Matahari"
 "herocard.family.title.slayers","Keluarga Pembunuh"
 "herocard.family.title.slayers.short","Pembunuh"
 "herocard.family.title.slime","Keluarga Lendir"

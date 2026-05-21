@@ -7,6 +7,8 @@
   "Astral Summon": "Astraalikutsu",
   "Black Friday Summon": "Black Fridayn kutsu",
   "Event Summon": "Tapahtumakutsu",
+  "Charming Costume Summon": "Hurmaava asukutsu",
+  "Classic Costume Summon": "Klassinen asukutsu",
   "Costume Summon": "Asukutsu",
   "Covenant Summon": "Kovenanttikutsu",
   "Daily Summon": "Paivittainen kutsu",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Syvankola-kutsu",
   "Dunes Summon": "Dyynikutsu",
   "Seasonal Summon": "Kausikutsu",
+  "Sunbay Summon": "Aurinkolahden kutsu",
   "Sanguine Summon": "Verikutsu",
   "Fortune Summon": "Onnenkutsu",
   "Shadow Summon": "Varjokutsu",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Kertomattomat tarinat -kutsu",
   "Mysteries of the Deep": "Syvyyksien mysteerit",
   "Treasures of Flame and Frost": "Liekin ja hallan aarteet",
+  "Welcome Back Summon": "Tervetuloa takaisin -kutsu",
   "Wilderness Summon": "Eramaan kutsu"
 }

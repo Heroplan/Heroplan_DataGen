@@ -6,7 +6,9 @@
 "lottery.title.astralelvessummon","Stjärnåkallelse"
 "lottery.title.blacksummon","Black Friday-åkallan"
 "lottery.title.challengeeventsummon","Evenemangsåkallelse"
-"lottery.title.costumesummon","Kläd-
+"lottery.title.costume2","Charmig klädåkallelse"
+"lottery.title.costumesummon","Klassisk klädåkallelse"
+"lottery.title.costumesummon.generic","Kläd-
 åkallelse"
 "lottery.title.covenantsummon","Förbundsåkallelse"
 "lottery.title.dailysummon","Daglig åkallelse"
@@ -34,6 +36,7 @@
 "lottery.title.season4","Undre vildmarken-åkallelse"
 "lottery.title.season5","Dynåkallelse"
 "lottery.title.seasonal","Säsongsåkallelse"
+"lottery.title.seasonalpremiumsummon.beachparty2026","Solbuktsåkallelse"
 "lottery.title.seasonalpremiumsummon.halloween2025","Blodåkallelse"
 "lottery.title.seasonalpremiumsummon.lunarnewyear2026","Lyckoåkallelse"
 "lottery.title.shadowsummon","Skuggåkallelse"
@@ -49,4 +52,5 @@
 "lottery.title.untoldtales","Osagda sagor-åkallelse"
 "lottery.title.untoldtales1","Djupets mysterier"
 "lottery.title.untoldtales2","Flammors och frosts skatter"
+"lottery.title.welcomebacksummon","Välkommen tillbaka-åkallelse"
 "lottery.title.wildernesssummon","Vildmarksåkallelse"

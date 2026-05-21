@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Helten får {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} ydmykhet ved direkte skade fra spesialferdigheter."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Denne figuren får {CURRENTCHARGEFROMDAMAGE} ydmykhet når den tar direkte skade fra spesialangrep."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} ydmykhet ved direkte helbredelse fra spesialferdigheter."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbreding fra spesialangrep."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","Helten får {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} ydmykhet ved slutten av hver runde."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Denne figuren får {CURRENTCHARGEONTURNEND} ydmykhet ved slutten av hver runde."
 "familybonuses.description.long.abyss","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %/{4MEMBERSCHANCE} %/{5MEMBERSCHANCE} % sjanse for at det dukker opp en underverden-juvel på brettet når denne helten bruker spesialferdigheten sin.
 Underverden-juvelene gjør {FIXEDPOWER} skade på en tilfeldig fiende frem til den kombineres.
 Underverden-juveler kan bare dukke opp på vanlige skjold som matcher elementet til denne helten."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Få {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} % mana når en spøkelseform på denne figuren utløper."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Denne figuren får {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT} % mana når den tar skade fra spesialferdighet. Denne effekten kan aktiveres én gang per runde."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
@@ -14,13 +21,15 @@ Underverden-juveler kan bare dukke opp på vanlige skjold som matcher elementet 
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Alle allierte får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % angrepsstabel hver gang denne figuren forsøker å ransake en fiende. (Maks. stabel: {MAXSTACK})"
-"familybonuses.description.long.build_charge_beauty_beast","Forskjellige helter har forskjellige krav til ydmykhet.
+"familybonuses.description.long.build_charge_beauty_beast","Forskjellige helter har forskjellige ydmykhet-krav.
+Når helten bruker den sterke versjonen av spesialferdigheten sin, brukes kun den nødvendige mengden ydmykhet.
+Maksimal ydmykhet: 100.
+Bonus for 1/2/3 unike helter av samme familie:
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Forskjellige helter har forskjellige krav til ydmykhet.
 Når helten bruker den kraftigere versjonen av spesialferdigheten sin, forbrukes kun den nødvendige mengden ydmykhet.
 Maksimalt ydmykhet: 100.
 Bonus for 1/2/3 unike helter i samme familie:
-Helten får {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} ydmykhet når den tar direkte skade fra spesialferdigheter.
-Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} ydmykhet når den mottar direkte helbredelse fra spesialferdigheter."
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Forskjellige helter har forskjellige krav til ydmykhet.
 Helten får {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} ydmykhet når den tar direkte skade fra spesialferdigheter. Maksimalt én gang per runde.
 Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} ydmykhet når den mottar direkte helbredelse fra spesialferdigheter. Maksimalt én gang per runde."
 "familybonuses.description.long.build_charge_construct","Konstruktørkjernen lades hver gang denne figuren tar skade fra vanlige angrep eller spesialferdighet."
@@ -31,7 +40,7 @@ Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Når denne helten mottar en statuslidelse som påvirker forsvar, er det {1MEMBERCHANCE} % / {2MEMBERSCHANCE} % / {3MEMBERSCHANCE} % sjanse til å bruke den mottatte lidelsen på alle fiender."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % sjanse til å øke varigheten til hver lykkedans-statuseffekt som brukes av denne figuren innen 1 runder."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % ekstra skade fra spesialferdighet."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % sjanse til å rense alle statuslidelser fra denne figuren når den tar skade fra spesialferdighet."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % sjanse til å rense 1 statuslidelse fra alle allierte når den tar skade fra spesialferdighet."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % sjanse til å rense en tilfeldig statuslidelser som kan renses, fra denne figuren når den tar skade fra spesialferdighet."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % sjanse til å rense en tilfeldig statuslidelse som kan renses, fra alle allierte når denne figuren tar skade fra en fiendtlig spesialferdighet. Denne effekten kan aktiveres kun én gang per runde."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % sjanse til å gjøre motangrep med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av mottatt skade."
@@ -88,6 +97,7 @@ Min. {MINSTAT} % og maks. {MAXSTAT} % av deres originale verdier."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % helse"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % helse"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % HP."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Alle allierte får +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} regenerering av helse hver gang denne figuren prøver å trollbinde en fiende. (Maks. stabler: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % mer skade påført mot megaundersåtter."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} % mer skade påført mot undersåtter."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % mer skade påført mot undersåtter."
@@ -136,6 +146,7 @@ Helt får familiebonusen til en relatert familien når på et lag med minst 1 re
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Helt er relatert til Magi-familien.
 Helt får familiebonusen til en relatert familie på et lag med minst 1 relatert helt. Bonus for 1/2/3/4/5 helter:
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Påfør {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} vannskade over {STATUSEFFECT1TURNS} runder på en fiende som påfører denne figuren spesialferdighetskade."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Megaundersåtter, undersåtter, megadjevler og djevler fremkalt av allierte får {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} % helse angrep på antallet slimfamiliehelter på laget"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE} % spesialferdighetkraft."
 "familybonuses.description.long.start_battle_with_fox_minion","Ved starten av kampen fremkalles {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} slu rev-undersåtten til seg selv, med {FAMILIARHEALTHPERCENT} % helse og {FAMILIARATTACK} % angrep nedarvet fra helten.
@@ -159,6 +170,7 @@ Hvis fiendens spesialferdighet beseirer denne figuren, er sjansen {1MEMBERCHANCE
 "familybonuses.description.members","(Familiemedlemmer: {0})"
 "familybonuses.description.members.realm","(Heim-medlemmer: {0})"
 "familybonuses.description.short.abyss","{CHANCE} % sjanse for at det dukker opp en underverden-juvel når en spesialferdighet blir brukt. Underverden-juvelen gjør {FIXEDPOWER} skade på en tilfeldig fiende hver runde."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Få {MULTIPLIERPERCENT} % mana etter at en spøkelseform på denne figuren utløper."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Denne figuren får {MULTIPLIERPERCENT} % mana når den tar skade fra spesialferdighet."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE} % angrep"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} % angrep"
@@ -175,8 +187,7 @@ Hvis fiendens spesialferdighet beseirer denne figuren, er sjansen {1MEMBERCHANCE
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Ved starten av hver runde merkes fienden med høyest gjenværende HP med en blodlilje."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Ved starten av hver runde merkes fienden med høyest gjenværende HP med en blodlilje."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Bruk {ATTACK} % angrepsstabel på alle allierte når denne figuren prøver å ransake en figur. (Maksimal stabel: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Denne figuren får {CURRENTCHARGEFROMDAMAGE} ydmykhet når den tar direkte skade fra spesialferdigheter.
-Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbredelse fra spesialferdigheter."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Denne figuren får {CURRENTCHARGEFROMDAMAGE} ydmykhet når den tar direkte skade fra spesialferdigheter. Maksimalt én gang per runde.
 Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbredelse fra spesialferdigheter. Maksimalt én gang per runde."
 "familybonuses.description.short.build_charge_construct","Denne figuren lader sin konstruktørkjernen når figuren tar skade fra vanlige angrep og spesialferdigheter."
@@ -187,7 +198,7 @@ Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbred
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Når denne helten mottar en statuslidelse som påvirker forsvar, er det {CHANCE} % sjanse til å bruke den mottatte lidelsen på alle fiender."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % sjanse til å øke varigheten til brukte lykkedans-statuseffekter med 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % ekstra skade fra spesialferdighet."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % sjanse til å rense alle statuslidelser som kan renses, fra denne figuren når den tar skade fra spesialferdighet."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % sjanse til å rense 1 statuslidelse som kan renses, fra alle allierte når den tar skade fra spesialferdighet."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % sjanse til å rense en tilfeldig statuslidelse som kan renses, fra denne figuren når den tar skade fra spesialferdighet."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Når en fiende påfører denne figuren skade med en spesialferdighet, er det en {CHANCE} % sjanse for at denne figuren renser en tilfeldig statuslidelse som kan renses, fra alle allierte. Denne effekten kan aktiveres kun én gang per runde."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % sjanse til å gjøre motangrep med {MULTIPLIERPERCENT} % av mottatt skade."
@@ -235,6 +246,7 @@ Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbred
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE} % helse"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE} % HP"
 "familybonuses.description.short.health_stack","{CHANCE} % sjanse for å få helbredende stabel +1: +{BASESTACKCOUNT} helse ved slutten av hver runde"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Alle allierte får +{HEAL} helseregenerering-stabel hver gang denne figuren prøver å trollbinde en fiende."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE} % mer skade påført mot megaundersåtter."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE} % mer skade påført mot undersåtter."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE} % mer skade påført mot undersåtter."
@@ -281,6 +293,7 @@ Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbred
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE} % sjanse for å motstå manareduksjoner og manastatuslidelser, og mottar {POWER} % mana når det motstås"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE} % sjanse for å motstå manareduksjoner og manastatuslidelser, og mottar {POWER} % mana når det motstås"
 "familybonuses.description.short.share_effects_from_atlantis","Helt er relatert til Atlantis-familien. Helt får familiebonusen til en relatert familien når på et lag med minst 1 relatert helt:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Når en fiende påfører denne figuren spesialferdighetskade, tar fienden {DAMAGE} vannskade over {STATUSEFFECT1TURNS} runder."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Megaundersåtter, undersåtter, megadjevler og djevler får {MULTIPLIERPERCENTCHANGE} % angrep."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Måneår-rottebonus: {MULTIPLIERPERCENTCHANGE} % spesialferdighetkraft"
 "familybonuses.description.short.start_battle_with_fox_minion","Fremkaller {FAMILIARAMOUNT} slu rev-undersått til seg selv ved starten av kampen. Slu rev-undersått har 80 % sjanse til å unnvike innkommende angrep. Ved vellykket unnvikelse stjeler den den siste økningen som kan fjernes fra angriperen, og gir den til eieren sin."
@@ -337,7 +350,8 @@ Helten har følgende fordeler denne hendelsen:"
 "herocard.family.description.eventherobonus.alliancequestcastle","Medlemmene av denne familien har ekstra fordeler i Riddernes kamp-hendelsen."
 "herocard.family.description.eventherobonus.alliancequestmoths","Medlemmene av denne familien har ekstra fordeler i Møllens natt-hendelsen."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Medlemmene av denne familien har ekstra fordeler i Den modige og den vakre-hendelsen."
-"herocard.family.description.eventherobonus.beachparty","Medlemmene av denne familien har ekstra fordeler i Strandfest-hendelsen."
+"herocard.family.description.eventherobonus.beachparty","Medlemmene av denne familien har ekstra fordeler i Solbuktafest-hendelsen."
+"herocard.family.description.eventherobonus.beachparty2026","Medlemmene av denne familien har ekstra fordeler i Solbuktafest-hendelsen."
 "herocard.family.description.eventherobonus.christmas","Medlemmene av denne familien har ekstra fordeler i Julenissens utfordring-hendelsen."
 "herocard.family.description.eventherobonus.easter","Medlemmene av denne familien har ekstra fordeler i Springvale-festival-hendelsen."
 "herocard.family.description.eventherobonus.halloween","Medlemmene av denne familien har ekstra fordeler i Halloween-hendelsen."
@@ -419,6 +433,8 @@ Månenyttår-familien har forskjellige Månenyttår-dyrehelter. Hvert Månenytt�
 "herocard.family.title.cultist.short","Dyrker"
 "herocard.family.title.cupid","Cupido-familie"
 "herocard.family.title.cupid.short","Cupido"
+"herocard.family.title.dryad","Dryader fra den gamle Bloom-familien"
+"herocard.family.title.dryad.short","Dryader"
 "herocard.family.title.easter","Springvale-familie"
 "herocard.family.title.easter.short","Springvale"
 "herocard.family.title.fable","Grimskog-familie"
@@ -440,6 +456,8 @@ Månenyttår-familien har forskjellige Månenyttår-dyrehelter. Hvert Månenytt�
 "herocard.family.title.gargoyle.short","Griff"
 "herocard.family.title.garrison","Garnisonervakt-familien"
 "herocard.family.title.garrison.short","Garnisonervakt"
+"herocard.family.title.ghost","Spøkelser fra Yang Jian-familien"
+"herocard.family.title.ghost.short","Spøkelser fra Yang Jian"
 "herocard.family.title.goblin","Goblin-familie"
 "herocard.family.title.goblin.short","Goblin"
 "herocard.family.title.guardian","Vokter-familie"
@@ -527,6 +545,8 @@ Månenyttår-familien har forskjellige Månenyttår-dyrehelter. Hvert Månenytt�
 "herocard.family.title.sand.short","Sandriket"
 "herocard.family.title.shady_scoundrels","Suspekt kjeltring-familie"
 "herocard.family.title.shady_scoundrels.short","Suspekt kjeltring"
+"herocard.family.title.shark","Solbukta-hai-familien"
+"herocard.family.title.shark.short","Solbukta-hai"
 "herocard.family.title.slayers","Slakterfamilie"
 "herocard.family.title.slayers.short","Slakter"
 "herocard.family.title.slime","Slimfamilie"

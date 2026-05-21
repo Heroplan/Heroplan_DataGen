@@ -7,6 +7,8 @@
   "Astral Summon": "Astralne wezwanie",
   "Black Friday Summon": "Przywołania na czarny piatek",
   "Event Summon": "Wezwanie wydarzenia",
+  "Charming Costume Summon": "Wezwanie czarujacego kostiumu",
+  "Classic Costume Summon": "Wezwanie klasycznego kostiumu",
   "Costume Summon": "Wezwanie kostiumu",
   "Covenant Summon": "Wezwanie Przymierza",
   "Daily Summon": "Codzienne wezwanie",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Wezwanie Podziemia",
   "Dunes Summon": "Wezwanie Wydm",
   "Seasonal Summon": "Wezwanie sezonowe",
+  "Sunbay Summon": "Wezwanie Słonecznej Zatoki",
   "Sanguine Summon": "Sangwiniczne wezwanie",
   "Fortune Summon": "Wezwanie fortuny",
   "Shadow Summon": "Wezwanie cienia",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Wezwanie przemilczanych historii",
   "Mysteries of the Deep": "Tajemnice głebin",
   "Treasures of Flame and Frost": "Skarby ognia i mrozu",
+  "Welcome Back Summon": "Wezwanie dla powracajacych graczy",
   "Wilderness Summon": "Wezwanie dziczy"
 }

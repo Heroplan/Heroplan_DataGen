@@ -7,6 +7,8 @@
   "Astral Summon": "Astralhidkaldelse",
   "Black Friday Summon": "Black Friday-hidkaldelse",
   "Event Summon": "Eventhidkaldelse",
+  "Charming Costume Summon": "Charmerende kostumehidkaldelse",
+  "Classic Costume Summon": "Klassisk kostumehidkaldelse",
   "Costume Summon": "Kostumehidkaldelse",
   "Covenant Summon": "Pagthidkaldelse",
   "Daily Summon": "Daglig hidkaldelse",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Underrige-hidkaldelse",
   "Dunes Summon": "Sandklit-hidkaldelse",
   "Seasonal Summon": "Sæsonbestemt hidkaldelse",
+  "Sunbay Summon": "Solbugt-hidkaldelse",
   "Sanguine Summon": "Sangvinsk hidkaldelse",
   "Fortune Summon": "Lykkehidkaldelse",
   "Shadow Summon": "Skyggehidkaldelse",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Ufortalte historier-hidkaldelse",
   "Mysteries of the Deep": "Mysterier fra dybet",
   "Treasures of Flame and Frost": "Flammens og frostens skatte",
+  "Welcome Back Summon": "Velkommen tilbage-hidkaldelse",
   "Wilderness Summon": "Vildnis-hidkaldelse"
 }

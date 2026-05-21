@@ -306,12 +306,18 @@ def parse_object(data, offset):
         code = data[offset]
         offset += 1
         if field_name in SPECIAL_TIMESTAMP_KEYS:
-            if code == 0x05:
+            # 支持多种整数类型：1字节、2字节、4字节、8字节
+            if code == 0x03:          # byte
+                seconds = data[offset]
+                offset += 1
+            elif code == 0x04:        # short (2 bytes)
+                seconds, offset = read_short(data, offset)
+            elif code == 0x05:        # int (4 bytes)
                 seconds, offset = read_int(data, offset)
-            elif code == 0x06:
+            elif code == 0x06:        # long (8 bytes)
                 seconds, offset = read_long(data, offset)
             else:
-                raise ValueError(f"字段 '{field_name}' 后遇到未知长度码 {hex(code)}")
+                raise ValueError(f"字段 '{field_name}' 后遇到未知长度码 {hex(code)} (位置 {offset-1})")
             value = convert_timestamp(seconds)
         elif field_name in SPECIAL_DURATION_KEYS:
             seconds, offset = read_value(data, offset, code)

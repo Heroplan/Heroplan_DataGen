@@ -7,6 +7,8 @@
   "Astral Summon": "Stjarnakallelse",
   "Black Friday Summon": "Black Friday-akallan",
   "Event Summon": "Evenemangsakallelse",
+  "Charming Costume Summon": "Charmig kladakallelse",
+  "Classic Costume Summon": "Klassisk kladakallelse",
   "Costume Summon": "Klad-\nakallelse",
   "Covenant Summon": "Forbundsakallelse",
   "Daily Summon": "Daglig akallelse",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Undre vildmarken-akallelse",
   "Dunes Summon": "Dynakallelse",
   "Seasonal Summon": "Sasongsakallelse",
+  "Sunbay Summon": "Solbuktsakallelse",
   "Sanguine Summon": "Blodakallelse",
   "Fortune Summon": "Lyckoakallelse",
   "Shadow Summon": "Skuggakallelse",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Osagda sagor-akallelse",
   "Mysteries of the Deep": "Djupets mysterier",
   "Treasures of Flame and Frost": "Flammors och frosts skatter",
+  "Welcome Back Summon": "Valkommen tillbaka-akallelse",
   "Wilderness Summon": "Vildmarksakallelse"
 }

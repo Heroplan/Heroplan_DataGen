@@ -7,6 +7,8 @@
   "Astral Summon": "Astralfremkalling",
   "Black Friday Summon": "Black Friday-pakalling",
   "Event Summon": "Hendelsesfremkalling",
+  "Charming Costume Summon": "Sjarmerende kostyme-fremkalling",
+  "Classic Costume Summon": "Klassisk kostyme-fremkalling",
   "Costume Summon": "Kostymefremkalling",
   "Covenant Summon": "Paktfremkalling",
   "Daily Summon": "Daglig fremkalling",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Underverden-fremkalling",
   "Dunes Summon": "Sanddyner-fremkalling",
   "Seasonal Summon": "Sesongfremkalling",
+  "Sunbay Summon": "Solbukta-fremkalling",
   "Sanguine Summon": "Optimistisk fremkalling",
   "Fortune Summon": "Lykkefremkalling",
   "Shadow Summon": "Skyggefremkalling",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Utallige historier-fremkalling",
   "Mysteries of the Deep": "Dypets mysterier",
   "Treasures of Flame and Frost": "Skatter av flamme og frost",
+  "Welcome Back Summon": "Velkommen tilbake-fremkalling",
   "Wilderness Summon": "Villmarkfremkalling"
 }

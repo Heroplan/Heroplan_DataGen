@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","受到特殊技能的直接傷害時，英雄獲得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}謙遜。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","當該角色因特殊技能承受直接傷害時，會獲得{CURRENTCHARGEFROMDAMAGE}點謙遜。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","受到特殊技能的直接治療時，英雄獲得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} 謙遜。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","當該角色因特殊技能獲得直接治療時，會獲得{CURRENTCHARGEFROMHEAL}點謙遜。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","每回合結束時，英雄獲得{1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND}謙遜。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","此角色在每回合結束時獲得{CURRENTCHARGEONTURNEND}點謙遜。"
 "familybonuses.description.long.abyss","當此英雄施展特殊技能時，有{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}%的機率能在面板中產生地底荒野寶石。
 地底荒野寶石找到對手之前，每回合能對一個隨機敵人造成{FIXEDPOWER}傷害。
 地底荒野寶石只能在與此英雄元素相符的普通護盾上產生。"
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","當此角色的幽靈形態結束時，獲得{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%法力。"
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","當此角色受到特殊技能傷害時，獲得{1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}%法力。此效果每回合可啟動一次。"
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊。"
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊。"
@@ -14,13 +21,15 @@
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊。"
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊力。"
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","每次此角色嘗試劫掠一名敵人時，所有盟友獲得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻擊疊加。（疊加上限：{MAXSTACK}）"
-"familybonuses.description.long.build_charge_beauty_beast","不同的英雄所需的謙遜也不同。
+"familybonuses.description.long.build_charge_beauty_beast","不同的英雄有不同的謙遜要求。
+當英雄施放強力版的特殊技能時，只會消耗所需數量的謙遜。
+最大謙遜：100。
+同一家族的1/2/3位獨特英雄可獲得獎勵：
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","不同的英雄所需的謙遜也不同。
 當英雄施放更強力的特殊技能時，只需消耗所需數量的謙遜。
 謙遜上限：100。
 1/2/3位相同家族的英雄獎勵：
-受到特殊技能的直接傷害時，英雄獲得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}謙遜。
-接受特殊技能的直接治療時，英雄獲得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}謙遜。"
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","不同的英雄所需的謙遜也不同。
 受到特殊技能的直接傷害時，英雄獲得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}謙遜。每回合達上限一次。
 接受特殊技能的直接治療時，英雄獲得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}謙遜。每回合達上限一次。"
 "familybonuses.description.long.build_charge_construct","每次此角色受到普通攻擊或特殊技能的傷害時，構造體核心都會暴增。"
@@ -31,7 +40,7 @@
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","當此英雄受到影響防禦的狀態異常時，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%機率對所有敵人施放所受到的異常。"
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","有{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%機率提升所有此英雄施放的鴻運舞蹈狀態效果持續時間，增加1個回合。"
 "familybonuses.description.long.champions_special_damage_power_modifier","6+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%額外特殊技能傷害。"
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{1MEMBERCHANCE}/{2MEMBERSCHANCE}%機率可以淨化此角色的所有狀態異常。"
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{1MEMBERCHANCE}/{2MEMBERSCHANCE}%機率可以淨化此所有盟友的一個狀態異常。"
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{1MEMBERCHANCE}/{2MEMBERSCHANCE}%機率可以隨機淨化此角色的可淨化狀態異常。"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","當此角色受到敵人特殊技能的傷害時，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%機率可以隨機淨化所有盟友的可淨化狀態異常。此效果每回合僅能啟動一次。"
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%進行反擊。"
@@ -89,6 +98,7 @@
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%生命值。"
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","此角色每次嘗試迷惑敵人時，所有盟友獲得+{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL}生命值恢復疊加。（疊加上限：{STATUSEFFECT1MAXSTACK}）"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","對超級小兵造成額外{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%的傷害。"
 "familybonuses.description.long.increased_damage_against_minions_2_members","對小兵造成額外{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%的傷害。"
 "familybonuses.description.long.increased_damage_against_minions_3_members","對小兵造成額外{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%的傷害。"
@@ -136,6 +146,7 @@
 在戰隊中有至少1名相關英雄時，英雄能獲得相關家族的家族加成。1/2/3/4/5名英雄的加成：
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","英雄屬於魔法家族。
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","對使用特殊技能對此角色造成傷害的敵人，在{STATUSEFFECT1TURNS}回合內造成{FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE}點水系傷害。"
 "familybonuses.description.long.slime_familiar_attack_multiplier","盟友召喚的超級小兵、小兵、超級惡魔和惡魔能獲得依據隊伍上史萊姆家族數量而定的{1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊力。"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}%特殊技能力量。"
 "familybonuses.description.long.start_battle_with_fox_minion","戰鬥開始時，為自身召喚{FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT}隻狡猾的狐狸小兵，狡猾的狐狸小兵具有從英雄繼承來的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊。
@@ -159,6 +170,7 @@
 "familybonuses.description.members","（家族成員：{0}）"
 "familybonuses.description.members.realm","（王國成員：{0}）"
 "familybonuses.description.short.abyss","施展特殊技能時，有{CHANCE}%的機率能產生地底荒野寶石。地底荒野寶石每回合能對一個隨機敵人造成{FIXEDPOWER}傷害。"
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","在此角色的幽靈形態結束後，獲得{MULTIPLIERPERCENT}%法力。"
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","此角色受到特殊技能傷害時，獲得{MULTIPLIERPERCENT}%法力。"
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}%攻擊"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%攻擊"
@@ -175,8 +187,7 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","每回合開始時，用 血百合標記剩餘生命值最高的敵人。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","每回合開始時，用 血百合標記剩餘生命值最高的敵人。"
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","此角色嘗試劫掠一名角色時，對所有盟友施加{ATTACK}%攻擊疊加。（疊加上限：{MAXSTACK}）"
-"familybonuses.description.short.build_charge_beauty_beast","此角色因特殊技能承受直接傷害時，會獲得{CURRENTCHARGEFROMDAMAGE} 謙遜。
-此角色因特殊技能承受直接傷害時，會獲得{CURRENTCHARGEFROMHEAL} 謙遜。"
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","此角色因特殊技能承受直接傷害時，會獲得{CURRENTCHARGEFROMDAMAGE} 謙遜。每回合達上限一次。
 此角色因特殊技能承受直接傷害時，會獲得{CURRENTCHARGEFROMHEAL} 謙遜。每回合達上限一次。"
 "familybonuses.description.short.build_charge_construct","每次此角色受到普通攻擊與特殊技能的傷害時，構造體核心都會暴增。"
@@ -187,7 +198,7 @@
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","當此英雄受到影響防禦的狀態異常時，有{CHANCE}%機率對所有敵人施放所受到的異常。"
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","有{CHANCE}%機率提升施放鴻運舞蹈狀態效果的持續時間，增加1。"
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}%額外特殊技能傷害。"
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{CHANCE}%機率可以淨化此角色的所有可淨化狀態異常"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{CHANCE}%機率可以淨化所有盟友的1個狀態異常。"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{CHANCE}%機率可以隨機淨化此角色的可淨化狀態異常。"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","當敵人對此角色造成特殊技能傷害時，此角色有{CHANCE}%機率隨機淨化所有盟友的可淨化狀態異常。此效果每回合僅能啟動一次。"
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%進行反擊。"
@@ -235,6 +246,7 @@
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.short.health_stack","{CHANCE}%的機率可獲得治療疊加+1：在每回合結束時+{BASESTACKCOUNT}生命值"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","此角色每次嘗試迷惑敵人時，所有盟友獲得+{HEAL}生命值恢復疊加。"
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","額外{MULTIPLIERPERCENTCHANGE}%對超級小兵造成的傷害。"
 "familybonuses.description.short.increased_damage_against_minions_2_members","額外{MULTIPLIERPERCENTCHANGE}%對小兵造成的傷害。"
 "familybonuses.description.short.increased_damage_against_minions_3_members","額外{MULTIPLIERPERCENTCHANGE}%對小兵造成的傷害。"
@@ -281,6 +293,7 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","有{CHANCE}%機率可以抵禦法力減損和法力狀態異常，並在抵禦時獲得{POWER}%法力"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","有{CHANCE}%機率可以抵禦法力減損和法力狀態異常，並在抵禦時獲得{POWER}%法力"
 "familybonuses.description.short.share_effects_from_atlantis","英雄屬於亞特蘭蒂斯家族。在戰隊中有至少1名相關英雄時，英雄能獲得相關家族的家族加成：
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","當敵人對此角色造成特殊技能傷害時，該敵人會在{STATUSEFFECT1TURNS}回合內受到{DAMAGE}點水系傷害。"
 "familybonuses.description.short.slime_familiar_attack_multiplier","超級小兵、小兵、超級惡魔和惡魔能獲得{MULTIPLIERPERCENTCHANGE}%攻擊力。"
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","農曆鼠年加成：{MULTIPLIERPERCENTCHANGE}%特殊技能力量"
 "familybonuses.description.short.start_battle_with_fox_minion","在戰鬥開始時，為自身召喚{FAMILIARAMOUNT}個狡猾的狐狸小兵。狡猾的狐狸小兵有80%的機率閃避來襲攻擊。成功閃避攻擊時，會從攻擊者身上竊取其最新的可驅散增益，並將其交給主人。"
@@ -337,7 +350,8 @@
 "herocard.family.description.eventherobonus.alliancequestcastle","此家族的成員在騎士衝突活動中有額外福利。"
 "herocard.family.description.eventherobonus.alliancequestmoths","此家族的成員會在飛蛾之夜活動中獲得額外福利。"
 "herocard.family.description.eventherobonus.alliancequestmusketeers","此家族的成員在勇者與美人活動中有額外福利。"
-"herocard.family.description.eventherobonus.beachparty","此家族的成員在海灘派對活動中有額外福利。"
+"herocard.family.description.eventherobonus.beachparty","此家族的成員在日灣派對活動中有額外福利。"
+"herocard.family.description.eventherobonus.beachparty2026","此家族的成員在日灣派對活動中有額外福利。"
 "herocard.family.description.eventherobonus.christmas","此家族的成員在聖誕老人挑戰活動中有額外福利。"
 "herocard.family.description.eventherobonus.easter","此家族的成員在斯普林維爾節慶活動中有額外福利。"
 "herocard.family.description.eventherobonus.halloween","此家族的成員在萬聖節活動中有額外福利。"
@@ -419,6 +433,8 @@
 "herocard.family.title.cultist.short","邪教徒"
 "herocard.family.title.cupid","邱比特家族"
 "herocard.family.title.cupid.short","邱比特"
+"herocard.family.title.dryad","遠古之花家族樹精"
+"herocard.family.title.dryad.short","樹精"
 "herocard.family.title.easter","斯普林維爾家族"
 "herocard.family.title.easter.short","斯普林維爾"
 "herocard.family.title.fable","肅煞森林家族"
@@ -440,6 +456,8 @@
 "herocard.family.title.gargoyle.short","石像鬼"
 "herocard.family.title.garrison","衛戍守衛家族"
 "herocard.family.title.garrison.short","衛戍守衛"
+"herocard.family.title.ghost","楊戩家族幽靈"
+"herocard.family.title.ghost.short","楊戩幽靈"
 "herocard.family.title.goblin","哥布林家族"
 "herocard.family.title.goblin.short","哥布林"
 "herocard.family.title.guardian","守護者家族"
@@ -527,6 +545,8 @@
 "herocard.family.title.sand.short","飛沙帝國"
 "herocard.family.title.shady_scoundrels","陰險無賴家族"
 "herocard.family.title.shady_scoundrels.short","陰險無賴"
+"herocard.family.title.shark","日灣鯊魚家族"
+"herocard.family.title.shark.short","日灣鯊魚"
 "herocard.family.title.slayers","殺手家族"
 "herocard.family.title.slayers.short","殺手"
 "herocard.family.title.slime","史萊姆家族"

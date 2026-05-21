@@ -202,8 +202,8 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
     logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的技能效果文本 ---")
     
     untouched_entries = []
-    original_map = {item['heroId']: item.get('effects', []) for item in original_data}
-    translated_map = {item['heroId']: item.get('effects', []) for item in translated_data}
+    original_map = {item['heroId']: item.get('passives', []) for item in original_data}
+    translated_map = {item['heroId']: item.get('passives', []) for item in translated_data}
     
     for hero_id in original_map:
         if hero_id not in translated_map:
@@ -218,15 +218,20 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
             eng_text = eng_effects[i] if i < len(eng_effects) else None
             trans_text = trans_effects[i] if i < len(trans_effects) else None
             
-            if eng_text and trans_text and eng_text.strip() == trans_text.strip():
-                # 找到疑似漏翻译的条目
-                hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
-                untouched_entries.append({
-                    'heroId': hero_id,
-                    'name': hero_name,
-                    'english': eng_text.strip(),
-                    'translation': trans_text.strip()
-                })
+            # 移除首尾空白后进行严格比对
+            # 仅当英文原文非空且长度大于5时才进行比较
+            if eng_text and trans_text:
+                eng_stripped = eng_text.strip()
+                trans_stripped = trans_text.strip()
+                if len(eng_stripped) > 5 and eng_stripped == trans_stripped:
+                    # 找到疑似漏翻译的条目
+                    hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
+                    untouched_entries.append({
+                        'heroId': hero_id,
+                        'name': hero_name,
+                        'english': eng_stripped,
+                        'translation': trans_stripped
+                    })
     
     # 生成报告
     if untouched_entries:

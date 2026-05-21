@@ -3305,9 +3305,9 @@ window.allHeroesExtra = [
             "Healers (Special)"
         ],
         "heroId": "mahayoddha_chitrangada",
-        "baseAttack": 607,
-        "baseDefense": 647,
-        "baseHealth": 1099,
+        "baseAttack": 614,
+        "baseDefense": 654,
+        "baseHealth": 1120,
         "specialId": "gift_of_rejuvenation",
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
@@ -23941,7 +23941,7 @@ window.allHeroesExtra = [
     },
     {
         "name": "Itham",
-        "fancy name": "Elf Swimming School Instructor",
+        "fancy name": "Swimming Instructor Elf",
         "element": "Red",
         "rarity": 4,
         "class": "Paladin",
@@ -25518,9 +25518,9 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "mahayoddha_bhima",
-        "baseAttack": 645,
-        "baseDefense": 600,
-        "baseHealth": 1098,
+        "baseAttack": 652,
+        "baseDefense": 607,
+        "baseHealth": 1119,
         "specialId": "righteous_pulverizer",
         "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
@@ -27298,7 +27298,9 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "30%",
@@ -34359,7 +34361,9 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "30%",
@@ -37811,7 +37815,9 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "30%",
@@ -38577,7 +38583,9 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
         "attackBonus": "40%",
         "defenseBonus": "40%",
         "healthBonus": "45%",
@@ -38973,7 +38981,9 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
         "attackBonus": "40%",
         "defenseBonus": "40%",
         "healthBonus": "43%",
@@ -39076,9 +39086,9 @@ window.allHeroesExtra = [
             "Buffers (DEF)"
         ],
         "heroId": "vegetable_elsbeth",
-        "baseAttack": 647,
-        "baseDefense": 633,
-        "baseHealth": 1114,
+        "baseAttack": 649,
+        "baseDefense": 635,
+        "baseHealth": 1121,
         "specialId": "guard_the_garden",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -39102,9 +39112,9 @@ window.allHeroesExtra = [
             "Counterattackers"
         ],
         "heroId": "vegetable_bartholomew",
-        "baseAttack": 649,
-        "baseDefense": 634,
-        "baseHealth": 1106,
+        "baseAttack": 651,
+        "baseDefense": 636,
+        "baseHealth": 1113,
         "specialId": "capsicum_charge",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -39136,7 +39146,9 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
         "attackBonus": "40%",
         "defenseBonus": "40%",
         "healthBonus": "45%",
@@ -39796,9 +39808,9 @@ window.allHeroesExtra = [
             "Minions Counters"
         ],
         "heroId": "construct_glacivolt",
-        "baseAttack": 618,
-        "baseDefense": 620,
-        "baseHealth": 1090,
+        "baseAttack": 627,
+        "baseDefense": 629,
+        "baseHealth": 1119,
         "specialId": "wrath_of_frozen_soul",
         "passiveSkills": [
             "minion_core",
@@ -40144,9 +40156,9 @@ window.allHeroesExtra = [
             "Mega Minions Summoners"
         ],
         "heroId": "slime_zestique",
-        "baseAttack": 626,
-        "baseDefense": 609,
-        "baseHealth": 1098,
+        "baseAttack": 632,
+        "baseDefense": 615,
+        "baseHealth": 1124,
         "specialId": "cherry_pudding_served",
         "passiveSkills": [
             "summon_slime_minion_on_damage_red",
@@ -40263,9 +40275,9 @@ window.allHeroesExtra = [
             "resist_burn_with_health_and_mana_boost_costume"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "10%",
-        "defenseBonus": "10%",
-        "healthBonus": "11%",
+        "attackBonus": "12%",
+        "defenseBonus": "12%",
+        "healthBonus": "12%",
         "manaBonus": "5%",
         "family": "nidavellir"
     },
@@ -40299,9 +40311,9 @@ window.allHeroesExtra = [
             "resist_burn_with_health_and_mana_boost_costume"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "10%",
-        "defenseBonus": "10%",
-        "healthBonus": "11%",
+        "attackBonus": "12%",
+        "defenseBonus": "12%",
+        "healthBonus": "12%",
         "manaBonus": "5%",
         "family": "nidavellir"
     },
@@ -40460,9 +40472,9 @@ window.allHeroesExtra = [
         "costumeBonusPassiveSkillIds": [
             "reduce_big_minion_health"
         ],
-        "attackBonus": "51%",
-        "defenseBonus": "51%",
-        "healthBonus": "51%",
+        "attackBonus": "53%",
+        "defenseBonus": "53%",
+        "healthBonus": "53%",
         "manaBonus": "1%",
         "family": "magic"
     },
@@ -40481,9 +40493,9 @@ window.allHeroesExtra = [
             "DoT Attackers"
         ],
         "heroId": "wild_cat_vernix",
-        "baseAttack": 660,
+        "baseAttack": 669,
         "baseDefense": 586,
-        "baseHealth": 1071,
+        "baseHealth": 1101,
         "specialId": "iceshatter",
         "passiveSkills": [
             "resist_all_defense_effects",
@@ -40531,9 +40543,9 @@ window.allHeroesExtra = [
             "Status Effect Conversion"
         ],
         "heroId": "magic_carpet_ragrim",
-        "baseAttack": 615,
-        "baseDefense": 629,
-        "baseHealth": 1095,
+        "baseAttack": 622,
+        "baseDefense": 636,
+        "baseHealth": 1116,
         "specialId": "herbal_remedies",
         "passiveSkills": [
             "reduce_big_minion_health",
@@ -40590,8 +40602,8 @@ window.allHeroesExtra = [
         ],
         "heroId": "astral_demon_xshahr",
         "baseAttack": 642,
-        "baseDefense": 599,
-        "baseHealth": 1095,
+        "baseDefense": 612,
+        "baseHealth": 1101,
         "specialId": "lance_of_torment",
         "passiveSkills": [
             "never_miss_special",
@@ -40617,9 +40629,9 @@ window.allHeroesExtra = [
             "Extra Damage Dealers"
         ],
         "heroId": "astral_demon_paimon",
-        "baseAttack": 627,
-        "baseDefense": 615,
-        "baseHealth": 1099,
+        "baseAttack": 632,
+        "baseDefense": 620,
+        "baseHealth": 1113,
         "specialId": "blinding_injustice",
         "passiveSkills": [
             "never_miss_special",
@@ -40673,9 +40685,9 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-5)"
         ],
         "heroId": "institute_emilie",
-        "baseAttack": 607,
-        "baseDefense": 639,
-        "baseHealth": 1098,
+        "baseAttack": 620,
+        "baseDefense": 649,
+        "baseHealth": 1131,
         "specialId": "endless_maze",
         "passiveSkills": [
             "revive_in_alternative_form_with_insanity_chance",
@@ -40811,9 +40823,9 @@ window.allHeroesExtra = [
             "Status Effects Blockers"
         ],
         "heroId": "slime_labblub",
-        "baseAttack": 609,
-        "baseDefense": 639,
-        "baseHealth": 1099,
+        "baseAttack": 616,
+        "baseDefense": 646,
+        "baseHealth": 1120,
         "specialId": "minion_scrutiny",
         "passiveSkills": [
             "summon_slime_minion_on_damage_yellow",
@@ -40838,9 +40850,9 @@ window.allHeroesExtra = [
             "Buffers (ATK)"
         ],
         "heroId": "outlaw_wu_yong",
-        "baseAttack": 610,
-        "baseDefense": 639,
-        "baseHealth": 1099,
+        "baseAttack": 617,
+        "baseDefense": 646,
+        "baseHealth": 1119,
         "specialId": "clever_stratagem",
         "passiveSkills": [
             "resist_bleed",
@@ -40866,7 +40878,7 @@ window.allHeroesExtra = [
             "Bypassers"
         ],
         "heroId": "astral_demon_anatemah",
-        "baseAttack": 593,
+        "baseAttack": 607,
         "baseDefense": 661,
         "baseHealth": 1099,
         "specialId": "astral_orb",
@@ -40930,9 +40942,9 @@ window.allHeroesExtra = [
         "costumeBonusPassiveSkillIds": [
             "reduce_big_minion_health"
         ],
-        "attackBonus": "63%",
-        "defenseBonus": "63%",
-        "healthBonus": "64%",
+        "attackBonus": "65%",
+        "defenseBonus": "65%",
+        "healthBonus": "66%",
         "manaBonus": "1%",
         "family": "magic"
     },
@@ -40954,9 +40966,9 @@ window.allHeroesExtra = [
             "Status Effect Conversion"
         ],
         "heroId": "magic_carpet_shareef",
-        "baseAttack": 649,
-        "baseDefense": 616,
-        "baseHealth": 1052,
+        "baseAttack": 656,
+        "baseDefense": 623,
+        "baseHealth": 1073,
         "specialId": "skyfall_crumble",
         "passiveSkills": [
             "reduce_big_minion_health",
@@ -40984,9 +40996,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "forsaken_kadath",
-        "baseAttack": 633,
-        "baseDefense": 616,
-        "baseHealth": 1093,
+        "baseAttack": 644,
+        "baseDefense": 628,
+        "baseHealth": 1127,
         "specialId": "cult_of_arachnid",
         "passiveSkills": [
             "damage_increase_by_insanity",
@@ -41008,9 +41020,9 @@ window.allHeroesExtra = [
             "DoT Attackers"
         ],
         "heroId": "wild_cat_marnes",
-        "baseAttack": 643,
+        "baseAttack": 653,
         "baseDefense": 609,
-        "baseHealth": 1084,
+        "baseHealth": 1111,
         "specialId": "blade_of_horrid_affliction",
         "passiveSkills": [
             "resist_all_defense_effects",
@@ -41134,8 +41146,8 @@ window.allHeroesExtra = [
             "resist_defense_modifier_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "55%",
-        "defenseBonus": "55%",
+        "attackBonus": "60%",
+        "defenseBonus": "60%",
         "healthBonus": "60%",
         "manaBonus": "5%",
         "family": "musketeer"
@@ -41156,9 +41168,9 @@ window.allHeroesExtra = [
             "Health Boosters"
         ],
         "heroId": "beauty_beast_the_beast",
-        "baseAttack": 630,
-        "baseDefense": 622,
-        "baseHealth": 1099,
+        "baseAttack": 639,
+        "baseDefense": 632,
+        "baseHealth": 1126,
         "specialId": "dinner_with_the_beast",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
@@ -41184,9 +41196,9 @@ window.allHeroesExtra = [
             "Buffers (DEF)"
         ],
         "heroId": "beauty_beast_rose_de_flo",
-        "baseAttack": 626,
-        "baseDefense": 628,
-        "baseHealth": 1096,
+        "baseAttack": 635,
+        "baseDefense": 638,
+        "baseHealth": 1123,
         "specialId": "beautiful_petals",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
@@ -41211,9 +41223,9 @@ window.allHeroesExtra = [
             "Buffers (ATK)"
         ],
         "heroId": "beowulf_wiglaf",
-        "baseAttack": 636,
-        "baseDefense": 610,
-        "baseHealth": 1099,
+        "baseAttack": 643,
+        "baseDefense": 617,
+        "baseHealth": 1120,
         "specialId": "stalwart_to_the_end",
         "passiveSkills": [
             "attack_buff_on_damage_received",
@@ -41303,10 +41315,12 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "46%",
-        "defenseBonus": "46%",
-        "healthBonus": "47%",
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
+        "attackBonus": "49%",
+        "defenseBonus": "49%",
+        "healthBonus": "50%",
         "manaBonus": "5%",
         "family": "super_elemental"
     },
@@ -41327,9 +41341,9 @@ window.allHeroesExtra = [
             "Minions Counters"
         ],
         "heroId": "construct_halwinter",
-        "baseAttack": 632,
-        "baseDefense": 617,
-        "baseHealth": 1099,
+        "baseAttack": 641,
+        "baseDefense": 627,
+        "baseHealth": 1126,
         "specialId": "soul_guardian",
         "passiveSkills": [
             "minion_core",
@@ -41409,9 +41423,9 @@ window.allHeroesExtra = [
             "Buff Stealers"
         ],
         "heroId": "mahayoddha_bonga",
-        "baseAttack": 620,
-        "baseDefense": 639,
-        "baseHealth": 1098,
+        "baseAttack": 627,
+        "baseDefense": 646,
+        "baseHealth": 1119,
         "specialId": "tokri_of_resources",
         "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
@@ -41516,9 +41530,9 @@ window.allHeroesExtra = [
             "Extra Damage Dealers"
         ],
         "heroId": "scoundrel_lane",
-        "baseAttack": 618,
-        "baseDefense": 639,
-        "baseHealth": 1109,
+        "baseAttack": 623,
+        "baseDefense": 643,
+        "baseHealth": 1124,
         "specialId": "roadside_surprise",
         "passiveSkills": [
             "cheat_death",
@@ -41541,9 +41555,9 @@ window.allHeroesExtra = [
             "DoT Attackers"
         ],
         "heroId": "scoundrel_duval",
-        "baseAttack": 629,
-        "baseDefense": 628,
-        "baseHealth": 1102,
+        "baseAttack": 634,
+        "baseDefense": 633,
+        "baseHealth": 1116,
         "specialId": "thieving_shot",
         "passiveSkills": [
             "cheat_death",
@@ -41687,9 +41701,9 @@ window.allHeroesExtra = [
             "Revivers"
         ],
         "heroId": "slime_bulklug",
-        "baseAttack": 628,
-        "baseDefense": 630,
-        "baseHealth": 1098,
+        "baseAttack": 635,
+        "baseDefense": 637,
+        "baseHealth": 1119,
         "specialId": "building_blocks_bulklug",
         "passiveSkills": [
             "summon_slime_minion_on_damage_green",
@@ -41753,9 +41767,9 @@ window.allHeroesExtra = [
         "costumeBonusPassiveSkillIds": [
             "reduce_big_minion_health"
         ],
-        "attackBonus": "38%",
-        "defenseBonus": "38%",
-        "healthBonus": "42%",
+        "attackBonus": "40%",
+        "defenseBonus": "40%",
+        "healthBonus": "44%",
         "manaBonus": "1%",
         "family": "magic"
     },
@@ -41776,9 +41790,9 @@ window.allHeroesExtra = [
             "Stacking Heroes"
         ],
         "heroId": "magic_carpet_amelia",
-        "baseAttack": 632,
-        "baseDefense": 635,
-        "baseHealth": 1079,
+        "baseAttack": 639,
+        "baseDefense": 642,
+        "baseHealth": 1099,
         "specialId": "swift_maneuvers",
         "passiveSkills": [
             "reduce_big_minion_health",
@@ -42021,9 +42035,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "institute_ellery",
-        "baseAttack": 636,
-        "baseDefense": 623,
-        "baseHealth": 1097,
+        "baseAttack": 648,
+        "baseDefense": 635,
+        "baseHealth": 1133,
         "specialId": "mutated_specimen",
         "passiveSkills": [
             "revive_in_alternative_form_with_insanity_chance",
@@ -42073,9 +42087,9 @@ window.allHeroesExtra = [
             "Bypassers"
         ],
         "heroId": "beowulf_weland",
-        "baseAttack": 627,
-        "baseDefense": 637,
-        "baseHealth": 1098,
+        "baseAttack": 634,
+        "baseDefense": 644,
+        "baseHealth": 1118,
         "specialId": "gleaming_sword_and_iron_mail",
         "passiveSkills": [
             "attack_buff_on_damage_received",
@@ -42109,10 +42123,12 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "46%",
-        "defenseBonus": "46%",
-        "healthBonus": "47%",
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "attackBonus": "49%",
+        "defenseBonus": "49%",
+        "healthBonus": "50%",
         "manaBonus": "5%",
         "family": "super_elemental"
     },
@@ -42132,9 +42148,9 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "mahayoddha_devyani",
-        "baseAttack": 645,
-        "baseDefense": 616,
-        "baseHealth": 1098,
+        "baseAttack": 652,
+        "baseDefense": 623,
+        "baseHealth": 1119,
         "specialId": "righteous_stance",
         "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
@@ -42278,9 +42294,9 @@ window.allHeroesExtra = [
             "Stacking Heroes"
         ],
         "heroId": "outlaw_lin_chong",
-        "baseAttack": 645,
-        "baseDefense": 618,
-        "baseHealth": 1097,
+        "baseAttack": 652,
+        "baseDefense": 625,
+        "baseHealth": 1118,
         "specialId": "punishing_strike",
         "passiveSkills": [
             "resist_bleed",
@@ -42304,9 +42320,9 @@ window.allHeroesExtra = [
             "Debuffers (DEF)"
         ],
         "heroId": "titan_hunter_adelitza",
-        "baseAttack": 637,
-        "baseDefense": 630,
-        "baseHealth": 1099,
+        "baseAttack": 642,
+        "baseDefense": 635,
+        "baseHealth": 1111,
         "specialId": "crimson_hunt",
         "passiveSkills": [
             "titan_hunter_hunting_flare_on_special_cast",
@@ -42329,9 +42345,9 @@ window.allHeroesExtra = [
             "Buff Stealers"
         ],
         "heroId": "slime_boboosang",
-        "baseAttack": 631,
-        "baseDefense": 637,
-        "baseHealth": 1098,
+        "baseAttack": 638,
+        "baseDefense": 644,
+        "baseHealth": 1119,
         "specialId": "debt_drain_boboosang",
         "passiveSkills": [
             "summon_slime_minion_on_damage_blue",
@@ -42354,9 +42370,9 @@ window.allHeroesExtra = [
             "Counterattackers"
         ],
         "heroId": "beauty_beast_dominique",
-        "baseAttack": 646,
-        "baseDefense": 617,
-        "baseHealth": 1099,
+        "baseAttack": 655,
+        "baseDefense": 626,
+        "baseHealth": 1127,
         "specialId": "righteous_revenge",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
@@ -42393,9 +42409,9 @@ window.allHeroesExtra = [
             "resist_defense_modifier_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "53%",
-        "defenseBonus": "53%",
-        "healthBonus": "53%",
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
         "manaBonus": "5%",
         "family": "musketeer"
     },
@@ -42440,9 +42456,9 @@ window.allHeroesExtra = [
             "Reflectors"
         ],
         "heroId": "construct_sizzleomatic",
-        "baseAttack": 635,
-        "baseDefense": 634,
-        "baseHealth": 1098,
+        "baseAttack": 645,
+        "baseDefense": 644,
+        "baseHealth": 1125,
         "specialId": "burning_wok",
         "passiveSkills": [
             "minion_core",
@@ -42493,9 +42509,9 @@ window.allHeroesExtra = [
             "Mana Raisers"
         ],
         "heroId": "astral_demon_turundh",
-        "baseAttack": 641,
-        "baseDefense": 636,
-        "baseHealth": 1080,
+        "baseAttack": 645,
+        "baseDefense": 642,
+        "baseHealth": 1093,
         "specialId": "judgment_and_penance",
         "passiveSkills": [
             "never_miss_special",
@@ -42536,9 +42552,9 @@ window.allHeroesExtra = [
         "costumeBonusPassiveSkillIds": [
             "reduce_big_minion_health"
         ],
-        "attackBonus": "48%",
-        "defenseBonus": "48%",
-        "healthBonus": "50%",
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "52%",
         "manaBonus": "1%",
         "family": "magic"
     },
@@ -42560,9 +42576,9 @@ window.allHeroesExtra = [
             "Status Effect Conversion"
         ],
         "heroId": "magic_carpet_jwala",
-        "baseAttack": 643,
-        "baseDefense": 626,
-        "baseHealth": 1099,
+        "baseAttack": 650,
+        "baseDefense": 633,
+        "baseHealth": 1120,
         "specialId": "magmatic_burns",
         "passiveSkills": [
             "reduce_big_minion_health",
@@ -42588,9 +42604,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "forsaken_inanis",
-        "baseAttack": 653,
-        "baseDefense": 628,
-        "baseHealth": 1069,
+        "baseAttack": 665,
+        "baseDefense": 640,
+        "baseHealth": 1105,
         "specialId": "severed_seal",
         "passiveSkills": [
             "damage_increase_by_insanity",
@@ -42613,9 +42629,9 @@ window.allHeroesExtra = [
             "Healers (Special)"
         ],
         "heroId": "wild_cat_catalina",
-        "baseAttack": 681,
-        "baseDefense": 581,
-        "baseHealth": 1099,
+        "baseAttack": 688,
+        "baseDefense": 588,
+        "baseHealth": 1119,
         "specialId": "regal_claws",
         "passiveSkills": [
             "resist_all_defense_effects",
@@ -42666,9 +42682,9 @@ window.allHeroesExtra = [
             "Stacking Heroes"
         ],
         "heroId": "mahayoddha_jyoti",
-        "baseAttack": 633,
-        "baseDefense": 638,
-        "baseHealth": 1108,
+        "baseAttack": 640,
+        "baseDefense": 645,
+        "baseHealth": 1129,
         "specialId": "fiery_performance",
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
@@ -42725,10 +42741,12 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "46%",
-        "defenseBonus": "46%",
-        "healthBonus": "47%",
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "attackBonus": "49%",
+        "defenseBonus": "49%",
+        "healthBonus": "50%",
         "manaBonus": "5%",
         "family": "super_elemental"
     },
@@ -42841,9 +42859,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -42871,9 +42889,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -42960,9 +42978,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -43020,9 +43038,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -43042,9 +43060,9 @@ window.allHeroesExtra = [
             "Healers (Special)"
         ],
         "heroId": "beowulf_hygd",
-        "baseAttack": 627,
-        "baseDefense": 649,
-        "baseHealth": 1110,
+        "baseAttack": 634,
+        "baseDefense": 655,
+        "baseHealth": 1131,
         "specialId": "generous_gifts",
         "passiveSkills": [
             "resist_buff_immunity",
@@ -43070,9 +43088,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "institute_wilcox",
-        "baseAttack": 652,
-        "baseDefense": 628,
-        "baseHealth": 1088,
+        "baseAttack": 663,
+        "baseDefense": 640,
+        "baseHealth": 1121,
         "specialId": "volatile_crystal_conduit",
         "passiveSkills": [
             "revive_in_alternative_form_with_insanity_chance",
@@ -43097,9 +43115,9 @@ window.allHeroesExtra = [
             "Effect Duration Resetters"
         ],
         "heroId": "outlaw_hu_sanniang",
-        "baseAttack": 627,
-        "baseDefense": 651,
-        "baseHealth": 1106,
+        "baseAttack": 634,
+        "baseDefense": 658,
+        "baseHealth": 1127,
         "specialId": "double_strike",
         "passiveSkills": [
             "resist_bleed",
@@ -43124,9 +43142,9 @@ window.allHeroesExtra = [
             "Mana Raisers"
         ],
         "heroId": "construct_zavok",
-        "baseAttack": 625,
-        "baseDefense": 655,
-        "baseHealth": 1109,
+        "baseAttack": 634,
+        "baseDefense": 664,
+        "baseHealth": 1136,
         "specialId": "spiritual_wire",
         "passiveSkills": [
             "minion_core",
@@ -43256,9 +43274,9 @@ window.allHeroesExtra = [
             "Buffers (ATK)"
         ],
         "heroId": "magic_carpet_crustee",
-        "baseAttack": 640,
-        "baseDefense": 641,
-        "baseHealth": 1099,
+        "baseAttack": 647,
+        "baseDefense": 648,
+        "baseHealth": 1120,
         "specialId": "juggling_trials",
         "passiveSkills": [
             "reduce_big_minion_health",
@@ -43366,9 +43384,9 @@ window.allHeroesExtra = [
             "Extra Damage Dealers"
         ],
         "heroId": "wild_cat_gitnib",
-        "baseAttack": 670,
-        "baseDefense": 600,
-        "baseHealth": 1107,
+        "baseAttack": 672,
+        "baseDefense": 613,
+        "baseHealth": 1129,
         "specialId": "the_piranha_incident",
         "passiveSkills": [
             "resist_all_defense_effects",
@@ -43392,9 +43410,9 @@ window.allHeroesExtra = [
             "DoT Attackers"
         ],
         "heroId": "astral_demon_ibelis",
-        "baseAttack": 660,
-        "baseDefense": 631,
-        "baseHealth": 1073,
+        "baseAttack": 664,
+        "baseDefense": 636,
+        "baseHealth": 1085,
         "specialId": "sickle_trouble",
         "passiveSkills": [
             "never_miss_special",
@@ -43419,9 +43437,9 @@ window.allHeroesExtra = [
             "Damage Reducers"
         ],
         "heroId": "beauty_beast_laurent",
-        "baseAttack": 637,
-        "baseDefense": 643,
-        "baseHealth": 1108,
+        "baseAttack": 647,
+        "baseDefense": 652,
+        "baseHealth": 1135,
         "specialId": "unyielding_stance",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
@@ -43459,9 +43477,9 @@ window.allHeroesExtra = [
             "resist_defense_modifier_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "53%",
-        "defenseBonus": "53%",
-        "healthBonus": "53%",
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
         "manaBonus": "5%",
         "family": "musketeer"
     },
@@ -43480,9 +43498,9 @@ window.allHeroesExtra = [
             "Damage Sharers"
         ],
         "heroId": "titan_hunter_lumi_and_taiga",
-        "baseAttack": 650,
-        "baseDefense": 627,
-        "baseHealth": 1108,
+        "baseAttack": 655,
+        "baseDefense": 632,
+        "baseHealth": 1120,
         "specialId": "arctic_guard",
         "passiveSkills": [
             "titan_hunter_hunting_flare_on_special_cast",
@@ -43573,9 +43591,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -43603,9 +43621,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -43625,9 +43643,9 @@ window.allHeroesExtra = [
             "Dodgers"
         ],
         "heroId": "mahayoddha_veer",
-        "baseAttack": 653,
-        "baseDefense": 625,
-        "baseHealth": 1108,
+        "baseAttack": 660,
+        "baseDefense": 632,
+        "baseHealth": 1129,
         "specialId": "bagh_nakh_thrust",
         "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
@@ -43650,9 +43668,9 @@ window.allHeroesExtra = [
             "Buff Stealers"
         ],
         "heroId": "slime_chingiriko",
-        "baseAttack": 653,
-        "baseDefense": 627,
-        "baseHealth": 1107,
+        "baseAttack": 660,
+        "baseDefense": 634,
+        "baseHealth": 1128,
         "specialId": "slingja_attack_chingiriko",
         "passiveSkills": [
             "summon_slime_minion_on_damage_red",
@@ -43702,9 +43720,9 @@ window.allHeroesExtra = [
             "Damage Reducers"
         ],
         "heroId": "outlaw_zheng_tianshou",
-        "baseAttack": 636,
-        "baseDefense": 644,
-        "baseHealth": 1117,
+        "baseAttack": 643,
+        "baseDefense": 651,
+        "baseHealth": 1137,
         "specialId": "gallant_stance",
         "passiveSkills": [
             "resist_bleed",
@@ -43757,9 +43775,9 @@ window.allHeroesExtra = [
             "Stacking Heroes"
         ],
         "heroId": "vegetable_indigon",
-        "baseAttack": 655,
-        "baseDefense": 626,
-        "baseHealth": 1111,
+        "baseAttack": 657,
+        "baseDefense": 628,
+        "baseHealth": 1118,
         "specialId": "brand_of_reckoning",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -43783,9 +43801,9 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "vegetable_broseph",
-        "baseAttack": 641,
-        "baseDefense": 642,
-        "baseHealth": 1114,
+        "baseAttack": 643,
+        "baseDefense": 645,
+        "baseHealth": 1120,
         "specialId": "superfood_purification",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -43837,9 +43855,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "institute_zenas",
-        "baseAttack": 647,
-        "baseDefense": 633,
-        "baseHealth": 1114,
+        "baseAttack": 659,
+        "baseDefense": 645,
+        "baseHealth": 1147,
         "specialId": "moldavite_wings",
         "passiveSkills": [
             "revive_in_alternative_form_with_insanity_chance",
@@ -43892,9 +43910,9 @@ window.allHeroesExtra = [
             "Damage Reducers"
         ],
         "heroId": "magic_carpet_kesha",
-        "baseAttack": 634,
-        "baseDefense": 651,
-        "baseHealth": 1117,
+        "baseAttack": 641,
+        "baseDefense": 658,
+        "baseHealth": 1138,
         "specialId": "eternal_ishq",
         "passiveSkills": [
             "reduce_big_minion_health",
@@ -43918,9 +43936,9 @@ window.allHeroesExtra = [
             "Healing Reducers"
         ],
         "heroId": "construct_arzen",
-        "baseAttack": 653,
-        "baseDefense": 644,
-        "baseHealth": 1084,
+        "baseAttack": 662,
+        "baseDefense": 653,
+        "baseHealth": 1112,
         "specialId": "vicious_strike",
         "passiveSkills": [
             "minion_core",
@@ -43961,9 +43979,9 @@ window.allHeroesExtra = [
         "costumeBonusPassiveSkillIds": [
             "reduce_big_minion_health"
         ],
-        "attackBonus": "38%",
-        "defenseBonus": "38%",
-        "healthBonus": "39%",
+        "attackBonus": "40%",
+        "defenseBonus": "40%",
+        "healthBonus": "41%",
         "manaBonus": "1%",
         "family": "magic"
     },
@@ -44047,9 +44065,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -44108,9 +44126,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -44130,9 +44148,9 @@ window.allHeroesExtra = [
             "Board Alterers"
         ],
         "heroId": "titan_hunter_borgholf",
-        "baseAttack": 651,
-        "baseDefense": 634,
-        "baseHealth": 1114,
+        "baseAttack": 656,
+        "baseDefense": 639,
+        "baseHealth": 1129,
         "specialId": "verdant_trap",
         "passiveSkills": [
             "titan_hunter_hunting_flare_on_special_cast",
@@ -44395,9 +44413,9 @@ window.allHeroesExtra = [
             "resist_burn_with_health_and_mana_boost_costume"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "10%",
-        "defenseBonus": "10%",
-        "healthBonus": "12%",
+        "attackBonus": "12%",
+        "defenseBonus": "12%",
+        "healthBonus": "13%",
         "manaBonus": "5%",
         "family": "nidavellir"
     },
@@ -44487,10 +44505,12 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "47%",
-        "defenseBonus": "47%",
-        "healthBonus": "47%",
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "50%",
         "manaBonus": "5%",
         "family": "super_elemental"
     },
@@ -44510,9 +44530,9 @@ window.allHeroesExtra = [
             "Sleepweavers"
         ],
         "heroId": "slime_slaymire",
-        "baseAttack": 631,
-        "baseDefense": 660,
-        "baseHealth": 1113,
+        "baseAttack": 638,
+        "baseDefense": 667,
+        "baseHealth": 1134,
         "specialId": "glutinous_execution",
         "passiveSkills": [
             "summon_slime_minion_on_damage_purple",
@@ -44546,9 +44566,9 @@ window.allHeroesExtra = [
             "resist_defense_modifier_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "53%",
-        "defenseBonus": "53%",
-        "healthBonus": "53%",
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
         "manaBonus": "5%",
         "family": "musketeer"
     },
@@ -44567,9 +44587,9 @@ window.allHeroesExtra = [
             "Mana Generation Buffers"
         ],
         "heroId": "beauty_beast_cerissa",
-        "baseAttack": 641,
-        "baseDefense": 647,
-        "baseHealth": 1114,
+        "baseAttack": 651,
+        "baseDefense": 656,
+        "baseHealth": 1141,
         "specialId": "spell_of_camaraderie",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
@@ -44597,9 +44617,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "forsaken_cassilda",
-        "baseAttack": 644,
-        "baseDefense": 649,
-        "baseHealth": 1111,
+        "baseAttack": 656,
+        "baseDefense": 660,
+        "baseHealth": 1144,
         "specialId": "discordant_incantation",
         "passiveSkills": [
             "revive_in_alternative_form_with_insanity_chance",
@@ -44651,9 +44671,9 @@ window.allHeroesExtra = [
             "Mana Raisers"
         ],
         "heroId": "mahayoddha_meenakshi",
-        "baseAttack": 632,
-        "baseDefense": 662,
-        "baseHealth": 1115,
+        "baseAttack": 639,
+        "baseDefense": 669,
+        "baseHealth": 1135,
         "specialId": "coastal_recharge",
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
@@ -44677,9 +44697,9 @@ window.allHeroesExtra = [
             "Buffers (ATK)"
         ],
         "heroId": "outlaw_shi_jin",
-        "baseAttack": 650,
-        "baseDefense": 639,
-        "baseHealth": 1117,
+        "baseAttack": 657,
+        "baseDefense": 646,
+        "baseHealth": 1138,
         "specialId": "nine_dragon_strike",
         "passiveSkills": [
             "resist_bleed",
@@ -44730,9 +44750,9 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "wild_cat_savann",
-        "baseAttack": 676,
-        "baseDefense": 608,
-        "baseHealth": 1120,
+        "baseAttack": 683,
+        "baseDefense": 615,
+        "baseHealth": 1141,
         "specialId": "greeting_of_the_sun",
         "passiveSkills": [
             "resist_all_defense_effects",
@@ -44756,9 +44776,9 @@ window.allHeroesExtra = [
             "Debuffers (ATK)"
         ],
         "heroId": "vegetable_onwyn",
-        "baseAttack": 649,
-        "baseDefense": 642,
-        "baseHealth": 1119,
+        "baseAttack": 651,
+        "baseDefense": 644,
+        "baseHealth": 1125,
         "specialId": "teargas_roulette",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -44781,9 +44801,9 @@ window.allHeroesExtra = [
             "Buffers (ATK)"
         ],
         "heroId": "astral_demon_zondalath",
-        "baseAttack": 637,
-        "baseDefense": 660,
-        "baseHealth": 1117,
+        "baseAttack": 642,
+        "baseDefense": 664,
+        "baseHealth": 1130,
         "specialId": "solar_shroud",
         "passiveSkills": [
             "resist_heal_multiplier_debuffs",
@@ -44836,9 +44856,9 @@ window.allHeroesExtra = [
             "Damage Sharers"
         ],
         "heroId": "titan_hunter_brachynd",
-        "baseAttack": 658,
-        "baseDefense": 634,
-        "baseHealth": 1118,
+        "baseAttack": 663,
+        "baseDefense": 639,
+        "baseHealth": 1133,
         "specialId": "venom_guard",
         "passiveSkills": [
             "titan_hunter_hunting_flare_on_special_cast",
@@ -44867,7 +44887,7 @@ window.allHeroesExtra = [
         "baseHealth": 609,
         "specialId": "lethal_strikes",
         "passiveSkills": [
-            "dishonorable_death",
+            "dishonorable_death_epic",
             "prevent_boosted_health"
         ],
         "family": "ronin"
@@ -44888,9 +44908,9 @@ window.allHeroesExtra = [
             "Debuffers (DEF)"
         ],
         "heroId": "ronin_mikanagi_miran",
-        "baseAttack": 656,
-        "baseDefense": 640,
-        "baseHealth": 1115,
+        "baseAttack": 667,
+        "baseDefense": 652,
+        "baseHealth": 1149,
         "specialId": "iaijutsu_slashes",
         "passiveSkills": [
             "dishonorable_death",
@@ -44918,7 +44938,7 @@ window.allHeroesExtra = [
         "baseHealth": 520,
         "specialId": "flying_front_kick",
         "passiveSkills": [
-            "dishonorable_death",
+            "dishonorable_death_rare",
             "prevent_boosted_health"
         ],
         "family": "ronin"
@@ -44938,9 +44958,9 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "ronin_asakura_masao",
-        "baseAttack": 639,
-        "baseDefense": 659,
-        "baseHealth": 1120,
+        "baseAttack": 651,
+        "baseDefense": 671,
+        "baseHealth": 1151,
         "specialId": "two_sword_technique",
         "passiveSkills": [
             "dishonorable_death",
@@ -45002,9 +45022,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -45060,9 +45080,9 @@ window.allHeroesExtra = [
             "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "85%",
-        "defenseBonus": "85%",
-        "healthBonus": "85%",
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -45153,9 +45173,9 @@ window.allHeroesExtra = [
             "resist_burn_with_health_and_mana_boost_costume"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "11%",
-        "defenseBonus": "11%",
-        "healthBonus": "12%",
+        "attackBonus": "13%",
+        "defenseBonus": "13%",
+        "healthBonus": "13%",
         "manaBonus": "5%",
         "family": "nidavellir"
     },
@@ -45185,8 +45205,8 @@ window.allHeroesExtra = [
             "resist_defense_modifier_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "55%",
-        "defenseBonus": "55%",
+        "attackBonus": "60%",
+        "defenseBonus": "60%",
         "healthBonus": "60%",
         "manaBonus": "5%",
         "family": "musketeer"
@@ -45207,9 +45227,9 @@ window.allHeroesExtra = [
             "Chain & Random Attackers"
         ],
         "heroId": "beauty_beast_pendulus_clonk",
-        "baseAttack": 660,
-        "baseDefense": 631,
-        "baseHealth": 1120,
+        "baseAttack": 669,
+        "baseDefense": 640,
+        "baseHealth": 1147,
         "specialId": "always_on_time",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
@@ -45233,9 +45253,9 @@ window.allHeroesExtra = [
             "Revivers"
         ],
         "heroId": "slime_justico",
-        "baseAttack": 636,
-        "baseDefense": 665,
-        "baseHealth": 1118,
+        "baseAttack": 643,
+        "baseDefense": 672,
+        "baseHealth": 1139,
         "specialId": "viscous_shield_justico",
         "passiveSkills": [
             "summon_slime_minion_on_damage_yellow",
@@ -45268,10 +45288,12 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "42%",
-        "defenseBonus": "42%",
-        "healthBonus": "44%",
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
+        "attackBonus": "45%",
+        "defenseBonus": "45%",
+        "healthBonus": "47%",
         "manaBonus": "5%",
         "family": "super_elemental"
     },
@@ -45292,9 +45314,9 @@ window.allHeroesExtra = [
             "Buffers (DEF)"
         ],
         "heroId": "rodent_sproutwhisker",
-        "baseAttack": 642,
-        "baseDefense": 662,
-        "baseHealth": 1114,
+        "baseAttack": 651,
+        "baseDefense": 671,
+        "baseHealth": 1141,
         "specialId": "vibrant_whistle",
         "passiveSkills": [
             "resist_all_attack_effects",
@@ -45318,9 +45340,9 @@ window.allHeroesExtra = [
             "Mana Generation Buffers"
         ],
         "heroId": "rodent_embertail",
-        "baseAttack": 663,
-        "baseDefense": 642,
-        "baseHealth": 1101,
+        "baseAttack": 672,
+        "baseDefense": 651,
+        "baseHealth": 1128,
         "specialId": "blazing_matchstick",
         "passiveSkills": [
             "resist_all_attack_effects",
@@ -45372,9 +45394,9 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "institute_professor_ambrose",
-        "baseAttack": 639,
-        "baseDefense": 661,
-        "baseHealth": 1120,
+        "baseAttack": 651,
+        "baseDefense": 672,
+        "baseHealth": 1153,
         "specialId": "staff_of_domination",
         "passiveSkills": [
             "damage_increase_by_insanity",
@@ -45398,9 +45420,9 @@ window.allHeroesExtra = [
             "Sleepweavers"
         ],
         "heroId": "mahayoddha_bhairavi_devi",
-        "baseAttack": 645,
-        "baseDefense": 656,
-        "baseHealth": 1115,
+        "baseAttack": 652,
+        "baseDefense": 663,
+        "baseHealth": 1136,
         "specialId": "thandai_trance",
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
@@ -45423,9 +45445,9 @@ window.allHeroesExtra = [
             "Immunity Providers"
         ],
         "heroId": "construct_dancrag",
-        "baseAttack": 640,
-        "baseDefense": 667,
-        "baseHealth": 1113,
+        "baseAttack": 649,
+        "baseDefense": 676,
+        "baseHealth": 1140,
         "specialId": "ancient_technology",
         "passiveSkills": [
             "minion_core",
@@ -45471,9 +45493,9 @@ window.allHeroesExtra = [
             "Health Boosters"
         ],
         "heroId": "outlaw_xiang_chong",
-        "baseAttack": 665,
-        "baseDefense": 638,
-        "baseHealth": 1111,
+        "baseAttack": 672,
+        "baseDefense": 645,
+        "baseHealth": 1132,
         "specialId": "storm_of_blades",
         "passiveSkills": [
             "resist_bleed",
@@ -45481,5 +45503,1841 @@ window.allHeroesExtra = [
             "cleanse_on_special_critical_damage_all_safe"
         ],
         "family": "outlaw"
+    },
+    {
+        "name": "Nordri toon",
+        "fancy name": "Toon Dwarf of Jotunheim",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "s3_nordri_costume_cute",
+        "baseAttack": 282,
+        "baseDefense": 233,
+        "baseHealth": 472,
+        "specialId": "frosty_axes",
+        "specialId_costume": "toon_axes",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "jotunheim"
+    },
+    {
+        "name": "Agwe toon",
+        "fancy name": "Toon Chameleon Shaman",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [],
+        "heroId": "s2_chameleon_mage_costume_cute",
+        "baseAttack": 327,
+        "baseDefense": 285,
+        "baseHealth": 510,
+        "specialId": "tidal_wave",
+        "specialId_costume": "toon_wave",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "lagoon"
+    },
+    {
+        "name": "Triton toon",
+        "fancy name": "Toon Captain of Atlantis",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "s2_triton_costume_cute",
+        "baseAttack": 318,
+        "baseDefense": 310,
+        "baseHealth": 496,
+        "specialId": "heroic_noble",
+        "specialId_costume": "toon_trident",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Ariel toon",
+        "fancy name": "Toon Princess of Atlantis",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "s2_ariel_costume_cute",
+        "baseAttack": 350,
+        "baseDefense": 379,
+        "baseHealth": 614,
+        "specialId": "divine_protection",
+        "specialId_costume": "toontastic_protection",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Cobalt costume1",
+        "fancy name": "Ninja of Turbulent Seas",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "charge_ninja",
+        "Release date": "2026-05-03",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "ninja_cobalt_costume_tempest",
+        "baseAttack": 389,
+        "baseDefense": 333,
+        "baseHealth": 698,
+        "specialId": "katana_rain",
+        "specialId_costume": "katana_tempest",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "attackBonus": "78%",
+        "defenseBonus": "78%",
+        "healthBonus": "78%",
+        "manaBonus": "1%",
+        "family": "ninja"
+    },
+    {
+        "name": "Fenrir toon",
+        "fancy name": "Toon Leader of Nilfheim",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "s3_fenrir_costume_cute",
+        "baseAttack": 380,
+        "baseDefense": 357,
+        "baseHealth": 631,
+        "specialId": "gargantuan_bite",
+        "specialId_costume": "toontastic_bite",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "84%",
+        "defenseBonus": "84%",
+        "healthBonus": "84%",
+        "manaBonus": "5%",
+        "family": "niflheim"
+    },
+    {
+        "name": "Marko",
+        "fancy name": "Wayfarer of Springvale",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-03-30",
+        "AetherPower": "Heal Increase",
+        "skill_types": [],
+        "heroId": "easter_marko",
+        "baseAttack": 645,
+        "baseDefense": 661,
+        "baseHealth": 1120,
+        "specialId": "globetrotting_gifts",
+        "passiveSkills": [
+            "easter_health_generation_stack_on_special"
+        ],
+        "family": "easter"
+    },
+    {
+        "name": "Misandra toon",
+        "fancy name": "Magnificent Toon",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s2_mercenary_woman_costume_cute",
+        "baseAttack": 359,
+        "baseDefense": 358,
+        "baseHealth": 645,
+        "specialId": "chain_strike",
+        "specialId_costume": "toon_chain",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "lagoon"
+    },
+    {
+        "name": "Quinn costume1",
+        "fancy name": "Cosmic Alchemist",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-05-15",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "elemental_quinn_costume_alchemist",
+        "baseAttack": 440,
+        "baseDefense": 469,
+        "baseHealth": 840,
+        "specialId": "pineapple_barbeque",
+        "specialId_costume": "pineapple_alchemist",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "attackBonus": "44%",
+        "defenseBonus": "44%",
+        "healthBonus": "45%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
+    },
+    {
+        "name": "Seraphine",
+        "fancy name": "Beauty's Spiteful Sister",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-05-08",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [],
+        "heroId": "beauty_beast_seraphine",
+        "baseAttack": 679,
+        "baseDefense": 652,
+        "baseHealth": 1158,
+        "specialId": "ruthless_derision",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Ushal",
+        "fancy name": "Astral Demon Cosmomage",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-05-13",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [],
+        "heroId": "astral_demon_ushal",
+        "baseAttack": 679,
+        "baseDefense": 660,
+        "baseHealth": 1146,
+        "specialId": "cosmic_spirals",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Belith stylish",
+        "fancy name": "Stylish Spirit",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-05-09",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "forest_female_spirit_costume_stylish",
+        "baseAttack": 255,
+        "baseDefense": 250,
+        "baseHealth": 425,
+        "specialId": "calming_mist",
+        "specialId_costume": "stylish_mist",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Mnesseus toon",
+        "fancy name": "Toon Merman",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s2_merman_costume_cute",
+        "baseAttack": 279,
+        "baseDefense": 243,
+        "baseHealth": 398,
+        "specialId": "frightening_pinch",
+        "specialId_costume": "atlantean_toon_spear",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "28%",
+        "defenseBonus": "28%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Almur toon",
+        "fancy name": "Shadowtoon of Svartalfheim",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "s3_almur_costume_cute",
+        "baseAttack": 294,
+        "baseDefense": 306,
+        "baseHealth": 597,
+        "specialId": "shadow_sweep",
+        "specialId_costume": "toon_sweep",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "svartalfheim"
+    },
+    {
+        "name": "Gadeirus toon",
+        "fancy name": "Atlantean Watcher Toon",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Druid",
+        "speed": "slow",
+        "Release date": "2026-04-29",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [],
+        "heroId": "s2_atlantean_robot_costume_cute",
+        "baseAttack": 297,
+        "baseDefense": 320,
+        "baseHealth": 514,
+        "specialId": "empowering_bash",
+        "specialId_costume": "toon_bash",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Skittleskull stylish",
+        "fancy name": "Stylish Witch",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-04-10",
+        "AetherPower": "Mana Boost",
+        "skill_types": [],
+        "heroId": "goblin_mage_costume_stylish",
+        "baseAttack": 352,
+        "baseDefense": 278,
+        "baseHealth": 454,
+        "specialId": "creeping_vines",
+        "specialId_costume": "stylish_vines",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Achillea",
+        "fancy name": "Fearless Gladiator Slime",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-04-24",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "slime_achillea",
+        "baseAttack": 676,
+        "baseDefense": 647,
+        "baseHealth": 1145,
+        "specialId": "squish_squash_achillea",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "family": "slime"
+    },
+    {
+        "name": "Atomos toon",
+        "fancy name": "Toon Guardian of Atlantis",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "s2_skyllaros_costume_cute",
+        "baseAttack": 361,
+        "baseDefense": 348,
+        "baseHealth": 649,
+        "specialId": "immortal_annihilator",
+        "specialId_costume": "toon_annihilation",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Coleston",
+        "fancy name": "Unstoppable Halfling",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-05-01",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "nature_god_coleston",
+        "baseAttack": 646,
+        "baseDefense": 621,
+        "baseHealth": 954,
+        "specialId": "farmhands_fury",
+        "passiveSkills": [
+            "resist_burn",
+            "dodge_enemy_damage_special"
+        ],
+        "family": "hotm2026"
+    },
+    {
+        "name": "Dagr costume1",
+        "fancy name": "Dwarven Plague Shaman",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-05-01",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [],
+        "heroId": "tales2_dagr_costume_plague_shaman",
+        "baseAttack": 600,
+        "baseDefense": 556,
+        "baseHealth": 1030,
+        "specialId": "blazing_venom",
+        "specialId_costume": "curing_venom",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "14%",
+        "defenseBonus": "14%",
+        "healthBonus": "14%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Kageyama Nagato",
+        "fancy name": "Thief-Shuriken Ronin",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "charge_ninja",
+        "Release date": "2026-04-06",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "ronin_kageyama_nagato",
+        "baseAttack": 676,
+        "baseDefense": 649,
+        "baseHealth": 1158,
+        "specialId": "shuriken_storm",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Melonius",
+        "fancy name": "Watermelon Wizard",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-05-17",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "vegetable_melonius",
+        "baseAttack": 654,
+        "baseDefense": 684,
+        "baseHealth": 1163,
+        "specialId": "magical_refreshment",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Sylosis",
+        "fancy name": "Martial Artist Construct",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-04-28",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "construct_sylosis",
+        "baseAttack": 664,
+        "baseDefense": 671,
+        "baseHealth": 1155,
+        "specialId": "ancient_martial_arts",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Troop Mimic Nature",
+        "fancy name": "Bounty of Dreadful Arsenal",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-05-02",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_troop_green",
+        "baseAttack": 649,
+        "baseDefense": 647,
+        "baseHealth": 1099,
+        "specialId": "gluttonous_chomp_green",
+        "passiveSkills": [
+            "mimic_troop_green",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Zuni costume1",
+        "fancy name": "Hoverboard Mage",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-04-24",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "elemental_zuni_costume_mage",
+        "baseAttack": 460,
+        "baseDefense": 447,
+        "baseHealth": 810,
+        "specialId": "hoverboard_slam",
+        "specialId_costume": "hoverboard_crash",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "attackBonus": "45%",
+        "defenseBonus": "45%",
+        "healthBonus": "47%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
+    },
+    {
+        "name": "Bjorn toon",
+        "fancy name": "Brave Toon",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s3_bjorn_costume_cute",
+        "baseAttack": 265,
+        "baseDefense": 250,
+        "baseHealth": 477,
+        "specialId": "dual_slash",
+        "specialId_costume": "dual_toon_slash",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "midgard"
+    },
+    {
+        "name": "Gill-Ra toon",
+        "fancy name": "Toon Hunter",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-04-29",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "s2_fiji_mermaid_costume_cute",
+        "baseAttack": 241,
+        "baseDefense": 276,
+        "baseHealth": 430,
+        "specialId": "song_of_regression",
+        "specialId_costume": "toon_lament",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "28%",
+        "defenseBonus": "28%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "lagoon"
+    },
+    {
+        "name": "Prisca stylish",
+        "fancy name": "Stylish Warden",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-04-10",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "blackguard_female_captain_costume_stylish",
+        "baseAttack": 250,
+        "baseDefense": 259,
+        "baseHealth": 438,
+        "specialId": "bleeding_stab",
+        "specialId_costume": "stylish_stab",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Cyprian stylish",
+        "fancy name": "Stylish Deathbound Lord",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-05-09",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "undead_captain_warrior_costume_stylish",
+        "baseAttack": 262,
+        "baseDefense": 287,
+        "baseHealth": 655,
+        "specialId": "perfect_riposte",
+        "specialId_costume": "stylish_riposte_cyprian",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Fura toon",
+        "fancy name": "Poisoner Toon of Svartalfheim",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s3_fura_costume_cute",
+        "baseAttack": 332,
+        "baseDefense": 297,
+        "baseHealth": 514,
+        "specialId": "nightglade_pollen",
+        "specialId_costume": "toonglade_pollen",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "svartalfheim"
+    },
+    {
+        "name": "Proteus toon",
+        "fancy name": "Toon Mage of Atlantis",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [],
+        "heroId": "s2_proteus_costume_cute",
+        "baseAttack": 329,
+        "baseDefense": 287,
+        "baseHealth": 508,
+        "specialId": "scar_of_the_depths",
+        "specialId_costume": "toon_of_the_depths",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Auberguy",
+        "fancy name": "Aubergine Wizard",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_slow",
+        "Release date": "2026-04-02",
+        "AetherPower": "Special Armor",
+        "skill_types": [],
+        "heroId": "vegetable_auberguy",
+        "baseAttack": 650,
+        "baseDefense": 658,
+        "baseHealth": 1131,
+        "specialId": "bitter_wilting",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Cordelia",
+        "fancy name": "Queen of Curses",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-04-01",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [],
+        "heroId": "dark_god_cordelia",
+        "baseAttack": 567,
+        "baseDefense": 596,
+        "baseHealth": 1095,
+        "specialId": "destined_curse",
+        "passiveSkills": [
+            "resist_poison",
+            "resist_direct_mana_reductions"
+        ],
+        "family": "hotm2026"
+    },
+    {
+        "name": "Domitia stylish",
+        "fancy name": "Stylish Sniper",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2026-05-09",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "magitech_sniper_costume_stylish",
+        "baseAttack": 375,
+        "baseDefense": 318,
+        "baseHealth": 631,
+        "specialId": "shock_bolt",
+        "specialId_costume": "stylish_bolt",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Dularfulr costume1",
+        "fancy name": "Dwarven Dark Engineer",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2026-04-07",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "tales2_dularfulr_costume_engineer",
+        "baseAttack": 556,
+        "baseDefense": 574,
+        "baseHealth": 1076,
+        "specialId": "nights_whisper",
+        "specialId_costume": "nights_calibration",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "14%",
+        "defenseBonus": "14%",
+        "healthBonus": "15%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Hel toon",
+        "fancy name": "Toon Celestial of Darkness",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "dark_god_hel_costume_cute",
+        "baseAttack": 363,
+        "baseDefense": 335,
+        "baseHealth": 646,
+        "specialId": "crush_of_hel",
+        "specialId_costume": "crush_of_toon_hel",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
+    },
+    {
+        "name": "Ivete",
+        "fancy name": "Jealous Fairy of the Bewitched Castle",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
+        "Release date": "2026-04-16",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "beauty_beast_ivete",
+        "baseAttack": 670,
+        "baseDefense": 658,
+        "baseHealth": 1148,
+        "specialId": "bewitching_blast",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Kageburado toon",
+        "fancy name": "Cursed Toonlord",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "s2_cursed_samurai_costume_cute",
+        "baseAttack": 384,
+        "baseDefense": 341,
+        "baseHealth": 607,
+        "specialId": "break_strike",
+        "specialId_costume": "toon_strike",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "japanese"
+    },
+    {
+        "name": "Mok-Arr toon",
+        "fancy name": "Savage Toon",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "s2_hammerhead_hulk_costume_cute",
+        "baseAttack": 357,
+        "baseDefense": 329,
+        "baseHealth": 700,
+        "specialId": "black_tide",
+        "specialId_costume": "toon_tide",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "lagoon"
+    },
+    {
+        "name": "Rawn",
+        "fancy name": "Cougar Burglar",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
+        "Release date": "2026-04-09",
+        "AetherPower": "Taunt",
+        "skill_types": [],
+        "heroId": "wild_cat_rawn",
+        "baseAttack": 695,
+        "baseDefense": 625,
+        "baseHealth": 1127,
+        "specialId": "caught_and_vicious",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
+    },
+    {
+        "name": "Rochefort costume1",
+        "fancy name": "Ruthless Rat-Catcher",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2026-04-16",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [],
+        "heroId": "musketeer_rochefort_costume_ratcatcher",
+        "baseAttack": 440,
+        "baseDefense": 421,
+        "baseHealth": 850,
+        "specialId": "dishonorable_ploy",
+        "specialId_costume": "exterminators_ploy",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "48%",
+        "defenseBonus": "48%",
+        "healthBonus": "50%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Thoth-Amun toon",
+        "fancy name": "Master of Toon Crypts",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Revive",
+        "skill_types": [],
+        "heroId": "witch_king_costume_cute",
+        "baseAttack": 354,
+        "baseDefense": 338,
+        "baseHealth": 664,
+        "specialId": "soul_cage",
+        "specialId_costume": "skeletoon_summon",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
+    },
+    {
+        "name": "Azar stylish",
+        "fancy name": "Seeker of Style",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-05-09",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "nomad_female_swordmaster_costume_stylish",
+        "baseAttack": 300,
+        "baseDefense": 225,
+        "baseHealth": 369,
+        "specialId": "sharp_cut",
+        "specialId_costume": "stylish_cut",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Ei-Dunn toon",
+        "fancy name": "Cursed Viking Toon",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [],
+        "heroId": "s3_ei_dunn_costume_cute",
+        "baseAttack": 244,
+        "baseDefense": 276,
+        "baseHealth": 491,
+        "specialId": "tainted_axe",
+        "specialId_costume": "toon_axe",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "niflheim"
+    },
+    {
+        "name": "Experience Mimic Fire Rare",
+        "fancy name": "Trove of the Tiny Teeth",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-01-16",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_experience_rare_red",
+        "baseAttack": 315,
+        "baseDefense": 315,
+        "baseHealth": 535,
+        "specialId": "greedy_munch_red",
+        "passiveSkills": [
+            "mimic_experience_rare_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Squire Wabbit costume1",
+        "fancy name": "Junior Knight of Springvale",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-03-30",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "rabbit_red_costume_knight",
+        "baseAttack": 313,
+        "baseDefense": 215,
+        "baseHealth": 354,
+        "specialId": "reckless_stab",
+        "specialId_costume": "prudent_stab",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "easter"
+    },
+    {
+        "name": "Colen stylish",
+        "fancy name": "Stylish Bounty Hunter",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
+        "Release date": "2026-04-10",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "nomad_axe_adventurer_costume_stylish",
+        "baseAttack": 351,
+        "baseDefense": 254,
+        "baseHealth": 500,
+        "specialId": "fire_storm",
+        "specialId_costume": "stylish_flames",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Kelile stylish",
+        "fancy name": "Stylish Priestess",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-05-09",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "nomad_female_berserker_costume_stylish",
+        "baseAttack": 336,
+        "baseDefense": 301,
+        "baseHealth": 448,
+        "specialId": "dance_of_fire",
+        "specialId_costume": "stylish_dance",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Sumitomo toon",
+        "fancy name": "Toon of Deceit",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s2_demon_master_costume_cute",
+        "baseAttack": 319,
+        "baseDefense": 292,
+        "baseHealth": 524,
+        "specialId": "oji_waza",
+        "specialId_costume": "toon_waza",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "japanese"
+    },
+    {
+        "name": "Sumle toon",
+        "fancy name": "Toon Fire Giant",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2026-04-29",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "s3_sumle_costume_cute",
+        "baseAttack": 338,
+        "baseDefense": 295,
+        "baseHealth": 510,
+        "specialId": "magma_boulders",
+        "specialId_costume": "toon_magma_boulders",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "muspelheim"
+    },
+    {
+        "name": "Amarosa",
+        "fancy name": "Empress from the Outer Domain",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-04-14",
+        "AetherPower": "Vampire",
+        "skill_types": [],
+        "heroId": "forsaken_amarosa",
+        "baseAttack": 678,
+        "baseDefense": 650,
+        "baseHealth": 1157,
+        "specialId": "sword_of_xuvhosh",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Ares toon",
+        "fancy name": "Toon of War",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "fire_god_ares_costume_cute",
+        "baseAttack": 319,
+        "baseDefense": 361,
+        "baseHealth": 704,
+        "specialId": "might_of_ares",
+        "specialId_costume": "might_of_toon_ares",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
+    },
+    {
+        "name": "Ascension Mimic Fire",
+        "fancy name": "Grinning Cache of Evil",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2025-07-04",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_ascension_item_red",
+        "baseAttack": 616,
+        "baseDefense": 616,
+        "baseHealth": 1045,
+        "specialId": "gorging_chew_red",
+        "passiveSkills": [
+            "mimic_ascension_item_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Big Barry",
+        "fancy name": "Strawberry Thug",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-04-25",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "vegetable_big_barry",
+        "baseAttack": 667,
+        "baseDefense": 647,
+        "baseHealth": 1132,
+        "specialId": "spiked_bat_thrashing",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Carthizux",
+        "fancy name": "Astral Demon Maniac",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-04-05",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "astral_demon_carthizux",
+        "baseAttack": 675,
+        "baseDefense": 646,
+        "baseHealth": 1111,
+        "specialId": "astral_madness_unleashed",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Duke Whitley",
+        "fancy name": "High Mage of Springvale",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-03-30",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "easter_duke_whitley",
+        "baseAttack": 665,
+        "baseDefense": 637,
+        "baseHealth": 1117,
+        "specialId": "roasting_rooster",
+        "passiveSkills": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "family": "easter"
+    },
+    {
+        "name": "Experience Mimic Fire",
+        "fancy name": "Trove of Thousand Teeth",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2025-04-22",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_training_hero_red",
+        "baseAttack": 600,
+        "baseDefense": 600,
+        "baseHealth": 1030,
+        "specialId": "mimic_training_hero_red_bite",
+        "passiveSkills": [
+            "mimic_training_hero_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Food Mimic Fire",
+        "fancy name": "Flesh-eating Chest",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-05-10",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_food_red",
+        "baseAttack": 692,
+        "baseDefense": 689,
+        "baseHealth": 1158,
+        "specialId": "wicked_lick_red",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_red"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Mitsuko toon",
+        "fancy name": "Toon Beauty",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "s2_noble_lady_costume_cute",
+        "baseAttack": 342,
+        "baseDefense": 349,
+        "baseHealth": 704,
+        "specialId": "dark_mirror",
+        "specialId_costume": "toon_mirror",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "japanese"
+    },
+    {
+        "name": "Shar-alen",
+        "fancy name": "Ruthless Frontline Lynx",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2026-03-30",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "wild_cat_sharalen",
+        "baseAttack": 701,
+        "baseDefense": 601,
+        "baseHealth": 1149,
+        "specialId": "tip_of_the_spear",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
+    },
+    {
+        "name": "Kvasir toon",
+        "fancy name": "Toon Beekeeper",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "s3_kvasir_costume_cute",
+        "baseAttack": 247,
+        "baseDefense": 246,
+        "baseHealth": 529,
+        "specialId": "bee_bravado",
+        "specialId_costume": "toon_bees",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "alfheim"
+    },
+    {
+        "name": "Melia toon",
+        "fancy name": "Toon Mermaid",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s2_merwoman_costume_cute",
+        "baseAttack": 296,
+        "baseDefense": 228,
+        "baseHealth": 394,
+        "specialId": "atlantean_blade",
+        "specialId_costume": "atlantean_toon_sword",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "28%",
+        "defenseBonus": "28%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Ascension Mimic Holy Epic",
+        "fancy name": "Grinning Cache of Lesser Evil",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-01-16",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_ascension_epic_yellow",
+        "baseAttack": 375,
+        "baseDefense": 375,
+        "baseHealth": 710,
+        "specialId": "gorging_bite_yellow",
+        "passiveSkills": [
+            "mimic_ascension_epic_yellow",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Lady Woolerton costume1",
+        "fancy name": "Coiffeuse of Springvale",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-03-30",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [],
+        "heroId": "easter_lady_woolerton_costume_coiffeuse",
+        "baseAttack": 293,
+        "baseDefense": 317,
+        "baseHealth": 576,
+        "specialId": "smooth_treatment",
+        "specialId_costume": "shearing_treatment",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_health_generation_stack_on_special_epic"
+        ],
+        "attackBonus": "24%",
+        "defenseBonus": "24%",
+        "healthBonus": "24%",
+        "manaBonus": "5%",
+        "family": "easter"
+    },
+    {
+        "name": "Ajay",
+        "fancy name": "Urumi Warrior",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-04-21",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "mahayoddha_ajay",
+        "baseAttack": 672,
+        "baseDefense": 650,
+        "baseHealth": 1146,
+        "specialId": "urumi_lashing",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Constance costume1",
+        "fancy name": "Courageous Fusilier",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-05-08",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "musketeer_constance_costume_fusilier",
+        "baseAttack": 423,
+        "baseDefense": 450,
+        "baseHealth": 835,
+        "specialId": "sword_dance",
+        "specialId_costume": "fusiliers_flurry",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "48%",
+        "defenseBonus": "48%",
+        "healthBonus": "50%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Dagny",
+        "fancy name": "Vanguard of the Wilds",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-04-18",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "titan_hunter_savanna",
+        "baseAttack": 663,
+        "baseDefense": 655,
+        "baseHealth": 1136,
+        "specialId": "desert_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_yellow_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
+    },
+    {
+        "name": "Hiyori",
+        "fancy name": "Geisha of Horai-zan",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
+        "Release date": "2026-05-03",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "ronin_hiyori",
+        "baseAttack": 662,
+        "baseDefense": 673,
+        "baseHealth": 1156,
+        "specialId": "sensu_of_immortality",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Joon stylish",
+        "fancy name": "Stylish Sun Monk",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-04-10",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "oriental_enchanted_monk_costume_stylish",
+        "baseAttack": 379,
+        "baseDefense": 300,
+        "baseHealth": 640,
+        "specialId": "solar_beam",
+        "specialId_costume": "stylish_beam",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "95%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Norns toon",
+        "fancy name": "Weavers of Toon Destiny",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-04-29",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "s3_norns_costume_cute",
+        "baseAttack": 375,
+        "baseDefense": 348,
+        "baseHealth": 672,
+        "specialId": "twist_of_fate",
+        "specialId_costume": "twist_of_toon_fate",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "84%",
+        "defenseBonus": "84%",
+        "healthBonus": "84%",
+        "manaBonus": "5%",
+        "family": "vanaheim"
+    },
+    {
+        "name": "Poseidon toon",
+        "fancy name": "Toon Ruler of Atlantis",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-04-29",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "s2_poseidon_costume_cute",
+        "baseAttack": 357,
+        "baseDefense": 356,
+        "baseHealth": 655,
+        "specialId": "ruler_of_seas",
+        "specialId_costume": "toon_of_the_seas",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Sir Roostley costume1",
+        "fancy name": "Mighty Alchemist of Springvale",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-03-30",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "easter_sir_roostley_costume_alchemist",
+        "baseAttack": 380,
+        "baseDefense": 353,
+        "baseHealth": 652,
+        "specialId": "luminous_lance",
+        "specialId_costume": "alchemist_lance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "attackBonus": "75%",
+        "defenseBonus": "75%",
+        "healthBonus": "76%",
+        "manaBonus": "5%",
+        "family": "easter"
+    },
+    {
+        "name": "Tengo",
+        "fancy name": "Profaned Sunlord Construct",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-05-16",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "construct_tengo",
+        "baseAttack": 686,
+        "baseDefense": 667,
+        "baseHealth": 1117,
+        "specialId": "sunlords_forbidden_flame",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Troop Mimic Holy",
+        "fancy name": "Bounty of Dreadful Arsenal",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-04-08",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_troop_yellow",
+        "baseAttack": 649,
+        "baseDefense": 647,
+        "baseHealth": 1099,
+        "specialId": "gluttonous_chomp_yellow",
+        "passiveSkills": [
+            "mimic_troop_yellow",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Nyctalos",
+        "fancy name": "The All-Seeing Terror",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2026-05-19",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "forsaken_nyctalos",
+        "baseAttack": 676,
+        "baseDefense": 660,
+        "baseHealth": 1161,
+        "specialId": "ocular_ray",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Avestalon",
+        "fancy name": "Trapper from the Rainforest",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-05-20",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "titan_hunter_avestalon",
+        "baseAttack": 677,
+        "baseDefense": 659,
+        "baseHealth": 1159,
+        "specialId": "crimson_trap",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_red_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];

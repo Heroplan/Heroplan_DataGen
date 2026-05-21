@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Kahraman, Özel Yeteneklerden doğrudan hasar aldığında {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Tevazu kazanır."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Bu karakter, Özel Yeteneklerden doğrudan hasar alırken {CURRENTCHARGEFROMDAMAGE} Tevazu kazanır."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Kahraman, Özel Yeteneklerden doğrudan iyileştirme aldığında {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Tevazu kazanır."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Bu karakter, Özel Yeteneklerden doğrudan şifa alırken {CURRENTCHARGEFROMHEAL} Tevazu kazanır."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","Kahraman, her turun sonunda {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} Tevazu kazanır."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Bu karakter, her turun sonunda {CURRENTCHARGEONTURNEND} Tevazu kazanır."
 "familybonuses.description.long.abyss","Bu Kahraman, Özel Yeteneğini uyguladığında panoda bir Underwild Mücevheri çıkma ihtimali: %{CHANCE}/%{2MEMBERSCHANCE}/%{3MEMBERSCHANCE}/%{4MEMBERSCHANCE}/%{5MEMBERSCHANCE}.
 Underwild Mücevherleri, eşleşene kadar rastgele bir düşmana her turda {FIXEDPOWER} hasar verir.
 Underwild Mücevherleri yalnızca bu Kahramanla aynı elementteki normal kalkanlarda çıkabilir."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Bu karakterin Hayalet formunun süresi dolduğunda %{1MEMBERMULTIPLIERPERCENT}/%{2MEMBERSMULTIPLIERPERCENT} mana kazanır."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Bu karakter, Özel Yetenek hasarı alırken %{1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT} mana kazanır. Bu efekt her turda bir kez etkinleşebilir."
 "familybonuses.description.long.attack_multiplier","%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE}/%{4MEMBERSMULTIPLIERPERCENTCHANGE}/%{5MEMBERSMULTIPLIERPERCENTCHANGE} saldırı."
 "familybonuses.description.long.attack_multiplier_champion","%{MULTIPLIERPERCENTCHANGE}/%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE} saldırı."
@@ -15,12 +22,13 @@ Underwild Mücevherleri yalnızca bu Kahramanla aynı elementteki normal kalkanl
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","%{2MEMBERSMULTIPLIERPERCENTCHANGE} saldırı."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Bu karakter bir düşmanı her Yağmalamaya çalıştığında tüm müttefikler %{FAMILYMEMBERS1ATTACK}/%{FAMILYMEMBERS2ATTACK}/%{FAMILYMEMBERS3ATTACK} saldırı istifi kazanır. (Maks. istif: {MAXSTACK})"
 "familybonuses.description.long.build_charge_beauty_beast","Farklı Kahramanların farklı Tevazu gereksinimleri vardır.
-Kahraman Özel Yeteneğinin daha güçlü bir versiyonunu uyguladığında yalnızca gereken miktarda Tevazu harcanır.
+Kahraman, Özel Yeteneğinin güçlü bir versiyonuna sahip olduğunda sadece gereken miktarda Tevazu tüketilir.
 Maksimum Tevazu: 100.
-Aynı aileden 1/2/3 benzersiz Kahraman için bonus:
-Kahraman, Özel Yeteneklerden doğrudan hasar alırken {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Tevazu kazanır.
-Kahraman, Özel Yeteneklerden doğrudan şifa alırken {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Tevazu kazanır."
+Aynı ailedeki 1/2/3 eşsiz Kahramanlar için bonus:
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Farklı Kahramanların farklı Tevazu gereksinimleri vardır.
+Kahraman Özel Yeteneğinin daha güçlü bir versiyonunu uyguladığında yalnızca gereken miktarda Tevazu harcanır.
+Aynı aileden 1/2/3 benzersiz Kahraman için bonus:
 Kahraman, Özel Yeteneklerden doğrudan hasar alırken {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Tevazu kazanır. Her turda maks. bir kez.
 Kahraman, Özel Yeteneklerden doğrudan şifa alırken {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Tevazu kazanır. Her turda maks. bir kez."
 "familybonuses.description.long.build_charge_construct","Bu karakter normal saldırılardan veya Özel Yeteneklerden her hasar aldığında Yapı Merkezi dolar."
@@ -31,7 +39,7 @@ Kahraman, Özel Yeteneklerden doğrudan şifa alırken {1MEMBERCHARGEFROMHEAL}/{
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Bu Kahraman, savunmayı etkileyen bir durum engeli aldığında alınan engeli, tüm düşmanlara uygulamak için %{1MEMBERCHANCE}/%{2MEMBERSCHANCE}/%{3MEMBERSCHANCE} şans bulunur."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","Bu karakterin uyguladığı her Talih Dansı durum efektinin süresini 1 tur artırmak için %{2MEMBERSCHANCE}/%{3MEMBERSCHANCE} şans."
 "familybonuses.description.long.champions_special_damage_power_modifier","+%{1MEMBERMULTIPLIERPERCENT}/+%{2MEMBERSMULTIPLIERPERCENT}/+%{3MEMBERSMULTIPLIERPERCENT} ek Özel Yetenek hasarı."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Özel Yetenek hasarı alırken bu karakterden tüm durum engellerini arındırmak için %{1MEMBERCHANCE}/{2MEMBERSCHANCE} şans."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Özel Yetenek hasarı alırken tüm müttefiklerden 1 durum engelini arındırmak için %{1MEMBERCHANCE}/{2MEMBERSCHANCE} şans."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","Özel Yetenek hasarı alırken bu karakterden rastgele bir arındırılabilir durum engeli arındırmak için %{1MEMBERCHANCE}/{2MEMBERSCHANCE} şans."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Bu karakter, bir düşmanın Özel Yeteneğinden hasar aldığında %{1MEMBERCHANCE}/%{2MEMBERSCHANCE} şansla tüm müttefiklerden rastgele bir arındırılabilir durum engeli arındırılır. Bu efekt yalnızca tur başına bir defa etkinleşebilir."
 "familybonuses.description.long.counter_attack_ninja","Alınan hasarın %{MULTIPLIERPERCENT}/%{2MEMBERSMULTIPLIERPERCENT}/%{3MEMBERSMULTIPLIERPERCENT}  oranıyla %{CHANCE}/%{2MEMBERSCHANCE}/%{3MEMBERSCHANCE} kontratak yapma şansı."
@@ -88,6 +96,7 @@ Orijinal değerlerinin min. %{MINSTAT} ve maks. %{MAXSTAT} kadarı."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","%{1MEMBERMULTIPLIERPERCENTCHANGE}/%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE} sağlık"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","%{1MEMBERMULTIPLIERPERCENTCHANGE}/%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE} sağlık"
 "familybonuses.description.long.health_multiplier_jungle_hunters","%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE}/%{4MEMBERSMULTIPLIERPERCENTCHANGE}/%{5MEMBERSMULTIPLIERPERCENTCHANGE} SP."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Bu karakter her bir düşmanı Büyülemeye kalkıştığında tüm müttefikler +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} sağlık yenileme istifi alır. (Maks. istif: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","Mega Hizmetkarlara karşı %{1MEMBERMULTIPLIERPERCENTCHANGE}/%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE} daha çok hasar verilir."
 "familybonuses.description.long.increased_damage_against_minions_2_members","Hizmetkarlara karşı %{1MEMBERMULTIPLIERPERCENTCHANGE}/%{2MEMBERSMULTIPLIERPERCENTCHANGE} daha çok hasar verilir."
 "familybonuses.description.long.increased_damage_against_minions_3_members","Hizmetkarlara karşı %{1MEMBERMULTIPLIERPERCENTCHANGE}/%{2MEMBERSMULTIPLIERPERCENTCHANGE}/%{3MEMBERSMULTIPLIERPERCENTCHANGE} daha çok hasar verilir."
@@ -136,6 +145,7 @@ En az 1 bağlı kahramanın bulunduğu bir takımda bulunduğunda bağlı olduğ
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Kahraman Büyülü Aileye bağlıdır.
 En az 1 bağlı kahramanın bulunduğu bir takımda bulunduğunda bağlı olduğu ailenin bonusunu alır. 1/2/3/4/5 kahraman için bonus:
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Bu karaktere Özel Yetenek hasarı veren düşmana {STATUSEFFECT1TURNS} tur boyunca {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} Su hasarı verir."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Müttefikler tarafından çağrılan Mega Hizmetkarlar, Hizmetkarlar, Mega Canavarlar ve Canavarlar, takımdaki Balçık Ailesi Kahramanı sayısına göre %{1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} saldırı alırlar."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","%{2MEMBERSMULTIPLIERPERCENTCHANGE} Özel Yetenek gücü."
 "familybonuses.description.long.start_battle_with_fox_minion","Savaşın başında kendi için kahramandan devralınan %{FAMILIARHEALTHPERCENT} sağlığa ve %{FAMILIARATTACK} saldırıya sahip {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} Kurnaz Tilki Hizmetkarı çağırır.
@@ -157,6 +167,7 @@ Kurnaz Tilki Hizmetkarı savuşturduğunda saldırgandan son bozulabilen buff'ı
 "familybonuses.description.members","(Aile üyeleri: {0})"
 "familybonuses.description.members.realm","(Diyar üyeleri: {0})"
 "familybonuses.description.short.abyss","Özel Yetenek uygulandığında bir Underwild Mücevheri çıkması için %{CHANCE} şans. Underwild Mücevheri rastgele bir düşmana her turda {FIXEDPOWER} hasar verir."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Bu karakterin Hayalet formunun süresi dolduktan sonra %{MULTIPLIERPERCENT} mana kazanır."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Bu karakter, Özel Yetenek hasarı aldığında %{MULTIPLIERPERCENT} mana kazanır."
 "familybonuses.description.short.attack_multiplier","%{MULTIPLIERPERCENTCHANGE} saldırı"
 "familybonuses.description.short.attack_multiplier_champion","%{MULTIPLIERPERCENTCHANGE} saldırı"
@@ -173,8 +184,7 @@ Kurnaz Tilki Hizmetkarı savuşturduğunda saldırgandan son bozulabilen buff'ı
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Her turun başında, en yüksek kalan SP'ye sahip düşmanı Kanlı Zambak ile işaretler."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Her turun başında, en yüksek kalan SP'ye sahip düşmanı Kanlı Zambak ile işaretler."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Bu karakter bir karakteri Yağmalamaya çalıştığında tüm müttefiklere %{ATTACK} saldırı istifi uygula. (Maks. istif: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Bu karakter Özel Yeteneklerden doğrudan hasar alırken {CURRENTCHARGEFROMDAMAGE} Tevazu kazanır.
-Bu karakter Özel Yeteneklerden doğrudan şifa alırken {CURRENTCHARGEFROMHEAL} Tevazu kazanır."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Bu karakter Özel Yeteneklerden doğrudan hasar alırken {CURRENTCHARGEFROMDAMAGE} Tevazu kazanır. Her turda maks. bir kez.
 Bu karakter Özel Yeteneklerden doğrudan şifa alırken {CURRENTCHARGEFROMHEAL} Tevazu kazanır. Her turda maks. bir kez."
 "familybonuses.description.short.build_charge_construct","Bu karakter normal saldırılardan ve Özel Yeteneklerden hasar alırken Yapı Merkezi dolar."
@@ -185,7 +195,7 @@ Bu karakter Özel Yeteneklerden doğrudan şifa alırken {CURRENTCHARGEFROMHEAL}
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Bu Kahraman, savunmayı etkileyen bir durum engeli aldığında alınan engeli, tüm düşmanlara uygulamak için %{CHANCE} şans bulunur."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","Uygulanan Talih Dansı durum efektlerini 1 artırmak için %{CHANCE} şans."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% ek Özel Yetenek hasarı."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Özel Yetenek hasarı alındığında bu karakterden, arındırılabilir tüm durum engellerini arındırmak için %{CHANCE} şans"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Özel Yetenek hasarı alındığında tüm müttefiklerden, 1 durum engelini arındırmak için %{CHANCE} şans"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","Özel Yetenek hasarı aldığında bu karakterden rastgele bir arındırılabilir durum engeli arındırmak için %{CHANCE} şans."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Bir düşman bu karaktere Özel Yetenek hasarı verdiğinde bu karakterin, tüm müttefiklerden rastgele bir arındırılabilen durum engelini arındırması için %{CHANCE} şans bulunur. Bu efekt yalnızca tur başına bir defa etkinleşebilir."
 "familybonuses.description.short.counter_attack_ninja","Alınan hasarın %{MULTIPLIERPERCENT} oranıyla %{CHANCE} kontratak yapma şansı."
@@ -233,6 +243,7 @@ Bu karakter Özel Yeteneklerden doğrudan şifa alırken {CURRENTCHARGEFROMHEAL}
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","%{MULTIPLIERPERCENTCHANGE} sağlık"
 "familybonuses.description.short.health_multiplier_jungle_hunters","%{MULTIPLIERPERCENTCHANGE} SP"
 "familybonuses.description.short.health_stack","Şifa İstifi +1 almak için %{CHANCE} şans: Her turun sonunda +{BASESTACKCOUNT} sağlık"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Bu karakter, her bir düşmanı Büyülemeye kalkıştığında tüm müttefikler +{HEAL} sağlık yenileme istifi alır."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","Mega Hizmetkarlara karşı %{MULTIPLIERPERCENTCHANGE} daha çok hasar verilir."
 "familybonuses.description.short.increased_damage_against_minions_2_members","Hizmetkarlara karşı %{MULTIPLIERPERCENTCHANGE} daha çok hasar verilir."
 "familybonuses.description.short.increased_damage_against_minions_3_members","Hizmetkarlara karşı %{MULTIPLIERPERCENTCHANGE} daha çok hasar verilir."
@@ -280,6 +291,7 @@ Bu karakter Özel Yeteneklerden doğrudan şifa alırken {CURRENTCHARGEFROMHEAL}
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","Mana azaltmalarına ve mana durum engellerine direnmek ve direnişte %{POWER} mana almak için %{CHANCE} şans"
 "familybonuses.description.short.share_effects_from_atlantis","Kahraman Atlantis Ailesine bağlıdır.
 En az 1 bağlı kahramanın bulunduğu bir takımda bulunduğunda bağlı olduğunu ailenin bonusu alır:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Bir düşman, bu karaktere Özel Yetenek hasarı verdiğinde düşman {STATUSEFFECT1TURNS} tur boyunca {DAMAGE} Su hasarı alır."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Mega Hizmetkarlar, Hizmetkarlar, Mega Canavarlar ve Canavarlar %{MULTIPLIERPERCENTCHANGE} saldırı alır."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Ay Yılı Fare bonusu: %{MULTIPLIERPERCENTCHANGE} Özel Yetenek gücü"
 "familybonuses.description.short.start_battle_with_fox_minion","Savaşın başında kendisine {FAMILIARAMOUNT} Kurnaz Tilki Hizmetkarı çağırır. Kurnaz Tilki Hizmetkarı %80 şansla gelen saldırıları savuşturur. Başarılı bir savuşturmadan sonra saldırgandan bozulabilen son buff'ı çalar ve sahibine verir."
@@ -336,7 +348,8 @@ Bu Kahraman, bu etkinlikte aşağıdaki avantajlara sahiptir:"
 "herocard.family.description.eventherobonus.alliancequestcastle","Bu ailenin üyeleri, Şövalyelerin Çarpışması etkinliğinde ek avantajlara sahiptir."
 "herocard.family.description.eventherobonus.alliancequestmoths","Bu ailenin üyeleri, Güve Gecesi etkinliğinde ek avantajlara sahiptir."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Bu ailenin üyeleri, Cesur ve Güzel etkinliğinde ek avantajlara sahiptir."
-"herocard.family.description.eventherobonus.beachparty","Bu ailenin üyeleri Plaj Partisi etkinliğinde ek avantajlara sahiptir."
+"herocard.family.description.eventherobonus.beachparty","Bu ailenin üyeleri Güneşkoyu Partisi etkinliğinde ek avantajlara sahiptir."
+"herocard.family.description.eventherobonus.beachparty2026","Bu ailenin üyeleri Güneşkoyu Partisi etkinliğinde ek avantajlara sahiptir."
 "herocard.family.description.eventherobonus.christmas","Bu ailenin üyeleri, Noel Baba Mücadelesi etkinliğinde ek avantajlara sahiptir."
 "herocard.family.description.eventherobonus.easter","Bu ailenin üyeleri, Bahar Vadisi Festivali etkinliğinde ek avantajlara sahiptir."
 "herocard.family.description.eventherobonus.halloween","Bu ailenin üyeleri, Cadılar Bayramı etkinliğinde ek avantajlara sahiptir."
@@ -418,6 +431,8 @@ Ay Yılı ailesinde farklı Ay Yılı Hayvan Kahramanlar yer alır. Her Ay Yıl�
 "herocard.family.title.cultist.short","Tarikatçı"
 "herocard.family.title.cupid","Aşk Meleği Ailesi"
 "herocard.family.title.cupid.short","Aşk Meleği"
+"herocard.family.title.dryad","Kadim Çiçek Ailesinin Orman Perileri"
+"herocard.family.title.dryad.short","Orman Perileri"
 "herocard.family.title.easter","Bahar Vadisi Ailesi"
 "herocard.family.title.easter.short","Bahar Vadisi"
 "herocard.family.title.fable","Grim Ormanı Ailesi"
@@ -439,6 +454,8 @@ Ay Yılı ailesinde farklı Ay Yılı Hayvan Kahramanlar yer alır. Her Ay Yıl�
 "herocard.family.title.gargoyle.short","Yaratık"
 "herocard.family.title.garrison","Garnizon Muhafızları Ailesi"
 "herocard.family.title.garrison.short","Garnizon Muhafızları"
+"herocard.family.title.ghost","Yang Jian Ailesinin Hayaletleri"
+"herocard.family.title.ghost.short","Yang Jian'ın Hayaletleri"
 "herocard.family.title.goblin","Goblin Ailesi"
 "herocard.family.title.goblin.short","Goblin"
 "herocard.family.title.guardian","Muhafız Ailesi"
@@ -526,6 +543,8 @@ Ay Yılı ailesinde farklı Ay Yılı Hayvan Kahramanlar yer alır. Her Ay Yıl�
 "herocard.family.title.sand.short","Kum İmparatorluğu"
 "herocard.family.title.shady_scoundrels","Şüpheli Alçak Ailesi"
 "herocard.family.title.shady_scoundrels.short","Şüpheli Alçak"
+"herocard.family.title.shark","Güneşkoyu Köpek Balığı Ailesi"
+"herocard.family.title.shark.short","Güneşkoyu Köpek Balığı"
 "herocard.family.title.slayers","Katil Ailesi"
 "herocard.family.title.slayers.short","Katil"
 "herocard.family.title.slime","Balçık Ailesi"

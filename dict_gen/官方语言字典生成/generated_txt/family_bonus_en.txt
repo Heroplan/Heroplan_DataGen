@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","The Hero gains {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","This character gains {CURRENTCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","The Hero gains {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} Humility at the end of each turn."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","This character gains {CURRENTCHARGEONTURNEND} Humility at the end of each turn."
 "familybonuses.description.long.abyss","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill.
 The Underwild Gems deal {FIXEDPOWER} damage to a random enemy each turn until it is matched.
 Underwild Gems can only spawn on regular shields that match the element of this Hero."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Gain {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}% mana when a Ghost form on this character expires."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","This character gains {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% mana when taking Special Skill damage. This effect can activate once per turn."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
@@ -18,8 +25,7 @@ Underwild Gems can only spawn on regular shields that match the element of this 
 When the Hero casts the strong version of their Special Skill, only the required amount of Humility is consumed.
 Maximum Humility: 100.
 Bonus for 1/2/3 unique Heroes of the same family:
-The Hero gains {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills.
-The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills."
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Different Heroes have different Humility requirements.
 The Hero gains {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills. Max once per turn.
 The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills. Max once per turn."
@@ -31,7 +37,7 @@ The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","When this Hero receives a status ailment affecting defense, {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to cast the received ailment to all enemies."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to increase the duration of each Fortune Dance status effect cast by this character by 1 turn."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% additional Special Skill damage."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% chance to cleanse all status ailments from this character when receiving Special Skill damage."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% chance to cleanse 1 status ailment from all allies when receiving Special Skill damage."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% chance to cleanse a random cleansable status ailment from this character when receiving Special Skill damage."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% chance to cleanse a random cleansable status ailment from all allies when this character receives damage from an enemy's Special Skill. This effect can activate only once per turn."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to counterattack with {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% of the damage received."
@@ -88,6 +94,7 @@ Min {MINSTAT}% and max {MAXSTAT}% of their original values."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% health"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% health"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% HP."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","All allies get +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} health regeneration stack each time this character attempts to Mesmerize an enemy. (Max stacks: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% more damage dealt against Mega Minions."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}% more damage dealt against Minions."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% more damage dealt against Minions."
@@ -135,6 +142,7 @@ If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANC
 Hero receives the family bonus of a related family when in a team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Hero is related to the Magic Family.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Deal {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} Water damage over {STATUSEFFECT1TURNS} turns on an enemy who deals Special Skill damage to this character."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Mega Minions, Minions, Mega Fiends and Fiends summoned by allies get {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% attack based on the numbers of Slime Family Heroes in the team."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% Special Skill power."
 "familybonuses.description.long.start_battle_with_fox_minion","At the start of the battle summons {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} Sly Fox Minions for self, with {FAMILIARHEALTHPERCENT}% health and {FAMILIARATTACK}% attack inherited from the hero.
@@ -156,6 +164,7 @@ Additional skill with 3 family members: When summoned, the Mask Minion gives its
 "familybonuses.description.members","(Family members: {0})"
 "familybonuses.description.members.realm","(Realm members: {0})"
 "familybonuses.description.short.abyss","{CHANCE}% chance to spawn an Underwild Gem when Special Skill is cast. Underwild Gem deals {FIXEDPOWER} damage to a random enemy each turn."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Gain {MULTIPLIERPERCENT}% mana after a Ghost form on this character expires."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","This character gets {MULTIPLIERPERCENT}% mana on received Special Skill damage."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}% attack"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}% attack"
@@ -172,8 +181,7 @@ Additional skill with 3 family members: When summoned, the Mask Minion gives its
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","At the start of each turn, marks the enemy with the highest remaining HP with a Blood Lily."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","At the start of each turn, marks the enemy with the highest remaining HP with a Blood Lily."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Cast {ATTACK}% attack stack on all allies when this character tries to Ransack a character. (Max stack: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","This character gains {CURRENTCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills.
-This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","This character gains {CURRENTCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills. Max once per turn.
 This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills. Max once per turn."
 "familybonuses.description.short.build_charge_construct","This character charges their Construct Core when receiving damage from normal attacks and Special Skills."
@@ -184,7 +192,7 @@ This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct heal
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","When this Hero receives a status ailment affecting defense, {CHANCE}% chance to cast the received ailment to all enemies."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% chance to increase the duration of cast Fortune Dance status effects by 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% additional Special Skill damage."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% chance to cleanse all cleansable status ailments from this character on received Special Skill damage"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% chance to cleanse 1 status ailment from all allies on received Special Skill damage"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% chance to cleanse a random cleansable status ailment from this character on received Special Skill damage."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","When an enemy deals Special Skill damage to this character, there is a {CHANCE}% chance for this character to cleanse a random cleansable status ailment from all allies. This effect can activate only once per turn."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% chance to counterattack with {MULTIPLIERPERCENT}% of the damage received."
@@ -232,6 +240,7 @@ This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct heal
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}% health"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}% HP"
 "familybonuses.description.short.health_stack","{CHANCE}% chance to get Healing Stack +1: +{BASESTACKCOUNT} health at the end of each turn"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","All allies get +{HEAL} health regeneration stack each time this character attempts to Mesmerize an enemy."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE}% more damage dealt against Mega Minions."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE}% more damage dealt against Minions."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE}% more damage dealt against Minions."
@@ -278,6 +287,7 @@ This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct heal
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}% chance to resist mana reductions and mana status ailments and receive {POWER}% mana on resist"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}% chance to resist mana reductions and mana status ailments and receive {POWER}% mana on resist"
 "familybonuses.description.short.share_effects_from_atlantis","Hero is related to the Atlantis Family. Hero receives the family bonus of a related family when in a team with at least 1 related hero:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","When an enemy deals Special Skill damage to this character, the enemy receives {DAMAGE} Water damage over {STATUSEFFECT1TURNS} turns."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Mega Minions, Minions, Mega Fiends and Fiends get {MULTIPLIERPERCENTCHANGE}% attack."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Lunar Year Rat bonus: {MULTIPLIERPERCENTCHANGE}% Special Skill power"
 "familybonuses.description.short.start_battle_with_fox_minion","Summons {FAMILIARAMOUNT} Sly Fox Minion for self at the start of battle. Sly Fox Minion has 80% chance to dodge incoming attacks. On a successful dodge, it steals the latest dispellable buff from the attacker and gives it to its owner."
@@ -334,7 +344,8 @@ This Hero has the following perks in this event:"
 "herocard.family.description.eventherobonus.alliancequestcastle","The members of this family have additional perks in the Clash of Knights event."
 "herocard.family.description.eventherobonus.alliancequestmoths","The members of this family have additional perks in the Night of the Moth event."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","The members of this family have additional perks in the The Brave & The Beautiful event."
-"herocard.family.description.eventherobonus.beachparty","The members of this family have additional perks in the Beach Party event."
+"herocard.family.description.eventherobonus.beachparty","The members of this family have additional perks in the Sunbay Party event."
+"herocard.family.description.eventherobonus.beachparty2026","The members of this family have additional perks in the Sunbay Party event."
 "herocard.family.description.eventherobonus.christmas","The members of this family have additional perks in the Santa's Challenge event."
 "herocard.family.description.eventherobonus.easter","The members of this family have additional perks in the Springvale Festival event."
 "herocard.family.description.eventherobonus.halloween","The members of this family have additional perks in the Halloween event."
@@ -416,6 +427,8 @@ The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Ye
 "herocard.family.title.cultist.short","Cultist"
 "herocard.family.title.cupid","Cupid Family"
 "herocard.family.title.cupid.short","Cupid"
+"herocard.family.title.dryad","Dryads of the Ancient Bloom Family"
+"herocard.family.title.dryad.short","Dryads"
 "herocard.family.title.easter","Springvale Family"
 "herocard.family.title.easter.short","Springvale"
 "herocard.family.title.fable","Grimforest Family"
@@ -437,6 +450,8 @@ The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Ye
 "herocard.family.title.gargoyle.short","Gargoyle"
 "herocard.family.title.garrison","Garrison Guard Family"
 "herocard.family.title.garrison.short","Garrison Guard"
+"herocard.family.title.ghost","Ghosts of Yang Jian Family"
+"herocard.family.title.ghost.short","Ghosts of Yang Jian"
 "herocard.family.title.goblin","Goblin Family"
 "herocard.family.title.goblin.short","Goblin"
 "herocard.family.title.guardian","Guardian Family"
@@ -524,6 +539,8 @@ The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Ye
 "herocard.family.title.sand.short","Sand Empire"
 "herocard.family.title.shady_scoundrels","Shady Scoundrel Family"
 "herocard.family.title.shady_scoundrels.short","Shady Scoundrel"
+"herocard.family.title.shark","Sunbay Shark Family"
+"herocard.family.title.shark.short","Sunbay Shark"
 "herocard.family.title.slayers","Slayer Family"
 "herocard.family.title.slayers.short","Slayer"
 "herocard.family.title.slime","Slime Family"

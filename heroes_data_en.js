@@ -267,7 +267,7 @@ window.allHeroes =
             "All enemies get -24% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
@@ -417,7 +417,7 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
@@ -488,7 +488,7 @@ window.allHeroes =
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.This Passive Skill only activates once per turn for each team.",
             "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
             "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
             "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
@@ -538,7 +538,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Compact Lance",
         "types": [
-            "Hit All"
+            "Hit All",
+            "Attack Debuff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -674,8 +675,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Joyful Backup",
         "types": [
-            "Heal All",
-            "Summoner"
+            "Healer All",
+            "Summoner All"
         ],
         "skill_types": [
             "Healers",
@@ -1354,8 +1355,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Healthiest Catch",
         "types": [
-            "Heal All",
-            "Cleanse All"
+            "Healer All",
+            "Clean All"
         ],
         "skill_types": [
             "Cleansers",
@@ -1417,8 +1418,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Fishiest Pastry",
         "types": [
-            "HoT",
-            "Cleanser"
+            "HoT All",
+            "Clean All"
         ],
         "skill_types": [
             "Cleansers",
@@ -1483,7 +1484,8 @@ window.allHeroes =
         "skill": "Disabling Decree",
         "types": [
             "Hit 1",
-            "Buff Immunity"
+            "Buff Immunity Debuff 1",
+            "Damage 1 on each attempted buff"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -1548,7 +1550,8 @@ window.allHeroes =
         "skill": "Disabling Study",
         "types": [
             "Hit 1",
-            "Buff Immunity"
+            "Buff Immunity Debuff 1",
+            "Damage 1 on each attempted buff"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -1580,7 +1583,7 @@ window.allHeroes =
             "* Deals 70% damage to all enemies.",
             "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -2177,6 +2180,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Nordri Toon",
+        "fancy_name": "Toon Dwarf of Jotunheim",
+        "AetherPower": "Rage",
+        "color": "Blue",
+        "class": "Barbarian",
+        "speed": "Average",
+        "skill": "Toon Axes",
+        "types": [
+            "Hit 3",
+            "Elemental Defense Debuff 3"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toon_axes",
+        "parent_specialId": "frosty_axes",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_nordri_costume_cute",
+        "star": 3,
+        "power": 564,
+        "attack": 612,
+        "defense": 506,
+        "health": 1025,
+        "effects": [
+            "Deals 275% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -55% defense against Ice for 4 turns.",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "jotunheim",
+        "costume_id": 2,
+        "originalIndex": 35,
+        "lb1": {
+            "attack": 694,
+            "defense": 573,
+            "health": 1162,
+            "power": 631
+        },
+        "lb2": {
+            "attack": 857,
+            "defense": 708,
+            "health": 1436,
+            "power": 764
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Planchet",
         "fancy_name": "Valiant Valet",
         "AetherPower": "Special Boost",
@@ -2216,7 +2271,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 35,
+        "originalIndex": 36,
         "lb1": {
             "attack": 587,
             "defense": 514,
@@ -2287,7 +2342,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 36,
+        "originalIndex": 37,
         "lb1": {
             "attack": 670,
             "defense": 576,
@@ -2351,7 +2406,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 37,
+        "originalIndex": 38,
         "lb1": {
             "attack": 581,
             "defense": 567,
@@ -2424,11 +2479,11 @@ window.allHeroes =
         ],
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 38,
+        "originalIndex": 39,
         "lb1": {
             "attack": 591,
             "defense": 591,
@@ -2488,7 +2543,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 39,
+        "originalIndex": 40,
         "lb1": {
             "attack": 598,
             "defense": 407,
@@ -2549,7 +2604,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 40,
+        "originalIndex": 41,
         "lb1": {
             "attack": 604,
             "defense": 465,
@@ -2616,7 +2671,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 41,
+        "originalIndex": 42,
         "lb1": {
             "attack": 604,
             "defense": 573,
@@ -2689,7 +2744,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 42,
+        "originalIndex": 43,
         "lb1": {
             "attack": 632,
             "defense": 581,
@@ -2753,7 +2808,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 43,
+        "originalIndex": 44,
         "lb1": {
             "attack": 543,
             "defense": 466,
@@ -2814,7 +2869,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 44,
+        "originalIndex": 45,
         "lb1": {
             "attack": 564,
             "defense": 512,
@@ -2881,7 +2936,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 45,
+        "originalIndex": 46,
         "lb1": {
             "attack": 616,
             "defense": 545,
@@ -2954,7 +3009,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 46,
+        "originalIndex": 47,
         "lb1": {
             "attack": 634,
             "defense": 557,
@@ -3031,11 +3086,11 @@ window.allHeroes =
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 47,
+        "originalIndex": 48,
         "lb1": {
             "attack": 468,
             "defense": 561,
@@ -3094,7 +3149,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 48,
+        "originalIndex": 49,
         "lb1": {
             "attack": 498,
             "defense": 486,
@@ -3156,7 +3211,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 49,
+        "originalIndex": 50,
         "lb1": {
             "attack": 551,
             "defense": 563,
@@ -3220,7 +3275,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 50,
+        "originalIndex": 51,
         "lb1": {
             "attack": 745,
             "defense": 669,
@@ -3281,7 +3336,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 51,
+        "originalIndex": 52,
         "lb1": {
             "attack": 715,
             "defense": 772,
@@ -3309,6 +3364,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Agwe Toon",
+        "fancy_name": "Toon Chameleon Shaman",
+        "AetherPower": "Boosted Regen",
+        "color": "Blue",
+        "class": "Cleric",
+        "speed": "Average",
+        "skill": "Toon Wave",
+        "types": [
+            "Hit All",
+            "Elemental Defense Buff All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_wave",
+        "parent_specialId": "tidal_wave",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_chameleon_mage_costume_cute",
+        "star": 4,
+        "power": 826,
+        "attack": 903,
+        "defense": 787,
+        "health": 1463,
+        "effects": [
+            "Deals 220% damage to all enemies.",
+            "All allies get +54% defense against Nature for 4 turns.",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 53,
+        "lb1": {
+            "attack": 981,
+            "defense": 855,
+            "health": 1589,
+            "power": 890
+        },
+        "lb2": {
+            "attack": 1137,
+            "defense": 991,
+            "health": 1843,
+            "power": 1018
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Aqualith",
         "fancy_name": "Elemental Hoplite",
         "AetherPower": "Damage Reduction",
@@ -3318,7 +3425,7 @@ window.allHeroes =
         "skill": "Close Order Formation",
         "types": [
             "Taunt",
-            "Hit all"
+            "Delayed Damage All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -3352,7 +3459,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 52,
+        "originalIndex": 54,
         "lb1": {
             "attack": 734,
             "defense": 748,
@@ -3388,7 +3495,7 @@ window.allHeroes =
         "skill": "Impervious Formation",
         "types": [
             "Taunt",
-            "Hit all"
+            "Delayed Damage All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -3427,7 +3534,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 53,
+        "originalIndex": 55,
         "lb1": {
             "attack": 734,
             "defense": 777,
@@ -3463,7 +3570,7 @@ window.allHeroes =
         "skill": "Counterstance",
         "types": [
             "Heal All",
-            "Counterattack"
+            "Counterattack 3"
         ],
         "skill_types": [
             "Counterattackers",
@@ -3492,7 +3599,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 54,
+        "originalIndex": 56,
         "lb1": {
             "attack": 634,
             "defense": 810,
@@ -3528,7 +3635,7 @@ window.allHeroes =
         "skill": "Dance Stance",
         "types": [
             "Heal All",
-            "Counterattack"
+            "Counterattack 3"
         ],
         "skill_types": [
             "Healers",
@@ -3566,7 +3673,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 55,
+        "originalIndex": 57,
         "lb1": {
             "attack": 690,
             "defense": 779,
@@ -3636,7 +3743,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 56,
+        "originalIndex": 58,
         "lb1": {
             "attack": 708,
             "defense": 826,
@@ -3697,7 +3804,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 57,
+        "originalIndex": 59,
         "lb1": {
             "attack": 544,
             "defense": 861,
@@ -3751,7 +3858,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 58,
+        "originalIndex": 60,
         "lb1": {
             "attack": 558,
             "defense": 943,
@@ -3804,7 +3911,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 59,
+        "originalIndex": 61,
         "lb1": {
             "attack": 642,
             "defense": 961,
@@ -3861,7 +3968,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 60,
+        "originalIndex": 62,
         "lb1": {
             "attack": 705,
             "defense": 929,
@@ -3921,7 +4028,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 61,
+        "originalIndex": 63,
         "lb1": {
             "attack": 730,
             "defense": 934,
@@ -3987,7 +4094,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 62,
+        "originalIndex": 64,
         "lb1": {
             "attack": 863,
             "defense": 861,
@@ -4056,7 +4163,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 63,
+        "originalIndex": 65,
         "lb1": {
             "attack": 674,
             "defense": 741,
@@ -4123,7 +4230,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 64,
+        "originalIndex": 66,
         "lb1": {
             "attack": 768,
             "defense": 884,
@@ -4189,12 +4296,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 65,
+        "originalIndex": 67,
         "lb1": {
             "attack": 778,
             "defense": 808,
@@ -4253,12 +4360,12 @@ window.allHeroes =
             "All allies regenerate 540 HP over 3 turns."
         ],
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 66,
+        "originalIndex": 68,
         "lb1": {
             "attack": 731,
             "defense": 757,
@@ -4299,7 +4406,7 @@ window.allHeroes =
         "skill": "Undead Razer",
         "types": [
             "Hit All",
-            "Defense Debuff"
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -4328,7 +4435,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 67,
+        "originalIndex": 69,
         "lb1": {
             "attack": 690,
             "defense": 695,
@@ -4368,9 +4475,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Undead Obliterator",
         "types": [
-            "Hit all",
-            "DoT Stack",
-            "Mana Generation Debuff Stack"
+            "Hit All",
+            "DoT Stack All",
+            "Mana Generation Debuff Stack All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -4404,7 +4511,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 68,
+        "originalIndex": 70,
         "lb1": {
             "attack": 713,
             "defense": 701,
@@ -4482,7 +4589,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 69,
+        "originalIndex": 71,
         "lb1": {
             "attack": 725,
             "defense": 725,
@@ -4550,7 +4657,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 70,
+        "originalIndex": 72,
         "lb1": {
             "attack": 748,
             "defense": 766,
@@ -4615,7 +4722,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 71,
+        "originalIndex": 73,
         "lb1": {
             "attack": 778,
             "defense": 577,
@@ -4676,7 +4783,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 72,
+        "originalIndex": 74,
         "lb1": {
             "attack": 793,
             "defense": 649,
@@ -4737,7 +4844,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 73,
+        "originalIndex": 75,
         "lb1": {
             "attack": 913,
             "defense": 655,
@@ -4804,7 +4911,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 74,
+        "originalIndex": 76,
         "lb1": {
             "attack": 899,
             "defense": 694,
@@ -4877,7 +4984,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 75,
+        "originalIndex": 77,
         "lb1": {
             "attack": 917,
             "defense": 703,
@@ -4949,7 +5056,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 76,
+        "originalIndex": 78,
         "lb1": {
             "attack": 1005,
             "defense": 765,
@@ -5021,7 +5128,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 77,
+        "originalIndex": 79,
         "lb1": {
             "attack": 757,
             "defense": 743,
@@ -5087,7 +5194,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 0,
-        "originalIndex": 78,
+        "originalIndex": 80,
         "lb1": {
             "attack": 782,
             "defense": 660,
@@ -5149,7 +5256,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 79,
+        "originalIndex": 81,
         "lb1": {
             "attack": 713,
             "defense": 731,
@@ -5214,7 +5321,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 80,
+        "originalIndex": 82,
         "lb1": {
             "attack": 778,
             "defense": 753,
@@ -5279,7 +5386,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 81,
+        "originalIndex": 83,
         "lb1": {
             "attack": 796,
             "defense": 849,
@@ -5352,7 +5459,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 82,
+        "originalIndex": 84,
         "lb1": {
             "attack": 837,
             "defense": 850,
@@ -5425,7 +5532,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 83,
+        "originalIndex": 85,
         "lb1": {
             "attack": 824,
             "defense": 884,
@@ -5495,7 +5602,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 84,
+        "originalIndex": 86,
         "lb1": {
             "attack": 894,
             "defense": 978,
@@ -5567,7 +5674,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 85,
+        "originalIndex": 87,
         "lb1": {
             "attack": 681,
             "defense": 727,
@@ -5624,7 +5731,7 @@ window.allHeroes =
         "health": 1413,
         "effects": [
             "Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.",
-            "The target and nearby enemies receive 388 Curse damage over 4 turns, starting low and increasing every turn.",
+            "The target and nearby enemies receive 51-156 increasing Curse damage each turn for 4 turns. (On the first turn, 51 damage is dealt. The damage increases by +45% each turn, up to 156 damage per turn.)",
             "Casting this Special Skill inflicts 55 Insanity on the caster."
         ],
         "passives": [
@@ -5632,7 +5739,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 86,
+        "originalIndex": 88,
         "lb1": {
             "attack": 854,
             "defense": 812,
@@ -5696,14 +5803,14 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 87,
+        "originalIndex": 89,
         "lb1": {
             "attack": 752,
             "defense": 736,
@@ -5764,7 +5871,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 88,
+        "originalIndex": 90,
         "lb1": {
             "attack": 757,
             "defense": 648,
@@ -5825,11 +5932,11 @@ window.allHeroes =
             "Reduces the mana of the target by 10%."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 89,
+        "originalIndex": 91,
         "lb1": {
             "attack": 787,
             "defense": 697,
@@ -5909,7 +6016,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 90,
+        "originalIndex": 92,
         "lb1": {
             "attack": 826,
             "defense": 692,
@@ -5986,7 +6093,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 91,
+        "originalIndex": 93,
         "lb1": {
             "attack": 861,
             "defense": 888,
@@ -6050,7 +6157,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 92,
+        "originalIndex": 94,
         "lb1": {
             "attack": 614,
             "defense": 738,
@@ -6119,7 +6226,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 93,
+        "originalIndex": 95,
         "lb1": {
             "attack": 789,
             "defense": 588,
@@ -6178,7 +6285,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 94,
+        "originalIndex": 96,
         "lb1": {
             "attack": 660,
             "defense": 794,
@@ -6239,7 +6346,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 95,
+        "originalIndex": 97,
         "lb1": {
             "attack": 716,
             "defense": 844,
@@ -6300,7 +6407,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 96,
+        "originalIndex": 98,
         "lb1": {
             "attack": 889,
             "defense": 770,
@@ -6367,7 +6474,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 97,
+        "originalIndex": 99,
         "lb1": {
             "attack": 877,
             "defense": 823,
@@ -6440,7 +6547,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 98,
+        "originalIndex": 100,
         "lb1": {
             "attack": 909,
             "defense": 824,
@@ -6481,7 +6588,7 @@ window.allHeroes =
         "skill": "Trident Throw",
         "types": [
             "Hit 1",
-            "Healing Buff"
+            "Healing Buff All"
         ],
         "skill_types": [
             "Healers (Special)",
@@ -6504,7 +6611,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 99,
+        "originalIndex": 101,
         "lb1": {
             "attack": 782,
             "defense": 653,
@@ -6565,7 +6672,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 100,
+        "originalIndex": 102,
         "lb1": {
             "attack": 749,
             "defense": 742,
@@ -6592,6 +6699,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Triton Toon",
+        "fancy_name": "Toon Captain of Atlantis",
+        "AetherPower": "Regen",
+        "color": "Blue",
+        "class": "Ranger",
+        "speed": "Fast",
+        "skill": "Toon Trident",
+        "types": [
+            "Hit 1",
+            "Healing Buff All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_trident",
+        "parent_specialId": "heroic_noble",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_triton_costume_cute",
+        "star": 4,
+        "power": 831,
+        "attack": 878,
+        "defense": 856,
+        "health": 1422,
+        "effects": [
+            "Deals 365% damage to the target.",
+            "All allies get +45% increase for any healing received for 4 turns.",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 103,
+        "lb1": {
+            "attack": 954,
+            "defense": 930,
+            "health": 1546,
+            "power": 895
+        },
+        "lb2": {
+            "attack": 1106,
+            "defense": 1078,
+            "health": 1792,
+            "power": 1024
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Valeria",
         "fancy_name": "Child of Night",
         "AetherPower": "Vampire",
@@ -6601,8 +6760,8 @@ window.allHeroes =
         "skill": "Dusk of Sorrow",
         "types": [
             "Hit 1",
-            "Dot 1",
-            "Steal Healing"
+            "DoT 1",
+            "Healing Steal 1"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -6632,7 +6791,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 101,
+        "originalIndex": 104,
         "lb1": {
             "attack": 662,
             "defense": 713,
@@ -6695,7 +6854,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 102,
+        "originalIndex": 105,
         "lb1": {
             "attack": 697,
             "defense": 812,
@@ -6736,7 +6895,7 @@ window.allHeroes =
         "skill": "Fishbone Blades",
         "types": [
             "Hit 2",
-            "Defense Down"
+            "Defense Debuff 2"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -6763,7 +6922,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 103,
+        "originalIndex": 106,
         "lb1": {
             "attack": 736,
             "defense": 708,
@@ -6799,7 +6958,7 @@ window.allHeroes =
         "skill": "Aquatic Dance",
         "types": [
             "Hit 2",
-            "Defense Down"
+            "Defense Debuff 2"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -6828,7 +6987,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 104,
+        "originalIndex": 107,
         "lb1": {
             "attack": 763,
             "defense": 725,
@@ -6898,7 +7057,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 105,
+        "originalIndex": 108,
         "lb1": {
             "attack": 865,
             "defense": 945,
@@ -6967,7 +7126,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 106,
+        "originalIndex": 109,
         "lb1": {
             "attack": 663,
             "defense": 868,
@@ -7038,7 +7197,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 107,
+        "originalIndex": 110,
         "lb1": {
             "attack": 875,
             "defense": 1046,
@@ -7108,15 +7267,18 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            "Mimic Loot: This Mimic gives a chance for the following extra loot",
+            "Legendary:",
             "* Alpha Aether",
             "* Ice Aether III",
+            "Epic:",
             "* Ice Aether II",
+            "Rare:",
             "* Ice Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 108,
+        "originalIndex": 111,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -7191,7 +7353,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 109,
+        "originalIndex": 112,
         "lb1": {
             "attack": 850,
             "defense": 874,
@@ -7260,7 +7422,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 110,
+        "originalIndex": 113,
         "lb1": {
             "attack": 1109,
             "defense": 1210,
@@ -7323,7 +7485,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 111,
+        "originalIndex": 114,
         "lb1": {
             "attack": 796,
             "defense": 761,
@@ -7394,7 +7556,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 112,
+        "originalIndex": 115,
         "lb1": {
             "attack": 1008,
             "defense": 967,
@@ -7469,7 +7631,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 113,
+        "originalIndex": 116,
         "lb1": {
             "attack": 803,
             "defense": 805,
@@ -7534,7 +7696,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 114,
+        "originalIndex": 117,
         "lb1": {
             "attack": 799,
             "defense": 770,
@@ -7614,7 +7776,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 115,
+        "originalIndex": 118,
         "lb1": {
             "attack": 959,
             "defense": 936,
@@ -7674,36 +7836,36 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_anatemah",
         "star": 5,
-        "power": 1250,
-        "attack": 1221,
+        "power": 1260,
+        "attack": 1250,
         "defense": 1361,
         "health": 2263,
         "effects": [
-            "Deals 400% damage to 5 random enemies.",
+            "Deals 430% damage to 5 random enemies.",
             "Hit enemies become afflicted with Astral Orb.",
             "While afflicted with the Astral Orb the Owner can't gain new Buffs.",
-            "Astral Orbs explode in 3 turns dealing 450 damage to their owner.",
-            "If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Each turn, Resonance deals 769 damage to the afflicted enemies and 384 damage to nearby enemies. (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn.)"
+            "Astral Orbs explode in 3 turns dealing 500 damage to their owner.",
+            "If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Each turn, Resonance deals 787 damage to the afflicted enemies and 393 damage to nearby enemies. (If an Astral Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn.)"
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 116,
+        "originalIndex": 119,
         "lb1": {
-            "attack": 1316,
+            "attack": 1347,
             "defense": 1467,
             "health": 2439,
-            "power": 1337
+            "power": 1348
         },
         "lb2": {
-            "attack": 1506,
+            "attack": 1541,
             "defense": 1678,
             "health": 2791,
-            "power": 1512
+            "power": 1524
         },
         "cn_skill_info": [
             {
@@ -7737,8 +7899,8 @@ window.allHeroes =
         "types": [
             "Minion Destroyer All",
             "Fiend Destroyer All",
-            "Firestorm Ward",
-            "Mana Generation Buff"
+            "Firestorm Ward All",
+            "Mana Generation Buff All"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -7764,19 +7926,19 @@ window.allHeroes =
         "health": 2243,
         "effects": [
             "Destroys all Minions from all enemies and damages all Mega Minions.",
-            "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1300. Reduces damage by additional 30% when the attacker is of the Nature element.",
             "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 117,
+        "originalIndex": 120,
         "lb1": {
             "attack": 1234,
             "defense": 1267,
@@ -7838,37 +8000,37 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_andvari_costume_c1",
         "star": 5,
-        "power": 1287,
-        "attack": 1257,
-        "defense": 1321,
-        "health": 2519,
+        "power": 1305,
+        "attack": 1280,
+        "defense": 1345,
+        "health": 2541,
         "effects": [
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "All enemies resist new Minions for 4 turns.",
             "All allies are immune to new Fiends for 4 turns.",
-            "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1450. Reduces damage by additional 30% when the attacker is of the Nature element."
+            "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1500. Reduces damage by additional 30% when the attacker is of the Nature element."
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 370 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 377 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 118,
+        "originalIndex": 121,
         "lb1": {
-            "attack": 1355,
-            "defense": 1424,
-            "health": 2715,
-            "power": 1378
+            "attack": 1379,
+            "defense": 1449,
+            "health": 2739,
+            "power": 1396
         },
         "lb2": {
-            "attack": 1550,
-            "defense": 1629,
-            "health": 3106,
-            "power": 1558
+            "attack": 1578,
+            "defense": 1658,
+            "health": 3134,
+            "power": 1580
         },
         "cn_skill_info": [
             {
@@ -7924,14 +8086,14 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 119,
+        "originalIndex": 122,
         "lb1": {
             "attack": 885,
             "defense": 905,
@@ -7978,39 +8140,42 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
         "heroId": "elemental_anzia_costume_jailer",
         "star": 5,
-        "power": 1265,
-        "attack": 1200,
-        "defense": 1236,
-        "health": 2676,
+        "power": 1288,
+        "attack": 1224,
+        "defense": 1261,
+        "health": 2731,
         "effects": [
-            "All allies counterattack with 70% of the damage received, and a further 8% increase per each Ice shield on the board for 5 turns, up to 166% damage in total.",
+            "All allies counterattack with 75% of the damage received, and a further 8% increase per each Ice shield on the board for 5 turns, up to 171% damage in total.",
             "All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.",
-            "All allies reduce all received damage by 20% for 5 turns."
+            "All allies reduce all received damage by 25% for 5 turns."
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -25%",
+            "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 120,
+        "originalIndex": 123,
         "lb1": {
-            "attack": 1293,
-            "defense": 1332,
-            "health": 2884,
-            "power": 1354
+            "attack": 1319,
+            "defense": 1359,
+            "health": 2943,
+            "power": 1379
         },
         "lb2": {
-            "attack": 1479,
-            "defense": 1524,
-            "health": 3300,
-            "power": 1531
+            "attack": 1510,
+            "defense": 1555,
+            "health": 3368,
+            "power": 1560
         },
         "cn_skill_info": [
             {
@@ -8066,7 +8231,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 121,
+        "originalIndex": 124,
         "lb1": {
             "attack": 939,
             "defense": 805,
@@ -8130,7 +8295,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 122,
+        "originalIndex": 125,
         "lb1": {
             "attack": 788,
             "defense": 828,
@@ -8170,7 +8335,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Deep Sea Ritual",
         "types": [
-            "Boosted Health All",
+            "Boost Health All",
             "MoT All",
             "Cleanser All"
         ],
@@ -8199,7 +8364,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 123,
+        "originalIndex": 126,
         "lb1": {
             "attack": 1001,
             "defense": 1021,
@@ -8229,6 +8394,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Ariel Toon",
+        "fancy_name": "Toon Princess of Atlantis",
+        "AetherPower": "Defense Up",
+        "color": "Blue",
+        "class": "Cleric",
+        "speed": "Average",
+        "skill": "Toontastic Protection",
+        "types": [
+            "Healer All",
+            "Mana Generation Buff All",
+            "Cleanser All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toontastic_protection",
+        "parent_specialId": "divine_protection",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_ariel_costume_cute",
+        "star": 5,
+        "power": 1341,
+        "attack": 1348,
+        "defense": 1459,
+        "health": 2403,
+        "effects": [
+            "Recovers 46% health for all allies.",
+            "All allies get +40% mana generation for 4 turns. This status effect is undispellable and lasts 2 turns onger on Ice characters. (Affects only mana gained from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Cleanses status ailments from all allies."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 127,
+        "lb1": {
+            "attack": 1452,
+            "defense": 1573,
+            "health": 2589,
+            "power": 1436
+        },
+        "lb2": {
+            "attack": 1662,
+            "defense": 1800,
+            "health": 2963,
+            "power": 1625
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Armel",
@@ -8270,7 +8488,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 124,
+        "originalIndex": 128,
         "lb1": {
             "attack": 1145,
             "defense": 1110,
@@ -8339,30 +8557,30 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "****",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Epic",
             "- Damascus Blade",
             "- Tome Of Tactics",
             "- Farsight Telescope",
-            "***",
+            "Rare",
             "- Fine Gloves",
             "- Compass",
             "- Warm Cape",
             "- Battle Manual",
             "- Tall Boots",
             "- Chainmail Shirt",
-            "**",
+            "Uncommon",
             "- Strong Rope"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 125,
+        "originalIndex": 129,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -8411,9 +8629,9 @@ window.allHeroes =
         "skill": "Portents of Future",
         "types": [
             "Hit All",
-            "Enhanced Defense Ailment",
+            "Enhanced Defense Ailment All",
             "Mana Reduction All",
-            "Delayed Mana Boost"
+            "Delayed Mana Boost All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8445,11 +8663,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 126,
+        "originalIndex": 130,
         "lb1": {
             "attack": 1289,
             "defense": 1201,
@@ -8523,7 +8741,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 127,
+        "originalIndex": 131,
         "lb1": {
             "attack": 794,
             "defense": 745,
@@ -8599,7 +8817,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 128,
+        "originalIndex": 132,
         "lb1": {
             "attack": 1005,
             "defense": 948,
@@ -8675,7 +8893,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 129,
+        "originalIndex": 133,
         "lb1": {
             "attack": 1141,
             "defense": 1114,
@@ -8762,7 +8980,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 130,
+        "originalIndex": 134,
         "lb1": {
             "attack": 1432,
             "defense": 1480,
@@ -8841,7 +9059,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 131,
+        "originalIndex": 135,
         "lb1": {
             "attack": 1012,
             "defense": 834,
@@ -8915,7 +9133,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 132,
+        "originalIndex": 136,
         "lb1": {
             "attack": 836,
             "defense": 828,
@@ -8993,7 +9211,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 133,
+        "originalIndex": 137,
         "lb1": {
             "attack": 1378,
             "defense": 1369,
@@ -9035,7 +9253,7 @@ window.allHeroes =
         "skill": "Divine Reflection",
         "types": [
             "Counterattack 3",
-            "Received Damage Reduced 3"
+            "Reduced Received Damage 3"
         ],
         "skill_types": [
             "Damage Reducers",
@@ -9064,7 +9282,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 134,
+        "originalIndex": 138,
         "lb1": {
             "attack": 854,
             "defense": 925,
@@ -9096,7 +9314,7 @@ window.allHeroes =
         "skill": "Sacred Reflection",
         "types": [
             "Counterattack 3",
-            "Received Damage Reduced 3"
+            "Reduced Received Damage 3"
         ],
         "skill_types": [
             "Counterattackers",
@@ -9134,7 +9352,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 135,
+        "originalIndex": 139,
         "lb1": {
             "attack": 1239,
             "defense": 1342,
@@ -9167,7 +9385,7 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Heal Growth Boon",
-            "Cleanse All",
+            "Clean All",
             "Deep Sleep All"
         ],
         "skill_types": [
@@ -9185,13 +9403,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_bhairavi_devi",
         "star": 5,
-        "power": 1289,
-        "attack": 1328,
-        "defense": 1351,
-        "health": 2296,
+        "power": 1304,
+        "attack": 1343,
+        "defense": 1365,
+        "health": 2340,
         "effects": [
-            "Recovers 44% health for all allies.",
-            "Growth Boon: Deals 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to maximum 800 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Recovers 49% health for all allies.",
+            "Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to maximum 600 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
             "Cleanses status ailments from all allies.",
             "All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)"
         ],
@@ -9203,18 +9421,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 136,
+        "originalIndex": 140,
         "lb1": {
-            "attack": 1431,
-            "defense": 1456,
-            "health": 2475,
-            "power": 1380
+            "attack": 1447,
+            "defense": 1471,
+            "health": 2521,
+            "power": 1396
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1666,
-            "health": 2832,
-            "power": 1561
+            "attack": 1656,
+            "defense": 1684,
+            "health": 2885,
+            "power": 1580
         },
         "cn_skill_info": [
             {
@@ -9277,7 +9495,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 137,
+        "originalIndex": 141,
         "lb1": {
             "attack": 1216,
             "defense": 1436,
@@ -9345,7 +9563,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 138,
+        "originalIndex": 142,
         "lb1": {
             "attack": 810,
             "defense": 863,
@@ -9399,10 +9617,10 @@ window.allHeroes =
         ],
         "heroId": "slime_boboosang",
         "star": 5,
-        "power": 1263,
-        "attack": 1299,
-        "defense": 1312,
-        "health": 2261,
+        "power": 1278,
+        "attack": 1314,
+        "defense": 1326,
+        "health": 2305,
         "effects": [
             "Deals 500% damage to all enemies.",
             "The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.",
@@ -9415,18 +9633,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 139,
+        "originalIndex": 143,
         "lb1": {
-            "attack": 1400,
-            "defense": 1414,
-            "health": 2437,
-            "power": 1352
+            "attack": 1416,
+            "defense": 1429,
+            "health": 2484,
+            "power": 1368
         },
         "lb2": {
-            "attack": 1602,
-            "defense": 1617,
-            "health": 2788,
-            "power": 1528
+            "attack": 1620,
+            "defense": 1635,
+            "health": 2842,
+            "power": 1547
         },
         "cn_skill_info": [
             {
@@ -9488,7 +9706,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 140,
+        "originalIndex": 144,
         "lb1": {
             "attack": 936,
             "defense": 894,
@@ -9552,7 +9770,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 141,
+        "originalIndex": 145,
         "lb1": {
             "attack": 1320,
             "defense": 1254,
@@ -9629,7 +9847,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 142,
+        "originalIndex": 146,
         "lb1": {
             "attack": 1263,
             "defense": 1198,
@@ -9707,7 +9925,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 143,
+        "originalIndex": 147,
         "lb1": {
             "attack": 905,
             "defense": 925,
@@ -9777,10 +9995,10 @@ window.allHeroes =
         ],
         "heroId": "magic_camilla_costume_flower",
         "star": 5,
-        "power": 1246,
-        "attack": 1259,
-        "defense": 1303,
-        "health": 2255,
+        "power": 1261,
+        "attack": 1276,
+        "defense": 1320,
+        "health": 2285,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -9798,18 +10016,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 144,
+        "originalIndex": 148,
         "lb1": {
-            "attack": 1357,
-            "defense": 1404,
-            "health": 2430,
-            "power": 1333
+            "attack": 1375,
+            "defense": 1423,
+            "health": 2462,
+            "power": 1349
         },
         "lb2": {
-            "attack": 1553,
-            "defense": 1607,
-            "health": 2780,
-            "power": 1507
+            "attack": 1573,
+            "defense": 1628,
+            "health": 2817,
+            "power": 1525
         },
         "cn_skill_info": [
             {
@@ -9870,7 +10088,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 145,
+        "originalIndex": 149,
         "lb1": {
             "attack": 861,
             "defense": 876,
@@ -9950,7 +10168,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 146,
+        "originalIndex": 150,
         "lb1": {
             "attack": 1150,
             "defense": 1207,
@@ -9991,12 +10209,12 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Discordant Incantation",
         "types": [
-            "Hit 1",
             "Fear Debuff 1",
+            "Hit 1",
             "Hit Random 5",
             "Insanity on hit",
             "Block Talent Skills on hit",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -10016,14 +10234,13 @@ window.allHeroes =
         ],
         "heroId": "forsaken_cassilda",
         "star": 5,
-        "power": 1283,
-        "attack": 1326,
-        "defense": 1336,
-        "health": 2288,
+        "power": 1308,
+        "attack": 1351,
+        "defense": 1359,
+        "health": 2356,
         "effects": [
-            "Deals 325% damage to the target.",
-            "The target succumbs to Fear for 4 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
-            "Deals 275% damage to 5 random enemies. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
+            "The target succumbs to Fear for 4 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 250% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
+            "Deals 285% damage to the target and  5 random enemies. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
             "All hit targets get 10 Insanity every time they are hit.",
             "All hit targets cannot activate their Talent Skills for 4 turns.",
             "Casting this Special Skill inflicts 45 Insanity on the caster."
@@ -10041,18 +10258,18 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 147,
+        "originalIndex": 151,
         "lb1": {
-            "attack": 1429,
-            "defense": 1440,
-            "health": 2466,
-            "power": 1373
+            "attack": 1456,
+            "defense": 1465,
+            "health": 2539,
+            "power": 1400
         },
         "lb2": {
-            "attack": 1635,
-            "defense": 1648,
-            "health": 2821,
-            "power": 1553
+            "attack": 1666,
+            "defense": 1676,
+            "health": 2905,
+            "power": 1584
         },
         "cn_skill_info": [
             {
@@ -10126,7 +10343,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 148,
+        "originalIndex": 152,
         "lb1": {
             "attack": 805,
             "defense": 865,
@@ -10198,7 +10415,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 149,
+        "originalIndex": 153,
         "lb1": {
             "attack": 943,
             "defense": 976,
@@ -10264,7 +10481,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 150,
+        "originalIndex": 154,
         "lb1": {
             "attack": 961,
             "defense": 925,
@@ -10301,7 +10518,7 @@ window.allHeroes =
         "skill": "Tidal Vortex",
         "types": [
             "Hit All",
-            "Debuffs on SS use",
+            "Debuffs on SS use All",
             "DoT All"
         ],
         "skill_types": [
@@ -10342,7 +10559,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 151,
+        "originalIndex": 155,
         "lb1": {
             "attack": 1072,
             "defense": 905,
@@ -10388,6 +10605,7 @@ window.allHeroes =
         "skill": "Ocean Vortex",
         "types": [
             "Hit All",
+            "Debuffs on SS use All",
             "DoT All"
         ],
         "skill_types": [
@@ -10433,7 +10651,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 152,
+        "originalIndex": 156,
         "lb1": {
             "attack": 1381,
             "defense": 1150,
@@ -10510,7 +10728,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 153,
+        "originalIndex": 157,
         "lb1": {
             "attack": 1050,
             "defense": 1067,
@@ -10573,7 +10791,7 @@ window.allHeroes =
         "health": 1775,
         "effects": [
             "Deals 440% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 730 Curse damage over 5 turns, starting low and increasing every turn.",
+            "The target and nearby enemies receive 60-269 increasing Curse damage each turn for 5 turns. (On the first turn, 60 damage is dealt. The damage increases by +45% each turn, up to 269 damage per turn.)",
             "The target and nearby enemies get silenced for 5 turns."
         ],
         "passives": [
@@ -10581,7 +10799,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 154,
+        "originalIndex": 158,
         "lb1": {
             "attack": 999,
             "defense": 1365,
@@ -10657,7 +10875,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 155,
+        "originalIndex": 159,
         "lb1": {
             "attack": 1407,
             "defense": 1276,
@@ -10725,13 +10943,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_chitrangada",
         "star": 5,
-        "power": 1252,
-        "attack": 1250,
-        "defense": 1332,
-        "health": 2263,
+        "power": 1267,
+        "attack": 1264,
+        "defense": 1347,
+        "health": 2307,
         "effects": [
-            "Recover 20% health for all allies.",
-            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Recover 25% health for all allies.",
+            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 600 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
             "Each defeated ally has a 35% chance to get revived with 35% HP.",
             "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
         ],
@@ -10743,18 +10961,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 156,
+        "originalIndex": 160,
         "lb1": {
-            "attack": 1347,
-            "defense": 1436,
-            "health": 2439,
-            "power": 1339
+            "attack": 1363,
+            "defense": 1451,
+            "health": 2486,
+            "power": 1356
         },
         "lb2": {
-            "attack": 1541,
-            "defense": 1643,
-            "health": 2791,
-            "power": 1515
+            "attack": 1559,
+            "defense": 1661,
+            "health": 2844,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -10813,7 +11031,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 157,
+        "originalIndex": 161,
         "lb1": {
             "attack": 1345,
             "defense": 1272,
@@ -10886,7 +11104,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 158,
+        "originalIndex": 162,
         "lb1": {
             "attack": 905,
             "defense": 916,
@@ -10945,7 +11163,7 @@ window.allHeroes =
         "defense": 1081,
         "health": 1940,
         "effects": [
-            "Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 35% health in total.",
+            "Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 40% health in total.",
             "Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
             "Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ],
@@ -10955,7 +11173,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 159,
+        "originalIndex": 163,
         "lb1": {
             "attack": 1149,
             "defense": 1165,
@@ -11025,7 +11243,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 160,
+        "originalIndex": 164,
         "lb1": {
             "attack": 863,
             "defense": 739,
@@ -11050,6 +11268,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Cobalt C1",
+        "fancy_name": "Ninja of Turbulent Seas",
+        "AetherPower": "Attack Up",
+        "color": "Blue",
+        "class": "Paladin",
+        "speed": "Charge",
+        "skill": "Katana Tempest",
+        "types": [
+            "Charge",
+            "Hit 1/3/All",
+            "Bypass Chance",
+            "Mana Boost Self on bypass"
+        ],
+        "skill_types": [],
+        "source": "Tower - Ninjas",
+        "Release date": "2026-05-03",
+        "specialId": "katana_tempest",
+        "parent_specialId": "katana_rain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "heroId": "ninja_cobalt_costume_tempest",
+        "star": 5,
+        "power": 1324,
+        "attack": 1426,
+        "defense": 1221,
+        "health": 2559,
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Deals 420% damage to the target.",
+            "The attack has a 65% chance to bypass defensive buffs. (This includes counterattacks.)",
+            "The caster gains 15% mana if any defensive buffs were bypassed.",
+            "x2 Mana Charge:",
+            "Deals 430% damage to the target and nearby enemies.",
+            "The attack has a 85% chance to bypass defensive buffs. (This includes counterattacks.)",
+            "The caster gains 25% mana if any defensive buffs were bypassed.",
+            "x3 Mana Charge:",
+            "Deals 440% damage to all enemies.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "After the Special Skill has been cast, increases the mana of the caster by 50%."
+        ],
+        "passives": [
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 596 Bleed damage over 4 turns."
+        ],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": 165,
+        "lb1": {
+            "attack": 1537,
+            "defense": 1315,
+            "health": 2758,
+            "power": 1417
+        },
+        "lb2": {
+            "attack": 1758,
+            "defense": 1505,
+            "health": 3155,
+            "power": 1603
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Cosmicspeaker",
@@ -11091,12 +11373,12 @@ window.allHeroes =
             "Cleanses status ailments from all allies at the end of each turn for 4 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 161,
+        "originalIndex": 166,
         "lb1": {
             "attack": 1260,
             "defense": 1218,
@@ -11167,7 +11449,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 162,
+        "originalIndex": 167,
         "lb1": {
             "attack": 839,
             "defense": 814,
@@ -11245,7 +11527,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 163,
+        "originalIndex": 168,
         "lb1": {
             "attack": 1076,
             "defense": 1054,
@@ -11301,18 +11583,18 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_dominique",
         "star": 5,
-        "power": 1263,
-        "attack": 1330,
-        "defense": 1271,
-        "health": 2263,
+        "power": 1283,
+        "attack": 1349,
+        "defense": 1289,
+        "health": 2321,
         "effects": [
-            "If the caster has 35 or more Humility:",
+            "If the caster has 40 or more Humility:",
             "Deals 460% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 1260 Bleed damage over 4 turns.",
             "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
             "Otherwise:",
-            "Deals 405% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 960 Bleed damage over 4 turns."
+            "Deals 415% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 1060 Bleed damage over 4 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -11321,18 +11603,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 164,
+        "originalIndex": 169,
         "lb1": {
-            "attack": 1434,
-            "defense": 1369,
-            "health": 2439,
-            "power": 1351
+            "attack": 1454,
+            "defense": 1389,
+            "health": 2501,
+            "power": 1372
         },
         "lb2": {
-            "attack": 1640,
-            "defense": 1567,
-            "health": 2791,
-            "power": 1528
+            "attack": 1663,
+            "defense": 1590,
+            "health": 2862,
+            "power": 1552
         },
         "cn_skill_info": [
             {
@@ -11397,7 +11679,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 165,
+        "originalIndex": 170,
         "lb1": {
             "attack": 1316,
             "defense": 1278,
@@ -11467,21 +11749,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Master Sorcerer Emblems",
-            "* Master Wizard Emblems",
-            "* Sorcerer Emblems",
-            "* Wizard Emblems"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Legendary",
+            "* Master Wizard Emblem",
+            "* Master Sorcerer Emblem",
+            "Epic",
+            "* Wizard Emblem",
+            "* Sorcerer Emblem"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 166,
+        "originalIndex": 171,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -11552,15 +11836,15 @@ window.allHeroes =
         ],
         "heroId": "institute_emilie",
         "star": 5,
-        "power": 1247,
-        "attack": 1250,
-        "defense": 1316,
-        "health": 2261,
+        "power": 1272,
+        "attack": 1277,
+        "defense": 1336,
+        "health": 2329,
         "effects": [
             "Casts Full Removal on the target. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even effects and stacks that are otherwise undispellable or uncleansable.)",
             "The target shifts into Abyss Ghost form for 5 turns.",
-            "While in Abyss Ghost form the target receives 226 damage each turn.",
-            "When the Abyss Ghost form expires - Deals 1200 damage to all allies and inflicts 15 Insanity on them.",
+            "While in Abyss Ghost form the target receives 261 damage each turn.",
+            "When the Abyss Ghost form expires - Deals 1300 damage to all allies and inflicts 15 Insanity on them.",
             "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
@@ -11576,18 +11860,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 167,
+        "originalIndex": 172,
         "lb1": {
-            "attack": 1347,
-            "defense": 1418,
-            "health": 2437,
-            "power": 1334
+            "attack": 1376,
+            "defense": 1440,
+            "health": 2510,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1541,
-            "defense": 1623,
-            "health": 2788,
-            "power": 1509
+            "attack": 1574,
+            "defense": 1648,
+            "health": 2872,
+            "power": 1539
         },
         "cn_skill_info": [
             {
@@ -11647,7 +11931,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 168,
+        "originalIndex": 173,
         "lb1": {
             "attack": 821,
             "defense": 841,
@@ -11687,7 +11971,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Saturated Suffering",
         "types": [
-            "DoT All"
+            "DoT All except Ice"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -11714,7 +11998,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 169,
+        "originalIndex": 174,
         "lb1": {
             "attack": 852,
             "defense": 836,
@@ -11755,7 +12039,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Oceanic Suffering",
         "types": [
-            "DoT All"
+            "DoT All except Ice"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -11788,7 +12072,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 170,
+        "originalIndex": 175,
         "lb1": {
             "attack": 1131,
             "defense": 1070,
@@ -11858,21 +12142,24 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Common Ice Trainer Heroes",
-            "* Uncommon Ice Trainer Heroes",
-            "* Rare Ice Trainer Heroes",
-            "* Common Ice Heroes",
-            "* Uncommon Ice Heroes"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Rare",
+            "* Trainer Hero",
+            "Uncommon",
+            "* Trainer Hero",
+            "* Uncommon Ice Heroes",
+            "Common",
+            "* Trainer Hero",
+            "* Common Ice Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 171,
+        "originalIndex": 176,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -11916,7 +12203,7 @@ window.allHeroes =
         "skill": "Gargantuan Bite",
         "types": [
             "Hit 1",
-            "Mana Boost on kill",
+            "Boost Mana Self on kill",
             "Heal Self"
         ],
         "skill_types": [
@@ -11944,7 +12231,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 172,
+        "originalIndex": 177,
         "lb1": {
             "attack": 841,
             "defense": 794,
@@ -11983,7 +12270,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Heal Self",
-            "Boost Mana Self"
+            "Boost Mana Self on kill"
         ],
         "skill_types": [
             "Healers (Special)",
@@ -12012,7 +12299,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 173,
+        "originalIndex": 178,
         "lb1": {
             "attack": 1094,
             "defense": 1000,
@@ -12039,6 +12326,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Fenrir Toon",
+        "fancy_name": "Toon Leader of Nilfheim",
+        "AetherPower": "Rage",
+        "color": "Blue",
+        "class": "Fighter",
+        "speed": "Fast",
+        "skill": "Toontastic Bite",
+        "types": [
+            "Hit 1",
+            "Boost Mana Self on kill",
+            "Heal Self"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toontastic_bite",
+        "parent_specialId": "gargantuan_bite",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_fenrir_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1440,
+        "defense": 1353,
+        "health": 2391,
+        "effects": [
+            "Deals 375% damage to the target.",
+            "If the target has less than 50% health remaining, deals 750% damage instead.",
+            "If the target is defeated by the attack the caster gains + 50% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Boosts the caster's health for 50% of damage dealt.",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "niflheim",
+        "costume_id": 2,
+        "originalIndex": 179,
+        "lb1": {
+            "attack": 1552,
+            "defense": 1458,
+            "health": 2577,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1775,
+            "defense": 1668,
+            "health": 2949,
+            "power": 1626
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Fergus",
@@ -12086,7 +12428,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 174,
+        "originalIndex": 180,
         "lb1": {
             "attack": 1145,
             "defense": 1269,
@@ -12155,7 +12497,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 175,
+        "originalIndex": 181,
         "lb1": {
             "attack": 812,
             "defense": 803,
@@ -12221,11 +12563,11 @@ window.allHeroes =
             "All hit targets get -56% defense for 3 turns."
         ],
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 528 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 560 Poison damage over 4 turns."
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 176,
+        "originalIndex": 182,
         "lb1": {
             "attack": 1079,
             "defense": 979,
@@ -12261,7 +12603,7 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Voice of Authority",
         "types": [
-            "Hit all",
+            "Hit All",
             "Attack Buff Stack All",
             "Defense Buff Stack All"
         ],
@@ -12295,7 +12637,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 177,
+        "originalIndex": 183,
         "lb1": {
             "attack": 1010,
             "defense": 956,
@@ -12365,7 +12707,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 178,
+        "originalIndex": 184,
         "lb1": {
             "attack": 1076,
             "defense": 1003,
@@ -12438,7 +12780,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 179,
+        "originalIndex": 185,
         "lb1": {
             "attack": 883,
             "defense": 923,
@@ -12516,7 +12858,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 180,
+        "originalIndex": 186,
         "lb1": {
             "attack": 790,
             "defense": 779,
@@ -12579,7 +12921,7 @@ window.allHeroes =
         "defense": 731,
         "health": 1347,
         "effects": [
-            "Summons a Frost Sprite Minion for each ally with 18% HP and 20% attack inherited from the caster.",
+            "Summons a Frost Sprite Minion for each ally with 20% HP and 20% attack inherited from the caster.",
             "All allies' Minions get +40% HP and +40% attack. This special can increase HP and attack up to +200% of the Minion's original HP and attack.",
             "Element Link gives all Ice allies small amounts of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ],
@@ -12589,7 +12931,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 181,
+        "originalIndex": 187,
         "lb1": {
             "attack": 836,
             "defense": 788,
@@ -12653,7 +12995,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 182,
+        "originalIndex": 188,
         "lb1": {
             "attack": 1256,
             "defense": 1252,
@@ -12725,7 +13067,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 183,
+        "originalIndex": 189,
         "lb1": {
             "attack": 923,
             "defense": 796,
@@ -12798,7 +13140,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 184,
+        "originalIndex": 190,
         "lb1": {
             "attack": 1074,
             "defense": 1025,
@@ -12856,15 +13198,15 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_gitnib",
         "star": 5,
-        "power": 1273,
-        "attack": 1380,
-        "defense": 1236,
-        "health": 2280,
+        "power": 1288,
+        "attack": 1384,
+        "defense": 1262,
+        "health": 2325,
         "effects": [
             "All enemies receive 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300, Max total damage: 3000.)",
-            "Summons a Piranha Fiend to all enemies. The Fiend damages the enemy with 80% attack every turn.",
-            "The Piranha Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its targets max health.",
-            "Deals 400 - 800 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active. (Maximmum effect is achieved upon taking 50% of max health  in damage.)"
+            "Summons a Piranha Fiend to all enemies. The Fiend damages the enemy with 90% attack every turn.",
+            "The Piranha Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its targets max health.",
+            "Deals 500 - 900 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active. The effect cannot be dispelled. (Maximum effect is achieved upon taking 50% of max health  in damage.)"
         ],
         "passives": [
             "Nine Lives:",
@@ -12879,18 +13221,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 185,
+        "originalIndex": 191,
         "lb1": {
-            "attack": 1487,
-            "defense": 1332,
-            "health": 2457,
-            "power": 1362
+            "attack": 1491,
+            "defense": 1360,
+            "health": 2506,
+            "power": 1378
         },
         "lb2": {
-            "attack": 1701,
-            "defense": 1524,
-            "health": 2811,
-            "power": 1540
+            "attack": 1706,
+            "defense": 1557,
+            "health": 2867,
+            "power": 1559
         },
         "cn_skill_info": [
             {
@@ -12940,14 +13282,14 @@ window.allHeroes =
         ],
         "heroId": "construct_glacivolt",
         "star": 5,
-        "power": 1242,
-        "attack": 1273,
-        "defense": 1277,
-        "health": 2245,
+        "power": 1262,
+        "attack": 1291,
+        "defense": 1295,
+        "health": 2305,
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All enemies get -25% defense, and a further -5% decrease per each Ice shield on the board for 3 turns, up to -50% defense.",
-            "All enemies receive 456 Frost damage over 3 turns."
+            "Deals 280% damage to all enemies.",
+            "All enemies get -30% defense, and a further -5% decrease per each Ice shield on the board for 3 turns, up to -55% defense.",
+            "All enemies receive 579 Frost damage over 3 turns."
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
@@ -12960,18 +13302,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 186,
+        "originalIndex": 192,
         "lb1": {
-            "attack": 1371,
-            "defense": 1376,
-            "health": 2419,
-            "power": 1328
+            "attack": 1391,
+            "defense": 1396,
+            "health": 2484,
+            "power": 1350
         },
         "lb2": {
-            "attack": 1569,
-            "defense": 1574,
-            "health": 2768,
-            "power": 1502
+            "attack": 1592,
+            "defense": 1597,
+            "health": 2842,
+            "power": 1527
         },
         "cn_skill_info": [
             {
@@ -13031,7 +13373,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 187,
+        "originalIndex": 193,
         "lb1": {
             "attack": 1047,
             "defense": 990,
@@ -13104,7 +13446,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 188,
+        "originalIndex": 194,
         "lb1": {
             "attack": 808,
             "defense": 779,
@@ -13182,7 +13524,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 189,
+        "originalIndex": 195,
         "lb1": {
             "attack": 1332,
             "defense": 1398,
@@ -13262,7 +13604,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 190,
+        "originalIndex": 196,
         "lb1": {
             "attack": 1136,
             "defense": 1196,
@@ -13323,7 +13665,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 191,
+        "originalIndex": 197,
         "lb1": {
             "attack": 892,
             "defense": 843,
@@ -13379,10 +13721,10 @@ window.allHeroes =
         ],
         "heroId": "construct_halwinter",
         "star": 5,
-        "power": 1253,
-        "attack": 1301,
-        "defense": 1271,
-        "health": 2263,
+        "power": 1273,
+        "attack": 1320,
+        "defense": 1291,
+        "health": 2319,
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "The caster counterattacks a random enemy with 120% of the damage received for 4 turns.",
@@ -13401,18 +13743,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 192,
+        "originalIndex": 198,
         "lb1": {
-            "attack": 1403,
-            "defense": 1369,
-            "health": 2439,
-            "power": 1340
+            "attack": 1423,
+            "defense": 1391,
+            "health": 2499,
+            "power": 1362
         },
         "lb2": {
-            "attack": 1605,
-            "defense": 1567,
-            "health": 2791,
-            "power": 1516
+            "attack": 1628,
+            "defense": 1592,
+            "health": 2860,
+            "power": 1540
         },
         "cn_skill_info": [
             {
@@ -13467,7 +13809,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 193,
+        "originalIndex": 199,
         "lb1": {
             "attack": 828,
             "defense": 952,
@@ -13548,7 +13890,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 194,
+        "originalIndex": 200,
         "lb1": {
             "attack": 1197,
             "defense": 1387,
@@ -13619,7 +13961,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 195,
+        "originalIndex": 201,
         "lb1": {
             "attack": 932,
             "defense": 868,
@@ -13689,18 +14031,18 @@ window.allHeroes =
         "health": 2313,
         "effects": [
             "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2300 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "Reduces the max health of the target and nearby enemies with 800. This effec is strong against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 600.)",
+            "Reduces the max health of the target and nearby enemies with 800. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
             "The target and nearby enemies get -70% decrease of any healing received for 4 turns."
         ],
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 196,
+        "originalIndex": 202,
         "lb1": {
             "attack": 1260,
             "defense": 1294,
@@ -13784,7 +14126,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 197,
+        "originalIndex": 203,
         "lb1": {
             "attack": 1391,
             "defense": 1174,
@@ -13851,7 +14193,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 198,
+        "originalIndex": 204,
         "lb1": {
             "attack": 1272,
             "defense": 1336,
@@ -13908,10 +14250,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_indigon",
         "star": 5,
-        "power": 1278,
-        "attack": 1349,
-        "defense": 1289,
-        "health": 2288,
+        "power": 1283,
+        "attack": 1353,
+        "defense": 1293,
+        "health": 2303,
         "effects": [
             "Deals 300% damage to all enemies.",
             "Deals additional 5% damage for each Fiend or Mega Fiend owned by the enemies, up to 350% damage in total.",
@@ -13930,18 +14272,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 199,
+        "originalIndex": 205,
         "lb1": {
-            "attack": 1454,
-            "defense": 1389,
-            "health": 2466,
-            "power": 1368
+            "attack": 1458,
+            "defense": 1394,
+            "health": 2481,
+            "power": 1372
         },
         "lb2": {
-            "attack": 1663,
-            "defense": 1590,
-            "health": 2821,
-            "power": 1547
+            "attack": 1668,
+            "defense": 1595,
+            "health": 2839,
+            "power": 1552
         },
         "cn_skill_info": [
             {
@@ -14009,7 +14351,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 200,
+        "originalIndex": 206,
         "lb1": {
             "attack": 850,
             "defense": 810,
@@ -14073,7 +14415,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 201,
+        "originalIndex": 207,
         "lb1": {
             "attack": 859,
             "defense": 705,
@@ -14134,7 +14476,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 202,
+        "originalIndex": 208,
         "lb1": {
             "attack": 1008,
             "defense": 765,
@@ -14197,7 +14539,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 203,
+        "originalIndex": 209,
         "lb1": {
             "attack": 1131,
             "defense": 887,
@@ -14269,7 +14611,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 204,
+        "originalIndex": 210,
         "lb1": {
             "attack": 1293,
             "defense": 1135,
@@ -14342,7 +14684,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 205,
+        "originalIndex": 211,
         "lb1": {
             "attack": 1577,
             "defense": 1173,
@@ -14417,12 +14759,12 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 206,
+        "originalIndex": 212,
         "lb1": {
             "attack": 1260,
             "defense": 1360,
@@ -14490,14 +14832,14 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 207,
+        "originalIndex": 213,
         "lb1": {
             "attack": 1154,
             "defense": 1054,
@@ -14571,11 +14913,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
+            "Resist Defense Reduction: This character is immune to status ailments, stacks and Wither effects that affect defense."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 208,
+        "originalIndex": 214,
         "lb1": {
             "attack": 1225,
             "defense": 1318,
@@ -14644,7 +14986,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 209,
+        "originalIndex": 215,
         "lb1": {
             "attack": 1027,
             "defense": 1043,
@@ -14699,16 +15041,16 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_kesha",
         "star": 5,
-        "power": 1279,
-        "attack": 1306,
-        "defense": 1341,
-        "health": 2301,
+        "power": 1294,
+        "attack": 1320,
+        "defense": 1355,
+        "health": 2344,
         "effects": [
             "Deals 485% damage to all enemies.",
             "All allies except the caster dance the Dance of Ishq.",
             "Dance of Ishq:",
-            "+44% mana generation.",
-            "Received damage is reduced by -47%. (Affects only mana generation from matching tiles or mana gained by the defense team at the end of their turn. All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. The effect is removed when the caster is defeated.)"
+            "* +44% mana generation.",
+            "* Received damage is reduced by -47%. (Affects only mana generation from matching tiles or mana gained by the defense team at the end of their turn. All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. The effect is removed when the caster is defeated.)"
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
@@ -14723,18 +15065,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 210,
+        "originalIndex": 216,
         "lb1": {
-            "attack": 1407,
-            "defense": 1445,
-            "health": 2479,
-            "power": 1369
+            "attack": 1423,
+            "defense": 1460,
+            "health": 2526,
+            "power": 1385
         },
         "lb2": {
-            "attack": 1610,
-            "defense": 1653,
-            "health": 2837,
-            "power": 1548
+            "attack": 1628,
+            "defense": 1671,
+            "health": 2890,
+            "power": 1567
         },
         "cn_skill_info": [
             {
@@ -14803,7 +15145,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 211,
+        "originalIndex": 217,
         "lb1": {
             "attack": 1023,
             "defense": 970,
@@ -14880,7 +15222,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 212,
+        "originalIndex": 218,
         "lb1": {
             "attack": 763,
             "defense": 790,
@@ -14954,7 +15296,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 213,
+        "originalIndex": 219,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -15025,7 +15367,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 214,
+        "originalIndex": 220,
         "lb1": {
             "attack": 719,
             "defense": 919,
@@ -15098,7 +15440,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 215,
+        "originalIndex": 221,
         "lb1": {
             "attack": 1110,
             "defense": 1158,
@@ -15152,37 +15494,37 @@ window.allHeroes =
         ],
         "heroId": "scoundrel_lane",
         "star": 5,
-        "power": 1258,
-        "attack": 1273,
-        "defense": 1316,
-        "health": 2284,
+        "power": 1268,
+        "attack": 1283,
+        "defense": 1324,
+        "health": 2315,
         "effects": [
             "Deals 585% damage to the target and minor damage to all other enemies.",
             "The caster goes into Ambush. Damage dealt by the caster is increased by +50%, and damage received by them is decreased by -40%. (When the character goes into Ambush, all existing cleansable ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is uncleansable. Ambush ends once the character has received 1500 damage.)",
             "Deals extra damage against Fire."
         ],
         "passives": [
-            "Thief's Opportunity: At the start of each turn this character has a 50% chance to Ransack a random enemy",
+            "Thief's Opportunity: At the start of each turn this character has a 100% chance to Ransack a random enemy",
             "Ransack:",
-            "* Steals 200 health.",
-            "* Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
+            "* Steals 100 health.",
+            "* Safely steals one random status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
             "* Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
-            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the begining of each wave."
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 216,
+        "originalIndex": 222,
         "lb1": {
-            "attack": 1371,
-            "defense": 1418,
-            "health": 2461,
-            "power": 1346
+            "attack": 1383,
+            "defense": 1427,
+            "health": 2495,
+            "power": 1357
         },
         "lb2": {
-            "attack": 1569,
-            "defense": 1623,
-            "health": 2816,
-            "power": 1522
+            "attack": 1582,
+            "defense": 1633,
+            "health": 2854,
+            "power": 1535
         },
         "cn_skill_info": [
             {
@@ -15242,7 +15584,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 217,
+        "originalIndex": 223,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -15326,7 +15668,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 218,
+        "originalIndex": 224,
         "lb1": {
             "attack": 1429,
             "defense": 1267,
@@ -15389,7 +15731,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 0,
-        "originalIndex": 219,
+        "originalIndex": 225,
         "lb1": {
             "attack": 834,
             "defense": 801,
@@ -15449,7 +15791,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 1,
-        "originalIndex": 220,
+        "originalIndex": 226,
         "lb1": {
             "attack": 1065,
             "defense": 1057,
@@ -15514,7 +15856,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 221,
+        "originalIndex": 227,
         "lb1": {
             "attack": 1374,
             "defense": 1371,
@@ -15573,10 +15915,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_lumi_and_taiga",
         "star": 5,
-        "power": 1274,
-        "attack": 1339,
-        "defense": 1291,
-        "health": 2282,
+        "power": 1284,
+        "attack": 1349,
+        "defense": 1301,
+        "health": 2307,
         "effects": [
             "Deals 250% damage to all enemies.",
             "Against Titans, deals 500% damage.",
@@ -15592,18 +15934,18 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 222,
+        "originalIndex": 228,
         "lb1": {
-            "attack": 1443,
-            "defense": 1391,
-            "health": 2459,
-            "power": 1363
+            "attack": 1454,
+            "defense": 1403,
+            "health": 2486,
+            "power": 1374
         },
         "lb2": {
-            "attack": 1651,
-            "defense": 1592,
-            "health": 2814,
-            "power": 1542
+            "attack": 1663,
+            "defense": 1605,
+            "health": 2844,
+            "power": 1554
         },
         "cn_skill_info": [
             {
@@ -15662,7 +16004,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 223,
+        "originalIndex": 229,
         "lb1": {
             "attack": 981,
             "defense": 1094,
@@ -15734,7 +16076,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 224,
+        "originalIndex": 230,
         "lb1": {
             "attack": 1349,
             "defense": 1320,
@@ -15798,7 +16140,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 225,
+        "originalIndex": 231,
         "lb1": {
             "attack": 854,
             "defense": 637,
@@ -15859,7 +16201,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 226,
+        "originalIndex": 232,
         "lb1": {
             "attack": 862,
             "defense": 850,
@@ -15920,7 +16262,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 227,
+        "originalIndex": 233,
         "lb1": {
             "attack": 1030,
             "defense": 893,
@@ -15987,7 +16329,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 228,
+        "originalIndex": 234,
         "lb1": {
             "attack": 1269,
             "defense": 1042,
@@ -16060,7 +16402,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 229,
+        "originalIndex": 235,
         "lb1": {
             "attack": 1456,
             "defense": 1165,
@@ -16118,10 +16460,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_stylish",
         "star": 5,
-        "power": 1296,
-        "attack": 1440,
-        "defense": 1139,
-        "health": 2488,
+        "power": 1337,
+        "attack": 1479,
+        "defense": 1170,
+        "health": 2623,
         "effects": [
             "Deals 520% damage to the target.",
             "If the target has less than 50% health remaining, deals 620% damage instead.",
@@ -16132,18 +16474,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 230,
+        "originalIndex": 236,
         "lb1": {
-            "attack": 1552,
-            "defense": 1227,
-            "health": 2681,
-            "power": 1387
+            "attack": 1594,
+            "defense": 1261,
+            "health": 2826,
+            "power": 1431
         },
         "lb2": {
-            "attack": 1776,
-            "defense": 1405,
-            "health": 3068,
-            "power": 1569
+            "attack": 1824,
+            "defense": 1442,
+            "health": 3234,
+            "power": 1619
         },
         "cn_skill_info": [
             {
@@ -16172,8 +16514,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Healing Mirror",
         "types": [
-            "Healer All",
-            "Moonrise Ward All",
+            "Boost Health All",
+            "SS Damage Reduction Moonrise Ward All",
             "Cleanser All"
         ],
         "skill_types": [
@@ -16199,11 +16541,11 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 231,
+        "originalIndex": 237,
         "lb1": {
             "attack": 1143,
             "defense": 1163,
@@ -16233,6 +16575,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Marko",
+        "fancy_name": "Wayfarer of Springvale",
+        "AetherPower": "Heal Increase",
+        "color": "Blue",
+        "class": "Monk",
+        "speed": "Average",
+        "skill": "Globetrotting Gifts",
+        "types": [
+            "Healer All",
+            "Cleanser All each turn",
+            "Dodge Chance Buff All",
+            "Mana Generation Debuff Self"
+        ],
+        "skill_types": [],
+        "source": "Monthly Event - Springvale",
+        "Release date": "2026-03-30",
+        "specialId": "globetrotting_gifts",
+        "passiveSkills": [
+            "easter_health_generation_stack_on_special"
+        ],
+        "heroId": "easter_marko",
+        "star": 5,
+        "power": 1293,
+        "attack": 1328,
+        "defense": 1361,
+        "health": 2307,
+        "effects": [
+            "Recovers 50% health for all allies.",
+            "Cleanses status ailments from all allies at the end of each turn for 4 turns.",
+            "All allies get +40% chance to dodge Special Skills that deal damage for 4 turns.",
+            "The caster gets -10% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+        ],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all allies get: Stack (Max: 10): Recovers 30 HP each turn."
+        ],
+        "family": "easter",
+        "costume_id": 0,
+        "originalIndex": 238,
+        "lb1": {
+            "attack": 1431,
+            "defense": 1467,
+            "health": 2486,
+            "power": 1384
+        },
+        "lb2": {
+            "attack": 1638,
+            "defense": 1678,
+            "health": 2844,
+            "power": 1566
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Master Lepus",
@@ -16267,7 +16662,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 232,
+        "originalIndex": 239,
         "lb1": {
             "attack": 856,
             "defense": 743,
@@ -16327,10 +16722,12 @@ window.allHeroes =
             "Deals 280% damage to all enemies.",
             "The caster gets -24% mana generation for 4 turns. This effect can't be cleansed."
         ],
-        "passives": [],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get  Stack (Max: 10): -5% defense."
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 233,
+        "originalIndex": 240,
         "lb1": {
             "attack": 1126,
             "defense": 1027,
@@ -16396,7 +16793,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 234,
+        "originalIndex": 241,
         "lb1": {
             "attack": 888,
             "defense": 868,
@@ -16471,7 +16868,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 235,
+        "originalIndex": 242,
         "lb1": {
             "attack": 1174,
             "defense": 1112,
@@ -16538,7 +16935,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 236,
+        "originalIndex": 243,
         "lb1": {
             "attack": 768,
             "defense": 839,
@@ -16606,7 +17003,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 237,
+        "originalIndex": 244,
         "lb1": {
             "attack": 896,
             "defense": 890,
@@ -16673,13 +17070,13 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_milady_de_winter_costume_herbalist",
         "star": 5,
-        "power": 1285,
-        "attack": 1280,
-        "defense": 1296,
+        "power": 1311,
+        "attack": 1321,
+        "defense": 1338,
         "health": 2498,
         "effects": [
-            "Deals 480% damage to all enemies.",
-            "The caster regenerates 1500 boosted health over 6 turns. Boosted health can exceed max HP.",
+            "Deals 510% damage to all enemies.",
+            "The caster regenerates 1620 boosted health over 6 turns. Boosted health can exceed max HP.",
             "All enemies reflect status effect buffs to a random character on the opposing team for 6 turns.",
             "All allies reflect status ailments to a random character on the opposing team for 6 turns."
         ],
@@ -16689,18 +17086,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 238,
+        "originalIndex": 245,
         "lb1": {
-            "attack": 1379,
-            "defense": 1397,
+            "attack": 1424,
+            "defense": 1442,
             "health": 2692,
-            "power": 1375
+            "power": 1404
         },
         "lb2": {
-            "attack": 1578,
-            "defense": 1598,
+            "attack": 1629,
+            "defense": 1649,
             "health": 3080,
-            "power": 1555
+            "power": 1588
         },
         "cn_skill_info": [
             {
@@ -16773,7 +17170,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 239,
+        "originalIndex": 246,
         "lb1": {
             "attack": 845,
             "defense": 834,
@@ -16818,8 +17215,8 @@ window.allHeroes =
             "Heal All",
             "Cleanser All",
             "Hit All",
-            "Dispeller All",
-            "DoT All"
+            "DoT All",
+            "Dispeller All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -16852,8 +17249,8 @@ window.allHeroes =
             "* Cleanses status ailments from all allies.",
             "2x Mana Charge:",
             "* Deals 440% damage to all enemies.",
-            "* Dispels buffs from all enemies.",
-            "* All enemies receive 340 Frost damage over 5 turns."
+            "* All enemies receive 340 Frost damage over 5 turns.",
+            "* Dispels buffs from all enemies."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -16861,7 +17258,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 240,
+        "originalIndex": 247,
         "lb1": {
             "attack": 1338,
             "defense": 1307,
@@ -16937,7 +17334,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 241,
+        "originalIndex": 248,
         "lb1": {
             "attack": 854,
             "defense": 903,
@@ -17001,7 +17398,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 242,
+        "originalIndex": 249,
         "lb1": {
             "attack": 779,
             "defense": 810,
@@ -17060,13 +17457,13 @@ window.allHeroes =
         "health": 1719,
         "effects": [
             "Deals 280% damage to the target.",
-            "Has a 42% chance for additional hits on random enemies up to 3 times.",
+            "Has a 42% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage.",
             "Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ],
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 243,
+        "originalIndex": 250,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -17094,6 +17491,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Misandra Toon",
+        "fancy_name": "Magnificent Toon",
+        "AetherPower": "Attack Up",
+        "color": "Blue",
+        "class": "Fighter",
+        "speed": "Fast",
+        "skill": "Toon Chain",
+        "types": [
+            "Hit 1",
+            "Possible Extra Hits",
+            "Mana Boost All on hit"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_chain",
+        "parent_specialId": "chain_strike",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_mercenary_woman_costume_cute",
+        "star": 5,
+        "power": 1348,
+        "attack": 1382,
+        "defense": 1379,
+        "health": 2524,
+        "effects": [
+            "Deals 410% damage to the target.",
+            "Has a 80% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
+            "All allies gain a moderate amount of mana for each hit. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 251,
+        "lb1": {
+            "attack": 1490,
+            "defense": 1486,
+            "health": 2720,
+            "power": 1443
+        },
+        "lb2": {
+            "attack": 1705,
+            "defense": 1700,
+            "health": 3112,
+            "power": 1633
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Miss Ethel",
         "fancy_name": "Defender of Springvale",
         "AetherPower": "Attack Up",
@@ -17102,8 +17553,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mooing for a Fight",
         "types": [
-            "Hit 2",
-            "Chain hit"
+            "Hit 1",
+            "Chain hit",
+            "Mana Generation Debuff Self"
         ],
         "skill_types": [
             "Snipers",
@@ -17128,7 +17580,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 244,
+        "originalIndex": 252,
         "lb1": {
             "attack": 1087,
             "defense": 1030,
@@ -17200,7 +17652,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 245,
+        "originalIndex": 253,
         "lb1": {
             "attack": 1076,
             "defense": 1187,
@@ -17270,7 +17722,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 246,
+        "originalIndex": 254,
         "lb1": {
             "attack": 950,
             "defense": 910,
@@ -17347,7 +17799,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 247,
+        "originalIndex": 255,
         "lb1": {
             "attack": 1263,
             "defense": 1334,
@@ -17418,12 +17870,12 @@ window.allHeroes =
             "All enemies get -40% attack for 5 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 248,
+        "originalIndex": 256,
         "lb1": {
             "attack": 1147,
             "defense": 1260,
@@ -17492,7 +17944,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 249,
+        "originalIndex": 257,
         "lb1": {
             "attack": 832,
             "defense": 803,
@@ -17527,7 +17979,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Staff of the Seastar",
         "types": [
-            "Hit all",
+            "Hit All",
             "Defense Debuff All",
             "HoT All"
         ],
@@ -17565,7 +18017,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 250,
+        "originalIndex": 258,
         "lb1": {
             "attack": 1154,
             "defense": 955,
@@ -17630,7 +18082,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 251,
+        "originalIndex": 259,
         "lb1": {
             "attack": 865,
             "defense": 841,
@@ -17708,7 +18160,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 252,
+        "originalIndex": 260,
         "lb1": {
             "attack": 1186,
             "defense": 1152,
@@ -17789,7 +18241,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 253,
+        "originalIndex": 261,
         "lb1": {
             "attack": 1074,
             "defense": 1074,
@@ -17862,7 +18314,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 254,
+        "originalIndex": 262,
         "lb1": {
             "attack": 1354,
             "defense": 1294,
@@ -17941,7 +18393,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 255,
+        "originalIndex": 263,
         "lb1": {
             "attack": 965,
             "defense": 1025,
@@ -18022,7 +18474,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 256,
+        "originalIndex": 264,
         "lb1": {
             "attack": 1440,
             "defense": 1374,
@@ -18062,7 +18514,7 @@ window.allHeroes =
         "types": [
             "Element Swap 1",
             "Hit 1",
-            "EDD 1"
+            "Elemental Defense Debuff 1"
         ],
         "skill_types": [
             "Snipers",
@@ -18081,20 +18533,20 @@ window.allHeroes =
         "defense": 1030,
         "health": 1833,
         "effects": [
-            "Targets element is changed to Fire for 3 turns. (Titans and Mythic Titans are not affected by Element Swap)",
+            "Target's element is changed to Fire for 3 turns. (Titans and Mythic Titans are not affected by this status effect.)",
             "Deals 550% damage to the target.",
             "The target get -68% defense against Ice for 3 turns."
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 257,
+        "originalIndex": 265,
         "lb1": {
             "attack": 1216,
             "defense": 1110,
@@ -18173,7 +18625,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 258,
+        "originalIndex": 266,
         "lb1": {
             "attack": 956,
             "defense": 1034,
@@ -18258,7 +18710,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 259,
+        "originalIndex": 267,
         "lb1": {
             "attack": 796,
             "defense": 961,
@@ -18325,12 +18777,12 @@ window.allHeroes =
         ],
         "passives": [
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
-            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 260,
+        "originalIndex": 268,
         "lb1": {
             "attack": 1272,
             "defense": 1389,
@@ -18397,7 +18849,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 261,
+        "originalIndex": 269,
         "lb1": {
             "attack": 999,
             "defense": 1165,
@@ -18465,7 +18917,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 262,
+        "originalIndex": 270,
         "lb1": {
             "attack": 814,
             "defense": 865,
@@ -18540,7 +18992,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 263,
+        "originalIndex": 271,
         "lb1": {
             "attack": 952,
             "defense": 1255,
@@ -18613,7 +19065,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 264,
+        "originalIndex": 272,
         "lb1": {
             "attack": 1325,
             "defense": 1320,
@@ -18687,7 +19139,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 265,
+        "originalIndex": 273,
         "lb1": {
             "attack": 781,
             "defense": 752,
@@ -18763,7 +19215,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 266,
+        "originalIndex": 274,
         "lb1": {
             "attack": 1000,
             "defense": 948,
@@ -18831,7 +19283,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 267,
+        "originalIndex": 275,
         "lb1": {
             "attack": 1163,
             "defense": 1149,
@@ -18911,7 +19363,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 268,
+        "originalIndex": 276,
         "lb1": {
             "attack": 919,
             "defense": 890,
@@ -18972,14 +19424,14 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_porthos_costume_merchant",
         "star": 5,
-        "power": 1274,
-        "attack": 1311,
-        "defense": 1260,
-        "health": 2414,
+        "power": 1300,
+        "attack": 1328,
+        "defense": 1277,
+        "health": 2524,
         "effects": [
-            "Deals 485% damage to all enemies.",
-            "Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.",
-            "The caster regenerates 1530 boosted health over 6 turns. Boosted health can exceed max HP.",
+            "Deals 515% damage to all enemies.",
+            "Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.",
+            "The caster regenerates 1620 boosted health over 6 turns. Boosted health can exceed max HP.",
             "Deals extra damage against Fire."
         ],
         "passives": [
@@ -18988,18 +19440,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 269,
+        "originalIndex": 277,
         "lb1": {
-            "attack": 1412,
-            "defense": 1358,
-            "health": 2601,
-            "power": 1363
+            "attack": 1431,
+            "defense": 1376,
+            "health": 2720,
+            "power": 1391
         },
         "lb2": {
-            "attack": 1616,
-            "defense": 1554,
-            "health": 2976,
-            "power": 1542
+            "attack": 1637,
+            "defense": 1574,
+            "health": 3113,
+            "power": 1574
         },
         "cn_skill_info": [
             {
@@ -19053,17 +19505,17 @@ window.allHeroes =
         "health": 1969,
         "effects": [
             "Deals 450% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 788 Water damage over 4 turns. All allies absorb 50% of dealt Water damage as boosted health.",
+            "The target and nearby enemies receive 792 Water damage over 4 turns. All allies absorb 50% of dealt Water damage as boosted health.",
             "Growth: All allies get 200 attack and 200 defense."
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 270,
+        "originalIndex": 278,
         "lb1": {
             "attack": 1318,
             "defense": 1267,
@@ -19143,14 +19595,14 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 271,
+        "originalIndex": 279,
         "lb1": {
             "attack": 972,
             "defense": 1043,
@@ -19178,6 +19630,72 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Quinn C1",
+        "fancy_name": "Cosmic Alchemist",
+        "AetherPower": "Defense Up",
+        "color": "Blue",
+        "class": "Monk",
+        "speed": "Fast",
+        "skill": "Pineapple Alchemist",
+        "types": [
+            "Boosted Heal All",
+            "Buff Immunity Debuff All",
+            "Blind All Fire enemies",
+            "Mana Gen Debuff All Dark enemies",
+            "Defense Debuff All Holy enemies",
+            "Attack Debuff All Nature enemies"
+        ],
+        "skill_types": [],
+        "source": "Super Elementals",
+        "Release date": "2026-05-15",
+        "specialId": "pineapple_alchemist",
+        "parent_specialId": "pineapple_barbeque",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "heroId": "elemental_quinn_costume_alchemist",
+        "star": 5,
+        "power": 1322,
+        "attack": 1305,
+        "defense": 1391,
+        "health": 2509,
+        "effects": [
+            "Boosts health of all allies by 850. Boosted health can exceed max HP.",
+            "All enemies are immune to new status effect buffs for 3 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "All Fire enemies get -44% accuracy for 3 turns.",
+            "All Dark enemies get -44% mana generation for 3 turns.",
+            "All Holy enemies get -44% defense for 3 turns.",
+            "All Nature enemies get -44% attack for 3 turns."
+        ],
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -25%",
+            "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 280,
+        "lb1": {
+            "attack": 1406,
+            "defense": 1499,
+            "health": 2703,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1609,
+            "defense": 1715,
+            "health": 3093,
+            "power": 1601
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Quintin",
@@ -19213,7 +19731,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 272,
+        "originalIndex": 281,
         "lb1": {
             "attack": 885,
             "defense": 825,
@@ -19281,7 +19799,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 273,
+        "originalIndex": 282,
         "lb1": {
             "attack": 701,
             "defense": 865,
@@ -19356,7 +19874,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 274,
+        "originalIndex": 283,
         "lb1": {
             "attack": 781,
             "defense": 881,
@@ -19426,7 +19944,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 275,
+        "originalIndex": 284,
         "lb1": {
             "attack": 694,
             "defense": 881,
@@ -19487,7 +20005,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 276,
+        "originalIndex": 285,
         "lb1": {
             "attack": 792,
             "defense": 1000,
@@ -19549,7 +20067,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 277,
+        "originalIndex": 286,
         "lb1": {
             "attack": 1025,
             "defense": 916,
@@ -19616,7 +20134,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 278,
+        "originalIndex": 287,
         "lb1": {
             "attack": 1235,
             "defense": 1101,
@@ -19689,7 +20207,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 279,
+        "originalIndex": 288,
         "lb1": {
             "attack": 1398,
             "defense": 1239,
@@ -19747,10 +20265,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_stylish",
         "star": 5,
-        "power": 1294,
-        "attack": 1375,
-        "defense": 1211,
-        "health": 2496,
+        "power": 1335,
+        "attack": 1412,
+        "defense": 1244,
+        "health": 2631,
         "effects": [
             "Deals 585% damage to the target and minor damage to nearby enemies.",
             "Deals extra damage to enemies with less than 50% health remaining.",
@@ -19761,18 +20279,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 280,
+        "originalIndex": 289,
         "lb1": {
-            "attack": 1482,
-            "defense": 1306,
-            "health": 2690,
-            "power": 1385
+            "attack": 1522,
+            "defense": 1341,
+            "health": 2835,
+            "power": 1430
         },
         "lb2": {
-            "attack": 1696,
-            "defense": 1494,
-            "health": 3077,
-            "power": 1567
+            "attack": 1742,
+            "defense": 1534,
+            "health": 3244,
+            "power": 1618
         },
         "cn_skill_info": [
             {
@@ -19838,7 +20356,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 281,
+        "originalIndex": 290,
         "lb1": {
             "attack": 1378,
             "defense": 1305,
@@ -19919,7 +20437,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 282,
+        "originalIndex": 291,
         "lb1": {
             "attack": 790,
             "defense": 752,
@@ -20000,7 +20518,7 @@ window.allHeroes =
             "Draw a card for a special effect:",
             "Skull",
             "* Reduces max health of all enemies by 550. Max health can't get lower than 30% of the original max health.",
-            "* All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 73 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "Cross",
             "* Boosts health of all allies by 620. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 4 turns.",
@@ -20011,7 +20529,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 283,
+        "originalIndex": 292,
         "lb1": {
             "attack": 989,
             "defense": 951,
@@ -20093,7 +20611,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 284,
+        "originalIndex": 293,
         "lb1": {
             "attack": 854,
             "defense": 843,
@@ -20173,7 +20691,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 285,
+        "originalIndex": 294,
         "lb1": {
             "attack": 1137,
             "defense": 1096,
@@ -20253,7 +20771,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 286,
+        "originalIndex": 295,
         "lb1": {
             "attack": 1320,
             "defense": 1360,
@@ -20326,7 +20844,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 287,
+        "originalIndex": 296,
         "lb1": {
             "attack": 1276,
             "defense": 1343,
@@ -20368,7 +20886,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Thousand Palm Strikes",
         "types": [
-            "Hit all",
+            "Hit All",
             "Drop to 1 Damage 3",
             "Dispeller all on dispelled effect"
         ],
@@ -20404,7 +20922,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 288,
+        "originalIndex": 297,
         "lb1": {
             "attack": 1070,
             "defense": 1067,
@@ -20486,7 +21004,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 289,
+        "originalIndex": 298,
         "lb1": {
             "attack": 1198,
             "defense": 1398,
@@ -20512,6 +21030,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Seraphine",
+        "fancy_name": "Beauty's Spiteful Sister",
+        "AetherPower": "Damage Reduction",
+        "color": "Blue",
+        "class": "Sorcerer",
+        "speed": "Average",
+        "skill": "Ruthless Derision",
+        "types": [
+            "Humility",
+            "Hit All",
+            "Healing Resist Debuff All",
+            "Damage on each Resisted Healing All",
+            "Damage Increase Debuff Stack All",
+            "Mana Generation Debuff All"
+        ],
+        "skill_types": [],
+        "source": "Alliance - The Brave & The Beautiful",
+        "Release date": "2026-05-08",
+        "specialId": "ruthless_derision",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_seraphine",
+        "star": 5,
+        "power": 1324,
+        "attack": 1398,
+        "defense": 1343,
+        "health": 2385,
+        "effects": [
+            "If the caster has 40 or more Humility:",
+            "Deals 400% damage to all enemies.",
+            "Enemies with less than 50% health remaining resist healing and receive 400 damage per each resisted healing for 4 turns.",
+            "Stack +2 (Max: 10): All damage all enemies receive is increased by +10%.",
+            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Otherwise:",
+            "Deals 350% damage to all enemies.",
+            "Enemies with less than 50% health remaining resist healing and receive 300 damage per each resisted healing for 4 turns.",
+            "Stack (Max: 10): All damage all enemies receive is increased by +5%."
+        ],
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": 299,
+        "lb1": {
+            "attack": 1507,
+            "defense": 1447,
+            "health": 2570,
+            "power": 1417
+        },
+        "lb2": {
+            "attack": 1724,
+            "defense": 1656,
+            "health": 2941,
+            "power": 1603
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Sigyn",
@@ -20557,7 +21139,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 290,
+        "originalIndex": 300,
         "lb1": {
             "attack": 1249,
             "defense": 1163,
@@ -20629,7 +21211,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 291,
+        "originalIndex": 301,
         "lb1": {
             "attack": 1149,
             "defense": 1050,
@@ -20704,7 +21286,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 292,
+        "originalIndex": 302,
         "lb1": {
             "attack": 1176,
             "defense": 1145,
@@ -20775,7 +21357,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 0,
-        "originalIndex": 293,
+        "originalIndex": 303,
         "lb1": {
             "attack": 750,
             "defense": 854,
@@ -20850,7 +21432,7 @@ window.allHeroes =
         "passives": [],
         "family": "jotunheim",
         "costume_id": 1,
-        "originalIndex": 294,
+        "originalIndex": 304,
         "lb1": {
             "attack": 1011,
             "defense": 1051,
@@ -20926,12 +21508,11 @@ window.allHeroes =
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 295,
+        "originalIndex": 305,
         "lb1": {
             "attack": 1183,
             "defense": 1110,
@@ -21001,7 +21582,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 296,
+        "originalIndex": 306,
         "lb1": {
             "attack": 1298,
             "defense": 1254,
@@ -21067,7 +21648,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 297,
+        "originalIndex": 307,
         "lb1": {
             "attack": 814,
             "defense": 805,
@@ -21143,7 +21724,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 298,
+        "originalIndex": 308,
         "lb1": {
             "attack": 1068,
             "defense": 979,
@@ -21218,7 +21799,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 299,
+        "originalIndex": 309,
         "lb1": {
             "attack": 925,
             "defense": 805,
@@ -21292,7 +21873,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 300,
+        "originalIndex": 310,
         "lb1": {
             "attack": 1306,
             "defense": 1197,
@@ -21377,7 +21958,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 301,
+        "originalIndex": 311,
         "lb1": {
             "attack": 1332,
             "defense": 1300,
@@ -21454,7 +22035,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 302,
+        "originalIndex": 312,
         "lb1": {
             "attack": 1014,
             "defense": 985,
@@ -21490,8 +22071,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Scepter of Constellations",
         "types": [
-            "Hit all",
-            "Defense debuff"
+            "Hit All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -21521,11 +22102,11 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Poison: This character is immune to status ailments that deal Poison damage.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 303,
+        "originalIndex": 313,
         "lb1": {
             "attack": 1121,
             "defense": 1085,
@@ -21602,7 +22183,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 304,
+        "originalIndex": 314,
         "lb1": {
             "attack": 863,
             "defense": 823,
@@ -21673,12 +22254,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 305,
+        "originalIndex": 315,
         "lb1": {
             "attack": 1383,
             "defense": 1312,
@@ -21754,7 +22335,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 306,
+        "originalIndex": 316,
         "lb1": {
             "attack": 1265,
             "defense": 1394,
@@ -21823,7 +22404,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 307,
+        "originalIndex": 317,
         "lb1": {
             "attack": 892,
             "defense": 830,
@@ -21894,7 +22475,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 308,
+        "originalIndex": 318,
         "lb1": {
             "attack": 1129,
             "defense": 1029,
@@ -21936,7 +22517,7 @@ window.allHeroes =
         "skill": "Ocean's Embrace",
         "types": [
             "Heal All",
-            "Status Ailments Immunity All",
+            "Status Ailment Immunity Buff All",
             "Status Ailments Reset All"
         ],
         "skill_types": [
@@ -21973,7 +22554,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 309,
+        "originalIndex": 319,
         "lb1": {
             "attack": 965,
             "defense": 1074,
@@ -22013,9 +22594,9 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Crystal Embrace",
         "types": [
-            "Heal all",
-            "Status Ailment Reset",
-            "Status Ailment Immunity"
+            "Heal All",
+            "Status Ailment Immunity Buff All",
+            "Status Ailment Reset All"
         ],
         "skill_types": [
             "Health Boosters",
@@ -22056,7 +22637,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 310,
+        "originalIndex": 320,
         "lb1": {
             "attack": 1295,
             "defense": 1321,
@@ -22139,7 +22720,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 311,
+        "originalIndex": 321,
         "lb1": {
             "attack": 879,
             "defense": 919,
@@ -22204,7 +22785,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 312,
+        "originalIndex": 322,
         "lb1": {
             "attack": 792,
             "defense": 865,
@@ -22261,7 +22842,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 313,
+        "originalIndex": 323,
         "lb1": {
             "attack": 688,
             "defense": 854,
@@ -22317,7 +22898,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 314,
+        "originalIndex": 324,
         "lb1": {
             "attack": 842,
             "defense": 913,
@@ -22381,7 +22962,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 315,
+        "originalIndex": 325,
         "lb1": {
             "attack": 962,
             "defense": 1042,
@@ -22450,7 +23031,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 316,
+        "originalIndex": 326,
         "lb1": {
             "attack": 1149,
             "defense": 1255,
@@ -22515,7 +23096,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 317,
+        "originalIndex": 327,
         "lb1": {
             "attack": 1313,
             "defense": 1406,
@@ -22580,11 +23161,11 @@ window.allHeroes =
             "The target and nearby enemies are immune to new status effect buffs for 3 turns."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 318,
+        "originalIndex": 328,
         "lb1": {
             "attack": 1083,
             "defense": 1072,
@@ -22659,7 +23240,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 319,
+        "originalIndex": 329,
         "lb1": {
             "attack": 919,
             "defense": 870,
@@ -22735,7 +23316,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 320,
+        "originalIndex": 330,
         "lb1": {
             "attack": 965,
             "defense": 1027,
@@ -22802,13 +23383,13 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All Ice allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot.",
             "RARE",
             "* Imperial Elite Strikers",
             "* Ravager Archers",
@@ -22826,7 +23407,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 321,
+        "originalIndex": 331,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -22871,8 +23452,9 @@ window.allHeroes =
         "types": [
             "Charge",
             "Minion Summoner All",
+            "Mana Generation Buff Minion",
             "Fiend Summoner All",
-            "Mana Generation Debuff Fiend"
+            "Mana Generation Debuff Minion"
         ],
         "skill_types": [
             "Fiends Summoners",
@@ -22910,7 +23492,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 322,
+        "originalIndex": 332,
         "lb1": {
             "attack": 963,
             "defense": 987,
@@ -22953,7 +23535,9 @@ window.allHeroes =
         "types": [
             "Charge",
             "Minion Summoner All",
-            "Fiend Summoner All"
+            "Mana Boost Minion",
+            "Fiend Summoner All",
+            "Mana Steal Fiend"
         ],
         "skill_types": [
             "Fiends Summoners",
@@ -22975,10 +23559,10 @@ window.allHeroes =
         ],
         "heroId": "magic_ulius_costume_buccaneer",
         "star": 5,
-        "power": 1256,
-        "attack": 1236,
-        "defense": 1267,
-        "health": 2460,
+        "power": 1273,
+        "attack": 1254,
+        "defense": 1286,
+        "health": 2494,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -22996,18 +23580,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 323,
+        "originalIndex": 333,
         "lb1": {
-            "attack": 1332,
-            "defense": 1366,
-            "health": 2651,
-            "power": 1344
+            "attack": 1351,
+            "defense": 1386,
+            "health": 2688,
+            "power": 1362
         },
         "lb2": {
-            "attack": 1524,
-            "defense": 1563,
-            "health": 3033,
-            "power": 1520
+            "attack": 1546,
+            "defense": 1585,
+            "health": 3076,
+            "power": 1540
         },
         "cn_skill_info": [
             {
@@ -23027,6 +23611,65 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Ushal",
+        "fancy_name": "Astral Demon Cosmomage",
+        "AetherPower": "Damage Reduction",
+        "color": "Blue",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Cosmic Spirals",
+        "types": [
+            "Hit All",
+            "Bypass",
+            "Attack Wither All",
+            "Astral Beam Buff Self"
+        ],
+        "skill_types": [],
+        "source": "Astral Summon",
+        "Release date": "2026-05-13",
+        "specialId": "cosmic_spirals",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_ushal",
+        "star": 5,
+        "power": 1325,
+        "attack": 1398,
+        "defense": 1359,
+        "health": 2360,
+        "effects": [
+            "Deals 355% damage to all enemies.",
+            "The attack bypasses counterattacks and reflection.",
+            "Wither: All enemies get -425 attack.",
+            "At the end of each turn, the caster shoots an Astral Beam at a random enemy for 4 turns.",
+            "Each Astral Beam deals 300% damage.",
+            "Each Astral Beam reduces the Max Health of the hit enemy by 300."
+        ],
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": 334,
+        "lb1": {
+            "attack": 1507,
+            "defense": 1465,
+            "health": 2544,
+            "power": 1418
+        },
+        "lb2": {
+            "attack": 1724,
+            "defense": 1676,
+            "health": 2910,
+            "power": 1605
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Vela",
@@ -23072,7 +23715,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 324,
+        "originalIndex": 335,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -23115,8 +23758,8 @@ window.allHeroes =
         "skill": "Red Shoes",
         "types": [
             "Hit 3",
-            "Enhanced Defense Debuff",
-            "Delayed Mana Generation Debuff"
+            "Enhanced Defense Debuff 3",
+            "Delayed Mana Generation Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -23146,11 +23789,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 325,
+        "originalIndex": 336,
         "lb1": {
             "attack": 1265,
             "defense": 1156,
@@ -23204,18 +23847,18 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_vernix",
         "star": 5,
-        "power": 1247,
-        "attack": 1359,
+        "power": 1262,
+        "attack": 1378,
         "defense": 1207,
-        "health": 2206,
+        "health": 2268,
         "effects": [
             "If the enemy has the Frost status ailment:",
-            "* Deals 310% damage to all enemies.",
+            "* Deals 320% damage to all enemies.",
             "* Reduces the mana to of all enemies by 5%.",
-            "* All enemies receive 1630 Frost damage over 5 turns.",
+            "* All enemies receive 1685 Frost damage over 5 turns.",
             "Otherwise:",
-            "* Deals 260% damage to all enemies.",
-            "* All enemies receive 1275 Frost damage over 5 turns."
+            "* Deals 270% damage to all enemies.",
+            "* All enemies receive 1340 Frost damage over 5 turns."
         ],
         "passives": [
             "Nine Lives:",
@@ -23230,18 +23873,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 326,
+        "originalIndex": 337,
         "lb1": {
-            "attack": 1465,
+            "attack": 1485,
             "defense": 1300,
-            "health": 2377,
-            "power": 1334
+            "health": 2444,
+            "power": 1350
         },
         "lb2": {
-            "attack": 1676,
+            "attack": 1699,
             "defense": 1488,
-            "health": 2720,
-            "power": 1509
+            "health": 2796,
+            "power": 1527
         },
         "cn_skill_info": [
             {
@@ -23307,7 +23950,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 327,
+        "originalIndex": 338,
         "lb1": {
             "attack": 1269,
             "defense": 1163,
@@ -23386,7 +24029,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 328,
+        "originalIndex": 339,
         "lb1": {
             "attack": 930,
             "defense": 885,
@@ -23455,7 +24098,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 329,
+        "originalIndex": 340,
         "lb1": {
             "attack": 1178,
             "defense": 1267,
@@ -23537,7 +24180,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 330,
+        "originalIndex": 341,
         "lb1": {
             "attack": 1394,
             "defense": 1336,
@@ -23616,7 +24259,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 331,
+        "originalIndex": 342,
         "lb1": {
             "attack": 1443,
             "defense": 1429,
@@ -23686,7 +24329,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 332,
+        "originalIndex": 343,
         "lb1": {
             "attack": 1065,
             "defense": 990,
@@ -23757,14 +24400,14 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 333,
+        "originalIndex": 344,
         "lb1": {
             "attack": 947,
             "defense": 874,
@@ -23820,7 +24463,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
         "heroId": "elemental_zengar_costume_farmer",
         "star": 5,
         "power": 1227,
@@ -23830,20 +24475,21 @@ window.allHeroes =
         "effects": [
             "Deals 450% damage to the target.",
             "If the target is of Fire element, deals 400% damage to nearby enemies.",
+            "Heals the caster by 30% of damage dealt.",
             "The target receives 1020 Frost damage over 3 turns.",
-            "If the target is of Fire element, nearby enemies receive 693 Frost damage over 3 turns.",
-            "Heals the caster by 30% of damage dealt."
+            "If the target is of Fire element, nearby enemies receive 693 Frost damage over 3 turns."
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "* Received damage: -25%",
+            "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 334,
+        "originalIndex": 345,
         "lb1": {
             "attack": 1311,
             "defense": 1243,
@@ -23906,10 +24552,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_zheng_tianshou",
         "star": 5,
-        "power": 1276,
-        "attack": 1310,
-        "defense": 1326,
-        "health": 2301,
+        "power": 1291,
+        "attack": 1324,
+        "defense": 1341,
+        "health": 2342,
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 470% damage to all enemies.",
@@ -23926,18 +24572,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 335,
+        "originalIndex": 346,
         "lb1": {
-            "attack": 1411,
-            "defense": 1429,
-            "health": 2479,
-            "power": 1366
+            "attack": 1427,
+            "defense": 1445,
+            "health": 2524,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1635,
-            "health": 2837,
-            "power": 1545
+            "attack": 1633,
+            "defense": 1653,
+            "health": 2887,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -24006,7 +24652,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 336,
+        "originalIndex": 347,
         "lb1": {
             "attack": 792,
             "defense": 905,
@@ -24064,7 +24710,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 337,
+        "originalIndex": 348,
         "lb1": {
             "attack": 209,
             "defense": 183,
@@ -24109,7 +24755,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 338,
+        "originalIndex": 349,
         "lb1": {
             "attack": 193,
             "defense": 197,
@@ -24154,7 +24800,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 339,
+        "originalIndex": 350,
         "lb1": {
             "attack": 295,
             "defense": 340,
@@ -24199,7 +24845,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 340,
+        "originalIndex": 351,
         "lb1": {
             "attack": 328,
             "defense": 325,
@@ -24244,7 +24890,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 341,
+        "originalIndex": 352,
         "lb1": {
             "attack": 358,
             "defense": 315,
@@ -24296,7 +24942,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 342,
+        "originalIndex": 353,
         "lb1": {
             "attack": 573,
             "defense": 545,
@@ -24368,7 +25014,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 343,
+        "originalIndex": 354,
         "lb1": {
             "attack": 614,
             "defense": 622,
@@ -24432,7 +25078,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 344,
+        "originalIndex": 355,
         "lb1": {
             "attack": 482,
             "defense": 510,
@@ -24493,7 +25139,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 345,
+        "originalIndex": 356,
         "lb1": {
             "attack": 505,
             "defense": 533,
@@ -24561,7 +25207,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 346,
+        "originalIndex": 357,
         "lb1": {
             "attack": 577,
             "defense": 564,
@@ -24631,7 +25277,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 347,
+        "originalIndex": 358,
         "lb1": {
             "attack": 597,
             "defense": 576,
@@ -24657,6 +25303,57 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Belith Stylish",
+        "fancy_name": "Stylish Spirit",
+        "AetherPower": "Defense Up",
+        "color": "Green",
+        "class": "Druid",
+        "speed": "Average",
+        "skill": "Stylish Mist",
+        "types": [
+            "Healer All",
+            "Dispeller All"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_mist",
+        "parent_specialId": "calming_mist",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "forest_female_spirit_costume_stylish",
+        "star": 3,
+        "power": 544,
+        "attack": 553,
+        "defense": 543,
+        "health": 960,
+        "effects": [
+            "Recovers 44% health for the ally with the lowest remaining HP. All other allies recover 37% health.",
+            "Dispels buffs from all enemies."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 359,
+        "lb1": {
+            "attack": 627,
+            "defense": 615,
+            "health": 1088,
+            "power": 608
+        },
+        "lb2": {
+            "attack": 775,
+            "defense": 760,
+            "health": 1344,
+            "power": 737
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Berden",
@@ -24691,7 +25388,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 348,
+        "originalIndex": 360,
         "lb1": {
             "attack": 533,
             "defense": 482,
@@ -24752,7 +25449,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 349,
+        "originalIndex": 361,
         "lb1": {
             "attack": 529,
             "defense": 550,
@@ -24819,7 +25516,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 350,
+        "originalIndex": 362,
         "lb1": {
             "attack": 616,
             "defense": 555,
@@ -24892,7 +25589,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 351,
+        "originalIndex": 363,
         "lb1": {
             "attack": 636,
             "defense": 564,
@@ -24953,7 +25650,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 352,
+        "originalIndex": 364,
         "lb1": {
             "attack": 506,
             "defense": 508,
@@ -25006,7 +25703,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 353,
+        "originalIndex": 365,
         "lb1": {
             "attack": 539,
             "defense": 541,
@@ -25063,7 +25760,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 354,
+        "originalIndex": 366,
         "lb1": {
             "attack": 575,
             "defense": 555,
@@ -25124,7 +25821,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 355,
+        "originalIndex": 367,
         "lb1": {
             "attack": 541,
             "defense": 609,
@@ -25185,7 +25882,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 356,
+        "originalIndex": 368,
         "lb1": {
             "attack": 581,
             "defense": 640,
@@ -25254,7 +25951,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 357,
+        "originalIndex": 369,
         "lb1": {
             "attack": 494,
             "defense": 506,
@@ -25319,7 +26016,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 358,
+        "originalIndex": 370,
         "lb1": {
             "attack": 525,
             "defense": 508,
@@ -25380,7 +26077,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 359,
+        "originalIndex": 371,
         "lb1": {
             "attack": 583,
             "defense": 522,
@@ -25447,7 +26144,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 360,
+        "originalIndex": 372,
         "lb1": {
             "attack": 609,
             "defense": 584,
@@ -25516,7 +26213,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 361,
+        "originalIndex": 373,
         "lb1": {
             "attack": 709,
             "defense": 488,
@@ -25580,12 +26277,12 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 362,
+        "originalIndex": 374,
         "lb1": {
             "attack": 573,
             "defense": 612,
@@ -25621,11 +26318,11 @@ window.allHeroes =
         "speed": "Magic",
         "skill": "Voluminous Vigor",
         "types": [
-            "Damage share buff",
-            "Defense buff",
-            "Damage share debuff",
-            "Defense debuff",
-            "Charge"
+            "Charge",
+            "Allies Damage Share",
+            "Defense Buff All",
+            "Enemies Damage Share",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -25659,7 +26356,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 363,
+        "originalIndex": 375,
         "lb1": {
             "attack": 524,
             "defense": 571,
@@ -25722,7 +26419,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 364,
+        "originalIndex": 376,
         "lb1": {
             "attack": 598,
             "defense": 596,
@@ -25785,7 +26482,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 365,
+        "originalIndex": 377,
         "lb1": {
             "attack": 527,
             "defense": 555,
@@ -25862,7 +26559,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 366,
+        "originalIndex": 378,
         "lb1": {
             "attack": 518,
             "defense": 586,
@@ -25921,11 +26618,11 @@ window.allHeroes =
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 700 damage. Deals 20% more damage if the target is of the Holy element. This Special Skill never misses its targets."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 367,
+        "originalIndex": 379,
         "lb1": {
             "attack": 648,
             "defense": 482,
@@ -25998,7 +26695,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 368,
+        "originalIndex": 380,
         "lb1": {
             "attack": 652,
             "defense": 581,
@@ -26066,7 +26763,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 369,
+        "originalIndex": 381,
         "lb1": {
             "attack": 591,
             "defense": 514,
@@ -26125,7 +26822,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 370,
+        "originalIndex": 382,
         "lb1": {
             "attack": 520,
             "defense": 510,
@@ -26186,7 +26883,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 371,
+        "originalIndex": 383,
         "lb1": {
             "attack": 548,
             "defense": 541,
@@ -26251,7 +26948,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 372,
+        "originalIndex": 384,
         "lb1": {
             "attack": 598,
             "defense": 591,
@@ -26320,7 +27017,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 373,
+        "originalIndex": 385,
         "lb1": {
             "attack": 627,
             "defense": 599,
@@ -26382,7 +27079,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 374,
+        "originalIndex": 386,
         "lb1": {
             "attack": 589,
             "defense": 575,
@@ -26446,7 +27143,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 375,
+        "originalIndex": 387,
         "lb1": {
             "attack": 559,
             "defense": 512,
@@ -26483,7 +27180,7 @@ window.allHeroes =
         "skill": "Sugar Rush",
         "types": [
             "Hit All",
-            "Mana gen debuff"
+            "Mana Generation Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -26512,7 +27209,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 376,
+        "originalIndex": 388,
         "lb1": {
             "attack": 567,
             "defense": 529,
@@ -26553,7 +27250,7 @@ window.allHeroes =
         "skill": "Elder's Remedy",
         "types": [
             "Reviver",
-            "Mana regen"
+            "MoT All"
         ],
         "skill_types": [
             "Revivers",
@@ -26580,7 +27277,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 377,
+        "originalIndex": 389,
         "lb1": {
             "attack": 508,
             "defense": 583,
@@ -26616,7 +27313,7 @@ window.allHeroes =
         "skill": "Gardener's Remedy",
         "types": [
             "Reviver",
-            "HoT"
+            "HoT All"
         ],
         "skill_types": [
             "Heal over Time (HoT)",
@@ -26645,7 +27342,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 378,
+        "originalIndex": 390,
         "lb1": {
             "attack": 520,
             "defense": 584,
@@ -26701,7 +27398,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 379,
+        "originalIndex": 391,
         "lb1": {
             "attack": 457,
             "defense": 695,
@@ -26737,9 +27434,9 @@ window.allHeroes =
         "skill": "Sand Breeze",
         "types": [
             "Hit 1",
-            "Dot 1",
-            "Healing Debuff",
-            "Self Clean"
+            "DoT 1",
+            "Healing Debuff 1",
+            "Clean Self"
         ],
         "skill_types": [
             "Cleansers",
@@ -26767,7 +27464,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 380,
+        "originalIndex": 392,
         "lb1": {
             "attack": 612,
             "defense": 443,
@@ -26826,7 +27523,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 381,
+        "originalIndex": 393,
         "lb1": {
             "attack": 514,
             "defense": 472,
@@ -26882,7 +27579,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 382,
+        "originalIndex": 394,
         "lb1": {
             "attack": 552,
             "defense": 453,
@@ -26946,7 +27643,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 383,
+        "originalIndex": 395,
         "lb1": {
             "attack": 548,
             "defense": 530,
@@ -27011,7 +27708,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 384,
+        "originalIndex": 396,
         "lb1": {
             "attack": 574,
             "defense": 539,
@@ -27066,13 +27763,13 @@ window.allHeroes =
         "defense": 568,
         "health": 908,
         "effects": [
-            "Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity are doubled.",
+            "Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy, the damage and Insanity are doubled.",
             "Casting this Special Skill inflicts 35 Insanity on the caster."
         ],
         "passives": [],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 385,
+        "originalIndex": 397,
         "lb1": {
             "attack": 604,
             "defense": 644,
@@ -27135,7 +27832,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 386,
+        "originalIndex": 398,
         "lb1": {
             "attack": 567,
             "defense": 549,
@@ -27198,7 +27895,7 @@ window.allHeroes =
         "defense": 561,
         "health": 975,
         "effects": [
-            "If the caster has 35 or more Humility:",
+            "If the caster has 40 or more Humility:",
             "* Deals 270% damage to the target and minor damage to nearby enemies.",
             "* The caster counterattacks with 90% of the damage received for 4 turns.",
             "Otherwise:",
@@ -27211,7 +27908,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 387,
+        "originalIndex": 399,
         "lb1": {
             "attack": 630,
             "defense": 636,
@@ -27270,7 +27967,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 388,
+        "originalIndex": 400,
         "lb1": {
             "attack": 537,
             "defense": 488,
@@ -27331,7 +28028,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 389,
+        "originalIndex": 401,
         "lb1": {
             "attack": 568,
             "defense": 497,
@@ -27356,6 +28053,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Mnesseus Toon",
+        "fancy_name": "Toon Merman",
+        "AetherPower": "Attack Up",
+        "color": "Green",
+        "class": "Cleric",
+        "speed": "Fast",
+        "skill": "Atlantean Toon Spear",
+        "types": [
+            "Hit 1",
+            "Dispeller All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "atlantean_toon_spear",
+        "parent_specialId": "frightening_pinch",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_merman_costume_cute",
+        "star": 3,
+        "power": 559,
+        "attack": 620,
+        "defense": 540,
+        "health": 899,
+        "effects": [
+            "Deals 330% damage to the target.",
+            "Deals extra damage against Ice.",
+            "Dispels buffs from all enemies."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 402,
+        "lb1": {
+            "attack": 703,
+            "defense": 612,
+            "health": 1019,
+            "power": 625
+        },
+        "lb2": {
+            "attack": 869,
+            "defense": 757,
+            "health": 1259,
+            "power": 757
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Muggy",
@@ -27392,7 +28141,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 390,
+        "originalIndex": 403,
         "lb1": {
             "attack": 719,
             "defense": 423,
@@ -27451,7 +28200,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 391,
+        "originalIndex": 404,
         "lb1": {
             "attack": 610,
             "defense": 581,
@@ -27521,7 +28270,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 392,
+        "originalIndex": 405,
         "lb1": {
             "attack": 516,
             "defense": 579,
@@ -27566,7 +28315,7 @@ window.allHeroes =
             "Hit 1",
             "Damage Link 1",
             "Bypass Chance All",
-            "Critical Chance All"
+            "Critical Chance Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -27605,7 +28354,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 393,
+        "originalIndex": 406,
         "lb1": {
             "attack": 585,
             "defense": 600,
@@ -27670,7 +28419,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 394,
+        "originalIndex": 407,
         "lb1": {
             "attack": 397,
             "defense": 581,
@@ -27726,7 +28475,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 395,
+        "originalIndex": 408,
         "lb1": {
             "attack": 628,
             "defense": 460,
@@ -27794,7 +28543,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 396,
+        "originalIndex": 409,
         "lb1": {
             "attack": 616,
             "defense": 567,
@@ -27868,7 +28617,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 397,
+        "originalIndex": 410,
         "lb1": {
             "attack": 512,
             "defense": 539,
@@ -27915,8 +28664,8 @@ window.allHeroes =
         "skill": "Tambourine Solo",
         "types": [
             "Hit All",
-            "Attack Debuff",
-            "Cleanse Block"
+            "Attack Debuff All",
+            "Cleanse Immunity All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -27945,7 +28694,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 398,
+        "originalIndex": 411,
         "lb1": {
             "attack": 559,
             "defense": 565,
@@ -28008,7 +28757,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 399,
+        "originalIndex": 412,
         "lb1": {
             "attack": 620,
             "defense": 537,
@@ -28075,7 +28824,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 400,
+        "originalIndex": 413,
         "lb1": {
             "attack": 697,
             "defense": 604,
@@ -28152,7 +28901,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 401,
+        "originalIndex": 414,
         "lb1": {
             "attack": 766,
             "defense": 704,
@@ -28217,7 +28966,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 0,
-        "originalIndex": 402,
+        "originalIndex": 415,
         "lb1": {
             "attack": 681,
             "defense": 704,
@@ -28282,7 +29031,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 1,
-        "originalIndex": 403,
+        "originalIndex": 416,
         "lb1": {
             "attack": 725,
             "defense": 689,
@@ -28314,6 +29063,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Almur Toon",
+        "fancy_name": "Shadowtoon of Svartalfheim",
+        "AetherPower": "Special Boost",
+        "color": "Green",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Toon Sweep",
+        "types": [
+            "Hit 3",
+            "Health Reduction 3",
+            "Elemental Defense Debuff 3"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toon_sweep",
+        "parent_specialId": "shadow_sweep",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_almur_costume_cute",
+        "star": 4,
+        "power": 836,
+        "attack": 812,
+        "defense": 845,
+        "health": 1649,
+        "effects": [
+            "Deals 180% damage to the target and nearby enemies.",
+            "Reduces max health from the target and nearby enemies by 100. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.)",
+            "The target and nearby enemies get -59% defense against Nature for 4 turns.",
+            "Deal extra damage against Ice."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "svartalfheim",
+        "costume_id": 2,
+        "originalIndex": 417,
+        "lb1": {
+            "attack": 882,
+            "defense": 918,
+            "health": 1792,
+            "power": 901
+        },
+        "lb2": {
+            "attack": 1023,
+            "defense": 1064,
+            "health": 2077,
+            "power": 1031
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Anton",
         "fancy_name": "Young Scholar",
         "AetherPower": "Defense Up",
@@ -28322,11 +29125,11 @@ window.allHeroes =
         "speed": "Magic",
         "skill": "High Noon Sun",
         "types": [
-            "Hit all",
-            "Poison",
+            "Charge",
+            "Hit All",
+            "DoT All",
             "Reviver",
-            "HoT All",
-            "Charge"
+            "HoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -28362,7 +29165,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 404,
+        "originalIndex": 418,
         "lb1": {
             "attack": 706,
             "defense": 695,
@@ -28436,11 +29239,11 @@ window.allHeroes =
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 405,
+        "originalIndex": 419,
         "lb1": {
             "attack": 750,
             "defense": 778,
@@ -28506,7 +29309,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 406,
+        "originalIndex": 420,
         "lb1": {
             "attack": 743,
             "defense": 662,
@@ -28573,7 +29376,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 407,
+        "originalIndex": 421,
         "lb1": {
             "attack": 577,
             "defense": 750,
@@ -28652,7 +29455,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 408,
+        "originalIndex": 422,
         "lb1": {
             "attack": 727,
             "defense": 929,
@@ -28718,7 +29521,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 409,
+        "originalIndex": 423,
         "lb1": {
             "attack": 690,
             "defense": 692,
@@ -28779,7 +29582,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 410,
+        "originalIndex": 424,
         "lb1": {
             "attack": 743,
             "defense": 736,
@@ -28843,7 +29646,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 411,
+        "originalIndex": 425,
         "lb1": {
             "attack": 809,
             "defense": 783,
@@ -28915,7 +29718,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 412,
+        "originalIndex": 426,
         "lb1": {
             "attack": 826,
             "defense": 807,
@@ -28990,7 +29793,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 413,
+        "originalIndex": 427,
         "lb1": {
             "attack": 843,
             "defense": 818,
@@ -29067,7 +29870,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 414,
+        "originalIndex": 428,
         "lb1": {
             "attack": 924,
             "defense": 891,
@@ -29139,7 +29942,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 415,
+        "originalIndex": 429,
         "lb1": {
             "attack": 600,
             "defense": 741,
@@ -29206,7 +30009,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 416,
+        "originalIndex": 430,
         "lb1": {
             "attack": 803,
             "defense": 812,
@@ -29268,7 +30071,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 417,
+        "originalIndex": 431,
         "lb1": {
             "attack": 671,
             "defense": 750,
@@ -29334,7 +30137,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 418,
+        "originalIndex": 432,
         "lb1": {
             "attack": 665,
             "defense": 784,
@@ -29361,6 +30164,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Gadeirus Toon",
+        "fancy_name": "Atlantean Watcher Toon",
+        "AetherPower": "Fiend Resist",
+        "color": "Green",
+        "class": "Druid",
+        "speed": "Slow",
+        "skill": "Toon Bash",
+        "types": [
+            "Hit 3",
+            "Attack Buff 3",
+            "HoT 3"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_bash",
+        "parent_specialId": "empowering_bash",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_atlantean_robot_costume_cute",
+        "star": 4,
+        "power": 825,
+        "attack": 820,
+        "defense": 884,
+        "health": 1474,
+        "effects": [
+            "Deals 195% damage to the target and minor damage to nearby enemies.",
+            "The caster and nearby allies get +50% attack for 4 turns.",
+            "The caster and nearby allies regenerate 812 HP over 4 turns.",
+            "Deals extra damage against Ice."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 433,
+        "lb1": {
+            "attack": 891,
+            "defense": 960,
+            "health": 1602,
+            "power": 889
+        },
+        "lb2": {
+            "attack": 1033,
+            "defense": 1113,
+            "health": 1857,
+            "power": 1018
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Gobbler",
@@ -29398,7 +30255,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 419,
+        "originalIndex": 434,
         "lb1": {
             "attack": 697,
             "defense": 667,
@@ -29463,7 +30320,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 420,
+        "originalIndex": 435,
         "lb1": {
             "attack": 637,
             "defense": 718,
@@ -29532,7 +30389,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 421,
+        "originalIndex": 436,
         "lb1": {
             "attack": 759,
             "defense": 653,
@@ -29602,7 +30459,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 422,
+        "originalIndex": 437,
         "lb1": {
             "attack": 729,
             "defense": 770,
@@ -29642,7 +30499,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Reckless Slash",
         "types": [
-            "Hit All"
+            "Hit All",
+            "Defense Debuff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -29665,7 +30523,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 423,
+        "originalIndex": 438,
         "lb1": {
             "attack": 808,
             "defense": 655,
@@ -29700,8 +30558,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Egg Barrage",
         "types": [
-            "Hit all",
-            "Chain"
+            "Hit 1",
+            "Chain hit",
+            "Attack Debuff All allies except Self"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -29727,10 +30586,12 @@ window.allHeroes =
             "The attack chains through all enemies who are adjacent to any hit enemy.",
             "All allies except the caster get -20% attack for 3 turns. This effect can't be dispelled."
         ],
-        "passives": [],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get  Stack (Max: 10): -5% defense."
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 424,
+        "originalIndex": 439,
         "lb1": {
             "attack": 927,
             "defense": 853,
@@ -29795,7 +30656,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 425,
+        "originalIndex": 440,
         "lb1": {
             "attack": 912,
             "defense": 798,
@@ -29861,7 +30722,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 426,
+        "originalIndex": 441,
         "lb1": {
             "attack": 681,
             "defense": 704,
@@ -29921,7 +30782,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 427,
+        "originalIndex": 442,
         "lb1": {
             "attack": 595,
             "defense": 704,
@@ -29983,7 +30844,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 428,
+        "originalIndex": 443,
         "lb1": {
             "attack": 649,
             "defense": 765,
@@ -30044,7 +30905,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 429,
+        "originalIndex": 444,
         "lb1": {
             "attack": 650,
             "defense": 831,
@@ -30109,7 +30970,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 430,
+        "originalIndex": 445,
         "lb1": {
             "attack": 740,
             "defense": 751,
@@ -30178,7 +31039,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 431,
+        "originalIndex": 446,
         "lb1": {
             "attack": 802,
             "defense": 736,
@@ -30252,7 +31113,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 432,
+        "originalIndex": 447,
         "lb1": {
             "attack": 893,
             "defense": 868,
@@ -30296,7 +31157,8 @@ window.allHeroes =
         "skill": "Cloth of Constellations",
         "types": [
             "Hit 3",
-            "Dodge"
+            "Healing Steal 3",
+            "Dodge Chance 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -30326,12 +31188,12 @@ window.allHeroes =
             "The caster and nearby allies get +45% chance to dodge Special Skills that deal damage for 2 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared  with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 433,
+        "originalIndex": 448,
         "lb1": {
             "attack": 743,
             "defense": 748,
@@ -30395,7 +31257,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 434,
+        "originalIndex": 449,
         "lb1": {
             "attack": 805,
             "defense": 618,
@@ -30457,7 +31319,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 435,
+        "originalIndex": 450,
         "lb1": {
             "attack": 837,
             "defense": 691,
@@ -30493,7 +31355,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Massive Swing",
         "types": [
-            "Hit all",
+            "Hit All",
             "Mana Generation Buff All"
         ],
         "skill_types": [
@@ -30519,7 +31381,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 436,
+        "originalIndex": 451,
         "lb1": {
             "attack": 913,
             "defense": 693,
@@ -30586,7 +31448,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 437,
+        "originalIndex": 452,
         "lb1": {
             "attack": 915,
             "defense": 756,
@@ -30659,7 +31521,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 438,
+        "originalIndex": 453,
         "lb1": {
             "attack": 936,
             "defense": 766,
@@ -30727,7 +31589,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 439,
+        "originalIndex": 454,
         "lb1": {
             "attack": 711,
             "defense": 681,
@@ -30791,7 +31653,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 440,
+        "originalIndex": 455,
         "lb1": {
             "attack": 775,
             "defense": 637,
@@ -30855,7 +31717,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 441,
+        "originalIndex": 456,
         "lb1": {
             "attack": 773,
             "defense": 726,
@@ -30920,7 +31782,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 442,
+        "originalIndex": 457,
         "lb1": {
             "attack": 743,
             "defense": 902,
@@ -30989,7 +31851,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 443,
+        "originalIndex": 458,
         "lb1": {
             "attack": 869,
             "defense": 791,
@@ -31059,7 +31921,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 444,
+        "originalIndex": 459,
         "lb1": {
             "attack": 882,
             "defense": 807,
@@ -31125,7 +31987,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 445,
+        "originalIndex": 460,
         "lb1": {
             "attack": 960,
             "defense": 891,
@@ -31160,8 +32022,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Sprite Ballad",
         "types": [
-            "Summoner",
-            "Attack debuff"
+            "Summoner All",
+            "Mana Generation Buff Minion",
+            "Attack Debuff All"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -31190,7 +32053,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 446,
+        "originalIndex": 461,
         "lb1": {
             "attack": 667,
             "defense": 704,
@@ -31230,8 +32093,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Sprite Hymn",
         "types": [
-            "Summoner",
-            "Attack debuff"
+            "Summoner All",
+            "Mana Generation Buff Minion",
+            "Attack Debuff All"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -31262,7 +32126,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 447,
+        "originalIndex": 462,
         "lb1": {
             "attack": 663,
             "defense": 732,
@@ -31303,8 +32167,8 @@ window.allHeroes =
         "skill": "Noxious Cleave",
         "types": [
             "Hit 3",
-            "Mana Reduction",
-            "DoT all"
+            "Mana Reduction 3",
+            "DoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -31342,7 +32206,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 448,
+        "originalIndex": 463,
         "lb1": {
             "attack": 780,
             "defense": 699,
@@ -31385,8 +32249,8 @@ window.allHeroes =
         "skill": "Noxious Chord",
         "types": [
             "Hit 3",
-            "Mana Reduction",
-            "DoT all"
+            "Mana Reduction 3",
+            "DoT All"
         ],
         "skill_types": [
             "Snipers",
@@ -31429,7 +32293,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 449,
+        "originalIndex": 464,
         "lb1": {
             "attack": 725,
             "defense": 793,
@@ -31472,8 +32336,8 @@ window.allHeroes =
         "skill": "A Rare Cultivar",
         "types": [
             "Hit 3",
-            "Enhanced Defense Ailment",
-            "Delayed Spreading DoT"
+            "Enhanced Defense Ailment 3",
+            "Delayed Spreading DoT 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -31503,11 +32367,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 450,
+        "originalIndex": 465,
         "lb1": {
             "attack": 854,
             "defense": 720,
@@ -31583,7 +32447,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 451,
+        "originalIndex": 466,
         "lb1": {
             "attack": 729,
             "defense": 725,
@@ -31656,7 +32520,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 452,
+        "originalIndex": 467,
         "lb1": {
             "attack": 690,
             "defense": 738,
@@ -31726,7 +32590,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 453,
+        "originalIndex": 468,
         "lb1": {
             "attack": 699,
             "defense": 697,
@@ -31790,7 +32654,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 454,
+        "originalIndex": 469,
         "lb1": {
             "attack": 734,
             "defense": 775,
@@ -31857,7 +32721,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 455,
+        "originalIndex": 470,
         "lb1": {
             "attack": 637,
             "defense": 745,
@@ -31933,7 +32797,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 456,
+        "originalIndex": 471,
         "lb1": {
             "attack": 626,
             "defense": 784,
@@ -32000,7 +32864,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 457,
+        "originalIndex": 472,
         "lb1": {
             "attack": 713,
             "defense": 775,
@@ -32060,7 +32924,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 458,
+        "originalIndex": 473,
         "lb1": {
             "attack": 791,
             "defense": 658,
@@ -32121,7 +32985,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 459,
+        "originalIndex": 474,
         "lb1": {
             "attack": 862,
             "defense": 699,
@@ -32182,7 +33046,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 460,
+        "originalIndex": 475,
         "lb1": {
             "attack": 900,
             "defense": 772,
@@ -32249,7 +33113,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 461,
+        "originalIndex": 476,
         "lb1": {
             "attack": 918,
             "defense": 767,
@@ -32322,7 +33186,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 462,
+        "originalIndex": 477,
         "lb1": {
             "attack": 956,
             "defense": 772,
@@ -32352,6 +33216,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Skittleskull Stylish",
+        "fancy_name": "Stylish Witch",
+        "AetherPower": "Mana Boost",
+        "color": "Green",
+        "class": "Sorcerer",
+        "speed": "Slow",
+        "skill": "Stylish Vines",
+        "types": [
+            "Hit All",
+            "Attack Debuff All"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_vines",
+        "parent_specialId": "creeping_vines",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "goblin_mage_costume_stylish",
+        "star": 4,
+        "power": 815,
+        "attack": 972,
+        "defense": 767,
+        "health": 1254,
+        "effects": [
+            "Deals 235% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 315% damage instead.",
+            "All enemies get -32% attack for 6 turns."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 478,
+        "lb1": {
+            "attack": 1056,
+            "defense": 834,
+            "health": 1362,
+            "power": 878
+        },
+        "lb2": {
+            "attack": 1224,
+            "defense": 967,
+            "health": 1579,
+            "power": 1005
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Snorri",
@@ -32393,12 +33309,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 463,
+        "originalIndex": 479,
         "lb1": {
             "attack": 842,
             "defense": 815,
@@ -32436,8 +33352,8 @@ window.allHeroes =
         "skill": "Crippling Grapple",
         "types": [
             "Hit 1",
-            "Silence",
-            "Dot 1"
+            "Silence 1",
+            "DoT 1"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -32457,16 +33373,16 @@ window.allHeroes =
         "defense": 667,
         "health": 1241,
         "effects": [
-            "Deals 320% damage to the target",
-            "The target gets silenced for 4 turns",
-            "The target receives 100 Poison damage over 4 turns"
+            "Deals 320% damage to the target.",
+            "The target gets silenced for 4 turns.",
+            "The target receives 100 Poison damage over 4 turns."
         ],
         "passives": [
-            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 464,
+        "originalIndex": 480,
         "lb1": {
             "attack": 720,
             "defense": 725,
@@ -32504,7 +33420,7 @@ window.allHeroes =
         "skill": "Demoralizing Banter",
         "types": [
             "Hit 1",
-            "Silence",
+            "Silence 1",
             "DoT 1"
         ],
         "skill_types": [
@@ -32532,11 +33448,11 @@ window.allHeroes =
             "The target receives 228 Poison damage over 4 turns."
         ],
         "passives": [
-            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 465,
+        "originalIndex": 481,
         "lb1": {
             "attack": 803,
             "defense": 713,
@@ -32608,7 +33524,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 466,
+        "originalIndex": 482,
         "lb1": {
             "attack": 755,
             "defense": 738,
@@ -32686,7 +33602,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 467,
+        "originalIndex": 483,
         "lb1": {
             "attack": 878,
             "defense": 844,
@@ -32749,7 +33665,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 468,
+        "originalIndex": 484,
         "lb1": {
             "attack": 734,
             "defense": 699,
@@ -32775,6 +33691,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Achillea",
+        "fancy_name": "Fearless Gladiator Slime",
+        "AetherPower": "Rage",
+        "color": "Green",
+        "class": "Fighter",
+        "speed": "Fast",
+        "skill": "Squish Squash",
+        "types": [
+            "Hit 3",
+            "Devouring Goo Debuff 3",
+            "Counterattack 3"
+        ],
+        "skill_types": [],
+        "source": "Super Elementals",
+        "Release date": "2026-04-24",
+        "specialId": "squish_squash_achillea",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "heroId": "slime_achillea",
+        "star": 5,
+        "power": 1315,
+        "attack": 1392,
+        "defense": 1332,
+        "health": 2358,
+        "effects": [
+            "Deals 310% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive Devouring Goo status ailment for 4 turns.",
+            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 100 damage per turn and 100 damage per each removed effect. (If target already has this effect, the duration will be refreshed and the extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)",
+            "The caster and nearby allies counterattack with 95% of the damage received for 4 turns. The counterattack increases by +10% each turn, up to +135%."
+        ],
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ],
+        "family": "slime",
+        "costume_id": 0,
+        "originalIndex": 485,
+        "lb1": {
+            "attack": 1500,
+            "defense": 1436,
+            "health": 2541,
+            "power": 1407
+        },
+        "lb2": {
+            "attack": 1717,
+            "defense": 1643,
+            "health": 2908,
+            "power": 1593
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Aether Mimic Nature",
@@ -32819,15 +33789,18 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            "Mimic Loot: This Mimic gives a chance for the following extra loot",
+            "Legendary:",
             "* Alpha Aether",
             "* Nature Aether III",
+            "Epic:",
             "* Nature Aether II",
+            "Rare:",
             "* Nature Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 469,
+        "originalIndex": 486,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -32902,7 +33875,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 470,
+        "originalIndex": 487,
         "lb1": {
             "attack": 865,
             "defense": 927,
@@ -32971,11 +33944,11 @@ window.allHeroes =
             "* Deals 70% damage to all enemies.",
             "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 471,
+        "originalIndex": 488,
         "lb1": {
             "attack": 1258,
             "defense": 1319,
@@ -33040,7 +34013,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 472,
+        "originalIndex": 489,
         "lb1": {
             "attack": 781,
             "defense": 799,
@@ -33114,7 +34087,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 473,
+        "originalIndex": 490,
         "lb1": {
             "attack": 983,
             "defense": 1020,
@@ -33189,7 +34162,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 474,
+        "originalIndex": 491,
         "lb1": {
             "attack": 1223,
             "defense": 1307,
@@ -33234,7 +34207,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Buff Immunity Debuff All",
-            "Damage on attempted buff",
+            "Damage on each attempted buff All",
             "Blind Self"
         ],
         "skill_types": [
@@ -33260,7 +34233,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 475,
+        "originalIndex": 492,
         "lb1": {
             "attack": 939,
             "defense": 892,
@@ -33297,8 +34270,9 @@ window.allHeroes =
         "skill": "Vigorous Villanelle",
         "types": [
             "Hit All",
-            "Buff Immunity Debuff",
-            "Self Blind"
+            "Buff Immunity Debuff All",
+            "Damage on each attempted buff",
+            "Blind Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -33324,10 +34298,12 @@ window.allHeroes =
             "All enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.",
             "The caster gets -10% accuracy for 4 turns. This effect can't be cleansed. (Chance to miss also applies to offensive Special Skills."
         ],
-        "passives": [],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get  Stack (Max: 10): -5% defense."
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 476,
+        "originalIndex": 493,
         "lb1": {
             "attack": 1267,
             "defense": 1204,
@@ -33395,7 +34371,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 477,
+        "originalIndex": 494,
         "lb1": {
             "attack": 836,
             "defense": 894,
@@ -33460,7 +34436,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 478,
+        "originalIndex": 495,
         "lb1": {
             "attack": 1165,
             "defense": 1274,
@@ -33529,30 +34505,30 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "****",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Epic",
             "- Damascus Blade",
             "- Tome Of Tactics",
             "- Mysterious Tonic",
-            "***",
+            "Rare",
             "- Fine Gloves",
             "- Compass",
             "- Sturdy Shield",
             "- Tall Boots",
             "- Scabbard",
-            "**",
+            "Uncommon",
             "- Strong Rope",
             "- Dagger"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 479,
+        "originalIndex": 496,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -33637,7 +34613,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 480,
+        "originalIndex": 497,
         "lb1": {
             "attack": 932,
             "defense": 805,
@@ -33700,16 +34676,16 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_athos_costume_farrier",
         "star": 5,
-        "power": 1259,
-        "attack": 1333,
-        "defense": 1144,
-        "health": 2483,
+        "power": 1285,
+        "attack": 1350,
+        "defense": 1159,
+        "health": 2597,
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
-            "Deals 480% damage to the target.",
+            "Deals 510% damage to the target.",
             "The caster gets 20% mana for each destroyed Minion.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The caster regenerates 700 boosted health over 2 turns. Boosted health can exceed max HP."
+            "The caster regenerates 800 boosted health over 2 turns. Boosted health can exceed max HP."
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
@@ -33717,18 +34693,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 481,
+        "originalIndex": 498,
         "lb1": {
-            "attack": 1436,
-            "defense": 1232,
-            "health": 2676,
-            "power": 1347
+            "attack": 1455,
+            "defense": 1249,
+            "health": 2798,
+            "power": 1375
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1410,
-            "health": 3062,
-            "power": 1523
+            "attack": 1665,
+            "defense": 1429,
+            "health": 3202,
+            "power": 1556
         },
         "cn_skill_info": [
             {
@@ -33781,7 +34757,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 482,
+        "originalIndex": 499,
         "lb1": {
             "attack": 790,
             "defense": 783,
@@ -33849,7 +34825,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 483,
+        "originalIndex": 500,
         "lb1": {
             "attack": 987,
             "defense": 979,
@@ -33879,6 +34855,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Atomos Toon",
+        "fancy_name": "Toon Guardian of Atlantis",
+        "AetherPower": "Rage",
+        "color": "Green",
+        "class": "Barbarian",
+        "speed": "Average",
+        "skill": "Toon Annihilation",
+        "types": [
+            "Hit All",
+            "Self Resurrection"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_annihilation",
+        "parent_specialId": "immortal_annihilator",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_skyllaros_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1390,
+        "defense": 1340,
+        "health": 2540,
+        "effects": [
+            "Deals 320% damage to all enemies.",
+            "The more mana the enemies have, the more damage they will receive, up to 440%.",
+            "If the caster is defeated during the next 5 turns they are resurrected in the beginning of their next turn with 45% health. All status effects and stacks are removed when the caster is defeated. This effect can't be dispelled.",
+            "Deals extra damage against Ice."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 501,
+        "lb1": {
+            "attack": 1498,
+            "defense": 1444,
+            "health": 2737,
+            "power": 1436
+        },
+        "lb2": {
+            "attack": 1714,
+            "defense": 1652,
+            "health": 3132,
+            "power": 1625
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Atwood",
@@ -33917,14 +34946,14 @@ window.allHeroes =
             "Dispels buffs from the target and nearby enemies.",
             "Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.",
             "All allies are immune to damage from status ailments for 4 turns.",
-            "Inflicts 50 Insanity to the caster."
+            "Casting this Special Skill inflicts 50 Insanity on the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 484,
+        "originalIndex": 502,
         "lb1": {
             "attack": 1209,
             "defense": 1196,
@@ -33998,7 +35027,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 485,
+        "originalIndex": 503,
         "lb1": {
             "attack": 854,
             "defense": 912,
@@ -34081,7 +35110,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 486,
+        "originalIndex": 504,
         "lb1": {
             "attack": 821,
             "defense": 814,
@@ -34148,7 +35177,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 487,
+        "originalIndex": 505,
         "lb1": {
             "attack": 1445,
             "defense": 1438,
@@ -34216,7 +35245,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 488,
+        "originalIndex": 506,
         "lb1": {
             "attack": 774,
             "defense": 834,
@@ -34287,7 +35316,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 489,
+        "originalIndex": 507,
         "lb1": {
             "attack": 1123,
             "defense": 1001,
@@ -34350,14 +35379,14 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_bonga",
         "star": 5,
-        "power": 1256,
-        "attack": 1277,
-        "defense": 1316,
-        "health": 2261,
+        "power": 1271,
+        "attack": 1291,
+        "defense": 1330,
+        "health": 2305,
         "effects": [
             "Deals 415% damage to all enemies.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 800 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
-            "Summons a Tokri Minion for each ally with 30% HP and 30% attack inherited from the caster.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
+            "Summons a Tokri Minion for each ally with 32% HP and 32% attack inherited from the caster.",
             "Each time a Tokri Minion hits an enemy, it steals a random dispellable buff from the enemy and gives it to its owner."
         ],
         "passives": [
@@ -34368,18 +35397,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 490,
+        "originalIndex": 508,
         "lb1": {
-            "attack": 1376,
-            "defense": 1418,
-            "health": 2437,
-            "power": 1344
+            "attack": 1391,
+            "defense": 1434,
+            "health": 2484,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1574,
-            "defense": 1623,
-            "health": 2788,
-            "power": 1520
+            "attack": 1592,
+            "defense": 1640,
+            "health": 2842,
+            "power": 1539
         },
         "cn_skill_info": [
             {
@@ -34406,7 +35435,7 @@ window.allHeroes =
         "skill": "Odd Drum Roll",
         "types": [
             "Reposition",
-            "Hit all",
+            "Hit All",
             "Bypass Minions",
             "Bypass defensive buffs"
         ],
@@ -34441,7 +35470,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 491,
+        "originalIndex": 509,
         "lb1": {
             "attack": 1394,
             "defense": 1152,
@@ -34512,7 +35541,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 492,
+        "originalIndex": 510,
         "lb1": {
             "attack": 961,
             "defense": 1034,
@@ -34566,10 +35595,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_borgholf",
         "star": 5,
-        "power": 1281,
-        "attack": 1341,
-        "defense": 1306,
-        "health": 2294,
+        "power": 1291,
+        "attack": 1351,
+        "defense": 1316,
+        "health": 2325,
         "effects": [
             "Deals 275% damage to 3 random enemies.",
             "Hit enemies become afflicted with Spike Trap.",
@@ -34585,18 +35614,18 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 493,
+        "originalIndex": 511,
         "lb1": {
-            "attack": 1445,
-            "defense": 1407,
-            "health": 2473,
-            "power": 1370
+            "attack": 1456,
+            "defense": 1418,
+            "health": 2506,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1653,
-            "defense": 1610,
-            "health": 2829,
-            "power": 1550
+            "attack": 1666,
+            "defense": 1623,
+            "health": 2867,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -34627,7 +35656,8 @@ window.allHeroes =
         "skill": "Sylvan Blessings",
         "types": [
             "Heal All",
-            "Safely Cleanses"
+            "Delayed Mana Boost All",
+            "Safely Cleanser All"
         ],
         "skill_types": [
             "Healers",
@@ -34656,12 +35686,13 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
+            "Resist Defense Reduction: This character is immune to status ailments, stacks and Wither effects that affect defense.",
+            "resist insa",
             "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 494,
+        "originalIndex": 512,
         "lb1": {
             "attack": 1205,
             "defense": 1274,
@@ -34703,7 +35734,8 @@ window.allHeroes =
         "types": [
             "Healer 3",
             "Uproots Cleanse 3",
-            "Growth All"
+            "Attack Growth All",
+            "Defense Growth All"
         ],
         "skill_types": [
             "Fiends Summoners",
@@ -34720,13 +35752,14 @@ window.allHeroes =
         ],
         "heroId": "vegetable_broseph",
         "star": 5,
-        "power": 1278,
-        "attack": 1320,
-        "defense": 1322,
-        "health": 2294,
+        "power": 1283,
+        "attack": 1324,
+        "defense": 1328,
+        "health": 2307,
         "effects": [
             "Recovers 50% health for the caster and nearby allies.",
-            "Uproots debuffs from the caster and nearby allies. (Uproot safely removes 2 status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate. Wither effects are removed first. Other effects, the latest is removed first.)",
+            "Uproots debuffs from the caster and nearby allies. (Uproot safely removes 2 status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.",
+            "Wither effects are removed first. Other effects, the latest is removed first.)",
             "Growth: All allies get 125 attack and 125 defense."
         ],
         "passives": [
@@ -34741,18 +35774,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 495,
+        "originalIndex": 513,
         "lb1": {
-            "attack": 1423,
-            "defense": 1425,
-            "health": 2473,
-            "power": 1368
+            "attack": 1427,
+            "defense": 1431,
+            "health": 2486,
+            "power": 1373
         },
         "lb2": {
-            "attack": 1628,
-            "defense": 1630,
-            "health": 2829,
-            "power": 1547
+            "attack": 1633,
+            "defense": 1638,
+            "health": 2844,
+            "power": 1553
         },
         "cn_skill_info": [
             {
@@ -34783,7 +35816,7 @@ window.allHeroes =
         "skill": "Building Blocks",
         "types": [
             "Hit 3",
-            "Attack Buff 3",
+            "Attack Growth 3",
             "Elemental Reflect 3",
             "Elemental Counterattack 3",
             "Self Slime Revive"
@@ -34804,15 +35837,15 @@ window.allHeroes =
         ],
         "heroId": "slime_bulklug",
         "star": 5,
-        "power": 1257,
-        "attack": 1293,
-        "defense": 1297,
-        "health": 2261,
+        "power": 1272,
+        "attack": 1308,
+        "defense": 1312,
+        "health": 2305,
         "effects": [
             "Deals 450% damage to target and nearby enemies.",
-            "The caster and nearby allies get 200 attack.",
+            "Growth: The caster and nearby allies get 200 attack.",
             "The caster and the nearby allies reflects all status ailments and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for 4 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
+            "The caster receive Slime Revive for 4 turns. This effect can't be dispelled.",
             "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
         ],
         "passives": [
@@ -34821,18 +35854,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 496,
+        "originalIndex": 514,
         "lb1": {
-            "attack": 1394,
-            "defense": 1398,
-            "health": 2437,
-            "power": 1345
+            "attack": 1409,
+            "defense": 1414,
+            "health": 2484,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1595,
-            "defense": 1600,
-            "health": 2788,
-            "power": 1521
+            "attack": 1612,
+            "defense": 1617,
+            "health": 2842,
+            "power": 1539
         },
         "cn_skill_info": [
             {
@@ -34900,7 +35933,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 497,
+        "originalIndex": 515,
         "lb1": {
             "attack": 1296,
             "defense": 1229,
@@ -34969,12 +36002,12 @@ window.allHeroes =
             "Element Link gives all Nature allies +20% critical chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Healing Ailments: This character has innate resistance against ailments that affect healing.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing.",
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100."
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 498,
+        "originalIndex": 516,
         "lb1": {
             "attack": 985,
             "defense": 1274,
@@ -35045,7 +36078,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 499,
+        "originalIndex": 517,
         "lb1": {
             "attack": 952,
             "defense": 785,
@@ -35072,6 +36105,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Coleston",
+        "fancy_name": "Unstoppable Halfling",
+        "AetherPower": "Attack Up",
+        "color": "Green",
+        "class": "Fighter",
+        "speed": "Fast",
+        "skill": "Farmhand's Fury",
+        "types": [
+            "Hit 1",
+            "Bypass",
+            "Defense Wither 1"
+        ],
+        "skill_types": [],
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-05-01",
+        "specialId": "farmhands_fury",
+        "passiveSkills": [
+            "resist_burn",
+            "dodge_enemy_damage_special"
+        ],
+        "heroId": "nature_god_coleston",
+        "star": 5,
+        "power": 1223,
+        "attack": 1330,
+        "defense": 1279,
+        "health": 1965,
+        "effects": [
+            "Deals 600% damage to the target.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "Wither: The target gets -330 defense.",
+            "Elemental Link recovers +4% health for all Nature allies for 6 turns. This effect can’t be dispelled."
+        ],
+        "passives": [
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
+        ],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 518,
+        "lb1": {
+            "attack": 1434,
+            "defense": 1378,
+            "health": 2117,
+            "power": 1309
+        },
+        "lb2": {
+            "attack": 1640,
+            "defense": 1577,
+            "health": 2423,
+            "power": 1479
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Congalach",
@@ -35111,7 +36198,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 500,
+        "originalIndex": 519,
         "lb1": {
             "attack": 852,
             "defense": 843,
@@ -35147,7 +36234,7 @@ window.allHeroes =
         "skill": "Seaweed Flail",
         "types": [
             "Hit 5 random",
-            "Attack Debuff stack"
+            "Attack Debuff stack on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -35180,7 +36267,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 501,
+        "originalIndex": 520,
         "lb1": {
             "attack": 1105,
             "defense": 1082,
@@ -35251,7 +36338,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 502,
+        "originalIndex": 521,
         "lb1": {
             "attack": 1107,
             "defense": 1163,
@@ -35293,7 +36380,7 @@ window.allHeroes =
         "types": [
             "Charge",
             "Hit 1",
-            "Hit all"
+            "Hit All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -35327,7 +36414,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 503,
+        "originalIndex": 522,
         "lb1": {
             "attack": 852,
             "defense": 819,
@@ -35365,7 +36452,7 @@ window.allHeroes =
         "types": [
             "Charge",
             "Hit 1",
-            "Hit all"
+            "Hit All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -35386,10 +36473,10 @@ window.allHeroes =
         ],
         "heroId": "magic_cristobal_costume_emerald",
         "star": 5,
-        "power": 1249,
-        "attack": 1302,
-        "defense": 1225,
-        "health": 2327,
+        "power": 1263,
+        "attack": 1318,
+        "defense": 1240,
+        "health": 2356,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -35405,18 +36492,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 504,
+        "originalIndex": 523,
         "lb1": {
-            "attack": 1404,
-            "defense": 1320,
-            "health": 2508,
-            "power": 1337
+            "attack": 1421,
+            "defense": 1336,
+            "health": 2539,
+            "power": 1351
         },
         "lb2": {
-            "attack": 1606,
-            "defense": 1511,
-            "health": 2870,
-            "power": 1511
+            "attack": 1626,
+            "defense": 1529,
+            "health": 2905,
+            "power": 1528
         },
         "cn_skill_info": [
             {
@@ -35462,10 +36549,10 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_crustee",
         "star": 5,
-        "power": 1272,
-        "attack": 1318,
-        "defense": 1320,
-        "health": 2263,
+        "power": 1287,
+        "attack": 1332,
+        "defense": 1334,
+        "health": 2307,
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 350% damage to all enemies.",
@@ -35485,18 +36572,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 505,
+        "originalIndex": 524,
         "lb1": {
-            "attack": 1420,
-            "defense": 1423,
-            "health": 2439,
-            "power": 1361
+            "attack": 1436,
+            "defense": 1438,
+            "health": 2486,
+            "power": 1378
         },
         "lb2": {
-            "attack": 1625,
-            "defense": 1628,
-            "health": 2791,
-            "power": 1540
+            "attack": 1643,
+            "defense": 1645,
+            "health": 2844,
+            "power": 1558
         },
         "cn_skill_info": [
             {
@@ -35553,20 +36640,20 @@ window.allHeroes =
         "defense": 1155,
         "health": 2125,
         "effects": [
-            "Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
+            "Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
             "Damage bypasses target's Minions.",
             "All enemies receive 388 Poison damage over 4 turns.",
-            "All enemies take +50% increased damage from Burn and Poison status ailments for 4 turns."
+            "All enemies take +50% increased damage from Burn and Poison status ailments and negative stacks for 4 turns."
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 506,
+        "originalIndex": 525,
         "lb1": {
             "attack": 1318,
             "defense": 1245,
@@ -35601,6 +36688,65 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Dagr C1",
+        "fancy_name": "Dwarven Plague Shaman",
+        "AetherPower": "Fiend Resist",
+        "color": "Green",
+        "class": "Monk",
+        "speed": "Average",
+        "skill": "Curing Venom",
+        "types": [
+            "Firestorm Strike All",
+            "Bypass Minions",
+            "DoT All",
+            "Burn and Poison Increased Damage Debuff All"
+        ],
+        "skill_types": [],
+        "source": "S7 - Treasures of Flame and Frost",
+        "Release date": "2026-05-01",
+        "specialId": "curing_venom",
+        "parent_specialId": "blazing_venom",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "tales2_dagr_costume_plague_shaman",
+        "star": 5,
+        "power": 1322,
+        "attack": 1409,
+        "defense": 1305,
+        "health": 2418,
+        "effects": [
+            "Attacks all enemies with Firestorm Strike, dealing up to 1650 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
+            "Damage bypasses target's Minions.",
+            "All enemies receive 464 Poison damage over 4 turns. The caster absorbs 10% of dealt Poison damage as health.",
+            "All enemies take +52% increased damage from Burn and Poison status ailments and negative stacks for 4 turns."
+        ],
+        "passives": [
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 415 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ],
+        "family": "nidavellir",
+        "costume_id": 1,
+        "originalIndex": 526,
+        "lb1": {
+            "attack": 1518,
+            "defense": 1407,
+            "health": 2606,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1737,
+            "defense": 1609,
+            "health": 2982,
+            "power": 1600
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Dancrag",
         "fancy_name": "Ancient Colossus Construct",
         "AetherPower": "Damage Reduction",
@@ -35627,10 +36773,10 @@ window.allHeroes =
         ],
         "heroId": "construct_dancrag",
         "star": 5,
-        "power": 1291,
-        "attack": 1318,
-        "defense": 1374,
-        "health": 2292,
+        "power": 1311,
+        "attack": 1336,
+        "defense": 1392,
+        "health": 2348,
         "effects": [
             "Recovers 45% health for all allies.",
             "Each defeated ally has a 25% chance to be revived with 40% HP.",
@@ -35649,18 +36795,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 507,
+        "originalIndex": 527,
         "lb1": {
-            "attack": 1420,
-            "defense": 1480,
-            "health": 2470,
-            "power": 1382
+            "attack": 1440,
+            "defense": 1500,
+            "health": 2530,
+            "power": 1403
         },
         "lb2": {
-            "attack": 1625,
-            "defense": 1694,
-            "health": 2827,
-            "power": 1563
+            "attack": 1648,
+            "defense": 1717,
+            "health": 2895,
+            "power": 1587
         },
         "cn_skill_info": [
             {
@@ -35719,7 +36865,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 508,
+        "originalIndex": 528,
         "lb1": {
             "attack": 1147,
             "defense": 1145,
@@ -35761,8 +36907,8 @@ window.allHeroes =
         "skill": "Jade Blades",
         "types": [
             "Hit 2",
-            "Health boost for 3",
-            "Silencer 2"
+            "Boost Health on damage dealt 3",
+            "Silence 2"
         ],
         "skill_types": [
             "Health Boosters",
@@ -35796,7 +36942,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 509,
+        "originalIndex": 529,
         "lb1": {
             "attack": 1085,
             "defense": 1050,
@@ -35863,7 +37009,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 510,
+        "originalIndex": 530,
         "lb1": {
             "attack": 1234,
             "defense": 1276,
@@ -35928,7 +37074,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 511,
+        "originalIndex": 531,
         "lb1": {
             "attack": 1365,
             "defense": 1227,
@@ -35994,7 +37140,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 512,
+        "originalIndex": 532,
         "lb1": {
             "attack": 994,
             "defense": 959,
@@ -36070,7 +37216,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 513,
+        "originalIndex": 533,
         "lb1": {
             "attack": 1393,
             "defense": 1302,
@@ -36139,7 +37285,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 514,
+        "originalIndex": 534,
         "lb1": {
             "attack": 848,
             "defense": 810,
@@ -36212,7 +37358,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 515,
+        "originalIndex": 535,
         "lb1": {
             "attack": 1271,
             "defense": 1371,
@@ -36289,7 +37435,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 516,
+        "originalIndex": 536,
         "lb1": {
             "attack": 916,
             "defense": 865,
@@ -36330,7 +37476,8 @@ window.allHeroes =
         "skill": "Luring Song",
         "types": [
             "Hit 3",
-            "Buff Immunity"
+            "Buff Immunity 3",
+            "Damage on each attempted buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -36359,7 +37506,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 517,
+        "originalIndex": 537,
         "lb1": {
             "attack": 919,
             "defense": 859,
@@ -36395,7 +37542,8 @@ window.allHeroes =
         "skill": "Soothing Song",
         "types": [
             "Hit 3",
-            "Buff Immunity"
+            "Buff Immunity 3",
+            "Damage on each attempted buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -36432,7 +37580,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 518,
+        "originalIndex": 538,
         "lb1": {
             "attack": 1361,
             "defense": 1223,
@@ -36491,7 +37639,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 519,
+        "originalIndex": 539,
         "lb1": {
             "attack": 728,
             "defense": 845,
@@ -36553,7 +37701,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 520,
+        "originalIndex": 540,
         "lb1": {
             "attack": 797,
             "defense": 1000,
@@ -36614,7 +37762,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 521,
+        "originalIndex": 541,
         "lb1": {
             "attack": 973,
             "defense": 1053,
@@ -36681,7 +37829,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 522,
+        "originalIndex": 542,
         "lb1": {
             "attack": 1262,
             "defense": 1166,
@@ -36750,7 +37898,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 523,
+        "originalIndex": 543,
         "lb1": {
             "attack": 1429,
             "defense": 1313,
@@ -36804,10 +37952,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_stylish",
         "star": 5,
-        "power": 1301,
-        "attack": 1406,
-        "defense": 1284,
-        "health": 2324,
+        "power": 1342,
+        "attack": 1444,
+        "defense": 1319,
+        "health": 2450,
         "effects": [
             "Deals 430% damage to the target and minor damage to nearby enemies.",
             "Deals extra damage to enemies with less than 50% health remaining.",
@@ -36818,18 +37966,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 524,
+        "originalIndex": 544,
         "lb1": {
-            "attack": 1515,
-            "defense": 1384,
-            "health": 2505,
-            "power": 1393
+            "attack": 1556,
+            "defense": 1421,
+            "health": 2640,
+            "power": 1437
         },
         "lb2": {
-            "attack": 1733,
-            "defense": 1583,
-            "health": 2866,
-            "power": 1576
+            "attack": 1780,
+            "defense": 1626,
+            "health": 3021,
+            "power": 1626
         },
         "cn_skill_info": [
             {
@@ -36877,15 +38025,15 @@ window.allHeroes =
         ],
         "heroId": "institute_ellery",
         "star": 5,
-        "power": 1259,
-        "attack": 1310,
-        "defense": 1283,
-        "health": 2259,
+        "power": 1284,
+        "attack": 1334,
+        "defense": 1308,
+        "health": 2333,
         "effects": [
-            "Growth: The caster and nearby allies get 400 attack and 400 defense.",
-            "Summon an Aberration Mega Minion with 40% HP and 170% attack inherited from the caster.",
+            "Growth: The caster and nearby allies get 450 attack and 450 defense.",
+            "Summon an Aberration Mega Minion with 45% HP and 180% attack inherited from the caster.",
             "Each hit from an Aberration Mega Minion gives the target the following status ailment:",
-            "* The target receives 489 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
+            "* The target receives 552 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
             "* Inflicts 10 Insanity on the target.",
             "Casting this Special Skill inflicts 45 Insanity to the caster."
         ],
@@ -36902,18 +38050,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 525,
+        "originalIndex": 545,
         "lb1": {
-            "attack": 1411,
-            "defense": 1383,
-            "health": 2435,
-            "power": 1346
+            "attack": 1438,
+            "defense": 1409,
+            "health": 2515,
+            "power": 1374
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1582,
-            "health": 2786,
-            "power": 1523
+            "attack": 1645,
+            "defense": 1612,
+            "health": 2877,
+            "power": 1554
         },
         "cn_skill_info": [
             {
@@ -36982,7 +38130,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 526,
+        "originalIndex": 546,
         "lb1": {
             "attack": 825,
             "defense": 803,
@@ -37061,7 +38209,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 527,
+        "originalIndex": 547,
         "lb1": {
             "attack": 1254,
             "defense": 1398,
@@ -37125,21 +38273,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Master Paladin Emblems",
-            "* Master Druid Emblems",
-            "* Paladin Emblems",
-            "* Druid Emblems"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Legendary",
+            "* Master Paladin Emblem",
+            "* Master Druid Emblem",
+            "Epic",
+            "* Paladin Emblem",
+            "* Druid Emblem"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 528,
+        "originalIndex": 548,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -37222,7 +38372,7 @@ window.allHeroes =
         ],
         "family": "mystery",
         "costume_id": 0,
-        "originalIndex": 529,
+        "originalIndex": 549,
         "lb1": {
             "attack": 888,
             "defense": 883,
@@ -37289,7 +38439,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 530,
+        "originalIndex": 550,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -37365,7 +38515,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 531,
+        "originalIndex": 551,
         "lb1": {
             "attack": 1025,
             "defense": 965,
@@ -37434,21 +38584,24 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Common Nature Trainer Heroes",
-            "* Uncommon Nature Trainer Heroes",
-            "* Rare Nature Trainer Heroes",
-            "* Common Nature Heroes",
-            "* Uncommon Nature Heroes"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Rare",
+            "* Trainer Hero",
+            "Uncommon",
+            "* Trainer Hero",
+            "* Uncommon Nature Heroes",
+            "Common",
+            "* Trainer Hero",
+            "* Common Nature Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 532,
+        "originalIndex": 552,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -37525,12 +38678,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 533,
+        "originalIndex": 553,
         "lb1": {
             "attack": 1347,
             "defense": 1265,
@@ -37607,7 +38760,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 534,
+        "originalIndex": 554,
         "lb1": {
             "attack": 954,
             "defense": 983,
@@ -37687,7 +38840,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 535,
+        "originalIndex": 555,
         "lb1": {
             "attack": 987,
             "defense": 979,
@@ -37755,11 +38908,11 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage."
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 536,
+        "originalIndex": 556,
         "lb1": {
             "attack": 1260,
             "defense": 1223,
@@ -37828,7 +38981,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 537,
+        "originalIndex": 557,
         "lb1": {
             "attack": 1354,
             "defense": 1329,
@@ -37895,7 +39048,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 538,
+        "originalIndex": 558,
         "lb1": {
             "attack": 841,
             "defense": 801,
@@ -37968,7 +39121,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 539,
+        "originalIndex": 559,
         "lb1": {
             "attack": 1272,
             "defense": 1212,
@@ -38043,7 +39196,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 540,
+        "originalIndex": 560,
         "lb1": {
             "attack": 1303,
             "defense": 1420,
@@ -38110,7 +39263,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 541,
+        "originalIndex": 561,
         "lb1": {
             "attack": 812,
             "defense": 819,
@@ -38178,7 +39331,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 542,
+        "originalIndex": 562,
         "lb1": {
             "attack": 1045,
             "defense": 1042,
@@ -38248,7 +39401,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 543,
+        "originalIndex": 563,
         "lb1": {
             "attack": 990,
             "defense": 1023,
@@ -38326,7 +39479,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 544,
+        "originalIndex": 564,
         "lb1": {
             "attack": 1061,
             "defense": 1034,
@@ -38398,7 +39551,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 545,
+        "originalIndex": 565,
         "lb1": {
             "attack": 1165,
             "defense": 1303,
@@ -38438,7 +39591,7 @@ window.allHeroes =
             "Minion Destroyer All",
             "Hit All",
             "Defense Buff All",
-            "Heal Stack on minion destroyed"
+            "Heal Stack Self on minion destroyed"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -38462,11 +39615,11 @@ window.allHeroes =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* Destroys all Minions from all enemies.",
+            "* Destroys all Minions from all enemies and damages Mega Minions.",
             "* Deals 280% damage to all enemies.",
             "* All allies get +30% defense for 3 turns.",
             "2nd:",
-            "* Destroys all Minions from all enemies.",
+            "* Destroys all Minions from all enemies and damages Mega Minions.",
             "* Deals 370% damage to all enemies.",
             "* Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.",
             "* All allies get +50% defense for 3 turns."
@@ -38478,7 +39631,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 546,
+        "originalIndex": 566,
         "lb1": {
             "attack": 865,
             "defense": 1032,
@@ -38519,9 +39672,10 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Testudo Rock",
         "types": [
-            "Destroy Minions",
-            "Hit all",
-            "Defense Buffer"
+            "Destroy Minions All",
+            "Hit All",
+            "Defense Buff All",
+            "Heal Stack Self on minion destroyed"
         ],
         "skill_types": [
             "Minions Counters",
@@ -38566,7 +39720,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 547,
+        "originalIndex": 567,
         "lb1": {
             "attack": 1142,
             "defense": 1307,
@@ -38635,7 +39789,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 548,
+        "originalIndex": 568,
         "lb1": {
             "attack": 852,
             "defense": 834,
@@ -38671,7 +39825,7 @@ window.allHeroes =
         "skill": "Kite of Endurance",
         "types": [
             "Hit 1",
-            "Self HoT"
+            "HoT Self"
         ],
         "skill_types": [
             "Heal over Time (HoT)",
@@ -38705,7 +39859,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 549,
+        "originalIndex": 569,
         "lb1": {
             "attack": 1082,
             "defense": 1096,
@@ -38740,10 +39894,11 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Bone Club Party",
         "types": [
-            "Health Boost All",
-            "Health Reduction All",
+            "Boost  Health All",
+            "Max Health Reduction All",
             "Softskin 4",
-            "Healing Debuff Imunity All"
+            "Healing Debuff Immunity All",
+            "Cleanse Healing Debuffs All"
         ],
         "skill_types": [
             "Cleansers",
@@ -38775,7 +39930,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 550,
+        "originalIndex": 570,
         "lb1": {
             "attack": 1129,
             "defense": 1167,
@@ -38853,7 +40008,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 551,
+        "originalIndex": 571,
         "lb1": {
             "attack": 1101,
             "defense": 943,
@@ -38946,7 +40101,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 552,
+        "originalIndex": 572,
         "lb1": {
             "attack": 1435,
             "defense": 1182,
@@ -39018,7 +40173,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 553,
+        "originalIndex": 573,
         "lb1": {
             "attack": 1032,
             "defense": 1007,
@@ -39094,7 +40249,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 554,
+        "originalIndex": 574,
         "lb1": {
             "attack": 1420,
             "defense": 1377,
@@ -39171,7 +40326,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 555,
+        "originalIndex": 575,
         "lb1": {
             "attack": 1307,
             "defense": 1374,
@@ -39251,7 +40406,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 556,
+        "originalIndex": 576,
         "lb1": {
             "attack": 1365,
             "defense": 1340,
@@ -39327,7 +40482,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 557,
+        "originalIndex": 577,
         "lb1": {
             "attack": 819,
             "defense": 830,
@@ -39364,7 +40519,7 @@ window.allHeroes =
         "skill": "Omen of Retribution",
         "types": [
             "Defense debuff",
-            "Hit all",
+            "Hit All",
             "Self Resurrection",
             "Damage All on resurrection"
         ],
@@ -39391,7 +40546,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 558,
+        "originalIndex": 578,
         "lb1": {
             "attack": 954,
             "defense": 883,
@@ -39462,7 +40617,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 559,
+        "originalIndex": 579,
         "lb1": {
             "attack": 785,
             "defense": 765,
@@ -39530,7 +40685,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 560,
+        "originalIndex": 580,
         "lb1": {
             "attack": 1034,
             "defense": 953,
@@ -39603,7 +40758,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 561,
+        "originalIndex": 581,
         "lb1": {
             "attack": 1307,
             "defense": 1287,
@@ -39679,7 +40834,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 562,
+        "originalIndex": 582,
         "lb1": {
             "attack": 1320,
             "defense": 1354,
@@ -39746,7 +40901,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 563,
+        "originalIndex": 583,
         "lb1": {
             "attack": 890,
             "defense": 834,
@@ -39822,7 +40977,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 564,
+        "originalIndex": 584,
         "lb1": {
             "attack": 1234,
             "defense": 1171,
@@ -39892,7 +41047,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 565,
+        "originalIndex": 585,
         "lb1": {
             "attack": 770,
             "defense": 841,
@@ -39961,7 +41116,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 566,
+        "originalIndex": 586,
         "lb1": {
             "attack": 883,
             "defense": 952,
@@ -39996,11 +41151,12 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Bag of Necessities",
         "types": [
-            "Attack Buff",
-            "Defense Buff",
-            "Mana Generation Buff",
-            "HoT",
-            "Counterattack"
+            "Attack Buff All",
+            "Defense Buff All",
+            "Mana Generation Buff All",
+            "HoT All",
+            "Counter",
+            "Counterattack All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -40044,7 +41200,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 567,
+        "originalIndex": 587,
         "lb1": {
             "attack": 819,
             "defense": 1054,
@@ -40114,7 +41270,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 568,
+        "originalIndex": 588,
         "lb1": {
             "attack": 705,
             "defense": 910,
@@ -40180,7 +41336,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 569,
+        "originalIndex": 589,
         "lb1": {
             "attack": 897,
             "defense": 1184,
@@ -40240,7 +41396,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 570,
+        "originalIndex": 590,
         "lb1": {
             "attack": 708,
             "defense": 701,
@@ -40301,7 +41457,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 571,
+        "originalIndex": 591,
         "lb1": {
             "attack": 802,
             "defense": 805,
@@ -40368,7 +41524,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 572,
+        "originalIndex": 592,
         "lb1": {
             "attack": 907,
             "defense": 953,
@@ -40438,7 +41594,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 573,
+        "originalIndex": 593,
         "lb1": {
             "attack": 1015,
             "defense": 1176,
@@ -40511,7 +41667,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 574,
+        "originalIndex": 594,
         "lb1": {
             "attack": 1169,
             "defense": 1313,
@@ -40584,7 +41740,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 575,
+        "originalIndex": 595,
         "lb1": {
             "attack": 1398,
             "defense": 1369,
@@ -40657,7 +41813,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 576,
+        "originalIndex": 596,
         "lb1": {
             "attack": 1132,
             "defense": 1196,
@@ -40734,7 +41890,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 577,
+        "originalIndex": 597,
         "lb1": {
             "attack": 1294,
             "defense": 1418,
@@ -40807,7 +41963,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 578,
+        "originalIndex": 598,
         "lb1": {
             "attack": 874,
             "defense": 852,
@@ -40890,7 +42046,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 579,
+        "originalIndex": 599,
         "lb1": {
             "attack": 1276,
             "defense": 1276,
@@ -40964,7 +42120,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 580,
+        "originalIndex": 600,
         "lb1": {
             "attack": 745,
             "defense": 883,
@@ -41028,7 +42184,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 581,
+        "originalIndex": 601,
         "lb1": {
             "attack": 750,
             "defense": 825,
@@ -41091,7 +42247,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 582,
+        "originalIndex": 602,
         "lb1": {
             "attack": 810,
             "defense": 963,
@@ -41159,7 +42315,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 583,
+        "originalIndex": 603,
         "lb1": {
             "attack": 904,
             "defense": 1116,
@@ -41231,7 +42387,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 584,
+        "originalIndex": 604,
         "lb1": {
             "attack": 1266,
             "defense": 1159,
@@ -41304,7 +42460,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 585,
+        "originalIndex": 605,
         "lb1": {
             "attack": 1445,
             "defense": 1297,
@@ -41334,6 +42490,74 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Kageyama Nagato",
+        "fancy_name": "Thief-Shuriken Ronin",
+        "AetherPower": "Attack Up",
+        "color": "Green",
+        "class": "Rogue",
+        "speed": "Charge",
+        "skill": "Shuriken Storm",
+        "types": [
+            "Charge",
+            "Buff/Buffs Steal each turn 1",
+            "Hit Random 1 each turn Buff Self/3/All"
+        ],
+        "skill_types": [],
+        "source": "Tower - Ninjas",
+        "Release date": "2026-04-06",
+        "specialId": "shuriken_storm",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "heroId": "ronin_kageyama_nagato",
+        "star": 5,
+        "power": 1320,
+        "attack": 1392,
+        "defense": 1336,
+        "health": 2385,
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Deals 500% damage to the target.",
+            "Steals a random dispellable buff from the target to the caster.",
+            "At the end of each turn, the caster throws a Piercing Shuriken to a random enemy for 2 turns.",
+            "Each Piercing Shuriken deals 330% damage.",
+            "x2 Mana Charge:",
+            "Deals 600% damage to the target.",
+            "Steals 2 random dispellable buffs from the target to the caster.",
+            "At the end of each turn, the caster and nearby allies throw a Piercing Shuriken to a random enemy for 3 turns.",
+            "Each Piercing Shuriken deals 330% damage.",
+            "x3 Mana Charge:",
+            "Deals 700% damage to the target.",
+            "Steals all dispellable buffs from the target to the caster.",
+            "At the end of each turn, all allies throw a Piercing Shuriken to a random enemy for 5 turns.",
+            "Each Piercing Shuriken deals 330% damage."
+        ],
+        "passives": [
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": 606,
+        "lb1": {
+            "attack": 1500,
+            "defense": 1440,
+            "health": 2570,
+            "power": 1413
+        },
+        "lb2": {
+            "attack": 1717,
+            "defense": 1648,
+            "health": 2941,
+            "power": 1599
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Kai",
@@ -41382,7 +42606,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 586,
+        "originalIndex": 607,
         "lb1": {
             "attack": 959,
             "defense": 896,
@@ -41472,7 +42696,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 587,
+        "originalIndex": 608,
         "lb1": {
             "attack": 1414,
             "defense": 1287,
@@ -41544,7 +42768,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 588,
+        "originalIndex": 609,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -41617,7 +42841,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 589,
+        "originalIndex": 610,
         "lb1": {
             "attack": 1216,
             "defense": 1203,
@@ -41687,7 +42911,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 590,
+        "originalIndex": 611,
         "lb1": {
             "attack": 868,
             "defense": 717,
@@ -41756,7 +42980,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 591,
+        "originalIndex": 612,
         "lb1": {
             "attack": 1102,
             "defense": 896,
@@ -41819,7 +43043,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 592,
+        "originalIndex": 613,
         "lb1": {
             "attack": 814,
             "defense": 799,
@@ -41885,7 +43109,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 593,
+        "originalIndex": 614,
         "lb1": {
             "attack": 1020,
             "defense": 1010,
@@ -41947,18 +43171,18 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_laurent",
         "star": 5,
-        "power": 1274,
-        "attack": 1312,
-        "defense": 1324,
-        "health": 2282,
+        "power": 1294,
+        "attack": 1332,
+        "defense": 1343,
+        "health": 2338,
         "effects": [
-            "If the caster has 50 or more Humility:",
+            "If the caster has 60 or more Humility:",
             "Deals 600% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This effect can't be dispelled.",
             "Otherwise:",
-            "Deals 460% damage to the target and minor damage to nearby enemies.",
+            "Deals 490% damage to the target and minor damage to nearby enemies.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 4 hits. This effect can't be dispelled."
         ],
@@ -41969,18 +43193,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 594,
+        "originalIndex": 615,
         "lb1": {
-            "attack": 1414,
-            "defense": 1427,
-            "health": 2459,
-            "power": 1363
+            "attack": 1436,
+            "defense": 1447,
+            "health": 2519,
+            "power": 1385
         },
         "lb2": {
-            "attack": 1617,
-            "defense": 1633,
-            "health": 2814,
-            "power": 1542
+            "attack": 1643,
+            "defense": 1656,
+            "health": 2882,
+            "power": 1567
         },
         "cn_skill_info": [
             {
@@ -42044,7 +43268,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 595,
+        "originalIndex": 616,
         "lb1": {
             "attack": 896,
             "defense": 987,
@@ -42113,7 +43337,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 596,
+        "originalIndex": 617,
         "lb1": {
             "attack": 1072,
             "defense": 1101,
@@ -42188,7 +43412,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 597,
+        "originalIndex": 618,
         "lb1": {
             "attack": 1456,
             "defense": 1232,
@@ -42245,7 +43469,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 598,
+        "originalIndex": 619,
         "lb1": {
             "attack": 785,
             "defense": 774,
@@ -42301,7 +43525,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 599,
+        "originalIndex": 620,
         "lb1": {
             "attack": 898,
             "defense": 865,
@@ -42362,7 +43586,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 600,
+        "originalIndex": 621,
         "lb1": {
             "attack": 1048,
             "defense": 973,
@@ -42426,7 +43650,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 601,
+        "originalIndex": 622,
         "lb1": {
             "attack": 1228,
             "defense": 1197,
@@ -42491,7 +43715,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 602,
+        "originalIndex": 623,
         "lb1": {
             "attack": 1425,
             "defense": 1320,
@@ -42542,10 +43766,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_stylish",
         "star": 5,
-        "power": 1297,
-        "attack": 1410,
-        "defense": 1288,
-        "health": 2271,
+        "power": 1337,
+        "attack": 1448,
+        "defense": 1322,
+        "health": 2394,
         "effects": [
             "Deals 612% damage to the target.",
             "If the target has less than 50% health remaining, deals 712% damage instead."
@@ -42555,18 +43779,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 603,
+        "originalIndex": 624,
         "lb1": {
-            "attack": 1519,
-            "defense": 1388,
-            "health": 2447,
-            "power": 1387
+            "attack": 1560,
+            "defense": 1425,
+            "health": 2580,
+            "power": 1431
         },
         "lb2": {
-            "attack": 1738,
-            "defense": 1588,
-            "health": 2800,
-            "power": 1569
+            "attack": 1785,
+            "defense": 1631,
+            "health": 2951,
+            "power": 1619
         },
         "cn_skill_info": [
             {
@@ -42626,7 +43850,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 604,
+        "originalIndex": 625,
         "lb1": {
             "attack": 1327,
             "defense": 1334,
@@ -42695,10 +43919,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_lin_chong",
         "star": 5,
-        "power": 1262,
-        "attack": 1328,
-        "defense": 1273,
-        "health": 2259,
+        "power": 1277,
+        "attack": 1343,
+        "defense": 1287,
+        "health": 2303,
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 390% damage to the target and minor damage to nearby enemies.",
@@ -42715,18 +43939,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 605,
+        "originalIndex": 626,
         "lb1": {
-            "attack": 1431,
-            "defense": 1371,
-            "health": 2435,
-            "power": 1350
+            "attack": 1447,
+            "defense": 1387,
+            "health": 2481,
+            "power": 1367
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1569,
-            "health": 2786,
-            "power": 1527
+            "attack": 1656,
+            "defense": 1587,
+            "health": 2839,
+            "power": 1546
         },
         "cn_skill_info": [
             {
@@ -42794,7 +44018,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 606,
+        "originalIndex": 627,
         "lb1": {
             "attack": 1307,
             "defense": 1245,
@@ -42858,7 +44082,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 607,
+        "originalIndex": 628,
         "lb1": {
             "attack": 879,
             "defense": 861,
@@ -42934,7 +44158,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 608,
+        "originalIndex": 629,
         "lb1": {
             "attack": 1222,
             "defense": 1147,
@@ -42974,7 +44198,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Transcendental Frame",
         "types": [
-            "Self Full Removal",
+            "Full Cleanser Self",
             "Ghost",
             "Defense Buff 4 while Ghost",
             "Boosted HoT 4 while Ghost"
@@ -43012,7 +44236,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 609,
+        "originalIndex": 630,
         "lb1": {
             "attack": 777,
             "defense": 896,
@@ -43048,7 +44272,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Transcendental Charge",
         "types": [
-            "Self Full Removal",
+            "Full Cleanser Self",
             "Ghost",
             "Defense Buff 4 while Ghost",
             "Boosted HoT 4 while Ghost"
@@ -43089,7 +44313,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 610,
+        "originalIndex": 631,
         "lb1": {
             "attack": 1001,
             "defense": 1186,
@@ -43158,7 +44382,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 611,
+        "originalIndex": 632,
         "lb1": {
             "attack": 896,
             "defense": 901,
@@ -43234,7 +44458,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 612,
+        "originalIndex": 633,
         "lb1": {
             "attack": 1290,
             "defense": 1316,
@@ -43300,12 +44524,12 @@ window.allHeroes =
         ],
         "passives": [
             "Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
-            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 613,
+        "originalIndex": 634,
         "lb1": {
             "attack": 1263,
             "defense": 1354,
@@ -43373,7 +44597,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 614,
+        "originalIndex": 635,
         "lb1": {
             "attack": 885,
             "defense": 699,
@@ -43442,7 +44666,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 615,
+        "originalIndex": 636,
         "lb1": {
             "attack": 901,
             "defense": 934,
@@ -43515,7 +44739,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 616,
+        "originalIndex": 637,
         "lb1": {
             "attack": 1147,
             "defense": 1041,
@@ -43575,13 +44799,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_meenakshi",
         "star": 5,
-        "power": 1283,
-        "attack": 1301,
-        "defense": 1363,
-        "health": 2296,
+        "power": 1298,
+        "attack": 1316,
+        "defense": 1378,
+        "health": 2338,
         "effects": [
-            "Recovers 10% health for the caster and nearby allies.",
-            "Growth Boon: Deals 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to a maximum 800 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Recovers 25% health for the caster and nearby allies.",
+            "Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to a maximum 600 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
             "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
             "The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn."
         ],
@@ -43593,18 +44817,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 617,
+        "originalIndex": 638,
         "lb1": {
-            "attack": 1403,
-            "defense": 1469,
-            "health": 2475,
-            "power": 1373
+            "attack": 1418,
+            "defense": 1485,
+            "health": 2519,
+            "power": 1389
         },
         "lb2": {
-            "attack": 1605,
-            "defense": 1681,
-            "health": 2832,
-            "power": 1553
+            "attack": 1623,
+            "defense": 1699,
+            "health": 2882,
+            "power": 1572
         },
         "cn_skill_info": [
             {
@@ -43624,6 +44848,69 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Melonius",
+        "fancy_name": "Watermelon Wizard",
+        "AetherPower": "Regen",
+        "color": "Green",
+        "class": "Cleric",
+        "speed": "Slow",
+        "skill": "Magical Refreshment",
+        "types": [
+            "Boost Mana All",
+            "Uproots Cleanse All",
+            "Boosted HoT Self"
+        ],
+        "skill_types": [],
+        "source": "Challenge - Vigilant Vegetables Summon",
+        "Release date": "2026-05-17",
+        "specialId": "magical_refreshment",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_melonius",
+        "star": 5,
+        "power": 1326,
+        "attack": 1347,
+        "defense": 1409,
+        "health": 2395,
+        "effects": [
+            "All allies gain 25% mana.",
+            "All allies gain additional 5% mana for each Fiend or Mega Fiend owned by the enemies, up to 50% mana in total. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Uproots debuffs from the all  allies. (Uproot safely removes 2 status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects.",
+            "* The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP.",
+            "* Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.",
+            "* Wither effects are removed first. Other effects, the latest is removed first.)",
+            "The caster regenerates 1200 boosted health over 5 turns. Boosted health can exceed max HP."
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
+            "1) Seedling Fiend: 50% attack, 20% health",
+            "2) Sprout Fiend: 75% attack, 30% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health."
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 639,
+        "lb1": {
+            "attack": 1451,
+            "defense": 1518,
+            "health": 2581,
+            "power": 1419
+        },
+        "lb2": {
+            "attack": 1661,
+            "defense": 1737,
+            "health": 2954,
+            "power": 1606
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Mena",
@@ -43667,7 +44954,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 618,
+        "originalIndex": 640,
         "lb1": {
             "attack": 1187,
             "defense": 1132,
@@ -43735,7 +45022,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 619,
+        "originalIndex": 641,
         "lb1": {
             "attack": 1334,
             "defense": 1363,
@@ -43808,7 +45095,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 620,
+        "originalIndex": 642,
         "lb1": {
             "attack": 954,
             "defense": 950,
@@ -43875,11 +45162,11 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Poison: This character is immune to status ailments that deal Poison damage.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 621,
+        "originalIndex": 643,
         "lb1": {
             "attack": 1072,
             "defense": 1156,
@@ -43938,7 +45225,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 622,
+        "originalIndex": 644,
         "lb1": {
             "attack": 772,
             "defense": 777,
@@ -44010,7 +45297,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 623,
+        "originalIndex": 645,
         "lb1": {
             "attack": 652,
             "defense": 883,
@@ -44079,7 +45366,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 624,
+        "originalIndex": 646,
         "lb1": {
             "attack": 863,
             "defense": 1225,
@@ -44150,7 +45437,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 625,
+        "originalIndex": 647,
         "lb1": {
             "attack": 1258,
             "defense": 1232,
@@ -44224,7 +45511,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 626,
+        "originalIndex": 648,
         "lb1": {
             "attack": 881,
             "defense": 963,
@@ -44295,7 +45582,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 627,
+        "originalIndex": 649,
         "lb1": {
             "attack": 1181,
             "defense": 1178,
@@ -44365,7 +45652,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 628,
+        "originalIndex": 650,
         "lb1": {
             "attack": 1107,
             "defense": 1076,
@@ -44436,12 +45723,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 629,
+        "originalIndex": 651,
         "lb1": {
             "attack": 1218,
             "defense": 1278,
@@ -44501,35 +45788,35 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_ott_costume_herbalist",
         "star": 5,
-        "power": 1274,
-        "attack": 1237,
-        "defense": 1316,
-        "health": 2483,
+        "power": 1291,
+        "attack": 1259,
+        "defense": 1340,
+        "health": 2505,
         "effects": [
-            "Boosts health of all allies by 800. Boosted health can exceed max HP.",
-            "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1280. Reduces damage by additional 30% when the attacker is of the Nature element.",
+            "Boosts health of all allies by 900. Boosted health can exceed max HP.",
+            "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1350. Reduces damage by additional 30% when the attacker is of the Nature element.",
             "All allies are immune to buff dispel and reallocations for 3 turns. (The immunity also includes this effect itself.)"
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 364 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 371 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 630,
+        "originalIndex": 652,
         "lb1": {
-            "attack": 1333,
-            "defense": 1418,
-            "health": 2676,
-            "power": 1363
+            "attack": 1357,
+            "defense": 1444,
+            "health": 2700,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1525,
-            "defense": 1623,
-            "health": 3061,
-            "power": 1541
+            "attack": 1553,
+            "defense": 1652,
+            "health": 3089,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -44585,7 +45872,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 631,
+        "originalIndex": 653,
         "lb1": {
             "attack": 1267,
             "defense": 1260,
@@ -44628,7 +45915,7 @@ window.allHeroes =
         "skill": "Feyfire Slash",
         "types": [
             "Hit 3",
-            "Enhanced Dodge 3",
+            "Enhanced Dodge Buff 3",
             "Delayed Attack Buff 3"
         ],
         "skill_types": [
@@ -44659,11 +45946,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 632,
+        "originalIndex": 654,
         "lb1": {
             "attack": 1223,
             "defense": 1196,
@@ -44739,7 +46026,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 633,
+        "originalIndex": 655,
         "lb1": {
             "attack": 879,
             "defense": 796,
@@ -44807,7 +46094,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 634,
+        "originalIndex": 656,
         "lb1": {
             "attack": 896,
             "defense": 783,
@@ -44885,7 +46172,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 635,
+        "originalIndex": 657,
         "lb1": {
             "attack": 1145,
             "defense": 1038,
@@ -44961,7 +46248,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 636,
+        "originalIndex": 658,
         "lb1": {
             "attack": 1263,
             "defense": 1181,
@@ -45003,7 +46290,7 @@ window.allHeroes =
             "Dance of the Heron 4",
             "Counterattack 4",
             "Reduced Damage 4",
-            "Status Effect Immunity"
+            "Status Effect Immunity 4"
         ],
         "skill_types": [
             "Counterattackers",
@@ -45041,7 +46328,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 637,
+        "originalIndex": 659,
         "lb1": {
             "attack": 1061,
             "defense": 1047,
@@ -45115,7 +46402,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 638,
+        "originalIndex": 660,
         "lb1": {
             "attack": 1078,
             "defense": 1027,
@@ -45189,7 +46476,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 639,
+        "originalIndex": 661,
         "lb1": {
             "attack": 799,
             "defense": 994,
@@ -45253,7 +46540,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 640,
+        "originalIndex": 662,
         "lb1": {
             "attack": 856,
             "defense": 819,
@@ -45324,7 +46611,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 641,
+        "originalIndex": 663,
         "lb1": {
             "attack": 1274,
             "defense": 1209,
@@ -45381,10 +46668,10 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_ragrim",
         "star": 5,
-        "power": 1246,
-        "attack": 1266,
-        "defense": 1295,
-        "health": 2255,
+        "power": 1261,
+        "attack": 1281,
+        "defense": 1310,
+        "health": 2298,
         "effects": [
             "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
             "Recovers 65% health for the ally with the lowest remaing HP. All other allies recover 45% health.",
@@ -45403,18 +46690,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 642,
+        "originalIndex": 664,
         "lb1": {
-            "attack": 1365,
-            "defense": 1396,
-            "health": 2430,
-            "power": 1333
+            "attack": 1380,
+            "defense": 1411,
+            "health": 2477,
+            "power": 1349
         },
         "lb2": {
-            "attack": 1562,
-            "defense": 1597,
-            "health": 2781,
-            "power": 1508
+            "attack": 1579,
+            "defense": 1615,
+            "health": 2834,
+            "power": 1526
         },
         "cn_skill_info": [
             {
@@ -45471,7 +46758,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 643,
+        "originalIndex": 665,
         "lb1": {
             "attack": 812,
             "defense": 799,
@@ -45534,7 +46821,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 644,
+        "originalIndex": 666,
         "lb1": {
             "attack": 1165,
             "defense": 937,
@@ -45596,11 +46883,11 @@ window.allHeroes =
             "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is Holy."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 645,
+        "originalIndex": 667,
         "lb1": {
             "attack": 1021,
             "defense": 1118,
@@ -45673,7 +46960,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 646,
+        "originalIndex": 668,
         "lb1": {
             "attack": 1056,
             "defense": 1178,
@@ -45746,7 +47033,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 647,
+        "originalIndex": 669,
         "lb1": {
             "attack": 1012,
             "defense": 979,
@@ -45791,7 +47078,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
         "heroId": "elemental_roz_costume_disco",
         "star": 5,
         "power": 1221,
@@ -45809,11 +47098,12 @@ window.allHeroes =
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
             "* Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -25%"
+            "* Received elemental damage: -25%",
+            "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 648,
+        "originalIndex": 670,
         "lb1": {
             "attack": 1311,
             "defense": 1291,
@@ -45851,8 +47141,8 @@ window.allHeroes =
             "Hit 1",
             "Silencer 1",
             "SS Defense Debuff 1",
-            "Cleanse Immunity 1",
-            "Max Health Reducer 1"
+            "Cleanse Immunity Debuff 1",
+            "Max Health Reducer Self"
         ],
         "skill_types": [
             "Snipers",
@@ -45881,7 +47171,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 649,
+        "originalIndex": 671,
         "lb1": {
             "attack": 1338,
             "defense": 1207,
@@ -45953,7 +47243,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 650,
+        "originalIndex": 672,
         "lb1": {
             "attack": 996,
             "defense": 1003,
@@ -46017,7 +47307,7 @@ window.allHeroes =
         "health": 1425,
         "effects": [
             "The target and nearby enemies get -34% defense for 3 turns.",
-            "Deals 380% damage to the target.",
+            "Deals 390% damage to the target.",
             "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
             "Element Link gives all Nature allies +10% atack for 4 turns. This effect can't be dispelled."
         ],
@@ -46027,7 +47317,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 651,
+        "originalIndex": 673,
         "lb1": {
             "attack": 839,
             "defense": 808,
@@ -46100,7 +47390,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 652,
+        "originalIndex": 674,
         "lb1": {
             "attack": 979,
             "defense": 1023,
@@ -46167,7 +47457,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 653,
+        "originalIndex": 675,
         "lb1": {
             "attack": 947,
             "defense": 896,
@@ -46242,7 +47532,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 654,
+        "originalIndex": 676,
         "lb1": {
             "attack": 1425,
             "defense": 1369,
@@ -46316,7 +47606,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 655,
+        "originalIndex": 677,
         "lb1": {
             "attack": 1050,
             "defense": 1147,
@@ -46394,7 +47684,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 656,
+        "originalIndex": 678,
         "lb1": {
             "attack": 1292,
             "defense": 1528,
@@ -46461,7 +47751,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 657,
+        "originalIndex": 679,
         "lb1": {
             "attack": 1320,
             "defense": 1320,
@@ -46522,10 +47812,10 @@ window.allHeroes =
         ],
         "heroId": "rodent_sproutwhisker",
         "star": 5,
-        "power": 1290,
-        "attack": 1322,
-        "defense": 1363,
-        "health": 2294,
+        "power": 1310,
+        "attack": 1341,
+        "defense": 1382,
+        "health": 2350,
         "effects": [
             "Wild: For 4 turns, all allies regenerate 400 HP or receive 800 boosted health each turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild effect has a 50% chance to heal extra +100% HP that turn. When extra HP is healed the effect gives boosted health. Wild effects bypass most effects that would normally prevent them from being applied. Wild effects can be applied in addition to other effects of the same type.)",
             "For the next 4 turns, all allies receive 10% mana at the end of the turn.",
@@ -46537,18 +47827,18 @@ window.allHeroes =
         ],
         "family": "rodent",
         "costume_id": 0,
-        "originalIndex": 658,
+        "originalIndex": 680,
         "lb1": {
-            "attack": 1425,
-            "defense": 1469,
-            "health": 2473,
-            "power": 1381
+            "attack": 1445,
+            "defense": 1489,
+            "health": 2533,
+            "power": 1402
         },
         "lb2": {
-            "attack": 1630,
-            "defense": 1681,
-            "health": 2829,
-            "power": 1562
+            "attack": 1653,
+            "defense": 1704,
+            "health": 2898,
+            "power": 1586
         },
         "cn_skill_info": [
             {
@@ -46609,7 +47899,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 659,
+        "originalIndex": 681,
         "lb1": {
             "attack": 967,
             "defense": 910,
@@ -46674,12 +47964,12 @@ window.allHeroes =
             "Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy every time when the hit enemy's mana gets full for 3 tuns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 660,
+        "originalIndex": 682,
         "lb1": {
             "attack": 1112,
             "defense": 1256,
@@ -46767,7 +48057,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 661,
+        "originalIndex": 683,
         "lb1": {
             "attack": 1380,
             "defense": 1320,
@@ -46846,7 +48136,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 662,
+        "originalIndex": 684,
         "lb1": {
             "attack": 1232,
             "defense": 1161,
@@ -46921,7 +48211,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 663,
+        "originalIndex": 685,
         "lb1": {
             "attack": 1407,
             "defense": 1256,
@@ -46952,6 +48242,65 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Sylosis",
+        "fancy_name": "Martial Artist Construct",
+        "AetherPower": "Counterattack",
+        "color": "Green",
+        "class": "Monk",
+        "speed": "Fast",
+        "skill": "Ancient Martial Arts",
+        "types": [
+            "Hit 1",
+            "Counterattack All",
+            "Hit All on Ally SS"
+        ],
+        "skill_types": [],
+        "source": "Covenant Summon",
+        "Release date": "2026-04-28",
+        "specialId": "ancient_martial_arts",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_sylosis",
+        "star": 5,
+        "power": 1323,
+        "attack": 1367,
+        "defense": 1382,
+        "health": 2379,
+        "effects": [
+            "Deals 600% damage to the target.",
+            "All allies counterattack with 100% of the damage received for 3 turns.",
+            "For the next 3 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core.",
+            "The Minion Core activates each time this character's Special Skill is cast:",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
+            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 686,
+        "lb1": {
+            "attack": 1474,
+            "defense": 1489,
+            "health": 2564,
+            "power": 1416
+        },
+        "lb2": {
+            "attack": 1686,
+            "defense": 1704,
+            "health": 2933,
+            "power": 1602
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Tametomo",
@@ -47001,7 +48350,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 664,
+        "originalIndex": 687,
         "lb1": {
             "attack": 1127,
             "defense": 954,
@@ -47062,7 +48411,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 665,
+        "originalIndex": 688,
         "lb1": {
             "attack": 888,
             "defense": 719,
@@ -47123,7 +48472,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 666,
+        "originalIndex": 689,
         "lb1": {
             "attack": 935,
             "defense": 1110,
@@ -47191,7 +48540,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 667,
+        "originalIndex": 690,
         "lb1": {
             "attack": 1074,
             "defense": 1074,
@@ -47264,7 +48613,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 668,
+        "originalIndex": 691,
         "lb1": {
             "attack": 661,
             "defense": 896,
@@ -47347,7 +48696,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 669,
+        "originalIndex": 692,
         "lb1": {
             "attack": 954,
             "defense": 932,
@@ -47392,8 +48741,10 @@ window.allHeroes =
             "Charge",
             "Increased Damage from Ailments All",
             "DoT all",
+            "Heal Self on DoT",
             "Healer 3",
-            "Damage from Ailments Immunity 3"
+            "Damage from Ailments Immunity 3",
+            "Heal on attempted ailment 3"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -47418,15 +48769,15 @@ window.allHeroes =
         ],
         "heroId": "magic_telonius_costume_brew",
         "star": 5,
-        "power": 1263,
-        "attack": 1323,
-        "defense": 1271,
-        "health": 2286,
+        "power": 1279,
+        "attack": 1341,
+        "defense": 1288,
+        "health": 2317,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "x1 Mana Charge:",
             "* All enemies take +55% increased damage from status ailments for 3 turns.",
-            "* All enemies receive 573 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.",
+            "* All enemies receive 582 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.",
             "x2 Mana Charge:",
             "* Recovers 75% health for the caster and nearby allies.",
             "* The caster and nearby allies are immune to new status ailments for 5 turns, and recover 350 health for each attempted status ailment."
@@ -47438,18 +48789,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 670,
+        "originalIndex": 693,
         "lb1": {
-            "attack": 1425,
-            "defense": 1370,
-            "health": 2464,
-            "power": 1352
+            "attack": 1445,
+            "defense": 1388,
+            "health": 2497,
+            "power": 1368
         },
         "lb2": {
-            "attack": 1631,
-            "defense": 1567,
-            "health": 2819,
-            "power": 1529
+            "attack": 1653,
+            "defense": 1588,
+            "health": 2856,
+            "power": 1548
         },
         "cn_skill_info": [
             {
@@ -47522,7 +48873,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 671,
+        "originalIndex": 694,
         "lb1": {
             "attack": 1438,
             "defense": 1305,
@@ -47586,7 +48937,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 672,
+        "originalIndex": 695,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -47654,7 +49005,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 673,
+        "originalIndex": 696,
         "lb1": {
             "attack": 1029,
             "defense": 943,
@@ -47730,7 +49081,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 674,
+        "originalIndex": 697,
         "lb1": {
             "attack": 1174,
             "defense": 1247,
@@ -47803,7 +49154,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 675,
+        "originalIndex": 698,
         "lb1": {
             "attack": 834,
             "defense": 819,
@@ -47877,7 +49228,7 @@ window.allHeroes =
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 676,
+        "originalIndex": 699,
         "lb1": {
             "attack": 1247,
             "defense": 1415,
@@ -47904,6 +49255,93 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Status - Cleanse Ailments"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Troop Mimic Nature",
+        "fancy_name": "Bounty of Dreadful Arsenal",
+        "AetherPower": "Bulwark",
+        "color": "Green",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Gluttonous Chomp",
+        "types": [
+            "Hit 1",
+            "Mimic Chest",
+            "Normal Attack Buff All"
+        ],
+        "skill_types": [],
+        "source": "Bazaar Summon",
+        "Release date": "2026-05-02",
+        "specialId": "gluttonous_chomp_green",
+        "passiveSkills": [
+            "mimic_troop_green",
+            "never_miss_special"
+        ],
+        "heroId": "mimic_troop_green",
+        "star": 5,
+        "power": 1282,
+        "attack": 1336,
+        "defense": 1332,
+        "health": 2263,
+        "effects": [
+            "Deals 480% damage to the target.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "All Nature allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "RARE",
+            "* Rebel Sharpshooters",
+            "* Deepwood Ents",
+            "* Rebel Illusionists",
+            "* Trainer Troop",
+            "UNCOMMON",
+            "* Rebel Archers",
+            "* Village Fighters",
+            "* Trainer Troop",
+            "COMMON",
+            "* Common Villagers",
+            "* Rebel Rogues",
+            "* Deepwood Enchanters",
+            "* Trainer Troop"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 700,
+        "lb1": {
+            "attack": 1440,
+            "defense": 1436,
+            "health": 2439,
+            "power": 1372
+        },
+        "lb2": {
+            "attack": 1648,
+            "defense": 1643,
+            "health": 2791,
+            "power": 1552
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -47940,36 +49378,36 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_turundh",
         "star": 5,
-        "power": 1265,
-        "attack": 1320,
-        "defense": 1310,
-        "health": 2224,
+        "power": 1275,
+        "attack": 1328,
+        "defense": 1322,
+        "health": 2251,
         "effects": [
-            "Deals 525% damage to the target.",
+            "Deals 550% damage to the target.",
             "The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skills.)",
-            "Deals 525% damage to a random enemy.",
-            "The target of the second hit resists healing and receives 300 damage per each resisted healing for 3 turns.",
-            "The caster gets 20% mana if both attacks hit the same target."
+            "Deals 550% damage to a random enemy.",
+            "The target of the second hit resists healing and receives 350 damage per each resisted healing for 3 turns.",
+            "The caster gets 25% mana if both attacks hit the same target."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 677,
+        "originalIndex": 701,
         "lb1": {
-            "attack": 1423,
-            "defense": 1411,
-            "health": 2397,
-            "power": 1353
+            "attack": 1431,
+            "defense": 1425,
+            "health": 2426,
+            "power": 1364
         },
         "lb2": {
-            "attack": 1628,
-            "defense": 1615,
-            "health": 2743,
-            "power": 1531
+            "attack": 1638,
+            "defense": 1630,
+            "health": 2776,
+            "power": 1543
         },
         "cn_skill_info": [
             {
@@ -48029,7 +49467,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 678,
+        "originalIndex": 702,
         "lb1": {
             "attack": 861,
             "defense": 870,
@@ -48094,7 +49532,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 679,
+        "originalIndex": 703,
         "lb1": {
             "attack": 1183,
             "defense": 1148,
@@ -48160,7 +49598,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 680,
+        "originalIndex": 704,
         "lb1": {
             "attack": 1345,
             "defense": 1214,
@@ -48227,7 +49665,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 681,
+        "originalIndex": 705,
         "lb1": {
             "attack": 1420,
             "defense": 1416,
@@ -48290,11 +49728,11 @@ window.allHeroes =
             "All enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 682,
+        "originalIndex": 706,
         "lb1": {
             "attack": 1158,
             "defense": 1127,
@@ -48371,7 +49809,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 683,
+        "originalIndex": 707,
         "lb1": {
             "attack": 772,
             "defense": 890,
@@ -48450,7 +49888,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 684,
+        "originalIndex": 708,
         "lb1": {
             "attack": 1458,
             "defense": 1405,
@@ -48527,7 +49965,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 685,
+        "originalIndex": 709,
         "lb1": {
             "attack": 894,
             "defense": 896,
@@ -48602,7 +50040,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 686,
+        "originalIndex": 710,
         "lb1": {
             "attack": 910,
             "defense": 921,
@@ -48664,40 +50102,43 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
         "heroId": "elemental_xandrella_costume_idol",
         "star": 5,
-        "power": 1261,
-        "attack": 1236,
-        "defense": 1254,
-        "health": 2519,
+        "power": 1284,
+        "attack": 1261,
+        "defense": 1279,
+        "health": 2570,
         "effects": [
-            "Deals 480% damage to the target and all Ice enemies.",
-            "Automatically does 555 damage to the target and all Ice enemies when their mana gets full and reduces their mana by 50% for 4 turns.",
+            "Deals 500% damage to the target and all Ice enemies.",
+            "Automatically does 630 damage to the target and all Ice enemies when their mana gets full and reduces their mana by 50% for 4 turns.",
             "Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +40% more mana. When a defending Hero casts the special, the shields become weakened and give -33% less mana.",
-            "All Ice enemies get -20% defense against Nature for 4 turns."
+            "All Ice enemies get -25% defense against Nature for 4 turns."
         ],
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
             "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "- Received elemental damage: -25%",
+            "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 687,
+        "originalIndex": 711,
         "lb1": {
-            "attack": 1332,
-            "defense": 1351,
-            "health": 2715,
-            "power": 1349
+            "attack": 1359,
+            "defense": 1379,
+            "health": 2770,
+            "power": 1374
         },
         "lb2": {
-            "attack": 1524,
-            "defense": 1546,
-            "health": 3106,
-            "power": 1526
+            "attack": 1555,
+            "defense": 1578,
+            "health": 3169,
+            "power": 1554
         },
         "cn_skill_info": [
             {
@@ -48759,7 +50200,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 688,
+        "originalIndex": 712,
         "lb1": {
             "attack": 1125,
             "defense": 1007,
@@ -48822,10 +50263,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_xiang_chong",
         "star": 5,
-        "power": 1292,
-        "attack": 1369,
-        "defense": 1314,
-        "health": 2288,
+        "power": 1307,
+        "attack": 1384,
+        "defense": 1328,
+        "health": 2331,
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 270% damage to all enemies.",
@@ -48841,18 +50282,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 689,
+        "originalIndex": 713,
         "lb1": {
-            "attack": 1476,
-            "defense": 1416,
-            "health": 2466,
-            "power": 1383
+            "attack": 1491,
+            "defense": 1431,
+            "health": 2513,
+            "power": 1399
         },
         "lb2": {
-            "attack": 1689,
-            "defense": 1620,
-            "health": 2821,
-            "power": 1564
+            "attack": 1706,
+            "defense": 1638,
+            "health": 2875,
+            "power": 1583
         },
         "cn_skill_info": [
             {
@@ -48911,7 +50352,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 690,
+        "originalIndex": 714,
         "lb1": {
             "attack": 1207,
             "defense": 1274,
@@ -48975,35 +50416,35 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_xshahr",
         "star": 5,
-        "power": 1248,
+        "power": 1258,
         "attack": 1322,
-        "defense": 1233,
-        "health": 2255,
+        "defense": 1260,
+        "health": 2268,
         "effects": [
-            "Deals 610% damage to the target.",
-            "Boosts the caster's health by 45% of damage dealt.",
-            "The target receives Resonance for 3 turns. Each turn, Resonance deals 429 damage to the afflicted enemies and 214 damage to nearby enemies.",
+            "Deals 630% damage to the target.",
+            "Boosts the caster's health by 50% of damage dealt.",
+            "The target receives Resonance for 3 turns. Each turn, Resonance deals 456 damage to the afflicted enemies and 228 damage to nearby enemies.",
             "Deals 250% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 691,
+        "originalIndex": 715,
         "lb1": {
             "attack": 1425,
-            "defense": 1329,
-            "health": 2430,
-            "power": 1336
+            "defense": 1358,
+            "health": 2444,
+            "power": 1346
         },
         "lb2": {
             "attack": 1630,
-            "defense": 1521,
-            "health": 2781,
-            "power": 1510
+            "defense": 1554,
+            "health": 2796,
+            "power": 1522
         },
         "cn_skill_info": [
             {
@@ -49064,7 +50505,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 692,
+        "originalIndex": 716,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -49134,7 +50575,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 693,
+        "originalIndex": 717,
         "lb1": {
             "attack": 863,
             "defense": 1071,
@@ -49210,7 +50651,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 694,
+        "originalIndex": 718,
         "lb1": {
             "attack": 1272,
             "defense": 1172,
@@ -49278,7 +50719,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 695,
+        "originalIndex": 719,
         "lb1": {
             "attack": 823,
             "defense": 741,
@@ -49361,7 +50802,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 696,
+        "originalIndex": 720,
         "lb1": {
             "attack": 1037,
             "defense": 951,
@@ -49427,14 +50868,14 @@ window.allHeroes =
         ],
         "heroId": "institute_zenas",
         "star": 5,
-        "power": 1277,
-        "attack": 1332,
-        "defense": 1303,
-        "health": 2294,
+        "power": 1302,
+        "attack": 1357,
+        "defense": 1328,
+        "health": 2362,
         "effects": [
-            "Deals 360% damage to the target and nearby enemies and inflicts 35 Insanity on them.",
-            "Summons a Moldavite Owl Fiend for the target and nearby enemies. The Fiend damage the enemy with 60% attack every turn.",
-            "The Moldavite Owl Fiend absorbs healing. It disappears after absorbing a healing equal to 25% of its target's max health.",
+            "Deals 390% damage to the target and nearby enemies and inflicts 35 Insanity on them.",
+            "Summons a Moldavite Owl Fiend for the target and nearby enemies. The Fiend damage the enemy with 70% attack every turn.",
+            "The Moldavite Owl Fiend absorbs healing. It disappears after absorbing a healing equal to 30% of its target's max health.",
             "The Moldavite Owl Fiend inflicts 5 Insanity on the owner on every turn.",
             "At the end of each turn, the Moldavite Owl Fiend dispels one of its target's dispellable buffs.",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
@@ -49452,18 +50893,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 697,
+        "originalIndex": 721,
         "lb1": {
-            "attack": 1436,
-            "defense": 1405,
-            "health": 2473,
-            "power": 1367
+            "attack": 1462,
+            "defense": 1431,
+            "health": 2546,
+            "power": 1393
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1607,
-            "health": 2829,
-            "power": 1546
+            "attack": 1673,
+            "defense": 1638,
+            "health": 2913,
+            "power": 1577
         },
         "cn_skill_info": [
             {
@@ -49530,7 +50971,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 698,
+        "originalIndex": 722,
         "lb1": {
             "attack": 796,
             "defense": 781,
@@ -49566,9 +51007,9 @@ window.allHeroes =
         "skill": "Hoverboard Slam",
         "types": [
             "Hit 1",
-            "Hit All on Ice hit",
-            "Attack Debuff All hit",
-            "Defense Debuff All hit"
+            "Hit 4 if Ice",
+            "Attack Debuff on hit",
+            "Defense Debuff on hit"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -49603,7 +51044,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 699,
+        "originalIndex": 723,
         "lb1": {
             "attack": 1016,
             "defense": 994,
@@ -49630,6 +51071,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Zuni C1",
+        "fancy_name": "Hoverboard Mage",
+        "AetherPower": "Dodge",
+        "color": "Green",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Hoverboard Crash",
+        "types": [
+            "Hit 1",
+            "Bypass",
+            "Hit 4 if Ice",
+            "Attack Debuff on hit",
+            "Defense Debuff on hit"
+        ],
+        "skill_types": [],
+        "source": "Super Elementals",
+        "Release date": "2026-04-24",
+        "specialId": "hoverboard_crash",
+        "parent_specialId": "hoverboard_slam",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "heroId": "elemental_zuni_costume_mage",
+        "star": 5,
+        "power": 1322,
+        "attack": 1374,
+        "defense": 1335,
+        "health": 2452,
+        "effects": [
+            "Deals 500% damage to the target.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "If the target is of Ice element, deals 300% damage to all other enemies.",
+            "Hit enemies get -39% attack for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.",
+            "Hit enemies get -39% defense for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer."
+        ],
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
+            "- Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            "- Received elemental damage: -25%",
+            "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 724,
+        "lb1": {
+            "attack": 1480,
+            "defense": 1438,
+            "health": 2643,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1694,
+            "defense": 1646,
+            "health": 3024,
+            "power": 1602
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Fletcher",
@@ -49661,7 +51166,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 700,
+        "originalIndex": 725,
         "lb1": {
             "attack": 215,
             "defense": 175,
@@ -49706,7 +51211,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 701,
+        "originalIndex": 726,
         "lb1": {
             "attack": 183,
             "defense": 197,
@@ -49751,7 +51256,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 702,
+        "originalIndex": 727,
         "lb1": {
             "attack": 363,
             "defense": 310,
@@ -49796,7 +51301,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 703,
+        "originalIndex": 728,
         "lb1": {
             "attack": 336,
             "defense": 340,
@@ -49841,7 +51346,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 704,
+        "originalIndex": 729,
         "lb1": {
             "attack": 293,
             "defense": 290,
@@ -49889,7 +51394,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 705,
+        "originalIndex": 730,
         "lb1": {
             "attack": 512,
             "defense": 563,
@@ -49946,7 +51451,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 706,
+        "originalIndex": 731,
         "lb1": {
             "attack": 480,
             "defense": 571,
@@ -49982,7 +51487,7 @@ window.allHeroes =
         "skill": "One Jump Ahead",
         "types": [
             "Hit 3",
-            "Dodge Buff 3"
+            "Dodge Chance Buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -50013,7 +51518,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 707,
+        "originalIndex": 732,
         "lb1": {
             "attack": 510,
             "defense": 565,
@@ -50050,7 +51555,7 @@ window.allHeroes =
         "skill": "One Spell Ahead",
         "types": [
             "Hit 3",
-            "Dodge Buff 3"
+            "Dodge Chance Buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -50088,7 +51593,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 708,
+        "originalIndex": 733,
         "lb1": {
             "attack": 540,
             "defense": 554,
@@ -50145,7 +51650,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 709,
+        "originalIndex": 734,
         "lb1": {
             "attack": 547,
             "defense": 478,
@@ -50201,7 +51706,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 710,
+        "originalIndex": 735,
         "lb1": {
             "attack": 604,
             "defense": 493,
@@ -50266,7 +51771,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 711,
+        "originalIndex": 736,
         "lb1": {
             "attack": 636,
             "defense": 539,
@@ -50331,7 +51836,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 712,
+        "originalIndex": 737,
         "lb1": {
             "attack": 671,
             "defense": 543,
@@ -50395,7 +51900,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 713,
+        "originalIndex": 738,
         "lb1": {
             "attack": 719,
             "defense": 571,
@@ -50459,7 +51964,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 714,
+        "originalIndex": 739,
         "lb1": {
             "attack": 600,
             "defense": 541,
@@ -50519,7 +52024,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 715,
+        "originalIndex": 740,
         "lb1": {
             "attack": 520,
             "defense": 494,
@@ -50584,7 +52089,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 716,
+        "originalIndex": 741,
         "lb1": {
             "attack": 527,
             "defense": 517,
@@ -50615,6 +52120,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Bjorn Toon",
+        "fancy_name": "Brave Toon",
+        "AetherPower": "Attack Up",
+        "color": "Purple",
+        "class": "Monk",
+        "speed": "Average",
+        "skill": "Dual Toon Slash",
+        "types": [
+            "Hit 1",
+            "Hit Random 1"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "dual_toon_slash",
+        "parent_specialId": "dual_slash",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_bjorn_costume_cute",
+        "star": 3,
+        "power": 563,
+        "attack": 575,
+        "defense": 543,
+        "health": 1036,
+        "effects": [
+            "Deals 230% damage to the target.",
+            "Deals 410% damage to a random different enemy. Deals extra damage if the target is Holy. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
+            "Deals extra damage against Holy."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "midgard",
+        "costume_id": 2,
+        "originalIndex": 742,
+        "lb1": {
+            "attack": 652,
+            "defense": 615,
+            "health": 1174,
+            "power": 629
+        },
+        "lb2": {
+            "attack": 806,
+            "defense": 760,
+            "health": 1451,
+            "power": 763
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Budatin",
@@ -50653,7 +52210,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 717,
+        "originalIndex": 743,
         "lb1": {
             "attack": 567,
             "defense": 569,
@@ -50707,7 +52264,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 718,
+        "originalIndex": 744,
         "lb1": {
             "attack": 468,
             "defense": 581,
@@ -50765,7 +52322,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 719,
+        "originalIndex": 745,
         "lb1": {
             "attack": 596,
             "defense": 510,
@@ -50828,7 +52385,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 720,
+        "originalIndex": 746,
         "lb1": {
             "attack": 494,
             "defense": 514,
@@ -50889,7 +52446,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 721,
+        "originalIndex": 747,
         "lb1": {
             "attack": 543,
             "defense": 501,
@@ -50915,6 +52472,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Gill-Ra Toon",
+        "fancy_name": "Toon Hunter",
+        "AetherPower": "Counterattack",
+        "color": "Purple",
+        "class": "Sorcerer",
+        "speed": "Slow",
+        "skill": "Toon Lament",
+        "types": [
+            "Defense Debuff All",
+            "Attack Debuff All",
+            "Cleanser All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_lament",
+        "parent_specialId": "song_of_regression",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_fiji_mermaid_costume_cute",
+        "star": 3,
+        "power": 560,
+        "attack": 536,
+        "defense": 614,
+        "health": 971,
+        "effects": [
+            "All enemies get -34% defense for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "All enemies get -34% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "Cleanses status ailments from all allies."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 748,
+        "lb1": {
+            "attack": 607,
+            "defense": 695,
+            "health": 1101,
+            "power": 626
+        },
+        "lb2": {
+            "attack": 750,
+            "defense": 859,
+            "health": 1360,
+            "power": 758
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Greel",
@@ -50959,7 +52569,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 722,
+        "originalIndex": 749,
         "lb1": {
             "attack": 596,
             "defense": 541,
@@ -51018,7 +52628,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 723,
+        "originalIndex": 750,
         "lb1": {
             "attack": 496,
             "defense": 474,
@@ -51081,7 +52691,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 724,
+        "originalIndex": 751,
         "lb1": {
             "attack": 557,
             "defense": 510,
@@ -51151,7 +52761,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 725,
+        "originalIndex": 752,
         "lb1": {
             "attack": 520,
             "defense": 577,
@@ -51225,7 +52835,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 726,
+        "originalIndex": 753,
         "lb1": {
             "attack": 612,
             "defense": 545,
@@ -51262,10 +52872,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Dig a Hole",
         "types": [
-            "Self clean",
-            "Hole digger",
-            "Hit 1",
-            "Mana Gain Freeze 1"
+            "Clean Self",
+            "Hide Self",
+            "Delayed Hit random 1",
+            "Delayed Mana Gain Freeze 1"
         ],
         "skill_types": [
             "Cleansers",
@@ -51287,10 +52897,10 @@ window.allHeroes =
         "defense": 483,
         "health": 721,
         "effects": [
-            "Removes all status effects and stacks from the caster. Removes even status effects and stacsk that are otherwise undispellable or uncleansable.",
+            "Removes all status effects and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleansable.",
             "Caster digs a hole and hides in it for 2 turns.",
-            "While in the hole, the caster can't gain mana but is immune to normal attacks, special attacks, and all status effects.",
-            "After 2 turns the caster jumps out of the hole and heals 223 damage to a random enemy.",
+            "While in the hole, the caster can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skills attacks, status effects and stacks.",
+            "After 2 turns the caster jumps out from the hole and deals 223 damage to a random enemy.",
             "The hit enemy receives the following status ailment:",
             "* The target can't gain mana for 2 turns."
         ],
@@ -51299,7 +52909,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 727,
+        "originalIndex": 754,
         "lb1": {
             "attack": 575,
             "defense": 547,
@@ -51340,10 +52950,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Carve a Hole",
         "types": [
-            "Self clean",
-            "Hole digger",
-            "Hit 1",
-            "Mana Gain Freeze"
+            "Clean Self",
+            "Hide Self",
+            "Delayed Hit random 1",
+            "Delayed Mana Gain Freeze 1"
         ],
         "skill_types": [
             "Stacking Heroes",
@@ -51367,9 +52977,9 @@ window.allHeroes =
         "defense": 512,
         "health": 771,
         "effects": [
-            "Removes all status effects and stacks from the caster. Removes even those status effects and stacks that are otherwise undispellable or uncleansable.",
+            "Removes all status effects and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleansable.",
             "Caster digs a hole and hides in it for 3 turns.",
-            "While in the hole, the caster can't gain mana, and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.",
+            "While in the hole, the caster can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.",
             "After 3 turns, the caster jumps out from the hole and deals 143 damage to a random enemy.",
             "The hit enemy receives the following status ailment:",
             "The target can't gain mana for 3 turns."
@@ -51379,7 +52989,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 728,
+        "originalIndex": 755,
         "lb1": {
             "attack": 558,
             "defense": 580,
@@ -51444,7 +53054,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 729,
+        "originalIndex": 756,
         "lb1": {
             "attack": 478,
             "defense": 466,
@@ -51503,7 +53113,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 730,
+        "originalIndex": 757,
         "lb1": {
             "attack": 478,
             "defense": 535,
@@ -51570,7 +53180,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 731,
+        "originalIndex": 758,
         "lb1": {
             "attack": 582,
             "defense": 530,
@@ -51644,7 +53254,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 732,
+        "originalIndex": 759,
         "lb1": {
             "attack": 609,
             "defense": 539,
@@ -51685,8 +53295,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Familiar Witchcraft",
         "types": [
-            "Recover all",
-            "Attack debuff"
+            "Healer All",
+            "Attack Debuff All"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -51713,7 +53323,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 733,
+        "originalIndex": 760,
         "lb1": {
             "attack": 518,
             "defense": 541,
@@ -51772,7 +53382,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 734,
+        "originalIndex": 761,
         "lb1": {
             "attack": 468,
             "defense": 525,
@@ -51833,7 +53443,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 735,
+        "originalIndex": 762,
         "lb1": {
             "attack": 480,
             "defense": 539,
@@ -51900,7 +53510,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 736,
+        "originalIndex": 763,
         "lb1": {
             "attack": 541,
             "defense": 604,
@@ -51969,7 +53579,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 737,
+        "originalIndex": 764,
         "lb1": {
             "attack": 576,
             "defense": 604,
@@ -51995,6 +53605,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Prisca Stylish",
+        "fancy_name": "Stylish Warden",
+        "AetherPower": "Special Boost",
+        "color": "Purple",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Stylish Stab",
+        "types": [
+            "Hit 1",
+            "Heal Self"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_stab",
+        "parent_specialId": "bleeding_stab",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "blackguard_female_captain_costume_stylish",
+        "star": 3,
+        "power": 550,
+        "attack": 543,
+        "defense": 562,
+        "health": 989,
+        "effects": [
+            "Deals 285% damage to the target.",
+            "If the target has less than 50% health remaining, deals 360% damage instead.",
+            "Heals the caster for 50% of damage dealt."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 765,
+        "lb1": {
+            "attack": 615,
+            "defense": 637,
+            "health": 1121,
+            "power": 615
+        },
+        "lb2": {
+            "attack": 760,
+            "defense": 788,
+            "health": 1385,
+            "power": 745
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Renfeld",
@@ -52029,7 +53691,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 738,
+        "originalIndex": 766,
         "lb1": {
             "attack": 553,
             "defense": 451,
@@ -52091,7 +53753,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 739,
+        "originalIndex": 767,
         "lb1": {
             "attack": 495,
             "defense": 526,
@@ -52158,7 +53820,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 740,
+        "originalIndex": 768,
         "lb1": {
             "attack": 543,
             "defense": 555,
@@ -52227,7 +53889,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 741,
+        "originalIndex": 769,
         "lb1": {
             "attack": 571,
             "defense": 557,
@@ -52293,7 +53955,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 742,
+        "originalIndex": 770,
         "lb1": {
             "attack": 492,
             "defense": 577,
@@ -52354,7 +54016,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 743,
+        "originalIndex": 771,
         "lb1": {
             "attack": 439,
             "defense": 478,
@@ -52415,7 +54077,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 744,
+        "originalIndex": 772,
         "lb1": {
             "attack": 480,
             "defense": 516,
@@ -52482,7 +54144,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 745,
+        "originalIndex": 773,
         "lb1": {
             "attack": 548,
             "defense": 527,
@@ -52555,7 +54217,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 746,
+        "originalIndex": 774,
         "lb1": {
             "attack": 574,
             "defense": 534,
@@ -52629,7 +54291,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 747,
+        "originalIndex": 775,
         "lb1": {
             "attack": 608,
             "defense": 591,
@@ -52698,7 +54360,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 748,
+        "originalIndex": 776,
         "lb1": {
             "attack": 417,
             "defense": 551,
@@ -52733,7 +54395,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mummy Slash",
         "types": [
-            "Hit 3"
+            "Hit 3",
+            "Boost Mana All on kill"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -52762,7 +54425,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 749,
+        "originalIndex": 777,
         "lb1": {
             "attack": 752,
             "defense": 715,
@@ -52797,7 +54460,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mummy Strike",
         "types": [
-            "Hit 3"
+            "Hit 3",
+            "Boost Mana All on kill"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -52833,7 +54497,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 750,
+        "originalIndex": 778,
         "lb1": {
             "attack": 718,
             "defense": 767,
@@ -52895,7 +54559,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 751,
+        "originalIndex": 779,
         "lb1": {
             "attack": 838,
             "defense": 572,
@@ -52959,7 +54623,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 752,
+        "originalIndex": 780,
         "lb1": {
             "attack": 761,
             "defense": 708,
@@ -53029,7 +54693,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 753,
+        "originalIndex": 781,
         "lb1": {
             "attack": 778,
             "defense": 609,
@@ -53097,7 +54761,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 754,
+        "originalIndex": 782,
         "lb1": {
             "attack": 681,
             "defense": 757,
@@ -53173,7 +54837,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 755,
+        "originalIndex": 783,
         "lb1": {
             "attack": 796,
             "defense": 860,
@@ -53249,11 +54913,11 @@ window.allHeroes =
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 756,
+        "originalIndex": 784,
         "lb1": {
             "attack": 720,
             "defense": 692,
@@ -53317,7 +54981,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 757,
+        "originalIndex": 785,
         "lb1": {
             "attack": 588,
             "defense": 720,
@@ -53378,7 +55042,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 758,
+        "originalIndex": 786,
         "lb1": {
             "attack": 715,
             "defense": 697,
@@ -53443,7 +55107,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 759,
+        "originalIndex": 787,
         "lb1": {
             "attack": 814,
             "defense": 700,
@@ -53512,7 +55176,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 760,
+        "originalIndex": 788,
         "lb1": {
             "attack": 750,
             "defense": 674,
@@ -53573,7 +55237,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 761,
+        "originalIndex": 789,
         "lb1": {
             "attack": 611,
             "defense": 658,
@@ -53626,7 +55290,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 762,
+        "originalIndex": 790,
         "lb1": {
             "attack": 615,
             "defense": 773,
@@ -53685,7 +55349,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 763,
+        "originalIndex": 791,
         "lb1": {
             "attack": 716,
             "defense": 796,
@@ -53744,7 +55408,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 764,
+        "originalIndex": 792,
         "lb1": {
             "attack": 713,
             "defense": 764,
@@ -53804,7 +55468,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 765,
+        "originalIndex": 793,
         "lb1": {
             "attack": 722,
             "defense": 783,
@@ -53825,6 +55489,57 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Cyprian Stylish",
+        "fancy_name": "Stylish Deathbound Lord",
+        "AetherPower": "Counterattack",
+        "color": "Purple",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Stylish Riposte",
+        "types": [
+            "Counterattack 3",
+            "HoT All"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_riposte_cyprian",
+        "parent_specialId": "perfect_riposte",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "undead_captain_warrior_costume_stylish",
+        "star": 4,
+        "power": 813,
+        "attack": 723,
+        "defense": 792,
+        "health": 1809,
+        "effects": [
+            "The caster and nearby allies counterattack with 125% of the damage received for 5 turns.",
+            "All allies regenerate 500 HP over 5 turns."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 794,
+        "lb1": {
+            "attack": 786,
+            "defense": 861,
+            "health": 1966,
+            "power": 876
+        },
+        "lb2": {
+            "attack": 911,
+            "defense": 998,
+            "health": 2279,
+            "power": 1002
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Dizzy",
@@ -53863,7 +55578,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 766,
+        "originalIndex": 795,
         "lb1": {
             "attack": 734,
             "defense": 743,
@@ -53935,7 +55650,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 767,
+        "originalIndex": 796,
         "lb1": {
             "attack": 854,
             "defense": 761,
@@ -53999,7 +55714,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 0,
-        "originalIndex": 768,
+        "originalIndex": 797,
         "lb1": {
             "attack": 768,
             "defense": 683,
@@ -54064,7 +55779,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 1,
-        "originalIndex": 769,
+        "originalIndex": 798,
         "lb1": {
             "attack": 815,
             "defense": 680,
@@ -54096,6 +55811,60 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Fura Toon",
+        "fancy_name": "Poisoner Toon of Svartalfheim",
+        "AetherPower": "Attack Up",
+        "color": "Purple",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Toonglade Pollen",
+        "types": [
+            "Hit All",
+            "Max Health Reduction All",
+            "Healing Debuff All"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toonglade_pollen",
+        "parent_specialId": "nightglade_pollen",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_fura_costume_cute",
+        "star": 4,
+        "power": 834,
+        "attack": 917,
+        "defense": 820,
+        "health": 1419,
+        "effects": [
+            "Deals 180% damage to all enemies.",
+            "Reduces max health of all enemies by 150. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 150.)",
+            "All enemies get -55% decrease for any healing received for 4 turns.",
+            "Deals extra damage against Holy."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "svartalfheim",
+        "costume_id": 2,
+        "originalIndex": 799,
+        "lb1": {
+            "attack": 996,
+            "defense": 891,
+            "health": 1542,
+            "power": 898
+        },
+        "lb2": {
+            "attack": 1155,
+            "defense": 1033,
+            "health": 1788,
+            "power": 1028
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Gafar",
         "fancy_name": "Vizier of Sand Empire",
         "AetherPower": "Attack Up",
@@ -54106,8 +55875,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 1",
-            "Healing Debuff",
-            "Self Clean"
+            "Healing Debuff 1",
+            "Clean Self"
         ],
         "skill_types": [
             "Cleansers",
@@ -54134,7 +55903,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 770,
+        "originalIndex": 800,
         "lb1": {
             "attack": 773,
             "defense": 688,
@@ -54199,7 +55968,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 771,
+        "originalIndex": 801,
         "lb1": {
             "attack": 727,
             "defense": 678,
@@ -54268,7 +56037,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 772,
+        "originalIndex": 802,
         "lb1": {
             "attack": 688,
             "defense": 743,
@@ -54311,9 +56080,9 @@ window.allHeroes =
         "skill": "Sand Gale",
         "types": [
             "Hit 3",
-            "Dot 3",
-            "Healing Debuff",
-            "Self Clean"
+            "DoT 3",
+            "Healing Debuff 3",
+            "Clean Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -54340,7 +56109,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 773,
+        "originalIndex": 803,
         "lb1": {
             "attack": 577,
             "defense": 750,
@@ -54405,11 +56174,11 @@ window.allHeroes =
             "The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 774,
+        "originalIndex": 804,
         "lb1": {
             "attack": 736,
             "defense": 752,
@@ -54484,7 +56253,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 775,
+        "originalIndex": 805,
         "lb1": {
             "attack": 699,
             "defense": 720,
@@ -54556,7 +56325,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 776,
+        "originalIndex": 806,
         "lb1": {
             "attack": 817,
             "defense": 863,
@@ -54621,7 +56390,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 777,
+        "originalIndex": 807,
         "lb1": {
             "attack": 773,
             "defense": 692,
@@ -54693,7 +56462,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 778,
+        "originalIndex": 808,
         "lb1": {
             "attack": 736,
             "defense": 775,
@@ -54759,7 +56528,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 779,
+        "originalIndex": 809,
         "lb1": {
             "attack": 771,
             "defense": 671,
@@ -54821,7 +56590,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 780,
+        "originalIndex": 810,
         "lb1": {
             "attack": 741,
             "defense": 718,
@@ -54889,7 +56658,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 781,
+        "originalIndex": 811,
         "lb1": {
             "attack": 812,
             "defense": 688,
@@ -54953,7 +56722,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 782,
+        "originalIndex": 812,
         "lb1": {
             "attack": 768,
             "defense": 646,
@@ -55015,7 +56784,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 783,
+        "originalIndex": 813,
         "lb1": {
             "attack": 841,
             "defense": 604,
@@ -55041,6 +56810,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Proteus Toon",
+        "fancy_name": "Toon Mage of Atlantis",
+        "AetherPower": "Damage Reduction",
+        "color": "Purple",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Toon of the Depths",
+        "types": [
+            "DoT 3",
+            "Mana Gain Freeze 3"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_of_the_depths",
+        "parent_specialId": "scar_of_the_depths",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_proteus_costume_cute",
+        "star": 4,
+        "power": 828,
+        "attack": 908,
+        "defense": 792,
+        "health": 1457,
+        "effects": [
+            "The target and nearby enemies receive 474 Poison damage over 3 turns.",
+            "The target and nearby enemies can't gain mana for 3 turns.",
+            "Deals extra damage against Holy."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 814,
+        "lb1": {
+            "attack": 987,
+            "defense": 861,
+            "health": 1583,
+            "power": 893
+        },
+        "lb2": {
+            "attack": 1144,
+            "defense": 998,
+            "health": 1835,
+            "power": 1021
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Rigard",
@@ -55075,7 +56896,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 784,
+        "originalIndex": 815,
         "lb1": {
             "attack": 646,
             "defense": 731,
@@ -55139,7 +56960,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 785,
+        "originalIndex": 816,
         "lb1": {
             "attack": 701,
             "defense": 778,
@@ -55208,7 +57029,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 786,
+        "originalIndex": 817,
         "lb1": {
             "attack": 780,
             "defense": 878,
@@ -55281,7 +57102,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 787,
+        "originalIndex": 818,
         "lb1": {
             "attack": 875,
             "defense": 794,
@@ -55355,7 +57176,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 788,
+        "originalIndex": 819,
         "lb1": {
             "attack": 906,
             "defense": 829,
@@ -55429,7 +57250,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 789,
+        "originalIndex": 820,
         "lb1": {
             "attack": 861,
             "defense": 891,
@@ -55494,7 +57315,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 790,
+        "originalIndex": 821,
         "lb1": {
             "attack": 759,
             "defense": 628,
@@ -55558,7 +57379,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 791,
+        "originalIndex": 822,
         "lb1": {
             "attack": 822,
             "defense": 711,
@@ -55627,7 +57448,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 792,
+        "originalIndex": 823,
         "lb1": {
             "attack": 801,
             "defense": 884,
@@ -55700,7 +57521,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 793,
+        "originalIndex": 824,
         "lb1": {
             "attack": 872,
             "defense": 845,
@@ -55770,7 +57591,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 794,
+        "originalIndex": 825,
         "lb1": {
             "attack": 901,
             "defense": 849,
@@ -55806,9 +57627,9 @@ window.allHeroes =
         "speed": "Magic",
         "skill": "Midnight Moon",
         "types": [
-            "Elemental Defense Debuff",
-            "Normal attack buff",
-            "Charge"
+            "Charge",
+            "Elemental Defense Debuff All",
+            "Normal Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -55839,7 +57660,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 795,
+        "originalIndex": 826,
         "lb1": {
             "attack": 715,
             "defense": 674,
@@ -55908,7 +57729,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 796,
+        "originalIndex": 827,
         "lb1": {
             "attack": 706,
             "defense": 766,
@@ -55978,7 +57799,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 797,
+        "originalIndex": 828,
         "lb1": {
             "attack": 798,
             "defense": 711,
@@ -56037,7 +57858,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 798,
+        "originalIndex": 829,
         "lb1": {
             "attack": 773,
             "defense": 761,
@@ -56105,7 +57926,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 799,
+        "originalIndex": 830,
         "lb1": {
             "attack": 842,
             "defense": 761,
@@ -56170,7 +57991,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 800,
+        "originalIndex": 831,
         "lb1": {
             "attack": 789,
             "defense": 676,
@@ -56236,7 +58057,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 801,
+        "originalIndex": 832,
         "lb1": {
             "attack": 861,
             "defense": 831,
@@ -56297,7 +58118,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 802,
+        "originalIndex": 833,
         "lb1": {
             "attack": 718,
             "defense": 688,
@@ -56358,7 +58179,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 803,
+        "originalIndex": 834,
         "lb1": {
             "attack": 763,
             "defense": 748,
@@ -56419,7 +58240,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 804,
+        "originalIndex": 835,
         "lb1": {
             "attack": 793,
             "defense": 825,
@@ -56486,7 +58307,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 805,
+        "originalIndex": 836,
         "lb1": {
             "attack": 821,
             "defense": 861,
@@ -56559,7 +58380,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 806,
+        "originalIndex": 837,
         "lb1": {
             "attack": 846,
             "defense": 871,
@@ -56615,7 +58436,7 @@ window.allHeroes =
         "Release date": "2026-03-10",
         "specialId": "lethal_strikes",
         "passiveSkills": [
-            "dishonorable_death",
+            "dishonorable_death_epic",
             "prevent_boosted_health"
         ],
         "heroId": "ronin_tokage_daigo",
@@ -56650,7 +58471,7 @@ window.allHeroes =
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 807,
+        "originalIndex": 838,
         "lb1": {
             "attack": 969,
             "defense": 863,
@@ -56726,7 +58547,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 808,
+        "originalIndex": 839,
         "lb1": {
             "attack": 1114,
             "defense": 1034,
@@ -56796,7 +58617,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 809,
+        "originalIndex": 840,
         "lb1": {
             "attack": 939,
             "defense": 925,
@@ -56852,40 +58673,43 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
         "heroId": "elemental_aconia_costume_courier",
         "star": 5,
-        "power": 1279,
-        "attack": 1290,
-        "defense": 1256,
-        "health": 2507,
+        "power": 1302,
+        "attack": 1316,
+        "defense": 1282,
+        "health": 2558,
         "effects": [
-            "Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages its target with 200% attack every turn.",
-            "The Dagger Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health.",
-            "When the Dagger Fiend disappears after it has absorbed enough healing, the owner receives 1011 Bleed damage over 3 turns.",
-            "All enemies take +30% increased damage from status ailments and negative stacks for 6 turns."
+            "Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages its target with 240% attack every turn.",
+            "The Dagger Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.",
+            "When the Dagger Fiend disappears after it has absorbed enough healing, the owner receives 1125 Bleed damage over 3 turns.",
+            "All enemies take +35% increased damage from status ailments and negative stacks for 6 turns."
         ],
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
             "* Dealt extra elemental damage +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage -25%"
+            "* Received elemental damage -25%",
+            "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 810,
+        "originalIndex": 841,
         "lb1": {
-            "attack": 1390,
-            "defense": 1354,
-            "health": 2702,
-            "power": 1368
+            "attack": 1418,
+            "defense": 1381,
+            "health": 2757,
+            "power": 1393
         },
         "lb2": {
-            "attack": 1590,
-            "defense": 1549,
-            "health": 3091,
-            "power": 1547
+            "attack": 1623,
+            "defense": 1581,
+            "health": 3154,
+            "power": 1577
         },
         "cn_skill_info": [
             {
@@ -56945,7 +58769,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 811,
+        "originalIndex": 842,
         "lb1": {
             "attack": 790,
             "defense": 768,
@@ -57018,7 +58842,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 812,
+        "originalIndex": 843,
         "lb1": {
             "attack": 968,
             "defense": 1004,
@@ -57087,15 +58911,18 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            "Mimic Loot: This Mimic gives a chance for the following extra loot",
+            "Legendary:",
             "* Alpha Aether",
             "* Dark Aether III",
+            "Epic:",
             "* Dark Aether II",
+            "Rare:",
             "* Dark Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 813,
+        "originalIndex": 844,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -57183,7 +59010,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 814,
+        "originalIndex": 845,
         "lb1": {
             "attack": 1447,
             "defense": 1294,
@@ -57270,7 +59097,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 815,
+        "originalIndex": 846,
         "lb1": {
             "attack": 814,
             "defense": 850,
@@ -57364,7 +59191,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 816,
+        "originalIndex": 847,
         "lb1": {
             "attack": 1282,
             "defense": 1338,
@@ -57449,7 +59276,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 817,
+        "originalIndex": 848,
         "lb1": {
             "attack": 1240,
             "defense": 1163,
@@ -57517,7 +59344,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 0,
-        "originalIndex": 818,
+        "originalIndex": 849,
         "lb1": {
             "attack": 710,
             "defense": 910,
@@ -57583,7 +59410,7 @@ window.allHeroes =
         "passives": [],
         "family": "svartalfheim",
         "costume_id": 1,
-        "originalIndex": 819,
+        "originalIndex": 850,
         "lb1": {
             "attack": 841,
             "defense": 1250,
@@ -57640,10 +59467,10 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_amelia",
         "star": 5,
-        "power": 1257,
-        "attack": 1301,
-        "defense": 1308,
-        "health": 2222,
+        "power": 1272,
+        "attack": 1316,
+        "defense": 1322,
+        "health": 2263,
         "effects": [
             "Recovers 26% health for all allies.",
             "Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
@@ -57662,18 +59489,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 820,
+        "originalIndex": 851,
         "lb1": {
-            "attack": 1403,
-            "defense": 1409,
-            "health": 2395,
-            "power": 1345
+            "attack": 1418,
+            "defense": 1425,
+            "health": 2439,
+            "power": 1361
         },
         "lb2": {
-            "attack": 1605,
-            "defense": 1612,
-            "health": 2740,
-            "power": 1521
+            "attack": 1623,
+            "defense": 1630,
+            "health": 2791,
+            "power": 1540
         },
         "cn_skill_info": [
             {
@@ -57736,7 +59563,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 821,
+        "originalIndex": 852,
         "lb1": {
             "attack": 936,
             "defense": 870,
@@ -57806,7 +59633,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 822,
+        "originalIndex": 853,
         "lb1": {
             "attack": 972,
             "defense": 1061,
@@ -57880,7 +59707,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 823,
+        "originalIndex": 854,
         "lb1": {
             "attack": 879,
             "defense": 916,
@@ -57917,9 +59744,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mark of the Jackal",
         "types": [
-            "Greed",
-            "DoT all",
-            "Defense Debuff"
+            "Greed 1",
+            "DoT All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -57957,7 +59784,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 824,
+        "originalIndex": 855,
         "lb1": {
             "attack": 1281,
             "defense": 1316,
@@ -58028,7 +59855,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 825,
+        "originalIndex": 856,
         "lb1": {
             "attack": 941,
             "defense": 841,
@@ -58088,15 +59915,15 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_aramis_costume_boulanger",
         "star": 5,
-        "power": 1254,
-        "attack": 1369,
-        "defense": 1203,
+        "power": 1281,
+        "attack": 1413,
+        "defense": 1242,
         "health": 2241,
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
+            "Deals 410% damage to the target and nearby enemies.",
             "Boosts all allies' health by 30% of damage dealt.",
             "All allies are immune to new status ailments for 3 turns. This effect can't be dispelled.",
-            "The caster reduces all received damage by -20% for 3 turns."
+            "The caster reduces all received damage by -25% for 3 turns."
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
@@ -58104,18 +59931,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 826,
+        "originalIndex": 857,
         "lb1": {
-            "attack": 1476,
-            "defense": 1297,
+            "attack": 1523,
+            "defense": 1339,
             "health": 2415,
-            "power": 1342
+            "power": 1371
         },
         "lb2": {
-            "attack": 1688,
-            "defense": 1484,
+            "attack": 1743,
+            "defense": 1532,
             "health": 2763,
-            "power": 1518
+            "power": 1550
         },
         "cn_skill_info": [
             {
@@ -58175,7 +60002,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 827,
+        "originalIndex": 858,
         "lb1": {
             "attack": 848,
             "defense": 810,
@@ -58233,14 +60060,14 @@ window.allHeroes =
         ],
         "heroId": "construct_arzen",
         "star": 5,
-        "power": 1279,
-        "attack": 1345,
-        "defense": 1326,
-        "health": 2233,
+        "power": 1299,
+        "attack": 1363,
+        "defense": 1345,
+        "health": 2290,
         "effects": [
-            "Deals 510% damage to the target.",
+            "Deals 540% damage to the target.",
             "Has a 85% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
-            "The target resists healing and receives 200 damage per each resisted healing for 3 turns."
+            "The target resists healing and receives 250 damage per each resisted healing for 3 turns."
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
@@ -58253,18 +60080,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 828,
+        "originalIndex": 859,
         "lb1": {
-            "attack": 1449,
-            "defense": 1429,
-            "health": 2406,
-            "power": 1369
+            "attack": 1469,
+            "defense": 1449,
+            "health": 2468,
+            "power": 1390
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1635,
-            "health": 2753,
-            "power": 1548
+            "attack": 1681,
+            "defense": 1658,
+            "health": 2824,
+            "power": 1572
         },
         "cn_skill_info": [
             {
@@ -58322,30 +60149,30 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "****",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Epic",
             "- Damascus Blade",
             "- Tome Of Tactics",
             "- Royal Tabard",
-            "***",
+            "Rare",
             "- Fine Gloves",
             "- Compass",
             "- Trap Tools",
             "- Tall Boots",
             "- Scabbard",
-            "**",
+            "Uncommon",
             "- Strong Rope",
             "- Dagger"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 829,
+        "originalIndex": 860,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -58421,7 +60248,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 830,
+        "originalIndex": 861,
         "lb1": {
             "attack": 1314,
             "defense": 1294,
@@ -58448,6 +60275,68 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Auberguy",
+        "fancy_name": "Aubergine Wizard",
+        "AetherPower": "Special Armor",
+        "color": "Purple",
+        "class": "Wizard",
+        "speed": "Very Slow",
+        "skill": "Bitter Wilting",
+        "types": [
+            "Hit All",
+            "Max Health Reduction All",
+            "Harvest Buffs All",
+            "Boost Health Self",
+            "Defense Debuff Wither All"
+        ],
+        "skill_types": [],
+        "source": "Challenge - Vigilant Vegetables Summon",
+        "Release date": "2026-04-02",
+        "specialId": "bitter_wilting",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_auberguy",
+        "star": 5,
+        "power": 1299,
+        "attack": 1339,
+        "defense": 1355,
+        "health": 2329,
+        "effects": [
+            "Deals 530% damage to all enemies.",
+            "Reduces max health for all enemies by 800. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
+            "Harvests buffs from all enemies. (Harvest safely removes 2 buffs, positive Stacks or Growth effects from each target. This includes uncleansable buffs and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate. Growth effects are removed first. Other effects, the latest is removed first.)",
+            "Wither: All enemies get -450 defense."
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
+            "1) Seedling Fiend: 50% attack, 20% health",
+            "2) Sprout Fiend: 75% attack, 30% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health."
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 862,
+        "lb1": {
+            "attack": 1443,
+            "defense": 1460,
+            "health": 2510,
+            "power": 1390
+        },
+        "lb2": {
+            "attack": 1651,
+            "defense": 1671,
+            "health": 2872,
+            "power": 1572
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Bastet",
@@ -58490,7 +60379,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 831,
+        "originalIndex": 863,
         "lb1": {
             "attack": 872,
             "defense": 907,
@@ -58527,7 +60416,7 @@ window.allHeroes =
         "skill": "Orchids and Roses",
         "types": [
             "Hit All",
-            "Dodge buff"
+            "Dodge Chance Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -58565,7 +60454,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 832,
+        "originalIndex": 864,
         "lb1": {
             "attack": 1236,
             "defense": 1368,
@@ -58642,7 +60531,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 833,
+        "originalIndex": 865,
         "lb1": {
             "attack": 950,
             "defense": 963,
@@ -58690,7 +60579,7 @@ window.allHeroes =
             "Hit 1",
             "Mana Reduce 4 on Enemy SS",
             "Elemental Defense Buff 3",
-            "Mana Increase",
+            "Mana Increase All",
             "Hit All on Ally SS"
         ],
         "skill_types": [
@@ -58736,7 +60625,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 834,
+        "originalIndex": 866,
         "lb1": {
             "attack": 1345,
             "defense": 1358,
@@ -58815,7 +60704,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 835,
+        "originalIndex": 867,
         "lb1": {
             "attack": 925,
             "defense": 916,
@@ -58880,7 +60769,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 836,
+        "originalIndex": 868,
         "lb1": {
             "attack": 801,
             "defense": 808,
@@ -58951,7 +60840,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 837,
+        "originalIndex": 869,
         "lb1": {
             "attack": 1025,
             "defense": 997,
@@ -59019,7 +60908,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 838,
+        "originalIndex": 870,
         "lb1": {
             "attack": 610,
             "defense": 890,
@@ -59075,10 +60964,10 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_brachynd",
         "star": 5,
-        "power": 1287,
-        "attack": 1355,
-        "defense": 1306,
-        "health": 2303,
+        "power": 1297,
+        "attack": 1365,
+        "defense": 1316,
+        "health": 2333,
         "effects": [
             "Deals 250% damage to all  enemies.",
             "Against Titans, deals 500% damage.",
@@ -59086,25 +60975,26 @@ window.allHeroes =
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage."
         ],
         "passives": [
-            "Enhanced Shields on Special:",
-            "Passive Skill as attacking character: Dark shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
-            "Passive Skill as defending character: Dark shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "Enhanced Shields on Special: Passive Skill as attacking character",
+            "* Dark shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "Passive Skill as defending character",
+            "* Dark shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
             "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 839,
+        "originalIndex": 871,
         "lb1": {
-            "attack": 1460,
-            "defense": 1407,
-            "health": 2481,
-            "power": 1377
+            "attack": 1471,
+            "defense": 1418,
+            "health": 2515,
+            "power": 1388
         },
         "lb2": {
-            "attack": 1671,
-            "defense": 1610,
-            "health": 2839,
-            "power": 1558
+            "attack": 1684,
+            "defense": 1623,
+            "health": 2877,
+            "power": 1571
         },
         "cn_skill_info": [
             {
@@ -59170,7 +61060,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 840,
+        "originalIndex": 872,
         "lb1": {
             "attack": 1105,
             "defense": 1118,
@@ -59210,7 +61100,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Aura of Twilight",
         "types": [
-            "Hit all",
+            "Hit All",
             "Dodge to All"
         ],
         "skill_types": [
@@ -59239,7 +61129,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 841,
+        "originalIndex": 873,
         "lb1": {
             "attack": 1110,
             "defense": 1136,
@@ -59303,11 +61193,11 @@ window.allHeroes =
             "Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 842,
+        "originalIndex": 874,
         "lb1": {
             "attack": 1218,
             "defense": 1185,
@@ -59383,7 +61273,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 843,
+        "originalIndex": 875,
         "lb1": {
             "attack": 803,
             "defense": 841,
@@ -59463,7 +61353,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 844,
+        "originalIndex": 876,
         "lb1": {
             "attack": 1338,
             "defense": 1338,
@@ -59546,7 +61436,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 845,
+        "originalIndex": 877,
         "lb1": {
             "attack": 799,
             "defense": 923,
@@ -59611,7 +61501,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 846,
+        "originalIndex": 878,
         "lb1": {
             "attack": 790,
             "defense": 768,
@@ -59642,6 +61532,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Cordelia",
+        "fancy_name": "Queen of Curses",
+        "AetherPower": "Damage Reduction",
+        "color": "Purple",
+        "class": "Sorcerer",
+        "speed": "Slow",
+        "skill": "Destined Curse",
+        "types": [
+            "Hit 3",
+            "DoT 3",
+            "Damage All if target defeated"
+        ],
+        "skill_types": [],
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-04-01",
+        "specialId": "destined_curse",
+        "passiveSkills": [
+            "resist_poison",
+            "resist_direct_mana_reductions"
+        ],
+        "heroId": "dark_god_cordelia",
+        "star": 5,
+        "power": 1193,
+        "attack": 1168,
+        "defense": 1227,
+        "health": 2255,
+        "effects": [
+            "Deals 385% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 1165 Curse damage over 5 turns, starting low and increasing every turn.",
+            "If the target is defeated in 4 turns, all enemies receive 1027 damage.",
+            "Elemental Link gives all Dark  allies +20% critical chance for 4 turns. This effect can’t be dispelled."
+        ],
+        "passives": [
+            "Resist Mana Reduction: This character is immune to mana reductions.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage."
+        ],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 879,
+        "lb1": {
+            "attack": 1258,
+            "defense": 1323,
+            "health": 2430,
+            "power": 1275
+        },
+        "lb2": {
+            "attack": 1440,
+            "defense": 1513,
+            "health": 2781,
+            "power": 1441
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Dark Lord",
@@ -59683,7 +61627,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 847,
+        "originalIndex": 880,
         "lb1": {
             "attack": 863,
             "defense": 808,
@@ -59758,11 +61702,11 @@ window.allHeroes =
             "The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 320 Poison damage and lowers the target's mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 531 Curse damage over 4 turns, starting low and increasing every turn."
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 848,
+        "originalIndex": 881,
         "lb1": {
             "attack": 1439,
             "defense": 1195,
@@ -59838,7 +61782,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 849,
+        "originalIndex": 882,
         "lb1": {
             "attack": 1285,
             "defense": 1314,
@@ -59913,7 +61857,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 850,
+        "originalIndex": 883,
         "lb1": {
             "attack": 976,
             "defense": 1016,
@@ -59985,7 +61929,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 851,
+        "originalIndex": 884,
         "lb1": {
             "attack": 1038,
             "defense": 967,
@@ -60057,12 +62001,12 @@ window.allHeroes =
             "Growth: The caster and nearby allies get 340 attack."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared  with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 852,
+        "originalIndex": 885,
         "lb1": {
             "attack": 1181,
             "defense": 1152,
@@ -60121,15 +62065,15 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_devyani",
         "star": 5,
-        "power": 1261,
-        "attack": 1328,
-        "defense": 1268,
-        "health": 2261,
+        "power": 1276,
+        "attack": 1343,
+        "defense": 1283,
+        "health": 2305,
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 500% damage to the target.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Wither and Growth modify character's Ability Scores.)",
-            "Wither: The target gets -350 defense."
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on the caster when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effects affecting attack stat do not affect the extra damage.)",
+            "Wither: The target gets -400 defense."
         ],
         "passives": [
             "Mana on Damage Received:",
@@ -60139,18 +62083,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 853,
+        "originalIndex": 886,
         "lb1": {
-            "attack": 1431,
-            "defense": 1367,
-            "health": 2437,
-            "power": 1349
+            "attack": 1447,
+            "defense": 1383,
+            "health": 2484,
+            "power": 1366
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1564,
-            "health": 2788,
-            "power": 1526
+            "attack": 1656,
+            "defense": 1582,
+            "health": 2842,
+            "power": 1545
         },
         "cn_skill_info": [
             {
@@ -60207,7 +62151,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 854,
+        "originalIndex": 887,
         "lb1": {
             "attack": 868,
             "defense": 859,
@@ -60279,7 +62223,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 855,
+        "originalIndex": 888,
         "lb1": {
             "attack": 1156,
             "defense": 1174,
@@ -60342,7 +62286,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 856,
+        "originalIndex": 889,
         "lb1": {
             "attack": 781,
             "defense": 730,
@@ -60407,7 +62351,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 857,
+        "originalIndex": 890,
         "lb1": {
             "attack": 903,
             "defense": 840,
@@ -60472,7 +62416,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 858,
+        "originalIndex": 891,
         "lb1": {
             "attack": 1013,
             "defense": 973,
@@ -60547,7 +62491,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 859,
+        "originalIndex": 892,
         "lb1": {
             "attack": 1259,
             "defense": 1121,
@@ -60624,7 +62568,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 860,
+        "originalIndex": 893,
         "lb1": {
             "attack": 1441,
             "defense": 1243,
@@ -60654,6 +62598,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Domitia Stylish",
+        "fancy_name": "Stylish Sniper",
+        "AetherPower": "Attack Up",
+        "color": "Purple",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Stylish Bolt",
+        "types": [
+            "Hit 1",
+            "Elemental Defense Buff 3",
+            "Dispeller 3"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_bolt",
+        "parent_specialId": "shock_bolt",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "magitech_sniper_costume_stylish",
+        "star": 5,
+        "power": 1341,
+        "attack": 1467,
+        "defense": 1244,
+        "health": 2534,
+        "effects": [
+            "Deals 610% damage to the target.",
+            "If the target has less than 50% health remaining, deals 755% damage instead.",
+            "The caster and nearby allies get +84% defense against Holy for 4 turns.",
+            "Dispels buffs from the target and nearby enemies."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 894,
+        "lb1": {
+            "attack": 1581,
+            "defense": 1341,
+            "health": 2731,
+            "power": 1436
+        },
+        "lb2": {
+            "attack": 1809,
+            "defense": 1534,
+            "health": 3125,
+            "power": 1625
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Dr. Moreau",
@@ -60692,7 +62690,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 861,
+        "originalIndex": 895,
         "lb1": {
             "attack": 834,
             "defense": 810,
@@ -60760,7 +62758,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 862,
+        "originalIndex": 896,
         "lb1": {
             "attack": 1064,
             "defense": 1070,
@@ -60827,12 +62825,12 @@ window.allHeroes =
             "All enemies get -85% decrease of any healing received for 4 turns."
         ],
         "passives": [
-            "Resist Poison: This character is immune to status ailments that deal Poison damage",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 863,
+        "originalIndex": 897,
         "lb1": {
             "attack": 1094,
             "defense": 1143,
@@ -60908,7 +62906,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 864,
+        "originalIndex": 898,
         "lb1": {
             "attack": 1181,
             "defense": 1165,
@@ -60984,7 +62982,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 865,
+        "originalIndex": 899,
         "lb1": {
             "attack": 1232,
             "defense": 1274,
@@ -61010,6 +63008,64 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Dularfulr C1",
+        "fancy_name": "Dwarven Dark Engineer",
+        "AetherPower": "Defense Up",
+        "color": "Purple",
+        "class": "Paladin",
+        "speed": "Fast",
+        "skill": "Night's Calibration",
+        "types": [
+            "HoT All",
+            "Firestorm Ward All",
+            "Status Ailments Immunity All",
+            "Heal on attempted ailment"
+        ],
+        "skill_types": [],
+        "source": "S7 - Treasures of Flame and Frost",
+        "Release date": "2026-04-07",
+        "specialId": "nights_calibration",
+        "parent_specialId": "nights_whisper",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "tales2_dularfulr_costume_engineer",
+        "star": 5,
+        "power": 1315,
+        "attack": 1305,
+        "defense": 1347,
+        "health": 2549,
+        "effects": [
+            "All allies regenerate 1300 HP over 4 turns.",
+            "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1400. Reduces damage by additional 30% when the attacker is of the Nature element.",
+            "All allies are immune to new status ailments for 4 turns, and recover 300 health for each attempted status ailment."
+        ],
+        "passives": [
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 384 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ],
+        "family": "nidavellir",
+        "costume_id": 1,
+        "originalIndex": 900,
+        "lb1": {
+            "attack": 1407,
+            "defense": 1452,
+            "health": 2747,
+            "power": 1408
+        },
+        "lb2": {
+            "attack": 1609,
+            "defense": 1662,
+            "health": 3142,
+            "power": 1593
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Duval",
@@ -61038,37 +63094,37 @@ window.allHeroes =
         ],
         "heroId": "scoundrel_duval",
         "star": 5,
-        "power": 1258,
-        "attack": 1295,
-        "defense": 1293,
-        "health": 2270,
+        "power": 1268,
+        "attack": 1306,
+        "defense": 1303,
+        "health": 2298,
         "effects": [
-            "Ransacks the target, stealing health and buffs. (Steals 400 health. Safely steals one random Growth effect, positive stack, or status effect buff from the target. This includes undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
+            "Ransacks the target, stealing health and buffs. (Steals 400 health. Safely steals one random status effect buff from the target. This includes undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
             "Deals 560% damage to the target.",
             "The target receives 1413 Poison damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Thief's Opportunity: At the start of each turn this character has a 50% chance to Ransack a random enemy",
+            "Thief's Opportunity: At the start of each turn this character has a 100% chance to Ransack a random enemy",
             "Ransack:",
-            "* Steals 200 health.",
-            "* Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
+            "* Steals 100 health.",
+            "* Safely steals one random status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
             "* Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
-            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the begining of each wave."
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 866,
+        "originalIndex": 901,
         "lb1": {
-            "attack": 1396,
-            "defense": 1394,
-            "health": 2446,
-            "power": 1346
+            "attack": 1407,
+            "defense": 1405,
+            "health": 2477,
+            "power": 1357
         },
         "lb2": {
-            "attack": 1597,
-            "defense": 1595,
-            "health": 2799,
-            "power": 1522
+            "attack": 1610,
+            "defense": 1607,
+            "health": 2834,
+            "power": 1535
         },
         "cn_skill_info": [
             {
@@ -61133,7 +63189,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 867,
+        "originalIndex": 902,
         "lb1": {
             "attack": 1280,
             "defense": 1218,
@@ -61193,10 +63249,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_elsbeth",
         "star": 5,
-        "power": 1277,
-        "attack": 1332,
-        "defense": 1303,
-        "health": 2294,
+        "power": 1282,
+        "attack": 1336,
+        "defense": 1308,
+        "health": 2309,
         "effects": [
             "Deals 600% damage to the target.",
             "If the target has Fiends or Mega Fiends, deals 500% damage to a random enemy.",
@@ -61215,18 +63271,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 868,
+        "originalIndex": 903,
         "lb1": {
-            "attack": 1436,
-            "defense": 1405,
-            "health": 2473,
-            "power": 1367
+            "attack": 1440,
+            "defense": 1409,
+            "health": 2488,
+            "power": 1371
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1607,
-            "health": 2829,
-            "power": 1546
+            "attack": 1648,
+            "defense": 1612,
+            "health": 2847,
+            "power": 1551
         },
         "cn_skill_info": [
             {
@@ -61284,21 +63340,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Master Rogue Emblems",
-            "* Master Ranger Emblems",
-            "* Rogue Emblems",
-            "* Ranger Emblems"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Legendary",
+            "* Master Rogue Emblem",
+            "* Master Ranger Emblem",
+            "Epic",
+            "* Rogue Emblem",
+            "* Ranger Emblem"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 869,
+        "originalIndex": 904,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -61375,7 +63433,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 870,
+        "originalIndex": 905,
         "lb1": {
             "attack": 1087,
             "defense": 1010,
@@ -61439,21 +63497,24 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Common Dark Trainer Heroes",
-            "* Uncommon Dark Trainer Heroes",
-            "* Rare Dark Trainer Heroes",
-            "* Common Dark Heroes",
-            "* Uncommon Dark Heroes"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Rare",
+            "* Trainer Hero",
+            "Uncommon",
+            "* Trainer Hero",
+            "* Uncommon Dark Heroes",
+            "Common",
+            "* Trainer Hero",
+            "* Common Dark Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 871,
+        "originalIndex": 906,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -61531,7 +63592,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 872,
+        "originalIndex": 907,
         "lb1": {
             "attack": 1085,
             "defense": 1036,
@@ -61594,7 +63655,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 873,
+        "originalIndex": 908,
         "lb1": {
             "attack": 836,
             "defense": 801,
@@ -61659,7 +63720,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 874,
+        "originalIndex": 909,
         "lb1": {
             "attack": 1042,
             "defense": 1051,
@@ -61727,7 +63788,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 875,
+        "originalIndex": 910,
         "lb1": {
             "attack": 1158,
             "defense": 1087,
@@ -61792,12 +63853,12 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 876,
+        "originalIndex": 911,
         "lb1": {
             "attack": 1325,
             "defense": 1296,
@@ -61869,7 +63930,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 877,
+        "originalIndex": 912,
         "lb1": {
             "attack": 1289,
             "defense": 1214,
@@ -61938,7 +63999,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 878,
+        "originalIndex": 913,
         "lb1": {
             "attack": 979,
             "defense": 903,
@@ -62002,7 +64063,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 879,
+        "originalIndex": 914,
         "lb1": {
             "attack": 888,
             "defense": 863,
@@ -62063,20 +64124,20 @@ window.allHeroes =
         "health": 2212,
         "effects": [
             "Deals 410% damage to all enemies.",
-            "All enemies receive 1230 Curse damage over 6 turns, starting low and increasing every turn.",
+            "All enemies receive 124-308 increasing Curse damage each turn for 6 turns. (On the first turn, 124 damage is dealt. The damage increases by +20% each turn, up to 308 damage per turn.)",
             "Source of Ailments: The following effects are cast on a random enemy at the start of each turn",
             "* +60% damage from status ailments for 5 turns.",
             "* -60% for all healing received for 5 turns.",
-            "The Source of Ailments will activate 6 times. Each attempt to dispel it removes one activation."
+            "The Source of Ailments will activate 6 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or decreases activations left by 1.)"
         ],
         "passives": [
-            "Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
+            "Mana of Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 880,
+        "originalIndex": 915,
         "lb1": {
             "attack": 1329,
             "defense": 1365,
@@ -62146,7 +64207,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 881,
+        "originalIndex": 916,
         "lb1": {
             "attack": 925,
             "defense": 943,
@@ -62197,7 +64258,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
         "heroId": "elemental_griffex_costume_camera",
         "star": 5,
         "power": 1231,
@@ -62214,11 +64277,12 @@ window.allHeroes =
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
             "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "- Received elemental damage: -25%",
+            "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 882,
+        "originalIndex": 917,
         "lb1": {
             "attack": 1283,
             "defense": 1339,
@@ -62287,7 +64351,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 883,
+        "originalIndex": 918,
         "lb1": {
             "attack": 663,
             "defense": 888,
@@ -62354,7 +64418,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 884,
+        "originalIndex": 919,
         "lb1": {
             "attack": 848,
             "defense": 679,
@@ -62423,7 +64487,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 885,
+        "originalIndex": 920,
         "lb1": {
             "attack": 1048,
             "defense": 868,
@@ -62499,7 +64563,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 886,
+        "originalIndex": 921,
         "lb1": {
             "attack": 1283,
             "defense": 1221,
@@ -62568,7 +64632,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 887,
+        "originalIndex": 922,
         "lb1": {
             "attack": 841,
             "defense": 805,
@@ -62609,7 +64673,8 @@ window.allHeroes =
         "skill": "Delicious Idol",
         "types": [
             "Hit 3",
-            "Fiends 3"
+            "Fiend Summoner 3",
+            "Attack Debuff Fiend"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -62645,7 +64710,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 888,
+        "originalIndex": 923,
         "lb1": {
             "attack": 1111,
             "defense": 1036,
@@ -62711,18 +64776,18 @@ window.allHeroes =
         "health": 2255,
         "effects": [
             "Deals 390% damage to the target and nearby enemies.",
-            "The more mana the enemies have, the more damage they will receive, up to 450%.",
-            "The target and nearby enemies receive Resonance for 3 turns. Each turn, Resonance deals 541 damage to the afflicted enemies and 270 damage to nearby enemies.",
-            "The target and nearby enemies receive Mana Corruption for 3 turns. Each time an afflicted enemy receives mana from an additional source, they receive 800 damage. (Mana added for the defense team at the end of their turn or from matching tiles activates Mana Corruption only if the target has a mana generation buff or a positive mana generation stack. Mana additions from other sources always activate Mana Corruption.)"
+            "The more mana the enemies have, the more damage they will receive, up to 460%.",
+            "The target and nearby enemies receive Resonance for 3 turns. Each turn, Resonance deals 453 damage to the afflicted enemies and 226 damage to nearby enemies.",
+            "The target and nearby enemies receive Mana Corruption for 3 turns. Each time an afflicted enemy receives mana from an additional source, they receive 850 damage. (Mana added for the defense team at the end of their turn or from matching tiles activates Mana Corruption only if the target has a mana generation buff or a positive mana generation stack. Mana additions from other sources always activate Mana Corruption.)"
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 889,
+        "originalIndex": 924,
         "lb1": {
             "attack": 1458,
             "defense": 1409,
@@ -62800,7 +64865,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 890,
+        "originalIndex": 925,
         "lb1": {
             "attack": 883,
             "defense": 941,
@@ -62866,7 +64931,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 891,
+        "originalIndex": 926,
         "lb1": {
             "attack": 803,
             "defense": 745,
@@ -62942,7 +65007,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 892,
+        "originalIndex": 927,
         "lb1": {
             "attack": 1028,
             "defense": 939,
@@ -62972,6 +65037,62 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Hel Toon",
+        "fancy_name": "Toon Celestial of Darkness",
+        "AetherPower": "Attack Up",
+        "color": "Purple",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Crush of Toon Hel",
+        "types": [
+            "Hit 3",
+            "Elemental Defense Debuff 3",
+            "Mana Gain Freeze 3"
+        ],
+        "skill_types": [],
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-04-29",
+        "specialId": "crush_of_toon_hel",
+        "parent_specialId": "crush_of_hel",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "dark_god_hel_costume_cute",
+        "star": 5,
+        "power": 1343,
+        "attack": 1420,
+        "defense": 1311,
+        "health": 2528,
+        "effects": [
+            "Deals 570% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -34% defense against Dark for 4 turns.",
+            "The target and nearby enemies can't gain mana for 4 turns.",
+            "Deals extra damage against Holy.",
+            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ],
+        "family": "hotm2017",
+        "costume_id": 2,
+        "originalIndex": 928,
+        "lb1": {
+            "attack": 1531,
+            "defense": 1413,
+            "health": 2724,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1751,
+            "defense": 1616,
+            "health": 3117,
+            "power": 1626
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Hreidmarr",
@@ -63018,12 +65139,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 893,
+        "originalIndex": 929,
         "lb1": {
             "attack": 1247,
             "defense": 1274,
@@ -63087,10 +65208,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_hu_sanniang",
         "star": 5,
-        "power": 1271,
-        "attack": 1291,
-        "defense": 1341,
-        "health": 2278,
+        "power": 1286,
+        "attack": 1306,
+        "defense": 1355,
+        "health": 2321,
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 500% damage to the target.",
@@ -63108,18 +65229,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 894,
+        "originalIndex": 930,
         "lb1": {
-            "attack": 1391,
-            "defense": 1445,
-            "health": 2455,
-            "power": 1360
+            "attack": 1407,
+            "defense": 1460,
+            "health": 2501,
+            "power": 1376
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1653,
-            "health": 2809,
-            "power": 1538
+            "attack": 1610,
+            "defense": 1671,
+            "health": 2862,
+            "power": 1557
         },
         "cn_skill_info": [
             {
@@ -63182,7 +65303,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 895,
+        "originalIndex": 931,
         "lb1": {
             "attack": 816,
             "defense": 843,
@@ -63256,7 +65377,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 896,
+        "originalIndex": 932,
         "lb1": {
             "attack": 1059,
             "defense": 1125,
@@ -63327,7 +65448,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 897,
+        "originalIndex": 933,
         "lb1": {
             "attack": 1276,
             "defense": 1216,
@@ -63408,7 +65529,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 898,
+        "originalIndex": 934,
         "lb1": {
             "attack": 970,
             "defense": 919,
@@ -63475,37 +65596,37 @@ window.allHeroes =
         ],
         "heroId": "beowulf_hygd",
         "star": 5,
-        "power": 1270,
-        "attack": 1291,
-        "defense": 1336,
-        "health": 2286,
+        "power": 1285,
+        "attack": 1306,
+        "defense": 1349,
+        "health": 2329,
         "effects": [
             "Cleanses status ailments from all allies.",
             "Recovers 50% health for all allies.",
             "Source of Buffs: The following effects are cast on all allies at the start of each turn:",
             "+40% defense against Special Skills for 2 turns.",
             "+40% increase for all healing received for 2 turns.",
-            "The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
+            "The Source of Buffs will activate 3 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)"
         ],
         "passives": [
-            "Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
+            "Mana of Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 899,
+        "originalIndex": 935,
         "lb1": {
-            "attack": 1391,
-            "defense": 1440,
-            "health": 2464,
-            "power": 1360
+            "attack": 1407,
+            "defense": 1454,
+            "health": 2510,
+            "power": 1375
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1648,
-            "health": 2819,
-            "power": 1538
+            "attack": 1610,
+            "defense": 1663,
+            "health": 2872,
+            "power": 1556
         },
         "cn_skill_info": [
             {
@@ -63577,7 +65698,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 900,
+        "originalIndex": 936,
         "lb1": {
             "attack": 1323,
             "defense": 1414,
@@ -63599,6 +65720,68 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Ivete",
+        "fancy_name": "Jealous Fairy of the Bewitched Castle",
+        "AetherPower": "Counterattack",
+        "color": "Purple",
+        "class": "Wizard",
+        "speed": "Slow",
+        "skill": "Bewitching Blast",
+        "types": [
+            "Hit All",
+            "Delayed Paralyze All",
+            "DoT All"
+        ],
+        "skill_types": [],
+        "source": "Alliance - The Brave & The Beautiful",
+        "Release date": "2026-04-16",
+        "specialId": "bewitching_blast",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_ivete",
+        "star": 5,
+        "power": 1318,
+        "attack": 1380,
+        "defense": 1355,
+        "health": 2364,
+        "effects": [
+            "If the caster has 40 or more Humility:",
+            "Deals 550% damage to all enemies.",
+            "After 1 turn all enemies get Paralyzed for 2 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "All enemies receive 755 Poison damage over 5 turns.",
+            "All enemies receive 749 Curse damage over 6 turns, starting low and increasing every turn.",
+            "Otherwise:",
+            "Deals 485% damage to all enemies.",
+            "After 1 turn the target and nearby enemies get Paralyzed for 2 turns.",
+            "(Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "All enemies receive 755 Poison damage over 5 turns."
+        ],
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when Status Ailment Expires or Is Cleared: This character's receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": 937,
+        "lb1": {
+            "attack": 1487,
+            "defense": 1460,
+            "health": 2548,
+            "power": 1410
+        },
+        "lb2": {
+            "attack": 1701,
+            "defense": 1671,
+            "health": 2915,
+            "power": 1596
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Jabberwock",
@@ -63633,7 +65816,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 901,
+        "originalIndex": 938,
         "lb1": {
             "attack": 801,
             "defense": 805,
@@ -63701,7 +65884,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 902,
+        "originalIndex": 939,
         "lb1": {
             "attack": 1031,
             "defense": 998,
@@ -63739,10 +65922,9 @@ window.allHeroes =
         "skill": "Vapors of the Underworld",
         "types": [
             "Charge",
-            "Hit 1",
-            "DoT 1",
-            "Hit all",
-            "DoT All"
+            "Hit 1/All",
+            "DoT 1/All",
+            "Boosted Heal Self/All on DoT"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -63782,7 +65964,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 903,
+        "originalIndex": 940,
         "lb1": {
             "attack": 1034,
             "defense": 1003,
@@ -63826,10 +66008,9 @@ window.allHeroes =
         "skill": "Gaze of the Underworld",
         "types": [
             "Charge",
-            "Hit 1",
-            "DoT 1",
-            "Hit all",
-            "Dot All"
+            "Hit 1/All",
+            "DoT 1/All",
+            "Boosted Heal Self/All on DoT"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -63855,15 +66036,15 @@ window.allHeroes =
         ],
         "heroId": "magic_jett_costume_eyes",
         "star": 5,
-        "power": 1277,
-        "attack": 1333,
-        "defense": 1282,
-        "health": 2333,
+        "power": 1293,
+        "attack": 1352,
+        "defense": 1300,
+        "health": 2367,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "x1 Mana Charge:",
             "* Deals 300% damage to the target.",
-            "* The target receives 858 Poison damage over 3 turns. The caster absorbs 100% of dealt Poison damage as boosted health.",
+            "* The target receives 870 Poison damage over 3 turns. The caster absorbs 100% of dealt Poison damage as boosted health.",
             "x2 Mana Charge:",
             "* Deals 300% damage to all enemies.",
             "* All enemies receive 1085 Poison damage over 5 turns. The caster and all their allies absorb 30% of dealt Poison damage as boosted health."
@@ -63875,18 +66056,18 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 904,
+        "originalIndex": 941,
         "lb1": {
-            "attack": 1436,
-            "defense": 1381,
-            "health": 2514,
-            "power": 1366
+            "attack": 1457,
+            "defense": 1401,
+            "health": 2551,
+            "power": 1384
         },
         "lb2": {
-            "attack": 1643,
-            "defense": 1580,
-            "health": 2877,
-            "power": 1545
+            "attack": 1667,
+            "defense": 1603,
+            "health": 2918,
+            "power": 1565
         },
         "cn_skill_info": [
             {
@@ -63922,7 +66103,8 @@ window.allHeroes =
             "Fear Debuff 1",
             "Hit 1",
             "Insanity 1",
-            "Self Insanity"
+            "Fear Debuff 2 if target defeated",
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -63942,13 +66124,13 @@ window.allHeroes =
         ],
         "heroId": "forsaken_kadath",
         "star": 5,
-        "power": 1251,
-        "attack": 1303,
-        "defense": 1268,
-        "health": 2251,
+        "power": 1276,
+        "attack": 1326,
+        "defense": 1293,
+        "health": 2321,
         "effects": [
-            "The target succumbs to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
-            "Deals 570% damage to the target and inflicts 55 Insanity on them.",
+            "The target succumbs to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 250% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
+            "Deals 600% damage to the target and inflicts 50 Insanity on them.",
             "If the target is defeated by the attack, then nearby enemies succumb to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Casting this Special Skill inflicts 40 Insanity to the caster."
         ],
@@ -63958,18 +66140,18 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 905,
+        "originalIndex": 942,
         "lb1": {
-            "attack": 1405,
-            "defense": 1367,
-            "health": 2426,
-            "power": 1339
+            "attack": 1429,
+            "defense": 1394,
+            "health": 2501,
+            "power": 1365
         },
         "lb2": {
-            "attack": 1607,
-            "defense": 1564,
-            "health": 2776,
-            "power": 1514
+            "attack": 1635,
+            "defense": 1595,
+            "health": 2862,
+            "power": 1544
         },
         "cn_skill_info": [
             {
@@ -64032,7 +66214,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 906,
+        "originalIndex": 943,
         "lb1": {
             "attack": 841,
             "defense": 770,
@@ -64104,7 +66286,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 907,
+        "originalIndex": 944,
         "lb1": {
             "attack": 1023,
             "defense": 982,
@@ -64135,6 +66317,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Kageburado Toon",
+        "fancy_name": "Cursed Toonlord",
+        "AetherPower": "Dodge",
+        "color": "Purple",
+        "class": "Barbarian",
+        "speed": "Very Fast",
+        "skill": "Toon Strike",
+        "types": [
+            "Safe Dispel 1 Buff 1",
+            "Hit 1"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_strike",
+        "parent_specialId": "break_strike",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_cursed_samurai_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1479,
+        "defense": 1313,
+        "health": 2375,
+        "effects": [
+            "Safely dispels buffs from the target.",
+            "Deals 275% damage to the target.",
+            "If the target has more than 50% health remaining, deals 550% damage instead.",
+            "Deals extra damage against Holy."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": 945,
+        "lb1": {
+            "attack": 1594,
+            "defense": 1415,
+            "health": 2560,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1823,
+            "defense": 1619,
+            "health": 2929,
+            "power": 1626
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Karnov",
@@ -64171,7 +66406,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 908,
+        "originalIndex": 946,
         "lb1": {
             "attack": 825,
             "defense": 803,
@@ -64241,7 +66476,7 @@ window.allHeroes =
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 909,
+        "originalIndex": 947,
         "lb1": {
             "attack": 1387,
             "defense": 1198,
@@ -64305,7 +66540,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 910,
+        "originalIndex": 948,
         "lb1": {
             "attack": 892,
             "defense": 876,
@@ -64373,7 +66608,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 911,
+        "originalIndex": 949,
         "lb1": {
             "attack": 863,
             "defense": 899,
@@ -64445,11 +66680,11 @@ window.allHeroes =
             "* Deals 70% damage to all enemies.",
             "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 912,
+        "originalIndex": 950,
         "lb1": {
             "attack": 1313,
             "defense": 1271,
@@ -64511,7 +66746,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 913,
+        "originalIndex": 951,
         "lb1": {
             "attack": 796,
             "defense": 763,
@@ -64579,7 +66814,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 914,
+        "originalIndex": 952,
         "lb1": {
             "attack": 1040,
             "defense": 951,
@@ -64644,7 +66879,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 915,
+        "originalIndex": 953,
         "lb1": {
             "attack": 930,
             "defense": 836,
@@ -64711,11 +66946,11 @@ window.allHeroes =
             "* Deals 70% damage to all enemies.",
             "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 916,
+        "originalIndex": 954,
         "lb1": {
             "attack": 1371,
             "defense": 1191,
@@ -64774,7 +67009,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 917,
+        "originalIndex": 955,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -64834,10 +67069,12 @@ window.allHeroes =
             "Deals 330% damage to all enemies.",
             "All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed."
         ],
-        "passives": [],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get  Stack (Max: 10): -5% defense."
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 918,
+        "originalIndex": 956,
         "lb1": {
             "attack": 1048,
             "defense": 1120,
@@ -64900,7 +67137,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 919,
+        "originalIndex": 957,
         "lb1": {
             "attack": 1163,
             "defense": 1076,
@@ -64979,7 +67216,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 920,
+        "originalIndex": 958,
         "lb1": {
             "attack": 1338,
             "defense": 1305,
@@ -65049,7 +67286,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 921,
+        "originalIndex": 959,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -65115,12 +67352,12 @@ window.allHeroes =
         ],
         "passives": [
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 922,
+        "originalIndex": 960,
         "lb1": {
             "attack": 1320,
             "defense": 1418,
@@ -65196,7 +67433,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 923,
+        "originalIndex": 961,
         "lb1": {
             "attack": 841,
             "defense": 839,
@@ -65275,7 +67512,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 924,
+        "originalIndex": 962,
         "lb1": {
             "attack": 1059,
             "defense": 1111,
@@ -65346,7 +67583,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 925,
+        "originalIndex": 963,
         "lb1": {
             "attack": 1316,
             "defense": 1383,
@@ -65427,11 +67664,11 @@ window.allHeroes =
             "* Up to +35% mana generation.",
             "* Up to +25% extra chance to dodge.",
             "* The effects diminish the less Flight Momentum character has.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 926,
+        "originalIndex": 964,
         "lb1": {
             "attack": 1298,
             "defense": 1409,
@@ -65504,7 +67741,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 927,
+        "originalIndex": 965,
         "lb1": {
             "attack": 999,
             "defense": 932,
@@ -65544,8 +67781,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Raging Tempest",
         "types": [
-            "Dispeler all",
-            "Hit all",
+            "Dispeler All",
+            "Hit All",
             "Defense Debuff All"
         ],
         "skill_types": [
@@ -65577,7 +67814,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 928,
+        "originalIndex": 966,
         "lb1": {
             "attack": 1279,
             "defense": 1332,
@@ -65646,7 +67883,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 929,
+        "originalIndex": 967,
         "lb1": {
             "attack": 850,
             "defense": 863,
@@ -65724,7 +67961,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 930,
+        "originalIndex": 968,
         "lb1": {
             "attack": 1147,
             "defense": 1183,
@@ -65798,7 +68035,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 931,
+        "originalIndex": 969,
         "lb1": {
             "attack": 932,
             "defense": 1003,
@@ -65867,7 +68104,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 932,
+        "originalIndex": 970,
         "lb1": {
             "attack": 779,
             "defense": 910,
@@ -65932,7 +68169,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 933,
+        "originalIndex": 971,
         "lb1": {
             "attack": 985,
             "defense": 967,
@@ -66006,7 +68243,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 934,
+        "originalIndex": 972,
         "lb1": {
             "attack": 999,
             "defense": 1043,
@@ -66082,7 +68319,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 935,
+        "originalIndex": 973,
         "lb1": {
             "attack": 1212,
             "defense": 1318,
@@ -66165,7 +68402,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 936,
+        "originalIndex": 974,
         "lb1": {
             "attack": 825,
             "defense": 799,
@@ -66242,7 +68479,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 937,
+        "originalIndex": 975,
         "lb1": {
             "attack": 834,
             "defense": 779,
@@ -66320,7 +68557,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 938,
+        "originalIndex": 976,
         "lb1": {
             "attack": 1031,
             "defense": 998,
@@ -66374,14 +68611,14 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_marnes",
         "star": 5,
-        "power": 1252,
-        "attack": 1324,
+        "power": 1267,
+        "attack": 1345,
         "defense": 1254,
-        "health": 2233,
+        "health": 2288,
         "effects": [
             "Deals 300% Clawing damage to the enemies on the edges of the formation. If there is only one enemy, the damage is doubled. (Deals 400% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 5 turns.)",
-            "The enemies on the edges of the enemy formation receive 1500 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 250. Max total damage: 3000.)",
-            "The enemies on the edges of the enemy formation receive 625 Poison damage over 5 turns."
+            "The enemies on the edges of the enemy formation receive 1600 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 250. Max total damage: 3000.)",
+            "The enemies on the edges of the enemy formation receive 705 Poison damage over 5 turns."
         ],
         "passives": [
             "Nine Lives:",
@@ -66396,18 +68633,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 939,
+        "originalIndex": 977,
         "lb1": {
-            "attack": 1427,
+            "attack": 1449,
             "defense": 1351,
-            "health": 2406,
-            "power": 1339
+            "health": 2466,
+            "power": 1355
         },
         "lb2": {
-            "attack": 1633,
+            "attack": 1658,
             "defense": 1546,
-            "health": 2753,
-            "power": 1514
+            "health": 2821,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -66434,7 +68671,7 @@ window.allHeroes =
         "skill": "Here! Catch!",
         "types": [
             "Hit All",
-            "Enhanced Dodge"
+            "Enhanced Dodge Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -66464,11 +68701,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 940,
+        "originalIndex": 978,
         "lb1": {
             "attack": 1318,
             "defense": 1205,
@@ -66543,7 +68780,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 941,
+        "originalIndex": 979,
         "lb1": {
             "attack": 1076,
             "defense": 1087,
@@ -66623,7 +68860,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 942,
+        "originalIndex": 980,
         "lb1": {
             "attack": 1415,
             "defense": 1363,
@@ -66694,7 +68931,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 943,
+        "originalIndex": 981,
         "lb1": {
             "attack": 1178,
             "defense": 1245,
@@ -66744,7 +68981,7 @@ window.allHeroes =
             "Hit 1",
             "Hit Random 1 / 4 / 10",
             "Dispel / Dispel / Safely Dispel 1 buff on hit",
-            "Defense Stack on hit"
+            "Defense Debuff Stack on hit"
         ],
         "skill_types": [
             "Snipers",
@@ -66761,47 +68998,47 @@ window.allHeroes =
         ],
         "heroId": "ronin_mikanagi_miran",
         "star": 5,
-        "power": 1288,
-        "attack": 1351,
-        "defense": 1318,
-        "health": 2296,
+        "power": 1313,
+        "attack": 1374,
+        "defense": 1343,
+        "health": 2366,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "x1 Mana Charge:",
-            "Deals 310% damage to the target.",
-            "Deals additional 310% damage to 1 random enemies.",
+            "Deals 320% damage to the target.",
+            "Deals additional 320% damage to 1 random enemies.",
             "Dispel 1 buffs from each hit enemy.",
             "x2 Mana Charge:",
-            "Deals 320% damage to the target.",
-            "Deals additional 320% damage to 4 random enemies.",
+            "Deals 330% damage to the target.",
+            "Deals additional 330% damage to 4 random enemies.",
             "Stack (Max: 10): Each hit gives its target -5% defense.",
             "Dispel 1 buffs from each hit enemy.",
             "x3 Mana Charge:",
-            "Deals 330% damage to the target.",
-            "Deals additional 330% damage to 10 random enemies.",
+            "Deals 340% damage to the target.",
+            "Deals additional 340% damage to 10 random enemies.",
             "Stack (Max: 10): Each hit gives its target -5% defense.",
             "Safely Dispels 1 buff from each hit enemy."
         ],
         "passives": [
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
-            "* The attacker receives 400% damage.",
-            "* The attacker receives 1200 Bleed damage over 3 turns."
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 944,
+        "originalIndex": 982,
         "lb1": {
-            "attack": 1456,
-            "defense": 1420,
-            "health": 2475,
-            "power": 1378
+            "attack": 1480,
+            "defense": 1447,
+            "health": 2550,
+            "power": 1405
         },
         "lb2": {
-            "attack": 1666,
-            "defense": 1625,
-            "health": 2832,
-            "power": 1559
+            "attack": 1694,
+            "defense": 1656,
+            "health": 2918,
+            "power": 1590
         },
         "cn_skill_info": [
             {
@@ -66831,9 +69068,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Black Tide",
         "types": [
-            "Hit All",
-            "Hit All allies",
-            "Hits Ignore Dark"
+            "Hit All except Dark",
+            "Hit All allies except Dark"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -66859,7 +69095,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 945,
+        "originalIndex": 983,
         "lb1": {
             "attack": 799,
             "defense": 741,
@@ -66900,8 +69136,10 @@ window.allHeroes =
         "skill": "Emerald Tide",
         "types": [
             "Hit All",
-            "Attack Buff All dark",
-            "Attack Debuff All not dark"
+            "Attack Buff All Dark",
+            "Attack Buff All Dark enemies",
+            "Attack Debuff All except Dark",
+            "Attack Debuff All allies except Dark"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -66931,7 +69169,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 946,
+        "originalIndex": 984,
         "lb1": {
             "attack": 1012,
             "defense": 924,
@@ -66966,6 +69204,62 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Mok-Arr Toon",
+        "fancy_name": "Savage Toon",
+        "AetherPower": "Rage",
+        "color": "Purple",
+        "class": "Barbarian",
+        "speed": "Average",
+        "skill": "Toon Tide",
+        "types": [
+            "Hit All except Dark",
+            "Hit All allies except Dark",
+            "Elemental Defense Buff All except Dark",
+            "Elemental Defense Debuff All allies except Dark"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_tide",
+        "parent_specialId": "black_tide",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_hammerhead_hulk_costume_cute",
+        "star": 5,
+        "power": 1344,
+        "attack": 1375,
+        "defense": 1267,
+        "health": 2739,
+        "effects": [
+            "Deals 500% damage to all enemies.",
+            "Deals 50% damage to all allies.",
+            "All allies and enemies get -54% defense against Dark for 4 turns.",
+            "Deals extra damage against Holy.",
+            "All Dark allies and enemies are immune to this Special Skill."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 985,
+        "lb1": {
+            "attack": 1482,
+            "defense": 1365,
+            "health": 2952,
+            "power": 1439
+        },
+        "lb2": {
+            "attack": 1695,
+            "defense": 1562,
+            "health": 3378,
+            "power": 1628
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Morax",
@@ -67012,7 +69306,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 947,
+        "originalIndex": 986,
         "lb1": {
             "attack": 828,
             "defense": 830,
@@ -67088,7 +69382,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 948,
+        "originalIndex": 987,
         "lb1": {
             "attack": 1292,
             "defense": 1358,
@@ -67163,7 +69457,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 949,
+        "originalIndex": 988,
         "lb1": {
             "attack": 912,
             "defense": 927,
@@ -67229,7 +69523,7 @@ window.allHeroes =
         ],
         "family": "mystery",
         "costume_id": 0,
-        "originalIndex": 950,
+        "originalIndex": 989,
         "lb1": {
             "attack": 839,
             "defense": 801,
@@ -67295,7 +69589,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 951,
+        "originalIndex": 990,
         "lb1": {
             "attack": 910,
             "defense": 850,
@@ -67333,7 +69627,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Sledge Bash",
+        "skill": "Sledge Slide",
         "types": [
             "Boosted Heal All",
             "Enhanced Dodge All",
@@ -67367,7 +69661,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 952,
+        "originalIndex": 991,
         "lb1": {
             "attack": 1378,
             "defense": 1429,
@@ -67397,6 +69691,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Nyctalos",
+        "fancy_name": "The All-Seeing Terror",
+        "AetherPower": "Attack Up",
+        "color": "Purple",
+        "class": "Ranger",
+        "speed": "Very Fast",
+        "skill": "Ocular Ray",
+        "types": [
+            "Hit 3",
+            "Insanity 3",
+            "Ocular Ray 3",
+            "Ocular Ray hit Random 1",
+            "Insanity Self"
+        ],
+        "skill_types": [],
+        "source": "Shadow Summon",
+        "Release date": "2026-05-19",
+        "specialId": "ocular_ray",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "forsaken_nyctalos",
+        "star": 5,
+        "power": 1327,
+        "attack": 1392,
+        "defense": 1359,
+        "health": 2391,
+        "effects": [
+            "Deals 350% damage to the target and nearby enemies and inflicts 10 Insanity on them.",
+            "At the end of each turn, the caster and nearby allies shoot an Ocular Ray at a random enemy for 2 turns.",
+            "Each Ocular Ray inflicts 10 Insanity on the hit enemy.",
+            "Each Ocular Ray reduces the Max Health of the hit Enemy by 100.",
+            "Casting this Special Skill inflicts 35 Insanity on the caster."
+        ],
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+        ],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 992,
+        "lb1": {
+            "attack": 1500,
+            "defense": 1465,
+            "health": 2577,
+            "power": 1420
+        },
+        "lb2": {
+            "attack": 1717,
+            "defense": 1676,
+            "health": 2948,
+            "power": 1607
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Nyx",
@@ -67449,7 +69800,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 953,
+        "originalIndex": 993,
         "lb1": {
             "attack": 883,
             "defense": 890,
@@ -67513,7 +69864,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 954,
+        "originalIndex": 994,
         "lb1": {
             "attack": 821,
             "defense": 688,
@@ -67548,7 +69899,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Oppose and Overthrow",
         "types": [
-            "Hit all",
+            "Hit All",
             "Counterattack 3"
         ],
         "skill_types": [
@@ -67574,7 +69925,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 955,
+        "originalIndex": 995,
         "lb1": {
             "attack": 900,
             "defense": 827,
@@ -67638,7 +69989,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 956,
+        "originalIndex": 996,
         "lb1": {
             "attack": 1002,
             "defense": 959,
@@ -67706,7 +70057,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 957,
+        "originalIndex": 997,
         "lb1": {
             "attack": 1242,
             "defense": 1135,
@@ -67779,7 +70130,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 958,
+        "originalIndex": 998,
         "lb1": {
             "attack": 1406,
             "defense": 1274,
@@ -67837,10 +70188,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_stylish",
         "star": 5,
-        "power": 1300,
-        "attack": 1387,
-        "defense": 1246,
-        "health": 2435,
+        "power": 1340,
+        "attack": 1424,
+        "defense": 1279,
+        "health": 2566,
         "effects": [
             "Deals 410% damage to the target and minor damage to nearby enemies.",
             "Deals extra damage to enemies with less than 50% health remaining.",
@@ -67851,18 +70202,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 959,
+        "originalIndex": 999,
         "lb1": {
-            "attack": 1494,
-            "defense": 1342,
-            "health": 2624,
-            "power": 1391
+            "attack": 1535,
+            "defense": 1379,
+            "health": 2766,
+            "power": 1435
         },
         "lb2": {
-            "attack": 1710,
-            "defense": 1536,
-            "health": 3002,
-            "power": 1573
+            "attack": 1756,
+            "defense": 1578,
+            "health": 3164,
+            "power": 1624
         },
         "cn_skill_info": [
             {
@@ -67925,12 +70276,12 @@ window.allHeroes =
             "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
         ],
         "passives": [
-            "Resist Defense Ailments: The character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 960,
+        "originalIndex": 1000,
         "lb1": {
             "attack": 1147,
             "defense": 1027,
@@ -68001,11 +70352,11 @@ window.allHeroes =
             "All allies get 5% mana for each destroyed Fiend."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 961,
+        "originalIndex": 1001,
         "lb1": {
             "attack": 1063,
             "defense": 1103,
@@ -68087,7 +70438,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 962,
+        "originalIndex": 1002,
         "lb1": {
             "attack": 865,
             "defense": 761,
@@ -68148,35 +70499,35 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_paimon",
         "star": 5,
-        "power": 1248,
-        "attack": 1291,
-        "defense": 1266,
-        "health": 2263,
+        "power": 1258,
+        "attack": 1301,
+        "defense": 1277,
+        "health": 2292,
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
-            "Deals 580% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -50% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "The target and nearby enemies deal 450 damage to a random ally if they miss Special Skill during 4 turns."
+            "Deals 595% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -55% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "The target and nearby enemies deal 500 damage to a random ally if they miss Special Skill during 4 turns."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 963,
+        "originalIndex": 1003,
         "lb1": {
-            "attack": 1391,
-            "defense": 1365,
-            "health": 2439,
-            "power": 1335
+            "attack": 1403,
+            "defense": 1376,
+            "health": 2470,
+            "power": 1347
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1562,
-            "health": 2791,
-            "power": 1510
+            "attack": 1605,
+            "defense": 1574,
+            "health": 2827,
+            "power": 1523
         },
         "cn_skill_info": [
             {
@@ -68238,7 +70589,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 964,
+        "originalIndex": 1004,
         "lb1": {
             "attack": 888,
             "defense": 901,
@@ -68322,7 +70673,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 965,
+        "originalIndex": 1005,
         "lb1": {
             "attack": 1018,
             "defense": 1005,
@@ -68402,7 +70753,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 966,
+        "originalIndex": 1006,
         "lb1": {
             "attack": 994,
             "defense": 890,
@@ -68439,8 +70790,9 @@ window.allHeroes =
         "skill": "Order from the Depths",
         "types": [
             "Summoner 3",
+            "Mana Increase Minion",
             "Taunt",
-            "Attack Stack All"
+            "Minion Attack Stack All"
         ],
         "skill_types": [
             "Minions Boosters",
@@ -68485,7 +70837,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 967,
+        "originalIndex": 1007,
         "lb1": {
             "attack": 1295,
             "defense": 1133,
@@ -68552,7 +70904,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 968,
+        "originalIndex": 1008,
         "lb1": {
             "attack": 888,
             "defense": 872,
@@ -68591,7 +70943,7 @@ window.allHeroes =
             "Hit 3",
             "Insanity 3",
             "Defense Debuff 3",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "Mindless Attack & Mindless Heal",
@@ -68624,7 +70976,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 969,
+        "originalIndex": 1009,
         "lb1": {
             "attack": 1325,
             "defense": 1409,
@@ -68700,7 +71052,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 970,
+        "originalIndex": 1010,
         "lb1": {
             "attack": 810,
             "defense": 834,
@@ -68761,7 +71113,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 971,
+        "originalIndex": 1011,
         "lb1": {
             "attack": 805,
             "defense": 685,
@@ -68817,7 +71169,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 972,
+        "originalIndex": 1012,
         "lb1": {
             "attack": 933,
             "defense": 770,
@@ -68878,7 +71230,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 973,
+        "originalIndex": 1013,
         "lb1": {
             "attack": 1048,
             "defense": 896,
@@ -68942,7 +71294,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 974,
+        "originalIndex": 1014,
         "lb1": {
             "attack": 1152,
             "defense": 1180,
@@ -69007,7 +71359,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 975,
+        "originalIndex": 1015,
         "lb1": {
             "attack": 1320,
             "defense": 1320,
@@ -69078,7 +71430,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 976,
+        "originalIndex": 1016,
         "lb1": {
             "attack": 1101,
             "defense": 1145,
@@ -69104,6 +71456,70 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Rawn",
+        "fancy_name": "Cougar Burglar",
+        "AetherPower": "Taunt",
+        "color": "Purple",
+        "class": "Barbarian",
+        "speed": "Slow",
+        "skill": "Caught and Vicious",
+        "types": [
+            "Hit All",
+            "Taunt",
+            "Knocks Down All"
+        ],
+        "skill_types": [],
+        "source": "Wilderness Summon",
+        "Release date": "2026-04-09",
+        "specialId": "caught_and_vicious",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_rawn",
+        "star": 5,
+        "power": 1311,
+        "attack": 1431,
+        "defense": 1287,
+        "health": 2321,
+        "effects": [
+            "Deals 410% Clawing damage to all enemies. (Deals 600% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 5 turns.",
+            "Knocks down enemies. This has different effect based on the team of this character.",
+            "Attack Team:",
+            "All enemies have their normal attack delayed by 3 turns.",
+            "Defense Team:",
+            "All enemies don't contribute to Troop damage for 3 turns."
+        ],
+        "passives": [
+            "Nine Lives:",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affected by effects that increase or reduce defense.",
+            "This includes:",
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1017,
+        "lb1": {
+            "attack": 1542,
+            "defense": 1387,
+            "health": 2501,
+            "power": 1403
+        },
+        "lb2": {
+            "attack": 1765,
+            "defense": 1587,
+            "health": 2862,
+            "power": 1587
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Rayne",
@@ -69138,7 +71554,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 977,
+        "originalIndex": 1018,
         "lb1": {
             "attack": 879,
             "defense": 841,
@@ -69202,7 +71618,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 978,
+        "originalIndex": 1019,
         "lb1": {
             "attack": 952,
             "defense": 916,
@@ -69227,6 +71643,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Rochefort C1",
+        "fancy_name": "Ruthless Rat-Catcher",
+        "AetherPower": "Fiend Resist",
+        "color": "Purple",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Exterminator's Ploy",
+        "types": [
+            "Hit 3",
+            "Damage All if target defeated",
+            "Boosted HoT Self"
+        ],
+        "skill_types": [],
+        "source": "Alliance - The Brave & The Beautiful",
+        "Release date": "2026-04-16",
+        "specialId": "exterminators_ploy",
+        "parent_specialId": "dishonorable_ploy",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "musketeer_rochefort_costume_ratcatcher",
+        "star": 5,
+        "power": 1321,
+        "attack": 1341,
+        "defense": 1283,
+        "health": 2626,
+        "effects": [
+            "Deals 600% damage to the target and minor damage to nearby enemies.",
+            "If the target is defeated in 3 turns, all enemies receive 978 damage.",
+            "The caster regenerates 1320 boosted health over 4 turns. Boosted health can exceed max HP."
+        ],
+        "passives": [
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage to all enemies."
+        ],
+        "family": "musketeer",
+        "costume_id": 1,
+        "originalIndex": 1020,
+        "lb1": {
+            "attack": 1445,
+            "defense": 1383,
+            "health": 2830,
+            "power": 1414
+        },
+        "lb2": {
+            "attack": 1654,
+            "defense": 1582,
+            "health": 3238,
+            "power": 1600
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Salmon Loki",
@@ -69263,7 +71734,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 979,
+        "originalIndex": 1021,
         "lb1": {
             "attack": 803,
             "defense": 810,
@@ -69331,7 +71802,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 980,
+        "originalIndex": 1022,
         "lb1": {
             "attack": 1028,
             "defense": 1091,
@@ -69395,7 +71866,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 981,
+        "originalIndex": 1023,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -69463,7 +71934,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 982,
+        "originalIndex": 1024,
         "lb1": {
             "attack": 998,
             "defense": 1068,
@@ -69524,7 +71995,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 983,
+        "originalIndex": 1025,
         "lb1": {
             "attack": 748,
             "defense": 754,
@@ -69583,7 +72054,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 984,
+        "originalIndex": 1026,
         "lb1": {
             "attack": 795,
             "defense": 895,
@@ -69641,7 +72112,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 985,
+        "originalIndex": 1027,
         "lb1": {
             "attack": 970,
             "defense": 933,
@@ -69713,7 +72184,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 986,
+        "originalIndex": 1028,
         "lb1": {
             "attack": 1176,
             "defense": 1163,
@@ -69787,7 +72258,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 987,
+        "originalIndex": 1029,
         "lb1": {
             "attack": 1332,
             "defense": 1309,
@@ -69846,32 +72317,32 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_stylish",
         "star": 5,
-        "power": 1301,
-        "attack": 1310,
-        "defense": 1280,
-        "health": 2572,
+        "power": 1343,
+        "attack": 1346,
+        "defense": 1315,
+        "health": 2711,
         "effects": [
             "Deals 550% damage to the target.",
             "If the target has less than 50% health remaining, deals 615% damage instead.",
-            "The target receives 708 Poison damage over 3 turns."
+            "The target receives 729 Poison damage over 3 turns."
         ],
         "passives": [
             "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 988,
+        "originalIndex": 1030,
         "lb1": {
-            "attack": 1412,
-            "defense": 1379,
-            "health": 2772,
-            "power": 1393
+            "attack": 1450,
+            "defense": 1417,
+            "health": 2922,
+            "power": 1438
         },
         "lb2": {
-            "attack": 1616,
-            "defense": 1578,
-            "health": 3171,
-            "power": 1576
+            "attack": 1660,
+            "defense": 1621,
+            "health": 3343,
+            "power": 1627
         },
         "cn_skill_info": [
             {
@@ -69946,7 +72417,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 989,
+        "originalIndex": 1031,
         "lb1": {
             "attack": 1274,
             "defense": 1332,
@@ -70022,7 +72493,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 990,
+        "originalIndex": 1032,
         "lb1": {
             "attack": 1016,
             "defense": 1067,
@@ -70100,7 +72571,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 991,
+        "originalIndex": 1033,
         "lb1": {
             "attack": 788,
             "defense": 876,
@@ -70184,7 +72655,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 992,
+        "originalIndex": 1034,
         "lb1": {
             "attack": 1341,
             "defense": 1237,
@@ -70260,7 +72731,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 993,
+        "originalIndex": 1035,
         "lb1": {
             "attack": 1265,
             "defense": 1309,
@@ -70333,7 +72804,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 994,
+        "originalIndex": 1036,
         "lb1": {
             "attack": 819,
             "defense": 737,
@@ -70412,7 +72883,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 1,
-        "originalIndex": 995,
+        "originalIndex": 1037,
         "lb1": {
             "attack": 1057,
             "defense": 920,
@@ -70485,7 +72956,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 996,
+        "originalIndex": 1038,
         "lb1": {
             "attack": 870,
             "defense": 907,
@@ -70526,9 +72997,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Legions of Tyrant",
         "types": [
-            "Summoner",
+            "Summoner All",
             "DoT All",
-            "Mana Reduction All on Defeat"
+            "Mana Reduction All on Defeat Self"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -70562,11 +73033,11 @@ window.allHeroes =
             "* Deals 70% damage to all enemies.",
             "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 997,
+        "originalIndex": 1039,
         "lb1": {
             "attack": 1306,
             "defense": 1284,
@@ -70643,7 +73114,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 998,
+        "originalIndex": 1040,
         "lb1": {
             "attack": 1072,
             "defense": 981,
@@ -70718,7 +73189,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 999,
+        "originalIndex": 1041,
         "lb1": {
             "attack": 1232,
             "defense": 1227,
@@ -70775,10 +73246,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_shi_jin",
         "star": 5,
-        "power": 1284,
-        "attack": 1339,
-        "defense": 1316,
-        "health": 2301,
+        "power": 1299,
+        "attack": 1353,
+        "defense": 1330,
+        "health": 2344,
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 550% damage to the target.",
@@ -70795,18 +73266,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1000,
+        "originalIndex": 1042,
         "lb1": {
-            "attack": 1443,
-            "defense": 1418,
-            "health": 2479,
-            "power": 1374
+            "attack": 1458,
+            "defense": 1434,
+            "health": 2526,
+            "power": 1390
         },
         "lb2": {
-            "attack": 1651,
-            "defense": 1623,
-            "health": 2837,
-            "power": 1554
+            "attack": 1668,
+            "defense": 1640,
+            "health": 2890,
+            "power": 1572
         },
         "cn_skill_info": [
             {
@@ -70872,7 +73343,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1001,
+        "originalIndex": 1043,
         "lb1": {
             "attack": 1065,
             "defense": 1129,
@@ -70933,10 +73404,10 @@ window.allHeroes =
         ],
         "heroId": "slime_slaymire",
         "star": 5,
-        "power": 1281,
-        "attack": 1299,
-        "defense": 1359,
-        "health": 2292,
+        "power": 1296,
+        "attack": 1314,
+        "defense": 1374,
+        "health": 2336,
         "effects": [
             "Deals 630% damage to the target.",
             "If the target is defeated by attack, all allies get +30% mana and their health is boosted by 1200. Boosted health can exceed max HP.",
@@ -70948,18 +73419,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1002,
+        "originalIndex": 1044,
         "lb1": {
-            "attack": 1400,
-            "defense": 1465,
-            "health": 2470,
-            "power": 1371
+            "attack": 1416,
+            "defense": 1480,
+            "health": 2517,
+            "power": 1387
         },
         "lb2": {
-            "attack": 1602,
-            "defense": 1676,
-            "health": 2827,
-            "power": 1550
+            "attack": 1620,
+            "defense": 1694,
+            "health": 2880,
+            "power": 1569
         },
         "cn_skill_info": [
             {
@@ -71023,7 +73494,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1003,
+        "originalIndex": 1045,
         "lb1": {
             "attack": 1316,
             "defense": 1425,
@@ -71088,7 +73559,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1004,
+        "originalIndex": 1046,
         "lb1": {
             "attack": 899,
             "defense": 879,
@@ -71125,8 +73596,8 @@ window.allHeroes =
         "skill": "Dreadful Riddle",
         "types": [
             "Hit 1",
-            "Chain",
-            "Buff Immunity on Hit target"
+            "Chain hit",
+            "Buff Immunity Debuff on hit"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -71164,7 +73635,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1005,
+        "originalIndex": 1047,
         "lb1": {
             "attack": 1303,
             "defense": 1274,
@@ -71232,7 +73703,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1006,
+        "originalIndex": 1048,
         "lb1": {
             "attack": 1416,
             "defense": 1360,
@@ -71308,7 +73779,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1007,
+        "originalIndex": 1049,
         "lb1": {
             "attack": 1287,
             "defense": 1192,
@@ -71385,11 +73856,11 @@ window.allHeroes =
         "passives": [
             "Resist Insanity: This character is immune to Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1008,
+        "originalIndex": 1050,
         "lb1": {
             "attack": 1214,
             "defense": 1218,
@@ -71462,7 +73933,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1009,
+        "originalIndex": 1051,
         "lb1": {
             "attack": 1085,
             "defense": 1023,
@@ -71519,20 +73990,20 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_the_beast",
         "star": 5,
-        "power": 1254,
-        "attack": 1297,
-        "defense": 1281,
-        "health": 2263,
+        "power": 1274,
+        "attack": 1316,
+        "defense": 1301,
+        "health": 2319,
         "effects": [
-            "If the caster has 35 or more Humility:",
-            "* Deals 460% damage to 6 random enemies.",
+            "If the caster has 40 or more Humility:",
+            "* Deals 470% damage to 6 random enemies.",
             "* All hit targets get -54% defense against Dark for 4 turns.",
             "* Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.",
-            "* The caster regenerates 1200 boosted health over 4 turns. Boosted health can exceed max HP.",
+            "* The caster regenerates 1300 boosted health over 4 turns. Boosted health can exceed max HP.",
             "Otherwise:",
-            "* Deals 430% damage to 5 random enemies.",
-            "* All hit targets get -40% defense against Dark for 4 turns.",
-            "* The caster regenerates 1000 boosted health over 4 turns. Boosted health can exceed max HP."
+            "* Deals 440% damage to 5 random enemies.",
+            "* All hit targets get -45% defense against Dark for 4 turns.",
+            "* The caster regenerates 1100 boosted health over 4 turns. Boosted health can exceed max HP."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -71541,18 +74012,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1010,
+        "originalIndex": 1052,
         "lb1": {
-            "attack": 1398,
-            "defense": 1380,
-            "health": 2439,
-            "power": 1342
+            "attack": 1418,
+            "defense": 1403,
+            "health": 2499,
+            "power": 1364
         },
         "lb2": {
-            "attack": 1600,
-            "defense": 1579,
-            "health": 2791,
-            "power": 1517
+            "attack": 1623,
+            "defense": 1605,
+            "health": 2860,
+            "power": 1542
         },
         "cn_skill_info": [
             {
@@ -71610,7 +74081,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1011,
+        "originalIndex": 1053,
         "lb1": {
             "attack": 788,
             "defense": 748,
@@ -71676,7 +74147,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1012,
+        "originalIndex": 1054,
         "lb1": {
             "attack": 983,
             "defense": 962,
@@ -71701,6 +74172,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Thoth-Amun Toon",
+        "fancy_name": "Master of Toon Crypts",
+        "AetherPower": "Revive",
+        "color": "Purple",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Skeletoon Summon",
+        "types": [
+            "Hit 3",
+            "Summoner 3"
+        ],
+        "skill_types": [],
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-04-29",
+        "specialId": "skeletoon_summon",
+        "parent_specialId": "soul_cage",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "witch_king_costume_cute",
+        "star": 5,
+        "power": 1343,
+        "attack": 1385,
+        "defense": 1322,
+        "health": 2598,
+        "effects": [
+            "Deals 410% damage to the target and nearby enemies.",
+            "Summons an Undead Minion for the caster and nearby allies with 32% HP and 27% attack inherited from the caster.",
+            "Deals extra damage against Holy.",
+            "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ],
+        "family": "hotm2017",
+        "costume_id": 2,
+        "originalIndex": 1055,
+        "lb1": {
+            "attack": 1493,
+            "defense": 1425,
+            "health": 2800,
+            "power": 1438
+        },
+        "lb2": {
+            "attack": 1708,
+            "defense": 1631,
+            "health": 3204,
+            "power": 1628
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Thrivaldi",
@@ -71741,17 +74266,17 @@ window.allHeroes =
         "effects": [
             "Attacks all enemies with Frostfall Strike, dealing up to 1600 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "All allies get +40% defense for 4 turns.",
-            "All allies are immune to damage from status ailments fo 4 turns."
+            "All allies are immune to damage from status ailments and negative stacks for 4 turns."
         ],
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1013,
+        "originalIndex": 1056,
         "lb1": {
             "attack": 1323,
             "defense": 1240,
@@ -71837,7 +74362,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1014,
+        "originalIndex": 1057,
         "lb1": {
             "attack": 1329,
             "defense": 1187,
@@ -71893,13 +74418,13 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "All Dark allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "All Dark allies get +100% normal attack for 2 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
             "RARE",
             "* Reanimated Fighters",
             "* Reanimated Knights",
@@ -71917,7 +74442,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1015,
+        "originalIndex": 1058,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -71992,7 +74517,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1016,
+        "originalIndex": 1059,
         "lb1": {
             "attack": 912,
             "defense": 790,
@@ -72028,9 +74553,9 @@ window.allHeroes =
         "skill": "Dum and Dee",
         "types": [
             "Hit Random 1",
-            "Defense debuff",
+            "Defense Debuff 1",
             "Hit Random 1",
-            "Attack debuff"
+            "Attack Debuff 1"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -72062,7 +74587,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1017,
+        "originalIndex": 1060,
         "lb1": {
             "attack": 1036,
             "defense": 1021,
@@ -72142,7 +74667,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1018,
+        "originalIndex": 1061,
         "lb1": {
             "attack": 1063,
             "defense": 956,
@@ -72185,7 +74710,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Counterattack 3",
-            "Damage reduction 3"
+            "Damage Reduction Buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -72228,7 +74753,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1019,
+        "originalIndex": 1062,
         "lb1": {
             "attack": 1386,
             "defense": 1201,
@@ -72300,7 +74825,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1020,
+        "originalIndex": 1063,
         "lb1": {
             "attack": 990,
             "defense": 974,
@@ -72378,7 +74903,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1021,
+        "originalIndex": 1064,
         "lb1": {
             "attack": 1314,
             "defense": 1232,
@@ -72447,7 +74972,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1022,
+        "originalIndex": 1065,
         "lb1": {
             "attack": 819,
             "defense": 788,
@@ -72491,7 +75016,7 @@ window.allHeroes =
             "Hit All",
             "Elemental Reflect All",
             "Elemental Counterattack All",
-            "Elemental Defense Debuff All dark"
+            "Elemental Defense Debuff All holy"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -72520,7 +75045,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1023,
+        "originalIndex": 1066,
         "lb1": {
             "attack": 1010,
             "defense": 996,
@@ -72598,7 +75123,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1024,
+        "originalIndex": 1067,
         "lb1": {
             "attack": 1001,
             "defense": 799,
@@ -72671,7 +75196,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1025,
+        "originalIndex": 1068,
         "lb1": {
             "attack": 1161,
             "defense": 1143,
@@ -72749,7 +75274,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1026,
+        "originalIndex": 1069,
         "lb1": {
             "attack": 1201,
             "defense": 1185,
@@ -72814,12 +75339,12 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1027,
+        "originalIndex": 1070,
         "lb1": {
             "attack": 1298,
             "defense": 1327,
@@ -72858,7 +75383,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Hit Growth Boon",
-            "Dodge Buff All",
+            "Dodge Chance Buff All",
             "Damage on Dodge"
         ],
         "skill_types": [
@@ -72876,14 +75401,14 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_veer",
         "star": 5,
-        "power": 1275,
-        "attack": 1345,
-        "defense": 1287,
-        "health": 2282,
+        "power": 1290,
+        "attack": 1359,
+        "defense": 1301,
+        "health": 2325,
         "effects": [
             "Deals 370% damage to the target and nearby enemies.",
             "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster when damage is dealt. Up to maximum 800 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
-            "All allies get +45% chance to dodge Special Skills for 3 turns. Each Dodge damages the attacker for 250 damage."
+            "All allies get +45% chance to dodge Special Skills for 3 turns. Each Dodge damages the attacker for 300 damage."
         ],
         "passives": [
             "Mana on Damage Received:",
@@ -72893,18 +75418,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1028,
+        "originalIndex": 1071,
         "lb1": {
-            "attack": 1449,
-            "defense": 1387,
-            "health": 2459,
-            "power": 1364
+            "attack": 1465,
+            "defense": 1403,
+            "health": 2506,
+            "power": 1381
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1587,
-            "health": 2814,
-            "power": 1543
+            "attack": 1676,
+            "defense": 1605,
+            "health": 2867,
+            "power": 1562
         },
         "cn_skill_info": [
             {
@@ -72960,7 +75485,7 @@ window.allHeroes =
         "health": 1347,
         "effects": [
             "Deals 250% damage to the target.",
-            "The target receives 510 Surge Bleed over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 455, up to 1410 damage in total.)",
+            "The target receives 340 Surge Bleed over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300, up to 940 damage in total.)",
             "The caster steals 75% of any healing applied to the target for 5 turns.",
             "All allies get +30% defense for 5 turns."
         ],
@@ -72969,7 +75494,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1029,
+        "originalIndex": 1072,
         "lb1": {
             "attack": 839,
             "defense": 723,
@@ -73047,7 +75572,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1030,
+        "originalIndex": 1073,
         "lb1": {
             "attack": 1245,
             "defense": 1112,
@@ -73120,7 +75645,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1031,
+        "originalIndex": 1074,
         "lb1": {
             "attack": 1236,
             "defense": 1181,
@@ -73202,7 +75727,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1032,
+        "originalIndex": 1075,
         "lb1": {
             "attack": 788,
             "defense": 872,
@@ -73241,7 +75766,7 @@ window.allHeroes =
         "types": [
             "Reposition",
             "Hit All",
-            "Allies Element Exchange 4"
+            "Allies Element Change 4"
         ],
         "skill_types": [
             "Random Position",
@@ -73267,7 +75792,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1033,
+        "originalIndex": 1076,
         "lb1": {
             "attack": 1296,
             "defense": 1240,
@@ -73333,12 +75858,12 @@ window.allHeroes =
             "All allies get +74% defense against Special Skills for 4 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1034,
+        "originalIndex": 1077,
         "lb1": {
             "attack": 1081,
             "defense": 1201,
@@ -73412,12 +75937,12 @@ window.allHeroes =
             "Dance effect cannot be dispelled. This effect is removed when the caster is defeated."
         ],
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1035,
+        "originalIndex": 1078,
         "lb1": {
             "attack": 1265,
             "defense": 1134,
@@ -73491,7 +76016,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1036,
+        "originalIndex": 1079,
         "lb1": {
             "attack": 1105,
             "defense": 1052,
@@ -73566,7 +76091,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1037,
+        "originalIndex": 1080,
         "lb1": {
             "attack": 825,
             "defense": 979,
@@ -73641,7 +76166,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1038,
+        "originalIndex": 1081,
         "lb1": {
             "attack": 828,
             "defense": 854,
@@ -73720,7 +76245,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1039,
+        "originalIndex": 1082,
         "lb1": {
             "attack": 1076,
             "defense": 1160,
@@ -73761,8 +76286,8 @@ window.allHeroes =
         "skill": "Lash of the Whip",
         "types": [
             "Hit 3",
-            "Enhanced Defense Ailment",
-            "Delayed Dispeller"
+            "Enhanced Defense Ailment 3",
+            "Delayed Dispeller 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -73792,11 +76317,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1040,
+        "originalIndex": 1083,
         "lb1": {
             "attack": 1267,
             "defense": 1192,
@@ -73855,13 +76380,13 @@ window.allHeroes =
         ],
         "heroId": "construct_zavok",
         "star": 5,
-        "power": 1272,
-        "attack": 1287,
-        "defense": 1349,
-        "health": 2284,
+        "power": 1292,
+        "attack": 1306,
+        "defense": 1367,
+        "health": 2340,
         "effects": [
-            "Deals 470% damage to all enemies.",
-            "All enemies get -12% accuracy, and a further -6% decrease per each Dark shield on the board for 5 turns, up to -60% accuracy.",
+            "Deals 500% damage to all enemies.",
+            "All enemies get -20% accuracy, and a further -5% decrease per each Dark shield on the board for 5 turns, up to -60% accuracy.",
             "All allies are immune to new negative mana effects for 5 turns, and their mana is increased by 15% for each resisted effect."
         ],
         "passives": [
@@ -73875,18 +76400,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1041,
+        "originalIndex": 1084,
         "lb1": {
-            "attack": 1387,
-            "defense": 1454,
-            "health": 2461,
-            "power": 1362
+            "attack": 1407,
+            "defense": 1474,
+            "health": 2521,
+            "power": 1383
         },
         "lb2": {
-            "attack": 1587,
-            "defense": 1663,
-            "health": 2816,
-            "power": 1540
+            "attack": 1610,
+            "defense": 1686,
+            "health": 2885,
+            "power": 1564
         },
         "cn_skill_info": [
             {
@@ -73951,7 +76476,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1042,
+        "originalIndex": 1085,
         "lb1": {
             "attack": 1245,
             "defense": 1116,
@@ -74024,7 +76549,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1043,
+        "originalIndex": 1086,
         "lb1": {
             "attack": 721,
             "defense": 843,
@@ -74081,7 +76606,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1044,
+        "originalIndex": 1087,
         "lb1": {
             "attack": 168,
             "defense": 205,
@@ -74126,7 +76651,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1045,
+        "originalIndex": 1088,
         "lb1": {
             "attack": 208,
             "defense": 200,
@@ -74171,7 +76696,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1046,
+        "originalIndex": 1089,
         "lb1": {
             "attack": 350,
             "defense": 288,
@@ -74216,7 +76741,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1047,
+        "originalIndex": 1090,
         "lb1": {
             "attack": 320,
             "defense": 325,
@@ -74261,7 +76786,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1048,
+        "originalIndex": 1091,
         "lb1": {
             "attack": 356,
             "defense": 275,
@@ -74306,7 +76831,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1049,
+        "originalIndex": 1092,
         "lb1": {
             "attack": 312,
             "defense": 359,
@@ -74354,7 +76879,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1050,
+        "originalIndex": 1093,
         "lb1": {
             "attack": 559,
             "defense": 468,
@@ -74415,7 +76940,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1051,
+        "originalIndex": 1094,
         "lb1": {
             "attack": 573,
             "defense": 524,
@@ -74482,7 +77007,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1052,
+        "originalIndex": 1095,
         "lb1": {
             "attack": 666,
             "defense": 521,
@@ -74551,7 +77076,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1053,
+        "originalIndex": 1096,
         "lb1": {
             "attack": 688,
             "defense": 530,
@@ -74579,6 +77104,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Azar Stylish",
+        "fancy_name": "Seeker of Style",
+        "AetherPower": "Rage",
+        "color": "Red",
+        "class": "Barbarian",
+        "speed": "Fast",
+        "skill": "Stylish Cut",
+        "types": [
+            "Hit 1",
+            "Mana Reducer 1"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_cut",
+        "parent_specialId": "sharp_cut",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "nomad_female_swordmaster_costume_stylish",
+        "star": 3,
+        "power": 546,
+        "attack": 651,
+        "defense": 488,
+        "health": 833,
+        "effects": [
+            "Deals 305% damage to the target.",
+            "Reduces the mana of the target by 25%.",
+            "If the target has less than 50% health remaining, deals 355% damage instead."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 1097,
+        "lb1": {
+            "attack": 738,
+            "defense": 554,
+            "health": 945,
+            "power": 610
+        },
+        "lb2": {
+            "attack": 912,
+            "defense": 684,
+            "health": 1167,
+            "power": 739
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Bagreg",
         "fancy_name": "Fishman Skirmish Leader",
         "AetherPower": "Dodge",
@@ -74588,7 +77165,7 @@ window.allHeroes =
         "skill": "Burning Javelin",
         "types": [
             "Hit 3",
-            "Elemental Defense Debuff"
+            "Elemental Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -74622,7 +77199,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1054,
+        "originalIndex": 1098,
         "lb1": {
             "attack": 648,
             "defense": 457,
@@ -74658,7 +77235,7 @@ window.allHeroes =
         "skill": "Scout's Spyglass",
         "types": [
             "Hit 3",
-            "Elemental Defense Debuff"
+            "Elemental Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -74697,7 +77274,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1055,
+        "originalIndex": 1099,
         "lb1": {
             "attack": 580,
             "defense": 564,
@@ -74765,7 +77342,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1056,
+        "originalIndex": 1100,
         "lb1": {
             "attack": 522,
             "defense": 610,
@@ -74824,7 +77401,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1057,
+        "originalIndex": 1101,
         "lb1": {
             "attack": 476,
             "defense": 514,
@@ -74897,7 +77474,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1058,
+        "originalIndex": 1102,
         "lb1": {
             "attack": 516,
             "defense": 520,
@@ -74940,8 +77517,8 @@ window.allHeroes =
         "skill": "Frosty Punches",
         "types": [
             "Hit 3",
-            "Summoner",
-            "Damage Debuff"
+            "Summoner Self",
+            "Increased Received Damage Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -74966,7 +77543,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1059,
+        "originalIndex": 1103,
         "lb1": {
             "attack": 577,
             "defense": 512,
@@ -75042,11 +77619,11 @@ window.allHeroes =
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1060,
+        "originalIndex": 1104,
         "lb1": {
             "attack": 608,
             "defense": 535,
@@ -75126,7 +77703,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1061,
+        "originalIndex": 1105,
         "lb1": {
             "attack": 591,
             "defense": 616,
@@ -75198,7 +77775,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 1062,
+        "originalIndex": 1106,
         "lb1": {
             "attack": 478,
             "defense": 545,
@@ -75259,7 +77836,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 1063,
+        "originalIndex": 1107,
         "lb1": {
             "attack": 570,
             "defense": 472,
@@ -75284,6 +77861,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Ei-Dunn Toon",
+        "fancy_name": "Cursed Viking Toon",
+        "AetherPower": "Ailment Immunity",
+        "color": "Red",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Toon Axe",
+        "types": [
+            "Hit 3",
+            "Mana Generation Debuff 3"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toon_axe",
+        "parent_specialId": "tainted_axe",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_ei_dunn_costume_cute",
+        "star": 3,
+        "power": 567,
+        "attack": 530,
+        "defense": 599,
+        "health": 1066,
+        "effects": [
+            "Deals 275% damage to the target and nearby enemies.",
+            "The target and nearby enemies get -30% mana generation for 4 turns. (Affects only mana generation from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Deals extra damage against Nature."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "niflheim",
+        "costume_id": 2,
+        "originalIndex": 1108,
+        "lb1": {
+            "attack": 600,
+            "defense": 679,
+            "health": 1209,
+            "power": 634
+        },
+        "lb2": {
+            "attack": 742,
+            "defense": 839,
+            "health": 1493,
+            "power": 768
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Experience Mimic Rare Fire",
@@ -75333,7 +77962,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1064,
+        "originalIndex": 1109,
         "lb1": {
             "attack": 620,
             "defense": 620,
@@ -75403,7 +78032,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1065,
+        "originalIndex": 1110,
         "lb1": {
             "attack": 518,
             "defense": 522,
@@ -75460,7 +78089,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1066,
+        "originalIndex": 1111,
         "lb1": {
             "attack": 537,
             "defense": 506,
@@ -75516,7 +78145,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1067,
+        "originalIndex": 1112,
         "lb1": {
             "attack": 569,
             "defense": 545,
@@ -75581,7 +78210,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1068,
+        "originalIndex": 1113,
         "lb1": {
             "attack": 618,
             "defense": 589,
@@ -75647,7 +78276,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1069,
+        "originalIndex": 1114,
         "lb1": {
             "attack": 669,
             "defense": 592,
@@ -75713,12 +78342,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1070,
+        "originalIndex": 1115,
         "lb1": {
             "attack": 618,
             "defense": 606,
@@ -75786,12 +78415,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1071,
+        "originalIndex": 1116,
         "lb1": {
             "attack": 657,
             "defense": 641,
@@ -75850,7 +78479,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1072,
+        "originalIndex": 1117,
         "lb1": {
             "attack": 565,
             "defense": 494,
@@ -75886,7 +78515,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Scorching Ray",
         "types": [
-            "Hit all",
+            "Hit All",
             "DoT All"
         ],
         "skill_types": [
@@ -75912,7 +78541,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1073,
+        "originalIndex": 1118,
         "lb1": {
             "attack": 594,
             "defense": 512,
@@ -75980,7 +78609,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1074,
+        "originalIndex": 1119,
         "lb1": {
             "attack": 629,
             "defense": 545,
@@ -76054,7 +78683,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1075,
+        "originalIndex": 1120,
         "lb1": {
             "attack": 648,
             "defense": 557,
@@ -76127,7 +78756,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1076,
+        "originalIndex": 1121,
         "lb1": {
             "attack": 689,
             "defense": 588,
@@ -76168,9 +78797,9 @@ window.allHeroes =
         "speed": "Magic",
         "skill": "Imaginary Increments",
         "types": [
-            "Attack Buff",
-            "Defense Debuff",
-            "Charge"
+            "Charge",
+            "Attack Buff 3",
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -76200,7 +78829,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1077,
+        "originalIndex": 1122,
         "lb1": {
             "attack": 535,
             "defense": 555,
@@ -76262,7 +78891,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1078,
+        "originalIndex": 1123,
         "lb1": {
             "attack": 545,
             "defense": 551,
@@ -76341,7 +78970,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1079,
+        "originalIndex": 1124,
         "lb1": {
             "attack": 563,
             "defense": 634,
@@ -76401,7 +79030,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1080,
+        "originalIndex": 1125,
         "lb1": {
             "attack": 596,
             "defense": 474,
@@ -76460,7 +79089,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1081,
+        "originalIndex": 1126,
         "lb1": {
             "attack": 583,
             "defense": 415,
@@ -76522,7 +79151,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1082,
+        "originalIndex": 1127,
         "lb1": {
             "attack": 655,
             "defense": 427,
@@ -76590,7 +79219,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1083,
+        "originalIndex": 1128,
         "lb1": {
             "attack": 706,
             "defense": 459,
@@ -76664,7 +79293,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1084,
+        "originalIndex": 1129,
         "lb1": {
             "attack": 734,
             "defense": 467,
@@ -76729,7 +79358,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1085,
+        "originalIndex": 1130,
         "lb1": {
             "attack": 506,
             "defense": 591,
@@ -76790,7 +79419,7 @@ window.allHeroes =
         "passives": [],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1086,
+        "originalIndex": 1131,
         "lb1": {
             "attack": 614,
             "defense": 555,
@@ -76862,7 +79491,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1087,
+        "originalIndex": 1132,
         "lb1": {
             "attack": 581,
             "defense": 612,
@@ -76904,8 +79533,8 @@ window.allHeroes =
         "skill": "Antler Attack",
         "types": [
             "Hit 1",
-            "Mana Reduction",
-            "Summoner"
+            "Mana Reduction 1",
+            "Summoner Self"
         ],
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -76923,14 +79552,14 @@ window.allHeroes =
         "defense": 391,
         "health": 608,
         "effects": [
-            "Deals 285% damage to the target",
+            "Deals 285% damage to the target.",
             "Reduces the mana of the target by 20%.",
-            "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster"
+            "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1088,
+        "originalIndex": 1133,
         "lb1": {
             "attack": 612,
             "defense": 443,
@@ -76968,8 +79597,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1",
-            "Summoner",
-            "Self Defense Buff"
+            "Summoner Self",
+            "Defense Buff Self"
         ],
         "skill_types": [
             "Snipers",
@@ -77002,7 +79631,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1089,
+        "originalIndex": 1134,
         "lb1": {
             "attack": 735,
             "defense": 541,
@@ -77043,7 +79672,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Furry Logger's Swing",
         "types": [
-            "Hit all",
+            "Hit All",
             "Dot all",
             "Defense Debuff"
         ],
@@ -77076,7 +79705,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1090,
+        "originalIndex": 1135,
         "lb1": {
             "attack": 569,
             "defense": 529,
@@ -77137,7 +79766,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1091,
+        "originalIndex": 1136,
         "lb1": {
             "attack": 559,
             "defense": 535,
@@ -77172,7 +79801,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Reckless Stab",
         "types": [
-            "Hit 1"
+            "Hit 1",
+            "Defense Debuff Self"
         ],
         "skill_types": [
             "Negative Effects On Self Or Allies",
@@ -77189,13 +79819,13 @@ window.allHeroes =
         "defense": 382,
         "health": 608,
         "effects": [
-            "Deals 355% damage to the target",
-            "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
+            "Deals 355% damage to the target.",
+            "The caster gets -20% defense for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1092,
+        "originalIndex": 1137,
         "lb1": {
             "attack": 610,
             "defense": 433,
@@ -77220,6 +79850,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Squire Wabbit C1",
+        "fancy_name": "Junior Knight of Springvale",
+        "AetherPower": "Special Boost",
+        "color": "Red",
+        "class": "Fighter",
+        "speed": "Fast",
+        "skill": "Prudent Stab",
+        "types": [
+            "Hit 1",
+            "Defense Debuff Self"
+        ],
+        "skill_types": [],
+        "source": "Monthly Event - Springvale",
+        "Release date": "2026-03-30",
+        "specialId": "prudent_stab",
+        "parent_specialId": "reckless_stab",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "heroId": "rabbit_red_costume_knight",
+        "star": 3,
+        "power": 541,
+        "attack": 679,
+        "defense": 467,
+        "health": 769,
+        "effects": [
+            "Deals 375% damage to the target.",
+            "If the target has less than 50% health remaining, deals 400% damage instead.",
+            "The caster gets -20% defense against for 3 turns. This effect can't be cleansed."
+        ],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get: Stack (Max: 10): -5% defense."
+        ],
+        "family": "easter",
+        "costume_id": 1,
+        "originalIndex": 1138,
+        "lb1": {
+            "attack": 770,
+            "defense": 529,
+            "health": 871,
+            "power": 604
+        },
+        "lb2": {
+            "attack": 952,
+            "defense": 654,
+            "health": 1077,
+            "power": 732
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Starswift",
@@ -77257,12 +79939,12 @@ window.allHeroes =
             "The caster and nearby allies get +20% mana generation for 3 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared  with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1093,
+        "originalIndex": 1139,
         "lb1": {
             "attack": 594,
             "defense": 545,
@@ -77325,7 +80007,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1094,
+        "originalIndex": 1140,
         "lb1": {
             "attack": 498,
             "defense": 549,
@@ -77387,7 +80069,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1095,
+        "originalIndex": 1141,
         "lb1": {
             "attack": 539,
             "defense": 583,
@@ -77446,7 +80128,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1096,
+        "originalIndex": 1142,
         "lb1": {
             "attack": 550,
             "defense": 584,
@@ -77506,7 +80188,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1097,
+        "originalIndex": 1143,
         "lb1": {
             "attack": 606,
             "defense": 535,
@@ -77578,7 +80260,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1098,
+        "originalIndex": 1144,
         "lb1": {
             "attack": 653,
             "defense": 506,
@@ -77627,7 +80309,7 @@ window.allHeroes =
         "Release date": "2026-03-10",
         "specialId": "flying_front_kick",
         "passiveSkills": [
-            "dishonorable_death",
+            "dishonorable_death_rare",
             "prevent_boosted_health"
         ],
         "heroId": "ronin_yamada_jingasa",
@@ -77658,7 +80340,7 @@ window.allHeroes =
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 1099,
+        "originalIndex": 1145,
         "lb1": {
             "attack": 650,
             "defense": 610,
@@ -77731,7 +80413,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1100,
+        "originalIndex": 1146,
         "lb1": {
             "attack": 681,
             "defense": 743,
@@ -77796,7 +80478,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1101,
+        "originalIndex": 1147,
         "lb1": {
             "attack": 639,
             "defense": 773,
@@ -77857,7 +80539,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1102,
+        "originalIndex": 1148,
         "lb1": {
             "attack": 689,
             "defense": 815,
@@ -77919,7 +80601,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1103,
+        "originalIndex": 1149,
         "lb1": {
             "attack": 748,
             "defense": 902,
@@ -77985,7 +80667,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1104,
+        "originalIndex": 1150,
         "lb1": {
             "attack": 759,
             "defense": 910,
@@ -78054,7 +80736,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1105,
+        "originalIndex": 1151,
         "lb1": {
             "attack": 769,
             "defense": 928,
@@ -78120,7 +80802,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1106,
+        "originalIndex": 1152,
         "lb1": {
             "attack": 837,
             "defense": 1017,
@@ -78182,7 +80864,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1107,
+        "originalIndex": 1153,
         "lb1": {
             "attack": 678,
             "defense": 701,
@@ -78249,7 +80931,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1108,
+        "originalIndex": 1154,
         "lb1": {
             "attack": 685,
             "defense": 741,
@@ -78310,7 +80992,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1109,
+        "originalIndex": 1155,
         "lb1": {
             "attack": 791,
             "defense": 584,
@@ -78372,7 +81054,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1110,
+        "originalIndex": 1156,
         "lb1": {
             "attack": 854,
             "defense": 605,
@@ -78436,7 +81118,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1111,
+        "originalIndex": 1157,
         "lb1": {
             "attack": 900,
             "defense": 679,
@@ -78508,7 +81190,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1112,
+        "originalIndex": 1158,
         "lb1": {
             "attack": 915,
             "defense": 707,
@@ -78582,7 +81264,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1113,
+        "originalIndex": 1159,
         "lb1": {
             "attack": 956,
             "defense": 703,
@@ -78613,6 +81295,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Colen Stylish",
+        "fancy_name": "Stylish Bounty Hunter",
+        "AetherPower": "Attack Up",
+        "color": "Red",
+        "class": "Fighter",
+        "speed": "Slow",
+        "skill": "Stylish Flames",
+        "types": [
+            "Hit All",
+            "DoT All"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_flames",
+        "parent_specialId": "fire_storm",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "nomad_axe_adventurer_costume_stylish",
+        "star": 4,
+        "power": 813,
+        "attack": 969,
+        "defense": 701,
+        "health": 1381,
+        "effects": [
+            "Deals 230% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 310% damage instead.",
+            "All enemies receive 219 Burn damage over 3 turns."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 1160,
+        "lb1": {
+            "attack": 1053,
+            "defense": 762,
+            "health": 1500,
+            "power": 876
+        },
+        "lb2": {
+            "attack": 1221,
+            "defense": 883,
+            "health": 1740,
+            "power": 1003
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Eichbelborg",
@@ -78647,7 +81381,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1161,
         "lb1": {
             "attack": 692,
             "defense": 713,
@@ -78705,7 +81439,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1115,
+        "originalIndex": 1162,
         "lb1": {
             "attack": 690,
             "defense": 646,
@@ -78771,7 +81505,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1116,
+        "originalIndex": 1163,
         "lb1": {
             "attack": 722,
             "defense": 683,
@@ -78830,7 +81564,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1117,
+        "originalIndex": 1164,
         "lb1": {
             "attack": 618,
             "defense": 614,
@@ -78894,7 +81628,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1118,
+        "originalIndex": 1165,
         "lb1": {
             "attack": 676,
             "defense": 672,
@@ -78956,7 +81690,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1119,
+        "originalIndex": 1166,
         "lb1": {
             "attack": 796,
             "defense": 685,
@@ -79023,7 +81757,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1120,
+        "originalIndex": 1167,
         "lb1": {
             "attack": 696,
             "defense": 807,
@@ -79097,7 +81831,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1121,
+        "originalIndex": 1168,
         "lb1": {
             "attack": 714,
             "defense": 818,
@@ -79161,7 +81895,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1169,
         "lb1": {
             "attack": 600,
             "defense": 819,
@@ -79235,7 +81969,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1123,
+        "originalIndex": 1170,
         "lb1": {
             "attack": 886,
             "defense": 865,
@@ -79269,7 +82003,7 @@ window.allHeroes =
     },
     {
         "name": "Itham",
-        "fancy_name": "Elf Swimming School Instructor",
+        "fancy_name": "Swimming Instructor Elf",
         "AetherPower": "Attack Up",
         "color": "Red",
         "class": "Paladin",
@@ -79304,11 +82038,11 @@ window.allHeroes =
         ],
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water  Damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1124,
+        "originalIndex": 1171,
         "lb1": {
             "attack": 729,
             "defense": 764,
@@ -79349,7 +82083,7 @@ window.allHeroes =
         "skill": "Slash and Support",
         "types": [
             "Hit 1",
-            "Damage Heal"
+            "Damage Heal All"
         ],
         "skill_types": [
             "Healers (Special)",
@@ -79378,7 +82112,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1125,
+        "originalIndex": 1172,
         "lb1": {
             "attack": 812,
             "defense": 623,
@@ -79410,7 +82144,7 @@ window.allHeroes =
         "skill": "Strike and Support",
         "types": [
             "Hit 1",
-            "Damage Heal"
+            "Damage Heal All"
         ],
         "skill_types": [
             "Snipers",
@@ -79442,11 +82176,11 @@ window.allHeroes =
             "* Deals 70% damage to all enemies.",
             "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1126,
+        "originalIndex": 1173,
         "lb1": {
             "attack": 781,
             "defense": 687,
@@ -79501,7 +82235,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1127,
+        "originalIndex": 1174,
         "lb1": {
             "attack": 734,
             "defense": 745,
@@ -79560,7 +82294,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1128,
+        "originalIndex": 1175,
         "lb1": {
             "attack": 827,
             "defense": 765,
@@ -79624,7 +82358,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1129,
+        "originalIndex": 1176,
         "lb1": {
             "attack": 857,
             "defense": 833,
@@ -79697,7 +82431,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1130,
+        "originalIndex": 1177,
         "lb1": {
             "attack": 886,
             "defense": 826,
@@ -79771,7 +82505,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1131,
+        "originalIndex": 1178,
         "lb1": {
             "attack": 912,
             "defense": 835,
@@ -79804,6 +82538,58 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Kelile Stylish",
+        "fancy_name": "Stylish Priestess",
+        "AetherPower": "Attack Up",
+        "color": "Red",
+        "class": "Rogue",
+        "speed": "Fast",
+        "skill": "Stylish Dance",
+        "types": [
+            "Hit 1",
+            "DoT 1"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-05-09",
+        "specialId": "stylish_dance",
+        "parent_specialId": "dance_of_fire",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "nomad_female_berserker_costume_stylish",
+        "star": 4,
+        "power": 815,
+        "attack": 928,
+        "defense": 831,
+        "health": 1237,
+        "effects": [
+            "Deals 345% damage to the target.",
+            "If the target has less than 50% health remaining, deals 395% damage instead.",
+            "The target receives 279 Burn damage over 3 turns."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 1179,
+        "lb1": {
+            "attack": 1008,
+            "defense": 903,
+            "health": 1344,
+            "power": 878
+        },
+        "lb2": {
+            "attack": 1169,
+            "defense": 1047,
+            "health": 1559,
+            "power": 1005
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Lemminkainen",
         "fancy_name": "Undying Champion",
         "AetherPower": "Dodge",
@@ -79813,7 +82599,7 @@ window.allHeroes =
         "skill": "Flaming Sword",
         "types": [
             "Hit 3",
-            "Dot 3"
+            "DoT 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -79840,7 +82626,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1180,
         "lb1": {
             "attack": 701,
             "defense": 669,
@@ -79906,7 +82692,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1133,
+        "originalIndex": 1181,
         "lb1": {
             "attack": 730,
             "defense": 687,
@@ -79943,7 +82729,9 @@ window.allHeroes =
         "skill": "Mageball Blast",
         "types": [
             "Hit 1",
-            "Mana Generation"
+            "Mana Reduce 4 on target SS",
+            "Mana Generation Buff All",
+            "Hit All on Ally SS"
         ],
         "skill_types": [
             "Mana Generation Buffers",
@@ -79981,7 +82769,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1134,
+        "originalIndex": 1182,
         "lb1": {
             "attack": 715,
             "defense": 736,
@@ -80023,8 +82811,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Halfling's Wit",
         "types": [
-            "Counterattack",
-            "Attack Buff"
+            "Counterattack 3",
+            "Attack Buff 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -80051,7 +82839,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1183,
         "lb1": {
             "attack": 701,
             "defense": 745,
@@ -80082,8 +82870,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Halfling's Wisdom",
         "types": [
-            "Counterattack",
-            "Attack Buff"
+            "Counterattack 3",
+            "Attack Buff 3"
         ],
         "skill_types": [
             "Counterattackers",
@@ -80112,7 +82900,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1136,
+        "originalIndex": 1184,
         "lb1": {
             "attack": 715,
             "defense": 777,
@@ -80174,13 +82962,13 @@ window.allHeroes =
             "Hit enemies receive Resonance for 3 turns. Each turn, Resonance deals 190 damage to the afflicted enemies and 95 damage to nearby enemies."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1137,
+        "originalIndex": 1185,
         "lb1": {
             "attack": 882,
             "defense": 831,
@@ -80249,7 +83037,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1186,
         "lb1": {
             "attack": 713,
             "defense": 731,
@@ -80325,7 +83113,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1139,
+        "originalIndex": 1187,
         "lb1": {
             "attack": 810,
             "defense": 780,
@@ -80402,7 +83190,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1188,
         "lb1": {
             "attack": 699,
             "defense": 785,
@@ -80482,7 +83270,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1189,
         "lb1": {
             "attack": 815,
             "defense": 683,
@@ -80553,7 +83341,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1190,
         "lb1": {
             "attack": 768,
             "defense": 715,
@@ -80620,7 +83408,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1143,
+        "originalIndex": 1191,
         "lb1": {
             "attack": 788,
             "defense": 737,
@@ -80680,7 +83468,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1192,
         "lb1": {
             "attack": 833,
             "defense": 551,
@@ -80744,7 +83532,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1145,
+        "originalIndex": 1193,
         "lb1": {
             "attack": 852,
             "defense": 622,
@@ -80812,7 +83600,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1146,
+        "originalIndex": 1194,
         "lb1": {
             "attack": 937,
             "defense": 642,
@@ -80879,7 +83667,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1147,
+        "originalIndex": 1195,
         "lb1": {
             "attack": 915,
             "defense": 710,
@@ -80952,7 +83740,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1148,
+        "originalIndex": 1196,
         "lb1": {
             "attack": 945,
             "defense": 711,
@@ -81022,7 +83810,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1197,
         "lb1": {
             "attack": 646,
             "defense": 690,
@@ -81090,7 +83878,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1150,
+        "originalIndex": 1198,
         "lb1": {
             "attack": 655,
             "defense": 681,
@@ -81152,7 +83940,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1199,
         "lb1": {
             "attack": 822,
             "defense": 579,
@@ -81215,7 +84003,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1152,
+        "originalIndex": 1200,
         "lb1": {
             "attack": 722,
             "defense": 688,
@@ -81280,7 +84068,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1153,
+        "originalIndex": 1201,
         "lb1": {
             "attack": 706,
             "defense": 753,
@@ -81306,6 +84094,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Sumitomo Toon",
+        "fancy_name": "Toon of Deceit",
+        "AetherPower": "Attack Up",
+        "color": "Red",
+        "class": "Fighter",
+        "speed": "Average",
+        "skill": "Toon-Waza",
+        "types": [
+            "Hit 1",
+            "Counterattack Self",
+            "Mana Gain Self on counterattack"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_waza",
+        "parent_specialId": "oji_waza",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_demon_master_costume_cute",
+        "star": 4,
+        "power": 829,
+        "attack": 881,
+        "defense": 806,
+        "health": 1503,
+        "effects": [
+            "Deals 330% damage to the target.",
+            "The caster counterattacks with 155% of the damage received for 5 turns.",
+            "The caster regenerates a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.",
+            "Deals extra damage against Nature."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": 1202,
+        "lb1": {
+            "attack": 957,
+            "defense": 876,
+            "health": 1633,
+            "power": 893
+        },
+        "lb2": {
+            "attack": 1110,
+            "defense": 1016,
+            "health": 1893,
+            "power": 1023
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Sumle",
@@ -81340,7 +84182,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1154,
+        "originalIndex": 1203,
         "lb1": {
             "attack": 778,
             "defense": 683,
@@ -81401,7 +84243,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1155,
+        "originalIndex": 1204,
         "lb1": {
             "attack": 784,
             "defense": 713,
@@ -81426,6 +84268,57 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Sumle Toon",
+        "fancy_name": "Toon Fire Giant",
+        "AetherPower": "Counterattack",
+        "color": "Red",
+        "class": "Monk",
+        "speed": "Slow",
+        "skill": "Toon Magma Boulders",
+        "types": [
+            "Hit All"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toon_magma_boulders",
+        "parent_specialId": "magma_boulders",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_sumle_costume_cute",
+        "star": 4,
+        "power": 836,
+        "attack": 933,
+        "defense": 814,
+        "health": 1408,
+        "effects": [
+            "Deals 265% damage to all enemies. Each hit has 85% accuracy.",
+            "The damage is increased by 75% per each defeated enemy.",
+            "Deals extra damage against Nature."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "muspelheim",
+        "costume_id": 2,
+        "originalIndex": 1205,
+        "lb1": {
+            "attack": 1014,
+            "defense": 885,
+            "health": 1530,
+            "power": 901
+        },
+        "lb2": {
+            "attack": 1176,
+            "defense": 1026,
+            "health": 1774,
+            "power": 1032
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Sun Shangxiang",
@@ -81460,7 +84353,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1206,
         "lb1": {
             "attack": 849,
             "defense": 593,
@@ -81529,7 +84422,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1157,
+        "originalIndex": 1207,
         "lb1": {
             "attack": 768,
             "defense": 738,
@@ -81598,7 +84491,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 1158,
+        "originalIndex": 1208,
         "lb1": {
             "attack": 658,
             "defense": 750,
@@ -81660,7 +84553,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 1159,
+        "originalIndex": 1209,
         "lb1": {
             "attack": 713,
             "defense": 737,
@@ -81696,7 +84589,7 @@ window.allHeroes =
         "skill": "Melody of Misery",
         "types": [
             "Hit 1",
-            "Status Ailment Reset"
+            "Status Ailment Reset All"
         ],
         "skill_types": [
             "Effect Duration Resetters",
@@ -81724,7 +84617,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1160,
+        "originalIndex": 1210,
         "lb1": {
             "attack": 715,
             "defense": 655,
@@ -81786,7 +84679,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1161,
+        "originalIndex": 1211,
         "lb1": {
             "attack": 695,
             "defense": 729,
@@ -81863,7 +84756,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1162,
+        "originalIndex": 1212,
         "lb1": {
             "attack": 766,
             "defense": 748,
@@ -81932,7 +84825,7 @@ window.allHeroes =
             "Deals 260% damage to all enemies.",
             "Summons a Xulu Minion for each ally with 15% HP and 20% attack inherited from the caster.",
             "Each hit from a Xulu Minion gives the target the following status ailments:",
-            "* The target receives 340 Bleed damage over 4 turns.",
+            "* The target receives 344 Bleed damage over 4 turns.",
             "* Inflicts 5 Insanity on the target.",
             "Casting this Special Skill inflicts 50 Insanity on the caster."
         ],
@@ -81941,7 +84834,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1163,
+        "originalIndex": 1213,
         "lb1": {
             "attack": 1227,
             "defense": 1254,
@@ -82002,15 +84895,15 @@ window.allHeroes =
         ],
         "heroId": "titan_hunter_adelitza",
         "star": 5,
-        "power": 1264,
-        "attack": 1312,
-        "defense": 1297,
-        "health": 2263,
+        "power": 1274,
+        "attack": 1322,
+        "defense": 1308,
+        "health": 2288,
         "effects": [
             "Deals 600% damage to the target.",
             "Against Titans, deals 700% damage.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target gets -40% defense for 3 turns. Against Nature Titans, the targets -60% defense and the status effect lasts 2 turns longer."
+            "The target gets -40% defense for 3 turns. Against Nature Titans, the target gets -60% defense and the status effect lasts 2 turns longer."
         ],
         "passives": [
             "Enhanced Shields on Special: Passive Skill as attacking character",
@@ -82021,18 +84914,18 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 1164,
+        "originalIndex": 1214,
         "lb1": {
-            "attack": 1414,
-            "defense": 1398,
-            "health": 2439,
-            "power": 1352
+            "attack": 1425,
+            "defense": 1409,
+            "health": 2466,
+            "power": 1363
         },
         "lb2": {
-            "attack": 1617,
-            "defense": 1600,
-            "health": 2791,
-            "power": 1529
+            "attack": 1630,
+            "defense": 1612,
+            "health": 2821,
+            "power": 1541
         },
         "cn_skill_info": [
             {
@@ -82095,15 +84988,18 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            "Mimic Loot: This Mimic gives a chance for the following extra loot",
+            "Legendary:",
             "* Alpha Aether",
             "* Fire Aether III",
+            "Epic:",
             "* Fire Aether II",
+            "Rare:",
             "* Fire Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1215,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -82178,17 +85074,17 @@ window.allHeroes =
         "effects": [
             "Attacks the target with Firestorm Strike, dealing up to 4000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
             "All allies get +45% chance to dodge attacks and Special Skills for 5 turns.",
-            "This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stacks increases mana generation of the caster by +6%."
+            "This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stack increases mana generation of the caster by +6%."
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1166,
+        "originalIndex": 1216,
         "lb1": {
             "attack": 1249,
             "defense": 1278,
@@ -82266,7 +85162,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1217,
         "lb1": {
             "attack": 919,
             "defense": 865,
@@ -82341,7 +85237,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1168,
+        "originalIndex": 1218,
         "lb1": {
             "attack": 1495,
             "defense": 1165,
@@ -82369,6 +85265,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Amarosa",
+        "fancy_name": "Empress from the Outer Domain",
+        "AetherPower": "Vampire",
+        "color": "Red",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Sword of Xu'Vhosh",
+        "types": [
+            "Hit All",
+            "Insanity All",
+            "Healing Steal All",
+            "Insanity Self"
+        ],
+        "skill_types": [],
+        "source": "Shadow Summon",
+        "Release date": "2026-04-14",
+        "specialId": "sword_of_xuvhosh",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "forsaken_amarosa",
+        "star": 5,
+        "power": 1322,
+        "attack": 1396,
+        "defense": 1339,
+        "health": 2383,
+        "effects": [
+            "Deals 525% damage to the enemy with the lowest remaining HP. Deals 300% damage to all other enemies.",
+            "Inflicts 20 Insanity on all enemies.",
+            "The caster steals 70% of any healing applied to all enemies for 4 turns.",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
+        ],
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+        ],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 1219,
+        "lb1": {
+            "attack": 1505,
+            "defense": 1443,
+            "health": 2568,
+            "power": 1415
+        },
+        "lb2": {
+            "attack": 1722,
+            "defense": 1651,
+            "health": 2938,
+            "power": 1601
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Amber",
@@ -82411,7 +85362,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1169,
+        "originalIndex": 1220,
         "lb1": {
             "attack": 999,
             "defense": 954,
@@ -82486,7 +85437,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 1170,
+        "originalIndex": 1221,
         "lb1": {
             "attack": 1329,
             "defense": 1363,
@@ -82557,7 +85508,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1171,
+        "originalIndex": 1222,
         "lb1": {
             "attack": 1325,
             "defense": 1287,
@@ -82627,7 +85578,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1172,
+        "originalIndex": 1223,
         "lb1": {
             "attack": 752,
             "defense": 854,
@@ -82689,7 +85640,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1224,
         "lb1": {
             "attack": 956,
             "defense": 925,
@@ -82759,11 +85710,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1225,
         "lb1": {
             "attack": 1249,
             "defense": 1189,
@@ -82831,7 +85782,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1175,
+        "originalIndex": 1226,
         "lb1": {
             "attack": 710,
             "defense": 799,
@@ -82899,11 +85850,11 @@ window.allHeroes =
             "Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
+            "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1176,
+        "originalIndex": 1227,
         "lb1": {
             "attack": 943,
             "defense": 965,
@@ -82932,6 +85883,61 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Ares Toon",
+        "fancy_name": "Toon of War",
+        "AetherPower": "Defense Up",
+        "color": "Red",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Might of Toon Ares",
+        "types": [
+            "Attack Buff All",
+            "Critical Chance Buff All",
+            "HoT All"
+        ],
+        "skill_types": [],
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-04-29",
+        "specialId": "might_of_toon_ares",
+        "parent_specialId": "might_of_ares",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "fire_god_ares_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1248,
+        "defense": 1412,
+        "health": 2755,
+        "effects": [
+            "All allies get +55% attack for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "All allies get +50% critical chance for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "All allies regenerate 1000 HP over 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
+        ],
+        "family": "hotm2017",
+        "costume_id": 2,
+        "originalIndex": 1228,
+        "lb1": {
+            "attack": 1345,
+            "defense": 1522,
+            "health": 2969,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1539,
+            "defense": 1742,
+            "health": 3397,
+            "power": 1626
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Asakura Masao",
         "fancy_name": "Enraged Ronin",
         "AetherPower": "Damage Reduction",
@@ -82943,7 +85949,8 @@ window.allHeroes =
             "Charge",
             "Hit 1",
             "Chain Hit",
-            "Growth Self / 3 / All"
+            "Attack Growth All",
+            "Defense Growth All"
         ],
         "skill_types": [
             "Snipers",
@@ -82959,45 +85966,45 @@ window.allHeroes =
         ],
         "heroId": "ronin_asakura_masao",
         "star": 5,
-        "power": 1288,
-        "attack": 1316,
-        "defense": 1357,
-        "health": 2307,
+        "power": 1313,
+        "attack": 1341,
+        "defense": 1382,
+        "health": 2371,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "x1 Mana Charge:",
-            "Deals 250% damage to the target.",
+            "Deals 280% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "Growth: The caster gets 100 attack and 100 defense.",
+            "Growth: All allies get 100 attack and 100 defense.",
             "x2 Mana Charge:",
-            "Deals 400% damage to the target.",
+            "Deals 430% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "Growth: The caster and nearby allies get 250 attack and 250 defense.",
+            "Growth: All allies get 175 attack and 175 defense.",
             "x3 Mana Charge:",
-            "Deals 600% damage to the target.",
+            "Deals 650% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "Growth: All allies get 600 attack and 600 defense."
+            "Growth: All allies get 650 attack and 650 defense."
         ],
         "passives": [
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
-            "* The attacker receives 400% damage.",
-            "* The attacker receives 1200 Bleed damage over 3 turns."
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
         ],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 1177,
+        "originalIndex": 1229,
         "lb1": {
-            "attack": 1418,
-            "defense": 1462,
-            "health": 2486,
-            "power": 1378
+            "attack": 1445,
+            "defense": 1489,
+            "health": 2555,
+            "power": 1405
         },
         "lb2": {
-            "attack": 1623,
-            "defense": 1673,
-            "health": 2844,
-            "power": 1559
+            "attack": 1653,
+            "defense": 1704,
+            "health": 2923,
+            "power": 1589
         },
         "cn_skill_info": [
             {
@@ -83015,7 +86022,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "Ascension Mimic",
+        "name": "Ascension Mimic Fire",
         "fancy_name": "Grinning Cache of Evil",
         "AetherPower": "Bulwark",
         "color": "Red",
@@ -83027,15 +86034,7 @@ window.allHeroes =
             "DoT 3",
             "Mimic Chest"
         ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
+        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
@@ -83051,29 +86050,28 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "****",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Epic",
             "- Damascus Blade",
             "- Tome Of Tactics",
-            "- Mistic Rings",
-            "***",
+            "- Mystic Rings",
+            "Rare",
             "- Fine Gloves",
             "- Compass",
             "- Hidden Blade",
             "- Chainmail Shirt",
             "- Tall Boots",
-            "**",
-            "- Arcane Scipt"
+            "- Arcane Script"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1178,
+        "originalIndex": 1230,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -83155,7 +86153,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1179,
+        "originalIndex": 1231,
         "lb1": {
             "attack": 1221,
             "defense": 1152,
@@ -83226,7 +86224,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1180,
+        "originalIndex": 1232,
         "lb1": {
             "attack": 845,
             "defense": 821,
@@ -83314,7 +86312,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1181,
+        "originalIndex": 1233,
         "lb1": {
             "attack": 1427,
             "defense": 1229,
@@ -83341,6 +86339,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Avestalon",
+        "fancy_name": "Trapper from the Rainforest",
+        "AetherPower": "Regen",
+        "color": "Red",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Crimson Trap",
+        "types": [
+            "Hit Random 3",
+            "SExploding Spike Trap on hit",
+            "Elemental Defense Debuff on hit"
+        ],
+        "skill_types": [],
+        "source": "Titan Hunter Summon",
+        "Release date": "2026-05-20",
+        "specialId": "crimson_trap",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_red_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_avestalon",
+        "star": 5,
+        "power": 1327,
+        "attack": 1394,
+        "defense": 1357,
+        "health": 2387,
+        "effects": [
+            "Deals 275% damage to 3 random  enemies.",
+            "Hit enemies become afflicted with Spike Trap.",
+            "The Spike Trap gives its target -42% defense against Fire. Against Nature Titans, the Spike Trap gives its target -65% defense against Fire.",
+            "Spike Traps explode in 3 turns dealing 300 damage to their owner. (If Spike Trap is replaced by a new Spike Trap of the same element, it explodes. This can happen up to 2 times per turn.)"
+        ],
+        "passives": [
+            "Enhanced Shields on Special: Passive Skill as attacking character",
+            "* Fire shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "Passive Skill as defending character",
+            "* Fire shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": 1234,
+        "lb1": {
+            "attack": 1502,
+            "defense": 1462,
+            "health": 2572,
+            "power": 1420
+        },
+        "lb2": {
+            "attack": 1719,
+            "defense": 1673,
+            "health": 2943,
+            "power": 1607
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Azlar",
@@ -83375,7 +86430,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1182,
+        "originalIndex": 1235,
         "lb1": {
             "attack": 854,
             "defense": 654,
@@ -83439,7 +86494,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1183,
+        "originalIndex": 1236,
         "lb1": {
             "attack": 953,
             "defense": 770,
@@ -83508,7 +86563,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1184,
+        "originalIndex": 1237,
         "lb1": {
             "attack": 1116,
             "defense": 873,
@@ -83581,7 +86636,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1185,
+        "originalIndex": 1238,
         "lb1": {
             "attack": 1273,
             "defense": 1138,
@@ -83655,7 +86710,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1186,
+        "originalIndex": 1239,
         "lb1": {
             "attack": 1441,
             "defense": 1282,
@@ -83714,32 +86769,32 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_stylish",
         "star": 5,
-        "power": 1302,
-        "attack": 1417,
-        "defense": 1253,
-        "health": 2362,
+        "power": 1343,
+        "attack": 1456,
+        "defense": 1287,
+        "health": 2490,
         "effects": [
             "Deals 375% damage to all enemies.",
             "If the enemies have less than 50% health remaining, deals 525% damage instead.",
-            "All enemies receive 720 Burn damage over 3 turns."
+            "All enemies receive 741 Burn damage over 3 turns."
         ],
         "passives": [
             "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1187,
+        "originalIndex": 1240,
         "lb1": {
-            "attack": 1527,
-            "defense": 1351,
-            "health": 2546,
-            "power": 1394
+            "attack": 1569,
+            "defense": 1387,
+            "health": 2683,
+            "power": 1438
         },
         "lb2": {
-            "attack": 1748,
-            "defense": 1545,
-            "health": 2913,
-            "power": 1577
+            "attack": 1795,
+            "defense": 1587,
+            "health": 3070,
+            "power": 1627
         },
         "cn_skill_info": [
             {
@@ -83808,7 +86863,7 @@ window.allHeroes =
         ],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1188,
+        "originalIndex": 1241,
         "lb1": {
             "attack": 1431,
             "defense": 1434,
@@ -83886,7 +86941,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1242,
         "lb1": {
             "attack": 870,
             "defense": 750,
@@ -83951,7 +87006,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1190,
+        "originalIndex": 1243,
         "lb1": {
             "attack": 1065,
             "defense": 1000,
@@ -84018,7 +87073,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1191,
+        "originalIndex": 1244,
         "lb1": {
             "attack": 963,
             "defense": 879,
@@ -84074,10 +87129,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_bartholomew",
         "star": 5,
-        "power": 1277,
-        "attack": 1336,
-        "defense": 1306,
-        "health": 2278,
+        "power": 1282,
+        "attack": 1341,
+        "defense": 1310,
+        "health": 2292,
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "Deals additional 15% damage for each Fiend or Mega Fiend owned by the enemies, up to 450% damage in total.",
@@ -84096,18 +87151,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1192,
+        "originalIndex": 1245,
         "lb1": {
-            "attack": 1440,
-            "defense": 1407,
-            "health": 2455,
-            "power": 1366
+            "attack": 1445,
+            "defense": 1411,
+            "health": 2470,
+            "power": 1371
         },
         "lb2": {
-            "attack": 1648,
-            "defense": 1610,
-            "health": 2809,
-            "power": 1545
+            "attack": 1653,
+            "defense": 1615,
+            "health": 2827,
+            "power": 1551
         },
         "cn_skill_info": [
             {
@@ -84140,7 +87195,7 @@ window.allHeroes =
         "types": [
             "Dispeller All",
             "Hit All",
-            "Cursed Paintings All"
+            "Cursed Paintings Debuff All"
         ],
         "skill_types": [
             "Dispellers",
@@ -84172,7 +87227,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1246,
         "lb1": {
             "attack": 1090,
             "defense": 1221,
@@ -84252,7 +87307,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1194,
+        "originalIndex": 1247,
         "lb1": {
             "attack": 1394,
             "defense": 1194,
@@ -84312,16 +87367,16 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_bhima",
         "star": 5,
-        "power": 1252,
-        "attack": 1328,
-        "defense": 1236,
-        "health": 2261,
+        "power": 1267,
+        "attack": 1343,
+        "defense": 1250,
+        "health": 2305,
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 410% damage to the target and nearby enemies.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Up to a maximum 800 additional extra damage. Status affects affecting damage dealt do affect extra damage. Defense stat does not affect the extra damage. Status effects affecting attack do not affect extra damage.)",
-            "Reduces max health of the target and nearby enemies by 850. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 850.)",
-            "The target and nearby enemies get -50% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)"
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Up to a maximum 600 additional extra damage. Status affects affecting damage dealt do affect extra damage. Defense stat does not affect the extra damage. Status effects affecting attack do not affect extra damage.)",
+            "Reduces max health of the target and nearby enemies by 1000. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 1000.)",
+            "The target and nearby enemies get -55% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
             "Mana on Damage Received:",
@@ -84331,18 +87386,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1195,
+        "originalIndex": 1248,
         "lb1": {
-            "attack": 1431,
-            "defense": 1332,
-            "health": 2437,
-            "power": 1339
+            "attack": 1447,
+            "defense": 1347,
+            "health": 2484,
+            "power": 1356
         },
         "lb2": {
-            "attack": 1638,
-            "defense": 1524,
-            "health": 2788,
-            "power": 1515
+            "attack": 1656,
+            "defense": 1541,
+            "health": 2842,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -84363,6 +87418,66 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Big Barry",
+        "fancy_name": "Strawberry Thug",
+        "AetherPower": "Rage",
+        "color": "Red",
+        "class": "Barbarian",
+        "speed": "Fast",
+        "skill": "Spiked Bat Thrashing",
+        "types": [
+            "Hit 1",
+            "Lasting DoT 1",
+            "Attack Buff Self"
+        ],
+        "skill_types": [],
+        "source": "Challenge - Vigilant Vegetables Summon",
+        "Release date": "2026-04-25",
+        "specialId": "spiked_bat_thrashing",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_big_barry",
+        "star": 5,
+        "power": 1305,
+        "attack": 1374,
+        "defense": 1332,
+        "health": 2331,
+        "effects": [
+            "Deals 560% damage to the target.",
+            "Deals additional 15% damage for each Fiend or Mega Fiend owned by the enemies, up to 710% damage in total.",
+            "The target receives lasting 320 Bleed damage per turn. (This effect lasts until it is cleansed, replaced or removed.)",
+            "The caster gets +40% attack, and a further 20% increase every time they are hit during 4 turns, up to 140% attack."
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
+            "1) Seedling Fiend: 50% attack, 20% health",
+            "2) Sprout Fiend: 75% attack, 30% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health."
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 1249,
+        "lb1": {
+            "attack": 1480,
+            "defense": 1436,
+            "health": 2513,
+            "power": 1396
+        },
+        "lb2": {
+            "attack": 1694,
+            "defense": 1643,
+            "health": 2875,
+            "power": 1580
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Black Caesar",
@@ -84405,7 +87520,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1250,
         "lb1": {
             "attack": 1018,
             "defense": 1085,
@@ -84472,7 +87587,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1197,
+        "originalIndex": 1251,
         "lb1": {
             "attack": 659,
             "defense": 912,
@@ -84533,7 +87648,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1198,
+        "originalIndex": 1252,
         "lb1": {
             "attack": 854,
             "defense": 1126,
@@ -84601,7 +87716,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1199,
+        "originalIndex": 1253,
         "lb1": {
             "attack": 954,
             "defense": 1081,
@@ -84671,7 +87786,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1200,
+        "originalIndex": 1254,
         "lb1": {
             "attack": 983,
             "defense": 907,
@@ -84747,7 +87862,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1201,
+        "originalIndex": 1255,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -84815,7 +87930,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1256,
         "lb1": {
             "attack": 783,
             "defense": 757,
@@ -84877,7 +87992,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1203,
+        "originalIndex": 1257,
         "lb1": {
             "attack": 885,
             "defense": 810,
@@ -84945,7 +88060,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1204,
+        "originalIndex": 1258,
         "lb1": {
             "attack": 1165,
             "defense": 1059,
@@ -84980,7 +88095,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Web of Spies",
         "types": [
-            "Hit all",
+            "Hit All",
             "Fiend Summoner All",
             "Buff Stealing Fiend"
         ],
@@ -85013,7 +88128,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1205,
+        "originalIndex": 1259,
         "lb1": {
             "attack": 950,
             "defense": 936,
@@ -85080,7 +88195,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1206,
+        "originalIndex": 1260,
         "lb1": {
             "attack": 976,
             "defense": 950,
@@ -85106,6 +88221,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Carthizux",
+        "fancy_name": "Astral Demon Maniac",
+        "AetherPower": "Rage",
+        "color": "Red",
+        "class": "Rogue",
+        "speed": "Fast",
+        "skill": "Astral Madness Unleashed",
+        "types": [
+            "Hit 1",
+            "Chance to Hit random 4",
+            "Resonance Damage on hit",
+            "Steal Mana on hit"
+        ],
+        "skill_types": [],
+        "source": "Astral Summon",
+        "Release date": "2026-04-05",
+        "specialId": "astral_madness_unleashed",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_carthizux",
+        "star": 5,
+        "power": 1304,
+        "attack": 1390,
+        "defense": 1330,
+        "health": 2288,
+        "effects": [
+            "Deals 410% damage to the target.",
+            "Has a 75% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
+            "Hit enemies receive Resonance for 3 turns. Each turn, Resonance deals 284 damage to the afflicted enemies and 142 damage to nearby enemies.",
+            "The caster steals 20% of generated mana from hit enemies over 3 turns. This effect gets removed if the caster is defeated."
+        ],
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": 1261,
+        "lb1": {
+            "attack": 1498,
+            "defense": 1434,
+            "health": 2466,
+            "power": 1396
+        },
+        "lb2": {
+            "attack": 1714,
+            "defense": 1640,
+            "health": 2821,
+            "power": 1579
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Catalina",
@@ -85135,14 +88307,14 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_catalina",
         "star": 5,
-        "power": 1267,
-        "attack": 1402,
-        "defense": 1196,
-        "health": 2263,
+        "power": 1282,
+        "attack": 1417,
+        "defense": 1211,
+        "health": 2305,
         "effects": [
-            "Deals 550% Clawing damage to the target. (Deals 825% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
-            "All allies except the caster get +40% attack for 4 turns.",
-            "All allies except the caster get +40% critical chance for 4 turns.",
+            "Deals 580% Clawing damage to the target. (Deals 825% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
+            "All allies except the caster get +45% attack for 4 turns.",
+            "All allies except the caster get +45% critical chance for 4 turns.",
             "All allies except the caster heal 100% of dealt normal damage for 4 turns."
         ],
         "passives": [
@@ -85158,18 +88330,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1262,
         "lb1": {
-            "attack": 1511,
-            "defense": 1289,
-            "health": 2439,
-            "power": 1356
+            "attack": 1527,
+            "defense": 1305,
+            "health": 2484,
+            "power": 1372
         },
         "lb2": {
-            "attack": 1729,
-            "defense": 1475,
-            "health": 2791,
-            "power": 1533
+            "attack": 1747,
+            "defense": 1493,
+            "health": 2842,
+            "power": 1552
         },
         "cn_skill_info": [
             {
@@ -85230,12 +88402,12 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1208,
+        "originalIndex": 1263,
         "lb1": {
             "attack": 1307,
             "defense": 1300,
@@ -85314,7 +88486,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1264,
         "lb1": {
             "attack": 1243,
             "defense": 1087,
@@ -85392,7 +88564,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1210,
+        "originalIndex": 1265,
         "lb1": {
             "attack": 1194,
             "defense": 1218,
@@ -85446,10 +88618,10 @@ window.allHeroes =
         ],
         "heroId": "slime_chingiriko",
         "star": 5,
-        "power": 1276,
-        "attack": 1345,
-        "defense": 1291,
-        "health": 2280,
+        "power": 1291,
+        "attack": 1359,
+        "defense": 1306,
+        "health": 2323,
         "effects": [
             "Deals 450% damage to the target and nearby enemies.",
             "The target and nearby enemies get -39% accuracy for 4 turns. The effect duration resets if the target is healed. (Chance to miss applies to offensive   Special Skills.)",
@@ -85462,18 +88634,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1211,
+        "originalIndex": 1266,
         "lb1": {
-            "attack": 1449,
-            "defense": 1391,
-            "health": 2457,
-            "power": 1365
+            "attack": 1465,
+            "defense": 1407,
+            "health": 2504,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1592,
-            "health": 2811,
-            "power": 1544
+            "attack": 1676,
+            "defense": 1610,
+            "health": 2865,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -85535,7 +88707,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1212,
+        "originalIndex": 1267,
         "lb1": {
             "attack": 916,
             "defense": 930,
@@ -85608,7 +88780,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1213,
+        "originalIndex": 1268,
         "lb1": {
             "attack": 1247,
             "defense": 1400,
@@ -85681,7 +88853,7 @@ window.allHeroes =
         ],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1269,
         "lb1": {
             "attack": 1112,
             "defense": 1107,
@@ -85753,7 +88925,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1215,
+        "originalIndex": 1270,
         "lb1": {
             "attack": 919,
             "defense": 930,
@@ -85820,7 +88992,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1216,
+        "originalIndex": 1271,
         "lb1": {
             "attack": 987,
             "defense": 1043,
@@ -85887,7 +89059,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1217,
+        "originalIndex": 1272,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -85956,7 +89128,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1218,
+        "originalIndex": 1273,
         "lb1": {
             "attack": 1414,
             "defense": 1348,
@@ -86023,7 +89195,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1219,
+        "originalIndex": 1274,
         "lb1": {
             "attack": 934,
             "defense": 899,
@@ -86085,14 +89257,14 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_dartagnan_costume_chimney_sweeper",
         "star": 5,
-        "power": 1281,
-        "attack": 1330,
-        "defense": 1276,
-        "health": 2382,
+        "power": 1307,
+        "attack": 1347,
+        "defense": 1293,
+        "health": 2491,
         "effects": [
-            "Deals 560% damage to the target.",
-            "The target receives 1692 Burn damage over 3 turns. This effect spreads to nearby enemies.",
-            "The caster regenerates 915 boosted health over 3 turns. Boosted health can exceed max HP."
+            "Deals 570% damage to the target.",
+            "The target receives 1716 Burn damage over 3 turns. This effect spreads to nearby enemies.",
+            "The caster regenerates 1005 boosted health over 3 turns. Boosted health can exceed max HP."
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
@@ -86100,18 +89272,18 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1220,
+        "originalIndex": 1275,
         "lb1": {
-            "attack": 1433,
-            "defense": 1375,
-            "health": 2567,
-            "power": 1370
+            "attack": 1452,
+            "defense": 1393,
+            "health": 2685,
+            "power": 1399
         },
         "lb2": {
-            "attack": 1639,
-            "defense": 1573,
-            "health": 2937,
-            "power": 1550
+            "attack": 1661,
+            "defense": 1594,
+            "health": 3072,
+            "power": 1582
         },
         "cn_skill_info": [
             {
@@ -86175,7 +89347,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1221,
+        "originalIndex": 1276,
         "lb1": {
             "attack": 1187,
             "defense": 1056,
@@ -86260,7 +89432,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1222,
+        "originalIndex": 1277,
         "lb1": {
             "attack": 1387,
             "defense": 1347,
@@ -86335,7 +89507,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1223,
+        "originalIndex": 1278,
         "lb1": {
             "attack": 1265,
             "defense": 1198,
@@ -86416,7 +89588,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1224,
+        "originalIndex": 1279,
         "lb1": {
             "attack": 1061,
             "defense": 1067,
@@ -86497,7 +89669,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1225,
+        "originalIndex": 1280,
         "lb1": {
             "attack": 1327,
             "defense": 1395,
@@ -86569,7 +89741,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1226,
+        "originalIndex": 1281,
         "lb1": {
             "attack": 956,
             "defense": 892,
@@ -86625,7 +89797,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
         "heroId": "elemental_doxan_costume_hacker",
         "star": 5,
         "power": 1233,
@@ -86642,11 +89816,12 @@ window.allHeroes =
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
             "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "- Received elemental damage: -25%",
+            "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1227,
+        "originalIndex": 1282,
         "lb1": {
             "attack": 1336,
             "defense": 1255,
@@ -86678,6 +89853,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Duke Whitley",
+        "fancy_name": "High Mage of Springvale",
+        "AetherPower": "Special Boost",
+        "color": "Red",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Roasting Rooster",
+        "types": [
+            "Hit 3",
+            "DoT 3",
+            "Heal All on DoT",
+            "Healing Debuff 3",
+            "Elemental Defense Debuff Self"
+        ],
+        "skill_types": [],
+        "source": "Monthly Event - Springvale",
+        "Release date": "2026-03-30",
+        "specialId": "roasting_rooster",
+        "passiveSkills": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "heroId": "easter_duke_whitley",
+        "star": 5,
+        "power": 1293,
+        "attack": 1369,
+        "defense": 1312,
+        "health": 2301,
+        "effects": [
+            "Deals 450% damage to the target and nearby enemies.",
+            "The target nearby enemies receive 848 Burn damage over 4 turns. The caster and all their allies absorb 30% of dealt Burn damage as health.",
+            "The damage and nearby enemies get -54% decrease of any healing received for 4 turns.",
+            "The caster gets -51% defense against Ice for  4 turns. This effect can't be cleansed."
+        ],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get  Stack (Max: 10): -5% defense."
+        ],
+        "family": "easter",
+        "costume_id": 0,
+        "originalIndex": 1283,
+        "lb1": {
+            "attack": 1476,
+            "defense": 1414,
+            "health": 2479,
+            "power": 1384
+        },
+        "lb2": {
+            "attack": 1689,
+            "defense": 1617,
+            "health": 2837,
+            "power": 1566
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Dunnar Hart",
@@ -86728,7 +89957,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1284,
         "lb1": {
             "attack": 1312,
             "defense": 1336,
@@ -86812,7 +90041,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1229,
+        "originalIndex": 1285,
         "lb1": {
             "attack": 914,
             "defense": 923,
@@ -86879,7 +90108,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1230,
+        "originalIndex": 1286,
         "lb1": {
             "attack": 896,
             "defense": 841,
@@ -86945,7 +90174,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1231,
+        "originalIndex": 1287,
         "lb1": {
             "attack": 1065,
             "defense": 1021,
@@ -87005,7 +90234,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1232,
+        "originalIndex": 1288,
         "lb1": {
             "attack": 872,
             "defense": 623,
@@ -87066,7 +90295,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1233,
+        "originalIndex": 1289,
         "lb1": {
             "attack": 980,
             "defense": 682,
@@ -87127,7 +90356,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1234,
+        "originalIndex": 1290,
         "lb1": {
             "attack": 996,
             "defense": 916,
@@ -87194,7 +90423,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1235,
+        "originalIndex": 1291,
         "lb1": {
             "attack": 1101,
             "defense": 1211,
@@ -87267,7 +90496,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1236,
+        "originalIndex": 1292,
         "lb1": {
             "attack": 1305,
             "defense": 1297,
@@ -87342,7 +90571,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1237,
+        "originalIndex": 1293,
         "lb1": {
             "attack": 1189,
             "defense": 1183,
@@ -87416,7 +90645,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1294,
         "lb1": {
             "attack": 828,
             "defense": 812,
@@ -87456,7 +90685,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Bride's Kiss",
         "types": [
-            "Hit all",
+            "Hit All",
             "Fiend Summoner All",
             "Mana Generation Debuff Fiend"
         ],
@@ -87496,7 +90725,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1239,
+        "originalIndex": 1295,
         "lb1": {
             "attack": 1096,
             "defense": 1064,
@@ -87568,7 +90797,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1240,
+        "originalIndex": 1296,
         "lb1": {
             "attack": 1389,
             "defense": 1354,
@@ -87642,7 +90871,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1241,
+        "originalIndex": 1297,
         "lb1": {
             "attack": 1358,
             "defense": 1334,
@@ -87703,13 +90932,13 @@ window.allHeroes =
         ],
         "heroId": "rodent_embertail",
         "star": 5,
-        "power": 1290,
-        "attack": 1365,
-        "defense": 1322,
-        "health": 2268,
+        "power": 1310,
+        "attack": 1384,
+        "defense": 1341,
+        "health": 2323,
         "effects": [
             "Deals 390% damage to the target and nearby enemies.",
-            "Wild: For 3 turns, the target and nearby enemies receive 204 or 408 Burn damage each turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild effect has a 50% chance to deal +100% extra damage that turn. When extra damage is dealt, the effect also reduces enemies' max health and is stronger against boosted health. Wild effects bypass most effects that would normally prevent them from being applied. Wild effects can be applied in addition to other effects of the same type.)",
+            "Wild: For 3 turns, the target and nearby enemies receive 207 or 414 Burn damage each turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild effect has a 50% chance to deal +100% extra damage that turn. When extra damage is dealt, the effect also reduces enemies' max health and is stronger against boosted health. Wild effects bypass most effects that would normally prevent them from being applied. Wild effects can be applied in addition to other effects of the same type.)",
             "The caster and nearby allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
@@ -87718,18 +90947,18 @@ window.allHeroes =
         ],
         "family": "rodent",
         "costume_id": 0,
-        "originalIndex": 1242,
+        "originalIndex": 1298,
         "lb1": {
-            "attack": 1471,
-            "defense": 1425,
-            "health": 2444,
-            "power": 1381
+            "attack": 1491,
+            "defense": 1445,
+            "health": 2504,
+            "power": 1402
         },
         "lb2": {
-            "attack": 1684,
-            "defense": 1630,
-            "health": 2796,
-            "power": 1562
+            "attack": 1706,
+            "defense": 1653,
+            "health": 2865,
+            "power": 1586
         },
         "cn_skill_info": [
             {
@@ -87793,21 +91022,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Master Fighter Emblems",
-            "* Master Barbarian Emblems",
-            "* Fighter Emblems",
-            "* Barbarian Emblems"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Legendary",
+            "* Master Fighter Emblem",
+            "* Master Barbarian Emblem",
+            "Epic",
+            "* Fighter Emblem",
+            "* Barbarian Emblem"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1243,
+        "originalIndex": 1299,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -87889,7 +91120,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1300,
         "lb1": {
             "attack": 810,
             "defense": 865,
@@ -87974,7 +91205,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1245,
+        "originalIndex": 1301,
         "lb1": {
             "attack": 1334,
             "defense": 1254,
@@ -88063,7 +91294,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1246,
+        "originalIndex": 1302,
         "lb1": {
             "attack": 896,
             "defense": 881,
@@ -88130,11 +91361,11 @@ window.allHeroes =
             "All enemies get -35% defense for 4 turns."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1247,
+        "originalIndex": 1303,
         "lb1": {
             "attack": 1192,
             "defense": 1154,
@@ -88167,7 +91398,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "Experience Mimic",
+        "name": "Experience Mimic Fire",
         "fancy_name": "Trove of Thousand Teeth",
         "AetherPower": "Bulwark",
         "color": "Red",
@@ -88179,15 +91410,7 @@ window.allHeroes =
             "Hit 1",
             "Mimic Chest"
         ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
+        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
@@ -88204,21 +91427,24 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Common Fire Trainer Heroes",
-            "* Uncommon Fire Trainer Heroes",
-            "* Rare Fire Trainer Heroes",
-            "* Common Fire Heroes",
-            "* Uncommon Fire Heroes"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Rare",
+            "* Trainer Hero",
+            "Uncommon",
+            "* Trainer Hero",
+            "* Uncommon Fire Heroes",
+            "Common",
+            "* Trainer Hero",
+            "* Common Fire Hero"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1248,
+        "originalIndex": 1304,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -88291,18 +91517,18 @@ window.allHeroes =
         "effects": [
             "Safely cleanses all status ailments from the caster.",
             "Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "Stack (Max: 10): All allies get +5% mana generation.(Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "Stack (Max: 10): All allies get +20% defense."
         ],
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1249,
+        "originalIndex": 1305,
         "lb1": {
             "attack": 1351,
             "defense": 1303,
@@ -88382,7 +91608,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1250,
+        "originalIndex": 1306,
         "lb1": {
             "attack": 1294,
             "defense": 1252,
@@ -88456,7 +91682,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1251,
+        "originalIndex": 1307,
         "lb1": {
             "attack": 899,
             "defense": 934,
@@ -88531,7 +91757,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1252,
+        "originalIndex": 1308,
         "lb1": {
             "attack": 1230,
             "defense": 1339,
@@ -88563,6 +91789,72 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Food Mimic Fire",
+        "fancy_name": "Flesh-eating Chest",
+        "AetherPower": "Bulwark",
+        "color": "Red",
+        "class": "Druid",
+        "speed": "Average",
+        "skill": "Wicked Lick",
+        "types": [
+            "Hit 3",
+            "Healer All on damage dealt",
+            "Mimic Chest"
+        ],
+        "skill_types": [],
+        "source": "Bazaar Summon",
+        "Release date": "2026-05-10",
+        "specialId": "wicked_lick_red",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_red"
+        ],
+        "heroId": "mimic_food_red",
+        "star": 5,
+        "power": 1354,
+        "attack": 1425,
+        "defense": 1419,
+        "health": 2385,
+        "effects": [
+            "Deals 500% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "Heals all allies for 30% of damage dealt.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This mimic grants a chance for the following extra loot:",
+            "Legendary",
+            "* Giant Food Bundle",
+            "Epic",
+            "* Large Food Bundle",
+            "Rare",
+            "* Medium Food Bundle",
+            "Uncommon",
+            "* Small Food Bundle",
+            "* Trainer Hero",
+            "Common",
+            "* Tiny Food Bundle",
+            "* Trainer Hero"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1309,
+        "lb1": {
+            "attack": 1536,
+            "defense": 1529,
+            "health": 2570,
+            "power": 1450
+        },
+        "lb2": {
+            "attack": 1757,
+            "defense": 1750,
+            "health": 2941,
+            "power": 1641
+        },
+        "cn_skill_info": []
+    },
+    {
         "name": "Fulvia",
         "fancy_name": "Queen of Owl Tower",
         "AetherPower": "Counterattack",
@@ -88572,7 +91864,7 @@ window.allHeroes =
         "skill": "Royal Assault",
         "types": [
             "Hit 3",
-            "Mana Reducer 3",
+            "Mana Reducer 3 each turn",
             "Healing Debuff 3"
         ],
         "skill_types": [
@@ -88594,16 +91886,16 @@ window.allHeroes =
         "defense": 1011,
         "health": 1542,
         "effects": [
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
+            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is of Holy element. This Special Skill never misses its targets.",
             "For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.",
             "The target and nearby enemies get -50% decrease for any healing received for 3 turns."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1253,
+        "originalIndex": 1310,
         "lb1": {
             "attack": 1112,
             "defense": 1090,
@@ -88672,14 +91964,14 @@ window.allHeroes =
             "Deals 435% damage to the target.",
             "The target receives 628 Toxin damage over 4 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
             "Deals 435% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
-            "The enemies on the edges of the enemy formation fall into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)"
+            "The enemies on the edges of the enemy formation fall into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleasable.)"
         ],
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1254,
+        "originalIndex": 1311,
         "lb1": {
             "attack": 1405,
             "defense": 1300,
@@ -88749,7 +92041,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1255,
+        "originalIndex": 1312,
         "lb1": {
             "attack": 788,
             "defense": 810,
@@ -88808,7 +92100,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1256,
+        "originalIndex": 1313,
         "lb1": {
             "attack": 832,
             "defense": 825,
@@ -88869,7 +92161,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1257,
+        "originalIndex": 1314,
         "lb1": {
             "attack": 1045,
             "defense": 1065,
@@ -88947,7 +92239,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1258,
+        "originalIndex": 1315,
         "lb1": {
             "attack": 967,
             "defense": 1023,
@@ -89036,7 +92328,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1259,
+        "originalIndex": 1316,
         "lb1": {
             "attack": 1309,
             "defense": 1253,
@@ -89113,7 +92405,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1260,
+        "originalIndex": 1317,
         "lb1": {
             "attack": 1227,
             "defense": 1292,
@@ -89179,7 +92471,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1261,
+        "originalIndex": 1318,
         "lb1": {
             "attack": 783,
             "defense": 763,
@@ -89254,7 +92546,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1262,
+        "originalIndex": 1319,
         "lb1": {
             "attack": 994,
             "defense": 951,
@@ -89325,7 +92617,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1263,
+        "originalIndex": 1320,
         "lb1": {
             "attack": 677,
             "defense": 881,
@@ -89387,7 +92679,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1264,
+        "originalIndex": 1321,
         "lb1": {
             "attack": 848,
             "defense": 632,
@@ -89457,7 +92749,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1265,
+        "originalIndex": 1322,
         "lb1": {
             "attack": 1085,
             "defense": 801,
@@ -89528,7 +92820,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1266,
+        "originalIndex": 1323,
         "lb1": {
             "attack": 1061,
             "defense": 1198,
@@ -89595,12 +92887,12 @@ window.allHeroes =
             "All enemies get -30% attack for 3 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1267,
+        "originalIndex": 1324,
         "lb1": {
             "attack": 1107,
             "defense": 1134,
@@ -89671,7 +92963,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1268,
+        "originalIndex": 1325,
         "lb1": {
             "attack": 834,
             "defense": 856,
@@ -89745,7 +93037,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1269,
+        "originalIndex": 1326,
         "lb1": {
             "attack": 1203,
             "defense": 1255,
@@ -89814,7 +93106,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1270,
+        "originalIndex": 1327,
         "lb1": {
             "attack": 868,
             "defense": 863,
@@ -89887,7 +93179,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1271,
+        "originalIndex": 1328,
         "lb1": {
             "attack": 1431,
             "defense": 1427,
@@ -89967,7 +93259,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1329,
         "lb1": {
             "attack": 1101,
             "defense": 1196,
@@ -90045,7 +93337,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1273,
+        "originalIndex": 1330,
         "lb1": {
             "attack": 912,
             "defense": 841,
@@ -90119,7 +93411,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1274,
+        "originalIndex": 1331,
         "lb1": {
             "attack": 1294,
             "defense": 1263,
@@ -90196,7 +93488,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1275,
+        "originalIndex": 1332,
         "lb1": {
             "attack": 956,
             "defense": 996,
@@ -90255,7 +93547,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
         "heroId": "elemental_ignazio_costume_medic",
         "star": 5,
         "power": 1197,
@@ -90273,11 +93567,12 @@ window.allHeroes =
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
             "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "- Received elemental damage: -25%",
+            "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1276,
+        "originalIndex": 1333,
         "lb1": {
             "attack": 1219,
             "defense": 1303,
@@ -90349,7 +93644,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1277,
+        "originalIndex": 1334,
         "lb1": {
             "attack": 930,
             "defense": 999,
@@ -90391,7 +93686,7 @@ window.allHeroes =
         "types": [
             "Mana Reduction All",
             "Enemy Damage Share",
-            "Defense debuff"
+            "Defense Debuff All"
         ],
         "skill_types": [
             "Healing Reducers",
@@ -90422,7 +93717,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1278,
+        "originalIndex": 1335,
         "lb1": {
             "attack": 1240,
             "defense": 1347,
@@ -90496,7 +93791,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1279,
+        "originalIndex": 1336,
         "lb1": {
             "attack": 1260,
             "defense": 1163,
@@ -90565,11 +93860,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1337,
         "lb1": {
             "attack": 1276,
             "defense": 1205,
@@ -90632,7 +93927,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1281,
+        "originalIndex": 1338,
         "lb1": {
             "attack": 816,
             "defense": 828,
@@ -90701,7 +93996,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1339,
         "lb1": {
             "attack": 794,
             "defense": 779,
@@ -90766,14 +94061,14 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_jwala",
         "star": 5,
-        "power": 1266,
-        "attack": 1324,
-        "defense": 1289,
-        "health": 2263,
+        "power": 1281,
+        "attack": 1339,
+        "defense": 1303,
+        "health": 2307,
         "effects": [
             "Deals 350% damage to all enemies.",
             "The duration of status ailments is reset for all enemies.",
-            "All enemies receive Corrosive Burn for 4 turn. The Corrosive Burn deals 443 Burn damage and lowers the target's defense by -14% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+            "All enemies receive Corrosive Burn for 4 turn. The Corrosive Burn deals 448 Burn damage and lowers the target's defense by -14% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
@@ -90788,18 +94083,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1283,
+        "originalIndex": 1340,
         "lb1": {
-            "attack": 1427,
-            "defense": 1389,
-            "health": 2439,
-            "power": 1354
+            "attack": 1443,
+            "defense": 1405,
+            "health": 2486,
+            "power": 1371
         },
         "lb2": {
-            "attack": 1633,
-            "defense": 1590,
-            "health": 2791,
-            "power": 1532
+            "attack": 1651,
+            "defense": 1607,
+            "health": 2844,
+            "power": 1550
         },
         "cn_skill_info": [
             {
@@ -90855,13 +94150,13 @@ window.allHeroes =
         ],
         "heroId": "mahayoddha_jyoti",
         "star": 5,
-        "power": 1268,
-        "attack": 1303,
-        "defense": 1314,
-        "health": 2282,
+        "power": 1283,
+        "attack": 1318,
+        "defense": 1328,
+        "health": 2325,
         "effects": [
-            "Recovers 37% health for all allies.",
-            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Recovers 42% health for all allies.",
+            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 600 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
             "All allies are immune to new status ailments for 4 turns, and recovers 205 health for each attempted status ailment.",
             "Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
         ],
@@ -90873,18 +94168,18 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1284,
+        "originalIndex": 1341,
         "lb1": {
-            "attack": 1405,
-            "defense": 1416,
-            "health": 2459,
-            "power": 1357
+            "attack": 1420,
+            "defense": 1431,
+            "health": 2506,
+            "power": 1373
         },
         "lb2": {
-            "attack": 1607,
-            "defense": 1620,
-            "health": 2814,
-            "power": 1535
+            "attack": 1625,
+            "defense": 1638,
+            "health": 2867,
+            "power": 1553
         },
         "cn_skill_info": [
             {
@@ -90941,7 +94236,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1285,
+        "originalIndex": 1342,
         "lb1": {
             "attack": 765,
             "defense": 692,
@@ -91006,7 +94301,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1286,
+        "originalIndex": 1343,
         "lb1": {
             "attack": 883,
             "defense": 802,
@@ -91071,7 +94366,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1287,
+        "originalIndex": 1344,
         "lb1": {
             "attack": 1002,
             "defense": 927,
@@ -91142,7 +94437,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1288,
+        "originalIndex": 1345,
         "lb1": {
             "attack": 1245,
             "defense": 1039,
@@ -91219,7 +94514,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1289,
+        "originalIndex": 1346,
         "lb1": {
             "attack": 1414,
             "defense": 1165,
@@ -91261,7 +94556,7 @@ window.allHeroes =
         "skill": "Perplexing Riddle",
         "types": [
             "Hit 1",
-            "Chain",
+            "Chain hit",
             "Elemental Defense Debuff 1"
         ],
         "skill_types": [
@@ -91293,7 +94588,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1347,
         "lb1": {
             "attack": 883,
             "defense": 863,
@@ -91330,8 +94625,8 @@ window.allHeroes =
         "skill": "Underwater Riddle",
         "types": [
             "Hit 1",
-            "Chain",
-            "Elemental Defense Debuff"
+            "Chain hit",
+            "Elemental Defense Debuff 1"
         ],
         "skill_types": [
             "Snipers",
@@ -91368,7 +94663,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1291,
+        "originalIndex": 1348,
         "lb1": {
             "attack": 1326,
             "defense": 1220,
@@ -91405,6 +94700,7 @@ window.allHeroes =
         "skill": "Inevitable Demise",
         "types": [
             "Revive Block All",
+            "Revive Immunity All",
             "Hit 3"
         ],
         "skill_types": [
@@ -91433,7 +94729,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1349,
         "lb1": {
             "attack": 848,
             "defense": 836,
@@ -91469,6 +94765,7 @@ window.allHeroes =
         "skill": "Delicious Demise",
         "types": [
             "Revive Block All",
+            "Revive Immunity All",
             "Hit 3"
         ],
         "skill_types": [
@@ -91502,7 +94799,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1293,
+        "originalIndex": 1350,
         "lb1": {
             "attack": 1099,
             "defense": 1070,
@@ -91563,7 +94860,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1351,
         "lb1": {
             "attack": 805,
             "defense": 836,
@@ -91627,7 +94924,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1295,
+        "originalIndex": 1352,
         "lb1": {
             "attack": 946,
             "defense": 1179,
@@ -91703,7 +95000,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1296,
+        "originalIndex": 1353,
         "lb1": {
             "attack": 1072,
             "defense": 916,
@@ -91783,7 +95080,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1297,
+        "originalIndex": 1354,
         "lb1": {
             "attack": 1344,
             "defense": 1241,
@@ -91843,7 +95140,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1298,
+        "originalIndex": 1355,
         "lb1": {
             "attack": 856,
             "defense": 861,
@@ -91920,7 +95217,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1356,
         "lb1": {
             "attack": 1245,
             "defense": 1389,
@@ -91985,11 +95282,11 @@ window.allHeroes =
             "All allies counterattack with 60% of the damage received for 3 turns."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1300,
+        "originalIndex": 1357,
         "lb1": {
             "attack": 1123,
             "defense": 1118,
@@ -92076,7 +95373,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1301,
+        "originalIndex": 1358,
         "lb1": {
             "attack": 1376,
             "defense": 1336,
@@ -92151,7 +95448,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1302,
+        "originalIndex": 1359,
         "lb1": {
             "attack": 1012,
             "defense": 999,
@@ -92240,7 +95537,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1303,
+        "originalIndex": 1360,
         "lb1": {
             "attack": 1411,
             "defense": 1192,
@@ -92314,7 +95611,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1304,
+        "originalIndex": 1361,
         "lb1": {
             "attack": 1192,
             "defense": 1252,
@@ -92373,7 +95670,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1362,
         "lb1": {
             "attack": 721,
             "defense": 768,
@@ -92438,7 +95735,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1306,
+        "originalIndex": 1363,
         "lb1": {
             "attack": 875,
             "defense": 817,
@@ -92503,7 +95800,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1307,
+        "originalIndex": 1364,
         "lb1": {
             "attack": 999,
             "defense": 933,
@@ -92572,7 +95869,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1308,
+        "originalIndex": 1365,
         "lb1": {
             "attack": 1166,
             "defense": 1173,
@@ -92646,7 +95943,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1309,
+        "originalIndex": 1366,
         "lb1": {
             "attack": 1414,
             "defense": 1247,
@@ -92705,32 +96002,32 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_stylish",
         "star": 5,
-        "power": 1296,
-        "attack": 1391,
-        "defense": 1219,
-        "health": 2454,
+        "power": 1337,
+        "attack": 1428,
+        "defense": 1252,
+        "health": 2586,
         "effects": [
             "Deals 558% damage to the target.",
             "If the target has less than 50% health remaining, deals 658% damage instead.",
-            "The target receives 729 Burn damage over 3 turns."
+            "The target receives 747 Burn damage over 3 turns."
         ],
         "passives": [
             "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1310,
+        "originalIndex": 1367,
         "lb1": {
-            "attack": 1499,
-            "defense": 1314,
-            "health": 2644,
-            "power": 1387
+            "attack": 1539,
+            "defense": 1349,
+            "health": 2787,
+            "power": 1431
         },
         "lb2": {
-            "attack": 1715,
-            "defense": 1503,
-            "health": 3026,
-            "power": 1569
+            "attack": 1761,
+            "defense": 1544,
+            "health": 3189,
+            "power": 1620
         },
         "cn_skill_info": [
             {
@@ -92788,7 +96085,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1368,
         "lb1": {
             "attack": 750,
             "defense": 783,
@@ -92858,7 +96155,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1312,
+        "originalIndex": 1369,
         "lb1": {
             "attack": 965,
             "defense": 932,
@@ -92888,6 +96185,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Mitsuko Toon",
+        "fancy_name": "Toon Beauty",
+        "AetherPower": "Special Boost",
+        "color": "Red",
+        "class": "Sorcerer",
+        "speed": "Average",
+        "skill": "Toon Mirror",
+        "types": [
+            "Hit 3",
+            "Mana Reduction 3",
+            "Elemental Reflect All",
+            "Elemental Counterattack All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_mirror",
+        "parent_specialId": "dark_mirror",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_noble_lady_costume_cute",
+        "star": 5,
+        "power": 1347,
+        "attack": 1317,
+        "defense": 1344,
+        "health": 2755,
+        "effects": [
+            "Deals 255% damage to the target and nearby enemies.",
+            "Reduces the mana of the target and nearby enemies by 50%.",
+            "All allies reflect all status effects and 160% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
+            "Deals extra damage against Nature."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": 1370,
+        "lb1": {
+            "attack": 1419,
+            "defense": 1448,
+            "health": 2969,
+            "power": 1442
+        },
+        "lb2": {
+            "attack": 1624,
+            "defense": 1657,
+            "health": 3397,
+            "power": 1632
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Nadezhda",
@@ -92939,7 +96291,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1371,
         "lb1": {
             "attack": 836,
             "defense": 843,
@@ -92984,7 +96336,7 @@ window.allHeroes =
         "skill": "Parcel of the Dragon Familiar",
         "types": [
             "Charge",
-            "DoT All",
+            "DoT 3",
             "Self resurrection",
             "Reviver",
             "Boosted HoT All",
@@ -93018,7 +96370,7 @@ window.allHeroes =
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
             "1x Mana Charge:",
-            "* All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of dealt Burn damage as health.",
+            "* The target and nearby enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of dealt Burn damage as health.",
             "* If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
             "2x Mana Charge:",
             "* Each defeated ally has a 55% chance to get revived with 44% HP.",
@@ -93031,7 +96383,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1314,
+        "originalIndex": 1372,
         "lb1": {
             "attack": 1341,
             "defense": 1310,
@@ -93121,7 +96473,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1373,
         "lb1": {
             "attack": 1316,
             "defense": 1318,
@@ -93195,7 +96547,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1374,
         "lb1": {
             "attack": 774,
             "defense": 732,
@@ -93271,7 +96623,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1317,
+        "originalIndex": 1375,
         "lb1": {
             "attack": 1008,
             "defense": 917,
@@ -93349,7 +96701,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1318,
+        "originalIndex": 1376,
         "lb1": {
             "attack": 888,
             "defense": 976,
@@ -93421,7 +96773,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1319,
+        "originalIndex": 1377,
         "lb1": {
             "attack": 1325,
             "defense": 1267,
@@ -93491,7 +96843,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1378,
         "lb1": {
             "attack": 1043,
             "defense": 1116,
@@ -93569,7 +96921,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1321,
+        "originalIndex": 1379,
         "lb1": {
             "attack": 1345,
             "defense": 1149,
@@ -93643,7 +96995,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1322,
+        "originalIndex": 1380,
         "lb1": {
             "attack": 759,
             "defense": 843,
@@ -93713,7 +97065,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1381,
         "lb1": {
             "attack": 1092,
             "defense": 1070,
@@ -93776,7 +97128,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1382,
         "lb1": {
             "attack": 952,
             "defense": 792,
@@ -93841,7 +97193,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1325,
+        "originalIndex": 1383,
         "lb1": {
             "attack": 1204,
             "defense": 982,
@@ -93907,7 +97259,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1384,
         "lb1": {
             "attack": 821,
             "defense": 859,
@@ -93983,7 +97335,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1327,
+        "originalIndex": 1385,
         "lb1": {
             "attack": 1142,
             "defense": 1119,
@@ -94051,7 +97403,7 @@ window.allHeroes =
             "Summons an Ominous Tentacle Fiend for the target.",
             "The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health.",
             "The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)",
-            "The Ominous Tentacle inflicts 5 Insanity on the owner on every turn.",
+            "The Ominous Tentacle Fiend inflicts 5 Insanity on the owner on every turn.",
             "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
@@ -94059,7 +97411,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1386,
         "lb1": {
             "attack": 1267,
             "defense": 1196,
@@ -94134,7 +97486,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1387,
         "lb1": {
             "attack": 927,
             "defense": 936,
@@ -94201,7 +97553,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1330,
+        "originalIndex": 1388,
         "lb1": {
             "attack": 1256,
             "defense": 1185,
@@ -94259,20 +97611,20 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_pendulus_clonk",
         "star": 5,
-        "power": 1287,
-        "attack": 1359,
-        "defense": 1299,
-        "health": 2307,
+        "power": 1307,
+        "attack": 1378,
+        "defense": 1318,
+        "health": 2362,
         "effects": [
-            "If the caster has 35 or more Humility:",
-            "Deals 750% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +50% mana. (After a character receives 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have a reduced power on that character.)",
-            "For the next 3 turns, this character deals 600% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "The caster recovers 1000 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1400 health instead.",
+            "If the caster has 40 or more Humility:",
+            "Deals 780% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +55% mana. (After a character receives 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have a reduced power on that character.)",
+            "For the next 3 turns, this character deals 630% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
+            "The caster recovers 1100 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1500 health instead.",
             "Otherwise:",
-            "Deals 600% damage to the target.",
-            "For the next 3 turns, this character deals 500% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "The caster recovers 800 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1200 health instead."
+            "Deals 630% damage to the target.",
+            "For the next 3 turns, this character deals 530% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
+            "The caster recovers 900 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1300 health instead."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -94281,18 +97633,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1331,
+        "originalIndex": 1389,
         "lb1": {
-            "attack": 1465,
-            "defense": 1400,
-            "health": 2486,
-            "power": 1377
+            "attack": 1485,
+            "defense": 1420,
+            "health": 2546,
+            "power": 1398
         },
         "lb2": {
-            "attack": 1676,
-            "defense": 1602,
-            "health": 2844,
-            "power": 1558
+            "attack": 1699,
+            "defense": 1625,
+            "health": 2913,
+            "power": 1582
         },
         "cn_skill_info": [
             {
@@ -94351,7 +97703,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1332,
+        "originalIndex": 1390,
         "lb1": {
             "attack": 1132,
             "defense": 1027,
@@ -94430,7 +97782,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1391,
         "lb1": {
             "attack": 883,
             "defense": 916,
@@ -94505,12 +97857,12 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1392,
         "lb1": {
             "attack": 1343,
             "defense": 1334,
@@ -94579,7 +97931,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1393,
         "lb1": {
             "attack": 823,
             "defense": 783,
@@ -94650,7 +98002,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 1336,
+        "originalIndex": 1394,
         "lb1": {
             "attack": 1150,
             "defense": 846,
@@ -94720,7 +98072,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1395,
         "lb1": {
             "attack": 688,
             "defense": 785,
@@ -94797,7 +98149,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1338,
+        "originalIndex": 1396,
         "lb1": {
             "attack": 806,
             "defense": 1057,
@@ -94884,7 +98236,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1339,
+        "originalIndex": 1397,
         "lb1": {
             "attack": 1423,
             "defense": 1272,
@@ -94949,7 +98301,7 @@ window.allHeroes =
         "defense": 1128,
         "health": 1994,
         "effects": [
-            "Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.",
+            "Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If there is only one enemy, the damage and Insanity are doubled.",
             "The enemies on the edges of the enemy formation resist healing and receive 250 damage per each resisted healing for 3 turns.",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
@@ -94958,7 +98310,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1340,
+        "originalIndex": 1398,
         "lb1": {
             "attack": 1298,
             "defense": 1216,
@@ -95045,7 +98397,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1341,
+        "originalIndex": 1399,
         "lb1": {
             "attack": 934,
             "defense": 979,
@@ -95144,7 +98496,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1342,
+        "originalIndex": 1400,
         "lb1": {
             "attack": 1346,
             "defense": 1393,
@@ -95221,7 +98573,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1343,
+        "originalIndex": 1401,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -95297,12 +98649,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 319 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 319 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1344,
+        "originalIndex": 1402,
         "lb1": {
             "attack": 1276,
             "defense": 1229,
@@ -95373,35 +98725,35 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_regin_costume_omen",
         "star": 5,
-        "power": 1274,
-        "attack": 1314,
-        "defense": 1246,
-        "health": 2432,
+        "power": 1291,
+        "attack": 1338,
+        "defense": 1268,
+        "health": 2454,
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
-            "Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2220 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
+            "Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2300 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns."
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 387 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 394 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1345,
+        "originalIndex": 1403,
         "lb1": {
-            "attack": 1416,
-            "defense": 1343,
-            "health": 2621,
-            "power": 1363
+            "attack": 1442,
+            "defense": 1367,
+            "health": 2645,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1620,
-            "defense": 1536,
-            "health": 2999,
-            "power": 1541
+            "attack": 1649,
+            "defense": 1564,
+            "health": 3026,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -95466,7 +98818,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1346,
+        "originalIndex": 1404,
         "lb1": {
             "attack": 825,
             "defense": 794,
@@ -95536,7 +98888,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1347,
+        "originalIndex": 1405,
         "lb1": {
             "attack": 1212,
             "defense": 1214,
@@ -95609,7 +98961,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1348,
+        "originalIndex": 1406,
         "lb1": {
             "attack": 1156,
             "defense": 1103,
@@ -95680,7 +99032,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1349,
+        "originalIndex": 1407,
         "lb1": {
             "attack": 1329,
             "defense": 1249,
@@ -95741,22 +99093,22 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_rose_de_flo",
         "star": 5,
-        "power": 1254,
-        "attack": 1289,
-        "defense": 1293,
-        "health": 2257,
+        "power": 1274,
+        "attack": 1308,
+        "defense": 1314,
+        "health": 2313,
         "effects": [
-            "If the caster has 50 or more Humility:",
-            "* Recovers 30% health for all allies.",
+            "If the caster has 60 or more Humility:",
+            "* Recovers 32% health for all allies.",
             "* Cleanses status ailments from all allies.",
-            "* Growth: All allies get 150 attack.",
+            "* Growth: All allies get 200 attack.",
             "* All allies regenerate 1440 HP over 3 turns.",
-            "* The caster gets +74% defense against Special Skills for 3 turns.",
+            "* The caster gets +84% defense against Special Skills for 3 turns.",
             "Otherwise:",
-            "* Recovers 20% health for all allies.",
+            "* Recovers 25% health for all allies.",
             "* Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
-            "* Growth: All allies get 100 attack.",
-            "* All allies regenerate 900 HP over 3 turns."
+            "* Growth: All allies get 150 attack.",
+            "* All allies regenerate 1005 HP over 3 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -95765,18 +99117,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1350,
+        "originalIndex": 1408,
         "lb1": {
-            "attack": 1389,
-            "defense": 1394,
-            "health": 2433,
-            "power": 1342
+            "attack": 1409,
+            "defense": 1416,
+            "health": 2493,
+            "power": 1363
         },
         "lb2": {
-            "attack": 1590,
-            "defense": 1595,
-            "health": 2783,
-            "power": 1517
+            "attack": 1612,
+            "defense": 1620,
+            "health": 2852,
+            "power": 1542
         },
         "cn_skill_info": [
             {
@@ -95842,7 +99194,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1351,
+        "originalIndex": 1409,
         "lb1": {
             "attack": 872,
             "defense": 772,
@@ -95923,7 +99275,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1352,
+        "originalIndex": 1410,
         "lb1": {
             "attack": 1174,
             "defense": 1201,
@@ -96006,7 +99358,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1353,
+        "originalIndex": 1411,
         "lb1": {
             "attack": 883,
             "defense": 788,
@@ -96080,7 +99432,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1354,
+        "originalIndex": 1412,
         "lb1": {
             "attack": 856,
             "defense": 796,
@@ -96155,7 +99507,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1355,
+        "originalIndex": 1413,
         "lb1": {
             "attack": 1203,
             "defense": 1229,
@@ -96238,7 +99590,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1356,
+        "originalIndex": 1414,
         "lb1": {
             "attack": 1349,
             "defense": 1232,
@@ -96280,8 +99632,8 @@ window.allHeroes =
         "skill": "Astral Assistance",
         "types": [
             "Fiend Destroyer",
-            "Boosted Heal All",
-            "Astral Beam hit All"
+            "Heal All",
+            "Astral Beam Buff All"
         ],
         "skill_types": [
             "Fiends Counters",
@@ -96305,19 +99657,19 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "Destroys all Fiends from all allies. The effect damages Mega Fiends.",
-            "Boosts health of all allies by 1300. Boosted health can exceed max HP.",
+            "Recovers 50% health for all allies.",
             "At the end of each turn, all allies shot an Astral Beam at a random enemy for 4 turns.",
-            "Each Astral Beam deals 200% damage.",
-            "Each Astral Beam reduces the Max Health of the hit enemy by 200."
+            "Each Astral Beam deals 100% damage.",
+            "Each Astral Beam reduces the Max Health of the hit enemy by 100."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1357,
+        "originalIndex": 1415,
         "lb1": {
             "attack": 1371,
             "defense": 1425,
@@ -96392,7 +99744,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1358,
+        "originalIndex": 1416,
         "lb1": {
             "attack": 666,
             "defense": 894,
@@ -96469,7 +99821,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1359,
+        "originalIndex": 1417,
         "lb1": {
             "attack": 942,
             "defense": 1210,
@@ -96546,7 +99898,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1360,
+        "originalIndex": 1418,
         "lb1": {
             "attack": 794,
             "defense": 872,
@@ -96629,7 +99981,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1361,
+        "originalIndex": 1419,
         "lb1": {
             "attack": 1108,
             "defense": 1484,
@@ -96709,7 +100061,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1362,
+        "originalIndex": 1420,
         "lb1": {
             "attack": 1127,
             "defense": 1083,
@@ -96783,7 +100135,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1363,
+        "originalIndex": 1421,
         "lb1": {
             "attack": 1369,
             "defense": 1323,
@@ -96857,7 +100209,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1364,
+        "originalIndex": 1422,
         "lb1": {
             "attack": 959,
             "defense": 843,
@@ -96925,7 +100277,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1365,
+        "originalIndex": 1423,
         "lb1": {
             "attack": 1432,
             "defense": 1191,
@@ -96994,7 +100346,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1366,
+        "originalIndex": 1424,
         "lb1": {
             "attack": 987,
             "defense": 850,
@@ -97021,6 +100373,66 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Shar-alen",
+        "fancy_name": "Ruthless Frontline Lynx",
+        "AetherPower": "Special Boost",
+        "color": "Red",
+        "class": "Ranger",
+        "speed": "Very Fast",
+        "skill": "Tip of the Spear",
+        "types": [
+            "Hit 1",
+            "Mana Reduction 1",
+            "Damage Link 1"
+        ],
+        "skill_types": [],
+        "source": "Wilderness Summon",
+        "Release date": "2026-03-30",
+        "specialId": "tip_of_the_spear",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_sharalen",
+        "star": 5,
+        "power": 1308,
+        "attack": 1444,
+        "defense": 1238,
+        "health": 2366,
+        "effects": [
+            "Deals 410% Clawing damage to the target. (Deals 600% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
+            "Reduces the mana of the target by 15%.",
+            "For 4 turns, the target receives 75% of all damage dealt to their allies."
+        ],
+        "passives": [
+            "Nine Lives:",
+            "* When defeated, this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affected by effects that increase or reduce defense.",
+            "This includes:",
+            "* Status effect buffs and ailments.",
+            "* Positive and negative Stacks.",
+            "* Growth and Wither effects."
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1425,
+        "lb1": {
+            "attack": 1556,
+            "defense": 1334,
+            "health": 2550,
+            "power": 1400
+        },
+        "lb2": {
+            "attack": 1780,
+            "defense": 1526,
+            "health": 2918,
+            "power": 1583
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Sizzleomatic",
@@ -97051,14 +100463,14 @@ window.allHeroes =
         ],
         "heroId": "construct_sizzleomatic",
         "star": 5,
-        "power": 1265,
-        "attack": 1308,
-        "defense": 1306,
-        "health": 2261,
+        "power": 1285,
+        "attack": 1328,
+        "defense": 1326,
+        "health": 2317,
         "effects": [
-            "Deals 475% damage to all enemies.",
-            "Deals additional 20% damage per each Fire shield on the board, up to 635% damage in total.",
-            "All allies get +50% attack for 5 turns.",
+            "Deals 500% damage to all enemies.",
+            "Deals additional 20% damage per each Fire shield on the board, up to 660% damage in total.",
+            "All allies get +55% attack for 5 turns.",
             "All allies reflect status ailments and negative stacks for 5 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [
@@ -97073,18 +100485,18 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1367,
+        "originalIndex": 1426,
         "lb1": {
-            "attack": 1409,
-            "defense": 1407,
-            "health": 2437,
-            "power": 1353
+            "attack": 1431,
+            "defense": 1429,
+            "health": 2497,
+            "power": 1375
         },
         "lb2": {
-            "attack": 1612,
-            "defense": 1610,
-            "health": 2788,
-            "power": 1530
+            "attack": 1638,
+            "defense": 1635,
+            "health": 2857,
+            "power": 1556
         },
         "cn_skill_info": [
             {
@@ -97149,7 +100561,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1368,
+        "originalIndex": 1427,
         "lb1": {
             "attack": 825,
             "defense": 852,
@@ -97222,11 +100634,11 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Poison: This character is immune to status ailments that deal Poison damage.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1369,
+        "originalIndex": 1428,
         "lb1": {
             "attack": 1143,
             "defense": 1078,
@@ -97297,7 +100709,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1370,
+        "originalIndex": 1429,
         "lb1": {
             "attack": 852,
             "defense": 859,
@@ -97374,7 +100786,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1371,
+        "originalIndex": 1430,
         "lb1": {
             "attack": 1213,
             "defense": 1099,
@@ -97450,7 +100862,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1372,
+        "originalIndex": 1431,
         "lb1": {
             "attack": 856,
             "defense": 799,
@@ -97524,7 +100936,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1373,
+        "originalIndex": 1432,
         "lb1": {
             "attack": 894,
             "defense": 870,
@@ -97565,7 +100977,8 @@ window.allHeroes =
         "skill": "Ancient Flames",
         "types": [
             "Hit 3",
-            "Defense Debuff 1"
+            "Defense Debuff 1",
+            "Mana Boost All if target defeated"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -97603,7 +101016,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1374,
+        "originalIndex": 1433,
         "lb1": {
             "attack": 1351,
             "defense": 1213,
@@ -97643,8 +101056,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Adventure Awaits!",
         "types": [
-            "Healer",
-            "Attack buff"
+            "Boost Health All",
+            "Attack Buff All",
+            "Defense Debuff Self"
         ],
         "skill_types": [
             "Health Boosters",
@@ -97669,7 +101083,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1375,
+        "originalIndex": 1434,
         "lb1": {
             "attack": 1054,
             "defense": 1067,
@@ -97741,7 +101155,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1435,
         "lb1": {
             "attack": 1114,
             "defense": 1018,
@@ -97804,13 +101218,13 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All Fire allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
             "RARE",
             "* Barbaric Maulers",
             "* Barbaric Minotaurs",
@@ -97828,7 +101242,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1377,
+        "originalIndex": 1436,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -97904,7 +101318,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1437,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -97980,7 +101394,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1379,
+        "originalIndex": 1438,
         "lb1": {
             "attack": 1065,
             "defense": 1042,
@@ -98027,7 +101441,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Chords of Distortion",
         "types": [
-            "Hit all",
+            "Hit All",
             "Attack Debuff All",
             "HoT 3",
             "Dispel Immunity Buff 3"
@@ -98061,7 +101475,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1380,
+        "originalIndex": 1439,
         "lb1": {
             "attack": 912,
             "defense": 1007,
@@ -98138,7 +101552,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1381,
+        "originalIndex": 1440,
         "lb1": {
             "attack": 1249,
             "defense": 1323,
@@ -98211,7 +101625,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1382,
+        "originalIndex": 1441,
         "lb1": {
             "attack": 834,
             "defense": 792,
@@ -98285,7 +101699,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1383,
+        "originalIndex": 1442,
         "lb1": {
             "attack": 1242,
             "defense": 1198,
@@ -98360,7 +101774,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1384,
+        "originalIndex": 1443,
         "lb1": {
             "attack": 1214,
             "defense": 1192,
@@ -98419,14 +101833,14 @@ window.allHeroes =
         ],
         "heroId": "beowulf_wiglaf",
         "star": 5,
-        "power": 1252,
-        "attack": 1310,
-        "defense": 1256,
-        "health": 2263,
+        "power": 1267,
+        "attack": 1324,
+        "defense": 1271,
+        "health": 2307,
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "The damage is increased by 30% per each defeated ally.",
-            "The target and nearby enemies receives 687 Burn damage over 3 turns.",
+            "The target and nearby enemies receives 693 Burn damage over 3 turns.",
             "All allies who have 50% or less HP left get additional +50% power to Special Skill attacks for 3 turns. This effect cannot be dispelled."
         ],
         "passives": [
@@ -98436,18 +101850,18 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1385,
+        "originalIndex": 1444,
         "lb1": {
-            "attack": 1411,
-            "defense": 1354,
-            "health": 2439,
-            "power": 1339
+            "attack": 1427,
+            "defense": 1369,
+            "health": 2486,
+            "power": 1355
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1549,
-            "health": 2791,
-            "power": 1514
+            "attack": 1633,
+            "defense": 1567,
+            "health": 2844,
+            "power": 1533
         },
         "cn_skill_info": [
             {
@@ -98505,13 +101919,13 @@ window.allHeroes =
         ],
         "heroId": "institute_wilcox",
         "star": 5,
-        "power": 1270,
-        "attack": 1343,
-        "defense": 1293,
-        "health": 2241,
+        "power": 1295,
+        "attack": 1365,
+        "defense": 1318,
+        "health": 2309,
         "effects": [
             "The attack bypasses defensive buffs.",
-            "Deals 265% damage to the target.",
+            "Deals 300% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
             "All hit targets 20 Insanity every time they are hit.",
             "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
@@ -98530,18 +101944,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1445,
         "lb1": {
-            "attack": 1447,
-            "defense": 1394,
-            "health": 2415,
-            "power": 1359
+            "attack": 1471,
+            "defense": 1420,
+            "health": 2488,
+            "power": 1385
         },
         "lb2": {
-            "attack": 1656,
-            "defense": 1595,
-            "health": 2763,
-            "power": 1538
+            "attack": 1684,
+            "defense": 1625,
+            "health": 2847,
+            "power": 1567
         },
         "cn_skill_info": [
             {
@@ -98602,7 +102016,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1446,
         "lb1": {
             "attack": 899,
             "defense": 865,
@@ -98645,8 +102059,9 @@ window.allHeroes =
         "skill": "Underworld Flame",
         "types": [
             "Hit All",
-            "Dot All",
-            "Mana steal All"
+            "DoT All",
+            "Heal Self on burn",
+            "Mana Steal All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -98682,7 +102097,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1388,
+        "originalIndex": 1447,
         "lb1": {
             "attack": 1157,
             "defense": 1139,
@@ -98754,7 +102169,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1448,
         "lb1": {
             "attack": 921,
             "defense": 883,
@@ -98823,7 +102238,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1390,
+        "originalIndex": 1449,
         "lb1": {
             "attack": 1428,
             "defense": 1372,
@@ -98893,7 +102308,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1391,
+        "originalIndex": 1450,
         "lb1": {
             "attack": 1058,
             "defense": 1032,
@@ -98962,7 +102377,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1392,
+        "originalIndex": 1451,
         "lb1": {
             "attack": 801,
             "defense": 821,
@@ -98999,7 +102414,7 @@ window.allHeroes =
         "skill": "Captivating Illusions",
         "types": [
             "Hit 3",
-            "Enhanced Dodge"
+            "Enhanced Dodge 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -99030,11 +102445,11 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1393,
+        "originalIndex": 1452,
         "lb1": {
             "attack": 1338,
             "defense": 1183,
@@ -99111,7 +102526,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1394,
+        "originalIndex": 1453,
         "lb1": {
             "attack": 836,
             "defense": 814,
@@ -99175,8 +102590,8 @@ window.allHeroes =
         "defense": 867,
         "health": 1652,
         "effects": [
-            "Deals 465% damage to the target.",
-            "The target has 55% chance to get 1068 Bleed damage over 6 turns.",
+            "Deals 495% damage to the target.",
+            "The target has 60% chance to get 1068 Bleed damage over 6 turns.",
             "The target gets a Bleed mark for 6 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%.",
             "Element Link gives all Fire allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
         ],
@@ -99186,7 +102601,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1395,
+        "originalIndex": 1454,
         "lb1": {
             "attack": 1152,
             "defense": 934,
@@ -99260,7 +102675,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1396,
+        "originalIndex": 1455,
         "lb1": {
             "attack": 1076,
             "defense": 1018,
@@ -99327,7 +102742,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1397,
+        "originalIndex": 1456,
         "lb1": {
             "attack": 888,
             "defense": 814,
@@ -99400,7 +102815,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1398,
+        "originalIndex": 1457,
         "lb1": {
             "attack": 1171,
             "defense": 1038,
@@ -99435,9 +102850,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Cherry Pudding Served!",
         "types": [
-            "Mana Increase 2",
             "Healer 3",
-            "Growth 2",
+            "Mana Increase 2",
+            "Attack Growth 2",
+            "Defense Growth 2",
             "Slime Mega Minion Self"
         ],
         "skill_types": [
@@ -99455,13 +102871,13 @@ window.allHeroes =
         ],
         "heroId": "slime_zestique",
         "star": 5,
-        "power": 1243,
-        "attack": 1289,
-        "defense": 1254,
-        "health": 2261,
+        "power": 1258,
+        "attack": 1301,
+        "defense": 1266,
+        "health": 2315,
         "effects": [
-            "Increases the mana of nearby allies by 30%.",
             "Recovers 25% health for the caster and nearby allies.",
+            "Increases the mana of nearby allies by 30%.",
             "Growth: Nearby allies gets 300 attack and 300 defense.",
             "Summon a Slime Mega Minion with 50% HP and 40% attack inherited from the caster."
         ],
@@ -99471,18 +102887,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1399,
+        "originalIndex": 1458,
         "lb1": {
-            "attack": 1389,
-            "defense": 1351,
-            "health": 2437,
-            "power": 1330
+            "attack": 1403,
+            "defense": 1365,
+            "health": 2495,
+            "power": 1347
         },
         "lb2": {
-            "attack": 1590,
-            "defense": 1546,
-            "health": 2788,
-            "power": 1504
+            "attack": 1605,
+            "defense": 1562,
+            "health": 2854,
+            "power": 1523
         },
         "cn_skill_info": [
             {
@@ -99542,11 +102958,11 @@ window.allHeroes =
             "Steals the latest dispellable buff from target and grants it to the caster.",
             "Randomly casts one of the following alternatives:",
             "Barbed Bolt:",
-            "* The target receives 504 Bleed damage over 3 turns.",
+            "* The target receives 510 Bleed damage over 3 turns.",
             "Poison Bolt:",
-            "* The target receives 537 Poison damage over 3 turns.",
+            "* The target receives 543 Poison damage over 3 turns.",
             "Fire Bolt:",
-            "* The target receives 570 Burn damage over 3 turns.",
+            "* The target receives 576 Burn damage over 3 turns.",
             "Element Link gives all Fire allies +20% critical chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
@@ -99555,7 +102971,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1400,
+        "originalIndex": 1459,
         "lb1": {
             "attack": 1223,
             "defense": 1047,
@@ -99628,7 +103044,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1401,
+        "originalIndex": 1460,
         "lb1": {
             "attack": 770,
             "defense": 734,
@@ -99702,7 +103118,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1402,
+        "originalIndex": 1461,
         "lb1": {
             "attack": 980,
             "defense": 945,
@@ -99763,7 +103179,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1403,
+        "originalIndex": 1462,
         "lb1": {
             "attack": 222,
             "defense": 189,
@@ -99808,7 +103224,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1463,
         "lb1": {
             "attack": 205,
             "defense": 188,
@@ -99853,7 +103269,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1405,
+        "originalIndex": 1464,
         "lb1": {
             "attack": 366,
             "defense": 341,
@@ -99901,7 +103317,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1406,
+        "originalIndex": 1465,
         "lb1": {
             "attack": 331,
             "defense": 343,
@@ -99946,7 +103362,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1407,
+        "originalIndex": 1466,
         "lb1": {
             "attack": 275,
             "defense": 345,
@@ -99994,7 +103410,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1408,
+        "originalIndex": 1467,
         "lb1": {
             "attack": 630,
             "defense": 551,
@@ -100059,7 +103475,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1409,
+        "originalIndex": 1468,
         "lb1": {
             "attack": 541,
             "defense": 474,
@@ -100121,7 +103537,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1469,
         "lb1": {
             "attack": 531,
             "defense": 464,
@@ -100182,7 +103598,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1411,
+        "originalIndex": 1470,
         "lb1": {
             "attack": 611,
             "defense": 489,
@@ -100249,7 +103665,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1412,
+        "originalIndex": 1471,
         "lb1": {
             "attack": 623,
             "defense": 514,
@@ -100322,7 +103738,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1413,
+        "originalIndex": 1472,
         "lb1": {
             "attack": 643,
             "defense": 523,
@@ -100383,7 +103799,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1414,
+        "originalIndex": 1473,
         "lb1": {
             "attack": 557,
             "defense": 522,
@@ -100437,7 +103853,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1474,
         "lb1": {
             "attack": 527,
             "defense": 553,
@@ -100503,7 +103919,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1475,
         "lb1": {
             "attack": 606,
             "defense": 541,
@@ -100571,7 +103987,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1417,
+        "originalIndex": 1476,
         "lb1": {
             "attack": 551,
             "defense": 529,
@@ -100629,7 +104045,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1418,
+        "originalIndex": 1477,
         "lb1": {
             "attack": 553,
             "defense": 443,
@@ -100685,7 +104101,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1419,
+        "originalIndex": 1478,
         "lb1": {
             "attack": 609,
             "defense": 489,
@@ -100750,7 +104166,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1420,
+        "originalIndex": 1479,
         "lb1": {
             "attack": 609,
             "defense": 582,
@@ -100815,7 +104231,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1421,
+        "originalIndex": 1480,
         "lb1": {
             "attack": 636,
             "defense": 590,
@@ -100884,7 +104300,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1422,
+        "originalIndex": 1481,
         "lb1": {
             "attack": 594,
             "defense": 555,
@@ -100952,7 +104368,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1423,
+        "originalIndex": 1482,
         "lb1": {
             "attack": 494,
             "defense": 577,
@@ -101025,7 +104441,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1483,
         "lb1": {
             "attack": 608,
             "defense": 579,
@@ -101104,7 +104520,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1425,
+        "originalIndex": 1484,
         "lb1": {
             "attack": 709,
             "defense": 663,
@@ -101169,7 +104585,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1426,
+        "originalIndex": 1485,
         "lb1": {
             "attack": 529,
             "defense": 411,
@@ -101230,7 +104646,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1427,
+        "originalIndex": 1486,
         "lb1": {
             "attack": 600,
             "defense": 430,
@@ -101297,7 +104713,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1428,
+        "originalIndex": 1487,
         "lb1": {
             "attack": 611,
             "defense": 478,
@@ -101366,7 +104782,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1429,
+        "originalIndex": 1488,
         "lb1": {
             "attack": 632,
             "defense": 488,
@@ -101434,7 +104850,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1430,
+        "originalIndex": 1489,
         "lb1": {
             "attack": 672,
             "defense": 514,
@@ -101502,7 +104918,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1431,
+        "originalIndex": 1490,
         "lb1": {
             "attack": 620,
             "defense": 577,
@@ -101540,7 +104956,7 @@ window.allHeroes =
         "types": [
             "Hit Random 2",
             "Self Heal on Kill",
-            "Self Mana Boost on Kill"
+            "Boost Mana Self on kill"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -101576,7 +104992,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1432,
+        "originalIndex": 1491,
         "lb1": {
             "attack": 614,
             "defense": 594,
@@ -101648,7 +105064,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1433,
+        "originalIndex": 1492,
         "lb1": {
             "attack": 579,
             "defense": 535,
@@ -101724,7 +105140,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1434,
+        "originalIndex": 1493,
         "lb1": {
             "attack": 510,
             "defense": 638,
@@ -101789,7 +105205,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1435,
+        "originalIndex": 1494,
         "lb1": {
             "attack": 512,
             "defense": 525,
@@ -101854,7 +105270,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1436,
+        "originalIndex": 1495,
         "lb1": {
             "attack": 486,
             "defense": 514,
@@ -101911,7 +105327,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1437,
+        "originalIndex": 1496,
         "lb1": {
             "attack": 489,
             "defense": 575,
@@ -101972,7 +105388,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1438,
+        "originalIndex": 1497,
         "lb1": {
             "attack": 557,
             "defense": 595,
@@ -102037,7 +105453,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1439,
+        "originalIndex": 1498,
         "lb1": {
             "attack": 555,
             "defense": 627,
@@ -102102,7 +105518,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1440,
+        "originalIndex": 1499,
         "lb1": {
             "attack": 583,
             "defense": 674,
@@ -102170,7 +105586,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1500,
         "lb1": {
             "attack": 616,
             "defense": 583,
@@ -102228,7 +105644,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1501,
         "lb1": {
             "attack": 486,
             "defense": 480,
@@ -102299,7 +105715,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 1443,
+        "originalIndex": 1502,
         "lb1": {
             "attack": 486,
             "defense": 503,
@@ -102330,6 +105746,61 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Kvasir Toon",
+        "fancy_name": "Toon Beekeeper",
+        "AetherPower": "Defense Up",
+        "color": "Yellow",
+        "class": "Druid",
+        "speed": "Fast",
+        "skill": "Toon Bees",
+        "types": [
+            "Summoner All",
+            "Minion with DoT",
+            "Minion with Minion Block"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "toon_bees",
+        "parent_specialId": "bee_bravado",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_kvasir_costume_cute",
+        "star": 3,
+        "power": 562,
+        "attack": 536,
+        "defense": 534,
+        "health": 1149,
+        "effects": [
+            "All allies get +54% defense against Dark for 3 turns. This status effect is undispellable and lasts 2 turns longer on Holy characters.",
+            "Summons a Bee Minion for each ally. The Bee Minion inherits 20% HP and 20% attack from the caster.",
+            "Each hit from a Bee Minion gives the target the following status ailments:",
+            "The target receives 62 Poison damage over 2 turns.",
+            "The target can't receive new Minions for 4 turns."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "alfheim",
+        "costume_id": 2,
+        "originalIndex": 1503,
+        "lb1": {
+            "attack": 608,
+            "defense": 605,
+            "health": 1302,
+            "power": 629
+        },
+        "lb2": {
+            "attack": 751,
+            "defense": 748,
+            "health": 1609,
+            "power": 762
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Melia",
@@ -102364,7 +105835,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1444,
+        "originalIndex": 1504,
         "lb1": {
             "attack": 573,
             "defense": 459,
@@ -102425,7 +105896,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1445,
+        "originalIndex": 1505,
         "lb1": {
             "attack": 606,
             "defense": 460,
@@ -102450,6 +105921,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Melia Toon",
+        "fancy_name": "Toon Mermaid",
+        "AetherPower": "Attack Up",
+        "color": "Yellow",
+        "class": "Druid",
+        "speed": "Fast",
+        "skill": "Atlantean Toon Sword",
+        "types": [
+            "Hit All",
+            "Critical Chance Buff All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "atlantean_toon_sword",
+        "parent_specialId": "atlantean_blade",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_merwoman_costume_cute",
+        "star": 3,
+        "power": 561,
+        "attack": 658,
+        "defense": 507,
+        "health": 890,
+        "effects": [
+            "Deals 130% damage to all enemies.",
+            "All allies get +36% critical chance for 4 turns.",
+            "Deals extra damage against Dark."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 1506,
+        "lb1": {
+            "attack": 746,
+            "defense": 574,
+            "health": 1009,
+            "power": 628
+        },
+        "lb2": {
+            "attack": 922,
+            "defense": 710,
+            "health": 1246,
+            "power": 760
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Paeia",
@@ -102491,7 +106014,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1507,
         "lb1": {
             "attack": 490,
             "defense": 604,
@@ -102548,7 +106071,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1508,
         "lb1": {
             "attack": 484,
             "defense": 494,
@@ -102584,7 +106107,7 @@ window.allHeroes =
         "skill": "Ricochet Bolt",
         "types": [
             "Hit 1",
-            "Additional Hit Random 1 Chance"
+            "Hit Random 1 Chance"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -102611,7 +106134,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1448,
+        "originalIndex": 1509,
         "lb1": {
             "attack": 563,
             "defense": 514,
@@ -102643,7 +106166,7 @@ window.allHeroes =
         "skill": "Drowsy Bolt",
         "types": [
             "Hit 1",
-            "Additional Hit Random 1 Chance"
+            "Hit Random 1 Chance"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -102672,7 +106195,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1449,
+        "originalIndex": 1510,
         "lb1": {
             "attack": 578,
             "defense": 522,
@@ -102734,7 +106257,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1511,
         "lb1": {
             "attack": 533,
             "defense": 559,
@@ -102808,7 +106331,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1451,
+        "originalIndex": 1512,
         "lb1": {
             "attack": 558,
             "defense": 562,
@@ -102877,7 +106400,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1452,
+        "originalIndex": 1513,
         "lb1": {
             "attack": 551,
             "defense": 567,
@@ -102955,7 +106478,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1514,
         "lb1": {
             "attack": 561,
             "defense": 577,
@@ -103014,7 +106537,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1454,
+        "originalIndex": 1515,
         "lb1": {
             "attack": 549,
             "defense": 529,
@@ -103081,7 +106604,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1455,
+        "originalIndex": 1516,
         "lb1": {
             "attack": 606,
             "defense": 539,
@@ -103154,7 +106677,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1456,
+        "originalIndex": 1517,
         "lb1": {
             "attack": 771,
             "defense": 801,
@@ -103228,7 +106751,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1518,
         "lb1": {
             "attack": 725,
             "defense": 681,
@@ -103294,8 +106817,8 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "***",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Rare",
             "- Hidden Blade",
             "- Orb of Magic",
             "- Sturdy Shield",
@@ -103305,21 +106828,21 @@ window.allHeroes =
             "- Chainmail Shirt",
             "- Scabbard",
             "- Tall Boots",
-            "**",
+            "Uncommon",
             "- Arcane Scripts",
             "- Dagger",
             "- Leather Armor",
             "- Sharpening Stone",
             "- Strong Rope",
             "- Wooden Shield",
-            "*",
-            "- Advanturer's Kit",
+            "Common",
+            "- Adventurer's Kit",
             "- Practice Sword",
             "- Rugged Clothes"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1458,
+        "originalIndex": 1519,
         "lb1": {
             "attack": 865,
             "defense": 865,
@@ -103393,7 +106916,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1459,
+        "originalIndex": 1520,
         "lb1": {
             "attack": 759,
             "defense": 685,
@@ -103460,7 +106983,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1460,
+        "originalIndex": 1521,
         "lb1": {
             "attack": 708,
             "defense": 731,
@@ -103518,7 +107041,7 @@ window.allHeroes =
         "defense": 775,
         "health": 1374,
         "effects": [
-            "If the caster has 35 or more Humility:",
+            "If the caster has 40 or more Humility:",
             "* Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
             "* Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
             "Otherwise:",
@@ -103531,7 +107054,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1461,
+        "originalIndex": 1522,
         "lb1": {
             "attack": 909,
             "defense": 842,
@@ -103590,7 +107113,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1462,
+        "originalIndex": 1523,
         "lb1": {
             "attack": 660,
             "defense": 734,
@@ -103652,7 +107175,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1463,
+        "originalIndex": 1524,
         "lb1": {
             "attack": 746,
             "defense": 753,
@@ -103713,7 +107236,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1464,
+        "originalIndex": 1525,
         "lb1": {
             "attack": 844,
             "defense": 767,
@@ -103780,7 +107303,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1465,
+        "originalIndex": 1526,
         "lb1": {
             "attack": 877,
             "defense": 764,
@@ -103849,7 +107372,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1466,
+        "originalIndex": 1527,
         "lb1": {
             "attack": 914,
             "defense": 755,
@@ -103917,7 +107440,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1528,
         "lb1": {
             "attack": 683,
             "defense": 692,
@@ -103987,7 +107510,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1529,
         "lb1": {
             "attack": 676,
             "defense": 692,
@@ -104071,7 +107594,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1469,
+        "originalIndex": 1530,
         "lb1": {
             "attack": 663,
             "defense": 725,
@@ -104153,7 +107676,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1531,
         "lb1": {
             "attack": 785,
             "defense": 852,
@@ -104222,12 +107745,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1532,
         "lb1": {
             "attack": 780,
             "defense": 755,
@@ -104305,12 +107828,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1472,
+        "originalIndex": 1533,
         "lb1": {
             "attack": 879,
             "defense": 840,
@@ -104385,7 +107908,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1534,
         "lb1": {
             "attack": 699,
             "defense": 778,
@@ -104449,7 +107972,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1474,
+        "originalIndex": 1535,
         "lb1": {
             "attack": 764,
             "defense": 651,
@@ -104517,7 +108040,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1536,
         "lb1": {
             "attack": 803,
             "defense": 695,
@@ -104575,14 +108098,14 @@ window.allHeroes =
         "health": 1111,
         "effects": [
             "Deals 320% damage to the target.",
-            "The caster and nearby allies bypass defense buffs with their attacks for 2 turns. Defensive buffs include counterattacks."
+            "The caster and nearby allies bypass defense buffs with their attacks for 2 turns. (Defensive buffs include counterattacks.)"
         ],
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1476,
+        "originalIndex": 1537,
         "lb1": {
             "attack": 824,
             "defense": 727,
@@ -104657,7 +108180,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1477,
+        "originalIndex": 1538,
         "lb1": {
             "attack": 815,
             "defense": 785,
@@ -104722,7 +108245,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1478,
+        "originalIndex": 1539,
         "lb1": {
             "attack": 831,
             "defense": 577,
@@ -104783,7 +108306,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1479,
+        "originalIndex": 1540,
         "lb1": {
             "attack": 734,
             "defense": 724,
@@ -104845,7 +108368,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1541,
         "lb1": {
             "attack": 660,
             "defense": 660,
@@ -104914,7 +108437,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 1481,
+        "originalIndex": 1542,
         "lb1": {
             "attack": 665,
             "defense": 692,
@@ -104983,7 +108506,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1482,
+        "originalIndex": 1543,
         "lb1": {
             "attack": 676,
             "defense": 778,
@@ -105048,7 +108571,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1544,
         "lb1": {
             "attack": 655,
             "defense": 685,
@@ -105112,7 +108635,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1484,
+        "originalIndex": 1545,
         "lb1": {
             "attack": 644,
             "defense": 825,
@@ -105148,7 +108671,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Acoustic Surge",
         "types": [
-            "Hit all",
+            "Hit All",
             "Blind All",
             "Mana Gen Debuff All"
         ],
@@ -105177,7 +108700,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1485,
+        "originalIndex": 1546,
         "lb1": {
             "attack": 716,
             "defense": 868,
@@ -105245,7 +108768,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1486,
+        "originalIndex": 1547,
         "lb1": {
             "attack": 810,
             "defense": 780,
@@ -105318,7 +108841,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1487,
+        "originalIndex": 1548,
         "lb1": {
             "attack": 884,
             "defense": 741,
@@ -105382,7 +108905,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1549,
         "lb1": {
             "attack": 681,
             "defense": 725,
@@ -105407,6 +108930,59 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Lady Woolerton C1",
+        "fancy_name": "Coiffeuse of Springvale",
+        "AetherPower": "Boosted Regen",
+        "color": "Yellow",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Shearing Treatment",
+        "types": [
+            "Healer All",
+            "Elemental Defense Buff Self",
+            "Mana Gain Debuff Self"
+        ],
+        "skill_types": [],
+        "source": "Monthly Event - Springvale",
+        "Release date": "2026-03-30",
+        "specialId": "shearing_treatment",
+        "parent_specialId": "smooth_treatment",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_health_generation_stack_on_special_epic"
+        ],
+        "heroId": "easter_lady_woolerton_costume_coiffeuse",
+        "star": 4,
+        "power": 801,
+        "attack": 772,
+        "defense": 835,
+        "health": 1517,
+        "effects": [
+            "Recovers 42% health for all allies.",
+            "The caster gets +50% defense against Dark for 3 turns.",
+            "The caster can't gain mana for  2 turns. This effect can't be cleansed."
+        ],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all allies get: Stack (Max: 10): Recovers 10 HP each turn."
+        ],
+        "family": "easter",
+        "costume_id": 1,
+        "originalIndex": 1550,
+        "lb1": {
+            "attack": 838,
+            "defense": 907,
+            "health": 1649,
+            "power": 863
+        },
+        "lb2": {
+            "attack": 972,
+            "defense": 1052,
+            "health": 1912,
+            "power": 987
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Li Xiu",
@@ -105441,7 +109017,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1551,
         "lb1": {
             "attack": 669,
             "defense": 722,
@@ -105502,7 +109078,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1490,
+        "originalIndex": 1552,
         "lb1": {
             "attack": 731,
             "defense": 765,
@@ -105563,7 +109139,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1491,
+        "originalIndex": 1553,
         "lb1": {
             "attack": 788,
             "defense": 817,
@@ -105630,7 +109206,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1492,
+        "originalIndex": 1554,
         "lb1": {
             "attack": 788,
             "defense": 848,
@@ -105699,7 +109275,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1493,
+        "originalIndex": 1555,
         "lb1": {
             "attack": 873,
             "defense": 807,
@@ -105767,7 +109343,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1494,
+        "originalIndex": 1556,
         "lb1": {
             "attack": 960,
             "defense": 879,
@@ -105833,7 +109409,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1495,
+        "originalIndex": 1557,
         "lb1": {
             "attack": 745,
             "defense": 655,
@@ -105872,7 +109448,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Harvest Buffs 1",
-            "Self Mana Gen Buff Stack"
+            "Mana Gen Buff Stack Self"
         ],
         "skill_types": [
             "Fiends Summoners",
@@ -105901,7 +109477,7 @@ window.allHeroes =
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.This Passive Skill only activates once per turn for each team.",
             "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
             "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
             "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
@@ -105911,7 +109487,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1496,
+        "originalIndex": 1558,
         "lb1": {
             "attack": 935,
             "defense": 895,
@@ -105980,7 +109556,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1559,
         "lb1": {
             "attack": 688,
             "defense": 711,
@@ -106056,7 +109632,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1498,
+        "originalIndex": 1560,
         "lb1": {
             "attack": 732,
             "defense": 704,
@@ -106129,7 +109705,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1499,
+        "originalIndex": 1561,
         "lb1": {
             "attack": 669,
             "defense": 801,
@@ -106201,7 +109777,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1500,
+        "originalIndex": 1562,
         "lb1": {
             "attack": 921,
             "defense": 828,
@@ -106265,7 +109841,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1563,
         "lb1": {
             "attack": 706,
             "defense": 699,
@@ -106333,7 +109909,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1502,
+        "originalIndex": 1564,
         "lb1": {
             "attack": 836,
             "defense": 828,
@@ -106403,7 +109979,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1565,
         "lb1": {
             "attack": 681,
             "defense": 759,
@@ -106462,7 +110038,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1504,
+        "originalIndex": 1566,
         "lb1": {
             "attack": 734,
             "defense": 771,
@@ -106533,7 +110109,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1505,
+        "originalIndex": 1567,
         "lb1": {
             "attack": 753,
             "defense": 841,
@@ -106595,7 +110171,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1506,
+        "originalIndex": 1568,
         "lb1": {
             "attack": 768,
             "defense": 674,
@@ -106656,7 +110232,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1507,
+        "originalIndex": 1569,
         "lb1": {
             "attack": 807,
             "defense": 765,
@@ -106715,7 +110291,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1508,
+        "originalIndex": 1570,
         "lb1": {
             "attack": 868,
             "defense": 788,
@@ -106778,7 +110354,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1509,
+        "originalIndex": 1571,
         "lb1": {
             "attack": 810,
             "defense": 864,
@@ -106845,7 +110421,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1510,
+        "originalIndex": 1572,
         "lb1": {
             "attack": 840,
             "defense": 868,
@@ -106915,7 +110491,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1511,
+        "originalIndex": 1573,
         "lb1": {
             "attack": 738,
             "defense": 750,
@@ -106984,15 +110560,18 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            "Mimic Loot: This Mimic gives a chance for the following extra loot",
+            "Legendary:",
             "* Alpha Aether",
             "* Holy Aether III",
+            "Epic:",
             "* Holy Aether II",
+            "Rare:",
             "* Holy Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1512,
+        "originalIndex": 1574,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -107026,6 +110605,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Ajay",
+        "fancy_name": "Urumi Warrior",
+        "AetherPower": "Attack Up",
+        "color": "Yellow",
+        "class": "Barbarian",
+        "speed": "Fast",
+        "skill": "Urumi Lashings",
+        "types": [
+            "Hit 1",
+            "Chain Attack",
+            "DoT on hit",
+            "Hit Growth Boon"
+        ],
+        "skill_types": [],
+        "source": "Temple Summon",
+        "Release date": "2026-04-21",
+        "specialId": "urumi_lashing",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "heroId": "mahayoddha_ajay",
+        "star": 5,
+        "power": 1314,
+        "attack": 1384,
+        "defense": 1339,
+        "health": 2360,
+        "effects": [
+            "Deals 310% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All hit targets receive 933 Bleed damage over 3 turns.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on the caster when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effects affecting attack stat do not affect the extra damage.)"
+        ],
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1575,
+        "lb1": {
+            "attack": 1491,
+            "defense": 1443,
+            "health": 2544,
+            "power": 1407
+        },
+        "lb2": {
+            "attack": 1706,
+            "defense": 1651,
+            "health": 2910,
+            "power": 1591
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Akkorog",
@@ -107064,7 +110700,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1513,
+        "originalIndex": 1576,
         "lb1": {
             "attack": 843,
             "defense": 832,
@@ -107138,7 +110774,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1514,
+        "originalIndex": 1577,
         "lb1": {
             "attack": 1062,
             "defense": 1105,
@@ -107206,7 +110842,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1515,
+        "originalIndex": 1578,
         "lb1": {
             "attack": 1194,
             "defense": 1232,
@@ -107276,7 +110912,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1516,
+        "originalIndex": 1579,
         "lb1": {
             "attack": 1256,
             "defense": 1192,
@@ -107351,7 +110987,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1517,
+        "originalIndex": 1580,
         "lb1": {
             "attack": 1287,
             "defense": 1238,
@@ -107420,7 +111056,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1518,
+        "originalIndex": 1581,
         "lb1": {
             "attack": 883,
             "defense": 859,
@@ -107488,7 +111124,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1519,
+        "originalIndex": 1582,
         "lb1": {
             "attack": 1320,
             "defense": 1196,
@@ -107555,7 +111191,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1520,
+        "originalIndex": 1583,
         "lb1": {
             "attack": 874,
             "defense": 843,
@@ -107623,7 +111259,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1521,
+        "originalIndex": 1584,
         "lb1": {
             "attack": 1220,
             "defense": 1096,
@@ -107686,29 +111322,29 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "****",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Epic",
             "- Damascus Blade",
             "- Tome Of Tactics",
             "- Poison Darts",
-            "***",
+            "Rare",
             "- Fine Gloves",
             "- Compass",
             "- Orb of Magic",
             "- Chainmail Shirt",
             "- Tall Boots",
-            "**",
-            "- Arcane Scipt"
+            "Uncommon",
+            "- Arcane Script"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1522,
+        "originalIndex": 1585,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -107793,7 +111429,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1523,
+        "originalIndex": 1586,
         "lb1": {
             "attack": 1305,
             "defense": 1272,
@@ -107872,7 +111508,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1524,
+        "originalIndex": 1587,
         "lb1": {
             "attack": 999,
             "defense": 1349,
@@ -107944,7 +111580,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1525,
+        "originalIndex": 1588,
         "lb1": {
             "attack": 1434,
             "defense": 1203,
@@ -108021,7 +111657,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1526,
+        "originalIndex": 1589,
         "lb1": {
             "attack": 1316,
             "defense": 1292,
@@ -108096,7 +111732,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1527,
+        "originalIndex": 1590,
         "lb1": {
             "attack": 1110,
             "defense": 1036,
@@ -108169,7 +111805,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1528,
+        "originalIndex": 1591,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -108237,7 +111873,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1529,
+        "originalIndex": 1592,
         "lb1": {
             "attack": 1267,
             "defense": 1207,
@@ -108299,7 +111935,7 @@ window.allHeroes =
         "defense": 1268,
         "health": 2257,
         "effects": [
-            "Attacks the target with Frostfall Strike, dealing up to 2500 damage. Deals 40% more if the target is of the Fire element.  This Special Skill never misses its targets.",
+            "Attacks the target with Frostfall Strike, dealing up to 2500 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "Steals a random dispellable buff from the target to the caster.",
             "If the target has been inflicted with Frost, Freezing Power Hooks will be recast once on a random target. (If the target is defeated, the Special Skill will not be recast.)"
         ],
@@ -108311,7 +111947,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1530,
+        "originalIndex": 1593,
         "lb1": {
             "attack": 1371,
             "defense": 1367,
@@ -108386,7 +112022,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1531,
+        "originalIndex": 1594,
         "lb1": {
             "attack": 777,
             "defense": 885,
@@ -108472,7 +112108,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1532,
+        "originalIndex": 1595,
         "lb1": {
             "attack": 1300,
             "defense": 1286,
@@ -108549,7 +112185,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1533,
+        "originalIndex": 1596,
         "lb1": {
             "attack": 790,
             "defense": 859,
@@ -108605,20 +112241,20 @@ window.allHeroes =
         ],
         "heroId": "beauty_beast_cerissa",
         "star": 5,
-        "power": 1281,
-        "attack": 1320,
-        "defense": 1332,
-        "health": 2294,
+        "power": 1301,
+        "attack": 1341,
+        "defense": 1351,
+        "health": 2350,
         "effects": [
-            "If the caster has 50 or more Humility:",
-            "Boosts health of the caster and nearby allies by 1450. Boosted health can exceed max HP.",
+            "If the caster has 60 or more Humility:",
+            "Boosts health of the caster and nearby allies by 1550. Boosted health can exceed max HP.",
             "Stack +2(Max: 10): All damage the caster and nearby allies receive is reduced by -8%.",
-            "For the next 4 turns, this character recovers 750 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
-            "The caster and nearby allies get +30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "For the next 4 turns, this character recovers 850 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
+            "The caster and nearby allies get +35% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "Otherwise:",
-            "Boosts health of the caster and nearby allies by 1100. Boosted health can exceed max HP.",
-            "Stack (Max: 10): All damage the caster and nearby allies receive is reduced by -4%.",
-            "For the next 4 turns, this character recovers 550 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+            "Boosts health of the caster and nearby allies by 1200. Boosted health can exceed max HP.",
+            "Stack (Max: 10): All damage the caster and nearby allies receive is reduced by -5%.",
+            "For the next 4 turns, this character recovers 650 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -108627,18 +112263,18 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1534,
+        "originalIndex": 1597,
         "lb1": {
-            "attack": 1423,
-            "defense": 1436,
-            "health": 2473,
-            "power": 1371
+            "attack": 1445,
+            "defense": 1456,
+            "health": 2533,
+            "power": 1393
         },
         "lb2": {
-            "attack": 1628,
-            "defense": 1643,
-            "health": 2829,
-            "power": 1550
+            "attack": 1653,
+            "defense": 1666,
+            "health": 2898,
+            "power": 1575
         },
         "cn_skill_info": [
             {
@@ -108710,7 +112346,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1535,
+        "originalIndex": 1598,
         "lb1": {
             "attack": 1072,
             "defense": 963,
@@ -108785,7 +112421,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1536,
+        "originalIndex": 1599,
         "lb1": {
             "attack": 828,
             "defense": 916,
@@ -108862,7 +112498,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1537,
+        "originalIndex": 1600,
         "lb1": {
             "attack": 1171,
             "defense": 1348,
@@ -108928,7 +112564,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1538,
+        "originalIndex": 1601,
         "lb1": {
             "attack": 939,
             "defense": 976,
@@ -108958,6 +112594,62 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Constance C1",
+        "fancy_name": "Courageous Fusilier",
+        "AetherPower": "Regen",
+        "color": "Yellow",
+        "class": "Ranger",
+        "speed": "Fast",
+        "skill": "Fusilier's Fury",
+        "types": [
+            "Hit All",
+            "Dodge Chance Buff All",
+            "Damage attacker on dodge",
+            "Boosted Heal Self"
+        ],
+        "skill_types": [],
+        "source": "Alliance - The Brave & The Beautiful",
+        "Release date": "2026-05-08",
+        "specialId": "fusiliers_flurry",
+        "parent_specialId": "sword_dance",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "musketeer_constance_costume_fusilier",
+        "star": 5,
+        "power": 1321,
+        "attack": 1289,
+        "defense": 1371,
+        "health": 2580,
+        "effects": [
+            "Deals 280% damage to all enemies.",
+            "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge damages the attacker for 300 damage.",
+            "The caster regenerates 960 boosted health over 3 turns. Boosted health can exceed max HP."
+        ],
+        "passives": [
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+        ],
+        "family": "musketeer",
+        "costume_id": 1,
+        "originalIndex": 1602,
+        "lb1": {
+            "attack": 1389,
+            "defense": 1478,
+            "health": 2780,
+            "power": 1414
+        },
+        "lb2": {
+            "attack": 1590,
+            "defense": 1691,
+            "health": 3181,
+            "power": 1600
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Dabria",
@@ -109001,7 +112693,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1539,
+        "originalIndex": 1603,
         "lb1": {
             "attack": 916,
             "defense": 963,
@@ -109027,6 +112719,63 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Dagny",
+        "fancy_name": "Vanguard of the Wilds",
+        "AetherPower": "Attack Up",
+        "color": "Yellow",
+        "class": "Monk",
+        "speed": "Fast",
+        "skill": "Desert Hunt",
+        "types": [
+            "Hit 1",
+            "Bypass",
+            "Defense Debuff 1"
+        ],
+        "skill_types": [],
+        "source": "Titan Hunter Summon",
+        "Release date": "2026-04-18",
+        "specialId": "desert_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_yellow_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_savanna",
+        "star": 5,
+        "power": 1308,
+        "attack": 1365,
+        "defense": 1349,
+        "health": 2340,
+        "effects": [
+            "Deals 600% damage to the target.",
+            "Against Titans, deals 700% damage.",
+            "The attack bypasses defensive buffs. (This includes counterattacks)",
+            "The target gets -40% defense for 3 turns. Against Dark Titans, the target gets -60% defense and the status effect lasts 2 turns longer."
+        ],
+        "passives": [
+            "Enhanced Shields on Special: Passive Skill as attacking character",
+            "* Holy shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "Passive Skill as defending character",
+            "* Holy shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": 1604,
+        "lb1": {
+            "attack": 1471,
+            "defense": 1454,
+            "health": 2521,
+            "power": 1399
+        },
+        "lb2": {
+            "attack": 1684,
+            "defense": 1663,
+            "health": 2885,
+            "power": 1583
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Delilah",
@@ -109063,7 +112812,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1540,
+        "originalIndex": 1605,
         "lb1": {
             "attack": 794,
             "defense": 759,
@@ -109131,7 +112880,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1541,
+        "originalIndex": 1606,
         "lb1": {
             "attack": 988,
             "defense": 976,
@@ -109204,7 +112953,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1542,
+        "originalIndex": 1607,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -109272,7 +113021,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1543,
+        "originalIndex": 1608,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -109345,7 +113094,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1544,
+        "originalIndex": 1609,
         "lb1": {
             "attack": 1214,
             "defense": 1491,
@@ -109422,7 +113171,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1545,
+        "originalIndex": 1610,
         "lb1": {
             "attack": 1223,
             "defense": 1189,
@@ -109492,7 +113241,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1546,
+        "originalIndex": 1611,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -109561,7 +113310,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1547,
+        "originalIndex": 1612,
         "lb1": {
             "attack": 1017,
             "defense": 959,
@@ -109622,7 +113371,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1548,
+        "originalIndex": 1613,
         "lb1": {
             "attack": 865,
             "defense": 854,
@@ -109691,21 +113440,23 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Master Cleric Emblems",
-            "* Master Monk Emblems",
-            "* Cleric Emblems",
-            "* Monk Emblems"
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Legendary",
+            "* Master Cleric Emblem",
+            "* Master Monk Emblem",
+            "Epic",
+            "* Cleric Emblem",
+            "* Monk Emblem"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1549,
+        "originalIndex": 1614,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -109793,7 +113544,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1550,
+        "originalIndex": 1615,
         "lb1": {
             "attack": 976,
             "defense": 992,
@@ -109873,7 +113624,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1551,
+        "originalIndex": 1616,
         "lb1": {
             "attack": 1227,
             "defense": 1290,
@@ -109933,7 +113684,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1552,
+        "originalIndex": 1617,
         "lb1": {
             "attack": 910,
             "defense": 859,
@@ -110008,7 +113759,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1553,
+        "originalIndex": 1618,
         "lb1": {
             "attack": 896,
             "defense": 872,
@@ -110087,7 +113838,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1554,
+        "originalIndex": 1619,
         "lb1": {
             "attack": 1335,
             "defense": 1236,
@@ -110153,21 +113904,24 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Rare Holy Trainer Heroes",
-            "* Uncommon Holy Trainer Heroes",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "Rare",
+            "* Trainer Hero",
+            "Uncommon",
+            "* Trainer Hero",
             "* Uncommon Holy Heroes",
-            "* Common Holy Trainer Heroes",
+            "Common",
+            "* Trainer Hero",
             "* Common Holy Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1555,
+        "originalIndex": 1620,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -110246,7 +114000,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1556,
+        "originalIndex": 1621,
         "lb1": {
             "attack": 1123,
             "defense": 1194,
@@ -110307,7 +114061,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1557,
+        "originalIndex": 1622,
         "lb1": {
             "attack": 845,
             "defense": 810,
@@ -110375,7 +114129,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1558,
+        "originalIndex": 1623,
         "lb1": {
             "attack": 1425,
             "defense": 1365,
@@ -110449,7 +114203,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1559,
+        "originalIndex": 1624,
         "lb1": {
             "attack": 1258,
             "defense": 1189,
@@ -110525,7 +114279,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1560,
+        "originalIndex": 1625,
         "lb1": {
             "attack": 843,
             "defense": 892,
@@ -110604,7 +114358,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1561,
+        "originalIndex": 1626,
         "lb1": {
             "attack": 1347,
             "defense": 1420,
@@ -110681,12 +114435,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1562,
+        "originalIndex": 1627,
         "lb1": {
             "attack": 1258,
             "defense": 1252,
@@ -110754,35 +114508,35 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_gandr_costume_guardian",
         "star": 5,
-        "power": 1277,
-        "attack": 1291,
-        "defense": 1280,
-        "health": 2445,
+        "power": 1295,
+        "attack": 1315,
+        "defense": 1303,
+        "health": 2467,
         "effects": [
-            "Attacks all enemies with Firestorm Strike, dealing up to 2500 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
+            "Attacks all enemies with Firestorm Strike, dealing up to 2600 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
             "Boosts all allies' health by 27% of damage dealt.",
-            "All allies counterattack with 70% of the damage received for 5 turns."
+            "All allies counterattack with 75% of the damage received for 5 turns."
         ],
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 380 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 387 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1563,
+        "originalIndex": 1628,
         "lb1": {
-            "attack": 1391,
-            "defense": 1379,
-            "health": 2635,
-            "power": 1366
+            "attack": 1417,
+            "defense": 1404,
+            "health": 2659,
+            "power": 1386
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1578,
-            "health": 3015,
-            "power": 1546
+            "attack": 1621,
+            "defense": 1607,
+            "health": 3042,
+            "power": 1568
         },
         "cn_skill_info": [
             {
@@ -110847,11 +114601,11 @@ window.allHeroes =
         "passives": [
             "Resist Defense Reduction: This character is immune to status ailments, stacks and Wither effects that affect defense.",
             "Resist Insanity: This character is immune to Insanity.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1564,
+        "originalIndex": 1629,
         "lb1": {
             "attack": 1209,
             "defense": 1256,
@@ -110928,7 +114682,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 1565,
+        "originalIndex": 1630,
         "lb1": {
             "attack": 1367,
             "defense": 1358,
@@ -111003,7 +114757,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1566,
+        "originalIndex": 1631,
         "lb1": {
             "attack": 812,
             "defense": 830,
@@ -111076,7 +114830,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1567,
+        "originalIndex": 1632,
         "lb1": {
             "attack": 1465,
             "defense": 1176,
@@ -111146,7 +114900,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1568,
+        "originalIndex": 1633,
         "lb1": {
             "attack": 943,
             "defense": 1123,
@@ -111220,7 +114974,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1569,
+        "originalIndex": 1634,
         "lb1": {
             "attack": 1343,
             "defense": 1249,
@@ -111293,7 +115047,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1570,
+        "originalIndex": 1635,
         "lb1": {
             "attack": 1085,
             "defense": 1165,
@@ -111368,7 +115122,7 @@ window.allHeroes =
         ],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1571,
+        "originalIndex": 1636,
         "lb1": {
             "attack": 1067,
             "defense": 1145,
@@ -111449,7 +115203,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1572,
+        "originalIndex": 1637,
         "lb1": {
             "attack": 810,
             "defense": 799,
@@ -111530,7 +115284,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1573,
+        "originalIndex": 1638,
         "lb1": {
             "attack": 1060,
             "defense": 1007,
@@ -111601,7 +115355,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1574,
+        "originalIndex": 1639,
         "lb1": {
             "attack": 648,
             "defense": 856,
@@ -111673,7 +115427,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1575,
+        "originalIndex": 1640,
         "lb1": {
             "attack": 1431,
             "defense": 1309,
@@ -111740,7 +115494,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1576,
+        "originalIndex": 1641,
         "lb1": {
             "attack": 721,
             "defense": 839,
@@ -111811,7 +115565,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1577,
+        "originalIndex": 1642,
         "lb1": {
             "attack": 859,
             "defense": 1076,
@@ -111892,7 +115646,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1578,
+        "originalIndex": 1643,
         "lb1": {
             "attack": 1318,
             "defense": 1414,
@@ -111974,7 +115728,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1579,
+        "originalIndex": 1644,
         "lb1": {
             "attack": 1167,
             "defense": 1105,
@@ -112044,7 +115798,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1580,
+        "originalIndex": 1645,
         "lb1": {
             "attack": 945,
             "defense": 870,
@@ -112114,7 +115868,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1581,
+        "originalIndex": 1646,
         "lb1": {
             "attack": 1363,
             "defense": 1307,
@@ -112188,7 +115942,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1582,
+        "originalIndex": 1647,
         "lb1": {
             "attack": 777,
             "defense": 859,
@@ -112266,7 +116020,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1583,
+        "originalIndex": 1648,
         "lb1": {
             "attack": 1367,
             "defense": 1272,
@@ -112342,7 +116096,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1584,
+        "originalIndex": 1649,
         "lb1": {
             "attack": 1183,
             "defense": 1221,
@@ -112371,6 +116125,75 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Hiyori",
+        "fancy_name": "Geisha of Horai-zan",
+        "AetherPower": "Regen",
+        "color": "Yellow",
+        "class": "Sorcerer",
+        "speed": "Charge",
+        "skill": "Sensu of Immortality",
+        "types": [
+            "Charge",
+            "Healer All",
+            "Reviver",
+            "Boost Mana All",
+            "Cleanse Latest/All Ailment All"
+        ],
+        "skill_types": [],
+        "source": "Tower - Ninjas",
+        "Release date": "2026-05-03",
+        "specialId": "sensu_of_immortality",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "heroId": "ronin_hiyori",
+        "star": 5,
+        "power": 1323,
+        "attack": 1363,
+        "defense": 1386,
+        "health": 2381,
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "* Recovers 15% health for all allies.",
+            "* Each defeated ally has 30% chance to get revived with 30% HP.",
+            "* For the next 2 turns, all allies receive 10% mana at the end of the turn.",
+            "x2 Mana Charge:",
+            "* Recovers 35% health for all allies.",
+            "* Each defeated ally has 40% chance to get revived with 40% HP.",
+            "* Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
+            "* For the next 3 turns, all allies receive 10% mana at the end of the turn.",
+            "x3 Mana Charge:",
+            "* Recovers 55% health for all allies.",
+            "* Each defeated ally has 60% chance to get revived with 60% HP.",
+            "* Cleanses status ailments from all allies.",
+            "* For the next 5 turns, all allies receive 15% mana at the end of the turn."
+        ],
+        "passives": [
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": 1650,
+        "lb1": {
+            "attack": 1469,
+            "defense": 1494,
+            "health": 2566,
+            "power": 1416
+        },
+        "lb2": {
+            "attack": 1681,
+            "defense": 1709,
+            "health": 2936,
+            "power": 1602
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Horus",
@@ -112411,7 +116234,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1585,
+        "originalIndex": 1651,
         "lb1": {
             "attack": 888,
             "defense": 856,
@@ -112483,7 +116306,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1586,
+        "originalIndex": 1652,
         "lb1": {
             "attack": 1284,
             "defense": 1248,
@@ -112538,34 +116361,34 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_ibelis",
         "star": 5,
-        "power": 1273,
-        "attack": 1359,
-        "defense": 1299,
-        "health": 2210,
+        "power": 1283,
+        "attack": 1367,
+        "defense": 1310,
+        "health": 2235,
         "effects": [
             "Deals 310% damage to  enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
             "Reduces the mana of the enemies on the edges of the enemy formation by 20%. If there is only one enemy, the mana reduction is doubled.",
-            "Enemies on the edges of the formation receive Resonance for 2 turns. Each turn, Resonance deals 716 damage to the afflicted enemies and 358 damage to nearby enemies."
+            "Enemies on the edges of the formation receive Resonance for 2 turns. Each turn, Resonance deals 720 damage to the afflicted enemies and 360 damage to nearby enemies."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1587,
+        "originalIndex": 1653,
         "lb1": {
-            "attack": 1465,
-            "defense": 1400,
-            "health": 2382,
-            "power": 1363
+            "attack": 1474,
+            "defense": 1411,
+            "health": 2408,
+            "power": 1373
         },
         "lb2": {
-            "attack": 1676,
-            "defense": 1602,
-            "health": 2725,
-            "power": 1541
+            "attack": 1686,
+            "defense": 1615,
+            "health": 2755,
+            "power": 1553
         },
         "cn_skill_info": [
             {
@@ -112636,7 +116459,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1588,
+        "originalIndex": 1654,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -112689,15 +116512,15 @@ window.allHeroes =
         ],
         "heroId": "forsaken_inanis",
         "star": 5,
-        "power": 1266,
-        "attack": 1345,
-        "defense": 1293,
-        "health": 2202,
+        "power": 1291,
+        "attack": 1369,
+        "defense": 1318,
+        "health": 2276,
         "effects": [
-            "Deals 330% damage to the target.",
-            "Deals additional 330% damage to 2 random enemies.",
+            "Deals 350% damage to the target.",
+            "Deals additional 350% damage to 2 random enemies.",
             "All hit targets get 15 Insanity every time they are hit.",
-            "Stack (Max: 10): All damage the hit enemy receives is increased by 4%.",
+            "Stack (Max: 10): All damage the hit enemy receives is increased by 5%.",
             "Casting this Special Skill inflicts 35 Insanity on the caster."
         ],
         "passives": [
@@ -112706,18 +116529,18 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1589,
+        "originalIndex": 1655,
         "lb1": {
-            "attack": 1449,
-            "defense": 1394,
-            "health": 2373,
-            "power": 1354
+            "attack": 1476,
+            "defense": 1420,
+            "health": 2453,
+            "power": 1382
         },
         "lb2": {
-            "attack": 1658,
-            "defense": 1595,
-            "health": 2715,
-            "power": 1532
+            "attack": 1689,
+            "defense": 1625,
+            "health": 2806,
+            "power": 1563
         },
         "cn_skill_info": [
             {
@@ -112772,7 +116595,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1590,
+        "originalIndex": 1656,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -112844,7 +116667,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1591,
+        "originalIndex": 1657,
         "lb1": {
             "attack": 1040,
             "defense": 921,
@@ -112931,7 +116754,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1592,
+        "originalIndex": 1658,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -113009,7 +116832,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1593,
+        "originalIndex": 1659,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -113085,7 +116908,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1594,
+        "originalIndex": 1660,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -113159,7 +116982,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1595,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -113225,7 +117048,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1596,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -113296,10 +117119,12 @@ window.allHeroes =
             "All allies get +60% critical chance for 5 turns.",
             "The caster gets -5% mana generation for 5 turns. This effect can't be cleansed."
         ],
-        "passives": [],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all allies get: Stack (Max: 10): Recovers 30 HP each turn."
+        ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1597,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 1129,
             "defense": 1270,
@@ -113380,7 +117205,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1598,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -113434,7 +117259,9 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "heroId": "elemental_jequn_costume_gilded",
         "star": 5,
         "power": 1214,
@@ -113453,11 +117280,12 @@ window.allHeroes =
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
             "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "- Received elemental damage: -25%",
+            "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1599,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 1308,
             "defense": 1191,
@@ -113519,7 +117347,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1600,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -113580,7 +117408,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1601,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 908,
             "defense": 787,
@@ -113644,7 +117472,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1602,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 1048,
             "defense": 890,
@@ -113713,7 +117541,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1603,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 1255,
             "defense": 1070,
@@ -113786,7 +117614,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1604,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1445,
             "defense": 1188,
@@ -113816,6 +117644,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Joon Stylish",
+        "fancy_name": "Stylish Sun Monk",
+        "AetherPower": "Dodge",
+        "color": "Yellow",
+        "class": "Monk",
+        "speed": "Fast",
+        "skill": "Stylish Beam",
+        "types": [
+            "Hit 1",
+            "Blind 1"
+        ],
+        "skill_types": [],
+        "source": "Costume Quest",
+        "Release date": "2026-04-10",
+        "specialId": "stylish_beam",
+        "parent_specialId": "solar_beam",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "oriental_enchanted_monk_costume_stylish",
+        "star": 5,
+        "power": 1332,
+        "attack": 1483,
+        "defense": 1174,
+        "health": 2570,
+        "effects": [
+            "Deals 568% damage to the target.",
+            "If the target has less than 50% health remaining, deals 668% damage instead.",
+            "The target gets -39% accuracy for 6 turns."
+        ],
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ],
+        "family": "classic",
+        "costume_id": 5,
+        "originalIndex": 1671,
+        "lb1": {
+            "attack": 1598,
+            "defense": 1265,
+            "health": 2770,
+            "power": 1426
+        },
+        "lb2": {
+            "attack": 1829,
+            "defense": 1447,
+            "health": 3169,
+            "power": 1613
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Jove",
@@ -113857,7 +117737,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1605,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -113917,7 +117797,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1606,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -113985,7 +117865,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1607,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 820,
             "defense": 878,
@@ -114053,7 +117933,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1608,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 959,
             "defense": 970,
@@ -114125,7 +118005,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1609,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 1269,
             "defense": 1008,
@@ -114198,7 +118078,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1610,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 1452,
             "defense": 1126,
@@ -114256,10 +118136,10 @@ window.allHeroes =
         ],
         "heroId": "slime_justico",
         "star": 5,
-        "power": 1289,
-        "attack": 1310,
-        "defense": 1369,
-        "health": 2303,
+        "power": 1304,
+        "attack": 1324,
+        "defense": 1384,
+        "health": 2346,
         "effects": [
             "Deals 350% damage to all enemies.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
@@ -114272,18 +118152,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1611,
+        "originalIndex": 1678,
         "lb1": {
-            "attack": 1411,
-            "defense": 1476,
-            "health": 2481,
-            "power": 1379
+            "attack": 1427,
+            "defense": 1491,
+            "health": 2528,
+            "power": 1395
         },
         "lb2": {
-            "attack": 1615,
-            "defense": 1689,
-            "health": 2839,
-            "power": 1560
+            "attack": 1633,
+            "defense": 1706,
+            "health": 2893,
+            "power": 1579
         },
         "cn_skill_info": [
             {
@@ -114342,7 +118222,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1612,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -114404,7 +118284,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1613,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -114472,7 +118352,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1614,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1145,
             "defense": 1207,
@@ -114553,7 +118433,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1615,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -114621,16 +118501,17 @@ window.allHeroes =
         ],
         "heroId": "slime_labblub",
         "star": 5,
-        "power": 1249,
-        "attack": 1254,
-        "defense": 1316,
-        "health": 2263,
+        "power": 1264,
+        "attack": 1268,
+        "defense": 1330,
+        "health": 2307,
         "effects": [
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 350% damage to all enemies.",
             "All allies get 5% mana for each destroyed Minion.",
             "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
-            "All enemies receive Devouring Goo for 4 turns. Removes all dispellable buffs and Growth effects and deals 200 damage each turn. If effects are removed, 50 more damage is dealt for each removed effect."
+            "All enemies receive Devouring Goo for 4 turns.",
+            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 50 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)"
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -114638,18 +118519,18 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1616,
+        "originalIndex": 1683,
         "lb1": {
-            "attack": 1351,
-            "defense": 1418,
-            "health": 2439,
-            "power": 1336
+            "attack": 1367,
+            "defense": 1434,
+            "health": 2486,
+            "power": 1353
         },
         "lb2": {
-            "attack": 1546,
-            "defense": 1623,
-            "health": 2791,
-            "power": 1511
+            "attack": 1564,
+            "defense": 1640,
+            "health": 2844,
+            "power": 1529
         },
         "cn_skill_info": [
             {
@@ -114728,7 +118609,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1617,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -114798,7 +118679,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1618,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -114867,7 +118748,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1619,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1414,
             "defense": 1345,
@@ -114945,7 +118826,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1620,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -115014,12 +118895,12 @@ window.allHeroes =
             "If the target has more than 30% mana after mana reduction, the Special Skill repeats, targeting a random enemy. The damage is reduced on each consecutive hit."
         ],
         "passives": [
-            "Resist Poison: This character is immune to status ailments that deal Poison damage",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1621,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -115082,7 +118963,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1622,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -115147,7 +119028,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1623,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 870,
             "defense": 898,
@@ -115212,7 +119093,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1624,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 999,
             "defense": 1010,
@@ -115287,7 +119168,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1625,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 1228,
             "defense": 1187,
@@ -115360,7 +119241,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1626,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 1441,
             "defense": 1301,
@@ -115420,10 +119301,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_stylish",
         "star": 5,
-        "power": 1292,
-        "attack": 1417,
-        "defense": 1272,
-        "health": 2252,
+        "power": 1332,
+        "attack": 1456,
+        "defense": 1307,
+        "health": 2374,
         "effects": [
             "Deals 585% damage to the target.",
             "If the target has less than 50% health remaining, deals 730% damage instead.",
@@ -115435,18 +119316,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1627,
+        "originalIndex": 1694,
         "lb1": {
-            "attack": 1527,
-            "defense": 1371,
-            "health": 2427,
-            "power": 1383
+            "attack": 1569,
+            "defense": 1408,
+            "health": 2558,
+            "power": 1426
         },
         "lb2": {
-            "attack": 1748,
-            "defense": 1569,
-            "health": 2777,
-            "power": 1564
+            "attack": 1795,
+            "defense": 1611,
+            "health": 2927,
+            "power": 1614
         },
         "cn_skill_info": [
             {
@@ -115503,11 +119384,11 @@ window.allHeroes =
             "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1628,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -115583,7 +119464,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1629,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -115662,7 +119543,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1630,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -115731,11 +119612,11 @@ window.allHeroes =
             "Element Link gives all Holy allies +10% critical chance for 6 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Defense Ailments: The character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -115803,7 +119684,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1632,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -115880,7 +119761,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1633,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -115954,7 +119835,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -116030,7 +119911,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1635,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -116099,7 +119980,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1636,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -116181,7 +120062,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1637,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1287,
             "defense": 1310,
@@ -116259,7 +120140,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -116324,11 +120205,11 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Poison: This character is immune to status ailments that deal Poison damage.",
-            "Share Received Damage: 20% of damage received by this character is shared with other allies."
+            "Share Received Damage: 20% of damage received by this character is shared  with all other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1639,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -116406,7 +120287,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -116475,7 +120356,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1641,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -116546,12 +120427,12 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -116611,7 +120492,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1643,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -116680,7 +120561,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1644,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 1065,
             "defense": 939,
@@ -116748,7 +120629,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1645,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -116830,7 +120711,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1646,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -116906,7 +120787,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1647,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -116970,7 +120851,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1648,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -117030,7 +120911,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1649,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1145,
             "defense": 991,
@@ -117055,6 +120936,58 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Norns Toon",
+        "fancy_name": "Weavers of Toon Destiny",
+        "AetherPower": "Special Boost",
+        "color": "Yellow",
+        "class": "Sorcerer",
+        "speed": "Average",
+        "skill": "Twist of Toon Fate",
+        "types": [
+            "Hit 3",
+            "Weaker Defense 3"
+        ],
+        "skill_types": [],
+        "source": "S3 - Valhalla",
+        "Release date": "2026-04-29",
+        "specialId": "twist_of_toon_fate",
+        "parent_specialId": "twist_of_fate",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s3_norns_costume_cute",
+        "star": 5,
+        "power": 1348,
+        "attack": 1421,
+        "defense": 1319,
+        "health": 2547,
+        "effects": [
+            "Deals 330% damage to the target and nearby enemies.",
+            "The target and nearby enemies become weak against the element they are strong against for 5 turns. They stay weak against the element they are normally weak against.",
+            "Deals extra damage against Dark."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "vanaheim",
+        "costume_id": 2,
+        "originalIndex": 1717,
+        "lb1": {
+            "attack": 1531,
+            "defense": 1421,
+            "health": 2744,
+            "power": 1442
+        },
+        "lb2": {
+            "attack": 1752,
+            "defense": 1626,
+            "health": 3140,
+            "power": 1633
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Odin",
@@ -117091,7 +121024,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1650,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -117159,7 +121092,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1651,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1031,
             "defense": 1054,
@@ -117222,17 +121155,17 @@ window.allHeroes =
         "defense": 799,
         "health": 1404,
         "effects": [
-            "Destroys all Minions for all enemies and damages Mega Minions.",
+            "Destroys all Minions from all enemies and damages all Mega Minions.",
             "Deals 275% damage to all enemies.",
             "Deals additional 30% damage to all enemies for each Minion destroyed.",
             "Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1652,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -117304,7 +121237,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1653,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -117359,17 +121292,17 @@ window.allHeroes =
         ],
         "heroId": "vegetable_onwyn",
         "star": 5,
-        "power": 1285,
-        "attack": 1336,
-        "defense": 1322,
-        "health": 2305,
+        "power": 1290,
+        "attack": 1341,
+        "defense": 1326,
+        "health": 2317,
         "effects": [
-            "Deals 375% damage to the target and 5 random enemies.",
+            "Deals 385% damage to the target and 5 random enemies.",
             "Summons a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
             "* Seedling Fiend: 50% attack, 20% health.",
             "* Sprout Fiend: 75% attack, 30% health.",
             "* Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health. The Evolution of the Fiends is delayed with 1 turn each time they are absorb healing.)",
-            "All hit target gets -49% accuracy for 5 turns. (Chance to miss also applies to offensive Special Skills.)"
+            "All hit target gets -55% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
@@ -117383,18 +121316,18 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1654,
+        "originalIndex": 1722,
         "lb1": {
-            "attack": 1440,
-            "defense": 1425,
-            "health": 2484,
-            "power": 1375
+            "attack": 1445,
+            "defense": 1429,
+            "health": 2497,
+            "power": 1380
         },
         "lb2": {
-            "attack": 1648,
-            "defense": 1630,
-            "health": 2842,
-            "power": 1556
+            "attack": 1653,
+            "defense": 1635,
+            "health": 2857,
+            "power": 1561
         },
         "cn_skill_info": [
             {
@@ -117456,7 +121389,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1655,
+        "originalIndex": 1723,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -117542,7 +121475,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1656,
+        "originalIndex": 1724,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -117619,7 +121552,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1657,
+        "originalIndex": 1725,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -117702,7 +121635,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1658,
+        "originalIndex": 1726,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -117792,7 +121725,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1659,
+        "originalIndex": 1727,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -117866,11 +121799,11 @@ window.allHeroes =
             "While in Owlhalla the target receives 360 damage each turn. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but is immune to normal attack, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can't be cast if there is only one enemy left in the battle.)"
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1660,
+        "originalIndex": 1728,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -117948,7 +121881,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1661,
+        "originalIndex": 1729,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -118016,7 +121949,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1730,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -118077,7 +122010,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1663,
+        "originalIndex": 1731,
         "lb1": {
             "attack": 990,
             "defense": 957,
@@ -118102,6 +122035,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Poseidon Toon",
+        "fancy_name": "Toon Ruler of Atlantis",
+        "AetherPower": "Attack Up",
+        "color": "Yellow",
+        "class": "Fighter",
+        "speed": "Fast",
+        "skill": "Toon of the Seas",
+        "types": [
+            "Hit 1",
+            "Mana Debuff Immunity All",
+            "SS Block Immunity All"
+        ],
+        "skill_types": [],
+        "source": "S2 - Atlantis",
+        "Release date": "2026-04-29",
+        "specialId": "toon_of_the_seas",
+        "parent_specialId": "ruler_of_seas",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_poseidon_costume_cute",
+        "star": 5,
+        "power": 1348,
+        "attack": 1375,
+        "defense": 1371,
+        "health": 2563,
+        "effects": [
+            "Deals 550% damage to the target.",
+            "All allies are immune to new negative mana effects for 3 turns, and their mana is increased by 20% each resisted effect.",
+            "All allies are immune to new effects that prevent the use of Special Skills for 3 turns.",
+            "Deals extra damage against Dark."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": 1732,
+        "lb1": {
+            "attack": 1482,
+            "defense": 1477,
+            "health": 2762,
+            "power": 1443
+        },
+        "lb2": {
+            "attack": 1695,
+            "defense": 1690,
+            "health": 3161,
+            "power": 1633
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Prof. Ambrose",
@@ -118137,14 +122124,14 @@ window.allHeroes =
         ],
         "heroId": "institute_professor_ambrose",
         "star": 5,
-        "power": 1289,
-        "attack": 1316,
-        "defense": 1361,
-        "health": 2307,
+        "power": 1314,
+        "attack": 1341,
+        "defense": 1384,
+        "health": 2375,
         "effects": [
             "All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to a random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Wither: All enemies get -400 attack.",
-            "Deals 400% damage to all enemies and inflicts 25 Insanity on them.",
+            "Deals 420% damage to all enemies and inflicts 25 Insanity on them.",
             "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
@@ -118153,18 +122140,18 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1664,
+        "originalIndex": 1733,
         "lb1": {
-            "attack": 1418,
-            "defense": 1467,
-            "health": 2486,
-            "power": 1380
+            "attack": 1445,
+            "defense": 1491,
+            "health": 2559,
+            "power": 1406
         },
         "lb2": {
-            "attack": 1623,
-            "defense": 1678,
-            "health": 2844,
-            "power": 1561
+            "attack": 1653,
+            "defense": 1706,
+            "health": 2928,
+            "power": 1591
         },
         "cn_skill_info": [
             {
@@ -118201,7 +122188,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Glorious Grace",
         "types": [
-            "Cleanse All",
+            "Cleanser All",
             "Health Boost All",
             "Boosted HoT All"
         ],
@@ -118232,7 +122219,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1665,
+        "originalIndex": 1734,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -118268,7 +122255,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Dazzling Gleam",
         "types": [
-            "Cleanse All",
+            "Cleanser All",
             "Boosted Heal All",
             "Boosted HoT All"
         ],
@@ -118304,7 +122291,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1666,
+        "originalIndex": 1735,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -118367,7 +122354,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1667,
+        "originalIndex": 1736,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -118438,7 +122425,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1737,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -118508,7 +122495,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1669,
+        "originalIndex": 1738,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -118577,7 +122564,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1739,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -118646,7 +122633,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1740,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -118709,11 +122696,11 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1741,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -118785,7 +122772,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1742,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -118851,7 +122838,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1674,
+        "originalIndex": 1743,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -118928,7 +122915,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1744,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -119009,7 +122996,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1676,
+        "originalIndex": 1745,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -119090,7 +123077,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1677,
+        "originalIndex": 1746,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -119163,7 +123150,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1678,
+        "originalIndex": 1747,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -119228,14 +123215,14 @@ window.allHeroes =
         ],
         "heroId": "wild_cat_savann",
         "star": 5,
-        "power": 1285,
-        "attack": 1392,
-        "defense": 1252,
-        "health": 2307,
+        "power": 1300,
+        "attack": 1406,
+        "defense": 1266,
+        "health": 2350,
         "effects": [
-            "Reduces max health  of the target by 1500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 1500.)",
+            "Reduces max health  of the target by 1600. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 1600.)",
             "The target gets silenced for 3 turns.",
-            "Growth: Nearby allies get 400 attack."
+            "Growth: Nearby allies get 450 attack."
         ],
         "passives": [
             "Nine Lives:",
@@ -119250,18 +123237,18 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1679,
+        "originalIndex": 1748,
         "lb1": {
-            "attack": 1500,
-            "defense": 1349,
-            "health": 2486,
-            "power": 1375
+            "attack": 1516,
+            "defense": 1365,
+            "health": 2533,
+            "power": 1392
         },
         "lb2": {
-            "attack": 1717,
-            "defense": 1544,
-            "health": 2844,
-            "power": 1556
+            "attack": 1734,
+            "defense": 1562,
+            "health": 2898,
+            "power": 1574
         },
         "cn_skill_info": [
             {
@@ -119321,7 +123308,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1680,
+        "originalIndex": 1749,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -119404,7 +123391,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1750,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -119468,15 +123455,15 @@ window.allHeroes =
         ],
         "heroId": "magic_carpet_shareef",
         "star": 5,
-        "power": 1251,
-        "attack": 1336,
-        "defense": 1268,
-        "health": 2167,
+        "power": 1266,
+        "attack": 1351,
+        "defense": 1283,
+        "health": 2210,
         "effects": [
             "Deals 400% damage to the target.",
             "Deals 400% damage to 2 random enemies. (This effect targets the same enemy as the first hit if there are no valid targets.)",
             "All hit targets gets +30% increased damage for 3 turns.",
-            "All hit targets receive 657 Bleed damage over 3 turns."
+            "All hit targets receive 663 Bleed damage over 3 turns."
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
@@ -119491,18 +123478,18 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1751,
         "lb1": {
-            "attack": 1440,
-            "defense": 1367,
-            "health": 2335,
-            "power": 1338
+            "attack": 1456,
+            "defense": 1383,
+            "health": 2382,
+            "power": 1355
         },
         "lb2": {
-            "attack": 1648,
-            "defense": 1564,
-            "health": 2672,
-            "power": 1513
+            "attack": 1666,
+            "defense": 1582,
+            "health": 2725,
+            "power": 1532
         },
         "cn_skill_info": [
             {
@@ -119567,7 +123554,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1683,
+        "originalIndex": 1752,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -119636,7 +123623,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1753,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -119698,7 +123685,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1685,
+        "originalIndex": 1754,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -119762,7 +123749,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1755,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -119829,7 +123816,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1687,
+        "originalIndex": 1756,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -119855,6 +123842,60 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Sir Roostley C1",
+        "fancy_name": "Mighty Alchemist of Springvale",
+        "AetherPower": "Attack Up",
+        "color": "Yellow",
+        "class": "Cleric",
+        "speed": "Average",
+        "skill": "Alchemist's Lance",
+        "types": [
+            "Hit 1",
+            "Chain Hit",
+            "Defense Debuff Self"
+        ],
+        "skill_types": [],
+        "source": "Monthly Event - Springvale",
+        "Release date": "2026-03-30",
+        "specialId": "alchemist_lance",
+        "parent_specialId": "luminous_lance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "heroId": "easter_sir_roostley_costume_alchemist",
+        "star": 5,
+        "power": 1291,
+        "attack": 1369,
+        "defense": 1272,
+        "health": 2363,
+        "effects": [
+            "Deals 430% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "The caster gets -20% defense attack for  3 turns. This effect can't be cleansed.",
+            "Deals extra damage against Dark."
+        ],
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get  Stack (Max: 10): -5% defense."
+        ],
+        "family": "easter",
+        "costume_id": 1,
+        "originalIndex": 1757,
+        "lb1": {
+            "attack": 1476,
+            "defense": 1371,
+            "health": 2547,
+            "power": 1382
+        },
+        "lb2": {
+            "attack": 1689,
+            "defense": 1569,
+            "health": 2914,
+            "power": 1563
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Sludgus",
@@ -119901,7 +123942,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1758,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -119985,7 +124026,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1689,
+        "originalIndex": 1759,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -120055,7 +124096,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1690,
+        "originalIndex": 1760,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -120085,6 +124126,66 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Tengo",
+        "fancy_name": "Profaned Sunlord Construct",
+        "AetherPower": "Regen",
+        "color": "Yellow",
+        "class": "Cleric",
+        "speed": "Average",
+        "skill": "Sunlord's Forbidden Flame",
+        "types": [
+            "Hit All",
+            "Heal Self",
+            "Taunt",
+            "Delayed Hit All"
+        ],
+        "skill_types": [],
+        "source": "Covenant Summon",
+        "Release date": "2026-05-16",
+        "specialId": "sunlords_forbidden_flame",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_tengo",
+        "star": 5,
+        "power": 1326,
+        "attack": 1413,
+        "defense": 1374,
+        "health": 2301,
+        "effects": [
+            "Deals 500% damage to the target and minor damage to all other enemies.",
+            "Heals the caster for 30% of damage dealt.",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "Deals 480-1243 damage to all enemies after 4 turns, based  on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)"
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.",
+            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 1761,
+        "lb1": {
+            "attack": 1522,
+            "defense": 1480,
+            "health": 2479,
+            "power": 1419
+        },
+        "lb2": {
+            "attack": 1742,
+            "defense": 1694,
+            "health": 2837,
+            "power": 1606
+        },
+        "cn_skill_info": []
     },
     {
         "name": "Thor",
@@ -120128,7 +124229,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1762,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -120197,7 +124298,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1692,
+        "originalIndex": 1763,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -120268,7 +124369,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1693,
+        "originalIndex": 1764,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -120345,7 +124446,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1694,
+        "originalIndex": 1765,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -120418,7 +124519,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1695,
+        "originalIndex": 1766,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -120445,6 +124546,93 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Mana - Mana Gain"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Troop Mimic Holy",
+        "fancy_name": "Bounty of Dreadful Arsenal",
+        "AetherPower": "Bulwark",
+        "color": "Yellow",
+        "class": "Wizard",
+        "speed": "Average",
+        "skill": "Gluttonous Chomp",
+        "types": [
+            "Hit 1",
+            "Mimic Chest",
+            "Normal Attack Buff All"
+        ],
+        "skill_types": [],
+        "source": "Bazaar Summon",
+        "Release date": "2026-04-08",
+        "specialId": "gluttonous_chomp_yellow",
+        "passiveSkills": [
+            "mimic_troop_yellow",
+            "never_miss_special"
+        ],
+        "heroId": "mimic_troop_yellow",
+        "star": 5,
+        "power": 1282,
+        "attack": 1336,
+        "defense": 1332,
+        "health": 2263,
+        "effects": [
+            "Deals 480% damage to the target.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "All Ice allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot",
+            "RARE",
+            "* Devout Battlers",
+            "* Devout Assassins",
+            "* Exalted Guardian Constructs",
+            "* Trainer Troop",
+            "UNCOMMON",
+            "* Exalted Monks",
+            "* Devout Wizards",
+            "* Trainer Troop",
+            "COMMON",
+            "* Common Villager",
+            "* Monastic Rogues",
+            "* Devout Fighters",
+            "* Trainer Troop"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1767,
+        "lb1": {
+            "attack": 1440,
+            "defense": 1436,
+            "health": 2439,
+            "power": 1372
+        },
+        "lb2": {
+            "attack": 1648,
+            "defense": 1643,
+            "health": 2791,
+            "power": 1552
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -120495,7 +124683,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1696,
+        "originalIndex": 1768,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -120563,8 +124751,8 @@ window.allHeroes =
         "defense": 1324,
         "health": 2263,
         "effects": [
-            "Deals 355% damage to all enemies.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 800 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
+            "Deals 305% damage to all enemies.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
             "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "All enemies are immune to new status effect buffs for 4 turns."
         ],
@@ -120576,7 +124764,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1697,
+        "originalIndex": 1769,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -120663,7 +124851,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1698,
+        "originalIndex": 1770,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -120761,7 +124949,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1699,
+        "originalIndex": 1771,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -120833,7 +125021,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1700,
+        "originalIndex": 1772,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -120902,7 +125090,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1701,
+        "originalIndex": 1773,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -120971,7 +125159,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1702,
+        "originalIndex": 1774,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -121044,7 +125232,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1703,
+        "originalIndex": 1775,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -121121,7 +125309,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1704,
+        "originalIndex": 1776,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -121181,10 +125369,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_stylish",
         "star": 5,
-        "power": 1297,
-        "attack": 1307,
-        "defense": 1333,
-        "health": 2439,
+        "power": 1337,
+        "attack": 1342,
+        "defense": 1369,
+        "health": 2570,
         "effects": [
             "Recovers 65% health for the ally with lowest remaining HP. All other allies recover 56% health.",
             "All allies get +61% defense for 4 turns.",
@@ -121195,18 +125383,18 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1705,
+        "originalIndex": 1777,
         "lb1": {
-            "attack": 1408,
-            "defense": 1437,
-            "health": 2628,
-            "power": 1388
+            "attack": 1446,
+            "defense": 1476,
+            "health": 2770,
+            "power": 1432
         },
         "lb2": {
-            "attack": 1611,
-            "defense": 1644,
-            "health": 3007,
-            "power": 1570
+            "attack": 1655,
+            "defense": 1689,
+            "health": 3169,
+            "power": 1620
         },
         "cn_skill_info": [
             {
@@ -121264,7 +125452,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1778,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -121345,7 +125533,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1707,
+        "originalIndex": 1779,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -121408,17 +125596,17 @@ window.allHeroes =
         ],
         "heroId": "beowulf_weland",
         "star": 5,
-        "power": 1260,
-        "attack": 1291,
-        "defense": 1312,
-        "health": 2261,
+        "power": 1275,
+        "attack": 1306,
+        "defense": 1326,
+        "health": 2303,
         "effects": [
             "Deals 475% damage to all enemies.",
             "All allies have a 45% chance to drop any received damage to 1 for 5 turns.",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn:",
             "* +100% Special Skill damage for 5 turns.",
             "* +44% mana generation for 5 turns.",
-            "The Source of Buffs will activate 6 times. Each attempt to dispel it removes one activation."
+            "The Source of Buffs will activate 6 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or decreases activations left by 1.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
@@ -121427,18 +125615,18 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1780,
         "lb1": {
-            "attack": 1391,
-            "defense": 1414,
-            "health": 2437,
-            "power": 1348
+            "attack": 1407,
+            "defense": 1429,
+            "health": 2481,
+            "power": 1364
         },
         "lb2": {
-            "attack": 1592,
-            "defense": 1617,
-            "health": 2788,
-            "power": 1525
+            "attack": 1610,
+            "defense": 1635,
+            "health": 2839,
+            "power": 1543
         },
         "cn_skill_info": [
             {
@@ -121493,7 +125681,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1709,
+        "originalIndex": 1781,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -121558,7 +125746,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1710,
+        "originalIndex": 1782,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -121642,7 +125830,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1783,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -121724,7 +125912,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1784,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -121765,7 +125953,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Commander's Gauntlet",
         "types": [
-            "Hit all",
+            "Hit All",
             "Damage Reduction Self",
             "Boosted HoT All"
         ],
@@ -121793,7 +125981,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1713,
+        "originalIndex": 1785,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -121866,7 +126054,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1714,
+        "originalIndex": 1786,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -121925,10 +126113,10 @@ window.allHeroes =
         ],
         "heroId": "outlaw_wu_yong",
         "star": 5,
-        "power": 1249,
-        "attack": 1256,
-        "defense": 1316,
-        "health": 2263,
+        "power": 1264,
+        "attack": 1271,
+        "defense": 1330,
+        "health": 2305,
         "effects": [
             "This Special Skill has a chance to deal critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 450% damage to the target.",
@@ -121946,18 +126134,18 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1715,
+        "originalIndex": 1787,
         "lb1": {
-            "attack": 1354,
-            "defense": 1418,
-            "health": 2439,
-            "power": 1337
+            "attack": 1369,
+            "defense": 1434,
+            "health": 2484,
+            "power": 1353
         },
         "lb2": {
-            "attack": 1549,
-            "defense": 1623,
-            "health": 2791,
-            "power": 1512
+            "attack": 1567,
+            "defense": 1640,
+            "health": 2842,
+            "power": 1530
         },
         "cn_skill_info": [
             {
@@ -122015,7 +126203,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1788,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -122093,7 +126281,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1717,
+        "originalIndex": 1789,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -122146,17 +126334,19 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "heroId": "elemental_xavier_costume_arthropod",
         "star": 5,
-        "power": 1289,
-        "attack": 1363,
-        "defense": 1257,
-        "health": 2399,
+        "power": 1314,
+        "attack": 1391,
+        "defense": 1284,
+        "health": 2449,
         "effects": [
-            "Deals 270% damage to the target.",
-            "If 1 ally is of Holy element, the damage will increase to 330% and it will affect nearby enemies.",
-            "If 2 allies are of Holy element, the damage will increase to 360% and it will affect all enemies.",
+            "Deals 300% damage to the target.",
+            "If 1 ally is of Holy element, the damage will increase to 350% and it will affect nearby enemies.",
+            "If 2 allies are of Holy element, the damage will increase to 400% and it will affect all enemies.",
             "Reduces the mana of all hit enemies by -25%.",
             "Deals extra damage against Dark."
         ],
@@ -122165,22 +126355,23 @@ window.allHeroes =
             "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
             "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
-            "* Received elemental damage: -25%"
+            "* Received elemental damage: -25%",
+            "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1718,
+        "originalIndex": 1790,
         "lb1": {
-            "attack": 1469,
-            "defense": 1355,
-            "health": 2586,
-            "power": 1380
+            "attack": 1500,
+            "defense": 1384,
+            "health": 2640,
+            "power": 1407
         },
         "lb2": {
-            "attack": 1680,
-            "defense": 1550,
-            "health": 2958,
-            "power": 1561
+            "attack": 1716,
+            "defense": 1583,
+            "health": 3020,
+            "power": 1591
         },
         "cn_skill_info": [
             {
@@ -122240,7 +126431,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1719,
+        "originalIndex": 1791,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -122291,16 +126482,18 @@ window.allHeroes =
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
-        "costumeBonusPassiveSkillIds": null,
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
         "heroId": "elemental_zandria_costume_planet",
         "star": 5,
-        "power": 1254,
-        "attack": 1203,
-        "defense": 1275,
-        "health": 2507,
+        "power": 1276,
+        "attack": 1227,
+        "defense": 1301,
+        "health": 2558,
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "Deals additional 25% damage per each Holy shield on the board, up to 550% damage in total.",
+            "Deals 260% damage to all enemies.",
+            "Deals additional 25% damage per each Holy shield on the board, up to 560% damage in total.",
             "Each defeated ally has a 20% chance to be revived with 45% HP.",
             "Each Holy shield on the board increases the chance to be revived by 5%, up to 80% chance in total.",
             "Deals extra damage against Dark."
@@ -122310,22 +126503,23 @@ window.allHeroes =
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
             "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "- Received elemental damage: -25%",
+            "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1720,
+        "originalIndex": 1792,
         "lb1": {
-            "attack": 1296,
-            "defense": 1374,
-            "health": 2702,
-            "power": 1341
+            "attack": 1323,
+            "defense": 1402,
+            "health": 2757,
+            "power": 1366
         },
         "lb2": {
-            "attack": 1483,
-            "defense": 1572,
-            "health": 3091,
-            "power": 1516
+            "attack": 1513,
+            "defense": 1604,
+            "health": 3154,
+            "power": 1545
         },
         "cn_skill_info": [
             {
@@ -122395,7 +126589,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1721,
+        "originalIndex": 1793,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -122464,7 +126658,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1722,
+        "originalIndex": 1794,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -122506,7 +126700,7 @@ window.allHeroes =
         "skill": "Sharp Stingers",
         "types": [
             "Hit 1",
-            "Bounce",
+            "Hit Random 1",
             "Defense Debuff 1"
         ],
         "skill_types": [
@@ -122542,7 +126736,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1723,
+        "originalIndex": 1795,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -122618,7 +126812,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1724,
+        "originalIndex": 1796,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -122682,7 +126876,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1725,
+        "originalIndex": 1797,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -122753,7 +126947,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1726,
+        "originalIndex": 1798,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -122822,7 +127016,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1727,
+        "originalIndex": 1799,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -122895,7 +127089,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1728,
+        "originalIndex": 1800,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -122950,34 +127144,33 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_zondalath",
         "star": 5,
-        "power": 1286,
-        "attack": 1312,
-        "defense": 1359,
-        "health": 2301,
+        "power": 1296,
+        "attack": 1322,
+        "defense": 1367,
+        "health": 2327,
         "effects": [
-            "Recovers 45% health for all allies.",
+            "Recovers 46% health for all allies.",
             "All allies reduce all received damage by -50% for 4 turns.",
-            "All allies except the caster get an additional +30% attack power for the next Special Skill they cast. The additional attack power increases +30% each turn, up to a maximum of +120% in total."
+            "All allies except the caster get an additional +35% attack power for the next Special Skill they cast. The additional attack power increases +30% each turn, up to a maximum of +125% in total."
         ],
         "passives": [
-            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
-            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
-            "Resist Healing Ailments: This character is immune to status ailments that affect healing."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana."
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1729,
+        "originalIndex": 1801,
         "lb1": {
-            "attack": 1414,
-            "defense": 1465,
-            "health": 2479,
-            "power": 1377
+            "attack": 1425,
+            "defense": 1474,
+            "health": 2508,
+            "power": 1387
         },
         "lb2": {
-            "attack": 1617,
-            "defense": 1676,
-            "health": 2837,
-            "power": 1557
+            "attack": 1630,
+            "defense": 1686,
+            "health": 2870,
+            "power": 1569
         },
         "cn_skill_info": [
             {
@@ -123036,7 +127229,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1730,
+        "originalIndex": 1802,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -123066,213 +127259,5 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Sir Roostley C1",
-        "fancy_name": "Mighty Alchemist of Springvale",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_sir_roostley_costume_alchemist",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 1,
-        "originalIndex": 1731,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Lady Woolerton C1",
-        "fancy_name": "Coiffeuse of Springvale",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_lady_woolerton_costume_coiffeuse",
-        "star": 4,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 1,
-        "originalIndex": 1732,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Squire Wabbit C1",
-        "fancy_name": "Junior Kinght of Springvale",
-        "AetherPower": "",
-        "color": "Red",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "rabbit_red_costume_knight",
-        "star": 3,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 1,
-        "originalIndex": 1733,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Duke Whitley",
-        "fancy_name": "High Mage of Springvale",
-        "AetherPower": "",
-        "color": "Red",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_duke_whitley",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 0,
-        "originalIndex": 1734,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Marko",
-        "fancy_name": "Wayfarer of Springvale",
-        "AetherPower": "",
-        "color": "Blue",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "easter_marko",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "easter",
-        "costume_id": 0,
-        "originalIndex": 1735,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Auberguy",
-        "fancy_name": "Aubergine Wizard",
-        "AetherPower": "",
-        "color": "Purple",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_auberguy",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": 1736,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Carthizux",
-        "fancy_name": "Astral Demon Maniac",
-        "AetherPower": "",
-        "color": "Red",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "astral_demon_carthizux",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "astral_demons",
-        "costume_id": 0,
-        "originalIndex": 1737,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Kageyama Nagato",
-        "fancy_name": "Thief-Shuriken Ronin",
-        "AetherPower": "",
-        "color": "Green",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ronin_kageyama_nagato",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ronin",
-        "costume_id": 0,
-        "originalIndex": 1738,
-        "cn_skill_info": []
     }
 ];

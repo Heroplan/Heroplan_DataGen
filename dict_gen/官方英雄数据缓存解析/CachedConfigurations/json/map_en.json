@@ -37439,7 +37439,7 @@
           }
         ],
         "buttonUnlockProvinceRequirement": "s2_province_03",
-        "mapUnlockProvinceRequirement": "s2_province_15",
+        "mapUnlockProvinceRequirement": "s2_province_10",
         "firstHiddenProvince": "s3_province_33",
         "hiddenProvinceRevealRequirement": "s3_province_28",
         "hiddenMapFeaturesStages": [
@@ -55489,7 +55489,7 @@
           }
         ],
         "buttonUnlockProvinceRequirement": "s3_province_03",
-        "mapUnlockProvinceRequirement": "s3_province_10",
+        "mapUnlockProvinceRequirement": "s3_province_05",
         "provincesUnlockSchedule": {
           "week": "Fourth",
           "day": "Thursday",
@@ -84817,7 +84817,7 @@
               "random_3_V",
               "random_3_line"
             ],
-            "numberOfRandomizedWaves": 3,
+            "numberOfRandomizedWaves": 2,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A_big",
@@ -84826,10 +84826,26 @@
                     "id": "dragon_aranth"
                   },
                   {
-                    "id": "dragon_cindron"
+                    "id": "dragon_noctur"
                   },
                   {
                     "id": "dragon_leafheart"
+                  }
+                ]
+              },
+              {
+                "waveFormationId": "fixed_1_ultimate",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_noctur_ultimateboss"
+                  }
+                ]
+              },
+              {
+                "waveFormationId": "fixed_1_ultimate",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_noctur_corrupted_ultimateboss"
                   }
                 ]
               }
@@ -84839,10 +84855,10 @@
             "ironReward": 17600,
             "recruitsReward": 14,
             "xpReward": 2200,
-            "outpostTeamPower": 58000,
             "specificLevelPropertyIds": [
               "corrosive_rain",
-              "lightning_storm"
+              "lightning_storm",
+              "ultimate_boss_dragon"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -84857,41 +84873,23 @@
             "energyCost": 5,
             "commonMonstersLevel": 131,
             "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_berry_dragon_green",
-              "dragon_small_leaf_dragon"
-            ],
+            "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
               "random_3_V",
               "random_3_line"
             ],
             "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "boss_3_A_big",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_noctur"
-                  },
-                  {
-                    "id": "dragon_saestrasz"
-                  },
-                  {
-                    "id": "dragon_aranth"
-                  }
-                ]
-              }
-            ],
+            "predeterminedWaves": [],
             "battlegroundId": "DragonCrystalCaveGreen",
             "foodReward": 8600,
             "ironReward": 17600,
             "recruitsReward": 14,
             "xpReward": 2200,
+            "outpostTeamPower": 58000,
             "specificLevelPropertyIds": [
               "corrosive_rain",
-              "lightning_storm",
-              "ultimate_boss_dragon"
+              "lightning_storm"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -95912,7 +95910,7 @@
           }
         ],
         "buttonUnlockProvinceRequirement": "province_10",
-        "mapUnlockProvinceRequirement": "s5_province_05",
+        "mapUnlockProvinceRequirement": "s5_province_03",
         "provincesUnlockSchedule": {
           "timeOfDay": "7小时",
           "referenceDate": "2023-02-01 07:00:00",
@@ -104267,8 +104265,8 @@
             "hmXpReward": 2850
           }
         ],
-        "buttonUnlockProvinceRequirement": "tales1_chapter_03",
-        "mapUnlockProvinceRequirement": "tales1_chapter_03",
+        "buttonUnlockProvinceRequirement": "tales1_chapter_02",
+        "mapUnlockProvinceRequirement": "tales1_chapter_02",
         "provincesUnlockSchedule": {
           "timeOfDay": "7小时",
           "referenceDate": "2023-02-01 07:00:00",
@@ -138994,5 +138992,5 @@
     "untoldTalesEnabled": true,
     "dragonProvinceCompletionRewardsEnabled": true
   },
-  "mapConfigId": 4003362014
+  "mapConfigId": 3845983692
 }

@@ -1,4 +1,11 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","يكتسب البطل {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} من التواضع عندما يتلقى ضررًا مباشرًا من المهارات الخاصة."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","تكتسب هذه الشخصية {CURRENTCHARGEFROMDAMAGE} تواضع عند تلقّي ضرر مباشر من المهارات الخاصة."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","يكتسب البطل {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} من التواضع عندما يتلقى علاجًا مباشرًا من المهارات الخاصة."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","تكتسب هذه الشخصية {CURRENTCHARGEFROMHEAL} تواضع عند تلقّي علاج مباشر من المهارات الخاصة."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","يكتسب البطل {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} من التواضع في نهاية كل دور."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","تكتسب هذه الشخصية {CURRENTCHARGEONTURNEND} تواضع في نهاية كل جولة."
 "familybonuses.description.long.abyss","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% فرصة لإنتاج جوهرة العالم السفلي على اللوح عندما يلقي هذا البطل مهارته الخاصة. تتسبب جوهرة العالم السفلي في ضرر {FIXEDPOWER} لعدو عشوائي كل جولة حتى تتم مطابقتها. يمكن إنتاج جواهر العالم السفلي فقط على الدروع المعتادة التي تطابق هذا البطل."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","اربح {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}% من القوة عندما تنتهي صلاحية هيئة شبح لدى تلك الشخصية."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","تكتسب هذه الشخصية {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% من القوة عند تلقي ضرر المهارة الخاصة. يمكن تفعيل هذا التأثير مرة واحدة كل جولة."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
@@ -12,13 +19,14 @@
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","يحصل جميع الحلفاء على  {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% تراكم هجوم في كل مرة تحاول فيها هذه الشخصية نهب أحد الأعداء. (الحد الأقصى للتراكم: {MAXSTACK})"
-"familybonuses.description.long.build_charge_beauty_beast","لدى الأبطال المختلفين متطلبات مختلفة من التواضع.
+"familybonuses.description.long.build_charge_beauty_beast","تختلف متطلبات التواضع لدى الأبطال من بطل لآخر.
 عندما يُطلِق البطل النسخة القوية من مهارته الخاصة، يتم استهلاك المقدار المطلوب من التواضع فقط.
+الحد الأقصى من التواضع هو: 100.
+مكافأة من أجل 3/2/1 من الأبطال الفريدين من العائلة نفسها:
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","لدى الأبطال المختلفين متطلبات مختلفة من التواضع.
 الحد الأقصى من التواضع: 100.
 مكافأة عند وجود 1/2/3 من الأبطال الفريدين من العائلة نفسها:
-يكتسب البطل {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} من التواضع عندما يتلقى ضرر مباشر من المهارات الخاصة.
-يكتسب البطل {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} من التواضع عندما يتلقى علاجًا مباشرًا من المهارات الخاصة."
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","لدى الأبطال المختلفين متطلبات مختلفة من التواضع.
 يكتسب البطل {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} من التواضع عندما يتلقى ضررًا مباشرًا من المهارات الخاصة، بحد أقصى مرة واحدة لكل دور.
 يكتسب البطل {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} من التواضع عندما يتلقى علاجًا مباشرًا من المهارات الخاصة، بحد أقصى مرة واحدة لكل دور."
 "familybonuses.description.long.build_charge_construct","يُشحن مركز البناء في كل مرة تتلقى هذه الشخصية ضررًا من الهجمات العادية أو من المهارات الخاصة."
@@ -29,7 +37,7 @@
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","عندما يتلقى هذا البطل حالة مرض تطال الدفاع، {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لإلقاء المرض المُتلقى على جميع الأعداء."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","فرصة {2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% لزيادة مدة تأثير حالة كل رقصة حظ تلقيها هذه الشخصية بمقدار جولة 1."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% من الضرر الإضافي للمهارة الخاصة."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {1MEMBERCHANCE}/{2MEMBERSCHANCE}% لتطهير أمراض الحالات الخاصة بهذه الشخصية عند تلقي ضرر المهارة الخاصة."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","فرصة بنسبة {1MEMBERCHANCE}/{2MEMBERSCHANCE}% لتطهير حالة مرضية واحدة عن جميع الحلفاء عند تلقي ضرر مهارة خاصة."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {1MEMBERCHANCE}/{2MEMBERSCHANCE}% لتطهير مرض حالة قابل للتطهير بشكل عشوائي من هذه الشخصية عند تلقي ضرر المهارة الخاصة."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","فرصة بنسبة {1MEMBERCHANCE}%/{2MEMBERSCHANCE}% لتطهير حالة مرضية قابلة للتطهير بشكل عشوائي من جميع الحلفاء عندما تتلقى هذه الشخصية ضررًا من المهارة الخاصة للعدو. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لشن هجوم مضاد مع {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى."
@@ -83,6 +91,7 @@
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%\{2MEMBERSMULTIPLIERPERCENTCHANGE}%\{3MEMBERSMULTIPLIERPERCENTCHANGE}% من الصحة."
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%\{2MEMBERSMULTIPLIERPERCENTCHANGE}%\{3MEMBERSMULTIPLIERPERCENTCHANGE}% من الصحة."
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% نقاط الصحة."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","يحصل جميع الحلفاء على +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} من تراكم تجديد الصحة في كل مرة تحاول فيها هذه الشخصية أن تسحر أحد الأعداء. (الحد الأقصى من التراكمات: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","تم إلحاق {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% ضرر أكثر بالأتباع الضخام."
 "familybonuses.description.long.increased_damage_against_minions_2_members","تم إلحاق {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}% ضرر أكثر بالأتباع."
 "familybonuses.description.long.increased_damage_against_minions_3_members","تم إلحاق {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% ضرر أكثر بالأتباع."
@@ -129,6 +138,7 @@
 يتلقى البطل مكافأة العائلة ذات الصلة عندما يكون في فريق به بطل واحد على الأقل ذي صلة. مكافأة لـ 1/2/3/4/5 أبطال:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","ينتمي البطل إلى عائلة السحر.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","ألحق {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} من ضرر الماء لمدة {STATUSEFFECT1TURNS} من الجولات بعدو يلحق ضرر مهارة خاصة بهذه الشخصية."
 "familybonuses.description.long.slime_familiar_attack_multiplier","يحصل الأتباع الضخام، والأتباع، والأشرار الضخام، والأشرار الذين يستدعيهم الحلفاء على {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم بناءً على عدد أبطال عائلة السلايم في الفريق."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% من قوة المهارات الخاصة."
 "familybonuses.description.long.start_battle_with_fox_minion","في بداية المعركة يستدعي {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} من أتباع الثعلب المكار لنفسه، مع {FAMILIARHEALTHPERCENT}% من الصحة و{FAMILIARATTACK}% من الهجوم الموروث من البطل.
@@ -151,6 +161,7 @@
 "familybonuses.description.members","(أفراد العائلة: {0})"
 "familybonuses.description.members.realm","(أعضاء العالم: {0})"
 "familybonuses.description.short.abyss","فرصة {CHANCE}% لإنتاج جوهرة عالم سفلي عند إلقاء مهارة خاصة. تتسبب جوهرة العالم السفلي في ضرر {FIXEDPOWER} لعدو عشوائي كل جولة."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","احصل على {MULTIPLIERPERCENT}% من القوة بعد انتهاء صلاحية هيئة شبح لدى هذه الشخصية."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","تكتسب هذه الشخصية {MULTIPLIERPERCENT}% من القوة على ضرر المهارة الخاصة المتلقى."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}% من الهجوم"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}% من الهجوم"
@@ -167,8 +178,7 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","في بداية كل جولة، توضَع علامة زنبق دموي على العدو صاحب أعلى نقاط صحة متبقية."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","في بداية كل جولة، توضَع علامة زنبق دموي على العدو صاحب أعلى نقاط صحة متبقية."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","امنح جميع الحلفاء {ATTACK}% من تراكم الهجوم في كل مرة يحاول فيها هذا البطل نهب عدو. (الحد الأقصى للتراكم: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","تكتسب الشخصية {CURRENTCHARGEFROMDAMAGE} تواضع عند تلقي ضرر مباشر من المهارات الخاصة.
-تكتسب هذه الشخصية {CURRENTCHARGEFROMHEAL} تواضع عند تلقي تعافٍ مباشر من المهارات الخاصة."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","تكتسب الشخصية {CURRENTCHARGEFROMDAMAGE} تواضع عند تلقي ضرر مباشر من المهارات الخاصة. بحد أقصى مرة في الجولة.
 تكتسب هذه الشخصية {CURRENTCHARGEFROMHEAL} تواضع عند تلقي علاج مباشر من المهارات الخاصة. بحد أقصى مرة في الجولة."
 "familybonuses.description.short.build_charge_construct","تشحن هذه الشخصية مركز البناء الخاص بها عند تلقي ضرر من الهجمات العادية أو من المهارات الخاصة."
@@ -179,7 +189,7 @@
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","عندما يتلقى هذا البطل حالة مرض تطال الدفاع، {CHANCE}% فرصة لإلقاء المرض المُتلقى على جميع الأعداء."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","فرصة {CHANCE}% لزيادة مدة إلقاء تأثيرات حالة رقصة الحظ بمقدار 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% ضرر إضافي للمهارة الخاصة."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {CHANCE}% لتطهير كل الحالات المرضية القابلة للتطهير من هذه الشخصية على ضرر المهارة الخاصة المتلقى."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","فرصة بنسبة {CHANCE}% لتطهير حالة مرضية عن جميع الحلفاء عند تلقي ضرر مهارة خاصة."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {CHANCE}% لتطهير حالة مرضية قابلة للتطهير بشكل عشوائي من هذه الشخصية على ضرر المهارة الخاصة المتلقى."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","عندما يلحق عدو ضرر المهارة الخاصة بهذه الشخصية، هناك فرصة بنسبة {CHANCE}% لهذه الشخصية لتطهير حالة مرضية  قابلة للتطهير بشكل عشوائي من جميع الحلفاء. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% فرصة للهجوم المضاد باستخدام {MULTIPLIERPERCENT}% من الضرر اللاحق."
@@ -227,6 +237,7 @@
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}% من الصحة"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}% من نقاط الصحة"
 "familybonuses.description.short.health_stack","{CHANCE}% فرصة للحصول على +1 تراكم الشفاء:+ {BASESTACKCOUNT} من الصحة في نهاية كل جولة"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","يحصل جميع الحلفاء على +{HEAL} من تراكم تجديد الصحة في كل مرة تحاول فيها هذه الشخصية أن تسحر أحد الأعداء."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","تم إلحاق {MULTIPLIERPERCENTCHANGE}% ضرر أكثر بالأتباع الضخام."
 "familybonuses.description.short.increased_damage_against_minions_2_members","تم إلحاق {MULTIPLIERPERCENTCHANGE}% ضرر أكثر بالأتباع."
 "familybonuses.description.short.increased_damage_against_minions_3_members","تم إلحاق {MULTIPLIERPERCENTCHANGE}% ضرر أكثر بالأتباع."
@@ -273,6 +284,7 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","فرصة {CHANCE}% لمقاومة تخفيضات القوة، وأمراض حالة القوة، وتلقي {POWER}% من القوة عند المقاومة"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","فرصة {CHANCE}% لمقاومة تخفيضات القوة، وأمراض حالة القوة، وتلقي {POWER}% من القوة عند المقاومة"
 "familybonuses.description.short.share_effects_from_atlantis","ينتمي البطل إلى عائلة أطلانطس. يتلقى البطل مكافأة العائلة ذات الصلة عندما يكون في فريق به بطل واحد على الأقل ذي صلة:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","عندما يلحق أحد الأعداء ضررًا بالمهارة الخاصة بهذه الشخصية، يتلقى العدو {DAMAGE} من ضرر الماء لمدة {STATUSEFFECT1TURNS} من الجولات."
 "familybonuses.description.short.slime_familiar_attack_multiplier","يحصل الأتباع الضخام، والأتباع، والأشرار الضخام، والأشرار على {MULTIPLIERPERCENTCHANGE}% من الهجوم."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","مكافأة سنة الفأر القمرية: {MULTIPLIERPERCENTCHANGE}% من قوة المهارات الخاصة"
 "familybonuses.description.short.start_battle_with_fox_minion","يتم استدعاء {FAMILIARAMOUNT} من تابع الثعلب المكار لنفسك في بداية المعركة. لدى التابع الثعلب المكار فرصة بنسبة 80% لتفادي الهجمات. عند تنفيذ محاولة تفادي ناجحة، يسرق آخر معزز يمكن تبديده من المهاجم، ويمنحه إلى مالكه."
@@ -326,7 +338,8 @@
 "herocard.family.description.eventherobonus.alliancequestcastle","يتمتع أفراد هذه العائلة بامتيازات إضافية في حدث صراع الفرسان."
 "herocard.family.description.eventherobonus.alliancequestmoths","يتمتع أعضاء هذه العائلة بامتيازات إضافية في حدث ليل العثة."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","يتمتع أعضاء هذه العائلة بامتيازات إضافية في حدث الشجاع والجميلة."
-"herocard.family.description.eventherobonus.beachparty","يتمتع أفراد هذه العائلة بامتيازات إضافية في حدث حفلة الشاطئ."
+"herocard.family.description.eventherobonus.beachparty","يتمتع أفراد هذه العائلة بامتيازات إضافية في حدث حفلة صن باي."
+"herocard.family.description.eventherobonus.beachparty2026","يتمتع أفراد هذه العائلة بامتيازات إضافية في حدث حفلة صن باي."
 "herocard.family.description.eventherobonus.christmas","يتمتع أفراد هذه العائلة بامتيازات إضافية في حدث تحدي سانتا."
 "herocard.family.description.eventherobonus.easter","يتمتع أعضاء هذه العائلة بامتيازات إضافية في حدث مهرجان سبرينغفايل."
 "herocard.family.description.eventherobonus.halloween","يتمتع أفراد هذه العائلة بامتيازات إضافية في حدث الهالووين."
@@ -407,6 +420,8 @@
 "herocard.family.title.cultist.short","عضو الطائفة"
 "herocard.family.title.cupid","عائلة كيوبيد"
 "herocard.family.title.cupid.short","كيوبيد"
+"herocard.family.title.dryad","حوريات عائلة الزهرة القديمة"
+"herocard.family.title.dryad.short","الحوريات"
 "herocard.family.title.easter","عائلة سبرينغفايل"
 "herocard.family.title.easter.short","سبرينغفايل"
 "herocard.family.title.fable","عائلة غابة الظلام"
@@ -428,6 +443,8 @@
 "herocard.family.title.gargoyle.short","المزراب"
 "herocard.family.title.garrison","عائلة الحامية الحارسة"
 "herocard.family.title.garrison.short","الحامية الحارسة"
+"herocard.family.title.ghost","أشباح عائلة يانغ جيان"
+"herocard.family.title.ghost.short","أشباح يانغ جيان"
 "herocard.family.title.goblin","عائلة الجن"
 "herocard.family.title.goblin.short","جني"
 "herocard.family.title.guardian","العائلة الحارسة"
@@ -515,6 +532,8 @@
 "herocard.family.title.sand.short","امبراطورية الرمال"
 "herocard.family.title.shady_scoundrels","عائلة الأوغاد المريبين"
 "herocard.family.title.shady_scoundrels.short","الأوغاد المريبون"
+"herocard.family.title.shark","عائلة قرش صن باي"
+"herocard.family.title.shark.short","قرش صن باي"
 "herocard.family.title.slayers","عائلة القاتل"
 "herocard.family.title.slayers.short","قاتل"
 "herocard.family.title.slime","عائلة السلايم"

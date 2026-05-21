@@ -7,6 +7,8 @@
   "Astral Summon": "Invocacion astral",
   "Black Friday Summon": "Invocacion del BlackFriday",
   "Event Summon": "Invocacion de evento",
+  "Charming Costume Summon": "Invocacion de atuendo encantador",
+  "Classic Costume Summon": "Invocacion de atuendo clasico",
   "Costume Summon": "Invocacion de atuendo",
   "Covenant Summon": "Invocacion de coalicion",
   "Daily Summon": "Invocacion diaria",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Invocacion de las profundidades",
   "Dunes Summon": "Invocacion de las dunas",
   "Seasonal Summon": "Invocacion de temporada",
+  "Sunbay Summon": "Invocacion de Bahia Soleada",
   "Sanguine Summon": "Invocacion sanguinaria",
   "Fortune Summon": "Invocacion de la fortuna",
   "Shadow Summon": "Invocacion de las sombras",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Invocacion de Historias no contadas",
   "Mysteries of the Deep": "Misterios de las profundidades",
   "Treasures of Flame and Frost": "Tesoros de hielo y fuego",
+  "Welcome Back Summon": "Invocacion de regreso",
   "Wilderness Summon": "Invocacion de la tierra salvaje"
 }

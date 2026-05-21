@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Bohater zyskuje {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} pkt. pokory, gdy otrzymuje bezpośrednie obrażenia od umiejętności specjalnych."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Ta postać zyskuje {CURRENTCHARGEFROMDAMAGE} pokory, gdy otrzyma bezpośrednie obrażenia od specjalnych zdolności."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Bohater zyskuje {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} pkt. pokory, gdy otrzymuje bezpośrednie leczenie od umiejętności specjalnych."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzyma bezpośrednie leczenie od specjalnych zdolności."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","Bohater zyskuje {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} pkt. pokory na końcu każdej tury."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Ta postać zyskuje {CURRENTCHARGEONTURNEND} pokory na końcu każdej tury."
 "familybonuses.description.long.abyss","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% szans na pojawienie się na planszy klejnotu Podziemia, gdy ten bohater użyje umiejętności specjalnej.
 Klejnot Podziemia zadaje {FIXEDPOWER} pkt. obrażeń losowemu przeciwnikowi w każdej turze, dopóki nie zostanie dopasowany.
 Klejnot Podziemia może pojawić się tylko na zwykłych tarczach, które odpowiadają żywiołowi bohatera."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Zyskujesz {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}% many, gdy forma ducha na tej postaci wygaśnie."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Postać zyskuje {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% many, gdy odnosi obrażenia od umiejętności specjalne. Efekt ten może się aktywować raz na turę."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
@@ -14,13 +21,15 @@ Klejnot Podziemia może pojawić się tylko na zwykłych tarczach, które odpowi
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Wszyscy sojusznicy zyskują {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% kumulacji ataku za każdym razem, gdy ta postać spróbuje ograbić wroga. (maks.: {MAXSTACK})"
-"familybonuses.description.long.build_charge_beauty_beast","Każdy bohater ma swoje własne wymagania dotyczące pokory.
+"familybonuses.description.long.build_charge_beauty_beast","Różni bohaterowie mają różne wymagania pokory.
+Kiedy bohater rzuci mocną wersję swojej umiejętności specjalnej, zużywa tylko wymaganą ilość pokory.
+Maksymalnie 100 pkt. pokory.
+Premia dla 1/2/3 unikalnych bohaterów tej samej rodziny:
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Każdy bohater ma swoje własne wymagania dotyczące pokory.
 Gdy bohater użyje silnej wersji umiejętności specjalnej, zużyta zostanie tylko wymagana ilość pokory.
 Maksymalna pokora: 100.
 Premia za unikalnych bohaterów w liczbie: 1/2/3 z tej samej rodziny:
-Bohater zyskuje {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} pokory, gdy odnosi bezpośrednie obrażenia od umiejętności specjalnych.
-Bohater zyskuje {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} pokory gdy otrzymuje bezpośrednie leżenie od umiejętności specjalnych."
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Każdy bohater ma swoje własne wymagania dotyczące pokory.
 Bohater zyskuje {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} pokory, gdy odnosi bezpośrednie obrażenia od umiejętności specjalnych. Efekt może wystąpić maksymalnie raz na turę.
 Bohater zyskuje {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} pokory gdy otrzymuje bezpośrednie leżenie od umiejętności specjalnych. Efekt może wystąpić maksymalnie raz na turę."
 "familybonuses.description.long.build_charge_construct","Rdzeń konstruktu zostanie naładowany za każdym razem, gdy ta postać otrzyma obrażenia od ataków zwykłych lub umiejętności specjalnych."
@@ -31,7 +40,7 @@ Bohater zyskuje {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGE
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Gdy na tego bohatera zostanie rzucona dolegliwość ze statusu wpływająca na obronę, szansa na rzucenie tej dolegliwości na wszystkich wrogów wynosi {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% szans na wydłużenie czasu trwania każdego z efektów ze statusu tańca fortuny rzuconych przez tą postać o 1 turę."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% dodatkowych obrażeń od umiejętności specjalnej."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% szans na oczyszczenie wszystkich dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% szansy na oczyszczenie wszystkich sojuszników z 1 dolegliwości ze statusu po otrzymaniu obrażeń od umiejętności specjalnej."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% szans na oczyszczenie losowej oczyszczalnej dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% szans na usunięcie losowej oczyszczalnej dolegliwości ze statusu u wszystkich sojuszników, gdy ten bohater odniesie obrażenia od umiejętności specjalnej wroga. Ten efekt może się aktywować tylko raz na turę."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% szansy kontrataku i zadania {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%  otrzymanych obrażeń."
@@ -88,6 +97,7 @@ Min.: {MINSTAT}% i maks.: {MAXSTAT}% oryginalnej wartości."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% zdrowia."
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% zdrowia."
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% zdrowia."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Wszyscy sojusznicy otrzymują +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} pkt. regeneracji zdrowia za każdym razem, gdy ta postać spróbuje zahipnotyzować wroga. (maks. liczba kumulacji: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% więcej obrażeń zadawanych mega pomocnikom."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}% więcej obrażeń zadawanych pomocnikom."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% więcej obrażeń zadawanych pomocnikom."
@@ -135,6 +145,7 @@ Jeśli umiejętność specjalna przeciwnika pokona tę postać, szansa wynosi {1
 Bohater otrzymuje premię rodzinną, gdy jest w drużynie z co najmniej 1 spokrewnionym bohaterem. Premia za 1/2/3/4/5 bohaterów:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Bohater jest spokrewniony z magiczną rodziną.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Zadaje {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} pkt. obrażeń od wody przez okres {STATUSEFFECT1TURNS} tur na wrogu, który zada tej postaci obrażenia od umiejętności specjalnej."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Mega pomocnicy, pomocnicy, mega potwory i potwory wzywane przez sojuszników otrzymują {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% ataku w zależności od liczby śluzowych bohaterów w drużynie."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% mocy umiejętności specjalnej."
 "familybonuses.description.long.start_battle_with_fox_minion","Na początku walki wzywa {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} pomocników szczwanych lisów z {FAMILIARHEALTHPERCENT}% zdrowia i {FAMILIARATTACK}% ataku przejętymi od bohatera.
@@ -156,6 +167,7 @@ Dodatkowa umiejętność z 3 członkami rodziny: po wezwaniu zamaskowany pomocni
 "familybonuses.description.members","(Członkowie rodziny: {0})"
 "familybonuses.description.members.realm","(Członkowie królestwa: {0})"
 "familybonuses.description.short.abyss","{CHANCE}% szans na pojawienie się klejnotu Podziemia, gdy użyje się umiejętności specjalnej. Klejnot Podziemia zadaje {FIXEDPOWER} pkt. obrażeń losowemu przeciwnikowi w każdej turze."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Zyskujesz {MULTIPLIERPERCENT}% many, gdy forma ducha na tej postaci wygaśnie."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Ta postać otrzymuje {MULTIPLIERPERCENT}% many, gdy odniesie obrażenia od umiejętności specjalnej."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}% ataku"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}% ataku"
@@ -172,8 +184,7 @@ Dodatkowa umiejętność z 3 członkami rodziny: po wezwaniu zamaskowany pomocni
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Na początku każdej tury oznacza krwawą lilią wroga, któremu pozostało najwięcej PŻ."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Na początku każdej tury oznacza krwawą lilią wroga, któremu pozostało najwięcej PŻ."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Nakłada na wszystkich sojuszników {ATTACK}% kumulacji ataki, jeśli ta postać spróbuje ograbić inną postać. (Mas.: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Ta postać zyskuje {CURRENTCHARGEFROMDAMAGE} pokory, gdy odnosi bezpośrednie obrażenia od umiejętności specjalnych.
-Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie leczenie od umiejętności specjalnych."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Ta postać zyskuje {CURRENTCHARGEFROMDAMAGE} pokory, gdy odnosi bezpośrednie obrażenia od umiejętności specjalnych. Efekt może wystąpić maksymalnie raz na turę.
 Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie leczenie od umiejętności specjalnych. Efekt może wystąpić maksymalnie raz na turę."
 "familybonuses.description.short.build_charge_construct","Postać ładuje swój rdzeń konstruktu po otrzymaniu obrażeń od zwykłych ataków i umiejętności specjalnych."
@@ -184,7 +195,7 @@ Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie l
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Gdy ten bohater odnosi dolegliwości ze statusu wpływające na obronę, szansa na rzucenie tej dolegliwości na wszystkich wrogów wynosi {CHANCE}%."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% szans na wydłużenie czasu trwania rzuconych efektów ze statusu tańca fortuny o 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% dodatkowych obrażeń od umiejętności specjalnej."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% szans na oczyszczenie wszystkich oczyszczalnych dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% szansy na oczyszczenie wszystkich sojuszników z 1 dolegliwości ze statrusu po otrzymaniu obrażeń od umiejętności specjalnej"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% szans na oczyszczenie losowej oczyszczalnej dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Gdy przeciwnik zadaje tej postaci obrażenia od umiejętności specjalnej, istnieje {CHANCE}% szans na to, że postać usunie losową oczyszczalną dolegliwość ze statusu u wszystkich sojuszników. Ten efekt może się aktywować tylko raz na turę."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% szansy kontrataku i zadania {MULTIPLIERPERCENT}% otrzymanych obrażeń"
@@ -232,6 +243,7 @@ Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie l
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}% zdrowia"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}% zdrowia"
 "familybonuses.description.short.health_stack","{CHANCE}% szans na kumulację leczenia +1: +{BASESTACKCOUNT} pkt. zdrowia na koniec każdej tury"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Wszyscy sojusznicy otrzymują +{HEAL} pkt. regeneracji zdrowia za każdym razem, gdy ta postać spróbuje zahipnotyzować wroga."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE}% więcej obrażeń zadawanych mega pomocnikom."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE}% więcej obrażeń zadawanych pomocnikom."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE}% więcej obrażeń zadawanych pomocnikom."
@@ -278,6 +290,7 @@ Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie l
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}% szans na odporność na wyssanie many i dolegliwości ze statusu wpływające na manę oraz otrzymanie {POWER}% przy odparciu."
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}% szans na odporność na wyssanie many i dolegliwości ze statusu wpływające na manę oraz otrzymanie {POWER}% przy odparciu."
 "familybonuses.description.short.share_effects_from_atlantis","Bohater jest spokrewniony z rodziną Atlantydy. Bohater otrzymuje premię rodzinną, gdy jest w drużynie z co najmniej 1 spokrewnionym bohaterem:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Gdy przeciwnik zadaje tej postaci obrażenia od umiejętności specjalnej, otrzymuje {DAMAGE} pkt. obrażeń od wody przez okres {STATUSEFFECT1TURNS} tur."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Mega pomocnicy, pomocnicy, mega potwory i potwory otrzymują {MULTIPLIERPERCENTCHANGE}% ataku."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Premia Księżycowego roku szczura: {MULTIPLIERPERCENTCHANGE}% mocy umiejętności specjalnej"
 "familybonuses.description.short.start_battle_with_fox_minion","Wzywa dla siebie {FAMILIARAMOUNT} pomocnika szczwanego lisa na początku bitwy. Pomocnik szczwany lis ma 80% szans na uniknięcie ataków. Po udanym uniku kradnie ostatnie odwoływalne wzmocnienie z atakującego i daje je swojemu właścicielowi."
@@ -334,7 +347,8 @@ Ten bohater ma następujące korzyści w tym wydarzeniu:"
 "herocard.family.description.eventherobonus.alliancequestcastle","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Starcie Rycerzy."
 "herocard.family.description.eventherobonus.alliancequestmoths","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Noc ćmy."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu piękni i odważni."
-"herocard.family.description.eventherobonus.beachparty","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Impreza na plaży."
+"herocard.family.description.eventherobonus.beachparty","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Impreza w Słonecznej Zatoce."
+"herocard.family.description.eventherobonus.beachparty2026","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Impreza w Słonecznej Zatoce."
 "herocard.family.description.eventherobonus.christmas","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Wyzwanie św. Mikołaja."
 "herocard.family.description.eventherobonus.easter","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Festiwal Doliny Wiosny."
 "herocard.family.description.eventherobonus.halloween","Członkowie tej rodziny mają dodatkowe korzyści w wydarzeniu Halloween."
@@ -416,6 +430,8 @@ Rodzina księżycowego roku obejmuje różnych bohaterów, będąćych zwierzęt
 "herocard.family.title.cultist.short","Kultysta"
 "herocard.family.title.cupid","Rodzina kupidynów"
 "herocard.family.title.cupid.short","Kupidyny"
+"herocard.family.title.dryad","Driady rodziny starożytnego rozkwitu"
+"herocard.family.title.dryad.short","Driady"
 "herocard.family.title.easter","Rodzina z Doliny Wiosny"
 "herocard.family.title.easter.short","Dolina Wiosny"
 "herocard.family.title.fable","Rodzina z Ciemnolasu"
@@ -437,6 +453,8 @@ Rodzina księżycowego roku obejmuje różnych bohaterów, będąćych zwierzęt
 "herocard.family.title.gargoyle.short","Gargulec"
 "herocard.family.title.garrison","Rodzina straży garnizonu"
 "herocard.family.title.garrison.short","Straż garnizonu"
+"herocard.family.title.ghost","Rodzina duchów Yang Jian"
+"herocard.family.title.ghost.short","Duchy Yang Jian"
 "herocard.family.title.goblin","Rodzina goblinów"
 "herocard.family.title.goblin.short","Goblin"
 "herocard.family.title.guardian","Rodzina strażników"
@@ -524,6 +542,8 @@ Rodzina księżycowego roku obejmuje różnych bohaterów, będąćych zwierzęt
 "herocard.family.title.sand.short","Piaskowe Imperium"
 "herocard.family.title.shady_scoundrels","Rodzina szemranych łajdaków"
 "herocard.family.title.shady_scoundrels.short","Szemrani łajdacy"
+"herocard.family.title.shark","Rodzina rekinów ze Słonecznej Zatoki"
+"herocard.family.title.shark.short","Rekin ze Słonecznej Zatoki"
 "herocard.family.title.slayers","Rodzina Pogromców"
 "herocard.family.title.slayers.short","Pogromca"
 "herocard.family.title.slime","Rodzina śluzowych"

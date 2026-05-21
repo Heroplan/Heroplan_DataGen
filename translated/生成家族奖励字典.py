@@ -163,16 +163,19 @@ def check_untouched_family_bonus(logger, original_data, translated_data, lang_na
             trans_text = trans_bonus_list[i] if i < len(trans_bonus_list) else None
             
             # 移除首尾空白后进行严格比对
-            if eng_text and trans_text and eng_text.strip() == trans_text.strip():
-                # 记录此条目
-                family_name = next((item.get('family', 'N/A') for item in translated_data if item['originalIndex'] == index), 'N/A')
-                untouched_entries.append({
-                    'originalIndex': index,
-                    'family': family_name,
-                    'bonus_index': i,
-                    'english': eng_text.strip(),
-                    'translation': trans_text.strip()
-                })
+            # 仅当英文原文非空且长度大于5时才进行比较
+            if eng_text and trans_text:
+                eng_stripped = eng_text.strip()
+                trans_stripped = trans_text.strip()
+                if len(eng_stripped) > 5 and eng_stripped == trans_stripped:
+                    # 找到疑似漏翻译的条目
+                    hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
+                    untouched_entries.append({
+                        'heroId': hero_id,
+                        'name': hero_name,
+                        'english': eng_stripped,
+                        'translation': trans_stripped
+                    })
     
     # 生成报告
     if untouched_entries:

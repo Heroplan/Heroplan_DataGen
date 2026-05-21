@@ -65,7 +65,7 @@ window.families_bonus = [
         "name": "mahayoddha",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            "At the end of each turn heroes in the Mahayoddha family gain Growth 100 / 110 / 120 attack and 100 / 110 / 120 defense.",
+            "At the end of each turn heroes in the Mahayoddha family gain Growth 75 / 85 / 100 attack and 75 / 85 / 100 defense.",
             "Limits for modified Ability Scores:",
             " * Min 30% and max 170% of their original values."
         ]
@@ -76,7 +76,8 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 2 / 3 Heroes:",
             "Fiends and Mega Fiends summoned by this character get +5% / +10% attack.",
-            "Fiends and Mega Fiends summoned by this character get +2% / +3% health."
+            "Fiends and Mega Fiends summoned by this character get +2% / +3% health.",
+            "The members of this family have additional perks in the Vigilant Vegetable event."
         ]
     },
     {
@@ -145,7 +146,7 @@ window.families_bonus = [
         "name": "shadyscoundrel",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            " * All allies get +10%/+12%/+13% attack stack each time this character attempts to Ransack an enemy. (Max stack: 10)"
+            " * All allies get +4%/+5%/+6% attack stack each time this character attempts to Ransack an enemy. (Max stack: 10)"
         ]
     },
     {
@@ -599,7 +600,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             "50%/75%/100% chance to give Cover to a random ally for 3 turns when this character casts their Special Skill.",
-            "While in Cover, the ally takes no damage from Special Skill attacks or normal attacks. This character takes 60% / 50% / 40% of the damage that would by received by the character in Cover.",
+            "While in Cover, the ally takes no damage from Special Skill attacks or normal attacks. This character takes 60% / 50% / 40% of the damage that would be received by the character in Cover.",
             "This effect can’t be dispelled, but ends when this character is defeated. Characters can only give cover to one ally at a time.",
             "The members of this family have additional perks in The Brave & The Beautiful event."
         ]
@@ -727,7 +728,6 @@ window.families_bonus = [
         "name": "slayers",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            " * 50%/75%/100% chance to receive the following stacks at the end of each turn:",
             " * Stack (Max: 10): The caster recovers 15 HP each turn.",
             " * Stack (Max: 10): The caster gets +6% mana generation.",
             "The members of this family have additional perks in the Challenge Festival events."

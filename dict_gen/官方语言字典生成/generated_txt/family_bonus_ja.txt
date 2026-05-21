@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","この英雄は、特殊スキルによって直接ダメージを受けると{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}の謙虚さを獲得する。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","このキャラクターは特殊スキルによる直接ダメージを受けると謙虚さを{CURRENTCHARGEFROMDAMAGE}つ獲得する。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","この英雄は、特殊スキルによって直接回復を受けると{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}の謙虚さを獲得する。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","このキャラクターは特殊スキルで直接回復されると謙虚さを{CURRENTCHARGEFROMHEAL}つ獲得する。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","この英雄は、各ターン終了時に{1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND}の謙虚さを獲得する。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","このキャラクターは各ターン終了時に謙虚さを{CURRENTCHARGEONTURNEND}つ獲得する。"
 "familybonuses.description.long.abyss","この英雄が特殊スキルを使用すると、{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}%の確率で、アンダーワイルドジェムをボード上に出現させる。
 アンダーワイルドジェムは、マッチするまで、ターン毎にランダムな敵に{FIXEDPOWER}ダメージを与える。
 アンダーワイルドジェムは、この英雄と同じ属性の通常の盾をマッチさせた場合にしか出現しない。"
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","このキャラクターのゴースト形態が失効すると、{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%のマナを獲得する。"
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","このキャラクターは特殊スキルによるダメージを受けると、マナが{1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}%回復する。この効果は1ターンにつき1度しか発動できない。"
 "familybonuses.description.long.attack_multiplier","攻撃力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.attack_multiplier_champion","攻撃力が{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
@@ -15,12 +22,12 @@
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","攻撃力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","このキャラクターが敵に強奪を行うたびに、味方全員が{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%の攻撃力累積効果を得る（最大累積：{MAXSTACK}）。"
 "familybonuses.description.long.build_charge_beauty_beast","英雄ごとに謙虚さの要件は異なる。
-英雄が強力な特殊スキルを使用する場合、要件となる量の謙虚さが消費される。
+英雄がより強力な特殊スキルを使用する場合、要件となる量の謙虚さが消費される。
 謙虚さ最大量：100
 同じファミリーに属する英雄1/2/3体に対するボーナス：
-特殊スキルによって直接ダメージを受けると、英雄が{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}の謙虚さを獲得する。
-特殊スキルによって直接回復されると、英雄が{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}の謙虚さを獲得する。"
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","英雄ごとに謙虚さの要件は異なる。
+英雄が強力な特殊スキルを使用する場合、要件となる量の謙虚さが消費される。
 特殊スキルによって直接ダメージを受けると、英雄が{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}の謙虚さを獲得する。1ターンにつき1回まで。
 特殊スキルによって直接回復されると、英雄が{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}の謙虚さを獲得する。1ターンにつき1回まで。"
 "familybonuses.description.long.build_charge_construct","蓄積コアは、このキャラクターが通常攻撃または特殊スキルによるダメージを受けるたびにチャージされる。"
@@ -31,7 +38,7 @@
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","この英雄が防御力に影響するステータス異常を受けた場合、{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、与えられたステータス異常を敵全員に適用する。"
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、このキャラクターが使用した幸運のダンスによるステータス効果の持続時間が1ターン分延長される。"
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%の追加特殊スキルダメージ。"
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{1MEMBERCHANCE}/{2MEMBERSCHANCE}%の確率で、このキャラクターに付与されたすべてのステータス異常を浄化する。"
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{1MEMBERCHANCE}/{2MEMBERSCHANCE}%の確率で、味方全員に付与されたステータス異常1つを浄化する。"
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{1MEMBERCHANCE}/{2MEMBERSCHANCE}%の確率で、このキャラクターに付与されたいずれかの浄化可能なステータス異常を1つ浄化する。"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","このキャラクターが敵の特殊スキルでダメージを受けると、{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%の確率で仲間全員から、それぞれに付与されたいずれかの浄化可能なステータス異常が浄化される。この効果は1ターンに1回のみ発動する。"
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、受けたダメージの{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%で反撃する。"
@@ -89,6 +96,7 @@
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","ライフが{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","ライフが{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる"
 "familybonuses.description.long.health_multiplier_jungle_hunters","回復量が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","このキャラクターが敵の魅了を試みるごとに、仲間全員が+{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL}のライフ回復累積を獲得する。（最大累積：{STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","メガミニオンに対して与えるダメージがさらに{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%増える。"
 "familybonuses.description.long.increased_damage_against_minions_2_members","ミニオンに対して与えるダメージがさらに{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%増える。"
 "familybonuses.description.long.increased_damage_against_minions_3_members","ミニオンに対して与えるダメージがさらに{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%増える。"
@@ -138,6 +146,7 @@
 "familybonuses.description.long.share_effects_from_atlantis","この英雄はアトランティスファミリーの英雄と関連している。チームに少なくとも1人の関連する英雄がいる場合、この英雄は以下のファミリーボーナスを獲得する。英雄数が1/2/3/4/5人の場合に付与されるボーナス：
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","この英雄は魔法ファミリーの英雄と関連している。チームに少なくとも1人の関連する英雄がいる場合、この英雄は以下のファミリーボーナスを獲得する。英雄数が1/2/3/4/5人の場合に付与されるボーナス：
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","このキャラクターに特殊スキルダメージを与えた敵に、{STATUSEFFECT1TURNS}持続する{FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE}の水ダメージを与える。"
 "familybonuses.description.long.slime_familiar_attack_multiplier","仲間がサモンしたメガミニオン、ミニオン、メガフィエンド、フィエンドが、チーム内にいるスライムファミリーの英雄の数に応じて {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}%の攻撃力を得る。"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","特殊スキルの威力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.start_battle_with_fox_minion","戦闘開始時に、自身のもとに自分のライフの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を受け継ぐスライフォックスのミニオンを{FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT}体サモンする。
@@ -160,6 +169,7 @@
 "familybonuses.description.members","(ファミリーメンバー: {0})"
 "familybonuses.description.members.realm","(領域メンバー: {0})"
 "familybonuses.description.short.abyss","特殊スキルを使用すると、{CHANCE}%の確率でアンダーワイルドジェムが出現する。アンダーワイルドジェムは、ターン毎に、ランダムな敵に{FIXEDPOWER}ダメージを与える。"
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","このキャラクターのゴースト形態が失効すると、{MULTIPLIERPERCENT}%のマナを獲得する。"
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","このキャラクターは特殊スキルによるダメージを受けると、マナを{MULTIPLIERPERCENT}%回復する。"
 "familybonuses.description.short.attack_multiplier","攻撃力が{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.attack_multiplier_champion","攻撃力が{MULTIPLIERPERCENTCHANGE}%になる。"
@@ -176,8 +186,7 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","各ターン開始時に、残りHPが最も高い敵に血の百合のしるしを刻む。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","各ターン開始時に、残りHPが最も高い敵に血の百合のしるしを刻む。"
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","このキャラクターが他のキャラクターに強奪を行うと、仲間全員に{ATTACK}%の攻撃力累積効果を付与する（累積最大：{MAXSTACK}）。"
-"familybonuses.description.short.build_charge_beauty_beast","特殊スキルによって直接ダメージを受けると、このキャラクターは{CURRENTCHARGEFROMDAMAGE}つ謙虚さを獲得する。
-特殊スキルによって直接回復を受けると、このキャラクターは{CURRENTCHARGEFROMHEAL}つ謙虚さを獲得する。"
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","特殊スキルによって直接ダメージを受けると、このキャラクターは{CURRENTCHARGEFROMDAMAGE}つ謙虚さを獲得する。1ターンに1回まで。
 特殊スキルによって直接回復を受けると、このキャラクターは{CURRENTCHARGEFROMHEAL}つ謙虚さを獲得する。1ターンに1回まで。"
 "familybonuses.description.short.build_charge_construct","このキャラクターの蓄積コアは、通常攻撃または特殊スキルによるダメージを受けた場合にチャージされる。"
@@ -188,7 +197,7 @@
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","この英雄が防御力に影響するステータス異常を受けた場合、{CHANCE}%の確率で、与えられたステータス異常を敵全員に適用する"
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}%の確率で、幸運のダンスによるステータス効果の持続時間が1ターン分延長される。"
 "familybonuses.description.short.champions_special_damage_power_modifier","特殊スキルのダメージが+{MULTIPLIERPERCENT}%増加。"
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{CHANCE}%の確率で、このキャラクターに付与された浄化可能なステータス異常をすべて浄化する。"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると、{CHANCE}%の確率で、味方全員に付与された浄化可能なステータス異常1つを浄化する。"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{CHANCE}%の確率で、このキャラクターに付与されたいずれかの浄化可能なステータス異常を1つ浄化する。"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","敵がこのキャラクターに特殊スキルによるダメージを与えた場合、{CHANCE}%の確率で、このキャラクターが仲間全員から浄化可能なステータス異常をランダムに1つ浄化する。この効果は1ターンに1回のみ発動する。"
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}%の確率で、受けたダメージの{MULTIPLIERPERCENT}%で反撃する。"
@@ -236,6 +245,7 @@
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","ライフが{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.health_multiplier_jungle_hunters","回復量が{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.health_stack","ターンの終わりに{CHANCE}% の確率で回復の累積効果 +1: +{BASESTACKCOUNT}の回復量"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","このキャラクターが敵の魅了を試みるごとに、仲間全員が+{HEAL}のライフ回復累積を獲得する。"
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","メガミニオンに対して与えるダメージがさらに{MULTIPLIERPERCENTCHANGE}%増える。"
 "familybonuses.description.short.increased_damage_against_minions_2_members","ミニオンに対して与えるダメージがさらに{MULTIPLIERPERCENTCHANGE}%増える。"
 "familybonuses.description.short.increased_damage_against_minions_3_members","ミニオンに対して与えるダメージがさらに{MULTIPLIERPERCENTCHANGE}%増える。"
@@ -282,6 +292,7 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}%の確率でマナ低下とマナステータス異常を阻止する。阻止に成功すると、{POWER}%のマナを得る"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}%の確率でマナ低下とマナステータス異常を阻止する。阻止に成功すると、{POWER}%のマナを得る"
 "familybonuses.description.short.share_effects_from_atlantis","この英雄はアトランティスファミリーの英雄と関連している。チームに少なくとも1人の関連する英雄がいる場合、この英雄は以下のファミリーボーナスを獲得する：
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","このキャラクターに特殊スキルダメージを与えた敵に、{STATUSEFFECT1TURNS}持続する{DAMAGE}の水ダメージを与える。"
 "familybonuses.description.short.slime_familiar_attack_multiplier","メガミニオン、ミニオン、メガフィエンド、フィエンドが{MULTIPLIERPERCENTCHANGE}%の攻撃力を得る。"
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","旧正月の鼠年ボーナス：特殊スキルの威力が{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.start_battle_with_fox_minion","戦闘開始時にスライフォックスのミニオンを{FAMILIARAMOUNT}体サモンする。スライフォックスのミニオンは80%の確率で敵の攻撃を回避する。回避に成功すると、攻撃者に直近に付与された解除可能なバフを奪い、所有者に付与する。"
@@ -344,7 +355,8 @@
 蛾の夜イベントで
 "herocard.family.description.eventherobonus.alliancequestmusketeers","ファミリーメンバーは、
 ブレイブ&ビューティフルイベントで
-"herocard.family.description.eventherobonus.beachparty","ファミリーメンバーは、ビーチパーティーイベントで追加の特典を獲得できる。"
+"herocard.family.description.eventherobonus.beachparty","このファミリーメンバーは、サンベイパーティーイベントで追加の特典を獲得できる。"
+"herocard.family.description.eventherobonus.beachparty2026","このファミリーメンバーは、サンベイパーティーイベントで追加の特典を獲得できる。"
 "herocard.family.description.eventherobonus.christmas","ファミリーメンバーは、サンタの挑戦イベントで追加の特典を獲得できる。"
 "herocard.family.description.eventherobonus.easter","ファミリーメンバーは、スプリングヴェイルの祝祭イベントで追加の特典を獲得できる。"
 "herocard.family.description.eventherobonus.halloween","ファミリーメンバーは、ハロウィーンイベントで追加の特典を獲得できる。"
@@ -430,6 +442,8 @@
 "herocard.family.title.cultist.short","カルト信者"
 "herocard.family.title.cupid","キューピッドファミリー"
 "herocard.family.title.cupid.short","キューピッド"
+"herocard.family.title.dryad","古代の花ファミリーのドライアド"
+"herocard.family.title.dryad.short","ドライアド"
 "herocard.family.title.easter","スプリングヴェイルファミリー"
 "herocard.family.title.easter.short","スプリングヴェイル"
 "herocard.family.title.fable","グリムの森ファミリー"
@@ -451,6 +465,8 @@
 "herocard.family.title.gargoyle.short","ガーゴイル"
 "herocard.family.title.garrison","守備隊衛兵のファミリー"
 "herocard.family.title.garrison.short","守備隊衛兵"
+"herocard.family.title.ghost","楊二郎の霊ファミリー"
+"herocard.family.title.ghost.short","楊二郎の霊"
 "herocard.family.title.goblin","ゴブリンファミリー"
 "herocard.family.title.goblin.short","ゴブリン"
 "herocard.family.title.guardian","ガーディアンファミリー"
@@ -530,7 +546,7 @@
 "herocard.family.title.raven","鴉ファミリー"
 "herocard.family.title.raven.short","鴉"
 "herocard.family.title.raven_pve.short","鴉"
-"herocard.family.title.rodent","冒険好きなげっ歯類一家"
+"herocard.family.title.rodent","冒険好きなげっ歯類ファミリー"
 "herocard.family.title.rodent.short","冒険好きなげっ歯類"
 "herocard.family.title.ronin","浪人ファミリー"
 "herocard.family.title.ronin.short","浪人"
@@ -538,6 +554,8 @@
 "herocard.family.title.sand.short","砂の国"
 "herocard.family.title.shady_scoundrels","怪しい悪党ファミリー"
 "herocard.family.title.shady_scoundrels.short","怪しい悪党"
+"herocard.family.title.shark","サンベイシャークファミリー"
+"herocard.family.title.shark.short","サンベイシャーク"
 "herocard.family.title.slayers","スレイヤーファミリー"
 "herocard.family.title.slayers.short","スレイヤー"
 "herocard.family.title.slime","スライムファミリー"

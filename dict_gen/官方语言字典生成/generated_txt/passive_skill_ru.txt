@@ -6,14 +6,14 @@
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Весь урон, нанесенный этим героем, обходит прислужников и мегаприслужников."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Вероятность увеличить длительность используемых эффектов статуса."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} х.: {1} %"
-"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Если у этого персонажа есть заряд ""Динамики полета"", он получает следующие усиления:
-Генерация маны увеличивается вплоть до {MAXMANAGENERATIONMODIFIER} %.
-Дополнительный шанс уклонения увеличивается вплоть до {MAXDODGEMODIFIER} %. 
-Эффекты уменьшаются вместе с уменьшением заряда ""Динамики полета""."
-"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","""Динамика полета"" {CHARGE} %
-В настоящее время у этого персонажа:
-{MANAGENERATIONMODIFIER} % к восстановлению маны.
-{DODGEMODIFIER} % к шансу уклониться."
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Если у героя есть любое количество динамики полета, он получает:
+до {MAXMANAGENERATIONMODIFIER} % доп. генерации маны.
+до {MAXDODGEMODIFIER} % доп. шанса уклонения. 
+Эффект тем слабее, чем меньше у героя динамики полета."
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","Динамика полета {CHARGE} %
+Сейчас у персонажа:
+{MANAGENERATIONMODIFIER} % доп. генерации маны.
+{DODGEMODIFIER} % доп. шанса уклонения."
 "herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Получает {POWER} % маны в начале каждого хода, если у любого союзника на поле есть активный эффект увядания."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Каждые {TURNS} х. оживляет всех павших союзников, давая {POWER} % ОЗ."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Каждые {TURNS} х. оживляет павших союзников поблизости, давая {POWER} % ОЗ."
@@ -26,8 +26,11 @@
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Наносит {DAMAGEPERTURN} урона всем вражеским прислужникам и мегаприслужникам в начале каждого хода."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Наносит {DAMAGEPERTURN} урона всем вражеским прислужникам и мегаприслужникам в начале каждого хода."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Весь урон от обычных атак и особых навыков, нанесенный этим героем, увеличивается на {DAMAGEINCREASEPERSTEP} % за {INSANITYPERSTEP} безумия на герое, вплоть до {MAXDAMAGEINCREASE} %."
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Когда связанный герой получает урон от особого навыка, снимаемое усиление с наименьшим остатком времени снимается, снижая получаемый урон на {DAMAGEREDUCTION} %. Если у связанного героя {INCREASEDDAMAGEREDUCTIONTHRESHOLD} % здоровья или меньше, урон снижается на {INCREASEDDAMAGEREDUCTION} %."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Весь урон от обычных атак и особых навыков, нанесенный этим героем, увеличивается на {MODIFIER} % за каждую кровавую лилию, наложенную на цель."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Если какие-либо союзники танцуют, особый навык этого персонажа наносит на {MODIFIERCHANGE} % больше урона."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","Особые навыки, мегаприслужники и прислужники героя наносят больше урона врагам с любым недугом, наносящим водный урон.
+{MODIFIERS}"
 "herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Отряд наносит дополнительный урон против более слабой стихии.
 
 Дополнительный урон стихией: +{MODIFIER} %"
@@ -63,9 +66,18 @@
 "herocard.passive_skill.description.effectonheal.addmana","Этот герой получает {POWER} % маны каждый раз, когда его здоровье восстанавливается."
 "herocard.passive_skill.description.effectonheal.heal","Этот герой получает {POWER} % здоровья каждый раз, когда его здоровье восстанавливается."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Этот герой получает {POWER} % здоровья каждый раз, когда его здоровье восстанавливается."
-"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Если этот персонаж побежден особым навыком, происходит следующее:
-Атакующий получает {DAMAGE} % урона.
-Атакующий получает {STATUSEFFECT1DAMAGE} ед. урона от кровотечения в течение {TURNS} х."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Когда персонаж терпит поражение от особого навыка, происходит следующее:
+Нападающий получает {DAMAGE} % урона.
+Нападающий получает {STATUSEFFECT1DAMAGE} урон от кровотечения в течение {TURNS} х."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.activates_always.multiple_effects","Когда этот герой теряет более {DAMAGETHRESHOLD} % от макс. здоровья за один раз, активируются следующие эффекты."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.bufftoremove.allstatuseffectsandstacks.from.single.allies.remove_growth.remove_wither","Герой применяет на себя полное снятие."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.chance_description","Этот пассивный навык с вероятностью {CHANCE} % активируется, когда герой теряет более {DAMAGETHRESHOLD} % максимального здоровья за раз:"
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.chance_description.decrease_chance_per_activation","Когда герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом, срабатывают следующие эффекты. Шанс срабатывания: {CHANCE} %, и он снижается на {CHANCEMODIFIERPERACTIVATION} % после каждого срабатывания."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_blue","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_green","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","При успешном сопротивлении этот герой увеличивает свое здоровье на {HEALTHBOOST} % и получает {MANA} % маны."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Герой получает {POWER} % маны каждый раз, когда враг использует особый навык, прямо увеличивающий здоровье."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Герой получает {POWER} увеличенного здоровья каждый раз, когда враг использует особый навык, прямо увеличивающий здоровье."
@@ -73,8 +85,7 @@
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Когда этот герой наносит критический удар своим особым навыком, он безопасно очищает последний очищаемый недуг со всех союзников."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Когда этот герой наносит критический удар своим особым навыком, он увеличивает здоровье всех союзников на {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Когда этот герой наносит критический удар своим особым навыком, он увеличивает здоровье всех союзников на {HEALTHBOOST} %"
-"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Когда союзник использует особый навык:
- Этот персонаж наносит {POWER} % урона, а также дает {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % защиты на {DIRECTEFFECT1STATUSEFFECT1TURNS} х. случайному врагу."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Когда любой союзник использует особый навык, этот персонаж наносит {POWER} % урона случайному врагу. Выбранный враг получает {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % защиты на {DIRECTEFFECT1STATUSEFFECT1TURNS} х."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Когда враг использует особый навык, у этого героя есть шанс {CHANCE} % увеличить свое здоровье на {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","При использовании особого навыка герой с вероятностью {CHANCE} % даст {POWER} % маны всем союзникам. Если особый навык полностью заряжен, вероятность {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","При использовании особого навыка герой с вероятностью {CHANCE} % даст {POWER} % маны всем союзникам, которые не относятся к стихии льда. Если особый навык полностью заряжен, вероятность {CHANCEFULLYCHARGED} %."
@@ -107,16 +118,21 @@
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Если для любого врага призван паразит, герой получает {POWER} % маны. Эффект активируется один раз за ход."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Если для любого врага призван паразит, герой наносит {DAMAGE} % урона всем врагам. Эффект активируется один раз за ход."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Если для любого врага призван паразит, герой получает {POWER} увеличенного здоровья. Эффект активируется один раз за ход."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Бонус связи отряда:
+ Особый навык связанного героя наносит критические удары, причиняющие на 50 % больше урона.
+ Вероятность критического удара увеличивается на {PASSIVESKILL2CRITICALMODIFIER} %."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE} % шанса выполнить дополнительные действия, когда персонаж использует особый навык:"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Все вражеские прислужники имеют {MINIONMODIFIER} % меткости.
 Все вражеские мегаприслужники имеют {MEGAMINIONMODIFIER} % меткости."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Структурное ядро этого героя — ядро прислужников.
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Структурное ядро этого героя — ядро прислужников.
 
 Ядро прислужников активируется каждый раз при использовании особого навыка героя:
 
  Полностью заряженное ядро прислужников призывает бота-убийцу с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки героя для всех союзников.
  ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.
- До того, как бот-убийца атакует цель, он уничтожает всех прислужников цели и наносит урон мегаприслужникам."
+ До того, как бот-убийца атакует цель, он уничтожает всех прислужников цели и наносит урон мегаприслужникам.
+Бот-убийца восстанавливает {FAMILIARHEAL} % здоровья своему владельцу в конце каждого хода.
+ Увядание: Каждый удар бота-убийцы меняет атаку цели на {ATTACKMODIFIER}."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Структурное ядро этого героя — ядро прислужников.
 
 Ядро прислужников активируется каждый раз при использовании особого навыка героя:
@@ -131,6 +147,7 @@
 "herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","Прислужники противника не могут атаковать или использовать способности."
 "herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","Персонаж набирает {POWER} % маны, когда враг получает урон морозом."
 "herocard.passive_skill.description.growth","Базовая атака и защита этого героя увеличиваются на {STATINCREASE} каждый ход в течение {MAXACTIVATIONCOUNT} ходов."
+"herocard.passive_skill.description.growthmodifieronspecial.from.all.enemies","Каждый раз, когда этот герой применяет свой особый навык, все вражеские эффекты роста ослабляются на {BASEATTACKMODIFIER} %."
 "herocard.passive_skill.description.guaranteedeffectonspecial","Когда этот герой использует особый навык, любой пассивный навык, дающий дополнительные эффекты при применении, непременно активируется."
 "herocard.passive_skill.description.heal.all.allies","Восстанавливает {HEALTH} % здоровья всех героев."
 "herocard.passive_skill.description.healmodifier","Все получаемое лечение увеличено на {HEALMULTIPLIER} %."
@@ -170,18 +187,23 @@
 "herocard.passive_skill.description.memorizestatuseffects#3","Персонаж обладает врожденной способностью запоминать недуги. Персонаж запомнит последние полученные недуги в количестве {0} до использования особого навыка. Можно запомнить только ограниченные по времени недуги."
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Каждый уникальный имитатор в вашем отряде дает шанс получить дополнительную добычу при завершении этапов. Этот имитатор дает шанс получить следующую дополнительную добычу:"
 "herocard.passive_skill.description.minioncorruption.all.enemies","В конце каждого хода у врагов с безумием есть шанс превратить своих прислужников в паразитов. По достижении {AUTOMATICTRANSFORMINSANITYTHRESHOLD} ед. безумия превращение происходит автоматически.
+
  Прислужник превратится в жуткого паразита: {FAMILIAR1FAMILIARATTACK} % атаки, {FAMILIAR1FAMILIARHEALTHPERCENT} % здоровья, налагает {FAMILIAR1INSANITYTOADD} ед. безумия каждый ход.
- Мегаприслужник превратится в жуткого мегапаразита: {FAMILIAR2FAMILIARATTACK} % атаки, {FAMILIAR2FAMILIARHEALTHPERCENT} % здоровья, налагает {FAMILIAR2INSANITYTOADD} безумия каждый ход."
+ Мегаприслужник превратится в жуткого мегапаразита: {FAMILIAR2FAMILIARATTACK} % атаки, {FAMILIAR2FAMILIARHEALTHPERCENT} % здоровья, налагает {FAMILIAR2INSANITYTOADD} ед. безумия каждый ход."
 "herocard.passive_skill.description.nevermissspecial","Особый навык этого героя всегда попадает в цель."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Бонус связи отряда:
+ Прямое исцеление от особых навыков связанного героя повышается на {PASSIVESKILL1HEALMULTIPLIER} %.
+ Когда связанный герой использует особый навык, все союзники получают иммунитет к максимальному сокращению здоровья на {PASSIVESKILL2TURNS} х."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Здоровье врагов не может превышать максимальное значение."
-"herocard.passive_skill.description.ransack","В начале каждого хода этот герой грабит случайного врага:
+"herocard.passive_skill.description.ransack","В начале каждого хода герой грабит случайного врага:
 
-Крадет {DAMAGE} здоровья.
-Безопасно крадет у врага усиление, эффект роста или складываемый положительный эффект. К ним относятся эффекты танцев и усиления, которые нельзя снять."
-"herocard.passive_skill.description.ransack.chance","В начале каждого хода у этого героя есть {CHANCE} % шанс ограбить случайного врага:Ограбление:
+Крадет {DAMAGE} ед. здоровья.
+Безопасно крадет усиление у врага. Сюда относятся стойкие нерассеиваемые усиления и эффекты танца."
+"herocard.passive_skill.description.ransack.chance","В начале каждого хода у этого героя есть {CHANCE} % шанс ограбить случайного врага:
 
-Крадет {DAMAGE} здоровья.
-Безопасно крадет у врага усиление, эффект роста или складываемый положительный эффект. К ним относятся эффекты танцев и усиления, которые нельзя снять.
+Ограбление:
+Крадет {DAMAGE} ед. здоровья.
+Безопасно крадет у врага усиление, один случайный эффект роста или положительный эффект. К ним относятся стойкие эффекты танцев и усиления, которые нельзя снять.
  При безопасном воровстве не срабатывают вторичные эффекты снимаемого усиления, например урон при снятии. Пассивные навыки и эффекты семьи все равно могут активироваться."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Когда герой использует особый навык, с вероятностью {CHANCE} % он может украсть последнее снимаемое усиление у врага (при наличии). Если у врагов нет усилений, наносит {DAMAGE} % урона всем врагам."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Когда герой использует особый навык, с вероятностью {CHANCE} % он может украсть последнее снимаемое усиление у врага (при наличии). Если у врагов нет усилений, наносит {DAMAGE} % урона всем врагам."
@@ -206,14 +228,22 @@
  При полностью заряженном восстановительном ядре здоровье всех союзников увеличивается на {CHARGEDPOWER1} %. 
  Лечение зависит от заряда ядра. Весь заряд истощается при активации ядра."
 "herocard.passive_skill.description.repeatspecial","{REPEATCHANCE} % шанса повторить особый навык героя {REPEATS} раз(а)."
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Бонус связи отряда:
+ Связанный герой получает {REPEATCHANCE} % шанса на то, что ему повезет! и он сможет использовать особый навык {REPEATS} р. подряд.
+ Если действует иной эффект везения!, вместо этого шанс повышается на {REPEATCHANCEMODIFIER} %."
 "herocard.passive_skill.description.resist.accuracymodifiers","Персонаж обладает иммунитетом к недугам, которые влияют на меткость. Не применяется к исходным эффектам статуса союзников."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Персонаж обладает иммунитетом к недугам и негативным складываемым эффектам статуса."
+"herocard.passive_skill.description.resist.alldebuffs.blue.alldebuffs","Персонаж обладает иммунитетом к недугам и негативным накапливаемым эффектам статуса, накладываемым героями льда."
 "herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","+{CHANCE} % шанса сопротивления всем недугам и снятию усилений."
+"herocard.passive_skill.description.resist.alldebuffs.green.alldebuffs","Персонаж обладает иммунитетом к недугам и негативным накапливаемым эффектам статуса, накладываемым героями природы."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE} % шанса сопротивления всем недугам, уменьшению маны и снятию усилений."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","+{CHANCE} % шанса сопротивления всем недугам, уменьшению маны, снятию усилений и безумию."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","+{CHANCE} % шанса сопротивления всем недугам, уменьшению маны и снятию усилений."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","+{CHANCE} % шанса сопротивления всем недугам, уменьшению маны и снятию усилений. Даёт {MANA} % маны при каждом успешном сопротивлени."
+"herocard.passive_skill.description.resist.alldebuffs.purple.alldebuffs","Персонаж обладает иммунитетом к недугам и негативным накапливаемым эффектам статуса, накладываемым героями тьмы."
+"herocard.passive_skill.description.resist.alldebuffs.red.alldebuffs","Персонаж обладает иммунитетом к недугам и негативным накапливаемым эффектам статуса, накладываемым героями огня."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","+{CHANCE} % шанса сопротивления всем недугам."
+"herocard.passive_skill.description.resist.alldebuffs.yellow.alldebuffs","Персонаж обладает иммунитетом к недугам и негативным накапливаемым эффектам статуса, накладываемым героями святыни."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Персонаж обладает иммунитетом к недугам, которые влияют на защиту. Также применяется к недугам, влияющим на защиту от стихий."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Персонаж обладает иммунитетом к недугам, накапливаемым эффектам и эффектам увядания, которые влияют на защиту."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","На этого персонажа не действуют эффекты, которые увеличивают или уменьшают защиту.
@@ -269,6 +299,7 @@
 "herocard.passive_skill.description.resist.manareduction","Персонаж обладает иммунитетом к уменьшению маны."
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","+{CHANCE} % шанса сопротивления уменьшению маны."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Герой обладает иммунитетом к уменьшению маны, а при успешном сопротивлении увеличивает свое здоровье на {HEALTHBOOST} и получает {MANA} % маны."
+"herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Этот герой неуязвим к кражам и ограблениям."
 "herocard.passive_skill.description.resist.maxhealthreduction","Персонаж обладает иммунитетом к снижению максимального здоровья."
 "herocard.passive_skill.description.resist.poison","Персонаж обладает иммунитетом к недугам, которые наносят урон от яда."
 "herocard.passive_skill.description.resist.poison.burn.bleed","Персонаж обладает иммунитетом к недугам, которые наносят урон от яда, ожога или кровотечения."
@@ -279,6 +310,7 @@
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Герой обладает иммунитетом к недугам, которые ограничивают использование особых навыков, а при успешном сопротивлении увеличивает свое здоровье на {HEALTHBOOST} и получает {MANA} % маны."
 "herocard.passive_skill.description.resist.stopmanageneration","Персонаж обладает иммунитетом к недугам, которые останавливают генерацию маны."
 "herocard.passive_skill.description.resist.water","Персонаж обладает иммунитетом к недугам, которые наносят урон от воды."
+"herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","Персонаж обладает иммунитетом к недугам, наносящим урон от воды и увеличивает свое здоровье на {HEALTHBOOST} и ману на {MANA} % при каждом сопротивлении."
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Персонаж обладает иммунитетом к недугам от прислужников."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Персонаж обладает иммунитетом к недугам, отнимающим прислужников."
 "herocard.passive_skill.description.resistnegativefamiliareffects.minion","Персонаж обладает иммунитетом к отрицательным эффектам и урону от прислужников."
@@ -290,32 +322,23 @@
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Все враги, кроме боссов, при оживлении получают {HEALTHMODIFIER} % здоровья."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","При поражении герой имеет шанс возродиться в виде хозяина жути. Шанс {CHANCEINCREASEPERSTEP} % за {INSANITYPERSTEP} ед. безумия у героя, до максимума {MAXCHANCEINCREASE} %. 
 
-Хозяин жути получает:
-{INHERITEDHEALTH} %  здоровья от героя. 
-{ATTACK} атаки.
-{DEFENSE} защиты.
-Особый навык:
-
-{ALTERNATIVEFORMSPECIALTITLE}
-{ALTERNATIVEFORMSPECIALDESCRIPTION}
-
 Если во время активации безумия герой уничтожает сам себя, то шанс становится равным {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","При поражении герой может возродиться в виде хозяина жути. Шанс {CHANCEINCREASEPERSTEP} % за {INSANITYPERSTEP} ед. безумия у героя, до максимума {MAXCHANCEINCREASE} %.
 
 Хозяин жути получает:
-{INHERITEDHEALTH} % здоровья от героя. 
-{ATTACK} атаки.
+{INHERITEDHEALTH} % здоровья от героя, максимум {MAXBASEHEALTH} ОЗ
+{ATTACK} атаки
 {DEFENSE} защиты.
 Следующий особый навык:
 
-{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALTITLE} ({ALTERNATIVEFORMMANASPEED})
 {ALTERNATIVEFORMSPECIALDESCRIPTION}"
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Когда этот герой повержен, с шансом {TOTALCHANCE} % в начале следующего хода он воскрешается с {HEALTH} % здоровья и {MANA} % маны. 
 
 Активируется до {MAXACTIVATIONCOUNT} р. При каждой следующей активации шанс воскрешения уменьшается. Невозможно предотвратить недугом или пассивным навыком."
-"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Когда этот герой повержен, с шансом {TOTALCHANCE} % в начале следующего хода он воскрешается с {HEALTH} % здоровья и {MANA} % маны. 
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.allowrevivedebuffs","Когда этот герой повержен, с шансом {TOTALCHANCE} % в начале следующего хода он воскрешается с {HEALTH} % здоровья и {MANA} % маны. 
 
-Активируется до {MAXACTIVATIONCOUNT} р. При каждой следующей активации шанс воскрешения уменьшается. Невозможно предотвратить недугом или пассивным навыком."
+Активируется до {MAXACTIVATIONCOUNT} р. При каждой следующей активации шанс воскрешения уменьшается."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Все баллады врагов длятся всего {TURNS} х."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Все танцы врагов длятся всего {TURNS} х."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION} % полученного героем урона делится со всеми другими союзниками."
@@ -344,12 +367,14 @@
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Длительность первых {MAXACTIVATIONCOUNT} усилений от особого навыка у этого персонажа увеличивается на {DURATIONMODIFIER} х."
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","Когда с этого героя снимается недуг, новая копия снятого недуга накладывается на случайного врага."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Каждый раз, когда эта горгулья использует особый навык, все союзники получают ""Мягкую кожу"". В следующие {MAXACTIVATIONS} р., когда они получают урон, он снижается на {DAMAGEREDUCTION} %. Они также получают иммунитет к любым недугам, уменьшению маны и безумию. Эффект нельзя снять."
-"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Каждый раз, когда эта горгулья использует особый навык, активируется ее ""Мягкая кожа"". В следующие {MAXACTIVATIONS} р., когда она получает урон, он снижается на {DAMAGEREDUCTION} %. Она также получает иммунитет к любым недугам, уменьшению маны и безумию. Эффект нельзя снять."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","Применив особый навык, герой получает камуфляж и в течение {TURNS} х. враг не может нацелить на него свои особые навыки. Эффект нельзя снять или перенести."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","При каждом применении особого навыка горгульи срабатывает эффект ""Мягкая кожа""."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","Каждый раз, когда эта горгулья использует особый навык, ее камнекожа твердеет. Следующие {MAXHITS} р., когда она получает урон, он снижается до 1. Эффект нельзя снять."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.random.enemies.damageonhitreceived","Когда герой использует свой особый навык, он помечает случайного врага охотничьей вспышкой на {TURNS} х.
  Цель, помеченная охотничьей вспышкой, получает дополнительно {FIXEDPOWER} урона при критическом ударе."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Когда этот персонаж использует свой особый навык, он получает {ATTACK} % атаки на {TURNS} х. Этот эффект может быть активен в дополнение к другим эффектам, влияющим на атаку."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Один раз за битву стихию этого героя можно изменить на стихию по вашему выбору на {TURNS} х. Стихию можно сменить, коснувшись героя, когда его мана заряжена не полностью."
+"herocard.passive_skill.description.stopchainstrikes","Особые навыки, образующие цепь или атакующие по нескольку раз, останавливаются на данном персонаже. Дружественные эффекты не останавливаются."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Призывает росток-паразит к случайному врагу каждый ход.
 Росток-паразит превращается в пророщенного паразита спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
 Пророщенный паразит превращается в цветок-мегапаразит спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
@@ -421,11 +446,6 @@
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Когда герой побежден, он призывает склизких мегаприслужников для союзников поблизости, у которых будет {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки побежденного героя."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Когда герой побежден, он призывает склизких мегаприслужников для союзников поблизости, у которых будет {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки побежденного героя."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Когда герой побежден, он призывает склизких мегаприслужников для союзников поблизости, у которых будет {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки побежденного героя."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Если герой теряет больше, чем {DAMAGETHRESHOLD} % макс. здоровья разом: призывает склизкого мегаприслужника для себя с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки."
 "herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","Каждый раз, когда персонаж получает ожог, он призывает для себя прислужника — лесного стража. Лесной страж получает {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки персонажа."
 "herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","Каждый раз, когда персонаж получает постепенный урон, он призывает для себя прислужника — карточного солдата. Карточный солдат получает {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки персонажа."
 "herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","Каждый раз, когда персонаж получает ослабление, влияющее на защиту, он призывает для себя прислужника — быка. Бык получает {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки персонажа."
@@ -454,7 +474,7 @@
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Недуги, влияющие на защиту, заменяются усилениями защиты ({DEFENSE} %) на {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Уменьшенное лечение заменяется на {HEALING} % увеличенного лечения на {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Недуги, влияющие на ману, заменяются на генерацию маны ({MANAREGEN} %) на {TURNS} х."
-"herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Недуги, увеличивающие входящий урон, заменяются на {DAMAGEREDUCTION} % уменьшения урона на {TURNS} х."
+"herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Недуги, увеличивающие входящий урон, заменяются на {DAMAGEREDUCTION} % уменьшения полученного урона на {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Недуги, отражающие усиления, заменяются на невосприимчивость к этим недугам на {TURNS} х."
 "herocard.passive_skill.replace_direct_effect.attackwither","Увядание атаки заменяется на рост атаки: {FIXEDPOWER} атаки."
 "herocard.passive_skill.replace_direct_effect.defensewither","Увядание защиты заменяется на рост защиты: {FIXEDPOWER} защиты."
@@ -486,8 +506,10 @@
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Критический модификатор"
 "herocard.passive_skill.title.critmodifier","Модификатор критического удара"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Клеймо Древних"
+"herocard.passive_skill.title.damagereductionforstatuseffectsupportcharacter.troop.minorbuff","Жертва усилением"
 "herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Кровавая метка"
 "herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Яростный танцор"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single","Акулья мощь"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Мастерство: отряды"
 "herocard.passive_skill.title.debuffdamagereduction","Уменьшение урона от недуга"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Уменьшение урона от недуга"
@@ -497,6 +519,7 @@
 "herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","Складываемые эффекты при особом навыке"
 "herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","Уничтожение паразитов при использовании особого навыка"
 "herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Пожирание прислужников и получение маны со временем"
+"herocard.passive_skill.title.effectoncounterattack.statuseffects.bleeding","Рассекающее касание"
 "herocard.passive_skill.title.effectondamagedone.bufftoremove.minordebuff.latest.safe.specialskill.only_criticals.once","Очищение при критическом ударе особым навыком"
 "herocard.passive_skill.title.effectondamagedone.healthboost.specialskill.only_criticals.once","Увеличение здоровья от критического особого навыка"
 "herocard.passive_skill.title.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill","Праведный мятеж"
@@ -518,6 +541,12 @@
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Эффект статуса при уменьшении маны"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Эффект статуса при уменьшении маны"
 "herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Позорное поражение"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.statuseffects.vengefulghoststatuseffectskill.bufftoremove.allstatuseffectsandstacks","Мстительное преследование"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_blue","Расщепление склизкого прислужника"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_green","Расщепление склизкого прислужника"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Расщепление склизкого прислужника"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Расщепление склизкого прислужника"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Расщепление склизкого прислужника"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Увеличение здоровья и получение маны при сопротивлении"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Мана от использования особого навыка здоровья"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Увеличение здоровья при увеличении здоровья врага"
@@ -535,10 +564,10 @@
 "herocard.passive_skill.title.effectonspecialwithchance.healthboost","Увеличение здоровья при использовании особого навыка"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects","Эффект статуса при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.bleeding","Кровотечение при особом навыке"
-"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.curseofdoom","Проклятие при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.damageovertime","Постепенный урон при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.extradamageagainstboostedhealth","Увеличенный урон против увеличенного здоровья"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.huntersmark","Постепенный урон при особом навыке"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.increasingcurse","Проклятие при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Эффект статуса при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Отравление при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Безумная атака при особом навыке"
@@ -560,6 +589,7 @@
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","Усиление здоровья при снятии недуга"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","Урон при снятии недуга"
 "herocard.passive_skill.title.effectovertime.revival","Оживление со временем"
+"herocard.passive_skill.title.effectovertime.statuseffects.mesmerize","Шепчущий дождь лепестков"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","Мана за усиление врага"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.healthboost.everyturn.per.poison.statuseffectdebuffs.enemies","Увеличение здоровья от яда"
 "herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Мана при призыве прислужника"
@@ -568,6 +598,7 @@
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Гнев питомцев"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Увеличение здоровья при призыве паразита"
 "herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Усиленная мультяшка"
+"herocard.passive_skill.title.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Критическое преимущество"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Слепота прислужника"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Ядро прислужников"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Слабые мегаприслужники"
@@ -577,6 +608,7 @@
 "herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","Мана за мороз"
 "herocard.passive_skill.title.glass_reflect_debuffs","Отражение"
 "herocard.passive_skill.title.growth","Рост"
+"herocard.passive_skill.title.growthmodifieronspecial.from.all.enemies","Замедление роста"
 "herocard.passive_skill.title.guaranteedeffectonspecial","Гарантированный эффект при особом навыке"
 "herocard.passive_skill.title.healmodifier.all.enemies.decrease","Снижение исцеления"
 "herocard.passive_skill.title.healonheal.heal","Дополнительное ИСЦЕЛЕНИЕ"
@@ -606,6 +638,7 @@
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Добыча имитатора"
 "herocard.passive_skill.title.minioncorruption.all.enemies","Осквернение прислужников"
 "herocard.passive_skill.title.nevermissspecial","Идеальная меткость"
+"herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Великое исцеление"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Предотвращение усиленного исцеления"
 "herocard.passive_skill.title.ransack","Шанс вора"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Кража усиления"
@@ -618,10 +651,16 @@
 "herocard.passive_skill.title.remove_wither_from_allies","Приведение в порядок стражем"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Восстановительное ядро"
 "herocard.passive_skill.title.repeat_special_once","Удача"
+"herocard.passive_skill.title.repeatspecialsupportcharacter.troop","Везет!"
 "herocard.passive_skill.title.resist.accuracymodifiers","Сопротивление слепоте"
 "herocard.passive_skill.title.resist.alldebuffs","Сопротивление недугам"
 "herocard.passive_skill.title.resist.alldebuffs.alldebuffs","Сопротивление всем недугам"
+"herocard.passive_skill.title.resist.alldebuffs.blue.alldebuffs","Сопротивление недугам льда"
+"herocard.passive_skill.title.resist.alldebuffs.green.alldebuffs","Сопротивление недугам природы"
 "herocard.passive_skill.title.resist.alldebuffs.manareduction.buffdispels","Вершина сопротивления"
+"herocard.passive_skill.title.resist.alldebuffs.purple.alldebuffs","Сопротивление недугам тьмы"
+"herocard.passive_skill.title.resist.alldebuffs.red.alldebuffs","Сопротивление недугам огня"
+"herocard.passive_skill.title.resist.alldebuffs.yellow.alldebuffs","Сопротивление недугам святыни"
 "herocard.passive_skill.title.resist.alldefensemodifiers.alldebuffs","Сопротивление недугам защиты"
 "herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs","Сопротивление уменьшению защиты"
 "herocard.passive_skill.title.resist.allmanaeffects.alldebuffs","Сопротивление влиянию на ману"
@@ -639,7 +678,7 @@
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Усиленное сопротивление ожогам"
 "herocard.passive_skill.title.resist.criticalhits.none","Сопротивление критическим ударам"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Сопротивление недугам защиты"
-"herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Неостановимые прислужники"
+"herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Неудержимые прислужники"
 "herocard.passive_skill.title.resist.frost","Сопротивление морозу"
 "herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","Усиленное сопротивление морозу"
 "herocard.passive_skill.title.resist.healeffects","Сопротивление недугам исцеления"
@@ -650,6 +689,7 @@
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Сопротивление недугам генерации маны"
 "herocard.passive_skill.title.resist.manareduction","Сопротивление прямому уменьшению маны"
 "herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Усиленное сопротивление прямому уменьшению маны"
+"herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Сопротивление краже"
 "herocard.passive_skill.title.resist.maxhealthreduction","Сопротивление прямому уменьшению макс. здоровья"
 "herocard.passive_skill.title.resist.poison","Сопротивление яду"
 "herocard.passive_skill.title.resist.poison.burn.bleed","Сопротивление яду, ожогам и кровотечению"
@@ -659,6 +699,7 @@
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Усиленное сопротивление блокировке особых навыков"
 "herocard.passive_skill.title.resist.stopmanageneration","Сопротивление остановке генерации маны"
 "herocard.passive_skill.title.resist.water","Сопротивление воде"
+"herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Усиленное сопротивление воде"
 "herocard.passive_skill.title.resist_all_attack_effects","Черта:
 крохотная фигура"
 "herocard.passive_skill.title.resist_all_defense_effects","Черта: 
@@ -712,11 +753,13 @@
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Увеличение действия усиления"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Недуг копируется при снятии"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Охотничье рвение"
+"herocard.passive_skill.title.statuseffectonspecialcast.camouflage","Завеса призрачных лепестков"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","Метка охотника на титанов"
 "herocard.passive_skill.title.statuseffectonspecialcast.softskin","Мягкая кожа горгульи"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Камнекожа горгульи"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Усиление генерации маны от недугов"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Маска стихии"
+"herocard.passive_skill.title.stopchainstrikes","Прекратить цепные атаки"
 "herocard.passive_skill.title.stylish","Стильно!"
 "herocard.passive_skill.title.stylish_epic","Стильно!"
 "herocard.passive_skill.title.stylish_legendary","Стильно!"
@@ -732,11 +775,6 @@
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Склизкий прислужник при поражении"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Склизкий прислужник при поражении"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Склизкий прислужник при поражении"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_blue","Расщепление склизкого прислужника"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_green","Расщепление склизкого прислужника"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple","Расщепление склизкого прислужника"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red","Расщепление склизкого прислужника"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Расщепление склизкого прислужника"
 "herocard.passive_skill.title.summononstatuseffectaddition.burn","Призыв при ожоге"
 "herocard.passive_skill.title.summononstatuseffectaddition.damageovertime","Призыв при постепенном уроне"
 "herocard.passive_skill.title.summononstatuseffectaddition.defensemodifier","Призыв прислужника при ослаблении защиты"

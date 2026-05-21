@@ -7,6 +7,8 @@
   "Astral Summon": "استدعاء الاقزام النجميين",
   "Black Friday Summon": "استدعاء الجمعة البيضاء",
   "Event Summon": "حدث الاستدعاء",
+  "Charming Costume Summon": "استدعاء الازياء الساحرة",
+  "Classic Costume Summon": "استدعاء الازياء الكلاسيكية",
   "Costume Summon": "استدعاء الازياء",
   "Covenant Summon": "استدعاء المعاهدة",
   "Daily Summon": "استدعاء يومي",
@@ -31,6 +33,7 @@
   "Underwild Summon": "استدعاء العالم السفلي",
   "Dunes Summon": "استدعاء الكثبان الرملية",
   "Seasonal Summon": "استدعاء موسمي",
+  "Sunbay Summon": "استدعاء صن باي",
   "Sanguine Summon": "الاستدعاء الدموي",
   "Fortune Summon": "استدعاء الحظ",
   "Shadow Summon": "استدعاء الظل",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "استدعاء الحكايات المخفية",
   "Mysteries of the Deep": "الغاز الاعماق",
   "Treasures of Flame and Frost": "كنوز اللهب والصقيع",
+  "Welcome Back Summon": "استدعاء الترحيب بالعودة",
   "Wilderness Summon": "استدعاء البرية"
 }

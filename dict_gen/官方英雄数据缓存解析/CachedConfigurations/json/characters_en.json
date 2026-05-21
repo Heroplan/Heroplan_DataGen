@@ -90,6 +90,7 @@
     "specialId": "sword_barricade",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_lord"
   },
   "orc_gladiator_costume_chef": {
@@ -107,6 +108,7 @@
     "specialId": "war_feast",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_gladiator"
   },
   "oriental_female_mystic_costume_magician": {
@@ -124,6 +126,7 @@
     "specialId": "omnicure",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mystic"
   },
   "blackguard_commander_costume_metal": {
@@ -141,6 +144,7 @@
     "specialId": "symphonic_pulverizer",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_commander"
   },
   "nordic_male_lord_costume_senior": {
@@ -158,6 +162,7 @@
     "specialId": "cloud_axe",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_male_lord"
   },
   "oriental_enchanted_monk_costume_tiger": {
@@ -175,6 +180,7 @@
     "specialId": "solar_strike",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_enchanted_monk"
   },
   "royal_knight_costume_blacksmith": {
@@ -192,6 +198,7 @@
     "specialId": "shadow_link",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight"
   },
   "oriental_brawler_costume_egypt": {
@@ -209,6 +216,7 @@
     "specialId": "harmonic_bash",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_brawler"
   },
   "forest_mage_costume_white": {
@@ -226,6 +234,7 @@
     "specialId": "fog_of_the_perished",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_mage"
   },
   "forest_female_druid_costume_native": {
@@ -243,6 +252,7 @@
     "specialId": "jungle_fury",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_druid"
   },
   "goblin_mage_costume_candy": {
@@ -260,6 +270,7 @@
     "specialId": "candy_vines",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_mage"
   },
   "elven_archer_costume_moon": {
@@ -277,6 +288,7 @@
     "specialId": "pure_shot",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_archer"
   },
   "forest_titan_costume_jester": {
@@ -294,6 +306,7 @@
     "specialId": "anger_of_the_jester",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_titan"
   },
   "royal_knight_costume_glass": {
@@ -314,6 +327,7 @@
     "specialId": "glass_stone_skin_gunnar",
     "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight"
   },
   "oriental_female_templar_costume_kimono": {
@@ -331,6 +345,7 @@
     "specialId": "slash_of_seven_daggers",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_templar"
   },
   "undead_running_skeleton_costume_roman": {
@@ -348,6 +363,7 @@
     "specialId": "purifying_hit",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_running_skeleton"
   },
   "royal_female_knight_costume_winter": {
@@ -365,6 +381,7 @@
     "specialId": "purifying_strike",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_female_knight"
   },
   "nomad_female_shaman_costume_native": {
@@ -382,6 +399,7 @@
     "specialId": "wind_gospel",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_shaman"
   },
   "blackguard_knight_costume_elegant": {
@@ -399,6 +417,7 @@
     "specialId": "regeneration",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_knight"
   },
   "cultist_inventor_costume_steam": {
@@ -416,6 +435,7 @@
     "specialId": "shock_ultimatum",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_inventor"
   },
   "nordic_ice_enchantress_costume_aqua": {
@@ -433,6 +453,7 @@
     "specialId": "glacial_explosion",
     "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ice_enchantress"
   },
   "lizardman_warrior_costume_dinosaur": {
@@ -450,6 +471,7 @@
     "specialId": "bolstering_rush",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_warrior"
   },
   "lizardman_trapper_costume_shaman": {
@@ -467,6 +489,7 @@
     "specialId": "second_skin",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_trapper"
   },
   "forest_friar_costume_explorer": {
@@ -484,6 +507,7 @@
     "specialId": "have_curiosity",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_friar"
   },
   "exalted_warrior_costume_ice": {
@@ -501,6 +525,7 @@
     "specialId": "strike_of_the_monolith",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_warrior"
   },
   "dwarven_smasher_costume_smith": {
@@ -518,6 +543,7 @@
     "specialId": "forge_rush",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_smasher"
   },
   "dwarven_guard_costume_ram": {
@@ -535,6 +561,7 @@
     "specialId": "sturdy_riposte",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_guard"
   },
   "cultist_sorceress_costume_shaman": {
@@ -552,6 +579,7 @@
     "specialId": "dreadstrike",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_sorceress"
   },
   "blackguard_skulker_costume_doctor": {
@@ -569,6 +597,7 @@
     "specialId": "leeching_saw",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_skulker"
   },
   "forest_archer_costume_warrior": {
@@ -586,6 +615,7 @@
     "specialId": "crushing_shot",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_archer"
   },
   "elven_captain_costume_mask": {
@@ -603,6 +633,7 @@
     "specialId": "cleansing_strike",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_captain"
   },
   "dwarwen_brewmaster_costume_guitarist": {
@@ -620,6 +651,7 @@
     "specialId": "blessed_solo",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarwen_brewmaster"
   },
   "cultist_mage_costume_voodoo": {
@@ -637,6 +669,7 @@
     "specialId": "poison_jolt",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_mage"
   },
   "blackguard_female_captain_costume_musketeer": {
@@ -654,6 +687,7 @@
     "specialId": "bleeding_thrust",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_female_captain"
   },
   "nomad_female_swordmaster_costume_native": {
@@ -671,6 +705,7 @@
     "specialId": "acute_cut",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_swordmaster"
   },
   "magitech_sniper_costume_steampunk": {
@@ -688,6 +723,7 @@
     "specialId": "awe_bolt",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "magitech_sniper"
   },
   "lionman_barbarian_costume_armor": {
@@ -705,6 +741,7 @@
     "specialId": "volcanic_flareup",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lionman_barbarian"
   },
   "goblin_fighter_costume_evil": {
@@ -722,6 +759,7 @@
     "specialId": "stab_of_four_blades",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_fighter"
   },
   "forest_woodsman_warrior_costume_camouflage": {
@@ -739,6 +777,7 @@
     "specialId": "massive_cleave",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_woodsman_warrior"
   },
   "forest_male_elf_costume_dark": {
@@ -756,6 +795,7 @@
     "specialId": "eclipse_spear",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_male_elf"
   },
   "forest_female_spirit_costume_autumn": {
@@ -773,6 +813,7 @@
     "specialId": "tranquil_mist",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_spirit"
   },
   "forest_female_elf_costume_mage": {
@@ -790,6 +831,7 @@
     "specialId": "crescent_shield",
     "canBeReceivedDate": "2020-05-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_elf"
   },
   "nomad_female_captain_costume_pirate": {
@@ -807,6 +849,7 @@
     "specialId": "lava_blast",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_captain"
   },
   "nomad_mage_costume_goggles": {
@@ -824,6 +867,7 @@
     "specialId": "comet",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_mage"
   },
   "oriental_warrior_king_costume_roman": {
@@ -841,6 +885,7 @@
     "specialId": "roman_cleave",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_warrior_king"
   },
   "orc_troopmaster_costume_merchant": {
@@ -858,6 +903,7 @@
     "specialId": "wallet_pulverizer",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_troopmaster"
   },
   "nordic_chained_werewolf_costume_raccoon": {
@@ -875,6 +921,7 @@
     "specialId": "raccoon_bite",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_chained_werewolf"
   },
   "nordic_ancestral_warrior_costume_corrupted": {
@@ -892,6 +939,7 @@
     "specialId": "merciless_pulverizer",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ancestral_warrior"
   },
   "oriental_female_guard_costume_soldier": {
@@ -909,6 +957,7 @@
     "specialId": "pounding_attack",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_guard"
   },
   "nomad_female_assassin_costume_poison": {
@@ -926,6 +975,7 @@
     "specialId": "blade_venom",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_assassin"
   },
   "undead_captain_warrior_costume_prince": {
@@ -943,6 +993,7 @@
     "specialId": "deadly_riposte",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_captain_warrior"
   },
   "exalted_female_statue_costume_sungoddess": {
@@ -960,6 +1011,7 @@
     "specialId": "day_of_judgement",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_female_statue"
   },
   "undead_horned_skeleton_costume_fool": {
@@ -977,6 +1029,7 @@
     "specialId": "toxic_tricks",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_horned_skeleton"
   },
   "oriental_panda_berserker_costume_farmer": {
@@ -994,6 +1047,7 @@
     "specialId": "rural_chop",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_berserker"
   },
   "royal_knight_commander_costume_king": {
@@ -1011,6 +1065,7 @@
     "specialId": "summers_end",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight_commander"
   },
   "nordic_swordman_costume_climber": {
@@ -1028,6 +1083,7 @@
     "specialId": "thrilling_clash",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_swordman"
   },
   "oriental_panda_warrior_costume_armor": {
@@ -1045,6 +1101,7 @@
     "specialId": "aura_wave",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_warrior"
   },
   "undead_female_warrior_costume_princess": {
@@ -1062,6 +1119,7 @@
     "specialId": "haze_of_the_deceased",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_female_warrior"
   },
   "nomad_female_berserker_costume_shaman": {
@@ -1079,6 +1137,7 @@
     "specialId": "dance_of_ignition",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_berserker"
   },
   "oriental_female_mage_costume_mender": {
@@ -1096,6 +1155,7 @@
     "specialId": "spirit_rally",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mage"
   },
   "nordic_mage_costume_hermit": {
@@ -1113,6 +1173,7 @@
     "specialId": "whiteout",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_mage"
   },
   "tribal_chief_costume_conqueror": {
@@ -1130,6 +1191,7 @@
     "specialId": "conquerors_command",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "tribal_chief"
   },
   "nomad_axe_adventurer_costume_magma": {
@@ -1147,6 +1209,7 @@
     "specialId": "lavablow",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_axe_adventurer"
   },
   "orc_warrior_costume_urukhai": {
@@ -1164,6 +1227,7 @@
     "specialId": "searing_strike",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_warrior"
   },
   "underworld_champion_costume_champion": {
@@ -1181,6 +1245,7 @@
     "specialId": "unite_and_oppose",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "underworld_champion"
   },
   "oriental_falconer_costume_dodo": {
@@ -1198,6 +1263,7 @@
     "specialId": "strategic_slash",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_falconer"
   },
   "oriental_monkey_captain_costume_warrior": {
@@ -1215,6 +1281,7 @@
     "specialId": "change_stance",
     "canBeReceivedDate": "2021-01-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_monkey_captain"
   },
   "s2_poseidon_costume_slayer": {
@@ -1856,6 +1923,26 @@
     "origin": "Atlantis Summon",
     "parentHeroId": "s2_ghost_woman"
   },
+  "s2_ghost_woman_costume_cute": {
+    "id": "s2_ghost_woman_costume_cute",
+    "element": "Purple",
+    "family": "japanese",
+    "baseHealth": 505,
+    "baseAttack": 322,
+    "baseDefense": 297,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Special Armor",
+    "rarity": 4,
+    "specialId": "toon_ghost",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s2_ghost_woman"
+  },
   "s2_merman_costume_leutenant": {
     "id": "Lieutenant of Atlantis",
     "element": "Green",
@@ -2079,6 +2166,7 @@
     "specialId": "dance_of_flame",
     "canBeReceivedDate": "2022-09-05 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_berserker"
   },
   "forest_male_elf_costume_king": {
@@ -2096,6 +2184,7 @@
     "specialId": "lunar_spear",
     "canBeReceivedDate": "2022-09-05 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_male_elf"
   },
   "nordic_ice_enchantress_costume_ruler": {
@@ -2113,6 +2202,7 @@
     "specialId": "glacial_vortex",
     "canBeReceivedDate": "2022-09-05 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ice_enchantress"
   },
   "underworld_champion_costume_vampire": {
@@ -2130,6 +2220,7 @@
     "specialId": "vampiric_cleave",
     "canBeReceivedDate": "2022-09-05 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "underworld_champion"
   },
   "oriental_enchanted_monk_costume_stoneguard": {
@@ -2147,6 +2238,7 @@
     "specialId": "stellar_beam",
     "canBeReceivedDate": "2022-12-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_enchanted_monk"
   },
   "exalted_warrior_costume_underworld": {
@@ -2164,6 +2256,7 @@
     "specialId": "strike_of_the_underworld",
     "canBeReceivedDate": "2022-10-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_warrior"
   },
   "tribal_chief_costume_leopard": {
@@ -2181,6 +2274,7 @@
     "specialId": "chieftains_vengeance",
     "canBeReceivedDate": "2022-09-05 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "tribal_chief"
   },
   "exalted_female_statue_costume_thorns": {
@@ -2198,6 +2292,7 @@
     "specialId": "ritual_of_judgement",
     "canBeReceivedDate": "2023-02-20 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_female_statue"
   },
   "magitech_sniper_costume_undead": {
@@ -2215,6 +2310,7 @@
     "specialId": "dark_bolt",
     "canBeReceivedDate": "2022-10-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "magitech_sniper"
   },
   "forest_titan_costume_nightmare": {
@@ -2232,6 +2328,7 @@
     "specialId": "anger_of_the_woods",
     "canBeReceivedDate": "2022-10-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_titan"
   },
   "oriental_warrior_king_costume_mage": {
@@ -2249,6 +2346,7 @@
     "specialId": "spartan_slash",
     "canBeReceivedDate": "2022-12-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_warrior_king"
   },
   "oriental_female_mystic_costume_scribe": {
@@ -2266,6 +2364,7 @@
     "specialId": "omnimend",
     "canBeReceivedDate": "2022-09-05 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mystic"
   },
   "cultist_inventor_costume_love_doctor": {
@@ -2283,6 +2382,7 @@
     "specialId": "lightning_ultimatum",
     "canBeReceivedDate": "2022-12-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_inventor"
   },
   "dwarwen_brewmaster_costume_wood_carver": {
@@ -2300,6 +2400,7 @@
     "specialId": "blessed_tankard",
     "canBeReceivedDate": "2022-10-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarwen_brewmaster"
   },
   "elven_captain_costume_cavalier": {
@@ -2317,6 +2418,7 @@
     "specialId": "valorant_strike",
     "canBeReceivedDate": "2022-12-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_captain"
   },
   "oriental_female_templar_costume_fireworks": {
@@ -2334,6 +2436,7 @@
     "specialId": "slash_of_the_seven_stilettos",
     "canBeReceivedDate": "2023-02-20 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_templar"
   },
   "undead_captain_warrior_costume_reveller": {
@@ -2351,6 +2454,7 @@
     "specialId": "precise_riposte",
     "canBeReceivedDate": "2023-04-17 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_captain_warrior"
   },
   "guardian_gazelle_costume_bandalore": {
@@ -6824,7 +6928,8 @@
     "rarity": 5,
     "specialId": "awaken_ki",
     "canBeReceivedDate": "2020-10-13 07:00:00",
-    "origin": "Ninja Tower"
+    "origin": "Ninja Tower",
+    "costumeBonusesId": "ninja_2026"
   },
   "ninja_jade": {
     "id": "Ninja of Dancing Stars",
@@ -6854,7 +6959,8 @@
     "rarity": 5,
     "specialId": "katana_rain",
     "canBeReceivedDate": "2020-10-13 07:00:00",
-    "origin": "Ninja Tower"
+    "origin": "Ninja Tower",
+    "costumeBonusesId": "ninja_2026"
   },
   "ninja_shale": {
     "id": "Ninja of Flying Vigor",
@@ -8491,7 +8597,8 @@
     "rarity": 5,
     "specialId": "wall_of_ki",
     "canBeReceivedDate": "2021-11-10 07:00:00",
-    "origin": "Ninja Tower"
+    "origin": "Ninja Tower",
+    "costumeBonusesId": "ninja_2026"
   },
   "ninja_peridot": {
     "id": "Ninja of Deadly Toxins",
@@ -8506,7 +8613,8 @@
     "rarity": 5,
     "specialId": "suffocating_smoke",
     "canBeReceivedDate": "2022-02-02 07:00:00",
-    "origin": "Ninja Tower"
+    "origin": "Ninja Tower",
+    "costumeBonusesId": ""
   },
   "ninja_quartz": {
     "id": "Ninja of Quiet Graves",
@@ -8521,7 +8629,8 @@
     "rarity": 5,
     "specialId": "incite_ki",
     "canBeReceivedDate": "2021-11-10 07:00:00",
-    "origin": "Ninja Tower"
+    "origin": "Ninja Tower",
+    "costumeBonusesId": "ninja_2026"
   },
   "nature_god_balbar": {
     "id": "Botanist Hermit",
@@ -11980,6 +12089,7 @@
     "specialId": "blade_dance",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_assassin"
   },
   "s3_odin_costume_champion": {
@@ -12211,6 +12321,7 @@
     "specialId": "elegant_pulverizer",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_commander"
   },
   "undead_female_warrior_costume_rococo": {
@@ -12228,6 +12339,7 @@
     "specialId": "mist_of_the_fallen",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_female_warrior"
   },
   "forest_mage_costume_party": {
@@ -12245,6 +12357,7 @@
     "specialId": "fog_machine",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_mage"
   },
   "s3_loki_male_costume_shapeshifter": {
@@ -12278,6 +12391,7 @@
     "specialId": "transfigure",
     "canBeReceivedDate": "2023-04-17 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_knight"
   },
   "dwarven_guard_costume_tavern": {
@@ -12295,6 +12409,7 @@
     "specialId": "unrelenting_riposte",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_guard"
   },
   "orc_gladiator_costume_sage": {
@@ -12312,6 +12427,7 @@
     "specialId": "war_song",
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_gladiator"
   },
   "forest_woodsman_warrior_costume_highlander": {
@@ -12329,6 +12445,7 @@
     "specialId": "massive_swing",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_woodsman_warrior"
   },
   "royal_female_knight_costume_prospector": {
@@ -12346,6 +12463,7 @@
     "specialId": "wrenching_strike",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_female_knight"
   },
   "goblin_mage_costume_toad": {
@@ -12363,6 +12481,7 @@
     "specialId": "crawling_vines",
     "canBeReceivedDate": "2023-04-17 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_mage"
   },
   "nordic_ancestral_warrior_costume_messenger": {
@@ -12380,6 +12499,7 @@
     "specialId": "postal_pulverizer",
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ancestral_warrior"
   },
   "nomad_axe_adventurer_costume_tracker": {
@@ -12397,6 +12517,7 @@
     "specialId": "flame_storm",
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_axe_adventurer"
   },
   "orc_troopmaster_costume_gourmet": {
@@ -12414,6 +12535,7 @@
     "specialId": "pulverizing_ham",
     "canBeReceivedDate": "2023-04-17 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_troopmaster"
   },
   "lionman_barbarian_costume_babysitter": {
@@ -12431,6 +12553,7 @@
     "specialId": "volcanic_explosion",
     "canBeReceivedDate": "2023-02-20 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lionman_barbarian"
   },
   "nomad_female_captain_costume_thief": {
@@ -12448,6 +12571,7 @@
     "specialId": "volcanic_blast",
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_captain"
   },
   "elven_archer_costume_raven": {
@@ -12465,6 +12589,7 @@
     "specialId": "flawless_shot",
     "canBeReceivedDate": "2023-04-17 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_archer"
   },
   "forest_female_elf_costume_fairy": {
@@ -12482,6 +12607,7 @@
     "specialId": "lunar_shield",
     "canBeReceivedDate": "2023-04-17 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_elf"
   },
   "nomad_female_lord_costume_wicked": {
@@ -12499,6 +12625,7 @@
     "specialId": "dreaded_swords",
     "canBeReceivedDate": "2023-08-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_lord"
   },
   "nordic_male_lord_costume_injustice": {
@@ -12516,6 +12643,7 @@
     "specialId": "dread_hammer",
     "canBeReceivedDate": "2023-09-04 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_male_lord"
   },
   "cultist_sorceress_costume_snake": {
@@ -12533,6 +12661,7 @@
     "specialId": "frightstrike",
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_sorceress"
   },
   "royal_knight_commander_costume_gryphon": {
@@ -12550,6 +12679,7 @@
     "specialId": "glacial_crusher",
     "canBeReceivedDate": "2023-07-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight_commander"
   },
   "dark_god_aeron_costume_periwig": {
@@ -12692,6 +12822,26 @@
     "origin": "Atlantis Summon",
     "parentHeroId": "s2_tanuki_raccoon"
   },
+  "s2_tanuki_raccoon_costume_cute": {
+    "id": "s2_tanuki_raccoon_costume_cute",
+    "element": "Yellow",
+    "family": "japanese",
+    "baseHealth": 598,
+    "baseAttack": 277,
+    "baseDefense": 309,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Gamble",
+    "rarity": 4,
+    "specialId": "toons_gambit",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s2_tanuki_raccoon"
+  },
   "s2_chameleon_mage_costume_alchemist": {
     "id": "Chameleon Alchemist",
     "element": "Blue",
@@ -12724,6 +12874,26 @@
     "origin": "Atlantis Summon",
     "parentHeroId": "s2_triton"
   },
+  "s2_triton_costume_cute": {
+    "id": "s2_triton_costume_cute",
+    "element": "Blue",
+    "family": "atlantis",
+    "baseHealth": 496,
+    "baseAttack": 318,
+    "baseDefense": 310,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Regen",
+    "rarity": 4,
+    "specialId": "toon_trident",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s2_triton"
+  },
   "s2_chameleon_chief_costume_heavyweight": {
     "id": "World Heavyweight Champion",
     "element": "Green",
@@ -12738,6 +12908,26 @@
     "specialId": "protein_eater",
     "canBeReceivedDate": "2023-04-03 07:00:00",
     "origin": "Atlantis Summon",
+    "parentHeroId": "s2_chameleon_chief"
+  },
+  "s2_chameleon_chief_costume_cute": {
+    "id": "s2_chameleon_chief_costume_cute",
+    "element": "Green",
+    "family": "lagoon",
+    "baseHealth": 629,
+    "baseAttack": 271,
+    "baseDefense": 301,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Fiend Resist",
+    "rarity": 4,
+    "specialId": "toon_jaws",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_chameleon_chief"
   },
   "s2_proteus_costume_farseer": {
@@ -12861,6 +13051,25 @@
     "rarity": 5,
     "specialId": "rod_of_freedom",
     "canBeReceivedDate": "2023-10-02 07:00:00",
+    "origin": "MonthlyHeroSeptember2017",
+    "parentHeroId": "holy_god_musashi"
+  },
+  "holy_god_musashi_costume_cute": {
+    "id": "holy_god_musashi_costume_cute",
+    "element": "Yellow",
+    "family": "hotm2017",
+    "baseHealth": 606,
+    "baseAttack": 382,
+    "baseDefense": 330,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "toon_blade",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "MonthlyHeroSeptember2017",
     "parentHeroId": "holy_god_musashi"
   },
@@ -13591,6 +13800,7 @@
     "specialId": "adorable_hammer",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_male_lord"
   },
   "pirate_lady_costume_queen": {
@@ -13643,6 +13853,7 @@
     "specialId": "scaly_skin",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_trapper"
   },
   "oriental_falconer_costume_cub": {
@@ -13660,6 +13871,7 @@
     "specialId": "cub_leader_cut",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_falconer"
   },
   "oriental_panda_warrior_costume_dueller": {
@@ -13677,6 +13889,7 @@
     "specialId": "acoustic_surge",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_warrior"
   },
   "oriental_monkey_captain_costume_reveller": {
@@ -13694,6 +13907,7 @@
     "specialId": "gamblers_swing",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_monkey_captain"
   },
   "pirate_dread_captain_costume_rotten": {
@@ -13752,6 +13966,7 @@
     "specialId": "adorable_strike",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_sorceress"
   },
   "nomad_female_lord_costume_cute": {
@@ -13772,6 +13987,7 @@
     "specialId": "adorable_swords",
     "canBeReceivedDate": "2024-05-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_lord"
   },
   "oriental_female_mystic_costume_cute": {
@@ -13792,6 +14008,7 @@
     "specialId": "adorable_heal",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mystic"
   },
   "lionman_barbarian_costume_cute": {
@@ -13812,6 +14029,7 @@
     "specialId": "volcanic_tantrum",
     "canBeReceivedDate": "2023-10-30 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lionman_barbarian"
   },
   "magitech_sniper_costume_cute": {
@@ -13832,6 +14050,7 @@
     "specialId": "adorable_bolt",
     "canBeReceivedDate": "2024-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "magitech_sniper"
   },
   "forest_male_elf_costume_cute": {
@@ -13852,6 +14071,7 @@
     "specialId": "adorable_spear",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_male_elf"
   },
   "forest_titan_costume_cute": {
@@ -13872,6 +14092,7 @@
     "specialId": "tantrum_of_forest",
     "canBeReceivedDate": "2024-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_titan"
   },
   "nordic_ice_enchantress_costume_cute": {
@@ -13892,6 +14113,7 @@
     "specialId": "adorable_shatter",
     "canBeReceivedDate": "2024-05-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ice_enchantress"
   },
   "oriental_enchanted_monk_costume_cute": {
@@ -13912,6 +14134,7 @@
     "specialId": "adorable_beam",
     "canBeReceivedDate": "2024-02-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_enchanted_monk"
   },
   "exalted_female_statue_costume_cute": {
@@ -13932,6 +14155,7 @@
     "specialId": "rite_of_cuteness",
     "canBeReceivedDate": "2024-06-28 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_female_statue"
   },
   "forest_female_elf_costume_cute": {
@@ -13952,6 +14176,7 @@
     "specialId": "adorable_shield",
     "canBeReceivedDate": "2024-10-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_elf"
   },
   "tribal_chief_costume_cute": {
@@ -13972,6 +14197,7 @@
     "specialId": "toons_order",
     "canBeReceivedDate": "2024-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "tribal_chief"
   },
   "oriental_warrior_king_costume_cute": {
@@ -13992,6 +14218,7 @@
     "specialId": "toon_cleave",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_warrior_king"
   },
   "elven_archer_costume_cute": {
@@ -14012,6 +14239,7 @@
     "specialId": "toon_shot",
     "canBeReceivedDate": "2024-02-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_archer"
   },
   "s4_russula_costume_painter": {
@@ -14054,6 +14282,7 @@
     "specialId": "strike_of_the_toons",
     "canBeReceivedDate": "2024-01-22 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_warrior"
   },
   "nomad_female_captain_costume_cute": {
@@ -14074,6 +14303,7 @@
     "specialId": "toontastic_smash",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_captain"
   },
   "underworld_champion_costume_cute": {
@@ -14094,6 +14324,7 @@
     "specialId": "toon_counter",
     "canBeReceivedDate": "2023-11-27 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "underworld_champion"
   },
   "cultist_inventor_costume_cute": {
@@ -14114,6 +14345,7 @@
     "specialId": "toon_ultimatum",
     "canBeReceivedDate": "2024-08-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_inventor"
   },
   "royal_knight_commander_costume_cute": {
@@ -14134,6 +14366,7 @@
     "specialId": "toon_finisher",
     "canBeReceivedDate": "2024-09-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight_commander"
   },
   "s4_kravekrush_costume_grillmaster": {
@@ -14396,6 +14629,7 @@
     "specialId": "tooncry",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_gladiator"
   },
   "elven_captain_costume_cute": {
@@ -14416,6 +14650,7 @@
     "specialId": "toontastic_strike",
     "canBeReceivedDate": "2024-01-22 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_captain"
   },
   "nordic_ancestral_warrior_costume_cute": {
@@ -14436,6 +14671,7 @@
     "specialId": "toonpower_pulverizer",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ancestral_warrior"
   },
   "forest_mage_costume_cute": {
@@ -14456,6 +14692,7 @@
     "specialId": "toontastic_fog",
     "canBeReceivedDate": "2024-01-22 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_mage"
   },
   "forest_female_druid_costume_cute": {
@@ -14476,6 +14713,7 @@
     "specialId": "toon_fury",
     "canBeReceivedDate": "2024-01-22 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_druid"
   },
   "oriental_panda_berserker_costume_cute": {
@@ -14496,6 +14734,7 @@
     "specialId": "toon_chop",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_berserker"
   },
   "nordic_swordman_costume_cute": {
@@ -14516,6 +14755,7 @@
     "specialId": "toon_slash",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_swordman"
   },
   "cultist_mage_costume_cute": {
@@ -14536,6 +14776,7 @@
     "specialId": "toon_jolt",
     "canBeReceivedDate": "2024-01-22 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_mage"
   },
   "nomad_mage_costume_cute": {
@@ -14556,6 +14797,7 @@
     "specialId": "toonball",
     "canBeReceivedDate": "2023-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_mage"
   },
   "dwarwen_brewmaster_costume_cute": {
@@ -14576,6 +14818,7 @@
     "specialId": "toon_brew",
     "canBeReceivedDate": "2024-02-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarwen_brewmaster"
   },
   "oriental_female_templar_costume_cute": {
@@ -14596,6 +14839,7 @@
     "specialId": "slash_of_seven_toons",
     "canBeReceivedDate": "2024-02-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_templar"
   },
   "oriental_female_mage_costume_cute": {
@@ -14616,6 +14860,7 @@
     "specialId": "toontastic_link",
     "canBeReceivedDate": "2024-02-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mage"
   },
   "blackguard_female_captain_costume_cute": {
@@ -14636,6 +14881,7 @@
     "specialId": "toon_stab",
     "canBeReceivedDate": "2024-02-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_female_captain"
   },
   "s5_ahmose_costume_reborn": {
@@ -14794,6 +15040,7 @@
     "specialId": "toon_storm",
     "canBeReceivedDate": "2024-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_axe_adventurer"
   },
   "undead_captain_warrior_costume_cute": {
@@ -14814,6 +15061,7 @@
     "specialId": "toontastic_riposte",
     "canBeReceivedDate": "2024-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_captain_warrior"
   },
   "goblin_mage_costume_cute": {
@@ -14834,6 +15082,7 @@
     "specialId": "toon_vines",
     "canBeReceivedDate": "2024-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_mage"
   },
   "nomad_female_berserker_costume_cute": {
@@ -14854,6 +15103,7 @@
     "specialId": "dance_of_toons",
     "canBeReceivedDate": "2024-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_berserker"
   },
   "nomad_female_swordmaster_costume_cute": {
@@ -14874,6 +15124,7 @@
     "specialId": "toon_cut",
     "canBeReceivedDate": "2024-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_swordmaster"
   },
   "oriental_brawler_costume_cute": {
@@ -14894,6 +15145,7 @@
     "specialId": "toon_slam",
     "canBeReceivedDate": "2024-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_brawler"
   },
   "forest_female_spirit_costume_cute": {
@@ -14914,6 +15166,7 @@
     "specialId": "toon_mist",
     "canBeReceivedDate": "2024-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_spirit"
   },
   "nordic_chained_werewolf_costume_cute": {
@@ -14934,6 +15187,7 @@
     "specialId": "toon_bite",
     "canBeReceivedDate": "2024-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_chained_werewolf"
   },
   "easter_archie_costume_gallant": {
@@ -15030,6 +15284,7 @@
     "specialId": "adorable_pulverizer",
     "canBeReceivedDate": "2024-05-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_troopmaster"
   },
   "oriental_falconer_costume_cute": {
@@ -15050,6 +15305,7 @@
     "specialId": "adorable_tactical_cut",
     "canBeReceivedDate": "2024-06-28 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_falconer"
   },
   "oriental_panda_warrior_costume_cute": {
@@ -15070,6 +15326,7 @@
     "specialId": "adorable_sonic_wall",
     "canBeReceivedDate": "2024-05-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_warrior"
   },
   "lizardman_trapper_costume_cute": {
@@ -15090,6 +15347,7 @@
     "specialId": "adorable_skin",
     "canBeReceivedDate": "2024-05-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_trapper"
   },
   "forest_woodsman_warrior_costume_cute": {
@@ -15110,6 +15368,7 @@
     "specialId": "adorable_massive_chop",
     "canBeReceivedDate": "2024-05-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_woodsman_warrior"
   },
   "blackguard_knight_costume_cute": {
@@ -15130,6 +15389,7 @@
     "specialId": "adorable_purification",
     "canBeReceivedDate": "2024-06-28 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_knight"
   },
   "forest_archer_costume_cute": {
@@ -15150,6 +15410,7 @@
     "specialId": "adorable_entangling_shot",
     "canBeReceivedDate": "2024-05-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_archer"
   },
   "goblin_fighter_costume_cute": {
@@ -15170,6 +15431,7 @@
     "specialId": "adorable_four_blades",
     "canBeReceivedDate": "2024-06-28 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_fighter"
   },
   "forest_friar_costume_cute": {
@@ -15190,6 +15452,7 @@
     "specialId": "adorable_have_faith",
     "canBeReceivedDate": "2024-05-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_friar"
   },
   "nomad_female_shaman_costume_cute": {
@@ -15210,6 +15473,7 @@
     "specialId": "adorable_wind_prayer",
     "canBeReceivedDate": "2024-05-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_shaman"
   },
   "dwarven_smasher_costume_cute": {
@@ -15230,6 +15494,7 @@
     "specialId": "adorable_ramming_rush",
     "canBeReceivedDate": "2024-06-28 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_smasher"
   },
   "orc_warrior_costume_cute": {
@@ -15250,6 +15515,7 @@
     "specialId": "adorable_burning_strike",
     "canBeReceivedDate": "2024-05-31 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_warrior"
   },
   "royal_female_knight_costume_cute": {
@@ -15270,6 +15536,7 @@
     "specialId": "adorable_piercing_strike",
     "canBeReceivedDate": "2024-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_female_knight"
   },
   "oriental_monkey_captain_costume_cute": {
@@ -15290,6 +15557,7 @@
     "specialId": "adorable_gamblers_stance",
     "canBeReceivedDate": "2024-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_monkey_captain"
   },
   "lizardman_warrior_costume_cute": {
@@ -15310,6 +15578,7 @@
     "specialId": "adorable_ramming_rush_isshtak",
     "canBeReceivedDate": "2024-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_warrior"
   },
   "nordic_mage_costume_cute": {
@@ -15330,6 +15599,7 @@
     "specialId": "adorable_cold_blast",
     "canBeReceivedDate": "2024-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_mage"
   },
   "nomad_female_assassin_costume_cute": {
@@ -15350,6 +15620,7 @@
     "specialId": "toon_barrage",
     "canBeReceivedDate": "2024-08-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_assassin"
   },
   "blackguard_commander_costume_cute": {
@@ -15370,6 +15641,7 @@
     "specialId": "toontastic_pulverizer",
     "canBeReceivedDate": "2024-08-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_commander"
   },
   "dwarven_guard_costume_cute": {
@@ -15390,6 +15662,7 @@
     "specialId": "toon_riposte",
     "canBeReceivedDate": "2024-09-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_guard"
   },
   "undead_female_warrior_costume_cute": {
@@ -15410,6 +15683,7 @@
     "specialId": "fog_of_the_toons",
     "canBeReceivedDate": "2024-10-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_female_warrior"
   },
   "oriental_female_guard_costume_cute": {
@@ -15430,6 +15704,7 @@
     "specialId": "toon_attack",
     "canBeReceivedDate": "2024-08-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_guard"
   },
   "undead_horned_skeleton_costume_cute": {
@@ -15450,6 +15725,7 @@
     "specialId": "toon_traps",
     "canBeReceivedDate": "2024-08-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_horned_skeleton"
   },
   "royal_knight_costume_cute": {
@@ -15470,6 +15746,7 @@
     "specialId": "toon_link",
     "canBeReceivedDate": "2024-09-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight"
   },
   "blackguard_skulker_costume_cute": {
@@ -15490,6 +15767,7 @@
     "specialId": "toon_stars",
     "canBeReceivedDate": "2024-09-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_skulker"
   },
   "undead_running_skeleton_costume_cute": {
@@ -15510,6 +15788,7 @@
     "specialId": "toon_hit",
     "canBeReceivedDate": "2024-10-06 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_running_skeleton"
   },
   "s5_cleopatra_costume_feline": {
@@ -16294,7 +16573,7 @@
     "specialId": "dishonorable_ploy",
     "canBeReceivedDate": "2023-09-20 07:00:00",
     "origin": "The Brave & The Beautiful",
-    "costumeBonusesId": "musketeer_dec_2025"
+    "costumeBonusesId": "musketeer_apr_2026"
   },
   "monster_hunter_otis": {
     "id": "Hunter Blademaster",
@@ -16586,7 +16865,8 @@
     "rarity": 5,
     "specialId": "web_of_spies",
     "canBeReceivedDate": "2023-09-20 07:00:00",
-    "origin": "The Brave & The Beautiful"
+    "origin": "The Brave & The Beautiful",
+    "costumeBonusesId": "musketeer_apr_2026"
   },
   "musketeer_villiers": {
     "id": "Pompous Duke",
@@ -16624,7 +16904,7 @@
     "specialId": "masterful_manipulation",
     "canBeReceivedDate": "2023-03-08 07:00:00",
     "origin": "The Brave & The Beautiful",
-    "costumeBonusesId": "musketeer_mar_2026"
+    "costumeBonusesId": "musketeer"
   },
   "musketeer_planchet": {
     "id": "Valiant Valet",
@@ -16733,7 +17013,8 @@
     "rarity": 5,
     "specialId": "the_queens_speech",
     "canBeReceivedDate": "2022-12-14 07:00:00",
-    "origin": "The Brave & The Beautiful"
+    "origin": "The Brave & The Beautiful",
+    "costumeBonusesId": "musketeer_apr_2026"
   },
   "musketeer_kitty": {
     "id": "Friendly Florist",
@@ -16790,7 +17071,7 @@
     "specialId": "sword_dance",
     "canBeReceivedDate": "2023-07-26 07:00:00",
     "origin": "The Brave & The Beautiful",
-    "costumeBonusesId": "musketeer_dec_2025"
+    "costumeBonusesId": "musketeer_apr_2026"
   },
   "lunar_new_year_laohu": {
     "id": "Lunar Brawler Tiger",
@@ -18037,7 +18318,9 @@
     "rarity": 3,
     "specialId": "sunscreen_blast",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
+    "costumeBonusesId": "beachparty"
   },
   "beachparty_itham": {
     "id": "Elf Swimming School Instructor",
@@ -18056,7 +18339,9 @@
     "rarity": 4,
     "specialId": "cannonball_splash",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
+    "costumeBonusesId": "beachparty"
   },
   "beachparty_misty": {
     "id": "Snorkeling Gnome",
@@ -18075,7 +18360,9 @@
     "rarity": 5,
     "specialId": "seastar_burst",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
+    "costumeBonusesId": "beachparty_aug_2026"
   },
   "beachparty_flip": {
     "id": "Seal Lifeguard",
@@ -18095,6 +18382,7 @@
     "specialId": "to_the_rescue",
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
     "costumeBonusesId": "beachparty"
   },
   "beachparty_davey_wavey": {
@@ -18114,7 +18402,8 @@
     "rarity": 5,
     "specialId": "waters_of_nourishment",
     "canBeReceivedDate": "2024-06-03 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_zenukwa": {
     "id": "Ice Cream Enthusiast",
@@ -18133,7 +18422,8 @@
     "rarity": 5,
     "specialId": "ice_cream_smash",
     "canBeReceivedDate": "2024-06-03 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_mazoga": {
     "id": "Orc Water Gunner",
@@ -18152,7 +18442,8 @@
     "rarity": 5,
     "specialId": "super_duper_spray",
     "canBeReceivedDate": "2024-06-03 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_serena": {
     "id": "Shoreside Socialite",
@@ -18171,7 +18462,8 @@
     "rarity": 5,
     "specialId": "spreading_gossip",
     "canBeReceivedDate": "2025-06-03 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_andy_jay": {
     "id": "Reveler of Sunlit Shores",
@@ -18190,7 +18482,48 @@
     "rarity": 5,
     "specialId": "blazing_rave_dance",
     "canBeReceivedDate": "2025-06-03 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
+  },
+  "beachparty_skiff": {
+    "id": "beachparty_skiff",
+    "element": "Purple",
+    "family": "beachparty",
+    "baseHealth": 1125,
+    "baseAttack": 640,
+    "baseDefense": 659,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "underwater_on_special_beach"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "kite_diving",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
+  },
+  "beachparty_bubo": {
+    "id": "beachparty_bubo",
+    "element": "Yellow",
+    "family": "beachparty",
+    "baseHealth": 1120,
+    "baseAttack": 630,
+    "baseDefense": 670,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "underwater_on_special_beach"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "terrycloth_shakeoff",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_brebarg": {
     "id": "Sandcastle Expert",
@@ -18208,7 +18541,8 @@
     "rarity": 5,
     "specialId": "tackle",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_dillo": {
     "id": "Soaked Armadillo",
@@ -18226,7 +18560,8 @@
     "rarity": 5,
     "specialId": "tackle",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_mortimer": {
     "id": "Dark Elf Surfer",
@@ -18245,7 +18580,8 @@
     "rarity": 5,
     "specialId": "tidal_waves",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "Beach Party"
+    "origin": "Beach Party",
+    "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "construct_ferrus": {
     "id": "Pirate Construct",
@@ -18776,7 +19112,7 @@
     "specialId": "hoverboard_slam",
     "canBeReceivedDate": "2023-08-14 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_mar_2026"
   },
   "holy_god_ithar": {
     "id": "Virtuous Cat Burglar",
@@ -18984,7 +19320,7 @@
     "specialId": "pineapple_barbeque",
     "canBeReceivedDate": "2023-09-11 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_may_2026"
   },
   "elemental_linus": {
     "id": "Carefree Convict",
@@ -20047,6 +20383,7 @@
     "specialId": "glass_volcano",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lionman_barbarian"
   },
   "nordic_male_lord_costume_glass": {
@@ -20067,6 +20404,7 @@
     "specialId": "glass_hammer",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_male_lord"
   },
   "oriental_female_mystic_costume_glass": {
@@ -20087,6 +20425,7 @@
     "specialId": "glass_heal",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mystic"
   },
   "cultist_sorceress_costume_glass": {
@@ -20107,6 +20446,7 @@
     "specialId": "glass_strike",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_sorceress"
   },
   "nordic_ancestral_warrior_costume_glass": {
@@ -20127,6 +20467,7 @@
     "specialId": "glass_pulverizer",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ancestral_warrior"
   },
   "orc_gladiator_costume_glass": {
@@ -20147,6 +20488,7 @@
     "specialId": "glass_warcry",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_gladiator"
   },
   "oriental_panda_berserker_costume_glass": {
@@ -20167,6 +20509,7 @@
     "specialId": "glass_chop",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_berserker"
   },
   "nomad_mage_costume_glass": {
@@ -20187,6 +20530,7 @@
     "specialId": "glass_fireball",
     "canBeReceivedDate": "2024-12-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_mage"
   },
   "forest_male_elf_costume_glass": {
@@ -20207,6 +20551,7 @@
     "specialId": "glass_spear",
     "canBeReceivedDate": "2025-01-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_male_elf"
   },
   "underworld_champion_costume_glass": {
@@ -20227,6 +20572,7 @@
     "specialId": "cleave_and_reflect",
     "canBeReceivedDate": "2025-01-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "underworld_champion"
   },
   "oriental_warrior_king_costume_glass": {
@@ -20247,6 +20593,7 @@
     "specialId": "glass_cleave",
     "canBeReceivedDate": "2025-02-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_warrior_king"
   },
   "nomad_female_captain_costume_glass": {
@@ -20267,6 +20614,7 @@
     "specialId": "glass_flame_smash",
     "canBeReceivedDate": "2025-02-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_captain"
   },
   "exalted_warrior_costume_glass": {
@@ -20287,6 +20635,7 @@
     "specialId": "glass_strike_magni",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_warrior"
   },
   "oriental_enchanted_monk_costume_glass": {
@@ -20307,13 +20656,14 @@
     "specialId": "glass_beam",
     "canBeReceivedDate": "2025-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_enchanted_monk"
   },
   "oriental_enchanted_monk_costume_stylish": {
     "id": "Stylish Sun Monk",
     "element": "Yellow",
     "family": "classic",
-    "baseHealth": 639,
+    "baseHealth": 640,
     "baseAttack": 379,
     "baseDefense": 300,
     "manaSpeedId": "fast",
@@ -20325,8 +20675,9 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "stylish_beam",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_enchanted_monk"
   },
   "elven_archer_costume_glass": {
@@ -20347,6 +20698,7 @@
     "specialId": "glass_arrow",
     "canBeReceivedDate": "2025-05-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_archer"
   },
   "elven_archer_costume_stylish": {
@@ -20367,6 +20719,7 @@
     "specialId": "stylish_arrow",
     "canBeReceivedDate": "2026-03-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_archer"
   },
   "magitech_sniper_costume_glass": {
@@ -20387,6 +20740,7 @@
     "specialId": "glass_bolt",
     "canBeReceivedDate": "2025-04-23 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "magitech_sniper"
   },
   "magitech_sniper_costume_stylish": {
@@ -20405,8 +20759,9 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "stylish_bolt",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "magitech_sniper"
   },
   "tribal_chief_costume_glass": {
@@ -20427,6 +20782,28 @@
     "specialId": "glass_order",
     "canBeReceivedDate": "2025-06-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "tribal_chief"
+  },
+  "tribal_chief_costume_stylish": {
+    "id": "tribal_chief_costume_stylish",
+    "element": "Red",
+    "family": "classic",
+    "baseHealth": 691,
+    "baseAttack": 366,
+    "baseDefense": 299,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Ranger",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "stylish_order",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "tribal_chief"
   },
   "nordic_ice_enchantress_costume_glass": {
@@ -20447,6 +20824,7 @@
     "specialId": "glass_shatter",
     "canBeReceivedDate": "2025-06-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ice_enchantress"
   },
   "nomad_female_lord_costume_glass": {
@@ -20467,6 +20845,7 @@
     "specialId": "glass_swords",
     "canBeReceivedDate": "2025-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_lord"
   },
   "exalted_female_statue_costume_glass": {
@@ -20487,6 +20866,7 @@
     "specialId": "rite_of_glass",
     "canBeReceivedDate": "2025-08-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_female_statue"
   },
   "forest_titan_costume_glass": {
@@ -20507,6 +20887,7 @@
     "specialId": "glass_anger_of_forest_horghall",
     "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_titan"
   },
   "cultist_inventor_costume_glass": {
@@ -20527,6 +20908,7 @@
     "specialId": "glass_thunderstrike_quintus",
     "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_inventor"
   },
   "royal_knight_commander_costume_glass": {
@@ -20547,6 +20929,7 @@
     "specialId": "glass_finisher_thorne",
     "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_knight_commander"
   },
   "forest_female_elf_costume_glass": {
@@ -20567,6 +20950,7 @@
     "specialId": "glass_shield_kadilen",
     "canBeReceivedDate": "2025-12-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_elf"
   },
   "elven_captain_costume_glass": {
@@ -20587,6 +20971,7 @@
     "specialId": "glass_strike_caedmon",
     "canBeReceivedDate": "2025-01-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_captain"
   },
   "oriental_female_templar_costume_glass": {
@@ -20607,6 +20992,7 @@
     "specialId": "slash_of_glass_blades",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_templar"
   },
   "forest_mage_costume_glass": {
@@ -20627,6 +21013,7 @@
     "specialId": "fog_of_the_vitrails",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_mage"
   },
   "dwarwen_brewmaster_costume_glass": {
@@ -20647,6 +21034,7 @@
     "specialId": "glass_brew",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarwen_brewmaster"
   },
   "nomad_axe_adventurer_costume_glass": {
@@ -20667,6 +21055,7 @@
     "specialId": "vitrail_flames",
     "canBeReceivedDate": "2025-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_axe_adventurer"
   },
   "nomad_axe_adventurer_costume_stylish": {
@@ -20685,8 +21074,9 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "stylish_flames",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_axe_adventurer"
   },
   "goblin_mage_costume_glass": {
@@ -20707,6 +21097,7 @@
     "specialId": "glass_vines",
     "canBeReceivedDate": "2025-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_mage"
   },
   "goblin_mage_costume_stylish": {
@@ -20725,8 +21116,9 @@
     "aetherGift": "Mana Boost",
     "rarity": 4,
     "specialId": "stylish_vines",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_mage"
   },
   "undead_captain_warrior_costume_glass": {
@@ -20747,13 +21139,14 @@
     "specialId": "glass_riposte",
     "canBeReceivedDate": "2025-04-23 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_captain_warrior"
   },
   "undead_captain_warrior_costume_stylish": {
     "id": "Stylish Deathbound Lord",
     "element": "Purple",
     "family": "classic",
-    "baseHealth": 654,
+    "baseHealth": 655,
     "baseAttack": 262,
     "baseDefense": 287,
     "manaSpeedId": "average",
@@ -20765,8 +21158,9 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "stylish_riposte_cyprian",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_captain_warrior"
   },
   "nomad_female_berserker_costume_glass": {
@@ -20787,13 +21181,14 @@
     "specialId": "dance_of_glass",
     "canBeReceivedDate": "2025-04-23 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_berserker"
   },
   "nomad_female_berserker_costume_stylish": {
     "id": "Stylish Priestess",
     "element": "Red",
     "family": "classic",
-    "baseHealth": 447,
+    "baseHealth": 448,
     "baseAttack": 336,
     "baseDefense": 301,
     "manaSpeedId": "fast",
@@ -20805,8 +21200,9 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "stylish_dance",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_berserker"
   },
   "orc_troopmaster_costume_glass": {
@@ -20827,6 +21223,28 @@
     "specialId": "glass_pulverizer",
     "canBeReceivedDate": "2025-05-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "orc_troopmaster"
+  },
+  "orc_troopmaster_costume_stylish": {
+    "id": "orc_troopmaster_costume_stylish",
+    "element": "Red",
+    "family": "classic",
+    "baseHealth": 635,
+    "baseAttack": 265,
+    "baseDefense": 295,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Barbarian",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Rage",
+    "rarity": 4,
+    "specialId": "stylish_pulverizer",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_troopmaster"
   },
   "forest_woodsman_warrior_costume_glass": {
@@ -20847,6 +21265,28 @@
     "specialId": "glass_massive_chop",
     "canBeReceivedDate": "2025-05-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "forest_woodsman_warrior"
+  },
+  "forest_woodsman_warrior_costume_stylish": {
+    "id": "forest_woodsman_warrior_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 469,
+    "baseAttack": 343,
+    "baseDefense": 277,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Barbarian",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Defense Up",
+    "rarity": 4,
+    "specialId": "massive_style",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_woodsman_warrior"
   },
   "oriental_panda_warrior_costume_glass": {
@@ -20867,6 +21307,7 @@
     "specialId": "glass_wall",
     "canBeReceivedDate": "2025-06-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_warrior"
   },
   "lizardman_trapper_costume_glass": {
@@ -20887,6 +21328,7 @@
     "specialId": "glass_skin",
     "canBeReceivedDate": "2025-06-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_trapper"
   },
   "blackguard_knight_costume_glass": {
@@ -20907,6 +21349,7 @@
     "specialId": "glass_purification",
     "canBeReceivedDate": "2025-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_knight"
   },
   "oriental_falconer_costume_glass": {
@@ -20927,6 +21370,7 @@
     "specialId": "glass_cut_chao",
     "canBeReceivedDate": "2025-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_falconer"
   },
   "royal_female_knight_costume_glass": {
@@ -20947,6 +21391,7 @@
     "specialId": "glass_piercing_strike",
     "canBeReceivedDate": "2025-08-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "royal_female_knight"
   },
   "oriental_monkey_captain_costume_glass": {
@@ -20967,6 +21412,7 @@
     "specialId": "glass_gamblers_stance",
     "canBeReceivedDate": "2025-08-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_monkey_captain"
   },
   "nomad_female_assassin_costume_glass": {
@@ -20987,6 +21433,7 @@
     "specialId": "glass_barrage_scarlett",
     "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_assassin"
   },
   "blackguard_commander_costume_glass": {
@@ -21007,6 +21454,7 @@
     "specialId": "glass_pulverizer_tiburtus",
     "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_commander"
   },
   "dwarven_guard_costume_glass": {
@@ -21027,6 +21475,7 @@
     "specialId": "glass_riposte_boril",
     "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_guard"
   },
   "undead_female_warrior_costume_glass": {
@@ -21047,6 +21496,7 @@
     "specialId": "fog_of_the_glass_sabina",
     "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_female_warrior"
   },
   "nordic_swordman_costume_glass": {
@@ -21067,6 +21517,7 @@
     "specialId": "glass_slash",
     "canBeReceivedDate": "2025-12-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_swordman"
   },
   "forest_female_druid_costume_glass": {
@@ -21087,6 +21538,7 @@
     "specialId": "glass_fury",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_druid"
   },
   "cultist_mage_costume_glass": {
@@ -21107,6 +21559,7 @@
     "specialId": "glass_jolt",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_mage"
   },
   "oriental_female_mage_costume_glass": {
@@ -21127,6 +21580,7 @@
     "specialId": "glass_link",
     "canBeReceivedDate": "2025-03-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mage"
   },
   "blackguard_female_captain_costume_glass": {
@@ -21147,6 +21601,7 @@
     "specialId": "glass_stab",
     "canBeReceivedDate": "2025-04-08 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_female_captain"
   },
   "blackguard_female_captain_costume_stylish": {
@@ -21165,8 +21620,9 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "stylish_stab",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_female_captain"
   },
   "nomad_female_swordmaster_costume_glass": {
@@ -21187,6 +21643,7 @@
     "specialId": "glass_cut",
     "canBeReceivedDate": "2025-04-23 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_swordmaster"
   },
   "nomad_female_swordmaster_costume_stylish": {
@@ -21205,8 +21662,9 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "stylish_cut",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_swordmaster"
   },
   "forest_female_spirit_costume_glass": {
@@ -21227,6 +21685,7 @@
     "specialId": "glass_mist",
     "canBeReceivedDate": "2025-04-23 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_spirit"
   },
   "forest_female_spirit_costume_stylish": {
@@ -21245,8 +21704,9 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "stylish_mist",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_spirit"
   },
   "oriental_brawler_costume_glass": {
@@ -21267,6 +21727,28 @@
     "specialId": "glass_slam",
     "canBeReceivedDate": "2025-05-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "oriental_brawler"
+  },
+  "oriental_brawler_costume_stylish": {
+    "id": "oriental_brawler_costume_stylish",
+    "element": "Yellow",
+    "family": "classic",
+    "baseHealth": 407,
+    "baseAttack": 280,
+    "baseDefense": 224,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Monk",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 3,
+    "specialId": "stylish_slam",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_brawler"
   },
   "forest_archer_costume_glass": {
@@ -21287,6 +21769,28 @@
     "specialId": "glass_entangling_shot",
     "canBeReceivedDate": "2025-05-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "forest_archer"
+  },
+  "forest_archer_costume_stylish": {
+    "id": "forest_archer_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 396,
+    "baseAttack": 276,
+    "baseDefense": 242,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Ranger",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 3,
+    "specialId": "stylish_shot",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_archer"
   },
   "nordic_chained_werewolf_costume_glass": {
@@ -21307,6 +21811,7 @@
     "specialId": "glass_bite",
     "canBeReceivedDate": "2025-06-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_chained_werewolf"
   },
   "forest_friar_costume_glass": {
@@ -21327,6 +21832,7 @@
     "specialId": "glass_have_faith",
     "canBeReceivedDate": "2025-06-18 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_friar"
   },
   "undead_running_skeleton_costume_glass": {
@@ -21347,6 +21853,7 @@
     "specialId": "glass_piercing_hit_tyrum",
     "canBeReceivedDate": "2025-12-11 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_running_skeleton"
   },
   "nomad_female_shaman_costume_glass": {
@@ -21367,6 +21874,7 @@
     "specialId": "glass_prayer",
     "canBeReceivedDate": "2025-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_shaman"
   },
   "goblin_fighter_costume_glass": {
@@ -21387,6 +21895,7 @@
     "specialId": "glass_four_blades",
     "canBeReceivedDate": "2025-07-16 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "goblin_fighter"
   },
   "orc_warrior_costume_glass": {
@@ -21407,6 +21916,7 @@
     "specialId": "glass_burning_strike",
     "canBeReceivedDate": "2025-08-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_warrior"
   },
   "dwarven_smasher_costume_glass": {
@@ -21427,6 +21937,7 @@
     "specialId": "glass_ramming_rush",
     "canBeReceivedDate": "2025-08-10 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_smasher"
   },
   "lizardman_warrior_costume_glass": {
@@ -21447,6 +21958,7 @@
     "specialId": "glass_ramming_rush_isshtak",
     "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_warrior"
   },
   "undead_horned_skeleton_costume_glass": {
@@ -21467,6 +21979,7 @@
     "specialId": "glass_traps_oberon",
     "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_horned_skeleton"
   },
   "nordic_mage_costume_glass": {
@@ -21487,6 +22000,7 @@
     "specialId": "glass_cold_blast_ulmer",
     "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_mage"
   },
   "oriental_female_guard_costume_glass": {
@@ -21507,6 +22021,7 @@
     "specialId": "glass_leaping_attack_dawa",
     "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_guard"
   },
   "blackguard_skulker_costume_glass": {
@@ -21527,6 +22042,7 @@
     "specialId": "glass_leeching_stars_renfeld",
     "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_skulker"
   },
   "bard_belladonna_costume_ratcatcher": {
@@ -21813,6 +22329,9 @@
     ],
     "classType": "Paladin",
     "aetherGift": "Special Armor",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_green"
+    ],
     "rarity": 5,
     "specialId": "cauterizing_flame",
     "canBeReceivedDate": "2025-05-24 07:00:00",
@@ -21832,6 +22351,9 @@
     ],
     "classType": "Rogue",
     "aetherGift": "Ailment Immunity",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_purple"
+    ],
     "rarity": 5,
     "specialId": "golden_sacred_symbol",
     "canBeReceivedDate": "2025-06-20 07:00:00",
@@ -21851,6 +22373,9 @@
     ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_blue"
+    ],
     "rarity": 5,
     "specialId": "sonic_infusion_arrow",
     "canBeReceivedDate": "2025-07-18 07:00:00",
@@ -21870,6 +22395,9 @@
     ],
     "classType": "Druid",
     "aetherGift": "Counterattack",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_red"
+    ],
     "rarity": 5,
     "specialId": "great_frost_hoe",
     "canBeReceivedDate": "2025-08-12 07:00:00",
@@ -21889,6 +22417,9 @@
     ],
     "classType": "Monk",
     "aetherGift": "Damage Reduction",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_yellow"
+    ],
     "rarity": 5,
     "specialId": "memory_manipulation",
     "canBeReceivedDate": "2025-08-28 07:00:00",
@@ -21914,6 +22445,66 @@
     "canBeReceivedDate": "2025-06-03 07:00:00",
     "origin": "Beach Party",
     "parentHeroId": "beachparty_flip"
+  },
+  "beachparty_dolrak_costume_tattoo": {
+    "id": "beachparty_dolrak_costume_tattoo",
+    "element": "Yellow",
+    "family": "beachparty",
+    "baseHealth": 414,
+    "baseAttack": 304,
+    "baseDefense": 284,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "underwater_on_special_beach"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Special Boost",
+    "rarity": 3,
+    "specialId": "tattoo_ink_blast",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "Beach Party",
+    "parentHeroId": "beachparty_dolrak"
+  },
+  "beachparty_itham_costume_skateboard": {
+    "id": "beachparty_itham_costume_skateboard",
+    "element": "Red",
+    "family": "beachparty",
+    "baseHealth": 569,
+    "baseAttack": 317,
+    "baseDefense": 332,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "underwater_on_special_beach"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Dodge",
+    "rarity": 4,
+    "specialId": "cannonball_slam",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "Beach Party",
+    "parentHeroId": "beachparty_itham"
+  },
+  "beachparty_misty_costume_rogue": {
+    "id": "beachparty_misty_costume_rogue",
+    "element": "Blue",
+    "family": "beachparty",
+    "baseHealth": 713,
+    "baseAttack": 429,
+    "baseDefense": 409,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "underwater_on_special_beach"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "seastar_decoy",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "Beach Party",
+    "parentHeroId": "beachparty_misty"
   },
   "magic_ray_costume_spiky": {
     "id": "Champion of the Bramble",
@@ -22050,6 +22641,9 @@
     ],
     "classType": "Rogue",
     "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_green"
+    ],
     "rarity": 5,
     "specialId": "dual_data_blades",
     "canBeReceivedDate": "2025-09-04 07:00:00",
@@ -22069,6 +22663,9 @@
     ],
     "classType": "Fighter",
     "aetherGift": "Bulwark",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_purple"
+    ],
     "rarity": 5,
     "specialId": "cosmic_devotion",
     "canBeReceivedDate": "2025-11-10 07:00:00",
@@ -22088,6 +22685,9 @@
     ],
     "classType": "Cleric",
     "aetherGift": "Special Armor",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_blue"
+    ],
     "rarity": 5,
     "specialId": "melody_of_mana_control",
     "canBeReceivedDate": "2025-12-07 07:00:00",
@@ -22107,6 +22707,9 @@
     ],
     "classType": "Monk",
     "aetherGift": "Regen",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_red"
+    ],
     "rarity": 5,
     "specialId": "radiant_shackles",
     "canBeReceivedDate": "2026-01-02 07:00:00",
@@ -22126,6 +22729,9 @@
     ],
     "classType": "Barbarian",
     "aetherGift": "Damage Reduction",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_yellow"
+    ],
     "rarity": 5,
     "specialId": "lacerating_letters",
     "canBeReceivedDate": "2026-02-19 07:00:00",
@@ -22136,15 +22742,18 @@
     "id": "Three-Eyed Enchanter",
     "element": "Red",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 769,
+    "baseAttack": 487,
+    "baseDefense": 458,
     "manaSpeedId": "average",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Wizard",
     "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_green"
+    ],
     "rarity": 5,
     "specialId": "enchanting_divination",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22164,6 +22773,9 @@
     ],
     "classType": "Ranger",
     "aetherGift": "Rage",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_purple"
+    ],
     "rarity": 5,
     "specialId": "overvlowing_whirlwind",
     "canBeReceivedDate": "2026-03-17 07:00:00",
@@ -22174,18 +22786,21 @@
     "id": "Hoverboard Mage",
     "element": "Green",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 810,
+    "baseAttack": 460,
+    "baseDefense": 447,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Dodge",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_blue"
+    ],
     "rarity": 5,
     "specialId": "hoverboard_crash",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-24 07:00:00",
     "origin": "SuperElemental",
     "parentHeroId": "elemental_zuni"
   },
@@ -22193,18 +22808,21 @@
     "id": "Cosmic Alchemist",
     "element": "Blue",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 840,
+    "baseAttack": 440,
+    "baseDefense": 469,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Monk",
-    "aetherGift": "Ailment Reflect",
+    "aetherGift": "Defense Up",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_red"
+    ],
     "rarity": 5,
     "specialId": "pineapple_alchemist",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-15 07:00:00",
     "origin": "SuperElemental",
     "parentHeroId": "elemental_quinn"
   },
@@ -22212,15 +22830,18 @@
     "id": "Cyber Blade Master",
     "element": "Purple",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 779,
+    "baseAttack": 491,
+    "baseDefense": 466,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Fighter",
     "aetherGift": "Attack Up",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_yellow"
+    ],
     "rarity": 5,
     "specialId": "turquoise_falcon",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22231,15 +22852,18 @@
     "id": "Scythe Master of the Music",
     "element": "Red",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 889,
+    "baseAttack": 472,
+    "baseDefense": 502,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Barbarian",
     "aetherGift": "Bulwark",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_green"
+    ],
     "rarity": 5,
     "specialId": "melody_harvest",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22250,15 +22874,18 @@
     "id": "Warlord of the Legion",
     "element": "Yellow",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 805,
+    "baseAttack": 488,
+    "baseDefense": 468,
     "manaSpeedId": "average",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Monk",
     "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_purple"
+    ],
     "rarity": 5,
     "specialId": "chains_of_legion",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22270,14 +22897,17 @@
     "element": "Green",
     "family": "super_elemental",
     "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseAttack": 491,
+    "baseDefense": 472,
     "manaSpeedId": "average",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Druid",
     "aetherGift": "Counterattack",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_blue"
+    ],
     "rarity": 5,
     "specialId": "nephrite_blade",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22288,15 +22918,18 @@
     "id": "Mythic Navigator",
     "element": "Blue",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 774,
+    "baseAttack": 522,
+    "baseDefense": 474,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Rogue",
     "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_red"
+    ],
     "rarity": 5,
     "specialId": "mythic_lightning",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22307,15 +22940,18 @@
     "id": "Sporty Hazard",
     "element": "Purple",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 834,
+    "baseAttack": 524,
+    "baseDefense": 489,
     "manaSpeedId": "average",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Paladin",
     "aetherGift": "Defense Up",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_yellow"
+    ],
     "rarity": 5,
     "specialId": "protein_corruption",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22326,15 +22962,18 @@
     "id": "Savage Bounty Hunter",
     "element": "Red",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 890,
+    "baseAttack": 552,
+    "baseDefense": 518,
     "manaSpeedId": "average",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Ranger",
     "aetherGift": "Rage",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_green"
+    ],
     "rarity": 5,
     "specialId": "steel_rush",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22345,15 +22984,18 @@
     "id": "Treasured Quartermaster",
     "element": "Yellow",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 899,
+    "baseAttack": 491,
+    "baseDefense": 524,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Paladin",
     "aetherGift": "Damage Reduction",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_purple"
+    ],
     "rarity": 5,
     "specialId": "treasure_ale",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22364,15 +23006,18 @@
     "id": "Elemental Occultist",
     "element": "Green",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 910,
+    "baseAttack": 501,
+    "baseDefense": 523,
     "manaSpeedId": "average",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Wizard",
     "aetherGift": "Special Armor",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_blue"
+    ],
     "rarity": 5,
     "specialId": "ritual_of_the_elements",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22383,15 +23028,18 @@
     "id": "Jewelled Assassin",
     "element": "Blue",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 426,
-    "baseDefense": 415,
+    "baseHealth": 889,
+    "baseAttack": 550,
+    "baseDefense": 499,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Druid",
     "aetherGift": "Dodge",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_red"
+    ],
     "rarity": 5,
     "specialId": "fortunate_slice",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22411,6 +23059,9 @@
     ],
     "classType": "Sorcerer",
     "aetherGift": "Ailment Reflect",
+    "costumeBonusPassiveSkillIds": [
+      "resist_ailments_yellow"
+    ],
     "rarity": 5,
     "specialId": "trickster_grenades",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -22629,7 +23280,7 @@
     "family": "musketeer",
     "baseHealth": 850,
     "baseAttack": 440,
-    "baseDefense": 420,
+    "baseDefense": 421,
     "manaSpeedId": "average",
     "passiveSkills": [
       "damage_all_enemies_on_cover_or_special_damage_received_costume",
@@ -22639,9 +23290,49 @@
     "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "exterminators_ploy",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-16 07:00:00",
     "origin": "The Brave & The Beautiful",
     "parentHeroId": "musketeer_rochefort"
+  },
+  "musketeer_queen_anne_costume_commander": {
+    "id": "musketeer_queen_anne_costume_commander",
+    "element": "Green",
+    "family": "musketeer",
+    "baseHealth": 805,
+    "baseAttack": 375,
+    "baseDefense": 434,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "damage_all_enemies_on_cover_or_special_damage_received_costume",
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Taunt",
+    "rarity": 5,
+    "specialId": "leading_by_example",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "The Brave & The Beautiful",
+    "parentHeroId": "musketeer_queen_anne"
+  },
+  "musketeer_cardinal_richelieu_costume_ambassador": {
+    "id": "musketeer_cardinal_richelieu_costume_ambassador",
+    "element": "Red",
+    "family": "musketeer",
+    "baseHealth": 868,
+    "baseAttack": 436,
+    "baseDefense": 415,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "damage_all_enemies_on_cover_or_special_damage_received_costume",
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "web_of_lies",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "The Brave & The Beautiful",
+    "parentHeroId": "musketeer_cardinal_richelieu"
   },
   "musketeer_constance_costume_fusilier": {
     "id": "Courageous Fusilier",
@@ -22659,7 +23350,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "fusiliers_flurry",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-08 07:00:00",
     "origin": "The Brave & The Beautiful",
     "parentHeroId": "musketeer_constance"
   },
@@ -22859,6 +23550,26 @@
     "origin": "Atlantis Summon",
     "parentHeroId": "s2_tethys"
   },
+  "s2_tethys_costume_cute": {
+    "id": "s2_tethys_costume_cute",
+    "element": "Blue",
+    "family": "atlantis",
+    "baseHealth": 707,
+    "baseAttack": 410,
+    "baseDefense": 370,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "toon_assault",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s2_tethys"
+  },
   "s2_oceanus_costume_volcano": {
     "id": "Titan of Magma",
     "element": "Red",
@@ -22873,6 +23584,26 @@
     "specialId": "strength_of_the_volcano",
     "canBeReceivedDate": "2025-10-25 07:00:00",
     "origin": "Atlantis Summon",
+    "parentHeroId": "s2_oceanus"
+  },
+  "s2_oceanus_costume_cute": {
+    "id": "s2_oceanus_costume_cute",
+    "element": "Red",
+    "family": "atlantis",
+    "baseHealth": 672,
+    "baseAttack": 438,
+    "baseDefense": 352,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "strength_of_the_toon",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_oceanus"
   },
   "tales1_domiventus": {
@@ -26087,7 +26818,8 @@
     "rarity": 5,
     "specialId": "nights_whisper",
     "canBeReceivedDate": "2024-12-03 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2_apr_2026"
   },
   "tales2_gandr": {
     "id": "Dwarven Wind Warrior",
@@ -26166,7 +26898,8 @@
     "rarity": 5,
     "specialId": "blazing_venom",
     "canBeReceivedDate": "2025-01-26 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2_may_2026"
   },
   "tales2_hreidmarr": {
     "id": "Dwarven Mountain King",
@@ -26185,7 +26918,8 @@
     "rarity": 5,
     "specialId": "dwarven_kings_levy",
     "canBeReceivedDate": "2025-02-23 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2_mar_2026"
   },
   "tales2_andvari": {
     "id": "Dwarven Oracle",
@@ -26283,7 +27017,8 @@
     "rarity": 5,
     "specialId": "glacial_fissure_cleave",
     "canBeReceivedDate": "2025-04-14 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2_mar_2026"
   },
   "tales2_thrivaldi": {
     "id": "Dwarven Frost Seeker",
@@ -28266,9 +29001,9 @@
     "id": "Queen of the Geats",
     "element": "Purple",
     "family": "beowulf",
-    "baseHealth": 1110,
-    "baseAttack": 627,
-    "baseDefense": 649,
+    "baseHealth": 1131,
+    "baseAttack": 634,
+    "baseDefense": 655,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_buff_immunity",
@@ -28286,9 +29021,9 @@
     "id": "Son of Weohstan",
     "element": "Red",
     "family": "beowulf",
-    "baseHealth": 1099,
-    "baseAttack": 636,
-    "baseDefense": 610,
+    "baseHealth": 1120,
+    "baseAttack": 643,
+    "baseDefense": 617,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -28306,9 +29041,9 @@
     "id": "Skillful Smith",
     "element": "Yellow",
     "family": "beowulf",
-    "baseHealth": 1098,
-    "baseAttack": 627,
-    "baseDefense": 637,
+    "baseHealth": 1118,
+    "baseAttack": 634,
+    "baseDefense": 644,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -28535,8 +29270,8 @@
     "id": "Snow Leopard Magus",
     "element": "Blue",
     "family": "wild_cat",
-    "baseHealth": 1071,
-    "baseAttack": 660,
+    "baseHealth": 1101,
+    "baseAttack": 669,
     "baseDefense": 586,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -28554,8 +29289,8 @@
     "id": "Flank-Stabbing Panther",
     "element": "Purple",
     "family": "wild_cat",
-    "baseHealth": 1084,
-    "baseAttack": 643,
+    "baseHealth": 1111,
+    "baseAttack": 653,
     "baseDefense": 609,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
@@ -28573,9 +29308,9 @@
     "id": "The Crown of the Jungle",
     "element": "Red",
     "family": "wild_cat",
-    "baseHealth": 1099,
-    "baseAttack": 681,
-    "baseDefense": 581,
+    "baseHealth": 1119,
+    "baseAttack": 688,
+    "baseDefense": 588,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28592,9 +29327,9 @@
     "id": "Cat of the Sun-Blessed Valley",
     "element": "Yellow",
     "family": "wild_cat",
-    "baseHealth": 1120,
-    "baseAttack": 676,
-    "baseDefense": 608,
+    "baseHealth": 1141,
+    "baseAttack": 683,
+    "baseDefense": 615,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28611,9 +29346,9 @@
     "id": "Unlucky Tigris Fisher",
     "element": "Blue",
     "family": "wild_cat",
-    "baseHealth": 1107,
-    "baseAttack": 670,
-    "baseDefense": 600,
+    "baseHealth": 1129,
+    "baseAttack": 672,
+    "baseDefense": 613,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28630,9 +29365,9 @@
     "id": "Ruthless Frontline Lynx",
     "element": "Red",
     "family": "wild_cat",
-    "baseHealth": 1131,
-    "baseAttack": 694,
-    "baseDefense": 594,
+    "baseHealth": 1149,
+    "baseAttack": 701,
+    "baseDefense": 601,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28642,16 +29377,16 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "tip_of_the_spear",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-03-30 11:15:00",
     "origin": "Wilderness Summon"
   },
   "wild_cat_rawn": {
     "id": "Cougar Burglar",
     "element": "Purple",
     "family": "wild_cat",
-    "baseHealth": 1045,
-    "baseAttack": 668,
-    "baseDefense": 598,
+    "baseHealth": 1127,
+    "baseAttack": 695,
+    "baseDefense": 625,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28661,7 +29396,102 @@
     "aetherGift": "Taunt",
     "rarity": 5,
     "specialId": "caught_and_vicious",
+    "canBeReceivedDate": "2026-04-09 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_vora": {
+    "id": "wild_cat_vora",
+    "element": "Blue",
+    "family": "wild_cat",
+    "baseHealth": 1150,
+    "baseAttack": 663,
+    "baseDefense": 610,
+    "manaSpeedId": "very_slow",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "absolute_stillness",
     "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_irme": {
+    "id": "wild_cat_irme",
+    "element": "Red",
+    "family": "wild_cat",
+    "baseHealth": 1105,
+    "baseAttack": 690,
+    "baseDefense": 600,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "ignited_defiance",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_tyrix": {
+    "id": "wild_cat_tyrix",
+    "element": "Yellow",
+    "family": "wild_cat",
+    "baseHealth": 1090,
+    "baseAttack": 701,
+    "baseDefense": 593,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "rending_flurry",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_mina": {
+    "id": "wild_cat_mina",
+    "element": "Purple",
+    "family": "wild_cat",
+    "baseHealth": 1085,
+    "baseAttack": 705,
+    "baseDefense": 591,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "ocarina_of_sorrow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_zarek": {
+    "id": "wild_cat_zarek",
+    "element": "Green",
+    "family": "wild_cat",
+    "baseHealth": 1157,
+    "baseAttack": 715,
+    "baseDefense": 614,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "whirling_stone_storm",
+    "canBeReceivedDate": "2026-05-24 07:00:00",
     "origin": "Wilderness Summon"
   },
   "wild_cat_ferni": {
@@ -29130,9 +29960,9 @@
     "id": "Panther Head of Water Margin",
     "element": "Green",
     "family": "outlaw",
-    "baseHealth": 1097,
-    "baseAttack": 645,
-    "baseDefense": 618,
+    "baseHealth": 1118,
+    "baseAttack": 652,
+    "baseDefense": 625,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "resist_bleed",
@@ -29230,9 +30060,9 @@
     "id": "Knowledge Star of Water Margin",
     "element": "Yellow",
     "family": "outlaw",
-    "baseHealth": 1099,
-    "baseAttack": 610,
-    "baseDefense": 639,
+    "baseHealth": 1119,
+    "baseAttack": 617,
+    "baseDefense": 646,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_bleed",
@@ -29270,9 +30100,9 @@
     "id": "Bright Star of Water Margin",
     "element": "Purple",
     "family": "outlaw",
-    "baseHealth": 1106,
-    "baseAttack": 627,
-    "baseDefense": 651,
+    "baseHealth": 1127,
+    "baseAttack": 634,
+    "baseDefense": 658,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_bleed",
@@ -29290,9 +30120,9 @@
     "id": "Nine Dragon Tattoos of Water Margin",
     "element": "Purple",
     "family": "outlaw",
-    "baseHealth": 1117,
-    "baseAttack": 650,
-    "baseDefense": 639,
+    "baseHealth": 1138,
+    "baseAttack": 657,
+    "baseDefense": 646,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_bleed",
@@ -29310,9 +30140,9 @@
     "id": "Fair-Faced Gentleman of Water Margin",
     "element": "Blue",
     "family": "outlaw",
-    "baseHealth": 1117,
-    "baseAttack": 636,
-    "baseDefense": 644,
+    "baseHealth": 1137,
+    "baseAttack": 643,
+    "baseDefense": 651,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_bleed",
@@ -29330,9 +30160,9 @@
     "id": "Flying Star of Water Margin",
     "element": "Green",
     "family": "outlaw",
-    "baseHealth": 1111,
-    "baseAttack": 665,
-    "baseDefense": 638,
+    "baseHealth": 1132,
+    "baseAttack": 672,
+    "baseDefense": 645,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_bleed",
@@ -30267,9 +31097,9 @@
     "id": "Sweet Blushing Slime",
     "element": "Red",
     "family": "slime",
-    "baseHealth": 1098,
-    "baseAttack": 626,
-    "baseDefense": 609,
+    "baseHealth": 1124,
+    "baseAttack": 632,
+    "baseDefense": 615,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_red",
@@ -30324,9 +31154,9 @@
     "id": "Stubborn Slime Executioner",
     "element": "Purple",
     "family": "slime",
-    "baseHealth": 1113,
-    "baseAttack": 631,
-    "baseDefense": 660,
+    "baseHealth": 1134,
+    "baseAttack": 638,
+    "baseDefense": 667,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_purple",
@@ -30343,9 +31173,9 @@
     "id": "Curious Scientist Slime",
     "element": "Yellow",
     "family": "slime",
-    "baseHealth": 1099,
-    "baseAttack": 609,
-    "baseDefense": 639,
+    "baseHealth": 1120,
+    "baseAttack": 616,
+    "baseDefense": 646,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_yellow",
@@ -30480,9 +31310,9 @@
     "id": "Son of Vayu",
     "element": "Red",
     "family": "mahayoddha",
-    "baseHealth": 1098,
-    "baseAttack": 645,
-    "baseDefense": 600,
+    "baseHealth": 1119,
+    "baseAttack": 652,
+    "baseDefense": 607,
     "manaSpeedId": "average",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -30499,9 +31329,9 @@
     "id": "Warrior Princess of Manipura",
     "element": "Blue",
     "family": "mahayoddha",
-    "baseHealth": 1099,
-    "baseAttack": 607,
-    "baseDefense": 647,
+    "baseHealth": 1120,
+    "baseAttack": 614,
+    "baseDefense": 654,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -30550,13 +31380,49 @@
     "canBeReceivedDate": "2025-07-28 07:00:00",
     "origin": "Kalevala"
   },
+  "kalevala_ajatar": {
+    "id": "kalevala_ajatar",
+    "element": "Purple",
+    "family": "kalevala",
+    "baseHealth": 1120,
+    "baseAttack": 635,
+    "baseDefense": 667,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "heal_mana_on_low_health_once"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "alluring_whispers",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Kalevala"
+  },
+  "kalevala_kaski": {
+    "id": "kalevala_kaski",
+    "element": "Red",
+    "family": "kalevala",
+    "baseHealth": 1099,
+    "baseAttack": 672,
+    "baseDefense": 642,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "heal_mana_on_low_health_once"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "slash_and_burn",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Kalevala"
+  },
   "vegetable_bartholomew": {
     "id": "Bell Pepper Barbarian",
     "element": "Red",
     "family": "vegetable",
-    "baseHealth": 1106,
-    "baseAttack": 649,
-    "baseDefense": 634,
+    "baseHealth": 1113,
+    "baseAttack": 651,
+    "baseDefense": 636,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -30573,9 +31439,9 @@
     "id": "Beetroot Knight",
     "element": "Purple",
     "family": "vegetable",
-    "baseHealth": 1114,
-    "baseAttack": 647,
-    "baseDefense": 633,
+    "baseHealth": 1121,
+    "baseAttack": 649,
+    "baseDefense": 635,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -30592,9 +31458,9 @@
     "id": "Magic Carpet Botanist",
     "element": "Green",
     "family": "magic_carpet",
-    "baseHealth": 1095,
-    "baseAttack": 615,
-    "baseDefense": 629,
+    "baseHealth": 1116,
+    "baseAttack": 622,
+    "baseDefense": 636,
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -30670,9 +31536,9 @@
     "id": "Icy Overseer Construct",
     "element": "Blue",
     "family": "construct",
-    "baseHealth": 1090,
-    "baseAttack": 618,
-    "baseDefense": 620,
+    "baseHealth": 1119,
+    "baseAttack": 627,
+    "baseDefense": 629,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "minion_core",
@@ -30689,9 +31555,9 @@
     "id": "Heavily Armored Construct",
     "element": "Blue",
     "family": "construct",
-    "baseHealth": 1099,
-    "baseAttack": 632,
-    "baseDefense": 617,
+    "baseHealth": 1126,
+    "baseAttack": 641,
+    "baseDefense": 627,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
@@ -30727,9 +31593,9 @@
     "id": "Enthusiastic Chef Construct",
     "element": "Red",
     "family": "construct",
-    "baseHealth": 1098,
-    "baseAttack": 635,
-    "baseDefense": 634,
+    "baseHealth": 1125,
+    "baseAttack": 645,
+    "baseDefense": 644,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "minion_core",
@@ -30746,9 +31612,9 @@
     "id": "Chaotic Mage Construct",
     "element": "Purple",
     "family": "construct",
-    "baseHealth": 1109,
-    "baseAttack": 625,
-    "baseDefense": 655,
+    "baseHealth": 1136,
+    "baseAttack": 634,
+    "baseDefense": 664,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "minion_core",
@@ -30765,9 +31631,9 @@
     "id": "Vicious Overseer Construct",
     "element": "Purple",
     "family": "construct",
-    "baseHealth": 1084,
-    "baseAttack": 653,
-    "baseDefense": 644,
+    "baseHealth": 1112,
+    "baseAttack": 662,
+    "baseDefense": 653,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "minion_core",
@@ -30784,9 +31650,9 @@
     "id": "Martial Artist Construct",
     "element": "Green",
     "family": "construct",
-    "baseHealth": 1080,
-    "baseAttack": 607,
-    "baseDefense": 614,
+    "baseHealth": 1155,
+    "baseAttack": 664,
+    "baseDefense": 671,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "minion_core",
@@ -30796,16 +31662,16 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "ancient_martial_arts",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-28 07:00:00",
     "origin": "Covenant Summon"
   },
   "construct_dancrag": {
     "id": "Ancient Colossus Construct",
     "element": "Green",
     "family": "construct",
-    "baseHealth": 1113,
-    "baseAttack": 640,
-    "baseDefense": 667,
+    "baseHealth": 1140,
+    "baseAttack": 649,
+    "baseDefense": 676,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
@@ -30986,9 +31852,9 @@
     "id": "Liminal Realm Explorer",
     "element": "Blue",
     "family": "institute",
-    "baseHealth": 1098,
-    "baseAttack": 607,
-    "baseDefense": 639,
+    "baseHealth": 1131,
+    "baseAttack": 620,
+    "baseDefense": 649,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance",
@@ -31274,9 +32140,9 @@
     "id": "Astral Demon Lawmaker",
     "element": "Purple",
     "family": "astral_demons",
-    "baseHealth": 1099,
-    "baseAttack": 627,
-    "baseDefense": 615,
+    "baseHealth": 1113,
+    "baseAttack": 632,
+    "baseDefense": 620,
     "manaSpeedId": "average",
     "passiveSkills": [
       "never_miss_special",
@@ -31294,9 +32160,9 @@
     "id": "Astral Demon Warlord",
     "element": "Green",
     "family": "astral_demons",
-    "baseHealth": 1095,
+    "baseHealth": 1101,
     "baseAttack": 642,
-    "baseDefense": 599,
+    "baseDefense": 612,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "never_miss_special",
@@ -31315,7 +32181,7 @@
     "element": "Blue",
     "family": "astral_demons",
     "baseHealth": 1099,
-    "baseAttack": 593,
+    "baseAttack": 607,
     "baseDefense": 661,
     "manaSpeedId": "slow",
     "passiveSkills": [
@@ -31510,9 +32376,9 @@
     "id": "Elder Peddler Slime",
     "element": "Blue",
     "family": "slime",
-    "baseHealth": 1098,
-    "baseAttack": 631,
-    "baseDefense": 637,
+    "baseHealth": 1119,
+    "baseAttack": 638,
+    "baseDefense": 644,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "summon_slime_minion_on_damage_blue",
@@ -31529,9 +32395,9 @@
     "id": "Blob Builder Slime",
     "element": "Green",
     "family": "slime",
-    "baseHealth": 1098,
-    "baseAttack": 628,
-    "baseDefense": 630,
+    "baseHealth": 1119,
+    "baseAttack": 635,
+    "baseDefense": 637,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_green",
@@ -31548,9 +32414,9 @@
     "id": "Fearless Gladiator Slime",
     "element": "Green",
     "family": "slime",
-    "baseHealth": 1082,
-    "baseAttack": 630,
-    "baseDefense": 581,
+    "baseHealth": 1145,
+    "baseAttack": 676,
+    "baseDefense": 647,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "summon_slime_minion_on_damage_green",
@@ -31560,16 +32426,16 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "squish_squash_achillea",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-24 07:00:00",
     "origin": "SuperElemental"
   },
   "slime_chingiriko": {
     "id": "Shadow Stalker Slime",
     "element": "Red",
     "family": "slime",
-    "baseHealth": 1107,
-    "baseAttack": 653,
-    "baseDefense": 627,
+    "baseHealth": 1128,
+    "baseAttack": 660,
+    "baseDefense": 634,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_red",
@@ -31586,9 +32452,9 @@
     "id": "Protector Slime",
     "element": "Yellow",
     "family": "slime",
-    "baseHealth": 1118,
-    "baseAttack": 636,
-    "baseDefense": 665,
+    "baseHealth": 1139,
+    "baseAttack": 643,
+    "baseDefense": 672,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_yellow",
@@ -31605,9 +32471,9 @@
     "id": "Accursed Clergyman",
     "element": "Purple",
     "family": "forsaken",
-    "baseHealth": 1093,
-    "baseAttack": 633,
-    "baseDefense": 616,
+    "baseHealth": 1127,
+    "baseAttack": 644,
+    "baseDefense": 628,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "damage_increase_by_insanity",
@@ -31639,9 +32505,9 @@
     "id": "Aberrant Biologist",
     "element": "Green",
     "family": "institute",
-    "baseHealth": 1097,
-    "baseAttack": 636,
-    "baseDefense": 623,
+    "baseHealth": 1133,
+    "baseAttack": 648,
+    "baseDefense": 635,
     "manaSpeedId": "average",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance",
@@ -31676,9 +32542,9 @@
     "id": "Unstoppable Wizard",
     "element": "Yellow",
     "family": "magic_carpet",
-    "baseHealth": 1052,
-    "baseAttack": 649,
-    "baseDefense": 616,
+    "baseHealth": 1073,
+    "baseAttack": 656,
+    "baseDefense": 623,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -31696,33 +32562,81 @@
     "id": "Toon Celestial of Darkness",
     "element": "Purple",
     "family": "hotm2017",
-    "baseHealth": 645,
-    "baseAttack": 362,
-    "baseDefense": 336,
+    "baseHealth": 646,
+    "baseAttack": 363,
+    "baseDefense": 335,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Wizard",
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "crush_of_toon_hel",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "MonthlyHeroJune2017",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "dark_god_hel"
   },
   "ice_god_athena_costume_cute": {
     "id": "Toon Celestial of Ice",
     "element": "Blue",
     "family": "hotm2017",
-    "baseHealth": 655,
+    "baseHealth": 656,
     "baseAttack": 358,
     "baseDefense": 336,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Ranger",
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "toon_athenas_bow",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-23 07:00:00",
     "origin": "MonthlyHeroJuly2017",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "ice_god_athena"
+  },
+  "fire_god_ares_costume_cute": {
+    "id": "fire_god_ares_costume_cute",
+    "element": "Red",
+    "family": "hotm2017",
+    "baseHealth": 704,
+    "baseAttack": 319,
+    "baseDefense": 361,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "might_of_toon_ares",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "MonthlyHeroAugust2017",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "fire_god_ares"
+  },
+  "witch_king_costume_cute": {
+    "id": "witch_king_costume_cute",
+    "element": "Purple",
+    "family": "hotm2017",
+    "baseHealth": 664,
+    "baseAttack": 354,
+    "baseDefense": 338,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Revive",
+    "rarity": 5,
+    "specialId": "skeletoon_summon",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "MonthlyHeroNovember2017",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "witch_king"
   },
   "s2_junglehunter_costume_cute": {
     "id": "Toon of the Jungle",
@@ -31739,15 +32653,16 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "toon_prowess",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-23 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_junglehunter"
   },
   "s2_noble_lady_costume_cute": {
     "id": "Toon Beauty",
     "element": "Red",
     "family": "japanese",
-    "baseHealth": 703,
+    "baseHealth": 704,
     "baseAttack": 342,
     "baseDefense": 349,
     "manaSpeedId": "average",
@@ -31758,8 +32673,9 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "toon_mirror",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_noble_lady"
   },
   "s2_fox_girl_costume_cute": {
@@ -31779,13 +32695,14 @@
     "specialId": "toons_luck",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_fox_girl"
   },
   "s2_cursed_samurai_costume_cute": {
     "id": "Cursed Toonlord",
     "element": "Purple",
     "family": "japanese",
-    "baseHealth": 606,
+    "baseHealth": 607,
     "baseAttack": 384,
     "baseDefense": 341,
     "manaSpeedId": "very_fast",
@@ -31796,8 +32713,9 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "toon_strike",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_cursed_samurai"
   },
   "s2_skyllaros_costume_cute": {
@@ -31815,15 +32733,16 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "toon_annihilation",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_skyllaros"
   },
   "s2_ariel_costume_cute": {
     "id": "Toon Princess of Atlantis",
     "element": "Blue",
     "family": "atlantis",
-    "baseHealth": 613,
+    "baseHealth": 614,
     "baseAttack": 350,
     "baseDefense": 379,
     "manaSpeedId": "average",
@@ -31834,8 +32753,9 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "toontastic_protection",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_ariel"
   },
   "s2_poseidon_costume_cute": {
@@ -31853,8 +32773,9 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "toon_of_the_seas",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_poseidon"
   },
   "s2_ursena_costume_cute": {
@@ -31874,6 +32795,7 @@
     "specialId": "toon_blast",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_ursena"
   },
   "s2_chameleon_mage_costume_cute": {
@@ -31891,8 +32813,9 @@
     "aetherGift": "Boosted Regen",
     "rarity": 4,
     "specialId": "toon_wave",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_chameleon_mage"
   },
   "s2_rugged_fisherman_costume_cute": {
@@ -31912,6 +32835,7 @@
     "specialId": "toontastic_feast",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_rugged_fisherman"
   },
   "s2_demon_master_costume_cute": {
@@ -31929,8 +32853,9 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "toon_waza",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_demon_master"
   },
   "s2_proteus_costume_cute": {
@@ -31938,7 +32863,7 @@
     "element": "Purple",
     "family": "atlantis",
     "baseHealth": 508,
-    "baseAttack": 328,
+    "baseAttack": 329,
     "baseDefense": 287,
     "manaSpeedId": "average",
     "passiveSkills": [
@@ -31948,8 +32873,9 @@
     "aetherGift": "Damage Reduction",
     "rarity": 4,
     "specialId": "toon_of_the_depths",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_proteus"
   },
   "s2_atlantean_robot_costume_cute": {
@@ -31967,8 +32893,9 @@
     "aetherGift": "Fiend Resist",
     "rarity": 4,
     "specialId": "toon_bash",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_atlantean_robot"
   },
   "s2_fiji_mermaid_costume_cute": {
@@ -31986,8 +32913,9 @@
     "aetherGift": "Counterattack",
     "rarity": 3,
     "specialId": "toon_lament",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_fiji_mermaid"
   },
   "s2_merwoman_costume_cute": {
@@ -32005,8 +32933,9 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "atlantean_toon_sword",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_merwoman"
   },
   "s2_merman_costume_cute": {
@@ -32024,8 +32953,9 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "atlantean_toon_spear",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_merman"
   },
   "magic_ulius_costume_buccaneer": {
@@ -32126,6 +33056,7 @@
     "specialId": "stylish_heal",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mystic"
   },
   "nordic_male_lord_costume_stylish": {
@@ -32146,6 +33077,7 @@
     "specialId": "champagne_hammer",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_male_lord"
   },
   "cultist_sorceress_costume_stylish": {
@@ -32166,6 +33098,7 @@
     "specialId": "stylish_strike",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_sorceress"
   },
   "lionman_barbarian_costume_stylish": {
@@ -32186,6 +33119,7 @@
     "specialId": "stylish_eruption",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lionman_barbarian"
   },
   "forest_male_elf_costume_stylish": {
@@ -32206,6 +33140,7 @@
     "specialId": "stylish_spear",
     "canBeReceivedDate": "2026-01-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_male_elf"
   },
   "underworld_champion_costume_stylish": {
@@ -32226,6 +33161,7 @@
     "specialId": "stylish_counterattack",
     "canBeReceivedDate": "2026-01-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "underworld_champion"
   },
   "orc_gladiator_costume_stylish": {
@@ -32246,6 +33182,7 @@
     "specialId": "stylish_warcry",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "orc_gladiator"
   },
   "nordic_ancestral_warrior_costume_stylish": {
@@ -32266,6 +33203,7 @@
     "specialId": "stylish_pulverizer",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_ancestral_warrior"
   },
   "elven_captain_costume_stylish": {
@@ -32286,6 +33224,7 @@
     "specialId": "stylish_strike_caedmon",
     "canBeReceivedDate": "2026-01-26 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "elven_captain"
   },
   "oriental_panda_berserker_costume_stylish": {
@@ -32306,6 +33245,7 @@
     "specialId": "stylish_chop",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_panda_berserker"
   },
   "nomad_mage_costume_stylish": {
@@ -32326,6 +33266,7 @@
     "specialId": "stylish_fireball",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_mage"
   },
   "nordic_swordman_costume_stylish": {
@@ -32346,6 +33287,7 @@
     "specialId": "stylish_slash",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_swordman"
   },
   "magic_telonius_costume_brew": {
@@ -32452,6 +33394,7 @@
     "specialId": "stylish_smash",
     "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_captain"
   },
   "oriental_warrior_king_costume_stylish": {
@@ -32472,6 +33415,7 @@
     "specialId": "stylish_cleave",
     "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_warrior_king"
   },
   "oriental_female_templar_costume_stylish": {
@@ -32492,6 +33436,7 @@
     "specialId": "slash_of_stylish_blades",
     "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_templar"
   },
   "forest_female_druid_costume_stylish": {
@@ -32512,6 +33457,7 @@
     "specialId": "stylish_fury",
     "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_female_druid"
   },
   "exalted_warrior_costume_stylish": {
@@ -32532,6 +33478,7 @@
     "specialId": "stylish_strike_magni",
     "canBeReceivedDate": "2026-03-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "exalted_warrior"
   },
   "forest_mage_costume_stylish": {
@@ -32552,6 +33499,7 @@
     "specialId": "fog_of_the_stylish",
     "canBeReceivedDate": "2026-03-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_mage"
   },
   "dwarwen_brewmaster_costume_stylish": {
@@ -32572,6 +33520,7 @@
     "specialId": "stylish_appetizer",
     "canBeReceivedDate": "2026-03-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarwen_brewmaster"
   },
   "cultist_mage_costume_stylish": {
@@ -32592,6 +33541,7 @@
     "specialId": "stylish_jolt",
     "canBeReceivedDate": "2026-03-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_mage"
   },
   "oriental_female_mage_costume_stylish": {
@@ -32612,6 +33562,7 @@
     "specialId": "style_link",
     "canBeReceivedDate": "2026-03-12 07:00:00",
     "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_mage"
   },
   "easter_sir_roostley_costume_alchemist": {
@@ -32686,16 +33637,17 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "toon_tide",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_hammerhead_hulk"
   },
   "s2_mercenary_woman_costume_cute": {
     "id": "Magnificent Toon",
     "element": "Blue",
     "family": "lagoon",
-    "baseHealth": 644,
-    "baseAttack": 358,
+    "baseHealth": 645,
+    "baseAttack": 359,
     "baseDefense": 358,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -32705,8 +33657,9 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "toon_chain",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
     "origin": "Atlantis Summon",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "s2_mercenary_woman"
   },
   "tales2_aethslegaur_costume_soul_seeker": {
@@ -32733,8 +33686,8 @@
     "id": "Dwarven Dark Engineer",
     "element": "Purple",
     "family": "nidavellir",
-    "baseHealth": 1074,
-    "baseAttack": 555,
+    "baseHealth": 1076,
+    "baseAttack": 556,
     "baseDefense": 574,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -32745,7 +33698,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "nights_calibration",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-07 07:00:00",
     "origin": "Treasures of Flame and Frost",
     "parentHeroId": "tales2_dularfulr"
   },
@@ -32782,20 +33735,316 @@
       "resist_burn_with_health_and_mana_boost_costume"
     ],
     "classType": "Monk",
-    "aetherGift": "Special Boost",
+    "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "curing_venom",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-01 07:00:00",
     "origin": "Treasures of Flame and Frost",
     "parentHeroId": "tales2_dagr"
+  },
+  "tales2_hreidmarr_costume_trader": {
+    "id": "tales2_hreidmarr_costume_trader",
+    "element": "Purple",
+    "family": "nidavellir",
+    "baseHealth": 1109,
+    "baseAttack": 565,
+    "baseDefense": 572,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "dwarven_traders_deal",
+    "canBeReceivedDate": "2026-05-25 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_hreidmarr"
+  },
+  "tales2_hogne_costume_lunar": {
+    "id": "tales2_hogne_costume_lunar",
+    "element": "Blue",
+    "family": "myrkheim",
+    "baseHealth": 1122,
+    "baseAttack": 570,
+    "baseDefense": 582,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "arctic_core_costume",
+      "resist_frost_with_health_boost_and_mana_costume"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "lunar_fissure_cleave",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_hogne"
+  },
+  "ninja_garnet_costume_flame": {
+    "id": "ninja_garnet_costume_flame",
+    "element": "Red",
+    "family": "ninja",
+    "baseHealth": 721,
+    "baseAttack": 353,
+    "baseDefense": 367,
+    "manaSpeedId": "charge_ninja",
+    "classType": "Cleric",
+    "aetherGift": "Defense Up",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
+    "rarity": 5,
+    "specialId": "restorative_ki",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower",
+    "parentHeroId": "ninja_garnet"
+  },
+  "s3_sumle_costume_cute": {
+    "id": "s3_sumle_costume_cute",
+    "element": "Red",
+    "family": "muspelheim",
+    "baseHealth": 510,
+    "baseAttack": 338,
+    "baseDefense": 295,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Counterattack",
+    "rarity": 4,
+    "specialId": "toon_magma_boulders",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_sumle"
+  },
+  "s3_fura_costume_cute": {
+    "id": "s3_fura_costume_cute",
+    "element": "Purple",
+    "family": "svartalfheim",
+    "baseHealth": 514,
+    "baseAttack": 332,
+    "baseDefense": 297,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "toonglade_pollen",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_fura"
+  },
+  "s3_almur_costume_cute": {
+    "id": "s3_almur_costume_cute",
+    "element": "Green",
+    "family": "svartalfheim",
+    "baseHealth": 597,
+    "baseAttack": 294,
+    "baseDefense": 306,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Special Boost",
+    "rarity": 4,
+    "specialId": "toon_sweep",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_almur"
+  },
+  "s3_norns_costume_cute": {
+    "id": "s3_norns_costume_cute",
+    "element": "Yellow",
+    "family": "vanaheim",
+    "baseHealth": 672,
+    "baseAttack": 375,
+    "baseDefense": 348,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "twist_of_toon_fate",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_norns"
+  },
+  "s3_fenrir_costume_cute": {
+    "id": "s3_fenrir_costume_cute",
+    "element": "Blue",
+    "family": "niflheim",
+    "baseHealth": 631,
+    "baseAttack": 380,
+    "baseDefense": 357,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "toontastic_bite",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_fenrir"
+  },
+  "s3_ei_dunn_costume_cute": {
+    "id": "s3_ei_dunn_costume_cute",
+    "element": "Red",
+    "family": "niflheim",
+    "baseHealth": 491,
+    "baseAttack": 244,
+    "baseDefense": 276,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 3,
+    "specialId": "toon_axe",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_ei_dunn"
+  },
+  "s3_nordri_costume_cute": {
+    "id": "s3_nordri_costume_cute",
+    "element": "Blue",
+    "family": "jotunheim",
+    "baseHealth": 472,
+    "baseAttack": 282,
+    "baseDefense": 233,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Rage",
+    "rarity": 3,
+    "specialId": "toon_axes",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_nordri"
+  },
+  "s3_bjorn_costume_cute": {
+    "id": "s3_bjorn_costume_cute",
+    "element": "Purple",
+    "family": "midgard",
+    "baseHealth": 477,
+    "baseAttack": 265,
+    "baseDefense": 250,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Attack Up",
+    "rarity": 3,
+    "specialId": "dual_toon_slash",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_bjorn"
+  },
+  "s3_kvasir_costume_cute": {
+    "id": "s3_kvasir_costume_cute",
+    "element": "Yellow",
+    "family": "alfheim",
+    "baseHealth": 529,
+    "baseAttack": 247,
+    "baseDefense": 246,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "toon_bees",
+    "canBeReceivedDate": "2026-04-29 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_kvasir"
+  },
+  "ninja_cobalt_costume_tempest": {
+    "id": "ninja_cobalt_costume_tempest",
+    "element": "Blue",
+    "family": "ninja",
+    "baseHealth": 698,
+    "baseAttack": 389,
+    "baseDefense": 333,
+    "manaSpeedId": "charge_ninja",
+    "classType": "Paladin",
+    "aetherGift": "Attack Up",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
+    "rarity": 5,
+    "specialId": "katana_tempest",
+    "canBeReceivedDate": "2026-05-03 07:00:00",
+    "origin": "Ninja Tower",
+    "parentHeroId": "ninja_cobalt"
+  },
+  "ninja_zircon_costume_iron": {
+    "id": "ninja_zircon_costume_iron",
+    "element": "Blue",
+    "family": "ninja",
+    "baseHealth": 697,
+    "baseAttack": 357,
+    "baseDefense": 408,
+    "manaSpeedId": "charge_ninja",
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
+    "rarity": 5,
+    "specialId": "defensive_ki",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower",
+    "parentHeroId": "ninja_zircon"
+  },
+  "ninja_quartz_costume_investigate": {
+    "id": "ninja_quartz_costume_investigate",
+    "element": "Purple",
+    "family": "ninja",
+    "baseHealth": 741,
+    "baseAttack": 365,
+    "baseDefense": 376,
+    "manaSpeedId": "charge_ninja",
+    "classType": "Monk",
+    "aetherGift": "Boosted Regen",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
+    "rarity": 5,
+    "specialId": "investigate_ki",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower",
+    "parentHeroId": "ninja_quartz"
   },
   "beauty_beast_dominique": {
     "id": "The Faithful Protector",
     "element": "Blue",
     "family": "beauty_beast",
-    "baseHealth": 1099,
-    "baseAttack": 646,
-    "baseDefense": 617,
+    "baseHealth": 1127,
+    "baseAttack": 655,
+    "baseDefense": 626,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32813,9 +34062,9 @@
     "id": "Lonely Prince of the Bewitched Castle",
     "element": "Purple",
     "family": "beauty_beast",
-    "baseHealth": 1099,
-    "baseAttack": 630,
-    "baseDefense": 622,
+    "baseHealth": 1126,
+    "baseAttack": 639,
+    "baseDefense": 632,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32833,9 +34082,9 @@
     "id": "Bloom of the Bewitched Castle",
     "element": "Red",
     "family": "beauty_beast",
-    "baseHealth": 1096,
-    "baseAttack": 626,
-    "baseDefense": 628,
+    "baseHealth": 1123,
+    "baseAttack": 635,
+    "baseDefense": 638,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32873,9 +34122,9 @@
     "id": "Impatient Clock of the Bewitched Castle",
     "element": "Red",
     "family": "beauty_beast",
-    "baseHealth": 1120,
-    "baseAttack": 660,
-    "baseDefense": 631,
+    "baseHealth": 1147,
+    "baseAttack": 669,
+    "baseDefense": 640,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32913,9 +34162,9 @@
     "id": "Gracious Fairy of the Bewitched Castle",
     "element": "Yellow",
     "family": "beauty_beast",
-    "baseHealth": 1114,
-    "baseAttack": 641,
-    "baseDefense": 647,
+    "baseHealth": 1141,
+    "baseAttack": 651,
+    "baseDefense": 656,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32933,9 +34182,9 @@
     "id": "Beauty's Spiteful Sister",
     "element": "Blue",
     "family": "beauty_beast",
-    "baseHealth": 1104,
-    "baseAttack": 658,
-    "baseDefense": 621,
+    "baseHealth": 1158,
+    "baseAttack": 679,
+    "baseDefense": 652,
     "manaSpeedId": "average",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32946,7 +34195,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "ruthless_derision",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-08 07:00:00",
     "origin": "The Brave & The Beautiful"
   },
   "beauty_beast_henriette": {
@@ -32973,9 +34222,9 @@
     "id": "Petrified Guard of the Bewitched Castle",
     "element": "Green",
     "family": "beauty_beast",
-    "baseHealth": 1108,
-    "baseAttack": 637,
-    "baseDefense": 643,
+    "baseHealth": 1135,
+    "baseAttack": 647,
+    "baseDefense": 652,
     "manaSpeedId": "average",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -33033,9 +34282,9 @@
     "id": "Jealous Fairy of the Bewitched Castle",
     "element": "Purple",
     "family": "beauty_beast",
-    "baseHealth": 1100,
-    "baseAttack": 638,
-    "baseDefense": 626,
+    "baseHealth": 1148,
+    "baseAttack": 670,
+    "baseDefense": 658,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -33046,7 +34295,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "bewitching_blast",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-16 07:00:00",
     "origin": "The Brave & The Beautiful"
   },
   "beauty_beast_chandel": {
@@ -33093,9 +34342,9 @@
     "id": "Vanguard of the Rainforest",
     "element": "Red",
     "family": "titan_hunter",
-    "baseHealth": 1099,
-    "baseAttack": 637,
-    "baseDefense": 630,
+    "baseHealth": 1111,
+    "baseAttack": 642,
+    "baseDefense": 635,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33112,9 +34361,9 @@
     "id": "Trapper from the Grove",
     "element": "Green",
     "family": "titan_hunter",
-    "baseHealth": 1114,
-    "baseAttack": 651,
-    "baseDefense": 634,
+    "baseHealth": 1129,
+    "baseAttack": 656,
+    "baseDefense": 639,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33131,9 +34380,9 @@
     "id": "Magical Aviator",
     "element": "Purple",
     "family": "magic_carpet",
-    "baseHealth": 1079,
-    "baseAttack": 632,
-    "baseDefense": 635,
+    "baseHealth": 1099,
+    "baseAttack": 639,
+    "baseDefense": 642,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -33151,9 +34400,9 @@
     "id": "Magic Lab Genius",
     "element": "Green",
     "family": "magic_carpet",
-    "baseHealth": 1099,
-    "baseAttack": 640,
-    "baseDefense": 641,
+    "baseHealth": 1120,
+    "baseAttack": 647,
+    "baseDefense": 648,
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -33171,9 +34420,9 @@
     "id": "Lava Magic Girl",
     "element": "Red",
     "family": "magic_carpet",
-    "baseHealth": 1099,
-    "baseAttack": 643,
-    "baseDefense": 626,
+    "baseHealth": 1120,
+    "baseAttack": 650,
+    "baseDefense": 633,
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -33191,9 +34440,9 @@
     "id": "Enchantress of Al-Layl",
     "element": "Blue",
     "family": "magic_carpet",
-    "baseHealth": 1117,
-    "baseAttack": 634,
-    "baseDefense": 651,
+    "baseHealth": 1138,
+    "baseAttack": 641,
+    "baseDefense": 658,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -33211,9 +34460,9 @@
     "id": "Prideful Assassin",
     "element": "Purple",
     "family": "mahayoddha",
-    "baseHealth": 1108,
-    "baseAttack": 653,
-    "baseDefense": 625,
+    "baseHealth": 1129,
+    "baseAttack": 660,
+    "baseDefense": 632,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -33230,9 +34479,9 @@
     "id": "Basket Maker",
     "element": "Green",
     "family": "mahayoddha",
-    "baseHealth": 1098,
-    "baseAttack": 620,
-    "baseDefense": 639,
+    "baseHealth": 1119,
+    "baseAttack": 627,
+    "baseDefense": 646,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -33306,9 +34555,9 @@
     "id": "The Deceitful Marksman",
     "element": "Purple",
     "family": "shady_scoundrels",
-    "baseHealth": 1102,
-    "baseAttack": 629,
-    "baseDefense": 628,
+    "baseHealth": 1116,
+    "baseAttack": 634,
+    "baseDefense": 633,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "cheat_death",
@@ -33325,9 +34574,9 @@
     "id": "The Road Bandit",
     "element": "Blue",
     "family": "shady_scoundrels",
-    "baseHealth": 1109,
-    "baseAttack": 618,
-    "baseDefense": 639,
+    "baseHealth": 1124,
+    "baseAttack": 623,
+    "baseDefense": 643,
     "manaSpeedId": "average",
     "passiveSkills": [
       "cheat_death",
@@ -33380,9 +34629,9 @@
     "id": "Astral Demon Shadowguard",
     "element": "Yellow",
     "family": "astral_demons",
-    "baseHealth": 1073,
-    "baseAttack": 660,
-    "baseDefense": 631,
+    "baseHealth": 1085,
+    "baseAttack": 664,
+    "baseDefense": 636,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "never_miss_special",
@@ -33420,9 +34669,9 @@
     "id": "Warden of the Tundra",
     "element": "Blue",
     "family": "titan_hunter",
-    "baseHealth": 1108,
-    "baseAttack": 650,
-    "baseDefense": 627,
+    "baseHealth": 1120,
+    "baseAttack": 655,
+    "baseDefense": 632,
     "manaSpeedId": "average",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33439,9 +34688,9 @@
     "id": "Hotshot Physicist",
     "element": "Red",
     "family": "institute",
-    "baseHealth": 1088,
-    "baseAttack": 652,
-    "baseDefense": 628,
+    "baseHealth": 1121,
+    "baseAttack": 663,
+    "baseDefense": 640,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance",
@@ -33458,9 +34707,9 @@
     "id": "The Untethered",
     "element": "Yellow",
     "family": "forsaken",
-    "baseHealth": 1069,
-    "baseAttack": 653,
-    "baseDefense": 628,
+    "baseHealth": 1105,
+    "baseAttack": 665,
+    "baseDefense": 640,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "damage_increase_by_insanity",
@@ -33477,9 +34726,9 @@
     "id": "Astral Demon Inquisitor",
     "element": "Green",
     "family": "astral_demons",
-    "baseHealth": 1080,
-    "baseAttack": 641,
-    "baseDefense": 636,
+    "baseHealth": 1093,
+    "baseAttack": 645,
+    "baseDefense": 642,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "never_miss_special",
@@ -33517,9 +34766,9 @@
     "id": "Astral Demon Sun-Wielder",
     "element": "Yellow",
     "family": "astral_demons",
-    "baseHealth": 1117,
-    "baseAttack": 637,
-    "baseDefense": 660,
+    "baseHealth": 1130,
+    "baseAttack": 642,
+    "baseDefense": 664,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_heal_multiplier_debuffs",
@@ -33537,9 +34786,9 @@
     "id": "Astral Demon Maniac",
     "element": "Red",
     "family": "astral_demons",
-    "baseHealth": 1071,
-    "baseAttack": 664,
-    "baseDefense": 630,
+    "baseHealth": 1111,
+    "baseAttack": 675,
+    "baseDefense": 646,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "never_miss_special",
@@ -33557,9 +34806,9 @@
     "id": "Astral Demon Cosmomage",
     "element": "Blue",
     "family": "astral_demons",
-    "baseHealth": 1077,
-    "baseAttack": 656,
-    "baseDefense": 636,
+    "baseHealth": 1146,
+    "baseAttack": 679,
+    "baseDefense": 660,
     "manaSpeedId": "average",
     "passiveSkills": [
       "never_miss_special",
@@ -33570,16 +34819,16 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "cosmic_spirals",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-13 07:00:00",
     "origin": "Astral Plane"
   },
   "mahayoddha_jyoti": {
     "id": "Chari Dancer",
     "element": "Red",
     "family": "mahayoddha",
-    "baseHealth": 1108,
-    "baseAttack": 633,
-    "baseDefense": 638,
+    "baseHealth": 1129,
+    "baseAttack": 640,
+    "baseDefense": 645,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -33596,9 +34845,9 @@
     "id": "Coconut Chechi",
     "element": "Green",
     "family": "mahayoddha",
-    "baseHealth": 1115,
-    "baseAttack": 632,
-    "baseDefense": 662,
+    "baseHealth": 1135,
+    "baseAttack": 639,
+    "baseDefense": 669,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -33634,9 +34883,9 @@
     "id": "Fierce Warrior Princess",
     "element": "Purple",
     "family": "mahayoddha",
-    "baseHealth": 1098,
-    "baseAttack": 645,
-    "baseDefense": 616,
+    "baseHealth": 1119,
+    "baseAttack": 652,
+    "baseDefense": 623,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -33779,9 +35028,9 @@
     "id": "Vanguard of the Wilds",
     "element": "Yellow",
     "family": "titan_hunter",
-    "baseHealth": 1096,
-    "baseAttack": 634,
-    "baseDefense": 627,
+    "baseHealth": 1136,
+    "baseAttack": 663,
+    "baseDefense": 655,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33791,16 +35040,16 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "desert_hunt",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-18 07:00:00",
     "origin": "TitanHunter"
   },
   "titan_hunter_brachynd": {
     "id": "Warden of the Cove",
     "element": "Purple",
     "family": "titan_hunter",
-    "baseHealth": 1118,
-    "baseAttack": 658,
-    "baseDefense": 634,
+    "baseHealth": 1133,
+    "baseAttack": 663,
+    "baseDefense": 639,
     "manaSpeedId": "average",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33817,9 +35066,9 @@
     "id": "Trapper from the Rainforest",
     "element": "Red",
     "family": "titan_hunter",
-    "baseHealth": 1102,
-    "baseAttack": 646,
-    "baseDefense": 629,
+    "baseHealth": 1159,
+    "baseAttack": 677,
+    "baseDefense": 659,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33829,15 +35078,15 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "crimson_trap",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-20 07:00:00",
     "origin": "TitanHunter"
   },
   "titan_hunter_konradus": {
     "id": "Vanguard of the Tundra",
     "element": "Blue",
     "family": "titan_hunter",
-    "baseHealth": 1103,
-    "baseAttack": 642,
+    "baseHealth": 1114,
+    "baseAttack": 651,
     "baseDefense": 634,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -33874,9 +35123,9 @@
     "id": "Warden of the Grove",
     "element": "Green",
     "family": "titan_hunter",
-    "baseHealth": 1109,
-    "baseAttack": 661,
-    "baseDefense": 607,
+    "baseHealth": 1118,
+    "baseAttack": 658,
+    "baseDefense": 634,
     "manaSpeedId": "average",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33893,9 +35142,9 @@
     "id": "Trapper from the Wilds",
     "element": "Yellow",
     "family": "titan_hunter",
-    "baseHealth": 1102,
-    "baseAttack": 646,
-    "baseDefense": 629,
+    "baseHealth": 1118,
+    "baseAttack": 655,
+    "baseDefense": 638,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33908,13 +35157,32 @@
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
+  "titan_hunter_maar": {
+    "id": "titan_hunter_maar",
+    "element": "Red",
+    "family": "titan_hunter",
+    "baseHealth": 1118,
+    "baseAttack": 658,
+    "baseDefense": 634,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_red_on_special_titan_hunter_parent"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "crimson_guard",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
   "institute_zenas": {
     "id": "Expert Mineralogist",
     "element": "Green",
     "family": "institute",
-    "baseHealth": 1114,
-    "baseAttack": 647,
-    "baseDefense": 633,
+    "baseHealth": 1147,
+    "baseAttack": 659,
+    "baseDefense": 645,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance",
@@ -33931,9 +35199,9 @@
     "id": "Director of the Institute",
     "element": "Yellow",
     "family": "institute",
-    "baseHealth": 1120,
-    "baseAttack": 639,
-    "baseDefense": 661,
+    "baseHealth": 1153,
+    "baseAttack": 651,
+    "baseDefense": 672,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "damage_increase_by_insanity",
@@ -33950,9 +35218,9 @@
     "id": "Frenzied Archpriestess",
     "element": "Blue",
     "family": "forsaken",
-    "baseHealth": 1111,
-    "baseAttack": 644,
-    "baseDefense": 649,
+    "baseHealth": 1144,
+    "baseAttack": 656,
+    "baseDefense": 660,
     "manaSpeedId": "average",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance",
@@ -33969,9 +35237,9 @@
     "id": "Empress from the Outer Domain",
     "element": "Red",
     "family": "forsaken",
-    "baseHealth": 1106,
-    "baseAttack": 662,
-    "baseDefense": 607,
+    "baseHealth": 1157,
+    "baseAttack": 678,
+    "baseDefense": 650,
     "manaSpeedId": "average",
     "passiveSkills": [
       "damage_increase_by_insanity",
@@ -33981,16 +35249,16 @@
     "aetherGift": "Vampire",
     "rarity": 5,
     "specialId": "sword_of_xuvhosh",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-14 07:00:00",
     "origin": "ShadowQuest"
   },
   "vegetable_onwyn": {
     "id": "Onion Bandit",
     "element": "Yellow",
     "family": "vegetable",
-    "baseHealth": 1119,
-    "baseAttack": 649,
-    "baseDefense": 642,
+    "baseHealth": 1125,
+    "baseAttack": 651,
+    "baseDefense": 644,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -34007,9 +35275,9 @@
     "id": "Furious Mushroom Champion",
     "element": "Blue",
     "family": "vegetable",
-    "baseHealth": 1111,
-    "baseAttack": 655,
-    "baseDefense": 626,
+    "baseHealth": 1118,
+    "baseAttack": 657,
+    "baseDefense": 628,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -34026,9 +35294,9 @@
     "id": "Broccoli Shaman",
     "element": "Green",
     "family": "vegetable",
-    "baseHealth": 1114,
-    "baseAttack": 641,
-    "baseDefense": 642,
+    "baseHealth": 1120,
+    "baseAttack": 643,
+    "baseDefense": 645,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -34135,10 +35403,9 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "gluttonous_chomp_green",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-02 07:00:00",
     "origin": "SecretSummonTroopMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_troop_yellow": {
     "id": "Bounty of Dreadful Arsenal",
@@ -34156,10 +35423,9 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "gluttonous_chomp_yellow",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-08 07:00:00",
     "origin": "SecretSummonTroopMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_troop_purple": {
     "id": "Bounty of Dreadful Arsenal",
@@ -34179,8 +35445,7 @@
     "specialId": "gluttonous_chomp_purple",
     "canBeReceivedDate": "2026-03-27 07:00:00",
     "origin": "SecretSummonTroopMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "lunar_new_year_hongyunxing": {
     "id": "Lunar Itinerant Horse",
@@ -34205,9 +35470,9 @@
     "id": "The Pyromouse",
     "element": "Red",
     "family": "rodent",
-    "baseHealth": 1101,
-    "baseAttack": 663,
-    "baseDefense": 642,
+    "baseHealth": 1128,
+    "baseAttack": 672,
+    "baseDefense": 651,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_all_attack_effects",
@@ -34224,9 +35489,9 @@
     "id": "The Dark-furred Cleric",
     "element": "Green",
     "family": "rodent",
-    "baseHealth": 1114,
-    "baseAttack": 642,
-    "baseDefense": 662,
+    "baseHealth": 1141,
+    "baseAttack": 651,
+    "baseDefense": 671,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_all_attack_effects",
@@ -34243,9 +35508,9 @@
     "id": "High Mage of Springvale",
     "element": "Red",
     "family": "easter",
-    "baseHealth": 1111,
-    "baseAttack": 655,
-    "baseDefense": 626,
+    "baseHealth": 1117,
+    "baseAttack": 665,
+    "baseDefense": 637,
     "manaSpeedId": "average",
     "passiveSkills": [
       "easter_defense_down_stack_on_special"
@@ -34261,9 +35526,9 @@
     "id": "Wayfarer of Springvale",
     "element": "Blue",
     "family": "easter",
-    "baseHealth": 1125,
-    "baseAttack": 632,
-    "baseDefense": 647,
+    "baseHealth": 1120,
+    "baseAttack": 645,
+    "baseDefense": 661,
     "manaSpeedId": "average",
     "passiveSkills": [
       "easter_health_generation_stack_on_special"
@@ -34279,8 +35544,8 @@
     "id": "Queen of Curses",
     "element": "Purple",
     "family": "hotm2026",
-    "baseHealth": 1074,
-    "baseAttack": 553,
+    "baseHealth": 1095,
+    "baseAttack": 567,
     "baseDefense": 596,
     "manaSpeedId": "slow",
     "passiveSkills": [
@@ -34298,9 +35563,9 @@
     "id": "Unstoppable Halfling",
     "element": "Green",
     "family": "hotm2026",
-    "baseHealth": 900,
-    "baseAttack": 500,
-    "baseDefense": 500,
+    "baseHealth": 954,
+    "baseAttack": 646,
+    "baseDefense": 621,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_burn",
@@ -34322,7 +35587,8 @@
     "baseDefense": 648,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "Paladin",
     "aetherGift": "Taunt",
@@ -34340,12 +35606,13 @@
     "baseDefense": 645,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "Wizard",
     "aetherGift": "Counterattack",
     "rarity": 5,
-    "specialId": "tackle",
+    "specialId": "the_forbidden_formula",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "ShadowQuest"
   },
@@ -34353,18 +35620,19 @@
     "id": "forsaken_nyctalos",
     "element": "Purple",
     "family": "forsaken",
-    "baseHealth": 1110,
-    "baseAttack": 650,
-    "baseDefense": 633,
+    "baseHealth": 1161,
+    "baseAttack": 676,
+    "baseDefense": 660,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "Ranger",
     "aetherGift": "Attack Up",
     "rarity": 5,
-    "specialId": "tackle",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "specialId": "ocular_ray",
+    "canBeReceivedDate": "2026-05-19 07:00:00",
     "origin": "ShadowQuest"
   },
   "forsaken_vermis": {
@@ -34374,14 +35642,15 @@
     "baseHealth": 1119,
     "baseAttack": 638,
     "baseDefense": 643,
-    "manaSpeedId": "average",
+    "manaSpeedId": "fast",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "Monk",
     "aetherGift": "Fiend Resist",
     "rarity": 5,
-    "specialId": "tackle",
+    "specialId": "mysteries_of_the_worm",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "ShadowQuest"
   },
@@ -34389,9 +35658,9 @@
     "id": "Demon Ronin",
     "element": "Purple",
     "family": "ronin",
-    "baseHealth": 1115,
-    "baseAttack": 656,
-    "baseDefense": 640,
+    "baseHealth": 1149,
+    "baseAttack": 667,
+    "baseDefense": 652,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -34408,9 +35677,9 @@
     "id": "Enraged Ronin",
     "element": "Red",
     "family": "ronin",
-    "baseHealth": 1120,
-    "baseAttack": 639,
-    "baseDefense": 659,
+    "baseHealth": 1151,
+    "baseAttack": 651,
+    "baseDefense": 671,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -34427,9 +35696,9 @@
     "id": "Thief-Shuriken Ronin",
     "element": "Green",
     "family": "ronin",
-    "baseHealth": 1110,
-    "baseAttack": 655,
-    "baseDefense": 627,
+    "baseHealth": 1158,
+    "baseAttack": 676,
+    "baseDefense": 649,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -34451,7 +35720,7 @@
     "baseDefense": 374,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
-      "dishonorable_death",
+      "dishonorable_death_epic",
       "prevent_boosted_health"
     ],
     "classType": "Ranger",
@@ -34470,7 +35739,7 @@
     "baseDefense": 310,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
-      "dishonorable_death",
+      "dishonorable_death_rare",
       "prevent_boosted_health"
     ],
     "classType": "Monk",
@@ -34484,9 +35753,9 @@
     "id": "Urumi Warrior",
     "element": "Yellow",
     "family": "mahayoddha",
-    "baseHealth": 1108,
-    "baseAttack": 655,
-    "baseDefense": 632,
+    "baseHealth": 1146,
+    "baseAttack": 672,
+    "baseDefense": 650,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -34496,19 +35765,19 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "urumi_lashing",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-21 07:00:00",
     "origin": "Windfall Temple"
   },
   "vegetable_auberguy": {
     "id": "Aubergine Wizard",
     "element": "Purple",
     "family": "vegetable",
-    "baseHealth": 1132,
-    "baseAttack": 636,
-    "baseDefense": 645,
+    "baseHealth": 1131,
+    "baseAttack": 650,
+    "baseDefense": 658,
     "manaSpeedId": "very_slow",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_rare_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Wizard",
@@ -34522,9 +35791,9 @@
     "id": "Jestful Thakurain",
     "element": "Blue",
     "family": "mahayoddha",
-    "baseHealth": 1115,
-    "baseAttack": 645,
-    "baseDefense": 656,
+    "baseHealth": 1136,
+    "baseAttack": 652,
+    "baseDefense": 663,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -34536,5 +35805,753 @@
     "specialId": "thandai_trance",
     "canBeReceivedDate": "2026-03-24 07:00:00",
     "origin": "Windfall Temple"
+  },
+  "fire_god_zerfain": {
+    "id": "fire_god_zerfain",
+    "element": "Red",
+    "family": "hotm2026",
+    "baseHealth": 990,
+    "baseAttack": 599,
+    "baseDefense": 594,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "increase_special_damage_buff",
+      "resist_mana_generation_modifier_debuffs"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "unyielding_lashes",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "MonthlyHeroJune2026"
+  },
+  "ice_god_ulfhild": {
+    "id": "ice_god_ulfhild",
+    "element": "Blue",
+    "family": "hotm2026",
+    "baseHealth": 1010,
+    "baseAttack": 600,
+    "baseDefense": 620,
+    "manaSpeedId": "very_slow",
+    "passiveSkills": [
+      "attack_buff_on_damage_received",
+      "resist_special_blocking"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "iron_gale",
+    "canBeReceivedDate": "2026-07-01 07:00:00",
+    "origin": "MonthlyHeroJuly2026"
+  },
+  "holy_god_colt": {
+    "id": "holy_god_colt",
+    "element": "Yellow",
+    "family": "hotm2026",
+    "baseHealth": 1000,
+    "baseAttack": 590,
+    "baseDefense": 615,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_bleed"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "biting_bolt",
+    "canBeReceivedDate": "2026-08-01 07:00:00",
+    "origin": "MonthlyHeroAugust2026"
+  },
+  "vegetable_big_barry": {
+    "id": "vegetable_big_barry",
+    "element": "Red",
+    "family": "vegetable",
+    "baseHealth": 1132,
+    "baseAttack": 667,
+    "baseDefense": 647,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "spiked_bat_thrashing",
+    "canBeReceivedDate": "2026-04-25 07:00:00",
+    "origin": "Vigilant Vegetables"
+  },
+  "vegetable_melonius": {
+    "id": "vegetable_melonius",
+    "element": "Green",
+    "family": "vegetable",
+    "baseHealth": 1163,
+    "baseAttack": 654,
+    "baseDefense": 684,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "magical_refreshment",
+    "canBeReceivedDate": "2026-05-17 07:00:00",
+    "origin": "Vigilant Vegetables"
+  },
+  "mahayoddha_rudraditya": {
+    "id": "mahayoddha_rudraditya",
+    "element": "Red",
+    "family": "mahayoddha",
+    "baseHealth": 1135,
+    "baseAttack": 634,
+    "baseDefense": 645,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "increased_damage_against_minions_and_mega_minions",
+      "mana_on_damage_received"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "agni_talwar_takedown",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Windfall Temple"
+  },
+  "ronin_kitou_sayomi": {
+    "id": "ronin_kitou_sayomi",
+    "element": "Blue",
+    "family": "ronin",
+    "baseHealth": 1135,
+    "baseAttack": 634,
+    "baseDefense": 645,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "piercing_kurozuki_katana",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_hiyori": {
+    "id": "ronin_hiyori",
+    "element": "Yellow",
+    "family": "ronin",
+    "baseHealth": 1156,
+    "baseAttack": 662,
+    "baseDefense": 673,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "sensu_of_immortality",
+    "canBeReceivedDate": "2026-05-03 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "construct_featherweight": {
+    "id": "construct_featherweight",
+    "element": "Blue",
+    "family": "construct",
+    "baseHealth": 1165,
+    "baseAttack": 620,
+    "baseDefense": 673,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "minion_core",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "heavy_drain",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon"
+  },
+  "construct_niso": {
+    "id": "construct_niso",
+    "element": "Purple",
+    "family": "construct",
+    "baseHealth": 1021,
+    "baseAttack": 684,
+    "baseDefense": 664,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "minion_core",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "karmic_protocol",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon"
+  },
+  "construct_tengo": {
+    "id": "construct_tengo",
+    "element": "Yellow",
+    "family": "construct",
+    "baseHealth": 1117,
+    "baseAttack": 686,
+    "baseDefense": 667,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "minion_core",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "sunlords_forbidden_flame",
+    "canBeReceivedDate": "2026-05-16 07:00:00",
+    "origin": "Covenant Summon"
+  },
+  "construct_elx": {
+    "id": "construct_elx",
+    "element": "Red",
+    "family": "construct",
+    "baseHealth": 1057,
+    "baseAttack": 652,
+    "baseDefense": 672,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "minion_core",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "grimoire_fatalis",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon"
+  },
+  "construct_nepant": {
+    "id": "construct_nepant",
+    "element": "Green",
+    "family": "construct",
+    "baseHealth": 1122,
+    "baseAttack": 641,
+    "baseDefense": 667,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "minion_core",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "recycled_weapons",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon"
+  },
+  "dryad_pansius": {
+    "id": "dryad_pansius",
+    "element": "Purple",
+    "family": "dryad",
+    "baseHealth": 1130,
+    "baseAttack": 660,
+    "baseDefense": 644,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "camouflage_on_special_cast",
+      "mesmerize_over_time_dryad"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "poisonous_velvet_petals",
+    "canBeReceivedDate": "2026-06-15 07:00:00",
+    "origin": "Solstice Summon"
+  },
+  "dryad_cloveria": {
+    "id": "dryad_cloveria",
+    "element": "Green",
+    "family": "dryad",
+    "baseHealth": 1143,
+    "baseAttack": 650,
+    "baseDefense": 650,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "camouflage_on_special_cast",
+      "mesmerize_over_time_dryad"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "four_leaf_fortune",
+    "canBeReceivedDate": "2026-06-15 07:00:00",
+    "origin": "Solstice Summon"
+  },
+  "mimic_food_red": {
+    "id": "mimic_food_red",
+    "element": "Red",
+    "family": "mimic",
+    "baseHealth": 1158,
+    "baseAttack": 692,
+    "baseDefense": 689,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_food_red"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "wicked_lick_red",
+    "canBeReceivedDate": "2026-05-10 07:00:00",
+    "origin": "SecretSummonFoodMimicRed",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_food_green": {
+    "id": "mimic_food_green",
+    "element": "Green",
+    "family": "mimic",
+    "baseHealth": 1158,
+    "baseAttack": 692,
+    "baseDefense": 689,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_food_green"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "wicked_lick_green",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonFoodMimicGreen",
+    "isSecret": true,
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_food_blue": {
+    "id": "mimic_food_blue",
+    "element": "Blue",
+    "family": "mimic",
+    "baseHealth": 1158,
+    "baseAttack": 692,
+    "baseDefense": 689,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_food_blue"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "wicked_lick_blue",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonFoodMimicBlue",
+    "isSecret": true,
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_food_yellow": {
+    "id": "mimic_food_yellow",
+    "element": "Yellow",
+    "family": "mimic",
+    "baseHealth": 1158,
+    "baseAttack": 692,
+    "baseDefense": 689,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_food_yellow"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "wicked_lick_yellow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonFoodMimicYellow",
+    "isSecret": true,
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_food_purple": {
+    "id": "mimic_food_purple",
+    "element": "Purple",
+    "family": "mimic",
+    "baseHealth": 1158,
+    "baseAttack": 692,
+    "baseDefense": 689,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_food_purple"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "wicked_lick_purple",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonFoodMimicPurple",
+    "isSecret": true,
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "ghost_hei_wu_chang": {
+    "id": "ghost_hei_wu_chang",
+    "element": "Green",
+    "family": "ghost",
+    "baseHealth": 1159,
+    "baseAttack": 672,
+    "baseDefense": 667,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "cursed_judgement",
+    "canBeReceivedDate": "2026-05-21 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "ghost_he_gui": {
+    "id": "ghost_he_gui",
+    "element": "Blue",
+    "family": "ghost",
+    "baseHealth": 1162,
+    "baseAttack": 675,
+    "baseDefense": 662,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "ghastly_drowning",
+    "canBeReceivedDate": "2026-05-21 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "ghost_shu_jing": {
+    "id": "ghost_shu_jing",
+    "element": "Purple",
+    "family": "ghost",
+    "baseHealth": 1102,
+    "baseAttack": 653,
+    "baseDefense": 645,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "blinding_debates",
+    "canBeReceivedDate": "2026-06-13 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "ghost_kuang_nao": {
+    "id": "ghost_kuang_nao",
+    "element": "Green",
+    "family": "ghost",
+    "baseHealth": 595,
+    "baseAttack": 410,
+    "baseDefense": 394,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received_rare_and_epic"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "spiteful_curse",
+    "canBeReceivedDate": "2026-05-21 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "ghost_miao_yin": {
+    "id": "ghost_miao_yin",
+    "element": "Blue",
+    "family": "ghost",
+    "baseHealth": 520,
+    "baseAttack": 330,
+    "baseDefense": 311,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received_rare_and_epic"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Regen",
+    "rarity": 3,
+    "specialId": "bolanggu_blessing",
+    "canBeReceivedDate": "2026-05-21 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "shark_brokhai": {
+    "id": "shark_brokhai",
+    "element": "Red",
+    "family": "shark",
+    "baseHealth": 1100,
+    "baseAttack": 670,
+    "baseDefense": 640,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "dealt_damage_modifier_per_water_ailment_on_target"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "blast_wave_punch",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "BeachParty2026"
+  },
+  "shark_haikala": {
+    "id": "shark_haikala",
+    "element": "Blue",
+    "family": "shark",
+    "baseHealth": 1152,
+    "baseAttack": 625,
+    "baseDefense": 670,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "dealt_damage_modifier_per_water_ailment_on_target"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "mending_high_tides",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "BeachParty2026"
+  },
+  "shark_sharpoon": {
+    "id": "shark_sharpoon",
+    "element": "Green",
+    "family": "shark",
+    "baseHealth": 1119,
+    "baseAttack": 649,
+    "baseDefense": 657,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "dealt_damage_modifier_per_water_ailment_on_target"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "harpoon_barrage",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "BeachParty2026"
+  },
+  "shark_sharby": {
+    "id": "shark_sharby",
+    "element": "Red",
+    "family": "shark",
+    "baseHealth": 634,
+    "baseAttack": 385,
+    "baseDefense": 406,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "dealt_damage_modifier_per_water_ailment_on_target"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Fiend Resist",
+    "rarity": 4,
+    "specialId": "sword_splash",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "BeachParty2026"
+  },
+  "shark_haamuhai": {
+    "id": "shark_haamuhai",
+    "element": "Purple",
+    "family": "shark",
+    "baseHealth": 515,
+    "baseAttack": 333,
+    "baseDefense": 307,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_water_with_health_boost_and_mana",
+      "dealt_damage_modifier_per_water_ailment_on_target"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Attack Up",
+    "rarity": 3,
+    "specialId": "scare_from_beneath",
+    "canBeReceivedDate": "2026-06-01 07:00:00",
+    "origin": "BeachParty2026"
+  },
+  "astral_demon_zurrumurgh": {
+    "id": "astral_demon_zurrumurgh",
+    "element": "Green",
+    "family": "astral_demons",
+    "baseHealth": 1202,
+    "baseAttack": 636,
+    "baseDefense": 683,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "eye_see_you",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_madarika": {
+    "id": "astral_demon_madarika",
+    "element": "Purple",
+    "family": "astral_demons",
+    "baseHealth": 1119,
+    "baseAttack": 686,
+    "baseDefense": 661,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "astral_subterfuge",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_zhakiturion": {
+    "id": "astral_demon_zhakiturion",
+    "element": "Yellow",
+    "family": "astral_demons",
+    "baseHealth": 1000,
+    "baseAttack": 600,
+    "baseDefense": 600,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "ronin_tenzin_kiba": {
+    "id": "ronin_tenzin_kiba",
+    "element": "Red",
+    "family": "ronin",
+    "baseHealth": 1128,
+    "baseAttack": 643,
+    "baseDefense": 665,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Taunt",
+    "rarity": 5,
+    "specialId": "bring_it_on",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_mizuno_seiko": {
+    "id": "ronin_mizuno_seiko",
+    "element": "Green",
+    "family": "ronin",
+    "baseHealth": 1122,
+    "baseAttack": 667,
+    "baseDefense": 632,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "spiritual_stance",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "mahayoddha_baji": {
+    "id": "mahayoddha_baji",
+    "element": "Purple",
+    "family": "mahayoddha",
+    "baseHealth": 1122,
+    "baseAttack": 660,
+    "baseDefense": 643,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "increased_damage_against_minions_and_mega_minions",
+      "mana_on_damage_received"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "double_bichuwa_slashes",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Windfall Temple"
+  },
+  "mahayoddha_shaurya": {
+    "id": "mahayoddha_shaurya",
+    "element": "Yellow",
+    "family": "mahayoddha",
+    "baseHealth": 1126,
+    "baseAttack": 657,
+    "baseDefense": 640,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "increased_damage_against_minions_and_mega_minions",
+      "mana_on_damage_received"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "thrusting_bhuj",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Windfall Temple"
+  },
+  "vegetable_garlacteus": {
+    "id": "vegetable_garlacteus",
+    "element": "Blue",
+    "family": "vegetable",
+    "baseHealth": 1123,
+    "baseAttack": 638,
+    "baseDefense": 652,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "pungent_punishment",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Vigilant Vegetables"
+  },
+  "vegetable_pepo": {
+    "id": "vegetable_pepo",
+    "element": "Yellow",
+    "family": "vegetable",
+    "baseHealth": 1130,
+    "baseAttack": 643,
+    "baseDefense": 666,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "survival_of_the_plumpest",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Vigilant Vegetables"
   }
 }

@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Sankari saa {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Tämä hahmo saa {CURRENTCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Sankari saa {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","Sankari saa {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} nöyryyttä jokaisen vuoron lopussa."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Tämä hahmo saa {CURRENTCHARGEONTURNEND} nöyryyttä jokaisen vuoron lopussa."
 "familybonuses.description.long.abyss","{CHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n/{4MEMBERSCHANCE} %:n/{5MEMBERSCHANCE} %:n mahdollisuus, että laudalle ilmestyy Syvänkölän jalokivi, kun tämä sankari käyttää erikoistaitoaan.
 Syvänkölän jalokivi tuottaa joka vuorolla {FIXEDPOWER} vauriota satunnaiselle viholliselle, kunnes se poistetaan yhdistämällä.
 Syvänkölän jalokiviä voi ilmestyä vain tavallisille kilville, jotka vastaavat sankarin elementtiä."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Saat {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} % manaa, kun tämän hahmon haamumuoto päättyy."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Hahmo saa {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT} % manaa kärsiessään vauriota erikoistaidosta. Tämä vaikutus voi aktivoitua kerran vuorossa."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
@@ -14,13 +21,15 @@ Syvänkölän jalokiviä voi ilmestyä vain tavallisille kilville, jotka vastaav
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Kaikki liittolaiset saavat {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} %:n hyökkäyskasauman aina kun tämä hahmo yrittää ryöstää vihollisen. (Maksimikasauma: {MAXSTACK})"
-"familybonuses.description.long.build_charge_beauty_beast","Eri sankareilla on erilaiset nöyryysvaatimukset.
+"familybonuses.description.long.build_charge_beauty_beast","Eri sankareilla on erilaiset nöyryyttä koskevat vaatimukset.
+Kun sankari käyttää erikoistaitonsa vahvaa versiota, vain vaadittava määrä nöyryyttä käytetään.
+Nöyryyden enimmäismäärä: 100.
+Bonus 1/2/3 saman perheen ainutlaatuisesta sankarista:
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Eri sankareilla on erilaiset nöyryysvaatimukset.
 Kun sankari käyttää erikoistaitonsa vahvaa versiota, se kuluttaa vain tarvittavan määrän nöyryyttä.
 Nöyryyden maksimimäärä: 100.
 Bonus 1/2/3 saman perheen uniikista sankarista:
-Sankari saa {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista.
-Sankari saa {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista."
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Eri sankareilla on erilaiset nöyryysvaatimukset.
 Sankari saa {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista. Enintään kerran vuorossa.
 Sankari saa {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista. Enintään kerran vuorossa."
 "familybonuses.description.long.build_charge_construct","Rakennelmaydin latautuu aina, kun tämä hahmo kärsii vauriota normaalihyökkäyksistä tai erikoistaidoista."
@@ -31,7 +40,7 @@ Sankari saa {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Kun tämä sankari saa puolustukseen vaikuttavan vaivan, {1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus loitsia saatu vaiva kaikille vihollisille."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus pidentää kunkin tämän hahmon loitsiman onnentanssin tilaefektin kestoa 1 vuorolla."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % lisää erikoistaitovauriota."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa kaikki vaivat tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa yksi vaiva kaikilta liittolaisilta, kun hahmo kärsii vauriota erikoistaidosta."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa satunnainen puhdistettava vaiva tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa satunnainen puhdistettava vaiva kaikilta liittolaisilta, kun tämä hahmo kärsii vauriota vihollisen erikoistaidosta. Tämä vaikutus voi aktivoitua vain kerran vuorossa."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus tehdä vastahyökkäyksenä {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % saadusta vauriosta."
@@ -88,6 +97,7 @@ Vähintään {MINSTAT} % ja enintään {MAXSTAT} % alkuperäisestä arvosta."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % terveyttä"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % terveyttä"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % terveyttä."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Kaikki liittolaiset saavat +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} terveyden palautumiskasaumaa aina kun tämä hahmo yrittää hypnotisoida vihollisen. (kasaumien maksimi: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % enemmän vauriota megakäskyläisille."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} % enemmän vauriota käskyläisille."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % enemmän vauriota käskyläisille."
@@ -135,6 +145,7 @@ Jos vihollisen erikoistaito kukistaa tämän hahmon, mahdollisuus on {1MEMBERCHA
 Sankari saa sukulaisen perhebonuksen ollessaan ryhmässä, jossa on vähintään 1 sukua oleva sankari. Bonus 1/2/3/4/5 sankarista:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Sankari on sukua taikaperheelle.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Tuottaa {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} vesivauriota {STATUSEFFECT1TURNS} vuoron aikana viholliselle, joka tuottaa erikoistaitovauriota tälle hahmolle."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Liittolaisten kutsumat megakäskyläiset, käskyläiset, megariiviöt ja riiviöt saavat {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} % terveyttä sen mukaan montako Limaperheen sankaria ryhmässä on."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE} % erikoistaidon voimaa."
 "familybonuses.description.long.start_battle_with_fox_minion","Kutsuu itselleen taistelun alussa {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} viekasta kettukäskyläistä, jotka perivät sankarilta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
@@ -156,6 +167,7 @@ Lisätaito kolmella perheenjäsenellä: Kun naamiokäskyläinen kutsutaan, se te
 "familybonuses.description.members","(Perheenjäsenet: {0})"
 "familybonuses.description.members.realm","(Valtakunnan jäsenet: {0})"
 "familybonuses.description.short.abyss","{CHANCE} %:n mahdollisuus Syvänkölän jalokiven ilmestymiseen, kun erikoistaitoa käytetään. Syvänkölän jalokivi tuottaa joka vuorolla {FIXEDPOWER} vauriota satunnaiselle viholliselle."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Saa {MULTIPLIERPERCENT} % manaa, kun tämän hahmon haamumuoto päättyy."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Hahmo saa {MULTIPLIERPERCENT} % manaa kärsitystä erikoistaitovauriosta."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE} % hyökkäystä"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} % hyökkäystä"
@@ -172,8 +184,7 @@ Lisätaito kolmella perheenjäsenellä: Kun naamiokäskyläinen kutsutaan, se te
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Merkitsee jokaisen vuoron alussa verililjalla vihollisen, jolla on eniten terveyttä jäljellä."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Merkitsee jokaisen vuoron alussa verililjalla vihollisen, jolla on eniten terveyttä jäljellä."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Loitsii {ATTACK} %:n hyökkäyskasauman kaikille liittolaisille, kun tämä hahmo yrittää ryöstää jonkun hahmon. (Maksimikasauma: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Tämä hahmo saa {CURRENTCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista.
-Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Tämä hahmo saa {CURRENTCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista. Enintään kerran vuorossa.
 Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista. Enintään kerran vuorossa."
 "familybonuses.description.short.build_charge_construct","Tämä hahmo lataa rakennelmaydintään kärsiessään vauriota normaalihyökkäyksistä tai erikoistaidoista."
@@ -184,7 +195,7 @@ Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannust
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Kun tämä sankari saa puolustukseen vaikuttavan vaivan, {CHANCE} %:n mahdollisuus loitsia saatu vaiva kaikille vihollisille."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} %:n mahdollisuus pidentää loitsittujen onnentanssin tilaefektien kestoa 1:llä."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % erikoistaitojen vaurioon."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} %:n mahdollisuus puhdistaa kaikki puhdistettavat vaivat tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} %:n mahdollisuus puhdistaa yksi vaiva kaikilta liittolaisilta, kun hahmo kärsii vauriota erikoistaidosta"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} %:n mahdollisuus puhdistaa satunnainen puhdistettava vaiva tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Kun vihollinen tuottaa erikoistaidolla vauriota tälle hahmolle, on {CHANCE} %:n mahdollisuus, että tämä hahmo puhdistaa kaikilta liittolaisilta satunnaisen puhdistettavan vaivan. Tämä vaikutus voi aktivoitua vain kerran vuorossa."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} %:n mahdollisuus tehdä vastahyökkäyksenä {MULTIPLIERPERCENT} % saadusta vauriosta."
@@ -232,6 +243,7 @@ Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannust
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE} % terveyttä"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE} % terveyttä"
 "familybonuses.description.short.health_stack","{CHANCE} %:n mahdollisuus saada parannuskasauma +1: +{BASESTACKCOUNT} terveyttä jokaisen vuoron lopussa"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Kaikki liittolaiset saavat +{HEAL} terveyden palautumiskasaumaa aina kun tämä hahmo yrittää hypnotisoida vihollisen."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE} % enemmän vauriota megakäskyläisille."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE} % enemmän vauriota käskyläisille."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE} % enemmän vauriota käskyläisille."
@@ -278,6 +290,7 @@ Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannust
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE} %:n mahdollisuus vastustaa mananvähennyksiä ja manavaivoja, ja saa {POWER} % manaa vastustuksesta"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE} %:n mahdollisuus vastustaa mananvähennyksiä ja manavaivoja, ja saa {POWER} % manaa vastustuksesta"
 "familybonuses.description.short.share_effects_from_atlantis","Sankari on sukua Atlantis-perheelle. Sankari saa sukulaisen perhebonuksen ollessaan ryhmässä, jossa on vähintään 1 sukua oleva sankari:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Kun vihollinen tekee erikoistaitovauriota tälle hahmolle, kyseinen vihollinen kärsii {DAMAGE} vesivauriota {STATUSEFFECT1TURNS} vuoron aikana."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Megakäskyläiset, käskyläiset, megariiviöt ja riiviöt saavat {MULTIPLIERPERCENTCHANGE} % hyökkäystä."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Kuukalenterin rotan bonus: {MULTIPLIERPERCENTCHANGE} % erikoistaidon voimaa"
 "familybonuses.description.short.start_battle_with_fox_minion","Kutsuu itselleen {FAMILIARAMOUNT} viekkaan kettukäskyläisen taistelun alussa. Viekkaalla kettukäskyläisellä on 80 %:n mahdollisuus väistää hyökkäyksiä. Kun se väistää onnistuneesti, se anastaa hyökkääjältä viimeisimmän häivytettävän tehosteen ja antaa sen omistajalleen."
@@ -334,7 +347,8 @@ Tämä sankari saa seuraavat edut tässä tapahtumassa:"
 "herocard.family.description.eventherobonus.alliancequestcastle","Tämän perheen jäsenet saavat lisäetuja Ritarien taisto -tapahtumassa."
 "herocard.family.description.eventherobonus.alliancequestmoths","Tämän perheen jäsenet saavat lisäetuja Koiden yö -tapahtumassa."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Tämän perheen jäsenet saavat lisäetuja Kauniit ja urheat -tapahtumassa."
-"herocard.family.description.eventherobonus.beachparty","Tämän perheen jäsenet saavat lisäetuja Rantajuhla-tapahtumassa."
+"herocard.family.description.eventherobonus.beachparty","Tämän perheen jäsenet saavat lisäetuja Aurinkolahden juhla -tapahtumassa."
+"herocard.family.description.eventherobonus.beachparty2026","Tämän perheen jäsenet saavat lisäetuja Aurinkolahden juhla -tapahtumassa."
 "herocard.family.description.eventherobonus.christmas","Tämän perheen jäsenet saavat lisäetuja Pukin haaste -tapahtumassa."
 "herocard.family.description.eventherobonus.easter","Tämän perheen jäsenet saavat lisäetuja Kevätlaakson festivaali -tapahtumassa."
 "herocard.family.description.eventherobonus.halloween","Tämän perheen jäsenet saavat lisäetuja Halloween-tapahtumassa."
@@ -416,6 +430,8 @@ Kuukalenteriperheessä on erilaisia kuukalenterin eläinsankareita. Kukin kuukal
 "herocard.family.title.cultist.short","Kultisti"
 "herocard.family.title.cupid","Cupidoperhe"
 "herocard.family.title.cupid.short","Cupido"
+"herocard.family.title.dryad","Muinaisen kukan dryadiperhe"
+"herocard.family.title.dryad.short","Dryadi"
 "herocard.family.title.easter","Kevätlaakson perhe"
 "herocard.family.title.easter.short","Kevätlaakso"
 "herocard.family.title.fable","Julmametsän perhe"
@@ -437,6 +453,8 @@ Kuukalenteriperheessä on erilaisia kuukalenterin eläinsankareita. Kukin kuukal
 "herocard.family.title.gargoyle.short","Gargoili"
 "herocard.family.title.garrison","Varuskunnan vartijaperhe"
 "herocard.family.title.garrison.short","Varuskunnan vartija"
+"herocard.family.title.ghost","Yang Jianin haamuperhe"
+"herocard.family.title.ghost.short","Yang Jianin haamu"
 "herocard.family.title.goblin","Hiisiperhe"
 "herocard.family.title.goblin.short","Hiisi"
 "herocard.family.title.guardian","Vartijaperhe"
@@ -524,6 +542,8 @@ Kuukalenteriperheessä on erilaisia kuukalenterin eläinsankareita. Kukin kuukal
 "herocard.family.title.sand.short","Hiekkavaltakunta"
 "herocard.family.title.shady_scoundrels","Ketkuperhe"
 "herocard.family.title.shady_scoundrels.short","Ketku"
+"herocard.family.title.shark","Aurinkolahden haiperhe"
+"herocard.family.title.shark.short","Aurinkolahden hai"
 "herocard.family.title.slayers","Surmaajaperhe"
 "herocard.family.title.slayers.short","Surmaaja"
 "herocard.family.title.slime","Limaperhe"

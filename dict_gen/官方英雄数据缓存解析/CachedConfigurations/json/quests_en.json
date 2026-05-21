@@ -48515,7 +48515,7 @@
           "elemental_quest_red"
         ],
         "elementIdentifier": "Red",
-        "heroUsageLimitId": "super_elemental",
+        "playerCharacterUsageLimitId": "super_elemental",
         "preferredMapIndices": [
           6,
           8,
@@ -49658,7 +49658,7 @@
           "elemental_quest_green"
         ],
         "elementIdentifier": "Green",
-        "heroUsageLimitId": "super_elemental",
+        "playerCharacterUsageLimitId": "super_elemental",
         "preferredMapIndices": [
           6,
           8,
@@ -50798,7 +50798,7 @@
           "elemental_quest_blue"
         ],
         "elementIdentifier": "Blue",
-        "heroUsageLimitId": "super_elemental",
+        "playerCharacterUsageLimitId": "super_elemental",
         "preferredMapIndices": [
           6,
           8,
@@ -51944,7 +51944,7 @@
           "elemental_quest_yellow"
         ],
         "elementIdentifier": "Yellow",
-        "heroUsageLimitId": "super_elemental",
+        "playerCharacterUsageLimitId": "super_elemental",
         "preferredMapIndices": [
           6,
           8,
@@ -53081,7 +53081,7 @@
           "elemental_quest_purple"
         ],
         "elementIdentifier": "Purple",
-        "heroUsageLimitId": "super_elemental",
+        "playerCharacterUsageLimitId": "super_elemental",
         "preferredMapIndices": [
           6,
           8,
@@ -80547,6 +80547,1640 @@
         "energyType": "PveEnergy"
       },
       {
+        "id": "beachparty2026_normal",
+        "type": "SeasonalEventNormal",
+        "eventOrigin": "BeachParty2026",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "21天",
+        "provinceLootTableId": "province_14",
+        "provinceLootItemLimit": 3,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 2,
+              "commonMonstersLevel": 58,
+              "randomizedMonsterIds": [
+                "beach_enjoyer",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_fire_performer"
+                    },
+                    {
+                      "id": "Reveler of Sunlit Shores",
+                      "lvl": 75
+                    },
+                    {
+                      "id": "beach_fire_performer"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 5,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 2500,
+              "ironReward": 5000,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_crystal_shard",
+                "amount": 5
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_minor_mana_potion",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 2
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ]
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 2,
+              "commonMonstersLevel": 64,
+              "randomizedMonsterIds": [
+                "beach_squid",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_enjoyer",
+                      "lvl": 70
+                    },
+                    {
+                      "id": "Overly Tanned Dwarf",
+                      "lvl": 98
+                    },
+                    {
+                      "id": "beach_enjoyer",
+                      "lvl": 70
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 6,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 2600,
+              "ironReward": 5200,
+              "recruitsReward": 5,
+              "xpReward": 1400
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_firestone",
+                "amount": 5
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 3
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ]
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 3,
+              "commonMonstersLevel": 78,
+              "randomizedMonsterIds": [
+                "beach_seagull",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_hula_crab"
+                    },
+                    {
+                      "id": "Dark Elf Surfer",
+                      "lvl": 85
+                    },
+                    {
+                      "id": "beach_hula_crab"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 9,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 2700,
+              "ironReward": 5400,
+              "recruitsReward": 5,
+              "xpReward": 1500
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_crypt_mushroom",
+                "amount": 6
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 3
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ]
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 3,
+              "commonMonstersLevel": 88,
+              "randomizedMonsterIds": [
+                "beach_hula_crab",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_squid"
+                    },
+                    {
+                      "id": "Elf Swimming School Instructor",
+                      "lvl": 100
+                    },
+                    {
+                      "id": "beach_squid"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 10,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 2800,
+              "ironReward": 5600,
+              "recruitsReward": 5,
+              "xpReward": 1600
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_crystal_shard",
+                "amount": 6
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 3
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 3,
+              "commonMonstersLevel": 91,
+              "randomizedMonsterIds": [
+                "beach_squid",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_seagull"
+                    },
+                    {
+                      "id": "Seal Lifeguard",
+                      "lvl": 105
+                    },
+                    {
+                      "id": "beach_seagull"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 11,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 2900,
+              "ironReward": 5800,
+              "recruitsReward": 5,
+              "xpReward": 1700
+            },
+            "avatarReward": "hero_beachparty_mortimer",
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_firestone",
+                "amount": 6
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 3,
+              "commonMonstersLevel": 97,
+              "randomizedMonsterIds": [
+                "beach_enjoyer",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_hula_crab"
+                    },
+                    {
+                      "id": "Orc Water Gunner",
+                      "lvl": 120
+                    },
+                    {
+                      "id": "beach_hula_crab"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 12,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 3000,
+              "ironReward": 6000,
+              "recruitsReward": 6,
+              "xpReward": 1800
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_metal_ores",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "hero_wooden_shield",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 4
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 3,
+              "commonMonstersLevel": 112,
+              "randomizedMonsterIds": [
+                "beach_enjoyer",
+                "beach_squid"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_enjoyer"
+                    },
+                    {
+                      "id": "Snorkeling Gnome",
+                      "lvl": 130
+                    },
+                    {
+                      "id": "beach_enjoyer"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 13,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 3100,
+              "ironReward": 6200,
+              "recruitsReward": 6,
+              "xpReward": 1900
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_potent_leaves",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 4
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_potion",
+                "amount": 4
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 112,
+              "randomizedMonsterIds": [
+                "beach_hula_crab",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beachparty_flip_donut",
+                      "lvl": 95
+                    },
+                    {
+                      "id": "Ice Cream Enthusiast"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 18,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 3200,
+              "ironReward": 6400,
+              "recruitsReward": 6,
+              "xpReward": 2000
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_sunspire_feathers",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_minor_mana_potion",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 125,
+              "commonMonstersLevelDeviation": 255,
+              "randomizedMonsterIds": [
+                "beach_seagull",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beachparty_dolrak_tattoo",
+                      "lvl": 160
+                    },
+                    {
+                      "id": "beachparty_itham_skateboard",
+                      "lvl": 160
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 19,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 3300,
+              "ironReward": 6600,
+              "recruitsReward": 6,
+              "xpReward": 2100
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_metal_ores",
+                "amount": 8
+              },
+              {
+                "type": "Item",
+                "id": "hero_arcane_scripts",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 125,
+              "randomizedMonsterIds": [
+                "beach_seagull",
+                "beach_squid"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beachparty_skiff",
+                      "lvl": 120
+                    },
+                    {
+                      "id": "shark_brokhai",
+                      "lvl": 120
+                    },
+                    {
+                      "id": "beachparty_bubo_normal",
+                      "lvl": 120
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 20,
+              "battlegroundId": "BeachPartyDay",
+              "foodReward": 3350,
+              "ironReward": 6700,
+              "recruitsReward": 6,
+              "xpReward": 2150
+            },
+            "avatarReward": "beachparty_bubo",
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_blue_uncommon",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_tall_boots",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "emblem_monk",
+                "amount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Gem",
+                "amount": 10
+              }
+            ],
+            "displayedEntities": [
+              "Avatar",
+              "Hero",
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "beachparty_bombs"
+        ],
+        "useDefaultFullScreenQuestLineView": true,
+        "stagesCanBeReplayed": true,
+        "energyType": "PveEnergy",
+        "rareMonsterStateConfigId": "beach_party"
+      },
+      {
+        "id": "beachparty2026_advanced",
+        "type": "SeasonalEventAdvanced",
+        "eventOrigin": "BeachParty2026",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "21天",
+        "provinceLootTableId": "province_20",
+        "provinceLootItemLimit": 5,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 130,
+              "randomizedMonsterIds": [
+                "beach_enjoyer",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_squid",
+                      "lvl": 250
+                    },
+                    {
+                      "id": "shark_haamuhai",
+                      "lvl": 250
+                    },
+                    {
+                      "id": "beach_squid",
+                      "lvl": 250
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 23,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 3900,
+              "ironReward": 7800,
+              "recruitsReward": 8,
+              "xpReward": 2700
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_grimoire_dust",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_dust",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ]
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 135,
+              "randomizedMonsterIds": [
+                "beach_squid",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_hula_crab"
+                    },
+                    {
+                      "id": "beachparty_misty_rogue",
+                      "lvl": 140
+                    },
+                    {
+                      "id": "beach_hula_crab"
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 25,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 3950,
+              "ironReward": 7900,
+              "recruitsReward": 8,
+              "xpReward": 2750
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_hardwood_lumber",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "hero_leather_armor",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_revival_scroll",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ]
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 5,
+              "commonMonstersLevel": 140,
+              "randomizedMonsterIds": [
+                "beach_seagull",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "Reveler of Sunlit Shores",
+                      "lvl": 110
+                    },
+                    {
+                      "id": "Shoreside Socialite",
+                      "lvl": 110
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 33,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4000,
+              "ironReward": 8000,
+              "recruitsReward": 8,
+              "xpReward": 2800
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_midnight_roots",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 5,
+              "commonMonstersLevel": 150,
+              "randomizedMonsterIds": [
+                "beach_hula_crab",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "shark_sharby",
+                      "lvl": 122
+                    },
+                    {
+                      "id": "beachparty_davey",
+                      "lvl": 122
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 37,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4050,
+              "ironReward": 8100,
+              "recruitsReward": 8,
+              "xpReward": 2850
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_meteor_fragments",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_revival_scroll",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_revival_scroll",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 155,
+              "randomizedMonsterIds": [
+                "beach_squid",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "shark_brokhai",
+                      "lvl": 85
+                    },
+                    {
+                      "id": "beachparty_bubo_normal",
+                      "lvl": 85
+                    },
+                    {
+                      "id": "shark_sharby",
+                      "lvl": 85
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 48,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4100,
+              "ironReward": 8200,
+              "recruitsReward": 8,
+              "xpReward": 2900
+            },
+            "avatarReward": "beachparty_skiff",
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_dragon_bone",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "hero_arcane_scripts",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 165,
+              "randomizedMonsterIds": [
+                "beach_enjoyer",
+                "beach_hula_crab"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "beach_fire_performer",
+                      "lvl": 200
+                    },
+                    {
+                      "id": "shark_shaar",
+                      "lvl": 200
+                    },
+                    {
+                      "id": "beach_fire_performer",
+                      "lvl": 200
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 52,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4150,
+              "ironReward": 8300,
+              "recruitsReward": 8,
+              "xpReward": 2950
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_orichalcum_nugget",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_revival_scroll",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 7,
+              "commonMonstersLevel": 170,
+              "randomizedMonsterIds": [
+                "beach_enjoyer",
+                "beach_squid"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "Orc Water Gunner",
+                      "lvl": 160
+                    },
+                    {
+                      "id": "beachparty_skiff",
+                      "lvl": 160
+                    },
+                    {
+                      "id": "Ice Cream Enthusiast",
+                      "lvl": 160
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 65,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4200,
+              "ironReward": 8400,
+              "recruitsReward": 8,
+              "xpReward": 3000
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_fine_steel",
+                "amount": 4
+              },
+              {
+                "type": "Item",
+                "id": "hero_arcane_scripts",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 5
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 7,
+              "commonMonstersLevel": 175,
+              "randomizedMonsterIds": [
+                "beach_hula_crab",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "Reveler of Sunlit Shores",
+                      "lvl": 130
+                    },
+                    {
+                      "id": "shark_haikala",
+                      "lvl": 130
+                    },
+                    {
+                      "id": "beachparty_davey",
+                      "lvl": 130
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 72,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4250,
+              "ironReward": 8500,
+              "recruitsReward": 9,
+              "xpReward": 3050
+            },
+            "avatarReward": "",
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_fine_steel",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_revival_scroll",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 8,
+              "commonMonstersLevel": 180,
+              "randomizedMonsterIds": [
+                "beach_seagull",
+                "beach_fire_performer"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "Shoreside Socialite",
+                      "lvl": 200
+                    },
+                    {
+                      "id": "shark_haamuhai",
+                      "lvl": 200
+                    },
+                    {
+                      "id": "Dark Elf Surfer",
+                      "lvl": 200
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 86,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4300,
+              "ironReward": 8600,
+              "recruitsReward": 9,
+              "xpReward": 3100
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_grimoire_dust",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "item_dragon_bone",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "battle_wall_of_shields",
+                "amount": 5
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 8,
+              "commonMonstersLevel": 180,
+              "randomizedMonsterIds": [
+                "beach_seagull",
+                "beach_squid"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_4_U",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "shark_shaar",
+                      "lvl": 195
+                    },
+                    {
+                      "id": "shark_brokhai",
+                      "lvl": 195
+                    },
+                    {
+                      "id": "shark_haikala",
+                      "lvl": 195
+                    }
+                  ]
+                }
+              ],
+              "customRareMonsterSpawnChancePerMil": 90,
+              "battlegroundId": "BeachPartyNight",
+              "foodReward": 4350,
+              "ironReward": 8700,
+              "recruitsReward": 9,
+              "xpReward": 3150
+            },
+            "avatarReward": "shark_haamuhai",
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_blue_rare",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_fine_gloves",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_arcane_scripts",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_mystic_rings",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "emblem_sorcerer",
+                "amount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
+              }
+            ],
+            "displayedEntities": [
+              "Avatar",
+              "Hero",
+              "Item",
+              "Item"
+            ],
+            "alternativeRewardsCustomChance": 500
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "beachparty_bombs"
+        ],
+        "questLineRequirement": "beachparty2026_normal",
+        "useDefaultFullScreenQuestLineView": true,
+        "stagesCanBeReplayed": true,
+        "energyType": "PveEnergy",
+        "rareMonsterStateConfigId": "beach_party"
+      },
+      {
         "id": "goblin",
         "type": "Goblin",
         "eventOrigin": "Goblin",
@@ -97010,7 +98644,7 @@
         "globalLevelPropertyIds": [
           "dragon_cave_assist_bonus"
         ],
-        "heroUsageLimitId": "each_assist_dragon_allowed_once",
+        "playerCharacterUsageLimitId": "each_assist_dragon_allowed_once",
         "energyType": "PveEnergy"
       },
       {
@@ -105780,6 +107414,353 @@
         "energyType": "PveEnergy"
       }
     ],
+    "costume2QuestLines": [
+      {
+        "id": "costume2_quest1",
+        "type": "Costume2Quest",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "4天",
+        "provinceLootTableId": "province_20",
+        "provinceLootItemLimit": 4,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 5,
+              "commonMonstersLevel": 15,
+              "randomizedMonsterIds": [],
+              "randomizedMonsterWaveFormationIds": [],
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "pvp_default",
+                  "monsterDefinitions": [
+                    {
+                      "id": "s2_merman_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_demon_master_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_fiji_mermaid_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_proteus_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_merwoman_costume_cute_boss"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "CostumeChamber2",
+              "foodReward": 5600,
+              "ironReward": 515,
+              "recruitsReward": 4,
+              "xpReward": 1500
+            },
+            "recommendedTeamPower": 2500,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_common",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Hero"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 10,
+              "commonMonstersLevel": 35,
+              "randomizedMonsterIds": [],
+              "randomizedMonsterWaveFormationIds": [],
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "pvp_W",
+                  "monsterDefinitions": [
+                    {
+                      "id": "s2_proteus_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_rugged_fisherman_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_atlantean_robot_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_chameleon_mage_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_demon_master_costume_cute_boss"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "CostumeChamber2",
+              "foodReward": 7600,
+              "ironReward": 1030,
+              "recruitsReward": 4,
+              "xpReward": 2500
+            },
+            "recommendedTeamPower": 3500,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_common",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Hero"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 15,
+              "commonMonstersLevel": 45,
+              "randomizedMonsterIds": [],
+              "randomizedMonsterWaveFormationIds": [],
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "pvp_default",
+                  "monsterDefinitions": [
+                    {
+                      "id": "s2_cursed_samurai_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_junglehunter_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_fox_girl_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_skyllaros_costume_cute__boss"
+                    },
+                    {
+                      "id": "s2_poseidon_costume_cute_boss"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "CostumeChamber2",
+              "foodReward": 9600,
+              "ironReward": 1545,
+              "recruitsReward": 5,
+              "xpReward": 3500
+            },
+            "recommendedTeamPower": 4500,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_uncommon",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_large",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Hero"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 20,
+              "commonMonstersLevel": 58,
+              "randomizedMonsterIds": [],
+              "randomizedMonsterWaveFormationIds": [],
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "pvp_reversed",
+                  "monsterDefinitions": [
+                    {
+                      "id": "s2_cursed_samurai_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_ariel_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_noble_lady_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_fox_girl_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_mercenary_woman_costume_cute_boss"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "CostumeChamber2",
+              "foodReward": 11600,
+              "ironReward": 2060,
+              "recruitsReward": 5,
+              "xpReward": 4500
+            },
+            "recommendedTeamPower": 5500,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_large",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Hero"
+            ],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 25,
+              "commonMonstersLevel": 80,
+              "randomizedMonsterIds": [],
+              "randomizedMonsterWaveFormationIds": [],
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "pvp_W",
+                  "monsterDefinitions": [
+                    {
+                      "id": "s2_mercenary_woman_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_ursena_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_ariel_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_hammerhead_hulk_costume_cute_boss"
+                    },
+                    {
+                      "id": "s2_poseidon_costume_cute_boss"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "CostumeChamber2",
+              "foodReward": 13600,
+              "ironReward": 2575,
+              "recruitsReward": 6,
+              "xpReward": 5500
+            },
+            "recommendedTeamPower": 6500,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_epic",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 4
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Hero"
+            ],
+            "alternativeRewardsCustomChance": 500
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "blessingsSameChoiceLimit": {
+          "Common": 0,
+          "Rare": 0
+        },
+        "blessingsFrequencyPerRarity": {
+          "Common": 0,
+          "Rare": 0
+        },
+        "battleItemsDisabled": true,
+        "shareIdOfDifferentQuestLineVariants": true,
+        "preferredMapIndices": [
+          5,
+          7,
+          3
+        ],
+        "energyType": "PveEnergy"
+      }
+    ],
     "legendsQuestLines": [
       {
         "id": "hotm_quest1",
@@ -106328,7 +108309,7 @@
         "minDifficultyMultiplierPerMil": 1000,
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
-        "heroUsageLimitId": "each_hero_allowed_once",
+        "playerCharacterUsageLimitId": "each_hero_allowed_once",
         "preferredMapIndices": [
           5,
           7,
@@ -106883,7 +108864,7 @@
         "minDifficultyMultiplierPerMil": 1000,
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
-        "heroUsageLimitId": "each_hero_allowed_once",
+        "playerCharacterUsageLimitId": "each_hero_allowed_once",
         "preferredMapIndices": [
           5,
           7,
@@ -107438,7 +109419,7 @@
         "minDifficultyMultiplierPerMil": 1000,
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
-        "heroUsageLimitId": "each_hero_allowed_once",
+        "playerCharacterUsageLimitId": "each_hero_allowed_once",
         "preferredMapIndices": [
           5,
           7,
@@ -107973,7 +109954,7 @@
         "minDifficultyMultiplierPerMil": 1000,
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
-        "heroUsageLimitId": "each_hero_allowed_once",
+        "playerCharacterUsageLimitId": "each_hero_allowed_once",
         "preferredMapIndices": [
           5,
           7,
@@ -109703,6 +111684,7 @@
       "matchBonusMaxIncrementPerMil": 1200,
       "minTurnsMatchesRatioForBonusPerMil": 400,
       "revivePenaltyDecrementPerMil": 0,
+      "maxRevivePenaltyThreshold": 0,
       "easyScoreModifier": {
         "lowerBoundMultiplierPerMil": 1000,
         "upperBoundMultiplierPerMil": 2200
@@ -109797,24 +111779,6 @@
       "enabled": true,
       "entries": [
         {
-          "id": "dragon_cave_classic2025_10_31",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2025-10-31 07:00:00",
-          "endTime": "2025-11-03 07:00:00"
-        },
-        {
-          "id": "dragon_cave_classic2025_11_28",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2025-11-28 07:00:00",
-          "endTime": "2025-12-01 07:00:00"
-        },
-        {
-          "id": "dragon_cave_classic2025_12_26",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2025-12-26 07:00:00",
-          "endTime": "2025-12-29 07:00:00"
-        },
-        {
           "id": "dragon_cave_classic2026_1_23",
           "questLineId": "dragon_cave_classic",
           "startTime": "2026-01-23 07:00:00",
@@ -109855,9 +111819,27 @@
           "questLineId": "dragon_cave_classic",
           "startTime": "2026-07-10 07:00:00",
           "endTime": "2026-07-13 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_8_7",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-08-07 07:00:00",
+          "endTime": "2026-08-10 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_9_4",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-09-04 07:00:00",
+          "endTime": "2026-09-07 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_10_2",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-10-02 07:00:00",
+          "endTime": "2026-10-05 07:00:00"
         }
       ]
     }
   },
-  "questsConfigId": 293846047
+  "questsConfigId": 727908264
 }

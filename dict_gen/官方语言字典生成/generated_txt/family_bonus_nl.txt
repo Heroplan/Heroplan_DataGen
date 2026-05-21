@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","De held krijgt{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} nederigheid als hij directe schade lijdt door speciale vaardigheden."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Dit personage krijgt {CURRENTCHARGEFROMDAMAGE} nederigheid wanneer het directe schade lijdt uit speciale vaardigheden."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","De held krijgt {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} nederigheid als hij directe genezing ontvangt door speciale vaardigheden."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe genezing krijgt uit speciale vaardigheden."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","De held krijgt aan het eind van elke beurt {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} nederigheid."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Dit personage krijgt aan het eind van elke beurt {CURRENTCHARGEONTURNEND} nederigheid."
 "familybonuses.description.long.abyss","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% kans om een Onderwildernis-edelsteen op het bord te laten verschijnen als deze held zijn of haar speciale vaardigheid gebruikt.
 Onderwildernis-edelstenen brengen elke beurt {FIXEDPOWER} schade toe aan een willekeurige vijand totdat de edelsteen wordt gecombineerd.
 Onderwildernis-edelstenen verschijnen uitsluitend op gewone schilden van hetzelfde element als deze held."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Krijg {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}% mana wanneer een geestvorm van dit personage verloopt."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Dit personage krijgt {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% meer mana wanneer het schade lijdt door een speciale vaardigheid. Dit effect kan maar één keer per beurt worden geactiveerd."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% aanvalskracht."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% aanvalskracht."
@@ -15,12 +22,13 @@ Onderwildernis-edelstenen verschijnen uitsluitend op gewone schilden van hetzelf
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% aanvalskracht."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Alle bondgenoten krijgen elke keer als dit personage een vijand probeert te plunderen {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% cumulatieve aanvalskracht. (Max. cumulatief: {MAXSTACK})"
 "familybonuses.description.long.build_charge_beauty_beast","Verschillende helden hebben verschillende nederigheidsvereisten.
+Als de held de sterke versie van zijn of haar speciale vaardigheid gebruikt, wordt alleen de vereiste hoeveelheid nederigheid verbruikt.
+Maximale nederigheid: 100.
+Bonus voor 1/2/3 unieke helden van dezelfde familie:
+{CHARGEGAINS}"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Verschillende helden hebben verschillende nederigheidsvereisten.
 Wanneer de held de krachtige versie van de speciale vaardigheid gebruikt, wordt alleen de vereiste hoeveelheid nederigheid gebruikt.
 Maximale hoeveelheid nederigheid: 100.
-Bonus voor 1/2/3 unieke helden van dezelfde familie:
-De held krijgt {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} nederigheid wanneer die directe schade uit speciale vaardigheden lijdt.
-De held krijgt {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} nederigheid wanneer die directe genezing uit speciale vaardigheden krijgt."
-"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Verschillende helden hebben verschillende nederigheidsvereisten.
 De held krijgt {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} nederigheid wanneer die directe schade uit speciale vaardigheden lijdt. Maximaal één keer per beurt.
 De held krijgt {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} nederigheid wanneer die directe genezing uit speciale vaardigheden krijgt. Maximaal één keer per beurt."
 "familybonuses.description.long.build_charge_construct","De constructiekern wordt opgeladen elke keer als dit personage schade oploopt van normale aanvallen of speciale vaardigheden."
@@ -31,7 +39,7 @@ De held krijgt {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Als een held een statuseffect ontvangt dat invloed heeft op zijn verdediging, is er {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans dat het ontvangen effect op alle vijanden wordt toegepast."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans om de duur van elk fortuindans-statuseffect dat door dit personage gebruikt wordt, te verlengen met 1 beurt."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% extra schade speciale vaardigheden."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% kans om alle zuiverbare statusaandoeningen te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% kans om één zuiverbare statusaandoening te zuiveren van alle bondgenoten wanneer ze schade oplopen door een speciale vaardigheid."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% kans om een willekeurig zuiverbare statusaandoening te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% kans om een willekeurig zuiverbare statusaandoening van alle bondgenoten te zuiveren wanneer dit personage schade oploopt door de speciale vaardigheid van een vijand. Dit effect kan maar één keer per beurt worden geactiveerd."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans op tegenaanval met {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% van de opgelopen schade."
@@ -88,6 +96,7 @@ Min. {MINSTAT}% en max. {MAXSTAT}% van de oorspronkelijke waarde."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% gezondheid"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% gezondheid"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% HP."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Alle bondgenoten krijgen +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} cumulatief gezondheidsherstel elke keer dat dit personage een vijand probeert te betoveren. (Cumulatief max.: {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% meer toegebrachte schade aan megavolgelingen."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}% meer toegebrachte schade tegen volgelingen."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% meer toegebrachte schade aan volgelingen."
@@ -135,6 +144,7 @@ Als de speciale vaardigheid van de vijand dit personage verslaat, is de kans {1M
 De held ontvangt de familiebonus in een team met ten minste 1 gerelateerde held. Bonus voor 1/2/3/4/5 helden:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Held gerelateerd aan de magische familie.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Brengt gedurende {STATUSEFFECT1TURNS} beurten {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} waterschade toe aan een vijand die schade van een speciale vaardigheid aan dit personage toebrengt."
 "familybonuses.description.long.slime_familiar_attack_multiplier","Megavolgelingen, volgelingen, megademonen en demonen die aangeroepen worden door bondgenoten, krijgen {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% aanval afhankelijk van het aantal slijmfamiliehelden in het team"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% kracht door speciale vaardigheid."
 "familybonuses.description.long.start_battle_with_fox_minion","Roept aan het begin van de strijd {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} sluwe vosvolgelingen voor zichzelf aan met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht van de held.
@@ -157,6 +167,7 @@ Aanvullende vaardigheid met 3 familieleden: bij aanroep geeft de maskervolgeling
 "familybonuses.description.members","(Gezinsleden: {0})"
 "familybonuses.description.members.realm","(Rijksleden: {0})"
 "familybonuses.description.short.abyss","{CHANCE}% kans om een Onderwildernis-edelsteen te laten verschijnen als een speciale vaardigheid wordt gebruikt. Onderwildernis-edelstenen brengen elke beurt {FIXEDPOWER} schade toe aan een willekeurige vijand."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Krijg {MULTIPLIERPERCENT}% mana wanneer een geestvorm van dit personage verloopt."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Dit personage levert {MULTIPLIERPERCENT}% mana op bij geleden schade door een speciale vaardigheid."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}% aanvalskracht"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}% aanvalskracht"
@@ -173,8 +184,7 @@ Aanvullende vaardigheid met 3 familieleden: bij aanroep geeft de maskervolgeling
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Aan het begin van iedere beurt wordt de vijand met de meeste resterende HP gemarkeerd met een bloedlelie."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Aan het begin van iedere beurt wordt de vijand met de meeste resterende HP gemarkeerd met een bloedlelie."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Pas {ATTACK}% cumulatieve aanval toe op alle bondgenoten wanneer dit personage een ander personage probeert te plunderen. (Cumulatief max.: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Dit personage krijgt {CURRENTCHARGEFROMDAMAGE} nederigheid wanneer het directe schade lijdt door speciale vaardigheden.
-Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe genezing krijgt door speciale vaardigheden."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Dit personage krijgt {CURRENTCHARGEFROMDAMAGE} nederigheid wanneer het directe schade lijdt door speciale vaardigheden. Maximaal één keer per beurt.
 Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe genezing krijgt door speciale vaardigheden. Maximaal één keer per beurt."
 "familybonuses.description.short.build_charge_construct","Dit personage laadt de constructiekern op bij schade opgelopen door normale aanvallen en speciale vaardigheden."
@@ -185,7 +195,7 @@ Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe gen
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Als een statuseffect invloed heeft op de verdediging van deze held, is er {CHANCE}% kans om het ontvangen effect op alle vijanden toe te passen."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% kans om de duur van fortuindans-statuseffecten met 1 te verlengen."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% aanvullende schade van speciale vaardigheid."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% kans om alle zuiverbare statusaandoeningen te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% kans om één zuiverbare statusaandoeningen te zuiveren van alle bondgenoten wanneer ze schade oplopen door een speciale vaardigheid"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% kans om een willekeurig zuiverbare statusaandoening te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Als een vijand schade toebrengt met een speciale vaardigheid, is er een kans van {CHANCE}% dat dit personage een willekeurig zuiverbare statusaandoening verwijdert van alle bondgenoten. Dit effect kan maar één keer per beurt worden geactiveerd."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% kans op tegenaanval met {MULTIPLIERPERCENT}% van de ontvangen schade."
@@ -233,6 +243,7 @@ Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe gen
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}% genezing"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}% HP"
 "familybonuses.description.short.health_stack","{CHANCE}% kans op cumulatieve genezing +1: +{BASESTACKCOUNT} gezondheid aan het einde van elke beurt"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Alle bondgenoten krijgen elke keer dat dit personage een vijand probeert te betoveren +{HEAL} cumulatief gezondheidsherstel."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE}% meer toegebrachte schade tegen megavolgelingen."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE}% meer toegebrachte schade tegen volgelingen."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE}% meer toegebrachte schade tegen volgelingen."
@@ -279,6 +290,7 @@ Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe gen
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}% kans om manaverminderingen en manastatusverminderingen te weerstaan en {POWER}% mana te ontvangen na weerstand"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}% kans om manaverminderingen en manastatusverminderingen te weerstaan en {POWER}% mana te ontvangen na weerstand"
 "familybonuses.description.short.share_effects_from_atlantis","Hero is gerelateerd aan de Atlantis-familie.
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Als een vijand schade door een speciale vaardigheid toebrengt aan dit personage, lijdt de vijand {DAMAGE} waterschade, verdeeld over {STATUSEFFECT1TURNS} beurten."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Megavolgelingen, volgelingen, megademonen en demonen die aangeroepen worden door bondgenoten, krijgen {MULTIPLIERPERCENTCHANGE}% aanval"
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Jaar van de Rat-bonus: {MULTIPLIERPERCENTCHANGE}% kracht door speciale vaardigheid"
 "familybonuses.description.short.start_battle_with_fox_minion","Roept aan het begin van het gevecht {FAMILIARAMOUNT} sluwe vosvolgeling voor zichzelf aan. De sluwe vosvolgeling heeft 80% kans om inkomende aanvallen te ontwijken. Bij een geslaagde ontwijking, steelt deze de nieuwste verwijderbare oppepper van de aanvaller en geeft die aan de eigenaar."
@@ -335,7 +347,8 @@ Deze held heeft in dit evenement de volgende voordelen:"
 "herocard.family.description.eventherobonus.alliancequestcastle","De leden van deze familie hebben extra voordelen in het Ridderstrijd-evenement."
 "herocard.family.description.eventherobonus.alliancequestmoths","De leden van deze familie hebben extra voordelen in het Nacht van de mot-evenement."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","De leden van deze familie hebben extra voordelen in het De dappere en de schoonheid-evenement."
-"herocard.family.description.eventherobonus.beachparty","De leden van deze familie hebben extra voordelen in het Strandfeestevenement."
+"herocard.family.description.eventherobonus.beachparty","De leden van deze familie hebben extra voordelen in het Zonnebaaifeestevenement."
+"herocard.family.description.eventherobonus.beachparty2026","De leden van deze familie hebben extra voordelen in het Zonnebaaifeestevenement."
 "herocard.family.description.eventherobonus.christmas","De leden van deze familie hebben extra voordelen in het Uitdaging van de kerstman-evenement."
 "herocard.family.description.eventherobonus.easter","De leden van deze familie hebben extra voordelen in het Springvale-festival-evenement."
 "herocard.family.description.eventherobonus.halloween","De leden van deze familie hebben extra voordelen in het Halloween-evenement."
@@ -417,6 +430,8 @@ De Maanjaar-familie bevat verschillende maanjaardierenhelden. Elk maanjaardier g
 "herocard.family.title.cultist.short","Sektelid"
 "herocard.family.title.cupid","Cupido-familie"
 "herocard.family.title.cupid.short","Cupido"
+"herocard.family.title.dryad","Dryaden uit de eeuwenoude bloem-familie"
+"herocard.family.title.dryad.short","Dryaden"
 "herocard.family.title.easter","Springvale-familie"
 "herocard.family.title.easter.short","Springvale"
 "herocard.family.title.fable","Familie uit het Boze woud"
@@ -438,6 +453,8 @@ De Maanjaar-familie bevat verschillende maanjaardierenhelden. Elk maanjaardier g
 "herocard.family.title.gargoyle.short","Gargouille"
 "herocard.family.title.garrison","Garnizoenwachterfamilie"
 "herocard.family.title.garrison.short","Garnizoenwachter"
+"herocard.family.title.ghost","Geesten uit de Yang Jian-familie"
+"herocard.family.title.ghost.short","Geesten van Yang Jian"
 "herocard.family.title.goblin","Koboldenfamilie"
 "herocard.family.title.goblin.short","Kobolden"
 "herocard.family.title.guardian","Wachtersfamilie"
@@ -525,6 +542,8 @@ De Maanjaar-familie bevat verschillende maanjaardierenhelden. Elk maanjaardier g
 "herocard.family.title.sand.short","Zandrijk"
 "herocard.family.title.shady_scoundrels","Louche ploertenfamilie"
 "herocard.family.title.shady_scoundrels.short","Louche ploerten"
+"herocard.family.title.shark","Zonnebaaihaai-familie"
+"herocard.family.title.shark.short","Zonnebaaihaai"
 "herocard.family.title.slayers","Slachtersfamilie"
 "herocard.family.title.slayers.short","Slachter"
 "herocard.family.title.slime","Slijmfamilie"

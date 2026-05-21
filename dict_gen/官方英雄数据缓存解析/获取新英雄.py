@@ -143,7 +143,59 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
     if not fancy_name:
         print(f"  警告: 无法为 {hero_id_key} 找到fancy_name，使用ID作为回退")
         fancy_name = hero_data.get("id", hero_id_key)  # 回退到characters_en.json中的id
+
+    # ========== 皮肤规则定义（可扩展） ==========
+    # 每个规则包含：条件函数(参数family, fancy_name)、costume_id、name_suffix（添加到名称后的字符串）
+    costume_rules = [
+        {
+            "condition": lambda family, heroId: family == "classic" and "_costume_stylish" in heroId,
+            "costume_id": 5,
+            "name_suffix": " Stylish"
+        },
+        {
+            "condition": lambda family, heroId: "s2_" in heroId and "costume_cute" in heroId,
+            "costume_id": 2,
+            "name_suffix": " Toon"
+        },
+        {
+            "condition": lambda family, heroId: "s3_" in heroId and "costume_cute" in heroId,
+            "costume_id": 2,
+            "name_suffix": " Toon"
+        },
+        {
+            "condition": lambda family, heroId: "s4_" in heroId and "costume_cute" in heroId,
+            "costume_id": 2,
+            "name_suffix": " Toon"
+        },
+        {
+            "condition": lambda family, heroId: family == "hotm2017" and "costume_cute" in heroId,
+            "costume_id": 2,
+            "name_suffix": " Toon"
+        },
+        # 后续可继续添加其他规则...
+    ]
     
+    # 应用规则，找到第一个匹配的规则
+    matched_rule = None
+    for rule in costume_rules:
+        if rule["condition"](family_id, hero_id_key):
+            matched_rule = rule
+            break
+    
+    if matched_rule:
+        costume_id = matched_rule["costume_id"]
+        # 修改名称，添加后缀（如果尚未包含该后缀，避免重复添加）
+        suffix = matched_rule["name_suffix"]
+        if not name.endswith(suffix):
+            name = name + suffix
+    else:
+        # 默认规则：有parent_hero_id则为1，否则为0
+        costume_id = 1 if parent_hero_id else 0
+        # 默认未匹配特殊规则时，检查 heroId 是否包含 "_costume_"
+        if "_costume_" in hero_id_key and costume_id == 1:
+            if not name.endswith(" C1"):
+                name = name + " C1"
+
     # 构建新的英雄数据
     new_hero = {
         "name": name,
@@ -153,7 +205,7 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
         "canBeReceivedDate": can_be_received_date,  # 保留原始值
         "star": star,
         "family": family_id, # family_display,  # 使用家族显示名称
-        "costume_id": 1 if parent_hero_id else 0,
+        "costume_id": costume_id,
         "heroId": hero_id_key,  # 使用原始键名
         "Lottery_Only": 1
     }
@@ -194,6 +246,7 @@ def generate_heroes_data_single_file(single_file, name_dict, fancy_name_dict, fa
             # 新英雄
             # 获取当前日期（仅保留年月日，时分秒置0）
             now = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+            now = datetime(2026, 3, 20, 0, 0, 0)   # 年月日时分秒，时分秒已置0
             # 解析目标日期（同样仅保留年月日）
             target_date = parse_date_for_comparison(can_be_received_date)
             if target_date >= now:
@@ -229,7 +282,7 @@ def save_heroes_data(heroes_list, output_file, list_type="英雄"):
 
 # === 主程序开始 ===
 # 文件路径
-single_input_file = 'T:/FileTemp/CachedConfigurations/json/characters_en.json'  # 只读取这个文件
+single_input_file = './CachedConfigurations/json/characters_en.json'  # 只读取这个文件
 name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_en.txt'
 fancy_name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_fancy_en.txt'
 family_dict_file = '../官方语言字典生成/generated_txt/family_title_en.txt'

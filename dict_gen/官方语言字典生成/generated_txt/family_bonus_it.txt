@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","L'Eroe ottiene {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} di Umiltà quando subisce danni diretti dalle Abilità speciali."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Questo personaggio guadagna {CURRENTCHARGEFROMDAMAGE} Umiltà quando subisce danni diretti dalle Abilità speciali."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","L'Eroe ottiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} di Umiltà quando riceve guarigione diretta dalle Abilità speciali."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Questo personaggio guadagna {CURRENTCHARGEFROMHEAL} Umiltà quando riceve guarigione diretta dalle Abilità speciali."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","L'Eroe ottiene {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} di Umiltà alla fine di ogni turno."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Questo personaggio guadagna {CURRENTCHARGEONTURNEND} Umiltà alla fine di ogni turno."
 "familybonuses.description.long.abyss","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% di probabilità di generare una Gemma delle Profondità sul campo di battaglia quando questo Eroe lancia la sua Abilità speciale.
 Le Gemme delle Profondità infliggono {FIXEDPOWER} danni a un nemico casuale a ogni turno finché non vengono abbinate.
 Le Gemme delle Profondità possono generarsi solamente su scudi standard che siano dello stesso elemento di questo Eroe."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Ottieni {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}% di mana quando una forma Fantasma di questo personaggio scade."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Questo personaggio ottiene il {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% di mana quando subisce danni da Abilità speciali. Questo effetto può attivarsi una volta per turno."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
@@ -14,13 +21,13 @@ Le Gemme delle Profondità possono generarsi solamente su scudi standard che sia
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Tutti gli alleati ottengono {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% di iterazione di Attacco ogni volta che questo personaggio tenta di saccheggiare un nemico. (Max: {MAXSTACK})"
-"familybonuses.description.long.build_charge_beauty_beast","Eroi diversi hanno diversi requisiti di Umiltà.
-Quando un Eroe lancia la versione forte della sua Abilità speciale, viene consumata solo la quantità richiesta di Umiltà.
+"familybonuses.description.long.build_charge_beauty_beast","Eroi diversi hanno requisiti di Umiltà diversi.
+Quando l'Eroe lancia la versione potente della sua Abilità speciale, viene consumata solo la quantità necessaria di Umiltà.
 Umiltà massima: 100.
 Bonus per 1/2/3 Eroi unici della stessa famiglia:
-L'Eroe ottiene {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Umiltà quando riceve danni diretti dalle Abilità speciali.
-L'Eroe ottiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Umiltà quando riceve guarigione diretta dalle Abilità speciali."
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Eroi diversi hanno diversi requisiti di Umiltà.
+Quando un Eroe lancia la versione forte della sua Abilità speciale, viene consumata solo la quantità richiesta di Umiltà.
 L'Eroe ottiene {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Umiltà quando riceve danni diretti dalle Abilità speciali. Massimo una volta per turno.
 L'Eroe ottiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Umiltà quando riceve guarigione diretta dalle Abilità speciali. Massimo una volta per turno."
 "familybonuses.description.long.build_charge_construct","Il Nucleo costrutto viene caricato ogni volta che questo personaggio subisce danni da attacchi normali o Abilità speciali."
@@ -31,7 +38,7 @@ L'Eroe ottiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quando questo eroe riceve un disturbo che interessa la Difesa, ha il {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di lanciare il disturbo subito a tutti i nemici."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di aumentare di 1 turno la durata di ogni effetto di stato Danza della fortuna lanciato da questo personaggio."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% danni da Abilità speciali extra."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% di probabilità di rimuovere tutti i disturbi da questo personaggio quando subisce danni da Abilità speciali."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% di probabilità di rimuovere 1 disturbo da tutti gli alleati quando subiscono danni da Abilità speciali."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da questo personaggio quando subisce danni da Abilità speciali."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da tutti gli alleati quando questo personaggio subisce danni da un'Abilità speciale del nemico. L'effetto può essere attivato solo una volta per turno."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di contrattaccare con un {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dei danni ricevuti."
@@ -88,6 +95,7 @@ Minimo {MINSTAT}% e massimo {MAXSTAT}% dei loro valori originali."
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di Salute."
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di Salute."
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% di HP."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Tutti gli alleati ottengono un'iterazione di rigenerazione della Salute di +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} ogni volta che questo personaggio tenta di ammaliare un nemico (iterazioni max: {STATUSEFFECT1MAXSTACK})."
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di danni inflitti in più contro i servitori Mega."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}% di danni inflitti in più contro i servitori."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di danni inflitti in più contro i servitori."
@@ -135,6 +143,7 @@ Se l'Abilità speciale del nemico sconfigge questo personaggio, le probabilità 
 L'Eroe riceve il Bonus famiglia parente quando si trova in squadra con almeno 1 Eroe parente. Bonus per 1/2/3/4/5 Eroi:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","L'Eroe appartiene alla famiglia Magia.
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Infligge {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} danni da acqua nel corso di {STATUSEFFECT1TURNS} turni a un nemico che infligge danni da Abilità speciale a questo personaggio."
 "familybonuses.description.long.slime_familiar_attack_multiplier","I servitori Mega, i servitori, i demoni Mega e i demoni evocati dagli alleati ottengono il {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco in base al numero di Eroi della famiglia Slime nella squadra."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% di potenza delle Abilità speciali."
 "familybonuses.description.long.start_battle_with_fox_minion","All'inizio della battaglia, evoca {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} servitori Volpe furba con il {FAMILIARHEALTHPERCENT}% di Salute e il {FAMILIARATTACK}% di Attacco ereditati dall'Eroe.
@@ -157,6 +166,7 @@ Se l'Abilità speciale del nemico sconfigge questo personaggio, le probabilità 
 "familybonuses.description.members","(Membri famiglia: {0})"
 "familybonuses.description.members.realm","(Membri regno: {0})"
 "familybonuses.description.short.abyss","{CHANCE}% di probabilità di generare una Gemma delle Profondità quando viene lanciata un'Abilità speciale. La Gemma delle Profondità infligge {FIXEDPOWER} danni a un nemico a caso a ogni turno."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Ottieni il {MULTIPLIERPERCENT}% di mana quando una forma Fantasma di questo personaggio scade."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Questo personaggio ottiene il {MULTIPLIERPERCENT}% di mana quando subisce danni da Abilità speciali."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}% di Attacco"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}% di Attacco"
@@ -173,8 +183,7 @@ Se l'Abilità speciale del nemico sconfigge questo personaggio, le probabilità 
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","All'inizio di ogni turno, marchia il nemico con il numero più alto di HP rimanenti con un Giglio di sangue."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","All'inizio di ogni turno, marchia il nemico con il numero più alto di HP rimanenti con un Giglio di sangue."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Lancia {ATTACK}% di iterazione di Attacco su tutti gli alleati quando questo personaggio tenta di saccheggiare un personaggio. (Max: {MAXSTACK})"
-"familybonuses.description.short.build_charge_beauty_beast","Questo personaggio ottiene {CURRENTCHARGEFROMDAMAGE} Umiltà quando subisce danni diretti da Abilità speciali.
-Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure dirette da Abilità speciali."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Questo personaggio ottiene {CURRENTCHARGEFROMDAMAGE} Umiltà quando subisce danni diretti da Abilità speciali. Massimo una volta per turno.
 Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure dirette da Abilità speciali. Massimo una volta per turno."
 "familybonuses.description.short.build_charge_construct","Questo personaggio carica il suo Nucleo costrutto quando subisce danni da attacchi normali o Abilità speciali."
@@ -185,7 +194,7 @@ Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure di
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quando questo eroe riceve un disturbo che interessa la difesa, {CHANCE}% di probabilità di lanciare il disturbo ricevuto a tutti i nemici."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% di probabilità di aumentare di 1 la durata degli effetti di stato di Danza della fortuna lanciati."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% di danni aggiuntivi dell'Abilità speciale."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% di probabilità di rimuovere tutti i disturbi rimovibili da questo personaggio quando subisce danni da Abilità speciali."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% di probabilità di rimuovere 1 disturbo da tutti gli alleati quando subiscono danni da Abilità speciali."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da questo personaggio quando subisce danni da Abilità speciali."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Ogni volta che un nemico infligge danni da Abilità speciali a questo personaggio, quest'ultimo ha un {CHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da tutti gli alleati. L'effetto può essere attivato solo una volta per turno."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% di probabilità di contrattaccare con un {MULTIPLIERPERCENT}% dei danni ricevuti."
@@ -233,6 +242,7 @@ Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure di
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}% di Salute"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}% di HP"
 "familybonuses.description.short.health_stack","{CHANCE}% di probabilità di ricevere Cumulo di guarigione +1: +{BASESTACKCOUNT} salute al termine di ogni turno"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Tutti gli alleati ottengono un'iterazione di rigenerazione della Salute di +{HEAL} ogni volta che questo personaggio tenta di ammaliare un nemico."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE}% di danni inflitti in più contro i servitori Mega."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE}% di danni inflitti in più contro i servitori."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE}% di danni inflitti in più contro i servitori."
@@ -279,6 +289,7 @@ Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure di
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}% di probabilità di contrastare le riduzioni del mana e i disturbi del mana e di ricevere {POWER}% su resistenza"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}% di probabilità di contrastare le riduzioni del mana e i disturbi del mana e di ricevere {POWER}% su resistenza"
 "familybonuses.description.short.share_effects_from_atlantis","L'Eroe appartiene alla famiglia Atlantide. L'Eroe riceve il Bonus famiglia parente quando si trova in squadra con almeno 1 Eroe parente:
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Quando un nemico infligge danni da Abilità speciale a questo personaggio, subisce {DAMAGE} danni da acqua per {STATUSEFFECT1TURNS} turni."
 "familybonuses.description.short.slime_familiar_attack_multiplier","I servitori Mega, i servitori, i demoni Mega e i demoni ricevono il {MULTIPLIERPERCENTCHANGE}% di Attacco."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonus del Topo dell'anno lunare: {MULTIPLIERPERCENTCHANGE}% di potenza dell'Abilità speciale"
 "familybonuses.description.short.start_battle_with_fox_minion","Evoca {FAMILIARAMOUNT} servitore Volpe furba per sé all'inizio della battaglia. Il servitore Volpe furba ha l'80% di probabilità di schivare gli attacchi in arrivo. Quando schiva con successo, ruba l'ultima magia benefica annullabile all'attaccante e la dà al suo proprietario."
@@ -335,7 +346,8 @@ Questo Eroe ha i seguenti vantaggi in questo evento:"
 "herocard.family.description.eventherobonus.alliancequestcastle","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Cavalieri in guerra."
 "herocard.family.description.eventherobonus.alliancequestmoths","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Notte della falena."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Coraggio e beltà."
-"herocard.family.description.eventherobonus.beachparty","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Festa sulla spiaggia."
+"herocard.family.description.eventherobonus.beachparty","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Festa di Sunbay."
+"herocard.family.description.eventherobonus.beachparty2026","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Festa di Sunbay."
 "herocard.family.description.eventherobonus.christmas","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Sfida di Babbo Natale."
 "herocard.family.description.eventherobonus.easter","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Festival di Springvale."
 "herocard.family.description.eventherobonus.halloween","I membri di questa famiglia hanno dei vantaggi aggiuntivi nell'evento Halloween."
@@ -417,6 +429,8 @@ La famiglia Anno lunare presenta diversi Eroi animali dell'anno lunare. Ogni ani
 "herocard.family.title.cultist.short","Cultisti"
 "herocard.family.title.cupid","Famiglia Amorini"
 "herocard.family.title.cupid.short","Amorini"
+"herocard.family.title.dryad","Driadi della famiglia Antica fioritura"
+"herocard.family.title.dryad.short","Driadi"
 "herocard.family.title.easter","Famiglia di Springvale"
 "herocard.family.title.easter.short","Springvale"
 "herocard.family.title.fable","Famiglia Tetrobosco"
@@ -438,6 +452,8 @@ La famiglia Anno lunare presenta diversi Eroi animali dell'anno lunare. Ogni ani
 "herocard.family.title.gargoyle.short","Gargoyle"
 "herocard.family.title.garrison","Famiglia Guardie di Guarnigione"
 "herocard.family.title.garrison.short","Guardia di Guarnigione"
+"herocard.family.title.ghost","Fantasmi della famiglia di Yang Jian"
+"herocard.family.title.ghost.short","Fantasmi di Yang Jian"
 "herocard.family.title.goblin","Famiglia goblin"
 "herocard.family.title.goblin.short","Goblin"
 "herocard.family.title.guardian","Famiglia Guardiani"
@@ -525,6 +541,8 @@ La famiglia Anno lunare presenta diversi Eroi animali dell'anno lunare. Ogni ani
 "herocard.family.title.sand.short","Impero delle Sabbie"
 "herocard.family.title.shady_scoundrels","Famiglia Canaglie oscure"
 "herocard.family.title.shady_scoundrels.short","Canaglie oscure"
+"herocard.family.title.shark","Famiglia Squali di Sunbay"
+"herocard.family.title.shark.short","Squali di Sunbay"
 "herocard.family.title.slayers","Famiglia Assassini"
 "herocard.family.title.slayers.short","Assassini"
 "herocard.family.title.slime","Famiglia Slime"

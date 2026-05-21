@@ -6,14 +6,14 @@
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Tutti i danni inflitti da questo personaggio superano i servitori e i servitori Mega."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Probabilità di aumentare la durata degli effetti di stato lanciati."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} turni: {1}%"
-"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Se questo personaggio ha una qualsiasi quantità di Spinta volante, riceve:
- Fino a un {MAXMANAGENERATIONMODIFIER}% di rigenerazione mana.
- Fino a un {MAXDODGEMODIFIER}% di probabilità extra di Schivata.
- Gli effetti diminuiscono con il calare della quantità di Spinta volante di cui il personaggio dispone."
-"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","{CHARGE}% di Spinta volante
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Se questo personaggio ha una quantità qualsiasi di Spinta volante, ottiene:
+ Fino al {MAXMANAGENERATIONMODIFIER}% di rigenerazione mana extra.
+ Fino al {MAXDODGEMODIFIER}% di probabilità extra di schivare.
+ Gli effetti diminuiscono quanta meno Spinta volante possiede questo personaggio."
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","Spinta volante {CHARGE}%
 Questo personaggio ha attualmente:
-{MANAGENERATIONMODIFIER}% di generazione mana.
-{DODGEMODIFIER}% di probabilità di schivare extra."
+ {MANAGENERATIONMODIFIER}% di rigenerazione mana extra.
+ {DODGEMODIFIER}% di probabilità extra di schivare."
 "herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Ottieni il {POWER}% di mana all'inizio di ogni turno se un alleato sul campo di battaglia ha un effetto di Avvizzimento attivo."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Ogni {TURNS} turni, rianima tutti gli alleati sconfitti con il {POWER}% di HP."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Ogni {TURNS} turni, rianima gli alleati vicini sconfitti con il {POWER}% di HP."
@@ -26,8 +26,11 @@ Questo personaggio ha attualmente:
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Infligge {DAMAGEPERTURN} danni a tutti i servitori e servitori Mega nemici all'inizio di ogni turno."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Infligge {DAMAGEPERTURN} danni a tutti i servitori e servitori Mega nemici all'inizio di ogni turno."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Tutti i danni degli attacchi normali e delle Abilità speciali inflitti da questo personaggio aumentano di un {DAMAGEINCREASEPERSTEP}% per {INSANITYPERSTEP} Follia di questo personaggio fino a un {MAXDAMAGEINCREASE}%."
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Quando l'Eroe collegato viene colpito da un'Abilità speciale, il beneficio annullabile con la durata residua più breve viene rimosso per ridurre i danni subiti del {DAMAGEREDUCTION}%. Se l'Eroe collegato ha il {INCREASEDDAMAGEREDUCTIONTHRESHOLD}% di Salute o meno, i danni vengono invece ridotti del {INCREASEDDAMAGEREDUCTION}%."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Tutti i danni inflitti dagli attacchi normali e dalle Abilità speciali di questo personaggio aumentano del {MODIFIER}% per ogni accumulo di Giglio di sangue sul bersaglio."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Se qualche alleato sta danzando, l'Abilità speciale di questo personaggio infligge il {MODIFIERCHANGE}% di danni in più."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","L'Abilità speciale, i servitori Mega e i servitori di questo personaggio infliggono danni aumentati ai nemici affetti da qualsiasi disturbo che infligga danni da acqua.
+{MODIFIERS}"
 "herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Le truppe di questo personaggio infliggono danni extra contro l'elemento più debole.
 
  Danni extra inflitti: +{MODIFIER}%"
@@ -67,6 +70,15 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 "herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Quando questo personaggio viene sconfitto da un'Abilità speciale, compie le seguenti azioni:
  L'attaccante subisce il {DAMAGE}% di danni.
  L'attaccante subisce {STATUSEFFECT1DAMAGE} danni da sanguinamento nel corso di {TURNS} turni."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.activates_always.multiple_effects","Quando questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in un colpo solo, si attivano i seguenti effetti."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.bufftoremove.allstatuseffectsandstacks.from.single.allies.remove_growth.remove_wither","Questo personaggio lancia Rimozione totale su di sé."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.chance_description","Questa abilità passiva ha il {CHANCE}% di probabilità di attivarsi quando questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una sola volta:"
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.chance_description.decrease_chance_per_activation","Quando questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una volta sola, si attivano i seguenti effetti. Le probabilità di attivazione sono pari al {CHANCE}% e si riducono del {CHANCEMODIFIERPERACTIVATION}% dopo ogni attivazione."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_blue","Se questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una volta, evoca un servitore Mega Slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_green","Se questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una volta, evoca un servitore Mega Slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Se questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una volta, evoca un servitore Mega Slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Se questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una volta, evoca un servitore Mega Slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Se questo personaggio perde più del {DAMAGETHRESHOLD}% della Salute massima in una volta, evoca un servitore Mega Slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Questo personaggio ottiene il {HEALTHBOOST}% di Salute potenziata e il {MANA}% di mana quando riesce a resistere."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Questo personaggio ottiene un {POWER}% di mana ogni volta che un nemico lancia un'Abilità speciale che aumenta direttamente la Salute."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Questo personaggio ottiene {POWER} di Salute potenziata ogni volta che un nemico lancia un'Abilità speciale che aumenta direttamente la Salute."
@@ -74,7 +86,7 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Quando questo personaggio realizza un colpo critico con l'Abilità speciale, annulla l'ultimo disturbo annullabile da tutti gli alleati."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Quando questo personaggio realizza un colpo critico con la sua Abilità speciale, aumenta del {HEALTHBOOST}% la Salute di tutti i suoi alleati."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Quando questo personaggio realizza un colpo critico con la sua Abilità speciale, aumenta del {HEALTHBOOST}% la Salute di tutti i suoi alleati."
-"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Quando un alleato lancia la sua Abilità speciale, questo personaggio infligge il {POWER}% di danni e conferisce a un nemico casuale il {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% di Difesa per {DIRECTEFFECT1STATUSEFFECT1TURNS} turni."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Quando un qualunque altro alleato lancia un'Abilità speciale, questo personaggio infligge il {POWER}% di danni a un nemico casuale. Il nemico bersagliato riceve il {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% di Difesa per {DIRECTEFFECT1STATUSEFFECT1TURNS} turni."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Quando un nemico lancia la sua Abilità speciale, questo personaggio ha una probabilità del {CHANCE}% di aumentare di {HEALTHBOOST} la sua Salute."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Quando questo personaggio lancia la sua Abilità speciale, ha una probabilità del {CHANCE}% di dare il {POWER}% di mana a tutti gli alleati. Se l'Abilità speciale è completamente carica, la probabilità è del {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Quando questo personaggio lancia la sua Abilità speciale, ha una probabilità del {CHANCE}% di dare il {POWER}% di mana a tutti gli alleati che non appartengono all'elemento Ghiaccio. Se l'Abilità speciale è completamente carica, la probabilità è del {CHANCEFULLYCHARGED}%."
@@ -107,6 +119,9 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Quando un demone viene evocato su un qualsiasi nemico, questo personaggio guadagna il {POWER}% di mana. Questo effetto può attivarsi solo una volta per turno."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Quando un demone viene evocato su un qualsiasi nemico, questo personaggio infligge il {DAMAGE}% di danni a tutti i nemici. Questo effetto può attivarsi solo una volta per turno."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Quando un demone viene evocato su un qualsiasi nemico, questo personaggio guadagna {POWER} di Salute potenziata. Questo effetto può attivarsi solo una volta per turno."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Bonus collegamento truppa:
+ L'Abilità speciale dell'Eroe collegato può sferrare colpi critici infliggendo +50% di danni.
+ Le probabilità di sferrare colpi critici aumentano del {PASSIVESKILL2CRITICALMODIFIER}%."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% di probabilità di eseguire i seguenti extra quando questo personaggio lancia la sua Abilità speciale."
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Tutti i servitori dei nemici hanno il {MINIONMODIFIER}% di precisione.
  Tutti i servitori Mega dei nemici hanno il {MEGAMINIONMODIFIER}% di precisione."
@@ -116,7 +131,9 @@ Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità special
 
  Con un Nucleo servitore completamente carico, chiama un servitore Killer Bot con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore su tutti gli alleati.
  Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.
- Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega."
+ Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega.
+ Il servitore Killer Bot recupera il {FAMILIARHEAL}% di Salute per il suo proprietario alla fine di ogni turno.
+ Avvizzimento: ogni colpo di un servitore Killer Bot conferisce al bersaglio {ATTACKMODIFIER} Attacco."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Il Nucleo costrutto di questo personaggio è un Nucleo servitore.
 
 Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:
@@ -131,6 +148,7 @@ Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità special
 "herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","I servitori nemici non possono attaccare né usare abilità."
 "herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","Questo personaggio guadagna il {POWER}% di mana ogni volta che un nemico subisce danni da gelo."
 "herocard.passive_skill.description.growth","L'Attacco di base e la Difesa di base di questo Eroe aumentano di {STATINCREASE} a ogni turno per {MAXACTIVATIONCOUNT} turni."
+"herocard.passive_skill.description.growthmodifieronspecial.from.all.enemies","Ogni volta che questo Eroe lancia la propria Abilità speciale, tutti gli effetti Crescita dei nemici vengono ridotti del {BASEATTACKMODIFIER}%."
 "herocard.passive_skill.description.guaranteedeffectonspecial","Quando questo personaggio lancia la sua Abilità speciale, l'attivazione di tutte le sue abilità passive che conferiscono effetti extra al lancio è garantita."
 "herocard.passive_skill.description.heal.all.allies","Fa recuperare il {HEALTH}% di Salute a tutti gli alleati."
 "herocard.passive_skill.description.healmodifier","Aumento del {HEALMULTIPLIER}% per ogni guarigione ricevuta."
@@ -170,19 +188,23 @@ Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità special
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Ogni Mimic unico nella tua squadra può darti bottino extra al completamento degli stadi. Questo mimic garantisce una probabilità per i seguenti bottini extra:"
 "herocard.passive_skill.description.minioncorruption.all.enemies","Alla fine di ogni turno, i nemici con Follia hanno una probabilità di vedere i loro servitori trasformarsi in demoni. Raggiungere {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Follia attiva automaticamente la trasformazione.
+
  Un servitore si trasforma in un demone sinistro: {FAMILIAR1FAMILIARATTACK}% di Attacco, {FAMILIAR1FAMILIARHEALTHPERCENT}% di Salute, infligge {FAMILIAR1INSANITYTOADD} Follia a ogni turno.
  Un servitore Mega si trasforma in un demone sinistro Mega: {FAMILIAR2FAMILIARATTACK}% di Attacco, {FAMILIAR2FAMILIARHEALTHPERCENT}% di Salute, infligge {FAMILIAR2INSANITYTOADD} Follia a ogni turno."
 "herocard.passive_skill.description.nevermissspecial","L'Abilità speciale di questo personaggio non manca mai il bersaglio."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Bonus collegamento truppa:
+ La guarigione diretta dell'Abilità speciale dell'Eroe collegato aumenta del {PASSIVESKILL1HEALMULTIPLIER}%.
+ Quando l'Eroe collegato lancia un'Abilità speciale, tutti gli alleati ottengono immunità dalla riduzione della Salute max per {PASSIVESKILL2TURNS} turno."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","La Salute dei nemici non può aumentare oltre il valore massimo."
-"herocard.passive_skill.description.ransack","All'inizio di ogni turno, questo personaggio saccheggia un nemico a caso:
+"herocard.passive_skill.description.ransack","All'inizio di ogni turno, questo personaggio saccheggia un nemico casuale:
 
  Ruba {DAMAGE} di Salute.
- Ruba in modo sicuro una magia benefica, un effetto di crescita o una magia benefica delle iterazioni positive dal nemico. Sono incluse le magie benefiche non rimovibili e gli effetti di Danza."
+ Ruba in modo sicuro una magia benefica dal nemico. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza."
 "herocard.passive_skill.description.ransack.chance","All'inizio di ogni turno, questo personaggio ha il {CHANCE}% di probabilità di saccheggiare un nemico a caso:
 
 Saccheggio:
  Ruba {DAMAGE} di Salute.
- Ruba in modo sicuro un effetto di crescita, un'iterazione positiva o una magia benefica degli effetti di stato a caso dal nemico. Sono incluse le magie benefiche non rimovibili e gli effetti di Danza.
+ Ruba in modo sicuro un effetto di Crescita, un'iterazione positiva o una magia benefica degli effetti di stato a caso dal nemico. Sono inclusi gli effetti persistenti, le magie benefiche non annullabili e gli effetti di Danza.
  Il furto sicuro ignora gli effetti secondari, come i danni su rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque essere attivati."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Quando questo personaggio lancia la sua Abilità speciale, ha una probabilità del {CHANCE}% di rubare la magia benefica annullabile più recente a un nemico casuale che ne abbia. Se nessun nemico ha delle magie benefiche, infligge il {DAMAGE}% di danni a tutti i nemici."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Quando questo personaggio lancia la sua Abilità speciale, ha una probabilità del {CHANCE}% di rubare la magia benefica annullabile più recente a un nemico casuale che ne abbia. Se nessun nemico ha delle magie benefiche, infligge il {DAMAGE}% di danni a tutti i nemici."
@@ -207,14 +229,22 @@ Il Nucleo riparatore si attiva ogni volta che viene lanciata l'Abilità speciale
  Con un Nucleo riparatore completamente carico, la salute di tutti gli alleati aumenta del {CHARGEDPOWER1}%. 
  La guarigione è proporzionale alla quantità di carica del nucleo. Tutta la carica si esaurisce quando il nucleo viene attivato."
 "herocard.passive_skill.description.repeatspecial","{REPEATCHANCE}% di probabilità di lanciare l'Abilità speciale di questo Eroe {REPEATS} volte."
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Bonus collegamento truppa:
+ L'Eroe collegato ha il {REPEATCHANCE}% di probabilità di ricevere Fortuna! e lanciare un'Abilità speciale {REPEATS} volte di seguito.
+ Se è già attivo un altro effetto Fortuna!, questa truppa aumenta invece le probabilità del {REPEATCHANCEMODIFIER}%."
 "herocard.passive_skill.description.resist.accuracymodifiers","Questo personaggio è immune ai disturbi che influenzano la precisione. Non si applica agli effetti di stato originali degli alleati."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Questo personaggio è immune ai disturbi e alle interazioni negative."
+"herocard.passive_skill.description.resist.alldebuffs.blue.alldebuffs","Questo personaggio è immune dai disturbi e dalle iterazioni negative lanciate da personaggi di tipo Ghiaccio."
 "herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo e annullamento delle magie benefiche."
+"herocard.passive_skill.description.resist.alldebuffs.green.alldebuffs","Questo personaggio è immune dai disturbi e dalle iterazioni negative lanciate da personaggi di tipo Natura."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana, annullamento delle magie benefiche ed effetti di Avvizzimento."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana, annullamento delle magie benefiche e Follia."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana e annullamento delle magie benefiche."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana e annullamento delle magie benefiche. Ottieni il {MANA}% di mana a ogni resistenza riuscita."
+"herocard.passive_skill.description.resist.alldebuffs.purple.alldebuffs","Questo personaggio è immune dai disturbi e dalle iterazioni negative lanciate da personaggi di tipo Oscurità."
+"herocard.passive_skill.description.resist.alldebuffs.red.alldebuffs","Questo personaggio è immune dai disturbi e dalle iterazioni negative lanciate da personaggi di tipo Fuoco."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% di probabilità extra di resistere a tutti i disturbi."
+"herocard.passive_skill.description.resist.alldebuffs.yellow.alldebuffs","Questo personaggio è immune dai disturbi e dalle iterazioni negative lanciate da personaggi di tipo Sacro."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Questo personaggio è immune ai disturbi che influenzano la difesa. Si applica anche ai disturbi che influenzano la difesa elementale."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Questo personaggio è immune ai disturbi, alle iterazioni negative e agli effetti di Avvizzimento che influenzano la difesa."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","Questo personaggio non è influenzato dagli effetti che aumentano o riducono la Difesa.
@@ -270,6 +300,7 @@ Questo include
 "herocard.passive_skill.description.resist.manareduction","Questo personaggio è immune alle riduzioni di mana."
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE}% di probabilità extra di resistere alla riduzione del mana."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Questo personaggio è immune alle riduzioni di mana. Inoltre, guadagna {HEALTHBOOST} salute potenziata e {MANA}% mana ogni volta che resiste."
+"herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Questo personaggio è immune da furto e saccheggio."
 "herocard.passive_skill.description.resist.maxhealthreduction","Questo personaggio è immune alla riduzione della Salute massima."
 "herocard.passive_skill.description.resist.poison","Questo personaggio è immune ai disturbi che infliggono danni da veleno."
 "herocard.passive_skill.description.resist.poison.burn.bleed","Questo personaggio è immune ai disturbi che infliggono veleno, ustione o sanguinamento."
@@ -280,6 +311,7 @@ Questo include
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Questo personaggio è immune ai disturbi che impediscono l'uso delle abilità speciali. Inoltre, guadagna {HEALTHBOOST} salute potenziata e {MANA}% mana ogni volta che resiste."
 "herocard.passive_skill.description.resist.stopmanageneration","Questo personaggio è immune ai disturbi che bloccano la rigenerazione mana."
 "herocard.passive_skill.description.resist.water","Questo personaggio è immune ai disturbi che infliggono danni da Acqua."
+"herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","Questo personaggio è immune da disturbi che infliggono danni da acqua e ottiene {HEALTHBOOST} di Salute potenziata e il {MANA}% di mana ogni volta che resiste."
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Questo personaggio è immune ai disturbi che provengono dai servitori."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Questo personaggio è immune agli effetti che rimuoverebbero i servitori."
 "herocard.passive_skill.description.resistnegativefamiliareffects.minion","Questo personaggio è immune agli effetti negativi in arrivo e ai danni dei servitori."
@@ -291,32 +323,23 @@ Questo include
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Tutti i nemici hanno il {HEALTHMODIFIER}% di Salute quando vengono rianimati. I boss nemici non vengono influenzati."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Se sconfitto, questo personaggio ha la possibilità di rinascere come Ospite sinistro. Le probabilità sono del {CHANCEINCREASEPERSTEP}% ogni {INSANITYPERSTEP} Follia di questo personaggio, fino a una probabilità massima del {MAXCHANCEINCREASE}%.
 
+Se questo personaggio si sconfigge da sé quando attiva Follia, le probabilità di rinascere sono sempre del {CHANCEONSELFCAUSEDDEATH}%."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Se sconfitto, questo personaggio ha la possibilità di rinascere come Ospite sinistro. Le probabilità sono del {CHANCEINCREASEPERSTEP}% ogni {INSANITYPERSTEP} Follia di questo personaggio, fino a una probabilità massima del {MAXCHANCEINCREASE}%.
+
 L'Ospite sinistro ha:
- {INHERITEDHEALTH}% di Salute ereditata.
+ {INHERITEDHEALTH}% di Salute ereditata, massimo {MAXBASEHEALTH} HP.
  {ATTACK} di Attacco.
  {DEFENSE} di Difesa.
  Le seguenti Abilità speciali:
 
-{ALTERNATIVEFORMSPECIALTITLE}
-{ALTERNATIVEFORMSPECIALDESCRIPTION}
-
-Se questo personaggio si sconfigge da sé quando attiva Follia, le probabilità di rinascere sono sempre del {CHANCEONSELFCAUSEDDEATH}%."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Se sconfitto, questo personaggio ha una probabilità di rinascere come Ospite sinistro. Le probabilità sono del {CHANCEINCREASEPERSTEP}% per ogni {INSANITYPERSTEP} di Follia su questo personaggio, fino a una probabilità massima del {MAXCHANCEINCREASE}%.
-
-L'Ospite sinistro ha:
- Il {INHERITEDHEALTH}% di Salute ereditata.
- {ATTACK} di Attacco.
-{DEFENSE} di Difesa.
- La seguente Abilità speciale:
-
-{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALTITLE} ({ALTERNATIVEFORMMANASPEED})
 {ALTERNATIVEFORMSPECIALDESCRIPTION}"
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Quando viene sconfitto, questo personaggio ha un {TOTALCHANCE}% di probabilità di rianimarsi all'inizio del suo prossimo turno con un {HEALTH}% di Salute e un {MANA}% di mana. 
 
  Si attiva fino a un massimo di {MAXACTIVATIONCOUNT} volte. Le probabilità di rianimazione si riducono a ogni attivazione. Non può essere evitata con disturbi o abilità passive."
-"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Quando viene sconfitto, questo personaggio ha un {TOTALCHANCE}% di probabilità di rianimarsi all'inizio del suo prossimo turno con un {HEALTH}% di Salute e un {MANA}% di mana. 
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.allowrevivedebuffs","Quando viene sconfitto, questo personaggio ha il {TOTALCHANCE}% di probabilità di rianimarsi all'inizio del suo prossimo turno con il {HEALTH}% di Salute e il {MANA}% di mana. 
 
- Si attiva fino a un massimo di {MAXACTIVATIONCOUNT} volte. Le probabilità di rianimazione si riducono a ogni attivazione. Non può essere evitata con disturbi o abilità passive."
+ Si attiva fino a un massimo di {MAXACTIVATIONCOUNT} volte. Le probabilità di rianimazione si riducono a ogni attivazione."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Tutte le Ballate lanciate dai nemici durano solo {TURNS} turno."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Tutte le Danze lanciate dai nemici durano solo {TURNS} turno."
 "herocard.passive_skill.description.sharereceiveddamage","Il {SHAREDDAMAGEPORTION}% dei danni subiti da questo personaggio viene condiviso con tutti gli altri alleati."
@@ -345,12 +368,14 @@ L'Ospite sinistro ha:
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","La durata delle prime {MAXACTIVATIONCOUNT} magie benefiche ricevute da questo personaggio grazie ad Abilità speciali viene aumentata di {DURATIONMODIFIER} turno."
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","Quando un disturbo viene annullato da questo eroe, una nuova copia del disturbo annullato viene applicata su un nemico casuale."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Ogni volta che questo Gargoyle lancia un'Abilità speciale, tutti gli alleati ricevono Pelle morbida. Le successive {MAXACTIVATIONS} volte che ricevono danni, questi vengono ridotti del {DAMAGEREDUCTION}%. Sono inoltre immuni a tutti i disturbi di stato, alle riduzioni di mana e alla follia. Questo effetto non può essere annullato."
-"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Ogni volta che questo Gargoyle lancia un'Abilità Speciale, la sua Pelle morbida si attiva. Le successive {MAXACTIVATIONS} volte che riceve danni, questi vengono ridotti del {DAMAGEREDUCTION}%. Sono inoltre immuni a tutti i disturbi di stato, alle riduzioni di mana e alla follia. Questo effetto non può essere annullato."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","Dopo aver lanciato un'Abilità speciale, questo personaggio è camuffato e non può essere bersagliato direttamente dalle Abilità speciali nemiche per {TURNS} turni. Questo effetto non può essere annullato né riallocato."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Ogni volta che questo Gargoyle lancia un'Abilità speciale, attiva Pelle morbida."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","Ogni volta che questo Gargoyle lancia un'Abilità speciale, la sua Pelle di pietra si indurisce. I prossimi {MAXHITS} danni che subisce vengono ridotti a 1. Questo effetto non può essere annullato."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.random.enemies.damageonhitreceived","Quando questo personaggio lancia la sua Abilità speciale, marchia un nemico casuale con un Segnalatore da caccia per {TURNS} turni.
  Un bersaglio marchiato con un Segnalatore da caccia riceve {FIXEDPOWER} danni aggiuntivi quando subisce un colpo critico."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Quando questo personaggio lancia la sua Abilità speciale, ottiene il {ATTACK}% di Attacco per {TURNS} turni. Questo effetto può essere attivo in aggiunta ad altri effetti che modificano l'Attacco."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Una volta per battaglia, l'elemento di questo Eroe può essere cambiato in un elemento a tua scelta per {TURNS} turni. L'elemento può essere cambiato toccando questo Eroe quando il suo mana non è al massimo."
+"herocard.passive_skill.description.stopchainstrikes","Le Abilità speciali concatenate o che colpiscono più volte si fermano su questo personaggio. Non blocca gli effetti alleati."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Evoca un demone Piantina a ogni turno contro un nemico casuale.
  Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
  Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
@@ -432,11 +457,6 @@ Demone Mega Fiore:
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Quando questo personaggio muore, evoca servitori Mega slime per gli alleati vicini con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco ereditati da questo personaggio."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Quando questo personaggio muore, evoca servitori Mega slime per gli alleati vicini con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco ereditati da questo personaggio."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Quando questo personaggio muore, evoca servitori Mega slime per gli alleati vicini con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco ereditati da questo personaggio."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Se questo personaggio perde più di un {DAMAGETHRESHOLD}% della salute massima in una volta, evoca un servitore Mega slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Se questo personaggio perde più di un {DAMAGETHRESHOLD}% della salute massima in una volta, evoca un servitore Mega slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Se questo personaggio perde più di un {DAMAGETHRESHOLD}% della salute massima in una volta, evoca un servitore Mega slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Se questo personaggio perde più di un {DAMAGETHRESHOLD}% della salute massima in una volta, evoca un servitore Mega slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Se questo personaggio perde più di un {DAMAGETHRESHOLD}% della salute massima, evoca un servitore Mega slime per sé con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco."
 "herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","Ogni volta che questo personaggio riceve un disturbo ustione, chiama un servitore guardiano della foresta per sé. Il servitore guardiano della foresta eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco da questo personaggio."
 "herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","Ogni volta che questo personaggio subisce un disturbo Danni nel tempo, evoca per sé un servitore Carta soldato. Il servitore Carta soldato eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco da questo personaggio."
 "herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","Ogni volta che questo personaggio riceve un disturbo che interessa la sua Difesa, chiama un servitore toro per sé. Il servitore toro eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco da questo personaggio."
@@ -465,7 +485,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Disturbi della difesa trasformati nel {DEFENSE}% di Difesa per {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Riduzioni di guarigione trasformate in un aumento del {HEALING}% della guarigione per {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Disturbi al mana trasformati nel {MANAREGEN}% di rigenerazione mana per {TURNS} turni."
-"herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Disturbi all'aumento dei danni trasformato nel {DAMAGEREDUCTION}% di riduzione dei danni per {TURNS} turni."
+"herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Disturbi all'aumento dei danni trasformati nel {DAMAGEREDUCTION}% di riduzione dei danni subiti per {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Magie benefiche che riflettono disturbi trasformate in disturbi che riflettono magie benefiche per {TURNS} turni."
 "herocard.passive_skill.replace_direct_effect.attackwither","Avvizzimento dell'Attacco trasformato in Crescita dell'Attacco: {FIXEDPOWER} di Attacco."
 "herocard.passive_skill.replace_direct_effect.defensewither","Avvizzimento della Difesa trasformato in Crescita della Difesa: {FIXEDPOWER} di difesa."
@@ -497,8 +517,10 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Modificatore di critico"
 "herocard.passive_skill.title.critmodifier","Modificatore di probabilità di critico"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Marchiato dagli Antichi"
+"herocard.passive_skill.title.damagereductionforstatuseffectsupportcharacter.troop.minorbuff","Sacrificio delle magie benefiche"
 "herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Marchio sanguigno"
 "herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Danza feroce"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single","Potenza dello squalo"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Maestria delle truppe"
 "herocard.passive_skill.title.debuffdamagereduction","Riduzione dei danni dovuti ai disturbi"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Riduzione dei danni dovuti ai disturbi"
@@ -508,6 +530,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","Iterazione con le Abilità speciali"
 "herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","Distrugge i demoni con le Abilità speciali"
 "herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Mangia servitori e guadagna mana nel tempo"
+"herocard.passive_skill.title.effectoncounterattack.statuseffects.bleeding","Tocco lacerante"
 "herocard.passive_skill.title.effectondamagedone.bufftoremove.minordebuff.latest.safe.specialskill.only_criticals.once","Si annulla con attacco speciale critico"
 "herocard.passive_skill.title.effectondamagedone.healthboost.specialskill.only_criticals.once","Salute potenziata su attacco speciale critico"
 "herocard.passive_skill.title.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill","Ribellione legittima"
@@ -529,6 +552,12 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Effetto di stato per riduzione del mana"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Effetto di stato per riduzione del mana"
 "herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Sconfitta disonorevole"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.statuseffects.vengefulghoststatuseffectskill.bufftoremove.allstatuseffectsandstacks","Infestazione vendicativa"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_blue","Divisione del servitore slime"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_green","Divisione del servitore slime"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Divisione del servitore slime"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Divisione del servitore slime"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Divisione del servitore slime"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Aumento salute e mana su resistenza"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana per Abilità speciale aumenta salute"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Salute potenziata su Salute potenziata nemica"
@@ -546,10 +575,10 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectonspecialwithchance.healthboost","Aumento Salute su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects","Effetto di stato su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.bleeding","Sanguinamento su Abilità speciali"
-"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.curseofdoom","Maledizione su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.damageovertime","Danni nel tempo su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.extradamageagainstboostedhealth","Aumento danni contro Salute potenziata"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.huntersmark","Danni nel tempo su Abilità speciali"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.increasingcurse","Maledizione su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Effetto di stato su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Veleno su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Attacco irrazionale su Abilità speciali"
@@ -571,6 +600,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","Salute potenziata su rimozione effetto di stato"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","Danni su rimozione effetto di stato"
 "herocard.passive_skill.title.effectovertime.revival","Rianima nel tempo"
+"herocard.passive_skill.title.effectovertime.statuseffects.mesmerize","Pioggia di petali sussurranti"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","Mana per ogni magia benefica del nemico"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.healthboost.everyturn.per.poison.statuseffectdebuffs.enemies","Aumento della Salute sul veleno"
 "herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Mana su chiamata servitori"
@@ -579,6 +609,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Ira degli animali"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Salute potenziata su evocazione demoni"
 "herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Cartone potenziato"
+"herocard.passive_skill.title.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Vantaggio critico"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Servitori ciechi"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Nucleo Servitore"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Servitori Mega più deboli"
@@ -588,6 +619,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","Mana su gelo"
 "herocard.passive_skill.title.glass_reflect_debuffs","Vetro"
 "herocard.passive_skill.title.growth","Crescita"
+"herocard.passive_skill.title.growthmodifieronspecial.from.all.enemies","Riduzione della Crescita"
 "herocard.passive_skill.title.guaranteedeffectonspecial","Effetto garantito su Abilità speciale"
 "herocard.passive_skill.title.healmodifier.all.enemies.decrease","Guarigione ridotta"
 "herocard.passive_skill.title.healonheal.heal","GUARIGIONE extra"
@@ -617,6 +649,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Bottino Mimic"
 "herocard.passive_skill.title.minioncorruption.all.enemies","Corruzione dei servitori"
 "herocard.passive_skill.title.nevermissspecial","Precisione perfetta"
+"herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Guarigione superiore"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Blocca la Cura potenziata"
 "herocard.passive_skill.title.ransack","Occasione del ladro"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Ruba magia benefica"
@@ -629,10 +662,16 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.remove_wither_from_allies","Raduno delle guardie"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Nucleo riparatore"
 "herocard.passive_skill.title.repeat_special_once","Fortuna"
+"herocard.passive_skill.title.repeatspecialsupportcharacter.troop","Fortuna!"
 "herocard.passive_skill.title.resist.accuracymodifiers","Resisti a cecità"
 "herocard.passive_skill.title.resist.alldebuffs","Resisti ai disturbi"
 "herocard.passive_skill.title.resist.alldebuffs.alldebuffs","Resisti a tutti i disturbi"
+"herocard.passive_skill.title.resist.alldebuffs.blue.alldebuffs","Resisti ai disturbi del Ghiaccio"
+"herocard.passive_skill.title.resist.alldebuffs.green.alldebuffs","Resisti ai disturbi della Natura"
 "herocard.passive_skill.title.resist.alldebuffs.manareduction.buffdispels","Resistenza apice"
+"herocard.passive_skill.title.resist.alldebuffs.purple.alldebuffs","Resisti ai disturbi dell'Oscurità"
+"herocard.passive_skill.title.resist.alldebuffs.red.alldebuffs","Resisti ai disturbi del Fuoco"
+"herocard.passive_skill.title.resist.alldebuffs.yellow.alldebuffs","Resisti ai disturbi del Sacro"
 "herocard.passive_skill.title.resist.alldefensemodifiers.alldebuffs","Resisti a disturbi della Difesa"
 "herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs","Resisti alla riduzione Difesa"
 "herocard.passive_skill.title.resist.allmanaeffects.alldebuffs","Resisti ai disturbi del mana"
@@ -661,6 +700,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Resisti ai disturbi alla rigenerazione mana"
 "herocard.passive_skill.title.resist.manareduction","Resisti alla riduzione diretta del mana"
 "herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Aumento resistenza alla riduzione del mana"
+"herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Resisti al furto"
 "herocard.passive_skill.title.resist.maxhealthreduction","Resisti alla riduzione della Salute massima"
 "herocard.passive_skill.title.resist.poison","Resisti al veleno"
 "herocard.passive_skill.title.resist.poison.burn.bleed","Resisti a veleno, ustione e sanguinamento"
@@ -670,6 +710,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Aumento resistenza al blocco delle Abilità speciali"
 "herocard.passive_skill.title.resist.stopmanageneration","Resisti alle interruzioni della rigenerazione mana"
 "herocard.passive_skill.title.resist.water","Resisti all'acqua"
+"herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Resistenza all'acqua potenziata"
 "herocard.passive_skill.title.resist_all_attack_effects","Tratto:
 Sagoma minuta"
 "herocard.passive_skill.title.resist_all_defense_effects","Tratto: 
@@ -723,11 +764,13 @@ Struttura agile"
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Durata delle magie benefiche aumentata"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Copia disturbo all'annullamento"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Vigore del cacciatore"
+"herocard.passive_skill.title.statuseffectonspecialcast.camouflage","Velo etereo di petali"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","Marchio del cacciatore di Titani"
 "herocard.passive_skill.title.statuseffectonspecialcast.softskin","Pelle morbida del Gargoyle"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Pelle di pietra del Gargoyle"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Magia benefica di rigenerazione mana dai disturbi"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Maschera elementale"
+"herocard.passive_skill.title.stopchainstrikes","Blocca attacchi concatenati"
 "herocard.passive_skill.title.stylish","Che eleganza!"
 "herocard.passive_skill.title.stylish_epic","Che eleganza!"
 "herocard.passive_skill.title.stylish_legendary","Che eleganza!"
@@ -743,11 +786,6 @@ Struttura agile"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Servitore Slime su sconfitta"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Servitore Slime su sconfitta"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Servitore Slime su sconfitta"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_blue","Divisione del servitore slime"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_green","Divisione del servitore slime"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple","Divisione del servitore slime"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red","Divisione del servitore slime"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Divisione del servitore slime"
 "herocard.passive_skill.title.summononstatuseffectaddition.burn","Chiamata su ustione"
 "herocard.passive_skill.title.summononstatuseffectaddition.damageovertime","Chiamata su DnT"
 "herocard.passive_skill.title.summononstatuseffectaddition.defensemodifier","Chiamata servitore su disturbo della Difesa"

@@ -7,6 +7,8 @@
   "Astral Summon": "아스트랄 소환",
   "Black Friday Summon": "블랙 프라이데이 소환",
   "Event Summon": "이벤트 소환",
+  "Charming Costume Summon": "매력 의상 소환",
+  "Classic Costume Summon": "클래식 의상 소환",
   "Costume Summon": "의상 소환",
   "Covenant Summon": "서약 소환",
   "Daily Summon": "일일 소환",
@@ -31,6 +33,7 @@
   "Underwild Summon": "언더와일드 소환",
   "Dunes Summon": "사막 소환",
   "Seasonal Summon": "시즌 소환",
+  "Sunbay Summon": "선베이 소환",
   "Sanguine Summon": "핏빛 소환",
   "Fortune Summon": "행운 소환",
   "Shadow Summon": "그림자 소환",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "말하지 않은 이야기 소환",
   "Mysteries of the Deep": "심연의 수수께끼",
   "Treasures of Flame and Frost": "불꽃과 서리의 보물",
+  "Welcome Back Summon": "웰컴 백 소환",
   "Wilderness Summon": "황무지 소환"
 }

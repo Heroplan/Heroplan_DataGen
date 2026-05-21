@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","当英雄受到特殊技能直接伤害时，将获得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}点谦逊。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","该角色在受到特殊技能造成的直接伤害时会获得{CURRENTCHARGEFROMDAMAGE}点谦逊。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","当英雄受到特殊技能直接治疗时，将获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","该角色在受到特殊技能提供的直接治疗时会获得{CURRENTCHARGEFROMHEAL}点谦逊。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","在每回合结束时， 该英雄将获得{1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND}点谦逊。"
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","每回合结束时，此角色获得{CURRENTCHARGEONTURNEND}点谦逊"
 "familybonuses.description.long.abyss","当此英雄施放特殊技能时，面板中有{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}%的几率生成一个蛮荒地界宝石。
 该蛮荒地界宝石可于每回合对一名随机敌人造成{FIXEDPOWER}点伤害，直到被消除为止。
 蛮荒地界宝石只能在与此英雄的元素相同的常规盾牌上生成。"
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","当此角色身上的幽灵形态结束时，获得{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%法力。"
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","受到特殊技能的伤害时，该角色获得{1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}%法力。此效果每回合只生效一次。"
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
@@ -14,13 +21,14 @@
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","该角色每次尝试对敌方发动掠夺时，所有盟友获得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻击力叠加效果。（最大叠加次数：{MAXSTACK}）"
-"familybonuses.description.long.build_charge_beauty_beast","不同英雄需要的谦逊值各不相同。
-当英雄施放强力版本特殊技能时，只会消耗所需数量的谦逊。
-谦逊上限：100。拥有同一家族的1/2/3名独特英雄时获得额外加成：
-当该英雄受到来自特殊技能的直接伤害时，会获得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}点谦逊。
-当该英雄受到来自特殊技能的直接治疗时，会获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。"
+"familybonuses.description.long.build_charge_beauty_beast","不同英雄的谦逊需求各不相同。
+当英雄施放其强力版本的特殊技能时，仅消耗所需的谦逊值。
+最大谦逊值：100。
+同家族拥有1/2/3名独特英雄时的加成：
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","不同英雄需要的谦逊值各不相同。
 当英雄施放强力版特殊技能时，只会消耗所需数量的谦逊。
+谦逊上限：100。拥有同一家族的1/2/3名独特英雄时获得额外加成：
 当该英雄受到来自特殊技能的直接伤害时，会获得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}点谦逊。每回合最多一次。
 当该英雄受到来自特殊技能的直接治疗时，会获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。每回合最多一次。"
 "familybonuses.description.long.build_charge_construct","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其机械核心充能。"
@@ -31,7 +39,7 @@
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","此英雄受到影响防御的状态异常时，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%几率施加该状态异常于所有敌人身上。"
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","每次此英雄施放幸运之舞状态效果时，都有{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的几率使其持续时间延长1个回合。"
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%额外特殊技能伤害。"
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}%的几率在该角色受到特殊技能伤害时，净化所有状态异常。"
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","受到特殊技能伤害时，有{1MEMBERCHANCE}/{2MEMBERSCHANCE}%几率为所有盟友净化1种状态异常。"
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}%的几率在该角色受到特殊技能伤害时，净化其身上随机一项可净化的状态异常。"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%的几率在该角色受到敌人特殊技能伤害时，净化所有盟友身上随机一项可净化的状态异常。此效果每回合仅触发一次。"
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%几率发起反击，对敌人造成伤害，该伤害相当于自身所受伤害的{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%。"
@@ -88,6 +96,7 @@
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%生命"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%生命值。"
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","所有盟友每次在此角色尝试迷魅一名敌人时，获得+{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL}的生命恢复效果。（最大层数： {STATUSEFFECT1MAXSTACK}）"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","增加{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%对超级小兵的伤害。"
 "familybonuses.description.long.increased_damage_against_minions_2_members","增加{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%对小兵的伤害。"
 "familybonuses.description.long.increased_damage_against_minions_3_members","增加{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%对小兵的伤害。"
@@ -135,6 +144,7 @@
 此英雄与至少1名相关家族成员组队时，将获得相关家族的家族加成。1/2/3/4/5位英雄的加成：
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","此英雄与魔法家族相关。
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","在{STATUSEFFECT1TURNS}回合内，对一名对此角色造成特殊技能伤害的敌人造成共计{FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE}点水系伤害。"
 "familybonuses.description.long.slime_familiar_attack_multiplier","盟友召唤的超级小兵、小兵、超级恶魔和恶魔会根据战队中的史莱姆家族英雄数量获得{1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}%特殊技能加成。"
 "familybonuses.description.long.start_battle_with_fox_minion","战斗开始时，为自身召唤{FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT}个狡狐小兵，该小兵将继承英雄{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
@@ -158,6 +168,7 @@
 "familybonuses.description.members","（家族成员：{0}）"
 "familybonuses.description.members.realm","（王国成员：{0}）"
 "familybonuses.description.short.abyss","施放特殊技能时，有{CHANCE}%几率生成一个蛮荒地界宝石。蛮荒地界宝石每回合会对一名随机敌人造成{FIXEDPOWER}点伤害。"
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","当此角色身上的幽灵形态结束时，获得{MULTIPLIERPERCENT}%法力。"
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","此角色受到特殊技能伤害时获得{MULTIPLIERPERCENT}%法力。"
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE}%攻击力"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE}%攻击力"
@@ -174,8 +185,7 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","每回合开始时，用血莲标记剩余生命值最高的敌人。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","每回合开始时，用血莲标记剩余生命值最高的敌人。"
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","当该角色尝试对敌人发动掠夺时，为全体盟友施加{ATTACK}%攻击力叠加效果。（最大叠加次数：{MAXSTACK}）"
-"familybonuses.description.short.build_charge_beauty_beast","该角色在受到特殊技能造成的直接伤害时会获得{CURRENTCHARGEFROMDAMAGE}点谦逊。
-该角色在受到特殊技能直接治疗时会获得{CURRENTCHARGEFROMHEAL}点谦逊。"
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","该角色在受到特殊技能造成的直接伤害时会获得{CURRENTCHARGEFROMDAMAGE}点谦逊。每回合最多一次。
 该角色在受到特殊技能直接治疗时会获得{CURRENTCHARGEFROMHEAL}点谦逊。每回合最多一次。"
 "familybonuses.description.short.build_charge_construct","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其机械核心充能。"
@@ -186,7 +196,7 @@
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","此英雄受到影响防御的状态异常时，有{CHANCE}%几率施加该状态异常于所有敌人身上。"
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","有{CHANCE}%几率使所施放的幸运之舞状态效果持续时间延长1个回合。"
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}%额外特殊技能伤害。"
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}%的几率在该角色受到特殊技能伤害时，净化其身上所有可净化的状态异常。"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","受到特殊技能伤害时，有{CHANCE}%几率为所有盟友净化1种状态异常"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}%的几率在该角色受到特殊技能伤害时，净化其身上随机一项可净化的状态异常。"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","敌人对此角色造成特殊技能伤害时，此角色有{CHANCE}%几率净化所有盟友身上随机一项可净化状态异常。此效果每回合仅触发一次。"
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}%几率进行反击，对敌人造成自身所受伤害{MULTIPLIERPERCENT}%的伤害。"
@@ -234,6 +244,7 @@
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE}%生命值"
 "familybonuses.description.short.health_stack","在每回合结束时，有{CHANCE}%的几率获得治疗效果叠加+1：+{BASESTACKCOUNT}点生命值"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","每次此角色尝试迷魅一名敌人时，所有盟友获得+{HEAL}的生命恢复效果。"
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","增加{MULTIPLIERPERCENTCHANGE}%对超级小兵的伤害。"
 "familybonuses.description.short.increased_damage_against_minions_2_members","增加{MULTIPLIERPERCENTCHANGE}%对小兵的伤害。"
 "familybonuses.description.short.increased_damage_against_minions_3_members","增加{MULTIPLIERPERCENTCHANGE}%对小兵的伤害。"
@@ -280,6 +291,7 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}%几率抵抗法力减损和法力状态异常，成功抵偿时获得{POWER}%法力"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}%几率抵抗法力减损和法力状态异常，成功抵抗时获得{POWER}%法力"
 "familybonuses.description.short.share_effects_from_atlantis","此英雄与亚特兰蒂斯家族相关。此英雄与至少1名相关家族成员组队时，将获得相关家族的家族加成：
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","当一名敌人对此角色造成特殊技能伤害时，敌人受到{DAMAGE}点水系伤害，持续{STATUSEFFECT1TURNS}回合。"
 "familybonuses.description.short.slime_familiar_attack_multiplier","超级小兵、小兵、超级恶魔和恶魔获得{MULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","农历鼠年加成： {MULTIPLIERPERCENTCHANGE}%特殊技能加成"
 "familybonuses.description.short.start_battle_with_fox_minion","在战斗开始时为自己召唤{FAMILIARAMOUNT}狡狐小兵。狡狐小兵有80%的几率闪避来袭的攻击。闪避成功后，它会从攻击者身上窃取最新获得的可驱散增益，并施加给其所有者。"
@@ -336,7 +348,8 @@
 "herocard.family.description.eventherobonus.alliancequestcastle","该家族的成员在骑士冲击活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.alliancequestmoths","该家族的成员在飞蛾之夜活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.alliancequestmusketeers","该家族的成员在勇者与美人活动中拥有额外的加成。"
-"herocard.family.description.eventherobonus.beachparty","该家族的成员在海滩派对活动中拥有额外的加成。"
+"herocard.family.description.eventherobonus.beachparty","该家族的成员在汐阳派对活动中拥有额外的加成。"
+"herocard.family.description.eventherobonus.beachparty2026","该家族的成员在汐阳派对活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.christmas","该家族的成员在圣诞老人挑战活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.easter","该家族的成员在春谷节活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.halloween","该家族的成员在万圣节活动中拥有额外的加成。"
@@ -418,6 +431,8 @@
 "herocard.family.title.cultist.short","异教徒"
 "herocard.family.title.cupid","爱神家族"
 "herocard.family.title.cupid.short","爱神"
+"herocard.family.title.dryad","远古之花家族树妖"
+"herocard.family.title.dryad.short","树妖"
 "herocard.family.title.easter","春谷家族"
 "herocard.family.title.easter.short","春谷"
 "herocard.family.title.fable","肃煞森林家族"
@@ -439,6 +454,8 @@
 "herocard.family.title.gargoyle.short","石像鬼"
 "herocard.family.title.garrison","驻军守卫家族"
 "herocard.family.title.garrison.short","驻军守卫"
+"herocard.family.title.ghost","杨戬家族幽灵"
+"herocard.family.title.ghost.short","杨戬幽灵"
 "herocard.family.title.goblin","哥布林家族"
 "herocard.family.title.goblin.short","哥布林"
 "herocard.family.title.guardian","守护者家族"
@@ -526,6 +543,8 @@
 "herocard.family.title.sand.short","飞沙帝国"
 "herocard.family.title.shady_scoundrels","暗影无赖家族"
 "herocard.family.title.shady_scoundrels.short","暗影无赖"
+"herocard.family.title.shark","汐阳鲨鱼家族"
+"herocard.family.title.shark.short","汐阳鲨鱼"
 "herocard.family.title.slayers","杀手家族"
 "herocard.family.title.slayers.short","杀手"
 "herocard.family.title.slime","史莱姆家族"

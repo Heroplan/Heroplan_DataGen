@@ -10781,27 +10781,25 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                20,
-                25,
-                30
+                15,
+                20
               ],
               "weights": [
-                1,
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                36,
-                30,
-                20,
-                14
+                0,
+                0,
+                50,
+                50
               ]
             },
-            "additionalDrawCount": 4
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -10815,11 +10813,10 @@
                 0,
                 0,
                 0,
-                98,
-                2
+                90,
+                10
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -10828,30 +10825,20 @@
               "itemType": "Battle"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                15,
-                20
-              ],
-              "weights": [
-                1,
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 10
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                30,
-                36,
-                20,
-                9,
-                5
+                0,
+                0,
+                0,
+                0,
+                100
               ]
-            },
-            "additionalDrawCount": 5
+            }
           },
           {
             "type": "Item",
@@ -10860,15 +10847,8 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                20,
-                30
-              ],
-              "weights": [
-                50,
-                50
-              ]
+              "resolverType": "Fixed",
+              "amount": 35
             },
             "rarityResolver": {
               "resolverType": "Fixed",
@@ -10878,15 +10858,42 @@
           },
           {
             "type": "Item",
-            "idResolver": {
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
               "weights": [
-                80,
-                20
+                0,
+                0,
+                0,
+                0,
+                100
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                33,
+                33,
+                34
               ]
             },
             "additionalDrawCount": 1
@@ -10903,29 +10910,154 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 15
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "AscensionMaterial"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                92,
+                8
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "Battle"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                0,
+                25,
+                75
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 30
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 15
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                50,
+                50
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "uber_titan_best_damage_reward_top_10_percent",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
+            },
+            "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
                 10,
-                15,
-                20
+                15
               ],
               "weights": [
-                1,
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                45,
-                37,
-                10,
-                8
+                0,
+                0,
+                625,
+                375
               ]
             },
-            "additionalDrawCount": 3
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
@@ -10939,11 +11071,10 @@
                 0,
                 0,
                 0,
-                99,
-                1
+                95,
+                5
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -10952,28 +11083,167 @@
               "itemType": "Battle"
             },
             "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 25
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                10,
-                15
+                5,
+                10
               ],
               "weights": [
-                1,
-                1
+                25,
+                75
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                46,
-                35,
-                10,
+                0,
+                375,
+                375,
+                250
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
                 5,
-                4
+                10
+              ],
+              "weights": [
+                50,
+                50
               ]
             },
-            "additionalDrawCount": 3
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                100
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "uber_titan_best_damage_reward_top_25_percent",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                75,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "AscensionMaterial"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                97,
+                3
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "Battle"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                25,
+                50,
+                25
+              ]
+            },
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
@@ -10993,31 +11263,9 @@
           },
           {
             "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                62,
-                25,
-                13
-              ]
-            },
-            "additionalDrawCount": 1
-          }
-        ]
-      },
-      {
-        "id": "uber_titan_best_damage_reward_top_10_percent",
-        "entities": [
-          {
-            "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "TitanCrafting"
             },
             "amountResolver": {
               "resolverType": "WeightedRandom",
@@ -11026,45 +11274,26 @@
                 10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                51,
-                35,
-                8,
-                6
+                0,
+                500,
+                375,
+                125
               ]
-            },
-            "additionalDrawCount": 2
+            }
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                99,
-                1
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "TitanCrafting"
             },
             "amountResolver": {
               "resolverType": "WeightedRandom",
@@ -11073,183 +11302,15 @@
                 10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                51,
-                35,
-                8,
-                3,
-                3
-              ]
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                20
-              ],
-              "weights": [
-                70,
-                30
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                80,
-                13,
-                7
-              ]
-            },
-            "additionalDrawCount": 1
-          }
-        ]
-      },
-      {
-        "id": "uber_titan_best_damage_reward_top_25_percent",
-        "entities": [
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                3,
-                5
-              ],
-              "weights": [
-                1,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                53,
-                35,
-                8,
-                4
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                65,
-                35,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                1,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                53,
-                35,
-                8,
-                2,
-                2
-              ]
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                5,
-                10,
-                20
-              ],
-              "weights": [
-                45,
-                35,
-                20
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                88,
-                8,
-                4
+                100
               ]
             }
           }
@@ -11265,27 +11326,19 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                55,
-                35,
-                6,
-                4
+                0,
+                250,
+                625,
+                125
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11293,17 +11346,20 @@
               "resolverType": "Fixed",
               "itemType": "AscensionMaterial"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                40,
-                40,
-                20,
-                0
+                0,
+                0,
+                99,
+                1
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11312,28 +11368,20 @@
               "itemType": "Battle"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 3
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                55,
-                35,
-                6,
-                3,
-                1
+                0,
+                25,
+                50,
+                25,
+                0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11342,35 +11390,32 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                5,
-                10
-              ],
-              "weights": [
-                60,
-                40
-              ]
+              "resolverType": "Fixed",
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
-            "idResolver": {
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
               "weights": [
-                92,
-                5,
-                3
+                0,
+                250,
+                375,
+                375
               ]
             }
           }
@@ -11386,24 +11431,17 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                59,
-                35,
-                4,
-                2
+                0,
+                375,
+                500,
+                125
               ]
             }
           },
@@ -11413,17 +11451,19 @@
               "resolverType": "Fixed",
               "itemType": "AscensionMaterial"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                49,
-                50,
-                1,
-                0
+                0,
+                0,
+                1
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11431,18 +11471,21 @@
               "resolverType": "Fixed",
               "itemType": "Battle"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                59,
-                35,
-                4,
-                2,
+                0,
+                75,
+                25,
+                0,
                 0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11451,37 +11494,32 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                3,
-                5,
-                10
-              ],
-              "weights": [
-                50,
-                40,
-                10
-              ]
+              "resolverType": "Fixed",
+              "amount": 15
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
-            "idResolver": {
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
               "weights": [
-                96,
-                3,
-                1
+                0,
+                375,
+                375,
+                250
               ]
             }
           }
@@ -11496,13 +11534,17 @@
               "resolverType": "Fixed",
               "itemType": "ItemCrafting"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                50,
-                50,
                 0,
+                625,
+                375,
                 0
               ]
             }
@@ -11517,13 +11559,12 @@
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                50,
-                50,
                 0,
+                80,
+                20,
                 0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11533,13 +11574,32 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 10
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                625,
+                375
+              ]
+            }
           }
         ]
       },
@@ -11555,27 +11615,25 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                20,
-                25,
-                30
+                15,
+                20
               ],
               "weights": [
-                1,
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                1,
-                1,
-                1,
-                1
+                0,
+                0,
+                50,
+                50
               ]
             },
-            "additionalDrawCount": 7
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -11586,13 +11644,149 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                10,
-                15
+                15,
+                20
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            },
+            "additionalDrawCount": 5
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 75
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                0,
+                100
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                375,
+                500,
+                125
+              ]
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                750,
+                250
+              ]
+            },
+            "additionalDrawCount": 3
+          }
+        ]
+      },
+      {
+        "id": "uber_titan_alliance_damage_reward_top_10",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 15
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "Battle"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 15
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
@@ -11605,7 +11799,7 @@
                 1
               ]
             },
-            "additionalDrawCount": 7
+            "additionalDrawCount": 4
           },
           {
             "type": "Item",
@@ -11622,48 +11816,12 @@
               "rarity": 4
             },
             "additionalDrawCount": 3
-          }
-        ]
-      },
-      {
-        "id": "uber_titan_alliance_damage_reward_top_10",
-        "entities": [
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                15,
-                20
-              ],
-              "weights": [
-                1,
-                1,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                1,
-                1,
-                1,
-                1
-              ]
-            },
-            "additionalDrawCount": 6
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "TitanCrafting"
             },
             "amountResolver": {
               "resolverType": "WeightedRandom",
@@ -11672,8 +11830,8 @@
                 10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
@@ -11682,28 +11840,31 @@
                 0,
                 0,
                 0,
-                0,
-                1,
-                1
+                50,
+                50
               ]
             },
-            "additionalDrawCount": 6
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
+              "itemType": "TitanCrafting"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 30
+              "amount": 10
             },
             "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                50,
+                50
+              ]
             },
-            "additionalDrawCount": 3
+            "additionalDrawCount": 2
           }
         ]
       },
@@ -11719,27 +11880,25 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                5,
                 10,
                 15
               ],
               "weights": [
-                1,
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                1,
-                1,
-                1,
-                1
+                0,
+                125,
+                375,
+                500
               ]
             },
-            "additionalDrawCount": 5
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
@@ -11750,12 +11909,12 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                3,
-                5
+                5,
+                10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
@@ -11769,7 +11928,7 @@
                 33
               ]
             },
-            "additionalDrawCount": 5
+            "additionalDrawCount": 3
           },
           {
             "type": "Item",
@@ -11778,21 +11937,55 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                20,
-                30
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 35
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
             "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                625,
+                250,
+                125
+              ]
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                100
+              ]
+            },
+            "additionalDrawCount": 1
           }
         ]
       },
@@ -11808,25 +12001,25 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                3,
-                5
+                5,
+                10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                1,
-                1,
-                1,
-                1
+                0,
+                25,
+                50,
+                25
               ]
             },
-            "additionalDrawCount": 4
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -11836,7 +12029,7 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 2
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
@@ -11849,7 +12042,7 @@
                 33
               ]
             },
-            "additionalDrawCount": 4
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -11859,13 +12052,42 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 20
+              "amount": 35
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
             "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                375,
+                250,
+                250,
+                125
+              ]
+            },
+            "additionalDrawCount": 3
           }
         ]
       },
@@ -11879,27 +12101,19 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                3,
-                5
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                1,
-                1,
-                1,
-                1
+                0,
+                375,
+                500,
+                125
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11907,18 +12121,21 @@
               "resolverType": "Fixed",
               "itemType": "Battle"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                1,
-                1,
                 0,
-                0,
+                500,
+                375,
+                125,
                 0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11928,12 +12145,33 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 25
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                25,
+                50,
+                25
+              ]
+            },
+            "additionalDrawCount": 1
           }
         ]
       },
@@ -11949,27 +12187,25 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                20,
-                25,
-                30
+                15,
+                20
               ],
               "weights": [
-                1,
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                36,
-                30,
-                20,
-                14
+                0,
+                0,
+                50,
+                50
               ]
             },
-            "additionalDrawCount": 4
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -11977,17 +12213,20 @@
               "resolverType": "Fixed",
               "itemType": "AscensionMaterial"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
                 0,
                 0,
-                98,
-                2
+                90,
+                10
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -11996,30 +12235,20 @@
               "itemType": "Battle"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                15,
-                20
-              ],
-              "weights": [
-                1,
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 10
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                30,
-                36,
-                20,
-                9,
-                5
+                0,
+                0,
+                0,
+                0,
+                100
               ]
-            },
-            "additionalDrawCount": 5
+            }
           },
           {
             "type": "Item",
@@ -12028,15 +12257,8 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                20,
-                30
-              ],
-              "weights": [
-                50,
-                50
-              ]
+              "resolverType": "Fixed",
+              "amount": 35
             },
             "rarityResolver": {
               "resolverType": "Fixed",
@@ -12046,15 +12268,42 @@
           },
           {
             "type": "Item",
-            "idResolver": {
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
               "weights": [
-                80,
-                20
+                0,
+                0,
+                0,
+                0,
+                100
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                33,
+                33,
+                34
               ]
             },
             "additionalDrawCount": 1
@@ -12071,35 +12320,8 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                15,
-                20
-              ],
-              "weights": [
-                1,
-                1,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                45,
-                37,
-                10,
-                8
-              ]
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
+              "amount": 15
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
@@ -12107,8 +12329,8 @@
                 0,
                 0,
                 0,
-                99,
-                1
+                50,
+                50
               ]
             },
             "additionalDrawCount": 1
@@ -12117,7 +12339,112 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
+              "itemType": "AscensionMaterial"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                92,
+                8
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
               "itemType": "Battle"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                0,
+                25,
+                75
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 30
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 15
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                50,
+                50
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "uber_titan_total_damage_reward_top_10_percent",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
             },
             "amountResolver": {
               "resolverType": "WeightedRandom",
@@ -12126,22 +12453,211 @@
                 15
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                46,
-                35,
-                10,
-                5,
-                4
+                0,
+                0,
+                625,
+                375
               ]
             },
-            "additionalDrawCount": 3
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "AscensionMaterial"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                95,
+                5
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "Battle"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                0,
+                50,
+                50
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 25
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                25,
+                75
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                375,
+                375,
+                250
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                100
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "uber_titan_total_damage_reward_top_25_percent",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                75,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "AscensionMaterial"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                97,
+                3
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "Battle"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                25,
+                50,
+                25
+              ]
+            },
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
@@ -12161,31 +12677,9 @@
           },
           {
             "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                62,
-                25,
-                13
-              ]
-            },
-            "additionalDrawCount": 1
-          }
-        ]
-      },
-      {
-        "id": "uber_titan_total_damage_reward_top_10_percent",
-        "entities": [
-          {
-            "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "TitanCrafting"
             },
             "amountResolver": {
               "resolverType": "WeightedRandom",
@@ -12194,45 +12688,26 @@
                 10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                51,
-                35,
-                8,
-                6
+                0,
+                500,
+                375,
+                125
               ]
-            },
-            "additionalDrawCount": 2
+            }
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                99,
-                1
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "TitanCrafting"
             },
             "amountResolver": {
               "resolverType": "WeightedRandom",
@@ -12241,183 +12716,15 @@
                 10
               ],
               "weights": [
-                1,
-                1
+                50,
+                50
               ]
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                51,
-                35,
-                8,
-                3,
-                3
-              ]
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                20
-              ],
-              "weights": [
-                70,
-                30
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                80,
-                13,
-                7
-              ]
-            },
-            "additionalDrawCount": 1
-          }
-        ]
-      },
-      {
-        "id": "uber_titan_total_damage_reward_top_25_percent",
-        "entities": [
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                3,
-                5
-              ],
-              "weights": [
-                1,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                53,
-                35,
-                8,
-                4
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                65,
-                35,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                1,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                53,
-                35,
-                8,
-                2,
-                2
-              ]
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                5,
-                10,
-                20
-              ],
-              "weights": [
-                45,
-                35,
-                20
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                88,
-                8,
-                4
+                100
               ]
             }
           }
@@ -12433,27 +12740,19 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                55,
-                35,
-                6,
-                4
+                0,
+                250,
+                625,
+                125
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -12461,17 +12760,20 @@
               "resolverType": "Fixed",
               "itemType": "AscensionMaterial"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                40,
-                40,
-                20,
-                0
+                0,
+                0,
+                99,
+                1
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -12480,28 +12782,20 @@
               "itemType": "Battle"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 3
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                55,
-                35,
-                6,
-                3,
-                1
+                0,
+                25,
+                50,
+                25,
+                0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -12510,35 +12804,32 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                5,
-                10
-              ],
-              "weights": [
-                60,
-                40
-              ]
+              "resolverType": "Fixed",
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
-            "idResolver": {
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
               "weights": [
-                92,
-                5,
-                3
+                0,
+                250,
+                375,
+                375
               ]
             }
           }
@@ -12554,24 +12845,17 @@
               "itemType": "ItemCrafting"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                1,
-                1
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                59,
-                35,
-                4,
-                2
+                0,
+                375,
+                500,
+                125
               ]
             }
           },
@@ -12581,17 +12865,20 @@
               "resolverType": "Fixed",
               "itemType": "AscensionMaterial"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                49,
-                50,
-                1,
+                0,
+                0,
+                100,
                 0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -12599,18 +12886,21 @@
               "resolverType": "Fixed",
               "itemType": "Battle"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                59,
-                35,
-                4,
-                2,
+                0,
+                75,
+                25,
+                0,
                 0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -12619,37 +12909,32 @@
               "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                3,
-                5,
-                10
-              ],
-              "weights": [
-                50,
-                40,
-                10
-              ]
+              "resolverType": "Fixed",
+              "amount": 15
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
-            "idResolver": {
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
               "weights": [
-                96,
-                3,
-                1
+                0,
+                375,
+                375,
+                250
               ]
             }
           }
@@ -12664,13 +12949,17 @@
               "resolverType": "Fixed",
               "itemType": "ItemCrafting"
             },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                50,
-                50,
                 0,
+                625,
+                375,
                 0
               ]
             }
@@ -12685,13 +12974,12 @@
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                50,
-                50,
                 0,
+                80,
+                20,
                 0
               ]
-            },
-            "additionalDrawCount": 1
+            }
           },
           {
             "type": "Item",
@@ -12701,13 +12989,32 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 10
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "TitanCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                625,
+                375
+              ]
+            }
           }
         ]
       },
@@ -36732,7 +37039,7 @@
               "entityIds": [
                 "",
                 "nomad_female_thief",
-                "dwarven_scout",
+                "forest_female_illusionist",
                 "dwarven_scout",
                 "blackguard_scout",
                 "oriental_panda_scout"
@@ -39884,18 +40191,6 @@
         ]
       },
       {
-        "id": "returning_user_experience_away_90",
-        "entities": [
-          {
-            "type": "Resource",
-            "resourceResolver": {
-              "resolverType": "Fixed",
-              "resourceType": "Iron"
-            }
-          }
-        ]
-      },
-      {
         "id": "Bounty of Dreadful Arsenal",
         "entities": [
           {
@@ -40155,9 +40450,81 @@
         "entities": [
           {
             "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "lottery_temple_coin"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                27,
+                15,
+                1,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "type": "TrainerTroop",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                23,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
             }
           },
           {
@@ -40166,61 +40533,19 @@
               "resolverType": "Fixed",
               "itemType": "ItemCrafting"
             },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
+            "amountResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                1,
                 0,
                 0,
-                0
+                66,
+                34
               ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
             }
           }
         ]
@@ -40230,9 +40555,81 @@
         "entities": [
           {
             "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "lottery_temple_coin"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                27,
+                15,
+                1,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "type": "TrainerTroop",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                23,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
             }
           },
           {
@@ -40241,31 +40638,18 @@
               "resolverType": "Fixed",
               "itemType": "ItemCrafting"
             },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
+            "amountResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                90,
-                10,
                 0,
-                0
+                0,
+                66,
+                34
               ]
             }
           },
@@ -40273,40 +40657,15 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
+              "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2
-              ],
-              "weights": [
-                95,
-                5
-              ]
+              "resolverType": "Fixed",
+              "amount": 1
             },
             "rarityResolver": {
               "resolverType": "Fixed",
-              "rarity": 4
+              "rarity": 3
             }
           }
         ]
@@ -40319,12 +40678,12 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                1,
-                2
+                5,
+                10
               ],
               "weights": [
-                95,
-                5
+                50,
+                50
               ]
             },
             "idResolver": {
@@ -40333,36 +40692,84 @@
             }
           },
           {
+            "type": "TrainerCharacter",
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                27,
+                15,
+                1,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "type": "TrainerTroop",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                23,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
               "itemType": "ItemCrafting"
             },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                35,
-                15,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
+            "amountResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                80,
-                20,
                 0,
-                0
+                0,
+                66,
+                34
               ]
             }
           },
@@ -40370,40 +40777,21 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                35,
-                15,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
+              "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2
-              ],
               "weights": [
+                0,
+                0,
+                0,
                 50,
                 50
               ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
             }
           }
         ]
@@ -40415,151 +40803,43 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 20
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0
-              ]
+              "resolverType": "Fixed",
+              "rarity": 4
             },
-            "additionalDrawCount": 1
+            "additionalDrawCount": 19
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                1,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 5
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                9,
-                1
-              ]
-            },
-            "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 3
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 1
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
@@ -40571,6 +40851,28 @@
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
             }
           }
         ]
@@ -40582,139 +40884,76 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                40,
-                35,
-                25,
-                0
-              ]
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                80,
-                20
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 2
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                40,
-                35,
-                25,
-                0,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
             },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
+            "additionalDrawCount": 29
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                8,
-                2
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 5
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 2
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 2
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
             "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 2
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
             }
           }
         ]
@@ -40726,163 +40965,98 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 20
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                40,
-                35,
-                25
-              ]
+              "resolverType": "Fixed",
+              "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 39
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 5
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                40,
-                35,
-                25,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                3,
-                7
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                3,
-                7
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                8,
-                2
-              ]
-            },
-            "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 7
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 3
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
             "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_rare"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_meenakshi"
             }
           }
         ]
@@ -40894,127 +41068,50 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 15
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                40,
-                35,
-                25
-              ]
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 10
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                40,
-                35,
-                25,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 1
+            "additionalDrawCount": 49
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 9
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 3
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
             "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
@@ -41022,14 +41119,58 @@
             }
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_temple_coin"
+              "entityId": "trainer_rainbow_rare"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_meenakshi"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_bhima"
             }
           }
         ]
@@ -41041,46 +41182,17 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 20
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50
-              ]
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "Battle"
+              "rarity": 4
             },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 15
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
+            "additionalDrawCount": 54
           },
           {
             "type": "Item",
@@ -41090,87 +41202,90 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 30
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                1,
-                9
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                1,
-                9
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
             },
-            "additionalDrawCount": 1
+            "additionalDrawCount": 10
           },
           {
             "type": "TrainerCharacter",
-            "rarityResolver": {
+            "amountResolver": {
               "resolverType": "Fixed",
-              "rarity": 2
+              "amount": 1
             },
-            "additionalDrawCount": 2
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_common"
+            }
           },
           {
             "type": "TrainerCharacter",
-            "rarityResolver": {
+            "amountResolver": {
               "resolverType": "Fixed",
-              "rarity": 3
+              "amount": 1
             },
-            "additionalDrawCount": 2
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_rare"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_meenakshi"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_bhima"
+            }
           }
         ]
       },
@@ -41181,143 +41296,131 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 30
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                0,
-                1
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 25
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 3
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 59
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
             },
-            "additionalDrawCount": 1
+            "additionalDrawCount": 11
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 30
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_temple_coin"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 3
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 3
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
             "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_rare"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_epic"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_meenakshi"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_bhima"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ustad_anand"
             }
           }
         ]
@@ -41329,94 +41432,54 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 2
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
-            }
+            },
+            "additionalDrawCount": 14
           },
           {
             "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_basic"
+              "entityId": "trainer_rainbow_common"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
             }
           }
         ]
@@ -41428,139 +41491,87 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                40,
-                35,
-                25,
-                0
-              ]
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                80,
-                20
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 2
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                40,
-                35,
-                25,
-                0,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
             },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
+            "additionalDrawCount": 34
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                8,
-                2
-              ]
+              "resolverType": "Fixed",
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 6
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 2
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 2
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
             "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 2
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_meenakshi"
             }
           }
         ]
@@ -41572,151 +41583,43 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 20
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0
-              ]
+              "resolverType": "Fixed",
+              "rarity": 4
             },
-            "additionalDrawCount": 1
+            "additionalDrawCount": 24
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                1,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 5
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                9,
-                1
-              ]
-            },
-            "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 4
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 1
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
@@ -41728,6 +41631,28 @@
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
             }
           }
         ]
@@ -41739,163 +41664,98 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 20
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                40,
-                35,
-                25
-              ]
+              "resolverType": "Fixed",
+              "rarity": 4
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 44
           },
           {
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                50,
-                50
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
               "amount": 5
             },
             "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                40,
-                35,
-                25,
-                0
-              ]
-            },
-            "additionalDrawCount": 4
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                3,
-                7
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                3,
-                7
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                8,
-                2
-              ]
-            },
-            "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
-            }
+            },
+            "additionalDrawCount": 8
           },
           {
-            "type": "Item",
+            "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 3
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "entityId": "trainer_rainbow_common"
             }
           },
           {
             "type": "TrainerCharacter",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 1
             },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_uncommon"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_rare"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_rafeeq"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_meenakshi"
             }
           }
         ]
@@ -41907,94 +41767,54 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 2
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                50,
-                50,
-                0,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
-            }
+            },
+            "additionalDrawCount": 9
           },
           {
             "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_basic"
+              "entityId": "trainer_rainbow_common"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
             }
           }
         ]
@@ -42006,20 +41826,156 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "itemType": "HeroEmblem"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 3
+              "amount": 20
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 4
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_common"
+            }
+          },
+          {
+            "type": "Avatar",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "mahayoddha_ali"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_1",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pve_full"
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
+            }
+          }
+        ]
+      },
+      {
+        "id": "temple_battle_1_50coins",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 50
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_temple_coin"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                27,
+                15,
+                1,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "type": "TrainerTroop",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
-                0,
-                50,
-                50,
-                0,
-                0
+                67,
+                23,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
               ]
             }
           },
@@ -42027,21 +41983,138 @@
             "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
-              "itemType": "Battle"
+              "itemType": "ItemCrafting"
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 2
+              "amount": 5
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                50,
-                50,
                 0,
+                0,
+                66,
+                34
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "hero_royal_tabard",
+                "hero_poison_darts",
+                "hero_mystic_rings",
+                "hero_mysterious_tonic",
+                "hero_farsight_telescope"
+              ],
+              "weights": [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "temple_battle_2_50coins",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 50
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_temple_coin"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                27,
+                15,
+                1,
                 0,
                 0
+              ]
+            }
+          },
+          {
+            "type": "TrainerTroop",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                23,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                66,
+                34
               ]
             }
           },
@@ -42052,15 +42125,8 @@
               "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
+              "resolverType": "Fixed",
+              "amount": 1
             },
             "rarityResolver": {
               "resolverType": "Fixed",
@@ -42069,37 +42135,413 @@
           },
           {
             "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "hero_limitbreak_legendary_blue",
+                "hero_limitbreak_legendary_red",
+                "hero_limitbreak_legendary_green",
+                "hero_limitbreak_legendary_yellow",
+                "hero_limitbreak_legendary_purple"
+              ],
+              "weights": [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "temple_battle_3_50coins",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 50
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_temple_coin"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                27,
+                15,
+                1,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "type": "TrainerTroop",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                67,
+                23,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium"
+              ],
+              "weights": [
+                78,
+                18,
+                4
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "ItemCrafting"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 5
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                66,
+                34
+              ]
+            }
+          },
+          {
+            "type": "Item",
             "itemTypeResolver": {
               "resolverType": "Fixed",
               "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                5,
-                5
-              ]
+              "resolverType": "Fixed",
+              "amount": 1
             },
             "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                0,
+                50,
+                50,
+                0
+              ]
             }
           },
           {
             "type": "Item",
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_basic"
+              "entityId": "hero_limitbreak_alpha"
             }
           }
         ]
       },
       {
-        "id": "tasklist_rue_chapter_1",
+        "id": "mimic_food_green",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_green_common",
+                "trainer_green_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_food_blue",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_blue_common",
+                "trainer_blue_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_food_yellow",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_yellow_common",
+                "trainer_yellow_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_food_purple",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_purple_common",
+                "trainer_purple_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_food_red",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_food_tiny",
+                "refill_food_small",
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_red_common",
+                "trainer_red_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_2",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_food_tiny"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_common"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_3",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_alliance_full"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_4",
         "entities": [
           {
             "type": "Resource",
@@ -42109,21 +42551,121 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 10
+              "amount": 100
             }
           },
           {
             "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_basic"
+              "entityId": "refill_energy_pve_full"
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_alliance_full"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_5",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_elite_hero"
             }
           },
           {
             "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "trainer_rainbow_common"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_6",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pve_full"
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_alliance_full"
+            }
+          }
+        ]
+      },
+      {
+        "id": "tasklist_rue_chapter_7",
+        "entities": [
+          {
+            "type": "Resource",
+            "resourceResolver": {
+              "resolverType": "Fixed",
+              "resourceType": "Gems"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 500
             }
           }
         ]
@@ -44541,6 +45083,64 @@
       {
         "id": "lunar_aftermath_rare_dragon_yellow",
         "seasonalSpiritItemId": "lottery_seasonal_summon_spirit_lunar_new_year",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "allianceCoinWeights": [
+          0
+        ]
+      },
+      {
+        "id": "beach_party_aftermath_rare",
+        "seasonalSpiritItemId": "lottery_seasonal_summon_spirit_beach_party",
         "mapSeasonCoinsWeights": [
           0,
           0,
@@ -47502,5 +48102,5 @@
       }
     ]
   },
-  "lootsConfigId": 3974885180
+  "lootsConfigId": 1663906495
 }

@@ -7,6 +7,8 @@
   "Astral Summon": "Астральныи призыв",
   "Black Friday Summon": "Призыв чернои пятницы",
   "Event Summon": "Призыв события",
+  "Charming Costume Summon": "Призыв очаровательного костюма",
+  "Classic Costume Summon": "Призыв классического костюма",
   "Costume Summon": "Призыв костюма",
   "Covenant Summon": "Заветныи призыв",
   "Daily Summon": "Ежедневныи призыв",
@@ -31,6 +33,7 @@
   "Underwild Summon": "Призыв Бездны",
   "Dunes Summon": "Призыв дюн",
   "Seasonal Summon": "Сезонныи призыв",
+  "Sunbay Summon": "Солнечныи призыв",
   "Sanguine Summon": "Кровавыи призыв",
   "Fortune Summon": "Призыв удачи",
   "Shadow Summon": "Призыв тенеи",
@@ -46,5 +49,6 @@
   "Untold Tales Summon": "Призыв нерассказанных истории",
   "Mysteries of the Deep": "Таины глубин",
   "Treasures of Flame and Frost": "Сокровища пламени и мороза",
+  "Welcome Back Summon": "Призыв возвращения",
   "Wilderness Summon": "Дикии призыв"
 }

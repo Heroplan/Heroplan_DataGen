@@ -7,12 +7,12 @@
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Peluang untuk meningkatkan durasi efek status rapalan."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} giliran: {1}%"
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Jika karakter ini memiliki Momentum Penerbangan dalam jumlah berapa pun, dia akan menerima:
-Hingga {MAXMANAGENERATIONMODIFIER}% generasi mana.
+Hingga {MAXMANAGENERATIONMODIFIER}% generasi mana ekstra.
 Peluang ekstra hingga {MAXDODGEMODIFIER}% untuk berkelit. 
 Efeknya akan berkurang jika karakter Momentum Penerbangan berkurang."
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","Momentum Penerbangan {CHARGE}%
 Saat ini, karakter ini memiliki:
-{MANAGENERATIONMODIFIER}% generasi mana.
+{MANAGENERATIONMODIFIER}% generasi mana ekstra.
 Peluang ekstra {DODGEMODIFIER}% untuk berkelit."
 "herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Meraih {POWER}% mana di awal tiap giliran jika sekutu di medan tempur efek Layunya aktif."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Setiap {TURNS} giliran, membangkitkan semua sekutu yang kalah dengan {POWER}% HP."
@@ -26,8 +26,11 @@ Peluang ekstra {DODGEMODIFIER}% untuk berkelit."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Menimbulkan {DAMAGEPERTURN} kerusakan ke semua Antek dan Antek Mega musuh di awal tiap giliran."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Menimbulkan {DAMAGEPERTURN} kerusakan ke semua Antek dan Antek Mega musuh di awal tiap giliran."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Semua kerusakan dari serangan normal dan Keahlian Khusus yang ditimbulkan karakter ini naik sebesar {DAMAGEINCREASEPERSTEP}% per {INSANITYPERSTEP} Kegilaan pada karakter ini hingga {MAXDAMAGEINCREASE}%."
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Saat Pahlawan Terhubung terkena Keahlian Khusus, genjotan yang bisa dienyahkan dengan sisa durasi terpendek akan dihapus untuk mengurangi kerusakan yang diterima sebesar {DAMAGEREDUCTION}%. Jika Pahlawan Terhubung memiliki {INCREASEDDAMAGEREDUCTIONTHRESHOLD}% kesehatan atau kurang, kerusakan berkurang sebesar {INCREASEDDAMAGEREDUCTION}% sebagai gantinya."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Semua kerusakan dari serangan normal dan Keahlian Khusus yang ditimbulkan karakter ini naik sebesar {MODIFIER}% per tumpukan Lili Berdarah pada sasaran."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Jika ada sekutu yang Menari, Keahlian Khusus karakter ini menimbulkan kerusakan {MODIFIERCHANGE}% lebih banyak."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","Keahlian Khusus, Antek Mega, dan Antek karakter ini menimbulkan peningkatan kerusakan pada musuh yang terkena pelemahan apa pun yang menimbulkan kerusakan Air.
+{MODIFIERS}"
 "herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Pasukan karakter ini menimbulkan kerusakan ekstra terhadap elemen yang lebih lemah.
 
 Kerusakan ekstra yang ditimbulkan: +{MODIFIER}%"
@@ -67,6 +70,15 @@ Setiap efek ini dapat diaktifkan sekali per giliran."
 "herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Saat karakter ini dikalahkan oleh Keahlian Khusus, dia melakukan tindakan berikut:
 Penyerang menerima {DAMAGE}% kerusakan.
 Penyerang menerima kerusakan {STATUSEFFECT1DAMAGE} Berdarah selama {TURNS} giliran."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.activates_always.multiple_effects","Saat karakter ini kehilangan lebih dari {DAMAGETHRESHOLD}% kesehatan maksimal sekaligus, efek berikut ini aktif."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.bufftoremove.allstatuseffectsandstacks.from.single.allies.remove_growth.remove_wither","Karakter ini merapal Penghapusan Penuh pada dirinya sendiri."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.chance_description","Keahlian Pasif ini berpeluang {CHANCE}% untuk aktif saat karakter ini kehilangan lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus:"
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.chance_description.decrease_chance_per_activation","Saat karakter ini kehilangan lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, efek berikut ini aktif. Peluang aktivasi adalah {CHANCE}% dan berkurang sebesar {CHANCEMODIFIERPERACTIVATION}% setelah setiap aktivasi."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_blue","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_green","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
+"herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Karakter ini mendapat {HEALTHBOOST}% peningkatan kesehatan dan {MANA}% mana jika berhasil menampik."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Karakter ini meraih {POWER}% mana setiap kali musuh merapal Keahlian Khusus yang secara langsung meningkatkan kesehatan."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Karakter ini meraih {POWER} peningkatan kesehatan setiap kali musuh merapal Keahlian Khusus yang secara langsung meningkatkan kesehatan."
@@ -74,7 +86,7 @@ Penyerang menerima kerusakan {STATUSEFFECT1DAMAGE} Berdarah selama {TURNS} gilir
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Saat karakter ini mencetak pukulan kritis dengan Keahlian Khusus, dia membersihkan status pelemahan terbaru yang bisa dibersihkan dari semua sekutu."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Saat karakter ini mencetak pukulan kritis dengan Keahlian Khusus, kesehatan semua sekutunya meningkat {HEALTHBOOST}%."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Saat karakter ini mencetak pukulan kritis dengan Keahlian Khusus, kesehatan semua sekutunya meningkat {HEALTHBOOST}%"
-"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Saat seorang sekutu merapal Keahlian Khususnya, karakter ini menimbulkan {POWER}% kerusakan dan memberikan {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% pertahanan selama {DIRECTEFFECT1STATUSEFFECT1TURNS} giliran kepada satu musuh acak."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Saat sekutu lain merapal Keahlian Khusus, karakter ini menimbulkan {POWER}% kerusakan kepada musuh acak. Musuh sasaran menerima {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% pertahanan selama {DIRECTEFFECT1STATUSEFFECT1TURNS} giliran."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Saat musuh merapal Keahlian Khusus, karakter ini berpeluang {CHANCE}% untuk meningkatkan kesehatan karakter ini sebesar {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Saat karakter ini merapal Keahlian Khususnya, karakter ini berpeluang {CHANCE}% untuk memberikan {POWER}% mana kepada semua sekutu. Jika Keahlian Khusus terisi penuh, peluangnya {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Saat karakter ini merapal Keahlian Khususnya, karakter ini berpeluang {CHANCE}% untuk memberikan {POWER}% mana kepada semua sekutu yang bukan elemen Es. Jika Keahlian Khusus terisi penuh, peluangnya {CHANCEFULLYCHARGED}%."
@@ -107,6 +119,9 @@ Penyerang menerima kerusakan {STATUSEFFECT1DAMAGE} Berdarah selama {TURNS} gilir
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Saat Iblis dipanggil ke musuh mana pun, karakter ini meraih {POWER}% mana. Efek ini hanya dapat diaktifkan sekali per giliran."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Saat Iblis dipanggil ke musuh mana pun, karakter ini memberikan {DAMAGE}% kerusakan pada semua musuh. Efek ini hanya dapat diaktifkan sekali per giliran."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Saat Iblis dipanggil ke musuh mana pun, karakter ini meraih {POWER} peningkatan kesehatan. Efek ini hanya dapat diaktifkan sekali per giliran."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Bonus Dinamika Pasukan:
+ Keahlian Khusus Pahlawan Tertaut dapat menimbulkan pukulan kritis dengan kerusakan +50% lebih banyak.
+ Peluang pukulan kritis meningkat sebesar {PASSIVESKILL2CRITICALMODIFIER}%."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% peluang untuk melakukan aksi tambahan ketika karakter menggunakan Keahlian Khusus."
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Semua Antek musuh memiliki akurasi {MINIONMODIFIER}%.
 Semua Antek Mega musuh memiliki akurasi {MEGAMINIONMODIFIER}%."
@@ -116,7 +131,9 @@ Inti Antek aktif setiap kali Keahlian Khusus karakter ini dirapal:
 
  Dengan Inti Antek yang terisi penuh, memanggil Antek Bot Pembunuh dengan {FAMILIARHEALTHPERCENT}% HP dan serangan {FAMILIARATTACK}% yang diwarisi dari perapal pada semua sekutu.
  HP dan serangan yang diwarisi dari perapal diskalakan berdasarkan jumlah muatan di Inti. Semua muatan akan habis saat Inti diaktifkan.
- Sebelum Antek Bot Pembunuh mengenai sasaran, ia menghancurkan semua Antek sasaran dan merusak Antek Mega."
+ Sebelum Antek Bot Pembunuh mengenai sasaran, ia menghancurkan semua Antek sasaran dan merusak Antek Mega.
+Antek Bot Pembunuh memulihkan {FAMILIARHEAL}% kesehatan untuk pemiliknya di akhir setiap giliran.
+Layu: Setiap serangan dari Antek Bot Pembunuh memberi targetnya {ATTACKMODIFIER} serangan."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Inti Konstruksi karakter ini adalah Inti Antek.
 
 Inti Antek aktif setiap kali Keahlian Khusus karakter ini dirapal:
@@ -131,6 +148,7 @@ Inti Antek aktif setiap kali Keahlian Khusus karakter ini dirapal:
 "herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","Antek musuh tidak bisa menyerang atau menggunakan keahlian."
 "herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","Karakter ini meraih {POWER}% mana setiap kali musuh mengalami kerusakan Beku."
 "herocard.passive_skill.description.growth","Serangan dasar dan pertahanan dasar Pahlawan ini bertambah {STATINCREASE} setiap giliran selama {MAXACTIVATIONCOUNT} giliran."
+"herocard.passive_skill.description.growthmodifieronspecial.from.all.enemies","Setiap kali Pahlawan ini merapal Keahlian Khusus, efek Bertumbuh semua musuh dikurangi sebesar {BASEATTACKMODIFIER}%."
 "herocard.passive_skill.description.guaranteedeffectonspecial","Saat karakter ini merapal Keahlian Khususnya, setiap Keahlian Pasifnya yang memberikan efek ekstra pada perapalan dijamin akan aktif."
 "herocard.passive_skill.description.heal.all.allies","Memulihkan kesehatan {HEALTH}% untuk semua sekutu."
 "herocard.passive_skill.description.healmodifier","Tambahan {HEALMULTIPLIER}% untuk setiap penyembuhan yang diterima."
@@ -170,18 +188,22 @@ Inti Antek aktif setiap kali Keahlian Khusus karakter ini dirapal:
 "herocard.passive_skill.description.memorizestatuseffects#3","Karakter ini punya kemampuan alami untuk Menghafal status pelemahan. {0} status pelemahan terakhir yang dirapal atas karakter ini akan dihafal hingga Keahlian Khusus dirapal. Hanya status pelemahan dengan durasi yang bisa dihafal."
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Setiap Mimik unik di tim Anda dapat memberikan jarahan ekstra saat menyelesaikan tahap. Mimik ini memberikan peluang mendapatkan jarahan ekstra berikut:"
 "herocard.passive_skill.description.minioncorruption.all.enemies","Di akhir setiap giliran, musuh dengan Kegilaan berpeluang mengubah Antek mereka berubah menjadi Iblis. Mencapai {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Kegilaan mengaktifkan transformasi secara otomatis.
+
  Antek akan berubah menjadi Iblis Eldritch: {FAMILIAR1FAMILIARATTACK}% serangan, {FAMILIAR1FAMILIARHEALTHPERCENT}% kesehatan, menimbulkan {FAMILIAR1INSANITYTOADD} Kegilaan setiap giliran
 Antek Mega akan berubah menjadi Iblis Mega Eldritch: {FAMILIAR2FAMILIARATTACK}% serangan, {FAMILIAR2FAMILIARHEALTHPERCENT}% kesehatan, menimbulkan {FAMILIAR2INSANITYTOADD} Kegilaan setiap giliran."
 "herocard.passive_skill.description.nevermissspecial","Keahlian Khusus karakter ini tidak pernah meleset dari sasaran."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Bonus Dinamika Pasukan:
+ Penyembuhan langsung yang dilakukan oleh Keahlian Khusus Pahlawan Terhubung meningkat sebesar {PASSIVESKILL1HEALMULTIPLIER}%.
+ Saat Pahlawan Terhubung merapal Keahlian Khusus, semua sekutu memperoleh kekebalan terhadap pengurangan kesehatan maksimal selama {PASSIVESKILL2TURNS} giliran."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Kesehatan musuh tidak dapat bertambah melebihi kesehatan maks. mereka"
 "herocard.passive_skill.description.ransack","Di awal tiap giliran, karakter ini Menggeledah satu musuh acak:
 
 Mencuri {DAMAGE} kesehatan.
-Dengan aman mencuri genjotan, efek Bertumbuh, atau genjotan tumpukan positif dari musuh. Ini termasuk genjotan yang tidak bisa dienyahkan dan efek tarian."
+Dengan aman mencuri genjotan dari musuh. Ini termasuk efek Bandel, genjotan yang tidak bisa dienyahkan, dan efek Tarian."
 "herocard.passive_skill.description.ransack.chance","Di awal tiap giliran, karakter ini berpeluang {CHANCE}% untuk Menggeledah satu musuh acak:
 
 Menggeledah:Mencuri {DAMAGE} kesehatan.
-Dengan aman mencuri satu efek Bertumbuh acak, Tumpukan positif, atau genjotan efek status dari musuh. Ini termasuk genjotan yang tidak bisa dienyahkan dan efek Tarian.
+Dengan aman mencuri satu efek Bertumbuh acak, Tumpukan positif, atau genjotan efek status dari musuh. Ini termasuk efek Bandel, genjotan yang tidak bisa dienyahkan, dan efek Tarian.
 Pencurian aman melewati efek sekunder, seperti kerusakan saat dihapus, dari genjotan yang dihapus. Keahlian pasif dan efek keluarga masih dapat diaktifkan."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Saat karakter ini merapal Keahlian Khususnya, dia berpeluang {CHANCE}% untuk mencuri genjotan terbaru yang bisa dienyahkan dari musuh acak yang memiliki genjotan. Jika musuh tidak memiliki genjotan, ini menimbulkan {DAMAGE}% kerusakan ke semua musuh."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Saat karakter ini merapal Keahlian Khususnya, dia berpeluang {CHANCE}% untuk mencuri genjotan terbaru yang bisa dienyahkan dari musuh acak yang memiliki genjotan. Jika musuh tidak memiliki genjotan, ini menimbulkan kerusakan {DAMAGE}% kepada semua musuh."
@@ -206,14 +228,22 @@ The Inti Reparasi aktif setiap kali Keahlian Khusus karakter ini dirapal:
  Dengan Inti Reparasi terisi penuh, kesehatan semua sekutu meningkat {CHARGEDPOWER1}%. 
  Penyembuhan diskalakan dengan jumlah cas di Inti. Semua cas habis saat Inti diaktifkan."
 "herocard.passive_skill.description.repeatspecial","Berpeluang {REPEATCHANCE}% merapal Keahlian Khusus pahlawan ini {REPEATS} kali."
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Bonus Dinamika Pasukan:
+Pahlawan Terhubung memiliki {REPEATCHANCE}% peluang untuk menjadi Hoki! dan merapal Keahlian Khusus {REPEATS} kali berturut-turut.
+ Jika ada efek Hoki! lain yang aktif, Pasukan ini meningkatkan peluang sebesar {REPEATCHANCEMODIFIER}%."
 "herocard.passive_skill.description.resist.accuracymodifiers","Karakter ini kebal terhadap status pelemahan yang memengaruhi akurasi. Tidak berlaku untuk efek status asli dari sekutu."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Karakter ini punya kebal terhadap status pelemahan dan tumpukan negatif."
+"herocard.passive_skill.description.resist.alldebuffs.blue.alldebuffs","Karakter ini punya kebal terhadap status pelemahan dan tumpukan negatif yang dirapal oleh karakter Es."
 "herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan dan pengenyahan genjotan."
+"herocard.passive_skill.description.resist.alldebuffs.green.alldebuffs","Karakter ini punya kebal terhadap status pelemahan dan tumpukan negatif yang dirapal oleh karakter Alam."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan, pengurangan mana, pengenyahan genjotan, dan efek Layu."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan, pengurangan mana, pengenyahan genjotan, dan Kegilaan."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan, pengurangan mana, dan pengenyahan genjotan."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan, pengurangan mana, dan pengenyahan genjotan. Dapatkan {MANA}% mana setiap kali berhasil menampik."
+"herocard.passive_skill.description.resist.alldebuffs.purple.alldebuffs","Karakter ini punya kebal terhadap status pelemahan dan tumpukan negatif yang dirapal oleh karakter Gelap."
+"herocard.passive_skill.description.resist.alldebuffs.red.alldebuffs","Karakter ini punya kebal terhadap status pelemahan dan tumpukan negatif yang dirapal oleh karakter Api."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan."
+"herocard.passive_skill.description.resist.alldebuffs.yellow.alldebuffs","Karakter ini punya kebal terhadap status pelemahan dan tumpukan negatif yang dirapal oleh karakter Suci."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Karakter ini kebal terhadap status pelemahan yang memengaruhi pertahanan. Berlaku untuk status pelemahan yang memengaruhi pertahanan elemen."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Karakter ini kebal terhadap status pelemahan, tumpukan, dan efek Layu yang memengaruhi pertahanan."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","Karakter ini tidak terpengaruh oleh efek yang meningkatkan atau mengurangi pertahanan.
@@ -269,6 +299,7 @@ Ini termasuk
 "herocard.passive_skill.description.resist.manareduction","Karakter ini kebal terhadap pengurangan mana."
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","Peluang ekstra {CHANCE}% untuk menampik pengurangan mana."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Karakter ini kebal terhadap pengurangan mana serta meraih {HEALTHBOOST} peningkatan kesehatan dan {MANA}% mana tiap kali menampik."
+"herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Karakter ini kebal terhadap pencurian dan Geledah."
 "herocard.passive_skill.description.resist.maxhealthreduction","Karakter ini kebal terhadap pengurangan kesehatan maks."
 "herocard.passive_skill.description.resist.poison","Karakter ini kebal terhadap status pelemahan yang menimbulkan kerusakan Racun."
 "herocard.passive_skill.description.resist.poison.burn.bleed","Karakter ini kebal terhadap status pelemahan yang menimbulkan kerusakan Racun, Terbakar, atau Berdarah."
@@ -279,6 +310,7 @@ Ini termasuk
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Karakter ini kebal terhadap status pelemahan yang mencegah penggunaan Keahlian Khusus serta meraih {HEALTHBOOST} peningkatan kesehatan dan {MANA}% mana tiap kali menampik."
 "herocard.passive_skill.description.resist.stopmanageneration","Karakter ini kebal terhadap status pelemahan yang menghentikan generasi mana."
 "herocard.passive_skill.description.resist.water","Karakter ini kebal terhadap status pelemahan yang menimbulkan kerusakan Air."
+"herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","Karakter ini kebal terhadap status pelemahan yang menimbulkan kerusakan Air serta meraih {HEALTHBOOST} peningkatan kesehatan dan {MANA}% mana tiap kali menampik."
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Karakter ini kebal terhadap status pelemahan yang berasal dari Antek."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Karakter ini kebal terhadap efek yang akan menghilangkan Antek darinya."
 "herocard.passive_skill.description.resistnegativefamiliareffects.minion","Karakter ini punya kebal terhadap efek negatif dan kerusakan dari Antek."
@@ -288,34 +320,25 @@ Ini termasuk
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","Peluang ekstra {CHANCE}% untuk menampik semua status pelemahan."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","Peluang bangkit berkurang untuk semua musuh dalam pertempuran. Peluangnya {MODIFIER}% dari nilai asli."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Semua musuh memiliki kesehatan {HEALTHMODIFIER}% saat dihidupkan kembali. Musuh bos tidak terpengaruh."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Jika kalah, karakter ini berpeluang terlahir sebagai Inang Eldritch. Peluangnya {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} Kegilaan pada karakter ini, hingga peluang maks {MAXCHANCEINCREASE}%.
-
-Inang Eldritch memiliki 
-{INHERITEDHEALTH}% kesehatan yang diwarisi. 
-{ATTACK} serangan.
-{DEFENSE} pertahanan.
-Keahlian Khusus berikut:
-
-{ALTERNATIVEFORMSPECIALTITLE}
-{ALTERNATIVEFORMSPECIALDESCRIPTION}
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Jika kalah, karakter ini berpeluang terlahir sebagai Inang Eldritch. Peluangnya {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} Kegilaan pada karakter ini, hingga peluang maks {MAXCHANCEINCREASE}%. 
 
 Jika karakter ini mengalahan diri sendiri saat Kegilaan diaktifkan, peluangnya untuk terlahir kembali selalu {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Jika kalah, karakter ini berpeluang terlahir sebagai Inang Eldritch. Peluangnya {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} Kegilaan pada karakter ini, hingga peluang maks {MAXCHANCEINCREASE}%. 
 
 Inang Eldritch memiliki 
-{INHERITEDHEALTH}% kesehatan yang diwarisi. 
+{INHERITEDHEALTH}% kesehatan yang diwarisi, maks. {MAXBASEHEALTH} HP. 
 {ATTACK} serangan.
 {DEFENSE} pertahanan.
 Keahlian Khusus berikut: 
 
-{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALTITLE} ({ALTERNATIVEFORMMANASPEED})
 {ALTERNATIVEFORMSPECIALDESCRIPTION}"
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Saat kalah, karakter ini berpeluang {TOTALCHANCE}% untuk dibangkitkan di awal giliran berikutnya dengan kesehatan {HEALTH}% dan mana {MANA}%. 
 
 Aktif hingga {MAXACTIVATIONCOUNT} kali. Peluang untuk bangkit berkurang setiap aktivasi. Tidak bisa dicegah dengan status pelemahan atau Keahlian Pasif."
-"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Saat kalah, karakter ini berpeluang {TOTALCHANCE}% untuk dibangkitkan di awal giliran berikutnya dengan kesehatan {HEALTH}% dan mana {MANA}%. 
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.allowrevivedebuffs","Saat kalah, karakter ini berpeluang {TOTALCHANCE}% untuk dibangkitkan di awal giliran berikutnya dengan kesehatan {HEALTH}% dan mana {MANA}%. 
 
-Aktif hingga {MAXACTIVATIONCOUNT} kali. Peluang untuk bangkit berkurang setiap aktivasi. Tidak bisa dicegah dengan status pelemahan atau Keahlian Pasif."
+Aktif hingga {MAXACTIVATIONCOUNT} kali. Peluang untuk bangkit berkurang setiap aktivasi."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Semua Balada yang dirapal oeh musuh hanya bertahan selama {TURNS} giliran."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Semua Tarian yang dirapal oeh musuh hanya bertahan selama {TURNS} giliran."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION}% kerusakan yang diterima karakter ini dibagi dengan semua sekutu lainnya."
@@ -344,12 +367,14 @@ Aktif hingga {MAXACTIVATIONCOUNT} kali. Peluang untuk bangkit berkurang setiap a
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Durasi {MAXACTIVATIONCOUNT} genjotan pertama yang diterima karakter ini dari Keahlian Khusus bertambah sebesar {DURATIONMODIFIER} giliran."
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","Saat status pelemahan dibersihkan dari pahlawan ini, salinan baru pelemahan yang dibersihkan itu akan diterapkan ke musuh acak."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Setiap kali Gargoyle ini merapal Keahlian Khusus, semua sekutu menerima Kulit Lembut. {MAXACTIVATIONS} kali berikutnya mereka mengalami kerusakan, akan berkurang {DAMAGEREDUCTION}%. Mereka juga kebal terhadap semua status pelemahan, pengurangan mana, dan Kegilaan. Efek ini tidak bisa dienyahkan."
-"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Setiap kali Gargoyle ini merapal Keahlian Khusus, Kulit Lembutnya aktif. {MAXACTIVATIONS} kali berikutnya mereka mengalami kerusakan, akan berkurang {DAMAGEREDUCTION}%. Mereka juga kebal terhadap semua status pelemahan, pengurangan mana, dan Kegilaan. Efek ini tidak bisa dienyahkan."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","Setelah merapal Keahlian Khusus, karakter ini Berkamuflase dan tidak dapat ditarget langsung oleh Keahlian Khusus musuh selama {TURNS} giliran. Efek ini tidak bisa dienyahkan atau direalokasi."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Setiap kali Gargoyle ini merapal Keahlian Khusus, Kulit Halus aktif."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","Setiap kali Gargoyle ini merapal Keahlian Khusus, Kulit Batunya mengeras. Kerusakan {MAXHITS} berikutnya yang dia terima turun menjadi 1. Efek ini tidak bisa dienyahkan."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.random.enemies.damageonhitreceived","Saat karakter ini merapal Keahlian Khususnya, ia menandai satu musuh acak dengan Suar Buruan selama {TURNS} giliran.
  Sasaran yang ditandai Suar Buruan akan menderita {FIXEDPOWER} kerusakan tambahan saat menerima satu pukulan kritis."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Saat karakter ini menggunakan Keahlian Khususnya, mereka mendapat {ATTACK}% serangan selama {TURNS} giliran. Efek ini bisa aktif selain efek lain yang mengubah serangan."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Sekali per pertempuran, elemen Pahlawan ini dapat diubah menjadi Elemen yang dipilih untuk {TURNS} giliran. Elemen dapat diubah dengan mengetuk Pahlawan ini ketika mananya tidak penuh."
+"herocard.passive_skill.description.stopchainstrikes","Keahlian Khusus yang berantai atau menyerang beberapa kali berhenti di karakter ini. Tidak menghentikan efek dari sekutu."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Memanggil Iblis Benih setiap giliran ke musuh acak.
 Iblis Benih berubah menjadi Iblis Tunas setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
 Iblis Tunas berubah menjadi Iblis Mega Mekar setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
@@ -431,11 +456,6 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Saat karakter ini kalah, dia memanggil Antek Mega Lendir ke sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Saat karakter ini kalah, dia memanggil Antek Mega Lendir ke sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Saat karakter ini kalah, dia memanggil Antek Mega Lendir ke sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Jika karakter ini kalah lebih dari {DAMAGETHRESHOLD}% dari kesehatan maks sekaligus, dia memanggil Antek Mega Lendir untuk diri sendiri dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan."
 "herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","Setiap kali karakter ini terkena status pelemahan Pembakaran, mereka memanggil seekor Antek Penjaga Hutan untuk mereka. Antek Penjaga Hutan mewarisi {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan dari karakter ini."
 "herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","Setiap kali karakter menerima status pelemahan Kerusakan seiring Waktu, dia memanggil Antek Tentara Kartu untuk diri sendiri. Antek Tentara Kartu mewarisi {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan dari karakter ini."
 "herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","Setiap kali karakter ini terkena status pelemahan yang memengaruhi pertahanan, mereka memanggil seekor Antek Banteng untuk mereka. Antek Banteng mewarisi {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan dari karakter ini."
@@ -464,7 +484,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Pelemahan pertahanan menjadi pertahanan {DEFENSE}% selama {TURNS} giliran."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Pengurangan penyembuhan menjadi peningkatan penyembuhan {HEALING}% selama {TURNS} giliran."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Pelemahan mana menjadi generasi mana {MANAREGEN}% selama {TURNS} giliran."
-"herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Pelemahan penambah kerusakan menjadi pengurangan kerusakan {DAMAGEREDUCTION}% selama {TURNS} giliran."
+"herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Pelemahan penambah kerusakan menjadi pengurangan {DAMAGEREDUCTION}% untuk kerusakan yang diterima selama {TURNS} giliran."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Pelemahan penampik genjotan menjadi genjotan penampik pelemahan selama {TURNS} giliran."
 "herocard.passive_skill.replace_direct_effect.attackwither","Layu Serangan menjadi Perkembangan Serangan: {FIXEDPOWER} serangan."
 "herocard.passive_skill.replace_direct_effect.defensewither","Layu Pertahanan menjadi Perkembangan Pertahanan: {FIXEDPOWER} pertahanan."
@@ -496,8 +516,10 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Pengubah Kritis"
 "herocard.passive_skill.title.critmodifier","Pengubah Peluang Kritis"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Dicap oleh Yang Lama"
+"herocard.passive_skill.title.damagereductionforstatuseffectsupportcharacter.troop.minorbuff","Pengorbanan Genjotan"
 "herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Tanda Optimis"
 "herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Penari Ganas"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single","Keperkasaan Hiu"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Penguasaan Pasukan"
 "herocard.passive_skill.title.debuffdamagereduction","Pengurangan Kerusakan Status Pelemahan"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Pengurangan Kerusakan Status Pelemahan"
@@ -507,6 +529,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","Tumpukan Khusus"
 "herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","Menghancurkan Iblis saat Khusus"
 "herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Makan Antek dan Mendapat Mana Seiring Waktu"
+"herocard.passive_skill.title.effectoncounterattack.statuseffects.bleeding","Sentuhan Perobek"
 "herocard.passive_skill.title.effectondamagedone.bufftoremove.minordebuff.latest.safe.specialskill.only_criticals.once","Membersihkan Saat Serangan Khusus Kritis"
 "herocard.passive_skill.title.effectondamagedone.healthboost.specialskill.only_criticals.once","Peningkatan Kesehatan Saat Serangan Khusus Kritis"
 "herocard.passive_skill.title.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill","Pemberontakan yang Benar"
@@ -528,6 +551,12 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Efek Status Saat Pengurangan Mana"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Efek Status Saat Pengurangan Mana"
 "herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Kekalahan Tak Terhormat"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.statuseffects.vengefulghoststatuseffectskill.bufftoremove.allstatuseffectsandstacks","Hantu Pendendam"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_blue","Pemisahan Antek Lendir"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_green","Pemisahan Antek Lendir"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Pemisahan Antek Lendir"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Pemisahan Antek Lendir"
+"herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Pemisahan Antek Lendir"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Peningkatan Kesehatan dan Mana Saat Menampik"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana Saat Keahlian Khusus Meningkatkan Kesehatan"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Meningkatkan Kesehatan Saat Kesehatan Musuh Meningkat"
@@ -545,10 +574,10 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.effectonspecialwithchance.healthboost","Peningkatan Kesehatan Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects","Efek Status Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.bleeding","Berdarah Saat Keahlian Khusus"
-"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.curseofdoom","Kutukan Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.damageovertime","Kerusakan Seiring Waktu Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.extradamageagainstboostedhealth","Peningkatan Kerusakan terhadap Peningkatan Kesehatan"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.huntersmark","Kerusakan Seiring Waktu Saat Keahlian Khusus"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.increasingcurse","Kutukan Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Efek Status Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Racun Saat Keahlian Khusus"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Serangan Awur Saat Keahlian Khusus"
@@ -570,6 +599,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","Peningkatan Kesehatan Saat Menghapus Efek Status"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","Kerusakan Saat Menghapus Efek Status"
 "herocard.passive_skill.title.effectovertime.revival","Bangkit Seiring Waktu"
+"herocard.passive_skill.title.effectovertime.statuseffects.mesmerize","Hujan Bunga Berbisik"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","Mana per Genjotan Musuh"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.healthboost.everyturn.per.poison.statuseffectdebuffs.enemies","Peningkatan Kesehatan Saat Terkena Racun"
 "herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Mana Saat Memanggil Antek"
@@ -578,6 +608,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Amarah Piaraan"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Meningkatkan Kesehatan Saat Memanggil Iblis"
 "herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Toon yang Diperkuat"
+"herocard.passive_skill.title.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Keuntungan Kritis"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Antek Buta"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Inti Antek"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Antek Mega Lebih Lemah"
@@ -587,6 +618,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","Mana Saat Beku"
 "herocard.passive_skill.title.glass_reflect_debuffs","Kaca"
 "herocard.passive_skill.title.growth","Bertumbuh"
+"herocard.passive_skill.title.growthmodifieronspecial.from.all.enemies","Kurangi Pertumbuhan"
 "herocard.passive_skill.title.guaranteedeffectonspecial","Jaminan Efek Saat Keahlian Khusus"
 "herocard.passive_skill.title.healmodifier.all.enemies.decrease","Penyembuhan berkurang"
 "herocard.passive_skill.title.healonheal.heal","PENYEMBUHAN Ekstra"
@@ -616,6 +648,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Jarahan Mimik"
 "herocard.passive_skill.title.minioncorruption.all.enemies","Korupsi Antek"
 "herocard.passive_skill.title.nevermissspecial","Akurasi Sempurna"
+"herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Penyembuhan Lebih Besar"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Cegah Peningkatan Penyembuhan"
 "herocard.passive_skill.title.ransack","Kesempatan Pencuri"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Curi Genjotan"
@@ -628,10 +661,16 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.remove_wither_from_allies","Reli Penjaga"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Inti Reparasi"
 "herocard.passive_skill.title.repeat_special_once","Hoki"
+"herocard.passive_skill.title.repeatspecialsupportcharacter.troop","Hoki!"
 "herocard.passive_skill.title.resist.accuracymodifiers","Tampik Kebutaan"
 "herocard.passive_skill.title.resist.alldebuffs","Tampik Status Pelemahan"
 "herocard.passive_skill.title.resist.alldebuffs.alldebuffs","Tampik Semua Pelemahan"
+"herocard.passive_skill.title.resist.alldebuffs.blue.alldebuffs","Tampik Pelemahan Es"
+"herocard.passive_skill.title.resist.alldebuffs.green.alldebuffs","Tampik Pelemahan Alam"
 "herocard.passive_skill.title.resist.alldebuffs.manareduction.buffdispels","Penampikan Puncak"
+"herocard.passive_skill.title.resist.alldebuffs.purple.alldebuffs","Tampik Pelemahan Gelap"
+"herocard.passive_skill.title.resist.alldebuffs.red.alldebuffs","Tampik Pelemahan Api"
+"herocard.passive_skill.title.resist.alldebuffs.yellow.alldebuffs","Tampik Pelemahan Suci"
 "herocard.passive_skill.title.resist.alldefensemodifiers.alldebuffs","Tampik Pelemahan Pertahanan"
 "herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs","Tampik Pengurangan Pertahanan"
 "herocard.passive_skill.title.resist.allmanaeffects.alldebuffs","Tampik Pelemahan Mana"
@@ -660,6 +699,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Tampik Pelemahan Generasi Mana"
 "herocard.passive_skill.title.resist.manareduction","Tampik Pengurangan Mana"
 "herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Tampik Pengurangan Mana yang Diberdayakan"
+"herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Tampik Pencurian"
 "herocard.passive_skill.title.resist.maxhealthreduction","Tampik Pengurangan Kesehatan Maks"
 "herocard.passive_skill.title.resist.poison","Tampik Racun"
 "herocard.passive_skill.title.resist.poison.burn.bleed","Tampik Racun, Terbakar, dan Berdarah"
@@ -669,6 +709,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Berdaya Tampik Pemblokiran Serangan Khusus"
 "herocard.passive_skill.title.resist.stopmanageneration","Tampik Penghentian Generasi Mana"
 "herocard.passive_skill.title.resist.water","Tampik Air"
+"herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Tampik Air Diperkuat"
 "herocard.passive_skill.title.resist_all_attack_effects","Sifat:
 Bingkai Mungil"
 "herocard.passive_skill.title.resist_all_defense_effects","Sifat: 
@@ -722,11 +763,13 @@ Bingkai Lentur"
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Menambah Durasi Genjotan"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Menyalin Pelemahan saat Pembersihan"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Semangat Pemburu"
+"herocard.passive_skill.title.statuseffectonspecialcast.camouflage","Tabir Kelopak Ether"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","Tanda Pemburu Titan"
 "herocard.passive_skill.title.statuseffectonspecialcast.softskin","Kulit Halus Gargoyle"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Kulit Batu Gargoyle"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Genjotan Generasi Mana dari Pelemahan"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Topeng Elemen"
+"herocard.passive_skill.title.stopchainstrikes","Hentikan Serangan Berantai"
 "herocard.passive_skill.title.stylish","Bergaya!"
 "herocard.passive_skill.title.stylish_epic","Bergaya!"
 "herocard.passive_skill.title.stylish_legendary","Bergaya!"
@@ -742,11 +785,6 @@ Bingkai Lentur"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Antek Lendir saat Kalah"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Antek Lendir saat Kalah"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Antek Lendir saat Kalah"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_blue","Pemisahan Antek Lendir"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_green","Pemisahan Antek Lendir"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple","Pemisahan Antek Lendir"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red","Pemisahan Antek Lendir"
-"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Pemisahan Antek Lendir"
 "herocard.passive_skill.title.summononstatuseffectaddition.burn","Memanggil pada Pembakaran"
 "herocard.passive_skill.title.summononstatuseffectaddition.damageovertime","Memanggil saat Rusak Seiring Waktu"
 "herocard.passive_skill.title.summononstatuseffectaddition.defensemodifier","Memanggil Antek saat Pelemahan Pertahanan"

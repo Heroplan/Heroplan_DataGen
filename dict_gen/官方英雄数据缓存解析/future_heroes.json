@@ -1,6 +1,54 @@
 [
     {
-        "name": "Arco",
+        "name": "Ameonna Toon",
+        "fancy_name": "Lone Toon Ghost",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 4,
+        "family": "japanese",
+        "costume_id": 2,
+        "heroId": "s2_ghost_woman_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Danzaburo Toon",
+        "fancy_name": "Dauntless Toon",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 4,
+        "family": "japanese",
+        "costume_id": 2,
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Gobbler Toon",
+        "fancy_name": "Toon Chameleon General",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 4,
+        "family": "lagoon",
+        "costume_id": 2,
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Musashi Toon",
+        "fancy_name": "Toon Ronin",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "hotm2017",
+        "costume_id": 2,
+        "heroId": "holy_god_musashi_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Arco C1",
         "fancy_name": "gargoyle_arco_costume_brewer",
         "color": "Green",
         "Release date": "",
@@ -72,7 +120,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Peñolite",
+        "name": "Peñolite C1",
         "fancy_name": "gargoyle_penolite_costume_sacred",
         "color": "Yellow",
         "Release date": "",
@@ -84,7 +132,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Kemény",
+        "name": "Kemény C1",
         "fancy_name": "gargoyle_kemeny_costume_hardened",
         "color": "Purple",
         "Release date": "",
@@ -96,7 +144,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Quintin",
+        "name": "Quintin C1",
         "fancy_name": "Frosthunter of the Ravens",
         "color": "Blue",
         "Release date": "",
@@ -108,115 +156,67 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Joon",
-        "fancy_name": "Stylish Sun Monk",
+        "name": "Khagan Stylish",
+        "fancy_name": "Chief of Style",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "tribal_chief_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Gormek Stylish",
+        "fancy_name": "Stylish Connoisseur",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "orc_troopmaster_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Little John Stylish",
+        "fancy_name": "Stylish Brother",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Bane Stylish",
+        "fancy_name": "Stylish Brawler",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "oriental_enchanted_monk_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Domitia",
-        "fancy_name": "Stylish Sniper",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "magitech_sniper_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Colen",
-        "fancy_name": "Stylish Bounty Hunter",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "nomad_axe_adventurer_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Skittleskull",
-        "fancy_name": "Stylish Witch",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "goblin_mage_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cyprian",
-        "fancy_name": "Stylish Deathbound Lord",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "undead_captain_warrior_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kelile",
-        "fancy_name": "Stylish Priestess",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "nomad_female_berserker_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Prisca",
-        "fancy_name": "Stylish Warden",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 3,
         "family": "classic",
-        "costume_id": 1,
-        "heroId": "blackguard_female_captain_costume_stylish",
+        "costume_id": 5,
+        "heroId": "oriental_brawler_costume_stylish",
         "Lottery_Only": 1
     },
     {
-        "name": "Azar",
-        "fancy_name": "Seeker of Style",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "nomad_female_swordmaster_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Belith",
-        "fancy_name": "Stylish Spirit",
+        "name": "Berden Stylish",
+        "fancy_name": "Stylish Archer",
         "color": "Green",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 3,
         "family": "classic",
-        "costume_id": 1,
-        "heroId": "forest_female_spirit_costume_stylish",
+        "costume_id": 5,
+        "heroId": "forest_archer_costume_stylish",
         "Lottery_Only": 1
     },
     {
-        "name": "Belladonna",
+        "name": "Belladonna C1",
         "fancy_name": "bard_belladonna_costume_ratcatcher",
         "color": "Purple",
         "Release date": "",
@@ -228,7 +228,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Narcisa",
+        "name": "Narcisa C1",
         "fancy_name": "bard_narcisa_costume_gothic",
         "color": "Purple",
         "Release date": "",
@@ -240,7 +240,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ogima",
+        "name": "Ogima C1",
         "fancy_name": "bard_ogima_costume_bear_shaman",
         "color": "Yellow",
         "Release date": "",
@@ -252,7 +252,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Phenexa",
+        "name": "Phenexa C1",
         "fancy_name": "bard_phenexa_costume_valiant_knight",
         "color": "Red",
         "Release date": "",
@@ -264,7 +264,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Rhys",
+        "name": "Rhys C1",
         "fancy_name": "bard_rhys_costume_baroque",
         "color": "Yellow",
         "Release date": "",
@@ -276,7 +276,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zaria",
+        "name": "Zaria C1",
         "fancy_name": "Three-Eyed Enchanter",
         "color": "Red",
         "Release date": "",
@@ -288,31 +288,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zuni",
-        "fancy_name": "Hoverboard Mage",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_zuni_costume_mage",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Quinn",
-        "fancy_name": "Cosmic Alchemist",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_quinn_costume_alchemist",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Farrah",
+        "name": "Farrah C1",
         "fancy_name": "Cyber Blade Master",
         "color": "Purple",
         "Release date": "",
@@ -324,7 +300,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Niki",
+        "name": "Niki C1",
         "fancy_name": "Scythe Master of the Music",
         "color": "Red",
         "Release date": "",
@@ -336,7 +312,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ironmaw",
+        "name": "Ironmaw C1",
         "fancy_name": "Warlord of the Legion",
         "color": "Yellow",
         "Release date": "",
@@ -348,7 +324,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Desmond",
+        "name": "Desmond C1",
         "fancy_name": "Blade Assassin",
         "color": "Green",
         "Release date": "",
@@ -360,7 +336,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Jolt",
+        "name": "Jolt C1",
         "fancy_name": "Mythic Navigator",
         "color": "Blue",
         "Release date": "",
@@ -372,7 +348,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Gastille",
+        "name": "Gastille C1",
         "fancy_name": "Sporty Hazard",
         "color": "Purple",
         "Release date": "",
@@ -384,7 +360,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ash",
+        "name": "Ash C1",
         "fancy_name": "Savage Bounty Hunter",
         "color": "Red",
         "Release date": "",
@@ -396,7 +372,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Grilka",
+        "name": "Grilka C1",
         "fancy_name": "Treasured Quartermaster",
         "color": "Yellow",
         "Release date": "",
@@ -408,7 +384,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Craum",
+        "name": "Craum C1",
         "fancy_name": "Elemental Occultist",
         "color": "Green",
         "Release date": "",
@@ -420,7 +396,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Nylora",
+        "name": "Nylora C1",
         "fancy_name": "Jewelled Assassin",
         "color": "Blue",
         "Release date": "",
@@ -432,7 +408,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Vander",
+        "name": "Vander C1",
         "fancy_name": "Clown Captain",
         "color": "Purple",
         "Release date": "",
@@ -444,27 +420,51 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Rochefort",
-        "fancy_name": "Ruthless Rat-Catcher",
-        "color": "Purple",
+        "name": "Queen Anne C1",
+        "fancy_name": "Elegant Commander",
+        "color": "Green",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "musketeer",
         "costume_id": 1,
-        "heroId": "musketeer_rochefort_costume_ratcatcher",
+        "heroId": "musketeer_queen_anne_costume_commander",
         "Lottery_Only": 1
     },
     {
-        "name": "Constance",
-        "fancy_name": "Courageous Fusilier",
-        "color": "Yellow",
+        "name": "Cardinal Richelieu C1",
+        "fancy_name": "Duplicitous Ambassador",
+        "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "musketeer",
         "costume_id": 1,
-        "heroId": "musketeer_constance_costume_fusilier",
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Tethys Toon",
+        "fancy_name": "Toon Goddess of All Rivers",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 2,
+        "heroId": "s2_tethys_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Oceanus Toon",
+        "fancy_name": "Toon Titan of Sea",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 2,
+        "heroId": "s2_oceanus_costume_cute",
         "Lottery_Only": 1
     },
     {
@@ -612,39 +612,75 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Shar-alen",
-        "fancy_name": "Ruthless Frontline Lynx",
+        "name": "Vora",
+        "fancy_name": "Elder Lynx of the Whispering Peaks",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_vora",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Irme",
+        "fancy_name": "Crimson Isle Iriomote",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "wild_cat",
         "costume_id": 0,
-        "heroId": "wild_cat_sharalen",
+        "heroId": "wild_cat_irme",
         "Lottery_Only": 1
     },
     {
-        "name": "Rawn",
-        "fancy_name": "Cougar Burglar",
+        "name": "Tyrix",
+        "fancy_name": "The Serval of the Zenith Shadow",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_tyrix",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Mina",
+        "fancy_name": "Lonely Mountain Cat",
         "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "wild_cat",
         "costume_id": 0,
-        "heroId": "wild_cat_rawn",
+        "heroId": "wild_cat_mina",
         "Lottery_Only": 1
     },
     {
-        "name": "Sylosis",
-        "fancy_name": "Martial Artist Construct",
-        "color": "Green",
+        "name": "Ajatar",
+        "fancy_name": "Nightmare Goddess of Korpi",
+        "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
-        "family": "construct",
+        "family": "kalevala",
         "costume_id": 0,
-        "heroId": "construct_sylosis",
+        "heroId": "kalevala_ajatar",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kaski",
+        "fancy_name": "Maiden of Smoldering Swidden",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "kalevala",
+        "costume_id": 0,
+        "heroId": "kalevala_kaski",
         "Lottery_Only": 1
     },
     {
@@ -660,271 +696,55 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Achillea",
-        "fancy_name": "Fearless Gladiator Slime",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_achillea",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Hel",
-        "fancy_name": "Toon Celestial of Darkness",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "hotm2017",
-        "costume_id": 1,
-        "heroId": "dark_god_hel_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Athena",
-        "fancy_name": "Toon Celestial of Ice",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "hotm2017",
-        "costume_id": 1,
-        "heroId": "ice_god_athena_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tarlak",
-        "fancy_name": "Toon of the Jungle",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "lagoon",
-        "costume_id": 1,
-        "heroId": "s2_junglehunter_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Mitsuko",
-        "fancy_name": "Toon Beauty",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "japanese",
-        "costume_id": 1,
-        "heroId": "s2_noble_lady_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Inari",
+        "name": "Inari Toon",
         "fancy_name": "Nine-tailed Toon",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "japanese",
-        "costume_id": 1,
+        "costume_id": 2,
         "heroId": "s2_fox_girl_costume_cute",
         "Lottery_Only": 1
     },
     {
-        "name": "Kageburado",
-        "fancy_name": "Cursed Toonlord",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "japanese",
-        "costume_id": 1,
-        "heroId": "s2_cursed_samurai_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Atomos",
-        "fancy_name": "Toon Guardian of Atlantis",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_skyllaros_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ariel",
-        "fancy_name": "Toon Princess of Atlantis",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_ariel_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Poseidon",
-        "fancy_name": "Toon Ruler of Atlantis",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_poseidon_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ursena",
+        "name": "Ursena Toon",
         "fancy_name": "Toon of the Depths",
         "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "atlantis",
-        "costume_id": 1,
+        "costume_id": 2,
         "heroId": "s2_ursena_costume_cute",
         "Lottery_Only": 1
     },
     {
-        "name": "Agwe",
-        "fancy_name": "Toon Chameleon Shaman",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "lagoon",
-        "costume_id": 1,
-        "heroId": "s2_chameleon_mage_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Wilbur",
+        "name": "Wilbur Toon",
         "fancy_name": "Valiant Fishertoon",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 4,
         "family": "lagoon",
-        "costume_id": 1,
+        "costume_id": 2,
         "heroId": "s2_rugged_fisherman_costume_cute",
         "Lottery_Only": 1
     },
     {
-        "name": "Sumitomo",
-        "fancy_name": "Toon of Deceit",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "japanese",
-        "costume_id": 1,
-        "heroId": "s2_demon_master_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Proteus",
-        "fancy_name": "Toon Mage of Atlantis",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_proteus_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Gadeirus",
-        "fancy_name": "Atlantean Watcher Toon",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_atlantean_robot_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Gill-Ra",
-        "fancy_name": "Toon Hunter",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "lagoon",
-        "costume_id": 1,
-        "heroId": "s2_fiji_mermaid_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Melia",
-        "fancy_name": "Toon Mermaid",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_merwoman_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Mnesseus",
-        "fancy_name": "Toon Merman",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_merman_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Valen",
+        "name": "Valen Stylish",
         "fancy_name": "Stylish Duelist",
         "color": "Blue",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 3,
         "family": "classic",
-        "costume_id": 1,
+        "costume_id": 5,
         "heroId": "nordic_swordman_costume_stylish",
         "Lottery_Only": 1
     },
     {
-        "name": "Mok-Arr",
-        "fancy_name": "Savage Toon",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "lagoon",
-        "costume_id": 1,
-        "heroId": "s2_hammerhead_hulk_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Misandra",
-        "fancy_name": "Magnificent Toon",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "lagoon",
-        "costume_id": 1,
-        "heroId": "s2_mercenary_woman_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Aethslegaur",
+        "name": "Aethslegaur C1",
         "fancy_name": "Dwarven Soul Seeker",
         "color": "Red",
         "Release date": "",
@@ -936,27 +756,51 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Dularfulr",
-        "fancy_name": "Dwarven Dark Engineer",
+        "name": "Högne C1",
+        "fancy_name": "Dwarven Moon Knight",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "myrkheim",
+        "costume_id": 1,
+        "heroId": "tales2_hogne_costume_lunar",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Garnet C1",
+        "fancy_name": "Ninja of Flaming Vigor",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ninja",
+        "costume_id": 1,
+        "heroId": "ninja_garnet_costume_flame",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Zircon C1",
+        "fancy_name": "Ninja of Iron Waves",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ninja",
+        "costume_id": 1,
+        "heroId": "ninja_zircon_costume_iron",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Quartz C1",
+        "fancy_name": "Ninja of Ancient Graves",
         "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
-        "family": "nidavellir",
+        "family": "ninja",
         "costume_id": 1,
-        "heroId": "tales2_dularfulr_costume_engineer",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Dagr",
-        "fancy_name": "Dwarven Plague Shaman",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_dagr_costume_plague_shaman",
+        "heroId": "ninja_quartz_costume_investigate",
         "Lottery_Only": 1
     },
     {
@@ -981,18 +825,6 @@
         "family": "beauty_beast",
         "costume_id": 0,
         "heroId": "beauty_beast_jacquespierre",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Séraphine",
-        "fancy_name": "Beauty's Spiteful Sister",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_seraphine",
         "Lottery_Only": 1
     },
     {
@@ -1029,54 +861,6 @@
         "family": "beauty_beast",
         "costume_id": 0,
         "heroId": "beauty_beast_glamiera",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ivete",
-        "fancy_name": "Jealous Fairy of the Bewitched Castle",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_ivete",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ushal",
-        "fancy_name": "Astral Demon Cosmomage",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_ushal",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Dagny",
-        "fancy_name": "Vanguard of the Wilds",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_savanna",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Avestalon",
-        "fancy_name": "Trapper from the Rainforest",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_avestalon",
         "Lottery_Only": 1
     },
     {
@@ -1128,51 +912,15 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Amarosa",
-        "fancy_name": "Empress from the Outer Domain",
+        "name": "Maar",
+        "fancy_name": "Warden of the Rainforest",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
-        "family": "forsaken",
+        "family": "titan_hunter",
         "costume_id": 0,
-        "heroId": "forsaken_amarosa",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Troop Mimic",
-        "fancy_name": "Bounty of Dreadful Arsenal",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_troop_green",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Troop Mimic",
-        "fancy_name": "Bounty of Dreadful Arsenal",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_troop_yellow",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Troop Mimic",
-        "fancy_name": "Bounty of Dreadful Arsenal",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_troop_purple",
+        "heroId": "titan_hunter_maar",
         "Lottery_Only": 1
     },
     {
@@ -1189,7 +937,7 @@
     },
     {
         "name": "Axioma",
-        "fancy_name": "institute_axioma",
+        "fancy_name": "Scholar of Unseen Forces",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -1200,20 +948,8 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Nyctalos",
-        "fancy_name": "forsaken_nyctalos",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "forsaken",
-        "costume_id": 0,
-        "heroId": "forsaken_nyctalos",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Vermis",
-        "fancy_name": "forsaken_vermis",
+        "fancy_name": "The Worm King",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -1224,19 +960,223 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ajay",
-        "fancy_name": "Urumi Warrior",
+        "name": "Rudraditya",
+        "fancy_name": "The Sun Warrior",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_rudraditya",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kitou Sayomi",
+        "fancy_name": "Midnight Hunter Ronin",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_kitou_sayomi",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Featherweight",
+        "fancy_name": "Bipedal Reservoir Construct",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_featherweight",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Niso",
+        "fancy_name": "Asymmetric Security Construct",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_niso",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Elx",
+        "fancy_name": "Mage's Vessel Construct",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_elx",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Nepant",
+        "fancy_name": "Junkyard Squire Construct",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_nepant",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Food Mimic",
+        "fancy_name": "Flesh-eating Chest",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_food_green",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Food Mimic",
+        "fancy_name": "Flesh-eating Chest",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_food_blue",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Food Mimic",
+        "fancy_name": "Flesh-eating Chest",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_food_yellow",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Food Mimic",
+        "fancy_name": "Flesh-eating Chest",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_food_purple",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Zurrumurgh",
+        "fancy_name": "Astral Demon Spirit Whisperer",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_zurrumurgh",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Madarika",
+        "fancy_name": "Astral Demon Femme Fatale",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_madarika",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Tenzin Kiba",
+        "fancy_name": "Intimidator Ronin",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_tenzin_kiba",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Mizuno Seiko",
+        "fancy_name": "Shaman Ronin",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_mizuno_seiko",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Baji",
+        "fancy_name": "Bichuwa Assassin",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_baji",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Shaurya",
+        "fancy_name": "White Desert Warrior",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "mahayoddha",
         "costume_id": 0,
-        "heroId": "mahayoddha_ajay",
+        "heroId": "mahayoddha_shaurya",
         "Lottery_Only": 1
     },
     {
-        "name": "Alice",
+        "name": "Garlacteus",
+        "fancy_name": "Garlic Demolitionist",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_garlacteus",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Pepo",
+        "fancy_name": "Survivalist Pumpkin",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_pepo",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Alice C1",
         "fancy_name": "Croquet Princess of Wonderland",
         "color": "Blue",
         "Release date": "",
@@ -1260,7 +1200,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Rayne",
+        "name": "Rayne C1",
         "fancy_name": "Captain of the Ravens",
         "color": "Purple",
         "Release date": "",

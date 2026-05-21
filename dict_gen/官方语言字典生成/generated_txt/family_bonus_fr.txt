@@ -1,6 +1,13 @@
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage","Le héros gagne {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} d'humilité lorsqu'il subit des dégâts directs de compétences spéciales."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_damage.current","Ce personnage reçoit {CURRENTCHARGEFROMDAMAGE} effet(s) d'humilité lorsqu'il reçoit des dégâts directs de compétence spéciale."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal","Le héros gagne {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} d'humilité lorsqu'il reçoit des soins directs de compétences spéciales."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.from_heal.current","Ce personnage reçoit {CURRENTCHARGEFROMHEAL} effet(s) d'humilité lorsqu'il reçoit des soins directs de compétence spéciale."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end","Le héros gagne {1MEMBERCHARGEONTURNEND}/{2MEMBERSCHARGEONTURNEND}/{3MEMBERSCHARGEONTURNEND} d'humilité à la fin de chaque tour."
+"familybonuses.description.build_charge_beauty_beast.charge_gain.on_turn_end.current","Ce personnage gagne {CURRENTCHARGEONTURNEND} effet(s) d'humilité à la fin de chaque tour."
 "familybonuses.description.long.abyss","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %/{4MEMBERSCHANCE} %/{5MEMBERSCHANCE} % de chances d'invoquer une gemme du Souterrain sur le plateau lorsque ce héros lance sa compétence spéciale.
 Les gemmes du Souterrain infligent {FIXEDPOWER} points de dégâts à un ennemi aléatoire chaque tour, jusqu'à ce qu'elles soient associées.
 Les gemmes du Souterrain ne peuvent apparaître que sur les boucliers standard du même élément que ce héros."
+"familybonuses.description.long.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Gagne {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} % de mana lorsqu'une forme de fantôme de ce personnage expire."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","Ce personnage reçoit {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT} % de mana lorsqu'il subit des dégâts de compétence spéciale. Cet effet peut s'activer une fois par tour."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque."
 "familybonuses.description.long.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque."
@@ -15,12 +22,12 @@ Les gemmes du Souterrain ne peuvent apparaître que sur les boucliers standard d
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque."
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","Tous les alliés reçoivent un cumul de {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % d'attaque à chaque fois que ce personnage essaie de piller un ennemi. (Maximum de cumuls : {MAXSTACK}.)"
 "familybonuses.description.long.build_charge_beauty_beast","Les conditions d'humilité sont différentes pour chaque héros.
-Lorsque le héros utilise la version puissante de sa compétence spéciale, seule la quantité nécessaire d'humilité est consommée.
+Lorsque le héros utilise la version plus puissante de sa compétence spéciale, seule la quantité nécessaire d'humilité est consommée.
 Maximum d'humilité : 100.
 Bonus pour 1/2/3 héros uniques de la même famille :
-Le héros reçoit {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} point(s) d'humilité lorsqu'il subit des dégâts directs de compétence spéciale.
-Le héros reçoit {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} point(s) d'humilité lorsqu'il reçoit des soins directs de compétence spéciale."
+{CHARGEGAINS}"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Les conditions d'humilité sont différentes pour chaque héros.
+Lorsque le héros utilise la version puissante de sa compétence spéciale, seule la quantité nécessaire d'humilité est consommée.
 Le héros reçoit {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} point(s) d'humilité lorsqu'il subit des dégâts directs de compétence spéciale. Une fois par tour au maximum.
 Le héros reçoit {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} point(s) d'humilité lorsqu'il reçoit des soins directs de compétence spéciale. Une fois par tour au maximum."
 "familybonuses.description.long.build_charge_construct","Le noyau de golem se charge chaque fois que ce personnage subit des dégâts d'attaques normales ou de compétences spéciales."
@@ -31,7 +38,7 @@ Le héros reçoit {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHAR
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quand ce héros subit un effet négatif qui affecte la défense, il a {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances de le transmettre à tous les ennemis."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances d'augmenter la durée de chaque effet de danse de la fortune lancé par ce personnage de 1 tour."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % de dégâts de compétence spéciale."
-"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % de chances de purifier tous les effets négatifs purifiables pour ce personnage lorsqu'il subit des dégâts de compétence spéciale."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % de chances de purifier 1 effet négatif purifiable pour tous les alliés lorsqu'ils subissent des dégâts de compétence spéciale."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % de chances de purifier un effet négatif purifiable aléatoire pour ce personnage lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de chances de purifier un effet négatif purifiable aléatoire pour tous les alliés lorsque ce personnage reçoit des dégâts d'une compétence spéciale ennemie. Cet effet ne peut s'activer qu'une fois par tour."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances de riposter avec {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des dégâts reçus."
@@ -88,6 +95,7 @@ Minimum : {MINSTAT} % de la valeur d'origine. Maximum : {MAXSTAT} % de la va
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de santé"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de santé"
 "familybonuses.description.long.health_multiplier_jungle_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de PV."
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","Tous les alliés obtiennent un cumul de +{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL} régénération des PV chaque fois que ce personnage essaie d'envoûter un ennemi. (Cumuls max. : {STATUSEFFECT1MAXSTACK})"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de dégâts supplémentaires contre les méga sbires."
 "familybonuses.description.long.increased_damage_against_minions_2_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} % de dégâts supplémentaires contre les sbires."
 "familybonuses.description.long.increased_damage_against_minions_3_members","{1MEMBERMULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de dégâts supplémentaires contre les sbires."
@@ -136,7 +144,8 @@ Le héros reçoit le bonus d'une famille s'il est dans une équipe comportant au
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Le héros est associé à la famille magique.
 Le héros reçoit le bonus d'une famille s'il est dans une équipe comportant au moins 1 héros associé à la famille en question. Bonus pour 1/2/3/4/5 héros :
-"familybonuses.description.long.slime_familiar_attack_multiplier","Les méga sbires, sbires, méga démons et démons invoqués par les alliés reçoivent {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de santé en fonction du nombre de héros de la famille Gluants dans l'équipe."
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","Inflige {FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE} points de dégâts d'eau en {STATUSEFFECT1TURNS} tours à un ennemi qui inflige des dégâts de compétence spéciale à ce personnage."
+"familybonuses.description.long.slime_familiar_attack_multiplier","Les méga sbires, sbires, méga démons et démons invoqués par les alliés reçoivent {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque en fonction du nombre de héros de la famille Gluants dans l'équipe."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE} % de puissance de compétence spéciale."
 "familybonuses.description.long.start_battle_with_fox_minion","Au début du combat, invoque {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} sbires renards rusés pour le héros avec {FAMILIARHEALTHPERCENT} % de santé et {FAMILIARATTACK} % d'attaque hérités du héros.
 Le sbire renard rusé a {FAMILIARDODGECHANCE} % de chances d'esquiver les attaques.
@@ -158,6 +167,7 @@ Si ce personnage est vaincu par la compétence spéciale de l'ennemi, la probabi
 "familybonuses.description.members","(Membres de la famille : {0})"
 "familybonuses.description.members.realm","(Membres du royaume : {0})"
 "familybonuses.description.short.abyss","{CHANCE} % de chances d'invoquer une gemme du Souterrain sur le plateau lorsqu'une compétence spéciale est lancée. Les gemmes du Souterrain infligent {FIXEDPOWER} points de dégâts à un ennemi aléatoire à chaque tour."
+"familybonuses.description.short.add_mana_on_ghost_expired.addmana.single.allies.ghost.expiration","Gagne {MULTIPLIERPERCENT} % de mana lorsqu'une forme de fantôme de ce personnage expire."
 "familybonuses.description.short.add_mana_on_received_special_damage_astral_demons.onceperturn","Ce personnage reçoit {MULTIPLIERPERCENT} % de mana lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.short.attack_multiplier","{MULTIPLIERPERCENTCHANGE} % d'attaque"
 "familybonuses.description.short.attack_multiplier_champion","{MULTIPLIERPERCENTCHANGE} % d'attaque"
@@ -174,8 +184,7 @@ Si ce personnage est vaincu par la compétence spéciale de l'ennemi, la probabi
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Au début de chaque tour, l'ennemi qui a le plus de PV reçoit un lys de sang."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Au début de chaque tour, l'ennemi qui a le plus de PV reçoit un lys de sang."
 "familybonuses.description.short.buff_on_ransack_shady_scoundrels","Tous les alliés reçoivent un cumul d'attaque de {ATTACK} % lorsque ce personnage essaie de piller un autre personnage. (Maximum de cumuls : {MAXSTACK}.)"
-"familybonuses.description.short.build_charge_beauty_beast","Ce personnage reçoit {CURRENTCHARGEFROMDAMAGE} point(s) d'humilité lorsqu'il subit des dégâts directs de compétence spéciale.
-Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il reçoit des soins directs de compétence spéciale."
+"familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Ce personnage reçoit {CURRENTCHARGEFROMDAMAGE} point(s) d'humilité lorsqu'il subit des dégâts directs de compétence spéciale. Une fois par tour au maximum.
 Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il reçoit des soins directs de compétence spéciale. Une fois par tour au maximum."
 "familybonuses.description.short.build_charge_construct","Ce personnage charge son noyau de golem lorsqu'il subit des dégâts d'attaques normales ou de compétences spéciales."
@@ -186,7 +195,7 @@ Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il re
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quand ce héros subit un effet négatif qui affecte la défense, il a {CHANCE} % de chances de le transmettre à tous les ennemis."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % de chances d'augmenter la durée des effets appliqués de danse de la fortune de 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % de dégâts de compétence spéciale."
-"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de chances de purifier tous les effets négatifs purifiables de ce personnage lorsqu'il subit des dégâts de compétence spéciale."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de chances de purifier 1 effet négatif purifiable de tous les alliés lorsqu'ils subissent des dégâts de compétence spéciale."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de chances de purifier un effet négatif purifiable aléatoire pour ce personnage lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Quand un ennemi inflige des dégâts de compétence spéciale à ce personnage, il a {CHANCE} % de chances de purifier un effet négatif aléatoire pour tous les alliés. Cet effet ne peut s'activer qu'une fois par tour."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % de chances de riposter avec {MULTIPLIERPERCENT} % des dégâts reçus."
@@ -234,6 +243,7 @@ Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il re
 "familybonuses.description.short.health_multiplier_forsaken_and_institute","{MULTIPLIERPERCENTCHANGE} % de santé"
 "familybonuses.description.short.health_multiplier_jungle_hunters","{MULTIPLIERPERCENTCHANGE} % de PV"
 "familybonuses.description.short.health_stack","{CHANCE} % de chances de recevoir un cumul de soin +1 : +{BASESTACKCOUNT} PV à la fin de chaque tour"
+"familybonuses.description.short.hp_regen_on_mesmerize_dryad","Tous les alliés obtiennent un cumul de +{HEAL} régénération des PV chaque fois que ce personnage essaie d'envoûter un ennemi."
 "familybonuses.description.short.increased_damage_against_big_minions_3_members","{MULTIPLIERPERCENTCHANGE} % de dégâts supplémentaires contre les méga sbires."
 "familybonuses.description.short.increased_damage_against_minions_2_members","{MULTIPLIERPERCENTCHANGE} % de dégâts supplémentaires contre les sbires."
 "familybonuses.description.short.increased_damage_against_minions_3_members","{MULTIPLIERPERCENTCHANGE} % de dégâts supplémentaires contre les sbires."
@@ -280,6 +290,7 @@ Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il re
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE} % de chances de résister aux réductions de mana et aux effets négatifs affectant le mana. Reçoit {POWER} % de mana en cas de résistance."
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE} % de chances de résister aux réductions de mana et aux effets négatifs affectant le mana. Reçoit {POWER} % de mana en cas de résistance."
 "familybonuses.description.short.share_effects_from_atlantis","Le héros est associé à la famille de l'Atlantide. Le héros reçoit le bonus d'une famille s'il est dans une équipe comportant au moins 1 héros associé à la famille en question :
+"familybonuses.description.short.shark_debuffs_on_special_damage.underwater_shark_family","Lorsqu'un ennemi inflige des dégâts de compétence spéciale à ce personnage, il subit {DAMAGE} points de dégâts d'eau en {STATUSEFFECT1TURNS} tours."
 "familybonuses.description.short.slime_familiar_attack_multiplier","Les méga sbires, sbires, méga démons et démons reçoivent {MULTIPLIERPERCENTCHANGE} % d'attaque."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonus de l'année du rat : {MULTIPLIERPERCENTCHANGE} % de puissance de compétence spéciale"
 "familybonuses.description.short.start_battle_with_fox_minion","Invoque {FAMILIARAMOUNT} sbire renard rusé pour le lanceur au début du combat. Le sbire renard rusé a 80 % de chances d'esquiver les attaques. En cas d'esquive réussie, il vole le bonus dissipable le plus récent de l'attaquant et le donne à son propriétaire."
@@ -336,7 +347,8 @@ Ce héros bénéficie des avantages suivants pendant l'événement :"
 "herocard.family.description.eventherobonus.alliancequestcastle","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement Bataille de chevaliers."
 "herocard.family.description.eventherobonus.alliancequestmoths","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement de la nuit de la mite."
 "herocard.family.description.eventherobonus.alliancequestmusketeers","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement Bravoure et beauté."
-"herocard.family.description.eventherobonus.beachparty","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement Fête à la plage."
+"herocard.family.description.eventherobonus.beachparty","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement Fête de Solebaie."
+"herocard.family.description.eventherobonus.beachparty2026","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement Fête de Solebaie."
 "herocard.family.description.eventherobonus.christmas","Les membres de cette famille bénéficient d'avantages supplémentaires pendant le défi du père Noël."
 "herocard.family.description.eventherobonus.easter","Les membres de cette famille bénéficient d'avantages supplémentaires pendant le festival du Vallon d'Or."
 "herocard.family.description.eventherobonus.halloween","Les membres de cette famille bénéficient d'avantages supplémentaires pendant l'événement d'Halloween."
@@ -418,6 +430,8 @@ La famille Année lumière est composée de différents animaux du calendrier lu
 "herocard.family.title.cultist.short","Fanatique"
 "herocard.family.title.cupid","Famille Cupidon"
 "herocard.family.title.cupid.short","Cupidon"
+"herocard.family.title.dryad","Famille des dryades des fleurs antiques"
+"herocard.family.title.dryad.short","Dryades"
 "herocard.family.title.easter","Famille du Vallon d'Or"
 "herocard.family.title.easter.short","Le Vallon d'Or"
 "herocard.family.title.fable","Famille Grimbois"
@@ -439,6 +453,8 @@ La famille Année lumière est composée de différents animaux du calendrier lu
 "herocard.family.title.gargoyle.short","Gargouille"
 "herocard.family.title.garrison","Famille de la garde de la garnison"
 "herocard.family.title.garrison.short","Garde de la garnison"
+"herocard.family.title.ghost","Famille Fantômes de Yang Jian"
+"herocard.family.title.ghost.short","Fantômes de Yang Jian"
 "herocard.family.title.goblin","Famille des gobelins"
 "herocard.family.title.goblin.short","Gobelin"
 "herocard.family.title.guardian","Famille Gardiens"
@@ -526,6 +542,8 @@ La famille Année lumière est composée de différents animaux du calendrier lu
 "herocard.family.title.sand.short","Empire des sables"
 "herocard.family.title.shady_scoundrels","Famille des scélérats"
 "herocard.family.title.shady_scoundrels.short","Scélérats"
+"herocard.family.title.shark","Famille des requins de Solebaie"
+"herocard.family.title.shark.short","Requins de Solebaie"
 "herocard.family.title.slayers","Famille Tueurs"
 "herocard.family.title.slayers.short","Tueur"
 "herocard.family.title.slime","Famille Gluants"
