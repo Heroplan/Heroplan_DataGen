@@ -70,6 +70,8 @@ class Translator:
         text = re.sub(r'([\(（])\s', r'\1', text)
         text = re.sub(r'([^\d%])\s+([,，])', r'\1\2', text)
         text = re.sub(r'([.。！？])\1+', r'\1', text)
+        # 修复范围减号的间距：将 "数字-数字"、"数字 -数字"、"数字- 数字" 统一转为 "数字 - 数字"
+        text = re.sub(r'(\d)\s*-\s*(\d)', r'\1 - \2', text)
         
         return text.strip()
 

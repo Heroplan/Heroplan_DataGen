@@ -47339,5 +47339,85 @@ window.allHeroesExtra = [
             "tile_enhancement_red_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Miao Yin",
+        "fancy name": "Playful Forest Spirit",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-05-21",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "ghost_miao_yin",
+        "baseAttack": 330,
+        "baseDefense": 311,
+        "baseHealth": 520,
+        "specialId": "bolanggu_blessing",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received_rare_and_epic"
+        ],
+        "family": "ghost"
+    },
+    {
+        "name": "He Gui",
+        "fancy name": "Deceitful River Ghost",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-05-21",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "ghost_he_gui",
+        "baseAttack": 675,
+        "baseDefense": 662,
+        "baseHealth": 1162,
+        "specialId": "ghastly_drowning",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "family": "ghost"
+    },
+    {
+        "name": "Kuang Nao",
+        "fancy name": "Slithering Ghost",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-05-21",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "ghost_kuang_nao",
+        "baseAttack": 410,
+        "baseDefense": 394,
+        "baseHealth": 595,
+        "specialId": "spiteful_curse",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received_rare_and_epic"
+        ],
+        "family": "ghost"
+    },
+    {
+        "name": "Hei Wu Chang",
+        "fancy name": "Underworld Black Guard",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-05-21",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "ghost_hei_wu_chang",
+        "baseAttack": 672,
+        "baseDefense": 667,
+        "baseHealth": 1159,
+        "specialId": "cursed_judgement",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "family": "ghost"
     }
 ];

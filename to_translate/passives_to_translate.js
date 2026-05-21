@@ -227,6 +227,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_miao_yin",
+        "name": "Miao Yin",
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+        ]
+    },
+    {
         "heroId": "s3_nordri",
         "name": "Nordri",
         "passives": []
@@ -1490,6 +1499,15 @@ const allTranslations =
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+        ]
+    },
+    {
+        "heroId": "ghost_he_gui",
+        "name": "He Gui",
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ]
     },
     {
@@ -3266,6 +3284,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_kuang_nao",
+        "name": "Kuang Nao",
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+        ]
+    },
+    {
         "heroId": "fortune_ling_long",
         "name": "Ling Long",
         "passives": [
@@ -4375,6 +4402,15 @@ const allTranslations =
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "ghost_hei_wu_chang",
+        "name": "Hei Wu Chang",
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ]
     },
     {

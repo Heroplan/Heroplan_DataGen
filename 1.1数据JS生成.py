@@ -78,6 +78,7 @@ family_corrections = {
     "zodiac_horse": "zodiac",
     "theinstitute": "institute",
     "astraldemons": "astral_demons",
+    "ghosts": "ghost",
 }
 
 typo_corrections = {

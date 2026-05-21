@@ -270,6 +270,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_miao_yin",
+        "name": "Miao Yin",
+        "effects": [
+            "Recovers 45% health for the nearby allies.",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "The caster shifts into Vengeful Ghost form for 2 turns.",
+            "At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+        ]
+    },
+    {
         "heroId": "s3_nordri",
         "name": "Nordri",
         "effects": [
@@ -1878,6 +1888,18 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_he_gui",
+        "name": "He Gui",
+        "effects": [
+            "Dispels buffs from all enemies.",
+            "Deals 565% damage to the target.",
+            "The target receives 1875 Water damage over 3 turns. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or decreases activations left by 1.)",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "The caster shifts into Vengeful Ghost form for 2 turns.",
+            "At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+        ]
+    },
+    {
         "heroId": "s5_hetepheres",
         "name": "Hetepheres",
         "effects": [
@@ -2503,7 +2525,7 @@ const allTranslations =
         "heroId": "journey_nineheaded_beast",
         "name": "Nine-Headed Beast",
         "effects": [
-            "160% damage to 9 random enemies.",
+            "Deals 160% damage to 9 random enemies.",
             "The duration of buffs is reset for all allies.",
             "The duration of status ailments is reset for all enemies.",
             "All allies get +40% attack for 4 turns.",
@@ -4276,6 +4298,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_kuang_nao",
+        "name": "Kuang Nao",
+        "effects": [
+            "Reduces max health of all enemies by 550. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 550.).",
+            "All enemies get -55% decrease for any healing received for 4 turns. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
+            "All enemies receive 85-148 increasing Curse damage each turn for 4 turns. This effect is Stubborn. (On the first turn, 85 damage is dealt. The damage increases by +20% each turn, up to 148 damage per turn. Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)"
+        ]
+    },
+    {
         "heroId": "fortune_ling_long",
         "name": "Ling Long",
         "effects": [
@@ -5670,6 +5701,17 @@ const allTranslations =
             "* The ally regenerates 810 HP over 3 turns.",
             "* The ally gets +50% defense for 3 turns.",
             "* The ally counterattacks with 130% of the damage received for 3 turns."
+        ]
+    },
+    {
+        "heroId": "ghost_hei_wu_chang",
+        "name": "Hei Wu Chang",
+        "effects": [
+            "Deals 430% damage to the target and nearby enemies.",
+            "The damage is increased by 50% per each defeated enemy.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "The target and nearby enemies receive 148-408 increasing Curse damage each turn for 4 turns. This effect is Stubborn. (On the first turn, 148 damage is dealt. The damage increases by +40% each turn, up to 408 damage per turn. Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
+            "The target and nearby enemies can't revive their allies or themselves for 4 turns. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)"
         ]
     },
     {
@@ -9720,11 +9762,13 @@ const allTranslations =
         "name": "Odile",
         "effects": [
             "Boosts health for all allies by 475. Boosted health can exceed max HP.",
-            "Casts Dance of the Black Swan to all allies but caster for 4 turns. All existing status effects will be removed when this effect is added.",
+            "All allies except the caster dance the Dance of the Black Swan for 4 turns.",
             "Dance of the Black Swan:",
             "* At the end of each turn each dancer deal 155% damage to a random enemy and boosts health for themselves with 25% of total damage dealt.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "* Each character can trigger this effect once per turn.",
+            "* All existing status effects will be removed when a dance status effect is added.",
+            "* Dance gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* Dance effect cannot be dispelled. The effect is removed when the caster is defeated."
         ]
     },
     {
@@ -17118,7 +17162,7 @@ const allTranslations =
         "effects": [
             "Deals 430% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "The caster gets -20% defense attack for  3 turns. This effect can't be cleansed.",
+            "The caster gets -20% attack for  3 turns. This effect can't be cleansed.",
             "Deals extra damage against Dark."
         ]
     },
@@ -17148,7 +17192,7 @@ const allTranslations =
         "name": "Tang Sanzang",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Cleanses the latest cleansable status ailments from all allies.",
+            "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
             "All allies get +20% defense for 2 turns."
         ]
     },

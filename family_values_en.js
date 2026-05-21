@@ -86,6 +86,8 @@ window.family_values = {
     "fortune": "Monthly Event - Fortune Dancer",
     "rodent": "Birthday Summon - Adventurous Rodent",
     "ronin": "Tower - Ronin",
+    "ghost": "Three Kingdoms - Ghosts of Yang Jian",
+
 
     "hotm2017": "Monthly Hero - 2017",
     "hotm2018": "Monthly Hero - 2018",

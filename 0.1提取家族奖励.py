@@ -50,6 +50,7 @@ family_name_corrections = {
     "beautyandthebeast": "beauty_beast",
     "titanhunter": "titan_hunter",
     "fortunedancer": "fortune",
+    "ghosts": "ghost",
     
     
 }

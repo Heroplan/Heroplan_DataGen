@@ -1532,5 +1532,8 @@
   "Defense Growth 2": "2个目标防御成长",
   "Hit Random 1 Chance": "概率随机攻击单体",
   "Mana Gen Buff Stack Self": "自身法力生成增益叠加",
-  "Cleanse Latest/All Ailment All": "净化全体最近的/全部异常状态"
+  "Cleanse Latest/All Ailment All": "净化全体最近的/全部异常状态",
+  "Healer Nearby": "治疗附近目标",
+  "Vengeful Ghost Self": "自身变为复仇幽灵",
+  "Revive Block 3": "3个目标复活阻挡"
 }

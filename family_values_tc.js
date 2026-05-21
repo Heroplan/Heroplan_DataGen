@@ -86,6 +86,7 @@ window.family_values = {
     "fortune": "月活動 - 鴻運舞者",
     "rodent": "生日召喚 - 冒險小鼠",
     "ronin": "高塔 - 浪人",
+    "ghost": "三國 - 楊戩幽靈",
 
     "hotm2017": "月英 - 2017",
     "hotm2018": "月英 - 2018",
