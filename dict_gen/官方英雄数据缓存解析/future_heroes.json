@@ -48,7 +48,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Arco C1",
+        "name": "Arco C",
         "fancy_name": "gargoyle_arco_costume_brewer",
         "color": "Green",
         "Release date": "",
@@ -120,7 +120,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Peñolite C1",
+        "name": "Peñolite C",
         "fancy_name": "gargoyle_penolite_costume_sacred",
         "color": "Yellow",
         "Release date": "",
@@ -132,7 +132,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Kemény C1",
+        "name": "Kemény C",
         "fancy_name": "gargoyle_kemeny_costume_hardened",
         "color": "Purple",
         "Release date": "",
@@ -144,7 +144,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Quintin C1",
+        "name": "Quintin C",
         "fancy_name": "Frosthunter of the Ravens",
         "color": "Blue",
         "Release date": "",
@@ -216,7 +216,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Belladonna C1",
+        "name": "Belladonna C",
         "fancy_name": "bard_belladonna_costume_ratcatcher",
         "color": "Purple",
         "Release date": "",
@@ -228,7 +228,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Narcisa C1",
+        "name": "Narcisa C",
         "fancy_name": "bard_narcisa_costume_gothic",
         "color": "Purple",
         "Release date": "",
@@ -240,7 +240,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ogima C1",
+        "name": "Ogima C",
         "fancy_name": "bard_ogima_costume_bear_shaman",
         "color": "Yellow",
         "Release date": "",
@@ -252,7 +252,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Phenexa C1",
+        "name": "Phenexa C",
         "fancy_name": "bard_phenexa_costume_valiant_knight",
         "color": "Red",
         "Release date": "",
@@ -264,7 +264,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Rhys C1",
+        "name": "Rhys C",
         "fancy_name": "bard_rhys_costume_baroque",
         "color": "Yellow",
         "Release date": "",
@@ -276,7 +276,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zaria C1",
+        "name": "Zaria C",
         "fancy_name": "Three-Eyed Enchanter",
         "color": "Red",
         "Release date": "",
@@ -288,7 +288,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Farrah C1",
+        "name": "Farrah C",
         "fancy_name": "Cyber Blade Master",
         "color": "Purple",
         "Release date": "",
@@ -300,7 +300,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Niki C1",
+        "name": "Niki C",
         "fancy_name": "Scythe Master of the Music",
         "color": "Red",
         "Release date": "",
@@ -312,7 +312,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ironmaw C1",
+        "name": "Ironmaw C",
         "fancy_name": "Warlord of the Legion",
         "color": "Yellow",
         "Release date": "",
@@ -324,7 +324,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Desmond C1",
+        "name": "Desmond C",
         "fancy_name": "Blade Assassin",
         "color": "Green",
         "Release date": "",
@@ -336,7 +336,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Jolt C1",
+        "name": "Jolt C",
         "fancy_name": "Mythic Navigator",
         "color": "Blue",
         "Release date": "",
@@ -348,7 +348,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Gastille C1",
+        "name": "Gastille C",
         "fancy_name": "Sporty Hazard",
         "color": "Purple",
         "Release date": "",
@@ -360,7 +360,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ash C1",
+        "name": "Ash C",
         "fancy_name": "Savage Bounty Hunter",
         "color": "Red",
         "Release date": "",
@@ -372,7 +372,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Grilka C1",
+        "name": "Grilka C",
         "fancy_name": "Treasured Quartermaster",
         "color": "Yellow",
         "Release date": "",
@@ -384,7 +384,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Craum C1",
+        "name": "Craum C",
         "fancy_name": "Elemental Occultist",
         "color": "Green",
         "Release date": "",
@@ -396,7 +396,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Nylora C1",
+        "name": "Nylora C",
         "fancy_name": "Jewelled Assassin",
         "color": "Blue",
         "Release date": "",
@@ -408,7 +408,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Vander C1",
+        "name": "Vander C",
         "fancy_name": "Clown Captain",
         "color": "Purple",
         "Release date": "",
@@ -420,7 +420,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Queen Anne C1",
+        "name": "Queen Anne C",
         "fancy_name": "Elegant Commander",
         "color": "Green",
         "Release date": "",
@@ -432,7 +432,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Cardinal Richelieu C1",
+        "name": "Cardinal Richelieu C",
         "fancy_name": "Duplicitous Ambassador",
         "color": "Red",
         "Release date": "",
@@ -744,7 +744,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Aethslegaur C1",
+        "name": "Aethslegaur C",
         "fancy_name": "Dwarven Soul Seeker",
         "color": "Red",
         "Release date": "",
@@ -756,7 +756,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Högne C1",
+        "name": "Högne C",
         "fancy_name": "Dwarven Moon Knight",
         "color": "Blue",
         "Release date": "",
@@ -768,7 +768,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Garnet C1",
+        "name": "Garnet C",
         "fancy_name": "Ninja of Flaming Vigor",
         "color": "Red",
         "Release date": "",
@@ -780,7 +780,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zircon C1",
+        "name": "Zircon C",
         "fancy_name": "Ninja of Iron Waves",
         "color": "Blue",
         "Release date": "",
@@ -792,7 +792,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Quartz C1",
+        "name": "Quartz C",
         "fancy_name": "Ninja of Ancient Graves",
         "color": "Purple",
         "Release date": "",
@@ -1176,7 +1176,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Alice C1",
+        "name": "Alice C",
         "fancy_name": "Croquet Princess of Wonderland",
         "color": "Blue",
         "Release date": "",
@@ -1200,7 +1200,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Rayne C1",
+        "name": "Rayne C",
         "fancy_name": "Captain of the Ravens",
         "color": "Purple",
         "Release date": "",

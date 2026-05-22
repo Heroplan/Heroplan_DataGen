@@ -13636,5 +13636,90 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
+    },
+    {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C",
+        "passives": []
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "passives": []
+    },
+    {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "passives": []
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_shu_jing",
+        "name": "Shu Jing",
+        "passives": []
+    },
+    {
+        "heroId": "dryad_pansius",
+        "name": "Pansius",
+        "passives": []
+    },
+    {
+        "heroId": "dryad_cloveria",
+        "name": "Cloveria",
+        "passives": []
     }
 ];

@@ -13636,5 +13636,90 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
+    },
+    {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C",
+        "passives": []
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C",
+        "passives": []
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "passives": []
+    },
+    {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "passives": []
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_shu_jing",
+        "name": "Shu Jing",
+        "passives": []
+    },
+    {
+        "heroId": "dryad_pansius",
+        "name": "Pansius",
+        "passives": []
+    },
+    {
+        "heroId": "dryad_cloveria",
+        "name": "Cloveria",
+        "passives": []
     }
 ];

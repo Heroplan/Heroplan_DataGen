@@ -14836,7 +14836,7 @@ const allTranslations =
         "effects": [
             "Deals 300% damage to the target.",
             "The target receives 128 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns.(The Mimic is immune to damage and new status ailments while closed.)"
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -17637,5 +17637,90 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
+    },
+    {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C",
+        "effects": []
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "effects": []
+    },
+    {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "effects": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "effects": []
+    },
+    {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "effects": []
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "effects": []
+    },
+    {
+        "heroId": "ghost_shu_jing",
+        "name": "Shu Jing",
+        "effects": []
+    },
+    {
+        "heroId": "dryad_pansius",
+        "name": "Pansius",
+        "effects": []
+    },
+    {
+        "heroId": "dryad_cloveria",
+        "name": "Cloveria",
+        "effects": []
     }
 ];

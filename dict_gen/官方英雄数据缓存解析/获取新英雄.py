@@ -193,8 +193,8 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
         costume_id = 1 if parent_hero_id else 0
         # 默认未匹配特殊规则时，检查 heroId 是否包含 "_costume_"
         if "_costume_" in hero_id_key and costume_id == 1:
-            if not name.endswith(" C1"):
-                name = name + " C1"
+            if not name.endswith(" C"):
+                name = name + " C"
 
     # 构建新的英雄数据
     new_hero = {
@@ -246,7 +246,6 @@ def generate_heroes_data_single_file(single_file, name_dict, fancy_name_dict, fa
             # 新英雄
             # 获取当前日期（仅保留年月日，时分秒置0）
             now = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-            now = datetime(2026, 3, 20, 0, 0, 0)   # 年月日时分秒，时分秒已置0
             # 解析目标日期（同样仅保留年月日）
             target_date = parse_date_for_comparison(can_be_received_date)
             if target_date >= now:

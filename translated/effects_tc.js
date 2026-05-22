@@ -17637,5 +17637,90 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
+    },
+    {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C",
+        "effects": []
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C",
+        "effects": []
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "effects": []
+    },
+    {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "effects": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "effects": []
+    },
+    {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "effects": []
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "effects": []
+    },
+    {
+        "heroId": "ghost_shu_jing",
+        "name": "Shu Jing",
+        "effects": []
+    },
+    {
+        "heroId": "dryad_pansius",
+        "name": "Pansius",
+        "effects": []
+    },
+    {
+        "heroId": "dryad_cloveria",
+        "name": "Cloveria",
+        "effects": []
     }
 ];
