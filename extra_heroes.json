@@ -168,6 +168,18 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Sha-Arr",
+        "fancy_name": "The Harpoon Hurling Shark",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-01 07:00:00",
+        "star": 5,
+        "family": "shark",
+        "costume_id": 0,
+        "heroId": "shark_sharpoon",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Shar'By",
         "fancy_name": "The Cute Baby Shark",
         "color": "Red",

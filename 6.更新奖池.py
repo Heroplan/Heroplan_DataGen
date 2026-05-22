@@ -5,6 +5,7 @@ from datetime import datetime
 # ==================== 可自定义配置 ====================
 MAIN_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\shop_en.json"
 OTHER_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\other_en.json"
+PRODUCTS_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\products_en.json"
 OUTPUT_JSON_PATH = r"..\Heroplan.github.io\lottery_config.json"
 
 TARGET_POOLS = {
@@ -28,6 +29,7 @@ TARGET_POOLS = {
     "lottery_covenant_default": "lottery_covenant_default",
     "lottery_goblin_default": "lottery_goblin_default",
     "lottery_mercenary_war_default": "lottery_mercenary_war_default",
+    # 从 other 文件提取的池子
     "lottery_tower_ninja_default": "lottery_tower_ninja_default",
     "lottery_tower_owl_default": "lottery_tower_owl_default",
     "lottery_tower_magic_default": "lottery_tower_magic_default",
@@ -35,8 +37,20 @@ TARGET_POOLS = {
     "lottery_featured_event_farmland": "lottery_featured_event_farmland",
     "lottery_featured_alliance_quest_musketeers": "lottery_featured_alliance_quest_musketeers",
     "lottery_super_elemental": "lottery_super_elemental",
+    # 从 products 文件提取的池子
+    "lottery_hero_lunar_new_year_2026": "lottery_hero_lunar_new_year",
+    "lottery_seasonal_premium_lunar_new_year_2026": "lottery_seasonal_premium_lunar_new_year",
+    "lottery_hero_valentines": "lottery_hero_valentines",
+    "lottery_hero_easter": "lottery_hero_easter",
+    "lottery_hero_beach_party_2026": "lottery_hero_beach_party",
+    "lottery_seasonal_premium_beach_party_2026": "lottery_seasonal_premium_beach_party",
+    "lottery_hero_kalevala": "lottery_hero_kalevala",
+    "lottery_hero_halloween": "lottery_hero_halloween",
+    "lottery_seasonal_premium_halloween": "lottery_seasonal_premium_halloween",
+    "lottery_hero_christmas": "lottery_hero_christmas",
 }
 
+# 从 other 文件提取的映射（塔、活动）
 POOL_SOURCE_MAP = {
     "lottery_tower_ninja_default": {
         "path": ["otherConfig", "logic", "events", "towerEventConfig", "towerEventEntries"],
@@ -80,6 +94,78 @@ POOL_SOURCE_MAP = {
         "heroes_key": "featuredCharacters",
         "date_key": "startTime"
     }
+}
+
+# 从 products 文件提取的映射（节日、特殊召唤）
+PRODUCTS_SOURCE_MAP = {
+    "lottery_hero_lunar_new_year_2026": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_lunar_new_year_2026",
+        "heroes_key": "featuredNonCostumedHeroes",
+    },
+    "lottery_seasonal_premium_lunar_new_year_2026": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_seasonal_premium_lunar_new_year_2026",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_hero_valentines": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_valentines",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_hero_easter": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_easter",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_hero_beach_party_2026": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_beach_party_2026",
+        "heroes_key": "featuredNonCostumedHeroes",
+    },
+    "lottery_seasonal_premium_beach_party_2026": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_seasonal_premium_beach_party_2026",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_hero_kalevala": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_kalevala",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_hero_halloween": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_halloween",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_seasonal_premium_halloween": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_seasonal_premium_halloween",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
+    "lottery_hero_christmas": {
+        "path": ["productsConfig", "products"],
+        "match_key": "id",
+        "match_value": "lottery_hero_christmas",
+        "heroes_key": "featuredNonCostumedHeroes",
+        "included_heroes_key": "includedHeroes"
+    },
 }
 # ====================================================
 
@@ -169,6 +255,40 @@ def extract_from_other(other_data, rule, now):
     closest_config = min(candidates, key=lambda x: abs((x[0] - now).days))[1]
     return closest_config
 
+def extract_from_products(products_data, rule):
+    """从 products 文件中提取配置，无需日期筛选，直接根据 id 匹配返回 featuredHeroes 和 includedHeroes"""
+    target = products_data
+    for key in rule["path"]:
+        if isinstance(target, dict):
+            target = target.get(key)
+            if target is None:
+                return None
+        else:
+            return None
+    if not isinstance(target, list):
+        return None
+
+    for entry in target:
+        if not isinstance(entry, dict):
+            continue
+        if entry.get(rule["match_key"]) == rule["match_value"]:
+            config = {}
+            # 优先使用指定的 heroes_key，若不存在则尝试通用的 featuredHeroes
+            heroes = entry.get(rule["heroes_key"])
+            if heroes is None:
+                heroes = entry.get("featuredHeroes")
+            if heroes and isinstance(heroes, list):
+                config["featuredHeroes"] = heroes
+            # 提取 includedHeroes
+            if "included_heroes_key" in rule:
+                included = entry.get(rule["included_heroes_key"])
+            else:
+                included = entry.get("includedHeroes")
+            if included and isinstance(included, list):
+                config["includedHeroes"] = included
+            return config
+    return None
+
 def process_super_elemental(lottery_data, now):
     """
     特殊处理超级元素池：
@@ -176,8 +296,7 @@ def process_super_elemental(lottery_data, now):
     按颜色分组，每组取 startDate 最接近今天的条目，提取 featuredHeroes，
     最后返回形如 {"featuredHeroes_green": [...], "featuredHeroes_red": [...]} 的字典。
     """
-    # 存储每个颜色的候选条目列表
-    color_candidates = {}  # color -> [(date, featured_heroes), ...]
+    color_candidates = {}
 
     def recurse(obj):
         if isinstance(obj, dict):
@@ -187,9 +306,7 @@ def process_super_elemental(lottery_data, now):
                 if start_str:
                     date = parse_date(start_str)
                     if date:
-                        # 提取颜色后缀（例如 green, red, blue, yellow, purple）
                         color = pid.replace("lottery_super_elemental_", "")
-                        # 提取 featuredHeroes
                         featured = None
                         for key, val in obj.items():
                             if key.startswith("featured") and isinstance(val, list):
@@ -204,16 +321,12 @@ def process_super_elemental(lottery_data, now):
                 recurse(item)
 
     recurse(lottery_data)
-
     if not color_candidates:
         return None
-
     result = {}
     for color, entries in color_candidates.items():
-        # 选择日期最接近今天的条目
         closest = min(entries, key=lambda x: abs((x[0] - now).days))
         result[f"featuredHeroes_{color}"] = closest[1]
-
     return result
 
 def main():
@@ -238,8 +351,17 @@ def main():
     else:
         print(f"警告：Other文件不存在 - {OTHER_JSON_PATH}")
 
+    # 3. 读取 products 配置
+    products_data = None
+    if os.path.isfile(PRODUCTS_JSON_PATH):
+        with open(PRODUCTS_JSON_PATH, "r", encoding="utf-8") as f:
+            products_data = json.load(f)
+        print(f"已加载Products文件: {PRODUCTS_JSON_PATH}")
+    else:
+        print(f"警告：Products文件不存在 - {PRODUCTS_JSON_PATH}")
+
     now = datetime.now()
-    new_pools = {}  # output_key -> full config dict
+    new_pools = {}
 
     for target_id, output_key in TARGET_POOLS.items():
         config = None
@@ -251,29 +373,44 @@ def main():
                 print(f"✓ 特殊处理超级元素池: {target_id} -> {output_key}")
             else:
                 print(f"✗ 超级元素池未找到任何颜色条目: {target_id}")
+
+        # 从 products 文件提取
+        elif target_id in PRODUCTS_SOURCE_MAP and products_data is not None:
+            rule = PRODUCTS_SOURCE_MAP[target_id]
+            config = extract_from_products(products_data, rule)
+            if config:
+                print(f"✓ 从Products文件提取: {target_id} -> {output_key}")
+            else:
+                print(f"✗ Products文件未找到匹配: {target_id}")
+
+        # 从 other 文件提取（塔、活动）
+        elif target_id in POOL_SOURCE_MAP and other_data is not None:
+            rule = POOL_SOURCE_MAP[target_id]
+            config = extract_from_other(other_data, rule, now)
+            if config:
+                print(f"✓ 从Other文件提取: {target_id} -> {output_key}")
+            else:
+                print(f"✗ Other文件未找到匹配: {target_id}")
+
+        # 默认从主文件提取
         else:
-            # 优先从主文件提取
             config = extract_from_main(lottery_data, target_id, now)
-            # 如果失败且在其他映射中
-            if config is None and other_data is not None and target_id in POOL_SOURCE_MAP:
-                rule = POOL_SOURCE_MAP[target_id]
-                config = extract_from_other(other_data, rule, now)
-                if config:
-                    print(f"✓ 从Other文件提取: {target_id} -> {output_key}")
-                else:
-                    print(f"✗ Other文件未找到匹配: {target_id}")
+            if config:
+                print(f"✓ 从主文件提取: {target_id} -> {output_key}")
+            else:
+                print(f"✗ 未找到: {target_id}")
 
         if config:
             new_pools[output_key] = config
-            print(f"✓ 提取成功: {target_id} -> {output_key} (字段: {list(config.keys())})")
+            print(f"  字段: {list(config.keys())}")
         else:
-            print(f"✗ 未找到: {target_id}")
+            print(f"  提取失败: {target_id}")
 
     if not new_pools:
         print("没有提取到任何池子，退出")
         return
 
-    # 3. 读取已有输出文件，保留其他配置
+    # 读取已有输出文件，保留其他配置
     if os.path.isfile(OUTPUT_JSON_PATH):
         with open(OUTPUT_JSON_PATH, "r", encoding="utf-8") as f:
             output_data = json.load(f)
@@ -283,15 +420,13 @@ def main():
     if "SummonPool" not in output_data:
         output_data["SummonPool"] = {}
 
-    # 4. 增量更新：对于每个池子，更新现有对象中的这些字段（不删除其他字段）
+    # 增量更新
     for output_key, new_config in new_pools.items():
         if output_key in output_data["SummonPool"]:
-            # 更新已存在的池子
             for field, value in new_config.items():
                 output_data["SummonPool"][output_key][field] = value
             print(f"  已更新池子 '{output_key}' 的 {list(new_config.keys())}")
         else:
-            # 添加新池子
             output_data["SummonPool"][output_key] = new_config
             print(f"  已添加新池子 '{output_key}'")
 

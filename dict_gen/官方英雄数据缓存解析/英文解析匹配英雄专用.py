@@ -37,7 +37,8 @@ SPECIAL_TIMESTAMP_KEYS = (
     "featuredHeroRotationReferenceTime",
     "featuredHeroRotationDuration",
     "referenceDate",
-    "upgradeToElitePassActivationTime"
+    "upgradeToElitePassActivationTime",
+    "timeToTrigger"
 )
 SPECIAL_BOOLEAN_TRUE_KEYS = (
     "hasImprovedTalentSkill",

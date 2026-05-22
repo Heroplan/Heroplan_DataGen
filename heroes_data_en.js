@@ -110439,6 +110439,30 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
+        "name": "Sha-Arr",
+        "fancy_name": "The Harpoon Hurling Shark",
+        "AetherPower": "",
+        "color": "Green",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "shark_sharpoon",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "shark",
+        "costume_id": 0,
+        "originalIndex": 1821,
+        "cn_skill_info": []
+    },
+    {
         "name": "Shar'By",
         "fancy_name": "The Cute Baby Shark",
         "AetherPower": "",
@@ -110459,7 +110483,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1821,
+        "originalIndex": 1822,
         "cn_skill_info": []
     },
     {
@@ -110483,7 +110507,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1823,
         "cn_skill_info": []
     },
     {
@@ -110507,7 +110531,7 @@ window.allHeroes =
         "passives": [],
         "family": "ghost",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1824,
         "cn_skill_info": []
     },
     {
@@ -110531,7 +110555,7 @@ window.allHeroes =
         "passives": [],
         "family": "dryad",
         "costume_id": 0,
-        "originalIndex": 1824,
+        "originalIndex": 1825,
         "cn_skill_info": []
     },
     {
@@ -110555,7 +110579,7 @@ window.allHeroes =
         "passives": [],
         "family": "dryad",
         "costume_id": 0,
-        "originalIndex": 1825,
+        "originalIndex": 1826,
         "cn_skill_info": []
     }
 ];

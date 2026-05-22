@@ -22035,7 +22035,7 @@
           "extraRequirement": "IsNewPlayerWithNoNewPlayerOffersPurchased",
           "duration": "2天",
           "playerLevelToTrigger": 2,
-          "timeToTrigger": 259200
+          "timeToTrigger": "2000-01-04 00:00:00"
         }
       },
       {
@@ -22062,7 +22062,7 @@
           "extraRequirement": "IsNewPlayerWithNoNewPlayerOffersPurchased",
           "duration": "2天",
           "playerLevelToTrigger": 2,
-          "timeToTrigger": 259200
+          "timeToTrigger": "2000-01-04 00:00:00"
         }
       },
       {
@@ -22135,7 +22135,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsRichPlayerWithNoRichOffersPurchased",
           "duration": "1天",
-          "timeToTrigger": 604800
+          "timeToTrigger": "2000-01-08 00:00:00"
         }
       },
       {
@@ -22151,7 +22151,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsRichPlayerWithNoRichOffersPurchased",
           "duration": "1天",
-          "timeToTrigger": 1209600
+          "timeToTrigger": "2000-01-15 00:00:00"
         }
       },
       {
@@ -22167,7 +22167,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsRichPlayerWithNoRichOffersPurchased",
           "duration": "1天",
-          "timeToTrigger": 1209600
+          "timeToTrigger": "2000-01-15 00:00:00"
         }
       },
       {
@@ -22183,7 +22183,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsEligibleForTournamentRegistration",
           "duration": "1天",
-          "timeToTrigger": 600,
+          "timeToTrigger": "2000-01-01 00:10:00",
           "onlyShownInShop": true
         }
       },
@@ -22200,7 +22200,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsEligibleForTournamentRegistration",
           "duration": "1天",
-          "timeToTrigger": 600,
+          "timeToTrigger": "2000-01-01 00:10:00",
           "onlyShownInShop": true
         }
       },
@@ -23021,7 +23021,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 1987200000
+          "timeToTrigger": "2062-12-21 00:00:00"
         }
       },
       {
@@ -23038,7 +23038,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsReturningPlayer",
           "duration": "7天",
-          "timeToTrigger": 2419200
+          "timeToTrigger": "2000-01-29 00:00:00"
         }
       },
       {
@@ -23605,7 +23605,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsEligibleForTournamentRegistration",
           "duration": "1天",
-          "timeToTrigger": 600,
+          "timeToTrigger": "2000-01-01 00:10:00",
           "onlyShownInShop": true
         }
       },
@@ -28256,7 +28256,7 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsReturningPlayer",
           "duration": "7天",
-          "timeToTrigger": 2419200
+          "timeToTrigger": "2000-01-29 00:00:00"
         }
       },
       {
@@ -28963,7 +28963,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -28987,7 +28987,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -29011,7 +29011,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -29035,7 +29035,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -29059,7 +29059,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29083,7 +29083,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29107,7 +29107,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29131,7 +29131,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29155,7 +29155,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29179,7 +29179,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29203,7 +29203,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29227,7 +29227,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29251,7 +29251,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
@@ -29275,7 +29275,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
@@ -29299,7 +29299,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
@@ -29323,7 +29323,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
@@ -29347,7 +29347,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29371,7 +29371,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29395,7 +29395,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29419,7 +29419,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29444,7 +29444,7 @@
           "playerProgressOfferType": "LimitBreak1",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -29469,7 +29469,7 @@
           "playerProgressOfferType": "LimitBreak1",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29494,7 +29494,7 @@
           "playerProgressOfferType": "LimitBreak1",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29519,7 +29519,7 @@
           "playerProgressOfferType": "LimitBreak1",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
@@ -29544,7 +29544,7 @@
           "playerProgressOfferType": "LimitBreak1",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29569,7 +29569,7 @@
           "playerProgressOfferType": "LimitBreak2",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -29599,7 +29599,7 @@
           "playerProgressOfferType": "LimitBreak2",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29629,7 +29629,7 @@
           "playerProgressOfferType": "LimitBreak2",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29659,7 +29659,7 @@
           "playerProgressOfferType": "LimitBreak2",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
@@ -29689,7 +29689,7 @@
           "playerProgressOfferType": "LimitBreak2",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29719,7 +29719,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "All",
           "itemRequirements": [
             {
@@ -29743,7 +29743,7 @@
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "All",
           "itemRequirements": [
             {
@@ -29768,7 +29768,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Blue",
           "itemRequirements": [
             {
@@ -29804,7 +29804,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Green",
           "itemRequirements": [
             {
@@ -29840,7 +29840,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Red",
           "itemRequirements": [
             {
@@ -29876,7 +29876,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Purple",
           "itemRequirements": [
             {
@@ -29912,7 +29912,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "extraRequirement": "NoPreviousPurchase",
           "duration": "1天",
-          "timeToTrigger": 604800,
+          "timeToTrigger": "2000-01-08 00:00:00",
           "element": "Yellow",
           "itemRequirements": [
             {
