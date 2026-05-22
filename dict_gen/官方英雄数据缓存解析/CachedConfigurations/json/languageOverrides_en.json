@@ -6,6 +6,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Infligge il {DAMAGE}% di danni al bersaglio e a un nemico a caso."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "Eroe evento [#ffffff]Raro[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "Eroe evento [#fff081]Epico[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "Eroe evento [#ffc3ff]Leggendario[#] (non in evidenza): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "L'aumento della durata interessa i disturbi rimovibili, persistenti e non rimovibili."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Raccolto[#] rimuove in modo sicuro {MAXREMOVALCOUNT} magie benefiche, iterazioni positive o effetti di Crescita da ogni bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.\n[*] L'evocatore riceve il {HEALTHBOOST}% di Salute potenziata per ogni effetto rimosso. La Salute potenziata può superare gli HP massimi.\n\n[*] La rimozione sicura ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche degli effetti di stato rimosse. Gli effetti esterni, come le abilità passive e gli effetti delle famiglie, possono comunque attivarsi.\n[*] Gli effetti di Crescita vengono rimossi per primi. Tra gli altri effetti, viene rimosso prima il più recente."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili.\n\n[*] Se la durata di un effetto viene ridotta a zero, l'effetto è considerato come scaduto naturalmente."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Ruba {DAMAGE} di Salute.\n[*] Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.\n[*] Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] L'aumento della Salute viene ridotto di [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] per ogni disturbo rimosso.\n[*] Anche i disturbi persistenti e non annullabili vengono rimossi."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Fantasma vendicativo[#]: alla fine di ogni turno, infligge il [#!]{POWER}%[#] di danni a un nemico casuale e gli annulla le magie benefiche."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Se altri effetti aumentano l'Attacco in generale, gli attacchi normali possono raggiungere al massimo una potenza totale aumentata del {MAXATTACK}%."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Se altri effetti aumentano l'Attacco in generale, gli attacchi normali possono raggiungere al massimo una potenza totale aumentata del {MAXATTACK}%."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Tutti gli alleati ricevono il {ATTACK}% di Attacco normale per {TURNS} turni. L'Attacco normale aumenta del {CHANGE}% a ogni turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "L'evocatore riceve il {ATTACK}% di Attacco normale per {TURNS} turni. L'Attacco normale aumenta del {CHANGE}% a ogni turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Tutti gli alleati ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Tutti gli alleati di tipo [##elementblue]Ghiaccio[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Tutti gli alleati di tipo [##elementgreen]Natura[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "L'evocatore e gli alleati vicini ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Tutti gli alleati di tipo [##elementpurple]Oscurità[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Tutti gli alleati di tipo [##elementred]Fuoco[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Tutti gli alleati di tipo [##elementyellow]Sacro[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Tutti gli Eroi di tipo [##elementblue]Ghiaccio[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni. Se altri effetti aumentano l'Attacco in generale, gli attacchi normali possono raggiungere al massimo una potenza totale aumentata del {MAXATTACK}%."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Tutti gli Eroi di tipo [##elementblue]Ghiaccio[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni. Se altri effetti aumentano l'Attacco in generale, gli attacchi normali possono raggiungere al massimo una potenza totale aumentata del {MAXATTACK}%."
           }
         ]
       },
@@ -14,6 +118,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Наносит {DAMAGE} % урона цели и случайному врагу."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Редкий[#] герой события: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Эпический[#] герой события: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Легендарный[#] герой события (не из рекомендованных): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Увеличение длительности затрагивает очищаемые, стойкие и неочищаемые эффекты."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Сбор[#] безопасно снимает {MAXREMOVALCOUNT} усил., складываемых положительных эф. или эф. роста с каждой цели. К ним относятся стойкие эффекты, эффекты танцев и усиления, которые нельзя снять.\n[*]Здоровье героя, использующего навык, повышается на {HEALTHBOOST} % за каждый снятый эффект. Повышенное здоровье может превысить максимум.\n\n[*]При безопасном снятии не срабатывают вторичные эффекты снимаемого усиления, например урон при снятии. Внешние эффекты, такие как пассивные навыки и эффекты семьи, все равно могут активироваться.\n[*]Первыми снимаются эффекты роста. Остальные эффекты снимаются в порядке от последнего наложенного эффекта к первому."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Изменение длительности затрагивает очищаемые, стойкие и неочищаемые эффекты."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Изменение длительности затрагивает очищаемые, стойкие и неочищаемые эффекты."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Изменение длительности затрагивает очищаемые, стойкие и неочищаемые эффекты.\n\n[*]Если длительность любого эффекта снижается до 0, считается, что эффект завершился естественным образом."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Изменение длительности затрагивает очищаемые, стойкие и неочищаемые эффекты."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Изменение длительности затрагивает очищаемые, стойкие и неочищаемые эффекты."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Крадет {DAMAGE} ед. здоровья.\n[*]Безопасно крадет один эффект состояния с цели; сюда относятся стойкие эффекты, нерассеиваемые усиления и эффекты танца\n[*]Безопасная кража обходит вторичные эффекты, такие как урон при снятии, от снимаемых усилений. Пассивные навыки и семейные эффекты действуют по-прежнему."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Снижает увеличенное здоровье на [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] за каждый снятый недуг.\n[*] Также снимает стойкие недуги, которые нельзя очистить."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Мстительный призрак[#]: В конце каждого хода наносит [#!]{POWER} %[#] урона случайному врагу и лишает того усиления."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Если дополнительные эффекты повышают атаку в целом, обычные атаки могут получить максимальный бонус к силе до {MAXATTACK} %."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Если дополнительные эффекты повышают атаку в целом, обычные атаки могут получить максимальный бонус к силе до {MAXATTACK} %."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Все союзники получают {ATTACK} % к обычной атаке на {TURNS} х. Бонус к обычной атаке увеличивается на {CHANGE} % каждый ход."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Герой получает {ATTACK} % к обычной атаке на {TURNS} х. Бонус к обычной атаке увеличивается на {CHANGE} % каждый ход."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Все союзники получают {ATTACK} % к обычной атаки на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Все союзники [##elementblue]льда[#] получают {ATTACK} % к обычной атаке на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Все союзники [##elementgreen]природы[#] получают {ATTACK} % к обычной атаке на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Герой и ближайшие союзники получают {ATTACK} % у обычной атаке на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Все союзники [##elementpurple]тьмы[#] получают {ATTACK} % к обычной атаке на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Все союзники [##elementred]огня[#] получают {ATTACK} % к обычной атаке на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Все союзники [##elementyellow]святыни[#] получают {ATTACK} % к обычной атаке на {TURNS} х."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Все герои [##elementblue]льда[#] получают {ATTACK} % обычной атаки на {TURNS} х. Если дополнительные эффекты повышают атаку в целом, то максимальное усиление обычных атак может достигать {MAXATTACK} %"
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Все герои [##elementblue]льда[#] получают {ATTACK} % обычной атаки на {TURNS} х. Если дополнительные эффекты повышают атаку в целом, то максимальное усиление обычных атак может достигать {MAXATTACK} %"
           }
         ]
       },
@@ -22,6 +230,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Zadaje {DAMAGE}% obrażeń celowi i losowemu wrogowi."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "Bohater [#ffffff]rzadki[#] z wydarzenia: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "Bohater [#fff081]epicki[#] z wydarzenia: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendarny[#] bohater z wydarzenia (niewyróżniony): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Wydłużenie czasu trwania wpływa na oczyszczalne, nieustępliwe i nieoczyszczalne dolegliwości ze statusu."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Żniwo[#] bezpiecznie usuwa z każdego celu do {MAXREMOVALCOUNT} wzmocnień, pozytywnych kumulacji lub efektów wzrostu. Obejmuje to wzmocnienia i efekty tańca, które są nieustępliwe lub których nie można odwołać.\n[*]Rzucający zyskuje {HEALTHBOOST}% wzmocnionego zdrowia za każdy usunięty efekt. Wzmocnione zdrowie może przekroczyć maks. PŻ.\n\n[*]Bezpieczne usunięcie pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia statusu. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane.\n[*]W pierwszej kolejności usuwane są efekty wzrostu. W przypadku pozostałych efektów najpierw usuwany jest ostatni efekt."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Zmiana czasu działania wpływa na oczyszczalne, nieustępliwe i nieoczyszczalne efekty."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Zmiana czasu działania wpływa na oczyszczalne, nieustępliwe i nieoczyszczalne efekty."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Zmiana czasu trwania wpływa na oczyszczalne, nieustępliwe i nieoczyszczalne efekty.\n\n[*]Jeśli czas trwania jakiegoś efektu zostanie zredukowany do zera, efekt jest uznawany za naturalnie wygaszony."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Zmiana czasu działania wpływa na oczyszczalne, nieustępliwe i nieoczyszczalne efekty."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Zmiana czasu działania wpływa na oczyszczalne, nieustępliwe i nieoczyszczalne efekty."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Kradnie {DAMAGE} pkt. zdrowia.\n[*]Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.\n[*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Wzmocnienie zdrowia zostaje zmniejszone o [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] za każdą usuniętą dolegliwość.\n[*] Nieustępliwe i niemożliwe do oczyszczenia dolegliwości również zostają usunięte."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Mściwy duch[#]: Na końcu każdej tury zadaje [#!]{POWER}%[#] obrażeń losowemu wrogowi i odwołuje z niego wzmocnienia."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Jeżeli dodatkowe efekty ogólnie zwiększają atak, normalne ataki mogą maksymalnie {MAXATTACK}% zwiększenia mocy."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Jeżeli dodatkowe efekty ogólnie zwiększają atak, normalne ataki mogą maksymalnie {MAXATTACK}% zwiększenia mocy."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Wszyscy sojusznicy otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y). Normalny atak zostaje zwiększony o {CHANGE}% w każdej turze."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Rzucający otrzymuje {ATTACK}% do normalnego ataku przez {TURNS} tur(y). Normalny atak zostaje zwiększony o {CHANGE}% w każdej turze."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Wszyscy sojusznicy otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y)."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Wszyscy sojusznicy [##elementblue]lodu[#] otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y)."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Wszyscy sojusznicy [##elementgreen]natury[#] otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y)."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Rzucający i pobliscy sojusznicy otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y)."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Wszyscy sojusznicy [##elementpurple]mroku[#] otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y)."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Wszyscy sojusznicy [##elementred]ognia[#] otrzymują {ATTACK}% do normalnego ataku na okres {TURNS} tur."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Wszyscy sojusznicy [##elementyellow]światłości[#] otrzymują {ATTACK}% do normalnego ataku na okres {TURNS} tur."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Wszyscy bohaterowie [##elementblue]lodu[#] otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y). Jeżeli dodatkowe efekty ogólnie zwiększają atak, normalne ataki mogą maksymalnie {MAXATTACK}% zwiększenia mocy."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Wszyscy bohaterowie [##elementblue]lodu[#] otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y). Jeżeli dodatkowe efekty ogólnie zwiększają atak, normalne ataki mogą maksymalnie {MAXATTACK}% zwiększenia mocy."
           }
         ]
       },
@@ -30,6 +342,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "對目標和一名隨機敵人造成{DAMAGE}%傷害。"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]稀有[#]活動英雄：[#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]史詩[#]活動英雄：[#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]傳奇[#]活動英雄（非精選）：[#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "持續時間延長會影響可淨化、頑固與不可淨化的狀態異常。"
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]豐收[#]可以從每個目標上，安全地移除{MAXREMOVALCOUNT}個增益、正面疊加或成長效果。包含頑固效果、不可驅散增益和跳舞效果。\n[*]每移除一個效果，施法者獲得{HEALTHBOOST}%加成生命值，加成生命值可超過最大生命值。\n\n[*]安全移除可避免移除狀態效果增益時的第二效果，例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。\n[*]成長效果會最先被移除。其他效果則是以最新的開始移除。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "持續時間的修改會影響可淨化、頑固與不可淨化效果。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "持續時間的修改會影響可淨化、頑固與不可淨化效果。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "修改持續時間會影響可淨化、頑固與不可淨化效果。\n\n[*]若任意效果的持續時間減少至0，則將效果視為正常失效。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "持續時間的修改會影響可淨化、頑固與不可淨化效果。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "持續時間的修改會影響可淨化、頑固與不可淨化效果。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "竊取{DAMAGE}生命。\n[*]安全地從目標身上竊取一個狀態效果增益。包括頑固效果、不可驅散的增益和舞蹈效果。\n[*]安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*]每移除一個異常，生命加成降低[#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#]點。\n[*]頑固與不可淨化的異常也會移除。"
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]復仇幽靈[#]：每回合結束時，對一個隨機敵人造成[#!]{POWER}%[#]點傷害，並驅散其增益。"
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "若附加效果提升整體攻擊，普通攻擊最多可提升{MAXATTACK}%的戰力。"
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "若附加效果提升整體攻擊，普通攻擊最多可提升{MAXATTACK}%的戰力。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "所有盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。普通攻擊每回合有{CHANGE}%获得提升。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "施法者獲得{ATTACK}%普通攻擊，持續 {TURNS}回合。普通攻擊每回合有{CHANGE}%获得提升。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "所有盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "所有[##elementblue]冰雪[#]盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "所有[##elementgreen]自然系[#]盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "施法者與附近盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "所有[##elementpurple]暗黑系[#]盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "所有[##elementred]烈火[#]盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "所有[##elementyellow]神聖[#]盟友獲得{ATTACK}%普通攻擊，持續{TURNS}回合。"
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "所有[##elementblue]冰雪[#]英雄獲得{ATTACK}%普通攻擊，持续{TURNS}回合。若附加效果提升整體攻擊力，普通攻擊最多可提升{MAXATTACK}%的戰力。"
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "所有[##elementblue]冰雪[#]英雄獲得{ATTACK}%普通攻擊，持续{TURNS}回合。若附加效果提升整體攻擊力，普通攻擊最多可提升{MAXATTACK}%的戰力。"
           }
         ]
       },
@@ -38,6 +454,150 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "{DAMAGE}%의 피해를 대상과 무작위 적 하나에게 줍니다."
+          },
+          {
+            "key": "raids.tournament.rules.dragon",
+            "text": "드래곤스파이어 레이드 토너먼트는 매번 다른 특별 규정이 적용되는 드래곤 레이드로, 실력에 따라 다른 보상을 받을 수 있습니다.\n\n{0}\n[#ffffff]준비 단계[#]\n\n준비 단계는 하루 동안 진행되며, 이 시간 동안 방어 팀을 준비합니다. 준비 단계가 끝난 후에는 방어 팀을 변경할 수 없습니다.\n\n전투일이 끝날 때마다 방어 포인트가 지급됩니다. 포인트는 방어 팀의 성적에 따라 달라집니다. 토너먼트 규정에 맞는 방어 팀만 사용할 수 있습니다.\n\n\n[#ffffff]전투 단계[#]\n\n전투 단계는 5일 동안 지속되며, 하루에 5번 공격할 수 있습니다. 상대마다 방어도 보너스가 적용됩니다. 보너스는 당신의 이전 공격과 상대 방어 팀의 성적을 비교하여 결정됩니다. 토너먼트 규정에 맞는 공격 팀만 사용할 수 있습니다.\n\n공격에 4번 실패하면 패배 상태가 되어 해당 드래곤스파이어 레이드 토너먼트를 계속 진행할 수 없지만, 보석을 사용해 패배 상태를 되돌리면 진행이 가능합니다. 방어 팀은 패배 후에도 계속 방어 포인트를 획득할 수 있습니다.\n\n\n[#ffffff]전리품[#]\n\n최종 점수에 따라 보상 등급이 정해집니다. 본인이 속한 최고 등급의 보상만 받을 수 있습니다. 전투 단계가 끝나면 곧 전리품이 지급됩니다."
+          },
+          {
+            "key": "raids.tournament.rules.riderheroboost",
+            "text": "드래곤 라이더는 모든 드래곤스파이어 레이드 토너먼트 전투에서 추가 HP와 방어 보너스를 제공합니다. 이 보너스는 방어 팀과 공격 팀 모두에 적용됩니다."
+          },
+          {
+            "key": "resources.description.dragonpvpeventenergy",
+            "text": "드래곤스파이어 레이드 토너먼트 에너지는 드래곤스파이어 레이드 토너먼트 전투에 필요합니다.\n\n전투일이 지나면 에너지가 완전히 회복됩니다."
+          },
+          {
+            "key": "resources.name.dragonpvpeventenergy",
+            "text": "드래곤스파이어 레이드 토너먼트 에너지"
+          },
+          {
+            "key": "riderheroboost.description.dragonpvp",
+            "text": "드래곤 라이더는 모든 드래곤 레이드 전투에서 [#!]{0}x[#] 방어와 [#!]{1}x[#] HP 보너스를 제공합니다. 이 보너스는 방어 팀과 공격 팀 모두에 적용됩니다."
+          },
+          {
+            "key": "riderheroboost.description.dragonpvpevent",
+            "text": "드래곤 라이더는 모든 드래곤스파이어 레이드 토너먼트 전투에서 [#!]{0}x[#] 방어와 [#!]{1}x[#] HP 보너스를 제공합니다. 이 보너스는 방어 팀과 공격 팀 모두에 적용됩니다."
+          },
+          {
+            "key": "heroportrait.dragonraidtournament",
+            "text": "이 영웅은 당신의 드래곤스파이어 레이드 토너먼트 방어 팀에 속해 있습니다!"
+          },
+          {
+            "key": "items.availability.source.reward.tournament.dragon",
+            "text": "드래곤스파이어 레이드 토너먼트"
+          },
+          {
+            "key": "missions.goal.winpvpbattleswithxofclass.all#2",
+            "text": "팀에 같은 [#!]클래스[#] 영웅 최소 [#!]{0}[#]명을 포함하여 [#!]레이드[#] 우승"
+          },
+          {
+            "key": "missions.goal.winpvpbattleswithxofclass.all#3",
+            "text": "팀에 같은 [#!]클래스[#] 영웅 최소 [#!]{0}[#]명을 포함하여 [#!]레이드[#] 우승"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]희귀[#] 이벤트 영웅: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]초희귀[#] 이벤트 영웅: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]전설[#] 이벤트 영웅 (획득률 보너스 없음): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "지속 시간 증가 효과는 정화 가능, 완고 및 정화 불가능한 상태 이상 효과 모두에 영향을 줍니다."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]수확[#]은 각 대상의 {MAXREMOVALCOUNT}개의 강화 효과, 긍정적 중첩 또는 성장 효과를 안전하게 제거합니다. 여기에는 완고한 효과, 해제할 수 없는 강화 효과와 댄스 효과가 포함됩니다.\n[*]효과를 제거할 때마다 시전자의 HP가 {HEALTHBOOST}% 증가합니다. 증가한 HP는 최대 HP를 초과할 수 있습니다.\n\n[*]안전 제거는 제거된 상태 강화 효과에 딸려 있는 부가 효과(예: 제거 시 발동하는 피해)를 무시합니다. 패시브 스킬이나 패밀리 효과와 같은 외부 효과는 여전히 발동할 수 있습니다.\n[*]성장 효과가 먼저 제거됩니다. 그 외의 효과는 가장 나중에 적용된 것부터 제거됩니다."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다.\n\n[*]효과의 지속 시간이 0으로 줄어들면 해당 효과는 자연스럽게 만료된 것으로 간주됩니다."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "{DAMAGE} HP를 훔칩니다. \n[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.\n[*]안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] 제거된 상태 이상 하나마다 HP 증폭이 [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] 감소합니다.\n[*] 완고 및 정화 불가능한 상태 이상도 제거됩니다."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]복수의 유령[#]: 매 턴이 끝날 때, 무작위로 적 하나에게 [#!]{POWER}%[#]의 피해를 주고 그들로부터 강화 효과를 제거합니다."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "추가 효과가 전반적으로 공격력을 증가시키면, 일반 공격이 최대 {MAXATTACK}%까지 증가한 전투력을 가집니다."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "추가 효과가 전반적으로 공격력을 증가시키면, 일반 공격이 최대 {MAXATTACK}%까지 증가한 전투력을 가집니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "{TURNS}턴 동안 모든 아군이 {ATTACK}% 일반 공격력을 받습니다. 턴마다 일반 공격력이 {CHANGE}% 증가합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "{TURNS}턴 동안 시전자가 {ATTACK}% 일반 공격력을 받습니다. 턴마다 일반 공격이 {CHANGE}% 증가합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "{TURNS}턴 동안 모든 아군이 일반 공격력 {ATTACK}% 효과를 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "모든 [##elementblue]얼음[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "모든 [##elementgreen]자연[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "{TURNS}턴 동안 시전자와 주변 아군들이 일반 공격력 {ATTACK}% 효과를 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "모든 [##elementpurple]어둠[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "모든 [##elementred]화염[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "모든 [##elementyellow]신성[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "모든 [##elementblue]얼음[#] 영웅이 {TURNS}턴 동안 일반 공격력에 {ATTACK}%를 받습니다. 추가 효과가 전반적으로 공격력을 증가시키면, 일반 공격이 최대 {MAXATTACK}%까지 증가한 전투력을 가집니다."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "모든 [##elementblue]얼음[#] 영웅이 {TURNS}턴 동안 일반 공격력에 {ATTACK}%를 받습니다. 추가 효과가 전반적으로 공격력을 증가시키면, 일반 공격이 최대 {MAXATTACK}%까지 증가한 전투력을 가집니다."
           }
         ]
       },
@@ -46,6 +606,114 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Verursacht {DAMAGE} % Schaden am Ziel und an einem zufälligen Gegner."
+          },
+          {
+            "key": "raids.tournament.description.special_rule",
+            "text": "Sonderregeln:"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Seltener[#] Eventheld: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Epischer[#] Eventheld: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendärer[#] Eventheld (nicht vorgestellt): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Die verlängerte Dauer betrifft säuberbare, hartnäckige und nicht säuberbare negative Statusänderungen."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Ernte[#] entfernt {MAXREMOVALCOUNT} Boni, positive Stapel oder Wachstumseffekte sicher von jedem Ziel. Dazu zählen auch hartnäckige Effekte, nicht entfernbare Boni und Tanzeffekte.\n[*]Der Wirker erhält {HEALTHBOOST} % verstärktes Leben für jeden entfernten Effekt. Das verstärkte Leben kann die max. LP übersteigen.\n\n[*]Durch sicheres Entfernen werden sekundäre Effekte wie Schaden bei Entfernung umgangen. Externe Effekte wie passive Fähigkeiten und Familieneffekte können trotzdem aktiviert werden.\n[*]Wachstumseffekte werden zuerst entfernt. Für alle anderen Effekte gilt: Der letzte wird zuerst entfernt."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Die veränderte Dauer betrifft säuberbare, hartnäckige und nicht säuberbare Effekte."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Die veränderte Dauer betrifft säuberbare, hartnäckige und nicht säuberbare Effekte."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Die veränderte Dauer betrifft säuberbare, hartnäckige und nicht säuberbare Effekte.\n\n[*]Wenn die Dauer eines beliebigen Effekts auf 0 reduziert wird, wird der Effekt so behandelt, als wäre er auf natürliche Weise abgelaufen."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Die veränderte Dauer betrifft säuberbare, hartnäckige und nicht säuberbare Effekte."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Die veränderte Dauer betrifft säuberbare, hartnäckige und nicht säuberbare Effekte."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Stiehlt {DAMAGE} Leben.\n[*]Stiehlt einen Statuseffektbonus des Ziels. Dazu zählen auch hartnäckige Effekte, nicht entfernbare Boni und Tanzeffekte.\n[*]Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von den entfernten Boni ignoriert. Passive Fähigkeiten und Familieneffekte können noch aktiviert werden."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Für jede entfernte Statusänderung wird der Gesundheitsbonus um [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] verringert.\n[*] Hartnäckige und nicht säuberbare Statusänderungen werden ebenfalls entfernt."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Rachsüchtiger Geist[#]: Fügt am Ende jedes Zugs einem zufälligen Gegner [#!]{POWER} %[#] Schaden zu und entfernt seine Boni."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Wenn zusätzliche Effekte allgemein den Angriff erhöhen, kann die Stärke normaler Angriffe um bis zu {MAXATTACK} % steigen."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Wenn zusätzliche Effekte allgemein den Angriff erhöhen, kann die Stärke normaler Angriffe um bis zu {MAXATTACK} % steigen."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Alle Verbündeten erhalten {ATTACK} % normalen Angriff für {TURNS} Züge. Der normale Angriff wird jede Runde um {CHANGE} % erhöht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Der Wirker erhält {ATTACK} % normalen Angriff für {TURNS} Züge. Der normale Angriff wird jede Runde um {CHANGE} % erhöht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Alle Verbündeten erhalten {ATTACK} % normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]Eisverbündeten[#] erhalten {ATTACK} % normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Alle [##elementgreen]Naturverbündeten[#] erhalten {ATTACK} % normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Der Wirker und nahe Verbündete erhalten {ATTACK} % normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Alle [##elementpurple]Schatten[#]verbündeten und erhalten {ATTACK} % normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Alle [##elementred]Feuer[#]verbündeten erhalten {ATTACK} %  normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Alle [##elementyellow]Licht[#]verbündeten erhalten {ATTACK} %  normalen Angriff für {TURNS} Züge."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]Eishelden[#] erhalten {ATTACK} % normalen Angriff für {TURNS} Züge. Steigern andere Effekte allgemein den Angriff, kann die Stärke normaler Angriffe um bis zu {MAXATTACK} % steigen."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]Eishelden[#] erhalten {ATTACK} % normalen Angriff für {TURNS} Züge. Steigern andere Effekte allgemein den Angriff, kann die Stärke normaler Angriffe um bis zu {MAXATTACK} % steigen."
           }
         ]
       },
@@ -54,6 +722,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "ターゲットとランダムな敵1体に{DAMAGE}%のダメージを与える。"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]レア[#]イベント英雄: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]エピック[#]イベント英雄: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]レジェンド[#]イベント英雄（注目以外）: [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "持続時間延長は、浄化可能、強固、浄化不可のステータス異常に作用する。"
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]収穫[#]はターゲットそれぞれから{MAXREMOVALCOUNT}個のバフ、プラスの累積効果、成功効果を安全に削除する。これには強固な効果または解除不可能なバフやダンス効果も含まれる。\n[*]効果を削除するたびに、術者が{HEALTHBOOST}%のHPボーナスを獲得する。HPボーナスは最大HP量を超過することができる。\n\n[*]安全に削除すると、削除時のダメージなど、削除したステータス効果バフから受ける付随効果を無効化する。その上、パッシブスキルやファミリー効果などの外的な効果を発動することもできる。\n[*]成功効果が最初に削除される。他の効果に関しては、直前にかけられたものが最初に削除される。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "持続時間変更は、浄化可能、強固、浄化不可能な効果に影響を及ぼす。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "持続時間変更は、浄化可能、強固、浄化不可能な効果に影響を及ぼす。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "持続時間変更は浄化可能、強固、浄化不可能な効果に影響を及ぼす。\n\n[*]効果の持続時間がゼロになった場合、その効果は自然に失効したものと見なされる。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "持続時間変更は、浄化可能、強固、浄化不可能な効果に影響を及ぼす。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "持続時間変更は、浄化可能、強固、浄化不可能な効果に影響を及ぼす。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "ライフを{DAMAGE}奪取する。\n[*]その敵から、安全にステータス効果バフをランダムで奪取する。これには強固な効果または解除不可能なバフとダンス効果も含まれる。\n[*]安全に奪取すると、削除時のダメージや削除したバフからの副次的効果を無効にできる。パッシブスキルとファミリー効果も有効にしたままにできる。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*]削除されたステータス異常ごとに、ライフブーストが[#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#]減少する。\n[*]強固または浄化不可能なステータス異常も削除される。"
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]復讐のゴースト[#]：各ターン終了時に、ランダムな単体の敵に[#!]{POWER}%[#]のダメージを与え、バフを解除する。"
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "追加の効果が全般的な攻撃力を向上させると、通常攻撃は合計で最大{MAXATTACK}%威力が増加する。"
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "追加の効果が全般的な攻撃力を向上させると、通常攻撃は合計で最大{MAXATTACK}%威力が増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "{TURNS}ターンの間、仲間全員の通常攻撃力が{ATTACK}%になる。この通常攻撃力はターン毎に{CHANGE}%増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "{TURNS}ターンの間、術者の通常攻撃力が{ATTACK}%になる。この通常攻撃力はターン毎に{CHANGE}%増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "{TURNS}ターンの間、仲間全員の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "{TURNS}ターンの間、[##elementblue]氷属性[#]の仲間全員の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "{TURNS}ターンの間、[##elementgreen]自然属性[#]の仲間全員の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "{TURNS}ターンの間、術者と近くにいる仲間の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "{TURNS}ターンの間、[##elementpurple]闇属性[#]の仲間全員と敵全員の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "{TURNS}ターンの間、[##elementred]炎属性[#]の仲間全員の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "{TURNS}ターンの間、[##elementyellow]聖属性[#]の仲間全員の通常攻撃力が{ATTACK}%になる。"
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "{TURNS}ターンの間、[##elementblue]氷属性[#]の英雄全員の通常攻撃が{ATTACK}%になる。追加の効果が全般的な攻撃力を向上させると、通常攻撃は合計で最大{MAXATTACK}%威力が増加する。"
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "{TURNS}ターンの間、[##elementblue]氷属性[#]の英雄全員の通常攻撃が{ATTACK}%になる。追加の効果が全般的な攻撃力を向上させると、通常攻撃は合計で最大{MAXATTACK}%威力が増加する。"
           }
         ]
       },
@@ -62,6 +834,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Gör {DAMAGE} % skada mot målet och en slumpmässig fiende."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Sällsynt[#] evenemangshjälte: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Episk[#] evenemangshjälte: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendarisk[#] evenemangshjälte (ej utvald): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Förlängningen påverkar effekter som kan rensas, envisa effekter och negativa statuseffekter som inte kan rensas."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Skörd[#] tar riskfritt bort {MAXREMOVALCOUNT} bonusar, positiva staplar eller tillväxteffekter från varje mål. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.\n[*]Användaren får {HEALTHBOOST} % ökad hälsa per effekt som tas bort. Ökad hälsa kan överskrida maxhälsan.\n\n[*]Riskfri borttagning ignorerar sekundäreffekter, som skada vid borttagning, från de borttagna statuseffektsbonusarna. Externa effekter som passiva förmågor och familjeeffekter kan dock fortfarande aktiveras.\n[*]Tillväxteffekter tas bort först. För andra effekter tas de bort i turordning, med den senaste först."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Tidsmodifieringen påverkar effekter som kan rensas, envisa effekter och effekter som inte kan rensas."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Tidsmodifieringen påverkar effekter som kan rensas, envisa effekter och effekter som inte kan rensas."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Tidsmodifieringen påverkar effekter som kan rensas, envisa effekter och effekter som inte kan rensas.\n\n[*]Om en effekts tid förkortas till noll anses den ha tagit slut på naturlig väg."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Tidsmodifieringen påverkar effekter som kan rensas, envisa effekter och effekter som inte kan rensas."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Tidsmodifieringen påverkar effekter som kan rensas, envisa effekter och effekter som inte kan rensas."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Stjäl {DAMAGE} hälsa.\n[*]Stjäl riskfritt en statuseffektsbonus från målet. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.\n[*]Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Hälsobonusen sänks med [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] per borttagen negativ statuseffekt.\n[*] Envisa negativa statuseffekter och negativa statuseffekter som inte kan rensas tas också bort."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Hämndlystet spöke[#]: Gör [#!]{POWER} %[#] skada mot en slumpvald fiende i slutet av varje runda och tar bort bonusar från den."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Om andra effekter ökar attack i allmänhet kan vanliga attacker få maximalt {MAXATTACK} % ökad kraft totalt."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Om andra effekter påverkar attackstyrka i allmänhet kan vanliga attacker ha högst {MAXATTACK} % högre kraft."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Alla allierade får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Den vanliga attackstyrkan stiger med {CHANGE} % varje runda."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Användaren får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Den vanliga attackstyrkan stiger med {CHANGE} % varje runda."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Alla allierade får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alla [##elementblue]isallierade[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Alla [##elementgreen]naturallierade[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Anfallaren och allierade i närheten får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Alla [##elementpurple]mörkerallierade[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Alla [##elementred]eldallierade[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Alla [##elementyellow]heliga allierade[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alla [##elementblue]ishjältar[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Om andra effekter påverkar attackstyrka i allmänhet kan vanliga attacker ha högst {MAXATTACK} % högre kraft."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Alla [##elementblue]ishjältar[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Om andra effekter påverkar attackstyrka i allmänhet kan vanliga attacker ha högst {MAXATTACK} % högre kraft."
           }
         ]
       },
@@ -70,6 +946,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Hedefe ve rastgele bir düşmana %{DAMAGE} hasar verir."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Nadir[#] Etkinlik Kahramanı: [#!]%{0}[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Epik[#] Etkinlik Kahramanı: [#!]%{0}[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Efsanevi[#] Etkinlik Kahramanı (vitrinde değil): [#!]%{0}[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Süre artışı; arındırılabilen, İnatçı ve arındırılamayan durum engellerini etkiler."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Hasat[#] her bir hedeften {MAXREMOVALCOUNT} buff'ı, olumlu İstifi veya Büyüme efektini güvenle kaldırır. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri de dâhildir.\n[*]Eylemci, kaldırılan her efekt için %{HEALTHBOOST} artırılmış sağlık alır. Artırılmış sağlık, maks. SP'yi geçebilir.\n\n[*]Güvenli kaldırma, kaldırılan durum efekti buff'larındaki kaldırınca hasar alma gibi ikincil efektleri atlatır. Pasif yetenekler ve aile efektleri gibi dış efektler yine de etkinleşebilir.\n[*]İlk önce büyüme efektleri kaldırılır. Diğer efektlerde, en son uygulanan ilk önce kaldırılır."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler.\n\n[*]Herhangi bir efektin süresi sıfırlandıysa efektin doğal olarak süresi dolmuş sayılır."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "{DAMAGE} sağlık çalar.\n[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.\n[*]Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Sağlık artışı, kaldırılan her engel için [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] azalır.\n[*] İnatçı ve Arındırılamayan engeller de kaldırılır."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Kindar Hayalet[#]: Her turun sonunda rastgele bir düşmana [#!]%{POWER}[#] hasar verir ve onun buff'larını bozar."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Ek efektler saldırını genel anlamda artırırsa normal saldırılar toplamda en fazla %{MAXATTACK} artırılmış güce sahip olabilir."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Ek efektler saldırını genel anlamda artırırsa normal saldırılar toplamda en fazla %{MAXATTACK} artırılmış güce sahip olabilir."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Tüm müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Eylemci {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Tüm müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Tüm [##elementblue]Buz[#] müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Tüm [##elementgreen]Doğa[#] müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Eylemci ve yakındaki müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Tüm [##elementpurple]Karanlık[#] müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Tüm [##elementred]Ateş[#] müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Tüm [##elementyellow]Kutsal[#] müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Tüm [##elementblue]Buz[#] Kahramanları, {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Ek efektler saldırını genel anlamda artırırsa normal saldırılar toplamda en fazla %{MAXATTACK} artırılmış güce sahip olabilir."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Tüm [##elementblue]Buz[#] Kahramanları, {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Ek efektler saldırını genel anlamda artırırsa normal saldırılar toplamda en fazla %{MAXATTACK} artırılmış güce sahip olabilir."
           }
         ]
       },
@@ -78,6 +1058,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Deals {DAMAGE}% damage to the target and a random enemy."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Rare[#] Event Hero: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Epic[#] Event Hero: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendary[#] Event Hero (non-featured): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "The duration increase affects cleansable, Stubborn and uncleansable status ailments."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Harvest[#] safely removes {MAXREMOVALCOUNT} buffs, positive Stacks or Growth effects from each target. This includes Stubborn effects, undispellable buffs and Dance effects.\n[*]The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.\n\n[*]Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.\n[*]Growth effects are removed first. Other effects, the latest is removed first."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "The duration modification affects cleansable, Stubborn and uncleansable effects."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "The duration modification affects cleansable, Stubborn and uncleansable effects."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "The duration modification affects cleansable, Stubborn and uncleansable effects.\n\n[*]If the duration of any effect is reduced to zero, the effect is considered as having expired naturally."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "The duration modification affects cleansable, Stubborn and uncleansable effects."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "The duration modification affects cleansable, Stubborn and uncleansable effects."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Steals {DAMAGE} health.\n[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.\n[*]Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] The health boost is reduced by [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for each removed ailment.\n[*] Stubborn and Uncleansable ailments are also removed."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Vengeful Ghost[#]: At the end of each turn, deals [#!]{POWER}%[#] damage to a random enemy and dispels buffs from them."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "If additional effects increase attack in general, normal attacks can have a total maximum of {MAXATTACK}% increased power."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "If additional effects increase attack in general, normal attacks can have a total maximum of {MAXATTACK}% increased power."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "All allies get {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "The caster gets {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "All allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "All [##elementblue]Ice[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "All [##elementgreen]Nature[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "The caster and nearby allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "All [##elementpurple]Dark[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "All [##elementred]Fire[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "All [##elementyellow]Holy[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "All [##elementblue]Ice[#] Heroes get {ATTACK}% normal attack for {TURNS} turns. If additional effects increase attack in general, normal attacks can have a total maximum of {MAXATTACK}% increased power."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "All [##elementblue]Ice[#] Heroes get {ATTACK}% normal attack for {TURNS} turns. If additional effects increase attack in general, normal attacks can have a total maximum of {MAXATTACK}% increased power."
           }
         ]
       },
@@ -86,6 +1170,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "يلحق {DAMAGE}% من الضرر بالهدف، وبعدو عشوائي."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "بطل حدث [#ffffff]نادر[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "بطل حدث [#fff081]ملحمي[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "بطل الحدث [#ffc3ff]الأسطوري[#] (غير متوفر): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "تؤثر زيادة المدة على كل من حالات المرض القابلة للتطهير، والعنيدة، وغير القابلة للتطهير."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "يزيل [#!]الحصاد[#] بأمان {MAXREMOVALCOUNT} من العلاوات، أو التراكمات الإيجابية، أو تأثيرات النمو من كل هدف. يشمل ذلك التأثيرات العنيدة، والعلاوات غير القابلة للإزالة، وتأثيرات الرقص.\n[*]يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من نقاط الصحة.\n\n[*]تتجاوز الإزالة الآمنة التأثيرات الثانوية، مثل الضرر عند الإزالة، من علاوات تأثير الحالة المُزال. لا يزال بالإمكان تفعيل التأثيرات الخارجية، مثل المهارات السلبية وتأثيرات العائلة.\n[*]تُزال تأثيرات النمو أولًا. أما التأثيرات الأخرى الأحدث، فتُزال أولًا."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة.\n\n[*]إذا قلت مدة أي تأثير إلى صفر، فيعتبر أن التأثير قد انتهت مدته بشكل طبيعي."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "تسرق {DAMAGE} الصحة.\n[*]تسرق تعزيز تأثير الحالة بأمان مرة واحدة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة والتأثيرات العنيدة، وتأثيرات الرقص.\n[*]تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] يتم تقليل تعزيز الصحة بمقدار [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] لكل مرض تمت إزالته.\n[*]يتم أيضًا إزالة الأمراض غير القابلة للتطهير والعندية."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]الشبح المنتقم[#]: في نهاية كل جولة، يُلحق  [#!]{POWER}%[#] من الضرر بعدو عشوائي، ويُبدد التعزيزات."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "إذا زادت التأثيرات الإضافية من الهجوم بشكل عام، فقد يزيد الحد الأقصى للهجمات العادية بنسبة {MAXATTACK}% من القوة الإضافية."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "إذا زادت التأثيرات الإضافية من الهجوم بشكل عام، فقد يزيد الحد الأقصى للهجمات العادية بنسبة {MAXATTACK}% من القوة الإضافية."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "يحصل جميع الحلفاء على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. ويزداد الهجوم العادي بنسبة {CHANGE}% في كل جولة."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "يحصل المنفذ على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. ويزداد الهجوم العادي بنسبة {CHANGE}% في كل جولة."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "يحصل جميع الحلفاء على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "يحصل جميع حلفاء من عنصر [##elementblue]الثلج[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "يحصل جميع الحلفاء من عنصر [##elementgreen]الطبيعة[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "يحصل البطل والحلفاء المجاورون على {ATTACK}% الهجوم العادي طوال {TURNS} جولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "يحصل جميع حلفاء من عنصر [##elementpurple]الظلام[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "يحصل جميع حلفاء [##elementred]النار[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "يحصل جميع حلفاء العنصر [##elementyellow]المقدس[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "يحصل كل أبطال [##elementblue]الثلج[#] على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. إذا أدت التأثيرات الإضافية إلى تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "يحصل كل أبطال [##elementblue]الثلج[#] على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. إذا أدت التأثيرات الإضافية إلى تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة."
           }
         ]
       },
@@ -94,6 +1282,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Inflige {DAMAGE} % de dégâts à la cible et à un ennemi aléatoire."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "Héros [#ffffff]rare[#] d'événement : [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "Héros [#fff081]épique[#] d'événement : [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "Héros [#ffc3ff]légendaire[#] d'événement (pas à la une) : [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "L'augmentation de durée affecte les effets négatifs purifiables, obstinés et non purifiables."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "La [#!]récolte[#] supprime de façon sûre {MAXREMOVALCOUNT} bonus, cumuls positifs ou effets de croissance pour chaque cible. Les effets obstinés, les bonus non dissipables et les effets de danse sont également concernés.\n[*]La santé du lanceur est boostée de {HEALTHBOOST} % pour chaque effet supprimé. Le maximum de PV peut être dépassé.\n\n[*]La suppression sûre contourne les effets secondaires comme les dégâts lors de la suppression. Les effets externes comme les compétences passives et les effets de famille peuvent toujours s'activer.\n[*]Les effets de croissance sont supprimés en premier. Les autres effets sont ensuite supprimés en commençant par le plus récent."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "La modification de durée affecte les effets purifiables, obstinés et non purifiables.\n\n[*]Si la durée d'un effet est réduite à zéro, il est considéré qu'il a pris fin naturellement."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Vole {DAMAGE} PV.\n[*]Vole de façon sûre un effet appliqué positif de la cible. Il peut s'agir d'un effet obstiné, d'un bonus non dissipable ou d'un effet de danse.\n[*]Le vol sûr contourne les effets secondaires comme les dégâts lors du vol. Les compétences passives et les effets de famille peuvent toujours s'activer."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Le bonus de santé est réduit de [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] pour chaque effet supprimé.\n[*] Les effets négatifs obstinés et non purifiables sont également supprimés."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Fantôme vengeur[#] : à la fin de chaque tour, inflige [#!]{POWER} %[#] de dégâts à un ennemi aléatoire et lui dissipe ses bonus."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Si des effets supplémentaires augmentent l'attaque en général, les attaques normales peuvent avoir un maximum de {MAXATTACK} % de puissance augmentée."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Si des effets supplémentaires augmentent l'attaque en général, les attaques normales peuvent avoir un maximum de {MAXATTACK} % de puissance augmentée."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Tous les alliés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. L'attaque normale augmente de {CHANGE} % à chaque tour."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Le lanceur reçoit {ATTACK} % d'attaque normale pendant {TURNS} tours. L'attaque normale augmente de {CHANGE} % à chaque tour."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Tous les alliés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Tous les alliés de [##elementblue]glace[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Tous les alliés de [##elementgreen]nature[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Le lanceur et les alliés à proximité reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Tous les alliés [##elementpurple]sombres[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Tous les alliés de [##elementred]feu[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Tous les alliés [##elementyellow]sacrés[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Tous les héros de [##elementblue]glace[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Si des effets supplémentaires augmentent l'attaque en général, les attaques normales peuvent avoir un maximum de {MAXATTACK} % de puissance augmentée."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Tous les héros de [##elementblue]glace[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Si des effets supplémentaires augmentent l'attaque en général, les attaques normales peuvent avoir un maximum de {MAXATTACK} % de puissance augmentée."
           }
         ]
       },
@@ -102,6 +1394,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Causa {DAMAGE}% de dano ao alvo e a um inimigo aleatório."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "Herói de evento [#ffffff]raro[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "Herói de evento [#fff081]épico[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "Herói de evento [#ffc3ff]lendário[#] (sem destaque): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "A duração prolongada afeta males de status expurgáveis, persistentes e inexpurgáveis."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "A [#!]Ceifa[#] remove com segurança {MAXREMOVALCOUNT} reforços, acumulações positivas ou efeitos Crescimento de cada alvo. Isso inclui efeitos persistentes, reforços indissipáveis e efeitos de dança.\n[*] O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.\n\n[*] A remoção segura ignora os efeitos secundários, como dano ao remover, dos reforços de efeito de status removidos. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.\n[*] Os efeitos Crescimento são removidos primeiro. Entre outros efeitos, o mais recente é removido primeiro."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "A modificação da duração afeta efeitos expurgáveis, persistentes e não expurgáveis.\n\n[*] Quando a duração de qualquer efeito chega a zero, o efeito é considerado naturalmente expirado."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Rouba {DAMAGE} de vida. \n[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.\n[*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] O reforço de vida é reduzido em [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] por cada mal removido.\n[*] Os males persistentes e inexpurgáveis também são removidos."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Fantasma vingativo[#]: no fim de cada turno, causa [#!]{POWER}%[#] de dano a um inimigo aleatório e dissipa reforços dele."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Quando efeitos adicionais aumentam o ataque de modo geral, o poder dos ataques normais pode aumentar em até {MAXATTACK}% no total."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Quando efeitos adicionais aumentam o ataque de modo geral, o poder dos ataques normais pode aumentar em até {MAXATTACK}% no total."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "O invocador recebe {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Todos os aliados de [##elementblue]Gelo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Todos os aliados de [##elementgreen]Natureza[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "O invocador e os aliados próximos recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Todos os aliados de [##elementpurple]Trevas[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Todos os aliados de [##elementred]Fogo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Todos os aliados de [##elementyellow]Luz[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Todos os heróis de [##elementblue]Gelo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos. Quando efeitos adicionais aumentam o ataque de modo geral, o poder dos ataques normais pode aumentar em até {MAXATTACK}% no total."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Todos os heróis de [##elementblue]Gelo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos. Quando efeitos adicionais aumentam o ataque de modo geral, o poder dos ataques normais pode aumentar em até {MAXATTACK}% no total."
           }
         ]
       },
@@ -110,6 +1506,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Menimbulkan kerusakan {DAMAGE}% ke sasaran dan satu musuh acak."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "Pahlawan Acara [#ffffff]Langka[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "Pahlawan Acara [#fff081]Epik[#]: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "Pahlawan Acara [#ffc3ff]Legendaris[#] (non-unggulan): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Peningkatan durasi memengaruhi status pelemahan yang bisa dibersihkan, Bandel, dan yang tidak bisa dibersihkan."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Panen[#] dengan aman menghapus {MAXREMOVALCOUNT} genjotan, Tumpukan positif, atau efek Bertumbuh dari setiap sasaran. Ini termasuk efek Bandel, genjotan yang tidak bisa dienyahkan, dan efek Tarian.\n[*]Perapal menerima {HEALTHBOOST}% peningkatan kesehatan untuk setiap efek yang dihapus. Peningkatan kesehatan dapat melebihi HP maks.\n\n[*]Penghapusan yang aman melewati efek sekunder, seperti kerusakan saat menghapus, dari genjotan efek status yang dihapus. Efek eksternal seperti keterampilan pasif dan efek keluarga masih bisa aktif.\n[*]Efek Bertumbuh dihapus terlebih dahulu. Efek lainnya dihapus dari yang terbaru."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Modifikasi durasi memengaruhi efek yang bisa dibersihkan, Bandel, dan yang tidak bisa dibersihkan."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Modifikasi durasi memengaruhi efek yang bisa dibersihkan, Bandel, dan yang tidak bisa dibersihkan."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Modifikasi durasi memengaruhi efek yang bisa dibersihkan, Bandel, dan yang tidak bisa dibersihkan.\n\n[*]Jika durasi efek apa pun dikurangi menjadi nol, efek tersebut dianggap telah kedaluwarsa secara alami."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Modifikasi durasi memengaruhi efek yang bisa dibersihkan, Bandel, dan yang tidak bisa dibersihkan."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Modifikasi durasi memengaruhi efek yang bisa dibersihkan, Bandel, dan yang tidak bisa dibersihkan."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Mencuri {DAMAGE} kesehatan.\n[*]Dengan aman mencuri satu genjotan efek status dari sasaran. Ini termasuk efek Bandel, genjotan yang tidak bisa dienyahkan, dan efek Tarian.\n[*]Pencurian aman melewati efek sekunder, seperti kerusakan saat dihapus, dari genjotan yang dihapus. Keahlian pasif dan efek keluarga masih dapat diaktifkan."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Genjotan kesehatan berkurang sebesar [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] untuk setiap pelemahan yang dihapus.\n[*] Pelemahan Bandel dan yang tidak dapat dibersihkan juga dihapus."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Hantu Pendendam[#]: Di akhir tiap giliran, menimbulkan [#!]{POWER}%[#] kerusakan pada musuh acak dan mengenyahkan genjotan dari mereka."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Jika efek tambahan meningkatkan serangan secara umum, serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Jika efek tambahan meningkatkan serangan secara umum, serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Semua sekutu mendapat {ATTACK}% serangan normal selama {TURNS} giliran. Serangan normal naik {CHANGE}% tiap giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Sekutu mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Serangan normal naik {CHANGE}% tiap giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Semua sekutu mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Semua sekutu [##elementblue]Es[#] mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Semua sekutu [##elementgreen]Alam[#] mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Perapal dan sekutu terdekat mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Semua sekutu [##elementpurple]Gelap[#] mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Semua sekutu [##elementred]Api[#] mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Semua sekutu [##elementyellow]Suci[#] mendapat {ATTACK}% serangan normal selama {TURNS} giliran."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Semua Pahlawan [##elementblue]Es[#] mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Jika efek tambahan meningkatkan serangan secara umum, serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Semua Pahlawan [##elementblue]Es[#] mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Jika efek tambahan meningkatkan serangan secara umum, serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan."
           }
         ]
       },
@@ -118,6 +1618,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Tuottaa {DAMAGE} % vauriota kohteelle ja satunnaiselle viholliselle."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Harvinainen[#] tapahtumasankari: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Eeppinen[#] tapahtumasankari: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendaarinen[#] tapahtumasankari (ei esittelyssä oleva): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Keston kasvu vaikuttaa puhdistettaviin ja sitkeisiin vaivoihin, sekä niihin, joita ei voi puhdistaa."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Sadonkorjuu[#] poistaa kultakin kohteelta turvallisesti {MAXREMOVALCOUNT} tehostetta, positiivista kasaumaa tai kasvuefektiä. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssitilaefektejä.\n[*]Loitsija saa {HEALTHBOOST} % tehostettua terveyttä jokaisesta poistetusta efektistä. Tehostettu terveys voi ylittää maksimiterveyden.\n\n[*]Turvallinen poisto ohittaa poistettujen tilaefektitehosteiden toissijaiset efektit, kuten poistosta johtuvan vaurion. Ulkoiset efektit, kuten passiiviset taidot ja perhevaikutukset, voivat silti aktivoitua.\n[*]Kasvuefektit poistetaan ensin. Muista efekteistä uusin poistetaan ensin."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Keston muutos vaikuttaa puhdistettaviin ja sitkeisiin efekteihin, sekä niihin, joita ei voi puhdistaa."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Keston muutos vaikuttaa puhdistettaviin ja sitkeisiin efekteihin, sekä niihin, joita ei voi puhdistaa."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Keston muutos vaikuttaa puhdistettaviin ja sitkeisiin efekteihin, sekä niihin, joita ei voi puhdistaa.\n\n[*]Jos jonkin efektin kesto menee nollaan, efektin katsotaan päättyneen luonnollisesti."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Keston muutos vaikuttaa puhdistettaviin ja sitkeisiin efekteihin, sekä niihin, joita ei voi puhdistaa."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Keston muutos vaikuttaa puhdistettaviin ja sitkeisiin efekteihin, sekä niihin, joita ei voi puhdistaa."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Varastaa {DAMAGE} terveyttä.\n[*]Varastaa kohteelta turvallisesti yhden tilaefektitehosteen. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssiefektejä.\n[*]Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutukset, kuten poistosta johtuvan vaurion. Passiiviset taidot ja perhevaikutukset voivat silti aktivoitua."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Terveystehostusta vähennetään [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] jokaista poistettua vaivaa kohti.\n[*] Myös sitkeät ja ei puhdistettavissa olevat vaivat poistetaan."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Kostonhimoinen haamu[#]: Tuottaa jokaisen vuoron lopussa [#!]{POWER} %[#] vauriota satunnaiselle viholliselle ja häivyttää siltä tehosteita."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Jos lisävaikutukset nostavat hyökkäystä yleisesti, normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Jos lisävaikutukset nostavat hyökkäystä yleisesti, normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Kaikki liittolaiset saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Normaali hyökkäys nousee {CHANGE} % joka vuorolla."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Loitsija saa {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Normaali hyökkäys nousee {CHANGE} % joka vuorolla."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Kaikki liittolaiset saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Kaikki [##elementblue]jääliittolaiset[#] saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Kaikki [##elementgreen]luontoliittolaiset[#] saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Loitsija ja lähellä olevat liittolaiset saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Kaikki [##elementpurple]pimeyden[#] liittolaiset saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Kaikki [##elementred]tuliliittolaiset[#] saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Kaikki [##elementyellow]pyhät[#] liittolaiset saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Kaikki [##elementblue]jääsankarit[#] saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Jos lisävaikutukset nostavat hyökkäystä yleisesti, normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Kaikki [##elementblue]jääsankarit[#] saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Jos lisävaikutukset nostavat hyökkäystä yleisesti, normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa."
           }
         ]
       },
@@ -126,6 +1730,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Forvolder {DAMAGE} % skade mod målet og en tilfældig fjende."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Sjælden[#] begivenheds-helt: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Episk[#] begivenheds-helt: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendarisk[#] event-helt (ikke præsenteret): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Forøgelsen af varighed påvirker både statuslidelser, der kan fjernes, er stædige eller ikke kan ryddes."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Høst[#] fjerner sikkert {MAXREMOVALCOUNT} buffere, positive kumulative effekter eller væksteffekter fra hvert mål. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.\n[*]Kasteren får {HEALTHBOOST} % boostet helbred for hver effekt, der fjernes. Boostet helbred kan overstige maks. helbred.\n\n[*]Sikker fjernelse omgår sekundære effekter, såsom skade ved fjernelse, fra de fjernede statuseffektbuffere. Eksterne effekter som passive evner og familieeffekter kan stadig aktiveres.\n[*]Væksteffekter fjernes først. Ved andre effekter fjernes den seneste først."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Ændringen af varighed påvirker effekter, der kan fjernes, er stædige eller ikke kan ryddes.\n\n[*]Hvis en effekts varighed reduceres til nul, regnes effekten for at være udløbet naturligt."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Stjæler {DAMAGE} helbred.\n[*]Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.\n[*]Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Helbredsbonussen reduceres med [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for hver fjernet lidelse.\n[*] Stædige og uophævelige lidelser fjernes også."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Hævngerrigt spøgelse[#]: Forvolder i slutningen af hver runde [#!]{POWER} %[#] skade på en tilfældig fjende og ophæver vedkommendes buffere."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Hvis ekstra effekter øger angreb generelt, kan almindelige angreb højst have {MAXATTACK} % forøget kraft."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Hvis ekstra effekter øger angreb generelt, kan almindelige angreb højst have {MAXATTACK} % forøget kraft."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Alle allierede får {ATTACK} % almindeligt angreb i {TURNS} runder. Det almindelige angreb øges med {CHANGE} % i hver runde."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Kasteren får {ATTACK} % almindeligt angreb i {TURNS} runder. Det almindelige angreb øges med {CHANGE} % i hver runde."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Alle allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]is[#]-allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Alle [##elementgreen]natur[#]-allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Kasteren og allierede i nærheden får {ATTACK} % angreb i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Alle [##elementpurple]mørke[#] allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Alle [##elementred]ild[#]-allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Alle [##elementyellow]hellige[#] allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]is[#]-helte får {ATTACK} % almindeligt angreb i {TURNS} runder. Hvis ekstra effekter øger angrebet i generelle, almindelige angreb, kan den samlede forøgede kraft maks. være {MAXATTACK} %."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]is[#]-helte får {ATTACK} % almindeligt angreb i {TURNS} runder. Hvis ekstra effekter øger angrebet i generelle, almindelige angreb, kan den samlede forøgede kraft maks. være {MAXATTACK} %."
           }
         ]
       },
@@ -134,6 +1842,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Inflige {DAMAGE} % de daño al objetivo y a un enemigo aleatorio."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "Héroe de evento [#ffffff]raro[#]: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "Héroe de evento [#fff081]épico[#]: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "Héroe de evento [#ffc3ff]legendario[#] no destacado: [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "El aumento de la duración afecta a efectos purificables, obstinados e impurificables."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "La [#!]cosecha[#] elimina de forma segura hasta {MAXREMOVALCOUNT} bendiciones, acumulaciones positivas o efectos de crecimiento de cada objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.\n[*] La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.\n\n[*] La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.\n[*] Los efectos de crecimiento se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "La modificación de duración afecta a efectos purificables, obstinados e impurificables.\n\n[*] Si la duración de cualquier efecto se reduce a cero, se considera que el efecto ha caducado de forma natural."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Roba {DAMAGE} de vitalidad.\n[*] Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.\n[*] El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] La vitalidad potenciada se reduce en [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] por cada estado alterado eliminado.\n[*] Los estados alterados obstinados e impurificables también se eliminan."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Fantasma vengativo[#]: Al final de cada turno, inflige un [#!]{POWER} %[#] de daño a un enemigo aleatorio y descarta bendiciones que tenga."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Si efectos adicionales aumentan el ataque en general, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Si efectos adicionales aumentan el ataque en general, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "El héroe reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Todos los aliados de [##elementblue]hielo[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Todos los aliados de [##elementgreen]naturaleza[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "El héroe y los aliados cercanos reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Todos los aliados [##elementpurple]oscuros[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Todos los aliados de [##elementred]fuego[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Todos los aliados [##elementyellow]sagrados[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Todos los héroes de [##elementblue]hielo[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Si efectos adicionales aumentan el ataque en general, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Todos los héroes de [##elementblue]hielo[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Si efectos adicionales aumentan el ataque en general, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
           }
         ]
       },
@@ -142,6 +1954,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Påfører {DAMAGE} % skade på målet og en tilfeldig fiende."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Sjelden[#] hendelseshelt: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Episk[#] hendelseshelt: [#!]{0} %[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendarisk[#] hendelseshelt (ikke fremhevet): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "Varighetsøkningen påvirker statuslidelser som kan renses, er sta og ikke kan renses."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]Innhøsting[#] fjerner trygt {MAXREMOVALCOUNT} økninger, positive stabler eller veksteffekter fra hvert mål. Dette inkluderer sta effekter, økninger som ikke kan fjernes og danseeffekter.\n[*]Brukeren mottar {HEALTHBOOST} % økt helse for hver effekt fjernet. Økt helse kan overskride maksimal HP.\n\n[*]Trygg fjerning forbigår sekundære effekter, som skade ved fjerning, fra de fjernede statuseffektøkningene. Eksterne effekter, som passive ferdigheter og familieeffekter, kan fortsatt aktiveres.\n[*]Veksteffekter fjernes først. For andre effekter fjernes den siste først."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses.\n\n[*]Hvis varigheten til en effekt reduseres til null, anses effekten å ha utløpt naturlig."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Stjeler {DAMAGE} helse.\n[*]Stjeler på en trygg måte én statuseffektøkning fra målet. Dette inkluderer sta-effekter, økninger som ikke kan fjernes og danseeffekter.\n[*]Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fjernede økningene. Passive ferdigheter og familieeffekter kan fortsatt aktiveres."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] Helseøkningen reduseres med [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for hver fjernet lidelse.\n[*] Lidelser som er sta og ikke kan renses bort, fjernes også."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Hevngjerrig spøkelse[#]: Ved slutten av hver runde påføres [#!]{POWER} %[#] skade på en tilfeldig fiende og fjerner økning fra dem."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Hvis ekstra effekter øker angrep generelt, kan normale angrep ha totalt {MAXATTACK} % økt kraft."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Hvis ekstra effekter øker angrep generelt, kan normale angrep ha totalt {MAXATTACK} % økt kraft."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Alle allierte får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "Brukeren får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Alle allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]is[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Alle [##elementgreen]natur[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "Brukeren og allierte i nærheten får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Alle [##elementpurple]mørke[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Alle [##elementred]ild[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Alle [##elementyellow]hellig[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]ishelter[#] får {ATTACK} % normalt angrep i {TURNS} runder. Hvis ytterligere effekter generelt sett øker angrepet, kan normalt angrep ha til sammen maksimalt {MAXATTACK} % økt styrke."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]ishelter[#] får {ATTACK} % normalt angrep i {TURNS} runder. Hvis ytterligere effekter generelt sett øker angrepet, kan normalt angrep ha til sammen maksimalt {MAXATTACK} % økt styrke."
           }
         ]
       },
@@ -150,6 +2066,110 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "Brengt {DAMAGE}% schade toe aan het doelwit en een willekeurige vijand."
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]Zeldzame[#] evenementsheld: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]Epische[#] evenementsheld: [#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]Legendarische[#] evenementsheld (niet-uitgelicht): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "De verlenging van de duur heeft invloed op zuiverbare, hardnekkige en niet-zuiverbare statusaandoeningen."
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "Met [#!]oogsten[#] worden maximaal {MAXREMOVALCOUNT} oppeppers, positieve cumulatieve effecten of groei-effecten veilig verwijderd van elk doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.\n[*]De spreukspreker ontvangt een boost van {HEALTHBOOST}% gezondheid voor elk verwijderd effect. De verhoogde gezondheid kan hoger zijn dan de maximale gezondheid.\n\n[*]Veilig verwijderen omzeilt secundaire effecten, zoals schade bij verwijdering, die optreden bij het verwijderen van oppeppers door statuseffecten. Externe effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn.\n[*]Groei-effecten worden het eerst verwijderd. Bij andere effecten wordt het laatste effect het eerst verwijderd."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "De tijdsaanpassing is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten.\n\n[*]Als de duur van een effect de nul bereikt, wordt het effect beschouwd als verlopen."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Steelt {DAMAGE} gezondheid.\n[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.\n[*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*] De gezondheidsboost wordt verminderd met [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] voor iedere verwijderde aandoening.\n[*] Hardnekkige en niet-zuiverbare aandoeningen worden ook verwijderd."
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]Wraakzuchtige geest[#]: brengt na afloop van elke beurt [#!]{POWER}%[#] schade toe aan een willekeurige vijand en verwijdert oppeppers."
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "Als extra effecten de algemene aanvalskracht verhogen, kunnen normale aanvallen maximaal {MAXATTACK}% krachtiger zijn."
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "Als extra effecten de algemene aanvalskracht verhogen, kunnen normale aanvallen maximaal {MAXATTACK}% krachtiger zijn."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "Alle bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "De spreukspreker krijgt {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "Alle bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]ijsbondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "Alle [##elementgreen]natuurbondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "De held en bondgenoten in de buurt krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "Alle [##elementpurple]duistere bondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "Alle [##elementred]vuurbondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "Alle [##elementyellow]heilige bondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]ijshelden[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. Als andere effecten de algemene aanvalskracht wijzigen, kunnen normale aanvallen maximaal {MAXATTACK}% krachtiger zijn."
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "Alle [##elementblue]ijshelden[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. Als andere effecten de algemene aanvalskracht wijzigen, kunnen normale aanvallen maximaal {MAXATTACK}% krachtiger zijn."
           }
         ]
       },
@@ -158,10 +2178,114 @@
           {
             "key": "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit",
             "text": "对目标和随机一名敌人造成{DAMAGE}%伤害。"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_3",
+            "text": "[#ffffff]稀有[#]活动英雄：[#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_4",
+            "text": "[#fff081]史诗[#]活动英雄：[#!]{0}%[#]"
+          },
+          {
+            "key": "odds.hero_lottery_hero_beach_party_2026_extra_seasonal_5.non_featured",
+            "text": "[#ffc3ff]传奇[#]活动英雄（非精选）：[#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra",
+            "text": "持续时间的增加会影响可净化、顽固和不可净化的状态异常。"
+          },
+          {
+            "key": "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra",
+            "text": "[#!]收割[#]可以从每个目标身上安全移除{MAXREMOVALCOUNT}个增益效果、正面效果叠加和成长效果。包含顽固效果、不可驱散的增益效果和起舞效果。\n[*]每移除一个效果，施法者的生命值提升{HEALTHBOOST}%。提升的生命值可以超过最大生命值。\n\n[*]安全移除会无视状态异常被移除时的次级效果，例如移除时造成伤害。被动技能和家族效果等外来效果仍会生效。\n[*]成长效果会率先被移除，其他效果则按照“后施加的先移除”的规则处理。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.extra",
+            "text": "持续时间调整对可净化、顽固和不可净化效果皆有影响。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra",
+            "text": "持续时间调整对可净化、顽固和不可净化效果皆有影响。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra",
+            "text": "持续时间调整对可净化、顽固和不可净化的效果皆有影响。\n\n[*]如果任意效果的持续时间被削减至0，那么该效果将算作自然结束。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra",
+            "text": "持续时间调整对可净化效果、顽固和不可净化效果皆有影响。"
+          },
+          {
+            "key": "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra",
+            "text": "持续时间调整对可净化效果、顽固和不可净化效果皆有影响。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "偷取{DAMAGE}点生命值。\n[*]安全地从目标身上偷取一个状态效果增益。包括顽强效果、不可驱散增益与舞蹈效果。\n[*]安全偷取会无视状态效果增益被移除时的副作用，例如移除时的伤害。但被动技能和家族效果仍会触发。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra",
+            "text": "[*]每移除一个异常，生命加成减少[#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#]点。\n[*]顽固和不可净化异常也会被移除。"
+          },
+          {
+            "key": "statuseffects.description.vengefulghoststatuseffectskill.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies",
+            "text": "[#!]复仇幽灵[#]：每回合结束时，对一名随机敌人造成[#!]{POWER}%[#]的伤害，并驱散其增益效果。"
+          },
+          {
+            "key": "statuseffects.extra.changingnormalattackmodifier",
+            "text": "若附加效果提升整体攻击，普通攻击最多可提升{MAXATTACK}%的战力。"
+          },
+          {
+            "key": "statuseffects.extra.normalattackmodifier",
+            "text": "若附加效果提升整体攻击，普通攻击最多可提升{MAXATTACK}%的战力。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies",
+            "text": "所有盟友在获得{ATTACK}%普通攻击，持续{TURNS}回合。普通攻击每回合有{CHANGE}%获得提升。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies",
+            "text": "施法者获得获得{ATTACK}%普通攻击，持续{TURNS}回合。普通攻击每回合有{CHANGE}%获得提升。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.all.allies",
+            "text": "所有盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "所有[##elementblue]冰雪系[#]盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.green.allies",
+            "text": "所有[##elementgreen]自然系[#]盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies",
+            "text": "施法者与附近盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.purple.allies",
+            "text": "所有[##elementpurple]暗黑系[#]盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.red.allies",
+            "text": "所有[##elementred]烈火系[#]盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies",
+            "text": "所有[##elementyellow]神圣系[#]盟友获得{ATTACK}%普通攻击，持续{TURNS}回合。"
+          },
+          {
+            "key": "levelproperty.statuseffect.minor.normalattackmodifier.blue.allies",
+            "text": "所有[##elementblue]冰系[#]英雄获得{ATTACK}%普通攻击，持续{TURNS}回合。若附加效果提升整体攻击，普通攻击最多可提升{MAXATTACK}%的战力。"
+          },
+          {
+            "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
+            "text": "所有[##elementblue]冰系[#]英雄获得{ATTACK}%普通攻击，持续{TURNS}回合。若附加效果提升整体攻击，普通攻击最多可提升{MAXATTACK}%的战力。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2494781617
+  "languageOverridesConfigId": 726475771
 }

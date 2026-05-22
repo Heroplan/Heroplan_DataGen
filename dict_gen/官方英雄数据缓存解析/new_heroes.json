@@ -48,6 +48,42 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Rudraditya",
+        "fancy_name": "The Sun Warrior",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-05-26 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_rudraditya",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Garnet C",
+        "fancy_name": "Ninja of Flaming Vigor",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-05-30 07:00:00",
+        "star": 5,
+        "family": "ninja",
+        "costume_id": 1,
+        "heroId": "ninja_garnet_costume_flame",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kitou Sayomi",
+        "fancy_name": "Midnight Hunter Ronin",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-05-30 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_kitou_sayomi",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Skiff",
         "fancy_name": "Party-Kite Goblin",
         "color": "Purple",
@@ -105,6 +141,18 @@
         "family": "beachparty",
         "costume_id": 1,
         "heroId": "beachparty_misty_costume_rogue",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Zerfain",
+        "fancy_name": "Wielder of Crimson Chain",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-01 07:00:00",
+        "star": 5,
+        "family": "hotm2026",
+        "costume_id": 0,
+        "heroId": "fire_god_zerfain",
         "Lottery_Only": 1
     },
     {
@@ -201,6 +249,30 @@
         "family": "dryad",
         "costume_id": 0,
         "heroId": "dryad_cloveria",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Ulfhild",
+        "fancy_name": "Battle Wolf",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-07-01 07:00:00",
+        "star": 5,
+        "family": "hotm2026",
+        "costume_id": 0,
+        "heroId": "ice_god_ulfhild",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Colt",
+        "fancy_name": "Alchemist of the Quiver",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-01 07:00:00",
+        "star": 5,
+        "family": "hotm2026",
+        "costume_id": 0,
+        "heroId": "holy_god_colt",
         "Lottery_Only": 1
     }
 ]

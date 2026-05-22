@@ -75856,7 +75856,7 @@
                       "lvl": 32
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 32
                     }
                   ]
@@ -75995,7 +75995,7 @@
                       "id": "beach_fire_performer"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 55
                     },
                     {
@@ -76309,7 +76309,7 @@
                       "id": "beach_squid"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 53
                     },
                     {
@@ -76555,7 +76555,7 @@
                       "id": "beach_fire_performer"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 55
                     },
                     {
@@ -76635,7 +76635,7 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 47
                     },
                     {
@@ -76897,7 +76897,7 @@
                       "id": "beach_hula_crab"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 98
                     },
                     {
@@ -77467,7 +77467,7 @@
                       "lvl": 78
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 78
                     }
                   ]
@@ -77619,7 +77619,7 @@
                       "id": "beach_fire_performer"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 127
                     },
                     {
@@ -77956,7 +77956,7 @@
                       "id": "beach_squid"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 108
                     },
                     {
@@ -78202,7 +78202,7 @@
                       "id": "beach_fire_performer"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 134
                     },
                     {
@@ -78282,7 +78282,7 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 100
                     },
                     {
@@ -78546,7 +78546,7 @@
                       "id": "beach_hula_crab"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 188
                     },
                     {
@@ -79157,7 +79157,7 @@
                       "lvl": 116
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 116
                     }
                   ]
@@ -79318,7 +79318,7 @@
                       "id": "beach_fire_performer"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 166
                     },
                     {
@@ -79655,7 +79655,7 @@
                       "id": "beach_squid"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 140
                     },
                     {
@@ -79919,7 +79919,7 @@
                       "id": "beach_fire_performer"
                     },
                     {
-                      "id": "Elf Swimming School Instructor"
+                      "id": "Swimming Instructor Elf"
                     },
                     {
                       "id": "beach_fire_performer"
@@ -80004,7 +80004,7 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 150
                     },
                     {
@@ -80285,7 +80285,7 @@
                       "id": "beach_hula_crab"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 217
                     },
                     {
@@ -80792,7 +80792,7 @@
                       "id": "beach_squid"
                     },
                     {
-                      "id": "Elf Swimming School Instructor",
+                      "id": "Swimming Instructor Elf",
                       "lvl": 100
                     },
                     {
@@ -81248,11 +81248,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "beachparty_skiff",
+                      "id": "Party-Kite Goblin",
                       "lvl": 120
                     },
                     {
-                      "id": "shark_brokhai",
+                      "id": "The All-time Greatest Shark",
                       "lvl": 120
                     },
                     {
@@ -81366,7 +81366,7 @@
                       "lvl": 250
                     },
                     {
-                      "id": "shark_haamuhai",
+                      "id": "The Mysterious Masked Shark",
                       "lvl": 250
                     },
                     {
@@ -81603,7 +81603,7 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "shark_sharby",
+                      "id": "The Cute Baby Shark",
                       "lvl": 122
                     },
                     {
@@ -81681,7 +81681,7 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "shark_brokhai",
+                      "id": "The All-time Greatest Shark",
                       "lvl": 85
                     },
                     {
@@ -81689,7 +81689,7 @@
                       "lvl": 85
                     },
                     {
-                      "id": "shark_sharby",
+                      "id": "The Cute Baby Shark",
                       "lvl": 85
                     }
                   ]
@@ -81852,7 +81852,7 @@
                       "lvl": 160
                     },
                     {
-                      "id": "beachparty_skiff",
+                      "id": "Party-Kite Goblin",
                       "lvl": 160
                     },
                     {
@@ -81934,7 +81934,7 @@
                       "lvl": 130
                     },
                     {
-                      "id": "shark_haikala",
+                      "id": "The Tiki Shark Enchantress",
                       "lvl": 130
                     },
                     {
@@ -82017,7 +82017,7 @@
                       "lvl": 200
                     },
                     {
-                      "id": "shark_haamuhai",
+                      "id": "The Mysterious Masked Shark",
                       "lvl": 200
                     },
                     {
@@ -82099,11 +82099,11 @@
                       "lvl": 195
                     },
                     {
-                      "id": "shark_brokhai",
+                      "id": "The All-time Greatest Shark",
                       "lvl": 195
                     },
                     {
-                      "id": "shark_haikala",
+                      "id": "The Tiki Shark Enchantress",
                       "lvl": 195
                     }
                   ]

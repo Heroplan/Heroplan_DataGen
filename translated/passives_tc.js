@@ -13658,6 +13658,21 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "mahayoddha_rudraditya",
+        "name": "Rudraditya",
+        "passives": []
+    },
+    {
+        "heroId": "ninja_garnet_costume_flame",
+        "name": "Garnet C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_kitou_sayomi",
+        "name": "Kitou Sayomi",
+        "passives": []
+    },
+    {
         "heroId": "beachparty_skiff",
         "name": "Skiff",
         "passives": []
@@ -13683,6 +13698,11 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "fire_god_zerfain",
+        "name": "Zerfain",
+        "passives": []
+    },
+    {
         "heroId": "shark_brokhai",
         "name": "Bro'Khai",
         "passives": []
@@ -13690,11 +13710,6 @@ const translatedPassivesTC =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
-        "passives": []
-    },
-    {
-        "heroId": "shark_sharpoon",
-        "name": "Sha-Arr",
         "passives": []
     },
     {

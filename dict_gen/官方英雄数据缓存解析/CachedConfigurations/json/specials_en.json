@@ -57024,7 +57024,7 @@
             "id": "poison_kitou_sayomi_3",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
-            "turns": 5
+            "turns": 4
           },
           {
             "id": "add_paralysis_on_removal_kitou_sayomi_3",
@@ -72649,5 +72649,5 @@
       }
     ]
   },
-  "specialsConfigId": 1041210415
+  "specialsConfigId": 2867069344
 }

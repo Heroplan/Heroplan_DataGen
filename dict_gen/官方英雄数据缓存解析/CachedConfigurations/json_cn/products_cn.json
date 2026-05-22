@@ -116,7 +116,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 186,
+        "uiPriority": 191,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -1151,7 +1151,7 @@
         "id": "lottery_season_untold_tales2",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 188,
+        "uiPriority": 190,
         "bonusChest": "untold_tales2",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 12,
@@ -14624,7 +14624,7 @@
           {
             "type": "Item",
             "id": "refill_energy_pve_full",
-            "amount": 1
+            "amount": 5
           }
         ]
       },
@@ -14975,6 +14975,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2",
         "dollarValue": 2,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -14988,6 +14989,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2_bonus",
         "dollarValue": 8,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35910,6 +35912,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56012,7 +56015,7 @@
         "id": "lottery_league_default",
         "gemPrice": 500,
         "amount": 1,
-        "uiPriority": 192
+        "uiPriority": 188
       },
       {
         "productType": "SeasonalPremiumSummon",
@@ -58409,5 +58412,5 @@
       }
     ]
   },
-  "productsConfigId": 529399531
+  "productsConfigId": 1022056207
 }

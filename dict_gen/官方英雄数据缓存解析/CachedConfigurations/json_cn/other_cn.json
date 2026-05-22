@@ -3923,6 +3923,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-08-11 07:00:00",
             "endTime": "2026-08-15 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-08-18 07:00:00",
+            "endTime": "2026-08-22 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -4599,9 +4606,9 @@
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "ronin_hiyori",
-                "ninja_cobalt_costume_tempest",
-                "ronin_kageyama_nagato"
+                "ronin_kitou_sayomi",
+                "ninja_garnet_costume_flame",
+                "ronin_hiyori"
               ],
               "startTime": "2026-05-30 07:00:00",
               "endTime": "2026-06-04 07:00:00"
@@ -42839,7 +42846,7 @@
                 "id": "rue_collect_recruits_battles",
                 "goal": "CollectResourceFromBattles",
                 "goalSubject": "Recruits",
-                "goalAmount": 100,
+                "goalAmount": 30,
                 "entities": [
                   {
                     "type": "ReturnTokens",
@@ -77298,7 +77305,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-05-30 07:00:00",
             "costumeId": "ninja_garnet_costume_flame",
             "parentHeroId": "ninja_garnet"
           },
@@ -91175,6 +91182,96 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tales2_may_2026_2",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 60,
+                    "defenseBonusPerMil": 60,
+                    "healthBonusPerMil": 70,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 90,
+                    "defenseBonusPerMil": 90,
+                    "healthBonusPerMil": 110,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 130,
+                    "healthBonusPerMil": 150,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ninja_may_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 330,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 340,
+                    "defenseBonusPerMil": 340,
+                    "healthBonusPerMil": 360,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 360,
+                    "defenseBonusPerMil": 360,
+                    "healthBonusPerMil": 390,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 790,
+                    "defenseBonusPerMil": 790,
+                    "healthBonusPerMil": 780,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -93393,5 +93490,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3105323064
+  "otherConfigId": 1787562445
 }

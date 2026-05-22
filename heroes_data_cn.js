@@ -110199,6 +110199,78 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
+        "name": "鲁德拉迪蒂亚 (Rudraditya)",
+        "fancy_name": "太阳战士",
+        "AetherPower": "",
+        "color": "红",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "mahayoddha_rudraditya",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1811,
+        "cn_skill_info": []
+    },
+    {
+        "name": "绯红 (Garnet) C",
+        "fancy_name": "炽焰活力忍者",
+        "AetherPower": "",
+        "color": "红",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ninja_garnet_costume_flame",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": 1812,
+        "cn_skill_info": []
+    },
+    {
+        "name": "鬼头小夜美 (Kitou Sayomi)",
+        "fancy_name": "午夜猎魂浪人",
+        "AetherPower": "",
+        "color": "蓝",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ronin_kitou_sayomi",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": 1813,
+        "cn_skill_info": []
+    },
+    {
         "name": "斯基夫 (Skiff)",
         "fancy_name": "派对风筝哥布林",
         "AetherPower": "",
@@ -110219,7 +110291,7 @@ window.allHeroes =
         "passives": [],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1811,
+        "originalIndex": 1814,
         "cn_skill_info": []
     },
     {
@@ -110243,7 +110315,7 @@ window.allHeroes =
         "passives": [],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1812,
+        "originalIndex": 1815,
         "cn_skill_info": []
     },
     {
@@ -110267,7 +110339,7 @@ window.allHeroes =
         "passives": [],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1813,
+        "originalIndex": 1816,
         "cn_skill_info": []
     },
     {
@@ -110291,7 +110363,7 @@ window.allHeroes =
         "passives": [],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1814,
+        "originalIndex": 1817,
         "cn_skill_info": []
     },
     {
@@ -110315,7 +110387,31 @@ window.allHeroes =
         "passives": [],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1815,
+        "originalIndex": 1818,
+        "cn_skill_info": []
+    },
+    {
+        "name": "泽尔芬 (Zerfain)",
+        "fancy_name": "猩红利爪者",
+        "AetherPower": "",
+        "color": "红",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fire_god_zerfain",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 1819,
         "cn_skill_info": []
     },
     {
@@ -110339,7 +110435,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1816,
+        "originalIndex": 1820,
         "cn_skill_info": []
     },
     {
@@ -110363,31 +110459,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1817,
-        "cn_skill_info": []
-    },
-    {
-        "name": "沙-阿尔 (Sha-Arr)",
-        "fancy_name": "鱼叉投手鲨",
-        "AetherPower": "",
-        "color": "绿",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "shark_sharpoon",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "shark",
-        "costume_id": 0,
-        "originalIndex": 1818,
+        "originalIndex": 1821,
         "cn_skill_info": []
     },
     {
@@ -110411,7 +110483,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1819,
+        "originalIndex": 1822,
         "cn_skill_info": []
     },
     {
@@ -110435,7 +110507,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1820,
+        "originalIndex": 1823,
         "cn_skill_info": []
     },
     {
@@ -110459,7 +110531,7 @@ window.allHeroes =
         "passives": [],
         "family": "ghost",
         "costume_id": 0,
-        "originalIndex": 1821,
+        "originalIndex": 1824,
         "cn_skill_info": []
     },
     {
@@ -110483,7 +110555,7 @@ window.allHeroes =
         "passives": [],
         "family": "dryad",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1825,
         "cn_skill_info": []
     },
     {
@@ -110507,7 +110579,7 @@ window.allHeroes =
         "passives": [],
         "family": "dryad",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1826,
         "cn_skill_info": []
     }
 ];

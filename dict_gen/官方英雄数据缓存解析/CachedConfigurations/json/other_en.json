@@ -3923,6 +3923,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-08-11 07:00:00",
             "endTime": "2026-08-15 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-08-18 07:00:00",
+            "endTime": "2026-08-22 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -4599,9 +4606,9 @@
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "ronin_hiyori",
-                "ninja_cobalt_costume_tempest",
-                "ronin_kageyama_nagato"
+                "ronin_kitou_sayomi",
+                "ninja_garnet_costume_flame",
+                "ronin_hiyori"
               ],
               "startTime": "2026-05-30 07:00:00",
               "endTime": "2026-06-04 07:00:00"
@@ -29601,11 +29608,11 @@
             "gemValue": 1000
           },
           {
-            "id": "forsaken_nyctalos",
+            "id": "The All-Seeing Terror",
             "gemValue": 1000
           },
           {
-            "id": "institute_axioma",
+            "id": "Scholar of Unseen Forces",
             "gemValue": 1000
           },
           {
@@ -29617,27 +29624,27 @@
             "gemValue": 1000
           },
           {
-            "id": "fire_god_zerfain",
+            "id": "Wielder of Crimson Chain",
             "gemValue": 1000
           },
           {
-            "id": "ronin_hiyori",
+            "id": "Geisha of Horai-zan",
             "gemValue": 1000
           },
           {
-            "id": "ronin_kitou_sayomi",
+            "id": "Midnight Hunter Ronin",
             "gemValue": 1000
           },
           {
-            "id": "holy_god_colt",
+            "id": "Alchemist of the Quiver",
             "gemValue": 1000
           },
           {
-            "id": "forsaken_vermis",
+            "id": "The Worm King",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_rudraditya",
+            "id": "The Sun Warrior",
             "gemValue": 1000
           },
           {
@@ -29653,27 +29660,27 @@
             "gemValue": 1000
           },
           {
-            "id": "construct_elx",
+            "id": "Mage's Vessel Construct",
             "gemValue": 1000
           },
           {
-            "id": "construct_tengo",
+            "id": "Profaned Sunlord Construct",
             "gemValue": 1000
           },
           {
-            "id": "construct_nepant",
+            "id": "Junkyard Squire Construct",
             "gemValue": 1000
           },
           {
-            "id": "construct_featherweight",
+            "id": "Bipedal Reservoir Construct",
             "gemValue": 1000
           },
           {
-            "id": "construct_niso",
+            "id": "Asymmetric Security Construct",
             "gemValue": 1000
           },
           {
-            "id": "ice_god_ulfhild",
+            "id": "Battle Wolf",
             "gemValue": 1000
           },
           {
@@ -29681,11 +29688,11 @@
             "gemValue": 1000
           },
           {
-            "id": "vegetable_big_barry",
+            "id": "Strawberry Thug",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_melonius",
+            "id": "Watermelon Wizard",
             "gemValue": 1000
           },
           {
@@ -29693,51 +29700,51 @@
             "gemValue": 1000
           },
           {
-            "id": "s2_triton_costume_cute",
+            "id": "Captain of Atlantis-Toon Captain of Atlantis",
             "gemValue": 1000
           },
           {
-            "id": "fire_god_ares_costume_cute",
+            "id": "Deity of War-Toon of War",
             "gemValue": 1000
           },
           {
-            "id": "witch_king_costume_cute",
+            "id": "Master of Crypts-Master of Toon Crypts",
             "gemValue": 1000
           },
           {
-            "id": "s3_almur_costume_cute",
+            "id": "Shadowblade of Svartalfheim-Shadowtoon of Svartalfheim",
             "gemValue": 1000
           },
           {
-            "id": "s3_bjorn_costume_cute",
+            "id": "Brave Villager-Brave Toon",
             "gemValue": 1000
           },
           {
-            "id": "s3_ei_dunn_costume_cute",
+            "id": "Cursed Viking Battler-Cursed Viking Toon",
             "gemValue": 1000
           },
           {
-            "id": "s3_fenrir_costume_cute",
+            "id": "Leader of Niflheim-Toon Leader of Nilfheim",
             "gemValue": 1000
           },
           {
-            "id": "s3_fura_costume_cute",
+            "id": "Poisoner of Svartalfheim-Poisoner Toon of Svartalfheim",
             "gemValue": 1000
           },
           {
-            "id": "s3_kvasir_costume_cute",
+            "id": "Beekeeper of Alfheim-Toon Beekeeper",
             "gemValue": 1000
           },
           {
-            "id": "s3_nordri_costume_cute",
+            "id": "Ice Dwarf of Jotunheim-Toon Dwarf of Jotunheim",
             "gemValue": 1000
           },
           {
-            "id": "s3_norns_costume_cute",
+            "id": "Weavers of Destiny-Weavers of Toon Destiny",
             "gemValue": 1000
           },
           {
-            "id": "s3_sumle_costume_cute",
+            "id": "Burly Fire Giant-Toon Fire Giant",
             "gemValue": 1000
           },
           {
@@ -29765,99 +29772,99 @@
             "gemValue": 1000
           },
           {
-            "id": "s2_tanuki_raccoon_costume_cute",
+            "id": "Dauntless Deceiver-Dauntless Toon",
             "gemValue": 1000
           },
           {
-            "id": "s2_tethys_costume_cute",
+            "id": "Goddess of all Rivers-Toon Goddess of All Rivers",
             "gemValue": 1000
           },
           {
-            "id": "s2_ghost_woman_costume_cute",
+            "id": "Lone Ghost-Lone Toon Ghost",
             "gemValue": 1000
           },
           {
-            "id": "s2_oceanus_costume_cute",
+            "id": "Titan of Sea-Toon Titan of Sea",
             "gemValue": 1000
           },
           {
-            "id": "s2_chameleon_chief_costume_cute",
+            "id": "Chameleon General-Toon Chameleon General",
             "gemValue": 1000
           },
           {
-            "id": "ghost_he_gui",
+            "id": "Deceitful River Ghost",
             "gemValue": 1000
           },
           {
-            "id": "ghost_hei_wu_chang",
+            "id": "Underworld Black Guard",
             "gemValue": 1000
           },
           {
-            "id": "ghost_kuang_nao",
+            "id": "Slithering Ghost",
             "gemValue": 1000
           },
           {
-            "id": "ghost_miao_yin",
+            "id": "Playful Forest Spirit",
             "gemValue": 1000
           },
           {
-            "id": "ghost_shu_jing",
+            "id": "Scholarly Ghost Officer",
             "gemValue": 1000
           },
           {
-            "id": "tales2_hogne_costume_lunar",
+            "id": "Dwarven Great Knight-Dwarven Moon Knight",
             "gemValue": 1000
           },
           {
-            "id": "tales2_hreidmarr_costume_trader",
+            "id": "Dwarven Mountain King-Royal Dwarven Trader",
             "gemValue": 1000
           },
           {
-            "id": "dryad_cloveria",
+            "id": "Vanguard of the Ancient Bloom",
             "gemValue": 1000
           },
           {
-            "id": "dryad_pansius",
+            "id": "Enchanter of the Ancient Bloom",
             "gemValue": 1000
           },
           {
-            "id": "wild_cat_mina",
+            "id": "Lonely Mountain Cat",
             "gemValue": 1000
           },
           {
-            "id": "wild_cat_tyrix",
+            "id": "The Serval of the Zenith Shadow",
             "gemValue": 1000
           },
           {
-            "id": "wild_cat_zarek",
+            "id": "Stone-Weaving Caracal",
             "gemValue": 1000
           },
           {
-            "id": "wild_cat_vora",
+            "id": "Elder Lynx of the Whispering Peaks",
             "gemValue": 1000
           },
           {
-            "id": "wild_cat_irme",
+            "id": "Crimson Isle Iriomote",
             "gemValue": 1000
           },
           {
-            "id": "shark_brokhai",
+            "id": "The All-time Greatest Shark",
             "gemValue": 1000
           },
           {
-            "id": "shark_haamuhai",
+            "id": "The Mysterious Masked Shark",
             "gemValue": 1000
           },
           {
-            "id": "shark_haikala",
+            "id": "The Tiki Shark Enchantress",
             "gemValue": 1000
           },
           {
-            "id": "shark_sharby",
+            "id": "The Cute Baby Shark",
             "gemValue": 1000
           },
           {
-            "id": "shark_sharpoon",
+            "id": "The Harpoon Hurling Shark",
             "gemValue": 1000
           },
           {
@@ -29869,11 +29876,11 @@
             "gemValue": 1000
           },
           {
-            "id": "beachparty_bubo",
+            "id": "Bathing Owl of Grizzly Reef",
             "gemValue": 1000
           },
           {
-            "id": "beachparty_skiff",
+            "id": "Party-Kite Goblin",
             "gemValue": 1000
           },
           {
@@ -29957,43 +29964,43 @@
             "gemValue": 1000
           },
           {
-            "id": "ronin_tenzin_kiba",
+            "id": "Intimidator Ronin",
             "gemValue": 1000
           },
           {
-            "id": "ronin_mizuno_seiko",
+            "id": "Shaman Ronin",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_madarika",
+            "id": "Astral Demon Femme Fatale",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_zurrumurgh",
+            "id": "Astral Demon Spirit Whisperer",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_baji",
+            "id": "Bichuwa Assassin",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_shaurya",
+            "id": "White Desert Warrior",
             "gemValue": 1000
           },
           {
-            "id": "ninja_quartz_costume_investigate",
+            "id": "Ninja of Quiet Graves-Ninja of Ancient Graves",
             "gemValue": 1000
           },
           {
-            "id": "ninja_zircon_costume_iron",
+            "id": "Ninja of Silent Waves-Ninja of Iron Waves",
             "gemValue": 1000
           },
           {
-            "id": "holy_god_musashi_costume_cute",
+            "id": "Invincible Ronin-Toon Ronin",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_pepo",
+            "id": "Survivalist Pumpkin",
             "gemValue": 1000
           }
         ],
@@ -42839,7 +42846,7 @@
                 "id": "rue_collect_recruits_battles",
                 "goal": "CollectResourceFromBattles",
                 "goalSubject": "Recruits",
-                "goalAmount": 100,
+                "goalAmount": 30,
                 "entities": [
                   {
                     "type": "ReturnTokens",
@@ -76939,7 +76946,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "Squire of Springvale-Junior Kinght of Springvale",
+            "costumeId": "Squire of Springvale-Junior Knight of Springvale",
             "parentHeroId": "rabbit_red"
           },
           {
@@ -77167,7 +77174,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tribal_chief_costume_stylish",
+            "costumeId": "Chief of Tribes-Chief of Style",
             "parentHeroId": "tribal_chief"
           },
           {
@@ -77179,7 +77186,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "orc_troopmaster_costume_stylish",
+            "costumeId": "The Hungry-Stylish Connoisseur",
             "parentHeroId": "orc_troopmaster"
           },
           {
@@ -77191,7 +77198,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_woodsman_warrior_costume_stylish",
+            "costumeId": "Mighty Brother-Stylish Brother",
             "parentHeroId": "forest_woodsman_warrior"
           },
           {
@@ -77203,7 +77210,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_brawler_costume_stylish",
+            "costumeId": "Noble Defender-Stylish Brawler",
             "parentHeroId": "oriental_brawler"
           },
           {
@@ -77215,7 +77222,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_archer_costume_stylish",
+            "costumeId": "Able Archer-Stylish Archer",
             "parentHeroId": "forest_archer"
           },
           {
@@ -77227,7 +77234,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_tethys_costume_cute",
+            "costumeId": "Goddess of all Rivers-Toon Goddess of All Rivers",
             "parentHeroId": "s2_tethys"
           },
           {
@@ -77239,7 +77246,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_ghost_woman_costume_cute",
+            "costumeId": "Lone Ghost-Lone Toon Ghost",
             "parentHeroId": "s2_ghost_woman"
           },
           {
@@ -77251,7 +77258,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_chameleon_chief_costume_cute",
+            "costumeId": "Chameleon General-Toon Chameleon General",
             "parentHeroId": "s2_chameleon_chief"
           },
           {
@@ -77263,7 +77270,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_oceanus_costume_cute",
+            "costumeId": "Titan of Sea-Toon Titan of Sea",
             "parentHeroId": "s2_oceanus"
           },
           {
@@ -77275,7 +77282,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s2_triton_costume_cute",
+            "costumeId": "Captain of Atlantis-Toon Captain of Atlantis",
             "parentHeroId": "s2_triton"
           },
           {
@@ -77287,7 +77294,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_tanuki_raccoon_costume_cute",
+            "costumeId": "Dauntless Deceiver-Dauntless Toon",
             "parentHeroId": "s2_tanuki_raccoon"
           },
           {
@@ -77298,8 +77305,8 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_garnet_costume_flame",
+            "canBeReceivedDate": "2026-05-30 07:00:00",
+            "costumeId": "Ninja of Soaring Vitality-Ninja of Flaming Vigor",
             "parentHeroId": "ninja_garnet"
           },
           {
@@ -77311,7 +77318,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "fire_god_ares_costume_cute",
+            "costumeId": "Deity of War-Toon of War",
             "parentHeroId": "fire_god_ares"
           },
           {
@@ -77323,7 +77330,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "witch_king_costume_cute",
+            "costumeId": "Master of Crypts-Master of Toon Crypts",
             "parentHeroId": "witch_king"
           },
           {
@@ -77335,7 +77342,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_sumle_costume_cute",
+            "costumeId": "Burly Fire Giant-Toon Fire Giant",
             "parentHeroId": "s3_sumle"
           },
           {
@@ -77347,7 +77354,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_fura_costume_cute",
+            "costumeId": "Poisoner of Svartalfheim-Poisoner Toon of Svartalfheim",
             "parentHeroId": "s3_fura"
           },
           {
@@ -77359,7 +77366,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_almur_costume_cute",
+            "costumeId": "Shadowblade of Svartalfheim-Shadowtoon of Svartalfheim",
             "parentHeroId": "s3_almur"
           },
           {
@@ -77371,7 +77378,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_norns_costume_cute",
+            "costumeId": "Weavers of Destiny-Weavers of Toon Destiny",
             "parentHeroId": "s3_norns"
           },
           {
@@ -77383,7 +77390,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_fenrir_costume_cute",
+            "costumeId": "Leader of Niflheim-Toon Leader of Nilfheim",
             "parentHeroId": "s3_fenrir"
           },
           {
@@ -77395,7 +77402,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_ei_dunn_costume_cute",
+            "costumeId": "Cursed Viking Battler-Cursed Viking Toon",
             "parentHeroId": "s3_ei_dunn"
           },
           {
@@ -77407,7 +77414,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_nordri_costume_cute",
+            "costumeId": "Ice Dwarf of Jotunheim-Toon Dwarf of Jotunheim",
             "parentHeroId": "s3_nordri"
           },
           {
@@ -77419,7 +77426,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_bjorn_costume_cute",
+            "costumeId": "Brave Villager-Brave Toon",
             "parentHeroId": "s3_bjorn"
           },
           {
@@ -77431,7 +77438,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-04-29 07:00:00",
-            "costumeId": "s3_kvasir_costume_cute",
+            "costumeId": "Beekeeper of Alfheim-Toon Beekeeper",
             "parentHeroId": "s3_kvasir"
           },
           {
@@ -77443,7 +77450,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-05-03 07:00:00",
-            "costumeId": "ninja_cobalt_costume_tempest",
+            "costumeId": "Ninja of Whispering Seas-Ninja of Turbulent Seas",
             "parentHeroId": "ninja_cobalt"
           },
           {
@@ -77455,7 +77462,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_hogne_costume_lunar",
+            "costumeId": "Dwarven Great Knight-Dwarven Moon Knight",
             "parentHeroId": "tales2_hogne"
           },
           {
@@ -77467,7 +77474,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-05-25 07:00:00",
-            "costumeId": "tales2_hreidmarr_costume_trader",
+            "costumeId": "Dwarven Mountain King-Royal Dwarven Trader",
             "parentHeroId": "tales2_hreidmarr"
           },
           {
@@ -77479,7 +77486,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-06-01 07:00:00",
-            "costumeId": "beachparty_dolrak_costume_tattoo",
+            "costumeId": "Overly Tanned Dwarf-Overly Tattooed Dwarf",
             "parentHeroId": "beachparty_dolrak"
           },
           {
@@ -77491,7 +77498,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-06-01 07:00:00",
-            "costumeId": "beachparty_itham_costume_skateboard",
+            "costumeId": "Swimming Instructor Elf-Rookie Skateboarder Elf",
             "parentHeroId": "beachparty_itham"
           },
           {
@@ -77503,7 +77510,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-06-01 07:00:00",
-            "costumeId": "beachparty_misty_costume_rogue",
+            "costumeId": "Snorkeling Gnome-Stealthy Beach Gnome",
             "parentHeroId": "beachparty_misty"
           },
           {
@@ -77515,7 +77522,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "musketeer_cardinal_richelieu_costume_ambassador",
+            "costumeId": "Duplicitous Duke-Duplicitous Ambassador",
             "parentHeroId": "musketeer_cardinal_richelieu"
           },
           {
@@ -77527,7 +77534,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "musketeer_queen_anne_costume_commander",
+            "costumeId": "Elegant Monarch-Elegant Commander",
             "parentHeroId": "musketeer_queen_anne"
           },
           {
@@ -77539,7 +77546,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_zircon_costume_iron",
+            "costumeId": "Ninja of Silent Waves-Ninja of Iron Waves",
             "parentHeroId": "ninja_zircon"
           },
           {
@@ -77551,7 +77558,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_quartz_costume_investigate",
+            "costumeId": "Ninja of Quiet Graves-Ninja of Ancient Graves",
             "parentHeroId": "ninja_quartz"
           },
           {
@@ -77563,7 +77570,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "holy_god_musashi_costume_cute",
+            "costumeId": "Invincible Ronin-Toon Ronin",
             "parentHeroId": "holy_god_musashi"
           }
         ],
@@ -91175,6 +91182,96 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tales2_may_2026_2",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 60,
+                    "defenseBonusPerMil": 60,
+                    "healthBonusPerMil": 70,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 90,
+                    "defenseBonusPerMil": 90,
+                    "healthBonusPerMil": 110,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 130,
+                    "healthBonusPerMil": 150,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ninja_may_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 330,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 340,
+                    "defenseBonusPerMil": 340,
+                    "healthBonusPerMil": 360,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 360,
+                    "defenseBonusPerMil": 360,
+                    "healthBonusPerMil": 390,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 790,
+                    "defenseBonusPerMil": 790,
+                    "healthBonusPerMil": 780,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -93393,5 +93490,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3105323064
+  "otherConfigId": 1787562445
 }

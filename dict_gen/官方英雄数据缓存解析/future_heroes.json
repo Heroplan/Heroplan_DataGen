@@ -768,18 +768,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Garnet C",
-        "fancy_name": "Ninja of Flaming Vigor",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_garnet_costume_flame",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zircon C",
         "fancy_name": "Ninja of Iron Waves",
         "color": "Blue",
@@ -957,30 +945,6 @@
         "family": "forsaken",
         "costume_id": 0,
         "heroId": "forsaken_vermis",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Rudraditya",
-        "fancy_name": "The Sun Warrior",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_rudraditya",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kitou Sayomi",
-        "fancy_name": "Midnight Hunter Ronin",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_kitou_sayomi",
         "Lottery_Only": 1
     },
     {

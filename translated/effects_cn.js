@@ -17659,6 +17659,21 @@ const translatedEffectsCN =
         "effects": []
     },
     {
+        "heroId": "mahayoddha_rudraditya",
+        "name": "Rudraditya",
+        "effects": []
+    },
+    {
+        "heroId": "ninja_garnet_costume_flame",
+        "name": "Garnet C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_kitou_sayomi",
+        "name": "Kitou Sayomi",
+        "effects": []
+    },
+    {
         "heroId": "beachparty_skiff",
         "name": "Skiff",
         "effects": []
@@ -17684,6 +17699,11 @@ const translatedEffectsCN =
         "effects": []
     },
     {
+        "heroId": "fire_god_zerfain",
+        "name": "Zerfain",
+        "effects": []
+    },
+    {
         "heroId": "shark_brokhai",
         "name": "Bro'Khai",
         "effects": []
@@ -17691,11 +17711,6 @@ const translatedEffectsCN =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
-        "effects": []
-    },
-    {
-        "heroId": "shark_sharpoon",
-        "name": "Sha-Arr",
         "effects": []
     },
     {

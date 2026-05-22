@@ -1924,7 +1924,7 @@
     "parentHeroId": "s2_ghost_woman"
   },
   "s2_ghost_woman_costume_cute": {
-    "id": "s2_ghost_woman_costume_cute",
+    "id": "Lone Toon Ghost",
     "element": "Purple",
     "family": "japanese",
     "baseHealth": 505,
@@ -6929,7 +6929,7 @@
     "specialId": "awaken_ki",
     "canBeReceivedDate": "2020-10-13 07:00:00",
     "origin": "Ninja Tower",
-    "costumeBonusesId": "ninja_2026"
+    "costumeBonusesId": "ninja_may_2026"
   },
   "ninja_jade": {
     "id": "Ninja of Dancing Stars",
@@ -12823,7 +12823,7 @@
     "parentHeroId": "s2_tanuki_raccoon"
   },
   "s2_tanuki_raccoon_costume_cute": {
-    "id": "s2_tanuki_raccoon_costume_cute",
+    "id": "Dauntless Toon",
     "element": "Yellow",
     "family": "japanese",
     "baseHealth": 598,
@@ -12875,7 +12875,7 @@
     "parentHeroId": "s2_triton"
   },
   "s2_triton_costume_cute": {
-    "id": "s2_triton_costume_cute",
+    "id": "Toon Captain of Atlantis",
     "element": "Blue",
     "family": "atlantis",
     "baseHealth": 496,
@@ -12911,7 +12911,7 @@
     "parentHeroId": "s2_chameleon_chief"
   },
   "s2_chameleon_chief_costume_cute": {
-    "id": "s2_chameleon_chief_costume_cute",
+    "id": "Toon Chameleon General",
     "element": "Green",
     "family": "lagoon",
     "baseHealth": 629,
@@ -13055,7 +13055,7 @@
     "parentHeroId": "holy_god_musashi"
   },
   "holy_god_musashi_costume_cute": {
-    "id": "holy_god_musashi_costume_cute",
+    "id": "Toon Ronin",
     "element": "Yellow",
     "family": "hotm2017",
     "baseHealth": 606,
@@ -18323,7 +18323,7 @@
     "costumeBonusesId": "beachparty"
   },
   "beachparty_itham": {
-    "id": "Elf Swimming School Instructor",
+    "id": "Swimming Instructor Elf",
     "element": "Red",
     "family": "beachparty",
     "baseHealth": 570,
@@ -18486,7 +18486,7 @@
     "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_skiff": {
-    "id": "beachparty_skiff",
+    "id": "Party-Kite Goblin",
     "element": "Purple",
     "family": "beachparty",
     "baseHealth": 1125,
@@ -18506,7 +18506,7 @@
     "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026"
   },
   "beachparty_bubo": {
-    "id": "beachparty_bubo",
+    "id": "Bathing Owl of Grizzly Reef",
     "element": "Yellow",
     "family": "beachparty",
     "baseHealth": 1120,
@@ -20786,7 +20786,7 @@
     "parentHeroId": "tribal_chief"
   },
   "tribal_chief_costume_stylish": {
-    "id": "tribal_chief_costume_stylish",
+    "id": "Chief of Style",
     "element": "Red",
     "family": "classic",
     "baseHealth": 691,
@@ -21227,7 +21227,7 @@
     "parentHeroId": "orc_troopmaster"
   },
   "orc_troopmaster_costume_stylish": {
-    "id": "orc_troopmaster_costume_stylish",
+    "id": "Stylish Connoisseur",
     "element": "Red",
     "family": "classic",
     "baseHealth": 635,
@@ -21269,7 +21269,7 @@
     "parentHeroId": "forest_woodsman_warrior"
   },
   "forest_woodsman_warrior_costume_stylish": {
-    "id": "forest_woodsman_warrior_costume_stylish",
+    "id": "Stylish Brother",
     "element": "Green",
     "family": "classic",
     "baseHealth": 469,
@@ -21731,7 +21731,7 @@
     "parentHeroId": "oriental_brawler"
   },
   "oriental_brawler_costume_stylish": {
-    "id": "oriental_brawler_costume_stylish",
+    "id": "Stylish Brawler",
     "element": "Yellow",
     "family": "classic",
     "baseHealth": 407,
@@ -21773,7 +21773,7 @@
     "parentHeroId": "forest_archer"
   },
   "forest_archer_costume_stylish": {
-    "id": "forest_archer_costume_stylish",
+    "id": "Stylish Archer",
     "element": "Green",
     "family": "classic",
     "baseHealth": 396,
@@ -22447,7 +22447,7 @@
     "parentHeroId": "beachparty_flip"
   },
   "beachparty_dolrak_costume_tattoo": {
-    "id": "beachparty_dolrak_costume_tattoo",
+    "id": "Overly Tattooed Dwarf",
     "element": "Yellow",
     "family": "beachparty",
     "baseHealth": 414,
@@ -22467,7 +22467,7 @@
     "parentHeroId": "beachparty_dolrak"
   },
   "beachparty_itham_costume_skateboard": {
-    "id": "beachparty_itham_costume_skateboard",
+    "id": "Rookie Skateboarder Elf",
     "element": "Red",
     "family": "beachparty",
     "baseHealth": 569,
@@ -22487,7 +22487,7 @@
     "parentHeroId": "beachparty_itham"
   },
   "beachparty_misty_costume_rogue": {
-    "id": "beachparty_misty_costume_rogue",
+    "id": "Stealthy Beach Gnome",
     "element": "Blue",
     "family": "beachparty",
     "baseHealth": 713,
@@ -23295,7 +23295,7 @@
     "parentHeroId": "musketeer_rochefort"
   },
   "musketeer_queen_anne_costume_commander": {
-    "id": "musketeer_queen_anne_costume_commander",
+    "id": "Elegant Commander",
     "element": "Green",
     "family": "musketeer",
     "baseHealth": 805,
@@ -23315,7 +23315,7 @@
     "parentHeroId": "musketeer_queen_anne"
   },
   "musketeer_cardinal_richelieu_costume_ambassador": {
-    "id": "musketeer_cardinal_richelieu_costume_ambassador",
+    "id": "Duplicitous Ambassador",
     "element": "Red",
     "family": "musketeer",
     "baseHealth": 868,
@@ -23551,7 +23551,7 @@
     "parentHeroId": "s2_tethys"
   },
   "s2_tethys_costume_cute": {
-    "id": "s2_tethys_costume_cute",
+    "id": "Toon Goddess of All Rivers",
     "element": "Blue",
     "family": "atlantis",
     "baseHealth": 707,
@@ -23587,7 +23587,7 @@
     "parentHeroId": "s2_oceanus"
   },
   "s2_oceanus_costume_cute": {
-    "id": "s2_oceanus_costume_cute",
+    "id": "Toon Titan of Sea",
     "element": "Red",
     "family": "atlantis",
     "baseHealth": 672,
@@ -26919,7 +26919,7 @@
     "specialId": "dwarven_kings_levy",
     "canBeReceivedDate": "2025-02-23 07:00:00",
     "origin": "Treasures of Flame and Frost",
-    "costumeBonusesId": "tales2_mar_2026"
+    "costumeBonusesId": "tales2_may_2026_2"
   },
   "tales2_andvari": {
     "id": "Dwarven Oracle",
@@ -29400,7 +29400,7 @@
     "origin": "Wilderness Summon"
   },
   "wild_cat_vora": {
-    "id": "wild_cat_vora",
+    "id": "Elder Lynx of the Whispering Peaks",
     "element": "Blue",
     "family": "wild_cat",
     "baseHealth": 1150,
@@ -29419,7 +29419,7 @@
     "origin": "Wilderness Summon"
   },
   "wild_cat_irme": {
-    "id": "wild_cat_irme",
+    "id": "Crimson Isle Iriomote",
     "element": "Red",
     "family": "wild_cat",
     "baseHealth": 1105,
@@ -29438,7 +29438,7 @@
     "origin": "Wilderness Summon"
   },
   "wild_cat_tyrix": {
-    "id": "wild_cat_tyrix",
+    "id": "The Serval of the Zenith Shadow",
     "element": "Yellow",
     "family": "wild_cat",
     "baseHealth": 1090,
@@ -29457,7 +29457,7 @@
     "origin": "Wilderness Summon"
   },
   "wild_cat_mina": {
-    "id": "wild_cat_mina",
+    "id": "Lonely Mountain Cat",
     "element": "Purple",
     "family": "wild_cat",
     "baseHealth": 1085,
@@ -29476,7 +29476,7 @@
     "origin": "Wilderness Summon"
   },
   "wild_cat_zarek": {
-    "id": "wild_cat_zarek",
+    "id": "Stone-Weaving Caracal",
     "element": "Green",
     "family": "wild_cat",
     "baseHealth": 1157,
@@ -31381,7 +31381,7 @@
     "origin": "Kalevala"
   },
   "kalevala_ajatar": {
-    "id": "kalevala_ajatar",
+    "id": "Nightmare Goddess of Korpi",
     "element": "Purple",
     "family": "kalevala",
     "baseHealth": 1120,
@@ -31399,7 +31399,7 @@
     "origin": "Kalevala"
   },
   "kalevala_kaski": {
-    "id": "kalevala_kaski",
+    "id": "Maiden of Smoldering Swidden",
     "element": "Red",
     "family": "kalevala",
     "baseHealth": 1099,
@@ -32599,7 +32599,7 @@
     "parentHeroId": "ice_god_athena"
   },
   "fire_god_ares_costume_cute": {
-    "id": "fire_god_ares_costume_cute",
+    "id": "Toon of War",
     "element": "Red",
     "family": "hotm2017",
     "baseHealth": 704,
@@ -32619,7 +32619,7 @@
     "parentHeroId": "fire_god_ares"
   },
   "witch_king_costume_cute": {
-    "id": "witch_king_costume_cute",
+    "id": "Master of Toon Crypts",
     "element": "Purple",
     "family": "hotm2017",
     "baseHealth": 664,
@@ -33604,7 +33604,7 @@
     "parentHeroId": "easter_lady_woolerton"
   },
   "rabbit_red_costume_knight": {
-    "id": "Junior Kinght of Springvale",
+    "id": "Junior Knight of Springvale",
     "element": "Red",
     "family": "easter",
     "baseHealth": 354,
@@ -33743,12 +33743,12 @@
     "parentHeroId": "tales2_dagr"
   },
   "tales2_hreidmarr_costume_trader": {
-    "id": "tales2_hreidmarr_costume_trader",
+    "id": "Royal Dwarven Trader",
     "element": "Purple",
     "family": "nidavellir",
-    "baseHealth": 1109,
-    "baseAttack": 565,
-    "baseDefense": 572,
+    "baseHealth": 1113,
+    "baseAttack": 566,
+    "baseDefense": 573,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core_costume",
@@ -33763,7 +33763,7 @@
     "parentHeroId": "tales2_hreidmarr"
   },
   "tales2_hogne_costume_lunar": {
-    "id": "tales2_hogne_costume_lunar",
+    "id": "Dwarven Moon Knight",
     "element": "Blue",
     "family": "myrkheim",
     "baseHealth": 1122,
@@ -33783,12 +33783,12 @@
     "parentHeroId": "tales2_hogne"
   },
   "ninja_garnet_costume_flame": {
-    "id": "ninja_garnet_costume_flame",
+    "id": "Ninja of Flaming Vigor",
     "element": "Red",
     "family": "ninja",
     "baseHealth": 721,
-    "baseAttack": 353,
-    "baseDefense": 367,
+    "baseAttack": 352,
+    "baseDefense": 369,
     "manaSpeedId": "charge_ninja",
     "classType": "Cleric",
     "aetherGift": "Defense Up",
@@ -33797,12 +33797,12 @@
     ],
     "rarity": 5,
     "specialId": "restorative_ki",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-30 07:00:00",
     "origin": "Ninja Tower",
     "parentHeroId": "ninja_garnet"
   },
   "s3_sumle_costume_cute": {
-    "id": "s3_sumle_costume_cute",
+    "id": "Toon Fire Giant",
     "element": "Red",
     "family": "muspelheim",
     "baseHealth": 510,
@@ -33822,7 +33822,7 @@
     "parentHeroId": "s3_sumle"
   },
   "s3_fura_costume_cute": {
-    "id": "s3_fura_costume_cute",
+    "id": "Poisoner Toon of Svartalfheim",
     "element": "Purple",
     "family": "svartalfheim",
     "baseHealth": 514,
@@ -33842,7 +33842,7 @@
     "parentHeroId": "s3_fura"
   },
   "s3_almur_costume_cute": {
-    "id": "s3_almur_costume_cute",
+    "id": "Shadowtoon of Svartalfheim",
     "element": "Green",
     "family": "svartalfheim",
     "baseHealth": 597,
@@ -33862,7 +33862,7 @@
     "parentHeroId": "s3_almur"
   },
   "s3_norns_costume_cute": {
-    "id": "s3_norns_costume_cute",
+    "id": "Weavers of Toon Destiny",
     "element": "Yellow",
     "family": "vanaheim",
     "baseHealth": 672,
@@ -33882,7 +33882,7 @@
     "parentHeroId": "s3_norns"
   },
   "s3_fenrir_costume_cute": {
-    "id": "s3_fenrir_costume_cute",
+    "id": "Toon Leader of Nilfheim",
     "element": "Blue",
     "family": "niflheim",
     "baseHealth": 631,
@@ -33902,7 +33902,7 @@
     "parentHeroId": "s3_fenrir"
   },
   "s3_ei_dunn_costume_cute": {
-    "id": "s3_ei_dunn_costume_cute",
+    "id": "Cursed Viking Toon",
     "element": "Red",
     "family": "niflheim",
     "baseHealth": 491,
@@ -33922,7 +33922,7 @@
     "parentHeroId": "s3_ei_dunn"
   },
   "s3_nordri_costume_cute": {
-    "id": "s3_nordri_costume_cute",
+    "id": "Toon Dwarf of Jotunheim",
     "element": "Blue",
     "family": "jotunheim",
     "baseHealth": 472,
@@ -33942,7 +33942,7 @@
     "parentHeroId": "s3_nordri"
   },
   "s3_bjorn_costume_cute": {
-    "id": "s3_bjorn_costume_cute",
+    "id": "Brave Toon",
     "element": "Purple",
     "family": "midgard",
     "baseHealth": 477,
@@ -33962,7 +33962,7 @@
     "parentHeroId": "s3_bjorn"
   },
   "s3_kvasir_costume_cute": {
-    "id": "s3_kvasir_costume_cute",
+    "id": "Toon Beekeeper",
     "element": "Yellow",
     "family": "alfheim",
     "baseHealth": 529,
@@ -33982,7 +33982,7 @@
     "parentHeroId": "s3_kvasir"
   },
   "ninja_cobalt_costume_tempest": {
-    "id": "ninja_cobalt_costume_tempest",
+    "id": "Ninja of Turbulent Seas",
     "element": "Blue",
     "family": "ninja",
     "baseHealth": 698,
@@ -34001,7 +34001,7 @@
     "parentHeroId": "ninja_cobalt"
   },
   "ninja_zircon_costume_iron": {
-    "id": "ninja_zircon_costume_iron",
+    "id": "Ninja of Iron Waves",
     "element": "Blue",
     "family": "ninja",
     "baseHealth": 697,
@@ -34020,7 +34020,7 @@
     "parentHeroId": "ninja_zircon"
   },
   "ninja_quartz_costume_investigate": {
-    "id": "ninja_quartz_costume_investigate",
+    "id": "Ninja of Ancient Graves",
     "element": "Purple",
     "family": "ninja",
     "baseHealth": 741,
@@ -35158,7 +35158,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_maar": {
-    "id": "titan_hunter_maar",
+    "id": "Warden of the Rainforest",
     "element": "Red",
     "family": "titan_hunter",
     "baseHealth": 1118,
@@ -35598,7 +35598,7 @@
     "origin": "ShadowQuest"
   },
   "institute_axioma": {
-    "id": "institute_axioma",
+    "id": "Scholar of Unseen Forces",
     "element": "Yellow",
     "family": "institute",
     "baseHealth": 1130,
@@ -35617,7 +35617,7 @@
     "origin": "ShadowQuest"
   },
   "forsaken_nyctalos": {
-    "id": "forsaken_nyctalos",
+    "id": "The All-Seeing Terror",
     "element": "Purple",
     "family": "forsaken",
     "baseHealth": 1161,
@@ -35636,7 +35636,7 @@
     "origin": "ShadowQuest"
   },
   "forsaken_vermis": {
-    "id": "forsaken_vermis",
+    "id": "The Worm King",
     "element": "Yellow",
     "family": "forsaken",
     "baseHealth": 1119,
@@ -35807,7 +35807,7 @@
     "origin": "Windfall Temple"
   },
   "fire_god_zerfain": {
-    "id": "fire_god_zerfain",
+    "id": "Wielder of Crimson Chain",
     "element": "Red",
     "family": "hotm2026",
     "baseHealth": 990,
@@ -35826,7 +35826,7 @@
     "origin": "MonthlyHeroJune2026"
   },
   "ice_god_ulfhild": {
-    "id": "ice_god_ulfhild",
+    "id": "Battle Wolf",
     "element": "Blue",
     "family": "hotm2026",
     "baseHealth": 1010,
@@ -35845,7 +35845,7 @@
     "origin": "MonthlyHeroJuly2026"
   },
   "holy_god_colt": {
-    "id": "holy_god_colt",
+    "id": "Alchemist of the Quiver",
     "element": "Yellow",
     "family": "hotm2026",
     "baseHealth": 1000,
@@ -35864,7 +35864,7 @@
     "origin": "MonthlyHeroAugust2026"
   },
   "vegetable_big_barry": {
-    "id": "vegetable_big_barry",
+    "id": "Strawberry Thug",
     "element": "Red",
     "family": "vegetable",
     "baseHealth": 1132,
@@ -35883,7 +35883,7 @@
     "origin": "Vigilant Vegetables"
   },
   "vegetable_melonius": {
-    "id": "vegetable_melonius",
+    "id": "Watermelon Wizard",
     "element": "Green",
     "family": "vegetable",
     "baseHealth": 1163,
@@ -35902,12 +35902,12 @@
     "origin": "Vigilant Vegetables"
   },
   "mahayoddha_rudraditya": {
-    "id": "mahayoddha_rudraditya",
+    "id": "The Sun Warrior",
     "element": "Red",
     "family": "mahayoddha",
-    "baseHealth": 1135,
-    "baseAttack": 634,
-    "baseDefense": 645,
+    "baseHealth": 1159,
+    "baseAttack": 665,
+    "baseDefense": 676,
     "manaSpeedId": "average",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -35917,16 +35917,16 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "agni_talwar_takedown",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-26 07:00:00",
     "origin": "Windfall Temple"
   },
   "ronin_kitou_sayomi": {
-    "id": "ronin_kitou_sayomi",
+    "id": "Midnight Hunter Ronin",
     "element": "Blue",
     "family": "ronin",
-    "baseHealth": 1135,
-    "baseAttack": 634,
-    "baseDefense": 645,
+    "baseHealth": 1165,
+    "baseAttack": 665,
+    "baseDefense": 675,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -35936,11 +35936,11 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "piercing_kurozuki_katana",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-05-30 07:00:00",
     "origin": "Ninja Tower"
   },
   "ronin_hiyori": {
-    "id": "ronin_hiyori",
+    "id": "Geisha of Horai-zan",
     "element": "Yellow",
     "family": "ronin",
     "baseHealth": 1156,
@@ -35959,7 +35959,7 @@
     "origin": "Ninja Tower"
   },
   "construct_featherweight": {
-    "id": "construct_featherweight",
+    "id": "Bipedal Reservoir Construct",
     "element": "Blue",
     "family": "construct",
     "baseHealth": 1165,
@@ -35978,7 +35978,7 @@
     "origin": "Covenant Summon"
   },
   "construct_niso": {
-    "id": "construct_niso",
+    "id": "Asymmetric Security Construct",
     "element": "Purple",
     "family": "construct",
     "baseHealth": 1021,
@@ -35997,7 +35997,7 @@
     "origin": "Covenant Summon"
   },
   "construct_tengo": {
-    "id": "construct_tengo",
+    "id": "Profaned Sunlord Construct",
     "element": "Yellow",
     "family": "construct",
     "baseHealth": 1117,
@@ -36016,7 +36016,7 @@
     "origin": "Covenant Summon"
   },
   "construct_elx": {
-    "id": "construct_elx",
+    "id": "Mage's Vessel Construct",
     "element": "Red",
     "family": "construct",
     "baseHealth": 1057,
@@ -36035,7 +36035,7 @@
     "origin": "Covenant Summon"
   },
   "construct_nepant": {
-    "id": "construct_nepant",
+    "id": "Junkyard Squire Construct",
     "element": "Green",
     "family": "construct",
     "baseHealth": 1122,
@@ -36054,7 +36054,7 @@
     "origin": "Covenant Summon"
   },
   "dryad_pansius": {
-    "id": "dryad_pansius",
+    "id": "Enchanter of the Ancient Bloom",
     "element": "Purple",
     "family": "dryad",
     "baseHealth": 1130,
@@ -36073,7 +36073,7 @@
     "origin": "Solstice Summon"
   },
   "dryad_cloveria": {
-    "id": "dryad_cloveria",
+    "id": "Vanguard of the Ancient Bloom",
     "element": "Green",
     "family": "dryad",
     "baseHealth": 1143,
@@ -36092,7 +36092,7 @@
     "origin": "Solstice Summon"
   },
   "mimic_food_red": {
-    "id": "mimic_food_red",
+    "id": "Flesh-eating Chest",
     "element": "Red",
     "family": "mimic",
     "baseHealth": 1158,
@@ -36112,7 +36112,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_green": {
-    "id": "mimic_food_green",
+    "id": "Flesh-eating Chest",
     "element": "Green",
     "family": "mimic",
     "baseHealth": 1158,
@@ -36133,7 +36133,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_blue": {
-    "id": "mimic_food_blue",
+    "id": "Flesh-eating Chest",
     "element": "Blue",
     "family": "mimic",
     "baseHealth": 1158,
@@ -36154,7 +36154,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_yellow": {
-    "id": "mimic_food_yellow",
+    "id": "Flesh-eating Chest",
     "element": "Yellow",
     "family": "mimic",
     "baseHealth": 1158,
@@ -36175,7 +36175,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_purple": {
-    "id": "mimic_food_purple",
+    "id": "Flesh-eating Chest",
     "element": "Purple",
     "family": "mimic",
     "baseHealth": 1158,
@@ -36196,7 +36196,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "ghost_hei_wu_chang": {
-    "id": "ghost_hei_wu_chang",
+    "id": "Underworld Black Guard",
     "element": "Green",
     "family": "ghost",
     "baseHealth": 1159,
@@ -36214,7 +36214,7 @@
     "origin": "KingdomWar"
   },
   "ghost_he_gui": {
-    "id": "ghost_he_gui",
+    "id": "Deceitful River Ghost",
     "element": "Blue",
     "family": "ghost",
     "baseHealth": 1162,
@@ -36232,7 +36232,7 @@
     "origin": "KingdomWar"
   },
   "ghost_shu_jing": {
-    "id": "ghost_shu_jing",
+    "id": "Scholarly Ghost Officer",
     "element": "Purple",
     "family": "ghost",
     "baseHealth": 1102,
@@ -36250,7 +36250,7 @@
     "origin": "KingdomWar"
   },
   "ghost_kuang_nao": {
-    "id": "ghost_kuang_nao",
+    "id": "Slithering Ghost",
     "element": "Green",
     "family": "ghost",
     "baseHealth": 595,
@@ -36268,7 +36268,7 @@
     "origin": "KingdomWar"
   },
   "ghost_miao_yin": {
-    "id": "ghost_miao_yin",
+    "id": "Playful Forest Spirit",
     "element": "Blue",
     "family": "ghost",
     "baseHealth": 520,
@@ -36286,7 +36286,7 @@
     "origin": "KingdomWar"
   },
   "shark_brokhai": {
-    "id": "shark_brokhai",
+    "id": "The All-time Greatest Shark",
     "element": "Red",
     "family": "shark",
     "baseHealth": 1100,
@@ -36302,10 +36302,10 @@
     "rarity": 5,
     "specialId": "blast_wave_punch",
     "canBeReceivedDate": "2026-06-01 07:00:00",
-    "origin": "BeachParty2026"
+    "origin": "Sunbay Party"
   },
   "shark_haikala": {
-    "id": "shark_haikala",
+    "id": "The Tiki Shark Enchantress",
     "element": "Blue",
     "family": "shark",
     "baseHealth": 1152,
@@ -36321,10 +36321,10 @@
     "rarity": 5,
     "specialId": "mending_high_tides",
     "canBeReceivedDate": "2026-06-01 07:00:00",
-    "origin": "BeachParty2026"
+    "origin": "Sunbay Party"
   },
   "shark_sharpoon": {
-    "id": "shark_sharpoon",
+    "id": "The Harpoon Hurling Shark",
     "element": "Green",
     "family": "shark",
     "baseHealth": 1119,
@@ -36340,10 +36340,10 @@
     "rarity": 5,
     "specialId": "harpoon_barrage",
     "canBeReceivedDate": "2026-06-01 07:00:00",
-    "origin": "BeachParty2026"
+    "origin": "Sunbay Party"
   },
   "shark_sharby": {
-    "id": "shark_sharby",
+    "id": "The Cute Baby Shark",
     "element": "Red",
     "family": "shark",
     "baseHealth": 634,
@@ -36359,10 +36359,10 @@
     "rarity": 4,
     "specialId": "sword_splash",
     "canBeReceivedDate": "2026-06-01 07:00:00",
-    "origin": "BeachParty2026"
+    "origin": "Sunbay Party"
   },
   "shark_haamuhai": {
-    "id": "shark_haamuhai",
+    "id": "The Mysterious Masked Shark",
     "element": "Purple",
     "family": "shark",
     "baseHealth": 515,
@@ -36378,10 +36378,10 @@
     "rarity": 3,
     "specialId": "scare_from_beneath",
     "canBeReceivedDate": "2026-06-01 07:00:00",
-    "origin": "BeachParty2026"
+    "origin": "Sunbay Party"
   },
   "astral_demon_zurrumurgh": {
-    "id": "astral_demon_zurrumurgh",
+    "id": "Astral Demon Spirit Whisperer",
     "element": "Green",
     "family": "astral_demons",
     "baseHealth": 1202,
@@ -36401,7 +36401,7 @@
     "origin": "Astral Plane"
   },
   "astral_demon_madarika": {
-    "id": "astral_demon_madarika",
+    "id": "Astral Demon Femme Fatale",
     "element": "Purple",
     "family": "astral_demons",
     "baseHealth": 1119,
@@ -36441,7 +36441,7 @@
     "origin": "Astral Plane"
   },
   "ronin_tenzin_kiba": {
-    "id": "ronin_tenzin_kiba",
+    "id": "Intimidator Ronin",
     "element": "Red",
     "family": "ronin",
     "baseHealth": 1128,
@@ -36460,7 +36460,7 @@
     "origin": "Ninja Tower"
   },
   "ronin_mizuno_seiko": {
-    "id": "ronin_mizuno_seiko",
+    "id": "Shaman Ronin",
     "element": "Green",
     "family": "ronin",
     "baseHealth": 1122,
@@ -36479,7 +36479,7 @@
     "origin": "Ninja Tower"
   },
   "mahayoddha_baji": {
-    "id": "mahayoddha_baji",
+    "id": "Bichuwa Assassin",
     "element": "Purple",
     "family": "mahayoddha",
     "baseHealth": 1122,
@@ -36498,7 +36498,7 @@
     "origin": "Windfall Temple"
   },
   "mahayoddha_shaurya": {
-    "id": "mahayoddha_shaurya",
+    "id": "White Desert Warrior",
     "element": "Yellow",
     "family": "mahayoddha",
     "baseHealth": 1126,
@@ -36517,7 +36517,7 @@
     "origin": "Windfall Temple"
   },
   "vegetable_garlacteus": {
-    "id": "vegetable_garlacteus",
+    "id": "Garlic Demolitionist",
     "element": "Blue",
     "family": "vegetable",
     "baseHealth": 1123,
@@ -36536,7 +36536,7 @@
     "origin": "Vigilant Vegetables"
   },
   "vegetable_pepo": {
-    "id": "vegetable_pepo",
+    "id": "Survivalist Pumpkin",
     "element": "Yellow",
     "family": "vegetable",
     "baseHealth": 1130,

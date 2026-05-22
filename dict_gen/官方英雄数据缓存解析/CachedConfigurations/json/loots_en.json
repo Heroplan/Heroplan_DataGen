@@ -42283,7 +42283,7 @@
         ]
       },
       {
-        "id": "mimic_food_green",
+        "id": "Flesh-eating Chest",
         "entities": [
           {
             "type": "Item",
@@ -42326,7 +42326,7 @@
         ]
       },
       {
-        "id": "mimic_food_blue",
+        "id": "Flesh-eating Chest",
         "entities": [
           {
             "type": "Item",
@@ -42369,7 +42369,7 @@
         ]
       },
       {
-        "id": "mimic_food_yellow",
+        "id": "Flesh-eating Chest",
         "entities": [
           {
             "type": "Item",
@@ -42412,7 +42412,7 @@
         ]
       },
       {
-        "id": "mimic_food_purple",
+        "id": "Flesh-eating Chest",
         "entities": [
           {
             "type": "Item",
@@ -42455,7 +42455,7 @@
         ]
       },
       {
-        "id": "mimic_food_red",
+        "id": "Flesh-eating Chest",
         "entities": [
           {
             "type": "Item",
