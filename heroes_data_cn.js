@@ -110391,30 +110391,6 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "泽尔芬 (Zerfain)",
-        "fancy_name": "猩红利爪者",
-        "AetherPower": "",
-        "color": "红",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "fire_god_zerfain",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2026",
-        "costume_id": 0,
-        "originalIndex": 1819,
-        "cn_skill_info": []
-    },
-    {
         "name": "布罗凯 (Bro'Khai)",
         "fancy_name": "史上最伟大的鲨鱼",
         "AetherPower": "",
@@ -110435,7 +110411,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1820,
+        "originalIndex": 1819,
         "cn_skill_info": []
     },
     {
@@ -110459,7 +110435,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1821,
+        "originalIndex": 1820,
         "cn_skill_info": []
     },
     {
@@ -110483,7 +110459,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1821,
         "cn_skill_info": []
     },
     {
@@ -110507,7 +110483,7 @@ window.allHeroes =
         "passives": [],
         "family": "shark",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1822,
         "cn_skill_info": []
     },
     {
@@ -110531,7 +110507,7 @@ window.allHeroes =
         "passives": [],
         "family": "ghost",
         "costume_id": 0,
-        "originalIndex": 1824,
+        "originalIndex": 1823,
         "cn_skill_info": []
     },
     {
@@ -110555,7 +110531,7 @@ window.allHeroes =
         "passives": [],
         "family": "dryad",
         "costume_id": 0,
-        "originalIndex": 1825,
+        "originalIndex": 1824,
         "cn_skill_info": []
     },
     {
@@ -110579,7 +110555,7 @@ window.allHeroes =
         "passives": [],
         "family": "dryad",
         "costume_id": 0,
-        "originalIndex": 1826,
+        "originalIndex": 1825,
         "cn_skill_info": []
     }
 ];

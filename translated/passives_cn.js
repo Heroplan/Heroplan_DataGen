@@ -13698,11 +13698,6 @@ const translatedPassivesCN =
         "passives": []
     },
     {
-        "heroId": "fire_god_zerfain",
-        "name": "Zerfain",
-        "passives": []
-    },
-    {
         "heroId": "shark_brokhai",
         "name": "Bro'Khai",
         "passives": []

@@ -87,6 +87,8 @@ window.family_values = {
     "rodent": "生日召喚 - 冒險小鼠",
     "ronin": "高塔 - 浪人",
     "ghost": "三國 - 楊戩幽靈",
+    "shark": "月活動 - 日灣鯊魚",
+    "dryad": "至日召喚 - 樹精",
 
     "hotm2017": "月英 - 2017",
     "hotm2018": "月英 - 2018",

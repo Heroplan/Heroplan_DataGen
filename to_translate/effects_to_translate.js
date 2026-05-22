@@ -17699,11 +17699,6 @@ const allTranslations =
         "effects": []
     },
     {
-        "heroId": "fire_god_zerfain",
-        "name": "Zerfain",
-        "effects": []
-    },
-    {
         "heroId": "shark_brokhai",
         "name": "Bro'Khai",
         "effects": []

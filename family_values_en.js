@@ -87,6 +87,8 @@ window.family_values = {
     "rodent": "Birthday Summon - Adventurous Rodent",
     "ronin": "Tower - Ronin",
     "ghost": "Three Kingdoms - Ghosts of Yang Jian",
+    "shark": "Monthly Event - Sunbay Shark",
+    "dryad": "Solstice Summon - Dryads",
 
 
     "hotm2017": "Monthly Hero - 2017",

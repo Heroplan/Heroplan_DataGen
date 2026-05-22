@@ -144,18 +144,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zerfain",
-        "fancy_name": "Wielder of Crimson Chain",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "fire_god_zerfain",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Bro'Khai",
         "fancy_name": "The All-time Greatest Shark",
         "color": "Red",

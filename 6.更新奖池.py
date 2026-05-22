@@ -8,6 +8,10 @@ OTHER_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfiguratio
 OUTPUT_JSON_PATH = r"..\Heroplan.github.io\lottery_config.json"
 
 TARGET_POOLS = {
+    "lottery_black_default": "lottery_black_default",
+    "lottery_black_7th_birthday": "lottery_black_7th_birthday",
+    "lottery_black_solstice_default": "lottery_black_solstice_default",
+    "lottery_harvest_default": "lottery_harvest_default",
     "lottery_pickup_default": "lottery_pickup_default",
     "lottery_ascension_default": "lottery_ascension_default",
     "lottery_season_atlantis": "lottery_season_atlantis",
@@ -30,7 +34,7 @@ TARGET_POOLS = {
     "lottery_tower_styx_default": "lottery_tower_styx_default",
     "lottery_featured_event_farmland": "lottery_featured_event_farmland",
     "lottery_featured_alliance_quest_musketeers": "lottery_featured_alliance_quest_musketeers",
-    "lottery_super_elemental": "lottery_super_elemental",   # 新增特殊池子
+    "lottery_super_elemental": "lottery_super_elemental",
 }
 
 POOL_SOURCE_MAP = {

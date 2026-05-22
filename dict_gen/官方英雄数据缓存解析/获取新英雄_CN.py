@@ -228,7 +228,7 @@ def save_heroes_data(heroes_list, output_file, list_type="英雄"):
 
 # === 主程序开始 ===
 # 文件路径
-single_input_file = 'T:/FileTemp/CachedConfigurations/json/characters_en.json'  # 只读取这个文件
+single_input_file = './CachedConfigurations/json/characters_en.json'  # 只读取这个文件
 name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_cn.txt'
 fancy_name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_fancy_cn.txt'
 family_dict_file = '../官方语言字典生成/generated_txt/family_title_cn.txt'
