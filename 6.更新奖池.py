@@ -29,6 +29,8 @@ TARGET_POOLS = {
     "lottery_covenant_default": "lottery_covenant_default",
     "lottery_goblin_default": "lottery_goblin_default",
     "lottery_mercenary_war_default": "lottery_mercenary_war_default",
+    "lottery_mimic_default": "lottery_mimic_default",
+    "lottery_hotm_event_default": "lottery_hotm_event_default",
     # 从 other 文件提取的池子
     "lottery_tower_ninja_default": "lottery_tower_ninja_default",
     "lottery_tower_owl_default": "lottery_tower_owl_default",
@@ -167,6 +169,22 @@ PRODUCTS_SOURCE_MAP = {
         "included_heroes_key": "includedHeroes"
     },
 }
+
+# 从 playerSelectedFeaturedEntityConfigs 中提取 entitiesToChooseFrom 的映射
+PLAYER_SELECTED_ENTITIES_MAP = {
+    "lottery_black_7th_birthday": {
+        "path": ["shopConfig", "lottery", "playerSelectedFeaturedEntityConfigs"],
+        "match_key": "summonId",
+    },
+    "lottery_mimic_default": {
+        "path": ["shopConfig", "lottery", "playerSelectedFeaturedEntityConfigs"],
+        "match_key": "summonId",
+    },
+    "lottery_hotm_event_default": {
+        "path": ["shopConfig", "lottery", "playerSelectedFeaturedEntityConfigs"],
+        "match_key": "summonId",
+    }
+}
 # ====================================================
 
 def parse_date(date_str: str):
@@ -176,30 +194,21 @@ def parse_date(date_str: str):
         return None
 
 def extract_pool_config(entry: dict):
-    """
-    从召唤池条目中提取需要的配置：
-    - featuredHeroes (任何以 'featured' 开头的列表)
-    - includedHeroes (如果存在)
-    - limitedPoolSummonConfiguration (如果存在)
-    """
+    """从主文件召唤池条目中提取 featuredHeroes、includedHeroes、limitedPoolSummonConfiguration"""
     config = {}
-    # featured 字段
     for key, value in entry.items():
         if key.startswith("featured") and isinstance(value, list):
             config["featuredHeroes"] = value
             break
-    # includedHeroes
     if "includedHeroes" in entry and isinstance(entry["includedHeroes"], list):
         config["includedHeroes"] = entry["includedHeroes"]
-    # limitedPoolSummonConfiguration
     if "limitedPoolSummonConfiguration" in entry and isinstance(entry["limitedPoolSummonConfiguration"], dict):
         config["limitedPoolSummonConfiguration"] = entry["limitedPoolSummonConfiguration"]
     return config
 
 def extract_from_main(data, target_id, now):
-    """从主文件中提取匹配的条目，返回最近日期的完整配置字典"""
-    candidates = []  # (date, entry)
-
+    """从主文件中提取匹配 productId/id 的条目，按日期选最近，返回配置字典"""
+    candidates = []
     def recurse(obj):
         if isinstance(obj, dict):
             pid = obj.get("productId")
@@ -215,7 +224,6 @@ def extract_from_main(data, target_id, now):
         elif isinstance(obj, list):
             for item in obj:
                 recurse(item)
-
     recurse(data)
     if not candidates:
         return None
@@ -223,7 +231,7 @@ def extract_from_main(data, target_id, now):
     return extract_pool_config(closest_entry)
 
 def extract_from_other(other_data, rule, now):
-    """从 other 文件中提取配置，仅支持 featuredCharacters，返回统一格式"""
+    """从 other 文件中按规则提取 featuredCharacters（需日期筛选）"""
     target = other_data
     for key in rule["path"]:
         if isinstance(target, dict):
@@ -234,7 +242,6 @@ def extract_from_other(other_data, rule, now):
             return None
     if not isinstance(target, list):
         return None
-
     candidates = []
     for entry in target:
         if not isinstance(entry, dict):
@@ -256,7 +263,7 @@ def extract_from_other(other_data, rule, now):
     return closest_config
 
 def extract_from_products(products_data, rule):
-    """从 products 文件中提取配置，无需日期筛选，直接根据 id 匹配返回 featuredHeroes 和 includedHeroes"""
+    """从 products 文件中根据 id 直接匹配，返回 featuredHeroes 和 includedHeroes"""
     target = products_data
     for key in rule["path"]:
         if isinstance(target, dict):
@@ -267,19 +274,16 @@ def extract_from_products(products_data, rule):
             return None
     if not isinstance(target, list):
         return None
-
     for entry in target:
         if not isinstance(entry, dict):
             continue
         if entry.get(rule["match_key"]) == rule["match_value"]:
             config = {}
-            # 优先使用指定的 heroes_key，若不存在则尝试通用的 featuredHeroes
             heroes = entry.get(rule["heroes_key"])
             if heroes is None:
                 heroes = entry.get("featuredHeroes")
             if heroes and isinstance(heroes, list):
                 config["featuredHeroes"] = heroes
-            # 提取 includedHeroes
             if "included_heroes_key" in rule:
                 included = entry.get(rule["included_heroes_key"])
             else:
@@ -289,15 +293,32 @@ def extract_from_products(products_data, rule):
             return config
     return None
 
-def process_super_elemental(lottery_data, now):
-    """
-    特殊处理超级元素池：
-    收集所有 productId 以 'lottery_super_elemental_' 开头的条目，
-    按颜色分组，每组取 startDate 最接近今天的条目，提取 featuredHeroes，
-    最后返回形如 {"featuredHeroes_green": [...], "featuredHeroes_red": [...]} 的字典。
-    """
-    color_candidates = {}
+def extract_from_player_selected_entities(main_data, target_id):
+    """从 playerSelectedFeaturedEntityConfigs 中提取 entitiesToChooseFrom"""
+    # 按照固定路径导航
+    try:
+        target_list = main_data
+        for key in ["shopConfig", "lottery", "playerSelectedFeaturedEntityConfigs"]:
+            target_list = target_list.get(key)
+            if target_list is None:
+                return None
+    except (KeyError, AttributeError):
+        return None
+    if not isinstance(target_list, list):
+        return None
+    for entry in target_list:
+        if not isinstance(entry, dict):
+            continue
+        if entry.get("summonId") == target_id:
+            config = {}
+            if "entitiesToChooseFrom" in entry:
+                config["entitiesToChooseFrom"] = entry["entitiesToChooseFrom"]
+            return config
+    return None
 
+def process_super_elemental(lottery_data, now):
+    """特殊处理超级元素池，返回 {featuredHeroes_color: [...]}"""
+    color_candidates = {}
     def recurse(obj):
         if isinstance(obj, dict):
             pid = obj.get("productId")
@@ -319,7 +340,6 @@ def process_super_elemental(lottery_data, now):
         elif isinstance(obj, list):
             for item in obj:
                 recurse(item)
-
     recurse(lottery_data)
     if not color_candidates:
         return None
@@ -330,7 +350,7 @@ def process_super_elemental(lottery_data, now):
     return result
 
 def main():
-    # 1. 读取主配置
+    # 读取主配置
     if not os.path.isfile(MAIN_JSON_PATH):
         print(f"错误：主文件不存在 - {MAIN_JSON_PATH}")
         return
@@ -342,7 +362,7 @@ def main():
         print("未找到 shopConfig.lottery 节点")
         return
 
-    # 2. 读取 other 配置
+    # 读取 other 配置
     other_data = None
     if os.path.isfile(OTHER_JSON_PATH):
         with open(OTHER_JSON_PATH, "r", encoding="utf-8") as f:
@@ -351,7 +371,7 @@ def main():
     else:
         print(f"警告：Other文件不存在 - {OTHER_JSON_PATH}")
 
-    # 3. 读取 products 配置
+    # 读取 products 配置
     products_data = None
     if os.path.isfile(PRODUCTS_JSON_PATH):
         with open(PRODUCTS_JSON_PATH, "r", encoding="utf-8") as f:
@@ -366,7 +386,7 @@ def main():
     for target_id, output_key in TARGET_POOLS.items():
         config = None
 
-        # 特殊处理超级元素池
+        # 1. 特殊处理超级元素池
         if target_id == "lottery_super_elemental":
             config = process_super_elemental(lottery_data, now)
             if config:
@@ -374,7 +394,15 @@ def main():
             else:
                 print(f"✗ 超级元素池未找到任何颜色条目: {target_id}")
 
-        # 从 products 文件提取
+        # 2. 从 playerSelectedFeaturedEntityConfigs 提取 entitiesToChooseFrom
+        elif target_id in PLAYER_SELECTED_ENTITIES_MAP:
+            config = extract_from_player_selected_entities(main_data, target_id)
+            if config:
+                print(f"✓ 从PlayerSelectedEntities提取: {target_id} -> {output_key}")
+            else:
+                print(f"✗ PlayerSelectedEntities未找到匹配: {target_id}")
+
+        # 3. 从 products 文件提取
         elif target_id in PRODUCTS_SOURCE_MAP and products_data is not None:
             rule = PRODUCTS_SOURCE_MAP[target_id]
             config = extract_from_products(products_data, rule)
@@ -383,7 +411,7 @@ def main():
             else:
                 print(f"✗ Products文件未找到匹配: {target_id}")
 
-        # 从 other 文件提取（塔、活动）
+        # 4. 从 other 文件提取
         elif target_id in POOL_SOURCE_MAP and other_data is not None:
             rule = POOL_SOURCE_MAP[target_id]
             config = extract_from_other(other_data, rule, now)
@@ -392,7 +420,7 @@ def main():
             else:
                 print(f"✗ Other文件未找到匹配: {target_id}")
 
-        # 默认从主文件提取
+        # 5. 默认从主文件提取
         else:
             config = extract_from_main(lottery_data, target_id, now)
             if config:
