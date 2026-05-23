@@ -22,6 +22,7 @@ TARGET_POOLS = {
     "lottery_season_untold_tales1": "lottery_season_untold_tales1",
     "lottery_season_untold_tales2": "lottery_season_untold_tales2",
     "lottery_costume_default": "lottery_costume_default",
+    "lottery_costume_wardrobe2": "lottery_costume_wardrobe2",
     "lottery_shadow_default": "lottery_shadow_default",
     "lottery_wilderness_default": "lottery_wilderness_default",
     "lottery_temple_default": "lottery_temple_default",
