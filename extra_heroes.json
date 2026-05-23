@@ -1,29 +1,5 @@
 [
     {
-        "name": "Athena Toon",
-        "fancy_name": "Toon Celestial of Ice",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-23 07:00:00",
-        "star": 5,
-        "family": "hotm2017",
-        "costume_id": 2,
-        "heroId": "ice_god_athena_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tarlak Toon",
-        "fancy_name": "Toon of the Jungle",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-23 07:00:00",
-        "star": 5,
-        "family": "lagoon",
-        "costume_id": 2,
-        "heroId": "s2_junglehunter_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zarek",
         "fancy_name": "Stone-Weaving Caracal",
         "color": "Green",

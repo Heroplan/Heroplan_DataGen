@@ -47419,5 +47419,55 @@ window.allHeroesExtra = [
             "vengeful_ghost_on_damage_received"
         ],
         "family": "ghost"
+    },
+    {
+        "name": "Athena toon",
+        "fancy name": "Toon Celestial of Ice",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
+        "Release date": "2026-05-23",
+        "AetherPower": "Attack Up",
+        "heroId": "ice_god_athena_costume_cute",
+        "baseAttack": 358,
+        "baseDefense": 336,
+        "baseHealth": 656,
+        "specialId": "athenas_bow",
+        "specialId_costume": "toon_athenas_bow",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
+    },
+    {
+        "name": "Tarlak toon",
+        "fancy name": "Toon of the Jungle",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-05-23",
+        "AetherPower": "Counterattack",
+        "heroId": "s2_junglehunter_costume_cute",
+        "baseAttack": 405,
+        "baseDefense": 320,
+        "baseHealth": 600,
+        "specialId": "martial_prowess",
+        "specialId_costume": "toon_prowess",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "lagoon"
     }
 ];

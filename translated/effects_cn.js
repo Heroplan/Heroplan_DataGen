@@ -1204,6 +1204,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "effects": [
+            "对目标造成 560% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -41% 防御，并在每次被击中时再降低 -4% 防御，持续 2 回合。最高 -65% 防御。",
+            "对烈火系造成额外伤害。",
+            "元素链为全体冰雪系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
+        ]
+    },
+    {
         "heroId": "tales1_atlanteia",
         "name": "Atlanteia",
         "effects": [
@@ -6747,6 +6757,14 @@ const translatedEffectsCN =
         "effects": [
             "提高所有盟友 470 点生命值。提高的生命值可以超过最大生命值。",
             "所有盟友获得 +80% 普通攻击，持续 5 回合。每回合普通攻击都会增加 +20%。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。"
+        ]
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "effects": [
+            "所有盟友获得 +150% 普通攻击，持续 4 回合。对所有自然系角色，此状态效果无法驱散且持续时间延长 2 回合。（即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。）",
+            "所有盟友在 4 回合内恢复 800 点生命值。对所有自然系角色，此状态效果无法驱散且持续时间延长 2 回合。"
         ]
     },
     {
@@ -17639,16 +17657,6 @@ const translatedEffectsCN =
         ]
     },
     {
-        "heroId": "ice_god_athena_costume_cute",
-        "name": "Athena Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_junglehunter_costume_cute",
-        "name": "Tarlak Toon",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_zarek",
         "name": "Zarek",
         "effects": []
@@ -17706,6 +17714,11 @@ const translatedEffectsCN =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
+        "effects": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
         "effects": []
     },
     {

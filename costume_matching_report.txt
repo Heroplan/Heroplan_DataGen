@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (576 / 0)
+✅ 成功匹配的服装 (578 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -484,6 +484,7 @@ Name: Kiril Toon, Fancy Name: Toon Brewer
 Name: Triton toon, Fancy Name: Toon Captain of Atlantis
 Name: Rigard Toon, Fancy Name: Toon Cavalier
 Name: Hel toon, Fancy Name: Toon Celestial of Darkness
+Name: Athena toon, Fancy Name: Toon Celestial of Ice
 Name: Agwe toon, Fancy Name: Toon Chameleon Shaman
 Name: Sonya Toon, Fancy Name: Toon Champion
 Name: Kashhrek Toon, Fancy Name: Toon Chieftain
@@ -525,6 +526,7 @@ Name: Dawa Toon, Fancy Name: Toon of Shaguad
 Name: Justice Toon, Fancy Name: Toon of Stone
 Name: Ares toon, Fancy Name: Toon of War
 Name: Marjana Toon, Fancy Name: Toon of Windemer
+Name: Tarlak toon, Fancy Name: Toon of the Jungle
 Name: Joon Toon, Fancy Name: Toon of the Sun
 Name: Horghall Toon, Fancy Name: Toon of the Woods
 Name: Nadezhda Costume1, Fancy Name: Tower Postmaster

@@ -942,6 +942,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ]
+    },
+    {
         "heroId": "tales1_atlanteia",
         "name": "Atlanteia",
         "passives": [
@@ -5196,6 +5204,13 @@ const allTranslations =
         "heroId": "s2_junglehunter_costume_party",
         "name": "Tarlak C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
     },
     {
         "heroId": "castle_bear_teddy",
@@ -13638,16 +13653,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "ice_god_athena_costume_cute",
-        "name": "Athena Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_junglehunter_costume_cute",
-        "name": "Tarlak Toon",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_zarek",
         "name": "Zarek",
         "passives": []
@@ -13705,6 +13710,11 @@ const allTranslations =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
         "passives": []
     },
     {

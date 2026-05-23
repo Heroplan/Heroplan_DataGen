@@ -127,7 +127,8 @@ hero_map_processed = {}
 hero_keys_sorted = []
 heroes_extra_lookup = {}
 heroes_extra_cn_lookup = {}
-appearance_map_zh = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃", "stylish": "英姿"}
+appearance_map_cn = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃", "stylish": "英姿"}
+appearance_map_tc = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "公仔", "glass": "玻璃", "stylish": "有型"}
 appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass", "stylish": "Stylish"}
 
 SKILL_CATEGORY_ORDER = ["基础技能", "特殊效果", "增益效果", "负面效果"]
@@ -416,7 +417,14 @@ def translate_name(name_en):
                 base_name_trans = f"{cn_base} ({cleaned_english_name})".strip() if cn_base else cleaned_english_name
             translated_suffix = ""
             if suffix_part:
-                current_map = appearance_map_en if lang == 'en' else appearance_map_zh 
+                if lang == 'en':
+                    current_map = appearance_map_en
+                elif lang == 'cn':
+                    current_map = appearance_map_cn
+                elif lang == 'tc':
+                    current_map = appearance_map_tc
+                else:
+                    current_map = appearance_map_en   # 或其他默认值
                 normalized_suffix_part = suffix_part.lower().replace(" ", "")
                 translated_suffix = current_map.get(normalized_suffix_part, suffix_part)
             final_names[lang] = f"{base_name_trans} {translated_suffix}".strip() if translated_suffix else base_name_trans

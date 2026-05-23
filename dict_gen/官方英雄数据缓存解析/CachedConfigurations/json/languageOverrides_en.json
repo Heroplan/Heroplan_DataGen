@@ -110,6 +110,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Tutti gli Eroi di tipo [##elementblue]Ghiaccio[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni. Se altri effetti aumentano l'Attacco in generale, gli attacchi normali possono raggiungere al massimo una potenza totale aumentata del {MAXATTACK}%."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Queste Gemme verranno inviate alla posta in arrivo di ciascun membro della tua Alleanza.\n\nI regali dell'Alleanza possono essere ricevuti fino a 29 volte per ogni scorta dell'offerta. Tu non li riceverai.\n\nSe non fai parte di un'Alleanza, queste Gemme non verranno inviate."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Questi oggetti verranno inviati alla posta in arrivo di ciascun membro della tua Alleanza.\n\nI regali dell'Alleanza possono essere ricevuti fino a 29 volte per ogni scorta dell'offerta. Tu non li riceverai.\n\nSe non fai parte di un'Alleanza, questi oggetti non verranno inviati."
           }
         ]
       },
@@ -222,6 +230,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Все герои [##elementblue]льда[#] получают {ATTACK} % обычной атаки на {TURNS} х. Если дополнительные эффекты повышают атаку в целом, то максимальное усиление обычных атак может достигать {MAXATTACK} %"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Эти самоцветы будут отправлены в личном сообщении всем участникам альянса, кроме вас. \n\nПодарки альянсу можно получить до 29 раз на одно предложение.\n\nЕсли вы не состоите в альянсе, самоцветы отправлены не будут."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Эти предметы будут отправлены в личном сообщении всем участникам альянса, кроме вас. \n\nПодарки альянсу можно получить до 29 раз на одно предложение.\n\nЕсли вы не состоите в альянсе, предметы отправлены не будут."
           }
         ]
       },
@@ -334,6 +350,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Wszyscy bohaterowie [##elementblue]lodu[#] otrzymują {ATTACK}% do normalnego ataku przez {TURNS} tur(y). Jeżeli dodatkowe efekty ogólnie zwiększają atak, normalne ataki mogą maksymalnie {MAXATTACK}% zwiększenia mocy."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Te klejnoty zostaną wysłane do każdego członka Twojego sojuszu.\n\nDary sojuszu można otrzymać maksymalnie 29 razy w ramach danej oferty. Nie otrzymasz ich dla siebie.\n\nJeśli nie jesteś w sojuszu, klejnoty nie zostaną wysłane."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Te przedmioty zostaną wysłane do każdego członka Twojego sojuszu.\n\nDary sojuszu można otrzymać maksymalnie 29 razy w ramach danej oferty. Nie otrzymasz ich dla siebie.\n\nJeśli nie jesteś w sojuszu, przedmioty nie zostaną wysłane."
           }
         ]
       },
@@ -446,6 +470,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "所有[##elementblue]冰雪[#]英雄獲得{ATTACK}%普通攻擊，持续{TURNS}回合。若附加效果提升整體攻擊力，普通攻擊最多可提升{MAXATTACK}%的戰力。"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "這些寶石將會發放到聯盟成員的收件匣。\n\n每檔庫存優惠的聯盟禮物最多可被領取29次。你本人將不會收到這些寶石。\n\n如果你未加入聯盟，這些寶石不會發放。"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "這些物品將會發放到聯盟成員的收件匣。\n\n每檔庫存優惠的聯盟禮物最多可被領取29次。你本人將不會收到這些寶石。\n\n如果你未加入聯盟，這些寶石不會發放。"
           }
         ]
       },
@@ -598,6 +630,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "모든 [##elementblue]얼음[#] 영웅이 {TURNS}턴 동안 일반 공격력에 {ATTACK}%를 받습니다. 추가 효과가 전반적으로 공격력을 증가시키면, 일반 공격이 최대 {MAXATTACK}%까지 증가한 전투력을 가집니다."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "이 보석들이 동맹 멤버 각자의 우편함으로 전달됩니다. \n\n동맹 선물은 특별 상품마다 최대 29회까지 받을 수 있습니다. 단, 본인은 제외입니다.\n\n동맹에 가입되어 있지 않다면 이 보석들을 보낼 수 없습니다."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "이 아이템들이 동맹 멤버 각자의 우편함으로 전달됩니다. \n\n동맹 선물은 특별 상품마다 최대 29회까지 받을 수 있습니다. 단, 본인은 제외입니다.\n\n동맹에 가입되어 있지 않다면 이 아이템들을 보낼 수 없습니다."
           }
         ]
       },
@@ -714,6 +754,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Alle [##elementblue]Eishelden[#] erhalten {ATTACK} % normalen Angriff für {TURNS} Züge. Steigern andere Effekte allgemein den Angriff, kann die Stärke normaler Angriffe um bis zu {MAXATTACK} % steigen."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Diese Juwelen werden an den Posteingang jedes einzelnen deiner Allianz-Mitglieder gesendet. \n\nAllianz-Geschenke können bis zu 29 Mal pro Angebot erhalten werden. Du erhältst diese nicht selbst.\n\nWenn du keiner Allianz angehörst, werden diese Juwelen nicht verschickt."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Diese Gegenstände werden an den Posteingang jedes einzelnen deiner Allianz-Mitglieder gesendet. \n\nAllianz-Geschenke können bis zu 29 Mal pro Angebot erhalten werden. Du erhältst diese nicht selbst.\n\nWenn du keiner Allianz angehörst, werden diese Gegenstände nicht verschickt."
           }
         ]
       },
@@ -826,6 +874,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "{TURNS}ターンの間、[##elementblue]氷属性[#]の英雄全員の通常攻撃が{ATTACK}%になる。追加の効果が全般的な攻撃力を向上させると、通常攻撃は合計で最大{MAXATTACK}%威力が増加する。"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "このジェムは同盟メンバーひとりひとりの受信箱へ贈り物として送られる。 \n\n同盟ギフトはオファー在庫につき最大29回まで受け取ることができる。あなた自身はこれを受け取ることはない。\n\n同盟に所属していない場合は、誰の元にもジェムは届かない。"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "このアイテムは同盟メンバーひとりひとりの受信箱へ贈り物として送られる。 \n\n同盟ギフトはオファー在庫につき最大29回まで受け取ることができる。あなた自身はこれを受け取ることはない。\n\n同盟に所属していない場合は、誰の元にもアイテムは届かない。"
           }
         ]
       },
@@ -938,6 +994,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Alla [##elementblue]ishjältar[#] får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Om andra effekter påverkar attackstyrka i allmänhet kan vanliga attacker ha högst {MAXATTACK} % högre kraft."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "De här ädelstenarna skickas till dina alliansmedlemmars inkorg.\n\nAlliansgåvor kan tas emot upp till 29 gånger per erbjudande. Du får dem inte själv.\n\nOm du inte är med i en allians skickas inte de här ädelstenarna."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "De här föremålen skickas till dina alliansmedlemmars inkorg.\n\nAlliansgåvor kan tas emot upp till 29 gånger per erbjudande. Du får dem inte själv.\n\nOm du inte är med i en allians skickas inte de här föremålen."
           }
         ]
       },
@@ -1050,6 +1114,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Tüm [##elementblue]Buz[#] Kahramanları, {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Ek efektler saldırını genel anlamda artırırsa normal saldırılar toplamda en fazla %{MAXATTACK} artırılmış güce sahip olabilir."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Bu mücevherler, İttifakındaki tüm üyelerin gelen kutusuna gönderilir.\n\nİttifak hediyeleri, her stok teklifi başına 29 kereye kadar alınabilir. Bunları sen tek başına almazsın.\n\nBir İttifakta değilsen bu mücevherler gönderilmez."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Bu nesneler, İttifakındaki tüm üyelerin gelen kutusuna gönderilir.\n\nİttifak hediyeleri, her stok teklifi başına 29 kereye kadar alınabilir. Bunları sen tek başına almazsın.\n\nBir İttifakta değilsen bu nesneler gönderilmez."
           }
         ]
       },
@@ -1162,6 +1234,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "All [##elementblue]Ice[#] Heroes get {ATTACK}% normal attack for {TURNS} turns. If additional effects increase attack in general, normal attacks can have a total maximum of {MAXATTACK}% increased power."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "These gems will be sent to the inbox of each of your fellow Alliance members. \n\nAlliance gifts can be received up to 29 times per offer stock. You will not receive these yourself.\n\nIf you're not in an Alliance, these gems will not be sent."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "These items will be sent to the inbox of each of your fellow Alliance members. \n\nAlliance gifts can be received up to 29 times per offer stock. You will not receive these yourself.\n\nIf you're not in an Alliance, these items will not be sent."
           }
         ]
       },
@@ -1274,6 +1354,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "يحصل كل أبطال [##elementblue]الثلج[#] على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. إذا أدت التأثيرات الإضافية إلى تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "ستُرسل هذه الجواهر إلى البريد الإلكتروني الخاص بكلّ من أعضاء تحالفك. \n\nيمكن الحصول على جوائز التحالف حتى 29 مرة من مخزون العرض. لن تتلقى أنت الهدايا.\n\nإذا لم تكن عضو في تحالف، لن تُرسل هذه الجواهر."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "ستُرسل هذه العناصر إلى البريد الإلكتروني الخاص بكلّ من أعضاء تحالفك. \n\nيمكن الحصول على جوائز التحالف حتى 29 مرة من مخزون العرض. لن تتلقى أنت الهدايا.\n\nإذا لم تكن عضو في تحالف، لن تُرسل هذه العناصر."
           }
         ]
       },
@@ -1386,6 +1474,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Tous les héros de [##elementblue]glace[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Si des effets supplémentaires augmentent l'attaque en général, les attaques normales peuvent avoir un maximum de {MAXATTACK} % de puissance augmentée."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Ces gemmes seront envoyées dans la boîte de réception de chacun des membres de votre alliance. \n\nLes cadeaux d'alliance peuvent être reçus jusqu'à 29 fois par stock d'offre. Vous ne les recevrez pas vous-même.\n\nSi vous n'êtes pas dans une alliance, ces gemmes ne seront pas envoyées."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Ces objets seront envoyés dans la boîte de réception de chacun des membres de votre alliance. \n\nLes cadeaux d'alliance peuvent être reçus jusqu'à 29 fois par stock d'offre. Vous ne les recevrez pas vous-même.\n\nSi vous n'êtes pas dans une alliance, ces objets ne seront pas envoyés."
           }
         ]
       },
@@ -1498,6 +1594,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Todos os heróis de [##elementblue]Gelo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos. Quando efeitos adicionais aumentam o ataque de modo geral, o poder dos ataques normais pode aumentar em até {MAXATTACK}% no total."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Estas gemas serão enviadas para a caixa de entrada de cada um dos outros membros da aliança. \n\nOs presentes da aliança podem ser recebidos até 29 vezes por estoque de oferta. Você não recebe esses presentes.\n\nSe você não estiver em uma aliança, as gemas não serão enviadas."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Estes itens serão enviados para a caixa de entrada de cada um dos outros membros da aliança. \n\nOs presentes da aliança podem ser recebidos até 29 vezes por estoque de oferta. Você não recebe esses presentes.\n\nSe você não estiver em uma aliança, os itens não serão enviados."
           }
         ]
       },
@@ -1610,6 +1714,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Semua Pahlawan [##elementblue]Es[#] mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Jika efek tambahan meningkatkan serangan secara umum, serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Permata ini akan dikirim ke kotak masuk setiap rekanmu, sesama anggota Aliansi. \n\nHadiah Aliansi dapat diterima hingga 29 kali per stok tawaran. Kamu sendiri tidak akan menerimanya.\n\nJika kamu tidak bergabung dengan Aliansi, permata ini tidak akan dikirim."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Barang ini akan dikirim ke kotak masuk setiap rekanmu, sesama anggota Aliansi. \n\nHadiah Aliansi dapat diterima hingga 29 kali per stok tawaran. Kamu sendiri tidak akan menerimanya.\n\nJika kamu tidak bergabung dengan Aliansi, barang ini tidak akan dikirim."
           }
         ]
       },
@@ -1722,6 +1834,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Kaikki [##elementblue]jääsankarit[#] saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Jos lisävaikutukset nostavat hyökkäystä yleisesti, normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Nämä jalokivet lähetetään liittoumasi jäsenten viestilaatikoihin. \n\nJäsen voi vastaanottaa enintään 29 liittouman lahjaa tarjousta kohti. Näitä ei lähetetä sinulle.\n\nJos et ole liittoumassa, näitä jalokiviä ei lähetetä."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Nämä esineet lähetetään liittoumasi jäsenten viestilaatikoihin. \n\nJäsen voi vastaanottaa enintään 29 liittouman lahjaa tarjousta kohti. Näitä ei lähetetä sinulle.\n\nJos et ole liittoumassa, näitä esineitä ei lähetetä."
           }
         ]
       },
@@ -1834,6 +1954,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Alle [##elementblue]is[#]-helte får {ATTACK} % almindeligt angreb i {TURNS} runder. Hvis ekstra effekter øger angrebet i generelle, almindelige angreb, kan den samlede forøgede kraft maks. være {MAXATTACK} %."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Disse ædelsten sendes til alle dine alliancekollegers indbakker. \n\nAlliancegaver kan modtages op til 29 gange pr. tilbudsrunde. Du modtager dem ikke selv.\n\nHvis du ikke er medlem af en alliance, sendes disse ædelsten ikke."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Disse genstande sendes til alle dine alliancekollegers indbakker. \n\nAlliancegaver kan modtages op til 29 gange pr. tilbudsrunde. Du modtager dem ikke selv.\n\nHvis du ikke er medlem af en alliance, sendes disse genstande ikke."
           }
         ]
       },
@@ -1946,6 +2074,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Todos los héroes de [##elementblue]hielo[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Si efectos adicionales aumentan el ataque en general, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Estas gemas se enviarán a la bandeja de entrada de cada uno de los miembros de tu alianza. \n\nLos regalos de la alianza se pueden recibir hasta un máximo de 29 veces por oferta. Tú no las recibirás.\n\nEstas gemas no se enviarán si no formas parte de una alianza."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Estos objetos se enviarán a la bandeja de entrada de cada uno de los miembros de tu alianza. \n\nLos regalos de la alianza se pueden recibir hasta un máximo de 29 veces por oferta. Tú no los recibirás.\n\nEstos objetos no se enviarán si no formas parte de una alianza."
           }
         ]
       },
@@ -2058,6 +2194,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Alle [##elementblue]ishelter[#] får {ATTACK} % normalt angrep i {TURNS} runder. Hvis ytterligere effekter generelt sett øker angrepet, kan normalt angrep ha til sammen maksimalt {MAXATTACK} % økt styrke."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Disse juvelene blir sendt i innboksen til hvert av alliansemedlemmene dine. \n\nAlliansegaver kan mottas opptil 29 ganger per tilbud. Du mottar ikke disse selv.\n\nDersom du ikke er i en allianse, blir disse juvelene ikke sendt"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Disse gjenstandene blir sendt i innboksen til hvert av alliansemedlemmene dine. \n\nAlliansegaver kan mottas opptil 29 ganger per tilbud. Du mottar ikke disse selv.\n\nDersom du ikke er i en allianse, blir disse gjenstandene ikke sendt"
           }
         ]
       },
@@ -2170,6 +2314,14 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "Alle [##elementblue]ijshelden[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. Als andere effecten de algemene aanvalskracht wijzigen, kunnen normale aanvallen maximaal {MAXATTACK}% krachtiger zijn."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "Deze edelstenen worden naar het Postvak IN van alle leden van je Alliantie gestuurd. \n\nAlliantiegeschenken kunnen tot 29 keer per aanbieding ontvangen worden. Let op: je ontvangt ze zelf niet.\n\nAls je geen lid bent van een Alliantie, worden deze edelstenen niet verstuurd."
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "Deze items worden naar het Postvak IN van alle leden van je Alliantie gestuurd. \n\nAlliantiegeschenken kunnen tot 29 keer per aanbieding ontvangen worden. Let op: je ontvangt ze zelf niet.\n\nAls je geen lid bent van een Alliantie, worden deze items niet verstuurd."
           }
         ]
       },
@@ -2282,10 +2434,18 @@
           {
             "key": "levelproperty.statuseffect.statuseffectovertime.minor.normalattackmodifier.blue.allies",
             "text": "所有[##elementblue]冰系[#]英雄获得{ATTACK}%普通攻击，持续{TURNS}回合。若附加效果提升整体攻击，普通攻击最多可提升{MAXATTACK}%的战力。"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text",
+            "text": "这些宝石将会发放到各联盟成员的收件箱。 \n\n每份礼包最多可领取29次。你自己将不会收到。\n\n如果你未加入联盟，这些宝石将无法发放。"
+          },
+          {
+            "key": "shop.offers.alliance_gift.info_text.items",
+            "text": "这些物品将会发放到各联盟成员的收件箱。 \n\n每份礼包最多可领取29次。你自己将不会收到。\n\n如果你未加入联盟，这些物品将无法发放。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 726475771
+  "languageOverridesConfigId": 1334775567
 }

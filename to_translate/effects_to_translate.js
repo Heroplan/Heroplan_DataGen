@@ -1204,6 +1204,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "effects": [
+            "Deals 560% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -41% defense, and a further -4% decrease every time they are hit for 2 turns, down to -65% defense.",
+            "Deals extra damage against Fire.",
+            "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "tales1_atlanteia",
         "name": "Atlanteia",
         "effects": [
@@ -6747,6 +6757,14 @@ const allTranslations =
         "effects": [
             "Boosts health for all allies by 470. Boosted health can exceed max HP.",
             "All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
+        ]
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "effects": [
+            "All allies get +150% normal attack for 4 turns. This status effect is undispellable and lasts 2 turns longer on Nature characters. (If additional effects increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
+            "All allies regenerate 800 HP over 4 turns. This status effect is undispellable and lasts 2 turns longer on Nature characters."
         ]
     },
     {
@@ -17639,16 +17657,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "ice_god_athena_costume_cute",
-        "name": "Athena Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_junglehunter_costume_cute",
-        "name": "Tarlak Toon",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_zarek",
         "name": "Zarek",
         "effects": []
@@ -17706,6 +17714,11 @@ const allTranslations =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
+        "effects": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
         "effects": []
     },
     {

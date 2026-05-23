@@ -31939,12 +31939,8 @@
         "id": "dynamic_offer_56_acidfire",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10f",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_100b",
-            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -50908,6 +50904,22 @@
             ]
           },
           {
+            "activationTime": "2026-05-22 11:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1000,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
             "activationTime": "2026-05-23 07:00:00",
             "contents": [
               {
@@ -62149,6 +62161,13 @@
         "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2026-05-22 10:00:00",
+        "endTime": "2026-05-23 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_56_acidfire",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-05-22 11:30:00",
         "endTime": "2026-05-23 06:30:00"
       },
       {
@@ -94817,5 +94836,5 @@
       }
     ]
   },
-  "shopConfigId": 1695481096
+  "shopConfigId": 543748792
 }

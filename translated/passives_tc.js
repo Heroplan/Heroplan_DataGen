@@ -942,6 +942,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。",
+            "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
+        ]
+    },
+    {
         "heroId": "tales1_atlanteia",
         "name": "Atlanteia",
         "passives": [
@@ -5196,6 +5204,13 @@ const translatedPassivesTC =
         "heroId": "s2_junglehunter_costume_party",
         "name": "Tarlak C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ]
     },
     {
         "heroId": "castle_bear_teddy",
@@ -13638,16 +13653,6 @@ const translatedPassivesTC =
         ]
     },
     {
-        "heroId": "ice_god_athena_costume_cute",
-        "name": "Athena Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_junglehunter_costume_cute",
-        "name": "Tarlak Toon",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_zarek",
         "name": "Zarek",
         "passives": []
@@ -13705,6 +13710,11 @@ const translatedPassivesTC =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
         "passives": []
     },
     {

@@ -942,6 +942,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "ice_god_athena_costume_cute",
+        "name": "Athena Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。",
+            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+        ]
+    },
+    {
         "heroId": "tales1_atlanteia",
         "name": "Atlanteia",
         "passives": [
@@ -5196,6 +5204,13 @@ const translatedPassivesCN =
         "heroId": "s2_junglehunter_costume_party",
         "name": "Tarlak C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_junglehunter_costume_cute",
+        "name": "Tarlak Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
     },
     {
         "heroId": "castle_bear_teddy",
@@ -13638,16 +13653,6 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "ice_god_athena_costume_cute",
-        "name": "Athena Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_junglehunter_costume_cute",
-        "name": "Tarlak Toon",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_zarek",
         "name": "Zarek",
         "passives": []
@@ -13705,6 +13710,11 @@ const translatedPassivesCN =
     {
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
+        "passives": []
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
         "passives": []
     },
     {
