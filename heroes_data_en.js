@@ -1830,8 +1830,12 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
                 "增益效果": [
-                    "Status - Hide/Ghost Form",
                     "Status - Dispel Buffs"
                 ]
             }
@@ -6266,6 +6270,11 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
                 "特殊效果": [
                     "Heal - From Dmg"
                 ]
@@ -6575,6 +6584,12 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mana Gen ↓/Block"
                 ]
@@ -6636,6 +6651,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
@@ -6701,6 +6722,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Tile : Critical"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Healing ↑"
                 ]
             },
             {
@@ -7210,6 +7236,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Frost"
                 ]
@@ -7665,6 +7696,12 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Def - Defense ↓"
                 ]
@@ -7721,6 +7758,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
@@ -7787,6 +7830,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
@@ -8056,6 +8105,11 @@ window.allHeroes =
                 "基础技能": [
                     "Atk: Single",
                     "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Fiends"
                 ]
             },
             {
@@ -9198,6 +9252,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Status - Block Cleanse",
                     "Def - Defense ↓"
@@ -9787,6 +9846,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
                 "负面效果": [
                     "Status - Cleanse Ailments"
                 ]
@@ -10232,7 +10296,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Crit Chance ↑"
                 ]
             },
             {
@@ -10384,14 +10449,14 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Conditional Trigger"
+                    "Dmg - Conditional Trigger",
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "负面效果": [
                     "Status - Insanity",
-                    "Status - Self-Debuff",
-                    "Status - Hide/Ghost Form"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -11250,7 +11315,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Def - Def ↑ : Nature"
                 ]
             },
             {
@@ -11310,6 +11376,11 @@ window.allHeroes =
                 "特殊效果": [
                     "Summon - Minion",
                     "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -11695,6 +11766,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Skill Attack ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Def - Stack : Dmg Taken ↑"
                 ]
@@ -11753,7 +11829,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Extra"
+                    "Dmg - Extra",
+                    "Summon - Minion"
                 ]
             },
             {
@@ -12065,9 +12142,13 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
-                    "Status - Dispel Buffs",
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
@@ -12595,7 +12676,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -13407,6 +13489,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Water"
                 ]
@@ -13586,11 +13673,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Dmg ↑ : Fire"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Dmg - Dmg ↑ : Fire",
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -14822,7 +14905,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -16014,7 +16098,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Stack : Atk ↑"
+                    "Atk - Stack : Atk ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -16704,7 +16789,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Def ↑ : Nature"
+                    "Def - Def ↑ : Nature",
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -16764,6 +16850,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -17271,6 +17362,11 @@ window.allHeroes =
                     "Heal: Instant",
                     "Heal: Over Time",
                     "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
@@ -17963,11 +18059,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Extra"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Dmg - Extra",
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -18030,11 +18122,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Extra"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Dmg - Extra",
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -18094,7 +18182,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             },
@@ -18153,7 +18241,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             },
@@ -20632,6 +20720,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
                 ]
             },
             {
@@ -29624,7 +29717,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana - Mana Gain"
+                    "Mana - Mana Gain",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -29684,7 +29779,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana - Mana Gen ↑"
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -30562,6 +30659,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Heal - Healing ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mindless/Silence/Sleep",
                     "Def - Dmg Taken ↑"
@@ -30680,7 +30782,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Redistribute Ailments"
+                    "Status - Redistribute Ailments",
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -30746,7 +30849,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -31329,7 +31433,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -31385,6 +31490,11 @@ window.allHeroes =
                 "基础技能": [
                     "Atk: All",
                     "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -33190,7 +33300,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Counterattack"
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -33443,7 +33554,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk: Area",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -33507,7 +33619,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk: Area",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -33842,6 +33955,11 @@ window.allHeroes =
                 "基础技能": [
                     "Atk: Single",
                     "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
                 ]
             },
             {
@@ -35184,6 +35302,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Status - Block Fiends"
+                ]
+            },
+            {
                 "负面效果": [
                     "Status - Buff Immunity",
                     "Def - Def ↓ : Special"
@@ -35300,7 +35423,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Crit Chance ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -35358,7 +35483,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Crit Chance ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -37212,6 +37339,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Atk - Attack ↓"
                 ]
@@ -37642,6 +37774,11 @@ window.allHeroes =
                     "Summon - Minion",
                     "Dmg - Extra",
                     "Heal - From Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Skill Attack ↑"
                 ]
             }
         ]
@@ -38293,6 +38430,11 @@ window.allHeroes =
                     "Atk - Bypass Dodge",
                     "Status - Steal Buffs"
                 ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
             }
         ]
     },
@@ -38472,9 +38614,13 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
-                    "Def - Defense ↑",
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -38536,9 +38682,13 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
-                    "Def - Defense ↑",
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -38782,7 +38932,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Dodge",
-                    "Mana - Mana Gain"
+                    "Mana - Mana Gain",
+                    "Def - Def ↑ : Fire"
                 ]
             }
         ]
@@ -39631,7 +39782,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Reflect : Fire",
-                    "Def - Dmg Share"
+                    "Def - Dmg Share",
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
@@ -41106,6 +41258,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Def - Defense ↓"
                 ]
@@ -42289,6 +42446,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mana Gen ↓/Block"
                 ]
@@ -43313,6 +43475,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Poison"
                 ]
@@ -44073,7 +44240,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -44143,7 +44311,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -44280,6 +44449,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
@@ -45989,7 +46163,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             },
@@ -46056,7 +46230,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             },
@@ -47425,9 +47599,13 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "增益效果": [
-                    "Atk - Attack ↑",
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -47481,8 +47659,12 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
                 "增益效果": [
-                    "Status - Hide/Ghost Form",
                     "Def - Defense ↑"
                 ]
             }
@@ -50417,7 +50599,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -51089,7 +51271,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Block Ailments"
+                    "Status - Block Ailments",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
@@ -51153,6 +51337,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Status - Redistribute Ailments"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -51517,6 +51707,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
                 "负面效果": [
                     "Atk - Accuracy ↓"
                 ]
@@ -51818,6 +52013,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Skill Attack ↑"
                 ]
             },
             {
@@ -52136,7 +52336,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Dodge"
+                    "Def - Dodge",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -53232,6 +53433,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Heal - Healing ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Status - Buff Immunity",
                     "Mana - Mana Gen ↓/Block"
@@ -53300,14 +53506,14 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Extra"
+                    "Dmg - Extra",
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "增益效果": [
                     "Atk - Crit Chance ↑",
-                    "Atk - Attack ↑",
-                    "Status - Hide/Ghost Form"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -53429,6 +53635,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
@@ -54921,6 +55132,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mindless/Silence/Sleep"
                 ]
@@ -55917,7 +56133,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana - Mana Gain"
+                    "Mana - Mana Gain",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -56409,6 +56626,12 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mana Gen ↓/Block"
                 ]
@@ -56470,6 +56693,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
@@ -57995,7 +58224,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk: Single",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -58053,7 +58283,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk: Single",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -58463,6 +58694,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Def - Def ↑ : Holy"
+                ]
+            },
+            {
                 "负面效果": [
                     "Def - Defense ↓",
                     "Status - Cleanse Ailments"
@@ -58587,7 +58823,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -58652,7 +58888,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -59409,6 +59645,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
@@ -60193,6 +60434,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Fiends"
                 ]
             },
             {
@@ -62922,11 +63168,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Extra"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Dmg - Extra",
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -63252,7 +63494,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -63708,7 +63951,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Reflect Ailments"
+                    "Status - Reflect Ailments",
+                    "Def - Dodge"
                 ]
             },
             {
@@ -64740,6 +64984,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
                 "负面效果": [
                     "Def - Stack : Dmg Taken ↑"
                 ]
@@ -65266,6 +65515,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Poison"
                 ]
@@ -65777,6 +66031,11 @@ window.allHeroes =
                     "Summon - Fiend",
                     "Atk - Bypass Minions",
                     "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -66470,6 +66729,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
                 ]
             },
             {
@@ -74381,6 +74645,11 @@ window.allHeroes =
                     "Heal: From Dmg",
                     "Atk: All"
                 ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Ice"
+                ]
             }
         ]
     },
@@ -74556,7 +74825,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Atk - Crit Chance ↑",
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -74617,7 +74887,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Counterattack",
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -78715,7 +78986,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
@@ -80373,6 +80645,12 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Burn"
                 ]
@@ -80437,6 +80715,12 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Burn"
                 ]
@@ -80490,6 +80774,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -81671,7 +81960,8 @@ window.allHeroes =
                 "增益效果": [
                     "Status - Block Ailments",
                     "Def - Def ↑ : Ice",
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Atk - Crit Chance ↑"
                 ]
             },
             {
@@ -83050,7 +83340,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Dodge"
+                    "Def - Dodge",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -83869,6 +84160,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mana Gen ↓/Block",
                     "Dmg - DoT : Burn"
@@ -83931,6 +84227,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -83997,6 +84298,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Skill Attack ↑"
                 ]
             },
             {
@@ -84249,6 +84555,11 @@ window.allHeroes =
                 "特殊效果": [
                     "Summon - Minion",
                     "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -85774,6 +86085,11 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
                 "增益效果": [
                     "Def - Dmg Reduction"
                 ]
@@ -86096,6 +86412,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
                 "负面效果": [
                     "Mana - Mana Steal"
                 ]
@@ -86295,6 +86616,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Healing ↑"
                 ]
             },
             {
@@ -87267,6 +87593,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Atk - Accuracy ↓"
                 ]
@@ -87522,6 +87853,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Fiends"
                 ]
             },
             {
@@ -88803,7 +89139,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Stack : Atk ↑"
+                    "Atk - Stack : Atk ↑",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -88934,7 +89271,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana - Mana Gain"
+                    "Mana - Mana Gain",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -88995,6 +89333,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
                 ]
             },
             {
@@ -89312,6 +89655,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Bleed",
                     "Dmg - DoT : Burn",
@@ -89363,7 +89711,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk: All",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -89427,7 +89776,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk: All",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -96858,6 +97208,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Atk - Accuracy ↓"
                 ]
@@ -96918,7 +97273,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Crit Chance ↑"
+                    "Atk - Crit Chance ↑",
+                    "Def - Dodge"
                 ]
             },
             {
@@ -96976,6 +97332,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
@@ -97296,7 +97657,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Heal - Block Max Health ↓",
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Block Fiends"
                 ]
             }
         ]
@@ -97680,13 +98042,13 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Conditional Trigger"
+                    "Dmg - Conditional Trigger",
+                    "Heal - Self Recovery / Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Def - Dodge",
-                    "Heal - Self Recovery / Boost Health"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -97866,6 +98228,11 @@ window.allHeroes =
                 "特殊效果": [
                     "Summon - Minion"
                 ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
             }
         ]
     },
@@ -97923,6 +98290,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -97988,7 +98360,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Dispel Buffs",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -98224,6 +98597,12 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Atk - Accuracy ↓"
                 ]
@@ -98279,6 +98658,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
@@ -99508,7 +99893,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -100495,7 +100881,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Dodge",
-                    "Heal - Block Max Health ↓"
+                    "Heal - Block Max Health ↓",
+                    "Heal - Healing ↑"
                 ]
             }
         ]
@@ -101327,7 +101714,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -102472,7 +102860,8 @@ window.allHeroes =
                 "增益效果": [
                     "Def - Taunt",
                     "Atk - Attack ↑",
-                    "Def - Def ↑ : Special"
+                    "Def - Def ↑ : Special",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -102656,11 +103045,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Conditional Trigger"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Dmg - Conditional Trigger",
                     "Status - Hide/Ghost Form"
                 ]
             },
@@ -103655,6 +104040,11 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
                 "负面效果": [
                     "Status - Buff Immunity"
                 ]
@@ -104400,6 +104790,12 @@ window.allHeroes =
                 "特殊效果": [
                     "Heal - From Dmg"
                 ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
             }
         ]
     },
@@ -104458,6 +104854,12 @@ window.allHeroes =
                 "特殊效果": [
                     "Heal - From Dmg"
                 ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
             }
         ]
     },
@@ -104514,6 +104916,11 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
@@ -105053,7 +105460,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk: Area",
+                    "Heal: Over Time"
                 ]
             },
             {
@@ -105542,11 +105950,7 @@ window.allHeroes =
                 "特殊效果": [
                     "Summon - Minion",
                     "Atk - Bypass Dodge",
-                    "Dmg - Dmg ↑ : Holy"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Dmg - Dmg ↑ : Holy",
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -106203,7 +106607,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Def - Def ↑ : Dark"
                 ]
             },
             {
@@ -108052,7 +108457,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Atk - Bypass Minions"
+                    "Atk - Bypass Minions",
+                    "Summon - Minion"
                 ]
             },
             {
@@ -110214,7 +110620,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Skill Attack ↑"
                 ]
             },
             {
