@@ -492,7 +492,7 @@
 إذا قلت مدة أي تعزيز إلى الصفر، فكأنما انتهت مدة التأثير بشكل طبيعي."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.buffs.one","يتسبب في {DAMAGE}% من الضرر للهدف و{MAXHITS} لأعداء عشوائيين.
  تخفض كل ضربة من مدة جميع تعزيزات تأثير الحالة عند إصابة العدو بمقدار دور واحد."
-"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","تؤثر زيادة المدة على كل من حالات المرض القابلة للتطهير وغير القابلة للتطهير."
+"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","تؤثر زيادة المدة على كل من حالات المرض القابلة للتطهير، والعنيدة، وغير القابلة للتطهير."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.randommaintarget.with_chance.debuffs","يُلحق {DAMAGE}% من الضرر بهدف عشوائي.
 يزيد مدة حالة المرض النشطة للهدف العشوائي لمدة {TURNS} من الجولات."
 "specials.v2.property.chainstrikewithtilecountbasedstrikecount.allowmaintargetinrandomtargets.green.damage.decrease","يلحق {DAMAGE}% من الضرر الإضافي بعدد من الأعداء العشوائيين يساوي عدد دروع الطبيعة على اللوح، بحد أقصى {MAXHITS} من الضربات. يقل الضرر مع كل ضربة متتالية."
@@ -595,11 +595,11 @@
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","يتم تطهير جميع الحلفاء من حالات الأمراض، وزيادة قوة جميع الحلفاء بنسبة {POWER}% لكل مرض تم تطهيره."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","يقتلع الإضعافات من جميع الحلفاء."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","يحصد التعزيزات من جميع الأعداء."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","يزيل الحصاد بأمان {MAXREMOVALCOUNT} من العلاوات، أو التراكمات الإيجابية، أو تأثيرات النمو من كل هدف. يشمل ذلك العلاوات العنيدة وغير القابلة للإزالة وتأثيرات الرقص.
-يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من نقاط الصحة.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","يزيل [#!]الحصاد[#] بأمان {MAXREMOVALCOUNT} من العلاوات، أو التراكمات الإيجابية، أو تأثيرات النمو من كل هدف. يشمل ذلك التأثيرات العنيدة، والعلاوات غير القابلة للإزالة، وتأثيرات الرقص.
+[*]يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من نقاط الصحة.
 
-تتجاوز الإزالة الآمنة التأثيرات الثانوية، مثل الضرر عند الإزالة، من علاوات تأثير الحالة المُزال. لا يزال بالإمكان تفعيل التأثيرات الخارجية، مثل المهارات السلبية وتأثيرات العائلة.
-تُزال تأثيرات النمو أولًا. أما التأثيرات الأخرى الأحدث، فتُزال أولًا."
+[*]تتجاوز الإزالة الآمنة التأثيرات الثانوية، مثل الضرر عند الإزالة، من علاوات تأثير الحالة المُزال. لا يزال بالإمكان تفعيل التأثيرات الخارجية، مثل المهارات السلبية وتأثيرات العائلة.
+[*]تُزال تأثيرات النمو أولًا. أما التأثيرات الأخرى الأحدث، فتُزال أولًا."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","يزيل الاقتلاع بأمان {MAXREMOVALCOUNT} من العلاوات، أو التراكمات السلبية، أو تأثيرات التلف من كل هدف. يشمل ذلك أمراض الحالات غير القابلة للتطهير وتأثيرات الرقص.
 يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من الصحة.
 
@@ -774,13 +774,13 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.modifystatuseffectturns.buffs.decrease.one.extra","يؤثر تعديل المدة في التأثيرات العنيدة والقابلة وغير القابلة للتبديد. 
 
 إذا قلت مدة أي تأثير إلى صفر، فيعتبر أن التأثير قد انتهت مدته بشكل طبيعي."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير."
-"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير.
+"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة.
 
-إذا قلت مدة أي تأثير إلى صفر، فيعتبر أن التأثير قد انتهت مدته بشكل طبيعي."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير."
+[*]إذا قلت مدة أي تأثير إلى صفر، فيعتبر أن التأثير قد انتهت مدته بشكل طبيعي."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","يؤثر تعديل المدة على التأثيرات القابلة وغير القابلة للتطهير والعنيدة."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","يقلل مدة أمراض الحالة النشطة المصاب بها الرامي وجميع الحلفاء القريبين لتكون لمدة {TURNS} من الجولات."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","يقلل مدة تعزيزات الهدف والأعداء القريبين بمعدل {TURNS} من الجولات."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","يقلل مدة تعزيزات الهدف والأعداء القريبين بمعدل {TURNS} من الجولات."
@@ -839,8 +839,8 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.randomstatuseffects","لإلقاء أحد البدائل التالية بشكل عشوائي: {STATUSEFFECTS}"
 "specials.v2.property.ransack","ينهب الهدف، سارقًا الصحة والتعزيزات."
 "specials.v2.property.ransack.extra","تسرق {DAMAGE} الصحة.
-تسرق تعزيز تأثير الحالة من العدو. يتضمن ذلك التعزيزات العنيدة وغير القابلة للإزالة، وتأثيرات الرقص.
-تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
+[*]تسرق تعزيز تأثير الحالة بأمان مرة واحدة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة والتأثيرات العنيدة، وتأثيرات الرقص.
+[*]تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
 "specials.v2.property.reducemaxhealth.extra","لا يمكن أن يقل الحد الأقصى للصحة عن {MINIMUMMAXHEALTH}% من الصحة القصوى الأصلية.
  تنخفض أي صحة معززة انخفاضًا إضافيًّا بمقدار {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","يخفض الحد الأقصى لصحة جميع الأعداء بمقدار {REDUCTION}. هذا التأثير أقوى ضد الأهداف ذات الصحة المعززة."
@@ -903,8 +903,8 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","يتجاوز التطهير الآمن التأثيرات الثانوية، مثل الضرر عند الإزالة، من مرض الحالة الذي تمت إزالته. لا يزال من الممكن تفعيل التأثيرات الخارجية مثل تأثيرات المهارة الخاملة وتأثيرات العائلة."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","ينخفض الضرر بنسبة {POWERPERREMOVALFROMTARGET}% لكل علاوة تمت إزالتها.
  تتم إزالة العلاوات العنيدة وغير القابلة للتبديد أيضًا."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","يتم تقليل تعزيز الصحة بمقدار {FIXEDPOWERPERREMOVALFROMTARGET} لكل مرض تمت إزالته.
-يتم أيضا إزالة الأمراض غير القابلة للتطهير."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] يتم تقليل تعزيز الصحة بمقدار [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] لكل مرض تمت إزالته.
+[*]يتم أيضًا إزالة الأمراض غير القابلة للتطهير والعندية."
 "specials.v2.property.repeatspecial.blade_wings.random","بعد الإلقاء الناجح، توجد احتمالية بنسبة {REPEATCHANCE}% لإعادة إلقاء الأجنحة الحادة على هدف عشوائي.
 يمكن إعادة الإلقاء حتى {MAXREPEATS} من المرات، وتقل احتمالية إعادة الإلقاء بنسبة {REPEATCHANCEDECREASE}% بعد كل إلقاء ناجح."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","تتم إعادة تعيين مدة العلاوات لجميع الحلفاء."
@@ -1845,8 +1845,8 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","تم تقليل هجوم الهدف والأعداء المجاورين بمعدل {CHANGE}% لكل جولة طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","تم تقليل دفاع الهدف والأعداء المجاورين بمعدل {CHANGE}% لكل جولة طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","تم تقليل توليد قوة الهدف والأعداء المجاورين بمعدل {CHANGE}% لكل جولة طوال {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","يحصل كل الحلفاء على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يزداد الهجوم العادي بنسبة {CHANGE}% في كل جولة. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغيِّر الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","يحصل كل الحلفاء على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يزداد الهجوم العادي بنسبة {CHANGE}% في كل جولة. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغيِّر الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة في أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","يحصل جميع الحلفاء على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. ويزداد الهجوم العادي بنسبة {CHANGE}% في كل جولة."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","يحصل المنفذ على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. ويزداد الهجوم العادي بنسبة {CHANGE}% في كل جولة."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","يسرق الرامي {CURRENTMANASTEAL}% من القوة التي يولِّدها الأعداء المصابين على مدار {TURNS} من الجولات. يمكن إزالة ذلك التأثير إذا مات الرامي."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","يتلقى جميع الأعداء احتراقًا مدمرًا لمدة {TURNS} من الجولات. يلحق الاحتراق المدمر{DAMAGEPERTURN} من ضرر الاحتراق، ويقلل دفاع الهدف بنسبة {CHANGE}% كل جولة."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","يتلقى جميع الأعداء احتراقًا مدمرًا لمدة {TURNS} من الجولات. يلحق الاحتراق المدمر{DAMAGEPERTURN} من ضرر الاحتراق، ويقلل دفاع الهدف بنسبة {CHANGE}% كل جولة. يتم إلحاق ضرر إضافي ضد كل الأبطال باستخدام الأتباع أو تابع ضخم."
@@ -2269,14 +2269,14 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","يحصل الرامي على حماية عاصفة النار التي تقلل من الضرر الناتج عن المهارات الخاصة بما يصل إلى -{MAX} كحد أقصى لمدة {TURNS} من الجولات. تقليل الضرر يتغير بناءً على قوة دفاع المُدافع وهجوم المُهاجم. تقلل الضرر بنسبة إضافية {ADDITIONALDAMAGEMODIFIER}% عندما يكون المهاجم من عنصر الطبيعة."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","يحصل الرامي على حماية ظهور القمر التي تقلل من الضرر الناتج عن المهارات الخاصة بما يصل إلى -{MAX} كحد أقصى لمدة {TURNS} من الجولات. تقليل الضرر يتغير بناءً على قوة دفاع المُدافع وهجوم المُهاجم. تقلل الضرر بنسبة إضافية {ADDITIONALDAMAGEMODIFIER}% عندما يكون المهاجم من العنصرمقدس."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","يتلقى جميع الأعداء جرعة غامضة. بعد {TURNS} من الجولات، تنفجر الجرعة الغامضة وتلحق {DAMAGE} من الضرر للهدف. بعد الانفجار، لا يمكن للهدف اكتساب قوة لمدة {STATUSEFFECT1TURNS} من الجولات."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","يحصل كل الحلفاء على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","يحصل كل حلفاء الثلج على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","يحصل كل حلفاء الطبيعة على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","يحصل الرامي والحلفاء المجاورون على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغيِّر الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة خلال تفعيل هذا التأثير."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","يحصل كل حلفاء الظلام على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","يحصل كل حلفاء النار على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","يحصل جميع الحلفاء على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","يحصل جميع حلفاء من عنصر [##elementblue]الثلج[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","يحصل جميع الحلفاء من عنصر [##elementgreen]الطبيعة[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","يحصل البطل والحلفاء المجاورون على {ATTACK}% الهجوم العادي طوال {TURNS} جولات."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","يحصل جميع حلفاء من عنصر [##elementpurple]الظلام[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","يحصل جميع حلفاء [##elementred]النار[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","يحصل البطل على {ATTACK}% هجوم عادي طوال {TURNS} جولات."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","يحصل كل الحلفاء المقدسين على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","يحصل جميع حلفاء العنصر [##elementyellow]المقدس[#] على {ATTACK}% من الهجوم العادي طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","لا يساهم جميع الأعداء في ضرر القوات طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","لا يساهم الهدف والأعداء القريبون في ضرر القوات لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","لا يساهم الأعداء على أطراف تشكيل العدو في ضرر القوات طوال {TURNS} من الجولات."

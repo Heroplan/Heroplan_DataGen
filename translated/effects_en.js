@@ -2814,7 +2814,7 @@ const allTranslations =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpelstiltskin",
+        "name": "Rumpel-stiltskin",
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
@@ -2830,7 +2830,7 @@ const allTranslations =
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpelstiltskin C1",
+        "name": "Rumpel-stiltskin C1",
         "effects": [
             "Draw a card for a special effect:",
             "Skull",

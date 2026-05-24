@@ -18,7 +18,7 @@ def build_reverse_map(data: dict, group: str) -> dict:
 
 def generate_js_file(data: dict, output_path: Path) -> None:
     """生成包含 class 和 color 反向映射的 JavaScript 文件（键和值均为小写）"""
-    target_groups = ['class', 'color']
+    target_groups = ['class', 'color','aether_power']
     js_lines = []
     for group in target_groups:
         reverse_map = build_reverse_map(data, group)

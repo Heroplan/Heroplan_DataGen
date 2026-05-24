@@ -2814,7 +2814,7 @@ const translatedEffectsCN =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpelstiltskin",
+        "name": "Rumpel-stiltskin",
         "effects": [
             "抽取一张特殊效果卡片：",
             "骨骼：",
@@ -2830,7 +2830,7 @@ const translatedEffectsCN =
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpelstiltskin C1",
+        "name": "Rumpel-stiltskin C1",
         "effects": [
             "抽取一张特殊效果卡片：",
             "骨骼：",

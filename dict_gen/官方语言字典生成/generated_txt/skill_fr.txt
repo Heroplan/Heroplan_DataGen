@@ -546,7 +546,7 @@ Le démon missile absorbe les soins et disparaît après avoir absorbé {FAMILIA
 Si la durée d'un bonus est réduite à zéro, il est considéré qu'il a pris fin naturellement."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.buffs.one","Inflige {DAMAGE} % de dégâts à la cible et à {MAXHITS} ennemis aléatoires.
  Chaque coup réduit la durée de tous les bonus de l'ennemi d'un tour."
-"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","L'augmentation de durée affecte les effets négatifs purifiables et non purifiables."
+"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","L'augmentation de durée affecte les effets négatifs purifiables, obstinés et non purifiables."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.randommaintarget.with_chance.debuffs","Inflige {DAMAGE} % de dégâts à une cible aléatoire.
 Prolonge les effets négatifs de la cible aléatoire de {TURNS} tours."
 "specials.v2.property.chainstrikewithtilecountbasedstrikecount.allowmaintargetinrandomtargets.green.damage.decrease","Inflige {DAMAGE} % de dégâts supplémentaires à un nombre d'ennemis aléatoires égal au nombre de boucliers de nature sur le plateau, jusqu'à un maximum de {MAXHITS}. Les dégâts diminuent à chaque coup."
@@ -656,11 +656,11 @@ La santé boostée subit une réduction supplémentaire de {REDUCTION}."
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Purifie tous les effets négatifs des alliés, et augmente leur mana de {POWER} % pour chaque effet purifié."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Déracine les malus de tous les alliés."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Récolte les bonus de tous les ennemis."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La récolte supprime de façon sûre {MAXREMOVALCOUNT} bonus, cumuls positifs ou effets de croissance pour chaque cible. Les bonus obstinés, les bonus non dissipables et les effets de danse sont également concernés.
-La santé du lanceur est boostée de {HEALTHBOOST} % pour chaque effet supprimé. Le maximum de PV peut être dépassé.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La [#!]récolte[#] supprime de façon sûre {MAXREMOVALCOUNT} bonus, cumuls positifs ou effets de croissance pour chaque cible. Les effets obstinés, les bonus non dissipables et les effets de danse sont également concernés.
+[*]La santé du lanceur est boostée de {HEALTHBOOST} % pour chaque effet supprimé. Le maximum de PV peut être dépassé.
 
-La suppression sûre contourne les effets secondaires comme les dégâts lors de la suppression. Les effets externes comme les compétences passives et les effets de famille peuvent toujours s'activer.
-Les effets de croissance sont supprimés en premier. Les autres effets sont ensuite supprimés en commençant par le plus récent."
+[*]La suppression sûre contourne les effets secondaires comme les dégâts lors de la suppression. Les effets externes comme les compétences passives et les effets de famille peuvent toujours s'activer.
+[*]Les effets de croissance sont supprimés en premier. Les autres effets sont ensuite supprimés en commençant par le plus récent."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Le déracinement supprime de façon sûre {MAXREMOVALCOUNT} effets et cumuls négatifs ou effets de flétrissement pour chaque cible. Les effets négatifs non dissipables et les effets de danse sont également concernés.
 La santé du lanceur est boostée de {HEALTHBOOST} % pour chaque effet supprimé. Le maximum de PV peut être dépassé.
 La purification sûre contourne les effets secondaires comme les dégâts lors de la suppression. Les effets externes comme les compétences passives et les effets de famille peuvent toujours s'activer.
@@ -839,13 +839,13 @@ Si la durée d'un effet est réduite à zéro, il est considéré qu'il a pris f
 "specials.v2.property.modifystatuseffectturns.buffs.decrease.one.extra","La modification de durée affecte les effets obstinés, ceux qui peuvent être dissipés et ceux qui ne peuvent pas l'être.
 
 Si la durée d'un effet est réduite à zéro, il est considéré qu'il a pris fin naturellement."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","La modification de durée affecte les effets qui peuvent être dissipés et ceux qui ne peuvent pas l'être."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modification de durée affecte les effets qui peuvent être dissipés et ceux qui ne peuvent pas l'être."
-"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modification de durée affecte les effets qui peuvent être purifiés et ceux qui ne peuvent pas l'être.
+"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modification de durée affecte les effets purifiables, obstinés et non purifiables.
 
-Si la durée d'un effet est réduite à zéro, il est considéré qu'il a pris fin naturellement."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modification de durée affecte les effets qui peuvent être dissipés et ceux qui ne peuvent pas l'être."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modification de durée affecte les effets qui peuvent être dissipés et ceux qui ne peuvent pas l'être."
+[*]Si la durée d'un effet est réduite à zéro, il est considéré qu'il a pris fin naturellement."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modification de durée affecte les effets dissipables, obstinés et non dissipables."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modification de durée affecte les effets dissipables, obstinés et non dissipables."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Réduit la durée des effets négatifs actifs du lanceur et des alliés proches de {TURNS} tours."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Réduit la durée en tours des bonus de la cible et des ennemis proches de {TURNS} tours."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Réduit la durée en tours des bonus de la cible et des ennemis proches de {TURNS} tour(s)."
@@ -905,8 +905,8 @@ Les bonus et effets négatifs qui affectent l'attaque et la défense n'ont pas d
 {STATUSEFFECTS}"
 "specials.v2.property.ransack","Pille la cible pour lui voler sa santé et ses bonus."
 "specials.v2.property.ransack.extra","Vole {DAMAGE} PV.
-Vole de façon sûre un effet appliqué positif de la cible. Il peut s'agir d'un bonus obstiné, d'un bonus non dissipable ou d'un effet de danse.
-Le vol sûr contourne les effets secondaires comme les dégâts lors du vol. Les compétences passives et les effets de famille peuvent toujours s'activer."
+[*]Vole de façon sûre un effet appliqué positif de la cible. Il peut s'agir d'un effet obstiné, d'un bonus non dissipable ou d'un effet de danse.
+[*]Le vol sûr contourne les effets secondaires comme les dégâts lors du vol. Les compétences passives et les effets de famille peuvent toujours s'activer."
 "specials.v2.property.reducemaxhealth.extra","La santé maximum ne peut pas descendre sous {MINIMUMMAXHEALTH} % de la santé maximum d'origine.
 La santé boostée subit une réduction supplémentaire de {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","La santé maximale de tous les ennemis est réduite de {REDUCTION}. L'effet est plus puissant sur les ennemis dont la santé est boostée."
@@ -969,8 +969,8 @@ La santé boostée subit une réduction supplémentaire de {REDUCTION}."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","La purification sûre permet d'éviter les effets secondaires de la suppression d'un effet négatif, par exemple les dégâts lors de la suppression. Les effets externes comme les effets passifs ou de famille peuvent toujours s'appliquer."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Les dégâts sont réduits de {POWERPERREMOVALFROMTARGET} % pour chaque bonus supprimé.
  Les bonus obstinés et non dissipables sont également supprimés."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Le bonus de santé est réduit de {FIXEDPOWERPERREMOVALFROMTARGET} pour chaque effet supprimé.
- Les effets négatifs non purifiables sont également supprimés."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] Le bonus de santé est réduit de [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] pour chaque effet supprimé.
+[*] Les effets négatifs obstinés et non purifiables sont également supprimés."
 "specials.v2.property.repeatspecial.blade_wings.random","Après une utilisation réussie, {REPEATCHANCE} % de chances de lancer à nouveau Ailes acérées sur une cible aléatoire.
 Possible jusqu'à {MAXREPEATS} fois, la probabilité étant réduite de {REPEATCHANCEDECREASE} % après chaque utilisation réussie."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","La durée des bonus est réinitialisée pour tous les alliés."
@@ -1931,8 +1931,8 @@ Le démon renard squelettique absorbe les soins. Il disparaît après avoir abso
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","L'attaque de la cible et des ennemis proches est réduite de {CHANGE} % par tour pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","La défense de la cible et des ennemis proches est réduite de {CHANGE} % par tour pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","La génération de mana de la cible et des ennemis proches est réduite de {CHANGE} % par tour pendant {TURNS} tours."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tous les alliés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. L'attaque normale augmente de {CHANGE} % à chaque tour. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Le lanceur reçoit {ATTACK} % d'attaque normale pendant {TURNS} tours. L'attaque normale augmente de {CHANGE} % à chaque tour. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tous les alliés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. L'attaque normale augmente de {CHANGE} % à chaque tour."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Le lanceur reçoit {ATTACK} % d'attaque normale pendant {TURNS} tours. L'attaque normale augmente de {CHANGE} % à chaque tour."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","Le lanceur vole {CURRENTMANASTEAL} % du mana généré par les ennemis sur {TURNS} tours. Cet effet disparaît si le lanceur est vaincu."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Tous les ennemis sont affectés pendant {TURNS} tours par Brûlure corrosive, qui inflige {DAMAGEPERTURN} points de dégâts et réduit la défense des ennemis affectés de {CHANGE} % à chaque tour."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Tous les ennemis sont affectés pendant {TURNS} tours par Brûlure corrosive, qui inflige {DAMAGEPERTURN} points de dégâts et réduit la défense des ennemis affectés de {CHANGE} % à chaque tour. Inflige des dégâts supplémentaires aux héros disposant de sbires ou de méga sbires."
@@ -2364,14 +2364,14 @@ Chaque rayon astral réduit la santé maximale de la cible de {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","Le lanceur reçoit une protection de Firestorm qui dure {TURNS} tours et réduit les dégâts de compétences spéciales reçus d'un montant pouvant aller jusqu'à {MAX}. La réduction des dégâts varie en fonction de la défense du défenseur et de la puissance d'attaque de l'attaquant. Les dégâts sont réduits de {ADDITIONALDAMAGEMODIFIER} % supplémentaires lorsque l'attaquant est de nature."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","Le lanceur reçoit une protection de clair de lune qui dure {TURNS} tours et réduit les dégâts de compétences spéciales reçus d'un montant pouvant aller jusqu'à {MAX}. La réduction des dégâts varie en fonction de la défense du défenseur et de la puissance d'attaque de l'attaquant. Les dégâts sont réduits de {ADDITIONALDAMAGEMODIFIER} % supplémentaires lorsque l'attaquant est sacré."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Chaque ennemi reçoit une potion mystérieuse. Au bout de {TURNS} tours, celle-ci explose et inflige {DAMAGE} points de dégâts à sa cible. Après l'explosion, l'ennemi ne peut plus obtenir de mana pendant {STATUSEFFECT1TURNS} tours."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Tous les alliés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Tous les alliés de glace reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Tous les alliés de nature reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Le lanceur et les alliés proches reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Tous les alliés sombres reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Tous les alliés de feu reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Tous les alliés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Tous les alliés de [##elementblue]glace[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Tous les alliés de [##elementgreen]nature[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Le lanceur et les alliés à proximité reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Tous les alliés [##elementpurple]sombres[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Tous les alliés de [##elementred]feu[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Le lanceur obtient {ATTACK} % d'attaque normale pendant {TURNS} tours."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Tous les alliés sacrés reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours. Cet effet peut se cumuler aux autres effets modifiant l'attaque en général. L'attaque normale peut être augmentée au maximum de {MAXATTACK} % lorsque cet effet est actif."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Tous les alliés [##elementyellow]sacrés[#] reçoivent {ATTACK} % d'attaque normale pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Tous les ennemis ne contribuent pas aux dégâts des troupes pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","La cible et les ennemis proches ne contribuent plus au dégâts de troupe pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Les ennemis sur les bords de la formation ennemie ne contribuent pas aux dégâts des troupes pendant {TURNS} tours."

@@ -659,11 +659,11 @@ Dark Cube reduces max health of the target by {REDUCTION}. The effect is stronge
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Cleanses all status ailments from all allies, and increases all allies' mana by {POWER}% for each cleansed ailment."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Uproots debuffs from all allies."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Harvests buffs from all enemies."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Harvest safely removes {MAXREMOVALCOUNT} buffs, positive Stacks or Growth effects from each target. This includes Stubborn effects, undispellable buffs and Dance effects.
-The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]Harvest[#] safely removes {MAXREMOVALCOUNT} buffs, positive Stacks or Growth effects from each target. This includes Stubborn effects, undispellable buffs and Dance effects.
+[*]The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
 
-Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.
-Growth effects are removed first. Other effects, the latest is removed first."
+[*]Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.
+[*]Growth effects are removed first. Other effects, the latest is removed first."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Uproot safely removes {MAXREMOVALCOUNT} status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects.
 The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
 Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.
@@ -846,7 +846,7 @@ If the duration of any effect is reduced to zero, the effect is considered as ha
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","The duration modification affects cleansable, Stubborn and uncleansable effects."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","The duration modification affects cleansable, Stubborn and uncleansable effects.
 
-If the duration of any effect is reduced to zero, the effect is considered as having expired naturally."
+[*]If the duration of any effect is reduced to zero, the effect is considered as having expired naturally."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","The duration modification affects cleansable, Stubborn and uncleansable effects."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","The duration modification affects cleansable, Stubborn and uncleansable effects."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduces the duration of the caster and nearby allies' active status ailments by {TURNS} turns."
@@ -908,8 +908,8 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 {STATUSEFFECTS}"
 "specials.v2.property.ransack","Ransacks the target, stealing health and buffs."
 "specials.v2.property.ransack.extra","Steals {DAMAGE} health.
-Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
-Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
+[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
+[*]Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
 "specials.v2.property.reducemaxhealth.extra","Max health can't get lower than {MINIMUMMAXHEALTH}% of the original max health.
  Any boosted health is reduced by an additional {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","Reduces max health of all enemies by {REDUCTION}. The effect is stronger against targets with boosted health."
@@ -972,8 +972,8 @@ Safe stealing bypasses secondary effects, such as damage on removal, from the re
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Damage is reduced by {POWERPERREMOVALFROMTARGET}% for each removed buff.
  Stubborn and Undispellable buffs are also removed."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","The health boost is reduced by {FIXEDPOWERPERREMOVALFROMTARGET} for each removed ailment.
- Stubborn and Uncleansable ailments are also removed."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] The health boost is reduced by [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for each removed ailment.
+[*] Stubborn and Uncleansable ailments are also removed."
 "specials.v2.property.repeatspecial.blade_wings.random","After a successful cast, has a {REPEATCHANCE}% chance to recast Blade Wings on a random target.
 Can recast up to {MAXREPEATS} times and the chance to recast is reduced by {REPEATCHANCEDECREASE}% after every successful cast."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","The duration of buffs is reset for all allies."
@@ -1936,8 +1936,8 @@ The Skeleton Fox Fiend absorbs healing. It disappears after absorbing a healing 
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","The target's and nearby enemies' attack is lowered by {CHANGE}% per turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","The target's and nearby enemies' defense is lowered by {CHANGE}% per turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","The target's and nearby enemies' mana generation is lowered by {CHANGE}% per turn for {TURNS} turns."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","The caster gets {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","The caster gets {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","The caster steals {CURRENTMANASTEAL}% of generated mana from hit enemies over {TURNS} turns. This effect gets removed if the caster is defeated."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","All enemies receive Corrosive Burn for {TURNS} turns. The Corrosive Burn deals {DAMAGEPERTURN} Burn damage and lowers the target's defense by {CHANGE}% each turn."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","All enemies receive Corrosive Burn for {TURNS} turns. The Corrosive Burn deals {DAMAGEPERTURN} Burn damage and lowers the target's defense by {CHANGE}% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
@@ -2369,14 +2369,14 @@ Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","The caster gets a Firestorm Ward for {TURNS} turns, that reduces incoming Special Skill damage by up to -{MAX}. Damage reduction is scaled by defender's defense and attacker's attack power. Reduces damage by additional {ADDITIONALDAMAGEMODIFIER}% when the attacker is of the Nature element."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","The caster gets a Moonrise Ward for {TURNS} turns, that reduces incoming Special Skill damage by up to -{MAX}. Damage reduction is scaled by defender's defense and attacker's attack power. Reduces damage by additional {ADDITIONALDAMAGEMODIFIER}% when the attacker is of the Holy element."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","All enemies receive a Mystery Potion. After {TURNS} turns the Mystery Potion explodes and deals {DAMAGE} damage to the target. After the explosion the target can't gain mana for {STATUSEFFECT1TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","All Ice allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","All Nature allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","The caster and nearby allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","All Dark allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","All Fire allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","All [##elementblue]Ice[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","All [##elementgreen]Nature[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","The caster and nearby allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","All [##elementpurple]Dark[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","All [##elementred]Fire[#] allies get {ATTACK}% normal attack for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","The caster gets {ATTACK}% normal attack for {TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","All Holy allies get {ATTACK}% normal attack for {TURNS} turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","All [##elementyellow]Holy[#] allies get {ATTACK}% normal attack for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","All enemies don't contribute to Troop damage for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","The target and nearby enemies don't contribute to Troop damage for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","The enemies on the edges of the enemy formation don't contribute to Troop damage for {TURNS} turns."

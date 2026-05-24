@@ -545,7 +545,7 @@ Missildjævlen optager helbredelse og forsvinder, når den har optaget helbredel
 Hvis en buffers varighed reduceres til nul, regnes effekten for at være udløbet naturligt."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.buffs.one","Forvolder {DAMAGE} % skade mod målet og {MAXHITS} tilfældige fjender.
  Hver træffer reducerer varigheden af alle statuseffektbuffere for den ramte fjende med én runde."
-"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","Forøgelsen af varighed påvirker både statuslidelser, der kan renses, og dem, der ikke kan."
+"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","Forøgelsen af varighed påvirker både statuslidelser, der kan fjernes, er stædige eller ikke kan ryddes."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.randommaintarget.with_chance.debuffs","Forvolder {DAMAGE} % skade på et tilfældigt mål.
 Øger varigheden af det tilfældige måls aktive statuslidelser i {TURNS} runder."
 "specials.v2.property.chainstrikewithtilecountbasedstrikecount.allowmaintargetinrandomtargets.green.damage.decrease","Forvolder {DAMAGE} % ekstra skade på lige så mange mål, som der er natur-skjolde på brættet, op til maks. {MAXHITS} slag. Skaden bliver reduceret for hvert efterfølgende slag."
@@ -654,11 +654,11 @@ Mørke kuber reducerer maks. helbred for målet med {REDUCTION}. Effekten er st�
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Fjerner alle statuslidelser fra alle allierede og øger alle allieredes mana med {POWER} % for hver af de rensede lidelser."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Uproots debuffer fra alle allierede."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Høster buffere fra alle fjender."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Høst fjerner sikkert {MAXREMOVALCOUNT} buffere, positive kumulative effekter eller væksteffekter fra hvert mål. Dette inkluderer stædige og uophævelige buffere samt danseeffekter.
-Kasteren får {HEALTHBOOST} % boostet helbred for hver effekt, der fjernes. Boostet helbred kan overstige maks. helbred.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]Høst[#] fjerner sikkert {MAXREMOVALCOUNT} buffere, positive kumulative effekter eller væksteffekter fra hvert mål. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.
+[*]Kasteren får {HEALTHBOOST} % boostet helbred for hver effekt, der fjernes. Boostet helbred kan overstige maks. helbred.
 
-Sikker fjernelse omgår sekundære effekter, såsom skade ved fjernelse, fra de fjernede statuseffektbuffere. Eksterne effekter som passive evner og familieeffekter kan stadig aktiveres.
-Væksteffekter fjernes først. Ved andre effekter fjernes den seneste først."
+[*]Sikker fjernelse omgår sekundære effekter, såsom skade ved fjernelse, fra de fjernede statuseffektbuffere. Eksterne effekter som passive evner og familieeffekter kan stadig aktiveres.
+[*]Væksteffekter fjernes først. Ved andre effekter fjernes den seneste først."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Uproot fjerner sikkert {MAXREMOVALCOUNT} statuslidelser, negative kumulative effekter eller skrumpeeffekter fra hvert mål. Dette inkluderer urenselige statuslidelser og danseeffekter.
 Kasteren modtager {HEALTHBOOST} % forbedret helbred for hver effekt, der fjernes. Forbedret helbred kan overstige maks. HP.
 Sikker fjernelse omgår sekundære effekter, såsom skade ved fjernelse, fra den fjernede statuslidelse. Eksterne effekter såsom passive egenskaber og familieeffekter kan stadig aktiveres.
@@ -836,13 +836,13 @@ Hvis en buffers varighed reduceres til nul, regnes effekten for at være udløbe
 "specials.v2.property.modifystatuseffectturns.buffs.decrease.one.extra","Ændringen af varighed påvirker effekter, der er stædige, ophævelige og uophævelige. 
 
 Hvis en effekts varighed reduceres til nul, regnes effekten for at være udløbet naturligt."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","Ændringen af varighed påvirker både effekter, der kan ophæves, og effekter, der ikke kan."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","Ændringen af varighed påvirker både effekter, der kan ophæves, og effekter, der ikke kan."
-"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","Ændringen af varighed påvirker både effekter, der kan ophæves, og effekter, der ikke kan.
+"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","Ændringen af varighed påvirker effekter, der kan fjernes, er stædige eller ikke kan ryddes.
 
-Hvis en effekts varighed reduceres til nul, regnes effekten for at være udløbet naturligt."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","Ændringen af varighed påvirker både effekter, der kan ophæves, og effekter, der ikke kan."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","Ændringen af varighed påvirker både effekter, der kan ophæves, og effekter, der ikke kan."
+[*]Hvis en effekts varighed reduceres til nul, regnes effekten for at være udløbet naturligt."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","Ændringen af varighed påvirker både effekter, der kan fjernes, er stædige eller ikke kan ryddes."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reducerer varigheden af kasterens og alle dennes allieredes aktive statuslidelser med {TURNS} runder."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Reducerer varigheden på buffere tilhørende målet og fjender i nærheden med {TURNS} runder."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Reducerer varigheden på buffere tilhørende målet og fjender i nærheden med {TURNS} runde."
@@ -902,8 +902,8 @@ Buffere og statuslidelser på angreb og forsvar påvirker ikke skadens skalering
 {STATUSEFFECTS}"
 "specials.v2.property.ransack","Ransager målet, stjæler helbredelse og buffere."
 "specials.v2.property.ransack.extra","Stjæler {DAMAGE} helbred.
-Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter effekter, der er stædige, ophævelige og uophævelige.
-Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
+[*]Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.
+[*]Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
 "specials.v2.property.reducemaxhealth.extra","Maks. helbred kan ikke blive lavere end {MINIMUMMAXHEALTH} % af det oprindelige maks. helbred.
  Forstærket helbred reduceres med yderligere {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","Reducerer maks. helbred for alle fjender med {REDUCTION}. Effekten er større mod mål med forstærket helbred."
@@ -966,8 +966,8 @@ Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede 
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","Sikker fjernelse tilsidesætter sekundære effekter, for eksempel skade ved fjernelse, fra den fjernede statuslidelse. Eksterne effekter som passive færdigheder og familieeffekter kan stadig være aktive."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Skade reduceres med {POWERPERREMOVALFROMTARGET} % for hver fjernet buffer.
  Stædige og uophævelige buffere fjernes også."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Helbredsbonussen reduceres med {FIXEDPOWERPERREMOVALFROMTARGET} for hver fjernet lidelse.
- Uophævelige lidelser fjernes også."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] Helbredsbonussen reduceres med [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for hver fjernet lidelse.
+[*] Stædige og uophævelige lidelser fjernes også."
 "specials.v2.property.repeatspecial.blade_wings.random","Efter et succesfuldt kast er der {REPEATCHANCE} % chance for at kaste klingevinger igen mod et tilfældigt mål.
 Kan kastes igen op til {MAXREPEATS} gange, hvor chancen for at kaste igen reduceres med {REPEATCHANCEDECREASE} % efter hvert succesfulde kast."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","Buff-varighed nulstilles for alle allierede."
@@ -1930,8 +1930,8 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","Angreb hos målet og fjender i nærheden sænkes med {CHANGE} % per runde i {TURNS} runder."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","Forsvar hos målet og fjender i nærheden sænkes med {CHANGE} % per runde i {TURNS} runder."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Managendannelse hos målet og fjender i nærheden sænkes med {CHANGE} % per runde i {TURNS} runder."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle allierede får {ATTACK} % normalt angreb i {TURNS} runder. Det normale angreb øges med {CHANGE} % i hver runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Kasteren får {ATTACK} % normalt angreb i {TURNS} runder. Det normale angreb øges med {CHANGE} % i hver runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle allierede får {ATTACK} % almindeligt angreb i {TURNS} runder. Det almindelige angreb øges med {CHANGE} % i hver runde."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Kasteren får {ATTACK} % almindeligt angreb i {TURNS} runder. Det almindelige angreb øges med {CHANGE} % i hver runde."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","Kasteren stjæler {CURRENTMANASTEAL} % af den genererede mana fra ramte fjender over {TURNS} ture. Denne effekt fjernes, hvis kasteren besejres."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Alle fjender rammes af ætsende flammer i {TURNS} runder. De ætsende flammer giver {DAMAGEPERTURN} brandskade og sænker målets forsvar med {CHANGE} % for hver runde."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Alle fjender rammes af ætsende flammer i {TURNS} runder. De ætsende flammer giver {DAMAGEPERTURN} brandskade og sænker målets forsvar med {CHANGE} % for hver runde. Giver ekstra skade til helte med håndlangere eller kæmpehåndlanger."
@@ -2363,14 +2363,14 @@ Hver astralstråle reducerer maks. helbred for den ramte fjende med {REDUCTION2}
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","Kasteren får en Firestorm-beskyttelse i {TURNS} runder, der reducerer den skade, de tager fra særlige evner, med op til -{MAX}. Skadereduktionen skaleres af forsvarerens forsvar og angriberens angrebskraft. Reducerer skade med yderligere {ADDITIONALDAMAGEMODIFIER} %, når angriberen tilhører elementet natur."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","Kasteren får en månebeskyttelse i {TURNS} runder, der reducerer den skade, de tager fra særlige evner, med op til -{MAX}. Skadereduktionen skaleres af forsvarerens forsvar og angriberens angrebskraft. Reducerer skade med yderligere {ADDITIONALDAMAGEMODIFIER} %, når angriberen tilhører elementet hellig."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Alle fjender får en mystisk eliksir. Efter {TURNS} runder eksploderer den mystiske eliksir og forvolder {DAMAGE} skade på målet. Efter eksplosionen kan målet ikke genvinde mana i {STATUSEFFECT1TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Alle allierede får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Alle is-allierede får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Alle natur-allierede får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Kasteren og alle allierede i nærheden får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Alle mørke-allierede får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Alle ild-allierede får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Alle allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Alle [##elementblue]is[#]-allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Alle [##elementgreen]natur[#]-allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Kasteren og allierede i nærheden får {ATTACK} % angreb i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Alle [##elementpurple]mørke[#] allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Alle [##elementred]ild[#]-allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Kasteren får {ATTACK} % normalt angreb i {TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Alle hellige allierede får {ATTACK} % normalt angreb hver {TURNS}. runde. Denne effekt kan være aktiv samtidig med effekter, der påvirker angreb generelt. Normale angreb kan højst have {MAXATTACK} % forøget kraft, mens denne effekt er aktiv."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Alle [##elementyellow]hellige[#] allierede får {ATTACK} % almindeligt angreb i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Alle fjender bidrager ikke til troppeskade i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Målet og fjender i nærheden bidrager ikke til troppeskade i {TURNS} ture."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Fjenderne yderst i fjendeformationen bidrager ikke til troppeskade i {TURNS} runder."

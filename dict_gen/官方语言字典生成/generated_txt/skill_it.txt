@@ -549,7 +549,7 @@ Il demone missile assorbe la guarigione e scompare quando ha assorbito Salute pa
  Se la durata di una magia benefica viene ridotta a zero, l'effetto viene considerato scaduto naturalmente."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.buffs.one","Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali.
  Ogni colpo riduce di un turno la durata di tutte le magie benefiche effetto di stato sul nemico colpito."
-"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","L'aumento della durata influenza sia i disturbi rimovibili sia quelli non rimovibili."
+"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","L'aumento della durata interessa i disturbi rimovibili, persistenti e non rimovibili."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.randommaintarget.with_chance.debuffs","Infligge il {DAMAGE}% di danni a un bersaglio casuale.
  Aumenta di {TURNS} turni la durata dei disturbi attivi del bersaglio casuale."
 "specials.v2.property.chainstrikewithtilecountbasedstrikecount.allowmaintargetinrandomtargets.green.damage.decrease","Infligge il {DAMAGE}% di danni extra a un numero di nemici casuali pari agli scudi di tipo Natura sul campo di battaglia, fino a un massimo di {MAXHITS} colpi. I danni si riducono a ogni colpo consecutivo."
@@ -658,11 +658,11 @@ I Cubi oscuri riducono di {REDUCTION} la Salute massima del bersaglio. L'effetto
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Annulla tutti i disturbi da tutti gli alleati e aumenta il Mana di tutti gli alleati di {POWER}% per ogni disturbo annullato."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Sradica i debuff da tutti gli alleati."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Raccoglie magie benefiche da tutti i nemici."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Raccolto rimuove in modo sicuro {MAXREMOVALCOUNT} magie benefiche, iterazioni positive o effetti di Crescita da ogni bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.
- L'evocatore riceve il {HEALTHBOOST}% di Salute potenziata per ogni effetto rimosso. La Salute potenziata può superare gli HP massimi.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]Raccolto[#] rimuove in modo sicuro {MAXREMOVALCOUNT} magie benefiche, iterazioni positive o effetti di Crescita da ogni bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.
+[*] L'evocatore riceve il {HEALTHBOOST}% di Salute potenziata per ogni effetto rimosso. La Salute potenziata può superare gli HP massimi.
 
- La rimozione sicura ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche degli effetti di stato rimosse. Gli effetti esterni, come le abilità passive e gli effetti delle famiglie, possono comunque attivarsi.
- Gli effetti di Crescita vengono rimossi per primi. Tra gli altri effetti, viene rimosso prima il più recente."
+[*] La rimozione sicura ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche degli effetti di stato rimosse. Gli effetti esterni, come le abilità passive e gli effetti delle famiglie, possono comunque attivarsi.
+[*] Gli effetti di Crescita vengono rimossi per primi. Tra gli altri effetti, viene rimosso prima il più recente."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Sradicamento rimuove in sicurezza {MAXREMOVALCOUNT} disturbi, iterazioni negative o effetti di Avvizzimento da ciascun bersaglio. Questo include disturbi non rimovibili ed effetti di danza.
  L'evocatore riceve il {HEALTHBOOST}% di Salute potenziata per ogni effetto rimosso. La Salute potenziata può superare gli HP max.
  La rimozione sicura ignora gli effetti secondari, come i danni alla rimozione, del disturbo rimosso. Effetti esterni come abilità passive ed effetti della famiglia possono comunque attivarsi.
@@ -841,13 +841,13 @@ Se il bersaglio ha più del {THRESHOLD}% di mana dopo la riduzione del mana, l'A
 "specials.v2.property.modifystatuseffectturns.buffs.decrease.one.extra","La modifica della durata influisce sugli effetti persistenti, annullabili e non annullabili.
 
  Se la durata di un qualsiasi effetto viene ridotta a zero, l'effetto viene considerato scaduto naturalmente."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","La modifica della durata incide sia sugli effetti rimovibili che su quelli non rimovibili."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modifica della durata incide sia sugli effetti rimovibili che su quelli non rimovibili."
-"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modifica della durata incide sia sugli effetti annullabili che su quelli non annullabili.
+"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili.
 
-Se la durata di un effetto viene ridotta a zero, l'effetto è considerato come scaduto naturalmente."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modifica della durata incide sia sugli effetti rimovibili che su quelli non rimovibili."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modifica della durata incide sia sugli effetti rimovibili che su quelli non rimovibili."
+[*] Se la durata di un effetto viene ridotta a zero, l'effetto è considerato come scaduto naturalmente."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modifica della durata interessa gli effetti rimovibili, persistenti e non rimovibili."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Riduce di {TURNS} turni la durata dei disturbi attivi dell'evocatore e degli alleati vicini."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Riduce di {TURNS} turni la durata delle magie benefiche del bersaglio e dei nemici vicini."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Riduce di {TURNS} turno la durata delle magie benefiche del bersaglio e dei nemici vicini."
@@ -907,8 +907,8 @@ Le magie benefiche e i disturbi che influenzano Attacco e Difesa non hanno effet
 {STATUSEFFECTS}"
 "specials.v2.property.ransack","Saccheggia il bersaglio, rubando Salute e magie benefiche."
 "specials.v2.property.ransack.extra","Ruba {DAMAGE} di Salute.
- Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.
- Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
+[*] Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.
+[*] Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
 "specials.v2.property.reducemaxhealth.extra","La Salute massima non può essere inferiore al {MINIMUMMAXHEALTH}% di quella originaria.
  La Salute aumentata viene ridotta di {REDUCTION} extra."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","Riduce di {REDUCTION} la Salute massima di tutti i nemici. L'effetto è più forte contro bersagli con Salute potenziata."
@@ -971,8 +971,8 @@ Le magie benefiche e i disturbi che influenzano Attacco e Difesa non hanno effet
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","L'annullamento sicuro ignora gli effetti secondari, come i danni su rimozione, del disturbo rimosso. Gli effetti esterni come le abilità passive e gli effetti delle famiglie possono comunque essere attivati."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","I danni si riducono del {POWERPERREMOVALFROMTARGET}% per ogni magia benefica rimossa.
  Vengono rimosse anche le magie benefiche persistenti e non annullabili."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","L'aumento della Salute viene ridotto di {FIXEDPOWERPERREMOVALFROMTARGET} per ogni disturbo rimosso.
- Anche i disturbi non annullabili vengono rimossi."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] L'aumento della Salute viene ridotto di [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] per ogni disturbo rimosso.
+[*] Anche i disturbi persistenti e non annullabili vengono rimossi."
 "specials.v2.property.repeatspecial.blade_wings.random","Quando il lancio va a segno, ha il {REPEATCHANCE}% di probabilità di lanciare nuovamente Ali di lama su un bersaglio casuale.
  Può essere lanciata fino a {MAXREPEATS} volte e le probabilità di ripeterla vengono ridotte del {REPEATCHANCEDECREASE}% dopo ogni lancio andato a buon fine."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","La durata delle magie benefiche viene azzerata per tutti gli alleati."
@@ -1937,8 +1937,8 @@ Ogni Lancio d'ossa infligge il {POWER1}% di danni.
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","L'Attacco del bersaglio e dei nemici vicini viene ridotto del {CHANGE}% a ogni turno per {TURNS} turni."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","La Difesa del bersaglio e dei nemici vicini viene ridotta del {CHANGE}% a ogni turno per {TURNS} turni."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","La rigenerazione mana del bersaglio e dei nemici vicini viene ridotta del {CHANGE}% a ogni turno per {TURNS} turni."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tutti gli alleati ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. L'Attacco normale aumenta del {CHANGE}% a ogni turno. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","L'evocatore ottiene {ATTACK}% di attacco normale per {TURNS} turni. L'attacco normale viene aumentato del {CHANGE}% ogni turno. Questo effetto può essere attivo in aggiunta agli effetti che modificano l'attacco in generale. Gli attacchi normali possono avere un massimo di {MAXATTACK}% di potenza aumentata mentre questo effetto è attivo."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tutti gli alleati ricevono il {ATTACK}% di Attacco normale per {TURNS} turni. L'Attacco normale aumenta del {CHANGE}% a ogni turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","L'evocatore riceve il {ATTACK}% di Attacco normale per {TURNS} turni. L'Attacco normale aumenta del {CHANGE}% a ogni turno."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","L'evocatore ruba il {CURRENTMANASTEAL}% del mana generato dai nemici colpiti nel corso di {TURNS} turni. Questo effetto viene eliminato se l'evocatore viene sconfitto."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Tutti i nemici subiscono Ustione corrosiva per {TURNS} turni. Ustione corrosiva infligge {DAMAGEPERTURN} danni da ustione e riduce del {CHANGE}% a ogni turno la Difesa del bersaglio."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Tutti i nemici subiscono Ustione corrosiva per {TURNS} turni. Ustione corrosiva infligge {DAMAGEPERTURN} danni da ustione e riduce del {CHANGE}% a ogni turno la Difesa del bersaglio. Infligge danni extra agli Eroi con servitori o con un servitore Mega."
@@ -2370,14 +2370,14 @@ Ogni Raggio lunare riduce del {ABSPOWER2}% il mana del nemico colpito."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","L'evocatore riceve una Guardia Firestorm per {TURNS} turni, che riduce di un massimo di {MAX} i danni degli attacchi con Abilità speciale. La riduzione dei danni varia in base alla Difesa del difensore e alla potenza d'attacco dell'attaccante. Riduce i danni di un ulteriore {ADDITIONALDAMAGEMODIFIER}% se l'attaccante è di elemento Natura."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","L'evocatore riceve una Guardia della Levata della luna per {TURNS} turni, che riduce di un massimo di {MAX} i danni degli attacchi con Abilità speciale. La riduzione dei danni varia in base alla Difesa del difensore e alla potenza d'attacco dell'attaccante. Riduce i danni di un ulteriore {ADDITIONALDAMAGEMODIFIER}% se l'attaccante è di elemento Sacro."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Tutti i nemici ricevono una Pozione misteriosa. Dopo {TURNS} turni, la Pozione misteriosa esplode e infligge {DAMAGE} danni al bersaglio. Dopo l'esplosione, il bersaglio non può guadagnare mana per {STATUSEFFECT1TURNS} turni."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Tutti gli alleati ottengono il {ATTACK}% di attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Tutti gli alleati di tipo Ghiaccio ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli Attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Tutti gli alleati di tipo Natura ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli Attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","L'evocatore e gli alleati vicini ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Tutti gli alleati di tipo Oscurità ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli Attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Tutti gli alleati di tipo Fuoco ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli Attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Tutti gli alleati ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Tutti gli alleati di tipo [##elementblue]Ghiaccio[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Tutti gli alleati di tipo [##elementgreen]Natura[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","L'evocatore e gli alleati vicini ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Tutti gli alleati di tipo [##elementpurple]Oscurità[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Tutti gli alleati di tipo [##elementred]Fuoco[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","L'evocatore riceve {ATTACK}% Attacco normale per {TURNS} turni."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Tutti gli alleati di tipo Sacro ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli Attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Tutti gli alleati di tipo [##elementyellow]Sacro[#] ricevono il {ATTACK}% di Attacco normale per {TURNS} turni."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Nessun nemico contribuisce ai danni delle truppe per {TURNS} turni."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Il bersaglio e i nemici vicini non contribuiscono ai danni delle truppe per {TURNS} turni."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","I nemici ai confini della formazione nemica non contribuiscono ai danni delle truppe per {TURNS} turni."

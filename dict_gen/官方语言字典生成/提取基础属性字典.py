@@ -1,6 +1,7 @@
 import os
 import csv
 import json
+import re
 from pathlib import Path
 
 # 语言配置映射
@@ -32,6 +33,10 @@ RULES = [
     ('element.plain.', 'color', []),
     ('hero.class.', 'class', ['requirements']),
     ('manaspeed.', 'speed', ['turnsleft', 'dragon', 'other']),
+    ('limitbreak.gift.title.', 'aether_power', []),
+    #("specials.name.", "skill_name", []),
+    #("heroes.name_fancy.", "fancy_name", [])
+    
 ]
 
 def process_language_file(file_path: Path) -> dict:
@@ -51,6 +56,8 @@ def process_language_file(file_path: Path) -> dict:
                     continue
                 key = row[0].strip()
                 text = row[1].strip()
+                # 删除方括号，保留内部内容
+                text = re.sub(r'\[.*?\]', '', text)
                 # 检查是否匹配任一规则
                 for prefix, group, exclude_suffixes in RULES:
                     if key.startswith(prefix):

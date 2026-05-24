@@ -549,7 +549,7 @@ Cada ataque de um ajudante Mariposa dá ao alvo os seguintes males de status:"
  Quando a duração de qualquer reforço chega a zero, o efeito é considerado naturalmente expirado."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.buffs.one","Causa {DAMAGE}% de dano ao alvo e a {MAXHITS} inimigos aleatórios.
  Cada acerto reduz em um turno a duração de todos os reforços de efeitos de status do inimigo atingido."
-"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","A duração prolongada afeta males de status expurgáveis e inexpurgáveis."
+"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","A duração prolongada afeta males de status expurgáveis, persistentes e inexpurgáveis."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.randommaintarget.with_chance.debuffs","Causa {DAMAGE}% de dano a um alvo aleatório.
  Aumenta em {TURNS} turnos a duração dos males de status ativos do alvo aleatório."
 "specials.v2.property.chainstrikewithtilecountbasedstrikecount.allowmaintargetinrandomtargets.green.damage.decrease","Causa {DAMAGE}% de dano adicional a uma quantidade de inimigos aleatórios equivalente à quantidade de escudos de Natureza no tabuleiro, até o limite de {MAXHITS} acertos. O dano é reduzido a cada acerto consecutivo."
@@ -659,11 +659,11 @@ Cada ataque de um ajudante Mariposa dá ao alvo os seguintes males de status:"
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Expurga todos os males de status de todos os aliados e aumenta em {POWER}% o mana de todos os aliados por cada mal expurgado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Extrai males de todos os aliados."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Ceifa reforços de todos os inimigos."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","A Ceifa remove com segurança {MAXREMOVALCOUNT} reforços, acumulações positivas ou efeitos Crescimento de cada alvo. Isso inclui efeitos persistentes, reforços indissipáveis e efeitos de dança.
- O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","A [#!]Ceifa[#] remove com segurança {MAXREMOVALCOUNT} reforços, acumulações positivas ou efeitos Crescimento de cada alvo. Isso inclui efeitos persistentes, reforços indissipáveis e efeitos de dança.
+[*] O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.
 
- A remoção segura ignora os efeitos secundários, como dano ao remover, dos reforços de efeito de status removidos. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.
- Os efeitos Crescimento são removidos primeiro. Entre outros efeitos, o mais recente é removido primeiro."
+[*] A remoção segura ignora os efeitos secundários, como dano ao remover, dos reforços de efeito de status removidos. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.
+[*] Os efeitos Crescimento são removidos primeiro. Entre outros efeitos, o mais recente é removido primeiro."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Extração remove com segurança {MAXREMOVALCOUNT} males de status, acumulações negativas ou efeitos Atrofia de cada alvo. Isso inclui efeitos de dança e males de status inexpurgáveis.
  O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.
  O expurgo seguro ignora os efeitos secundários, como dano ao remover, do mal de status removido. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.
@@ -842,13 +842,13 @@ Limites de modificação das pontuações de habilidade:
 "specials.v2.property.modifystatuseffectturns.buffs.decrease.one.extra","A modificação da duração afeta efeitos persistentes, dissipáveis e indissipáveis.
 
  Quando a duração de qualquer efeito chega a zero, o efeito é considerado naturalmente expirado."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","A modificação da duração afeta efeitos dissipáveis e indissipáveis."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","A modificação da duração afeta efeitos dissipáveis e indissipáveis."
-"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","A modificação da duração afeta efeitos expurgáveis e não expurgáveis.
+"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","A modificação da duração afeta efeitos expurgáveis, persistentes e não expurgáveis.
 
- Quando a duração de qualquer efeito chega a zero, o efeito é considerado naturalmente expirado."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","A modificação da duração afeta efeitos dissipáveis e indissipáveis."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","A modificação da duração afeta efeitos dissipáveis e indissipáveis."
+[*] Quando a duração de qualquer efeito chega a zero, o efeito é considerado naturalmente expirado."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduz a duração dos males de status ativos do invocador e dos aliados próximos em {TURNS} turnos."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Reduz a duração dos reforços do alvo e dos inimigos próximos em {TURNS} turnos."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Reduz a duração dos reforços do alvo e dos inimigos próximos em {TURNS} turno."
@@ -908,8 +908,8 @@ Limites de modificação das pontuações de habilidade:
 {STATUSEFFECTS}"
 "specials.v2.property.ransack","Saqueia o alvo, roubando vida e reforços."
 "specials.v2.property.ransack.extra","Rouba {DAMAGE} de vida. 
- Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.
- O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
+[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.
+[*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
 "specials.v2.property.reducemaxhealth.extra","A vida máxima não pode ser inferior a {MINIMUMMAXHEALTH}% da vida máxima original.
  A vida reforçada é reduzida em menos {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","Reduz em {REDUCTION} o limite de vida de todos os inimigos. O efeito é mais forte contra alvos com vida reforçada."
@@ -972,8 +972,8 @@ Limites de modificação das pontuações de habilidade:
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","O expurgo seguro ignora efeitos secundários, como o dano ao remover, do mal de status removido. Efeitos externos, como habilidades passivas e efeitos da família, ainda podem ser ativados."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","O dano é reduzido em {POWERPERREMOVALFROMTARGET}% por cada reforço removido.
  Os reforços persistentes e indissipáveis também são removidos."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","O reforço de vida é reduzido em {FIXEDPOWERPERREMOVALFROMTARGET} por cada mal removido.
- Os males inexpurgáveis também são removidos."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] O reforço de vida é reduzido em [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] por cada mal removido.
+[*] Os males persistentes e inexpurgáveis também são removidos."
 "specials.v2.property.repeatspecial.blade_wings.random","Após um lançamento bem sucedido, tem {REPEATCHANCE}% de chance de lançar Asas Laminadas novamente em um alvo aleatório.
 Pode lançar novamente {MAXREPEATS} vezes, e a chance de lançar novamente diminui em {REPEATCHANCEDECREASE}% a cada lançamento bem sucedido."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","A duração dos reforços é restaurada ao valor inicial para todos os aliados."
@@ -1936,8 +1936,8 @@ Dança da Fortuna Vibrante
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","O ataque do alvo e dos inimigos próximos diminui em {CHANGE}% por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","A defesa do alvo e dos inimigos próximos diminui em {CHANGE}% por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","A geração de mana do alvo e dos inimigos próximos diminui em {CHANGE}% por turno durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. Ataques normais podem ter até {MAXATTACK}% de aumento no poder enquanto este efeito está ativo."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","O invocador recebe {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. Ataques normais podem ter até {MAXATTACK}% de aumento no poder enquanto este efeito está ativo."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","O invocador recebe {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","O invocador rouba {CURRENTMANASTEAL}% de mana gerado dos inimigos atingidos por {TURNS} turnos. Este efeito é removido quando o invocador é derrotado."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Todos os inimigos recebem Queimadura Corrosiva por {TURNS} turnos. A Queimadura Corrosiva causa {DAMAGEPERTURN} de dano de queimadura e diminui a defesa do alvo em {CHANGE}% a cada turno."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Todos os inimigos recebem Queimadura Corrosiva por {TURNS} turnos. A Queimadura Corrosiva causa {DAMAGEPERTURN} de dano de queimadura e diminui a defesa do alvo em {CHANGE}% a cada turno. Causa dano adicional contra heróis com ajudantes ou um mega-ajudante."
@@ -2369,14 +2369,14 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","O invocador recebe uma Barreira de Tempestade de Fogo por {TURNS} turnos, que reduz o dano da habilidade especial em até -{MAX}. A redução de dano varia de acordo com a defesa do defensor e o poder de ataque do atacante. O dano é reduzido em mais {ADDITIONALDAMAGEMODIFIER}% quando o atacante é do elemento Natureza."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","O invocador recebe uma Barreira do Luar por {TURNS} turnos, que reduz o dano da habilidade especial em até -{MAX}. A redução de dano varia de acordo com a defesa do defensor e o poder de ataque do atacante. O dano é reduzido em mais {ADDITIONALDAMAGEMODIFIER}% quando o atacante é do elemento Luz."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Todos os inimigos recebem uma Poção Misteriosa. Após {TURNS} turnos, a Poção Misteriosa explode e causa {DAMAGE} de dano ao alvo. Após a explosão, o alvo não pode ganhar mana por {STATUSEFFECT1TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos os aliados ganham {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. Ataques normais podem ter até {MAXATTACK}% de aumento no poder enquanto este efeito está ativo."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos os aliados de Gelo recebem {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. O poder dos ataques normais pode aumentar em até {MAXATTACK}% enquanto este efeito está ativo."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos os aliados de Natureza recebem {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. O poder dos ataques normais pode aumentar em até {MAXATTACK}% enquanto este efeito está ativo."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","O invocador e os aliados próximos ganham {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. Ataques normais podem ter até {MAXATTACK}% de aumento no poder enquanto este efeito está ativo."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos os aliados de Trevas recebem {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. O poder dos ataques normais pode aumentar em até {MAXATTACK}% enquanto este efeito está ativo."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos os aliados de Fogo recebem {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. O poder dos ataques normais pode aumentar em até {MAXATTACK}% enquanto este efeito está ativo."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos os aliados de [##elementblue]Gelo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos os aliados de [##elementgreen]Natureza[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","O invocador e os aliados próximos recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos os aliados de [##elementpurple]Trevas[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos os aliados de [##elementred]Fogo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","O invocador recebe {ATTACK}% de ataque normal por {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos os aliados de Luz recebem {ATTACK}% do ataque normal por {TURNS} turnos. Este efeito pode ser ativado juntamente com efeitos que alteram o ataque de modo geral. O poder dos ataques normais pode aumentar em até {MAXATTACK}% enquanto este efeito está ativo."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos os aliados de [##elementyellow]Luz[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Os inimigos não contribuem para o dano da tropa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","O alvo e os inimigos próximos não contribuem para o dano da Tropa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Os inimigos nas bordas da formação inimiga não contribuem para o dano da tropa por {TURNS} turnos."

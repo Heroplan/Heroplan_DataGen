@@ -2213,12 +2213,12 @@ const translatedPassivesTC =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpelstiltskin",
+        "name": "Rumpel-stiltskin",
         "passives": []
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpelstiltskin C1",
+        "name": "Rumpel-stiltskin C1",
         "passives": []
     },
     {

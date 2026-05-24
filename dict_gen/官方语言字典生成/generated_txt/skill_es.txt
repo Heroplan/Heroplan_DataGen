@@ -549,7 +549,7 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
  Si la duración de cualquier bendición se reduce a cero, se considera que el efecto ha caducado de forma natural."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.buffs.one","Inflige un {DAMAGE} % de daño al objetivo y {MAXHITS} enemigos aleatorios.
  Cada golpe reduce la duración de todas las bendiciones de estado del enemigo golpeado en un turno."
-"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","El aumento de la duración afecta a efectos tanto purificables como impurificables."
+"specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.debuffs.extra","El aumento de la duración afecta a efectos purificables, obstinados e impurificables."
 "specials.v2.property.chainstrikewithstatuseffectturncountmodifierperhit.randommaintarget.with_chance.debuffs","Inflige un {DAMAGE} % de daño a un objetivo aleatorio.
  Aumenta la duración de los estados alterados activos del objetivo aleatorio en {TURNS} turnos."
 "specials.v2.property.chainstrikewithtilecountbasedstrikecount.allowmaintargetinrandomtargets.green.damage.decrease","Inflige un {DAMAGE} % de daño adicional a tantos enemigos aleatorios como escudos de naturaleza haya en el tablero hasta un máximo de {MAXHITS} golpes. El daño se reduce con cada golpe consecutivo."
@@ -659,11 +659,11 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Purifica los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Arranca de raíz las mermas de todos los aliados."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Cosecha bendiciones de todos los enemigos."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La cosecha elimina de forma segura hasta {MAXREMOVALCOUNT} bendiciones, acumulaciones positivas o efectos de crecimiento de cada objetivo. Se incluyen los efectos de danza y las bendiciones obstinadas y que no se pueden descartar.
- La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La [#!]cosecha[#] elimina de forma segura hasta {MAXREMOVALCOUNT} bendiciones, acumulaciones positivas o efectos de crecimiento de cada objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
+[*] La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
 
- La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
- Los efectos de crecimiento se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
+[*] La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
+[*] Los efectos de crecimiento se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Arrancar de raíz elimina de forma segura hasta {MAXREMOVALCOUNT} estados alterados, acumulaciones negativas o efectos de merma de cada objetivo. Se incluyen los estados alterados impurificables y los efectos de danza.
  La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
  La purificación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de los estados alterados eliminados. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
@@ -842,13 +842,13 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.modifystatuseffectturns.buffs.decrease.one.extra","La modificación de duración afecta a efectos obstinados, descartables e indescartables.
 
  Si la duración de cualquier efecto se reduce a cero, se considera que el efecto ha caducado de forma natural."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","La modificación de duración afecta a efectos tanto purificables como impurificables."
-"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modificación de duración afecta a efectos tanto purificables como impurificables."
-"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modificación de duración afecta a efectos tanto purificables como impurificables.
+"specials.v2.property.modifystatuseffectturns.buffs.increase.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+"specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+"specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables.
 
- Si la duración de cualquier efecto se reduce a cero, se considera que el efecto ha caducado de forma natural."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modificación de duración afecta a efectos tanto purificables como impurificables."
-"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modificación de duración afecta a efectos tanto purificables como impurificables."
+[*] Si la duración de cualquier efecto se reduce a cero, se considera que el efecto ha caducado de forma natural."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
+"specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduce la duración de los estados alterados activos del héroe y los aliados cercanos {TURNS} turnos."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Reduce la duración de las bendiciones del objetivo y de los enemigos cercanos {TURNS} turnos."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Reduce la duración de las bendiciones del objetivo y de los enemigos cercanos {TURNS} turno."
@@ -908,8 +908,8 @@ Límites de la modificación de las puntuaciones de habilidad
 {STATUSEFFECTS}"
 "specials.v2.property.ransack","Saquea al objetivo y le roba vitalidad y bendiciones."
 "specials.v2.property.ransack.extra","Roba {DAMAGE} de vitalidad.
- Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos de danza y las bendiciones obstinadas re indescartables.
- El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
+[*] Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
+[*] El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
 "specials.v2.property.reducemaxhealth.extra","La vitalidad máxima no puede ser inferior al {MINIMUMMAXHEALTH} % de la vitalidad máxima original.
  Reduce toda la vitalidad potenciada en {REDUCTION} adicional."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","Reduce la vitalidad máxima de todos los enemigos en {REDUCTION}. El efecto es más fuerte contra objetivos con vitalidad potenciada."
@@ -972,8 +972,8 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","La purificación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) del estado alterado eliminado. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","El daño se reduce en un {POWERPERREMOVALFROMTARGET} % por cada bendición eliminada.
  Las bendiciones obstinadas e indescartables también se eliminan."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","La vitalidad potenciada se reduce en {FIXEDPOWERPERREMOVALFROMTARGET} por cada estado alterado eliminado.
- Los estados alterados impurificables también se eliminan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] La vitalidad potenciada se reduce en [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] por cada estado alterado eliminado.
+[*] Los estados alterados obstinados e impurificables también se eliminan."
 "specials.v2.property.repeatspecial.blade_wings.random","Tras usarse con éxito, tiene un {REPEATCHANCE} % de probabilidad de volver a usar Alas de cuchilla contra un objetivo aleatorio.
  Puede volver a usar la habilidad hasta {MAXREPEATS} veces, y la probabilidad de volver a usarla se reduce un {REPEATCHANCEDECREASE} % después de cada uso con éxito."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","Se reinicia la duración de las bendiciones de todos los aliados."
@@ -1941,8 +1941,8 @@ Danza de la fortuna vibrante
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","El ataque del objetivo y de los enemigos cercanos se reduce un {CHANGE} % por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","La defensa del objetivo y de los enemigos cercanos se reduce un {CHANGE} % por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","La regeneración de maná del objetivo y de los enemigos cercanos se reduce un {CHANGE} % por turno durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % en cada turno. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","El héroe recibe un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % en cada turno. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","El héroe reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","El héroe roba un {CURRENTMANASTEAL} % del maná generado de los enemigos golpeados durante {TURNS} turnos. Este efecto se elimina si el héroe cae derrotado."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Todos los enemigos reciben una quemadura corrosiva durante {TURNS} turnos. Esta inflige {DAMAGEPERTURN} de daño de quemadura y reduce la defensa del objetivo en un {CHANGE} % cada turno."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Todos los enemigos reciben una quemadura corrosiva durante {TURNS} turnos. Esta inflige {DAMAGEPERTURN} de daño de quemadura y reduce la defensa del objetivo en un {CHANGE} % cada turno. Inflige daño extra a los héroes con secuaces o un megasecuaz."
@@ -2374,14 +2374,14 @@ Danza de la fortuna vibrante
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.statuseffectskill.green","El héroe obtiene Protección de tormenta de fuego, que reduce el daño de las habilidades especiales recibido en hasta -{MAX}, durante {TURNS} turnos. La reducción de daño aumenta en función de la defensa de quien se defiende y el poder de ataque de quien ataca. Reduce el daño un {ADDITIONALDAMAGEMODIFIER} % más cuando el atacante es del elemento naturaleza."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","El héroe obtiene Protección lunar, que reduce el daño de las habilidades especiales recibido en hasta -{MAX}, durante {TURNS} turnos. La reducción de daño aumenta en función de la defensa de quien se defiende y el poder de ataque de quien ataca. Reduce el daño un {ADDITIONALDAMAGEMODIFIER} % más cuando el atacante es del elemento sagrado."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Todos los enemigos reciben una poción misteriosa. Tras {TURNS} turnos, la poción misteriosa explota e inflige {DAMAGE} de daño al objetivo. Tras la explosión, el objetivo no podrá obtener maná durante {STATUSEFFECT1TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos los aliados de hielo reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos los aliados de naturaleza reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","El héroe y los aliados cercanos reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos los aliados de oscuridad reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos los aliados de fuego reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos los aliados de [##elementblue]hielo[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos los aliados de [##elementgreen]naturaleza[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","El héroe y los aliados cercanos reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos los aliados [##elementpurple]oscuros[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos los aliados de [##elementred]fuego[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","El héroe obtiene un {ATTACK} % de ataque normal durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos los aliados sagrados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos los aliados [##elementyellow]sagrados[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Ningún enemigo contribuye al daño de las tropas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Ni el objetivo ni los enemigos cercanos contribuyen al daño de las tropas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Los enemigos en los márgenes de la formación enemiga no contribuyen al daño de las tropas durante {TURNS} turnos."
