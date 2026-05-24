@@ -5990,7 +5990,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Heal - Steal Healing"
+                    "Heal - Steal Healing",
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -11638,7 +11639,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Bleed"
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -13802,7 +13803,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Bleed",
+                    "Dmg - DoT :Surge Bleed",
                     "Def - Dmg Taken ↑",
                     "Heal - Block Healing"
                 ]
@@ -37902,7 +37903,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Bleed"
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -44189,7 +44190,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Bleed"
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -47499,7 +47500,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Heal - Steal Healing"
+                    "Heal - Steal Healing",
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -59914,7 +59916,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Bleed",
+                    "Dmg - DoT :Surge Bleed",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -65903,7 +65905,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Heal - Steal Healing"
+                    "Heal - Steal Healing",
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -65964,7 +65967,8 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Steal Healing",
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Dmg - DoT :Surge Bleed"
                 ]
             }
         ]
@@ -107936,7 +107940,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Bleed",
+                    "Dmg - DoT :Surge Bleed",
                     "Heal - Max Health ↓"
                 ]
             }

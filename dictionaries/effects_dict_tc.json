@@ -146,7 +146,7 @@
     "^\\*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+all\\s+enemies\\.?\\s*$": "* 對所有敵人造成\\1 傷害。",
     "^All\\s+enemies\\s+are\\s+immune\\s+to\\s+new\\s+status\\s+effect\\s+buffs\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有敵人在\\1回合內無法獲得新的狀態效果增益。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+increase\\s+for\\s+any\\s+healing\\s+received\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有盟友獲得的治療增加 \\1，持續\\2回合。",
-    "^The\\s+target\\s+receives([+-]?\\s*\\d+\\s*%?)Surge\\s+Bleed\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目標在\\2回合內受到共計\\1點傷害。",
+    "^The\\s+target\\s+receives([+-]?\\s*\\d+\\s*%?)Surge\\s+Bleed\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目標在\\2回合內受到共計\\1點重傷流血傷害。",
     "^\\(If\\s+a\\s+target\\s+already\\s+has\\s+this\\s+effect,\\s+the\\s+duration\\s+will\\s+be\\s+refreshed\\s+and\\s+the\\s+damage\\s+will\\s+be\\s+increased\\s+by([+-]?\\s*\\d+\\s*%?),\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\s+in\\s+total\\.?\\s*\\)$": "（如果目標已擁有此效果，持續時間会被刷新，並增加\\1點傷害。最大總傷害:\\2。）",
     "^The\\s+caster\\s+steals([+-]?\\s*\\d+\\s*%?)\\s+of\\s+any\\s+healing\\s+applied\\s+to\\s+the\\s+target\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "施法者偷取目標所獲治療的\\1，持續\\2回合。",
     "^Summons\\s+a\\s+Wei\\s+Soldier\\s+Minion\\s+for\\s+the\\s+caster\\s+and\\s+nearby\\s+allies\\s+with([+-]?\\s*\\d+\\s*%?)\\s+HP\\s+and([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+inherited\\s+from\\s+the\\s+caster\\.?\\s*$": "為施法者與附近盟友召喚一個魏國戰士小兵，其可從施法者繼承\\1 生命和\\2 攻擊。",
