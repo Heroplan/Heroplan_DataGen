@@ -7043,6 +7043,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "effects": [
+            "Deals 350% damage to the target.",
+            "Deals additional 150% damage to as many random enemies as there are Nature shields on the board, up to maximum of 12 hits. The damage is reduced on each consecutive hit.",
+            "All hit targets receive 1000 Surge Bleed damage over 5 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 250. Max total damage: 3750.)"
+        ]
+    },
+    {
         "heroId": "shadow_zavinia",
         "name": "Zavinia",
         "effects": [
@@ -17655,11 +17664,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "wild_cat_zarek",
-        "name": "Zarek",
-        "effects": []
     },
     {
         "heroId": "tales2_hreidmarr_costume_trader",

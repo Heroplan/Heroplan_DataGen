@@ -1278,6 +1278,8 @@
     "^All\\s+enemies\\s+receive([+-]?\\s*\\d+\\s*%?)damage\\s+over([+-]?\\s*\\d+\\s*%?)turns$": "所有敵人在\\2回合內受到共計\\1點傷害。",
     "^All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+decrease\\s+for\\s+any\\s+healing\\s+received\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "所有敵人獲得的治療減少 \\1，持續\\2回合。此效果無法淨化。",
     "^All\\s+enemies\\s+receive([+-]?\\s*\\d+\\s*%?)Sand\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有敵人在\\2回合內受到共計\\1點飛沙傷害。",
+    "^Deals\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+as\\s+many\\s+random\\s+enemies\\s+as\\s+there\\s+are\\s+Nature\\s+shields\\s+on\\s+the\\s+board,\\s+up\\s+to\\s+maximum\\s+of([+-]?\\s*\\d+\\s*%?)hits\\.?\\s*\\s+The\\s+damage\\s+is\\s+reduced\\s+on\\s+each\\s+consecutive\\s+hit\\.?\\s*$": "依照面板中自然護盾的数量，對相同数量的隨機敵人造成額外\\1傷害，最多\\2次。連續命中的傷害逐次減少。",
+    "^All\\s+hit\\s+targets\\s+receive([+-]?\\s*\\d+\\s*%?)Surge\\s+Bleed\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有被擊中的目標在\\2個回合內受到\\1點重傷流血傷害。",
     "^Deals\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+as\\s+many\\s+random\\s+enemies\\s+as\\s+there\\s+are\\s+Nature\\s+tiles\\s+on\\s+the\\s+board,\\s+up\\s+to\\s+a\\s+maximum\\s+of([+-]?\\s*\\d+\\s*%?)hits\\.?\\s*\\s+The\\s+damage\\s+is\\s+reduced\\s+on\\s+each\\s+consecutive\\s+hit\\.?\\s*$": "依照面板中自然磚格的數量，對相同數量的隨機敵人造成額外\\1 傷害，最多\\2次。連續命中的傷害逐次減少。",
     "^Inflicts([+-]?\\s*\\d+\\s*%?)Insanity\\s+on\\s+the\\s+caster\\.?\\s*$": "對施法者造成\\1點瘋狂。",
     "^Elemental\\s+Link\\s+gives\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\s+for\\s+all\\s+Nature\\s+allies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "元素鏈給予所有自然盟友 \\1 法力，持續\\2個回合。此效果無法驅散。",

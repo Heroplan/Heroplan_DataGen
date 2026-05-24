@@ -7043,6 +7043,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "effects": [
+            "對目標造成 350% 傷害。",
+            "依照面板中自然護盾的数量，對相同数量的隨機敵人造成額外150%傷害，最多12次。連續命中的傷害逐次減少。",
+            "所有被擊中的目標在5個回合內受到1000點重傷流血傷害。（如果目標已擁有此效果，持續時間會被刷新，並增加250點傷害。最大總傷害：3750。）"
+        ]
+    },
+    {
         "heroId": "shadow_zavinia",
         "name": "Zavinia",
         "effects": [
@@ -17655,11 +17664,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "wild_cat_zarek",
-        "name": "Zarek",
-        "effects": []
     },
     {
         "heroId": "tales2_hreidmarr_costume_trader",

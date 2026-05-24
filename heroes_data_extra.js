@@ -47469,5 +47469,25 @@ window.allHeroesExtra = [
         "healthBonus": "90%",
         "manaBonus": "5%",
         "family": "lagoon"
+    },
+    {
+        "name": "Zarek",
+        "fancy name": "Stone-Weaving Caracal",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2026-05-24",
+        "AetherPower": "Attack Up",
+        "heroId": "wild_cat_zarek",
+        "baseAttack": 715,
+        "baseDefense": 614,
+        "baseHealth": 1157,
+        "specialId": "whirling_stone_storm",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];

@@ -1435,7 +1435,7 @@ const allTranslations =
         "name": "Gitnib",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -1729,7 +1729,7 @@ const allTranslations =
         "name": "Lennart",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -2566,7 +2566,7 @@ const allTranslations =
         "name": "Vernix",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -2874,7 +2874,7 @@ const allTranslations =
         "name": "Ferni",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -4632,7 +4632,7 @@ const allTranslations =
         "name": "Leonie",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -5248,7 +5248,7 @@ const allTranslations =
         "name": "Thaffer",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -5447,6 +5447,21 @@ const allTranslations =
         "heroId": "sand_king_costume_lifeguard",
         "name": "Yunan C1",
         "passives": []
+    },
+    {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "passives": [
+            "Nine Lives:",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affected by effects that increase or reduce defense.",
+            "This includes:",
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
+        ]
     },
     {
         "heroId": "shadow_zavinia",
@@ -7061,7 +7076,7 @@ const allTranslations =
         "name": "Imagus",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -7373,7 +7388,7 @@ const allTranslations =
         "name": "Marnes",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -9468,7 +9483,7 @@ const allTranslations =
         "name": "Catalina",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -10523,7 +10538,7 @@ const allTranslations =
         "name": "Rajesh",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -11759,7 +11774,7 @@ const allTranslations =
         "name": "Tunes",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -13189,7 +13204,7 @@ const allTranslations =
         "name": "Savann",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -13283,7 +13298,7 @@ const allTranslations =
         "name": "Stravia",
         "passives": [
             "Nine Lives:",
-            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
             "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
@@ -13651,11 +13666,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "wild_cat_zarek",
-        "name": "Zarek",
-        "passives": []
     },
     {
         "heroId": "tales2_hreidmarr_costume_trader",

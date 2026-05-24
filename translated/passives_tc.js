@@ -5449,6 +5449,21 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "wild_cat_zarek",
+        "name": "Zarek",
+        "passives": [
+            "九條命：",
+            "* 落敗時，此角色有 80% 機率於其下個回合開始時復活，並恢復 50% 生命值和 80% 法力。",
+            "* 最多可觸發 9 次。復活幾率會在每次觸發後衰減。無法通過狀態異常或被動技能阻止該效果。",
+            "特性：輕巧自如的身姿。",
+            "此角色不受增加或減少防票的效果影響。",
+            "這包括：",
+            "* - 狀態效果增益以及異常。",
+            "* - 正面與負面疊加。",
+            "* - 成長和枯萎效果。"
+        ]
+    },
+    {
         "heroId": "shadow_zavinia",
         "name": "Zavinia",
         "passives": [
@@ -13651,11 +13666,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "wild_cat_zarek",
-        "name": "Zarek",
-        "passives": []
     },
     {
         "heroId": "tales2_hreidmarr_costume_trader",
