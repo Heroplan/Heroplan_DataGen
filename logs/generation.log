@@ -1,68 +1,13 @@
-2026-05-24 23:51:26,604 - INFO - 成功加载并规范化 1783 条中文额外数据。
-2026-05-24 23:51:26,623 - INFO - [skill] 已加载 cn 技能 2529 条
-2026-05-24 23:51:26,625 - INFO - [skill] 已加载 tc 技能 2529 条
-2026-05-24 23:51:26,627 - INFO - [skill] 已加载 en 技能 2529 条
-2026-05-24 23:51:29,300 - WARNING - 检测到重复英雄 'Zarek'，该英雄已存在于YML数据中，将跳过从 extra_heroes.json 添加。
-2026-05-24 23:51:29,512 - WARNING - 
---- 以下英雄未找到 heroes_data_extra.js 中的额外数据 ---
-2026-05-24 23:51:29,512 - WARNING - 缺失额外数据的英雄: {'name': 'Zarek', 'color': 'green', 'star': 5}
-2026-05-24 23:51:29,513 - INFO - 检测到 1 个缺失的英雄数据，准备自动追加到 'heroes_data_extra.js'...
-2026-05-24 23:51:29,513 - INFO - 成功加载 18 条 extra_heroes.json 数据
-2026-05-24 23:51:29,513 - INFO - extra_heroes.json 中的英雄名称:
-2026-05-24 23:51:29,513 - INFO -   - Zarek
-2026-05-24 23:51:29,513 - INFO -   - Hreidmarr C
-2026-05-24 23:51:29,514 - INFO -   - Rudraditya
-2026-05-24 23:51:29,514 - INFO -   - Garnet C
-2026-05-24 23:51:29,514 - INFO -   - Kitou Sayomi
-2026-05-24 23:51:29,514 - INFO -   - Skiff
-2026-05-24 23:51:29,514 - INFO -   - Bubo
-2026-05-24 23:51:29,514 - INFO -   - Dolrak C
-2026-05-24 23:51:29,514 - INFO -   - Itham C
-2026-05-24 23:51:29,514 - INFO -   - Misty C
-2026-05-24 23:51:29,515 - INFO -   - Bro'Khai
-2026-05-24 23:51:29,515 - INFO -   - Hai'Kala
-2026-05-24 23:51:29,516 - INFO -   - Sha-Arr
-2026-05-24 23:51:29,516 - INFO -   - Shar'By
-2026-05-24 23:51:29,516 - INFO -   - Haa'Muhai
-2026-05-24 23:51:29,516 - INFO -   - Shu Jing
-2026-05-24 23:51:29,516 - INFO -   - Pansius
-2026-05-24 23:51:29,517 - INFO -   - Cloveria
-2026-05-24 23:51:29,518 - INFO - 添加映射: Hreidmarr C -> Hreidmarr C (规范化: hreidmarrc)
-2026-05-24 23:51:29,518 - INFO - 添加映射: Garnet C -> Garnet C (规范化: garnetc)
-2026-05-24 23:51:29,518 - INFO - 添加映射: Dolrak C -> Dolrak C (规范化: dolrakc)
-2026-05-24 23:51:29,518 - INFO - 添加映射: Itham C -> Itham C (规范化: ithamc)
-2026-05-24 23:51:29,518 - INFO - 添加映射: Misty C -> Misty C (规范化: mistyc)
-2026-05-24 23:51:29,518 - INFO - extra_heroes_map 中的键:
-2026-05-24 23:51:29,518 - INFO -   - 'zarek'
-2026-05-24 23:51:29,519 - INFO -   - 'hreidmarrc'
-2026-05-24 23:51:29,519 - INFO -   - 'rudraditya'
-2026-05-24 23:51:29,519 - INFO -   - 'garnetc'
-2026-05-24 23:51:29,519 - INFO -   - 'kitousayomi'
-2026-05-24 23:51:29,519 - INFO -   - 'skiff'
-2026-05-24 23:51:29,519 - INFO -   - 'bubo'
-2026-05-24 23:51:29,519 - INFO -   - 'dolrakc'
-2026-05-24 23:51:29,520 - INFO -   - 'ithamc'
-2026-05-24 23:51:29,520 - INFO -   - 'mistyc'
-2026-05-24 23:51:29,520 - INFO -   - 'brokhai'
-2026-05-24 23:51:29,520 - INFO -   - 'haikala'
-2026-05-24 23:51:29,520 - INFO -   - 'shaarr'
-2026-05-24 23:51:29,520 - INFO -   - 'sharby'
-2026-05-24 23:51:29,520 - INFO -   - 'haamuhai'
-2026-05-24 23:51:29,520 - INFO -   - 'shujing'
-2026-05-24 23:51:29,521 - INFO -   - 'pansius'
-2026-05-24 23:51:29,521 - INFO -   - 'cloveria'
-2026-05-24 23:51:29,557 - INFO - 处理英雄: 'Zarek' (规范化: 'zarek')
-2026-05-24 23:51:29,557 - INFO - 直接匹配成功: 'Zarek' -> 'Zarek'
-2026-05-24 23:51:29,558 - INFO - 从 extra_heroes.json 成功匹配英雄: 'Zarek' -> fancy_name: 'Stone-Weaving Caracal'
-2026-05-24 23:51:29,584 - INFO - 成功！已将 1 个新的完整英雄条目追加到 'heroes_data_extra.js'。
-2026-05-24 23:51:29,585 - INFO - 移除已处理的英雄: Zarek
-2026-05-24 23:51:29,857 - INFO - ✅ 已从 extra_heroes.json 中移除 1 个已处理的英雄条目
-2026-05-24 23:51:29,861 - WARNING - 
+2026-05-25 00:18:58,717 - INFO - 成功加载并规范化 1783 条中文额外数据。
+2026-05-25 00:18:58,738 - INFO - [skill] 已加载 cn 技能 2529 条
+2026-05-25 00:18:58,740 - INFO - [skill] 已加载 tc 技能 2529 条
+2026-05-25 00:18:58,741 - INFO - [skill] 已加载 en 技能 2529 条
+2026-05-25 00:19:01,615 - WARNING - 
 --- 发现 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-2026-05-24 23:51:29,861 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-2026-05-24 23:51:29,865 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
-2026-05-24 23:51:30,100 - INFO - 成功加载并规范化 1783 条中文额外数据。
-2026-05-24 23:51:32,939 - WARNING - 
+2026-05-25 00:19:01,615 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+2026-05-25 00:19:01,619 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
+2026-05-25 00:19:01,857 - INFO - 成功加载并规范化 1783 条中文额外数据。
+2026-05-25 00:19:04,764 - WARNING - 
 --- 发现 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-2026-05-24 23:51:32,940 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-2026-05-24 23:51:32,944 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
+2026-05-25 00:19:04,764 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+2026-05-25 00:19:04,769 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。

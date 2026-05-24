@@ -44179,7 +44179,20 @@ window.allHeroes =
             "health": 2938,
             "power": 1608
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Variable Targets",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Zavinia",
