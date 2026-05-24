@@ -1,0 +1,682 @@
+{
+  "ar": {
+    "color": {
+      "blue": "ثلج",
+      "green": "طبيعة",
+      "purple": "ظلام",
+      "red": "نار",
+      "yellow": "مقدّس"
+    },
+    "class": {
+      "barbarian": "بربريّ",
+      "cleric": "إكليركي",
+      "druid": "كاهن",
+      "fighter": "مقاتل",
+      "monk": "راهب",
+      "paladin": "بالادن",
+      "ranger": "حارس جوال",
+      "rogue": "محتال",
+      "sorcerer": "مشعوذ",
+      "wizard": "ساحر"
+    },
+    "speed": {
+      "average": "متوسط",
+      "changing_tides": "تقلب المد والجزر",
+      "charge_magic": "السحر",
+      "charge_ninja": "شحنة",
+      "dancer": "راقص",
+      "fast": "سريع",
+      "slayer": "قاتل",
+      "slow": "بطيء",
+      "styx": "ستيكس",
+      "very_fast": "سريع جدًا",
+      "very_slow": "بطيء جداً"
+    }
+  },
+  "cn": {
+    "color": {
+      "blue": "冰雪",
+      "green": "自然",
+      "purple": "暗黑",
+      "red": "烈火",
+      "yellow": "神圣"
+    },
+    "class": {
+      "barbarian": "野人",
+      "cleric": "牧师",
+      "druid": "德鲁伊",
+      "fighter": "战士",
+      "monk": "僧侣",
+      "paladin": "圣骑士",
+      "ranger": "游侠",
+      "rogue": "盗贼",
+      "sorcerer": "术士",
+      "wizard": "巫师"
+    },
+    "speed": {
+      "average": "中等",
+      "changing_tides": "潮汐变幻",
+      "charge_magic": "魔法",
+      "charge_ninja": "充能",
+      "dancer": "舞者",
+      "fast": "快速",
+      "slayer": "杀手",
+      "slow": "慢",
+      "styx": "冥河",
+      "very_fast": "飞速",
+      "very_slow": "很慢"
+    }
+  },
+  "tc": {
+    "color": {
+      "blue": "冰雪",
+      "green": "自然",
+      "purple": "暗黑",
+      "red": "烈火",
+      "yellow": "神聖"
+    },
+    "class": {
+      "barbarian": "野人",
+      "cleric": "牧師",
+      "druid": "德魯伊",
+      "fighter": "戰士",
+      "monk": "僧侶",
+      "paladin": "騎士",
+      "ranger": "遊俠",
+      "rogue": "盜賊",
+      "sorcerer": "術士",
+      "wizard": "巫師"
+    },
+    "speed": {
+      "average": "平均",
+      "changing_tides": "暗流湧動",
+      "charge_magic": "魔法",
+      "charge_ninja": "衝鋒",
+      "dancer": "舞者",
+      "fast": "快速",
+      "slayer": "殺手",
+      "slow": "慢速",
+      "styx": "冥河",
+      "very_fast": "非常快",
+      "very_slow": "非常慢"
+    }
+  },
+  "da": {
+    "color": {
+      "blue": "Is",
+      "green": "Natur",
+      "purple": "Mørk",
+      "red": "Ild",
+      "yellow": "Hellig"
+    },
+    "class": {
+      "barbarian": "Barbar",
+      "cleric": "Gejstlig",
+      "druid": "Druide",
+      "fighter": "Kriger",
+      "monk": "Munk",
+      "paladin": "Paladin",
+      "ranger": "Vandringsmand",
+      "rogue": "Rebel",
+      "sorcerer": "Heksemester",
+      "wizard": "Troldmand"
+    },
+    "speed": {
+      "average": "Gennemsnitlig",
+      "changing_tides": "Bølgegang",
+      "charge_magic": "Magi",
+      "charge_ninja": "Angreb",
+      "dancer": "Danser",
+      "fast": "Hurtig",
+      "slayer": "Dræber",
+      "slow": "Langsom",
+      "styx": "Styx",
+      "very_fast": "Meget hurtig",
+      "very_slow": "Meget langsom"
+    }
+  },
+  "nl": {
+    "color": {
+      "blue": "IJs",
+      "green": "Natuur",
+      "purple": "Duister",
+      "red": "Vuur",
+      "yellow": "Heilig"
+    },
+    "class": {
+      "barbarian": "Barbaar",
+      "cleric": "Priester",
+      "druid": "Druïde",
+      "fighter": "Krijger",
+      "monk": "Monnik",
+      "paladin": "Paladijn",
+      "ranger": "Boogschutter",
+      "rogue": "Dief",
+      "sorcerer": "Tovenaar",
+      "wizard": "Magiër"
+    },
+    "speed": {
+      "average": "Gemiddeld",
+      "changing_tides": "Veranderende getijden",
+      "charge_magic": "Magie",
+      "charge_ninja": "Lading",
+      "dancer": "Danser",
+      "fast": "Snel",
+      "slayer": "Slachter",
+      "slow": "Langzaam",
+      "styx": "Styx",
+      "very_fast": "Zeer snel",
+      "very_slow": "Zeer langzaam"
+    }
+  },
+  "en": {
+    "color": {
+      "blue": "Ice",
+      "green": "Nature",
+      "purple": "Dark",
+      "red": "Fire",
+      "yellow": "Holy"
+    },
+    "class": {
+      "barbarian": "Barbarian",
+      "cleric": "Cleric",
+      "druid": "Druid",
+      "fighter": "Fighter",
+      "monk": "Monk",
+      "paladin": "Paladin",
+      "ranger": "Ranger",
+      "rogue": "Rogue",
+      "sorcerer": "Sorcerer",
+      "wizard": "Wizard"
+    },
+    "speed": {
+      "average": "Average",
+      "changing_tides": "Changing Tides",
+      "charge_magic": "Magic",
+      "charge_ninja": "Charge",
+      "dancer": "Dancer",
+      "fast": "Fast",
+      "slayer": "Slayer",
+      "slow": "Slow",
+      "styx": "Styx",
+      "very_fast": "Very Fast",
+      "very_slow": "Very Slow"
+    }
+  },
+  "fi": {
+    "color": {
+      "blue": "Jää",
+      "green": "Luonto",
+      "purple": "Pimeys",
+      "red": "Tuli",
+      "yellow": "Pyhä"
+    },
+    "class": {
+      "barbarian": "Barbaari",
+      "cleric": "Pappi",
+      "druid": "Druidi",
+      "fighter": "Taistelija",
+      "monk": "Munkki",
+      "paladin": "Paladiini",
+      "ranger": "Samooja",
+      "rogue": "Vaeltaja",
+      "sorcerer": "Noita",
+      "wizard": "Velho"
+    },
+    "speed": {
+      "average": "Keskiverto",
+      "changing_tides": "Vaihtuvat vuorovedet",
+      "charge_magic": "Taika",
+      "charge_ninja": "Lataus",
+      "dancer": "Tanssija",
+      "fast": "Nopea",
+      "slayer": "Surmaaja",
+      "slow": "Hidas",
+      "styx": "Styks",
+      "very_fast": "Hyvin nopea",
+      "very_slow": "Hyvin hidas"
+    }
+  },
+  "fr": {
+    "color": {
+      "blue": "Glace",
+      "green": "Nature",
+      "purple": "Sombre",
+      "red": "Feu",
+      "yellow": "Sacré"
+    },
+    "class": {
+      "barbarian": "Barbare",
+      "cleric": "Ecclésiastique",
+      "druid": "Druide",
+      "fighter": "Combattant",
+      "monk": "Moine",
+      "paladin": "Paladin",
+      "ranger": "Ranger",
+      "rogue": "Voyou",
+      "sorcerer": "Sorcier",
+      "wizard": "Magicien"
+    },
+    "speed": {
+      "average": "Moyen",
+      "changing_tides": "Au gré des marées",
+      "charge_magic": "Magique",
+      "charge_ninja": "Charge",
+      "dancer": "Danseur",
+      "fast": "Rapide",
+      "slayer": "Tueur",
+      "slow": "Lent",
+      "styx": "Styx",
+      "very_fast": "Très rapide",
+      "very_slow": "Très lent"
+    }
+  },
+  "de": {
+    "color": {
+      "blue": "Eis",
+      "green": "Natur",
+      "purple": "Finster",
+      "red": "Feuer",
+      "yellow": "Heilig"
+    },
+    "class": {
+      "barbarian": "Barbar",
+      "cleric": "Kleriker",
+      "druid": "Druide",
+      "fighter": "Kämpfer",
+      "monk": "Mönch",
+      "paladin": "Paladin",
+      "ranger": "Waldläufer",
+      "rogue": "Schurke",
+      "sorcerer": "Zauberer",
+      "wizard": "Magier"
+    },
+    "speed": {
+      "average": "Mittel",
+      "changing_tides": "Wechselnde Gezeiten",
+      "charge_magic": "Magie",
+      "charge_ninja": "Aufladung",
+      "dancer": "Tänzer",
+      "fast": "Schnell",
+      "slayer": "Töter",
+      "slow": "Langsam",
+      "styx": "Styx",
+      "very_fast": "Sehr schnell",
+      "very_slow": "Sehr langsam"
+    }
+  },
+  "id": {
+    "color": {
+      "blue": "Es",
+      "green": "Alam",
+      "purple": "Gelap",
+      "red": "Api",
+      "yellow": "Suci"
+    },
+    "class": {
+      "barbarian": "Barbar",
+      "cleric": "Padri",
+      "druid": "Klenik",
+      "fighter": "Petarung",
+      "monk": "Petapa",
+      "paladin": "Kesatria",
+      "ranger": "Pamong",
+      "rogue": "Berandal",
+      "sorcerer": "Penyihir",
+      "wizard": "Dukun"
+    },
+    "speed": {
+      "average": "Rata-rata",
+      "changing_tides": "Pasang Berubah",
+      "charge_magic": "Sihir",
+      "charge_ninja": "Daya",
+      "dancer": "Penari",
+      "fast": "Cepat",
+      "slayer": "Pembunuh",
+      "slow": "Lambat",
+      "styx": "Stiks",
+      "very_fast": "Sangat Cepat",
+      "very_slow": "Sangat Lambat"
+    }
+  },
+  "it": {
+    "color": {
+      "blue": "Ghiaccio",
+      "green": "Natura",
+      "purple": "Oscurità",
+      "red": "Fuoco",
+      "yellow": "Sacro"
+    },
+    "class": {
+      "barbarian": "Barbaro",
+      "cleric": "Chierico",
+      "druid": "Druido",
+      "fighter": "Combattente",
+      "monk": "Monaco",
+      "paladin": "Paladino",
+      "ranger": "Ranger",
+      "rogue": "Furfante",
+      "sorcerer": "Incantatore",
+      "wizard": "Stregone"
+    },
+    "speed": {
+      "average": "Medio",
+      "changing_tides": "Maree mutevoli",
+      "charge_magic": "Magia",
+      "charge_ninja": "Carica",
+      "dancer": "Danzatore",
+      "fast": "Rapido",
+      "slayer": "Assassini",
+      "slow": "Lento",
+      "styx": "Stige",
+      "very_fast": "Molto rapida",
+      "very_slow": "Molto lento"
+    }
+  },
+  "ja": {
+    "color": {
+      "blue": "氷",
+      "green": "自然",
+      "purple": "闇",
+      "red": "炎",
+      "yellow": "聖"
+    },
+    "class": {
+      "barbarian": "バーバリアン",
+      "cleric": "牧師",
+      "druid": "ドルイド",
+      "fighter": "戦士",
+      "monk": "モンク",
+      "paladin": "パラディン",
+      "ranger": "レンジャー",
+      "rogue": "ローグ",
+      "sorcerer": "魔術師",
+      "wizard": "ウィザード"
+    },
+    "speed": {
+      "average": "普通",
+      "changing_tides": "潮流の変化",
+      "charge_magic": "マジック",
+      "charge_ninja": "チャージ",
+      "dancer": "踊り手",
+      "fast": "速",
+      "slayer": "スレイヤー",
+      "slow": "遅",
+      "styx": "ステュクス",
+      "very_fast": "超速",
+      "very_slow": "超低速"
+    }
+  },
+  "ko": {
+    "color": {
+      "blue": "얼음",
+      "green": "자연",
+      "purple": "암흑",
+      "red": "불",
+      "yellow": "신성"
+    },
+    "class": {
+      "barbarian": "야만전사",
+      "cleric": "성직자",
+      "druid": "드루이드",
+      "fighter": "전투사",
+      "monk": "수도승",
+      "paladin": "성전사",
+      "ranger": "레인저",
+      "rogue": "도적",
+      "sorcerer": "마술사",
+      "wizard": "마법사"
+    },
+    "speed": {
+      "average": "보통",
+      "changing_tides": "격렬한 파도",
+      "charge_magic": "매직",
+      "charge_ninja": "충전",
+      "dancer": "댄서",
+      "fast": "빠름",
+      "slayer": "처단자",
+      "slow": "느림",
+      "styx": "스틱스",
+      "very_fast": "매우 빠름",
+      "very_slow": "매우 느림"
+    }
+  },
+  "no": {
+    "color": {
+      "blue": "Is",
+      "green": "Natur",
+      "purple": "Mørke",
+      "red": "Ild",
+      "yellow": "Hellig"
+    },
+    "class": {
+      "barbarian": "Barbar",
+      "cleric": "Prest",
+      "druid": "Druide",
+      "fighter": "Kriger",
+      "monk": "Munk",
+      "paladin": "Ridder",
+      "ranger": "Skogvokter",
+      "rogue": "Tyv",
+      "sorcerer": "Magiker",
+      "wizard": "Trollmann"
+    },
+    "speed": {
+      "average": "Gjennomsnittlig",
+      "changing_tides": "Skiftende tidevann",
+      "charge_magic": "Magisk",
+      "charge_ninja": "Ladning",
+      "dancer": "Danser",
+      "fast": "Rask",
+      "slayer": "Slakter",
+      "slow": "Treg",
+      "styx": "Styx",
+      "very_fast": "Svært rask",
+      "very_slow": "Svært sakte"
+    }
+  },
+  "pl": {
+    "color": {
+      "blue": "Lód",
+      "green": "Natura",
+      "purple": "Mrok",
+      "red": "Ogień",
+      "yellow": "Świętość"
+    },
+    "class": {
+      "barbarian": "Barbarzyńca",
+      "cleric": "Kleryk",
+      "druid": "Druid",
+      "fighter": "Wojownik",
+      "monk": "Mnich",
+      "paladin": "Paladyn",
+      "ranger": "Strażnik lasu",
+      "rogue": "Łotrzyk",
+      "sorcerer": "Czarodziej",
+      "wizard": "Czarnoksiężnik"
+    },
+    "speed": {
+      "average": "Średnio",
+      "changing_tides": "Zmienny nurt",
+      "charge_magic": "Magia",
+      "charge_ninja": "Ładunek",
+      "dancer": "Tancerz",
+      "fast": "Szybka",
+      "slayer": "Pogromca",
+      "slow": "Wolna",
+      "styx": "Styks",
+      "very_fast": "Bardzo szybka",
+      "very_slow": "Bardzo wolna"
+    }
+  },
+  "pt": {
+    "color": {
+      "blue": "Gelo",
+      "green": "Natureza",
+      "purple": "Trevas",
+      "red": "Fogo",
+      "yellow": "Sagrado"
+    },
+    "class": {
+      "barbarian": "Bárbaro",
+      "cleric": "Clérigo",
+      "druid": "Druida",
+      "fighter": "Guerreiro",
+      "monk": "Monge",
+      "paladin": "Paladino",
+      "ranger": "Patrulheiro",
+      "rogue": "Ladino",
+      "sorcerer": "Feiticeiro",
+      "wizard": "Bruxo"
+    },
+    "speed": {
+      "average": "Médio",
+      "changing_tides": "Mudança de Maré",
+      "charge_magic": "Mágica",
+      "charge_ninja": "Carga",
+      "dancer": "Dançarino",
+      "fast": "Rápido",
+      "slayer": "Matador",
+      "slow": "Lento",
+      "styx": "Estige",
+      "very_fast": "Muito rápido",
+      "very_slow": "Muito lento"
+    }
+  },
+  "ru": {
+    "color": {
+      "blue": "Лед",
+      "green": "Природа",
+      "purple": "Тьма",
+      "red": "Огонь",
+      "yellow": "Святыня"
+    },
+    "class": {
+      "barbarian": "Варвар",
+      "cleric": "Церковник",
+      "druid": "Друид",
+      "fighter": "Боец",
+      "monk": "Монах",
+      "paladin": "Паладин",
+      "ranger": "Рейнджер",
+      "rogue": "Разбойник",
+      "sorcerer": "Колдун",
+      "wizard": "Маг"
+    },
+    "speed": {
+      "average": "Средний",
+      "changing_tides": "Приливные волны",
+      "charge_magic": "Волшебство",
+      "charge_ninja": "Заряд",
+      "dancer": "Танцор",
+      "fast": "Быстрый",
+      "slayer": "Убийца",
+      "slow": "Медленный",
+      "styx": "Стикс",
+      "very_fast": "Очень быстрый",
+      "very_slow": "Очень медленный"
+    }
+  },
+  "es": {
+    "color": {
+      "blue": "Hielo",
+      "green": "Naturaleza",
+      "purple": "Oscuridad",
+      "red": "Fuego",
+      "yellow": "Sagrado"
+    },
+    "class": {
+      "barbarian": "Bárbaro",
+      "cleric": "Clérigo",
+      "druid": "Druida",
+      "fighter": "Luchador",
+      "monk": "Monje",
+      "paladin": "Paladín",
+      "ranger": "Guardabosques",
+      "rogue": "Rebelde",
+      "sorcerer": "Hechicero",
+      "wizard": "Brujo"
+    },
+    "speed": {
+      "average": "Promedio",
+      "changing_tides": "Mareas cambiantes",
+      "charge_magic": "Magia",
+      "charge_ninja": "Carga",
+      "dancer": "Bailarín",
+      "fast": "Rápido",
+      "slayer": "Asesinos",
+      "slow": "Lento",
+      "styx": "Estigia",
+      "very_fast": "Muy rápido",
+      "very_slow": "Muy lento"
+    }
+  },
+  "sv": {
+    "color": {
+      "blue": "Is",
+      "green": "Natur",
+      "purple": "Mörk",
+      "red": "Eld",
+      "yellow": "Helig"
+    },
+    "class": {
+      "barbarian": "Barbar",
+      "cleric": "Präst",
+      "druid": "Druid",
+      "fighter": "Kämpe",
+      "monk": "Munk",
+      "paladin": "Paladin",
+      "ranger": "Skytt",
+      "rogue": "Tjuv",
+      "sorcerer": "Häxmästare",
+      "wizard": "Trollkarl"
+    },
+    "speed": {
+      "average": "Standard",
+      "changing_tides": "Hela havet stormar",
+      "charge_magic": "Magi",
+      "charge_ninja": "Laddning",
+      "dancer": "Dansare",
+      "fast": "Snabb",
+      "slayer": "Dräpare",
+      "slow": "Långsam",
+      "styx": "Styx",
+      "very_fast": "Väldigt snabb",
+      "very_slow": "Väldigt långsam"
+    }
+  },
+  "tr": {
+    "color": {
+      "blue": "Buz",
+      "green": "Doğa",
+      "purple": "Karanlık",
+      "red": "Ateş",
+      "yellow": "Kutsal"
+    },
+    "class": {
+      "barbarian": "Barbar",
+      "cleric": "Ruhban",
+      "druid": "Rahip",
+      "fighter": "Dövüşçü",
+      "monk": "Keşiş",
+      "paladin": "Paladin",
+      "ranger": "Bekçi",
+      "rogue": "Düzenbaz",
+      "sorcerer": "Büyücü",
+      "wizard": "Sihirbaz"
+    },
+    "speed": {
+      "average": "Ortalama",
+      "changing_tides": "Gelgit Hareketi",
+      "charge_magic": "Büyü",
+      "charge_ninja": "Hücum",
+      "dancer": "Dansçı",
+      "fast": "Hızlı",
+      "slayer": "Katil",
+      "slow": "Yavaş",
+      "styx": "Stiks",
+      "very_fast": "Çok Hızlı",
+      "very_slow": "Çok Yavaş"
+    }
+  }
+}
