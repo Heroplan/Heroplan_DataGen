@@ -11,44 +11,65 @@ def convert_txt_to_json():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # 查找所有 heroes_name_ 开头的 txt 文件
-    files = glob.glob(os.path.join(source_dir, 'heroes_name_*.txt'))
+    # 定义处理规则：每个规则包含文件名匹配正则、行内容匹配正则、输出文件前缀
+    rules = [
+        {
+            "file_re": r'^heroes_name_(?P<lang>[a-z]+)\.txt$',
+            "line_re": r'"heroes\.name\.([^"]+)"\s*,\s*"([^"]+)"',
+            "output_prefix": "heroes_name_"
+        },
+        {
+            "file_re": r'^heroes_name_fancy_(?P<lang>[a-z]+)\.txt$',
+            "line_re": r'"heroes\.name_fancy\.([^"]+)"\s*,\s*"([^"]+)"',
+            "output_prefix": "heroes_name_fancy_"
+        },
+        {
+            "file_re": r'^skill_name_(?P<lang>[a-z]+)\.txt$',
+            "line_re": r'"specials\.name\.([^"]+)"\s*,\s*"([^"]+)"',
+            "output_prefix": "skill_name_"
+        }
+    ]
 
-    print(f"找到 {len(files)} 个文件待处理...")
+    # 查找所有待处理的 txt 文件（这里统一获取所有 .txt，之后按规则筛选）
+    all_txt_files = glob.glob(os.path.join(source_dir, '*.txt'))
+    print(f"找到 {len(all_txt_files)} 个 txt 文件，开始按规则处理...")
 
-    # 正则表达式匹配: "heroes.name.id","Name" 格式
-    # 考虑到可能存在的空格或不同引号，使用正则提取
-    line_pattern = re.compile(r'"heroes\.name\.([^"]+)"\s*,\s*"([^"]+)"')
-
-    for file_path in files:
-        # 额外检查文件名是否包含fancy
-        if 'fancy' in os.path.basename(file_path).lower():
-            print(f"跳过fancy文件: {file_path}")
-            continue
+    for file_path in all_txt_files:
         filename = os.path.basename(file_path)
-        # 提取语言后缀，例如 heroes_name_ja.txt -> ja
-        lang_code = filename.replace('heroes_name_', '').replace('.txt', '')
         
+        # 尝试匹配规则
+        matched_rule = None
+        lang = None
+        for rule in rules:
+            match = re.match(rule["file_re"], filename)
+            if match:
+                matched_rule = rule
+                lang = match.group("lang")
+                break
+        
+        if matched_rule is None:
+            #print(f"跳过未匹配规则的文件: {filename}")
+            continue
+        
+        # 处理文件
         json_data = {}
-        
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
-                
+            
+            line_pattern = re.compile(matched_rule["line_re"])
             for line in lines:
                 line = line.strip()
                 if not line:
                     continue
-                    
-                # 尝试匹配正则
-                match = line_pattern.search(line)
-                if match:
-                    hero_id = match.group(1) # 提取 ID (例如 astral_cosmicspeaker)
-                    hero_name = match.group(2) # 提取名字 (例如 宇宙音響)
-                    json_data[hero_id] = hero_name
+                m = line_pattern.search(line)
+                if m:
+                    item_id = m.group(1)   # 提取 ID
+                    item_name = m.group(2) # 提取名称
+                    json_data[item_id] = item_name
             
             # 写入 JSON 文件
-            output_filename = f"heroes_name_{lang_code}.json"
+            output_filename = f"{matched_rule['output_prefix']}{lang}.json"
             output_path = os.path.join(output_dir, output_filename)
             
             with open(output_path, 'w', encoding='utf-8') as json_file:
