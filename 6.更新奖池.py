@@ -228,7 +228,13 @@ def extract_from_main(data, target_id, now):
     recurse(data)
     if not candidates:
         return None
-    closest_entry = min(candidates, key=lambda x: abs((x[0] - now).days))[1]
+    today = now.date()
+    def sort_key(item):
+        date_obj = item[0].date()
+        abs_days = abs((date_obj - today).days)
+        is_past = 1 if date_obj < today else 0   # 过去为1，未来/今天为0 → 未来优先
+        return (abs_days, is_past)
+    closest_entry = min(candidates, key=sort_key)[1]
     return extract_pool_config(closest_entry)
 
 def extract_from_other(other_data, rule, now):
@@ -260,7 +266,13 @@ def extract_from_other(other_data, rule, now):
             candidates.append((date, {"featuredHeroes": heroes}))
     if not candidates:
         return None
-    closest_config = min(candidates, key=lambda x: abs((x[0] - now).days))[1]
+    today = now.date()
+    def sort_key(item):
+        date_obj = item[0].date()
+        abs_days = abs((date_obj - today).days)
+        is_past = 1 if date_obj < today else 0
+        return (abs_days, is_past)
+    closest_config = min(candidates, key=sort_key)[1]
     return closest_config
 
 def extract_from_products(products_data, rule):
@@ -346,7 +358,13 @@ def process_super_elemental(lottery_data, now):
         return None
     result = {}
     for color, entries in color_candidates.items():
-        closest = min(entries, key=lambda x: abs((x[0] - now).days))
+        today = now.date()
+        def sort_key(item):
+            date_obj = item[0].date()
+            abs_days = abs((date_obj - today).days)
+            is_past = 1 if date_obj < today else 0
+            return (abs_days, is_past)
+        closest = min(entries, key=sort_key)
         result[f"featuredHeroes_{color}"] = closest[1]
     return result
 
