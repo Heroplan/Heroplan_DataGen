@@ -2213,12 +2213,12 @@ const translatedPassivesTC =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpel-stiltskin",
+        "name": "Rumpelstiltskin",
         "passives": []
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpel-stiltskin C1",
+        "name": "Rumpelstiltskin C1",
         "passives": []
     },
     {
@@ -6846,6 +6846,26 @@ const translatedPassivesTC =
             "- 造成額外元素傷害： +100%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 受到元素傷害： -10%"
+        ]
+    },
+    {
+        "heroId": "mimic_food_purple",
+        "name": "Food Mimic Dark",
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
+            "* 食物巨禮包。",
+            "史詩：",
+            "* 食物大禮包。",
+            "稀有：",
+            "* 食物中禮包。",
+            "罕見：",
+            "* 食物小禮包。",
+            "* 訓練師英雄。",
+            "普通：",
+            "* 食物迷你禮包。",
+            "* 訓練師英雄。"
         ]
     },
     {

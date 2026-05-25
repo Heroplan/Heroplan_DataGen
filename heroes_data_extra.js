@@ -47489,5 +47489,25 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Food Mimic Dark",
+        "fancy name": "Flesh-eating Chest",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-05-25",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_food_purple",
+        "baseAttack": 692,
+        "baseDefense": 689,
+        "baseHealth": 1158,
+        "specialId": "wicked_lick_purple",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_purple"
+        ],
+        "family": "mimic"
     }
 ];

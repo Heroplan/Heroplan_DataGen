@@ -2213,12 +2213,12 @@ const allTranslations =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpel-stiltskin",
+        "name": "Rumpelstiltskin",
         "passives": []
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpel-stiltskin C1",
+        "name": "Rumpelstiltskin C1",
         "passives": []
     },
     {
@@ -6846,6 +6846,26 @@ const allTranslations =
             "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             "- Received elemental damage: -10%"
+        ]
+    },
+    {
+        "heroId": "mimic_food_purple",
+        "name": "Food Mimic Dark",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This mimic grants a chance for the following extra loot:",
+            "Legendary",
+            "* Giant Food Bundle",
+            "Epic",
+            "* Large Food Bundle",
+            "Rare",
+            "* Medium Food Bundle",
+            "Uncommon",
+            "* Small Food Bundle",
+            "* Trainer Hero",
+            "Common",
+            "* Tiny Food Bundle",
+            "* Trainer Hero"
         ]
     },
     {

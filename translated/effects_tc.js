@@ -2814,7 +2814,7 @@ const translatedEffectsTC =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpel-stiltskin",
+        "name": "Rumpelstiltskin",
         "effects": [
             "抽取一張特殊效果卡片：",
             "骷髏：",
@@ -2830,7 +2830,7 @@ const translatedEffectsTC =
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpel-stiltskin C1",
+        "name": "Rumpelstiltskin C1",
         "effects": [
             "抽取一張特殊效果卡片：",
             "骷髏：",
@@ -8841,6 +8841,16 @@ const translatedEffectsTC =
             "對目標造成 500% 傷害。",
             "依照面板中暗黑磚格的數量，對相同數量的隨機敵人造成額外 200% 傷害，最多 12 次。連續命中的傷害逐次減少。",
             "所有被擊中的目標對暗黑系獲得 -35% 防禦，並在每次被擊中後減少 -5%，持續 4 回合。"
+        ]
+    },
+    {
+        "heroId": "mimic_food_purple",
+        "name": "Food Mimic Dark",
+        "effects": [
+            "對目標造成 500% 傷害。",
+            "若攻擊擊败目標，施法者會獲得 +33% 法力。",
+            "為所有盟友治療 30% 的傷害。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ]
     },
     {

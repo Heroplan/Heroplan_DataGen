@@ -19270,6 +19270,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58412,5 +58413,5 @@
       }
     ]
   },
-  "productsConfigId": 1022056207
+  "productsConfigId": 2673200701
 }

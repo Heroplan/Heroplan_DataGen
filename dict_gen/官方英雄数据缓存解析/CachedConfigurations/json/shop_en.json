@@ -470,13 +470,18 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_shadow_coin",
-            "amount": 70
+            "id": "lottery_wilderness_coin",
+            "amount": 25
           },
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_common",
-            "amount": 1
+            "type": "Item",
+            "id": "lottery_mercenary_war_coin",
+            "amount": 25
+          },
+          {
+            "type": "Item",
+            "id": "lottery_untold_tales_coin",
+            "amount": 25
           }
         ]
       },
@@ -485,22 +490,7 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 20
-          },
-          {
-            "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 20
-          },
-          {
-            "type": "Item",
-            "id": "lottery_costume_key",
+            "id": "titan_battle_scroll_of_alteration",
             "amount": 1
           }
         ]
@@ -31406,16 +31396,20 @@
         "id": "dynamic_offer_43_green_gadeirus",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_8",
+            "id": "com.smallgiantgames.empires.dynamic_10f",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
-            "purchaseLimit": 4
+            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12d",
+            "id": "com.smallgiantgames.empires.dynamic_3d",
             "purchaseLimit": 2
+          },
+          {
+            "id": "offer_dynamic_free_l",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -31424,6 +31418,7 @@
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_8_green_gadeirus",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.destined_deals"
       },
       {
@@ -48635,7 +48630,23 @@
       },
       {
         "id": "offer_dynamic_free_l",
-        "schedule": []
+        "schedule": [
+          {
+            "activationTime": "2026-05-25 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_troop",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
+                "amount": 1
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "offer_dynamic_free_m",
@@ -49200,6 +49211,17 @@
                 "id": "lottery_astralelves_coin",
                 "amount": 200,
                 "zyngaStoreExtraAmount": 50
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-05-25 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "titan_battle_scroll_of_alteration",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 5
               }
             ]
           }
@@ -56842,6 +56864,21 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2026-05-25 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 350,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
           }
         ]
       },
@@ -57709,6 +57746,28 @@
                 "type": "Hero",
                 "id": "trainer_rainbow_uncommon",
                 "amount": 4
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-05-25 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 250,
+                "zyngaStoreExtraAmount": 50
               }
             ]
           },
@@ -62157,13 +62216,6 @@
         "endTime": "2026-05-23 07:00:00"
       },
       {
-        "id": "dynamic_offer_36_yellow_eloise",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-05-22 10:00:00",
-        "endTime": "2026-05-23 06:30:00"
-      },
-      {
         "id": "dynamic_offer_56_acidfire",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
@@ -62336,6 +62388,13 @@
         "scheduledManually": true,
         "startTime": "2026-05-25 07:00:00",
         "endTime": "2026-05-29 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_43_green_gadeirus",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-05-25 10:00:00",
+        "endTime": "2026-05-26 06:30:00"
       },
       {
         "id": "dynamic_offer_14_purple_umbria",
@@ -91238,26 +91297,107 @@
               "summonId": "lottery_league_default",
               "amountOfSelectableFeaturedSlots": 6,
               "entitiesToChooseFrom": [
-                "wonderland_hatter_costume_tea",
-                "wonderland_knave_of_hearts",
-                "fables_cinderella",
-                "wonderland_queen_costume_benefactor",
-                "wonderland_tweedles",
-                "fables_frog_prince",
-                "fables_puss_in_boots_costume_highwaycat",
-                "knights_green_knight",
-                "knights_guinevere_costume_rider",
-                "fables_rumpelstiltskin_costume_eternal",
-                "knights_black_knight_costume_negative",
-                "wonderland_white_rabbit_costume_mask",
-                "fables_snow_white_costume_slayer",
-                "knights_lady_of_the_lake_costume_blades",
-                "wonderland_jabberwocky_costume_moth",
-                "fables_boss_wolf",
-                "fables_red_hood",
-                "knights_king_arthur",
-                "knights_morgan_le_fay",
-                "wonderland_alice"
+                "halloween_edwin_costume_mafia",
+                "halloween_hortensia",
+                "bard_lyria",
+                "bard_merith",
+                "kalevala_ilmarinen_costume_gold",
+                "kalevala_louhi_costume_mistress",
+                "kalevala_mother_lemminkainen",
+                "kalevala_suomuhauki",
+                "bard_dunnar_hart",
+                "beachparty_andy_jay",
+                "beachparty_flip_costume_donut",
+                "beachparty_serena",
+                "bard_darkbeat",
+                "easter_sadie",
+                "easter_viscount_cluckwood",
+                "valentines_anteros",
+                "valentines_matchmaker_dodgrom",
+                "bard_bhaltair",
+                "bard_balafon",
+                "christmas_albin",
+                "christmas_mr_pengi_costume_snowboarder",
+                "christmas_ottilia",
+                "holy_god_faeona",
+                "bard_astrid",
+                "bard_bonzo",
+                "ice_god_mene",
+                "fire_god_zidane",
+                "halloween_alucard_costume_mafia",
+                "halloween_chester",
+                "halloween_wayne",
+                "ballerina_charlotta",
+                "nature_god_chloris",
+                "ballerina_armand",
+                "ballerina_von_rothbart",
+                "dark_god_sir_casmir",
+                "kalevala_otso",
+                "kalevala_ukkonen_costume_ukkonen_infernal",
+                "kalevala_vainamoinen_costume_vainamoinen_sage",
+                "ice_god_sini",
+                "beachparty_davey_wavey",
+                "beachparty_mazoga",
+                "beachparty_zenukwa",
+                "holy_god_aviana",
+                "nature_god_bo_and_runt",
+                "fire_god_zarga",
+                "ballerina_daroga",
+                "ballerina_meg_giry",
+                "ballerina_odile",
+                "easter_archie_costume_gallant",
+                "easter_jasper_costume_fisherman",
+                "easter_miss_ethel",
+                "easter_timothy",
+                "dark_god_anoushka",
+                "ice_god_callum",
+                "ballerina_prince_siegfried",
+                "valentines_elba",
+                "valentines_eros",
+                "valentines_kabeiroi",
+                "holy_god_zora",
+                "christmas_cookie",
+                "christmas_ginger",
+                "christmas_zappa",
+                "ballerina_christine_daae",
+                "ballerina_firmin",
+                "ballerina_madame_giry",
+                "halloween_amber",
+                "halloween_lucinda",
+                "kalevala_aino_costume_water_maiden",
+                "kalevala_kullervo_costume_battle_scarred",
+                "ballerina_odette",
+                "ballerina_phantom_of_the_opera",
+                "bard_celimene",
+                "beachparty_misty",
+                "beachparty_mortimer",
+                "bard_belladonna",
+                "valentines_cupido",
+                "valentines_himeros",
+                "valentines_phthonus",
+                "bard_ogima",
+                "christmas_augustus",
+                "christmas_peppermint",
+                "christmas_tinsel",
+                "halloween_matilda",
+                "halloween_miriam_and_midnight",
+                "bard_narcisa",
+                "bard_phenexa",
+                "bard_rhys",
+                "bard_winifred",
+                "kalevala_iku_turso",
+                "sand_roc_costume_juice",
+                "easter_killhare_costume_farmer",
+                "rabbit_blue_costume_riftbreaker",
+                "christmas_krampus_costume_eager_devil",
+                "christmas_mrs_claus_costume_fangirl",
+                "christmas_santa_costume_metal",
+                "halloween_francine_costume_mafia",
+                "halloween_vanda_costume_mafia",
+                "vampire_king_costume_mafia",
+                "sand_king_costume_lifeguard",
+                "sand_queen_costume_surfer",
+                "easter_sir_roostley"
               ]
             }
           }
@@ -94836,5 +94976,5 @@
       }
     ]
   },
-  "shopConfigId": 543748792
+  "shopConfigId": 3632760449
 }

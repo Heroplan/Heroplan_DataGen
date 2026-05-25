@@ -2814,7 +2814,7 @@ const allTranslations =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpel-stiltskin",
+        "name": "Rumpelstiltskin",
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
@@ -2830,7 +2830,7 @@ const allTranslations =
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpel-stiltskin C1",
+        "name": "Rumpelstiltskin C1",
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
@@ -8841,6 +8841,16 @@ const allTranslations =
             "Deals 500% damage to the target.",
             "Deals additional 200% damage to as many random enemies as there are Dark tiles on the board, up to a maximum 12 hits. The damage is reduced on each consecutive hit.",
             "All hit targets get -35% defense against Dark, and a further -5% decrease every time they are hit for 4 turns."
+        ]
+    },
+    {
+        "heroId": "mimic_food_purple",
+        "name": "Food Mimic Dark",
+        "effects": [
+            "Deals 500% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "Heals all allies for 30% of damage dealt.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {

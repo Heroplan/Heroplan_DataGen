@@ -2814,7 +2814,7 @@ const translatedEffectsCN =
     },
     {
         "heroId": "fables_rumpelstiltskin",
-        "name": "Rumpel-stiltskin",
+        "name": "Rumpelstiltskin",
         "effects": [
             "抽取一张特殊效果卡片：",
             "骨骼：",
@@ -2830,7 +2830,7 @@ const translatedEffectsCN =
     },
     {
         "heroId": "fables_rumpelstiltskin_costume_eternal",
-        "name": "Rumpel-stiltskin C1",
+        "name": "Rumpelstiltskin C1",
         "effects": [
             "抽取一张特殊效果卡片：",
             "骨骼：",
@@ -8841,6 +8841,16 @@ const translatedEffectsCN =
             "对目标造成 500% 伤害。",
             "面板上有多少个暗黑系方块，就随机对同样数量的敌人造成额外 200% 的伤害，最多可命中 12 次。每下攻击的伤害都会递减。",
             "所有被击中的目标获得对暗黑系 -35% 防御，且每次被击中后额外降低 -5% 防御，持续 4 回合。"
+        ]
+    },
+    {
+        "heroId": "mimic_food_purple",
+        "name": "Food Mimic Dark",
+        "effects": [
+            "对目标造成 500% 伤害。",
+            "若目标被该攻击击败，施法者将获得 +33% 法力。",
+            "为所有盟友恢复等同于所造成伤害 30% 的生命值。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
