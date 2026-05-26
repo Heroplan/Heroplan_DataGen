@@ -7041,6 +7041,16 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C1",
+        "passives": [
+            "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
+            "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
+            "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 388 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
+            "* 燃燒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+        ]
+    },
+    {
         "heroId": "outlaw_hu_sanniang",
         "name": "Hu Sanniang",
         "passives": [
@@ -13686,11 +13696,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "name": "Hreidmarr C",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_rudraditya",

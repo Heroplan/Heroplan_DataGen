@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (578 / 0)
+✅ 成功匹配的服装 (579 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -367,6 +367,7 @@ Name: Master Lepus Costume1, Fancy Name: Rift Breaker
 Name: Tyrum Costume1, Fancy Name: Roman Remnant
 Name: Gan Ju Costume1, Fancy Name: Root of Bamboo
 Name: Sargasso Costume1, Fancy Name: Rotten Captain of Corellia
+Name: Hreidmarr costume1, Fancy Name: Royal Dwarven Trader
 Name: Isarnia Costume2, Fancy Name: Ruler of Glaceholm
 Name: Rochefort costume1, Fancy Name: Ruthless Rat-Catcher
 Name: Prof Lidenbrock Costume1, Fancy Name: Sagacious Jeweler

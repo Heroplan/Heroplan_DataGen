@@ -47509,5 +47509,31 @@ window.allHeroesExtra = [
             "mimic_food_purple"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Hreidmarr costume1",
+        "fancy name": "Royal Dwarven Trader",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-05-25",
+        "AetherPower": "Boosted Regen",
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "baseAttack": 566,
+        "baseDefense": 573,
+        "baseHealth": 1113,
+        "specialId": "dwarven_kings_levy",
+        "specialId_costume": "dwarven_traders_deal",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "13%",
+        "healthBonus": "15%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
     }
 ];

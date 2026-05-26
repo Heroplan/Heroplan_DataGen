@@ -53,7 +53,7 @@ const allTranslations =
         "heroId": "tales2_bryggvir",
         "name": "Bryggvir",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -469,7 +469,7 @@ const allTranslations =
         "heroId": "tales2_dain",
         "name": "Dain",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -1549,7 +1549,7 @@ const allTranslations =
         "heroId": "tales2_hogne",
         "name": "Hogne",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -2393,7 +2393,7 @@ const allTranslations =
         "heroId": "tales2_svafa",
         "name": "Svafa",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -3519,7 +3519,7 @@ const allTranslations =
         "heroId": "tales2_snorri",
         "name": "Snorri",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -3907,7 +3907,7 @@ const allTranslations =
         "heroId": "tales2_dagr",
         "name": "Dagr",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -3917,7 +3917,7 @@ const allTranslations =
         "heroId": "tales2_dagr_costume_plague_shaman",
         "name": "Dagr C1",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 415 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -4150,7 +4150,7 @@ const allTranslations =
         "heroId": "tales2_fafnir",
         "name": "Fafnir",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -6750,7 +6750,7 @@ const allTranslations =
         "heroId": "tales2_dularfulr",
         "name": "Dularfulr",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -7034,9 +7034,19 @@ const allTranslations =
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C1",
+        "passives": [
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 388 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -8003,7 +8013,7 @@ const allTranslations =
         "heroId": "tales2_thrivaldi",
         "name": "Thrivaldi",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -9137,7 +9147,7 @@ const allTranslations =
         "heroId": "tales2_aethslegaur",
         "name": "Aethslegaur",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -9853,7 +9863,7 @@ const allTranslations =
         "heroId": "tales2_fimafeng",
         "name": "Fimafeng",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -12044,7 +12054,7 @@ const allTranslations =
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -12321,7 +12331,7 @@ const allTranslations =
         "heroId": "tales2_gandr",
         "name": "Gandr",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -12331,7 +12341,7 @@ const allTranslations =
         "heroId": "tales2_gandr_costume_guardian",
         "name": "Gandr C1",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 387 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -12936,7 +12946,7 @@ const allTranslations =
         "heroId": "tales2_motsognir",
         "name": "Motsognir",
         "passives": [
-            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -13686,11 +13696,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "name": "Hreidmarr C",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_rudraditya",

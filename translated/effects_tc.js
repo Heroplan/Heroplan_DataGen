@@ -9068,6 +9068,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C1",
+        "effects": [
+            "使用火風暴打擊攻擊所有敵人，造成最多 2500 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
+            "使所有敵人的法力減少 35%。",
+            "施放特殊技能後，施法者的法力增加 35%。",
+            "每個回合結束時，偷走所有敵人的最新的可驅散增益，並隨機分配給盟友，持續 5 個回合。"
+        ]
+    },
+    {
         "heroId": "outlaw_hu_sanniang",
         "name": "Hu Sanniang",
         "effects": [
@@ -17674,11 +17684,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "name": "Hreidmarr C",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_rudraditya",

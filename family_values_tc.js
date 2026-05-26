@@ -79,7 +79,7 @@ window.family_values = {
     "mimic": "模仿怪",
     "outlaw": "三國 - 梁山好漢",
     "mahayoddha": "瑪哈悠達", 
-    "vegetable": "蔬菜",
+    "vegetable": "挑戰 - 蔬菜",
     "beauty_beast": "聯盟 - 美女與野獸",
     "shady_scoundrels": "陰險無賴",
     "titan_hunter": "泰坦獵人召喚 - 泰坦獵人",

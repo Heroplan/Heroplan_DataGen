@@ -1,17 +1,5 @@
 [
     {
-        "name": "Hreidmarr C",
-        "fancy_name": "Royal Dwarven Trader",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-25 07:00:00",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Rudraditya",
         "fancy_name": "The Sun Warrior",
         "color": "Red",

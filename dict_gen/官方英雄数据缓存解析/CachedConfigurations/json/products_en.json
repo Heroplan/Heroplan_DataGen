@@ -15583,7 +15583,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.easter_tier2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -15621,7 +15620,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.easter_tier7",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -35867,7 +35865,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -44271,6 +44268,28 @@
           {
             "type": "Gem",
             "amount": 100
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_code_temple_energy",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "refill_energy_temple_full",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_uncommon",
+            "amount": 3
+          },
+          {
+            "type": "Avatar",
+            "id": "Son of Vayu",
+            "amount": 1
           }
         ]
       },
@@ -58413,5 +58432,5 @@
       }
     ]
   },
-  "productsConfigId": 2673200701
+  "productsConfigId": 2256847221
 }

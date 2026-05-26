@@ -7041,6 +7041,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C1",
+        "passives": [
+            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
+            "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
+            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 388 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
+            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+        ]
+    },
+    {
         "heroId": "outlaw_hu_sanniang",
         "name": "Hu Sanniang",
         "passives": [
@@ -13686,11 +13696,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "name": "Hreidmarr C",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_rudraditya",

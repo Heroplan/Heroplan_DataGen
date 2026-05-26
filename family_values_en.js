@@ -79,7 +79,7 @@ window.family_values = {
     "mimic": "Mimics",
     "outlaw": "Three Kingdoms - Outlaws",
     "mahayoddha": "Mahayoddha",
-    "vegetable": "Vegetable",
+    "vegetable": "Challenge - Vegetable",
     "beauty_beast": "Alliance - Beauty and the Beast",
     "shady_scoundrels": "Shady Scoundrel",
     "titan_hunter": "Titan Hunter Summon - Titan Hunter",

@@ -79,7 +79,7 @@ window.family_values = {
     "mimic": "拟态兽",
     "outlaw": "三国 - 梁山好汉",
     "mahayoddha":"马哈尤达",
-    "vegetable": "英勇植物",
+    "vegetable": "挑战 - 英勇植物",
     "beauty_beast": "联盟 - 美女与野兽",
     "shady_scoundrels": "暗影无赖",
     "titan_hunter": "泰坦猎手召唤 - 泰坦猎手",

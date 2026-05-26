@@ -9068,6 +9068,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C1",
+        "effects": [
+            "使用焰暴闪袭攻击所有敌人，造成最多 2500 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "使所有敌人的法力减少 35%。",
+            "施放特殊技能后，施法者的法力值提升 35%。",
+            "每回合结束时偷取全体敌人最新施加的可驱散增益并随机施放给盟友，持续 5 回合。"
+        ]
+    },
+    {
         "heroId": "outlaw_hu_sanniang",
         "name": "Hu Sanniang",
         "effects": [
@@ -17674,11 +17684,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "name": "Hreidmarr C",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_rudraditya",

@@ -9068,6 +9068,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_hreidmarr_costume_trader",
+        "name": "Hreidmarr C1",
+        "effects": [
+            "Attacks all enemies with Firestorm Strike, dealing up to 2500 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
+            "Reduces the mana of all enemies by 35%.",
+            "After the Special Skill has been cast, increases the mana of the caster by 35%.",
+            "At the end of each turn, steals the latest dispellable buff from all enemies and distributes them randomly among allies for 5 turns."
+        ]
+    },
+    {
         "heroId": "outlaw_hu_sanniang",
         "name": "Hu Sanniang",
         "effects": [
@@ -17674,11 +17684,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "tales2_hreidmarr_costume_trader",
-        "name": "Hreidmarr C",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_rudraditya",
