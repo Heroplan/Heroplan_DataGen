@@ -65,6 +65,10 @@ class Translator:
         """(静态方法) 对文本进行最终的排版美化，已包含对星号的处理。"""
         if not text: return text
         text = text.strip()
+        # 先处理倍数：数字+x（忽略大小写），在x后面加空格（除非已是行尾或后面是标点）
+        text = re.sub(r'(\d+)([xX])', r'\1\2 ', text)
+
+        # 处理普通数字（不包括后面已经跟x的数字），前后加空格
         text = re.sub(r'(\d)\s+(%)', r'\1\2', text)
         number_pattern = r'([+-]?\d+%?)'
         text = re.sub(number_pattern, r' \1 ', text)

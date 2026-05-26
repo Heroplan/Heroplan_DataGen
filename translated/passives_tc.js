@@ -10687,6 +10687,16 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "mahayoddha_rudraditya",
+        "name": "Rudraditya",
+        "passives": [
+            "受到傷害時獲得法力：",
+            "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
+            "* 每回合最多可獲得 10% 法力。",
+            "對小兵和超級小兵造成額外傷害：此角色對小兵和超級小兵造成 +150% 傷害。"
+        ]
+    },
+    {
         "heroId": "fire_god_russell",
         "name": "Russell",
         "passives": [
@@ -13696,11 +13706,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "mahayoddha_rudraditya",
-        "name": "Rudraditya",
-        "passives": []
     },
     {
         "heroId": "ninja_garnet_costume_flame",

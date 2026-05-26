@@ -78,7 +78,7 @@ window.family_values = {
     "magic_carpet": "Tower - Magic Carpet",
     "mimic": "Mimics",
     "outlaw": "Three Kingdoms - Outlaws",
-    "mahayoddha": "Mahayoddha",
+    "mahayoddha": "Windfall Temple - Mahayoddha",
     "vegetable": "Challenge - Vegetable",
     "beauty_beast": "Alliance - Beauty and the Beast",
     "shady_scoundrels": "Shady Scoundrel",

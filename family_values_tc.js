@@ -78,7 +78,7 @@ window.family_values = {
     "magic_carpet": "高塔 - 魔毯",
     "mimic": "模仿怪",
     "outlaw": "三國 - 梁山好漢",
-    "mahayoddha": "瑪哈悠達", 
+    "mahayoddha": "風降神殿 - 瑪哈悠達", 
     "vegetable": "挑戰 - 蔬菜",
     "beauty_beast": "聯盟 - 美女與野獸",
     "shady_scoundrels": "陰險無賴",

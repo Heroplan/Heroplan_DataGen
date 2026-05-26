@@ -47535,5 +47535,25 @@ window.allHeroesExtra = [
         "healthBonus": "15%",
         "manaBonus": "5%",
         "family": "nidavellir"
+    },
+    {
+        "name": "Rudraditya",
+        "fancy name": "The Sun Warrior",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-05-26",
+        "AetherPower": "Defense Up",
+        "heroId": "mahayoddha_rudraditya",
+        "baseAttack": 665,
+        "baseDefense": 676,
+        "baseHealth": 1159,
+        "specialId": "agni_talwar_takedown",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

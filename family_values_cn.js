@@ -78,7 +78,7 @@ window.family_values = {
     "magic_carpet": "高塔 - 魔毯",
     "mimic": "拟态兽",
     "outlaw": "三国 - 梁山好汉",
-    "mahayoddha":"马哈尤达",
+    "mahayoddha":"风泽神殿 - 马哈尤达",
     "vegetable": "挑战 - 英勇植物",
     "beauty_beast": "联盟 - 美女与野兽",
     "shady_scoundrels": "暗影无赖",

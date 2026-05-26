@@ -59,18 +59,21 @@ class Translator:
 
     @staticmethod
     def format_spacing(text):
-        """(静态方法) 对文本进行最终的排版美化。"""
         if not text: return text
         text = text.strip()
         
-        number_pattern = r'([+-]?\d+%?)'
-        text = re.sub(number_pattern, r' \1 ', text)
+        # 先处理倍数：数字+x（忽略大小写），在x后面加空格（除非已是行尾或后面是标点）
+        text = re.sub(r'(\d+)([xX])', r'\1\2 ', text)
+        
+        # 处理普通数字（不包括后面已经跟x的数字），前后加空格
+        text = re.sub(r'([+-]?\d+%?)(?![xX])', r' \1 ', text)
+        
+        # 后续原有的空格清理
         text = re.sub(r'\s{2,}', ' ', text)
         text = re.sub(r'\s([.:;!?%：，。！？\)])', r'\1', text)
         text = re.sub(r'([\(（])\s', r'\1', text)
         text = re.sub(r'([^\d%])\s+([,，])', r'\1\2', text)
         text = re.sub(r'([.。！？])\1+', r'\1', text)
-        # 修复范围减号的间距：将 "数字-数字"、"数字 -数字"、"数字- 数字" 统一转为 "数字 - 数字"
         text = re.sub(r'(\d)\s*-\s*(\d)', r'\1 - \2', text)
         
         return text.strip()

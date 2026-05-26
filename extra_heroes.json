@@ -1,17 +1,5 @@
 [
     {
-        "name": "Rudraditya",
-        "fancy_name": "The Sun Warrior",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-26 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_rudraditya",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Garnet C",
         "fancy_name": "Ninja of Flaming Vigor",
         "color": "Red",
