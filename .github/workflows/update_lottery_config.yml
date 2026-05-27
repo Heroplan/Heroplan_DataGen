@@ -2,8 +2,8 @@ name: Update lottery_config
 
 on:
   schedule:
-    # 每天 UTC 7:01 = 北京时间 15:01
-    - cron: '1 7 * * *'
+    # 每天 UTC 7:00 = 北京时间 15:00
+    - cron: '0 7 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
