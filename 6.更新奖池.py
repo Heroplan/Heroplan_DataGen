@@ -1,13 +1,23 @@
 import json
 import os
+import sys
+import shutil
 from datetime import datetime, timedelta
 
 # ==================== 可自定义配置 ====================
-MAIN_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\shop_en.json"
-OTHER_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\other_en.json"
-PRODUCTS_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\products_en.json"
-OUTPUT_JSON_PATH = r"..\Heroplan.github.io\lottery_config.json"
+# 输入文件相对路径（相对于脚本所在目录）
+INPUT_PATHS = {
+    "main": os.path.join("dict_gen", "官方英雄数据缓存解析", "CachedConfigurations", "json", "shop_en.json"),
+    "other": os.path.join("dict_gen", "官方英雄数据缓存解析", "CachedConfigurations", "json", "other_en.json"),
+    "products": os.path.join("dict_gen", "官方英雄数据缓存解析", "CachedConfigurations", "json", "products_en.json"),
+}
 
+OUTPUT_FILENAME = "lottery_config.json"
+
+# 本地模式下，相对于脚本所在目录的 Heroplan.github.io 路径
+LOCAL_TARGET_REL_PATH = os.path.join("..", "Heroplan.github.io")
+
+# ==================== 奖池配置（完全保留原有） ====================
 TARGET_POOLS = {
     "lottery_black_default": "lottery_black_default",
     "lottery_black_7th_birthday": "lottery_black_7th_birthday",
@@ -53,7 +63,6 @@ TARGET_POOLS = {
     "lottery_hero_christmas": "lottery_hero_christmas",
 }
 
-# 从 other 文件提取的映射（塔、活动）
 POOL_SOURCE_MAP = {
     "lottery_tower_ninja_default": {
         "path": ["otherConfig", "logic", "events", "towerEventConfig", "towerEventEntries"],
@@ -99,7 +108,6 @@ POOL_SOURCE_MAP = {
     }
 }
 
-# 从 products 文件提取的映射（节日、特殊召唤）
 PRODUCTS_SOURCE_MAP = {
     "lottery_hero_lunar_new_year_2026": {
         "path": ["productsConfig", "products"],
@@ -171,7 +179,6 @@ PRODUCTS_SOURCE_MAP = {
     },
 }
 
-# 从 playerSelectedFeaturedEntityConfigs 中提取 entitiesToChooseFrom 的映射
 PLAYER_SELECTED_ENTITIES_MAP = {
     "lottery_black_7th_birthday": {
         "path": ["shopConfig", "lottery", "playerSelectedFeaturedEntityConfigs"],
@@ -186,7 +193,47 @@ PLAYER_SELECTED_ENTITIES_MAP = {
         "match_key": "summonId",
     }
 }
-# ====================================================
+
+# ==================== 辅助函数 ====================
+def get_script_dir():
+    """返回当前脚本所在目录的绝对路径"""
+    return os.path.dirname(os.path.abspath(__file__))
+
+def is_github_actions():
+    return os.getenv("GITHUB_ACTIONS") == "true"
+
+def get_output_path(script_dir):
+    """根据环境决定输出文件的最终路径"""
+    if is_github_actions():
+        # Actions 环境：输出到当前工作目录（仓库根目录）
+        return os.path.join(os.getcwd(), OUTPUT_FILENAME)
+    else:
+        # 本地环境：输出到脚本所在目录
+        return os.path.join(script_dir, OUTPUT_FILENAME)
+
+def sync_from_target_if_newer(local_path, target_path):
+    """如果目标文件存在且比本地文件新，则复制目标文件到本地"""
+    if not os.path.exists(target_path):
+        return False
+    if not os.path.exists(local_path):
+        shutil.copy2(target_path, local_path)
+        print(f"📥 本地文件不存在，已从 {target_path} 复制到 {local_path}")
+        return True
+    local_mtime = os.path.getmtime(local_path)
+    target_mtime = os.path.getmtime(target_path)
+    if target_mtime > local_mtime:
+        shutil.copy2(target_path, local_path)
+        print(f"📥 目标文件较新，已从 {target_path} 同步到 {local_path}")
+        return True
+    else:
+        print(f"✅ 本地文件已是最新，无需从目标同步")
+        return False
+
+def sync_to_target(local_path, target_path):
+    """将本地文件复制到目标路径（覆盖）"""
+    os.makedirs(os.path.dirname(target_path), exist_ok=True)
+    shutil.copy2(local_path, target_path)
+    print(f"📤 已同步到目标：{target_path}")
 
 def parse_date(date_str: str):
     try:
@@ -308,7 +355,6 @@ def extract_from_products(products_data, rule):
 
 def extract_from_player_selected_entities(main_data, target_id):
     """从 playerSelectedFeaturedEntityConfigs 中提取 entitiesToChooseFrom"""
-    # 按照固定路径导航
     try:
         target_list = main_data
         for key in ["shopConfig", "lottery", "playerSelectedFeaturedEntityConfigs"]:
@@ -368,12 +414,31 @@ def process_super_elemental(lottery_data, now):
         result[f"featuredHeroes_{color}"] = closest[1]
     return result
 
+# ==================== 主函数 ====================
 def main():
+    script_dir = get_script_dir()
+    output_path = get_output_path(script_dir)
+    print(f"输出文件路径：{output_path}")
+
+    # 本地模式下，检查并同步来自 Heroplan.github.io 的旧文件
+    if not is_github_actions():
+        target_dir = os.path.join(script_dir, LOCAL_TARGET_REL_PATH)
+        target_file = os.path.join(target_dir, OUTPUT_FILENAME)
+        if os.path.exists(target_dir):
+            sync_from_target_if_newer(output_path, target_file)
+        else:
+            print(f"⚠️ 本地目标目录不存在：{target_dir}，将跳过同步")
+
+    # 构建输入文件的绝对路径
+    main_json_path = os.path.join(script_dir, INPUT_PATHS["main"])
+    other_json_path = os.path.join(script_dir, INPUT_PATHS["other"])
+    products_json_path = os.path.join(script_dir, INPUT_PATHS["products"])
+
     # 读取主配置
-    if not os.path.isfile(MAIN_JSON_PATH):
-        print(f"错误：主文件不存在 - {MAIN_JSON_PATH}")
+    if not os.path.isfile(main_json_path):
+        print(f"错误：主文件不存在 - {main_json_path}")
         return
-    with open(MAIN_JSON_PATH, "r", encoding="utf-8") as f:
+    with open(main_json_path, "r", encoding="utf-8") as f:
         main_data = json.load(f)
     try:
         lottery_data = main_data["shopConfig"]["lottery"]
@@ -383,21 +448,21 @@ def main():
 
     # 读取 other 配置
     other_data = None
-    if os.path.isfile(OTHER_JSON_PATH):
-        with open(OTHER_JSON_PATH, "r", encoding="utf-8") as f:
+    if os.path.isfile(other_json_path):
+        with open(other_json_path, "r", encoding="utf-8") as f:
             other_data = json.load(f)
-        print(f"已加载Other文件: {OTHER_JSON_PATH}")
+        print(f"已加载Other文件: {other_json_path}")
     else:
-        print(f"警告：Other文件不存在 - {OTHER_JSON_PATH}")
+        print(f"警告：Other文件不存在 - {other_json_path}")
 
     # 读取 products 配置
     products_data = None
-    if os.path.isfile(PRODUCTS_JSON_PATH):
-        with open(PRODUCTS_JSON_PATH, "r", encoding="utf-8") as f:
+    if os.path.isfile(products_json_path):
+        with open(products_json_path, "r", encoding="utf-8") as f:
             products_data = json.load(f)
-        print(f"已加载Products文件: {PRODUCTS_JSON_PATH}")
+        print(f"已加载Products文件: {products_json_path}")
     else:
-        print(f"警告：Products文件不存在 - {PRODUCTS_JSON_PATH}")
+        print(f"警告：Products文件不存在 - {products_json_path}")
 
     # 获取当前时间，并根据下午3点规则调整基准时间
     now = datetime.now()
@@ -415,7 +480,7 @@ def main():
 
         # 1. 特殊处理超级元素池（需要日期比较）
         if target_id == "lottery_super_elemental":
-            config = process_super_elemental(lottery_data, adjusted_now)   # 传递 adjusted_now
+            config = process_super_elemental(lottery_data, adjusted_now)
             if config:
                 print(f"✓ 特殊处理超级元素池: {target_id} -> {output_key}")
             else:
@@ -441,7 +506,7 @@ def main():
         # 4. 从 other 文件提取（需要日期比较）
         elif target_id in POOL_SOURCE_MAP and other_data is not None:
             rule = POOL_SOURCE_MAP[target_id]
-            config = extract_from_other(other_data, rule, adjusted_now)   # 传递 adjusted_now
+            config = extract_from_other(other_data, rule, adjusted_now)
             if config:
                 print(f"✓ 从Other文件提取: {target_id} -> {output_key}")
             else:
@@ -449,7 +514,7 @@ def main():
 
         # 5. 默认从主文件提取（需要日期比较）
         else:
-            config = extract_from_main(lottery_data, target_id, adjusted_now)   # 传递 adjusted_now
+            config = extract_from_main(lottery_data, target_id, adjusted_now)
             if config:
                 print(f"✓ 从主文件提取: {target_id} -> {output_key}")
             else:
@@ -465,9 +530,9 @@ def main():
         print("没有提取到任何池子，退出")
         return
 
-    # 读取已有输出文件，保留其他配置
-    if os.path.isfile(OUTPUT_JSON_PATH):
-        with open(OUTPUT_JSON_PATH, "r", encoding="utf-8") as f:
+    # 读取已有输出文件（如果存在），保留其他配置
+    if os.path.isfile(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
             output_data = json.load(f)
     else:
         output_data = {}
@@ -485,13 +550,24 @@ def main():
             output_data["SummonPool"][output_key] = new_config
             print(f"  已添加新池子 '{output_key}'")
 
-    os.makedirs(os.path.dirname(OUTPUT_JSON_PATH), exist_ok=True)
-    with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-    print(f"\n✅ 已更新配置文件：{OUTPUT_JSON_PATH}")
+    print(f"\n✅ 已更新配置文件：{output_path}")
     print(f"   更新/添加了 {len(new_pools)} 个召唤池")
+
+    # 本地模式下，将新生成的文件同步回 Heroplan.github.io
+    if not is_github_actions():
+        target_dir = os.path.join(script_dir, LOCAL_TARGET_REL_PATH)
+        target_file = os.path.join(target_dir, OUTPUT_FILENAME)
+        if os.path.exists(target_dir):
+            sync_to_target(output_path, target_file)
+        else:
+            print(f"⚠️ 本地目标目录不存在，无法同步：{target_dir}")
 
 if __name__ == "__main__":
     main()
-    input()
+    # 仅在非 GitHub Actions 且是交互式终端时才等待输入
+    if not is_github_actions() and sys.stdin.isatty():
+        input("按回车键退出...")
