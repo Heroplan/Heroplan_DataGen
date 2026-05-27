@@ -464,14 +464,14 @@ def main():
     else:
         print(f"警告：Products文件不存在 - {products_json_path}")
 
-    # 获取当前时间，并根据下午3点规则调整基准时间
-    now = datetime.now()
-    if now.hour < 15:
-        adjusted_now = now - timedelta(days=1)
-        print(f"当前本地时间 {now.strftime('%Y-%m-%d %H:%M:%S')} 早于15:00，将基准日期调整为 {adjusted_now.strftime('%Y-%m-%d')}")
+    # 获取当前UTC时间
+    now_utc = datetime.utcnow()
+    if now_utc.hour < 7:
+        adjusted_now = now_utc - timedelta(days=1)
+        print(f"当前UTC时间 {now_utc.strftime('%Y-%m-%d %H:%M:%S')} 早于07:00，将基准日期调整为 {adjusted_now.strftime('%Y-%m-%d')}")
     else:
-        adjusted_now = now
-        print(f"当前本地时间 {now.strftime('%Y-%m-%d %H:%M:%S')} 已达到或超过15:00，使用实际日期作为基准")
+        adjusted_now = now_utc
+        print(f"当前UTC时间 {now_utc.strftime('%Y-%m-%d %H:%M:%S')} 已达到或超过07:00，使用实际日期作为基准")
 
     new_pools = {}
 
