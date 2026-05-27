@@ -17849,12 +17849,8 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
-                    "Status - Dispel Buffs"
-                ]
-            },
-            {
                 "负面效果": [
+                    "Dmg - DoT : Water",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -34482,7 +34478,7 @@ window.allHeroes =
             "All allies get Sticky surface for 4 turns. This effect can't be dispelled.",
             "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)",
             "All allies get +30% defense for 4 turns.",
-            "All allies are immune to buff dispels and relocations for 4 turns. (This immunity also includes this effect itself.)"
+            "All allies are immune to buff dispels and reallocations for 4 turns. (This immunity also includes this effect itself.)"
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -77353,7 +77349,7 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Single",
-                    "Atk - Chain"
+                    "Atk - Extra Attack"
                 ]
             },
             {
@@ -86839,7 +86835,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Counterattack"
+                    "Status - Reflect Ailments"
                 ]
             },
             {

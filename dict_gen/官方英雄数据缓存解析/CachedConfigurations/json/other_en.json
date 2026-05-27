@@ -1178,7 +1178,7 @@
         "challengeEventSummonEnabled": true,
         "seasonalEventsEnabled": true,
         "seasonalSummonEnabled": true,
-        "allianceQuestsEnabled": false,
+        "allianceQuestsEnabled": true,
         "allianceQuestSummonEnabled": true,
         "covenantQuestsEnabled": true,
         "treasureQuestsEnabled": true,
@@ -59628,38 +59628,38 @@
                   "cost": 5,
                   "exchangesAvailable": 1,
                   "heroes": [
-                    "ballerina_phantom_of_the_opera",
-                    "bard_ogima",
-                    "fire_god_eliane",
-                    "castle_stag_lysanor",
-                    "champions_nogu"
+                    "shadow_asketel",
+                    "astral_moonbell",
+                    "slime_charmione",
+                    "tales1_atlanteia_costume_siren",
+                    "garrison_theodosius"
                   ]
                 },
                 {
                   "cost": 15,
                   "exchangesAvailable": 1,
                   "heroes": [
-                    "construct_carta",
-                    "castle_stag_alvar",
-                    "astral_sparklight",
-                    "champions_satori",
-                    "ballerina_daroga"
+                    "moth_mortewitch",
+                    "garrison_frank_fangs_brimwell",
+                    "s5_hathor_costume_starlit",
+                    "beowulf_modthryth",
+                    "slime_fungustine"
                   ]
                 },
                 {
                   "cost": 30,
                   "exchangesAvailable": 1,
                   "heroes": [
-                    "goblin_darkfeather",
-                    "astral_lemonwood",
-                    "castle_stag_daemon",
-                    "s5_hetepheres_costume_spa",
-                    "gargoyle_mena"
+                    "magic_carpet_agadh",
+                    "bard_astrid",
+                    "astral_dwarf_ceris",
+                    "fox_riverfang",
+                    "tales2_fafnir"
                   ]
                 }
               ],
-              "startTime": "2030-05-28 07:00:00",
-              "endTime": "2030-05-31 07:00:00"
+              "startTime": "2026-05-28 07:00:00",
+              "endTime": "2026-05-31 07:00:00"
             }
           ]
         }
@@ -93390,8 +93390,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "85.0.2",
     "maxVersionToShowUpdateOutReminderIos": "85.0.3",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "85.0.2",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "86.0.0",
+    "standaloneNewVersionRolloutPercentage": 20,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -93496,5 +93496,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1898498165
+  "otherConfigId": 106515086
 }

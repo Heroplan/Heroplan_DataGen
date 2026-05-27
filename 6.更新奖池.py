@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # ==================== 可自定义配置 ====================
 MAIN_JSON_PATH = r".\dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\shop_en.json"
@@ -399,21 +399,29 @@ def main():
     else:
         print(f"警告：Products文件不存在 - {PRODUCTS_JSON_PATH}")
 
+    # 获取当前时间，并根据下午3点规则调整基准时间
     now = datetime.now()
+    if now.hour < 15:
+        adjusted_now = now - timedelta(days=1)
+        print(f"当前本地时间 {now.strftime('%Y-%m-%d %H:%M:%S')} 早于15:00，将基准日期调整为 {adjusted_now.strftime('%Y-%m-%d')}")
+    else:
+        adjusted_now = now
+        print(f"当前本地时间 {now.strftime('%Y-%m-%d %H:%M:%S')} 已达到或超过15:00，使用实际日期作为基准")
+
     new_pools = {}
 
     for target_id, output_key in TARGET_POOLS.items():
         config = None
 
-        # 1. 特殊处理超级元素池
+        # 1. 特殊处理超级元素池（需要日期比较）
         if target_id == "lottery_super_elemental":
-            config = process_super_elemental(lottery_data, now)
+            config = process_super_elemental(lottery_data, adjusted_now)   # 传递 adjusted_now
             if config:
                 print(f"✓ 特殊处理超级元素池: {target_id} -> {output_key}")
             else:
                 print(f"✗ 超级元素池未找到任何颜色条目: {target_id}")
 
-        # 2. 从 playerSelectedFeaturedEntityConfigs 提取 entitiesToChooseFrom
+        # 2. 从 playerSelectedFeaturedEntityConfigs 提取（不需要日期比较）
         elif target_id in PLAYER_SELECTED_ENTITIES_MAP:
             config = extract_from_player_selected_entities(main_data, target_id)
             if config:
@@ -421,7 +429,7 @@ def main():
             else:
                 print(f"✗ PlayerSelectedEntities未找到匹配: {target_id}")
 
-        # 3. 从 products 文件提取
+        # 3. 从 products 文件提取（不需要日期比较）
         elif target_id in PRODUCTS_SOURCE_MAP and products_data is not None:
             rule = PRODUCTS_SOURCE_MAP[target_id]
             config = extract_from_products(products_data, rule)
@@ -430,18 +438,18 @@ def main():
             else:
                 print(f"✗ Products文件未找到匹配: {target_id}")
 
-        # 4. 从 other 文件提取
+        # 4. 从 other 文件提取（需要日期比较）
         elif target_id in POOL_SOURCE_MAP and other_data is not None:
             rule = POOL_SOURCE_MAP[target_id]
-            config = extract_from_other(other_data, rule, now)
+            config = extract_from_other(other_data, rule, adjusted_now)   # 传递 adjusted_now
             if config:
                 print(f"✓ 从Other文件提取: {target_id} -> {output_key}")
             else:
                 print(f"✗ Other文件未找到匹配: {target_id}")
 
-        # 5. 默认从主文件提取
+        # 5. 默认从主文件提取（需要日期比较）
         else:
-            config = extract_from_main(lottery_data, target_id, now)
+            config = extract_from_main(lottery_data, target_id, adjusted_now)   # 传递 adjusted_now
             if config:
                 print(f"✓ 从主文件提取: {target_id} -> {output_key}")
             else:

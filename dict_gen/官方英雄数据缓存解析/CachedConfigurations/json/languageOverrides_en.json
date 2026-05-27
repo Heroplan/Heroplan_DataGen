@@ -478,6 +478,18 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "這些物品將會發放到聯盟成員的收件匣。\n\n每檔庫存優惠的聯盟禮物最多可被領取29次。你本人將不會收到這些寶石。\n\n如果你未加入聯盟，這些寶石不會發放。"
+          },
+          {
+            "key": "specials.v2.directeffect.damage.single.enemies",
+            "text": "對目標造成{HEALTH}%傷害。"
+          },
+          {
+            "key": "specials.v2.directeffect.damage.single.enemies.strong_against_purple",
+            "text": "對目標造成{HEALTH}%傷害。如果目標為[##elementpurple]暗黑[#]系，再造成額外傷害。"
+          },
+          {
+            "key": "specials.v2.directeffect.damage.single.enemies.strong_against_yellow",
+            "text": "對目標造成{HEALTH}%傷害。如果目標為[##elementyellow]神聖系[#]，再造成額外傷害。"
           }
         ]
       },
@@ -2447,5 +2459,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 1334775567
+  "languageOverridesConfigId": 235755516
 }

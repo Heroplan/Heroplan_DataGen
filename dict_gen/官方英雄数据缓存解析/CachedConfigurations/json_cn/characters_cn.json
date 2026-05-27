@@ -36192,7 +36192,6 @@
     "specialId": "wicked_lick_purple",
     "canBeReceivedDate": "2026-05-25 07:00:00",
     "origin": "SecretSummonFoodMimicPurple",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "ghost_hei_wu_chang": {

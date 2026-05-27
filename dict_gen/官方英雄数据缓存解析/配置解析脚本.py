@@ -87,11 +87,11 @@ async def main():
         os.startfile(caller_dir)
 
         # 启动 WinMerge
-        winmerge_path = r"E:\vsstart\tools\文本类工具\文本编辑工具\WinMerge\WinMergeU.exe"
-        if os.path.exists(winmerge_path):
-            subprocess.Popen([winmerge_path])
-        else:
-            print(f"⚠️ 未找到 WinMerge 可执行文件: {winmerge_path}")
+        #winmerge_path = r"E:\vsstart\tools\文本类工具\文本编辑工具\WinMerge\WinMergeU.exe"
+        #if os.path.exists(winmerge_path):
+        #    subprocess.Popen([winmerge_path])
+        #else:
+        #    print(f"⚠️ 未找到 WinMerge 可执行文件: {winmerge_path}")
     except Exception as e:
         print(f"⚠️ 打开目录或 WinMerge 时出错: {e}")
 
