@@ -2,7 +2,7 @@ import json
 import os
 import sys
 import shutil
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 
 # ==================== 可自定义配置 ====================
 # 输入文件相对路径（相对于脚本所在目录）
@@ -465,7 +465,7 @@ def main():
         print(f"警告：Products文件不存在 - {products_json_path}")
 
     # 获取当前UTC时间
-    now_utc = datetime.utcnow()
+    now_utc = datetime.now(UTC)
     if now_utc.hour < 7:
         adjusted_now = now_utc - timedelta(days=1)
         print(f"当前UTC时间 {now_utc.strftime('%Y-%m-%d %H:%M:%S')} 早于07:00，将基准日期调整为 {adjusted_now.strftime('%Y-%m-%d')}")
