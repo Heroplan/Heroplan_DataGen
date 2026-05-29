@@ -156,66 +156,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Khagan Stylish",
-        "fancy_name": "Chief of Style",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "tribal_chief_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Gormek Stylish",
-        "fancy_name": "Stylish Connoisseur",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "orc_troopmaster_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Little John Stylish",
-        "fancy_name": "Stylish Brother",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "forest_woodsman_warrior_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Bane Stylish",
-        "fancy_name": "Stylish Brawler",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "oriental_brawler_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Berden Stylish",
-        "fancy_name": "Stylish Archer",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "forest_archer_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Belladonna C",
         "fancy_name": "bard_belladonna_costume_ratcatcher",
         "color": "Purple",
@@ -429,18 +369,6 @@
         "family": "musketeer",
         "costume_id": 1,
         "heroId": "musketeer_queen_anne_costume_commander",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cardinal Richelieu C",
-        "fancy_name": "Duplicitous Ambassador",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
         "Lottery_Only": 1
     },
     {
@@ -804,18 +732,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Jacques-Pierre",
-        "fancy_name": "Beauty's Father, the Famous Inventor",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_jacquespierre",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Henriette",
         "fancy_name": "beauty_beast_henriette",
         "color": "Purple",
@@ -972,18 +888,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Elx",
-        "fancy_name": "Mage's Vessel Construct",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_elx",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Nepant",
         "fancy_name": "Junkyard Squire Construct",
         "color": "Green",
@@ -1032,18 +936,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Food Mimic",
-        "fancy_name": "Flesh-eating Chest",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_food_purple",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zurrumurgh",
         "fancy_name": "Astral Demon Spirit Whisperer",
         "color": "Green",
@@ -1053,18 +945,6 @@
         "family": "astral_demons",
         "costume_id": 0,
         "heroId": "astral_demon_zurrumurgh",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Madarika",
-        "fancy_name": "Astral Demon Femme Fatale",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_madarika",
         "Lottery_Only": 1
     },
     {
