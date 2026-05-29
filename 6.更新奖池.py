@@ -61,7 +61,7 @@ TARGET_POOLS = {
     "lottery_hero_halloween": "lottery_hero_halloween",
     "lottery_seasonal_premium_halloween": "lottery_seasonal_premium_halloween",
     "lottery_hero_christmas": "lottery_hero_christmas",
-    # 联赛奖池
+    # 英雄锦标赛奖池
     "lottery_league_default": "lottery_league_default",
 }
 
@@ -416,7 +416,7 @@ def process_super_elemental(lottery_data, now):
         result[f"featuredHeroes_{color}"] = closest[1]
     return result
 
-# 提取联盟召唤池配置
+# 提取英雄锦标赛奖池配置
 def extract_league_lottery(main_data, other_data, now):
     """
     从主文件中找到最合适的 lottery_league_default 条目，
@@ -445,7 +445,7 @@ def extract_league_lottery(main_data, other_data, now):
     search_league_entries(main_data)
 
     if not candidates:
-        print("  [联盟池] 未找到任何 lottery_league_default 条目")
+        print("  [英雄锦标赛奖池] 未找到任何 lottery_league_default 条目")
         return None
 
     # 选择最接近 now 的条目
@@ -460,7 +460,7 @@ def extract_league_lottery(main_data, other_data, now):
     best_start_str = best_candidate[1]
     best_config = best_candidate[2]
 
-    print(f"  [联盟池] 选中的条目 startDate = {best_start_str} (日期: {best_date.date()})")
+    print(f"  [英雄锦标赛奖池] 选中的条目 startDate = {best_start_str} (日期: {best_date.date()})")
 
     result = {}
     if "amountOfSelectableFeaturedSlots" in best_config:
@@ -494,7 +494,7 @@ def extract_league_lottery(main_data, other_data, now):
                     continue
 
         if event_entries is None:
-            print("  [联盟池] 警告: 无法在 other 数据中找到 pvpLeague.eventEntries")
+            print("  [英雄锦标赛奖池] 警告: 无法在 other 数据中找到 pvpLeague.eventEntries")
         else:
             # 收集所有有效的 (日期, featuredFamilies) 对
             family_candidates = []
@@ -509,7 +509,7 @@ def extract_league_lottery(main_data, other_data, now):
                 if families and isinstance(families, list):
                     family_candidates.append((date, families))
             if not family_candidates:
-                print("  [联盟池] 未找到任何有效的 featuredFamilies 条目")
+                print("  [英雄锦标赛奖池] 未找到任何有效的 featuredFamilies 条目")
             else:
                 # 使用与主文件相同的排序规则：按绝对天数差，过去优先权重稍低（未来优先）
                 target_date = best_date.date()
@@ -520,9 +520,9 @@ def extract_league_lottery(main_data, other_data, now):
                     return (abs_days, is_past)
                 best_family = min(family_candidates, key=sort_family_key)
                 result["AssociatedFamilies"] = best_family[1]
-                print(f"  [联盟池] 匹配到最接近的 featuredFamilies，日期: {best_family[0].date()}，共 {len(best_family[1])} 个家族")
+                print(f"  [英雄锦标赛奖池] 匹配到最接近的 featuredFamilies，日期: {best_family[0].date()}，共 {len(best_family[1])} 个家族")
     else:
-        print("  [联盟池] other_data 为空，无法获取 AssociatedFamilies")
+        print("  [英雄锦标赛奖池] other_data 为空，无法获取 AssociatedFamilies")
 
     # 3. 计算 latestIncludedHeroDate
     try:
@@ -531,7 +531,7 @@ def extract_league_lottery(main_data, other_data, now):
             new_date = start_dt - timedelta(days=180)
             result["latestIncludedHeroDate"] = new_date.strftime("%Y-%m-%d")
     except Exception as e:
-        print(f"  [联盟池] 计算 latestIncludedHeroDate 失败: {e}")
+        print(f"  [英雄锦标赛奖池] 计算 latestIncludedHeroDate 失败: {e}")
 
     if not result:
         return None
@@ -635,13 +635,13 @@ def main():
             else:
                 print(f"✗ Other文件未找到匹配: {target_id}")
 
-        # 特殊处理联盟召唤池
+        # 特殊处理英雄锦标赛奖池
         elif target_id == "lottery_league_default":
             config = extract_league_lottery(main_data, other_data, adjusted_now)
             if config:
-                print(f"✓ 联盟召唤池特殊提取: {target_id} -> {output_key}")
+                print(f"✓ 英雄锦标赛奖池特殊提取: {target_id} -> {output_key}")
             else:
-                print(f"✗ 联盟召唤池提取失败: {target_id}")
+                print(f"✗ 英雄锦标赛奖池提取失败: {target_id}")
 
         # 5. 默认从主文件提取（需要日期比较）
         else:
