@@ -746,7 +746,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 6650,
+          "powerMultiplierPerMil": 5950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -755,13 +755,13 @@
             "id": "damage_on_removal_ingenious_bomb1",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
-            "turns": 4
+            "turns": 3
           },
           {
             "id": "heal_on_removal_ingenious_stabilizer1",
             "sideAffected": "Allies",
             "statusTargetType": "Random",
-            "turns": 4
+            "turns": 3
           }
         ]
       },
@@ -771,7 +771,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5650,
+          "powerMultiplierPerMil": 4650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -780,13 +780,13 @@
             "id": "damage_on_removal_ingenious_bomb2",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
-            "turns": 4
+            "turns": 3
           },
           {
             "id": "heal_on_removal_ingenious_stabilizer2",
             "sideAffected": "Allies",
             "statusTargetType": "Random",
-            "turns": 4
+            "turns": 3
           }
         ]
       },
@@ -22996,7 +22996,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3350,
+          "powerMultiplierPerMil": 3250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -56280,15 +56280,13 @@
         "id": "ocarina_of_sorrow",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "Single",
-          "effectType": "Damage",
-          "powerMultiplierPerMil": 3600,
-          "powerMultiplierIncrementPerLevelPerMil": 200
+          "typeOfTarget": "All"
         },
         "maxLevel": 8,
-        "buffToRemove": "MinorBuff",
-        "buffToRemoveTargetType": "Single",
-        "removeBuffsFirst": true,
+        "properties": [
+          "bypass_defensive_buffs_always",
+          "damage_mina"
+        ],
         "statusEffects": [
           {
             "id": "poison_mina",
@@ -57954,7 +57952,7 @@
         "directEffect": {
           "sideAffected": "Allies",
           "typeOfTarget": "Single",
-          "powerMultiplierPerMil": 260,
+          "powerMultiplierPerMil": 280,
           "powerMultiplierIncrementPerLevelPerMil": 20
         },
         "maxLevel": 8,
@@ -57969,7 +57967,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3400,
+          "powerMultiplierPerMil": 3200,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58015,8 +58013,7 @@
         "maxLevel": 8,
         "properties": [
           "bypass_counterattack_and_reflect",
-          "damage_lowest_hp_enemy_madarika",
-          "damage_highest_hp_enemy_madarika"
+          "chain_strike_madarika"
         ]
       },
       {
@@ -60067,7 +60064,7 @@
           }
         ],
         "consecutiveHitDamageReductionPerMil": 50,
-        "extraHitPowerPerMil": 1250,
+        "extraHitPowerPerMil": 950,
         "extraHitPowerIncrementPerLevelPerMil": 50,
         "countedFamiliarTypes": [
           "Minion",
@@ -62547,7 +62544,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_misty_rogue",
-        "powerMultiplierPerMil": 1650,
+        "powerMultiplierPerMil": 2400,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -68228,7 +68225,7 @@
         "propertyType": "ThresholdChainStrike",
         "id": "chain_strike_zerfain",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2800,
+        "powerMultiplierPerMil": 2300,
         "powerMultiplierIncrementPerLevelPerMil": 100,
         "consecutiveHitDamageReductionPerMil": 251,
         "preferTargetsThatFulfillCondition": true,
@@ -68547,7 +68544,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "health_boost_bubo",
-        "fixedPower": 1050,
+        "fixedPower": 1200,
         "fixedPowerIncrementPerLevel": 50,
         "effectType": "HealthBoost",
         "targetType": "All",
@@ -70722,7 +70719,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_brokhai",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3650,
+        "powerMultiplierPerMil": 2850,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -72232,7 +72229,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_elx",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 1650,
+        "powerMultiplierPerMil": 1450,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 5,
         "extraHitChancePerMil": 1000,
@@ -72646,8 +72643,34 @@
           "soul_connection_ailment",
           "brittle_more"
         ]
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_madarika",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 4650,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 2,
+        "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "stacking_received_damage_increase_madarika"
+          }
+        ],
+        "allowMainTargetInRandomTargets": true,
+        "applyStatusEffectsOnHit": true,
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "SecondaryDirectEffect",
+        "id": "damage_mina",
+        "powerMultiplierPerMil": 3600,
+        "powerMultiplierIncrementPerLevelPerMil": 200,
+        "effectType": "Damage",
+        "targetType": "Single",
+        "sideAffected": "Enemies"
       }
     ]
   },
-  "specialsConfigId": 2867069344
+  "specialsConfigId": 2694567534
 }

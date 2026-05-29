@@ -56872,7 +56872,7 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 205,
+        "fixedDamagePerTurn": 130,
         "fixedDamagePerTurnIncrementPerLevel": 10,
         "extraDamagePerTurnPerMil": 0,
         "maxExtraDamagePerTurnPerMil": 0,
@@ -56885,7 +56885,7 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 65,
+        "fixedDamagePerTurn": 75,
         "fixedDamagePerTurnIncrementPerLevel": 5,
         "extraDamagePerTurnPerMil": 0,
         "maxExtraDamagePerTurnPerMil": 0,
@@ -59493,8 +59493,9 @@
       {
         "statusEffect": "Possession",
         "id": "possession_mina",
-        "buff": "MajorDebuff",
-        "specialId": "mindless_attack"
+        "buff": "MinorDebuff",
+        "removalTrigger": "SpecialCast",
+        "specialId": "shifting_mindless_attack"
       },
       {
         "statusEffect": "ReduceMaxHealthOverTime",
@@ -61958,7 +61959,7 @@
               "Override"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 500,
+            "fixedPower": 1050,
             "fixedPowerIncrementPerLevel": 100
           }
         ]
@@ -61979,7 +61980,7 @@
               "Override"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 300,
+            "fixedPower": 600,
             "fixedPowerIncrementPerLevel": 100
           }
         ]
@@ -62000,7 +62001,7 @@
               "Override"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "powerMultiplierPerMil": 240,
+            "powerMultiplierPerMil": 260,
             "powerMultiplierIncrementPerLevelPerMil": 20
           }
         ]
@@ -62021,7 +62022,7 @@
               "Override"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "powerMultiplierPerMil": 110,
+            "powerMultiplierPerMil": 160,
             "powerMultiplierIncrementPerLevelPerMil": 20
           }
         ]
@@ -62429,14 +62430,14 @@
         "statusEffect": "RedDefenseModifier",
         "id": "mark_fire_elx",
         "buff": "MinorDebuff",
-        "defenseMultiplierPerMil": 800,
+        "defenseMultiplierPerMil": 690,
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
         "statusEffect": "ElementSwapOverTime",
         "id": "element_swap_damage_green_elx",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 780,
+        "damageMultiplierPerMil": 480,
         "damageMultiplierIncrementPerLevelPerMil": 20,
         "elementToDamage": "Green"
       },
@@ -62709,7 +62710,7 @@
         "statusEffect": "UnderWater",
         "id": "underwater_shark_family",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 82,
+        "damageMultiplierPerMil": 100,
         "damageMultiplierIncrementPerLevelPerMil": 0
       },
       {
@@ -71339,11 +71340,11 @@
         "acceptedDamageSources": [
           {
             "source": "SpecialSkill",
-            "additionalModifierPerStatusEffectPerMil": 200
+            "additionalModifierPerStatusEffectPerMil": 300
           },
           {
             "source": "Familiar",
-            "additionalModifierPerStatusEffectPerMil": 300
+            "additionalModifierPerStatusEffectPerMil": 500
           }
         ]
       },
@@ -74518,7 +74519,7 @@
             "id": "add_dispel_and_steal_immunity_shark_minion_green"
           }
         ],
-        "healthPerMil": 270,
+        "healthPerMil": 130,
         "healthPerLevelPerMil": 10,
         "monsterHealthPerMil": 200
       },
@@ -74534,7 +74535,7 @@
             "id": "add_dispel_and_steal_immunity_shark_big_minion_blue"
           }
         ],
-        "healthPerMil": 330,
+        "healthPerMil": 580,
         "healthPerLevelPerMil": 10,
         "monsterHealthPerMil": 200
       },
@@ -75980,7 +75981,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 690,
+        "attackPercentPerMil": 440,
         "attackPercentIncrementPerLevelPerMil": 30,
         "monsterAttackPercentPerMil": 60
       },
@@ -78261,7 +78262,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 270,
+        "attackPercentPerMil": 130,
         "attackPercentIncrementPerLevelPerMil": 10,
         "monsterAttackPercentPerMil": 200,
         "strongAgainstElement": "Blue"
@@ -78272,7 +78273,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 1000,
+        "attackPercentPerMil": 2630,
         "attackPercentIncrementPerLevelPerMil": 10,
         "monsterAttackPercentPerMil": 200,
         "strongAgainstElement": "Red"
@@ -81759,9 +81760,9 @@
         "effectType": "StatusEffectOnSpecialDamage",
         "id": "shark_debuffs_on_special_damage",
         "statMultiplierIncrementPerMilsForEachMember": [
-          1000,
-          1000,
-          1000,
+          1500,
+          200,
+          200,
           0
         ],
         "chanceIncrementsPerMilForEachMember": [
@@ -81780,10 +81781,10 @@
             "turns": 3
           }
         ],
-        "attackPowerForStatusEffectForRarity3": 700,
-        "attackPowerForStatusEffectForRarity4": 800,
+        "attackPowerForStatusEffectForRarity3": 550,
+        "attackPowerForStatusEffectForRarity4": 650,
         "attackPowerForStatusEffectForRarity5": 1000,
-        "attackPowerForStatusEffectForBosses": 1000,
+        "attackPowerForStatusEffectForBosses": 800,
         "chanceIncrementsPerMilForKillingHitForEachMember": [
           0,
           0,
@@ -83898,7 +83899,8 @@
           "beach_brawl_sand_dot_on_special",
           "beach_brawl_enchanced_criticals",
           "beach_brawl_resist_mana_status_effects",
-          "beach_brawl_resist_mana_reductions"
+          "beach_brawl_resist_mana_reductions",
+          "lunar_new_year_brawl_resist_fiends"
         ]
       },
       {
@@ -87249,16 +87251,8 @@
           "Parasite"
         ],
         "affectedFamilies": [
-          "fortune",
-          "zodiac_tiger",
-          "zodiac_rabbit",
-          "zodiac_ox",
-          "zodiac_dragon",
-          "zodiac_snake",
-          "zodiac_rat",
-          "zodiac_horse",
-          "kingdom",
-          "journey"
+          "shark",
+          "beachparty"
         ]
       },
       {
@@ -97094,5 +97088,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2098065322
+  "battleConfigId": 1607530792
 }

@@ -77322,8 +77322,8 @@ window.allHeroes =
         "effects": [
             "Deals 600% damage to the target.",
             "If the target had more than 50% mana before receiving damage, targets another enemy who had over 50% mana before receiving any damage from this Special Skill. If none of the other enemies had 50% mana, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "All hit enemies get silenced for 6 turns.",
-            "Wither: All enemies get -350 attack and -350 defense."
+            "All hit enemies get silenced for 4 turns.",
+            "Wither: All enemies get -250 attack and -250 defense."
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -86516,17 +86516,17 @@ window.allHeroes =
         "defense": 1314,
         "health": 2313,
         "effects": [
-            "If the caster has 60 or more Humility:",
+            "Less than 60 Humility:",
+            "* Recovers 25% health for all allies.",
+            "* Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
+            "* Growth: All allies get 150 attack.",
+            "* All allies regenerate 1005 HP over 3 turns.",
+            "60 or more Humility:",
             "* Recovers 32% health for all allies.",
             "* Cleanses status ailments from all allies.",
             "* Growth: All allies get 200 attack.",
             "* All allies regenerate 1440 HP over 3 turns.",
-            "* The caster gets +84% defense against Special Skills for 3 turns.",
-            "Otherwise:",
-            "* Recovers 25% health for all allies.",
-            "* Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
-            "* Growth: All allies get 150 attack.",
-            "* All allies regenerate 1005 HP over 3 turns."
+            "* The caster gets +84% defense against Special Skills for 3 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",

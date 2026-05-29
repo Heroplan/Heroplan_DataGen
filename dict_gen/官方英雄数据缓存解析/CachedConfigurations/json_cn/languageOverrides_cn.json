@@ -118,6 +118,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Questi oggetti verranno inviati alla posta in arrivo di ciascun membro della tua Alleanza.\n\nI regali dell'Alleanza possono essere ricevuti fino a 29 volte per ogni scorta dell'offerta. Tu non li riceverai.\n\nSe non fai parte di un'Alleanza, questi oggetti non verranno inviati."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunità dai [#!]demoni[#]."
           }
         ]
       },
@@ -238,6 +242,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Эти предметы будут отправлены в личном сообщении всем участникам альянса, кроме вас. \n\nПодарки альянсу можно получить до 29 раз на одно предложение.\n\nЕсли вы не состоите в альянсе, предметы отправлены не будут."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Иммунитет к [#!]паразитам[#]."
           }
         ]
       },
@@ -358,6 +366,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Te przedmioty zostaną wysłane do każdego członka Twojego sojuszu.\n\nDary sojuszu można otrzymać maksymalnie 29 razy w ramach danej oferty. Nie otrzymasz ich dla siebie.\n\nJeśli nie jesteś w sojuszu, przedmioty nie zostaną wysłane."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Niewrażliwość na [#!]potwory[#]."
           }
         ]
       },
@@ -490,6 +502,10 @@
           {
             "key": "specials.v2.directeffect.damage.single.enemies.strong_against_yellow",
             "text": "對目標造成{HEALTH}%傷害。如果目標為[##elementyellow]神聖系[#]，再造成額外傷害。"
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "對[#!]惡魔[#]免疫。"
           }
         ]
       },
@@ -650,6 +666,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "이 아이템들이 동맹 멤버 각자의 우편함으로 전달됩니다. \n\n동맹 선물은 특별 상품마다 최대 29회까지 받을 수 있습니다. 단, 본인은 제외입니다.\n\n동맹에 가입되어 있지 않다면 이 아이템들을 보낼 수 없습니다."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "[#!]악마[#]에 면역."
           }
         ]
       },
@@ -774,6 +794,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Diese Gegenstände werden an den Posteingang jedes einzelnen deiner Allianz-Mitglieder gesendet. \n\nAllianz-Geschenke können bis zu 29 Mal pro Angebot erhalten werden. Du erhältst diese nicht selbst.\n\nWenn du keiner Allianz angehörst, werden diese Gegenstände nicht verschickt."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunität gegen [#!]Feinde[#]."
           }
         ]
       },
@@ -894,6 +918,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "このアイテムは同盟メンバーひとりひとりの受信箱へ贈り物として送られる。 \n\n同盟ギフトはオファー在庫につき最大29回まで受け取ることができる。あなた自身はこれを受け取ることはない。\n\n同盟に所属していない場合は、誰の元にもアイテムは届かない。"
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "[#!]フィエンド[#]に対して無効。"
           }
         ]
       },
@@ -1014,6 +1042,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "De här föremålen skickas till dina alliansmedlemmars inkorg.\n\nAlliansgåvor kan tas emot upp till 29 gånger per erbjudande. Du får dem inte själv.\n\nOm du inte är med i en allians skickas inte de här föremålen."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunitet mot [#!]odjur[#]."
           }
         ]
       },
@@ -1134,6 +1166,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Bu nesneler, İttifakındaki tüm üyelerin gelen kutusuna gönderilir.\n\nİttifak hediyeleri, her stok teklifi başına 29 kereye kadar alınabilir. Bunları sen tek başına almazsın.\n\nBir İttifakta değilsen bu nesneler gönderilmez."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "[#!]Canavarlara[#] karşı bağışıklık."
           }
         ]
       },
@@ -1254,6 +1290,14 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "These items will be sent to the inbox of each of your fellow Alliance members. \n\nAlliance gifts can be received up to 29 times per offer stock. You will not receive these yourself.\n\nIf you're not in an Alliance, these items will not be sent."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunity to [#!]Fiends[#]."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.effectondodgedspecial.all.allies.addmana",
+            "text": "All allies get {DODGE}% chance to dodge Special Skills for {TURNS} turns. Each dodge gives +{POWER}% mana to the ally."
           }
         ]
       },
@@ -1374,6 +1418,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "ستُرسل هذه العناصر إلى البريد الإلكتروني الخاص بكلّ من أعضاء تحالفك. \n\nيمكن الحصول على جوائز التحالف حتى 29 مرة من مخزون العرض. لن تتلقى أنت الهدايا.\n\nإذا لم تكن عضو في تحالف، لن تُرسل هذه العناصر."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "تحصين ضد [#!]الأشرار[#]."
           }
         ]
       },
@@ -1494,6 +1542,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Ces objets seront envoyés dans la boîte de réception de chacun des membres de votre alliance. \n\nLes cadeaux d'alliance peuvent être reçus jusqu'à 29 fois par stock d'offre. Vous ne les recevrez pas vous-même.\n\nSi vous n'êtes pas dans une alliance, ces objets ne seront pas envoyés."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunité aux [#!]démons[#]."
           }
         ]
       },
@@ -1614,6 +1666,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Estes itens serão enviados para a caixa de entrada de cada um dos outros membros da aliança. \n\nOs presentes da aliança podem ser recebidos até 29 vezes por estoque de oferta. Você não recebe esses presentes.\n\nSe você não estiver em uma aliança, os itens não serão enviados."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Imunidade a [#!]demônios[#]."
           }
         ]
       },
@@ -1734,6 +1790,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Barang ini akan dikirim ke kotak masuk setiap rekanmu, sesama anggota Aliansi. \n\nHadiah Aliansi dapat diterima hingga 29 kali per stok tawaran. Kamu sendiri tidak akan menerimanya.\n\nJika kamu tidak bergabung dengan Aliansi, barang ini tidak akan dikirim."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Kekebalan terhadap [#!]Iblis[#]."
           }
         ]
       },
@@ -1854,6 +1914,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Nämä esineet lähetetään liittoumasi jäsenten viestilaatikoihin. \n\nJäsen voi vastaanottaa enintään 29 liittouman lahjaa tarjousta kohti. Näitä ei lähetetä sinulle.\n\nJos et ole liittoumassa, näitä esineitä ei lähetetä."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immuuni [#!]riiviöille[#]."
           }
         ]
       },
@@ -1974,6 +2038,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Disse genstande sendes til alle dine alliancekollegers indbakker. \n\nAlliancegaver kan modtages op til 29 gange pr. tilbudsrunde. Du modtager dem ikke selv.\n\nHvis du ikke er medlem af en alliance, sendes disse genstande ikke."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunitet over for [#!]djævle[#]."
           }
         ]
       },
@@ -2094,6 +2162,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Estos objetos se enviarán a la bandeja de entrada de cada uno de los miembros de tu alianza. \n\nLos regalos de la alianza se pueden recibir hasta un máximo de 29 veces por oferta. Tú no los recibirás.\n\nEstos objetos no se enviarán si no formas parte de una alianza."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Inmunidad a los [#!]demonios[#]."
           }
         ]
       },
@@ -2214,6 +2286,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Disse gjenstandene blir sendt i innboksen til hvert av alliansemedlemmene dine. \n\nAlliansegaver kan mottas opptil 29 ganger per tilbud. Du mottar ikke disse selv.\n\nDersom du ikke er i en allianse, blir disse gjenstandene ikke sendt"
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immunitet mot [#!]djevler[#]."
           }
         ]
       },
@@ -2334,6 +2410,10 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "Deze items worden naar het Postvak IN van alle leden van je Alliantie gestuurd. \n\nAlliantiegeschenken kunnen tot 29 keer per aanbieding ontvangen worden. Let op: je ontvangt ze zelf niet.\n\nAls je geen lid bent van een Alliantie, worden deze items niet verstuurd."
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "Immuniteit voor [#!]demonen[#]."
           }
         ]
       },
@@ -2454,10 +2534,14 @@
           {
             "key": "shop.offers.alliance_gift.info_text.items",
             "text": "这些物品将会发放到各联盟成员的收件箱。 \n\n每份礼包最多可领取29次。你自己将不会收到。\n\n如果你未加入联盟，这些物品将无法发放。"
+          },
+          {
+            "key": "level.info.property.description.lunar_new_year_brawl_resist_fiends.side.both.familiartypes.parasite.affectedfamilies.shark.beachparty",
+            "text": "对[#!]恶魔[#]免疫。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 235755516
+  "languageOverridesConfigId": 1790665029
 }

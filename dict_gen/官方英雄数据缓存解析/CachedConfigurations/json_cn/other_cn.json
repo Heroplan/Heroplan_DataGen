@@ -3155,9 +3155,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
-              "musketeer_cardinal_richelieu",
-              "musketeer_rochefort_costume_ratcatcher",
-              "musketeer_porthos_costume_merchant"
+              "beauty_beast_jacquespierre",
+              "musketeer_cardinal_richelieu_costume_ambassador",
+              "beauty_beast_pendulus_clonk"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-06-04 07:00:00",
@@ -3936,6 +3936,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-08-18 07:00:00",
             "endTime": "2026-08-22 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-08-25 07:00:00",
+            "endTime": "2026-08-29 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -20119,7 +20126,7 @@
             "endTime": "2026-05-23 08:00:00"
           },
           {
-            "specialRuleId": "rush_attack_dragon",
+            "specialRuleId": "dragon_pvp_event_stats_booster",
             "rarityRequirementsId": "legendary",
             "elementRequirementsId": "no_yellow",
             "startTime": "2026-05-31 08:00:00",
@@ -20133,53 +20140,60 @@
             "endTime": "2026-06-20 08:00:00"
           },
           {
-            "specialRuleId": "bloody_battle_dragon",
+            "specialRuleId": "rush_attack_dragon",
             "rarityRequirementsId": "legendary",
             "elementRequirementsId": "no_red",
             "startTime": "2026-06-28 08:00:00",
             "endTime": "2026-07-04 08:00:00"
           },
           {
-            "specialRuleId": "rush_attack_dragon",
+            "specialRuleId": "dragon_pvp_event_stats_booster",
             "rarityRequirementsId": "epic",
             "elementRequirementsId": "no_blue",
             "startTime": "2026-07-12 08:00:00",
             "endTime": "2026-07-18 08:00:00"
           },
           {
-            "specialRuleId": "buff_booster_dragon",
+            "specialRuleId": "bloody_battle_dragon",
             "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_purple",
+            "elementRequirementsId": "all_elements",
             "startTime": "2026-07-26 08:00:00",
             "endTime": "2026-08-01 08:00:00"
           },
           {
-            "specialRuleId": "bloody_battle_dragon",
+            "specialRuleId": "rush_attack_dragon",
             "rarityRequirementsId": "epic",
-            "elementRequirementsId": "all_elements",
+            "elementRequirementsId": "no_purple",
             "startTime": "2026-08-09 08:00:00",
             "endTime": "2026-08-15 08:00:00"
           },
           {
-            "specialRuleId": "rush_attack_dragon",
+            "specialRuleId": "buff_booster_dragon",
             "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_red",
+            "elementRequirementsId": "no_yellow",
             "startTime": "2026-08-23 08:00:00",
             "endTime": "2026-08-29 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle_dragon",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "no_green",
+            "startTime": "2026-09-06 08:00:00",
+            "endTime": "2026-09-12 08:00:00"
+          },
+          {
+            "specialRuleId": "dragon_pvp_event_stats_booster",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "no_red",
+            "startTime": "2026-09-20 08:00:00",
+            "endTime": "2026-09-26 08:00:00"
           },
           {
             "specialRuleId": "buff_booster_dragon",
             "rarityRequirementsId": "epic",
             "elementRequirementsId": "no_blue",
-            "startTime": "2026-09-06 08:00:00",
-            "endTime": "2026-09-12 08:00:00"
-          },
-          {
-            "specialRuleId": "bloody_battle_dragon",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_green",
-            "startTime": "2026-09-20 08:00:00",
-            "endTime": "2026-09-26 08:00:00"
+            "startTime": "2026-10-04 08:00:00",
+            "endTime": "2026-10-10 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -20197,7 +20211,7 @@
               "elementRequirementsId": "no_purple"
             },
             {
-              "id": "rush_attack_dragon",
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "legendary",
               "elementRequirementsId": "no_yellow"
             },
@@ -20207,62 +20221,52 @@
               "elementRequirementsId": "no_green"
             },
             {
-              "id": "bloody_battle_dragon",
+              "id": "rush_attack_dragon",
               "rarityRequirementsId": "legendary",
               "elementRequirementsId": "no_red"
             },
             {
-              "id": "rush_attack_dragon",
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_blue"
             },
             {
-              "id": "buff_booster_dragon",
+              "id": "bloody_battle_dragon",
               "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "all_elements"
+            },
+            {
+              "id": "rush_attack_dragon",
+              "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_purple"
             },
             {
-              "id": "bloody_battle_dragon",
-              "rarityRequirementsId": "epic",
-              "elementRequirementsId": "all_elements"
-            },
-            {
-              "id": "rush_attack_dragon",
-              "rarityRequirementsId": "legendary",
-              "elementRequirementsId": "no_red"
-            },
-            {
               "id": "buff_booster_dragon",
-              "rarityRequirementsId": "epic",
-              "elementRequirementsId": "no_blue"
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_yellow"
             },
             {
               "id": "bloody_battle_dragon",
-              "rarityRequirementsId": "legendary",
+              "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_green"
             },
             {
-              "id": "rush_attack_dragon",
-              "rarityRequirementsId": "epic",
-              "elementRequirementsId": "all_elements"
-            },
-            {
-              "id": "buff_booster_dragon",
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "legendary",
-              "elementRequirementsId": "no_blue"
-            },
-            {
-              "id": "bloody_battle_dragon",
-              "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_red"
             },
             {
+              "id": "buff_booster_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_blue"
+            },
+            {
               "id": "rush_attack_dragon",
               "rarityRequirementsId": "legendary",
               "elementRequirementsId": "all_elements"
             },
             {
-              "id": "buff_booster_dragon",
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_purple"
             },
@@ -20279,12 +20283,22 @@
             {
               "id": "buff_booster_dragon",
               "rarityRequirementsId": "legendary",
-              "elementRequirementsId": "no_red"
+              "elementRequirementsId": "no_blue"
             },
             {
               "id": "bloody_battle_dragon",
               "rarityRequirementsId": "epic",
-              "elementRequirementsId": "no_blue"
+              "elementRequirementsId": "all_elements"
+            },
+            {
+              "id": "dragon_pvp_event_stats_booster",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_purple"
+            },
+            {
+              "id": "buff_booster_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_yellow"
             },
             {
               "id": "rush_attack_dragon",
@@ -20292,7 +20306,47 @@
               "elementRequirementsId": "no_green"
             },
             {
+              "id": "dragon_pvp_event_stats_booster",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_red"
+            },
+            {
+              "id": "bloody_battle_dragon",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_blue"
+            },
+            {
+              "id": "rush_attack_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "all_elements"
+            },
+            {
               "id": "buff_booster_dragon",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_purple"
+            },
+            {
+              "id": "bloody_battle_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_yellow"
+            },
+            {
+              "id": "dragon_pvp_event_stats_booster",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_green"
+            },
+            {
+              "id": "buff_booster_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_red"
+            },
+            {
+              "id": "rush_attack_dragon",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_blue"
+            },
+            {
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "epic",
               "elementRequirementsId": "all_elements"
             },
@@ -20309,62 +20363,82 @@
             {
               "id": "buff_booster_dragon",
               "rarityRequirementsId": "legendary",
-              "elementRequirementsId": "no_green"
-            },
-            {
-              "id": "bloody_battle_dragon",
-              "rarityRequirementsId": "epic",
-              "elementRequirementsId": "no_yellow"
-            },
-            {
-              "id": "rush_attack_dragon",
-              "rarityRequirementsId": "legendary",
-              "elementRequirementsId": "no_blue"
-            },
-            {
-              "id": "buff_booster_dragon",
-              "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_red"
             },
             {
               "id": "bloody_battle_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_blue"
+            },
+            {
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "legendary",
               "elementRequirementsId": "all_elements"
             },
             {
-              "id": "rush_attack_dragon",
+              "id": "buff_booster_dragon",
               "rarityRequirementsId": "epic",
-              "elementRequirementsId": "no_red"
+              "elementRequirementsId": "no_purple"
             },
             {
-              "id": "buff_booster_dragon",
+              "id": "rush_attack_dragon",
               "rarityRequirementsId": "legendary",
               "elementRequirementsId": "no_yellow"
             },
             {
-              "id": "bloody_battle_dragon",
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_green"
             },
             {
+              "id": "bloody_battle_dragon",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_red"
+            },
+            {
+              "id": "rush_attack_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_blue"
+            },
+            {
+              "id": "buff_booster_dragon",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_green"
+            },
+            {
+              "id": "bloody_battle_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "no_red"
+            },
+            {
+              "id": "dragon_pvp_event_stats_booster",
+              "rarityRequirementsId": "legendary",
+              "elementRequirementsId": "no_blue"
+            },
+            {
+              "id": "buff_booster_dragon",
+              "rarityRequirementsId": "epic",
+              "elementRequirementsId": "all_elements"
+            },
+            {
               "id": "rush_attack_dragon",
               "rarityRequirementsId": "legendary",
               "elementRequirementsId": "no_purple"
             },
             {
-              "id": "buff_booster_dragon",
+              "id": "dragon_pvp_event_stats_booster",
               "rarityRequirementsId": "epic",
               "elementRequirementsId": "no_yellow"
             },
             {
               "id": "bloody_battle_dragon",
               "rarityRequirementsId": "legendary",
-              "elementRequirementsId": "no_blue"
+              "elementRequirementsId": "no_green"
             },
             {
               "id": "rush_attack_dragon",
               "rarityRequirementsId": "epic",
-              "elementRequirementsId": "no_purple"
+              "elementRequirementsId": "no_red"
             }
           ],
           "registrationDuration": 86400,
@@ -77179,7 +77253,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-06-06 07:00:00",
             "costumeId": "tribal_chief_costume_stylish",
             "parentHeroId": "tribal_chief"
           },
@@ -77191,7 +77265,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-06-06 07:00:00",
             "costumeId": "orc_troopmaster_costume_stylish",
             "parentHeroId": "orc_troopmaster"
           },
@@ -77203,7 +77277,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-06-06 07:00:00",
             "costumeId": "forest_woodsman_warrior_costume_stylish",
             "parentHeroId": "forest_woodsman_warrior"
           },
@@ -77215,7 +77289,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-06-06 07:00:00",
             "costumeId": "oriental_brawler_costume_stylish",
             "parentHeroId": "oriental_brawler"
           },
@@ -77227,7 +77301,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-06-06 07:00:00",
             "costumeId": "forest_archer_costume_stylish",
             "parentHeroId": "forest_archer"
           },
@@ -77527,7 +77601,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-06-04 07:00:00",
             "costumeId": "musketeer_cardinal_richelieu_costume_ambassador",
             "parentHeroId": "musketeer_cardinal_richelieu"
           },
@@ -92464,9 +92538,9 @@
           }
         ],
         "ageAssuranceConfiguration": {
-          "isEnabled": false,
+          "isEnabled": true,
           "isEnabledOnAndroid": false,
-          "isEnabledOnIOS": false,
+          "isEnabledOnIOS": true,
           "defaultRegionConfiguration": {
             "regionCode": "default",
             "groups": [
@@ -93391,7 +93465,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "85.0.2",
     "maxVersionToShowUpdateOutReminderIos": "85.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "86.0.0",
-    "standaloneNewVersionRolloutPercentage": 20,
+    "standaloneNewVersionRolloutPercentage": 70,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -93496,5 +93570,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 106515086
+  "otherConfigId": 2799315851
 }
