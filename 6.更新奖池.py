@@ -61,6 +61,8 @@ TARGET_POOLS = {
     "lottery_hero_halloween": "lottery_hero_halloween",
     "lottery_seasonal_premium_halloween": "lottery_seasonal_premium_halloween",
     "lottery_hero_christmas": "lottery_hero_christmas",
+    # 联赛奖池
+    "lottery_league_default": "lottery_league_default",
 }
 
 POOL_SOURCE_MAP = {
@@ -414,6 +416,127 @@ def process_super_elemental(lottery_data, now):
         result[f"featuredHeroes_{color}"] = closest[1]
     return result
 
+# 提取联盟召唤池配置
+def extract_league_lottery(main_data, other_data, now):
+    """
+    从主文件中找到最合适的 lottery_league_default 条目，
+    再从 other 文件中匹配日期最接近的 pvpLeague 条目，
+    返回包含 amountOfSelectableFeaturedSlots, entitiesToChooseFrom,
+    AssociatedFamilies, latestIncludedHeroDate 的字典。
+    """
+    # 1. 在主文件中搜索 productId 为 lottery_league_default 的所有条目
+    candidates = []
+    def search_league_entries(obj):
+        if isinstance(obj, dict):
+            if obj.get("productId") == "lottery_league_default":
+                start_str = obj.get("startDate")
+                if start_str:
+                    date = parse_date(start_str)
+                    if date:
+                        config = obj.get("playerSelectableFeaturedEntityConfig")
+                        if config and isinstance(config, dict):
+                            candidates.append((date, start_str, config))
+            for v in obj.values():
+                search_league_entries(v)
+        elif isinstance(obj, list):
+            for item in obj:
+                search_league_entries(item)
+
+    search_league_entries(main_data)
+
+    if not candidates:
+        print("  [联盟池] 未找到任何 lottery_league_default 条目")
+        return None
+
+    # 选择最接近 now 的条目
+    today = now.date()
+    def sort_key(item):
+        date_obj = item[0].date()
+        abs_days = abs((date_obj - today).days)
+        is_past = 1 if date_obj < today else 0
+        return (abs_days, is_past)
+    best_candidate = min(candidates, key=sort_key)
+    best_date = best_candidate[0]
+    best_start_str = best_candidate[1]
+    best_config = best_candidate[2]
+
+    print(f"  [联盟池] 选中的条目 startDate = {best_start_str} (日期: {best_date.date()})")
+
+    result = {}
+    if "amountOfSelectableFeaturedSlots" in best_config:
+        result["amountOfSelectableFeaturedSlots"] = best_config["amountOfSelectableFeaturedSlots"]
+    if "entitiesToChooseFrom" in best_config:
+        result["entitiesToChooseFrom"] = best_config["entitiesToChooseFrom"]
+
+    # 2. 从 other 数据中匹配日期最接近的 pvpLeague 条目
+    result["AssociatedFamilies"] = []
+    if other_data is not None:
+        # 定位 eventEntries
+        event_entries = None
+        try:
+            event_entries = other_data["otherConfig"]["logic"]["pvpLeague"]["eventEntries"]
+        except KeyError:
+            # 尝试备用路径
+            possible_paths = [
+                ["pvpLeague", "eventEntries"],
+                ["otherConfig", "pvpLeague", "eventEntries"],
+                ["logic", "pvpLeague", "eventEntries"],
+            ]
+            for path in possible_paths:
+                try:
+                    temp = other_data
+                    for key in path:
+                        temp = temp[key]
+                    if isinstance(temp, list):
+                        event_entries = temp
+                        break
+                except (KeyError, TypeError):
+                    continue
+
+        if event_entries is None:
+            print("  [联盟池] 警告: 无法在 other 数据中找到 pvpLeague.eventEntries")
+        else:
+            # 收集所有有效的 (日期, featuredFamilies) 对
+            family_candidates = []
+            for entry in event_entries:
+                start_str = entry.get("startTime")
+                if not start_str:
+                    continue
+                date = parse_date(start_str)
+                if not date:
+                    continue
+                families = entry.get("featuredFamilies")
+                if families and isinstance(families, list):
+                    family_candidates.append((date, families))
+            if not family_candidates:
+                print("  [联盟池] 未找到任何有效的 featuredFamilies 条目")
+            else:
+                # 使用与主文件相同的排序规则：按绝对天数差，过去优先权重稍低（未来优先）
+                target_date = best_date.date()
+                def sort_family_key(item):
+                    date_obj = item[0].date()
+                    abs_days = abs((date_obj - target_date).days)
+                    is_past = 1 if date_obj < target_date else 0
+                    return (abs_days, is_past)
+                best_family = min(family_candidates, key=sort_family_key)
+                result["AssociatedFamilies"] = best_family[1]
+                print(f"  [联盟池] 匹配到最接近的 featuredFamilies，日期: {best_family[0].date()}，共 {len(best_family[1])} 个家族")
+    else:
+        print("  [联盟池] other_data 为空，无法获取 AssociatedFamilies")
+
+    # 3. 计算 latestIncludedHeroDate
+    try:
+        start_dt = parse_date(best_start_str)
+        if start_dt:
+            new_date = start_dt - timedelta(days=180)
+            result["latestIncludedHeroDate"] = new_date.strftime("%Y-%m-%d")
+    except Exception as e:
+        print(f"  [联盟池] 计算 latestIncludedHeroDate 失败: {e}")
+
+    if not result:
+        return None
+    return result
+
 # ==================== 主函数 ====================
 def main():
     script_dir = get_script_dir()
@@ -511,6 +634,14 @@ def main():
                 print(f"✓ 从Other文件提取: {target_id} -> {output_key}")
             else:
                 print(f"✗ Other文件未找到匹配: {target_id}")
+
+        # 特殊处理联盟召唤池
+        elif target_id == "lottery_league_default":
+            config = extract_league_lottery(main_data, other_data, adjusted_now)
+            if config:
+                print(f"✓ 联盟召唤池特殊提取: {target_id} -> {output_key}")
+            else:
+                print(f"✗ 联盟召唤池提取失败: {target_id}")
 
         # 5. 默认从主文件提取（需要日期比较）
         else:
