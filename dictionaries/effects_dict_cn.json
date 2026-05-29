@@ -1518,7 +1518,7 @@
     "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+the\\s+Slime\\s+Fiend\\s+steals\\s+one\\s+of\\s+its\\s+target['’]?s\\s+dispellable\\s+buffs\\s+or\\s+Growth\\s+effect\\s+and\\s+gives\\s+it\\s+to\\s+a\\s+random\\s+character\\s+on\\s+the\\s+opposite\\s+team\\.?\\s*$": "每回合结束时，史莱姆恶魔将偷取其目标的其中一个可驱散增益或成长效果，并将该增益施加于另一战队的随机一名角色身上。",
     "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+defense\\s+decreases\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\s+each\\s+turn,\\s+up\\s+to\\s+([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "目标获得 \\1 防御，持续\\2回合。防御每回合降低 \\3，最高可达 \\4。",
     "^The\\s+less\\s+HP\\s+the\\s+caster\\s+has,\\s+the\\s+more\\s+damage\\s+they\\s+deal\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "施法者的生命值越低，造成的伤害越大，最高可达\\1。",
-    "^All\\s+enemies\\s+receive([+-]?\\s*\\d+\\s*%?)([+-]?\\s*\\d+\\s*%?)increasing\\s+Curse\\s+damage\\s+each\\s+turn\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目标和附近的敌人每回合受到\\1\\2点诅咒伤害，持续\\3回合。",
+    "^All\\s+enemies\\s+receive([+-]?\\s*\\d+\\s*%?)([+-]?\\s*\\d+\\s*%?)increasing\\s+Curse\\s+damage\\s+each\\s+turn\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有敌人每回合受到\\1\\2点诅咒伤害，持续\\3回合。",
     "^\\*\\s+([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+from\\s+status\\s+ailments\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* \\1 来自状态异常的伤害，持续\\2回合。",
     "^\\*\\s+([+-]?\\s*\\d+\\s*%?)\\s+for\\s+all\\s+healing\\s+received\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* \\1 受到的所有治疗，持续\\2回合。",
     "^The\\s+Source\\s+of\\s+Ailments\\s+will\\s+activate([+-]?\\s*\\d+\\s*%?)times\\.?\\s*\\s+This\\s+effect\\s+is\\s+Stubborn\\.?\\s*$": "状态异常之源会激活\\1次。此效果具有顽固特性。",
