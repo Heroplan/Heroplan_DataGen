@@ -17203,7 +17203,7 @@ const allTranslations =
         "effects": [
             "Steals Minions or a Mega Minion from target.",
             "Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
-            "All enemies receive 975 Curse damage over 4 turns, starting low and increasing every turn."
+            "All enemies receive 137-377 increasing Curse damage each turn for 4 turns. (On the first turn, 137 damage is dealt. The damage increases by +40% each turn, up to 377 damage per turn.)"
         ]
     },
     {
@@ -17755,6 +17755,51 @@ const allTranslations =
     {
         "heroId": "shark_haamuhai",
         "name": "Haa'Muhai",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_madarika",
+        "name": "Madarika",
+        "effects": []
+    },
+    {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "effects": []
+    },
+    {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "construct_elx",
+        "name": "Elx",
         "effects": []
     },
     {

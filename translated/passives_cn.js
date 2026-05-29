@@ -13768,6 +13768,51 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "astral_demon_madarika",
+        "name": "Madarika",
+        "passives": []
+    },
+    {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C",
+        "passives": []
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "passives": []
+    },
+    {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "construct_elx",
+        "name": "Elx",
+        "passives": []
+    },
+    {
         "heroId": "ghost_shu_jing",
         "name": "Shu Jing",
         "passives": []

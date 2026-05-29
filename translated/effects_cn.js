@@ -17203,7 +17203,7 @@ const translatedEffectsCN =
         "effects": [
             "从目标处偷取小兵和超级小兵。",
             "对目标施加持续性贪婪。来自特殊技能的友方效果只会影响身上有贪婪状态的角色。（贪婪会阻止所有其他英雄获得友方效果，包括所有增益、治疗和成长效果。此效果持续至被净化、替换或移除）",
-            "所有敌人在 4 回合内受到共计 975 点诅咒伤害，一开始伤害较低，之后每个回合会逐渐增加。"
+            "目标和附近的敌人每回合受到 137 - 377 点诅咒伤害，持续 4 回合。（第一回合造成 137 点伤害，每回合伤害 +40%，每回合最多造成 377 点伤害。）"
         ]
     },
     {
@@ -17755,6 +17755,51 @@ const translatedEffectsCN =
     {
         "heroId": "shark_haamuhai",
         "name": "Haa'Muhai",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_madarika",
+        "name": "Madarika",
+        "effects": []
+    },
+    {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "effects": []
+    },
+    {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "construct_elx",
+        "name": "Elx",
         "effects": []
     },
     {

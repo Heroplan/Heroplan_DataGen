@@ -107868,7 +107868,7 @@ window.allHeroes =
         "effects": [
             "Steals Minions or a Mega Minion from target.",
             "Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
-            "All enemies receive 975 Curse damage over 4 turns, starting low and increasing every turn."
+            "All enemies receive 137-377 increasing Curse damage each turn for 4 turns. (On the first turn, 137 damage is dealt. The damage increases by +40% each turn, up to 377 damage per turn.)"
         ],
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
