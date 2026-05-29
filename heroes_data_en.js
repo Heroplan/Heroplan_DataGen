@@ -313,8 +313,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -373,7 +373,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -439,7 +439,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -495,7 +495,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -611,7 +611,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -662,7 +662,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -713,7 +713,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -767,7 +767,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -826,7 +826,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -885,7 +885,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -937,7 +937,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -1200,7 +1200,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -1257,7 +1257,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -1314,7 +1314,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -1378,7 +1378,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -1429,7 +1429,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -1485,7 +1485,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -1548,7 +1548,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -1603,7 +1603,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             }
         ]
@@ -1651,8 +1651,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -1709,7 +1709,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -1766,7 +1766,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -1825,8 +1825,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: Random"
+                    "Heal - Instant",
+                    "Atk - Random"
                 ]
             },
             {
@@ -1882,7 +1882,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -1935,7 +1935,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -1993,7 +1993,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -2054,7 +2054,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2115,7 +2115,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2171,7 +2171,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2234,7 +2234,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
+                    "Heal - Over Time",
                     "Atk - Extra Attack"
                 ]
             },
@@ -2286,7 +2286,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -2339,7 +2339,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -2397,7 +2397,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -2460,7 +2460,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -2516,7 +2516,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2569,7 +2569,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2627,7 +2627,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2690,7 +2690,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2761,7 +2761,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -2813,7 +2813,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -2865,7 +2865,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -2921,7 +2921,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -2974,8 +2974,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -3033,7 +3033,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -3224,7 +3224,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -3288,7 +3288,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -3349,7 +3349,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -3656,8 +3656,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -3715,7 +3715,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -3774,7 +3774,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -3887,7 +3887,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -3948,7 +3948,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -4012,8 +4012,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -4080,7 +4080,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -4138,8 +4138,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -4195,7 +4195,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -4248,7 +4248,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -4301,7 +4301,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -4359,7 +4359,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -4422,7 +4422,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -4485,7 +4485,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -4546,7 +4546,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -4602,7 +4602,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -4654,7 +4654,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -4709,7 +4709,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -4764,7 +4764,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -4827,7 +4827,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -4887,7 +4887,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -4947,7 +4947,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -5059,8 +5059,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -5122,7 +5122,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -5174,7 +5174,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -5229,7 +5229,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5299,7 +5299,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5364,7 +5364,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5420,7 +5420,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -5478,7 +5478,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -5529,7 +5529,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5582,7 +5582,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5635,7 +5635,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5693,7 +5693,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5756,7 +5756,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5812,7 +5812,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5865,7 +5865,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -5923,7 +5923,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -5984,8 +5984,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -6038,7 +6038,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -6098,7 +6098,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -6155,7 +6155,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -6214,7 +6214,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -6272,7 +6272,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -6337,7 +6337,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -6404,9 +6404,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -6469,7 +6469,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -6528,7 +6528,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -6581,7 +6581,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -6646,7 +6646,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -6716,8 +6716,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -6778,7 +6778,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -6846,7 +6846,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -6913,8 +6913,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random",
-                    "Dmg: DoT"
+                    "Atk - Random",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -7231,8 +7231,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
+                    "Atk - Single",
+                    "Dmg - DoT",
                     "Atk - Chain"
                 ]
             },
@@ -7290,7 +7290,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -7349,7 +7349,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -7412,7 +7412,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -7473,7 +7473,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -7551,8 +7551,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -7625,7 +7625,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -7688,7 +7688,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -7758,7 +7758,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -7825,7 +7825,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -7898,7 +7898,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -7972,7 +7972,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -8041,7 +8041,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -8104,8 +8104,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -8176,7 +8176,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -8356,8 +8356,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -8418,8 +8418,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: All"
+                    "Heal - From Dmg",
+                    "Atk - All"
                 ]
             },
             {
@@ -8476,7 +8476,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -8536,7 +8536,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -8599,7 +8599,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -8652,7 +8652,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -8783,7 +8783,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -8857,7 +8857,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -8917,7 +8917,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -8985,7 +8985,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -9058,8 +9058,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -9129,7 +9129,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -9249,7 +9249,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -9318,9 +9318,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -9396,8 +9396,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -9463,7 +9463,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -9524,8 +9524,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -9586,9 +9586,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Boost Health",
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -9659,9 +9659,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Revive",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Revive",
+                    "Heal - Special"
                 ]
             },
             {
@@ -9719,7 +9719,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -9782,8 +9782,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -9842,8 +9842,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -9906,9 +9906,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Area",
-                    "Atk: All"
+                    "Atk - Single",
+                    "Atk - Area",
+                    "Atk - All"
                 ]
             },
             {
@@ -9976,9 +9976,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Area",
-                    "Atk: All"
+                    "Atk - Single",
+                    "Atk - Area",
+                    "Atk - All"
                 ]
             },
             {
@@ -10038,7 +10038,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -10095,8 +10095,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10161,7 +10161,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -10226,8 +10226,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10291,8 +10291,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10363,8 +10363,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10444,8 +10444,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10504,7 +10504,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -10564,8 +10564,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10630,8 +10630,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -10703,7 +10703,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -10764,7 +10764,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -10821,7 +10821,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -10883,7 +10883,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -10948,7 +10948,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -11007,7 +11007,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -11066,7 +11066,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -11125,7 +11125,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -11184,7 +11184,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -11244,7 +11244,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -11311,7 +11311,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -11434,7 +11434,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -11495,7 +11495,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -11557,7 +11557,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -11628,7 +11628,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -11697,8 +11697,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -11758,7 +11758,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -11825,7 +11825,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -11891,8 +11891,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -11960,7 +11960,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -12013,7 +12013,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12137,9 +12137,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Dmg - DoT",
+                    "Atk - Random"
                 ]
             },
             {
@@ -12207,7 +12207,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -12277,7 +12277,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -12338,7 +12338,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -12403,7 +12403,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -12474,7 +12474,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12598,7 +12598,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12667,7 +12667,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -12724,7 +12724,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12777,7 +12777,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12831,7 +12831,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12894,7 +12894,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -12957,7 +12957,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -13023,7 +13023,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -13086,7 +13086,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -13212,8 +13212,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -13281,7 +13281,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -13351,9 +13351,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Heal - Instant",
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -13416,7 +13416,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -13480,8 +13480,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -13669,7 +13669,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -13726,7 +13726,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -13797,8 +13797,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -13957,8 +13957,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Boost Health"
+                    "Heal - Instant",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -14025,7 +14025,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -14084,9 +14084,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Boost Health",
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -14145,7 +14145,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -14201,7 +14201,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -14254,7 +14254,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -14307,7 +14307,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -14365,7 +14365,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -14428,7 +14428,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -14491,7 +14491,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -14552,7 +14552,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -14614,7 +14614,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -14671,7 +14671,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -14728,7 +14728,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -14784,7 +14784,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -14848,8 +14848,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -14964,7 +14964,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -15035,7 +15035,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -15105,8 +15105,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: All"
+                    "Heal - Instant",
+                    "Atk - All"
                 ]
             },
             {
@@ -15177,9 +15177,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Heal - Instant",
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -15295,7 +15295,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -15350,7 +15350,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -15410,7 +15410,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -15468,7 +15468,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -15531,7 +15531,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -15590,8 +15590,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: All"
+                    "Heal - Boost Health",
+                    "Atk - All"
                 ]
             },
             {
@@ -15717,7 +15717,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -15778,7 +15778,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -15839,8 +15839,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -15893,9 +15893,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Atk - Random",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -15959,9 +15959,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Atk - Random",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -16027,7 +16027,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -16088,7 +16088,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -16155,7 +16155,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -16224,9 +16224,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT",
-                    "Heal: From Dmg"
+                    "Atk - All",
+                    "Dmg - DoT",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -16287,7 +16287,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -16425,7 +16425,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -16486,7 +16486,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -16542,8 +16542,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -16599,9 +16599,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Over Time",
+                    "Heal - Special"
                 ]
             },
             {
@@ -16662,9 +16662,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Over Time",
+                    "Heal - Special"
                 ]
             },
             {
@@ -16722,7 +16722,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -16785,7 +16785,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -16850,7 +16850,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -16912,7 +16912,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -16979,7 +16979,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -17042,7 +17042,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -17104,10 +17104,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: Area",
-                    "Heal: From Dmg",
-                    "Dmg: DoT"
+                    "Heal - Boost Health",
+                    "Atk - Area",
+                    "Heal - From Dmg",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -17176,7 +17176,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -17248,7 +17248,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -17303,7 +17303,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -17360,9 +17360,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Over Time",
+                    "Heal - Special"
                 ]
             },
             {
@@ -17425,7 +17425,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -17487,7 +17487,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -17540,7 +17540,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -17593,7 +17593,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -17651,7 +17651,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -17714,7 +17714,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -17777,7 +17777,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -17839,8 +17839,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -17905,9 +17905,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Heal - Instant",
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -17980,8 +17980,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Dmg: DoT"
+                    "Heal - Boost Health",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -18051,7 +18051,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -18114,7 +18114,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -18174,8 +18174,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -18234,7 +18234,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -18301,7 +18301,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -18371,8 +18371,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -18438,7 +18438,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -18499,7 +18499,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -18559,7 +18559,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -18622,7 +18622,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -18681,8 +18681,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -18744,8 +18744,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -18811,8 +18811,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -18871,8 +18871,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -18925,7 +18925,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -18989,7 +18989,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -19056,7 +19056,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -19121,8 +19121,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -19192,8 +19192,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Heal: From Dmg"
+                    "Atk - Area",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -19317,7 +19317,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -19383,7 +19383,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -19448,8 +19448,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -19512,7 +19512,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -19571,8 +19571,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -19632,8 +19632,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -19701,7 +19701,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -19774,7 +19774,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -19845,7 +19845,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -19898,7 +19898,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -19949,7 +19949,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             }
         ]
@@ -19997,7 +19997,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -20051,7 +20051,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -20113,7 +20113,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -20170,7 +20170,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -20226,7 +20226,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -20289,7 +20289,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -20353,7 +20353,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -20431,7 +20431,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -20645,7 +20645,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -20710,8 +20710,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -20782,7 +20782,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -20852,8 +20852,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -20917,8 +20917,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -21041,8 +21041,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -21111,7 +21111,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -21177,7 +21177,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -21237,8 +21237,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -21304,9 +21304,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
-                    "Atk: Variable Targets"
+                    "Atk - Single",
+                    "Dmg - DoT",
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -21373,9 +21373,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
-                    "Atk: Variable Targets"
+                    "Atk - Single",
+                    "Dmg - DoT",
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -21444,7 +21444,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -21512,8 +21512,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -21764,7 +21764,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -21824,7 +21824,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -21880,7 +21880,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -21933,7 +21933,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -21991,7 +21991,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -22050,7 +22050,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -22108,7 +22108,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -22159,7 +22159,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -22212,7 +22212,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -22270,7 +22270,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -22333,7 +22333,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -22591,7 +22591,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -22648,7 +22648,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -22705,7 +22705,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -22758,7 +22758,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -22816,7 +22816,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -22875,7 +22875,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -22935,7 +22935,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -23052,7 +23052,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             }
         ]
@@ -23105,7 +23105,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -23171,7 +23171,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -23226,7 +23226,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -23291,8 +23291,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -23350,7 +23350,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -23401,7 +23401,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -23454,7 +23454,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -23511,7 +23511,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -23569,7 +23569,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -23622,7 +23622,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -23678,8 +23678,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -23735,7 +23735,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -23795,7 +23795,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Revive"
+                    "Heal - Revive"
                 ]
             },
             {
@@ -23852,8 +23852,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             }
         ]
@@ -23899,7 +23899,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -23952,8 +23952,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -24005,7 +24005,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             }
         ]
@@ -24053,7 +24053,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -24110,7 +24110,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -24167,7 +24167,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -24218,7 +24218,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -24271,7 +24271,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -24338,7 +24338,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -24389,7 +24389,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -24442,7 +24442,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -24500,7 +24500,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -24560,7 +24560,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Revive"
+                    "Heal - Revive"
                 ]
             }
         ]
@@ -24610,7 +24610,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -24667,7 +24667,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -24736,7 +24736,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -24842,7 +24842,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -24900,7 +24900,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -24961,7 +24961,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -25028,7 +25028,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -25084,7 +25084,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25142,7 +25142,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25209,7 +25209,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -25264,7 +25264,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25319,7 +25319,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -25383,7 +25383,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25449,10 +25449,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive",
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Heal - Revive",
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -25518,7 +25518,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -25572,7 +25572,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -25627,7 +25627,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25693,7 +25693,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25751,7 +25751,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -25804,7 +25804,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -25858,7 +25858,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -25921,7 +25921,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -25985,7 +25985,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -26053,7 +26053,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -26115,7 +26115,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -26173,7 +26173,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -26225,8 +26225,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Heal: Over Time"
+                    "Atk - Minor to Nearby",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -26280,9 +26280,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Atk - All",
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -26341,8 +26341,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Heal: Over Time"
+                    "Atk - Minor to Nearby",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -26399,8 +26399,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special",
-                    "Atk: All"
+                    "Heal - Special",
+                    "Atk - All"
                 ]
             },
             {
@@ -26454,8 +26454,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -26512,7 +26512,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -26571,7 +26571,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -26627,7 +26627,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -26685,7 +26685,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -26741,7 +26741,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -26799,7 +26799,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -26851,7 +26851,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -26904,7 +26904,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -26957,7 +26957,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -27014,7 +27014,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -27072,7 +27072,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -27131,7 +27131,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -27193,7 +27193,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -27260,7 +27260,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -27316,7 +27316,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -27369,7 +27369,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -27423,7 +27423,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -27481,7 +27481,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -27544,7 +27544,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -27601,7 +27601,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -27657,7 +27657,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -27711,7 +27711,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -27766,7 +27766,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -27825,7 +27825,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -27884,7 +27884,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -27942,7 +27942,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -28129,8 +28129,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -28204,8 +28204,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -28271,8 +28271,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -28336,7 +28336,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -28395,7 +28395,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -28457,7 +28457,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -28511,7 +28511,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -28569,8 +28569,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -28634,8 +28634,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -28691,7 +28691,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -28743,7 +28743,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -28796,7 +28796,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -28849,7 +28849,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -28907,7 +28907,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -28970,7 +28970,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -29033,7 +29033,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -29098,7 +29098,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -29156,8 +29156,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -29216,8 +29216,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -29276,7 +29276,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -29340,7 +29340,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -29394,7 +29394,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -29454,7 +29454,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -29525,9 +29525,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -29591,7 +29591,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -29655,7 +29655,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -29708,8 +29708,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -29770,8 +29770,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -29833,8 +29833,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -29893,7 +29893,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -29952,7 +29952,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30064,7 +30064,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30142,8 +30142,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -30213,7 +30213,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -30278,7 +30278,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -30333,7 +30333,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30392,7 +30392,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30456,7 +30456,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30519,7 +30519,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -30580,8 +30580,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Special"
+                    "Heal - Boost Health",
+                    "Heal - Special"
                 ]
             },
             {
@@ -30652,7 +30652,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -30716,7 +30716,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30774,7 +30774,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30835,7 +30835,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -30903,7 +30903,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -30964,7 +30964,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -31089,7 +31089,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -31156,7 +31156,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -31226,7 +31226,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -31292,7 +31292,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -31359,7 +31359,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -31424,8 +31424,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -31485,8 +31485,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -31551,8 +31551,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: Over Time"
+                    "Atk - Single",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -31612,7 +31612,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -31672,7 +31672,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -31735,9 +31735,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT",
-                    "Heal: Boost Health",
-                    "Heal: Special"
+                    "Dmg - DoT",
+                    "Heal - Boost Health",
+                    "Heal - Special"
                 ]
             },
             {
@@ -31800,8 +31800,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: All"
+                    "Atk - Single",
+                    "Atk - All"
                 ]
             },
             {
@@ -31866,8 +31866,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: All"
+                    "Atk - Single",
+                    "Atk - All"
                 ]
             },
             {
@@ -31934,7 +31934,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -32001,8 +32001,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -32072,8 +32072,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -32146,8 +32146,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Revive"
+                    "Heal - Instant",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -32205,8 +32205,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -32272,8 +32272,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: Edges"
+                    "Heal - Boost Health",
+                    "Atk - Edges"
                 ]
             },
             {
@@ -32385,7 +32385,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -32441,7 +32441,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -32505,8 +32505,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -32564,7 +32564,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -32627,7 +32627,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -32694,7 +32694,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -32756,7 +32756,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -32820,7 +32820,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -32871,7 +32871,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -32924,7 +32924,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -32977,7 +32977,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -33035,7 +33035,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -33094,7 +33094,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -33153,7 +33153,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -33222,7 +33222,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -33292,7 +33292,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -33424,8 +33424,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -33495,8 +33495,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: All"
+                    "Heal - Instant",
+                    "Atk - All"
                 ]
             },
             {
@@ -33551,8 +33551,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Heal: Over Time"
+                    "Atk - Area",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -33616,8 +33616,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Heal: Over Time"
+                    "Atk - Area",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -33689,7 +33689,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -33757,7 +33757,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -33822,8 +33822,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -33889,8 +33889,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -33950,8 +33950,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -34013,8 +34013,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -34071,7 +34071,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -34134,7 +34134,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -34198,7 +34198,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -34256,7 +34256,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -34315,7 +34315,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -34373,8 +34373,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -34442,7 +34442,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -34502,7 +34502,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -34569,7 +34569,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -34645,7 +34645,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -34706,7 +34706,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -34766,7 +34766,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -34823,7 +34823,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -34889,7 +34889,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -34970,7 +34970,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -35032,7 +35032,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -35096,7 +35096,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -35161,7 +35161,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -35231,7 +35231,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -35295,7 +35295,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -35353,7 +35353,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -35415,7 +35415,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -35475,7 +35475,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -35538,8 +35538,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -35659,7 +35659,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -35725,7 +35725,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -35843,7 +35843,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -35911,8 +35911,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Special"
+                    "Heal - Over Time",
+                    "Heal - Special"
                 ]
             },
             {
@@ -35979,8 +35979,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -36039,8 +36039,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Revive"
+                    "Heal - Boost Health",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -36094,8 +36094,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Revive"
+                    "Heal - Boost Health",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -36146,7 +36146,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36199,7 +36199,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36254,8 +36254,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -36315,7 +36315,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36378,7 +36378,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36441,7 +36441,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -36503,9 +36503,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - All",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -36566,7 +36566,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -36628,8 +36628,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -36696,9 +36696,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Variable Targets",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -36759,7 +36759,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -36815,7 +36815,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36869,7 +36869,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36928,7 +36928,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -36991,7 +36991,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -37054,7 +37054,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -37132,7 +37132,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -37193,7 +37193,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -37269,8 +37269,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: All"
+                    "Heal - Boost Health",
+                    "Atk - All"
                 ]
             },
             {
@@ -37332,7 +37332,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -37397,7 +37397,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -37459,8 +37459,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -37518,8 +37518,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -37571,7 +37571,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -37627,7 +37627,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -37698,7 +37698,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -37763,7 +37763,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -37893,8 +37893,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -37944,7 +37944,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             }
         ]
@@ -37992,7 +37992,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -38045,7 +38045,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -38102,7 +38102,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -38159,7 +38159,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -38216,7 +38216,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -38273,8 +38273,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -38349,7 +38349,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -38418,7 +38418,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -38477,7 +38477,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -38543,7 +38543,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -38607,7 +38607,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -38675,7 +38675,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -38738,7 +38738,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -38804,7 +38804,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -38865,9 +38865,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Instant",
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -38923,7 +38923,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -38983,7 +38983,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -39046,7 +39046,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -39112,8 +39112,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -39244,7 +39244,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
+                    "Atk - Minor to Nearby",
                     "Atk - Extra Attack"
                 ]
             },
@@ -39361,7 +39361,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -39423,7 +39423,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -39474,7 +39474,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -39536,8 +39536,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Revive"
+                    "Heal - Instant",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -39595,8 +39595,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -39655,7 +39655,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -39718,7 +39718,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -39840,8 +39840,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -39902,7 +39902,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -39965,7 +39965,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -40019,8 +40019,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: All"
+                    "Heal - From Dmg",
+                    "Atk - All"
                 ]
             },
             {
@@ -40086,7 +40086,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -40149,8 +40149,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets",
-                    "Dmg: DoT"
+                    "Atk - Variable Targets",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -40207,7 +40207,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -40273,7 +40273,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -40337,8 +40337,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
+                    "Atk - Single",
+                    "Dmg - DoT",
                     "Atk - Extra Attack"
                 ]
             },
@@ -40467,7 +40467,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -40529,7 +40529,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -40583,7 +40583,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -40644,7 +40644,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -40711,7 +40711,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -40769,7 +40769,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -40822,7 +40822,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -40878,8 +40878,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Revive"
+                    "Heal - Instant",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -40940,7 +40940,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -41005,7 +41005,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             }
         ]
@@ -41066,7 +41066,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -41120,7 +41120,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -41182,7 +41182,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -41246,7 +41246,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -41370,7 +41370,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -41434,7 +41434,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -41499,7 +41499,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -41568,7 +41568,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -41624,7 +41624,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -41687,9 +41687,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health",
-                    "Heal: Special"
+                    "Heal - Over Time",
+                    "Heal - Boost Health",
+                    "Heal - Special"
                 ]
             },
             {
@@ -41748,8 +41748,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -41808,7 +41808,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -41883,8 +41883,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT",
-                    "Atk: All"
+                    "Dmg - DoT",
+                    "Atk - All"
                 ]
             },
             {
@@ -41950,7 +41950,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -42014,7 +42014,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -42084,7 +42084,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -42154,7 +42154,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets",
+                    "Atk - Variable Targets",
                     "Atk - Extra Attack"
                 ]
             },
@@ -42207,7 +42207,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -42260,7 +42260,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -42317,7 +42317,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -42373,8 +42373,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -42433,8 +42433,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -42506,8 +42506,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Dmg: DoT"
+                    "Heal - Instant",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -42580,9 +42580,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: From Dmg",
-                    "Dmg: DoT"
+                    "Heal - Instant",
+                    "Heal - From Dmg",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -42653,7 +42653,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -42709,7 +42709,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -42767,7 +42767,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -42830,7 +42830,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -42893,7 +42893,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -42956,7 +42956,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -43034,7 +43034,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -43104,8 +43104,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -43167,7 +43167,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -43224,7 +43224,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -43282,7 +43282,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -43339,7 +43339,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -43396,8 +43396,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -43462,8 +43462,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -43533,7 +43533,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -43598,7 +43598,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -43660,7 +43660,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -43732,7 +43732,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -43795,7 +43795,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -43864,7 +43864,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -43923,7 +43923,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -43989,8 +43989,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -44049,8 +44049,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -44107,8 +44107,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -44179,9 +44179,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Atk - Variable Targets",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -44238,8 +44238,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets"
+                    "Atk - Single",
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -44294,7 +44294,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -44365,7 +44365,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -44444,7 +44444,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -44512,7 +44512,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -44578,8 +44578,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets"
+                    "Atk - Single",
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -44647,8 +44647,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets"
+                    "Atk - Single",
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -44895,7 +44895,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -45002,7 +45002,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -45067,7 +45067,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -45118,7 +45118,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             }
         ]
@@ -45166,8 +45166,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -45224,7 +45224,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -45281,7 +45281,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -45338,7 +45338,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -45393,7 +45393,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -45444,7 +45444,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -45499,7 +45499,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -45563,7 +45563,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -45664,7 +45664,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -45715,8 +45715,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets"
+                    "Atk - Single",
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -45933,7 +45933,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -45985,7 +45985,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -46040,7 +46040,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -46097,7 +46097,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -46162,8 +46162,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -46223,7 +46223,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -46290,7 +46290,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -46347,8 +46347,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -46400,7 +46400,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -46458,8 +46458,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -46522,8 +46522,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -46583,7 +46583,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -46634,7 +46634,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -46687,7 +46687,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -46745,7 +46745,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -46804,7 +46804,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -46863,7 +46863,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -46915,7 +46915,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -46968,7 +46968,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47026,7 +47026,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47085,7 +47085,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47139,7 +47139,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -47192,7 +47192,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47245,7 +47245,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47303,7 +47303,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47366,7 +47366,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47431,7 +47431,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -47491,7 +47491,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -47549,7 +47549,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -47613,7 +47613,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -47720,7 +47720,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -47783,7 +47783,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -47839,8 +47839,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -47903,8 +47903,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -47975,7 +47975,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -48031,7 +48031,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -48083,7 +48083,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -48139,7 +48139,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -48199,7 +48199,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -48508,7 +48508,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -48560,7 +48560,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -48621,8 +48621,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -48675,7 +48675,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -48730,7 +48730,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -48794,7 +48794,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -48853,8 +48853,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -48908,7 +48908,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -48965,8 +48965,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49025,8 +49025,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49084,9 +49084,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Heal: From Dmg",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Heal - From Dmg",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49148,7 +49148,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -49209,7 +49209,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -49266,7 +49266,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -49385,8 +49385,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49438,7 +49438,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -49497,7 +49497,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -49553,7 +49553,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49607,7 +49607,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49666,7 +49666,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -49723,7 +49723,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -49777,7 +49777,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -49836,7 +49836,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -49899,7 +49899,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -49962,7 +49962,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -50024,7 +50024,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -50081,7 +50081,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -50135,7 +50135,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -50194,7 +50194,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -50257,7 +50257,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -50316,7 +50316,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -50548,7 +50548,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -50605,8 +50605,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges",
-                    "Dmg: DoT"
+                    "Atk - Edges",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -50660,7 +50660,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -50716,8 +50716,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
+                    "Atk - Single",
+                    "Dmg - DoT",
                     "Atk - Extra Attack"
                 ]
             },
@@ -50769,7 +50769,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -50822,7 +50822,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -50875,7 +50875,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -50933,7 +50933,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -50996,7 +50996,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -51074,8 +51074,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
+                    "Atk - Single",
+                    "Dmg - DoT",
                     "Atk - Chain"
                 ]
             },
@@ -51139,7 +51139,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -51201,7 +51201,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -51272,7 +51272,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -51331,7 +51331,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -51396,7 +51396,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -51468,9 +51468,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -51543,8 +51543,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -51613,8 +51613,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -51689,9 +51689,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Boost Health",
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -51763,7 +51763,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -51826,7 +51826,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -51882,7 +51882,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -51949,7 +51949,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -52013,7 +52013,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -52072,7 +52072,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -52141,7 +52141,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -52208,7 +52208,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -52267,8 +52267,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: Area"
+                    "Heal - Boost Health",
+                    "Atk - Area"
                 ]
             },
             {
@@ -52330,8 +52330,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: Area"
+                    "Heal - Boost Health",
+                    "Atk - Area"
                 ]
             },
             {
@@ -52391,7 +52391,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -52460,7 +52460,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -52538,8 +52538,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -52603,7 +52603,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -52670,7 +52670,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -52733,7 +52733,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -52798,7 +52798,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -52861,7 +52861,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -52939,7 +52939,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -53007,8 +53007,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -53062,7 +53062,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -53123,7 +53123,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -53245,7 +53245,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -53311,7 +53311,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -53371,8 +53371,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Boost Health"
+                    "Atk - All",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -53429,7 +53429,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -53494,7 +53494,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -53566,7 +53566,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -53638,10 +53638,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Instant",
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Boost Health",
+                    "Heal - Instant",
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             }
         ]
@@ -53693,8 +53693,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -53763,8 +53763,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -53826,8 +53826,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -53891,8 +53891,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -53955,7 +53955,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -54019,7 +54019,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
+                    "Heal - Instant",
                     "Atk - Extra Attack"
                 ]
             },
@@ -54080,7 +54080,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -54145,7 +54145,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -54211,7 +54211,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -54269,7 +54269,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -54331,7 +54331,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -54384,7 +54384,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -54439,8 +54439,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -54495,7 +54495,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -54559,7 +54559,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -54624,7 +54624,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -54688,7 +54688,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -54749,7 +54749,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -54809,7 +54809,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -54868,7 +54868,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -54932,9 +54932,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
-                    "Heal: From Dmg",
+                    "Atk - Single",
+                    "Dmg - DoT",
+                    "Heal - From Dmg",
                     "Atk - Extra Attack"
                 ]
             },
@@ -54995,7 +54995,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -55058,8 +55058,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Special"
+                    "Heal - Over Time",
+                    "Heal - Special"
                 ]
             },
             {
@@ -55122,8 +55122,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -55188,7 +55188,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -55263,7 +55263,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -55333,8 +55333,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -55402,7 +55402,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -55469,7 +55469,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -55537,8 +55537,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -55609,8 +55609,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg"
+                    "Atk - Single",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -55843,7 +55843,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -55903,7 +55903,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -55962,7 +55962,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -56018,7 +56018,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -56081,8 +56081,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -56266,7 +56266,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -56324,7 +56324,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -56383,7 +56383,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -56449,7 +56449,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -56507,7 +56507,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -56574,7 +56574,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -56640,8 +56640,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -56705,8 +56705,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -56760,7 +56760,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -56830,7 +56830,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -56902,7 +56902,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -56974,7 +56974,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -57043,7 +57043,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -57111,8 +57111,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -57297,7 +57297,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -57363,8 +57363,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -57438,7 +57438,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -57574,8 +57574,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -57628,8 +57628,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges",
-                    "Dmg: DoT"
+                    "Atk - Edges",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -57686,8 +57686,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges",
-                    "Dmg: DoT"
+                    "Atk - Edges",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -57750,10 +57750,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: All",
-                    "Dmg: DoT",
-                    "Heal: From Dmg"
+                    "Atk - Single",
+                    "Atk - All",
+                    "Dmg - DoT",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -57825,11 +57825,11 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: All",
-                    "Dmg: DoT",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Atk - All",
+                    "Dmg - DoT",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -57893,7 +57893,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -57958,7 +57958,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -58018,7 +58018,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -58083,7 +58083,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -58140,7 +58140,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -58198,7 +58198,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -58254,7 +58254,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -58313,7 +58313,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -58380,7 +58380,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -58433,8 +58433,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: Over Time"
+                    "Atk - Single",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -58492,8 +58492,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: Over Time"
+                    "Atk - Single",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -58550,7 +58550,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -58614,7 +58614,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -58665,7 +58665,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -58722,7 +58722,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -58774,7 +58774,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -58840,7 +58840,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -58899,7 +58899,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -58965,7 +58965,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -59027,8 +59027,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -59092,8 +59092,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -59150,7 +59150,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -59222,7 +59222,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -59285,7 +59285,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -59348,7 +59348,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -59406,7 +59406,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -59473,7 +59473,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -59535,8 +59535,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: Area"
+                    "Heal - Over Time",
+                    "Atk - Area"
                 ]
             },
             {
@@ -59650,7 +59650,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
+                    "Heal - Instant",
                     "Atk - Extra Attack"
                 ]
             },
@@ -59711,7 +59711,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -59776,8 +59776,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Special"
+                    "Heal - Boost Health",
+                    "Heal - Special"
                 ]
             },
             {
@@ -59848,7 +59848,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -59918,9 +59918,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Atk - All",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -59983,9 +59983,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: All",
-                    "Heal: Revive"
+                    "Heal - Boost Health",
+                    "Atk - All",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -60050,8 +60050,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges",
-                    "Dmg: DoT"
+                    "Atk - Edges",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -60112,7 +60112,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -60177,7 +60177,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -60247,7 +60247,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -60305,7 +60305,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Revive"
+                    "Heal - Revive"
                 ]
             },
             {
@@ -60388,8 +60388,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -60447,7 +60447,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -60507,7 +60507,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -60577,7 +60577,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -60642,7 +60642,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -60707,8 +60707,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: Single"
+                    "Heal - From Dmg",
+                    "Atk - Single"
                 ]
             },
             {
@@ -60772,7 +60772,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -60832,7 +60832,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -60888,7 +60888,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -60950,7 +60950,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -61015,7 +61015,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -61088,7 +61088,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -61144,7 +61144,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -61197,7 +61197,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -61251,7 +61251,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -61310,7 +61310,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -61373,7 +61373,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -61436,7 +61436,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -61504,7 +61504,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
+                    "Heal - Boost Health",
                     "Atk - Extra Attack"
                 ]
             },
@@ -61567,7 +61567,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -61636,7 +61636,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -61702,7 +61702,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -61764,8 +61764,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -61832,7 +61832,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -62027,8 +62027,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special",
-                    "Atk: All"
+                    "Heal - Special",
+                    "Atk - All"
                 ]
             },
             {
@@ -62086,7 +62086,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -62151,7 +62151,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -62206,7 +62206,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             }
         ]
@@ -62254,7 +62254,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -62307,7 +62307,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -62364,7 +62364,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -62421,7 +62421,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -62482,8 +62482,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: Special"
+                    "Atk - Single",
+                    "Heal - Special"
                 ]
             },
             {
@@ -62552,7 +62552,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -62608,8 +62608,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -62664,7 +62664,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -62724,7 +62724,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -62778,7 +62778,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -62838,7 +62838,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -62894,7 +62894,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -62952,8 +62952,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63005,8 +63005,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63058,7 +63058,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             }
         ]
@@ -63107,7 +63107,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -63170,8 +63170,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63234,8 +63234,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63298,8 +63298,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63372,7 +63372,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -63433,7 +63433,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -63496,7 +63496,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -63565,7 +63565,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -63631,7 +63631,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -63693,7 +63693,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -63761,7 +63761,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -63824,7 +63824,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63895,7 +63895,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -63961,7 +63961,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -64024,7 +64024,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
+                    "Atk - All",
                     "Atk - Extra Attack"
                 ]
             },
@@ -64089,8 +64089,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -64219,8 +64219,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -64338,7 +64338,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -64404,7 +64404,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -64463,7 +64463,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -64526,7 +64526,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -64597,7 +64597,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -64658,7 +64658,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -64724,7 +64724,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -64782,7 +64782,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -64845,7 +64845,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -64910,7 +64910,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -64976,7 +64976,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -65049,7 +65049,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -65123,7 +65123,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -65189,7 +65189,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -65252,7 +65252,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -65322,7 +65322,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -65397,7 +65397,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -65460,7 +65460,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -65526,7 +65526,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -65585,7 +65585,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -65646,7 +65646,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -65714,8 +65714,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -65781,8 +65781,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
+                    "Atk - Single",
+                    "Dmg - DoT",
                     "Atk - Chain"
                 ]
             },
@@ -65849,7 +65849,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -65909,7 +65909,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -65971,7 +65971,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -66034,8 +66034,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -66100,8 +66100,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -66162,7 +66162,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -66234,7 +66234,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -66294,7 +66294,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -66353,8 +66353,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg"
+                    "Atk - Single",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -66422,7 +66422,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -66486,7 +66486,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -66549,8 +66549,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -66612,7 +66612,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -66678,7 +66678,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -66743,7 +66743,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -66811,7 +66811,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -66876,7 +66876,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -66939,7 +66939,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -67230,7 +67230,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -67283,7 +67283,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -67341,7 +67341,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -67400,7 +67400,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -67459,7 +67459,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -67522,7 +67522,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -67589,7 +67589,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -67696,7 +67696,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -67759,7 +67759,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -67818,7 +67818,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -67890,8 +67890,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -67956,8 +67956,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Boost Health"
+                    "Heal - Instant",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -68020,7 +68020,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -68073,7 +68073,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -68131,7 +68131,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -68199,7 +68199,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -68311,7 +68311,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             }
         ]
@@ -68359,7 +68359,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -68416,7 +68416,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -68473,7 +68473,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -68532,7 +68532,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -68593,7 +68593,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -68644,8 +68644,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -68698,8 +68698,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -68757,8 +68757,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -68821,8 +68821,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -68885,8 +68885,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69001,8 +69001,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69070,7 +69070,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -69122,7 +69122,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -69173,8 +69173,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69227,8 +69227,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69286,8 +69286,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69350,8 +69350,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69455,7 +69455,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -69516,8 +69516,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69574,7 +69574,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -69634,7 +69634,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -69698,8 +69698,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -69751,7 +69751,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -69802,7 +69802,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -69860,7 +69860,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -69923,7 +69923,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -69979,7 +69979,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -70138,7 +70138,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -70202,7 +70202,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -70271,8 +70271,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -70330,7 +70330,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -70387,7 +70387,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -70440,7 +70440,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -70493,8 +70493,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -70551,7 +70551,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -70609,7 +70609,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -70667,7 +70667,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -70773,7 +70773,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -70826,8 +70826,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -70880,8 +70880,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -70935,7 +70935,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -70998,8 +70998,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -71062,8 +71062,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -71126,8 +71126,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -71183,7 +71183,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -71344,7 +71344,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -71398,8 +71398,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Special"
+                    "Atk - All",
+                    "Heal - Special"
                 ]
             },
             {
@@ -71452,7 +71452,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -71510,7 +71510,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -71574,7 +71574,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -71630,7 +71630,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -71694,8 +71694,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -71758,7 +71758,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -71820,8 +71820,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: Single"
+                    "Heal - From Dmg",
+                    "Atk - Single"
                 ]
             }
         ]
@@ -71880,8 +71880,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: Single"
+                    "Heal - From Dmg",
+                    "Atk - Single"
                 ]
             }
         ]
@@ -71927,8 +71927,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -71980,8 +71980,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72034,8 +72034,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72098,8 +72098,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72162,8 +72162,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72226,8 +72226,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72287,8 +72287,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72345,8 +72345,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72408,8 +72408,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Atk: Single",
+                    "Atk - All",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -72579,8 +72579,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT",
+                    "Atk - Single",
+                    "Dmg - DoT",
                     "Atk - Extra Attack"
                 ]
             },
@@ -72639,7 +72639,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -72704,8 +72704,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72771,8 +72771,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -72836,7 +72836,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -72898,8 +72898,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -72956,8 +72956,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -73008,7 +73008,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -73062,8 +73062,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby",
-                    "Dmg: DoT"
+                    "Atk - Minor to Nearby",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -73121,7 +73121,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -73179,7 +73179,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -73242,7 +73242,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -73303,7 +73303,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Revive"
+                    "Heal - Revive"
                 ]
             },
             {
@@ -73362,7 +73362,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -73414,7 +73414,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -73467,7 +73467,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -73522,7 +73522,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -73582,7 +73582,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -73639,7 +73639,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -73692,7 +73692,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -73750,7 +73750,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -73802,7 +73802,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -73859,7 +73859,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -73971,7 +73971,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -74026,7 +74026,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -74078,8 +74078,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -74145,8 +74145,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -74210,8 +74210,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -74280,7 +74280,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -74351,9 +74351,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -74420,7 +74420,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -74485,7 +74485,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -74548,7 +74548,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -74610,7 +74610,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -74668,7 +74668,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -74732,7 +74732,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -74794,7 +74794,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -74855,8 +74855,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: All"
+                    "Heal - From Dmg",
+                    "Atk - All"
                 ]
             },
             {
@@ -74912,7 +74912,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -74974,7 +74974,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -75032,7 +75032,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -75093,8 +75093,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -75156,7 +75156,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -75228,7 +75228,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -75300,8 +75300,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75373,7 +75373,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -75430,8 +75430,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75504,8 +75504,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets",
-                    "Dmg: DoT"
+                    "Atk - Variable Targets",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75568,7 +75568,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -75624,8 +75624,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75679,8 +75679,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75738,8 +75738,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75802,8 +75802,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75866,8 +75866,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75930,8 +75930,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -75996,8 +75996,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Boost Health"
+                    "Heal - Instant",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -76062,8 +76062,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random",
-                    "Heal: Boost Health",
+                    "Atk - Random",
+                    "Heal - Boost Health",
                     "Atk - Extra Attack"
                 ]
             }
@@ -76114,8 +76114,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: Boost Health",
+                    "Atk - Single",
+                    "Heal - Boost Health",
                     "Atk - Extra Attack"
                 ]
             }
@@ -76170,8 +76170,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Atk: Random"
+                    "Atk - Area",
+                    "Atk - Random"
                 ]
             },
             {
@@ -76237,7 +76237,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -76303,7 +76303,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -76369,8 +76369,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Atk: Single"
+                    "Heal - Instant",
+                    "Atk - Single"
                 ]
             },
             {
@@ -76433,7 +76433,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -76505,8 +76505,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -76573,7 +76573,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -76738,8 +76738,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -76797,7 +76797,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -76860,7 +76860,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -76921,7 +76921,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -76976,7 +76976,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -77036,7 +77036,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -77093,7 +77093,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -77150,7 +77150,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -77212,9 +77212,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack",
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -77285,8 +77285,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg"
+                    "Atk - Single",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -77348,7 +77348,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -77412,7 +77412,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -77478,7 +77478,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -77538,7 +77538,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -77601,9 +77601,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Heal - From Dmg",
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -77660,9 +77660,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Boost Health",
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -77781,7 +77781,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -77896,7 +77896,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -77955,7 +77955,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -78012,8 +78012,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78078,8 +78078,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78141,7 +78141,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -78212,8 +78212,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78275,8 +78275,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78344,8 +78344,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78413,8 +78413,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78474,9 +78474,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Atk - Variable Targets",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78541,9 +78541,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Variable Targets",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Atk - Variable Targets",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78605,9 +78605,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT",
-                    "Heal: From Dmg"
+                    "Atk - Area",
+                    "Dmg - DoT",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -78666,8 +78666,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -78737,7 +78737,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -78794,7 +78794,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -78850,8 +78850,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special",
-                    "Atk: Area"
+                    "Heal - Special",
+                    "Atk - Area"
                 ]
             },
             {
@@ -78902,7 +78902,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -78955,7 +78955,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -79008,7 +79008,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -79066,7 +79066,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -79129,7 +79129,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -79193,8 +79193,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -79257,7 +79257,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -79324,7 +79324,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -79386,7 +79386,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -79447,8 +79447,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -79512,8 +79512,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -79588,8 +79588,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -79659,8 +79659,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -79733,8 +79733,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -79811,7 +79811,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -79872,7 +79872,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -79945,7 +79945,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -80014,7 +80014,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -80084,8 +80084,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -80148,7 +80148,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -80213,7 +80213,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -80289,8 +80289,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg"
+                    "Atk - Single",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -80352,7 +80352,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -80415,9 +80415,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Edges",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Atk - Edges",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -80476,7 +80476,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -80527,7 +80527,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -80580,7 +80580,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -80648,7 +80648,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -80727,7 +80727,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -80848,8 +80848,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -80918,8 +80918,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -80986,7 +80986,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -81043,7 +81043,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -81102,7 +81102,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -81160,7 +81160,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special"
+                    "Heal - Special"
                 ]
             },
             {
@@ -81220,7 +81220,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -81283,7 +81283,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -81347,8 +81347,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -81405,7 +81405,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -81467,8 +81467,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -81538,7 +81538,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -81605,7 +81605,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -81668,7 +81668,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -81734,8 +81734,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -81806,8 +81806,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -81994,7 +81994,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -82055,7 +82055,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -82108,7 +82108,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -82166,7 +82166,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -82240,8 +82240,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -82310,8 +82310,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -82368,7 +82368,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -82423,7 +82423,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -82478,7 +82478,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -82538,7 +82538,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -82603,7 +82603,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -82667,7 +82667,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -82733,7 +82733,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -82790,7 +82790,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -82851,7 +82851,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -82903,7 +82903,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -82958,7 +82958,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -83025,7 +83025,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -83096,7 +83096,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -83147,7 +83147,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -83211,7 +83211,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -83269,8 +83269,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg"
+                    "Atk - Single",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -83345,7 +83345,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -83409,7 +83409,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -83482,8 +83482,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -83548,7 +83548,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -83600,8 +83600,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -83655,7 +83655,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -83710,8 +83710,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -83770,8 +83770,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -83834,8 +83834,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -83898,8 +83898,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -83956,7 +83956,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -84015,7 +84015,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -84079,7 +84079,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -84146,10 +84146,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive",
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Heal - Revive",
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -84221,9 +84221,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Heal - Revive",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -84300,8 +84300,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -84364,7 +84364,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -84434,7 +84434,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -84505,7 +84505,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -84571,8 +84571,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time"
+                    "Heal - Instant",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -84632,8 +84632,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Special"
+                    "Atk - All",
+                    "Heal - Special"
                 ]
             },
             {
@@ -84698,7 +84698,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -84761,7 +84761,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -84827,7 +84827,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -84880,7 +84880,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -84935,7 +84935,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -84992,7 +84992,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -85058,7 +85058,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -85122,7 +85122,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -85186,8 +85186,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -85241,7 +85241,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -85309,7 +85309,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -85369,7 +85369,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -85436,7 +85436,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -85503,7 +85503,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -85561,7 +85561,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -85621,7 +85621,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -85679,7 +85679,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -85744,7 +85744,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -85879,7 +85879,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -85945,8 +85945,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -86022,9 +86022,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT",
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Dmg - DoT",
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -86088,8 +86088,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -86154,7 +86154,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -86227,7 +86227,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -86294,7 +86294,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -86357,7 +86357,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -86421,8 +86421,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -86481,7 +86481,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -86551,8 +86551,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time"
+                    "Heal - Instant",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -86616,7 +86616,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -86687,8 +86687,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Boost Health"
+                    "Atk - All",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -86758,7 +86758,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -86824,8 +86824,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -86894,8 +86894,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -86962,8 +86962,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -87033,7 +87033,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -87101,7 +87101,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -87164,7 +87164,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -87229,7 +87229,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -87292,7 +87292,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -87360,7 +87360,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -87426,7 +87426,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -87487,9 +87487,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Special",
-                    "Heal: Boost Health"
+                    "Atk - All",
+                    "Heal - Special",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -87553,8 +87553,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: Single"
+                    "Heal - From Dmg",
+                    "Atk - Single"
                 ]
             }
         ]
@@ -87613,8 +87613,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: Single"
+                    "Heal - From Dmg",
+                    "Atk - Single"
                 ]
             }
         ]
@@ -87671,8 +87671,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -87738,7 +87738,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -87804,7 +87804,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -87869,7 +87869,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -87938,10 +87938,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Area",
+                    "Dmg - DoT",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -87999,8 +87999,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -88066,8 +88066,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -88131,8 +88131,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -88200,7 +88200,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -88270,7 +88270,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -88327,7 +88327,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -88388,7 +88388,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -88462,7 +88462,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -88524,8 +88524,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -88586,8 +88586,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -88655,8 +88655,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -88720,8 +88720,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -88782,7 +88782,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -88845,7 +88845,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -88910,7 +88910,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -88976,8 +88976,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -89055,7 +89055,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -89114,8 +89114,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -89182,8 +89182,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -89244,7 +89244,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -89302,7 +89302,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -89418,7 +89418,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -89480,8 +89480,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -89546,7 +89546,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -89611,8 +89611,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -89683,7 +89683,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -89738,7 +89738,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -89798,7 +89798,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -89857,7 +89857,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -89929,8 +89929,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -89996,8 +89996,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -90061,8 +90061,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -90314,7 +90314,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -90367,8 +90367,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -90421,7 +90421,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -90474,7 +90474,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -90532,7 +90532,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -90595,7 +90595,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -90696,8 +90696,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special",
-                    "Heal: Over Time"
+                    "Heal - Special",
+                    "Heal - Over Time"
                 ]
             }
         ]
@@ -90750,7 +90750,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -90807,7 +90807,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -90859,7 +90859,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             }
         ]
@@ -90907,7 +90907,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -90965,7 +90965,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -91022,7 +91022,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -91080,7 +91080,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91138,7 +91138,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -91200,7 +91200,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91267,7 +91267,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91324,7 +91324,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91377,7 +91377,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91435,7 +91435,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91494,7 +91494,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91553,7 +91553,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -91612,8 +91612,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -91676,7 +91676,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -91739,7 +91739,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -91806,7 +91806,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -91859,7 +91859,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -92127,7 +92127,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -92187,7 +92187,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             }
         ]
@@ -92235,7 +92235,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -92296,7 +92296,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -92362,7 +92362,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -92424,7 +92424,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -92477,7 +92477,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -92535,7 +92535,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -92644,7 +92644,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -92699,7 +92699,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             }
@@ -92752,7 +92752,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             }
@@ -92805,8 +92805,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -92870,8 +92870,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -92929,8 +92929,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -92996,7 +92996,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -93048,7 +93048,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             }
@@ -93104,8 +93104,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Over Time"
+                    "Heal - Instant",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -93166,7 +93166,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -93228,7 +93228,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -93308,8 +93308,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -93374,7 +93374,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -93431,7 +93431,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -93493,7 +93493,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges"
+                    "Atk - Edges"
                 ]
             },
             {
@@ -93544,7 +93544,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -93597,7 +93597,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -93650,7 +93650,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -93708,7 +93708,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -93767,7 +93767,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -93825,7 +93825,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -93885,7 +93885,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -93958,7 +93958,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -94090,7 +94090,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -94159,7 +94159,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -94224,7 +94224,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -94277,7 +94277,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -94337,7 +94337,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -94394,7 +94394,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -94458,7 +94458,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -94515,7 +94515,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -94568,7 +94568,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -94619,7 +94619,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -94677,8 +94677,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -94736,8 +94736,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -94793,7 +94793,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -94847,7 +94847,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -94902,7 +94902,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -94961,7 +94961,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95024,7 +95024,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95080,7 +95080,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -95138,7 +95138,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -95194,7 +95194,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95247,7 +95247,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95300,7 +95300,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -95358,7 +95358,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95417,7 +95417,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95476,7 +95476,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -95530,7 +95530,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -95596,7 +95596,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -95656,7 +95656,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -95723,7 +95723,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -95787,9 +95787,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Boost Health",
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             }
         ]
@@ -95905,7 +95905,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -95963,7 +95963,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -96025,7 +96025,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -96076,7 +96076,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -96137,7 +96137,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -96245,7 +96245,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -96536,9 +96536,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - Single",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -96606,9 +96606,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain",
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -96668,7 +96668,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -96729,7 +96729,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -96787,7 +96787,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -96845,7 +96845,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -96910,7 +96910,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -96967,7 +96967,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -97027,7 +97027,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -97087,7 +97087,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -97147,7 +97147,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -97218,8 +97218,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -97290,8 +97290,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: All"
+                    "Heal - Over Time",
+                    "Atk - All"
                 ]
             },
             {
@@ -97359,8 +97359,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Revive"
+                    "Heal - Instant",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -97417,7 +97417,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -97484,7 +97484,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -97553,7 +97553,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -97616,7 +97616,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -97679,7 +97679,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -97740,7 +97740,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -97800,7 +97800,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -97870,7 +97870,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -97936,7 +97936,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -98004,8 +98004,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Boost Health"
+                    "Heal - Instant",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -98071,7 +98071,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -98136,8 +98136,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -98201,8 +98201,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -98257,7 +98257,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -98322,7 +98322,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -98386,8 +98386,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Revive"
+                    "Heal - Over Time",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -98449,7 +98449,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -98506,7 +98506,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -98569,7 +98569,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -98634,7 +98634,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -98693,7 +98693,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -98756,7 +98756,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -98818,7 +98818,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
+                    "Atk - Area",
                     "Atk - Extra Attack"
                 ]
             },
@@ -98878,7 +98878,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -98942,7 +98942,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -99000,7 +99000,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -99070,8 +99070,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -99268,7 +99268,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -99331,8 +99331,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -99398,8 +99398,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -99467,7 +99467,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -99534,7 +99534,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -99587,7 +99587,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -99644,7 +99644,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -99709,8 +99709,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Atk: All"
+                    "Atk - Area",
+                    "Atk - All"
                 ]
             },
             {
@@ -99770,7 +99770,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -99901,8 +99901,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: From Dmg"
+                    "Atk - All",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -99970,9 +99970,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
+                    "Atk - All",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -100038,7 +100038,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special"
+                    "Heal - Special"
                 ]
             },
             {
@@ -100103,7 +100103,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -100168,7 +100168,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -100232,8 +100232,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -100292,7 +100292,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special"
+                    "Heal - Special"
                 ]
             },
             {
@@ -100356,7 +100356,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Revive"
+                    "Heal - Revive"
                 ]
             },
             {
@@ -100418,8 +100418,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -100478,7 +100478,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -100541,7 +100541,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -100606,7 +100606,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -100666,8 +100666,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -100728,7 +100728,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -100785,7 +100785,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -100845,7 +100845,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -100907,9 +100907,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Instant",
-                    "Heal: Revive"
+                    "Atk - All",
+                    "Heal - Instant",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -100977,8 +100977,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -101037,7 +101037,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -101095,7 +101095,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -101159,8 +101159,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Special"
+                    "Heal - Boost Health",
+                    "Heal - Special"
                 ]
             },
             {
@@ -101223,7 +101223,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -101285,10 +101285,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: Area",
-                    "Dmg: DoT",
-                    "Heal: From Dmg"
+                    "Heal - Boost Health",
+                    "Atk - Area",
+                    "Dmg - DoT",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -101361,8 +101361,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Revive"
+                    "Heal - Instant",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -101424,7 +101424,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -101488,7 +101488,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -101548,8 +101548,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Edges",
-                    "Dmg: DoT"
+                    "Atk - Edges",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -101676,7 +101676,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -101730,7 +101730,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -101790,7 +101790,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -101864,7 +101864,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random"
+                    "Atk - Random"
                 ]
             },
             {
@@ -101930,7 +101930,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102057,7 +102057,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -102112,7 +102112,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -102177,7 +102177,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time"
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -102245,7 +102245,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102315,7 +102315,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102369,7 +102369,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -102422,7 +102422,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -102476,8 +102476,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -102536,7 +102536,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -102599,7 +102599,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -102662,7 +102662,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -102723,7 +102723,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102775,7 +102775,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102834,7 +102834,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102893,7 +102893,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -102956,7 +102956,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103019,7 +103019,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103083,7 +103083,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103197,7 +103197,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -103256,7 +103256,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -103325,7 +103325,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -103392,7 +103392,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103470,7 +103470,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103531,7 +103531,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -103589,7 +103589,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -103655,7 +103655,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103716,7 +103716,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -103769,7 +103769,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -103824,7 +103824,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -103879,7 +103879,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -103943,7 +103943,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -104004,7 +104004,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -104068,7 +104068,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -104127,8 +104127,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Heal: Special"
+                    "Heal - Over Time",
+                    "Heal - Special"
                 ]
             },
             {
@@ -104191,7 +104191,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -104257,8 +104257,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -104321,7 +104321,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -104385,7 +104385,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -104513,7 +104513,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -104580,7 +104580,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -104639,7 +104639,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -104711,7 +104711,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -104955,9 +104955,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Revive",
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Revive",
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -105068,7 +105068,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -105132,7 +105132,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -105195,7 +105195,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -105271,7 +105271,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -105337,8 +105337,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -105394,7 +105394,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -105447,7 +105447,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -105505,7 +105505,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -105562,7 +105562,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -105621,7 +105621,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -105683,7 +105683,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -105745,8 +105745,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Heal: Over Time"
+                    "Atk - Area",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -105813,8 +105813,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Atk: Random"
+                    "Atk - Single",
+                    "Atk - Random"
                 ]
             },
             {
@@ -105877,7 +105877,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -105952,7 +105952,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -106018,7 +106018,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -106087,8 +106087,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -106163,8 +106163,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -106228,7 +106228,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -106291,7 +106291,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Minor to Nearby"
+                    "Atk - Minor to Nearby"
                 ]
             },
             {
@@ -106350,7 +106350,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -106403,7 +106403,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -106462,7 +106462,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -106527,7 +106527,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -106596,8 +106596,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -106658,8 +106658,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -106711,7 +106711,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -106770,8 +106770,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -106828,8 +106828,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -106887,7 +106887,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -107003,7 +107003,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -107065,7 +107065,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107121,7 +107121,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107186,7 +107186,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -107255,8 +107255,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107323,7 +107323,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -107382,9 +107382,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107519,7 +107519,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -107590,8 +107590,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Atk: All"
+                    "Heal - From Dmg",
+                    "Atk - All"
                 ]
             },
             {
@@ -107663,9 +107663,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack",
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107729,8 +107729,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
+                    "Atk - Area",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107891,7 +107891,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -107949,7 +107949,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -108009,7 +108009,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Chain"
                 ]
             },
@@ -108075,8 +108075,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant",
-                    "Heal: Special"
+                    "Heal - Instant",
+                    "Heal - Special"
                 ]
             },
             {
@@ -108148,8 +108148,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Dmg: DoT"
+                    "Atk - All",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -108208,7 +108208,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -108277,7 +108277,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -108342,7 +108342,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -108403,7 +108403,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -108462,7 +108462,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -108528,7 +108528,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -108591,7 +108591,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -108669,7 +108669,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -108736,8 +108736,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -108804,7 +108804,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -108874,8 +108874,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -108953,8 +108953,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time",
-                    "Dmg: DoT"
+                    "Heal - Over Time",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -109015,7 +109015,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -109074,7 +109074,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -109133,7 +109133,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -109196,7 +109196,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -109260,7 +109260,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -109324,7 +109324,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -109384,7 +109384,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Dmg: DoT"
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -109453,9 +109453,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Special",
-                    "Heal: Over Time",
-                    "Heal: Boost Health"
+                    "Heal - Special",
+                    "Heal - Over Time",
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -109523,7 +109523,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -109581,7 +109581,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -109638,7 +109638,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -109702,7 +109702,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -109773,7 +109773,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health"
+                    "Heal - Boost Health"
                 ]
             },
             {
@@ -109831,9 +109831,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -109893,9 +109893,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost Health",
-                    "Atk: All",
-                    "Heal: Over Time"
+                    "Heal - Boost Health",
+                    "Atk - All",
+                    "Heal - Over Time"
                 ]
             },
             {
@@ -109960,7 +109960,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -110018,7 +110018,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
@@ -110085,7 +110085,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -110153,7 +110153,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Variable Targets"
+                    "Atk - Variable Targets"
                 ]
             },
             {
@@ -110215,8 +110215,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Revive"
+                    "Atk - All",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -110283,8 +110283,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All",
-                    "Heal: Revive"
+                    "Atk - All",
+                    "Heal - Revive"
                 ]
             },
             {
@@ -110351,9 +110351,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Dmg",
-                    "Heal: Boost Health",
-                    "Atk: Single"
+                    "Heal - From Dmg",
+                    "Heal - Boost Health",
+                    "Atk - Single"
                 ]
             },
             {
@@ -110410,7 +110410,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
+                    "Atk - Single",
                     "Atk - Extra Attack"
                 ]
             },
@@ -110477,7 +110477,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Random",
+                    "Atk - Random",
                     "Atk - Extra Attack"
                 ]
             },
@@ -110541,7 +110541,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Area"
+                    "Atk - Area"
                 ]
             },
             {
@@ -110597,7 +110597,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk - Single"
                 ]
             },
             {
@@ -110658,8 +110658,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
+                    "Atk - Single",
+                    "Dmg - DoT"
                 ]
             },
             {
@@ -110840,7 +110840,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Instant"
+                    "Heal - Instant"
                 ]
             },
             {
@@ -110900,7 +110900,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: All"
+                    "Atk - All"
                 ]
             },
             {
