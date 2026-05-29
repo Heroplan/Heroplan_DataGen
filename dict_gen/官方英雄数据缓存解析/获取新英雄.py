@@ -210,7 +210,8 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
         "Lottery_Only": 1
     }
     return new_hero
-# 新增函数：解析日期字符串用于与当前日期比较
+
+# 解析日期字符串用于与当前日期比较
 def parse_date_for_comparison(date_str):
     if not date_str:
         return datetime.min  # 将空日期视为很早的日期，放入future_heroes_list
@@ -218,7 +219,21 @@ def parse_date_for_comparison(date_str):
         return datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
     except ValueError:
         return datetime.min  # 格式错误的日期视为很早的日期，放入future_heroes_list
-    
+
+# 判断是否为未来 hotm 英雄（family 以 "hotm2026" "hotm2027"开头）
+def is_future_hotm_family(family):
+    return family is not None and (family == "hotm2026" or family == "hotm2027" )
+
+# 判断 hotm20 英雄的发布日期是否晚于当前时间（如果是则排除）
+def should_exclude_future_hotm(can_be_received_date):
+    if not can_be_received_date:
+        return True  # 没有发布日期则排除（无法判断）
+    try:
+        release_date = datetime.strptime(can_be_received_date, "%Y-%m-%d %H:%M:%S")
+        return release_date > datetime.now()  # 发布日期晚于当前时间 → 排除
+    except ValueError:
+        return True  # 日期格式错误，排除
+
 # 生成新的英雄列表 (单文件，按日期年份分类)
 def generate_heroes_data_single_file(single_file, name_dict, fancy_name_dict, family_dict):
     print("开始从单个文件生成英雄数据...")
@@ -231,7 +246,16 @@ def generate_heroes_data_single_file(single_file, name_dict, fancy_name_dict, fa
     
     # 处理所有英雄
     for hero_id_key, hero_data in all_heroes.items():
+        family_id = hero_data.get("family", "")
         can_be_received_date = hero_data.get("canBeReceivedDate", "")
+        
+        # ========== 未来 hotm 英雄过滤 ==========
+        if is_future_hotm_family(family_id):
+            if should_exclude_future_hotm(can_be_received_date):
+                print(f"  排除未来 hotm 英雄 '{hero_id_key}'，原因：发布日期 '{can_be_received_date}' 晚于当前时间")
+                continue  # 跳过此英雄，不添加到任何列表
+        # =================================================
+        
         is_future = is_year_gte_2200(can_be_received_date)
         
         # 处理英雄数据
@@ -272,12 +296,6 @@ def save_heroes_data(heroes_list, output_file, list_type="英雄"):
         json.dump(heroes_list, file, indent=4, ensure_ascii=False)
 
     print(f"{list_type}数据已生成并保存到 {output_file}")
-    
-    # 打印排序后的英雄列表
-    #print(f"\n排序后的{list_type}列表:")
-    #for hero in heroes_list:
-        #date_str = hero.get("canBeReceivedDate", "无日期")
-        #print(f"  {date_str}: {hero['name']} : {hero['fancy_name']} - {hero['color']} - {hero['star']} star - {hero['family']}")
 
 # === 主程序开始 ===
 # 文件路径
@@ -286,8 +304,8 @@ name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_en.txt'
 fancy_name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_fancy_en.txt'
 family_dict_file = '../官方语言字典生成/generated_txt/family_title_en.txt'
 
-new_heroes_output = 'new_heroes.json'     # 未来英雄
-future_heroes_output = 'future_heroes.json'  # 年份 >= 2200
+new_heroes_output = 'new_heroes.json'     # 新英雄（年份<2200）
+future_heroes_output = 'future_heroes.json'  # 未来英雄（年份>=2200）
 
 # 检查主输入文件是否存在
 if not os.path.exists(single_input_file):

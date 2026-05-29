@@ -156,66 +156,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "可汗",
-        "fancy_name": "潮流之主",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "经典家族",
-        "costume_id": 1,
-        "heroId": "tribal_chief_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "戈莫克",
-        "fancy_name": "时尚鉴赏家",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "经典家族",
-        "costume_id": 1,
-        "heroId": "orc_troopmaster_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "小约翰",
-        "fancy_name": "时尚兄弟",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "经典家族",
-        "costume_id": 1,
-        "heroId": "forest_woodsman_warrior_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "贝恩",
-        "fancy_name": "潮流斗士",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "经典家族",
-        "costume_id": 1,
-        "heroId": "oriental_brawler_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "博尔登",
-        "fancy_name": "英姿弓箭手",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "经典家族",
-        "costume_id": 1,
-        "heroId": "forest_archer_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
         "name": "贝拉多娜",
         "fancy_name": "bard_belladonna_costume_ratcatcher",
         "color": "Purple",
@@ -429,18 +369,6 @@
         "family": "火枪手家族",
         "costume_id": 1,
         "heroId": "musketeer_queen_anne_costume_commander",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "红衣主教黎塞留",
-        "fancy_name": "双面使节",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "火枪手家族",
-        "costume_id": 1,
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
         "Lottery_Only": 1
     },
     {
@@ -804,18 +732,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "雅克-皮埃尔",
-        "fancy_name": "碧翠的父亲，著名发明家",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "美女与野兽家族",
-        "costume_id": 0,
-        "heroId": "beauty_beast_jacquespierre",
-        "Lottery_Only": 1
-    },
-    {
         "name": "亨丽埃特",
         "fancy_name": "beauty_beast_henriette",
         "color": "Purple",
@@ -972,18 +888,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "埃尔克斯",
-        "fancy_name": "法师容器机械",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "机械家族",
-        "costume_id": 0,
-        "heroId": "construct_elx",
-        "Lottery_Only": 1
-    },
-    {
         "name": "尼潘特",
         "fancy_name": "废土侍从机械",
         "color": "Green",
@@ -1032,18 +936,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "食物拟态兽",
-        "fancy_name": "食肉宝箱",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "拟态兽家族",
-        "costume_id": 0,
-        "heroId": "mimic_food_purple",
-        "Lottery_Only": 1
-    },
-    {
         "name": "祖鲁穆鲁格",
         "fancy_name": "星体恶魔灵语者",
         "color": "Green",
@@ -1053,18 +945,6 @@
         "family": "星体恶魔",
         "costume_id": 0,
         "heroId": "astral_demon_zurrumurgh",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "马达里卡",
-        "fancy_name": "星体恶魔妖姬",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "星体恶魔",
-        "costume_id": 0,
-        "heroId": "astral_demon_madarika",
         "Lottery_Only": 1
     },
     {

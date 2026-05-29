@@ -84,18 +84,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zerfain",
-        "fancy_name": "Wielder of Crimson Chain",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "fire_god_zerfain",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Bro'Khai",
         "fancy_name": "The All-time Greatest Shark",
         "color": "Red",
@@ -297,30 +285,6 @@
         "family": "dryad",
         "costume_id": 0,
         "heroId": "dryad_cloveria",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ulfhild",
-        "fancy_name": "Battle Wolf",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "ice_god_ulfhild",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Colt",
-        "fancy_name": "Alchemist of the Quiver",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "holy_god_colt",
         "Lottery_Only": 1
     }
 ]
