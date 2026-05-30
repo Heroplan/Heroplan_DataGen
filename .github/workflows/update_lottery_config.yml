@@ -2,7 +2,7 @@ name: Update lottery_config
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
