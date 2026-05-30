@@ -47555,5 +47555,50 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Kitou Sayomi",
+        "fancy name": "Midnight Hunter Ronin",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "charge_ninja",
+        "Release date": "2026-05-30",
+        "AetherPower": "Rage",
+        "heroId": "ronin_kitou_sayomi",
+        "baseAttack": 665,
+        "baseDefense": 675,
+        "baseHealth": 1165,
+        "specialId": "piercing_kurozuki_katana",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Garnet costume1",
+        "fancy name": "Ninja of Flaming Vigor",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_ninja",
+        "Release date": "2026-05-30",
+        "AetherPower": "Defense Up",
+        "heroId": "ninja_garnet_costume_flame",
+        "baseAttack": 352,
+        "baseDefense": 369,
+        "baseHealth": 721,
+        "specialId": "awaken_ki",
+        "specialId_costume": "restorative_ki",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "attackBonus": "79%",
+        "defenseBonus": "79%",
+        "healthBonus": "78%",
+        "manaBonus": "1%",
+        "family": "ninja"
     }
 ];

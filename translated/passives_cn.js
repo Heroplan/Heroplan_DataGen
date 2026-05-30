@@ -1686,6 +1686,16 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "ronin_kitou_sayomi",
+        "name": "Kitou Sayomi",
+        "passives": [
+            "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
+            "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
+            "* 攻击者受到 450% 伤害。",
+            "* 攻击者在 3 回合内受到共计 1500 点流血伤害。"
+        ]
+    },
+    {
         "heroId": "ice_god_klaern",
         "name": "Klaern",
         "passives": [
@@ -9933,6 +9943,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "ninja_garnet_costume_flame",
+        "name": "Garnet C1",
+        "passives": [
+            "反击回敬：每次此角色反击敌人时，攻击者将在 4 个回合内承受 544 点流血伤害。"
+        ]
+    },
+    {
         "heroId": "s3_gefjon",
         "name": "Gefjon",
         "passives": []
@@ -13706,16 +13723,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "ninja_garnet_costume_flame",
-        "name": "Garnet C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_kitou_sayomi",
-        "name": "Kitou Sayomi",
-        "passives": []
     },
     {
         "heroId": "beachparty_skiff",

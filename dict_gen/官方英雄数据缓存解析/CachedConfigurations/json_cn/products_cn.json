@@ -2301,7 +2301,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 190,
+        "uiPriority": 192,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2430,7 +2430,7 @@
         "id": "lottery_titan_hunter_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 190,
+        "uiPriority": 189,
         "associatedEvent": "TitanHunter",
         "bucketWeights": [
           710,
@@ -3793,7 +3793,7 @@
         "id": "lottery_tower_ninja_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 191,
+        "uiPriority": 190,
         "associatedEvent": "TowerNinja",
         "bucketWeights": [
           643,
@@ -4298,7 +4298,7 @@
         "id": "lottery_hero_beach_party_2026",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 168,
+        "uiPriority": 194,
         "associatedEvent": "BeachParty2026",
         "perfectSummon": "seasonal_perfect_10",
         "linkedOrigins": [
@@ -4348,7 +4348,7 @@
         "id": "lottery_seasonal_premium_beach_party_2026",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 137,
+        "uiPriority": 194,
         "bucketWeights": [
           710,
           265,
@@ -55711,7 +55711,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 193,
+        "uiPriority": 191,
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
         "bonusChestRequirement": 5,
@@ -55900,7 +55900,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 184,
+        "uiPriority": 190,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -58390,5 +58390,5 @@
       }
     ]
   },
-  "productsConfigId": 1583409753
+  "productsConfigId": 1752482059
 }

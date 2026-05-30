@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (579 / 0)
+✅ 成功匹配的服装 (580 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -322,6 +322,7 @@ Name: Medea Costume1, Fancy Name: Naga Goddess of the Deep
 Name: Spartoi Costume1, Fancy Name: Naga Guard
 Name: Black Knight Costume1, Fancy Name: Negative Knight
 Name: Horghall Costume2, Fancy Name: Nightmare of the Woods
+Name: Garnet costume1, Fancy Name: Ninja of Flaming Vigor
 Name: Cobalt costume1, Fancy Name: Ninja of Turbulent Seas
 Name: Bane Costume1, Fancy Name: Noble Brawler
 Name: Rigard Costume2, Fancy Name: Noble Healer

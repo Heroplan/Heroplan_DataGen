@@ -16866,7 +16866,7 @@
     "specialId": "web_of_spies",
     "canBeReceivedDate": "2023-09-20 07:00:00",
     "origin": "The Brave & The Beautiful",
-    "costumeBonusesId": "musketeer_apr_2026"
+    "costumeBonusesId": "musketeer_jun_2026"
   },
   "musketeer_villiers": {
     "id": "Pompous Duke",
@@ -18320,7 +18320,7 @@
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Beach Party",
     "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
-    "costumeBonusesId": "beachparty"
+    "costumeBonusesId": "beachparty_aug_2026"
   },
   "beachparty_itham": {
     "id": "Swimming Instructor Elf",
@@ -18341,7 +18341,7 @@
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "Beach Party",
     "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
-    "costumeBonusesId": "beachparty"
+    "costumeBonusesId": "beachparty_aug_2026"
   },
   "beachparty_misty": {
     "id": "Snorkeling Gnome",
@@ -18489,9 +18489,9 @@
     "id": "Party-Kite Goblin",
     "element": "Purple",
     "family": "beachparty",
-    "baseHealth": 1125,
-    "baseAttack": 640,
-    "baseDefense": 659,
+    "baseHealth": 1150,
+    "baseAttack": 665,
+    "baseDefense": 684,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -18509,9 +18509,9 @@
     "id": "Bathing Owl of Grizzly Reef",
     "element": "Yellow",
     "family": "beachparty",
-    "baseHealth": 1120,
-    "baseAttack": 630,
-    "baseDefense": 670,
+    "baseHealth": 1200,
+    "baseAttack": 640,
+    "baseDefense": 690,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -20789,7 +20789,7 @@
     "id": "Chief of Style",
     "element": "Red",
     "family": "classic",
-    "baseHealth": 691,
+    "baseHealth": 692,
     "baseAttack": 366,
     "baseDefense": 299,
     "manaSpeedId": "slow",
@@ -21273,7 +21273,7 @@
     "element": "Green",
     "family": "classic",
     "baseHealth": 469,
-    "baseAttack": 343,
+    "baseAttack": 344,
     "baseDefense": 277,
     "manaSpeedId": "slow",
     "passiveSkills": [
@@ -21777,7 +21777,7 @@
     "element": "Green",
     "family": "classic",
     "baseHealth": 396,
-    "baseAttack": 276,
+    "baseAttack": 277,
     "baseDefense": 242,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -22451,8 +22451,8 @@
     "element": "Yellow",
     "family": "beachparty",
     "baseHealth": 414,
-    "baseAttack": 304,
-    "baseDefense": 284,
+    "baseAttack": 303,
+    "baseDefense": 283,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -22491,7 +22491,7 @@
     "element": "Blue",
     "family": "beachparty",
     "baseHealth": 713,
-    "baseAttack": 429,
+    "baseAttack": 430,
     "baseDefense": 409,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -34142,9 +34142,9 @@
     "id": "Beauty's Father, the Famous Inventor",
     "element": "Green",
     "family": "beauty_beast",
-    "baseHealth": 1103,
-    "baseAttack": 660,
-    "baseDefense": 619,
+    "baseHealth": 1155,
+    "baseAttack": 688,
+    "baseDefense": 653,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -35810,9 +35810,9 @@
     "id": "Wielder of Crimson Chain",
     "element": "Red",
     "family": "hotm2026",
-    "baseHealth": 990,
-    "baseAttack": 599,
-    "baseDefense": 594,
+    "baseHealth": 1020,
+    "baseAttack": 640,
+    "baseDefense": 605,
     "manaSpeedId": "average",
     "passiveSkills": [
       "increase_special_damage_buff",
@@ -36019,9 +36019,9 @@
     "id": "Mage's Vessel Construct",
     "element": "Red",
     "family": "construct",
-    "baseHealth": 1057,
-    "baseAttack": 652,
-    "baseDefense": 672,
+    "baseHealth": 1160,
+    "baseAttack": 663,
+    "baseDefense": 682,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "minion_core",
@@ -36288,9 +36288,9 @@
     "id": "The All-time Greatest Shark",
     "element": "Red",
     "family": "shark",
-    "baseHealth": 1100,
-    "baseAttack": 670,
-    "baseDefense": 640,
+    "baseHealth": 1150,
+    "baseAttack": 689,
+    "baseDefense": 656,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36307,9 +36307,9 @@
     "id": "The Tiki Shark Enchantress",
     "element": "Blue",
     "family": "shark",
-    "baseHealth": 1152,
-    "baseAttack": 625,
-    "baseDefense": 670,
+    "baseHealth": 1230,
+    "baseAttack": 635,
+    "baseDefense": 684,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36326,9 +36326,9 @@
     "id": "The Harpoon Hurling Shark",
     "element": "Green",
     "family": "shark",
-    "baseHealth": 1119,
-    "baseAttack": 649,
-    "baseDefense": 657,
+    "baseHealth": 1168,
+    "baseAttack": 670,
+    "baseDefense": 671,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36346,7 +36346,7 @@
     "element": "Red",
     "family": "shark",
     "baseHealth": 634,
-    "baseAttack": 385,
+    "baseAttack": 387,
     "baseDefense": 406,
     "manaSpeedId": "fast",
     "passiveSkills": [
@@ -36365,8 +36365,8 @@
     "element": "Purple",
     "family": "shark",
     "baseHealth": 515,
-    "baseAttack": 333,
-    "baseDefense": 307,
+    "baseAttack": 335,
+    "baseDefense": 310,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36403,9 +36403,9 @@
     "id": "Astral Demon Femme Fatale",
     "element": "Purple",
     "family": "astral_demons",
-    "baseHealth": 1119,
-    "baseAttack": 686,
-    "baseDefense": 661,
+    "baseHealth": 1124,
+    "baseAttack": 695,
+    "baseDefense": 660,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "never_miss_special",

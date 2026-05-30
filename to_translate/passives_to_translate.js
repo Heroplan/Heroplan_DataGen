@@ -1686,6 +1686,16 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "ronin_kitou_sayomi",
+        "name": "Kitou Sayomi",
+        "passives": [
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ]
+    },
+    {
         "heroId": "ice_god_klaern",
         "name": "Klaern",
         "passives": [
@@ -9933,6 +9943,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "ninja_garnet_costume_flame",
+        "name": "Garnet C1",
+        "passives": [
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 544 Bleed damage over 4 turns."
+        ]
+    },
+    {
         "heroId": "s3_gefjon",
         "name": "Gefjon",
         "passives": []
@@ -13706,16 +13723,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "ninja_garnet_costume_flame",
-        "name": "Garnet C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_kitou_sayomi",
-        "name": "Kitou Sayomi",
-        "passives": []
     },
     {
         "heroId": "beachparty_skiff",

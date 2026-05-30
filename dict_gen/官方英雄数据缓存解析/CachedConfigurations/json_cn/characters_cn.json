@@ -16866,7 +16866,7 @@
     "specialId": "web_of_spies",
     "canBeReceivedDate": "2023-09-20 07:00:00",
     "origin": "AllianceQuestMusketeers",
-    "costumeBonusesId": "musketeer_apr_2026"
+    "costumeBonusesId": "musketeer_jun_2026"
   },
   "musketeer_villiers": {
     "id": "musketeer_villiers",
@@ -18320,7 +18320,7 @@
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "BeachParty",
     "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
-    "costumeBonusesId": "beachparty"
+    "costumeBonusesId": "beachparty_aug_2026"
   },
   "beachparty_itham": {
     "id": "beachparty_itham",
@@ -18341,7 +18341,7 @@
     "canBeReceivedDate": "2023-06-12 07:00:00",
     "origin": "BeachParty",
     "additionalBattleSpecificHeroEffectOrigin": "BeachParty2026",
-    "costumeBonusesId": "beachparty"
+    "costumeBonusesId": "beachparty_aug_2026"
   },
   "beachparty_misty": {
     "id": "beachparty_misty",
@@ -18489,9 +18489,9 @@
     "id": "beachparty_skiff",
     "element": "紫",
     "family": "beachparty",
-    "baseHealth": 1125,
-    "baseAttack": 640,
-    "baseDefense": 659,
+    "baseHealth": 1150,
+    "baseAttack": 665,
+    "baseDefense": 684,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -18509,9 +18509,9 @@
     "id": "beachparty_bubo",
     "element": "黄",
     "family": "beachparty",
-    "baseHealth": 1120,
-    "baseAttack": 630,
-    "baseDefense": 670,
+    "baseHealth": 1200,
+    "baseAttack": 640,
+    "baseDefense": 690,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -20789,7 +20789,7 @@
     "id": "tribal_chief_costume_stylish",
     "element": "红",
     "family": "classic",
-    "baseHealth": 691,
+    "baseHealth": 692,
     "baseAttack": 366,
     "baseDefense": 299,
     "manaSpeedId": "慢",
@@ -21273,7 +21273,7 @@
     "element": "绿",
     "family": "classic",
     "baseHealth": 469,
-    "baseAttack": 343,
+    "baseAttack": 344,
     "baseDefense": 277,
     "manaSpeedId": "慢",
     "passiveSkills": [
@@ -21777,7 +21777,7 @@
     "element": "绿",
     "family": "classic",
     "baseHealth": 396,
-    "baseAttack": 276,
+    "baseAttack": 277,
     "baseDefense": 242,
     "manaSpeedId": "快速",
     "passiveSkills": [
@@ -22451,8 +22451,8 @@
     "element": "黄",
     "family": "beachparty",
     "baseHealth": 414,
-    "baseAttack": 304,
-    "baseDefense": 284,
+    "baseAttack": 303,
+    "baseDefense": 283,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -22491,7 +22491,7 @@
     "element": "蓝",
     "family": "beachparty",
     "baseHealth": 713,
-    "baseAttack": 429,
+    "baseAttack": 430,
     "baseDefense": 409,
     "manaSpeedId": "快速",
     "passiveSkills": [
@@ -34142,9 +34142,9 @@
     "id": "beauty_beast_jacquespierre",
     "element": "绿",
     "family": "beauty_beast",
-    "baseHealth": 1103,
-    "baseAttack": 660,
-    "baseDefense": 619,
+    "baseHealth": 1155,
+    "baseAttack": 688,
+    "baseDefense": 653,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -35810,9 +35810,9 @@
     "id": "fire_god_zerfain",
     "element": "红",
     "family": "hotm2026",
-    "baseHealth": 990,
-    "baseAttack": 599,
-    "baseDefense": 594,
+    "baseHealth": 1020,
+    "baseAttack": 640,
+    "baseDefense": 605,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "increase_special_damage_buff",
@@ -36019,9 +36019,9 @@
     "id": "construct_elx",
     "element": "红",
     "family": "construct",
-    "baseHealth": 1057,
-    "baseAttack": 652,
-    "baseDefense": 672,
+    "baseHealth": 1160,
+    "baseAttack": 663,
+    "baseDefense": 682,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "minion_core",
@@ -36288,9 +36288,9 @@
     "id": "shark_brokhai",
     "element": "红",
     "family": "shark",
-    "baseHealth": 1100,
-    "baseAttack": 670,
-    "baseDefense": 640,
+    "baseHealth": 1150,
+    "baseAttack": 689,
+    "baseDefense": 656,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36307,9 +36307,9 @@
     "id": "shark_haikala",
     "element": "蓝",
     "family": "shark",
-    "baseHealth": 1152,
-    "baseAttack": 625,
-    "baseDefense": 670,
+    "baseHealth": 1230,
+    "baseAttack": 635,
+    "baseDefense": 684,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36326,9 +36326,9 @@
     "id": "shark_sharpoon",
     "element": "绿",
     "family": "shark",
-    "baseHealth": 1119,
-    "baseAttack": 649,
-    "baseDefense": 657,
+    "baseHealth": 1168,
+    "baseAttack": 670,
+    "baseDefense": 671,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36346,7 +36346,7 @@
     "element": "红",
     "family": "shark",
     "baseHealth": 634,
-    "baseAttack": 385,
+    "baseAttack": 387,
     "baseDefense": 406,
     "manaSpeedId": "快速",
     "passiveSkills": [
@@ -36365,8 +36365,8 @@
     "element": "紫",
     "family": "shark",
     "baseHealth": 515,
-    "baseAttack": 333,
-    "baseDefense": 307,
+    "baseAttack": 335,
+    "baseDefense": 310,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_water_with_health_boost_and_mana",
@@ -36403,9 +36403,9 @@
     "id": "astral_demon_madarika",
     "element": "紫",
     "family": "astral_demons",
-    "baseHealth": 1119,
-    "baseAttack": 686,
-    "baseDefense": 661,
+    "baseHealth": 1124,
+    "baseAttack": 695,
+    "baseDefense": 660,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "never_miss_special",

@@ -89139,6 +89139,42 @@
                 "amount": 2
               }
             ]
+          },
+          {
+            "startTime": "2026-05-31 07:00:00",
+            "endTime": "2026-06-01 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              3
+            ],
+            "rewards": [
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 700
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mimic_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 3
+              }
+            ]
           }
         ]
       },
@@ -91647,8 +91683,8 @@
             "startDate": "2026-05-31 07:00:00",
             "endDate": "2026-06-01 07:00:00",
             "featuredHeroes": [
-              "owl_cennius",
-              "owl_relius"
+              "mahayoddha_chitrangada",
+              "mahayoddha_bhima"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -95705,5 +95741,5 @@
       }
     ]
   },
-  "shopConfigId": 3541737140
+  "shopConfigId": 3501129893
 }

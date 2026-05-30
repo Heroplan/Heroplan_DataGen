@@ -2108,6 +2108,24 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_kitou_sayomi",
+        "name": "Kitou Sayomi",
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge",
+            "* Deals 410% damage to the target.",
+            "* The target receives 396 Poison damage over 2 turns.",
+            "x2 Mana Charge",
+            "* Deals 420% damage to the target and nearby enemies.",
+            "* The target and nearby enemies receives 549 Poison damage over 3 turns.",
+            "* After 1 turn the target and nearby enemies get Paralyzed for 2 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "x3 Mana Charge",
+            "* Deals 430% damage to all  enemies.",
+            "* All enemies receives 1044 Poison damage over 4 turns.",
+            "* After 1 turn all enemies get Paralyzed for 3 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)"
+        ]
+    },
+    {
         "heroId": "ice_god_klaern",
         "name": "Klaern",
         "effects": [
@@ -12842,6 +12860,22 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ninja_garnet_costume_flame",
+        "name": "Garnet C1",
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200%/300%:",
+            "1x Mana Charge",
+            "* Boosts health of all allies by 300. Boosted health can exceed max HP.",
+            "* All allies are immune to new status ailments for 2 turns, and recover 100 health for each attempted status ailment.",
+            "2x Mana Charge",
+            "* Boosts health of all allies by 600. Boosted health can exceed max HP.",
+            "* All allies are immune to new status ailments for 3 turns, and recover 200 health for each attempted status ailment.",
+            "3x Mana Charge",
+            "* Boosts health of all allies by 2000. Boosted health can exceed max HP.",
+            "* All allies are immune to new status ailments for 4 turns, and recover 550 health for each attempted status ailment."
+        ]
+    },
+    {
         "heroId": "s3_gefjon",
         "name": "Gefjon",
         "effects": [
@@ -17696,16 +17730,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "ninja_garnet_costume_flame",
-        "name": "Garnet C",
-        "effects": []
-    },
-    {
-        "heroId": "ronin_kitou_sayomi",
-        "name": "Kitou Sayomi",
-        "effects": []
     },
     {
         "heroId": "beachparty_skiff",

@@ -1,29 +1,5 @@
 [
     {
-        "name": "Garnet C",
-        "fancy_name": "Ninja of Flaming Vigor",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-30 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_garnet_costume_flame",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kitou Sayomi",
-        "fancy_name": "Midnight Hunter Ronin",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-30 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_kitou_sayomi",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Skiff",
         "fancy_name": "Party-Kite Goblin",
         "color": "Purple",
