@@ -80990,13 +80990,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana - Mana Gen ↑"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Status - Ailment Immunity"
+                    "Status - Ailment Immunity",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
