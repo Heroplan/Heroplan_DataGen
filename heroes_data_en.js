@@ -80614,13 +80614,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal - Boost Health"
+                    "Heal - Boost Health",
+                    "Heal - Special"
                 ]
             },
             {
                 "增益效果": [
-                    "Status - Ailment Immunity",
-                    "Heal - Special"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
