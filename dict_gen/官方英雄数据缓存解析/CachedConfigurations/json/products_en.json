@@ -22038,12 +22038,13 @@
           {
             "type": "Item",
             "id": "tome_levels_blue_lesser",
-            "amount": 2
+            "amount": 1
           },
           {
             "type": "Item",
             "id": "hero_farsight_telescope",
-            "amount": 1
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Hero",
@@ -22053,7 +22054,8 @@
           {
             "type": "Hero",
             "id": "trainer_blue_rare",
-            "amount": 1
+            "amount": 1,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22068,12 +22070,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_blue",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 5
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_blue",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -22087,12 +22091,13 @@
           {
             "type": "Item",
             "id": "tome_levels_green_lesser",
-            "amount": 2
+            "amount": 1
           },
           {
             "type": "Item",
             "id": "hero_mysterious_tonic",
-            "amount": 1
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Hero",
@@ -22102,7 +22107,8 @@
           {
             "type": "Hero",
             "id": "trainer_green_rare",
-            "amount": 1
+            "amount": 1,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22117,12 +22123,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_green",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 5
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_green",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -22136,12 +22144,13 @@
           {
             "type": "Item",
             "id": "tome_levels_purple_lesser",
-            "amount": 2
+            "amount": 1
           },
           {
             "type": "Item",
             "id": "hero_royal_tabard",
-            "amount": 1
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Hero",
@@ -22151,7 +22160,8 @@
           {
             "type": "Hero",
             "id": "trainer_purple_rare",
-            "amount": 1
+            "amount": 1,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22166,12 +22176,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_purple",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 5
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_purple",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -22185,12 +22197,13 @@
           {
             "type": "Item",
             "id": "tome_levels_red_lesser",
-            "amount": 2
+            "amount": 1
           },
           {
             "type": "Item",
             "id": "hero_mystic_rings",
-            "amount": 1
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Hero",
@@ -22200,7 +22213,8 @@
           {
             "type": "Hero",
             "id": "trainer_red_rare",
-            "amount": 1
+            "amount": 1,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22215,12 +22229,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_red",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 5
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_red",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -22234,12 +22250,13 @@
           {
             "type": "Item",
             "id": "tome_levels_yellow_lesser",
-            "amount": 2
+            "amount": 1
           },
           {
             "type": "Item",
             "id": "hero_poison_darts",
-            "amount": 1
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Hero",
@@ -22249,7 +22266,8 @@
           {
             "type": "Hero",
             "id": "trainer_yellow_rare",
-            "amount": 1
+            "amount": 1,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22264,12 +22282,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_yellow",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 5
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_yellow",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -22331,18 +22351,19 @@
         "contents": [
           {
             "type": "Item",
+            "id": "hero_farsight_telescope",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_warm_cape",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
+            "type": "Item",
             "id": "tome_levels_blue_lesser",
             "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_farsight_telescope",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_blue",
-            "amount": 5
           }
         ]
       },
@@ -22355,18 +22376,19 @@
         "contents": [
           {
             "type": "Item",
+            "id": "hero_mysterious_tonic",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_sturdy_shield",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
+            "type": "Item",
             "id": "tome_levels_green_lesser",
             "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_mysterious_tonic",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_green",
-            "amount": 5
           }
         ]
       },
@@ -22379,18 +22401,19 @@
         "contents": [
           {
             "type": "Item",
+            "id": "hero_royal_tabard",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_trap_tools",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
+            "type": "Item",
             "id": "tome_levels_purple_lesser",
             "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_royal_tabard",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_purple",
-            "amount": 5
           }
         ]
       },
@@ -22403,18 +22426,19 @@
         "contents": [
           {
             "type": "Item",
+            "id": "hero_mystic_rings",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_hidden_blade",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
+            "type": "Item",
             "id": "tome_levels_red_lesser",
             "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_mystic_rings",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_red",
-            "amount": 5
           }
         ]
       },
@@ -22427,18 +22451,19 @@
         "contents": [
           {
             "type": "Item",
+            "id": "hero_poison_darts",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_orb_of_magic",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
+            "type": "Item",
             "id": "tome_levels_yellow_lesser",
             "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_poison_darts",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_yellow",
-            "amount": 5
           }
         ]
       },
@@ -22472,7 +22497,8 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_alpha",
-            "amount": 3
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22482,12 +22508,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_blue",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_blue",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
           }
         ]
       },
@@ -22521,7 +22549,8 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_alpha",
-            "amount": 3
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22531,12 +22560,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_green",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_green",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
           }
         ]
       },
@@ -22570,7 +22601,8 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_alpha",
-            "amount": 3
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22580,12 +22612,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_purple",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_purple",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
           }
         ]
       },
@@ -22619,7 +22653,8 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_alpha",
-            "amount": 3
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22629,12 +22664,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_red",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_red",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
           }
         ]
       },
@@ -22668,7 +22705,8 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_alpha",
-            "amount": 3
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -22678,12 +22716,14 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_yellow",
-            "amount": 10
+            "amount": 10,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_yellow",
-            "amount": 20
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
           }
         ]
       },
@@ -23623,7 +23663,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 10000
+            "amount": 10000,
+            "zyngaStoreExtraAmount": 1000
           },
           {
             "type": "Item",
@@ -23634,8 +23675,7 @@
           {
             "type": "Item",
             "id": "hero_poison_darts",
-            "amount": 1,
-            "zyngaStoreExtraAmount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23744,7 +23784,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 10000
+            "amount": 10000,
+            "zyngaStoreExtraAmount": 1000
           },
           {
             "type": "Item",
@@ -23755,8 +23796,7 @@
           {
             "type": "Item",
             "id": "hero_mysterious_tonic",
-            "amount": 1,
-            "zyngaStoreExtraAmount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23870,7 +23910,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 10000
+            "amount": 10000,
+            "zyngaStoreExtraAmount": 1000
           },
           {
             "type": "Item",
@@ -23881,8 +23922,7 @@
           {
             "type": "Item",
             "id": "hero_farsight_telescope",
-            "amount": 1,
-            "zyngaStoreExtraAmount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23996,7 +24036,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 10000
+            "amount": 10000,
+            "zyngaStoreExtraAmount": 1000
           },
           {
             "type": "Item",
@@ -24007,8 +24048,7 @@
           {
             "type": "Item",
             "id": "hero_mystic_rings",
-            "amount": 1,
-            "zyngaStoreExtraAmount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -24122,7 +24162,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 10000
+            "amount": 10000,
+            "zyngaStoreExtraAmount": 1000
           },
           {
             "type": "Item",
@@ -24133,8 +24174,7 @@
           {
             "type": "Item",
             "id": "hero_royal_tabard",
-            "amount": 1,
-            "zyngaStoreExtraAmount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -26642,7 +26682,6 @@
         "id": "com.smallgiantgames.empires.summoning_bonanza_50",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28865,8 +28904,8 @@
           {
             "type": "Item",
             "id": "lottery_item_ascension",
-            "amount": 30,
-            "zyngaStoreExtraAmount": 3
+            "amount": 50,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -28880,8 +28919,8 @@
           {
             "type": "Item",
             "id": "lottery_item_ascension",
-            "amount": 60,
-            "zyngaStoreExtraAmount": 6
+            "amount": 100,
+            "zyngaStoreExtraAmount": 10
           }
         ]
       },
@@ -28895,8 +28934,8 @@
           {
             "type": "Item",
             "id": "lottery_item_ascension",
-            "amount": 90,
-            "zyngaStoreExtraAmount": 10
+            "amount": 150,
+            "zyngaStoreExtraAmount": 15
           }
         ]
       },
@@ -28910,8 +28949,8 @@
           {
             "type": "Item",
             "id": "lottery_item_ascension",
-            "amount": 180,
-            "zyngaStoreExtraAmount": 20
+            "amount": 300,
+            "zyngaStoreExtraAmount": 30
           }
         ]
       },
@@ -28925,8 +28964,8 @@
           {
             "type": "Item",
             "id": "lottery_item_ascension",
-            "amount": 600,
-            "zyngaStoreExtraAmount": 60
+            "amount": 1000,
+            "zyngaStoreExtraAmount": 100
           }
         ]
       },
@@ -31844,7 +31883,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31870,7 +31908,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32077,6 +32114,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_0",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32095,6 +32133,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32128,6 +32167,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32161,6 +32201,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_6",
         "dollarValue": 25,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32194,6 +32235,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_gre_0",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32212,6 +32254,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_green_1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32245,6 +32288,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_green_3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32278,6 +32322,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_green_6",
         "dollarValue": 25,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32311,6 +32356,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_0",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32329,6 +32375,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32362,6 +32409,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32395,6 +32443,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_6",
         "dollarValue": 25,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32428,6 +32477,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yel_0",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32446,6 +32496,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yellow_1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32479,6 +32530,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yellow_3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32512,6 +32564,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yellow_6",
         "dollarValue": 25,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32545,6 +32598,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_pur_0",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32563,6 +32617,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_purple_1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32596,6 +32651,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_purple_3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32629,6 +32685,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_purple_6",
         "dollarValue": 25,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32902,6 +32959,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_dam_1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32920,6 +32978,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_tac_1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58390,5 +58449,5 @@
       }
     ]
   },
-  "productsConfigId": 1752482059
+  "productsConfigId": 592647038
 }

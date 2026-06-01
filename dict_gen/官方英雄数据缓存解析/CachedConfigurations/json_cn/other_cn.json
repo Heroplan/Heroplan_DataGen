@@ -35318,42 +35318,42 @@
                 "icon": "pvp",
                 "goal": "PlayPvpEventBattles",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 125
+                "challengeSeasonPointsReward": 175
               },
               {
                 "id": "attack_in_tournaments_2",
                 "icon": "pvp",
                 "goal": "PlayPvpEventBattles",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               },
               {
                 "id": "attack_in_tournaments_3",
                 "icon": "pvp",
                 "goal": "PlayPvpEventBattles",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 300
+                "challengeSeasonPointsReward": 420
               },
               {
                 "id": "attack_in_tournaments_4",
                 "icon": "pvp",
                 "goal": "PlayPvpEventBattles",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 450
+                "challengeSeasonPointsReward": 630
               },
               {
                 "id": "attack_in_tournaments_5",
                 "icon": "pvp",
                 "goal": "PlayPvpEventBattles",
                 "goalAmount": 25,
-                "challengeSeasonPointsReward": 600
+                "challengeSeasonPointsReward": 840
               },
               {
                 "id": "attack_in_tournaments_6",
                 "icon": "pvp",
                 "goal": "PlayPvpEventBattles",
                 "goalAmount": 30,
-                "challengeSeasonPointsReward": 850
+                "challengeSeasonPointsReward": 1190
               }
             ]
           },
@@ -35366,28 +35366,28 @@
                 "icon": "alliance_war",
                 "goal": "PlayAllianceWarBattles",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 200
+                "challengeSeasonPointsReward": 280
               },
               {
                 "id": "attack_in_war_2",
                 "icon": "alliance_war",
                 "goal": "PlayAllianceWarBattles",
                 "goalAmount": 6,
-                "challengeSeasonPointsReward": 400
+                "challengeSeasonPointsReward": 560
               },
               {
                 "id": "attack_in_war_3",
                 "icon": "alliance_war",
                 "goal": "PlayAllianceWarBattles",
                 "goalAmount": 9,
-                "challengeSeasonPointsReward": 700
+                "challengeSeasonPointsReward": 980
               },
               {
                 "id": "attack_in_war_4",
                 "icon": "alliance_war",
                 "goal": "PlayAllianceWarBattles",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 1200
+                "challengeSeasonPointsReward": 1680
               }
             ]
           },
@@ -35400,21 +35400,21 @@
                 "icon": "challengeevent",
                 "goal": "CompleteChallengeEvent",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 200
+                "challengeSeasonPointsReward": 280
               },
               {
                 "id": "complete_challenge_event_2",
                 "icon": "challengeevent",
                 "goal": "CompleteChallengeEvent",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 725
+                "challengeSeasonPointsReward": 1015
               },
               {
                 "id": "complete_challenge_event_3",
                 "icon": "challengeevent",
                 "goal": "CompleteChallengeEvent",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 1575
+                "challengeSeasonPointsReward": 2205
               }
             ]
           },
@@ -35428,7 +35428,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 20
+                "challengeSeasonPointsReward": 25
               },
               {
                 "id": "complete_daily_valor_challenges_2",
@@ -35436,7 +35436,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 30
+                "challengeSeasonPointsReward": 45
               },
               {
                 "id": "complete_daily_valor_challenges_3",
@@ -35444,7 +35444,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 50
+                "challengeSeasonPointsReward": 70
               },
               {
                 "id": "complete_daily_valor_challenges_4",
@@ -35452,7 +35452,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 4,
-                "challengeSeasonPointsReward": 75
+                "challengeSeasonPointsReward": 100
               },
               {
                 "id": "complete_daily_valor_challenges_5",
@@ -35460,7 +35460,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 115
+                "challengeSeasonPointsReward": 170
               },
               {
                 "id": "complete_daily_valor_challenges_6",
@@ -35468,7 +35468,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 6,
-                "challengeSeasonPointsReward": 190
+                "challengeSeasonPointsReward": 260
               },
               {
                 "id": "complete_daily_valor_challenges_7",
@@ -35476,7 +35476,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 7,
-                "challengeSeasonPointsReward": 275
+                "challengeSeasonPointsReward": 385
               },
               {
                 "id": "complete_daily_valor_challenges_8",
@@ -35484,7 +35484,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "complete_daily_valor_challenges_9",
@@ -35492,7 +35492,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 550
+                "challengeSeasonPointsReward": 770
               },
               {
                 "id": "complete_daily_valor_challenges_10",
@@ -35500,7 +35500,7 @@
                 "goal": "CompleteValorSeasonChallenge",
                 "goalSubject": "Daily",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 820
+                "challengeSeasonPointsReward": 1150
               }
             ]
           },
@@ -35514,7 +35514,7 @@
                 "goal": "AccumulateResource",
                 "goalSubject": "Food",
                 "goalAmount": 100000,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35528,7 +35528,7 @@
                 "goal": "AccumulateResource",
                 "goalSubject": "Iron",
                 "goalAmount": 50000,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35542,7 +35542,7 @@
                 "goal": "AccumulateResource",
                 "goalSubject": "Recruits",
                 "goalAmount": 30,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35555,7 +35555,7 @@
                 "icon": "titan",
                 "goal": "PlayTitanBattles",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35569,7 +35569,7 @@
                 "goal": "CollectItemsOfTypeFromBattles",
                 "goalSubject": "",
                 "goalAmount": 50,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35583,7 +35583,7 @@
                 "goal": "CollectItemsOfTypeFromBattles",
                 "goalSubject": "AscensionMaterialItemConfiguration",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35597,7 +35597,7 @@
                 "goal": "CollectItemsOfTypeFromBattles",
                 "goalSubject": "BattleItemConfiguration",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ],
             "disabled": true
@@ -35612,7 +35612,7 @@
                 "goal": "CollectItemsOfTypeFromBattles",
                 "goalSubject": "ItemCraftingItemConfiguration",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35626,7 +35626,7 @@
                 "goal": "CollectResource",
                 "goalSubject": "Food",
                 "goalAmount": 20000,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35640,7 +35640,7 @@
                 "goal": "CollectResourceFromPveBattles",
                 "goalSubject": "Food",
                 "goalAmount": 5000,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35654,7 +35654,7 @@
                 "goal": "CollectResource",
                 "goalSubject": "Iron",
                 "goalAmount": 10000,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35668,7 +35668,7 @@
                 "goal": "CollectResourceFromPveBattles",
                 "goalSubject": "Iron",
                 "goalAmount": 2500,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35681,7 +35681,7 @@
                 "icon": "map",
                 "goal": "CompleteALevelInEachSeason",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35696,7 +35696,7 @@
                 "goalSubject": "Season1",
                 "subjectAmount": 1,
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35711,7 +35711,7 @@
                 "goalSubject": "Season2",
                 "subjectAmount": 2,
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35726,7 +35726,7 @@
                 "goalSubject": "Season3",
                 "subjectAmount": 3,
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35741,7 +35741,7 @@
                 "goalSubject": "Season4",
                 "subjectAmount": 4,
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35756,7 +35756,7 @@
                 "goalSubject": "Season5",
                 "subjectAmount": 5,
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35771,7 +35771,7 @@
                 "goalSubject": "All",
                 "subjectAmount": 5,
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35785,7 +35785,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_antidote_potion",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35799,7 +35799,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_hail_of_arrows",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35813,7 +35813,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_hail_of_spears",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35827,7 +35827,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_red_banner",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35841,7 +35841,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_bomb_barrage",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35855,7 +35855,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_trebuchet",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35869,7 +35869,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_dragon_banner",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35883,7 +35883,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35897,7 +35897,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_mana_potion",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35911,7 +35911,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_minor_mana_potion",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35925,7 +35925,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_field_aid",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35939,7 +35939,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_healing_potion",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35953,7 +35953,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_healing_salve",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35967,7 +35967,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_antidote_dust",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35981,7 +35981,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_super_mana_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -35995,7 +35995,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_true_healing_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36009,7 +36009,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_time_stop",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36023,7 +36023,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_tornado",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36037,7 +36037,7 @@
                 "goal": "CraftBattleItems",
                 "goalSubject": "battle_wall_of_shields",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36051,7 +36051,7 @@
                 "goal": "CraftDistinctBattleItems",
                 "goalSubject": "",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36065,7 +36065,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "Blue",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36079,7 +36079,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "Green",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36093,7 +36093,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "Purple",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36107,7 +36107,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "Red",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36121,7 +36121,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "Yellow",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36135,7 +36135,7 @@
                 "goal": "CollectItemsOfTypeFromBattles",
                 "goalSubject": "",
                 "goalAmount": 25,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36149,7 +36149,7 @@
                 "goal": "WinPveBattlesOfSeason",
                 "goalSubject": "Season1",
                 "goalAmount": 6,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36163,7 +36163,7 @@
                 "goal": "WinPveBattlesOfSeason",
                 "goalSubject": "Season2",
                 "goalAmount": 4,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36177,7 +36177,7 @@
                 "goal": "WinPveBattlesOfSeason",
                 "goalSubject": "Season3",
                 "goalAmount": 4,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36190,7 +36190,7 @@
                 "icon": "base",
                 "goal": "GreetVillagers",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36203,7 +36203,7 @@
                 "icon": "map",
                 "goal": "CompleteHardModeLevels",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36216,7 +36216,7 @@
                 "icon": "duck",
                 "goal": "HuntFlyingBirds",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36230,7 +36230,7 @@
                 "goal": "KillMonstersOfType",
                 "goalSubject": "Boss",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36244,7 +36244,7 @@
                 "goal": "KillMonstersOfType",
                 "goalSubject": "Elite",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36258,7 +36258,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "All",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36272,7 +36272,7 @@
                 "goal": "LevelUpXHeroes",
                 "goalSubject": "All",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36285,7 +36285,7 @@
                 "icon": "level_all",
                 "goal": "LevelUpTroopsXLevels",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36298,7 +36298,7 @@
                 "icon": "dragonshields_map",
                 "goal": "CreateMatch4TilesInPveBattle",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36311,7 +36311,7 @@
                 "icon": "dragonshields_raid",
                 "goal": "CreateMatch4TilesInPvpBattle",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36324,7 +36324,7 @@
                 "icon": "powershards_map",
                 "goal": "CreateMatch5TilesInPveBattle",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36337,7 +36337,7 @@
                 "icon": "powershards_raid",
                 "goal": "CreateMatch5TilesInPvpBattle",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36350,7 +36350,7 @@
                 "icon": "wanted_chests",
                 "goal": "OpenWantedMissionChest",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36365,7 +36365,7 @@
                 "goalSubject": "All",
                 "subjectAmount": 3,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36378,7 +36378,7 @@
                 "icon": "titan_rainbow",
                 "goal": "PlayTitanBattlesWithRainbowTeam",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36392,7 +36392,7 @@
                 "goal": "ComboOfXInPveBattle",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36406,7 +36406,7 @@
                 "goal": "ComboOfXInPvpBattle",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36419,7 +36419,7 @@
                 "icon": "pvp",
                 "goal": "RerollOpponent",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36433,7 +36433,7 @@
                 "goal": "SacrificeHeroes",
                 "goalSubject": "Blue",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36447,7 +36447,7 @@
                 "goal": "SacrificeHeroes",
                 "goalSubject": "Green",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36461,7 +36461,7 @@
                 "goal": "SacrificeHeroes",
                 "goalSubject": "Purple",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36475,7 +36475,7 @@
                 "goal": "SacrificeHeroes",
                 "goalSubject": "Red",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36489,7 +36489,7 @@
                 "goal": "SacrificeHeroes",
                 "goalSubject": "Yellow",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36503,7 +36503,7 @@
                 "goal": "SacrificeTroops",
                 "goalSubject": "All",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36517,7 +36517,7 @@
                 "goal": "TrainHeroes",
                 "goalSubject": "TrainingCamp",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36530,7 +36530,7 @@
                 "icon": "titan",
                 "goal": "UseBattleItemsInTitanBattles",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36544,7 +36544,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_antidote_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36558,7 +36558,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36572,7 +36572,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_hail_of_arrows",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36586,7 +36586,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_hail_of_spears",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36600,7 +36600,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_red_banner",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36614,7 +36614,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_bomb_barrage",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36628,7 +36628,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_trebuchet",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36642,7 +36642,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_dragon_banner",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36656,7 +36656,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_mana_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36670,7 +36670,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_minor_mana_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36684,7 +36684,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_field_aid",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36698,7 +36698,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_healing_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36712,7 +36712,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_healing_salve",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36726,7 +36726,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_antidote_dust",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36740,7 +36740,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_super_mana_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36754,7 +36754,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_true_healing_potion",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36768,7 +36768,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_time_stop",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36782,7 +36782,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_tornado",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36796,7 +36796,7 @@
                 "goal": "UseBattleItems",
                 "goalSubject": "battle_wall_of_shields",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36809,7 +36809,7 @@
                 "icon": "mystic_vision",
                 "goal": "UseMysticVision",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ],
             "disabled": true
@@ -36824,7 +36824,7 @@
                 "goal": "WinPveBattlesWithStagePropertyEffect",
                 "goalSubject": "dense_fog",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36838,7 +36838,7 @@
                 "goal": "WinPveBattlesWithStageProperty",
                 "goalSubject": "realm_jotunheim",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36852,7 +36852,7 @@
                 "goal": "WinPveBattlesWithStagePropertyEffect",
                 "goalSubject": "magic_moon",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36866,7 +36866,7 @@
                 "goal": "WinPveBattlesWithStageProperty",
                 "goalSubject": "realm_midgard",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36880,7 +36880,7 @@
                 "goal": "WinPveBattlesWithStagePropertyEffect",
                 "goalSubject": "poison_mist",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36894,7 +36894,7 @@
                 "goal": "WinPveBattlesWithStagePropertyEffect",
                 "goalSubject": "underwater",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36908,7 +36908,7 @@
                 "goal": "WinPveBattlesWithStageProperty",
                 "goalSubject": "realm_vanaheim",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36923,7 +36923,7 @@
                 "goalSubject": "All",
                 "subjectAmount": 3,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36936,7 +36936,7 @@
                 "icon": "map",
                 "goal": "WinPveBattlesWithoutSpecials",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36949,7 +36949,7 @@
                 "icon": "map_rainbow",
                 "goal": "WinPveBattlesWithRainbowTeam",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36963,7 +36963,7 @@
                 "goal": "WinPvpBattles",
                 "goalSubject": "bronze",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36976,7 +36976,7 @@
                 "icon": "pvp",
                 "goal": "WinConsecutivePvpBattles",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -36991,7 +36991,7 @@
                 "goalSubject": "All",
                 "subjectAmount": 3,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37006,7 +37006,7 @@
                 "goalSubject": "Blue",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37021,7 +37021,7 @@
                 "goalSubject": "Green",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37036,7 +37036,7 @@
                 "goalSubject": "All",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37049,7 +37049,7 @@
                 "icon": "pvp",
                 "goal": "WinPvpBattlesWithNoLegendaryHero",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37064,7 +37064,7 @@
                 "goalSubject": "Purple",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37079,7 +37079,7 @@
                 "goalSubject": "Red",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37094,7 +37094,7 @@
                 "goalSubject": "Yellow",
                 "subjectAmount": 5,
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37107,7 +37107,7 @@
                 "icon": "quest",
                 "goal": "WinQuestBattles",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37120,7 +37120,7 @@
                 "icon": "pvp_rainbow",
                 "goal": "WinPvpBattlesWithRainbowTeam",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               }
             ]
           },
@@ -37134,7 +37134,7 @@
                 "goal": "KillPvpNpcsInWar",
                 "goalSubject": "All",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 125
+                "challengeSeasonPointsReward": 175
               },
               {
                 "id": "defeat_heroes_war_2",
@@ -37142,7 +37142,7 @@
                 "goal": "KillPvpNpcsInWar",
                 "goalSubject": "All",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               },
               {
                 "id": "defeat_heroes_war_3",
@@ -37150,7 +37150,7 @@
                 "goal": "KillPvpNpcsInWar",
                 "goalSubject": "All",
                 "goalAmount": 25,
-                "challengeSeasonPointsReward": 300
+                "challengeSeasonPointsReward": 420
               },
               {
                 "id": "defeat_heroes_war_4",
@@ -37158,7 +37158,7 @@
                 "goal": "KillPvpNpcsInWar",
                 "goalSubject": "All",
                 "goalAmount": 40,
-                "challengeSeasonPointsReward": 450
+                "challengeSeasonPointsReward": 630
               },
               {
                 "id": "defeat_heroes_war_5",
@@ -37166,7 +37166,7 @@
                 "goal": "KillPvpNpcsInWar",
                 "goalSubject": "All",
                 "goalAmount": 60,
-                "challengeSeasonPointsReward": 600
+                "challengeSeasonPointsReward": 840
               },
               {
                 "id": "defeat_heroes_war_6",
@@ -37174,7 +37174,7 @@
                 "goal": "KillPvpNpcsInWar",
                 "goalSubject": "All",
                 "goalAmount": 80,
-                "challengeSeasonPointsReward": 850
+                "challengeSeasonPointsReward": 1190
               }
             ]
           },
@@ -37188,7 +37188,7 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "AllianceQuestEasy",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 125
+                "challengeSeasonPointsReward": 175
               },
               {
                 "id": "win_alliance_quest_battles_normal",
@@ -37196,7 +37196,7 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "AllianceQuestNormal",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "win_alliance_quest_battles_hard",
@@ -37204,14 +37204,14 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "AllianceQuestHard",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 350
+                "challengeSeasonPointsReward": 490
               },
               {
                 "id": "improve_alliance_quest_score",
                 "icon": "",
                 "goal": "ImproveScoreAllianceQuestStage",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 50
+                "challengeSeasonPointsReward": 70
               }
             ]
           },
@@ -37225,7 +37225,7 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "ChallengeEventEasy",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 125
+                "challengeSeasonPointsReward": 175
               },
               {
                 "id": "win_challenge_event_battles_normal",
@@ -37233,7 +37233,7 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "ChallengeEventMedium",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "win_challenge_event_battles_hard",
@@ -37241,14 +37241,14 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "ChallengeEventHard",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 350
+                "challengeSeasonPointsReward": 490
               },
               {
                 "id": "improve_challenge_event_score",
                 "icon": "",
                 "goal": "ImproveScoreChallengeEventStage",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 50
+                "challengeSeasonPointsReward": 70
               }
             ]
           },
@@ -37262,7 +37262,7 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "CostumeQuest",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 300
+                "challengeSeasonPointsReward": 420
               },
               {
                 "id": "kill_costume_quest_bosses",
@@ -37270,7 +37270,7 @@
                 "goal": "KillBossMonstersInQuestOfType",
                 "goalSubject": "CostumeQuest",
                 "goalAmount": 6,
-                "challengeSeasonPointsReward": 450
+                "challengeSeasonPointsReward": 630
               }
             ]
           },
@@ -37284,7 +37284,7 @@
                 "goal": "WinQuestBattlesOfType",
                 "goalSubject": "Legends",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 300
+                "challengeSeasonPointsReward": 420
               },
               {
                 "id": "kill_tavern_of_legends_bosses",
@@ -37292,7 +37292,7 @@
                 "goal": "KillBossMonstersInQuestOfType",
                 "goalSubject": "Legends",
                 "goalAmount": 9,
-                "challengeSeasonPointsReward": 450
+                "challengeSeasonPointsReward": 630
               }
             ]
           },
@@ -37305,7 +37305,7 @@
                 "icon": "",
                 "goal": "CollectTowerBlessings",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 250
+                "challengeSeasonPointsReward": 350
               },
               {
                 "id": "complete_tower_normal_mode",
@@ -37313,7 +37313,7 @@
                 "goal": "CompleteQuestLineOfType",
                 "goalSubject": "TowerEventNormal",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 500
+                "challengeSeasonPointsReward": 700
               }
             ]
           },
@@ -37326,7 +37326,7 @@
                 "icon": "",
                 "goal": "CollectTowerBlessings",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 250
+                "challengeSeasonPointsReward": 350
               },
               {
                 "id": "complete_tower_normal_mode",
@@ -37334,7 +37334,7 @@
                 "goal": "CompleteQuestLineOfType",
                 "goalSubject": "TowerEventNormal",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 500
+                "challengeSeasonPointsReward": 700
               }
             ]
           },
@@ -37347,42 +37347,42 @@
                 "icon": "level_all",
                 "goal": "GainXp",
                 "goalAmount": 1000,
-                "challengeSeasonPointsReward": 125
+                "challengeSeasonPointsReward": 175
               },
               {
                 "id": "gain_xp_2",
                 "icon": "level_all",
                 "goal": "GainXp",
                 "goalAmount": 2500,
-                "challengeSeasonPointsReward": 175
+                "challengeSeasonPointsReward": 245
               },
               {
                 "id": "gain_xp_3",
                 "icon": "level_all",
                 "goal": "GainXp",
                 "goalAmount": 5000,
-                "challengeSeasonPointsReward": 300
+                "challengeSeasonPointsReward": 420
               },
               {
                 "id": "gain_xp_4",
                 "icon": "level_all",
                 "goal": "GainXp",
                 "goalAmount": 20000,
-                "challengeSeasonPointsReward": 450
+                "challengeSeasonPointsReward": 630
               },
               {
                 "id": "gain_xp_5",
                 "icon": "level_all",
                 "goal": "GainXp",
                 "goalAmount": 40000,
-                "challengeSeasonPointsReward": 600
+                "challengeSeasonPointsReward": 840
               },
               {
                 "id": "gain_xp_6",
                 "icon": "level_all",
                 "goal": "GainXp",
                 "goalAmount": 75000,
-                "challengeSeasonPointsReward": 850
+                "challengeSeasonPointsReward": 1190
               }
             ]
           },
@@ -37396,7 +37396,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "All",
                 "goalAmount": 50,
-                "challengeSeasonPointsReward": 150
+                "challengeSeasonPointsReward": 210
               },
               {
                 "id": "kill_enemies_2",
@@ -37404,7 +37404,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "All",
                 "goalAmount": 125,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "kill_enemies_3",
@@ -37412,7 +37412,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "All",
                 "goalAmount": 250,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "kill_enemies_4",
@@ -37420,7 +37420,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "All",
                 "goalAmount": 650,
-                "challengeSeasonPointsReward": 650
+                "challengeSeasonPointsReward": 910
               },
               {
                 "id": "kill_enemies_5",
@@ -37428,7 +37428,7 @@
                 "goal": "KillNpcs",
                 "goalSubject": "All",
                 "goalAmount": 1300,
-                "challengeSeasonPointsReward": 1100
+                "challengeSeasonPointsReward": 1540
               }
             ]
           },
@@ -37442,7 +37442,7 @@
                 "goal": "KillPvpNpcs",
                 "goalSubject": "All",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 200
+                "challengeSeasonPointsReward": 280
               },
               {
                 "id": "kill_heroes_2",
@@ -37450,7 +37450,7 @@
                 "goal": "KillPvpNpcs",
                 "goalSubject": "All",
                 "goalAmount": 50,
-                "challengeSeasonPointsReward": 400
+                "challengeSeasonPointsReward": 560
               },
               {
                 "id": "kill_heroes_3",
@@ -37458,7 +37458,7 @@
                 "goal": "KillPvpNpcs",
                 "goalSubject": "All",
                 "goalAmount": 100,
-                "challengeSeasonPointsReward": 700
+                "challengeSeasonPointsReward": 980
               },
               {
                 "id": "kill_heroes_4",
@@ -37466,7 +37466,7 @@
                 "goal": "KillPvpNpcs",
                 "goalSubject": "All",
                 "goalAmount": 200,
-                "challengeSeasonPointsReward": 1200
+                "challengeSeasonPointsReward": 1680
               }
             ]
           },
@@ -37479,35 +37479,35 @@
                 "icon": "titan",
                 "goal": "KillTitans",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 150
+                "challengeSeasonPointsReward": 210
               },
               {
                 "id": "kill_titans_2",
                 "icon": "titan",
                 "goal": "KillTitans",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "kill_titans_3",
                 "icon": "titan",
                 "goal": "KillTitans",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "kill_titans_4",
                 "icon": "titan",
                 "goal": "KillTitans",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 650
+                "challengeSeasonPointsReward": 910
               },
               {
                 "id": "kill_titans_5",
                 "icon": "titan",
                 "goal": "KillTitans",
                 "goalAmount": 8,
-                "challengeSeasonPointsReward": 1100
+                "challengeSeasonPointsReward": 1540
               }
             ]
           },
@@ -37521,7 +37521,7 @@
                 "goal": "KillTitansOfStars",
                 "goalSubject": "2",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 150
+                "challengeSeasonPointsReward": 210
               },
               {
                 "id": "kill_x_or_higher_star_titans_2",
@@ -37529,7 +37529,7 @@
                 "goal": "KillTitansOfStars",
                 "goalSubject": "3",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "kill_x_or_higher_star_titans_3",
@@ -37537,7 +37537,7 @@
                 "goal": "KillTitansOfStars",
                 "goalSubject": "4",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "kill_x_or_higher_star_titans_4",
@@ -37545,7 +37545,7 @@
                 "goal": "KillTitansOfStars",
                 "goalSubject": "5",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 650
+                "challengeSeasonPointsReward": 910
               },
               {
                 "id": "kill_x_or_higher_star_titans_5",
@@ -37553,7 +37553,7 @@
                 "goal": "KillTitansOfStars",
                 "goalSubject": "6",
                 "goalAmount": 8,
-                "challengeSeasonPointsReward": 1100
+                "challengeSeasonPointsReward": 1540
               }
             ]
           },
@@ -37566,70 +37566,70 @@
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 20
+                "challengeSeasonPointsReward": 25
               },
               {
                 "id": "level_up_heroes_x_levels_2",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 30
+                "challengeSeasonPointsReward": 45
               },
               {
                 "id": "level_up_heroes_x_levels_3",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 50
+                "challengeSeasonPointsReward": 70
               },
               {
                 "id": "level_up_heroes_x_levels_4",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 75
+                "challengeSeasonPointsReward": 100
               },
               {
                 "id": "level_up_heroes_x_levels_5",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 25,
-                "challengeSeasonPointsReward": 115
+                "challengeSeasonPointsReward": 170
               },
               {
                 "id": "level_up_heroes_x_levels_6",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 50,
-                "challengeSeasonPointsReward": 190
+                "challengeSeasonPointsReward": 260
               },
               {
                 "id": "level_up_heroes_x_levels_7",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 75,
-                "challengeSeasonPointsReward": 275
+                "challengeSeasonPointsReward": 385
               },
               {
                 "id": "level_up_heroes_x_levels_8",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 100,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "level_up_heroes_x_levels_9",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 125,
-                "challengeSeasonPointsReward": 550
+                "challengeSeasonPointsReward": 770
               },
               {
                 "id": "level_up_heroes_x_levels_10",
                 "icon": "level_all",
                 "goal": "LevelUpHeroesXLevels",
                 "goalAmount": 150,
-                "challengeSeasonPointsReward": 820
+                "challengeSeasonPointsReward": 1150
               }
             ]
           },
@@ -37642,7 +37642,7 @@
                 "icon": "wanted_chests",
                 "goal": "OpenWantedMissionChest",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 100
+                "challengeSeasonPointsReward": 140
               }
             ]
           },
@@ -37656,7 +37656,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 20
+                "challengeSeasonPointsReward": 25
               },
               {
                 "id": "summon_2",
@@ -37664,7 +37664,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 30
+                "challengeSeasonPointsReward": 45
               },
               {
                 "id": "summon_3",
@@ -37672,7 +37672,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 50
+                "challengeSeasonPointsReward": 70
               },
               {
                 "id": "summon_4",
@@ -37680,7 +37680,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 7,
-                "challengeSeasonPointsReward": 75
+                "challengeSeasonPointsReward": 100
               },
               {
                 "id": "summon_5",
@@ -37688,7 +37688,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 115
+                "challengeSeasonPointsReward": 170
               },
               {
                 "id": "summon_6",
@@ -37696,7 +37696,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 15,
-                "challengeSeasonPointsReward": 190
+                "challengeSeasonPointsReward": 260
               },
               {
                 "id": "summon_7",
@@ -37704,7 +37704,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 275
+                "challengeSeasonPointsReward": 385
               },
               {
                 "id": "summon_8",
@@ -37712,7 +37712,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 25,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "summon_9",
@@ -37720,7 +37720,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 30,
-                "challengeSeasonPointsReward": 550
+                "challengeSeasonPointsReward": 770
               },
               {
                 "id": "summon_10",
@@ -37728,7 +37728,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "",
                 "goalAmount": 35,
-                "challengeSeasonPointsReward": 820
+                "challengeSeasonPointsReward": 1150
               }
             ]
           },
@@ -37742,7 +37742,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Hero",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 150
+                "challengeSeasonPointsReward": 210
               },
               {
                 "id": "summon_heroes_2",
@@ -37750,7 +37750,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Hero",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "summon_heroes_3",
@@ -37758,7 +37758,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Hero",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "summon_heroes_4",
@@ -37766,7 +37766,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Hero",
                 "goalAmount": 30,
-                "challengeSeasonPointsReward": 650
+                "challengeSeasonPointsReward": 910
               },
               {
                 "id": "summon_heroes_5",
@@ -37774,7 +37774,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Hero",
                 "goalAmount": 50,
-                "challengeSeasonPointsReward": 1100
+                "challengeSeasonPointsReward": 1540
               }
             ]
           },
@@ -37788,7 +37788,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Troop",
                 "goalAmount": 1,
-                "challengeSeasonPointsReward": 150
+                "challengeSeasonPointsReward": 210
               },
               {
                 "id": "summon_troops_2",
@@ -37796,7 +37796,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Troop",
                 "goalAmount": 2,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "summon_troops_3",
@@ -37804,7 +37804,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Troop",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "summon_troops_4",
@@ -37812,7 +37812,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Troop",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 650
+                "challengeSeasonPointsReward": 910
               },
               {
                 "id": "summon_troops_5",
@@ -37820,7 +37820,7 @@
                 "goal": "UseSummons",
                 "goalSubject": "Troop",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 1100
+                "challengeSeasonPointsReward": 1540
               }
             ]
           },
@@ -37834,7 +37834,7 @@
                 "goal": "WinPvpBattles",
                 "goalSubject": "bronze",
                 "goalAmount": 3,
-                "challengeSeasonPointsReward": 150
+                "challengeSeasonPointsReward": 210
               },
               {
                 "id": "win_pvp_battles_2",
@@ -37842,7 +37842,7 @@
                 "goal": "WinPvpBattles",
                 "goalSubject": "silver",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 225
+                "challengeSeasonPointsReward": 315
               },
               {
                 "id": "win_pvp_battles_3",
@@ -37850,7 +37850,7 @@
                 "goal": "WinPvpBattles",
                 "goalSubject": "gold",
                 "goalAmount": 12,
-                "challengeSeasonPointsReward": 375
+                "challengeSeasonPointsReward": 525
               },
               {
                 "id": "win_pvp_battles_4",
@@ -37858,7 +37858,7 @@
                 "goal": "WinPvpBattles",
                 "goalSubject": "platinum",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 650
+                "challengeSeasonPointsReward": 910
               },
               {
                 "id": "win_pvp_battles_5",
@@ -37866,7 +37866,7 @@
                 "goal": "WinPvpBattles",
                 "goalSubject": "diamond",
                 "goalAmount": 35,
-                "challengeSeasonPointsReward": 1100
+                "challengeSeasonPointsReward": 1540
               }
             ]
           },
@@ -37879,21 +37879,21 @@
                 "icon": "pvp",
                 "goal": "WinPvpEventBattles",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 200
+                "challengeSeasonPointsReward": 280
               },
               {
                 "id": "win_raid_tournament_battles_2",
                 "icon": "pvp",
                 "goal": "WinPvpEventBattles",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 725
+                "challengeSeasonPointsReward": 1015
               },
               {
                 "id": "win_raid_tournament_battles_3",
                 "icon": "pvp",
                 "goal": "WinPvpEventBattles",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 1575
+                "challengeSeasonPointsReward": 2205
               }
             ]
           },
@@ -37906,21 +37906,21 @@
                 "icon": "alliance_war",
                 "goal": "WinAllianceWarBattles",
                 "goalAmount": 5,
-                "challengeSeasonPointsReward": 200
+                "challengeSeasonPointsReward": 280
               },
               {
                 "id": "win_war_battles_2",
                 "icon": "alliance_war",
                 "goal": "WinAllianceWarBattles",
                 "goalAmount": 10,
-                "challengeSeasonPointsReward": 725
+                "challengeSeasonPointsReward": 1015
               },
               {
                 "id": "win_war_battles_3",
                 "icon": "alliance_war",
                 "goal": "WinAllianceWarBattles",
                 "goalAmount": 20,
-                "challengeSeasonPointsReward": 1575
+                "challengeSeasonPointsReward": 2205
               }
             ]
           }
@@ -44502,7 +44502,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mystic_rings",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -44552,7 +44552,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_hidden_blade",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -44634,7 +44634,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_poison_darts",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46301,7 +46301,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -46351,7 +46351,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_warm_cape",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46433,7 +46433,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46619,7 +46619,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mystic_rings",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -46669,7 +46669,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_hidden_blade",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46751,7 +46751,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_poison_darts",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46937,7 +46937,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_royal_tabard",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -46987,7 +46987,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_trap_tools",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47069,7 +47069,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mystic_rings",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47255,7 +47255,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mysterious_tonic",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -47305,7 +47305,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_sturdy_shield",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47387,7 +47387,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_royal_tabard",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47573,7 +47573,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_poison_darts",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -47623,7 +47623,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_orb_of_magic",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47705,7 +47705,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mysterious_tonic",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47891,7 +47891,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -47941,7 +47941,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_warm_cape",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -48023,7 +48023,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -48423,7 +48423,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mystic_rings",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -48630,7 +48630,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_poison_darts",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -48740,7 +48740,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_royal_tabard",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -48947,7 +48947,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -49057,7 +49057,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mysterious_tonic",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -49264,7 +49264,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mystic_rings",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -49374,7 +49374,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_poison_darts",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -49581,7 +49581,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_royal_tabard",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -49691,7 +49691,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -49898,7 +49898,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mysterious_tonic",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -50008,7 +50008,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mystic_rings",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -50215,7 +50215,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_poison_darts",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -51276,7 +51276,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_farsight_telescope",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -51483,7 +51483,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "hero_mysterious_tonic",
-                  "amount": 2
+                  "amount": 4
                 }
               },
               {
@@ -92882,7 +92882,7 @@
               "endTime": "2024-12-15 07:00:00",
               "maxTransactionCount": 1,
               "maxHeroRarity": 5,
-              "costumeCutOffDate": 739868400,
+              "costumeCutOffDate": "2023-06-12 07:00:00",
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
@@ -92893,7 +92893,7 @@
               "endTime": "2025-05-01 07:00:00",
               "maxTransactionCount": 1,
               "maxHeroRarity": 5,
-              "costumeCutOffDate": 751705200,
+              "costumeCutOffDate": "2023-10-27 07:00:00",
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
@@ -92904,7 +92904,7 @@
               "endTime": "2025-07-31 07:00:00",
               "maxTransactionCount": 1,
               "maxHeroRarity": 5,
-              "costumeCutOffDate": 759567600,
+              "costumeCutOffDate": "2024-01-26 07:00:00",
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
@@ -92915,7 +92915,7 @@
               "endTime": "2025-11-01 07:00:00",
               "maxTransactionCount": 1,
               "maxHeroRarity": 5,
-              "costumeCutOffDate": 767602800,
+              "costumeCutOffDate": "2024-04-28 07:00:00",
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
@@ -92926,7 +92926,7 @@
               "endTime": "2026-01-25 07:00:00",
               "maxTransactionCount": 1,
               "maxHeroRarity": 5,
-              "costumeCutOffDate": 774946800,
+              "costumeCutOffDate": "2024-07-22 07:00:00",
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
@@ -92937,7 +92937,7 @@
               "endTime": "2026-04-21 07:00:00",
               "maxTransactionCount": 1,
               "maxHeroRarity": 5,
-              "costumeCutOffDate": 782377200,
+              "costumeCutOffDate": "2024-10-16 07:00:00",
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
@@ -93659,5 +93659,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2173762074
+  "otherConfigId": 1825541533
 }

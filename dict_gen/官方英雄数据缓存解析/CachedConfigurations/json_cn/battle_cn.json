@@ -69479,7 +69479,7 @@
         "id": "league_mana_generation_modifier_non_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "modifierPerMil": 850
+        "modifierPerMil": 700
       },
       {
         "passiveSkillType": "HealModifier",
@@ -88568,7 +88568,7 @@
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1700
           },
           {
             "type": "HealthMultiplier",
@@ -88591,7 +88591,7 @@
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1600
+            "multiplierPerMil": 1800
           },
           {
             "type": "HealthMultiplier",
@@ -97088,5 +97088,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1607530792
+  "battleConfigId": 2586369246
 }

@@ -2093,37 +2093,37 @@
           {
             "type": "Item",
             "id": "hero_damascus_blade",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "hero_farsight_telescope",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "hero_mysterious_tonic",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "hero_mystic_rings",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "hero_poison_darts",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "hero_royal_tabard",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "hero_tome_of_tactics",
-            "amount": 1
+            "amount": 2
           }
         ]
       },
@@ -6573,27 +6573,32 @@
           {
             "type": "Item",
             "id": "hero_mystic_rings",
-            "amount": 3
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
             "id": "hero_farsight_telescope",
-            "amount": 3
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
             "id": "hero_poison_darts",
-            "amount": 3
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
             "id": "hero_royal_tabard",
-            "amount": 3
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
             "id": "hero_mysterious_tonic",
-            "amount": 3
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -16622,19 +16627,18 @@
           {
             "type": "Item",
             "id": "emblem_master_cleric",
-            "amount": 10,
-            "zyngaStoreExtraAmount": 2
+            "amount": 15
           },
           {
             "type": "Item",
             "id": "emblem_cleric",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
+            "amount": 150
           },
           {
             "type": "Item",
             "id": "lottery_elite_hero",
-            "amount": 4
+            "amount": 3,
+            "zyngaStoreExtraAmount": 2
           }
         ],
         "dollarValue": 10
@@ -16650,19 +16654,18 @@
           {
             "type": "Item",
             "id": "emblem_master_fighter",
-            "amount": 10,
-            "zyngaStoreExtraAmount": 2
+            "amount": 15
           },
           {
             "type": "Item",
             "id": "emblem_fighter",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
+            "amount": 150
           },
           {
             "type": "Item",
             "id": "lottery_elite_hero",
-            "amount": 4
+            "amount": 3,
+            "zyngaStoreExtraAmount": 2
           }
         ],
         "dollarValue": 10
@@ -16678,19 +16681,18 @@
           {
             "type": "Item",
             "id": "emblem_master_rogue",
-            "amount": 10,
-            "zyngaStoreExtraAmount": 2
+            "amount": 15
           },
           {
             "type": "Item",
             "id": "emblem_rogue",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
+            "amount": 150
           },
           {
             "type": "Item",
             "id": "lottery_elite_hero",
-            "amount": 4
+            "amount": 3,
+            "zyngaStoreExtraAmount": 2
           }
         ],
         "dollarValue": 10
@@ -16829,7 +16831,7 @@
           {
             "type": "Item",
             "id": "hero_royal_tabard",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -17186,7 +17188,7 @@
           {
             "type": "Item",
             "id": "hero_poison_darts",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -17799,7 +17801,7 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 8500,
+            "amount": 10000,
             "zyngaStoreExtraAmount": 1500
           },
           {
@@ -17837,7 +17839,7 @@
           {
             "type": "Item",
             "id": "hero_mystic_rings",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -18209,12 +18211,12 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_uncommon",
-            "amount": 6
+            "amount": 8
           },
           {
             "type": "Troop",
             "id": "rainbow_uncommon_trainer",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Item",
@@ -18553,7 +18555,7 @@
           {
             "type": "Item",
             "id": "hero_farsight_telescope",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -18809,7 +18811,7 @@
           {
             "type": "Item",
             "id": "hero_poison_darts",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -18826,7 +18828,7 @@
           {
             "type": "Item",
             "id": "hero_mysterious_tonic",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -18843,7 +18845,7 @@
           {
             "type": "Item",
             "id": "hero_royal_tabard",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -18860,7 +18862,7 @@
           {
             "type": "Item",
             "id": "hero_farsight_telescope",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -18877,7 +18879,7 @@
           {
             "type": "Item",
             "id": "hero_mystic_rings",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -19991,7 +19993,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.seasonaloffercalendar_price10",
-            "purchaseLimit": 5
+            "purchaseLimit": 4
           }
         ],
         "supportsTabs": true,
@@ -20008,7 +20010,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.summertier2",
-            "purchaseLimit": 5
+            "purchaseLimit": 4
           }
         ],
         "supportsTabs": true,
@@ -20025,7 +20027,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.seasonaloffercalendar_price10",
-            "purchaseLimit": 5
+            "purchaseLimit": 4
           }
         ],
         "supportsTabs": true,
@@ -27897,11 +27899,11 @@
           },
           {
             "id": "com.smallgiantgames.empires.ascensioncrystals_tier1a",
-            "purchaseLimit": 10
+            "purchaseLimit": 8
           },
           {
             "id": "com.smallgiantgames.empires.ascensioncrystals_tier1b",
-            "purchaseLimit": 8
+            "purchaseLimit": 6
           },
           {
             "id": "com.smallgiantgames.empires.ascensioncrystals_tier2a",
@@ -27909,11 +27911,11 @@
           },
           {
             "id": "com.smallgiantgames.empires.ascensioncrystals_tier2b",
-            "purchaseLimit": 4
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.ascensioncrystals_tier3",
-            "purchaseLimit": 2
+            "purchaseLimit": 1
           }
         ],
         "offerCategory": "Event",
@@ -28908,7 +28910,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -28933,7 +28934,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -28958,7 +28958,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -28983,7 +28982,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29008,7 +29006,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29033,7 +29030,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29058,7 +29054,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29083,7 +29078,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29108,7 +29102,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29133,7 +29126,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29158,7 +29150,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29183,7 +29174,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29208,7 +29198,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29233,7 +29222,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29258,7 +29246,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29283,7 +29270,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29308,7 +29294,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29333,7 +29318,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29358,7 +29342,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29383,7 +29366,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29684,7 +29666,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -29709,7 +29690,6 @@
             "purchaseLimit": 1
           }
         ],
-        "disabled": true,
         "progressConfiguration": {
           "playerProgressOfferType": "LastHeroAscension",
           "duration": 86400,
@@ -95741,5 +95721,5 @@
       }
     ]
   },
-  "shopConfigId": 3501129893
+  "shopConfigId": 3731462986
 }
