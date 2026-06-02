@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (580 / 0)
+✅ 成功匹配的服装 (583 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -331,6 +331,7 @@ Name: Zila Lei Costume1, Fancy Name: Octopod Dancer
 Name: Exeera Costume1, Fancy Name: Octopod Hierophant
 Name: Xnolphod Costume1, Fancy Name: Octopod Jailer
 Name: Hel Costume1, Fancy Name: Omen of Darkness
+Name: Dolrak costume1, Fancy Name: Overly Tattooed Dwarf
 Name: Richard stylish, Fancy Name: Paladin of Style
 Name: Peters Costume1, Fancy Name: Paper Boy at Shore
 Name: Melendor Costume2, Fancy Name: Party Wizard
@@ -366,6 +367,7 @@ Name: Prisca Toon, Fancy Name: Resolute Toon
 Name: Prisca Glass, Fancy Name: Resolute Vitrail
 Name: Master Lepus Costume1, Fancy Name: Rift Breaker
 Name: Tyrum Costume1, Fancy Name: Roman Remnant
+Name: Itham costume1, Fancy Name: Rookie Skateboarder Elf
 Name: Gan Ju Costume1, Fancy Name: Root of Bamboo
 Name: Sargasso Costume1, Fancy Name: Rotten Captain of Corellia
 Name: Hreidmarr costume1, Fancy Name: Royal Dwarven Trader
@@ -406,6 +408,7 @@ Name: Toxicandra Costume1, Fancy Name: Sovereign of Flora
 Name: Hetepheres Costume1, Fancy Name: Sphinx at the Spa
 Name: Meresankh Costume1, Fancy Name: Sphinx of the Disco
 Name: Hathor Costume1, Fancy Name: Starlit Mother
+Name: Misty costume1, Fancy Name: Stealthy Beach Gnome
 Name: Little John Costume1, Fancy Name: Stealthy Brother
 Name: Domitia Costume1, Fancy Name: Steampunk Sniper
 Name: Zhuge Liang Costume1, Fancy Name: Strategist Supreme

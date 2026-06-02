@@ -79,6 +79,7 @@ family_corrections = {
     "theinstitute": "institute",
     "astraldemons": "astral_demons",
     "ghosts": "ghost",
+    "sunbayshark": "shark",
 }
 
 typo_corrections = {
@@ -615,7 +616,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['astral_elves', 'astral_dwarfs','astral_demons']: source_to_translate = 'astral'
             elif hero_family in ['gargoyle']: source_to_translate = 'gargoyle'
             elif hero_family in ['investigator', 'cultist','forsaken','institute']: source_to_translate = 'shadow'
-            elif hero_family in ['sand', 'beachparty', 'shark']: source_to_translate = 'beachparty'
+            elif hero_family in ['sand', 'beachparty']: source_to_translate = 'beachparty'
+            elif hero_family in ['shark']: source_to_translate = 'beachparty2026'
             elif hero_family in ['mystery']: source_to_translate = 'tavernoflegendssecret'
             elif hero_family in ['knight', 'pirate', 'fable', 'guardian', 'wonderland']: source_to_translate = 'challengefestival1'
             elif hero_family in ['villains', 'circus', 'slayers', 'bard', 'mighty_pet']: source_to_translate = 'challengefestival2'

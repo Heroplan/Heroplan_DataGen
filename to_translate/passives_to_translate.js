@@ -1242,7 +1242,7 @@ const allTranslations =
         "name": "Davey Wavey",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -1494,6 +1494,16 @@ const allTranslations =
         "heroId": "guardian_hippo",
         "name": "Guardian Hippo",
         "passives": []
+    },
+    {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "passives": [
+            "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
+            "* Damage increased for Special Skills 30%.",
+            "* Damage increased for Minions and Mega Minions 50%.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
+        ]
     },
     {
         "heroId": "construct_halwinter",
@@ -1951,6 +1961,14 @@ const allTranslations =
         "passives": [
             "Resist Water: This character is immune to status ailments that deal Water damage.",
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 Water damage over 2 turns."
+        ]
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C1",
+        "passives": [
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 338 Water damage over 2 turns.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -4793,8 +4811,8 @@ const allTranslations =
         "heroId": "beachparty_mazoga",
         "name": "Mazoga",
         "passives": [
-            "Resist Water Damage: This character has innate resistance against Water Damage.",
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 Water damage over 2 turns."
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 Water damage over 2 turns.",
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -5073,6 +5091,16 @@ const allTranslations =
         "passives": [
             "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
+        ]
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "passives": [
+            "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
+            "* Damage increased for Special Skills 30%.",
+            "* Damage increased for Minions and Mega Minions 50%.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -5693,6 +5721,16 @@ const allTranslations =
         "heroId": "guardian_bat",
         "name": "Guardian Bat",
         "passives": []
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "passives": [
+            "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
+            "* Damage increased for Special Skills 30%.",
+            "* Damage increased for Minions and Mega Minions 50%.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
+        ]
     },
     {
         "heroId": "halloween_jack",
@@ -7844,8 +7882,8 @@ const allTranslations =
         "heroId": "beachparty_serena",
         "name": "Serena",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 278 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 280 Water damage over 2 turns.",
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -7918,6 +7956,14 @@ const allTranslations =
         "passives": [
             "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
+        ]
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "passives": [
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 328 Water damage over 2 turns.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -8266,7 +8312,7 @@ const allTranslations =
         "heroId": "dark_god_zed",
         "name": "Zed",
         "passives": [
-            "Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
             "Increased Special Skill Damage: This first 2 times this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ]
     },
@@ -8842,6 +8888,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C1",
+        "passives": [
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 192 Water damage over 2 turns.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
+        ]
+    },
+    {
         "heroId": "s5_junaid",
         "name": "Junaid",
         "passives": [
@@ -9038,6 +9092,16 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "passives": [
+            "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
+            "* Damage increased for Special Skills 30%.",
+            "* Damage increased for Minions and Mega Minions 50%.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
+        ]
+    },
+    {
         "heroId": "knights_sir_lancelot",
         "name": "Sir Lancelot",
         "passives": []
@@ -9204,8 +9268,8 @@ const allTranslations =
         "heroId": "beachparty_andy_jay",
         "name": "Andy Jay",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 294 Water damage over 2 turns.",
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -9473,6 +9537,16 @@ const allTranslations =
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "passives": [
+            "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
+            "* Damage increased for Special Skills 30%.",
+            "* Damage increased for Minions and Mega Minions 50%.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -9900,7 +9974,7 @@ const allTranslations =
         "name": "Flip C1",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -11106,6 +11180,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "fire_god_zerfain",
+        "name": "Zerfain",
+        "passives": [
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power."
+        ]
+    },
+    {
         "heroId": "slime_zestique",
         "name": "Zestique",
         "passives": [
@@ -11245,6 +11327,14 @@ const allTranslations =
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.",
             "Resist Water: This character is immune to status ailments that deal Water damage."
+        ]
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C1",
+        "passives": [
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 142 Water damage over 2 turns.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -12085,6 +12175,14 @@ const allTranslations =
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "passives": [
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 316 Water damage over 2 turns.",
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -13675,7 +13773,7 @@ const allTranslations =
         "name": "Zenuk'wa",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
-            "Resist Water Damage: This character is immune to status ailments that deal Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -13723,56 +13821,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "beachparty_skiff",
-        "name": "Skiff",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_bubo",
-        "name": "Bubo",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_dolrak_costume_tattoo",
-        "name": "Dolrak C",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_itham_costume_skateboard",
-        "name": "Itham C",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_misty_costume_rogue",
-        "name": "Misty C",
-        "passives": []
-    },
-    {
-        "heroId": "shark_brokhai",
-        "name": "Bro'Khai",
-        "passives": []
-    },
-    {
-        "heroId": "shark_haikala",
-        "name": "Hai'Kala",
-        "passives": []
-    },
-    {
-        "heroId": "shark_sharpoon",
-        "name": "Sha-Arr",
-        "passives": []
-    },
-    {
-        "heroId": "shark_sharby",
-        "name": "Shar'By",
-        "passives": []
-    },
-    {
-        "heroId": "shark_haamuhai",
-        "name": "Haa'Muhai",
-        "passives": []
     },
     {
         "heroId": "astral_demon_madarika",

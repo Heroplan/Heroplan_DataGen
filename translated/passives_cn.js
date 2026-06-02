@@ -1496,6 +1496,16 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "passives": [
+            "鲨鱼之力：此角色的特殊技能、超级小兵以及小兵对任何受到水系伤害状态异常的敌人会造成更高的伤害。",
+            "* 特殊技能的伤害提高 30%。",
+            "* 超级小兵和小兵的伤害提高 50%。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
+        ]
+    },
+    {
         "heroId": "construct_halwinter",
         "name": "Halwinter",
         "passives": [
@@ -1951,6 +1961,14 @@ const translatedPassivesCN =
         "passives": [
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 210 点水系伤害。"
+        ]
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C1",
+        "passives": [
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 338 点水系伤害。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -4793,8 +4811,8 @@ const translatedPassivesCN =
         "heroId": "beachparty_mazoga",
         "name": "Mazoga",
         "passives": [
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 254 点水系伤害。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 254 点水系伤害。",
+            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ]
     },
     {
@@ -5073,6 +5091,16 @@ const translatedPassivesCN =
         "passives": [
             "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
             "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。"
+        ]
+    },
+    {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "passives": [
+            "鲨鱼之力：此角色的特殊技能、超级小兵以及小兵对任何受到水系伤害状态异常的敌人会造成更高的伤害。",
+            "* 特殊技能的伤害提高 30%。",
+            "* 超级小兵和小兵的伤害提高 50%。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -5693,6 +5721,16 @@ const translatedPassivesCN =
         "heroId": "guardian_bat",
         "name": "Guardian Bat",
         "passives": []
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "passives": [
+            "鲨鱼之力：此角色的特殊技能、超级小兵以及小兵对任何受到水系伤害状态异常的敌人会造成更高的伤害。",
+            "* 特殊技能的伤害提高 30%。",
+            "* 超级小兵和小兵的伤害提高 50%。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
+        ]
     },
     {
         "heroId": "halloween_jack",
@@ -7844,7 +7882,7 @@ const translatedPassivesCN =
         "heroId": "beachparty_serena",
         "name": "Serena",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 278 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 280 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ]
     },
@@ -7918,6 +7956,14 @@ const translatedPassivesCN =
         "passives": [
             "抵抗法力生成异常：该角色天生对影响法力生成的异常状态和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
             "生命恢复时获得法力：该角色每次恢复生命时获得 5% 的法力。"
+        ]
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "passives": [
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 328 点水系伤害。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -8266,7 +8312,7 @@ const translatedPassivesCN =
         "heroId": "dark_god_zed",
         "name": "Zed",
         "passives": [
-            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不包括来自盟友的原始状态效果。",
+            "抵抗致盲：此角色免疫影响精准度的状态异常。不包括来自盟友的原始状态效果。",
             "提升特殊技能伤害：该角色前 2 次使用特殊技能造成伤害时，该伤害将额外提升 50%。"
         ]
     },
@@ -8842,6 +8888,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C1",
+        "passives": [
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 192 点水系伤害。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
+        ]
+    },
+    {
         "heroId": "s5_junaid",
         "name": "Junaid",
         "passives": [
@@ -9038,6 +9092,16 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "passives": [
+            "鲨鱼之力：此角色的特殊技能、超级小兵以及小兵对任何受到水系伤害状态异常的敌人会造成更高的伤害。",
+            "* 特殊技能的伤害提高 30%。",
+            "* 超级小兵和小兵的伤害提高 50%。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
+        ]
+    },
+    {
         "heroId": "knights_sir_lancelot",
         "name": "Sir Lancelot",
         "passives": []
@@ -9204,7 +9268,7 @@ const translatedPassivesCN =
         "heroId": "beachparty_andy_jay",
         "name": "Andy Jay",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 292 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 294 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ]
     },
@@ -9473,6 +9537,16 @@ const translatedPassivesCN =
             "毁灭核心在该角色每次施放特殊技能时激活。",
             "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
             "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+        ]
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "passives": [
+            "鲨鱼之力：此角色的特殊技能、超级小兵以及小兵对任何受到水系伤害状态异常的敌人会造成更高的伤害。",
+            "* 特殊技能的伤害提高 30%。",
+            "* 超级小兵和小兵的伤害提高 50%。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -11106,6 +11180,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "fire_god_zerfain",
+        "name": "Zerfain",
+        "passives": [
+            "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
+            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 50%。"
+        ]
+    },
+    {
         "heroId": "slime_zestique",
         "name": "Zestique",
         "passives": [
@@ -11245,6 +11327,14 @@ const translatedPassivesCN =
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 124 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+        ]
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C1",
+        "passives": [
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 142 点水系伤害。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -12085,6 +12175,14 @@ const translatedPassivesCN =
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 343 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
             "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+        ]
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "passives": [
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 316 点水系伤害。",
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -13723,56 +13821,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "beachparty_skiff",
-        "name": "Skiff",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_bubo",
-        "name": "Bubo",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_dolrak_costume_tattoo",
-        "name": "Dolrak C",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_itham_costume_skateboard",
-        "name": "Itham C",
-        "passives": []
-    },
-    {
-        "heroId": "beachparty_misty_costume_rogue",
-        "name": "Misty C",
-        "passives": []
-    },
-    {
-        "heroId": "shark_brokhai",
-        "name": "Bro'Khai",
-        "passives": []
-    },
-    {
-        "heroId": "shark_haikala",
-        "name": "Hai'Kala",
-        "passives": []
-    },
-    {
-        "heroId": "shark_sharpoon",
-        "name": "Sha-Arr",
-        "passives": []
-    },
-    {
-        "heroId": "shark_sharby",
-        "name": "Shar'By",
-        "passives": []
-    },
-    {
-        "heroId": "shark_haamuhai",
-        "name": "Haa'Muhai",
-        "passives": []
     },
     {
         "heroId": "astral_demon_madarika",

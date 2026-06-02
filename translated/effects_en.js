@@ -1888,6 +1888,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "shark_haikala",
+        "name": "Hai'Kala",
+        "effects": [
+            "Recovers 60% health for the caster.",
+            "The healing chains through all the allies who are adjacent to any healed ally.",
+            "All healed allies get +50% mana generation for 5 turns (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "Summons a Shark Mega Minion with 65% HP and 270% attack inherited from the caster. Deals strong damage against Fire characters.",
+            "When summoned, the Shark Mega Minion gives its owner immunity to buff dispels and buff steals for as long as the owner has Shark Mega Minion. (The immunity also includes this effect itself. Also includes Ransack.)"
+        ]
+    },
+    {
         "heroId": "construct_halwinter",
         "name": "Halwinter",
         "effects": [
@@ -2467,6 +2478,16 @@ const allTranslations =
             "Boosts health of all allies by 180. Boosted health can exceed max HP.",
             "Reduces the max health of all enemies by 180. This effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 180.",
             "Deals 180% damage to all enemies."
+        ]
+    },
+    {
+        "heroId": "beachparty_misty_costume_rogue",
+        "name": "Misty C1",
+        "effects": [
+            "Boosts health of all allies by 500. Boosted health can exceed max HP.",
+            "Reduces the max health of all enemies by 500. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
+            "Deals 275% damage to all enemies.",
+            "All enemies get -75% decrease of any healing received for 3 turns."
         ]
     },
     {
@@ -6589,6 +6610,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "shark_sharpoon",
+        "name": "Sha-Arr",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "Deals an additional 130% damage to as many random enemies as there are Mega Minions and Minions owned by allies. The damage is reduced on each consecutive hit.",
+            "All hit target get -50% attack for 4 turns.",
+            "Summons a Shark Minion for each ally with 20% HP and 20% attack inherited from the caster. Deals strong damage against Ice characters.",
+            "When summoned, the Shark Minion gives its owner immunity to buff dispels and buff steals for as long as the owner has Shark Minion. (The immunity also includes this effect itself. Also includes Ransack.)"
+        ]
+    },
+    {
         "heroId": "nature_god_silvaria",
         "name": "Silvaria",
         "effects": [
@@ -7055,8 +7087,8 @@ const allTranslations =
         "name": "Yunan C1",
         "effects": [
             "Deals 215% damage to all enemies.",
-            "All enemies receive 815 Sand damage over 5 turns.",
-            "All allies get +33% mana generation for 5 turns.",
+            "All enemies receive 835 Sand damage over 5 turns.",
+            "All allies get +33% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Cleanses status ailments from all allies."
         ]
     },
@@ -7348,6 +7380,15 @@ const allTranslations =
         "effects": [
             "Deals 270% damage to the target and minor damage to nearby enemies.",
             "The damage is increased by 50% per each dead ally."
+        ]
+    },
+    {
+        "heroId": "shark_haamuhai",
+        "name": "Haa'Muhai",
+        "effects": [
+            "Dispels buffs from all enemies.",
+            "Deals 355% damage to the target.",
+            "The target receives 660 Surge Water damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 1260.)"
         ]
     },
     {
@@ -7808,7 +7849,7 @@ const allTranslations =
             "Deals 260% damage to the target.",
             "The target receives 228 damage over 4 turns.",
             "The target gets -100% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Dispels status ailments from the caster."
+            "Cleanses status ailments from the caster."
         ]
     },
     {
@@ -7836,7 +7877,7 @@ const allTranslations =
             "Deals 235% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 172 damage over 4 turns.",
             "The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Dispels status ailments from the caster."
+            "Cleanses status ailments from the caster."
         ]
     },
     {
@@ -9712,7 +9753,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to target and a minor damage to nearby enemies.",
             "The target and nearby enemies get silenced for 3 turns.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "The caster and nearby allies are immune to new status effects that prevent the use of Special Skills for 3 turns."
         ]
     },
     {
@@ -10278,6 +10319,15 @@ const allTranslations =
             "For the next 5 turns, this character has a 55% chance to deal 600% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "The caster and nearby allies reflect status ailments and negative stacks for 5 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
             "Element Link gives all Dark allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
+        ]
+    },
+    {
+        "heroId": "beachparty_skiff",
+        "name": "Skiff",
+        "effects": [
+            "All allies get +45% chance to dodge Special Skills for 2 turns. Each dodge gives 10% mana to the ally.",
+            "All allies are immune to new status ailments for 2 turns.",
+            "All allies are immune to buff dispels and reallocations for 2 turns. (This immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -11482,6 +11532,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beachparty_itham_costume_skateboard",
+        "name": "Itham C1",
+        "effects": [
+            "Deals 300% damage to the target and nearby enemies.",
+            "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 100 damage for each attempted buff.",
+            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+        ]
+    },
+    {
         "heroId": "s5_junaid",
         "name": "Junaid",
         "effects": [
@@ -11730,6 +11789,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "shark_sharby",
+        "name": "Shar'By",
+        "effects": [
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
+            "Recovers 42% health for the caster.",
+            "The healing chains through all the allies who are adjacent to any healed ally.",
+            "All healed allies receive -30% reduced damage for 3 turns."
+        ]
+    },
+    {
         "heroId": "knights_sir_lancelot",
         "name": "Sir Lancelot",
         "effects": [
@@ -11953,7 +12022,7 @@ const allTranslations =
             "All allies except the caster dance the Blazing Dave Dance for 3 turns.",
             "Blazing Rave Dance",
             "* +50% defense.",
-            "* If the dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by 1 turn for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
+            "* If any dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by 1 turn for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
         ]
     },
     {
@@ -12291,6 +12360,15 @@ const allTranslations =
             "The Infernal Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target max health.",
             "When summoned, the Infernal Fiend give -54% defense againt Fire for its target for as long as the target has Infernal Fiends. This effect can't be cleansed.",
             "All allies get +86% defense against Ice for 3 turns."
+        ]
+    },
+    {
+        "heroId": "shark_brokhai",
+        "name": "Bro'Khai",
+        "effects": [
+            "Deals 320% damage to the target and 2 random enemies.",
+            "All hit targets receive 1200 Surge Water damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
+            "The caster and nearby allies get +50% attack, and a further 20% increase every time they are hit during 3 turns, up to +150% attack."
         ]
     },
     {
@@ -14370,6 +14448,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "fire_god_zerfain",
+        "name": "Zerfain",
+        "effects": [
+            "Deals 300% damage to the target.",
+            "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving any damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is increased on each consecutive hit. Each enemy can only be hit once.",
+            "For each enemy defeated by the attack, reduces the mana of all enemies by -25%.",
+            "Stack (Max: 10): The caster gets +10% attack.",
+            "Elemental Link recovers 4% health for all Fire allies for 6 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "slime_zestique",
         "name": "Zestique",
         "effects": [
@@ -14574,6 +14663,15 @@ const allTranslations =
             "Deals 270% damage to the target.",
             "The target gets -30% defense for 4 turns. The effect duration resets if the target is healed.",
             "The target gets -40% decrease of any healing for 4 turns."
+        ]
+    },
+    {
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "name": "Dolrak C1",
+        "effects": [
+            "Deals 300% damage to the target.",
+            "The target gets -35% defense for 4 turns. The effect duration resets if the target is healed.",
+            "The target gets -45% decrease of any healing for 4 turns. The effect duration is reset if the target is healed."
         ]
     },
     {
@@ -15604,6 +15702,16 @@ const allTranslations =
             "Attacks the target with Frostfall Strike, dealing up to 2500 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "Steals a random dispellable buff from the target to the caster.",
             "If the target has been inflicted with Frost, Freezing Power Hooks will be recast once on a random target. (If the target is defeated, the Special Skill will not be recast.)"
+        ]
+    },
+    {
+        "heroId": "beachparty_bubo",
+        "name": "Bubo",
+        "effects": [
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
+            "Cleanses status ailments from all allies.",
+            "Boosts heath of all allies by 1550. Boosted health can exceed max HP.",
+            "Growth: All allies get 400 attack and 400 defense."
         ]
     },
     {
@@ -17730,56 +17838,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "beachparty_skiff",
-        "name": "Skiff",
-        "effects": []
-    },
-    {
-        "heroId": "beachparty_bubo",
-        "name": "Bubo",
-        "effects": []
-    },
-    {
-        "heroId": "beachparty_dolrak_costume_tattoo",
-        "name": "Dolrak C",
-        "effects": []
-    },
-    {
-        "heroId": "beachparty_itham_costume_skateboard",
-        "name": "Itham C",
-        "effects": []
-    },
-    {
-        "heroId": "beachparty_misty_costume_rogue",
-        "name": "Misty C",
-        "effects": []
-    },
-    {
-        "heroId": "shark_brokhai",
-        "name": "Bro'Khai",
-        "effects": []
-    },
-    {
-        "heroId": "shark_haikala",
-        "name": "Hai'Kala",
-        "effects": []
-    },
-    {
-        "heroId": "shark_sharpoon",
-        "name": "Sha-Arr",
-        "effects": []
-    },
-    {
-        "heroId": "shark_sharby",
-        "name": "Shar'By",
-        "effects": []
-    },
-    {
-        "heroId": "shark_haamuhai",
-        "name": "Haa'Muhai",
-        "effects": []
     },
     {
         "heroId": "astral_demon_madarika",

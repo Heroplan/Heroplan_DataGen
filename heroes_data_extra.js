@@ -47600,5 +47600,243 @@ window.allHeroesExtra = [
         "healthBonus": "78%",
         "manaBonus": "1%",
         "family": "ninja"
+    },
+    {
+        "name": "Misty costume1",
+        "fancy name": "Stealthy Beach Gnome",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-06-01",
+        "AetherPower": "Special Armor",
+        "heroId": "beachparty_misty_costume_rogue",
+        "baseAttack": 430,
+        "baseDefense": 409,
+        "baseHealth": 713,
+        "specialId": "seastar_burst",
+        "specialId_costume": "seastar_decoy",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "60%",
+        "defenseBonus": "61%",
+        "healthBonus": "61%",
+        "manaBonus": "5%",
+        "family": "beachparty"
+    },
+    {
+        "name": "Skiff",
+        "fancy name": "Party-Kite Goblin",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
+        "Release date": "2026-06-01",
+        "AetherPower": "Special Armor",
+        "heroId": "beachparty_skiff",
+        "baseAttack": 665,
+        "baseDefense": 684,
+        "baseHealth": 1150,
+        "specialId": "kite_diving",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "underwater_on_special_beach"
+        ],
+        "family": "beachparty"
+    },
+    {
+        "name": "Itham costume1",
+        "fancy name": "Rookie Skateboarder Elf",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-06-01",
+        "AetherPower": "Dodge",
+        "heroId": "beachparty_itham_costume_skateboard",
+        "baseAttack": 317,
+        "baseDefense": 332,
+        "baseHealth": 569,
+        "specialId": "cannonball_splash",
+        "specialId_costume": "cannonball_slam",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "19%",
+        "defenseBonus": "19%",
+        "healthBonus": "20%",
+        "manaBonus": "5%",
+        "family": "beachparty"
+    },
+    {
+        "name": "Zerfain",
+        "fancy name": "Wielder of Crimson Chain",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
+        "Release date": "2026-06-01",
+        "AetherPower": "Special Boost",
+        "heroId": "fire_god_zerfain",
+        "baseAttack": 640,
+        "baseDefense": 605,
+        "baseHealth": 1020,
+        "specialId": "unyielding_lashes",
+        "passiveSkills": [
+            "increase_special_damage_buff",
+            "resist_mana_generation_modifier_debuffs"
+        ],
+        "family": "hotm2026"
+    },
+    {
+        "name": "Dolrak costume1",
+        "fancy name": "Overly Tattooed Dwarf",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-06-01",
+        "AetherPower": "Special Boost",
+        "heroId": "beachparty_dolrak_costume_tattoo",
+        "baseAttack": 303,
+        "baseDefense": 283,
+        "baseHealth": 414,
+        "specialId": "sunscreen_blast",
+        "specialId_costume": "tattoo_ink_blast",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "14%",
+        "healthBonus": "14%",
+        "manaBonus": "5%",
+        "family": "beachparty"
+    },
+    {
+        "name": "Bubo",
+        "fancy name": "Bathing Owl of Grizzly Reef",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-06-01",
+        "AetherPower": "Boosted Regen",
+        "heroId": "beachparty_bubo",
+        "baseAttack": 640,
+        "baseDefense": 690,
+        "baseHealth": 1200,
+        "specialId": "terrycloth_shakeoff",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "underwater_on_special_beach"
+        ],
+        "family": "beachparty"
+    },
+    {
+        "name": "Hai'Kala",
+        "fancy name": "The Tiki Shark Enchantress",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-06-01",
+        "AetherPower": "Heal Increase",
+        "heroId": "shark_haikala",
+        "baseAttack": 635,
+        "baseDefense": 684,
+        "baseHealth": 1230,
+        "specialId": "mending_high_tides",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "dealt_damage_modifier_per_water_ailment_on_target"
+        ],
+        "family": "shark"
+    },
+    {
+        "name": "Sha-Arr",
+        "fancy name": "The Harpoon Hurling Shark",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2026-06-01",
+        "AetherPower": "Attack Up",
+        "heroId": "shark_sharpoon",
+        "baseAttack": 670,
+        "baseDefense": 671,
+        "baseHealth": 1168,
+        "specialId": "harpoon_barrage",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "dealt_damage_modifier_per_water_ailment_on_target"
+        ],
+        "family": "shark"
+    },
+    {
+        "name": "Haa'Muhai",
+        "fancy name": "The Mysterious Masked Shark",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-06-01",
+        "AetherPower": "Regen",
+        "heroId": "shark_haamuhai",
+        "baseAttack": 335,
+        "baseDefense": 310,
+        "baseHealth": 515,
+        "specialId": "scare_from_beneath",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "dealt_damage_modifier_per_water_ailment_on_target"
+        ],
+        "family": "shark"
+    },
+    {
+        "name": "Shar'By",
+        "fancy name": "The Cute Baby Shark",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-06-01",
+        "AetherPower": "Fiend Resist",
+        "heroId": "shark_sharby",
+        "baseAttack": 387,
+        "baseDefense": 406,
+        "baseHealth": 634,
+        "specialId": "sword_splash",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "dealt_damage_modifier_per_water_ailment_on_target"
+        ],
+        "family": "shark"
+    },
+    {
+        "name": "Bro'Khai",
+        "fancy name": "The All-time Greatest Shark",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-06-01",
+        "AetherPower": "Rage",
+        "heroId": "shark_brokhai",
+        "baseAttack": 689,
+        "baseDefense": 656,
+        "baseHealth": 1150,
+        "specialId": "blast_wave_punch",
+        "passiveSkills": [
+            "resist_water_with_health_boost_and_mana",
+            "dealt_damage_modifier_per_water_ailment_on_target"
+        ],
+        "family": "shark"
     }
 ];

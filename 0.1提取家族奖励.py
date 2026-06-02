@@ -51,6 +51,8 @@ family_name_corrections = {
     "titanhunter": "titan_hunter",
     "fortunedancer": "fortune",
     "ghosts": "ghost",
+    "sunbayshark": "shark",
+    
     
     
 }
