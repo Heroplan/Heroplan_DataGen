@@ -9560,6 +9560,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_madarika",
+        "name": "Madarika",
+        "effects": [
+            "The attack bypasses counterattacks and reflection.",
+            "Deals 500% damage to  the target and 2 random enemies.",
+            "Stack (Max: 10): Each hit increases all damage the target receives by +8%."
+        ]
+    },
+    {
         "heroId": "garrison_maisie",
         "name": "Maisie",
         "effects": [
@@ -17838,11 +17847,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "astral_demon_madarika",
-        "name": "Madarika",
-        "effects": []
     },
     {
         "heroId": "musketeer_cardinal_richelieu_costume_ambassador",

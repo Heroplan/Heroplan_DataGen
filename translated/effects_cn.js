@@ -9560,6 +9560,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "astral_demon_madarika",
+        "name": "Madarika",
+        "effects": [
+            "攻击会无视反击与反射。",
+            "对目标和随机 2 名敌人造成 500% 伤害。",
+            "叠加（最多： 10 层 ）：每次命中使目标受到的所有伤害增加 +8%。"
+        ]
+    },
+    {
         "heroId": "garrison_maisie",
         "name": "Maisie",
         "effects": [
@@ -17838,11 +17847,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "astral_demon_madarika",
-        "name": "Madarika",
-        "effects": []
     },
     {
         "heroId": "musketeer_cardinal_richelieu_costume_ambassador",

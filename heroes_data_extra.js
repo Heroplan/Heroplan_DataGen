@@ -47838,5 +47838,26 @@ window.allHeroesExtra = [
             "dealt_damage_modifier_per_water_ailment_on_target"
         ],
         "family": "shark"
+    },
+    {
+        "name": "Madarika",
+        "fancy name": "Astral Demon Femme Fatale",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-06-02",
+        "AetherPower": "Rage",
+        "heroId": "astral_demon_madarika",
+        "baseAttack": 695,
+        "baseDefense": 660,
+        "baseHealth": 1124,
+        "specialId": "astral_subterfuge",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];

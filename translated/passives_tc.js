@@ -7434,6 +7434,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "astral_demon_madarika",
+        "name": "Madarika",
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ]
+    },
+    {
         "heroId": "garrison_maisie",
         "name": "Maisie",
         "passives": [
@@ -13821,11 +13830,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "astral_demon_madarika",
-        "name": "Madarika",
-        "passives": []
     },
     {
         "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
