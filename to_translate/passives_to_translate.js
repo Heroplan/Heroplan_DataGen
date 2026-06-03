@@ -448,7 +448,7 @@ const allTranslations =
         "heroId": "beowulf_breca",
         "name": "Breca",
         "passives": [
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -508,7 +508,7 @@ const allTranslations =
         "heroId": "garrison_greg",
         "name": "Greg",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1064,7 +1064,7 @@ const allTranslations =
         "heroId": "garrison_caelen",
         "name": "Caelen",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1192,7 +1192,7 @@ const allTranslations =
         "heroId": "garrison_ciara",
         "name": "Ciara",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1349,7 +1349,7 @@ const allTranslations =
         "name": "Fergus",
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
@@ -1408,7 +1408,7 @@ const allTranslations =
         "heroId": "garrison_frostsnout",
         "name": "Frostsnout",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1976,7 +1976,7 @@ const allTranslations =
         "name": "Modthryth",
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
@@ -3086,7 +3086,7 @@ const allTranslations =
         "heroId": "garrison_william",
         "name": "William",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -3646,7 +3646,7 @@ const allTranslations =
         "heroId": "garrison_archibald",
         "name": "Archibald",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
@@ -4236,7 +4236,7 @@ const allTranslations =
         "name": "Freawaru",
         "passives": [
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ]
     },
@@ -4349,7 +4349,7 @@ const allTranslations =
         "heroId": "garrison_godfrey",
         "name": "Godfrey",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -4391,7 +4391,7 @@ const allTranslations =
         "name": "Grendel",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -4507,7 +4507,7 @@ const allTranslations =
         "name": "Hygil",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ]
     },
@@ -4603,7 +4603,7 @@ const allTranslations =
         "heroId": "garrison_kolya",
         "name": "Kolya",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -4787,7 +4787,7 @@ const allTranslations =
         "heroId": "astral_dwarf_maegwyn",
         "name": "Maegwyn",
         "passives": [
-            "Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ]
@@ -4974,7 +4974,7 @@ const allTranslations =
         "heroId": "garrison_pip",
         "name": "Pip",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -5313,7 +5313,7 @@ const allTranslations =
         "name": "Theodosius",
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -5884,7 +5884,7 @@ const allTranslations =
         "heroId": "beowulf_unferth",
         "name": "Unferth",
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Perfect Accuracy: This character's Special Skill never mises its target."
         ]
     },
@@ -6974,7 +6974,7 @@ const allTranslations =
         "name": "Grendel's Mother",
         "passives": [
             "Mana of Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -7145,7 +7145,7 @@ const allTranslations =
         "name": "Hygd",
         "passives": [
             "Mana of Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ]
     },
@@ -7446,7 +7446,7 @@ const allTranslations =
         "heroId": "garrison_maisie",
         "name": "Maisie",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -7899,14 +7899,14 @@ const allTranslations =
         "heroId": "dark_god_seshat",
         "name": "Seshat",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction."
+            "Resist Mana Reduction: This character is immune to mana reductions."
         ]
     },
     {
         "heroId": "dark_god_seshat_costume_revenant",
         "name": "Seshat C1",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
@@ -8234,7 +8234,7 @@ const allTranslations =
         "heroId": "garrison_violet_potts",
         "name": "Violet Potts",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -9474,7 +9474,7 @@ const allTranslations =
         "name": "Beowulf",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -9739,7 +9739,7 @@ const allTranslations =
         "heroId": "garrison_dima",
         "name": "Dima",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -9966,7 +9966,7 @@ const allTranslations =
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
@@ -10215,7 +10215,7 @@ const allTranslations =
         "heroId": "garrison_iocantha",
         "name": "Iocantha",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -10870,7 +10870,7 @@ const allTranslations =
         "name": "Sedille",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ]
     },
@@ -11063,7 +11063,7 @@ const allTranslations =
         "heroId": "garrison_vanya",
         "name": "Vanya",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
@@ -11073,7 +11073,7 @@ const allTranslations =
         "name": "Wiglaf",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -11599,7 +11599,7 @@ const allTranslations =
         "heroId": "beowulf_aeschere",
         "name": "Aeschere",
         "passives": [
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
@@ -12442,7 +12442,7 @@ const allTranslations =
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -13118,7 +13118,7 @@ const allTranslations =
         "name": "Nithgaest",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its target.",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -13331,7 +13331,7 @@ const allTranslations =
         "heroId": "garrison_rosalind",
         "name": "Rosalind",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -13638,7 +13638,7 @@ const allTranslations =
         "name": "Weland",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },

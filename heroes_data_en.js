@@ -3635,7 +3635,7 @@ window.allHeroes =
             "Deals extra damage against Fire."
         ],
         "passives": [
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -4117,7 +4117,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 267 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -8698,7 +8698,7 @@ window.allHeroes =
             "The sleeping target is woken once it take damage. This excludes damage from Minions and Fiends."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -9698,7 +9698,7 @@ window.allHeroes =
             "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -10927,7 +10927,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
@@ -11413,7 +11413,7 @@ window.allHeroes =
             "The caster and nearby allies get +40% critical chance for 3 turns."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -15840,7 +15840,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
         "family": "beowulf",
@@ -25085,7 +25085,7 @@ window.allHeroes =
             "The caster and nearby allies get +36% critical chance for 3 turns."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -30018,7 +30018,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
@@ -34383,7 +34383,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ],
         "family": "beowulf",
@@ -35346,7 +35346,7 @@ window.allHeroes =
             "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -35723,7 +35723,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -36751,7 +36751,7 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
@@ -37582,7 +37582,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -39049,7 +39049,7 @@ window.allHeroes =
             "All allies reduce all received damage by -40% for 4 turns."
         ],
         "passives": [
-            "Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ],
@@ -40522,7 +40522,7 @@ window.allHeroes =
             "All hit targets take +50% increased damage from Bleed status ailments for 3 turns."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -43089,7 +43089,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -47756,7 +47756,7 @@ window.allHeroes =
             "* The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Perfect Accuracy: This character's Special Skill never mises its target."
         ],
         "family": "beowulf",
@@ -56406,7 +56406,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana of Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -57763,7 +57763,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana of Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ],
         "family": "beowulf",
@@ -60167,7 +60167,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effect, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -64085,7 +64085,7 @@ window.allHeroes =
             "Elemental Link gives +4% mana generation for all Dark allies  for 4 turns. This effect can't be cleansed"
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction."
+            "Resist Mana Reduction: This character is immune to mana reductions."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -64152,7 +64152,7 @@ window.allHeroes =
             "Element Link gives +4% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": "hotm2019",
@@ -66613,7 +66613,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 447 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -76962,7 +76962,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -78935,7 +78935,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion recieves 456 Bleed damage over 3 turns. This effect spreads on nearby enemies."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -80744,7 +80744,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 468 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
@@ -82716,7 +82716,7 @@ window.allHeroes =
             "Each hit reduces the duration of all status effect buffs on the hit enemy by one turn. (The duration reduction affects both dispellable and undispellabe status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)"
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -88209,7 +88209,7 @@ window.allHeroes =
         ],
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ],
         "family": "astral_dwarfs",
@@ -89631,7 +89631,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion cleanses the latest cleansable status ailments from all allies each turn. This does not trigger secondary effects."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
@@ -89698,7 +89698,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -94016,7 +94016,7 @@ window.allHeroes =
             "All allies regenerate 600 HP over 4 turns."
         ],
         "passives": [
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": "beowulf",
@@ -100629,7 +100629,7 @@ window.allHeroes =
             "The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -106257,7 +106257,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its target.",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -108106,7 +108106,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate."
         ],
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -110443,7 +110443,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
