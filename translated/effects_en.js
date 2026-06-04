@@ -5420,6 +5420,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_food_green",
+        "name": "Food Mimic Nature",
+        "effects": [
+            "Deals 500% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "Heals all allies for 30% of damage dealt.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "fox_foxley",
         "name": "Foxley",
         "effects": [
@@ -5881,6 +5891,21 @@ const allTranslations =
             "- Deals 450% damage to all enemies.",
             "- Boosts all allies' health by 25% of damage dealt.",
             "- All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+        ]
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "effects": [
+            "Less than 40 Humility:",
+            "Deals 500% damage to the target.",
+            "The target receives an Ingenious Bomb. After 3 turns the Ingenious Bomb explodes and deals 1300 damage to the owner and nearby allies. The Ingenious Bomb also explodes if it is replaced or if the owner is defeated.",
+            "A random ally receives an Ingenious Stabilizer. After 3 turns the Ingenious Stabilizer activates and recover 30% health for the owner and nearby allies. The Ingenous Stabilizer also activates if it is replaced or if the owner is defeated.",
+            "Otherwise:",
+            "40 or more Humility:",
+            "Deals 630% damage to the target.",
+            "The target receives an Ingenious Bomb. After 3 turns the Ingenious Bomb explodes and deals 1750 damage to the owner and nearby allies. The Ingenious Bomb also explodes if it is replaced or if the owner is defeated.",
+            "A random ally receives an Ingenious Stabilizer. After 3 turns the Ingenious Stabilizer activates and recover 40% health for the owner and nearby allies. The Ingenous Stabilizer also activates if it is replaced or if the owner is defeated."
         ]
     },
     {
@@ -12415,6 +12440,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C1",
+        "effects": [
+            "Deals 360% damage to all enemies.",
+            "Summons a Spy Fiend for all enemies. The Fiend damages the enemy with 65% attack every turn.",
+            "The Spy Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its target's max health.",
+            "At the end of each turn, the Spy Fiend steals one of its target's dispellable buffs and gives it to one character on the opposite team.",
+            "The caster regenerates 1264 boosted health over 4 turns. Boosted health can exceed max HP."
+        ]
+    },
+    {
         "heroId": "masquerade_carmenta",
         "name": "Carmenta",
         "effects": [
@@ -17847,16 +17883,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
-        "name": "Cardinal Richelieu C",
-        "effects": []
-    },
-    {
-        "heroId": "beauty_beast_jacquespierre",
-        "name": "Jacques-Pierre",
-        "effects": []
     },
     {
         "heroId": "tribal_chief_costume_stylish",

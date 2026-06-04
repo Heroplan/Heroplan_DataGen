@@ -49,6 +49,9 @@ DESIRED_KEY_ORDER = [
     "healthBonus",
     "manaBonus"
 ]
+
+# extra_heroes.json 文件路径（与脚本同一目录）
+EXTRA_HEROES_JSON_PATH = "extra_heroes.json"
 # ==============================================================================
 
 # --- 全局变量定义 ---
@@ -154,6 +157,65 @@ def load_all_data_sources():
         print(f"🟡 警告: 无法加载 'other_en.json'。服装奖励将不可用。错误: {e}")
     return True
 
+def load_extra_heroes_mapping():
+    """
+    加载 extra_heroes.json 文件，构建 name -> fancy_name 的映射。
+    映射中的 name 使用原始形式（如 "Cardinal Richelieu C"），
+    后续匹配时会将 hero_extra 的 name 经过转换后再查询。
+    """
+    mapping = {}
+    if not os.path.exists(EXTRA_HEROES_JSON_PATH):
+        print(f"🟡 警告: 文件 '{EXTRA_HEROES_JSON_PATH}' 不存在，跳过 fancy name 预填充。")
+        return mapping
+    try:
+        with open(EXTRA_HEROES_JSON_PATH, 'r', encoding='utf-8') as f:
+            extra_list = json.load(f)
+        for item in extra_list:
+            name = item.get("name")
+            fancy_name = item.get("fancy_name")
+            if name and fancy_name:
+                # 存储原始 name（如 "Cardinal Richelieu C"）
+                mapping[name] = fancy_name
+        print(f"✅ 成功加载 '{EXTRA_HEROES_JSON_PATH}'，获得 {len(mapping)} 条 name -> fancy_name 映射。")
+    except Exception as e:
+        print(f"❌ 加载 '{EXTRA_HEROES_JSON_PATH}' 失败: {e}")
+    return mapping
+
+def prefill_fancy_names_from_extra(extra_mapping):
+    """
+    使用 extra_heroes.json 中的映射，补全 heroes_data_extra.js 中英雄的 fancy name。
+    规则：将 hero_extra 的 name 字段进行转换（costume1 ->  C, costume2 ->  C2），
+    然后用转换后的字符串去 extra_mapping 中查找，若找到则更新 hero_extra['fancy name']。
+    """
+    if not extra_mapping:
+        return 0
+    updated_count = 0
+    for hero in HEROES_EXTRA_DATA:
+        original_name = hero.get("name")
+        if not original_name:
+            continue
+        # 应用转换规则：costume1 ->  C, costume2 ->  C2
+        converted = original_name
+        converted = re.sub(r'costume1\b', ' C', converted, flags=re.IGNORECASE)
+        converted = re.sub(r'costume2\b', ' C2', converted, flags=re.IGNORECASE)
+        converted = ' '.join(converted.split())  # 清理多余空格
+        # 在映射中查找（注意映射的 key 是原始 name，如 "Cardinal Richelieu C"）
+        # 但转换后的名称可能直接等于映射的 key 或需要标准化比较？这里直接比较字符串
+        # 为了鲁棒性，也进行标准化比较
+        target_key = None
+        for map_name, fancy in extra_mapping.items():
+            if normalize_name(map_name) == normalize_name(converted):
+                target_key = map_name
+                break
+        if target_key:
+            new_fancy = extra_mapping[target_key]
+            old_fancy = hero.get("fancy name")
+            if old_fancy != new_fancy:
+                hero["fancy name"] = new_fancy
+                updated_count += 1
+                print(f"🔄 [预填充] '{original_name}' -> fancy name 更新为 '{new_fancy}' (原: '{old_fancy}')")
+    return updated_count
+
 def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     """
     根据英雄的稀有度(rarity)和服装奖励ID(costume_bonuses_id)，计算并返回对应的属性加成。
@@ -214,6 +276,17 @@ def main_sync_process():
     costume_keywords = ["costume1", "costume2", "toon", "glass", "stylish"]
 
     # ==================================================================
+    # --- 新增：预处理 fancy name（从 extra_heroes.json 补全）---
+    # ==================================================================
+    print("\n--- 阶段 1.5: 从 extra_heroes.json 补全 fancy name ---")
+    extra_mapping = load_extra_heroes_mapping()
+    updated = prefill_fancy_names_from_extra(extra_mapping)
+    if updated > 0:
+        print(f"✅ 成功补全/更新了 {updated} 个英雄的 fancy name。")
+    else:
+        print("ℹ️ 未更新任何 fancy name（可能 extra_heroes.json 不存在或无匹配）。")
+
+    # ==================================================================
     # --- 预先扫描所有重名英雄 ---
     # ==================================================================
     print("\n--- 正在预先扫描所有重名英雄... ---")
@@ -249,7 +322,7 @@ def main_sync_process():
             SYNC_LOG['unmatched'].append(hero_extra)
             continue
 
-        # --- 新的多阶段筛选逻辑 ---
+        # --- 多阶段筛选逻辑 ---
 
         # 阶段 1: 首先根据 Rarity (稀有度) 和 Element (元素) 进行初步筛选
         potential_matches = []
@@ -286,7 +359,6 @@ def main_sync_process():
             if len(potential_matches) == 1:
                 final_match = potential_matches[0]
             else:
-                # print(f"🚨 警告: 英雄 '{fancy_name}' 在所有筛选后仍存在 {len(potential_matches)} 个模糊匹配项。")
                 mismatch_details = { 
                     "hero_extra": hero_extra, 
                     "mismatches": [f"在所有筛选后仍存在 {len(potential_matches)} 个模糊匹配项"] 
@@ -302,11 +374,7 @@ def main_sync_process():
             is_costume = any(keyword in hero_extra.get("name", "").lower() for keyword in costume_keywords)
             if is_costume: MATCHED_COSTUMES.add(fancy_name)
             
-            # =================================================================
             # 核心修改：强制覆盖/同步数据
-            # 这里不判断 key 是否存在，而是直接从 matched_char 写入。
-            # 如果 matched_char 中没有该值（None），则 hero_extra 中也会更新为 None，确保完全一致。
-            # =================================================================
             hero_extra['heroId'] = original_id
             hero_extra['speed'] = matched_char.get('manaSpeedId')
             hero_extra['class'] = matched_char.get('classType')
@@ -430,7 +498,7 @@ def main_sync_process():
     except Exception as e:
         print(f"❌ 写入更新文件时发生错误: {e}")
 
-    # ... (日志写入部分) ...
+    # 日志写入部分
     sync_report_file = 'sync_report.txt'
     try:
         print(f"正在生成同步报告: '{sync_report_file}'...")

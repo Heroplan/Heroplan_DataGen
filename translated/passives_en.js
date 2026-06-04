@@ -4211,6 +4211,26 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_food_green",
+        "name": "Food Mimic Nature",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This mimic grants a chance for the following extra loot:",
+            "Legendary",
+            "* Giant Food Bundle",
+            "Epic",
+            "* Large Food Bundle",
+            "Rare",
+            "* Medium Food Bundle",
+            "Uncommon",
+            "* Small Food Bundle",
+            "* Trainer Hero",
+            "Common",
+            "* Tiny Food Bundle",
+            "* Trainer Hero"
+        ]
+    },
+    {
         "heroId": "fox_foxley",
         "name": "Foxley",
         "passives": [
@@ -4523,6 +4543,15 @@ const allTranslations =
         "name": "Ito",
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
+        ]
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ]
     },
     {
@@ -9586,6 +9615,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C1",
+        "passives": [
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+        ]
+    },
+    {
         "heroId": "masquerade_carmenta",
         "name": "Carmenta",
         "passives": [
@@ -13830,16 +13867,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
-        "name": "Cardinal Richelieu C",
-        "passives": []
-    },
-    {
-        "heroId": "beauty_beast_jacquespierre",
-        "name": "Jacques-Pierre",
-        "passives": []
     },
     {
         "heroId": "tribal_chief_costume_stylish",

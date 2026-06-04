@@ -47859,5 +47859,72 @@ window.allHeroesExtra = [
             "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Jacques-Pierre",
+        "fancy name": "Beauty's Father, the Famous Inventor",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-06-04",
+        "AetherPower": "Attack Up",
+        "heroId": "beauty_beast_jacquespierre",
+        "baseAttack": 688,
+        "baseDefense": 653,
+        "baseHealth": 1155,
+        "specialId": "ingenious_gadgets",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Cardinal Richelieu costume1",
+        "fancy name": "Duplicitous Ambassador",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-06-04",
+        "AetherPower": "Counterattack",
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "baseAttack": 436,
+        "baseDefense": 415,
+        "baseHealth": 868,
+        "specialId": "web_of_spies",
+        "specialId_costume": "web_of_lies",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "50%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Food Mimic Nature",
+        "fancy name": "Flesh-eating Chest",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-06-05",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_food_green",
+        "baseAttack": 692,
+        "baseDefense": 689,
+        "baseHealth": 1158,
+        "specialId": "wicked_lick_green",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_green"
+        ],
+        "family": "mimic"
     }
 ];

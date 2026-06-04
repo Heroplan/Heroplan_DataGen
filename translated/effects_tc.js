@@ -5420,6 +5420,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "mimic_food_green",
+        "name": "Food Mimic Nature",
+        "effects": [
+            "對目標造成 500% 傷害。",
+            "若攻擊擊败目標，施法者會獲得 +33% 法力。",
+            "為所有盟友治療 30% 的傷害。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ]
+    },
+    {
         "heroId": "fox_foxley",
         "name": "Foxley",
         "effects": [
@@ -5881,6 +5891,21 @@ const translatedEffectsTC =
             "- 對所有敵人造成 450% 傷害。",
             "- 為所有盟友提升所造成傷害 25% 的生命值。",
             "- 所有敵人獲得 -45% 法力產出，持續 6 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
+        ]
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "effects": [
+            "低於 40 謙遜：",
+            "對目標造成 500% 傷害。",
+            "目標收到神秘炸彈。 3 回合後，神秘炸彈會爆炸，對擁有者或附近的盟友造成 1300 點傷害。被取代或擁有者被擊敗時，神秘炸彈也會爆炸。",
+            "一名隨機盟友獲得神秘穩定劑。 3 回合後，神秘穩定劑會啟動，恢復擁有者和附近盟友的 30% 生命值.被取代或擁有者被擊敗時，神秘穩定劑也會爆炸。",
+            "否則：",
+            "40 或以上的謙遜：",
+            "對目標造成 630% 傷害。",
+            "目標收到神秘炸彈。 3 回合後，神秘炸彈會爆炸，對擁有者或附近的盟友造成 1750 點傷害。被取代或擁有者被擊敗時，神秘炸彈也會爆炸。",
+            "一名隨機盟友獲得神秘穩定劑。 3 回合後，神秘穩定劑會啟動，恢復擁有者和附近盟友的 40% 生命值.被取代或擁有者被擊敗時，神秘穩定劑也會爆炸。"
         ]
     },
     {
@@ -12415,6 +12440,17 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C1",
+        "effects": [
+            "對所有敵人造成 360% 傷害。",
+            "對所有敵人召喚間諜惡魔。惡魔每回合以 65% 的攻擊力對敵人造成傷害。",
+            "間諜惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 50% 時消失。",
+            "每個回合結束時，間諜惡魔會盜取其中一個目標的可驅散增益，給予敵對戰隊的一個角色。",
+            "施法者在 4 個回合內恢復 1264 點加成生命值。加成生命值能夠超過最大生命值。"
+        ]
+    },
+    {
         "heroId": "masquerade_carmenta",
         "name": "Carmenta",
         "effects": [
@@ -17847,16 +17883,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
-        "name": "Cardinal Richelieu C",
-        "effects": []
-    },
-    {
-        "heroId": "beauty_beast_jacquespierre",
-        "name": "Jacques-Pierre",
-        "effects": []
     },
     {
         "heroId": "tribal_chief_costume_stylish",

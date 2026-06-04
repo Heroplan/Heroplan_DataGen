@@ -5420,6 +5420,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "mimic_food_green",
+        "name": "Food Mimic Nature",
+        "effects": [
+            "对目标造成 500% 伤害。",
+            "若目标被该攻击击败，施法者将获得 +33% 法力。",
+            "为所有盟友恢复等同于所造成伤害 30% 的生命值。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
         "heroId": "fox_foxley",
         "name": "Foxley",
         "effects": [
@@ -5881,6 +5891,21 @@ const translatedEffectsCN =
             "- 对所有敌人造成 450% 伤害。",
             "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
             "- 所有敌人获得 -45% 法力生成，持续 6 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）"
+        ]
+    },
+    {
+        "heroId": "beauty_beast_jacquespierre",
+        "name": "Jacques-Pierre",
+        "effects": [
+            "谦逊低于 40 时：",
+            "对目标造成 500% 伤害。",
+            "目标收到一个精巧炸弹。 3 回合后，精巧炸弹爆炸，对所有者及附近盟友造成 1300 点伤害。如被替换或所有者被击败，精巧炸弹也会爆炸。",
+            "一名随机盟友获得一个精巧稳定器。 3 回合后，精巧稳定器启动，为其所有者及附近盟友恢复 30% 生命。如被替换或所有者被击败，精巧稳定器也会启动。",
+            "否则：",
+            "谦逊等于或高于 40 时：",
+            "对目标造成 630% 伤害。",
+            "目标收到一个精巧炸弹。 3 回合后，精巧炸弹爆炸，对所有者及附近盟友造成 1750 点伤害。如被替换或所有者被击败，精巧炸弹也会爆炸。",
+            "一名随机盟友获得一个精巧稳定器。 3 回合后，精巧稳定器启动，为其所有者及附近盟友恢复 40% 生命。如被替换或所有者被击败，精巧稳定器也会启动。"
         ]
     },
     {
@@ -12415,6 +12440,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
+        "name": "Cardinal Richelieu C1",
+        "effects": [
+            "对所有敌人造成 360% 伤害。",
+            "召唤间谍恶魔附身于所有敌人。恶魔每回合对敌人造成 65% 攻击力的伤害。",
+            "间谍恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 50% 的治疗量后便会消失。",
+            "每回合结束时，间谍恶魔将偷取其目标的其中一个可驱散增益，并将该增益施加于另一战队的一名角色身上。",
+            "施法者在 4 回合内获得共计 1264 点生命加成。提高的生命值可以超过最大生命值。"
+        ]
+    },
+    {
         "heroId": "masquerade_carmenta",
         "name": "Carmenta",
         "effects": [
@@ -17847,16 +17883,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
-        "name": "Cardinal Richelieu C",
-        "effects": []
-    },
-    {
-        "heroId": "beauty_beast_jacquespierre",
-        "name": "Jacques-Pierre",
-        "effects": []
     },
     {
         "heroId": "tribal_chief_costume_stylish",

@@ -7163,12 +7163,12 @@
               {
                 "type": "Item",
                 "id": "hero_mystic_rings",
-                "amount": 1
+                "amount": 2
               },
               {
                 "type": "Item",
                 "id": "hero_hidden_blade",
-                "amount": 3
+                "amount": 4
               },
               {
                 "type": "Hero",
@@ -7390,12 +7390,12 @@
               {
                 "type": "Item",
                 "id": "hero_mysterious_tonic",
-                "amount": 1
+                "amount": 2
               },
               {
                 "type": "Item",
                 "id": "hero_sturdy_shield",
-                "amount": 3
+                "amount": 4
               },
               {
                 "type": "Hero",
@@ -7617,12 +7617,12 @@
               {
                 "type": "Item",
                 "id": "hero_farsight_telescope",
-                "amount": 1
+                "amount": 2
               },
               {
                 "type": "Item",
                 "id": "hero_warm_cape",
-                "amount": 3
+                "amount": 4
               },
               {
                 "type": "Hero",
@@ -8071,12 +8071,12 @@
               {
                 "type": "Item",
                 "id": "hero_poison_darts",
-                "amount": 1
+                "amount": 2
               },
               {
                 "type": "Item",
                 "id": "hero_orb_of_magic",
-                "amount": 3
+                "amount": 4
               },
               {
                 "type": "Hero",
@@ -19268,6 +19268,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -32014,7 +32015,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35868,6 +35868,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58451,5 +58452,5 @@
       }
     ]
   },
-  "productsConfigId": 3503020409
+  "productsConfigId": 1865604787
 }

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (583 / 0)
+✅ 成功匹配的服装 (584 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -108,6 +108,7 @@ Name: Guinevere Costume1, Fancy Name: Dragonrider of Avalon
 Name: Heimdall Costume1, Fancy Name: Dreaded Watchman
 Name: Xavier costume1, Fancy Name: Dual Blade Arthropod
 Name: Tiburtus Costume1, Fancy Name: Duke of Rock
+Name: Cardinal Richelieu costume1, Fancy Name: Duplicitous Ambassador
 Name: Dularfulr costume1, Fancy Name: Dwarven Dark Engineer
 Name: Regin costume1, Fancy Name: Dwarven Fallen Prince
 Name: Fjalar costume1, Fancy Name: Dwarven Ghostly Skald

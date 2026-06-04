@@ -1,29 +1,5 @@
 [
     {
-        "name": "Cardinal Richelieu C",
-        "fancy_name": "Duplicitous Ambassador",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-04 07:00:00",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_cardinal_richelieu_costume_ambassador",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Jacques-Pierre",
-        "fancy_name": "Beauty's Father, the Famous Inventor",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-04 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_jacquespierre",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Khagan Stylish",
         "fancy_name": "Chief of Style",
         "color": "Red",
