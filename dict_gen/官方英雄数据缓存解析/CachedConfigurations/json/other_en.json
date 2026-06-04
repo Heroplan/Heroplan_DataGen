@@ -3059,13 +3059,13 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
-              "vegetable_auberguy",
-              "vegetable_elsbeth",
-              "vegetable_indigon"
+              "vegetable_indigon",
+              "vegetable_broseph",
+              "vegetable_elsbeth"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2026-04-02 07:00:00",
-            "endTime": "2026-04-06 07:00:00"
+            "startTime": "2026-06-09 07:00:00",
+            "endTime": "2026-06-13 07:00:00"
           },
           {
             "id": "RecurringFarmland",
@@ -3075,13 +3075,13 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
-              "vegetable_big_barry",
               "vegetable_indigon",
-              "vegetable_auberguy"
+              "vegetable_broseph",
+              "vegetable_elsbeth"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2026-04-25 07:00:00",
-            "endTime": "2026-04-29 07:00:00"
+            "startTime": "2026-07-19 07:00:00",
+            "endTime": "2026-07-23 07:00:00"
           },
           {
             "id": "RecurringFarmland",
@@ -3089,29 +3089,15 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "eventoffer_double_calendar",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredCharacters": [
               "vegetable_melonius",
               "vegetable_big_barry",
               "vegetable_auberguy"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2026-05-17 07:00:00",
-            "endTime": "2026-05-21 07:00:00"
-          },
-          {
-            "id": "RecurringFarmland",
-            "type": "Challenge",
-            "eventBundle": "bundle_challenge_1",
-            "eventOffer": "eventoffer_double_calendar",
-            "eventEndingOffer": "",
-            "featuredCharacters": [
-              "vegetable_indigon",
-              "vegetable_broseph",
-              "vegetable_elsbeth"
-            ],
-            "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2026-06-26 07:00:00",
-            "endTime": "2026-06-30 07:00:00"
+            "startTime": "2026-08-19 07:00:00",
+            "endTime": "2026-08-23 07:00:00"
           }
         ],
         "allianceQuestEventEntries": [
@@ -3121,23 +3107,6 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredCharacters": [
-              "beauty_beast_ivete",
-              "musketeer_rochefort_costume_ratcatcher",
-              "beauty_beast_laurent"
-            ],
-            "eventBonus": "event_hero_bonus_alliance_quest",
-            "startTime": "2026-04-16 07:00:00",
-            "endTime": "2026-04-21 07:00:00"
-          },
-          {
-            "id": "AllianceQuestMusketeers",
-            "type": "AllianceQuest",
-            "eventBundle": "bundle_challenge_1",
-            "eventOffer": "alliancequest_calendar",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
             "featuredCharacters": [
               "beauty_beast_seraphine",
               "musketeer_constance_costume_fusilier",
@@ -3162,42 +3131,41 @@
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-06-04 07:00:00",
             "endTime": "2026-06-09 07:00:00"
+          },
+          {
+            "id": "AllianceQuestMusketeers",
+            "type": "AllianceQuest",
+            "eventBundle": "bundle_challenge_1",
+            "eventOffer": "alliancequest_calendar",
+            "eventEndingOffer": "",
+            "manuallyOverwritten": true,
+            "featuredCharacters": [
+              "beauty_beast_jacquespierre",
+              "musketeer_cardinal_richelieu_costume_ambassador",
+              "beauty_beast_pendulus_clonk"
+            ],
+            "eventBonus": "event_hero_bonus_alliance_quest",
+            "startTime": "2026-07-14 07:00:00",
+            "endTime": "2026-07-19 07:00:00"
+          },
+          {
+            "id": "AllianceQuestMusketeers",
+            "type": "AllianceQuest",
+            "eventBundle": "bundle_challenge_1",
+            "eventOffer": "alliancequest_calendar",
+            "eventEndingOffer": "",
+            "manuallyOverwritten": true,
+            "featuredCharacters": [
+              "beauty_beast_jacquespierre",
+              "musketeer_cardinal_richelieu_costume_ambassador",
+              "beauty_beast_pendulus_clonk"
+            ],
+            "eventBonus": "event_hero_bonus_alliance_quest",
+            "startTime": "2026-08-14 07:00:00",
+            "endTime": "2026-08-19 07:00:00"
           }
         ],
         "treasureQuestEventEntries": [
-          {
-            "id": "TreasureQuestXPYellow",
-            "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "halloween",
-              "winter",
-              "easter"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-04-06 07:00:00",
-            "endTime": "2026-04-08 07:00:00"
-          },
-          {
-            "id": "TreasureQuestCovenantSuperElemental",
-            "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "wolf",
-              "owl",
-              "guardian",
-              "mighty_pet"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-04-27 07:00:00",
-            "endTime": "2026-04-29 07:00:00"
-          },
           {
             "id": "TreasureQuestXPGreen",
             "type": "TreasureQuest",
@@ -3215,21 +3183,6 @@
             "endTime": "2026-05-20 07:00:00"
           },
           {
-            "id": "TreasureQuestGoblinAstral",
-            "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
-            "eventEndingOffer": "",
-            "featuredFamilies": [
-              "atlantis",
-              "tales1_baddies",
-              "tales1_goodies"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-06-08 07:00:00",
-            "endTime": "2026-06-10 07:00:00"
-          },
-          {
             "id": "TreasureQuestXPRed",
             "type": "TreasureQuest",
             "eventBundle": "",
@@ -3240,8 +3193,8 @@
               "journey"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-06-29 07:00:00",
-            "endTime": "2026-07-01 07:00:00"
+            "startTime": "2026-06-08 07:00:00",
+            "endTime": "2026-06-10 07:00:00"
           },
           {
             "id": "TreasureQuestXPPurple",
@@ -3255,8 +3208,8 @@
               "construct"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-07-20 07:00:00",
-            "endTime": "2026-07-22 07:00:00"
+            "startTime": "2026-06-29 07:00:00",
+            "endTime": "2026-07-01 07:00:00"
           },
           {
             "id": "TreasureQuestTowerAlliance",
@@ -3271,8 +3224,8 @@
               "ninja"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-08-10 07:00:00",
-            "endTime": "2026-08-12 07:00:00"
+            "startTime": "2026-07-20 07:00:00",
+            "endTime": "2026-07-22 07:00:00"
           },
           {
             "id": "TreasureQuestTome",
@@ -3286,8 +3239,8 @@
               "wonderland"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2026-08-31 07:00:00",
-            "endTime": "2026-09-02 07:00:00"
+            "startTime": "2026-08-10 07:00:00",
+            "endTime": "2026-08-12 07:00:00"
           },
           {
             "id": "TreasureQuestLGTroop",
@@ -3303,8 +3256,57 @@
               "villains"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-08-31 07:00:00",
+            "endTime": "2026-09-02 07:00:00"
+          },
+          {
+            "id": "TreasureQuestXPBlue",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "featuredFamilies": [
+              "muspelheim",
+              "alfheim",
+              "asgard",
+              "vanaheim",
+              "kalevala"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2026-09-21 07:00:00",
             "endTime": "2026-09-23 07:00:00"
+          },
+          {
+            "id": "TreasureQuestAlphaAether",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "featuredFamilies": [
+              "midgard",
+              "jotunheim",
+              "svartalfheim",
+              "niflheim",
+              "helheim"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-10-12 07:00:00",
+            "endTime": "2026-10-14 07:00:00"
+          },
+          {
+            "id": "TreasureQuestXPYellow",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "featuredFamilies": [
+              "halloween",
+              "winter",
+              "easter"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-11-02 07:00:00",
+            "endTime": "2026-11-04 07:00:00"
           }
         ],
         "chessEventEntries": [
@@ -3344,13 +3346,6 @@
             "id": "Temple",
             "type": "TempleEvent",
             "manuallyOverwritten": true,
-            "startTime": "2026-04-21 07:00:00",
-            "endTime": "2026-04-25 07:00:00"
-          },
-          {
-            "id": "Temple",
-            "type": "TempleEvent",
-            "manuallyOverwritten": true,
             "startTime": "2026-05-26 07:00:00",
             "endTime": "2026-05-30 07:00:00"
           },
@@ -3358,8 +3353,22 @@
             "id": "Temple",
             "type": "TempleEvent",
             "manuallyOverwritten": true,
-            "startTime": "2026-06-09 07:00:00",
-            "endTime": "2026-06-13 07:00:00"
+            "startTime": "2026-06-27 07:00:00",
+            "endTime": "2026-07-01 07:00:00"
+          },
+          {
+            "id": "Temple",
+            "type": "TempleEvent",
+            "manuallyOverwritten": true,
+            "startTime": "2026-07-10 07:00:00",
+            "endTime": "2026-07-14 07:00:00"
+          },
+          {
+            "id": "Temple",
+            "type": "TempleEvent",
+            "manuallyOverwritten": true,
+            "startTime": "2026-08-01 07:00:00",
+            "endTime": "2026-08-05 07:00:00"
           }
         ],
         "rareMonsterScheduleEntries": [
@@ -3784,6 +3793,13 @@
             "endTime": "2026-06-10 07:00:00"
           },
           {
+            "id": "RecurringFarmland",
+            "targetEvent": "RecurringFarmland",
+            "rareMonsterStateConfigId": "challenge_event",
+            "startTime": "2026-06-09 07:00:00",
+            "endTime": "2026-06-13 07:00:00"
+          },
+          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
@@ -3840,13 +3856,6 @@
             "endTime": "2026-06-30 07:00:00"
           },
           {
-            "id": "RecurringFarmland",
-            "targetEvent": "RecurringFarmland",
-            "rareMonsterStateConfigId": "challenge_event",
-            "startTime": "2026-06-26 07:00:00",
-            "endTime": "2026-06-30 07:00:00"
-          },
-          {
             "id": "lottery_season_underwild_2026_7_16",
             "targetSeason": "Season4",
             "rareMonsterStateConfigId": "map_season4",
@@ -3896,11 +3905,46 @@
             "endTime": "2026-07-18 07:00:00"
           },
           {
+            "id": "AllianceQuestMusketeers_2026_7_14",
+            "targetEvent": "AllianceQuestMusketeers",
+            "rareMonsterStateConfigId": "alliance_quest2",
+            "startTime": "2026-07-14 07:00:00",
+            "endTime": "2026-07-19 07:00:00"
+          },
+          {
+            "id": "lottery_season_atlantis_2026_6_29",
+            "targetSeason": "Season2",
+            "rareMonsterStateConfigId": "map_season2",
+            "startTime": "2026-07-16 07:00:00",
+            "endTime": "2026-07-20 07:00:00"
+          },
+          {
+            "id": "RecurringFarmland",
+            "targetEvent": "RecurringFarmland",
+            "rareMonsterStateConfigId": "challenge_event",
+            "startTime": "2026-07-19 07:00:00",
+            "endTime": "2026-07-23 07:00:00"
+          },
+          {
+            "id": "lottery_season_valhalla_2026_7_3",
+            "targetSeason": "Season3",
+            "rareMonsterStateConfigId": "map_season3",
+            "startTime": "2026-07-20 07:00:00",
+            "endTime": "2026-07-24 07:00:00"
+          },
+          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-07-21 07:00:00",
             "endTime": "2026-07-25 07:00:00"
+          },
+          {
+            "id": "lottery_season_underwild_2026_8_13",
+            "targetSeason": "Season4",
+            "rareMonsterStateConfigId": "map_season4",
+            "startTime": "2026-07-24 07:00:00",
+            "endTime": "2026-07-28 07:00:00"
           },
           {
             "id": "lottery_season_season5_2026_7_28",
@@ -3917,11 +3961,32 @@
             "endTime": "2026-08-01 07:00:00"
           },
           {
+            "id": "lottery_season_untold_tales1_2026_8_1",
+            "targetSeason": "UntoldTales1",
+            "rareMonsterStateConfigId": "map_untoldtales1",
+            "startTime": "2026-08-01 07:00:00",
+            "endTime": "2026-08-05 07:00:00"
+          },
+          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-08-04 07:00:00",
             "endTime": "2026-08-08 07:00:00"
+          },
+          {
+            "id": "lottery_season_untold_tales2_2026_8_5",
+            "targetSeason": "UntoldTales2",
+            "rareMonsterStateConfigId": "map_untoldtales2",
+            "startTime": "2026-08-05 07:00:00",
+            "endTime": "2026-08-09 07:00:00"
+          },
+          {
+            "id": "lottery_season_atlantis_2026_7_27",
+            "targetSeason": "Season2",
+            "rareMonsterStateConfigId": "map_season2",
+            "startTime": "2026-08-09 07:00:00",
+            "endTime": "2026-08-13 07:00:00"
           },
           {
             "id": "AncientDragon",
@@ -3931,6 +3996,27 @@
             "endTime": "2026-08-15 07:00:00"
           },
           {
+            "id": "lottery_season_valhalla_2026_7_31",
+            "targetSeason": "Season3",
+            "rareMonsterStateConfigId": "map_season3",
+            "startTime": "2026-08-13 07:00:00",
+            "endTime": "2026-08-17 07:00:00"
+          },
+          {
+            "id": "AllianceQuestMusketeers_2026_8_14",
+            "targetEvent": "AllianceQuestMusketeers",
+            "rareMonsterStateConfigId": "alliance_quest2",
+            "startTime": "2026-08-14 07:00:00",
+            "endTime": "2026-08-19 07:00:00"
+          },
+          {
+            "id": "lottery_season_underwild_2026_9_10",
+            "targetSeason": "Season4",
+            "rareMonsterStateConfigId": "map_season4",
+            "startTime": "2026-08-17 07:00:00",
+            "endTime": "2026-08-21 07:00:00"
+          },
+          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
@@ -3938,11 +4024,46 @@
             "endTime": "2026-08-22 07:00:00"
           },
           {
+            "id": "RecurringFarmland",
+            "targetEvent": "RecurringFarmland",
+            "rareMonsterStateConfigId": "challenge_event",
+            "startTime": "2026-08-19 07:00:00",
+            "endTime": "2026-08-23 07:00:00"
+          },
+          {
+            "id": "lottery_season_season5_2026_8_17",
+            "targetSeason": "Season5",
+            "rareMonsterStateConfigId": "map_season5",
+            "startTime": "2026-08-21 07:00:00",
+            "endTime": "2026-08-25 07:00:00"
+          },
+          {
+            "id": "lottery_season_untold_tales1_2026_8_25",
+            "targetSeason": "UntoldTales1",
+            "rareMonsterStateConfigId": "map_untoldtales1",
+            "startTime": "2026-08-25 07:00:00",
+            "endTime": "2026-08-29 07:00:00"
+          },
+          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-08-25 07:00:00",
             "endTime": "2026-08-29 07:00:00"
+          },
+          {
+            "id": "lottery_season_untold_tales2_2026_8_29",
+            "targetSeason": "UntoldTales2",
+            "rareMonsterStateConfigId": "map_untoldtales2",
+            "startTime": "2026-08-29 07:00:00",
+            "endTime": "2026-09-02 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-09-01 07:00:00",
+            "endTime": "2026-09-05 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -4590,20 +4711,6 @@
               "eventBundle": "",
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "eventEndingOffer": "",
-              "featuredCharacters": [
-                "ronin_kageyama_nagato",
-                "ronin_asakura_masao",
-                "ronin_mikanagi_miran"
-              ],
-              "startTime": "2026-04-06 07:00:00",
-              "endTime": "2026-04-11 07:00:00"
-            },
-            {
-              "id": "TowerNinja",
-              "type": "Tower",
-              "eventBundle": "",
-              "eventOffer": "com.smallgiantgames.empires.toweroffer",
-              "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
                 "ronin_hiyori",
@@ -4638,6 +4745,21 @@
               ],
               "startTime": "2026-06-22 07:00:00",
               "endTime": "2026-06-27 07:00:00"
+            },
+            {
+              "id": "TowerNinja",
+              "type": "Tower",
+              "eventBundle": "",
+              "eventOffer": "com.smallgiantgames.empires.toweroffer",
+              "eventEndingOffer": "",
+              "manuallyOverwritten": true,
+              "featuredCharacters": [
+                "ronin_kageyama_nagato",
+                "ronin_asakura_masao",
+                "ronin_mikanagi_miran"
+              ],
+              "startTime": "2026-07-27 07:00:00",
+              "endTime": "2026-08-01 07:00:00"
             }
           ],
           "scheduleConfig": {
@@ -19530,46 +19652,6 @@
         "allowedDailyRerolls": 6,
         "pvpEventEntries": [
           {
-            "specialRuleId": "buff_booster",
-            "rarityRequirementsId": "epic",
-            "elementRequirementsId": "no_yellow",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2026-03-15 08:00:00",
-            "endTime": "2026-03-21 08:00:00"
-          },
-          {
-            "specialRuleId": "bloody_battle",
-            "rarityRequirementsId": "epic",
-            "elementRequirementsId": "no_blue",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
-            "startTime": "2026-03-22 08:00:00",
-            "endTime": "2026-03-28 08:00:00"
-          },
-          {
-            "specialRuleId": "rush_attack",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_red",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
-            "startTime": "2026-03-29 08:00:00",
-            "endTime": "2026-04-04 08:00:00"
-          },
-          {
-            "specialRuleId": "dragon_tournament",
-            "rarityRequirementsId": "rare",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2026-04-05 08:00:00",
-            "endTime": "2026-04-11 08:00:00"
-          },
-          {
-            "specialRuleId": "buff_booster",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_yellow",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
-            "startTime": "2026-04-12 08:00:00",
-            "endTime": "2026-04-18 08:00:00"
-          },
-          {
             "specialRuleId": "rush_attack",
             "rarityRequirementsId": "epic",
             "elementRequirementsId": "all_elements",
@@ -19744,6 +19826,46 @@
             "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
             "startTime": "2026-09-13 08:00:00",
             "endTime": "2026-09-19 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "all_elements",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-09-20 08:00:00",
+            "endTime": "2026-09-26 08:00:00"
+          },
+          {
+            "specialRuleId": "rush_attack",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "no_purple",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
+            "startTime": "2026-09-27 08:00:00",
+            "endTime": "2026-10-03 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_red",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
+            "startTime": "2026-10-04 08:00:00",
+            "endTime": "2026-10-10 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_green",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-10-11 08:00:00",
+            "endTime": "2026-10-17 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "no_green",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
+            "startTime": "2026-10-18 08:00:00",
+            "endTime": "2026-10-24 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -20107,7 +20229,7 @@
           {
             "specialRuleId": "rush_attack_dragon",
             "rarityRequirementsId": "epic",
-            "elementRequirementsId": "no_purple",
+            "elementRequirementsId": "no_red",
             "startTime": "2026-04-19 08:00:00",
             "endTime": "2026-04-25 08:00:00"
           },
@@ -20194,6 +20316,13 @@
             "elementRequirementsId": "no_blue",
             "startTime": "2026-10-04 08:00:00",
             "endTime": "2026-10-10 08:00:00"
+          },
+          {
+            "specialRuleId": "rush_attack_dragon",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "all_elements",
+            "startTime": "2026-10-18 08:00:00",
+            "endTime": "2026-10-24 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -48267,12 +48396,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_valor_9_3_2026",
-              "challengeSeasonId": "path_of_valor_2",
-              "startTime": "2026-03-09 07:00:00",
-              "endTime": "2026-04-06 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_valor_6_4_2026",
               "challengeSeasonId": "path_of_valor_3",
               "startTime": "2026-04-06 07:00:00",
@@ -48313,6 +48436,18 @@
               "challengeSeasonId": "path_of_valor_9",
               "startTime": "2026-09-21 07:00:00",
               "endTime": "2026-10-19 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_valor_19_10_2026",
+              "challengeSeasonId": "path_of_valor_10",
+              "startTime": "2026-10-19 07:00:00",
+              "endTime": "2026-11-16 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_valor_16_11_2026",
+              "challengeSeasonId": "path_of_valor_1",
+              "startTime": "2026-11-16 07:00:00",
+              "endTime": "2026-12-14 07:00:00"
             }
           ]
         },
@@ -51609,12 +51744,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_giants_9_3_2026",
-              "challengeSeasonId": "path_of_giants_7",
-              "startTime": "2026-03-09 07:00:00",
-              "endTime": "2026-04-06 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_giants_6_4_2026",
               "challengeSeasonId": "path_of_giants_8",
               "startTime": "2026-04-06 07:00:00",
@@ -51655,6 +51784,18 @@
               "challengeSeasonId": "path_of_giants_4",
               "startTime": "2026-09-21 07:00:00",
               "endTime": "2026-10-19 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_giants_19_10_2026",
+              "challengeSeasonId": "path_of_giants_5",
+              "startTime": "2026-10-19 07:00:00",
+              "endTime": "2026-11-16 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_giants_16_11_2026",
+              "challengeSeasonId": "path_of_giants_6",
+              "startTime": "2026-11-16 07:00:00",
+              "endTime": "2026-12-14 07:00:00"
             }
           ]
         },
@@ -55719,12 +55860,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_dragons_23_3_2026",
-              "challengeSeasonId": "path_of_dragons_10",
-              "startTime": "2026-03-23 07:00:00",
-              "endTime": "2026-04-20 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_dragons_20_4_2026",
               "challengeSeasonId": "path_of_dragons_1",
               "startTime": "2026-04-20 07:00:00",
@@ -55765,6 +55900,12 @@
               "challengeSeasonId": "path_of_dragons_7",
               "startTime": "2026-10-05 07:00:00",
               "endTime": "2026-11-02 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_dragons_2_11_2026",
+              "challengeSeasonId": "path_of_dragons_8",
+              "startTime": "2026-11-02 07:00:00",
+              "endTime": "2026-11-30 07:00:00"
             }
           ]
         },
@@ -59050,8 +59191,8 @@
             {
               "uberTitanId": "mythic_titan_jormungandr",
               "overridden": true,
-              "startTime": "2026-07-22 07:00:00",
-              "endTime": "2026-07-24 07:00:00"
+              "startTime": "2026-07-12 07:00:00",
+              "endTime": "2026-07-14 07:00:00"
             },
             {
               "uberTitanId": "mythic_titan_ifrit",
@@ -59064,6 +59205,12 @@
               "overridden": true,
               "startTime": "2026-11-12 07:00:00",
               "endTime": "2026-11-14 07:00:00"
+            },
+            {
+              "uberTitanId": "mythic_titan_gilgamesh",
+              "overridden": true,
+              "startTime": "2027-01-13 07:00:00",
+              "endTime": "2027-01-15 07:00:00"
             }
           ]
         },
@@ -59767,24 +59914,6 @@
           "entries": [
             {
               "overridden": true,
-              "id": "mercenary_war_3_1_2026",
-              "startTime": "2026-03-01 07:00:00",
-              "endTime": "2026-03-06 07:00:00"
-            },
-            {
-              "overridden": true,
-              "id": "mercenary_war_28_3_2026",
-              "startTime": "2026-03-28 07:00:00",
-              "endTime": "2026-04-02 07:00:00"
-            },
-            {
-              "overridden": true,
-              "id": "mercenary_war_6_4_2026",
-              "startTime": "2026-04-11 07:00:00",
-              "endTime": "2026-04-16 07:00:00"
-            },
-            {
-              "overridden": true,
               "id": "mercenary_war_21_5_2026",
               "startTime": "2026-05-21 07:00:00",
               "endTime": "2026-05-26 07:00:00"
@@ -59794,6 +59923,18 @@
               "id": "mercenary_war_13_6_2026",
               "startTime": "2026-06-13 07:00:00",
               "endTime": "2026-06-18 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_21_7_2026",
+              "startTime": "2026-07-05 07:00:00",
+              "endTime": "2026-07-10 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_15_9_2026",
+              "startTime": "2026-08-05 07:00:00",
+              "endTime": "2026-08-10 07:00:00"
             }
           ]
         },
@@ -92941,6 +93082,17 @@
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
+            },
+            {
+              "id": "visiting_outfitter_7",
+              "startTime": "2026-06-14 07:00:00",
+              "endTime": "2026-06-17 07:00:00",
+              "maxTransactionCount": 1,
+              "maxHeroRarity": 5,
+              "costumeCutOffDate": "2024-12-12 07:00:00",
+              "rareCostumeGemCost": 100,
+              "epicCostumeGemCost": 200,
+              "legendaryCostumeGemCost": 300
             }
           ]
         }
@@ -93659,5 +93811,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1825541533
+  "otherConfigId": 1945037759
 }

@@ -5,7 +5,7 @@ import json
 import re
 import os
 
-def load_hero_mapping(filename="heroes_name_cn.txt"):
+def load_hero_mapping(filename="dict_gen/官方语言字典生成/generated_txt/heroes_name_cn.txt"):
     """从文件中加载英雄映射关系 {中文名: ID}"""
     hero_map = {}
     try:
@@ -80,38 +80,120 @@ def match_and_convert_names(hero_names, hero_map):
 def main():
     # 给定的JSON数据
     json_data = {
-        "startTime": "2026-01-17 07:00:00",
-        "endTime": "2026-07-16 07:00:00",
-        "requiredSummonAmounts": [100],
-        "rewards": [
-            {"type": "Hero", "id": "伊丽莎白", "amount": 1},
-            {"type": "Hero", "id": "康伽拉赫", "amount": 1},
-            {"type": "Hero", "id": "鲁苏拉", "amount": 1},
-            {"type": "Hero", "id": "黎登布洛克教授", "amount": 1},
-            {"type": "Hero", "id": "莫罗博士", "amount": 1},
-            {"type": "Hero", "id": "尼马", "amount": 1},
-            {"type": "Hero", "id": "丽德里娅", "amount": 1},
-            {"type": "Hero", "id": "格拉迪乌斯", "amount": 1},
-            {"type": "Hero", "id": "阿维亚纳", "amount": 1},
-            {"type": "Hero", "id": "卡斯米尔爵士", "amount": 1},
-            {"type": "Hero", "id": "戴蒙", "amount": 1},
-            {"type": "Hero", "id": "泰迪", "amount": 1},
-            {"type": "Hero", "id": "昆汀", "amount": 1},
-            {"type": "Hero", "id": "沃尔夫冈", "amount": 1},
-            {"type": "Hero", "id": "塞西莉亚", "amount": 1},
-            {"type": "Hero", "id": "埃隆", "amount": 1},
-            {"type": "Hero", "id": "雷利乌斯", "amount": 1},
-            {"type": "Hero", "id": "尤留思", "amount": 1},
-            {"type": "Hero", "id": "维柳", "amount": 1},
-            {"type": "Hero", "id": "杰特", "amount": 1}
-        ]
-    }
+            "startTime": "2026-07-16 07:00:00",
+            "endTime": "2027-01-12 07:00:00",
+            "requiredSummonAmounts": [
+              100
+            ],
+            "rewards": [
+              {
+                "type": "Hero",
+                "id": "克拉夫克鲁什",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "玛阿特",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "索贝克",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "艾塞特",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "汉娜",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "扎尔加",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "博与朗特",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "西尼",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "佐拉",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "安诺舒卡",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "托本",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "夏玛拉",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "莱莎诺",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "温妮",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "莱恩",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "洛迪乌斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "韦鲁斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "蒂米乌斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "佩蒂纳克斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "奥莫德斯",
+                "amount": 1
+              }
+            ]
+          }
     
     print("开始自动匹配英雄ID...")
     print("=" * 60)
     
     # 1. 加载英雄映射文件
-    hero_map = load_hero_mapping("heroes_name_cn.txt")
+    hero_map = load_hero_mapping("dict_gen/官方语言字典生成/generated_txt/heroes_name_cn.txt")
     if not hero_map:
         print("无法加载英雄映射，退出程序")
         return

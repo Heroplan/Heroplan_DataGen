@@ -36282,7 +36282,7 @@
         ]
       },
       {
-        "id": "mimic_training_hero_red",
+        "id": "经验拟态兽",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36327,7 +36327,7 @@
         ]
       },
       {
-        "id": "mimic_training_hero_green",
+        "id": "经验拟态兽",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36372,7 +36372,7 @@
         ]
       },
       {
-        "id": "mimic_training_hero_blue",
+        "id": "经验拟态兽",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36417,7 +36417,7 @@
         ]
       },
       {
-        "id": "mimic_training_hero_yellow",
+        "id": "经验拟态兽",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36462,7 +36462,7 @@
         ]
       },
       {
-        "id": "mimic_training_hero_purple",
+        "id": "经验拟态兽",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36638,7 +36638,7 @@
         ]
       },
       {
-        "id": "mimic_emblem_red",
+        "id": "纹章拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36675,7 +36675,7 @@
         ]
       },
       {
-        "id": "mimic_emblem_blue",
+        "id": "纹章拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36712,7 +36712,7 @@
         ]
       },
       {
-        "id": "mimic_emblem_green",
+        "id": "纹章拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36749,7 +36749,7 @@
         ]
       },
       {
-        "id": "mimic_emblem_yellow",
+        "id": "纹章拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36786,7 +36786,7 @@
         ]
       },
       {
-        "id": "mimic_emblem_purple",
+        "id": "纹章拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36823,7 +36823,7 @@
         ]
       },
       {
-        "id": "mimic_aether_red",
+        "id": "艾瑟尔拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36860,7 +36860,7 @@
         ]
       },
       {
-        "id": "mimic_aether_green",
+        "id": "艾瑟尔拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36897,7 +36897,7 @@
         ]
       },
       {
-        "id": "mimic_aether_blue",
+        "id": "艾瑟尔拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36934,7 +36934,7 @@
         ]
       },
       {
-        "id": "mimic_aether_purple",
+        "id": "艾瑟尔拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -36971,7 +36971,7 @@
         ]
       },
       {
-        "id": "mimic_aether_yellow",
+        "id": "艾瑟尔拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -37008,7 +37008,7 @@
         ]
       },
       {
-        "id": "mimic_experience_rare_red",
+        "id": "经验拟态兽",
         "entities": [
           {
             "type": "FeederCharacter",
@@ -37071,7 +37071,7 @@
         ]
       },
       {
-        "id": "mimic_ascension_epic_yellow",
+        "id": "进阶拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -40191,7 +40191,7 @@
         ]
       },
       {
-        "id": "mimic_troop_red",
+        "id": "队伍拟态兽",
         "entities": [
           {
             "type": "Troop",
@@ -40242,7 +40242,7 @@
         ]
       },
       {
-        "id": "mimic_troop_blue",
+        "id": "队伍拟态兽",
         "entities": [
           {
             "type": "Troop",
@@ -40293,7 +40293,7 @@
         ]
       },
       {
-        "id": "mimic_troop_green",
+        "id": "队伍拟态兽",
         "entities": [
           {
             "type": "Troop",
@@ -40344,7 +40344,7 @@
         ]
       },
       {
-        "id": "mimic_troop_yellow",
+        "id": "队伍拟态兽",
         "entities": [
           {
             "type": "Troop",
@@ -40395,7 +40395,7 @@
         ]
       },
       {
-        "id": "mimic_troop_purple",
+        "id": "队伍拟态兽",
         "entities": [
           {
             "type": "Troop",
@@ -42283,7 +42283,7 @@
         ]
       },
       {
-        "id": "mimic_food_green",
+        "id": "食物拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -42326,7 +42326,7 @@
         ]
       },
       {
-        "id": "mimic_food_blue",
+        "id": "食物拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -42369,7 +42369,7 @@
         ]
       },
       {
-        "id": "mimic_food_yellow",
+        "id": "食物拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -42412,7 +42412,7 @@
         ]
       },
       {
-        "id": "mimic_food_purple",
+        "id": "食物拟态兽",
         "entities": [
           {
             "type": "Item",
@@ -42455,7 +42455,7 @@
         ]
       },
       {
-        "id": "mimic_food_red",
+        "id": "食物拟态兽",
         "entities": [
           {
             "type": "Item",

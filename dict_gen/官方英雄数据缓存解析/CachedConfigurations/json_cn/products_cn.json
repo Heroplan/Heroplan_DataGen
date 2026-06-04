@@ -1635,7 +1635,7 @@
           },
           {
             "type": "Avatar",
-            "id": "christmas_noel",
+            "id": "诺艾尔",
             "amount": 1
           }
         ],
@@ -1661,7 +1661,7 @@
           },
           {
             "type": "Avatar",
-            "id": "valentines_lempi",
+            "id": "莱姆皮",
             "amount": 1
           }
         ],
@@ -1687,7 +1687,7 @@
           },
           {
             "type": "Avatar",
-            "id": "easter_duke_whitley",
+            "id": "惠特利公爵",
             "amount": 1
           }
         ],
@@ -1713,11 +1713,11 @@
           },
           {
             "type": "Avatar",
-            "id": "beachparty_serena",
+            "id": "塞雷娜",
             "amount": 1
           }
         ],
-        "origin": "BeachParty",
+        "origin": "海滩派对",
         "boosterGemValueForRefund": 500
       },
       {
@@ -1739,11 +1739,11 @@
           },
           {
             "type": "Avatar",
-            "id": "kalevala_suomuhauki",
+            "id": "鳞梭鱼",
             "amount": 1
           }
         ],
-        "origin": "Kalevala",
+        "origin": "卡勒瓦拉",
         "boosterGemValueForRefund": 500
       },
       {
@@ -1765,7 +1765,7 @@
           },
           {
             "type": "Avatar",
-            "id": "halloween_wayne",
+            "id": "韦恩",
             "amount": 1
           }
         ],
@@ -1791,7 +1791,7 @@
           },
           {
             "type": "Avatar",
-            "id": "lunar_new_year_hongyunxing",
+            "id": "鸿运星",
             "amount": 1
           }
         ],
@@ -1819,7 +1819,7 @@
             "amount": 1
           }
         ],
-        "origin": "GuestIP1",
+        "origin": "特邀活动",
         "boosterGemValueForRefund": 500,
         "ignoreQuestXpLevelRequirement": true
       },
@@ -4239,48 +4239,48 @@
           6
         ],
         "featuredHeroes": [
-          "fortune_wei_qi",
-          "fortune_bai_yan",
-          "fortune_yan_qing"
+          "蔚奇",
+          "白焰",
+          "彦青"
         ],
         "includedHeroes": [
-          "lunar_new_year_laohu_costume_golden",
-          "lunar_new_year_xiaotu_costume_golden",
-          "lunar_new_year_gongniu",
-          "lunar_new_year_qinglong",
-          "lunar_new_year_xiaoqing",
-          "lunar_new_year_baishu",
-          "kingdom_cao_cao_costume_ice",
-          "kingdom_lu_bu_costume_tiger_lord",
-          "kingdom_wang_yuanji_costume_artisan",
-          "kingdom_diaochan_costume_flowers",
-          "kingdom_liu_bei_costume_nature",
-          "kingdom_zhuge_liang_costume_crane",
-          "kingdom_sun_quan_costume_fire_bat",
-          "kingdom_sun_shangxiang",
-          "kingdom_xiahou_dun",
-          "kingdom_guan_yu_costume_dragon",
-          "kingdom_zhang_fei_costume_bear_slayer",
-          "kingdom_zhou_yu_costume_white_raven",
-          "kingdom_yao",
-          "kingdom_jing",
-          "kingdom_li",
-          "journey_erlang_shen",
-          "journey_xiong_shanjun",
-          "journey_nineheaded_beast",
-          "journey_heifeng_guai",
-          "journey_general_yin",
-          "journey_queen_guowang",
-          "journey_change",
-          "journey_sha_wujing",
-          "journey_xiwangmu",
-          "journey_xie_zi_jing",
-          "journey_tang_sanzang",
-          "lunar_new_year_hongyunxing",
-          "outlaw_gu_dasao",
-          "outlaw_liu_tang",
-          "fortune_ling_long",
-          "fortune_dragon_kids"
+          "老虎-农历祥瑞虎",
+          "小兔-农历灯灵兔",
+          "公牛",
+          "青龙",
+          "小青",
+          "白鼠",
+          "曹操-冰雪君主",
+          "吕布-怒虎战神",
+          "王元姬-淑女书圣",
+          "貂蝉-出水芙蓉",
+          "刘备-森林君主",
+          "诸葛亮-神算鬼谋",
+          "孙权-天命君主",
+          "孙尚香",
+          "夏侯惇",
+          "关羽-地狱将军",
+          "张飞-暴熊将军",
+          "周瑜-渡鸦帅才",
+          "姚",
+          "荆",
+          "李",
+          "二郎神",
+          "熊山君",
+          "九头兽",
+          "黑风怪",
+          "寅将军",
+          "郭王后",
+          "嫦娥",
+          "沙悟净",
+          "西王母",
+          "蝎子精",
+          "唐三藏",
+          "鸿运星",
+          "顾大嫂",
+          "刘唐",
+          "玲珑",
+          "龙之子"
         ],
         "seasonalEventId": "LunarNewYear2026",
         "summonSpiritTokenId": "lottery_seasonal_summon_spirit_lunar_new_year"
@@ -4356,51 +4356,51 @@
           6
         ],
         "featuredHeroes": [
-          "shark_brokhai",
-          "shark_haikala",
-          "shark_sharpoon"
+          "布罗凯",
+          "海卡拉",
+          "沙-阿尔"
         ],
         "includedHeroes": [
-          "beachparty_bubo",
-          "beachparty_skiff",
-          "beachparty_andy_jay",
-          "beachparty_serena",
-          "beachparty_davey_wavey",
-          "beachparty_zenukwa",
-          "beachparty_mazoga",
-          "beachparty_dolrak_costume_tattoo",
-          "beachparty_itham_costume_skateboard",
-          "beachparty_misty_costume_rogue",
-          "beachparty_flip_costume_donut",
-          "beachparty_mortimer",
-          "sand_horse",
-          "sand_tower",
-          "sand_soldier",
-          "sand_vizier",
-          "sand_king_costume_lifeguard",
-          "sand_queen_costume_surfer",
-          "sand_roc_costume_juice",
-          "tales1_spartoi_costume_guard",
-          "tales1_medea_costume_goddess",
-          "tales1_domiventus_costume_supreme",
-          "tales1_atlanteia_costume_siren",
-          "tales1_persa_costume_jellyfish_noble",
-          "tales1_gestalt_costume_pearls",
-          "tales1_aqualith_costume_purple",
-          "tales1_gelert_costume_scavenger",
-          "tales1_ultrox_costume_ethereal",
-          "tales1_ceto_costume_queen",
-          "tales1_jaco_costume_alchemist",
-          "tales1_galapago_costume_quarry",
-          "tales1_lasalle_costume_jockey",
-          "tales1_ephyra_costume_reef",
-          "tales1_phorcys_costume_warrior_god",
-          "tales1_thalassa_costume_crystals",
-          "tales1_sharkhai_costume_butcher",
-          "tales1_mulgog_costume_bard",
-          "tales1_bagreg_costume_scout",
-          "shark_haamuhai",
-          "shark_sharby"
+          "布博",
+          "斯基夫",
+          "安迪·杰",
+          "塞雷娜",
+          "戴维·韦威",
+          "泽努克瓦",
+          "马佐加",
+          "多拉克-刺青狂矮人",
+          "伊潭-菜鸟滑板精灵",
+          "蜜丝缇-隐蔽海滩地精",
+          "飞力普-海豹甜甜圈小贩",
+          "莫迪默",
+          "阿骏",
+          "贾巴尔",
+          "阿尔曼",
+          "贾法尔",
+          "尤纳恩-护卫之王",
+          "拉娜-冲浪女王",
+          "罗克-海滩守护者",
+          "斯帕托依-纳迦守卫",
+          "美狄亚-深渊纳迦女神",
+          "多米万图斯-至高超深渊生物",
+          "亚特兰蒂亚-冷若冰霜的深海女妖",
+          "波莎-水母贵族",
+          "格式塔-永恒明珠王子",
+          "水形魔-元素巨人",
+          "杰勒-深渊清道夫",
+          "奥绰刻斯-深渊虹吸者",
+          "刻托-原始海怪女王",
+          "雅科-狡猾的深渊炼金术师",
+          "加拉帕戈-聪明的采石场翻滚者",
+          "拉萨尔-浮夸的亚特兰蒂斯骑师",
+          "依菲拉-暗礁公主",
+          "福耳库斯-深渊战神",
+          "塔拉萨-原始水晶女神",
+          "沙凯-锯齿屠夫",
+          "木果-鱼人吟游诗人",
+          "巴格雷格-鱼仔斥候",
+          "哈穆海",
+          "沙尔比"
         ],
         "seasonalEventId": "BeachParty2026",
         "summonSpiritTokenId": "lottery_seasonal_summon_spirit_beach_party"
@@ -23567,6 +23567,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23586,6 +23587,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23604,6 +23606,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23640,6 +23643,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23659,6 +23663,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23688,6 +23693,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_1_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23707,6 +23713,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_1_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23725,6 +23732,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_2_tier1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23761,6 +23769,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_3_tier1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23780,6 +23789,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_3_tier2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25356,7 +25366,7 @@
         "contents": [
           {
             "type": "Avatar",
-            "id": "shadow_atwood",
+            "id": "阿特伍德",
             "amount": 1
           },
           {
@@ -27516,13 +27526,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 50
+            "amount": 200
           },
           {
             "type": "Item",
-            "id": "battle_tornado",
-            "amount": 10
+            "id": "misc_loot_ticket",
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -27540,8 +27550,8 @@
           },
           {
             "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
-            "amount": 20
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
           }
         ]
       },
@@ -27554,13 +27564,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 900,
+            "amount": 1000,
             "zyngaStoreExtraAmount": 150
           },
           {
             "type": "Item",
-            "id": "tome_levels_epic",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
           }
         ]
       },
@@ -27573,18 +27583,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 2100,
-            "zyngaStoreExtraAmount": 400
+            "amount": 3500,
+            "zyngaStoreExtraAmount": 500
           },
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 700
-          },
-          {
-            "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 700
+            "id": "hero_limitbreak_alpha",
+            "amount": 2
           }
         ]
       },
@@ -27606,9 +27611,14 @@
             "amount": 1
           },
           {
-            "type": "Troop",
-            "id": "rainbow_epic_trainer",
-            "amount": 7
+            "type": "Item",
+            "id": "tome_ascension",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
           }
         ]
       },
@@ -27616,7 +27626,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27635,7 +27644,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27659,7 +27667,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier3",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27683,7 +27690,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier4",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27702,7 +27708,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier5",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29174,6 +29179,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29192,6 +29198,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_2_tier2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -30254,7 +30261,7 @@
         "contents": [
           {
             "type": "Avatar",
-            "id": "goblin_kettle",
+            "id": "凯特尔",
             "amount": 1
           },
           {
@@ -30285,7 +30292,7 @@
           },
           {
             "type": "Hero",
-            "id": "forest_woodsman_warrior",
+            "id": "小约翰",
             "amount": 1
           },
           {
@@ -31854,12 +31861,12 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "nordic_male_lord",
+            "id": "理查德",
             "amount": 1
           },
           {
             "type": "Hero",
-            "id": "nomad_female_lord",
+            "id": "艾琳娜",
             "amount": 1
           },
           {
@@ -31972,7 +31979,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32029,7 +32035,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day5",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32099,7 +32104,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day7",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33483,7 +33487,7 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "nomad_female_lord",
+            "id": "艾琳娜",
             "amount": 1
           },
           {
@@ -33512,12 +33516,12 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "elven_archer",
+            "id": "丽阿娜",
             "amount": 1
           },
           {
             "type": "Hero",
-            "id": "oriental_female_mystic",
+            "id": "薇薇卡",
             "amount": 1
           },
           {
@@ -33551,17 +33555,17 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "nordic_ice_enchantress",
+            "id": "伊萨莉亚",
             "amount": 1
           },
           {
             "type": "Hero",
-            "id": "cultist_sorceress",
+            "id": "萨塔娜",
             "amount": 1
           },
           {
             "type": "Hero",
-            "id": "forest_male_elf",
+            "id": "埃尔卡能",
             "amount": 1
           },
           {
@@ -35873,7 +35877,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35919,7 +35922,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37157,7 +37159,7 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "nordic_male_lord",
+            "id": "理查德",
             "amount": 1
           },
           {
@@ -37196,7 +37198,7 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "nordic_male_lord",
+            "id": "理查德",
             "amount": 1
           },
           {
@@ -37240,7 +37242,7 @@
         "contents": [
           {
             "type": "Hero",
-            "id": "nordic_male_lord",
+            "id": "理查德",
             "amount": 1
           },
           {
@@ -44305,7 +44307,7 @@
           },
           {
             "type": "Avatar",
-            "id": "mahayoddha_bhima",
+            "id": "比马",
             "amount": 1
           }
         ]
@@ -44728,7 +44730,7 @@
         "contents": [
           {
             "type": "Avatar",
-            "id": "outlaw_shi_jin",
+            "id": "史进",
             "amount": 1
           },
           {
@@ -54621,7 +54623,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_swiftpaw",
+            "id": "迅爪",
             "amount": 1
           },
           {
@@ -54647,7 +54649,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_halcyon",
+            "id": "哈尔西翁",
             "amount": 1
           },
           {
@@ -54673,7 +54675,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_philomena",
+            "id": "菲洛梅娜",
             "amount": 1
           },
           {
@@ -54699,7 +54701,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_rust",
+            "id": "腊斯特",
             "amount": 1
           },
           {
@@ -54725,7 +54727,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_yolanda",
+            "id": "约兰达",
             "amount": 1
           },
           {
@@ -54751,7 +54753,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_foxglove",
+            "id": "福克斯格洛夫",
             "amount": 1
           },
           {
@@ -54777,7 +54779,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_maud",
+            "id": "莫德",
             "amount": 1
           },
           {
@@ -54803,7 +54805,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_foxley",
+            "id": "狐斯利",
             "amount": 1
           },
           {
@@ -54829,7 +54831,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_whitefang",
+            "id": "白牙",
             "amount": 1
           },
           {
@@ -54855,7 +54857,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_ashen",
+            "id": "艾森",
             "amount": 1
           },
           {
@@ -54881,7 +54883,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_nibbles",
+            "id": "尼布尔斯",
             "amount": 1
           },
           {
@@ -54907,7 +54909,7 @@
           },
           {
             "type": "Avatar",
-            "id": "fox_sable",
+            "id": "紫貂",
             "amount": 1
           },
           {
@@ -54933,7 +54935,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_peregrine",
+            "id": "裴雷格林",
             "amount": 1
           },
           {
@@ -55026,7 +55028,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_ascian",
+            "id": "阿西安",
             "amount": 1
           },
           {
@@ -55052,7 +55054,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_gideon",
+            "id": "基迪恩",
             "amount": 1
           },
           {
@@ -55078,7 +55080,7 @@
           },
           {
             "type": "Avatar",
-            "id": "faun_araminta",
+            "id": "阿拉敏塔",
             "amount": 1
           },
           {
@@ -55291,7 +55293,7 @@
         "contents": [
           {
             "type": "Avatar",
-            "id": "magic_carpet_bart",
+            "id": "巴特",
             "amount": 1
           },
           {
@@ -55666,7 +55668,7 @@
           },
           {
             "type": "Avatar",
-            "id": "mahayoddha_ustad_anand",
+            "id": "阿南德大师",
             "amount": 1
           }
         ]
@@ -55688,7 +55690,7 @@
           },
           {
             "type": "Avatar",
-            "id": "beowulf_grendels_mother",
+            "id": "格伦德尔之母",
             "amount": 1
           }
         ]
@@ -56067,49 +56069,49 @@
           6
         ],
         "featuredHeroes": [
-          "fleur_guillemette",
-          "fleur_elyzabel",
-          "fleur_ludovico"
+          "吉耶梅特",
+          "埃莉萨贝尔·德·蒂耶尔",
+          "卢多维科"
         ],
         "includedHeroes": [
-          "faun_bramble",
-          "faun_ascian",
-          "faun_tamlin",
-          "faun_yolanda",
-          "faun_verity",
-          "faun_jolyon",
-          "halloween_francine_costume_mafia",
-          "halloween_matilda",
-          "halloween_chester",
-          "halloween_wayne",
-          "halloween_amber",
-          "halloween_alucard_costume_mafia",
-          "halloween_lucinda",
-          "halloween_edwin_costume_mafia",
-          "halloween_hortensia",
-          "ballerina_von_rothbart",
-          "ballerina_odile",
-          "ballerina_meg_giry",
-          "elemental_gastille",
-          "elemental_ignazio_costume_medic",
-          "fleur_talesie",
-          "slayer_cillian",
-          "faun_myrtle",
-          "gargoyle_kalo",
-          "gargoyle_bellerive",
-          "vampire_queen",
-          "halloween_frank_costume_mafia",
-          "halloween_ana_belle_costume_mafia",
-          "ballerina_raul",
-          "s4_griffin_costume_priest",
-          "construct_rustbeak",
-          "halloween_goopy",
-          "halloween_jack",
-          "vampire_lord",
-          "fleur_eumachius",
-          "halloween_vanda_costume_mafia",
-          "halloween_miriam_and_midnight",
-          "vampire_king_costume_mafia"
+          "布兰博",
+          "阿西安",
+          "塔姆林",
+          "约兰达",
+          "维里蒂",
+          "乔利恩",
+          "弗朗辛-女暴徒",
+          "玛蒂尔达",
+          "切斯特",
+          "韦恩",
+          "安布尔",
+          "阿鲁卡多-吸血鬼头目",
+          "卢辛达",
+          "艾德文-背刺管家",
+          "霍滕西娅",
+          "冯·罗斯巴特",
+          "奥迪尔",
+          "梅格·吉瑞",
+          "加斯蒂尔",
+          "伊格纳奇奥-烈焰外科医生",
+          "塔莱茜娅",
+          "希里安",
+          "米尔特",
+          "卡勒",
+          "贝勒里夫",
+          "法蕾莉",
+          "弗兰克-暴徒",
+          "安娜·贝尔-尘埃女男爵",
+          "拉乌尔",
+          "格里芬-隐形祭司",
+          "锈喙",
+          "小黏糊",
+          "杰克",
+          "弗拉德",
+          "尤马基乌斯",
+          "凡达-罪恶女王",
+          "米丽安与午夜",
+          "维克托-罪恶之王"
         ],
         "seasonalEventId": "Halloween2025",
         "summonSpiritTokenId": "lottery_seasonal_summon_spirit_halloween"
@@ -58449,5 +58451,5 @@
       }
     ]
   },
-  "productsConfigId": 592647038
+  "productsConfigId": 3503020409
 }

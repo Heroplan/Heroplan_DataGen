@@ -23567,6 +23567,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23586,6 +23587,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23604,6 +23606,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23640,6 +23643,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23659,6 +23663,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23688,6 +23693,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_1_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23707,6 +23713,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_1_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23725,6 +23732,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_2_tier1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23761,6 +23769,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_3_tier1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23780,6 +23789,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_3_tier2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27516,13 +27526,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 50
+            "amount": 200
           },
           {
             "type": "Item",
-            "id": "battle_tornado",
-            "amount": 10
+            "id": "misc_loot_ticket",
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -27540,8 +27550,8 @@
           },
           {
             "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
-            "amount": 20
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
           }
         ]
       },
@@ -27554,13 +27564,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 900,
+            "amount": 1000,
             "zyngaStoreExtraAmount": 150
           },
           {
             "type": "Item",
-            "id": "tome_levels_epic",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
           }
         ]
       },
@@ -27573,18 +27583,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 2100,
-            "zyngaStoreExtraAmount": 400
+            "amount": 3500,
+            "zyngaStoreExtraAmount": 500
           },
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 700
-          },
-          {
-            "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 700
+            "id": "hero_limitbreak_alpha",
+            "amount": 2
           }
         ]
       },
@@ -27606,9 +27611,14 @@
             "amount": 1
           },
           {
-            "type": "Troop",
-            "id": "rainbow_epic_trainer",
-            "amount": 7
+            "type": "Item",
+            "id": "tome_ascension",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
           }
         ]
       },
@@ -27616,7 +27626,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27635,7 +27644,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27659,7 +27667,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier3",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27683,7 +27690,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier4",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27702,7 +27708,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier5",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29174,6 +29179,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29192,6 +29198,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_2_tier2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31972,7 +31979,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32029,7 +32035,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day5",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32099,7 +32104,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day7",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35873,7 +35877,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35919,7 +35922,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58449,5 +58451,5 @@
       }
     ]
   },
-  "productsConfigId": 592647038
+  "productsConfigId": 3503020409
 }

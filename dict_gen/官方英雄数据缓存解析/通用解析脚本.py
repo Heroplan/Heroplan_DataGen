@@ -70,38 +70,38 @@ REPLACEMENT_RULES = {
         
     ): [
         {
-            "file": "generated_txt/heroes_name_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/heroes_name_cn.txt",
             "prefix": "heroes.name.",
         },
         {
-            "file": "generated_txt/heroes_name_fancy_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/heroes_name_fancy_cn.txt",
             "prefix": "heroes.name_fancy.",
             "compound_rule": {"trigger_keyword": "_costume", "separator": "-"},
         },
     ],
     ("families", "featuredFamilies", "family"): [
         {
-            "file": "generated_txt/family_title_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/family_title_cn.txt",
             "prefix": "herocard.family.title.",
         }
     ],
     ("eventId", "origin", "lotteryProductType"): [
         {
-            "file": "generated_txt/quests_name_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/quests_name_cn.txt",
             "prefix": "quests.name.",
         },
         {
-            "file": "generated_txt/lottery_title_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/lottery_title_cn.txt",
             "prefix": "lottery.title.",
         },
         {
-            "file": "generated_txt/event_name_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/event_name_cn.txt",
             "prefix": "event.name.",
         },
     ],
     ("aetherGift",): [
         {
-            "file": "generated_txt/aether_power_en.txt",
+            "file": "../官方语言字典生成/generated_txt/aether_power_cn.txt",
             "prefix": "limitbreak.gift.title.",
         }
     ],
@@ -111,7 +111,7 @@ REPLACEMENT_RULES = {
     ("element",): [{"file": "base_values_cn.txt", "prefix": "base."}],
     ("specialId",): [
         {
-            "file": "generated_txt/skill_name_cn.txt",
+            "file": "../官方语言字典生成/generated_txt/skill_name_cn.txt",
             "prefix": "specials.name.",
         }
     ],

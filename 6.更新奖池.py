@@ -537,6 +537,64 @@ def extract_league_lottery(main_data, other_data, now):
         return None
     return result
 
+# ==================== 提取 Pickup 池每日英雄 ====================
+def extract_pickup_daily_heroes(lottery_data, base_datetime):
+    """
+    从 lottery_data 中提取 lottery_pickup_default 的每日英雄列表，
+    尝试获取从 base_datetime 开始的连续30天数据。
+    如果某些天缺失，输出警告信息，但继续输出已有的数据。
+    返回 {"featuredHeroes": {"YYYY-MM-DD": [hero_list], ...}}
+    """
+    # 起始日期（基准日期的日期部分）
+    start_date = base_datetime.date()
+    # 生成连续30天的日期列表
+    date_list = [start_date + timedelta(days=i) for i in range(30)]
+    
+    # 存储存在的日期 -> 英雄列表
+    date_to_heroes = {}
+    
+    def search(obj):
+        if isinstance(obj, dict):
+            # 匹配 productId == "lottery_pickup_default"
+            if obj.get("productId") == "lottery_pickup_default":
+                start_str = obj.get("startDate")
+                if start_str:
+                    dt = parse_date(start_str)
+                    if dt:
+                        entry_date = dt.date()
+                        # 只关心在目标范围内的日期
+                        if entry_date in date_list:
+                            heroes = obj.get("featuredHeroes")
+                            if heroes and isinstance(heroes, list):
+                                # 同一天可能有多个条目（理论上不会），后面的覆盖前面的
+                                date_to_heroes[entry_date] = heroes
+            # 递归搜索子节点
+            for v in obj.values():
+                search(v)
+        elif isinstance(obj, list):
+            for item in obj:
+                search(item)
+    
+    search(lottery_data)
+    
+    # 检查缺失的日期
+    missing_dates = [d for d in date_list if d not in date_to_heroes]
+    if missing_dates:
+        print(f"  ⚠️ Pickup池: 共30天，缺失 {len(missing_dates)} 天数据")
+        if len(missing_dates) <= 10:
+            missing_str = ", ".join(d.isoformat() for d in missing_dates)
+            print(f"     缺失日期: {missing_str}")
+        else:
+            print(f"     缺失日期示例: {missing_dates[0].isoformat()} ... {missing_dates[-1].isoformat()}")
+    
+    if not date_to_heroes:
+        print("  ❌ Pickup池: 未找到任何有效数据")
+        return None
+    
+    # 按日期排序后返回（日期格式为 YYYY-MM-DD）
+    sorted_heroes = {d.isoformat(): date_to_heroes[d] for d in sorted(date_to_heroes.keys())}
+    return {"featuredHeroes": sorted_heroes}
+
 # ==================== 主函数 ====================
 def main():
     script_dir = get_script_dir()
@@ -601,8 +659,17 @@ def main():
     for target_id, output_key in TARGET_POOLS.items():
         config = None
 
+        # 0. 特殊处理：lottery_pickup_default —— 使用每日英雄映射
+        if target_id == "lottery_pickup_default":
+            config = extract_pickup_daily_heroes(lottery_data, adjusted_now)
+            if config:
+                print(f"✓ 提取 Pickup 池每日英雄: {target_id} -> {output_key}")
+                print(f"  包含 {len(config['featuredHeroes'])} 天的数据")
+            else:
+                print(f"✗ Pickup 池未找到任何符合条件的条目: {target_id}")
+
         # 1. 特殊处理超级元素池（需要日期比较）
-        if target_id == "lottery_super_elemental":
+        elif target_id == "lottery_super_elemental":
             config = process_super_elemental(lottery_data, adjusted_now)
             if config:
                 print(f"✓ 特殊处理超级元素池: {target_id} -> {output_key}")

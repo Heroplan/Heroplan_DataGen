@@ -3578,7 +3578,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "holy_god_delilah",
+            "id": "达利拉",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -5524,7 +5524,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -5567,7 +5567,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -5599,7 +5599,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -5635,7 +5635,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
@@ -10823,7 +10823,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
@@ -10850,7 +10850,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -10866,7 +10866,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -10903,7 +10903,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
@@ -15811,7 +15811,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies"
           }
         ],
@@ -15836,7 +15836,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies"
           }
         ],
@@ -15865,7 +15865,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies"
           }
         ],
@@ -15998,7 +15998,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -22608,7 +22608,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies"
           }
         ],
@@ -22636,7 +22636,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget"
           }
@@ -22668,7 +22668,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies"
           }
         ],
@@ -22694,7 +22694,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies"
           }
         ],
@@ -22719,7 +22719,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget"
           }
@@ -31884,7 +31884,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -31916,7 +31916,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -31943,7 +31943,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
@@ -31967,7 +31967,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -32056,7 +32056,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -32683,7 +32683,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -32710,7 +32710,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -32737,7 +32737,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -32753,7 +32753,7 @@
         "maxLevel": 0,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -32915,7 +32915,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -43487,7 +43487,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 2
           }
@@ -43508,7 +43508,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
@@ -43630,7 +43630,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -53764,7 +53764,7 @@
         "maxLevel": 8,
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "amountPerCharacter": 1
           }
@@ -53803,7 +53803,7 @@
         "strongAttackElement": "Blue",
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
@@ -53839,7 +53839,7 @@
         ],
         "summonedFamiliars": [
           {
-            "id": "christmas_elf",
+            "id": "巴迪",
             "sideAffected": "Allies",
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
@@ -57356,13 +57356,13 @@
             "id": "mesmerize_dryad",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
-            "turns": 3
+            "turns": 4
           },
           {
             "id": "poison_pansius",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
-            "turns": 3
+            "turns": 4
           }
         ]
       },
@@ -58112,7 +58112,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
-          "powerMultiplierPerMil": 5250,
+          "powerMultiplierPerMil": 4750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58134,7 +58134,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
-          "powerMultiplierPerMil": 4150,
+          "powerMultiplierPerMil": 4050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58156,7 +58156,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
-          "powerMultiplierPerMil": 3450,
+          "powerMultiplierPerMil": 3550,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58207,7 +58207,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3100,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58220,7 +58220,7 @@
             "id": "bleed_shaurya",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
-            "turns": 3
+            "turns": 2
           }
         ]
       },
@@ -72596,7 +72596,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_mizuno_seiko1",
-        "powerMultiplierPerMil": 4450,
+        "powerMultiplierPerMil": 3950,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "Single",
@@ -72605,7 +72605,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_mizuno_seiko2",
-        "powerMultiplierPerMil": 4150,
+        "powerMultiplierPerMil": 4050,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "NearToTarget",
@@ -72614,7 +72614,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_mizuno_seiko3",
-        "powerMultiplierPerMil": 4250,
+        "powerMultiplierPerMil": 4150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -72672,5 +72672,5 @@
       }
     ]
   },
-  "specialsConfigId": 2694567534
+  "specialsConfigId": 3477990767
 }

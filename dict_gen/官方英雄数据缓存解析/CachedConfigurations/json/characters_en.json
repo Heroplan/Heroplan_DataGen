@@ -22750,7 +22750,7 @@
       "strong_troop_damage_modifier_costume"
     ],
     "classType": "Wizard",
-    "aetherGift": "Special Boost",
+    "aetherGift": "Counterattack",
     "costumeBonusPassiveSkillIds": [
       "resist_ailments_green"
     ],
@@ -33675,7 +33675,7 @@
       "resist_burn_with_health_and_mana_boost_costume"
     ],
     "classType": "Cleric",
-    "aetherGift": "Mana Generation",
+    "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "mana_immolation_soul_seeker",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -36471,7 +36471,7 @@
       "prevent_boosted_health"
     ],
     "classType": "Monk",
-    "aetherGift": "Special Armor",
+    "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "spiritual_stance",
     "canBeReceivedDate": "2200-01-01 07:00:00",

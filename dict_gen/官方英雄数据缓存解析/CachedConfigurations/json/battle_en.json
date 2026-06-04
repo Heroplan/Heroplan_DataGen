@@ -46442,7 +46442,7 @@
         "id": "increasing_special_damage_until_special_cast_axioma",
         "buff": "MinorBuff",
         "removalTrigger": "SpecialCast",
-        "powerAdditionPerMil": 860,
+        "powerAdditionPerMil": 360,
         "powerAdditionIncrementPerLevelPerMil": 20,
         "powerAdditionIncrementPerTurnPerMil": 250,
         "powerAdditionIncrementPerTurnPerLevelPerMil": 0,
@@ -46575,10 +46575,10 @@
         "statusEffect": "EffectOnDodgedSpecial",
         "id": "damage_on_dodged_special_aethslegaur_soul_seeker",
         "buff": "MinorBuff",
-        "dodgeIncrementPerMil": 360,
+        "dodgeIncrementPerMil": 310,
         "dodgeIncrementPerLevelPerMil": 20,
         "effect": "Damage",
-        "effectFixedPower": 60,
+        "effectFixedPower": 360,
         "effectFixedPowerIncrementPerLevel": 20
       },
       {
@@ -47361,8 +47361,8 @@
         "statusEffect": "Poison",
         "id": "poison_pansius",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 133,
-        "damageMultiplierIncrementPerLevelPerMil": 15
+        "damageMultiplierPerMil": 110,
+        "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
         "statusEffect": "ElementLinkSpecialDamage",
@@ -54372,7 +54372,7 @@
         "statusEffect": "Block",
         "id": "block_cloveria",
         "buff": "MinorBuff",
-        "blockChancePerMil": 60,
+        "blockChancePerMil": 210,
         "blockChanceIncrementPerLevelPerMil": 20,
         "immuneElement": "None"
       },
@@ -61660,7 +61660,7 @@
         "id": "add_insanity_axioma",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 50,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -61673,7 +61673,7 @@
         "id": "add_insanity_to_self_axioma",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 20,
+        "insanityToAdd": 15,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -62868,7 +62868,7 @@
         "statusEffect": "Bleeding",
         "id": "bleed_shaurya",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 121,
+        "damageMultiplierPerMil": 120,
         "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
@@ -62893,7 +62893,7 @@
         "id": "blind_shu_jing",
         "buff": "MinorDebuff",
         "isStubborn": true,
-        "accuracyIncrementPerMil": 65156,
+        "accuracyIncrementPerMil": 65106,
         "accuracyIncrementPerLevelPerMil": 246
       },
       {
@@ -62994,7 +62994,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_quartz_costume2",
         "buff": "MinorBuff",
-        "healthPoints": 197,
+        "healthPoints": 230,
         "healthPointsIncrementPerLevel": 10
       },
       {
@@ -63107,7 +63107,7 @@
         "id": "buff_immunity_with_damage_on_resist_mizuno1",
         "buff": "MinorDebuff",
         "effectOnResistedStatusEffect": "Damage",
-        "fixedPower": 230,
+        "fixedPower": 180,
         "fixedPowerIncrementPerLevel": 10,
         "statusEffectOnResist": {
           "id": ""
@@ -63118,7 +63118,7 @@
         "id": "buff_immunity_with_damage_on_resist_mizuno2",
         "buff": "MinorDebuff",
         "effectOnResistedStatusEffect": "Damage",
-        "fixedPower": 330,
+        "fixedPower": 430,
         "fixedPowerIncrementPerLevel": 10,
         "statusEffectOnResist": {
           "id": ""
@@ -63127,10 +63127,10 @@
       {
         "statusEffect": "BuffImmunity",
         "id": "buff_immunity_with_damage_on_resist_mizuno3",
-        "buff": "MajorDebuff",
+        "buff": "MinorDebuff",
         "effectOnResistedStatusEffect": "Damage",
-        "fixedPower": 430,
-        "fixedPowerIncrementPerLevel": 10,
+        "fixedPower": 990,
+        "fixedPowerIncrementPerLevel": 30,
         "statusEffectOnResist": {
           "id": ""
         }
@@ -71253,7 +71253,7 @@
         "manaSpeedToStatusEffect": {},
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies",
-        "turns": 4
+        "turns": 5
       },
       {
         "passiveSkillType": "DamageReductionForStatusEffectSupportCharacter",
@@ -71303,7 +71303,7 @@
             "id": "mesmerize_dryad",
             "sideAffected": "Enemies",
             "statusTargetType": "Random",
-            "turns": 3
+            "turns": 4
           }
         ],
         "turnsBetweenEffects": 3
@@ -97088,5 +97088,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2586369246
+  "battleConfigId": 3363097560
 }
