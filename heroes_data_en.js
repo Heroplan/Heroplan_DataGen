@@ -10195,13 +10195,13 @@ window.allHeroes =
         "defense": 1289,
         "health": 2321,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "Deals 415% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 1060 Bleed damage over 4 turns.",
+            "40 or more Humility:",
             "Deals 460% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 1260 Bleed damage over 4 turns.",
-            "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
-            "Otherwise:",
-            "Deals 415% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 1060 Bleed damage over 4 turns."
+            "The caster and nearby allies counterattack with 150% of the damage received for 4 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -18611,15 +18611,15 @@ window.allHeroes =
         "defense": 1343,
         "health": 2385,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "Deals 350% damage to all enemies.",
+            "Enemies with less than 50% health remaining resist healing and receive 300 damage per each resisted healing for 4 turns.",
+            "Stack (Max: 10): All damage all enemies receive is increased by +5%.",
+            "40 or more Humility:",
             "Deals 400% damage to all enemies.",
             "Enemies with less than 50% health remaining resist healing and receive 400 damage per each resisted healing for 4 turns.",
             "Stack +2 (Max: 10): All damage all enemies receive is increased by +10%.",
-            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Otherwise:",
-            "Deals 350% damage to all enemies.",
-            "Enemies with less than 50% health remaining resist healing and receive 300 damage per each resisted healing for 4 turns.",
-            "Stack (Max: 10): All damage all enemies receive is increased by +5%."
+            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -24515,11 +24515,11 @@ window.allHeroes =
         "defense": 561,
         "health": 975,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "* Deals 250% damage to the target and minor damage to nearby enemies.",
+            "40 or more Humility:",
             "* Deals 270% damage to the target and minor damage to nearby enemies.",
-            "* The caster counterattacks with 90% of the damage received for 4 turns.",
-            "Otherwise:",
-            "* Deals 250% damage to the target and minor damage to nearby enemies."
+            "* The caster counterattacks with 90% of the damage received for 4 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -38016,15 +38016,15 @@ window.allHeroes =
         "defense": 1343,
         "health": 2338,
         "effects": [
-            "If the caster has 60 or more Humility:",
+            "Less than 60 Humility:",
+            "Deals 490% damage to the target and minor damage to nearby enemies.",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 4 hits. This effect can't be dispelled.",
+            "60 or more Humility:",
             "Deals 600% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This effect can't be dispelled.",
-            "Otherwise:",
-            "Deals 490% damage to the target and minor damage to nearby enemies.",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 4 hits. This effect can't be dispelled."
+            "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This effect can't be dispelled."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -44640,7 +44640,7 @@ window.allHeroes =
             "Deals 450% damage to the target.",
             "Deals additional 180% damage to as many random enemies as there are Nature tiles on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive hit.",
             "All hit targets get 10 Insanity every time they are hit.",
-            "Inflicts 50 Insanity on the caster."
+            "Casting this Special Skill inflicts 50 Insanity on the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
@@ -58031,16 +58031,16 @@ window.allHeroes =
         "defense": 1355,
         "health": 2364,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "Deals 485% damage to all enemies.",
+            "After 1 turn all enemies get Paralyzed for 2 turns.",
+            "(Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "All enemies receive 755 Poison damage over 5 turns.",
+            "40 or more Humility:",
             "Deals 550% damage to all enemies.",
             "After 1 turn all enemies get Paralyzed for 2 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
             "All enemies receive 755 Poison damage over 5 turns.",
-            "All enemies receive 749 Curse damage over 6 turns, starting low and increasing every turn.",
-            "Otherwise:",
-            "Deals 485% damage to all enemies.",
-            "After 1 turn the target and nearby enemies get Paralyzed for 2 turns.",
-            "(Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
-            "All enemies receive 755 Poison damage over 5 turns."
+            "All enemies receive 75-188 increasing Curse damage each turn for 6 turns. (On the first turn, 75 damage is dealt. The damage increases by +20% each turn, up to 188 damage per turn.)"
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -65308,15 +65308,15 @@ window.allHeroes =
         "defense": 1301,
         "health": 2319,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "* Deals 440% damage to 5 random enemies.",
+            "* All hit targets get -45% defense against Dark for 4 turns.",
+            "* The caster regenerates 1100 boosted health over 4 turns. Boosted health can exceed max HP.",
+            "40 or more Humility:",
             "* Deals 470% damage to 6 random enemies.",
             "* All hit targets get -54% defense against Dark for 4 turns.",
             "* Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.",
-            "* The caster regenerates 1300 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "Otherwise:",
-            "* Deals 440% damage to 5 random enemies.",
-            "* All hit targets get -45% defense against Dark for 4 turns.",
-            "* The caster regenerates 1100 boosted health over 4 turns. Boosted health can exceed max HP."
+            "* The caster regenerates 1300 boosted health over 4 turns. Boosted health can exceed max HP."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -86228,15 +86228,15 @@ window.allHeroes =
         "defense": 1318,
         "health": 2362,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "Deals 630% damage to the target.",
+            "For the next 3 turns, this character deals 530% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
+            "The caster recovers 900 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1300 health instead.",
+            "40 or more Humility:",
             "Deals 780% damage to the target.",
             "If the target is defeated by the attack, the caster gains +55% mana. (After a character receives 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have a reduced power on that character.)",
             "For the next 3 turns, this character deals 630% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "The caster recovers 1100 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1500 health instead.",
-            "Otherwise:",
-            "Deals 630% damage to the target.",
-            "For the next 3 turns, this character deals 530% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "The caster recovers 900 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1300 health instead."
+            "The caster recovers 1100 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1500 health instead."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -94544,11 +94544,11 @@ window.allHeroes =
         "defense": 775,
         "health": 1374,
         "effects": [
-            "If the caster has 40 or more Humility:",
+            "Less than 40 Humility:",
+            "* Deals 260% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "40 or more Humility:",
             "* Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
-            "* Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
-            "Otherwise:",
-            "* Deals 260% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled."
+            "* Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)"
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -99121,15 +99121,15 @@ window.allHeroes =
         "defense": 1351,
         "health": 2350,
         "effects": [
-            "If the caster has 60 or more Humility:",
+            "Less than 60 Humility:",
+            "Boosts health of the caster and nearby allies by 1200. Boosted health can exceed max HP.",
+            "Stack (Max: 10): All damage the caster and nearby allies receive is reduced by -5%.",
+            "For the next 4 turns, this character recovers 650 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
+            "60 or more Humility:",
             "Boosts health of the caster and nearby allies by 1550. Boosted health can exceed max HP.",
             "Stack +2(Max: 10): All damage the caster and nearby allies receive is reduced by -8%.",
             "For the next 4 turns, this character recovers 850 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
-            "The caster and nearby allies get +35% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Otherwise:",
-            "Boosts health of the caster and nearby allies by 1200. Boosted health can exceed max HP.",
-            "Stack (Max: 10): All damage the caster and nearby allies receive is reduced by -5%.",
-            "For the next 4 turns, this character recovers 650 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+            "The caster and nearby allies get +35% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
