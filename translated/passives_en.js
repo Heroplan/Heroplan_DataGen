@@ -2788,6 +2788,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "forest_female_druid",
         "name": "Brienne",
         "passives": []
@@ -3370,6 +3377,13 @@ const allTranslations =
         "name": "Little John Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -8899,6 +8913,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "guardian_falcon_priest",
         "name": "Guardian Falcon",
         "passives": []
@@ -10332,6 +10353,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "s5_khafre",
         "name": "Khufu",
         "passives": [
@@ -11318,6 +11346,13 @@ const allTranslations =
         "name": "Bane Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -13867,31 +13902,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "tribal_chief_costume_stylish",
-        "name": "Khagan Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "orc_troopmaster_costume_stylish",
-        "name": "Gormek Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "forest_woodsman_warrior_costume_stylish",
-        "name": "Little John Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_brawler_costume_stylish",
-        "name": "Bane Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "forest_archer_costume_stylish",
-        "name": "Berden Stylish",
-        "passives": []
     },
     {
         "heroId": "construct_elx",

@@ -2788,6 +2788,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "forest_female_druid",
         "name": "Brienne",
         "passives": []
@@ -3370,6 +3377,13 @@ const translatedPassivesTC =
         "name": "Little John Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -8899,6 +8913,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "guardian_falcon_priest",
         "name": "Guardian Falcon",
         "passives": []
@@ -10332,6 +10353,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "s5_khafre",
         "name": "Khufu",
         "passives": [
@@ -11318,6 +11346,13 @@ const translatedPassivesTC =
         "name": "Bane Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -13867,31 +13902,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "tribal_chief_costume_stylish",
-        "name": "Khagan Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "orc_troopmaster_costume_stylish",
-        "name": "Gormek Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "forest_woodsman_warrior_costume_stylish",
-        "name": "Little John Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_brawler_costume_stylish",
-        "name": "Bane Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "forest_archer_costume_stylish",
-        "name": "Berden Stylish",
-        "passives": []
     },
     {
         "heroId": "construct_elx",

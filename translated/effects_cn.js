@@ -3596,6 +3596,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "effects": [
+            "对目标造成 350% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 420% 伤害。",
+            "目标获得 -32% 攻击力，持续 6 回合。"
+        ]
+    },
+    {
         "heroId": "forest_female_druid",
         "name": "Brienne",
         "effects": [
@@ -4418,6 +4427,15 @@ const translatedEffectsCN =
             "对所有敌人造成 225% 伤害。",
             "攻击会无视防御增益。（包括反击）",
             "所有敌人获得 -59% 法力生成，持续 3 回合。"
+        ]
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "effects": [
+            "对所有敌人造成 235% 伤害。",
+            "对剩余生命值少于 50% 的敌人造成 280% 伤害。",
+            "所有敌人获得 -62% 法力生成，持续 3 回合。"
         ]
     },
     {
@@ -11540,6 +11558,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "effects": [
+            "对目标造成 345% 伤害，并对附近敌人造成轻微伤害。",
+            "对剩余生命值少于 50% 的敌人造成额外伤害。",
+            "目标与附近敌人获得 -32% 防御，持续 6 回合。"
+        ]
+    },
+    {
         "heroId": "guardian_falcon_priest",
         "name": "Guardian Falcon",
         "effects": [
@@ -13346,6 +13373,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "effects": [
+            "对目标及附近敌人造成 550% 伤害。",
+            "对剩余生命值少于 50% 的敌人造成 660% 伤害。",
+            "施法者和附近盟友获得 +24% 法力生成，持续 5 回合。",
+            "施法者和附近盟友获得 +63% 防御，持续 5 回合。"
+        ]
+    },
+    {
         "heroId": "s5_khafre",
         "name": "Khufu",
         "effects": [
@@ -13868,7 +13905,7 @@ const translatedEffectsCN =
         "heroId": "wild_cat_rajesh",
         "name": "Rajesh",
         "effects": [
-            "净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加 10%。",
+            "安全净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加 10%。",
             "所有盟友攻击时无视防御增益，持续 4 回合。（包括反击）如果成功无视了防御增益，发动攻击的盟友的法力增加 15%。",
             "所有盟友可抵御新的负面法力效果，持续 4 回合，每抵御一个效果法力增加 20%。",
             "叠加（最多： 10 层 ）：所有盟友获得 +35% 攻击力。"
@@ -14635,6 +14672,15 @@ const translatedEffectsCN =
             "对目标造成 315% 伤害。",
             "攻击会无视防御增益。（包括反击）",
             "目标获得 -32% 精准度，持续 4 回合。"
+        ]
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "effects": [
+            "对目标造成 325% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 390% 伤害。",
+            "目标获得 -34% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ]
     },
     {
@@ -17883,31 +17929,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "tribal_chief_costume_stylish",
-        "name": "Khagan Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "orc_troopmaster_costume_stylish",
-        "name": "Gormek Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "forest_woodsman_warrior_costume_stylish",
-        "name": "Little John Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_brawler_costume_stylish",
-        "name": "Bane Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "forest_archer_costume_stylish",
-        "name": "Berden Stylish",
-        "effects": []
     },
     {
         "heroId": "construct_elx",

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (584 / 0)
+✅ 成功匹配的服装 (588 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -63,6 +63,7 @@ Name: Triton Costume1, Fancy Name: Champion of Atlantis
 Name: Ray Costume1, Fancy Name: Champion of the Bramble
 Name: Quenell Costume1, Fancy Name: Champion of the Wolves
 Name: Khagan Costume2, Fancy Name: Chief of Leopards
+Name: Khagan stylish, Fancy Name: Chief of Style
 Name: Khagan Toon, Fancy Name: Chief of Toons
 Name: Khagan Glass, Fancy Name: Chief of Vitrails
 Name: Valen Costume1, Fancy Name: Clean-Cut Climber
@@ -419,6 +420,9 @@ Name: Magni stylish, Fancy Name: Stylish Ancient of Ice
 Name: Lianna stylish, Fancy Name: Stylish Archer
 Name: Obakan stylish, Fancy Name: Stylish Bodyguard
 Name: Colen stylish, Fancy Name: Stylish Bounty Hunter
+Name: Bane stylish, Fancy Name: Stylish Brawler
+Name: Little John stylish, Fancy Name: Stylish Brother
+Name: Gormek stylish, Fancy Name: Stylish Connoisseur
 Name: Cyprian stylish, Fancy Name: Stylish Deathbound Lord
 Name: Brienne stylish, Fancy Name: Stylish Druid
 Name: Caedmon stylish, Fancy Name: Stylish Elf

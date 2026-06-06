@@ -3596,6 +3596,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "forest_archer_costume_stylish",
+        "name": "Berden Stylish",
+        "effects": [
+            "Deals 350% damage to the target.",
+            "If the target has less than 50% health remaining, deals 420% damage instead.",
+            "The target gets -32% attack for 6 turns."
+        ]
+    },
+    {
         "heroId": "forest_female_druid",
         "name": "Brienne",
         "effects": [
@@ -4418,6 +4427,15 @@ const allTranslations =
             "Deals 225% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "All enemies get -59% mana generation for 3 turns."
+        ]
+    },
+    {
+        "heroId": "forest_woodsman_warrior_costume_stylish",
+        "name": "Little John Stylish",
+        "effects": [
+            "Deals 235% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 280% damage instead.",
+            "All enemies get -62% mana generation for 3 turns."
         ]
     },
     {
@@ -11540,6 +11558,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "orc_troopmaster_costume_stylish",
+        "name": "Gormek Stylish",
+        "effects": [
+            "Deals 345% damage to the target and minor damage to nearby enemies.",
+            "Deals extra damage to enemies with less than 50% health remaining.",
+            "The target and nearby enemies get -32% defense for 6 turns."
+        ]
+    },
+    {
         "heroId": "guardian_falcon_priest",
         "name": "Guardian Falcon",
         "effects": [
@@ -12694,7 +12721,7 @@ const allTranslations =
         "name": "Dunnar Hart",
         "effects": [
             "Deals 500% damage to all enemies.",
-            "All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions and Mega Minion.",
+            "All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "The caster regenerate 1480 boosted health over 4 turns. Boosted health can exceed max HP.",
             "The caster gets +50% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ]
@@ -13346,6 +13373,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tribal_chief_costume_stylish",
+        "name": "Khagan Stylish",
+        "effects": [
+            "Deals 550% damage to the target and nearby enemies.",
+            "If the enemies have less than 50% health remaining, deals 660% damage instead.",
+            "The caster and nearby allies get +24% mana generation for 5 turns.",
+            "The caster and nearby allies get +63% defense for 5 turns."
+        ]
+    },
+    {
         "heroId": "s5_khafre",
         "name": "Khufu",
         "effects": [
@@ -13868,9 +13905,9 @@ const allTranslations =
         "heroId": "wild_cat_rajesh",
         "name": "Rajesh",
         "effects": [
-            "Cleanses all status ailments from all allies, and increases all allies' mana by 10% for each cleansed ailment.",
+            "Safely cleanses all status ailments from all allies, and increases all allies' mana by 10% for each cleansed ailment.",
             "All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally's mana is increased by 15%. (Defensive buffs include counterattacks.)",
-            "All allies resist new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
+            "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
             "Stack (Max: 10): All allies get +35% attack."
         ]
     },
@@ -14635,6 +14672,15 @@ const allTranslations =
             "Deals 315% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "The target gets -32% accuracy for 4 turns."
+        ]
+    },
+    {
+        "heroId": "oriental_brawler_costume_stylish",
+        "name": "Bane Stylish",
+        "effects": [
+            "Deals 325% damage to the target.",
+            "If the target has less than 50% health remaining, deals 390% damage instead.",
+            "The target gets -34% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -17883,31 +17929,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "tribal_chief_costume_stylish",
-        "name": "Khagan Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "orc_troopmaster_costume_stylish",
-        "name": "Gormek Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "forest_woodsman_warrior_costume_stylish",
-        "name": "Little John Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_brawler_costume_stylish",
-        "name": "Bane Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "forest_archer_costume_stylish",
-        "name": "Berden Stylish",
-        "effects": []
     },
     {
         "heroId": "construct_elx",
