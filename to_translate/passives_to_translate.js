@@ -409,9 +409,8 @@ const allTranslations =
         "name": "Bonechill",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Destructive Core: The Construct Core of this character is Destructive Core.",
-            "The Destructive Core activates each time this character's Special Skill is cast",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -1424,9 +1423,8 @@ const allTranslations =
         "name": "Ghealach",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Destructive Core: The Construct Core of this character is Destructive Core.",
-            "The Destructive Core activates each time this character's Special Skill is cast",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -2020,8 +2018,8 @@ const allTranslations =
         "name": "Nautica",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -2339,8 +2337,9 @@ const allTranslations =
         "name": "Skarn",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+            "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -4210,8 +4209,8 @@ const allTranslations =
         "heroId": "construct_ferrus",
         "name": "Ferrus",
         "passives": [
-            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
@@ -4294,8 +4293,8 @@ const allTranslations =
         "name": "Frond",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -4468,10 +4467,10 @@ const allTranslations =
         "heroId": "construct_haulstone",
         "name": "Haulstone",
         "passives": [
-            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -5094,9 +5093,8 @@ const allTranslations =
         "name": "Rhineglow",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Destructive Core: The Construct Core of this character is Destructive Core.",
-            "The Destructive Core activates each time this character's Special Skill is cast",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -6515,10 +6513,10 @@ const allTranslations =
         "name": "Arzen",
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
             "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
-            "* The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
         ]
@@ -6638,8 +6636,8 @@ const allTranslations =
         "name": "Carta",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -7910,8 +7908,8 @@ const allTranslations =
         "name": "Scath",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -7978,8 +7976,8 @@ const allTranslations =
         "name": "Shacklebolt",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -8083,7 +8081,7 @@ const allTranslations =
         "name": "Tenebrae",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
+            "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
@@ -8929,9 +8927,8 @@ const allTranslations =
         "name": "Hotspin",
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core.",
-            "The Minion Core activates each time this character's Special Skill is cast:",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -9574,8 +9571,8 @@ const allTranslations =
         "name": "Blossom",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -9591,11 +9588,10 @@ const allTranslations =
         "heroId": "construct_brimstone",
         "name": "Brimstone",
         "passives": [
-            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
-            "Destructive Core: The Construct Core of this character is Destructive Core.",
-            "The Destructive Core activates each time this character's Special Skill is cast",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -9932,6 +9928,19 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_elx",
+        "name": "Elx",
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
+            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+        ]
+    },
+    {
         "heroId": "fleur_elyzabel",
         "name": "Elyzabel de Tuillieres",
         "passives": [
@@ -10210,10 +10219,9 @@ const allTranslations =
         "name": "Hornfel",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Destructive Core: The Construct Core of this character is Destructive Core.",
-            "The Destructive Core activates each time this character's Special Skill is cast",
-            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
+            "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -10925,7 +10933,7 @@ const allTranslations =
         "name": "Scoria",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
+            "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 146 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
@@ -11485,9 +11493,8 @@ const allTranslations =
         "name": "Ironvein",
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core.",
-            "The Minion Core activates each time this character's Special Skill is cast:",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -11646,10 +11653,9 @@ const allTranslations =
         "heroId": "construct_rustbeak",
         "name": "Rustbeak",
         "passives": [
-            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
-            "Repair Core: The Construct Core of this character is Repair Core.",
-            "The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -12662,7 +12668,7 @@ const allTranslations =
         "name": "Gwynn",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
+            "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 151 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
@@ -13464,9 +13470,9 @@ const allTranslations =
         "name": "Shaal",
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
+            "Repair Core: The Construct Core of this character is a Repair Core. The Repair Core activates each time this character's Special Skill is cast",
+            "* With a fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -13558,9 +13564,9 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
         ]
@@ -13902,11 +13908,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "construct_elx",
-        "name": "Elx",
-        "passives": []
     },
     {
         "heroId": "ghost_shu_jing",

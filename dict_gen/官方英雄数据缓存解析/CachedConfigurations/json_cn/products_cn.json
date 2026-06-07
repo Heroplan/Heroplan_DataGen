@@ -32082,7 +32082,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.golden_week_day6",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33245,6 +33244,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33263,6 +33263,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33281,6 +33282,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33304,6 +33306,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58452,5 +58455,5 @@
       }
     ]
   },
-  "productsConfigId": 1865604787
+  "productsConfigId": 1399518360
 }

@@ -48051,5 +48051,25 @@ window.allHeroesExtra = [
         "healthBonus": "30%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Elx",
+        "fancy name": "Mage's Vessel Construct",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-06-07",
+        "AetherPower": "Special Boost",
+        "heroId": "construct_elx",
+        "baseAttack": 663,
+        "baseDefense": 682,
+        "baseHealth": 1160,
+        "specialId": "grimoire_fatalis",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

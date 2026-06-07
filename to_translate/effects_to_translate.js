@@ -3686,7 +3686,7 @@ const allTranslations =
         "effects": [
             "Deals 165% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Reduces the mana of all enemies by -15%."
+            "Reduces the mana of all enemies by 15%."
         ]
     },
     {
@@ -7522,7 +7522,7 @@ const allTranslations =
         "effects": [
             "Deals 161% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies receive 148 Poison damage over 4 turns."
+            "All enemies receive 152 Poison damage over 4 turns."
         ]
     },
     {
@@ -12826,6 +12826,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_elx",
+        "name": "Elx",
+        "effects": [
+            "Deals 180% damage to 6 random enemies.",
+            "All enemies get -45% defense against Fire for 3 turns.",
+            "For 3 turns, the element of all enemies is change each turn. On the first 2 turns, the element is random.",
+            "On the last turn, enemies revert to their original element.",
+            "After each element change, enemies take 846 damage if their element is Nature."
+        ]
+    },
+    {
         "heroId": "fleur_elyzabel",
         "name": "Elyzabel de Tuillieres",
         "effects": [
@@ -17929,11 +17940,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "construct_elx",
-        "name": "Elx",
-        "effects": []
     },
     {
         "heroId": "ghost_shu_jing",

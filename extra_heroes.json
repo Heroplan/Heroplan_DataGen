@@ -1,17 +1,5 @@
 [
     {
-        "name": "Elx",
-        "fancy_name": "Mage's Vessel Construct",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-07 07:00:00",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_elx",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Shu Jing",
         "fancy_name": "Scholarly Ghost Officer",
         "color": "Purple",
