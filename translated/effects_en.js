@@ -17942,6 +17942,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "vegetable_pepo",
+        "name": "Pepo",
+        "effects": []
+    },
+    {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "effects": []
+    },
+    {
         "heroId": "ghost_shu_jing",
         "name": "Shu Jing",
         "effects": []
@@ -17954,6 +17964,21 @@ const allTranslations =
     {
         "heroId": "dryad_cloveria",
         "name": "Cloveria",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_zaria_costume_enchanter",
+        "name": "Zaria C",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
         "effects": []
     }
 ];

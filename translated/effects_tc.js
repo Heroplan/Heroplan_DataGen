@@ -10151,7 +10151,7 @@ const translatedEffectsTC =
             "對所有神聖系敵人造成 250% 傷害。",
             "在 3 回合內，所有敵人的元素每回合都會改變。前 2 回合，元素是隨機的。",
             "最後一回合，敵人會恢復其原始元素。",
-            "每次元素改變後，如果敵人元素是神聖系，則受到 528 點傷害。"
+            "每次變更元素後，如果敵人元素是神聖系，則受到 528 點傷害。"
         ]
     },
     {
@@ -10161,7 +10161,7 @@ const translatedEffectsTC =
             "對所有神聖系敵人造成 350% 傷害。",
             "在 4 回合內，所有敵人的元素每回合都會改變。前 3 回合，元素是隨機的。",
             "最後一回合，敵人會恢復其原始元素。",
-            "每次元素改變後，如果敵人元素是神聖系，則受到 811 點傷害。"
+            "每次變更元素後，如果敵人元素是神聖系，則受到 811 點傷害。"
         ]
     },
     {
@@ -17942,6 +17942,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "vegetable_pepo",
+        "name": "Pepo",
+        "effects": []
+    },
+    {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "effects": []
+    },
+    {
         "heroId": "ghost_shu_jing",
         "name": "Shu Jing",
         "effects": []
@@ -17954,6 +17964,21 @@ const translatedEffectsTC =
     {
         "heroId": "dryad_cloveria",
         "name": "Cloveria",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_zaria_costume_enchanter",
+        "name": "Zaria C",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
         "effects": []
     }
 ];

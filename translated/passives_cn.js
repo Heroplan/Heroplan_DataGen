@@ -13910,6 +13910,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "vegetable_pepo",
+        "name": "Pepo",
+        "passives": []
+    },
+    {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "passives": []
+    },
+    {
         "heroId": "ghost_shu_jing",
         "name": "Shu Jing",
         "passives": []
@@ -13922,6 +13932,21 @@ const translatedPassivesCN =
     {
         "heroId": "dryad_cloveria",
         "name": "Cloveria",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_zaria_costume_enchanter",
+        "name": "Zaria C",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
         "passives": []
     }
 ];
