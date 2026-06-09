@@ -17158,6 +17158,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "vegetable_pepo",
+        "name": "Pepo",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "If the target has Fiends or Mega Fiends, deals 300% damage to 2 random different enemies.",
+            "Summons a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns. Seedling Fiend: 50% attack, 20% health, Sprout Fiend: 75% attack, 30% health, Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health. The evolution of the Fiends is delayed by 1 turn each time they absorb healing.)",
+            "All allies get +55% defense for 4 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skills."
+        ]
+    },
+    {
         "heroId": "tales1_persa",
         "name": "Persa",
         "effects": [
@@ -17941,11 +17951,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "vegetable_pepo",
-        "name": "Pepo",
-        "effects": []
     },
     {
         "heroId": "institute_axioma",

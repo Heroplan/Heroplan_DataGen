@@ -48157,5 +48157,25 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Pepo",
+        "fancy name": "Survivalist Pumpkin",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-06-09",
+        "AetherPower": "Bulwark",
+        "heroId": "vegetable_pepo",
+        "baseAttack": 662,
+        "baseDefense": 685,
+        "baseHealth": 1163,
+        "specialId": "survival_of_the_plumpest",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

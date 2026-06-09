@@ -1,17 +1,5 @@
 [
     {
-        "name": "Pepo",
-        "fancy_name": "Survivalist Pumpkin",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-09 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_pepo",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Axioma",
         "fancy_name": "Scholar of Unseen Forces",
         "color": "Yellow",
