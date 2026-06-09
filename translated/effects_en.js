@@ -3107,7 +3107,7 @@ const allTranslations =
         "effects": [
             "Cleanses status ailments from the caster and nearby allies.",
             "The caster and nearby allies reflect status ailments and negative stacks for 3 turns. Status effects casts by characters, Minions and fiends on the same side cannot be reflected.",
-            "The caster and nearby allies regenerate 855 HP over 3 turns.",
+            "The caster and nearby allies regenerate 960 HP over 3 turns.",
             "Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -8667,8 +8667,8 @@ const allTranslations =
         "heroId": "dark_god_clarissa",
         "name": "Clarissa",
         "effects": [
-            "Deals 175% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 344 Poison damage over 2 turns.",
+            "Deals 185% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 460 Poison damage over 2 turns.",
             "Deals extra damage against Holy.",
             "Element Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ]
@@ -9733,6 +9733,7 @@ const allTranslations =
             "x1 Mana Charge:",
             "Deals 320% damage to the target.",
             "Deals additional 320% damage to 1 random enemies.",
+            "Stack (Max: 10): Each hit gives its target -5% defense.",
             "Dispel 1 buffs from each hit enemy.",
             "x2 Mana Charge:",
             "Deals 330% damage to the target.",
@@ -12831,7 +12832,7 @@ const allTranslations =
         "effects": [
             "Deals 180% damage to 6 random enemies.",
             "All enemies get -45% defense against Fire for 3 turns.",
-            "For 3 turns, the element of all enemies is change each turn. On the first 2 turns, the element is random.",
+            "For 3 turns, the element of all enemies is changed each turn. On the first 2 turns, the element is random.",
             "On the last turn, enemies revert to their original element.",
             "After each element change, enemies take 846 damage if their element is Nature."
         ]
@@ -14479,8 +14480,8 @@ const allTranslations =
         "heroId": "fire_god_yang_mai",
         "name": "Yang Mai",
         "effects": [
-            "Deals 370% damage to the target.",
-            "Has a 60% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
+            "Deals 400% damage to the target.",
+            "Has a 65% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
             "The caster gains the following status effect each hit:",
             "Stack (Max: 10): The caster gets +6% attack.",
             "Element Link gives all Fire allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
@@ -17947,8 +17948,8 @@ const allTranslations =
         "effects": []
     },
     {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
+        "heroId": "institute_axioma",
+        "name": "Axioma",
         "effects": []
     },
     {

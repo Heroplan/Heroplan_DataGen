@@ -3039,7 +3039,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4250,
+          "powerMultiplierPerMil": 5400,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -3048,8 +3048,8 @@
           {
             "id": "lifesteal",
             "sideAffected": "Allies",
-            "statusTargetType": "Single",
-            "turns": 2
+            "statusTargetType": "All",
+            "turns": 5
           },
           {
             "id": "link_yellow_more",
@@ -7544,7 +7544,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1400,
+          "powerMultiplierPerMil": 1500,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -46810,13 +46810,13 @@
             "id": "enrage_irme",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
-            "turns": 6
+            "turns": 4
           },
           {
             "id": "berserk_irme",
             "sideAffected": "Allies",
             "statusTargetType": "All",
-            "turns": 6
+            "turns": 4
           }
         ]
       },
@@ -47110,12 +47110,6 @@
           "effect_on_kill_ulfhild"
         ],
         "statusEffects": [
-          {
-            "id": "accuracy_debuff_ulfhild",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All",
-            "turns": 6
-          },
           {
             "id": "blue_elemental_healing",
             "sideAffected": "Allies",
@@ -57117,7 +57111,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3500,
+          "powerMultiplierPerMil": 3650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -59376,10 +59370,10 @@
         "propertyType": "ChainStrikeWithEffectPerHit",
         "id": "chain_strike_single_target_with_attack_stack",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3350,
+        "powerMultiplierPerMil": 3650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 4,
-        "extraHitChancePerMil": 600,
+        "extraHitChancePerMil": 650,
         "minorDamageOnExtraHits": true,
         "statusEffectsPerHit": [
           {
@@ -68365,7 +68359,7 @@
           }
         ],
         "powerForTargetsThatMeetConditionPerMil": 3650,
-        "powerForOtherTargetsPerMil": 2650,
+        "powerForOtherTargetsPerMil": 2950,
         "powerIncrementPerLevelPerMil": 50,
         "directionOfCondition": "Highest",
         "statForCondition": "CurrentHp",
@@ -70048,7 +70042,7 @@
         "propertyType": "ChainStrikeWithTileCountBasedStrikeCount",
         "id": "chain_strike_with_tile_count_based_strikes_purple_farrah",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 4550,
+        "powerMultiplierPerMil": 4750,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 12,
         "extraHitChancePerMil": 1000,
@@ -70712,6 +70706,12 @@
         "powerMultiplierIncrementPerLevelPerMil": 100,
         "maxExtraHits": 3,
         "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "accuracy_debuff_ulfhild",
+            "turns": 6
+          }
+        ],
         "allowMainTargetInRandomTargets": true,
         "minorDamageOnExtraHits": false
       },
@@ -71903,6 +71903,11 @@
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 1,
         "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "stacking_defense_miran_2"
+          }
+        ],
         "applyDispelOnHit": true,
         "dispelCountPerTarget": 1,
         "buffCategoryToDispel": "MinorBuff",
@@ -72473,11 +72478,11 @@
         "propertyType": "TargetFamiliarBasedChainStrikeWithFamiliarSummon",
         "id": "chain_strike_pepo",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 5450,
+        "powerMultiplierPerMil": 5650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
-        "additionalHitDamagePerMil": 4050,
+        "additionalHitDamagePerMil": 2650,
         "additionalHitDamageIncrementPerLevelPerMil": 50,
         "requiredFamiliarTypes": [
           "Parasite",
@@ -72672,5 +72677,5 @@
       }
     ]
   },
-  "specialsConfigId": 3477990767
+  "specialsConfigId": 3158380860
 }

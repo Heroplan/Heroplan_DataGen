@@ -53,6 +53,7 @@ const translatedPassivesTC =
         "heroId": "tales2_bryggvir",
         "name": "Bryggvir",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 153 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -468,6 +469,7 @@ const translatedPassivesTC =
         "heroId": "tales2_dain",
         "name": "Dain",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 193 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -658,7 +660,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_sapphire",
         "name": "Sapphire",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "royal_female_knight",
@@ -827,6 +831,7 @@ const translatedPassivesTC =
         "heroId": "tales2_andvari",
         "name": "Andvari",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 309 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -837,6 +842,7 @@ const translatedPassivesTC =
         "heroId": "tales2_andvari_costume_c1",
         "name": "Andvari C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 377 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -970,7 +976,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_azurite",
         "name": "Azurite",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "ice_god_balur",
@@ -1214,12 +1222,15 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_cobalt",
         "name": "Cobalt",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "ninja_cobalt_costume_tempest",
         "name": "Cobalt C1",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "撕裂之觸：每當此角色反擊敵人時，攻擊者在 4 回合內受到 596 點流血傷害。"
         ]
     },
@@ -1557,6 +1568,7 @@ const translatedPassivesTC =
         "heroId": "tales2_hogne",
         "name": "Hogne",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 315 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -1697,6 +1709,7 @@ const translatedPassivesTC =
         "heroId": "ronin_kitou_sayomi",
         "name": "Kitou Sayomi",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 450% 點傷害。",
@@ -2069,7 +2082,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_oniwakamaru",
         "name": "Oniwakamaru",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "astral_dwarf_orcur",
@@ -2420,6 +2435,7 @@ const translatedPassivesTC =
         "heroId": "tales2_svafa",
         "name": "Svafa",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 346 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -2687,7 +2703,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_zircon",
         "name": "Zircon",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "forest_female_warrior",
@@ -3560,6 +3578,7 @@ const translatedPassivesTC =
         "heroId": "tales2_snorri",
         "name": "Snorri",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 209 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -3948,6 +3967,7 @@ const translatedPassivesTC =
         "heroId": "tales2_dagr",
         "name": "Dagr",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 330 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -3958,6 +3978,7 @@ const translatedPassivesTC =
         "heroId": "tales2_dagr_costume_plague_shaman",
         "name": "Dagr C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 415 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -4042,7 +4063,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_ekanite",
         "name": "Ekanite",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "s5_el_naddaha",
@@ -4191,6 +4214,7 @@ const translatedPassivesTC =
         "heroId": "tales2_fafnir",
         "name": "Fafnir",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 337 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -4570,7 +4594,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_jade",
         "name": "Jade",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "forest_female_elf",
@@ -4605,6 +4631,7 @@ const translatedPassivesTC =
         "heroId": "ronin_kageyama_nagato",
         "name": "Kageyama Nagato",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 450% 點傷害。",
@@ -4939,7 +4966,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_myoinni",
         "name": "Myoin-ni",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "nature_god_mystia",
@@ -4962,6 +4991,7 @@ const translatedPassivesTC =
         "heroId": "tales2_ott",
         "name": "Ott",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 305 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -4972,6 +5002,7 @@ const translatedPassivesTC =
         "heroId": "tales2_ott_costume_herbalist",
         "name": "Ott C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 371 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -4995,7 +5026,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_peridot",
         "name": "Peridot",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "s4_phileas_fogg",
@@ -5272,7 +5305,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_tametomo",
         "name": "Tametomo",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "s2_junglehunter",
@@ -5790,7 +5825,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_morganite",
         "name": "Morganite",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "s4_morris",
@@ -5969,7 +6006,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "halloween_ana_belle",
@@ -6324,6 +6363,7 @@ const translatedPassivesTC =
         "heroId": "ronin_tokage_daigo",
         "name": "Tokage Daigo",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 400% 點傷害。",
@@ -6455,7 +6495,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_amethyst",
         "name": "Amethyst",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "dark_god_anoushka",
@@ -6839,6 +6881,7 @@ const translatedPassivesTC =
         "heroId": "tales2_dularfulr",
         "name": "Dularfulr",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 308 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -6849,6 +6892,7 @@ const translatedPassivesTC =
         "heroId": "tales2_dularfulr_costume_engineer",
         "name": "Dularfulr C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 384 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -7123,6 +7167,7 @@ const translatedPassivesTC =
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 312 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -7133,6 +7178,7 @@ const translatedPassivesTC =
         "heroId": "tales2_hreidmarr_costume_trader",
         "name": "Hreidmarr C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 388 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -7210,7 +7256,7 @@ const translatedPassivesTC =
         "name": "Ivete",
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
-            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 10% 生命值。此效果每回合僅能啟動一次。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
             "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
         ]
     },
@@ -7565,6 +7611,7 @@ const translatedPassivesTC =
         "heroId": "ronin_mikanagi_miran",
         "name": "Mikanagi Miran",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 450% 點傷害。",
@@ -7702,7 +7749,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_onyx",
         "name": "Onyx",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "astral_demon_paimon",
@@ -7763,7 +7812,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_quartz",
         "name": "Quartz",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "cultist_inventor",
@@ -8119,6 +8170,7 @@ const translatedPassivesTC =
         "heroId": "tales2_thrivaldi",
         "name": "Thrivaldi",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 331 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -8560,6 +8612,7 @@ const translatedPassivesTC =
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 147 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -8570,6 +8623,7 @@ const translatedPassivesTC =
         "heroId": "tales2_helgi_costume_combatant",
         "name": "Helgi C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 170 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -8765,6 +8819,7 @@ const translatedPassivesTC =
         "heroId": "ronin_yamada_jingasa",
         "name": "Yamada Jingasa",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 400% 點傷害。",
@@ -9145,7 +9200,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_shale",
         "name": "Shale",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "shark_sharby",
@@ -9277,6 +9334,7 @@ const translatedPassivesTC =
         "heroId": "tales2_aethslegaur",
         "name": "Aethslegaur",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 312 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -9375,6 +9433,7 @@ const translatedPassivesTC =
         "heroId": "ronin_asakura_masao",
         "name": "Asakura Masao",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 450% 點傷害。",
@@ -10023,6 +10082,7 @@ const translatedPassivesTC =
         "heroId": "tales2_fimafeng",
         "name": "Fimafeng",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 338 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -10050,7 +10110,7 @@ const translatedPassivesTC =
         "name": "Flip C1",
         "passives": [
             "特殊技能下的持續傷害：此角色施放特殊技能時，所有敵人在 2 回合內受到 272 水系傷害。",
-            "抵禦水系傷害：此角色對水系傷害具有天生抗性。"
+            "賦能抵禦水：此角色造成水系傷害的状態異常免疫，每次抵抗都會獲得 450 點生命值提升和 5% 法力。"
         ]
     },
     {
@@ -10090,12 +10150,15 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_garnet",
         "name": "Garnet",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "ninja_garnet_costume_flame",
         "name": "Garnet C1",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "撕裂之觸：每當此角色反擊敵人時，攻擊者在 4 回合內受到 544 點流血傷害。"
         ]
     },
@@ -10685,7 +10748,7 @@ const translatedPassivesTC =
         "name": "Pendulus Clonk",
         "passives": [
             "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
-            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 10% 生命值。此效果每回合僅能啟動一次。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
             "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
         ]
     },
@@ -10784,6 +10847,7 @@ const translatedPassivesTC =
         "heroId": "tales2_regin",
         "name": "Regin",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 319 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -10794,6 +10858,7 @@ const translatedPassivesTC =
         "heroId": "tales2_regin_costume_omen",
         "name": "Regin C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 394 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -10857,7 +10922,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_ruby",
         "name": "Ruby",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "mahayoddha_rudraditya",
@@ -10970,7 +11037,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_serandite",
         "name": "Serandite",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "wild_cat_sharalen",
@@ -11559,7 +11628,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_kinsaishi",
         "name": "Kinsaishi",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "s3_kvasir",
@@ -11798,6 +11869,7 @@ const translatedPassivesTC =
         "heroId": "tales2_fjalar",
         "name": "Fjalar",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 193 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -11808,6 +11880,7 @@ const translatedPassivesTC =
         "heroId": "tales2_fjalar_costume_undead",
         "name": "Fjalar C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 238 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -12258,6 +12331,7 @@ const translatedPassivesTC =
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 343 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -12543,6 +12617,7 @@ const translatedPassivesTC =
         "heroId": "tales2_gandr",
         "name": "Gandr",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 315 燃燒傷害，並在每回合降低目標 -12% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -12553,6 +12628,7 @@ const translatedPassivesTC =
         "heroId": "tales2_gandr_costume_guardian",
         "name": "Gandr C1",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
             "熔融核心：每次此角色施放其特殊技能時，熔融核心會啟動：",
             "* 所有敵人獲得腐蝕燃燒，持續 3 回合。熔融核心完全暴增時，腐蝕燃燒會造成 387 燃燒傷害，並在每回合降低目標 -13% 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
@@ -12716,6 +12792,7 @@ const translatedPassivesTC =
         "heroId": "ronin_hiyori",
         "name": "Hiyori",
         "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
             "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
             "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
             "* 攻擊者受到 450% 點傷害。",
@@ -12955,7 +13032,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_kushanku",
         "name": "Kushanku",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "slime_labblub",
@@ -13130,7 +13209,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_mica",
         "name": "Mica",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "astral_moonbell",
@@ -13158,6 +13239,7 @@ const translatedPassivesTC =
         "heroId": "tales2_motsognir",
         "name": "Motsognir",
         "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
             "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
             "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 316 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
@@ -13600,7 +13682,9 @@ const translatedPassivesTC =
     {
         "heroId": "ninja_topaz",
         "name": "Topaz",
-        "passives": []
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
     },
     {
         "heroId": "mimic_troop_yellow",
@@ -13915,8 +13999,8 @@ const translatedPassivesTC =
         "passives": []
     },
     {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
+        "heroId": "institute_axioma",
+        "name": "Axioma",
         "passives": []
     },
     {

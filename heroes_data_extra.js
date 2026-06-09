@@ -1329,7 +1329,8 @@ window.allHeroesExtra = [
         "specialId": "iceberg_aura",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -1950,7 +1951,9 @@ window.allHeroesExtra = [
         "baseDefense": 255,
         "baseHealth": 605,
         "specialId": "from_shadows",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -2493,7 +2496,8 @@ window.allHeroesExtra = [
         "specialId": "saga_of_deliverance",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -2784,7 +2788,9 @@ window.allHeroesExtra = [
         "baseDefense": 376,
         "baseHealth": 717,
         "specialId": "light_grenades",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -3410,7 +3416,9 @@ window.allHeroesExtra = [
         "baseDefense": 333,
         "baseHealth": 697,
         "specialId": "katana_rain",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -4137,7 +4145,8 @@ window.allHeroesExtra = [
         "specialId": "glacial_fissure_cleave",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -5492,7 +5501,9 @@ window.allHeroesExtra = [
         "baseDefense": 433,
         "baseHealth": 809,
         "specialId": "standing_fortress",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -7140,7 +7151,9 @@ window.allHeroesExtra = [
         "baseDefense": 408,
         "baseHealth": 697,
         "specialId": "wall_of_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -10784,7 +10797,8 @@ window.allHeroesExtra = [
         "specialId": "blazing_venom",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -10953,7 +10967,9 @@ window.allHeroesExtra = [
         "baseDefense": 390,
         "baseHealth": 759,
         "specialId": "order_ambush",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -11336,7 +11352,8 @@ window.allHeroesExtra = [
         "specialId": "lance_of_avarice",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -12353,7 +12370,9 @@ window.allHeroesExtra = [
         "baseDefense": 398,
         "baseHealth": 702,
         "specialId": "shared_visage",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -13343,7 +13362,9 @@ window.allHeroesExtra = [
         "baseDefense": 434,
         "baseHealth": 736,
         "specialId": "resolute_spirit",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -13421,7 +13442,8 @@ window.allHeroesExtra = [
         "specialId": "saga_of_protection",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -13496,7 +13518,9 @@ window.allHeroesExtra = [
         "baseDefense": 359,
         "baseHealth": 697,
         "specialId": "suffocating_smoke",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -14140,7 +14164,9 @@ window.allHeroesExtra = [
         "baseDefense": 430,
         "baseHealth": 927,
         "specialId": "splintering_shot",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -15398,7 +15424,9 @@ window.allHeroesExtra = [
         "baseDefense": 277,
         "baseHealth": 404,
         "specialId": "cursed_fumes",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -16023,7 +16051,9 @@ window.allHeroesExtra = [
         "baseDefense": 264,
         "baseHealth": 597,
         "specialId": "blur_of_steel",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -17413,7 +17443,9 @@ window.allHeroesExtra = [
         "baseDefense": 392,
         "baseHealth": 737,
         "specialId": "assassins_in_the_night",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -18390,7 +18422,8 @@ window.allHeroesExtra = [
         "specialId": "nights_whisper",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -18936,7 +18969,8 @@ window.allHeroesExtra = [
         "specialId": "dwarven_kings_levy",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -20424,7 +20458,9 @@ window.allHeroesExtra = [
         "baseDefense": 343,
         "baseHealth": 676,
         "specialId": "crippling_claws",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -20581,7 +20617,9 @@ window.allHeroesExtra = [
         "baseDefense": 376,
         "baseHealth": 741,
         "specialId": "incite_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -21510,7 +21548,8 @@ window.allHeroesExtra = [
         "specialId": "glacial_atmosphere",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -22792,7 +22831,8 @@ window.allHeroesExtra = [
         "specialId": "dwarven_flourish",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -24564,7 +24604,9 @@ window.allHeroesExtra = [
         "baseDefense": 295,
         "baseHealth": 670,
         "specialId": "channel_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -24913,7 +24955,8 @@ window.allHeroesExtra = [
         "specialId": "mana_immolation",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -26724,7 +26767,7 @@ window.allHeroesExtra = [
         "specialId": "to_the_rescue",
         "specialId_costume": "donut_to_the_rescue",
         "passiveSkills": [
-            "resist_water",
+            "resist_water_with_health_boost_and_mana",
             "underwater_on_special_beach"
         ],
         "costumeBonusPassiveSkillIds": null,
@@ -26777,7 +26820,9 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 719,
         "specialId": "awaken_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -28829,7 +28874,8 @@ window.allHeroesExtra = [
         "specialId": "master_plan",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -29004,7 +29050,9 @@ window.allHeroesExtra = [
         "baseDefense": 355,
         "baseHealth": 700,
         "specialId": "crimson_calamity",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -29304,7 +29352,9 @@ window.allHeroesExtra = [
         "baseDefense": 383,
         "baseHealth": 697,
         "specialId": "burning_ashes",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -30926,7 +30976,9 @@ window.allHeroesExtra = [
         "baseDefense": 296,
         "baseHealth": 361,
         "specialId": "lightning_stream",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -31614,7 +31666,8 @@ window.allHeroesExtra = [
         "specialId": "poetic_justice",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -33601,7 +33654,8 @@ window.allHeroesExtra = [
         "specialId": "spearwand_gale",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "nidavellir"
     },
@@ -34734,7 +34788,9 @@ window.allHeroesExtra = [
         "baseDefense": 423,
         "baseHealth": 772,
         "specialId": "tumbling_dragon",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -35208,7 +35264,9 @@ window.allHeroesExtra = [
         "baseDefense": 399,
         "baseHealth": 670,
         "specialId": "connect_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -36477,7 +36535,9 @@ window.allHeroesExtra = [
         "baseDefense": 342,
         "baseHealth": 724,
         "specialId": "lethal_needles",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "family": "ninja"
     },
     {
@@ -37530,7 +37590,8 @@ window.allHeroesExtra = [
         "specialId": "self_preservation",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -38328,7 +38389,8 @@ window.allHeroesExtra = [
         "specialId": "bound_by_tales",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -38384,7 +38446,8 @@ window.allHeroesExtra = [
         "specialId": "stalwart_rally",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -38928,7 +38991,8 @@ window.allHeroesExtra = [
         "specialId": "goat_rush",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -38954,7 +39018,8 @@ window.allHeroesExtra = [
         "specialId": "hunters_true_shot",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -39842,7 +39907,8 @@ window.allHeroesExtra = [
         "specialId": "freezing_power_hooks",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "family": "myrkheim"
     },
@@ -40272,7 +40338,8 @@ window.allHeroesExtra = [
         "specialId_costume": "guarding_tunes",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "12%",
@@ -40308,7 +40375,8 @@ window.allHeroesExtra = [
         "specialId_costume": "cursed_plan",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "12%",
@@ -40372,7 +40440,8 @@ window.allHeroesExtra = [
         "specialId_costume": "dwarven_recharge",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "5%",
@@ -40407,7 +40476,8 @@ window.allHeroesExtra = [
         "specialId_costume": "undead_penance_poetic",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "12%",
@@ -44410,7 +44480,8 @@ window.allHeroesExtra = [
         "specialId_costume": "regal_spearhead",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "12%",
@@ -44888,7 +44959,8 @@ window.allHeroesExtra = [
         "specialId": "lethal_strikes",
         "passiveSkills": [
             "dishonorable_death_epic",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -44914,7 +44986,8 @@ window.allHeroesExtra = [
         "specialId": "iaijutsu_slashes",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -44939,7 +45012,8 @@ window.allHeroesExtra = [
         "specialId": "flying_front_kick",
         "passiveSkills": [
             "dishonorable_death_rare",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -44964,7 +45038,8 @@ window.allHeroesExtra = [
         "specialId": "two_sword_technique",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -45170,7 +45245,8 @@ window.allHeroesExtra = [
         "specialId_costume": "saga_of_restoration",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "13%",
@@ -45233,7 +45309,7 @@ window.allHeroesExtra = [
         "specialId": "always_on_time",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
@@ -45624,7 +45700,9 @@ window.allHeroesExtra = [
         "baseHealth": 698,
         "specialId": "katana_rain",
         "specialId_costume": "katana_tempest",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "costumeBonusPassiveSkillIds": [
             "bleed_on_counter_attack"
         ],
@@ -45994,7 +46072,8 @@ window.allHeroesExtra = [
         "specialId_costume": "curing_venom",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "14%",
@@ -46020,7 +46099,8 @@ window.allHeroesExtra = [
         "specialId": "shuriken_storm",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -46357,7 +46437,8 @@ window.allHeroesExtra = [
         "specialId_costume": "nights_calibration",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "14%",
@@ -46409,7 +46490,7 @@ window.allHeroesExtra = [
         "specialId": "bewitching_blast",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
@@ -47148,7 +47229,8 @@ window.allHeroesExtra = [
         "specialId": "sensu_of_immortality",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -47527,7 +47609,8 @@ window.allHeroesExtra = [
         "specialId_costume": "dwarven_traders_deal",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "13%",
@@ -47572,7 +47655,8 @@ window.allHeroesExtra = [
         "specialId": "piercing_kurozuki_katana",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "family": "ronin"
     },
@@ -47591,7 +47675,9 @@ window.allHeroesExtra = [
         "baseHealth": 721,
         "specialId": "awaken_ki",
         "specialId_costume": "restorative_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "costumeBonusPassiveSkillIds": [
             "bleed_on_counter_attack"
         ],

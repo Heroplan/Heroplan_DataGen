@@ -27737,11 +27737,11 @@
         "id": "dynamic_offer_17_celebration_fireworks",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10d",
+            "id": "com.smallgiantgames.empires.dynamic_17",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_29",
+            "id": "com.smallgiantgames.empires.dynamic_12d",
             "purchaseLimit": 2
           }
         ],
@@ -37993,6 +37993,16 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2026-06-08 10:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              }
+            ]
           }
         ]
       },
@@ -41978,6 +41988,16 @@
                 "amount": 4
               }
             ]
+          },
+          {
+            "activationTime": "2026-06-08 10:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1500,
+                "zyngaStoreExtraAmount": 200
+              }
+            ]
           }
         ]
       },
@@ -45732,6 +45752,13 @@
         "scheduledManually": true,
         "startTime": "2026-06-08 07:00:00",
         "endTime": "2026-06-13 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_17_celebration_fireworks",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-08 10:30:00",
+        "endTime": "2026-06-09 07:00:00"
       },
       {
         "id": "dynamic_offer_10_red_alucard",
@@ -63926,9 +63953,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "祖里奥斯",
-                "泽纳斯",
-                "安布罗斯教授"
+                "西奥玛",
+                "尼克塔洛斯",
+                "阿玛罗萨"
               ],
               "includedHeroes": [
                 "贝尔纳黛特",
@@ -72761,6 +72788,67 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "startTime": "2026-06-08 07:00:00",
+            "endTime": "2026-06-09 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              20
+            ],
+            "rewards": [
+              {
+                "type": "Hero",
+                "id": "泽纳斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "安布罗斯教授",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "卡西尔达",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "威尔科克斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "伊纳尼斯",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "加德瑞德",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "弗吉安特",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "奥瑞卡克",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "格罗沃特",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "佩普布勒",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -80753,5 +80841,5 @@
       }
     ]
   },
-  "shopConfigId": 1859733143
+  "shopConfigId": 1150839020
 }

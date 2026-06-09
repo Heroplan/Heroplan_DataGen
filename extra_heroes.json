@@ -12,15 +12,15 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Azureus",
-        "fancy_name": "Aetheric Strategist",
-        "color": "Blue",
+        "name": "Axioma",
+        "fancy_name": "Scholar of Unseen Forces",
+        "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2026-06-12 07:00:00",
         "star": 5,
         "family": "institute",
         "costume_id": 0,
-        "heroId": "institute_azureus",
+        "heroId": "institute_axioma",
         "Lottery_Only": 1
     },
     {

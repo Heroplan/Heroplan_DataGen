@@ -337,7 +337,8 @@ window.allHeroes =
         "specialId": "goat_rush",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_bryggvir",
         "star": 3,
@@ -350,6 +351,7 @@ window.allHeroes =
             "使施法者和附近盟友的法力增加 10%。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 153 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -3796,7 +3798,8 @@ window.allHeroes =
         "specialId": "iceberg_aura",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_dain",
         "star": 4,
@@ -3809,6 +3812,7 @@ window.allHeroes =
             "施法者和附近盟友获得 +120% 普通攻击，持续 3 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +200% 攻击力。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 193 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -5440,7 +5444,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "from_shadows",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_sapphire",
         "star": 4,
         "power": 670,
@@ -5458,7 +5464,9 @@ window.allHeroes =
             "* 对所有敌人造成 290% 伤害。",
             "* 攻击有 85% 的几率无视防御增益。（包括反击）"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 96,
@@ -6943,7 +6951,8 @@ window.allHeroes =
         "specialId": "saga_of_deliverance",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_andvari",
         "star": 5,
@@ -6958,6 +6967,7 @@ window.allHeroes =
             "所有盟友获得 +40% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions。",
@@ -7007,7 +7017,8 @@ window.allHeroes =
         "parent_specialId": "saga_of_deliverance",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_andvari_costume_c1",
@@ -7024,6 +7035,7 @@ window.allHeroes =
             "所有盟友获得一个焰暴守卫，持续 4 回合，它可使所受的特殊技能伤害降低最多 -1500 点。当攻击者为自然系元素时可额外降低 30% 的伤害。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 377 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -7999,7 +8011,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "specialId": "light_grenades",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_azurite",
         "star": 5,
         "power": 877,
@@ -8021,7 +8035,9 @@ window.allHeroes =
             "* 目标与附近敌人获得 -54% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "* 若目标和附近敌人的特殊技能在 4 回合内落空，则该敌人将对一名随机盟友造成 470 点伤害。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 137,
@@ -9868,7 +9884,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "katana_rain",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_cobalt",
         "star": 5,
         "power": 798,
@@ -9886,7 +9904,9 @@ window.allHeroes =
             "* 对所有敌人造成 390% 伤害。",
             "* 攻击会无视防御增益。（包括反击）"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 166,
@@ -9929,7 +9949,9 @@ window.allHeroes =
         "Release date": "2026-05-03",
         "specialId": "katana_tempest",
         "parent_specialId": "katana_rain",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "costumeBonusPassiveSkillIds": [
             "bleed_on_counter_attack"
         ],
@@ -9955,6 +9977,7 @@ window.allHeroes =
             "施放特殊技能后，施法者的法力值提升 50%。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "反击回敬：每次此角色反击敌人时，攻击者将在 4 个回合内承受 596 点流血伤害。"
         ],
         "family": "ninja",
@@ -12434,7 +12457,8 @@ window.allHeroes =
         "specialId": "glacial_fissure_cleave",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_hogne",
         "star": 5,
@@ -12448,6 +12472,7 @@ window.allHeroes =
             "目标与附近敌人获得的治疗减少 -70%，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 315 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -13513,7 +13538,8 @@ window.allHeroes =
         "specialId": "piercing_kurozuki_katana",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_kitou_sayomi",
         "star": 5,
@@ -13536,6 +13562,7 @@ window.allHeroes =
             "* 1 回合后，所有敌人被施加麻木，持续 3 回合。（麻木的敌人无法攻击或获得法力，并且受到的伤害增加 +50%。一旦被麻木，效果无法净化。头目、泰坦和神话泰坦不受此状态效果影响。）"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -16588,7 +16615,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "standing_fortress",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_oniwakamaru",
         "star": 5,
         "power": 866,
@@ -16610,7 +16639,9 @@ window.allHeroes =
             "- 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。此效果无法驱散。",
             "- 施法者以所受伤害的 133% 进行反击，持续 3 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 273,
@@ -19563,7 +19594,7 @@ window.allHeroes =
         "effects": [
             "净化施法者和附近盟友的状态异常。",
             "施法者和附近盟友可反弹状态异常和负面效果叠加，持续 3 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
-            "施法者和附近盟友在 3 回合内恢复 855 点生命值。",
+            "施法者和附近盟友在 3 回合内恢复 960 点生命值。",
             "元素链为所有冰雪系盟友提供 4% 的生命恢复，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -19616,7 +19647,8 @@ window.allHeroes =
         "specialId": "hunters_true_shot",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_svafa",
         "star": 5,
@@ -19630,6 +19662,7 @@ window.allHeroes =
             "目标和附近敌人获得流血标记，持续 3 回合。被标记的目标每次受到流血伤害时都将获得一层叠加（最多： 10 层 ）。每层叠加会使目标受到的所有伤害增加 5%。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 346 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -21676,7 +21709,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "wall_of_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_zircon",
         "star": 5,
         "power": 818,
@@ -21698,7 +21733,9 @@ window.allHeroes =
             "- 所有盟友获得 +54% 防御，每次被击中后额外增加 5% 防御，持续 4 回合,最高 +79% 防御。",
             "- 所有盟友对增益驱散免疫，持续 4 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 353,
@@ -29392,7 +29429,8 @@ window.allHeroes =
         "specialId": "bound_by_tales",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_snorri",
         "star": 4,
@@ -29406,6 +29444,7 @@ window.allHeroes =
             "施法者受到的所有伤害，也会对所有被 灵魂绑定 的敌人造成。（伤害由所有缚魂敌人分担。此效果不会分担来自其他共享伤害源或反击的伤害。）"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 209 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -32294,7 +32333,8 @@ window.allHeroes =
         "specialId": "blazing_venom",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_dagr",
         "star": 5,
@@ -32309,6 +32349,7 @@ window.allHeroes =
             "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50%，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 330 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -32364,7 +32405,8 @@ window.allHeroes =
         "parent_specialId": "blazing_venom",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_dagr_costume_plague_shaman",
@@ -32380,6 +32422,7 @@ window.allHeroes =
             "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +52%，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 415 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -32984,7 +33027,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "order_ambush",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_ekanite",
         "star": 5,
         "power": 866,
@@ -33006,7 +33051,9 @@ window.allHeroes =
             "- 为每位盟友召唤一个忍者小兵，其可从施法者处继承 22% 生命和 26% 攻击力。",
             "- 忍者小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 60% 作出反击。此效果无法驱散。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 545,
@@ -34051,7 +34098,8 @@ window.allHeroes =
         "specialId": "lance_of_avarice",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_fafnir",
         "star": 5,
@@ -34065,6 +34113,7 @@ window.allHeroes =
             "目标和附近敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合。（只有可驱散的增益才可反弹）"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 337 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -37195,7 +37244,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "shared_visage",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_jade",
         "star": 5,
         "power": 798,
@@ -37216,7 +37267,9 @@ window.allHeroes =
             "* 使所有敌人的法力减少 25%。",
             "* 所有盟友拥有 +75% 几率闪避可以造成伤害的特殊技能，持续 5 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 612,
@@ -37558,7 +37611,8 @@ window.allHeroes =
         "specialId": "shuriken_storm",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_kageyama_nagato",
         "star": 5,
@@ -37585,6 +37639,7 @@ window.allHeroes =
             "每支穿刺手里剑造成 330% 伤害。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -40153,7 +40208,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-04-05",
         "specialId": "resolute_spirit",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_myoinni",
         "star": 5,
         "power": 873,
@@ -40175,7 +40232,9 @@ window.allHeroes =
             "- 所有盟友获得 +33% 法力生成，持续 4 回合。",
             "- 所有盟友获得 +65% 防御，持续 4 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 660,
@@ -40341,7 +40400,8 @@ window.allHeroes =
         "specialId": "saga_of_protection",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_ott",
         "star": 5,
@@ -40355,6 +40415,7 @@ window.allHeroes =
             "所有盟友对增益驱散和转移免疫，持续 3 回合。（此免疫效果也包含此效果本身）"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 305 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -40403,7 +40464,8 @@ window.allHeroes =
         "parent_specialId": "saga_of_protection",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_ott_costume_herbalist",
@@ -40418,6 +40480,7 @@ window.allHeroes =
             "所有盟友对增益驱散和转移免疫，持续 3 回合。（此免疫效果也包含此效果本身）"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 371 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -40584,7 +40647,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "specialId": "suffocating_smoke",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_peridot",
         "star": 5,
         "power": 818,
@@ -40606,7 +40671,9 @@ window.allHeroes =
             "* 所有敌人在 4 回合内受到共计 764 点剧毒伤害。",
             "* 所有敌人获得 -54% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 667,
@@ -42659,7 +42726,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "specialId": "splintering_shot",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_tametomo",
         "star": 5,
         "power": 1006,
@@ -42684,7 +42753,9 @@ window.allHeroes =
             "- 对剩余生命值超过 50% 的敌人造成 700% 伤害。",
             "- 对附近敌人造成额外 400% 伤害。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 700,
@@ -46739,7 +46810,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "specialId": "cursed_fumes",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_morganite",
         "star": 3,
         "power": 486,
@@ -46758,7 +46831,9 @@ window.allHeroes =
             "- 所有敌人在 6 回合内受到共计 354 点剧毒伤害。",
             "- 所有敌人获得 -40% 精准度，持续 6 回合。（进攻型特殊技能也有相同几率落空）"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 769,
@@ -48361,7 +48436,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "blur_of_steel",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_ametrine",
         "star": 4,
         "power": 670,
@@ -48379,7 +48456,9 @@ window.allHeroes =
             "* 驱散所有敌人的增益。",
             "* 对所有敌人造成 300% 伤害。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 797,
@@ -51639,7 +51718,8 @@ window.allHeroes =
         "specialId": "lethal_strikes",
         "passiveSkills": [
             "dishonorable_death_epic",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_tokage_daigo",
         "star": 4,
@@ -51666,6 +51746,7 @@ window.allHeroes =
             "攻击会无视防御增益。（包括反击）"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 400% 伤害。",
@@ -52587,7 +52668,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "assassins_in_the_night",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_amethyst",
         "star": 5,
         "power": 867,
@@ -52609,7 +52692,9 @@ window.allHeroes =
             "- 召唤忍者刺客恶魔附身于所有敌人。恶魔每回合对其目标造成 84% 攻击力的伤害。",
             "- 忍者刺客恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 54% 的治疗量后便会消失。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 868,
@@ -54282,8 +54367,8 @@ window.allHeroes =
         "defense": 712,
         "health": 1367,
         "effects": [
-            "对目标及附近敌人造成 175% 伤害。",
-            "目标与附近敌人在 2 回合内受到共计 344 点剧毒伤害。",
+            "对目标及附近敌人造成 185% 伤害。",
+            "目标与附近敌人在 2 回合内受到共计 460 点剧毒伤害。",
             "对神圣系造成额外伤害。",
             "元素链为全体暗黑系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法净化。"
         ],
@@ -55573,7 +55658,8 @@ window.allHeroes =
         "specialId": "nights_whisper",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_dularfulr",
         "star": 5,
@@ -55587,6 +55673,7 @@ window.allHeroes =
             "所有盟友对新的状态异常免疫，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 308 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -55635,7 +55722,8 @@ window.allHeroes =
         "parent_specialId": "nights_whisper",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_dularfulr_costume_engineer",
@@ -55650,6 +55738,7 @@ window.allHeroes =
             "所有盟友对新的状态异常免疫，持续 4 回合，且每当有状态异常尝试施加于其上，他们都将恢复 300 点生命值。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 384 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -57552,7 +57641,8 @@ window.allHeroes =
         "specialId": "dwarven_kings_levy",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_hreidmarr",
         "star": 5,
@@ -57566,6 +57656,7 @@ window.allHeroes =
             "每回合结束时偷取全体敌人最新施加的可驱散增益并随机施放给盟友，持续 5 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions。",
@@ -57619,7 +57710,8 @@ window.allHeroes =
         "parent_specialId": "dwarven_kings_levy",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_hreidmarr_costume_trader",
@@ -57635,6 +57727,7 @@ window.allHeroes =
             "每回合结束时偷取全体敌人最新施加的可驱散增益并随机施放给盟友，持续 5 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 388 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -58145,7 +58238,7 @@ window.allHeroes =
         "specialId": "bewitching_blast",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "heroId": "beauty_beast_ivete",
@@ -58168,7 +58261,7 @@ window.allHeroes =
         ],
         "passives": [
             "复活生命值削减：除头目外的所有敌人会以 -80% 的生命值复活。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
+            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
             "内在美：每当该角色本应受到状态异常或负面叠加造成的伤害时，改为恢复相同数值的生命值。"
         ],
         "family": "beauty_beast",
@@ -61020,7 +61113,8 @@ window.allHeroes =
         "specialId": "iaijutsu_slashes",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_mikanagi_miran",
         "star": 5,
@@ -61033,6 +61127,7 @@ window.allHeroes =
             "1 倍法力充能：",
             "对目标造成 320% 伤害。",
             "对随机 1 名敌人造成额外 320% 伤害。",
+            "叠加（最多： 10 层 ）：每次命中给予目标 -5% 防御。",
             "驱散每个被击中敌人身上的 1 个增益。",
             "2 倍法力充能：",
             "对目标造成 330% 伤害。",
@@ -61046,6 +61141,7 @@ window.allHeroes =
             "安全驱散每个被击中敌人身上的 1 个增益。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -62277,7 +62373,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "crippling_claws",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_onyx",
         "star": 5,
         "power": 798,
@@ -62298,7 +62396,9 @@ window.allHeroes =
             "* 所有敌人对新的增益状态效果免疫，持续 5 回合。",
             "* 驱散所有敌人的增益。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1021,
@@ -62791,7 +62891,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "incite_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_quartz",
         "star": 5,
         "power": 818,
@@ -62813,7 +62915,9 @@ window.allHeroes =
             "- 所有盟友获得 +54% 攻击力，持续 4 回合。",
             "- 净化所有盟友的状态异常。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1029,
@@ -65680,7 +65784,8 @@ window.allHeroes =
         "specialId": "glacial_atmosphere",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_thrivaldi",
         "star": 5,
@@ -65694,6 +65799,7 @@ window.allHeroes =
             "所有盟友对来自状态异常的伤害免疫，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 331 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -69237,7 +69343,8 @@ window.allHeroes =
         "specialId": "dwarven_flourish",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_helgi",
         "star": 3,
@@ -69250,6 +69357,7 @@ window.allHeroes =
             "重置所有盟友的增益持续时间。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 147 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -69297,7 +69405,8 @@ window.allHeroes =
         "parent_specialId": "dwarven_flourish",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_helgi_costume_combatant",
@@ -69311,6 +69420,7 @@ window.allHeroes =
             "重置所有盟友的增益持续时间。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 170 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -70966,7 +71076,8 @@ window.allHeroes =
         "specialId": "flying_front_kick",
         "passiveSkills": [
             "dishonorable_death_rare",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_yamada_jingasa",
         "star": 3,
@@ -70989,6 +71100,7 @@ window.allHeroes =
             "所有命中的目标获得 -34% 攻击力，持续 5 回合。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 400% 伤害。",
@@ -74203,7 +74315,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "channel_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_shale",
         "star": 4,
         "power": 670,
@@ -74221,7 +74335,9 @@ window.allHeroes =
             "* 所有盟友在 3 回合内恢复 714 点生命值。",
             "* 净化所有盟友的状态异常。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1220,
@@ -75328,7 +75444,8 @@ window.allHeroes =
         "specialId": "mana_immolation",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_aethslegaur",
         "star": 5,
@@ -75342,6 +75459,7 @@ window.allHeroes =
             "该角色获得一层祭品标记，持续 5 回合。每当有敌人或盟友受到燃烧伤害时，施法者获得一层叠加（最多： 10 层 ）。每层叠加可使施法者的法力生成提高 +6%"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 312 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -76126,7 +76244,8 @@ window.allHeroes =
         "specialId": "two_sword_technique",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_asakura_masao",
         "star": 5,
@@ -76150,6 +76269,7 @@ window.allHeroes =
             "成长：所有盟友获得 650 点攻击力和 650 点防御。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -80438,7 +80558,7 @@ window.allHeroes =
         "effects": [
             "对随机 6 名敌人造成 180% 伤害。",
             "所有敌人获得对烈火系 -45% 的防御，持续 3 回合。",
-            "所有敌人的元素每回合都会改变，持续 3 回合。在前 2 回合，元素会随机变化。",
+            "在 3 回合内，所有敌人的元素每回合都会改变。前 2 回合，元素是随机的。",
             "最后一回合，敌人会恢复其原始元素。",
             "每次元素变化后，如果敌人的元素为自然，则其受到 846 点伤害。"
         ],
@@ -81122,7 +81242,8 @@ window.allHeroes =
         "specialId": "self_preservation",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_fimafeng",
         "star": 5,
@@ -81137,6 +81258,7 @@ window.allHeroes =
             "叠加（最多： 10 层 ）：盟友获得 +20% 的防御。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 338 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -81322,7 +81444,7 @@ window.allHeroes =
         "specialId": "donut_to_the_rescue",
         "parent_specialId": "to_the_rescue",
         "passiveSkills": [
-            "resist_water",
+            "resist_water_with_health_boost_and_mana",
             "underwater_on_special_beach"
         ],
         "costumeBonusPassiveSkillIds": null,
@@ -81339,7 +81461,7 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 272 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ],
         "family": "beachparty",
         "costume_id": 1,
@@ -81585,7 +81707,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "awaken_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_garnet",
         "star": 5,
         "power": 798,
@@ -81603,7 +81727,9 @@ window.allHeroes =
             "* 提高所有盟友 750 点生命值。提高的生命值可以超过最大生命值。",
             "* 所有盟友对新的状态异常免疫，持续 4 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1338,
@@ -81644,7 +81770,9 @@ window.allHeroes =
         "Release date": "2026-05-30",
         "specialId": "restorative_ki",
         "parent_specialId": "awaken_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "costumeBonusPassiveSkillIds": [
             "bleed_on_counter_attack"
         ],
@@ -81667,6 +81795,7 @@ window.allHeroes =
             "* 所有盟友对新的状态异常免疫，持续 4 回合，且每当有状态异常尝试施加于其上，他们都将恢复 550 点生命。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "反击回敬：每次此角色反击敌人时，攻击者将在 4 个回合内承受 544 点流血伤害。"
         ],
         "family": "ninja",
@@ -86538,7 +86667,7 @@ window.allHeroes =
         "specialId": "always_on_time",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "heroId": "beauty_beast_pendulus_clonk",
@@ -86560,7 +86689,7 @@ window.allHeroes =
         ],
         "passives": [
             "复活生命值削减：除头目外的所有敌人会以 -80% 的生命值复活。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
+            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
             "内在美：每当该角色本应受到状态异常或负面叠加造成的伤害时，改为恢复相同数值的生命值。"
         ],
         "family": "beauty_beast",
@@ -87389,7 +87518,8 @@ window.allHeroes =
         "specialId": "master_plan",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_regin",
         "star": 5,
@@ -87403,6 +87533,7 @@ window.allHeroes =
             "目标和附近敌人对新的增益状态效果免疫，持续 3 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 319 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -87461,7 +87592,8 @@ window.allHeroes =
         "parent_specialId": "master_plan",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_regin_costume_omen",
@@ -87476,6 +87608,7 @@ window.allHeroes =
             "目标和附近敌人对新的增益状态效果免疫，持续 3 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 394 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -87989,7 +88122,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "crimson_calamity",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_ruby",
         "star": 5,
         "power": 818,
@@ -88011,7 +88146,9 @@ window.allHeroes =
             "- 使所有敌人的法力减少 100%。",
             "- 所有敌人获得 -34% 法力生成，持续 4 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1439,
@@ -88902,7 +89039,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "burning_ashes",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_serandite",
         "star": 5,
         "power": 867,
@@ -88924,7 +89063,9 @@ window.allHeroes =
             "- 所有敌人在 4 回合内受到共计 840 点燃烧伤害。",
             "- 所有敌人获得的治疗减少 -84%，持续 4 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1453,
@@ -90662,8 +90803,8 @@ window.allHeroes =
         "defense": 762,
         "health": 1369,
         "effects": [
-            "对目标造成 370% 伤害。",
-            "有 60% 的几率可额外攻击随机敌人最多 4 次。额外攻击造成轻微伤害。",
+            "对目标造成 400% 伤害。",
+            "有 65% 的几率可额外攻击随机敌人最多 4 次。额外攻击造成轻微伤害。",
             "施法者每次命中都会获得以下状态效果：",
             "叠加（最多： 10 层 ）：施法者获得 +6% 攻击力。",
             "元素链在回合结束时为所有烈火系盟友恢复少量法力，持续 4 回合。此效果无法驱散。"
@@ -93611,7 +93752,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "lightning_stream",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_kinsaishi",
         "star": 3,
         "power": 486,
@@ -93630,7 +93773,9 @@ window.allHeroes =
             "- 对目标造成 220% 伤害。",
             "- 对随机 4 名敌人造成额外 220% 伤害。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1532,
@@ -95514,7 +95659,8 @@ window.allHeroes =
         "specialId": "poetic_justice",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_fjalar",
         "star": 4,
@@ -95528,6 +95674,7 @@ window.allHeroes =
             "目标抵抗新的小兵，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 193 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -95582,7 +95729,8 @@ window.allHeroes =
         "parent_specialId": "poetic_justice",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_fjalar_costume_undead",
@@ -95597,6 +95745,7 @@ window.allHeroes =
             "目标抵抗新的小兵，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 238 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -99164,7 +99313,8 @@ window.allHeroes =
         "specialId": "freezing_power_hooks",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_bragi",
         "star": 5,
@@ -99178,6 +99328,7 @@ window.allHeroes =
             "如果目标被施加霜冻，冰冻重钩将对随机目标重新施放一次。（如果目标被击败，则不会重新施放特殊技能。）"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 343 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -101395,7 +101546,8 @@ window.allHeroes =
         "specialId": "spearwand_gale",
         "passiveSkills": [
             "molten_core",
-            "resist_burn_with_health_boost_and_mana"
+            "resist_burn_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_gandr",
         "star": 5,
@@ -101409,6 +101561,7 @@ window.allHeroes =
             "所有盟友会以所受伤害的 65% 进行反击，持续 5 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 315 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -101463,7 +101616,8 @@ window.allHeroes =
         "parent_specialId": "spearwand_gale",
         "passiveSkills": [
             "molten_core_costume",
-            "resist_burn_with_health_and_mana_boost_costume"
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_gandr_costume_guardian",
@@ -101478,6 +101632,7 @@ window.allHeroes =
             "所有盟友会以所受伤害的 75% 进行反击，持续 5 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 387 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -102843,7 +102998,8 @@ window.allHeroes =
         "specialId": "sensu_of_immortality",
         "passiveSkills": [
             "dishonorable_death",
-            "prevent_boosted_health"
+            "prevent_boosted_health",
+            "reduce_minion_health"
         ],
         "heroId": "ronin_hiyori",
         "star": 5,
@@ -102869,6 +103025,7 @@ window.allHeroes =
             "* 在接下来的 5 回合，所有盟友在回合结束时获得 15% 的法力值。"
         ],
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -104809,7 +104966,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "specialId": "tumbling_dragon",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_kushanku",
         "star": 5,
         "power": 875,
@@ -104837,7 +104996,9 @@ window.allHeroes =
             "* 施法者脱离潜行状态时，对所有在潜行期间使用特殊技能的敌人造成 348 点伤害。",
             "* 在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1715,
@@ -106269,7 +106430,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "connect_ki",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_mica",
         "star": 5,
         "power": 798,
@@ -106290,7 +106453,9 @@ window.allHeroes =
             "* 所有盟友获得 +73% 防御，持续 5 回合。",
             "* 所有盟友获得 +38% 法力生成，持续 5 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1738,
@@ -106511,7 +106676,8 @@ window.allHeroes =
         "specialId": "stalwart_rally",
         "passiveSkills": [
             "arctic_core",
-            "resist_frost_with_health_boost_and_mana"
+            "resist_frost_with_health_boost_and_mana",
+            "resist_all_stealing"
         ],
         "heroId": "tales2_motsognir",
         "star": 5,
@@ -106526,6 +106692,7 @@ window.allHeroes =
             "所有盟友获得 +55% 暴击几率，持续 4 回合。"
         ],
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 316 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -110081,7 +110248,9 @@ window.allHeroes =
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "specialId": "lethal_needles",
-        "passiveSkills": null,
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_topaz",
         "star": 5,
         "power": 818,
@@ -110103,7 +110272,9 @@ window.allHeroes =
             "* 对所有敌人造成 390% 伤害。",
             "* 每摧毁一名小兵，所有盟友获得少量法力。"
         ],
-        "passives": [],
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ],
         "family": "ninja",
         "costume_id": 0,
         "originalIndex": 1799,
@@ -112472,17 +112643,17 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "祖里奥斯 (Azureus)",
-        "fancy_name": "艾瑟尔军师",
+        "name": "西奥玛 (Axioma)",
+        "fancy_name": "无形之力学者",
         "AetherPower": "",
-        "color": "冰雪",
+        "color": "神圣",
         "class": "圣骑士",
         "speed": "慢",
         "skill": "",
         "source": "",
         "Release date": "",
         "specialId": "",
-        "heroId": "institute_azureus",
+        "heroId": "institute_axioma",
         "star": 5,
         "power": null,
         "attack": null,

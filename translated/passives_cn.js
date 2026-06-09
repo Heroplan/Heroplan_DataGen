@@ -53,6 +53,7 @@ const translatedPassivesCN =
         "heroId": "tales2_bryggvir",
         "name": "Bryggvir",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 153 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -468,6 +469,7 @@ const translatedPassivesCN =
         "heroId": "tales2_dain",
         "name": "Dain",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 193 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -658,7 +660,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_sapphire",
         "name": "Sapphire",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "royal_female_knight",
@@ -827,6 +831,7 @@ const translatedPassivesCN =
         "heroId": "tales2_andvari",
         "name": "Andvari",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions。",
@@ -837,6 +842,7 @@ const translatedPassivesCN =
         "heroId": "tales2_andvari_costume_c1",
         "name": "Andvari C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 377 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -970,7 +976,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_azurite",
         "name": "Azurite",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "ice_god_balur",
@@ -1214,12 +1222,15 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_cobalt",
         "name": "Cobalt",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "ninja_cobalt_costume_tempest",
         "name": "Cobalt C1",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "反击回敬：每次此角色反击敌人时，攻击者将在 4 个回合内承受 596 点流血伤害。"
         ]
     },
@@ -1557,6 +1568,7 @@ const translatedPassivesCN =
         "heroId": "tales2_hogne",
         "name": "Hogne",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 315 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -1697,6 +1709,7 @@ const translatedPassivesCN =
         "heroId": "ronin_kitou_sayomi",
         "name": "Kitou Sayomi",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -2069,7 +2082,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_oniwakamaru",
         "name": "Oniwakamaru",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "astral_dwarf_orcur",
@@ -2420,6 +2435,7 @@ const translatedPassivesCN =
         "heroId": "tales2_svafa",
         "name": "Svafa",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 346 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -2687,7 +2703,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_zircon",
         "name": "Zircon",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "forest_female_warrior",
@@ -3560,6 +3578,7 @@ const translatedPassivesCN =
         "heroId": "tales2_snorri",
         "name": "Snorri",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 209 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -3948,6 +3967,7 @@ const translatedPassivesCN =
         "heroId": "tales2_dagr",
         "name": "Dagr",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 330 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -3958,6 +3978,7 @@ const translatedPassivesCN =
         "heroId": "tales2_dagr_costume_plague_shaman",
         "name": "Dagr C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 415 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -4042,7 +4063,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_ekanite",
         "name": "Ekanite",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "s5_el_naddaha",
@@ -4191,6 +4214,7 @@ const translatedPassivesCN =
         "heroId": "tales2_fafnir",
         "name": "Fafnir",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 337 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -4570,7 +4594,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_jade",
         "name": "Jade",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "forest_female_elf",
@@ -4605,6 +4631,7 @@ const translatedPassivesCN =
         "heroId": "ronin_kageyama_nagato",
         "name": "Kageyama Nagato",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -4939,7 +4966,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_myoinni",
         "name": "Myoin-ni",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "nature_god_mystia",
@@ -4962,6 +4991,7 @@ const translatedPassivesCN =
         "heroId": "tales2_ott",
         "name": "Ott",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 305 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -4972,6 +5002,7 @@ const translatedPassivesCN =
         "heroId": "tales2_ott_costume_herbalist",
         "name": "Ott C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 371 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -4995,7 +5026,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_peridot",
         "name": "Peridot",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "s4_phileas_fogg",
@@ -5272,7 +5305,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_tametomo",
         "name": "Tametomo",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "s2_junglehunter",
@@ -5790,7 +5825,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_morganite",
         "name": "Morganite",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "s4_morris",
@@ -5969,7 +6006,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "halloween_ana_belle",
@@ -6324,6 +6363,7 @@ const translatedPassivesCN =
         "heroId": "ronin_tokage_daigo",
         "name": "Tokage Daigo",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 400% 伤害。",
@@ -6455,7 +6495,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_amethyst",
         "name": "Amethyst",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "dark_god_anoushka",
@@ -6839,6 +6881,7 @@ const translatedPassivesCN =
         "heroId": "tales2_dularfulr",
         "name": "Dularfulr",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 308 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -6849,6 +6892,7 @@ const translatedPassivesCN =
         "heroId": "tales2_dularfulr_costume_engineer",
         "name": "Dularfulr C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 384 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -7123,6 +7167,7 @@ const translatedPassivesCN =
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions。",
@@ -7133,6 +7178,7 @@ const translatedPassivesCN =
         "heroId": "tales2_hreidmarr_costume_trader",
         "name": "Hreidmarr C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 388 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -7210,7 +7256,7 @@ const translatedPassivesCN =
         "name": "Ivete",
         "passives": [
             "复活生命值削减：除头目外的所有敌人会以 -80% 的生命值复活。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
+            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
             "内在美：每当该角色本应受到状态异常或负面叠加造成的伤害时，改为恢复相同数值的生命值。"
         ]
     },
@@ -7565,6 +7611,7 @@ const translatedPassivesCN =
         "heroId": "ronin_mikanagi_miran",
         "name": "Mikanagi Miran",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -7702,7 +7749,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_onyx",
         "name": "Onyx",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "astral_demon_paimon",
@@ -7763,7 +7812,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_quartz",
         "name": "Quartz",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "cultist_inventor",
@@ -8119,6 +8170,7 @@ const translatedPassivesCN =
         "heroId": "tales2_thrivaldi",
         "name": "Thrivaldi",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 331 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -8560,6 +8612,7 @@ const translatedPassivesCN =
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 147 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -8570,6 +8623,7 @@ const translatedPassivesCN =
         "heroId": "tales2_helgi_costume_combatant",
         "name": "Helgi C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 170 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -8765,6 +8819,7 @@ const translatedPassivesCN =
         "heroId": "ronin_yamada_jingasa",
         "name": "Yamada Jingasa",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 400% 伤害。",
@@ -9145,7 +9200,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_shale",
         "name": "Shale",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "shark_sharby",
@@ -9277,6 +9334,7 @@ const translatedPassivesCN =
         "heroId": "tales2_aethslegaur",
         "name": "Aethslegaur",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 312 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -9375,6 +9433,7 @@ const translatedPassivesCN =
         "heroId": "ronin_asakura_masao",
         "name": "Asakura Masao",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -10023,6 +10082,7 @@ const translatedPassivesCN =
         "heroId": "tales2_fimafeng",
         "name": "Fimafeng",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 338 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -10050,7 +10110,7 @@ const translatedPassivesCN =
         "name": "Flip C1",
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 272 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "水系抵抗强化：此角色免疫造成水系伤害的状态异常，并且每次抵抗获得 450 点生命加成和 5% 法力。"
         ]
     },
     {
@@ -10090,12 +10150,15 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_garnet",
         "name": "Garnet",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "ninja_garnet_costume_flame",
         "name": "Garnet C1",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "反击回敬：每次此角色反击敌人时，攻击者将在 4 个回合内承受 544 点流血伤害。"
         ]
     },
@@ -10685,7 +10748,7 @@ const translatedPassivesCN =
         "name": "Pendulus Clonk",
         "passives": [
             "复活生命值削减：除头目外的所有敌人会以 -80% 的生命值复活。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
+            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
             "内在美：每当该角色本应受到状态异常或负面叠加造成的伤害时，改为恢复相同数值的生命值。"
         ]
     },
@@ -10784,6 +10847,7 @@ const translatedPassivesCN =
         "heroId": "tales2_regin",
         "name": "Regin",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 319 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -10794,6 +10858,7 @@ const translatedPassivesCN =
         "heroId": "tales2_regin_costume_omen",
         "name": "Regin C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 394 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -10857,7 +10922,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_ruby",
         "name": "Ruby",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "mahayoddha_rudraditya",
@@ -10970,7 +11037,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_serandite",
         "name": "Serandite",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "wild_cat_sharalen",
@@ -11559,7 +11628,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_kinsaishi",
         "name": "Kinsaishi",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "s3_kvasir",
@@ -11798,6 +11869,7 @@ const translatedPassivesCN =
         "heroId": "tales2_fjalar",
         "name": "Fjalar",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 193 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -11808,6 +11880,7 @@ const translatedPassivesCN =
         "heroId": "tales2_fjalar_costume_undead",
         "name": "Fjalar C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 238 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -12258,6 +12331,7 @@ const translatedPassivesCN =
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 343 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -12543,6 +12617,7 @@ const translatedPassivesCN =
         "heroId": "tales2_gandr",
         "name": "Gandr",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 315 点燃烧伤害，并每回合降低目标 -12% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -12553,6 +12628,7 @@ const translatedPassivesCN =
         "heroId": "tales2_gandr_costume_guardian",
         "name": "Gandr C1",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
             "熔岩核心：熔岩核心在该角色每次施放特殊技能时激活：",
             "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 387 点燃烧伤害，并每回合降低目标 -13% 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
@@ -12716,6 +12792,7 @@ const translatedPassivesCN =
         "heroId": "ronin_hiyori",
         "name": "Hiyori",
         "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
             "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
             "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
             "* 攻击者受到 450% 伤害。",
@@ -12955,7 +13032,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_kushanku",
         "name": "Kushanku",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "slime_labblub",
@@ -13130,7 +13209,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_mica",
         "name": "Mica",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "astral_moonbell",
@@ -13158,6 +13239,7 @@ const translatedPassivesCN =
         "heroId": "tales2_motsognir",
         "name": "Motsognir",
         "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
             "极地核心：极地核心在该角色每次施放特殊技能时激活。",
             "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 316 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
@@ -13600,7 +13682,9 @@ const translatedPassivesCN =
     {
         "heroId": "ninja_topaz",
         "name": "Topaz",
-        "passives": []
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
     },
     {
         "heroId": "mimic_troop_yellow",
@@ -13915,8 +13999,8 @@ const translatedPassivesCN =
         "passives": []
     },
     {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
+        "heroId": "institute_axioma",
+        "name": "Axioma",
         "passives": []
     },
     {

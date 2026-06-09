@@ -2034,38 +2034,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2091,38 +2091,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2148,38 +2148,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2205,38 +2205,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2262,38 +2262,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2319,38 +2319,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2376,38 +2376,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2433,38 +2433,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2490,38 +2490,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2547,38 +2547,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2604,38 +2604,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2661,38 +2661,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2718,38 +2718,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2775,38 +2775,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2832,38 +2832,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2889,38 +2889,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -2946,38 +2946,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3003,38 +3003,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3060,38 +3060,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3117,38 +3117,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3174,38 +3174,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3231,38 +3231,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3288,38 +3288,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3345,38 +3345,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3402,38 +3402,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3459,38 +3459,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3516,38 +3516,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3573,38 +3573,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3630,38 +3630,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3687,38 +3687,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3744,38 +3744,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3801,38 +3801,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3858,38 +3858,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3915,38 +3915,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -3972,38 +3972,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4029,38 +4029,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4086,38 +4086,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4143,38 +4143,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4200,38 +4200,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4257,38 +4257,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4314,38 +4314,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4371,38 +4371,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4428,38 +4428,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4485,38 +4485,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4542,38 +4542,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4599,38 +4599,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4656,38 +4656,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4713,38 +4713,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4770,38 +4770,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4827,38 +4827,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4915,38 +4915,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -4972,38 +4972,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5029,38 +5029,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5086,38 +5086,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5143,38 +5143,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5200,38 +5200,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5257,38 +5257,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5314,38 +5314,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5371,38 +5371,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5428,38 +5428,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5485,38 +5485,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5542,38 +5542,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5599,38 +5599,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5656,38 +5656,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5713,38 +5713,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5770,38 +5770,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5827,38 +5827,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5884,38 +5884,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5941,38 +5941,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -5998,38 +5998,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6055,38 +6055,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6112,38 +6112,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6169,38 +6169,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6226,38 +6226,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6283,38 +6283,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6340,38 +6340,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6397,38 +6397,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6454,38 +6454,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6511,38 +6511,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6568,38 +6568,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6625,38 +6625,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6682,38 +6682,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6739,38 +6739,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6796,38 +6796,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6853,38 +6853,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6910,38 +6910,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -6967,38 +6967,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7024,38 +7024,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7081,38 +7081,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7138,38 +7138,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7195,38 +7195,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7252,38 +7252,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1350,
+          "maxValuePerMil": 1270,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1250,
+          "maxValuePerMil": 1200,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7309,38 +7309,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7366,38 +7366,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7423,38 +7423,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7480,38 +7480,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1260,
+          "maxValuePerMil": 1210,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1340,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7537,38 +7537,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7594,38 +7594,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1270,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1330,
+          "maxValuePerMil": 1260,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7651,38 +7651,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1290,
+          "maxValuePerMil": 1230,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1310,
+          "maxValuePerMil": 1240,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -7708,38 +7708,38 @@
         "firstTroopStatDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1150,
-          "maxValuePerMil": 1320,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "secondTroopStatDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1140,
-          "maxValuePerMil": 1280,
+          "maxValuePerMil": 1220,
           "levelUpStepPerMil": 10
         },
         "thirdTroopStatDefinition": {
           "stat": "HealthMultiplier",
           "baseValuePerMil": 1170,
-          "maxValuePerMil": 1300,
+          "maxValuePerMil": 1250,
           "levelUpStepPerMil": 10
         },
         "fourthTroopStatDefinition": {
           "stat": "ManaBonus",
           "baseValuePerMil": 1050,
-          "maxValuePerMil": 1150,
+          "maxValuePerMil": 1110,
           "levelUpStepPerMil": 20
         },
         "firstClassPairBonusDefinition": {
           "stat": "AttackMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
         "secondClassPairBonusDefinition": {
           "stat": "DefenseMultiplier",
           "baseValuePerMil": 1010,
-          "maxValuePerMil": 1110,
+          "maxValuePerMil": 1060,
           "levelUpStepPerMil": 50,
           "isClassPairBonus": true
         },
@@ -38504,7 +38504,7 @@
         "statusEffect": "Poison",
         "id": "poison_clarissa",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 200,
+        "damageMultiplierPerMil": 280,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "strongAttackMultiplierIncrementPerMil": 50
       },
@@ -43901,7 +43901,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "health_recovery_suzuna",
         "buff": "MinorBuff",
-        "healthPoints": 215,
+        "healthPoints": 250,
         "healthPointsIncrementPerLevel": 10
       },
       {
@@ -55386,7 +55386,7 @@
         "statusEffect": "AccuracyModifier",
         "id": "accuracy_debuff_ulfhild",
         "buff": "MinorDebuff",
-        "accuracyIncrementPerMil": 65206,
+        "accuracyIncrementPerMil": 65056,
         "accuracyIncrementPerLevelPerMil": 246
       },
       {
@@ -59198,8 +59198,8 @@
         "buff": "MinorDebuff",
         "defenseMultiplierPerMil": 740,
         "defenseMultiplierIncrementPerLevelPerMil": 236,
-        "defenseMultiplierIncrementPerHitPerMil": 196,
-        "maxNumberOfHits": 5
+        "defenseMultiplierIncrementPerHitPerMil": 206,
+        "maxNumberOfHits": 4
       },
       {
         "statusEffect": "BerserkRedDefense",
@@ -60368,7 +60368,7 @@
         "statusEffect": "YellowDefenseModifier",
         "id": "defense_ameonna_cute",
         "buff": "MinorBuff",
-        "defenseMultiplierPerMil": 1360,
+        "defenseMultiplierPerMil": 1400,
         "defenseMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -62876,7 +62876,7 @@
         "id": "defense_reset_on_special_hit_pepo",
         "buff": "MinorBuff",
         "resetTurnsLeftTrigger": "DirectSpecialDamage",
-        "defenseMultiplierPerMil": 1460,
+        "defenseMultiplierPerMil": 1410,
         "defenseMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -97088,5 +97088,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3363097560
+  "battleConfigId": 1989316620
 }

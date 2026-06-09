@@ -6893,6 +6893,9 @@
     "baseAttack": 390,
     "baseDefense": 343,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Ranger",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -6908,6 +6911,9 @@
     "baseAttack": 348,
     "baseDefense": 399,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Paladin",
     "aetherGift": "Special Armor",
     "rarity": 5,
@@ -6923,6 +6929,9 @@
     "baseAttack": 355,
     "baseDefense": 365,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -6939,6 +6948,9 @@
     "baseAttack": 336,
     "baseDefense": 398,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Monk",
     "aetherGift": "Regen",
     "rarity": 5,
@@ -6954,6 +6966,9 @@
     "baseAttack": 389,
     "baseDefense": 333,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Wizard",
     "aetherGift": "Special Boost",
     "rarity": 5,
@@ -6970,6 +6985,9 @@
     "baseAttack": 284,
     "baseDefense": 295,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Wizard",
     "aetherGift": "Damage Reduction",
     "rarity": 4,
@@ -6985,6 +7003,9 @@
     "baseAttack": 342,
     "baseDefense": 255,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Rogue",
     "aetherGift": "Special Boost",
     "rarity": 4,
@@ -7000,6 +7021,9 @@
     "baseAttack": 337,
     "baseDefense": 264,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Barbarian",
     "aetherGift": "Attack Up",
     "rarity": 4,
@@ -8562,6 +8586,9 @@
     "baseAttack": 399,
     "baseDefense": 342,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Special Boost",
     "rarity": 5,
@@ -8577,6 +8604,9 @@
     "baseAttack": 398,
     "baseDefense": 355,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Barbarian",
     "aetherGift": "Defense Up",
     "rarity": 5,
@@ -8592,6 +8622,9 @@
     "baseAttack": 357,
     "baseDefense": 408,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Fighter",
     "aetherGift": "Heal Increase",
     "rarity": 5,
@@ -8608,6 +8641,9 @@
     "baseAttack": 396,
     "baseDefense": 359,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -8624,6 +8660,9 @@
     "baseAttack": 365,
     "baseDefense": 376,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Cleric",
     "aetherGift": "Defense Up",
     "rarity": 5,
@@ -11932,6 +11971,9 @@
     "baseAttack": 413,
     "baseDefense": 390,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Fighter",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -11947,6 +11989,9 @@
     "baseAttack": 456,
     "baseDefense": 376,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -11962,6 +12007,9 @@
     "baseAttack": 394,
     "baseDefense": 423,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Paladin",
     "aetherGift": "Ailment Immunity",
     "rarity": 5,
@@ -11977,6 +12025,9 @@
     "baseAttack": 359,
     "baseDefense": 433,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Monk",
     "aetherGift": "Heal Increase",
     "rarity": 5,
@@ -11992,6 +12043,9 @@
     "baseAttack": 445,
     "baseDefense": 383,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Barbarian",
     "aetherGift": "Defense Up",
     "rarity": 5,
@@ -12007,6 +12061,9 @@
     "baseAttack": 397,
     "baseDefense": 434,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Druid",
     "aetherGift": "Heal Increase",
     "rarity": 5,
@@ -12022,6 +12079,9 @@
     "baseAttack": 311,
     "baseDefense": 277,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Ailment Immunity",
     "rarity": 3,
@@ -12037,6 +12097,9 @@
     "baseAttack": 508,
     "baseDefense": 430,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Ranger",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -12052,6 +12115,9 @@
     "baseAttack": 313,
     "baseDefense": 296,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Monk",
     "aetherGift": "Attack Up",
     "rarity": 3,
@@ -12067,6 +12133,9 @@
     "baseAttack": 422,
     "baseDefense": 392,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Fiend Resist",
     "rarity": 5,
@@ -22435,7 +22504,7 @@
     "baseDefense": 431,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "resist_water",
+      "resist_water_with_health_boost_and_mana",
       "underwater_on_special_beach"
     ],
     "classType": "Cleric",
@@ -23444,7 +23513,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Rogue",
     "aetherGift": "Ailment Immunity",
@@ -23464,7 +23534,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Paladin",
     "aetherGift": "Mana Boost",
@@ -23484,7 +23555,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Monk",
     "aetherGift": "Boosted Regen",
@@ -23504,7 +23576,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Fighter",
     "aetherGift": "Special Armor",
@@ -23524,7 +23597,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Paladin",
     "aetherGift": "Special Boost",
@@ -26791,7 +26865,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Rogue",
     "aetherGift": "Counterattack",
@@ -26811,7 +26886,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Cleric",
     "aetherGift": "Special Armor",
@@ -26831,7 +26907,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Ranger",
     "aetherGift": "Ailment Immunity",
@@ -26851,7 +26928,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Monk",
     "aetherGift": "Regen",
@@ -26871,7 +26949,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Fighter",
     "aetherGift": "Regen",
@@ -26891,7 +26970,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Cleric",
     "aetherGift": "Dodge",
@@ -26911,7 +26991,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Wizard",
     "aetherGift": "Counterattack",
@@ -26931,7 +27012,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Defense Up",
@@ -26951,7 +27033,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Fighter",
     "aetherGift": "Defense Up",
@@ -26971,7 +27054,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core",
-      "resist_burn_with_health_boost_and_mana"
+      "resist_burn_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Paladin",
     "aetherGift": "Attack Up",
@@ -26991,7 +27075,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Fighter",
     "aetherGift": "Counterattack",
@@ -27010,7 +27095,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Paladin",
     "aetherGift": "Defense Up",
@@ -27030,7 +27116,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Cleric",
     "aetherGift": "Defense Up",
@@ -27049,7 +27136,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Barbarian",
     "aetherGift": "Regen",
@@ -27068,7 +27156,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Monk",
     "aetherGift": "Counterattack",
@@ -27087,7 +27176,8 @@
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Ranger",
     "aetherGift": "Dodge",
@@ -27106,7 +27196,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Fighter",
     "aetherGift": "Regen",
@@ -27125,7 +27216,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Monk",
     "aetherGift": "Fiend Resist",
@@ -27144,7 +27236,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Paladin",
     "aetherGift": "Defense Up",
@@ -27163,7 +27256,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core",
-      "resist_frost_with_health_boost_and_mana"
+      "resist_frost_with_health_boost_and_mana",
+      "resist_all_stealing"
     ],
     "classType": "Barbarian",
     "aetherGift": "Dodge",
@@ -29430,7 +29524,7 @@
       "resist_all_defense_effects",
       "revive_chance_nine_lives"
     ],
-    "classType": "Rogue",
+    "classType": "Paladin",
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "ignited_defiance",
@@ -33672,7 +33766,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Cleric",
     "aetherGift": "Mana Boost",
@@ -33692,7 +33787,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Paladin",
     "aetherGift": "Defense Up",
@@ -33712,7 +33808,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Cleric",
     "aetherGift": "Bulwark",
@@ -33732,7 +33829,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Monk",
     "aetherGift": "Fiend Resist",
@@ -33752,7 +33850,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "molten_core_costume",
-      "resist_burn_with_health_and_mana_boost_costume"
+      "resist_burn_with_health_and_mana_boost_costume",
+      "resist_all_stealing"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Boosted Regen",
@@ -33772,7 +33871,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "Cleric",
     "aetherGift": "Special Armor",
@@ -33790,6 +33890,9 @@
     "baseAttack": 352,
     "baseDefense": 369,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Cleric",
     "aetherGift": "Defense Up",
     "costumeBonusPassiveSkillIds": [
@@ -33989,6 +34092,9 @@
     "baseAttack": 389,
     "baseDefense": 333,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Paladin",
     "aetherGift": "Attack Up",
     "costumeBonusPassiveSkillIds": [
@@ -34008,6 +34114,9 @@
     "baseAttack": 357,
     "baseDefense": 408,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Paladin",
     "aetherGift": "Defense Up",
     "costumeBonusPassiveSkillIds": [
@@ -34027,6 +34136,9 @@
     "baseAttack": 365,
     "baseDefense": 376,
     "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
     "classType": "Monk",
     "aetherGift": "Boosted Regen",
     "costumeBonusPassiveSkillIds": [
@@ -34128,7 +34240,7 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
-      "heal_on_expired_or_cleared_debuff",
+      "heal_on_expired_or_cleared_debuff_average",
       "reduce_revival_health_all_enemies"
     ],
     "classType": "Rogue",
@@ -34288,7 +34400,7 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
-      "heal_on_expired_or_cleared_debuff",
+      "heal_on_expired_or_cleared_debuff_average",
       "reduce_revival_health_all_enemies"
     ],
     "classType": "Wizard",
@@ -35594,16 +35706,16 @@
     "aetherGift": "Taunt",
     "rarity": 5,
     "specialId": "aetheric_transmutation",
-    "canBeReceivedDate": "2026-06-12 07:00:00",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "ShadowQuest"
   },
   "institute_axioma": {
     "id": "Scholar of Unseen Forces",
     "element": "Yellow",
     "family": "institute",
-    "baseHealth": 1130,
-    "baseAttack": 633,
-    "baseDefense": 645,
+    "baseHealth": 1160,
+    "baseAttack": 668,
+    "baseDefense": 679,
     "manaSpeedId": "average",
     "passiveSkills": [
       "damage_increase_by_insanity",
@@ -35613,7 +35725,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "the_forbidden_formula",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-06-12 07:00:00",
     "origin": "ShadowQuest"
   },
   "forsaken_nyctalos": {
@@ -35664,7 +35776,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Attack Up",
@@ -35683,7 +35796,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Paladin",
     "aetherGift": "Damage Reduction",
@@ -35702,7 +35816,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
@@ -35721,7 +35836,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death_epic",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Ranger",
     "aetherGift": "Attack Up",
@@ -35740,7 +35856,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death_rare",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Monk",
     "aetherGift": "Attack Up",
@@ -35930,7 +36047,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Rogue",
     "aetherGift": "Rage",
@@ -35949,7 +36067,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Regen",
@@ -36234,9 +36353,9 @@
     "id": "Scholarly Ghost Officer",
     "element": "Purple",
     "family": "ghost",
-    "baseHealth": 1102,
-    "baseAttack": 653,
-    "baseDefense": 645,
+    "baseHealth": 1162,
+    "baseAttack": 676,
+    "baseDefense": 669,
     "manaSpeedId": "average",
     "passiveSkills": [
       "vengeful_ghost_on_damage_received"
@@ -36449,7 +36568,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Barbarian",
     "aetherGift": "Taunt",
@@ -36468,7 +36588,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "Monk",
     "aetherGift": "Special Boost",
@@ -36538,9 +36659,9 @@
     "id": "Survivalist Pumpkin",
     "element": "Yellow",
     "family": "vegetable",
-    "baseHealth": 1130,
-    "baseAttack": 643,
-    "baseDefense": 666,
+    "baseHealth": 1163,
+    "baseAttack": 662,
+    "baseDefense": 685,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",

@@ -84608,7 +84608,7 @@
             "sacrificeXpPerLevel": 46
           },
           {
-            "maxLevel": 50,
+            "maxLevel": 30,
             "baseXpToLevelUp": 200,
             "xpIncrementPerLevel": 75,
             "baseFoodCost": 0,
@@ -84616,8 +84616,7 @@
             "baseIronCost": 7000,
             "ironCostIncrementPerLevel": 3000,
             "baseSacrificeXp": 1600,
-            "sacrificeXpPerLevel": 60,
-            "maxLevelCap": 30
+            "sacrificeXpPerLevel": 60
           }
         ],
         "trainerLevelUpXpPerRarity": [
@@ -84660,26 +84659,6 @@
           },
           {
             "rarity": 5,
-            "level": 40,
-            "classType": "圣骑士",
-            "cost": {
-              "itemToCount": {
-                "emblem_paladin": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "圣骑士",
-            "cost": {
-              "itemToCount": {
-                "emblem_paladin": 150
-              }
-            }
-          },
-          {
-            "rarity": 5,
             "level": 10,
             "classType": "德鲁伊",
             "cost": {
@@ -84705,26 +84684,6 @@
             "cost": {
               "itemToCount": {
                 "emblem_druid": 75
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 40,
-            "classType": "德鲁伊",
-            "cost": {
-              "itemToCount": {
-                "emblem_druid": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "德鲁伊",
-            "cost": {
-              "itemToCount": {
-                "emblem_druid": 150
               }
             }
           },
@@ -84760,26 +84719,6 @@
           },
           {
             "rarity": 5,
-            "level": 40,
-            "classType": "野蛮人",
-            "cost": {
-              "itemToCount": {
-                "emblem_barbarian": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "野蛮人",
-            "cost": {
-              "itemToCount": {
-                "emblem_barbarian": 150
-              }
-            }
-          },
-          {
-            "rarity": 5,
             "level": 10,
             "classType": "战士",
             "cost": {
@@ -84805,26 +84744,6 @@
             "cost": {
               "itemToCount": {
                 "emblem_fighter": 75
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 40,
-            "classType": "战士",
-            "cost": {
-              "itemToCount": {
-                "emblem_fighter": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "战士",
-            "cost": {
-              "itemToCount": {
-                "emblem_fighter": 150
               }
             }
           },
@@ -84860,26 +84779,6 @@
           },
           {
             "rarity": 5,
-            "level": 40,
-            "classType": "巫师",
-            "cost": {
-              "itemToCount": {
-                "emblem_wizard": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "巫师",
-            "cost": {
-              "itemToCount": {
-                "emblem_wizard": 150
-              }
-            }
-          },
-          {
-            "rarity": 5,
             "level": 10,
             "classType": "牧师",
             "cost": {
@@ -84905,26 +84804,6 @@
             "cost": {
               "itemToCount": {
                 "emblem_cleric": 75
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 40,
-            "classType": "牧师",
-            "cost": {
-              "itemToCount": {
-                "emblem_cleric": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "牧师",
-            "cost": {
-              "itemToCount": {
-                "emblem_cleric": 150
               }
             }
           },
@@ -84960,26 +84839,6 @@
           },
           {
             "rarity": 5,
-            "level": 40,
-            "classType": "盗贼",
-            "cost": {
-              "itemToCount": {
-                "emblem_rogue": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "盗贼",
-            "cost": {
-              "itemToCount": {
-                "emblem_rogue": 150
-              }
-            }
-          },
-          {
-            "rarity": 5,
             "level": 10,
             "classType": "僧侣",
             "cost": {
@@ -85005,26 +84864,6 @@
             "cost": {
               "itemToCount": {
                 "emblem_monk": 75
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 40,
-            "classType": "僧侣",
-            "cost": {
-              "itemToCount": {
-                "emblem_monk": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "僧侣",
-            "cost": {
-              "itemToCount": {
-                "emblem_monk": 150
               }
             }
           },
@@ -85060,26 +84899,6 @@
           },
           {
             "rarity": 5,
-            "level": 40,
-            "classType": "游侠",
-            "cost": {
-              "itemToCount": {
-                "emblem_ranger": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "游侠",
-            "cost": {
-              "itemToCount": {
-                "emblem_ranger": 150
-              }
-            }
-          },
-          {
-            "rarity": 5,
             "level": 10,
             "classType": "术士",
             "cost": {
@@ -85105,26 +84924,6 @@
             "cost": {
               "itemToCount": {
                 "emblem_sorcerer": 75
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 40,
-            "classType": "术士",
-            "cost": {
-              "itemToCount": {
-                "emblem_sorcerer": 100
-              }
-            }
-          },
-          {
-            "rarity": 5,
-            "level": 50,
-            "classType": "术士",
-            "cost": {
-              "itemToCount": {
-                "emblem_sorcerer": 150
               }
             }
           }
@@ -93817,5 +93616,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3340677512
+  "otherConfigId": 4103936611
 }

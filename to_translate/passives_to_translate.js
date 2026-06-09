@@ -53,6 +53,7 @@ const allTranslations =
         "heroId": "tales2_bryggvir",
         "name": "Bryggvir",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -468,6 +469,7 @@ const allTranslations =
         "heroId": "tales2_dain",
         "name": "Dain",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -658,7 +660,9 @@ const allTranslations =
     {
         "heroId": "ninja_sapphire",
         "name": "Sapphire",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "royal_female_knight",
@@ -827,6 +831,7 @@ const allTranslations =
         "heroId": "tales2_andvari",
         "name": "Andvari",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
@@ -837,6 +842,7 @@ const allTranslations =
         "heroId": "tales2_andvari_costume_c1",
         "name": "Andvari C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 377 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -970,7 +976,9 @@ const allTranslations =
     {
         "heroId": "ninja_azurite",
         "name": "Azurite",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "ice_god_balur",
@@ -1214,12 +1222,15 @@ const allTranslations =
     {
         "heroId": "ninja_cobalt",
         "name": "Cobalt",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "ninja_cobalt_costume_tempest",
         "name": "Cobalt C1",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 596 Bleed damage over 4 turns."
         ]
     },
@@ -1557,6 +1568,7 @@ const allTranslations =
         "heroId": "tales2_hogne",
         "name": "Hogne",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -1697,6 +1709,7 @@ const allTranslations =
         "heroId": "ronin_kitou_sayomi",
         "name": "Kitou Sayomi",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 450% damage.",
@@ -2069,7 +2082,9 @@ const allTranslations =
     {
         "heroId": "ninja_oniwakamaru",
         "name": "Oniwakamaru",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "astral_dwarf_orcur",
@@ -2420,6 +2435,7 @@ const allTranslations =
         "heroId": "tales2_svafa",
         "name": "Svafa",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -2687,7 +2703,9 @@ const allTranslations =
     {
         "heroId": "ninja_zircon",
         "name": "Zircon",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "forest_female_warrior",
@@ -3560,6 +3578,7 @@ const allTranslations =
         "heroId": "tales2_snorri",
         "name": "Snorri",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -3948,6 +3967,7 @@ const allTranslations =
         "heroId": "tales2_dagr",
         "name": "Dagr",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -3958,6 +3978,7 @@ const allTranslations =
         "heroId": "tales2_dagr_costume_plague_shaman",
         "name": "Dagr C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 415 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -4042,7 +4063,9 @@ const allTranslations =
     {
         "heroId": "ninja_ekanite",
         "name": "Ekanite",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "s5_el_naddaha",
@@ -4191,6 +4214,7 @@ const allTranslations =
         "heroId": "tales2_fafnir",
         "name": "Fafnir",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -4570,7 +4594,9 @@ const allTranslations =
     {
         "heroId": "ninja_jade",
         "name": "Jade",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "forest_female_elf",
@@ -4605,6 +4631,7 @@ const allTranslations =
         "heroId": "ronin_kageyama_nagato",
         "name": "Kageyama Nagato",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 450% damage.",
@@ -4939,7 +4966,9 @@ const allTranslations =
     {
         "heroId": "ninja_myoinni",
         "name": "Myoin-ni",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "nature_god_mystia",
@@ -4962,6 +4991,7 @@ const allTranslations =
         "heroId": "tales2_ott",
         "name": "Ott",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -4972,6 +5002,7 @@ const allTranslations =
         "heroId": "tales2_ott_costume_herbalist",
         "name": "Ott C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 371 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -4995,7 +5026,9 @@ const allTranslations =
     {
         "heroId": "ninja_peridot",
         "name": "Peridot",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "s4_phileas_fogg",
@@ -5272,7 +5305,9 @@ const allTranslations =
     {
         "heroId": "ninja_tametomo",
         "name": "Tametomo",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "s2_junglehunter",
@@ -5790,7 +5825,9 @@ const allTranslations =
     {
         "heroId": "ninja_morganite",
         "name": "Morganite",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "s4_morris",
@@ -5969,7 +6006,9 @@ const allTranslations =
     {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "halloween_ana_belle",
@@ -6324,6 +6363,7 @@ const allTranslations =
         "heroId": "ronin_tokage_daigo",
         "name": "Tokage Daigo",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 400% damage.",
@@ -6455,7 +6495,9 @@ const allTranslations =
     {
         "heroId": "ninja_amethyst",
         "name": "Amethyst",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "dark_god_anoushka",
@@ -6839,6 +6881,7 @@ const allTranslations =
         "heroId": "tales2_dularfulr",
         "name": "Dularfulr",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -6849,6 +6892,7 @@ const allTranslations =
         "heroId": "tales2_dularfulr_costume_engineer",
         "name": "Dularfulr C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 384 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -7123,6 +7167,7 @@ const allTranslations =
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
@@ -7133,6 +7178,7 @@ const allTranslations =
         "heroId": "tales2_hreidmarr_costume_trader",
         "name": "Hreidmarr C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 388 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -7210,7 +7256,7 @@ const allTranslations =
         "name": "Ivete",
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
-            "Heal when Status Ailment Expires or Is Cleared: This character's receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Heal when Status Ailment Expires or Is Cleared: This character's receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
@@ -7565,6 +7611,7 @@ const allTranslations =
         "heroId": "ronin_mikanagi_miran",
         "name": "Mikanagi Miran",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 450% damage.",
@@ -7702,7 +7749,9 @@ const allTranslations =
     {
         "heroId": "ninja_onyx",
         "name": "Onyx",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "astral_demon_paimon",
@@ -7763,7 +7812,9 @@ const allTranslations =
     {
         "heroId": "ninja_quartz",
         "name": "Quartz",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "cultist_inventor",
@@ -8119,6 +8170,7 @@ const allTranslations =
         "heroId": "tales2_thrivaldi",
         "name": "Thrivaldi",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -8560,6 +8612,7 @@ const allTranslations =
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -8570,6 +8623,7 @@ const allTranslations =
         "heroId": "tales2_helgi_costume_combatant",
         "name": "Helgi C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -8765,6 +8819,7 @@ const allTranslations =
         "heroId": "ronin_yamada_jingasa",
         "name": "Yamada Jingasa",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 400% damage.",
@@ -9145,7 +9200,9 @@ const allTranslations =
     {
         "heroId": "ninja_shale",
         "name": "Shale",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "shark_sharby",
@@ -9277,6 +9334,7 @@ const allTranslations =
         "heroId": "tales2_aethslegaur",
         "name": "Aethslegaur",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -9375,6 +9433,7 @@ const allTranslations =
         "heroId": "ronin_asakura_masao",
         "name": "Asakura Masao",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 450% damage.",
@@ -10023,6 +10082,7 @@ const allTranslations =
         "heroId": "tales2_fimafeng",
         "name": "Fimafeng",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -10050,7 +10110,7 @@ const allTranslations =
         "name": "Flip C1",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.",
-            "Resist Water: This character is immune to status ailments that deal Water damage."
+            "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
     {
@@ -10090,12 +10150,15 @@ const allTranslations =
     {
         "heroId": "ninja_garnet",
         "name": "Garnet",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "ninja_garnet_costume_flame",
         "name": "Garnet C1",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 544 Bleed damage over 4 turns."
         ]
     },
@@ -10685,7 +10748,7 @@ const allTranslations =
         "name": "Pendulus Clonk",
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
-            "Heal when Status Ailment Expires or Is Cleared: This character's receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Heal when Status Ailment Expires or Is Cleared: This character's receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
@@ -10784,6 +10847,7 @@ const allTranslations =
         "heroId": "tales2_regin",
         "name": "Regin",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 319 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -10794,6 +10858,7 @@ const allTranslations =
         "heroId": "tales2_regin_costume_omen",
         "name": "Regin C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 394 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -10857,7 +10922,9 @@ const allTranslations =
     {
         "heroId": "ninja_ruby",
         "name": "Ruby",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "mahayoddha_rudraditya",
@@ -10970,7 +11037,9 @@ const allTranslations =
     {
         "heroId": "ninja_serandite",
         "name": "Serandite",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "wild_cat_sharalen",
@@ -11559,7 +11628,9 @@ const allTranslations =
     {
         "heroId": "ninja_kinsaishi",
         "name": "Kinsaishi",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "s3_kvasir",
@@ -11798,6 +11869,7 @@ const allTranslations =
         "heroId": "tales2_fjalar",
         "name": "Fjalar",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -11808,6 +11880,7 @@ const allTranslations =
         "heroId": "tales2_fjalar_costume_undead",
         "name": "Fjalar C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -12258,6 +12331,7 @@ const allTranslations =
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -12543,6 +12617,7 @@ const allTranslations =
         "heroId": "tales2_gandr",
         "name": "Gandr",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -12553,6 +12628,7 @@ const allTranslations =
         "heroId": "tales2_gandr_costume_guardian",
         "name": "Gandr C1",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 387 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
@@ -12716,6 +12792,7 @@ const allTranslations =
         "heroId": "ronin_hiyori",
         "name": "Hiyori",
         "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
             "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
             "* The attacker receives 450% damage.",
@@ -12955,7 +13032,9 @@ const allTranslations =
     {
         "heroId": "ninja_kushanku",
         "name": "Kushanku",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "slime_labblub",
@@ -13130,7 +13209,9 @@ const allTranslations =
     {
         "heroId": "ninja_mica",
         "name": "Mica",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "astral_moonbell",
@@ -13158,6 +13239,7 @@ const allTranslations =
         "heroId": "tales2_motsognir",
         "name": "Motsognir",
         "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
@@ -13600,7 +13682,9 @@ const allTranslations =
     {
         "heroId": "ninja_topaz",
         "name": "Topaz",
-        "passives": []
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP."
+        ]
     },
     {
         "heroId": "mimic_troop_yellow",
@@ -13915,8 +13999,8 @@ const allTranslations =
         "passives": []
     },
     {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
+        "heroId": "institute_axioma",
+        "name": "Axioma",
         "passives": []
     },
     {

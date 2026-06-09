@@ -232,7 +232,7 @@
         "id": "lottery_featured_event_farmland",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 188,
+        "uiPriority": 195,
         "associatedEvent": "RecurringFarmland",
         "bonusChest": "beowulf_chest",
         "bonusChestRequirement": 5,
@@ -2402,7 +2402,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 189,
+        "uiPriority": 196,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -3848,7 +3848,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 191,
+        "uiPriority": 197,
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -58455,5 +58455,5 @@
       }
     ]
   },
-  "productsConfigId": 1399518360
+  "productsConfigId": 142417532
 }
