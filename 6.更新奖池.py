@@ -245,40 +245,36 @@ def parse_date(date_str: str):
 
 def choose_best_candidate(candidates_with_date, ref_date):
     """
-    根据新规则从候选列表中挑选最佳条目。
-    candidates_with_date: list of (date_or_datetime, value) ，value可以是任意对象
-    ref_date: date 对象（基准日期）
     规则：
-      - 忽略过去超过7天的条目，忽略未来超过60天的条目
-      - 在有效候选（过去≤7天，未来≤60天）中，优先选择未来/今天（date>=ref_date）中日期最小的，
-        否则选择过去（date<ref_date）中日期最大的。
-      - 如果没有任何有效候选，则回退到所有过去条目中日期最大的（最近过去的），
-        如果也没有过去条目，则返回None。
+    1. 如果存在过去 ≤7 天（即 ref_date - date 在 0~7 天）的候选，则从中选择日期最大的（即最近过去的）。
+    2. 否则，如果存在未来 ≤30 天的候选，则从中选择日期最小的（即最近未来的）。
+    3. 否则，回退到所有过去候选（无论天数）中日期最大的。
     """
-    valid = []
+    past_within_7 = []
+    future_within_30 = []
+    all_past = []  # 用于回退
+
     for dt, val in candidates_with_date:
         date = dt.date() if hasattr(dt, 'date') else dt
-        if date < ref_date:
-            if (ref_date - date).days > 7:
-                continue
-        elif date > ref_date:
-            if (date - ref_date).days > 30:
-                continue
-        valid.append((date, val))
+        if date <= ref_date:
+            all_past.append((date, val))
+            if (ref_date - date).days <= 7:
+                past_within_7.append((date, val))
+        else:  # date > ref_date
+            if (date - ref_date).days <= 30:
+                future_within_30.append((date, val))
 
-    if valid:
-        future_or_today = [(date, val) for date, val in valid if date >= ref_date]
-        if future_or_today:
-            return min(future_or_today, key=lambda x: x[0])[1]
-        else:
-            return max(valid, key=lambda x: x[0])[1]
+    if past_within_7:
+        # 选过去7天内最晚的（最大的日期）
+        return max(past_within_7, key=lambda x: x[0])[1]
+    elif future_within_30:
+        # 选未来30天内最早的（最小的日期）
+        return min(future_within_30, key=lambda x: x[0])[1]
+    elif all_past:
+        # 回退：选所有过去中最晚的
+        return max(all_past, key=lambda x: x[0])[1]
     else:
-        # 回退：选取所有过去条目中日期最大的（最近过去的）
-        past_candidates = [(date, val) for date, val in candidates_with_date if date < ref_date]
-        if past_candidates:
-            return max(past_candidates, key=lambda x: x[0])[1]
-        else:
-            return None
+        return None
     
 def extract_pool_config(entry: dict):
     """从主文件召唤池条目中提取 featuredHeroes、includedHeroes、limitedPoolSummonConfiguration"""
