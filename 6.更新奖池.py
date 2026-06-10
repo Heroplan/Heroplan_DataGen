@@ -243,6 +243,43 @@ def parse_date(date_str: str):
     except ValueError:
         return None
 
+def choose_best_candidate(candidates_with_date, ref_date):
+    """
+    根据新规则从候选列表中挑选最佳条目。
+    candidates_with_date: list of (date_or_datetime, value) ，value可以是任意对象
+    ref_date: date 对象（基准日期）
+    规则：
+      - 忽略过去超过7天的条目，忽略未来超过60天的条目
+      - 在有效候选（过去≤7天，未来≤60天）中，优先选择未来/今天（date>=ref_date）中日期最小的，
+        否则选择过去（date<ref_date）中日期最大的。
+      - 如果没有任何有效候选，则回退到所有过去条目中日期最大的（最近过去的），
+        如果也没有过去条目，则返回None。
+    """
+    valid = []
+    for dt, val in candidates_with_date:
+        date = dt.date() if hasattr(dt, 'date') else dt
+        if date < ref_date:
+            if (ref_date - date).days > 7:
+                continue
+        elif date > ref_date:
+            if (date - ref_date).days > 30:
+                continue
+        valid.append((date, val))
+
+    if valid:
+        future_or_today = [(date, val) for date, val in valid if date >= ref_date]
+        if future_or_today:
+            return min(future_or_today, key=lambda x: x[0])[1]
+        else:
+            return max(valid, key=lambda x: x[0])[1]
+    else:
+        # 回退：选取所有过去条目中日期最大的（最近过去的）
+        past_candidates = [(date, val) for date, val in candidates_with_date if date < ref_date]
+        if past_candidates:
+            return max(past_candidates, key=lambda x: x[0])[1]
+        else:
+            return None
+    
 def extract_pool_config(entry: dict):
     """从主文件召唤池条目中提取 featuredHeroes、includedHeroes、limitedPoolSummonConfiguration"""
     config = {}
@@ -268,7 +305,7 @@ def extract_from_main(data, target_id, now):
                 if start_str:
                     date = parse_date(start_str)
                     if date:
-                        candidates.append((date, obj))
+                        candidates.append((date.date(), obj))
             for v in obj.values():
                 recurse(v)
         elif isinstance(obj, list):
@@ -277,14 +314,11 @@ def extract_from_main(data, target_id, now):
     recurse(data)
     if not candidates:
         return None
-    today = now.date()
-    def sort_key(item):
-        date_obj = item[0].date()
-        abs_days = abs((date_obj - today).days)
-        is_past = 1 if date_obj < today else 0   # 过去为1，未来/今天为0 → 未来优先
-        return (abs_days, is_past)
-    closest_entry = min(candidates, key=sort_key)[1]
-    return extract_pool_config(closest_entry)
+
+    best_obj = choose_best_candidate(candidates, now.date())
+    if best_obj is None:
+        return None
+    return extract_pool_config(best_obj)
 
 def extract_from_other(other_data, rule, now):
     """从 other 文件中按规则提取 featuredCharacters（需日期筛选）"""
@@ -312,17 +346,13 @@ def extract_from_other(other_data, rule, now):
             continue
         heroes = entry.get(rule["heroes_key"])
         if heroes and isinstance(heroes, list):
-            candidates.append((date, {"featuredHeroes": heroes}))
+            candidates.append((date.date(), {"featuredHeroes": heroes}))
+
     if not candidates:
         return None
-    today = now.date()
-    def sort_key(item):
-        date_obj = item[0].date()
-        abs_days = abs((date_obj - today).days)
-        is_past = 1 if date_obj < today else 0
-        return (abs_days, is_past)
-    closest_config = min(candidates, key=sort_key)[1]
-    return closest_config
+
+    best_config = choose_best_candidate(candidates, now.date())
+    return best_config
 
 def extract_from_products(products_data, rule):
     """从 products 文件中根据 id 直接匹配，返回 featuredHeroes 和 includedHeroes"""
@@ -378,8 +408,8 @@ def extract_from_player_selected_entities(main_data, target_id):
     return None
 
 def process_super_elemental(lottery_data, now):
-    """特殊处理超级元素池，返回 {featuredHeroes_color: [...]}"""
     color_candidates = {}
+
     def recurse(obj):
         if isinstance(obj, dict):
             pid = obj.get("productId")
@@ -395,26 +425,23 @@ def process_super_elemental(lottery_data, now):
                                 featured = val
                                 break
                         if featured:
-                            color_candidates.setdefault(color, []).append((date, featured))
+                            color_candidates.setdefault(color, []).append((date.date(), featured))
             for v in obj.values():
                 recurse(v)
         elif isinstance(obj, list):
             for item in obj:
                 recurse(item)
+
     recurse(lottery_data)
     if not color_candidates:
         return None
+
     result = {}
     for color, entries in color_candidates.items():
-        today = now.date()
-        def sort_key(item):
-            date_obj = item[0].date()
-            abs_days = abs((date_obj - today).days)
-            is_past = 1 if date_obj < today else 0
-            return (abs_days, is_past)
-        closest = min(entries, key=sort_key)
-        result[f"featuredHeroes_{color}"] = closest[1]
-    return result
+        best_featured = choose_best_candidate(entries, now.date())
+        if best_featured is not None:
+            result[f"featuredHeroes_{color}"] = best_featured
+    return result if result else None
 
 # 提取英雄锦标赛奖池配置
 def extract_league_lottery(main_data, other_data, now):
@@ -425,7 +452,7 @@ def extract_league_lottery(main_data, other_data, now):
     AssociatedFamilies, latestIncludedHeroDate 的字典。
     """
     # 1. 在主文件中搜索 productId 为 lottery_league_default 的所有条目
-    candidates = []
+    candidates = []   # (date, (start_str, config))
     def search_league_entries(obj):
         if isinstance(obj, dict):
             if obj.get("productId") == "lottery_league_default":
@@ -435,7 +462,7 @@ def extract_league_lottery(main_data, other_data, now):
                     if date:
                         config = obj.get("playerSelectableFeaturedEntityConfig")
                         if config and isinstance(config, dict):
-                            candidates.append((date, start_str, config))
+                            candidates.append((date.date(), (start_str, config)))
             for v in obj.values():
                 search_league_entries(v)
         elif isinstance(obj, list):
@@ -443,24 +470,15 @@ def extract_league_lottery(main_data, other_data, now):
                 search_league_entries(item)
 
     search_league_entries(main_data)
-
     if not candidates:
         print("  [英雄锦标赛奖池] 未找到任何 lottery_league_default 条目")
         return None
 
-    # 选择最接近 now 的条目
-    today = now.date()
-    def sort_key(item):
-        date_obj = item[0].date()
-        abs_days = abs((date_obj - today).days)
-        is_past = 1 if date_obj < today else 0
-        return (abs_days, is_past)
-    best_candidate = min(candidates, key=sort_key)
-    best_date = best_candidate[0]
-    best_start_str = best_candidate[1]
-    best_config = best_candidate[2]
-
-    print(f"  [英雄锦标赛奖池] 选中的条目 startDate = {best_start_str} (日期: {best_date.date()})")
+    best = choose_best_candidate(candidates, now.date())
+    if best is None:
+        return None
+    best_start_str, best_config = best
+    best_date = parse_date(best_start_str).date()   # 用于后续匹配 family
 
     result = {}
     if "amountOfSelectableFeaturedSlots" in best_config:
@@ -493,10 +511,7 @@ def extract_league_lottery(main_data, other_data, now):
                 except (KeyError, TypeError):
                     continue
 
-        if event_entries is None:
-            print("  [英雄锦标赛奖池] 警告: 无法在 other 数据中找到 pvpLeague.eventEntries")
-        else:
-            # 收集所有有效的 (日期, featuredFamilies) 对
+        if event_entries:
             family_candidates = []
             for entry in event_entries:
                 start_str = entry.get("startTime")
@@ -507,20 +522,12 @@ def extract_league_lottery(main_data, other_data, now):
                     continue
                 families = entry.get("featuredFamilies")
                 if families and isinstance(families, list):
-                    family_candidates.append((date, families))
-            if not family_candidates:
-                print("  [英雄锦标赛奖池] 未找到任何有效的 featuredFamilies 条目")
-            else:
-                # 使用与主文件相同的排序规则：按绝对天数差，过去优先权重稍低（未来优先）
-                target_date = best_date.date()
-                def sort_family_key(item):
-                    date_obj = item[0].date()
-                    abs_days = abs((date_obj - target_date).days)
-                    is_past = 1 if date_obj < target_date else 0
-                    return (abs_days, is_past)
-                best_family = min(family_candidates, key=sort_family_key)
-                result["AssociatedFamilies"] = best_family[1]
-                print(f"  [英雄锦标赛奖池] 匹配到最接近的 featuredFamilies，日期: {best_family[0].date()}，共 {len(best_family[1])} 个家族")
+                    family_candidates.append((date.date(), families))
+            if family_candidates:
+                best_families = choose_best_candidate(family_candidates, best_date)
+                if best_families is not None:
+                    result["AssociatedFamilies"] = best_families
+                    print(f"  [英雄锦标赛奖池] 匹配到最接近的 featuredFamilies，共 {len(best_families)} 个家族")
     else:
         print("  [英雄锦标赛奖池] other_data 为空，无法获取 AssociatedFamilies")
 
