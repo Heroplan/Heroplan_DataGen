@@ -203,7 +203,7 @@ window.families_bonus = [
         "name": "shark",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            " * Deal 450/510/570 Water damage over 3 turns on an enemy who deals Special Skill damage to this character.",
+            " * Deal 540/612/684 Water damage over 3 turns on an enemy who deals Special Skill damage to this character.",
             "The members of this family have additional perks in Sunbay Party event."
         ]
     },

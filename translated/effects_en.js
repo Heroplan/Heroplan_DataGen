@@ -1891,6 +1891,8 @@ const allTranslations =
         "heroId": "shark_haikala",
         "name": "Hai'Kala",
         "effects": [
+            "Cleanses status ailments from all allies.",
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "Recovers 60% health for the caster.",
             "The healing chains through all the allies who are adjacent to any healed ally.",
             "All healed allies get +50% mana generation for 5 turns (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
@@ -6656,10 +6658,10 @@ const allTranslations =
         "heroId": "shark_sharpoon",
         "name": "Sha-Arr",
         "effects": [
-            "Deals 600% damage to the target.",
-            "Deals an additional 130% damage to as many random enemies as there are Mega Minions and Minions owned by allies. The damage is reduced on each consecutive hit.",
+            "Deals 650% damage to the target.",
+            "Deals an additional 150% damage to as many random enemies as there are Mega Minions and Minions owned by allies. The damage is reduced on each consecutive hit.",
             "All hit target get -50% attack for 4 turns.",
-            "Summons a Shark Minion for each ally with 20% HP and 20% attack inherited from the caster. Deals strong damage against Ice characters.",
+            "Summons a Shark Minion for each ally with 25% HP and 25% attack inherited from the caster. Deals strong damage against Ice characters.",
             "When summoned, the Shark Minion gives its owner immunity to buff dispels and buff steals for as long as the owner has Shark Minion. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
@@ -12428,8 +12430,8 @@ const allTranslations =
         "heroId": "shark_brokhai",
         "name": "Bro'Khai",
         "effects": [
-            "Deals 320% damage to the target and 2 random enemies.",
-            "All hit targets receive 1200 Surge Water damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
+            "Deals 385% damage to the target and 2 random enemies.",
+            "All hit targets receive 1500 Surge Water damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
             "The caster and nearby allies get +50% attack, and a further 20% increase every time they are hit during 3 turns, up to +150% attack."
         ]
     },

@@ -1509,8 +1509,8 @@ const allTranslations =
         "name": "Hai'Kala",
         "passives": [
             "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
-            "* Damage increased for Special Skills 30%.",
-            "* Damage increased for Minions and Mega Minions 50%.",
+            "* Damage increased for Special Skills 35%.",
+            "* Damage increased for Minions and Mega Minions 60%.",
             "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
@@ -5172,8 +5172,8 @@ const allTranslations =
         "name": "Sha-Arr",
         "passives": [
             "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
-            "* Damage increased for Special Skills 30%.",
-            "* Damage increased for Minions and Mega Minions 50%.",
+            "* Damage increased for Special Skills 35%.",
+            "* Damage increased for Minions and Mega Minions 60%.",
             "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
@@ -5803,8 +5803,8 @@ const allTranslations =
         "name": "Haa'Muhai",
         "passives": [
             "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
-            "* Damage increased for Special Skills 30%.",
-            "* Damage increased for Minions and Mega Minions 50%.",
+            "* Damage increased for Special Skills 35%.",
+            "* Damage increased for Minions and Mega Minions 60%.",
             "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
@@ -9209,8 +9209,8 @@ const allTranslations =
         "name": "Shar'By",
         "passives": [
             "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
-            "* Damage increased for Special Skills 30%.",
-            "* Damage increased for Minions and Mega Minions 50%.",
+            "* Damage increased for Special Skills 35%.",
+            "* Damage increased for Minions and Mega Minions 60%.",
             "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
@@ -9658,8 +9658,8 @@ const allTranslations =
         "name": "Bro'Khai",
         "passives": [
             "Shark's Might: This character's Special Skill, Minions and Mega Minions deal increased damage against enemies with any ailment that deals Water damage.",
-            "* Damage increased for Special Skills 30%.",
-            "* Damage increased for Minions and Mega Minions 50%.",
+            "* Damage increased for Special Skills 35%.",
+            "* Damage increased for Minions and Mega Minions 60%.",
             "Empowered Resist Water: This character is immune to status ailments that deal Water damage and gains 450 boosted health and 5% mana each time they resist."
         ]
     },
