@@ -17993,5 +17993,50 @@ const translatedEffectsTC =
         "heroId": "titan_hunter_konradus",
         "name": "Konradus",
         "effects": []
+    },
+    {
+        "heroId": "ninja_quartz_costume_investigate",
+        "name": "Quartz C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_mizuno_seiko",
+        "name": "Mizuno Seiko",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_mina",
+        "name": "Mina",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_shaurya",
+        "name": "Shaurya",
+        "effects": []
+    },
+    {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "effects": []
+    },
+    {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_farrah_costume_cyber",
+        "name": "Farrah C",
+        "effects": []
+    },
+    {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "effects": []
     }
 ];

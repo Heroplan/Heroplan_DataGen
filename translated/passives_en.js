@@ -14044,5 +14044,50 @@ const allTranslations =
         "heroId": "titan_hunter_konradus",
         "name": "Konradus",
         "passives": []
+    },
+    {
+        "heroId": "ninja_quartz_costume_investigate",
+        "name": "Quartz C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_mizuno_seiko",
+        "name": "Mizuno Seiko",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_mina",
+        "name": "Mina",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_shaurya",
+        "name": "Shaurya",
+        "passives": []
+    },
+    {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "passives": []
+    },
+    {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_farrah_costume_cyber",
+        "name": "Farrah C",
+        "passives": []
+    },
+    {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "passives": []
     }
 ];

@@ -1,17 +1,5 @@
 [
     {
-        "name": "Pepo",
-        "fancy_name": "Survivalist Pumpkin",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-09 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_pepo",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Axioma",
         "fancy_name": "Scholar of Unseen Forces",
         "color": "Yellow",
@@ -93,6 +81,114 @@
         "family": "titan_hunter",
         "costume_id": 0,
         "heroId": "titan_hunter_konradus",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Quartz C",
+        "fancy_name": "Ninja of Ancient Graves",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-22 07:00:00",
+        "star": 5,
+        "family": "ninja",
+        "costume_id": 1,
+        "heroId": "ninja_quartz_costume_investigate",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Mizuno Seiko",
+        "fancy_name": "Shaman Ronin",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-22 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_mizuno_seiko",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Mina",
+        "fancy_name": "Lonely Mountain Cat",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-25 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_mina",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Shaurya",
+        "fancy_name": "White Desert Warrior",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-27 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_shaurya",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Ameonna Toon",
+        "fancy_name": "Lone Toon Ghost",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-28 07:00:00",
+        "star": 4,
+        "family": "japanese",
+        "costume_id": 2,
+        "heroId": "s2_ghost_woman_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Musashi Toon",
+        "fancy_name": "Toon Ronin",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-28 07:00:00",
+        "star": 5,
+        "family": "hotm2017",
+        "costume_id": 2,
+        "heroId": "holy_god_musashi_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Ursena Toon",
+        "fancy_name": "Toon of the Depths",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-28 07:00:00",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 2,
+        "heroId": "s2_ursena_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Farrah C",
+        "fancy_name": "Cyber Blade Master",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-07-01 07:00:00",
+        "star": 5,
+        "family": "super_elemental",
+        "costume_id": 1,
+        "heroId": "elemental_farrah_costume_cyber",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Azureus",
+        "fancy_name": "Aetheric Strategist",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-07-02 07:00:00",
+        "star": 5,
+        "family": "institute",
+        "costume_id": 0,
+        "heroId": "institute_azureus",
         "Lottery_Only": 1
     }
 ]

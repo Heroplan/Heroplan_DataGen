@@ -1,17 +1,5 @@
 [
     {
-        "name": "Ameonna Toon",
-        "fancy_name": "Lone Toon Ghost",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "japanese",
-        "costume_id": 2,
-        "heroId": "s2_ghost_woman_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Danzaburo Toon",
         "fancy_name": "Dauntless Toon",
         "color": "Yellow",
@@ -33,18 +21,6 @@
         "family": "lagoon",
         "costume_id": 2,
         "heroId": "s2_chameleon_chief_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Musashi Toon",
-        "fancy_name": "Toon Ronin",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "hotm2017",
-        "costume_id": 2,
-        "heroId": "holy_god_musashi_costume_cute",
         "Lottery_Only": 1
     },
     {
@@ -213,18 +189,6 @@
         "family": "bard",
         "costume_id": 1,
         "heroId": "bard_rhys_costume_baroque",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Farrah C",
-        "fancy_name": "Cyber Blade Master",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_farrah_costume_cyber",
         "Lottery_Only": 1
     },
     {
@@ -564,18 +528,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Mina",
-        "fancy_name": "Lonely Mountain Cat",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_mina",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Ajatar",
         "fancy_name": "Nightmare Goddess of Korpi",
         "color": "Purple",
@@ -624,18 +576,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ursena Toon",
-        "fancy_name": "Toon of the Depths",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 2,
-        "heroId": "s2_ursena_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Wilbur Toon",
         "fancy_name": "Valiant Fishertoon",
         "color": "Red",
@@ -681,18 +621,6 @@
         "family": "ninja",
         "costume_id": 1,
         "heroId": "ninja_zircon_costume_iron",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Quartz C",
-        "fancy_name": "Ninja of Ancient Graves",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_quartz_costume_investigate",
         "Lottery_Only": 1
     },
     {
@@ -792,18 +720,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Azureus",
-        "fancy_name": "Aetheric Strategist",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_azureus",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Vermis",
         "fancy_name": "The Worm King",
         "color": "Yellow",
@@ -900,18 +816,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Mizuno Seiko",
-        "fancy_name": "Shaman Ronin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_mizuno_seiko",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Baji",
         "fancy_name": "Bichuwa Assassin",
         "color": "Purple",
@@ -921,18 +825,6 @@
         "family": "mahayoddha",
         "costume_id": 0,
         "heroId": "mahayoddha_baji",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Shaurya",
-        "fancy_name": "White Desert Warrior",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_shaurya",
         "Lottery_Only": 1
     },
     {
