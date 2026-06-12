@@ -12314,6 +12314,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "institute_axioma",
+        "name": "Axioma",
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character up to 60%."
+        ]
+    },
+    {
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "passives": [
@@ -14006,11 +14014,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "institute_axioma",
-        "name": "Axioma",
-        "passives": []
     },
     {
         "heroId": "ghost_shu_jing",

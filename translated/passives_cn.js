@@ -12314,6 +12314,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "institute_axioma",
+        "name": "Axioma",
+        "passives": [
+            "小兵腐化：回合结束时，狂乱的敌人有几率将小兵转化为恶魔。达到 70 点狂乱后自动激活转化小兵会变身成上古邪神恶魔： 15% 攻击力， 18% 生命值，每回合施加 5 点狂乱。超级小兵会变身成上古邪神超级恶魔： 115% 攻击力， 68% 生命值，每回合施加 10% 点狂乱。",
+            "古神烙印：该角色的普通攻击和特殊技能所造成的所有伤害，都会因其身上的狂乱值而增加，每 10 点狂乱值将提升 6% 伤害，最多可提升至 60%。"
+        ]
+    },
+    {
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "passives": [
@@ -14006,11 +14014,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "institute_axioma",
-        "name": "Axioma",
-        "passives": []
     },
     {
         "heroId": "ghost_shu_jing",

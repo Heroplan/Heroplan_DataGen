@@ -15781,6 +15781,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "institute_axioma",
+        "name": "Axioma",
+        "effects": [
+            "对目标和附近敌人造成 450% 伤害，并对其施加 50 点狂乱。",
+            "所有盟友下一次使用特殊技能时，其特殊技能的攻击强度会增加 +50%，之后每回合都会额外增加 +25% 攻击强度，最多加到 +150%。",
+            "所有盟友对增益驱散和转移免疫，持续 4 回合。（此效果本身也对驱散免疫。同样包含掠夺。）",
+            "施放此特殊技能对所有盟友施加 15 点狂乱。"
+        ]
+    },
+    {
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "effects": [
@@ -17953,11 +17963,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "institute_axioma",
-        "name": "Axioma",
-        "effects": []
     },
     {
         "heroId": "ghost_shu_jing",

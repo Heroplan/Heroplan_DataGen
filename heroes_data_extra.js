@@ -48029,7 +48029,7 @@ window.allHeroesExtra = [
         "specialId": "entangling_shot",
         "specialId_costume": "stylish_shot",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "25%",
@@ -48054,7 +48054,7 @@ window.allHeroesExtra = [
         "specialId": "massive_chop",
         "specialId_costume": "massive_style",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "30%",
@@ -48079,7 +48079,7 @@ window.allHeroesExtra = [
         "specialId": "ramming_pulverizer",
         "specialId_costume": "stylish_pulverizer",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "30%",
@@ -48104,7 +48104,7 @@ window.allHeroesExtra = [
         "specialId": "khans_order",
         "specialId_costume": "stylish_order",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "90%",
@@ -48129,7 +48129,7 @@ window.allHeroesExtra = [
         "specialId": "harmonic_slam",
         "specialId_costume": "stylish_slam",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "25%",
@@ -48177,5 +48177,25 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Axioma",
+        "fancy name": "Scholar of Unseen Forces",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-06-12",
+        "AetherPower": "Counterattack",
+        "heroId": "institute_axioma",
+        "baseAttack": 668,
+        "baseDefense": 679,
+        "baseHealth": 1160,
+        "specialId": "the_forbidden_formula",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "family": "institute"
     }
 ];

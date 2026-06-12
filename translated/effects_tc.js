@@ -15781,6 +15781,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "institute_axioma",
+        "name": "Axioma",
+        "effects": [
+            "對目標和鄰近敵人造成 450% 傷害，並對其造成 50 點瘋狂。",
+            "所有盟友下一次使用特殊技能時獲得额外 +50% 攻擊力。额外攻擊力每回合增加 +25% ,總計最多增加 +150%。",
+            "所有盟友在 4 回合內對增益驅散和轉移免疫。（免疫也包含此效果本身。也包含劫掠。）",
+            "施放此特殊技能會對所有盟友造成 15 點瘋狂。"
+        ]
+    },
+    {
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "effects": [
@@ -17953,11 +17963,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "institute_axioma",
-        "name": "Axioma",
-        "effects": []
     },
     {
         "heroId": "ghost_shu_jing",

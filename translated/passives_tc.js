@@ -12314,6 +12314,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "institute_axioma",
+        "name": "Axioma",
+        "passives": [
+            "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
+            "被舊者烙印：此角色每有 10 點瘋狂，其普通攻擊和特殊技能造成的所有傷害提升 6%，最高提升 60%。"
+        ]
+    },
+    {
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "passives": [
@@ -14006,11 +14014,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "institute_axioma",
-        "name": "Axioma",
-        "passives": []
     },
     {
         "heroId": "ghost_shu_jing",

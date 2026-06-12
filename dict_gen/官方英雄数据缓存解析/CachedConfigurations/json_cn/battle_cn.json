@@ -54372,7 +54372,7 @@
         "statusEffect": "Block",
         "id": "block_cloveria",
         "buff": "MinorBuff",
-        "blockChancePerMil": 210,
+        "blockChancePerMil": 260,
         "blockChanceIncrementPerLevelPerMil": 20,
         "immuneElement": "None"
       },
@@ -56872,12 +56872,12 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 130,
+        "fixedDamagePerTurn": 180,
         "fixedDamagePerTurnIncrementPerLevel": 10,
         "extraDamagePerTurnPerMil": 0,
         "maxExtraDamagePerTurnPerMil": 0,
         "fixedExtraDamagePerTurn": 50,
-        "maxFixedExtraDamagePerTurn": 300
+        "maxFixedExtraDamagePerTurn": 250
       },
       {
         "statusEffect": "AdditiveUnderwater",
@@ -62710,7 +62710,7 @@
         "statusEffect": "UnderWater",
         "id": "underwater_shark_family",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 100,
+        "damageMultiplierPerMil": 120,
         "damageMultiplierIncrementPerLevelPerMil": 0
       },
       {
@@ -71340,11 +71340,11 @@
         "acceptedDamageSources": [
           {
             "source": "SpecialSkill",
-            "additionalModifierPerStatusEffectPerMil": 300
+            "additionalModifierPerStatusEffectPerMil": 350
           },
           {
             "source": "Familiar",
-            "additionalModifierPerStatusEffectPerMil": 500
+            "additionalModifierPerStatusEffectPerMil": 600
           }
         ]
       },
@@ -74519,7 +74519,7 @@
             "id": "add_dispel_and_steal_immunity_shark_minion_green"
           }
         ],
-        "healthPerMil": 130,
+        "healthPerMil": 180,
         "healthPerLevelPerMil": 10,
         "monsterHealthPerMil": 200
       },
@@ -74550,7 +74550,10 @@
           {
             "id": "add_dispel_and_steal_immunity_shark_minion_red"
           }
-        ]
+        ],
+        "healthPerMil": 180,
+        "healthPerLevelPerMil": 10,
+        "monsterHealthPerMil": 200
       }
     ],
     "familiarEffects": [
@@ -78262,7 +78265,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 130,
+        "attackPercentPerMil": 180,
         "attackPercentIncrementPerLevelPerMil": 10,
         "monsterAttackPercentPerMil": 200,
         "strongAgainstElement": "Blue"
@@ -97088,5 +97091,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1989316620
+  "battleConfigId": 2693124023
 }

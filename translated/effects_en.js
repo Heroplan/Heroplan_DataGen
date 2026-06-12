@@ -15781,6 +15781,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "institute_axioma",
+        "name": "Axioma",
+        "effects": [
+            "Deals 450% damage to the target and nearby enemies and inflicts 50 Insanity on them.",
+            "All allies get an additional +50% attack power for the next Special Skill they cast. The additional attack power increases +25% each turn, up to a maximum of +150% in total.",
+            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
+            "Casting this Special Skill inflicts 15 Insanity on all allies."
+        ]
+    },
+    {
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "effects": [
@@ -17953,11 +17963,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "institute_axioma",
-        "name": "Axioma",
-        "effects": []
     },
     {
         "heroId": "ghost_shu_jing",

@@ -1151,7 +1151,7 @@
         "id": "lottery_season_untold_tales2",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 184,
+        "uiPriority": 195,
         "bonusChest": "untold_tales2",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 12,
@@ -1349,7 +1349,7 @@
         "id": "lottery_super_elemental_red",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 168,
+        "uiPriority": 196,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_red",
         "bonusChestRequirement": 10,
@@ -2288,7 +2288,7 @@
         "id": "lottery_black_solstice_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 120,
+        "uiPriority": 198,
         "associatedEvent": "SolsticeSummon",
         "bonusChest": "solstice_chest",
         "bonusChestRequirement": 10,
@@ -2430,7 +2430,7 @@
         "id": "lottery_titan_hunter_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 189,
+        "uiPriority": 197,
         "associatedEvent": "TitanHunter",
         "bucketWeights": [
           710,
@@ -7844,12 +7844,12 @@
               {
                 "type": "Item",
                 "id": "hero_royal_tabard",
-                "amount": 1
+                "amount": 2
               },
               {
                 "type": "Item",
                 "id": "hero_trap_tools",
-                "amount": 3
+                "amount": 4
               },
               {
                 "type": "Hero",
@@ -13254,6 +13254,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13335,6 +13336,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -19268,7 +19270,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -20614,7 +20615,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1a",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20659,7 +20659,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1b",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20704,7 +20703,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2a",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20724,7 +20722,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2b",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20744,7 +20741,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23028,6 +23024,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26658,17 +26655,18 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_tower_coin",
+            "id": "lottery_challenge_coin",
+            "amount": 30,
+            "zyngaStoreExtraAmount": 10
+          },
+          {
+            "type": "Item",
+            "id": "lottery_shadow_coin",
             "amount": 300
           },
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 300
-          },
-          {
-            "type": "Item",
-            "id": "lottery_mimic_coin",
+            "id": "lottery_ascension_coin",
             "amount": 300
           },
           {
@@ -26678,7 +26676,7 @@
           },
           {
             "type": "Item",
-            "id": "lottery_atlantis_coin",
+            "id": "lottery_season5_coin",
             "amount": 300
           },
           {
@@ -35871,7 +35869,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35908,6 +35905,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35926,6 +35924,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36627,6 +36626,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1a",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36651,6 +36651,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1b",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36675,6 +36676,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2a",
         "dollarValue": 12,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36706,6 +36708,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2b",
         "dollarValue": 12,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36737,6 +36740,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3a",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36776,6 +36780,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3b",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -44467,6 +44472,38 @@
           {
             "type": "Item",
             "id": "tome_levels_epic",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_code_friendly3goodies",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "refill_energy_friendly_tiny",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "lottery_elite_hero",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "lottery_elite_troop",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_large",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_large",
             "amount": 1
           }
         ]
@@ -58455,5 +58492,5 @@
       }
     ]
   },
-  "productsConfigId": 142417532
+  "productsConfigId": 617830426
 }

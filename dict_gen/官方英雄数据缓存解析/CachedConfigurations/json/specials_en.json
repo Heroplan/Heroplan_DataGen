@@ -46255,7 +46255,8 @@
         "id": "kite_diving",
         "directEffect": {
           "sideAffected": "Allies",
-          "typeOfTarget": "All"
+          "typeOfTarget": "All",
+          "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
         "statusEffects": [
@@ -57341,7 +57342,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3200,
+          "powerMultiplierPerMil": 3650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -57909,6 +57910,7 @@
         },
         "maxLevel": 8,
         "properties": [
+          "eat_parasites_all",
           "cascading_heal_haikala"
         ],
         "summonedFamiliars": [
@@ -57918,7 +57920,10 @@
             "familiarTargetType": "Single",
             "amountPerCharacter": 1
           }
-        ]
+        ],
+        "buffToRemove": "MinorDebuff",
+        "buffToRemoveSideAffected": "Allies",
+        "removeBuffsFirst": true
       },
       {
         "id": "blast_wave_punch",
@@ -60049,7 +60054,7 @@
         "propertyType": "ChainStrikeWithHitPerFamiliar",
         "id": "chain_strike_with_hit_per_minion_sharpoon",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 5650,
+        "powerMultiplierPerMil": 6150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "statusEffects": [
           {
@@ -60058,7 +60063,7 @@
           }
         ],
         "consecutiveHitDamageReductionPerMil": 50,
-        "extraHitPowerPerMil": 950,
+        "extraHitPowerPerMil": 1150,
         "extraHitPowerIncrementPerLevelPerMil": 50,
         "countedFamiliarTypes": [
           "Minion",
@@ -70719,7 +70724,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_brokhai",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2850,
+        "powerMultiplierPerMil": 3500,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -72677,5 +72682,5 @@
       }
     ]
   },
-  "specialsConfigId": 3158380860
+  "specialsConfigId": 1797318865
 }
