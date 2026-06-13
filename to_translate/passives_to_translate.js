@@ -8052,6 +8052,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_shu_jing",
+        "name": "Shu Jing",
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+        ]
+    },
+    {
         "heroId": "dark_god_sir_casmir",
         "name": "Sir Casmir",
         "passives": [
@@ -14014,11 +14023,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "ghost_shu_jing",
-        "name": "Shu Jing",
-        "passives": []
     },
     {
         "heroId": "dryad_pansius",

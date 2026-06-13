@@ -48197,5 +48197,24 @@ window.allHeroesExtra = [
             "corrupt_minions_all_enemies"
         ],
         "family": "institute"
+    },
+    {
+        "name": "Shu Jing",
+        "fancy name": "Scholarly Ghost Officer",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-06-13",
+        "AetherPower": "Counterattack",
+        "heroId": "ghost_shu_jing",
+        "baseAttack": 676,
+        "baseDefense": 669,
+        "baseHealth": 1162,
+        "specialId": "blinding_debates",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "family": "ghost"
     }
 ];

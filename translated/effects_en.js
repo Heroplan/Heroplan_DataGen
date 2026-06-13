@@ -10367,6 +10367,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_shu_jing",
+        "name": "Shu Jing",
+        "effects": [
+            "Deals 355% damage to all enemies.",
+            "All enemies get -50% accuracy for 4 turns. This effect is Stubborn. (Chance to miss also applies to offensive Special Skills. Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
+            "All allies are immune to damage from status ailments and negative stacks for 4 turns. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)"
+        ]
+    },
+    {
         "heroId": "dark_god_sir_casmir",
         "name": "Sir Casmir",
         "effects": [
@@ -17963,11 +17972,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "ghost_shu_jing",
-        "name": "Shu Jing",
-        "effects": []
     },
     {
         "heroId": "dryad_pansius",
