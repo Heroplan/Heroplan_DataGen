@@ -5059,6 +5059,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "dryad_cloveria",
+        "name": "Cloveria",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "The target is Mesmerized for 3 turns. This effect can’t be cleansed. (The Mesmerized enemy has -40% defense against Special Skills and takes +40% increased damage from status ailments. Against Dryads the enemy has -60% defense against Special Skills and takes +60% increased damage from status ailments.)",
+            "All allies have a 40% chance to drop any received damage to 1 for 3 turns."
+        ]
+    },
+    {
         "heroId": "nature_god_coleston",
         "name": "Coleston",
         "effects": [
@@ -9967,6 +9976,15 @@ const allTranslations =
             "Deals 595% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -55% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
             "The target and nearby enemies deal 500 damage to a random ally if they miss Special Skill during 4 turns."
+        ]
+    },
+    {
+        "heroId": "dryad_pansius",
+        "name": "Pansius",
+        "effects": [
+            "Deals 400% damage to the target and nearby enemies.",
+            "The target and nearby enemies are Mesmerized for 4 turns. This effect can’t be cleansed. (The Mesmerized enemy has -40% defense against Special Skills and takes +40% increased damage from status ailments. Against Dryads the enemy has -60% defense against Special Skills and takes +60% increased damage from status ailments.)",
+            "The target and nearby enemies receive 1008 Poison damage over 4 turns."
         ]
     },
     {
@@ -17972,16 +17990,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "dryad_pansius",
-        "name": "Pansius",
-        "effects": []
-    },
-    {
-        "heroId": "dryad_cloveria",
-        "name": "Cloveria",
-        "effects": []
     },
     {
         "heroId": "tales2_aethslegaur_costume_soul_seeker",

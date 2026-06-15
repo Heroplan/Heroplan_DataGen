@@ -3900,6 +3900,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "dryad_cloveria",
+        "name": "Cloveria",
+        "passives": [
+            "Whispering Petal Rain: Every 4 turns, one random enemy is Mesmerized for 4 turns. This effect can’t be cleansed. (The Mesmerized enemy has -40% defense against Special Skills and takes +40% increased damage from status ailments. Against Dryads the enemy has -60% defense against Special Skills and takes +60% increased damage from status ailments.)",
+            "Ethereal Petal Veil: After casting a Special Skill this character is Camouflaged and can’t be directly targeted by enemy Special Skills for 5 turns. This effect can’t be dispelled or reallocated. (Selecting the character as a target on defense is prevented. On attack the character will not be targeted. Special Skills that hit specific positions such as edges of the formation bypass Camouflage. If the last character in the battle is Camouflaged, they will be hit automatically. A Camouflaged character can be healed and damaged by Special Skills, status effects and normal attacks.)"
+        ]
+    },
+    {
         "heroId": "nature_god_coleston",
         "name": "Coleston",
         "passives": [
@@ -7760,6 +7768,14 @@ const allTranslations =
             "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
             "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ]
+    },
+    {
+        "heroId": "dryad_pansius",
+        "name": "Pansius",
+        "passives": [
+            "Whispering Petal Rain: Every 4 turns, one random enemy is Mesmerized for 4 turns. This effect can’t be cleansed. (The Mesmerized enemy has -40% defense against Special Skills and takes +40% increased damage from status ailments. Against Dryads the enemy has -60% defense against Special Skills and takes +60% increased damage from status ailments.)",
+            "Ethereal Petal Veil: After casting a Special Skill this character is Camouflaged and can’t be directly targeted by enemy Special Skills for 5 turns. This effect can’t be dispelled or reallocated. (Selecting the character as a target on defense is prevented. On attack the character will not be targeted. Special Skills that hit specific positions such as edges of the formation bypass Camouflage. If the last character in the battle is Camouflaged, they will be hit automatically. A Camouflaged character can be healed and damaged by Special Skills, status effects and normal attacks.)"
         ]
     },
     {
@@ -14023,16 +14039,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "dryad_pansius",
-        "name": "Pansius",
-        "passives": []
-    },
-    {
-        "heroId": "dryad_cloveria",
-        "name": "Cloveria",
-        "passives": []
     },
     {
         "heroId": "tales2_aethslegaur_costume_soul_seeker",

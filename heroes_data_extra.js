@@ -48216,5 +48216,45 @@ window.allHeroesExtra = [
             "vengeful_ghost_on_damage_received"
         ],
         "family": "ghost"
+    },
+    {
+        "name": "Cloveria",
+        "fancy name": "Vanguard of the Ancient Bloom",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2026-06-15",
+        "AetherPower": "Knight's Endurance",
+        "heroId": "dryad_cloveria",
+        "baseAttack": 675,
+        "baseDefense": 675,
+        "baseHealth": 1161,
+        "specialId": "four_leaf_fortune",
+        "passiveSkills": [
+            "camouflage_on_special_cast",
+            "mesmerize_over_time_dryad"
+        ],
+        "family": "dryad"
+    },
+    {
+        "name": "Pansius",
+        "fancy name": "Enchanter of the Ancient Bloom",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-06-15",
+        "AetherPower": "Boosted Regen",
+        "heroId": "dryad_pansius",
+        "baseAttack": 682,
+        "baseDefense": 667,
+        "baseHealth": 1160,
+        "specialId": "poisonous_velvet_petals",
+        "passiveSkills": [
+            "camouflage_on_special_cast",
+            "mesmerize_over_time_dryad"
+        ],
+        "family": "dryad"
     }
 ];

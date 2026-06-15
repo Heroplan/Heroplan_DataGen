@@ -58218,7 +58218,7 @@
                 "battleBackgroundId": "DragonArenaDesert",
                 "recruitsRewardMin": 2,
                 "recruitsRewardMax": 4,
-                "enabled": false,
+                "enabled": true,
                 "idleLootChestLootConfigId": "dragon_pvp_idle_loot_chest_platinum_1"
               },
               {
@@ -58227,7 +58227,7 @@
                 "battleBackgroundId": "DragonArenaDesert",
                 "recruitsRewardMin": 2,
                 "recruitsRewardMax": 4,
-                "enabled": false,
+                "enabled": true,
                 "idleLootChestLootConfigId": "dragon_pvp_idle_loot_chest_platinum_2"
               },
               {
@@ -58236,7 +58236,7 @@
                 "battleBackgroundId": "DragonArenaDesert",
                 "recruitsRewardMin": 2,
                 "recruitsRewardMax": 4,
-                "enabled": false,
+                "enabled": true,
                 "idleLootChestLootConfigId": "dragon_pvp_idle_loot_chest_platinum_3"
               },
               {
@@ -82914,10 +82914,10 @@
         "productionIntervalSeconds": 3600
       },
       "pveDragonEnergy": {
-        "productionIntervalSeconds": 1200
+        "productionIntervalSeconds": 600
       },
       "pvpDragonEnergy": {
-        "productionIntervalSeconds": 7200
+        "productionIntervalSeconds": 3600
       },
       "heroLevelUp": {
         "mode": "Classic",
@@ -93634,5 +93634,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2721991407
+  "otherConfigId": 4174711894
 }

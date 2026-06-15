@@ -65,6 +65,7 @@
     "^\\s+\\*\\s+Heroes\\s+belonging\\s+to\\s+this\\s+family\\s+as\\s+well\\s+as\\s+Heroes\\s+fighting\\s+alongside\\s+them\\s+receive\\s+the\\s+following\\s+perks\\s+in\\s+War\\s+of\\s+the\\s+Three\\s+Kingdoms$": "* 同屬此家族的英雄以及與其一起戰鬥的英雄，他們都會在三國之戰中獲得以下福利：",
     "^\\s+\\*\\s+Deal([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Water\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\s+on\\s+an\\s+enemy\\s+who\\s+deals\\s+Special\\s+Skill\\s+damage\\s+to\\s+this\\s+character\\.?\\s*$": "* 對使用特殊技能對此角色造成傷害的敵人，在\\4回合内造成\\1/\\2/\\3點水系傷害。",
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+Sunbay\\s+Party\\s+event\\.?\\s*$": "此家族的成員在日灣派對活動中有额外福利。",
+    "^\\s+\\*\\s+All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)health\\s+regeneration\\s+stack\\s+each\\s+time\\s+this\\s+character\\s+attempts\\s+to\\s+Mesmerize\\s+an\\s+enemy\\.?\\s*\\s+\\(Max\\s+stacks:([+-]?\\s*\\d+\\s*%?)\\)$": "* 此角色每次嘗試迷惑敵人時，所有盟友獲得 \\1/ \\2/ \\3生命值恢復疊加（最大值：\\4）。",
     "^Bonus\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Unique\\s+Heroes:$": "\\1/\\2/\\3位獨特英雄的加成：",
     "^([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+defense$": "\\1 / \\2 / \\3 防禦",
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+the\\s+Sand\\s+Empire\\s+event\\.?\\s*$": "此家族的成員在飛沙帝國活動中有額外福利。",
