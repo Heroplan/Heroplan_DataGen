@@ -20,7 +20,9 @@ Les gemmes du Souterrain ne peuvent apparaître que sur les boucliers standard d
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % d'attaque."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Tous les alliés reçoivent un cumul de {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % d'attaque à chaque fois que ce personnage essaie de piller un ennemi. (Maximum de cumuls : {MAXSTACK}.)"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent un cumul de {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % d'attaque à chaque fois que ce personnage essaie de piller un ennemi."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent un cumul de {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % d'attaque à chaque fois que ce personnage essaie de piller un ennemi. Cet effet peut s'activer seulement {MAXACTIVATIONSPERTURN} fois par tour."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent un cumul de {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % d'attaque à chaque fois que ce personnage essaie de piller un ennemi. Cet effet peut s'activer seulement une fois par tour."
 "familybonuses.description.long.build_charge_beauty_beast","Les conditions d'humilité sont différentes pour chaque héros.
 Lorsque le héros utilise la version plus puissante de sa compétence spéciale, seule la quantité nécessaire d'humilité est consommée.
 Maximum d'humilité : 100.
@@ -35,6 +37,8 @@ Le héros reçoit {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHAR
 "familybonuses.description.long.build_charge_nidavellir","Le noyau en fusion se charge chaque fois que ce personnage subit des dégâts d'attaques normales ou de compétences spéciales."
 "familybonuses.description.long.build_charge_nidavellir_alt","Le noyau en fusion se charge chaque fois que ce personnage subit des dégâts d'attaques normales ou de compétences spéciales."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Ce personnage a {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances supplémentaires de contourner les bonus défensifs avec leurs attaques. Si des bonus défensifs sont contournés, le mana de ce personnage augmente de {POWER} %."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Ce personnage a {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances supplémentaires de contourner les bonus défensifs avec ses attaques. Le contournement est garanti contre les contre-attaques et les renvois.
+Si des bonus défensifs sont contournés, le mana de ce personnage augmente de {POWER} %."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quand ce héros subit un effet négatif qui affecte la défense, il a {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances de le transmettre à tous les ennemis."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances d'augmenter la durée de chaque effet de danse de la fortune lancé par ce personnage de 1 tour."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % de dégâts de compétence spéciale."
@@ -183,7 +187,9 @@ Si ce personnage est vaincu par la compétence spéciale de l'ennemi, la probabi
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","Au début de chaque tour, l'ennemi qui a le plus de PV reçoit un lys de sang."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Au début de chaque tour, l'ennemi qui a le plus de PV reçoit un lys de sang."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Au début de chaque tour, l'ennemi qui a le plus de PV reçoit un lys de sang."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Tous les alliés reçoivent un cumul d'attaque de {ATTACK} % lorsque ce personnage essaie de piller un autre personnage. (Maximum de cumuls : {MAXSTACK}.)"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Cumul (max : 10) : tous les alliés reçoivent {ATTACK} % d'attaque lorsque ce personnage essaie de piller un ennemi."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Cumul (max : 10) : tous les alliés reçoivent {ATTACK} % d'attaque lorsque ce personnage essaie de piller un ennemi. Cet effet peut s'activer seulement {MAXACTIVATIONSPERTURN} fois par tour."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Cumul (max : 10) : tous les alliés reçoivent {ATTACK} % d'attaque lorsque ce personnage essaie de piller un ennemi. Cet effet peut s'activer seulement une fois par tour."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Ce personnage reçoit {CURRENTCHARGEFROMDAMAGE} point(s) d'humilité lorsqu'il subit des dégâts directs de compétence spéciale. Une fois par tour au maximum.
 Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il reçoit des soins directs de compétence spéciale. Une fois par tour au maximum."
@@ -192,6 +198,7 @@ Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il re
 "familybonuses.description.short.build_charge_nidavellir","Ce personnage charge son noyau en fusion lorsqu'il subit des dégâts d'attaques normales ou de compétences spéciales."
 "familybonuses.description.short.build_charge_nidavellir_alt","Le noyau en fusion se charge chaque fois que ce personnage subit des dégâts d'attaques normales ou de compétences spéciales."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE} % de chances supplémentaires de contourner les bonus défensifs avec leurs attaques. Si des bonus défensifs sont contournés, le mana de ce personnage augmente de {POWER} %."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE} % de chances supplémentaires de contourner les bonus défensifs avec leurs attaques. Si des bonus défensifs sont contournés, le mana de ce personnage augmente de {POWER} %. Le contournement est garanti contre les contre-attaques et les renvois."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quand ce héros subit un effet négatif qui affecte la défense, il a {CHANCE} % de chances de le transmettre à tous les ennemis."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % de chances d'augmenter la durée des effets appliqués de danse de la fortune de 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % de dégâts de compétence spéciale."
@@ -509,7 +516,7 @@ La famille Année lumière est composée de différents animaux du calendrier lu
 "herocard.family.title.musketeer.short","Mousquetaire"
 "herocard.family.title.muspelheim","Royaume de Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Royaume de Myrkheim"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Famille mystère"
 "herocard.family.title.mystery.short","Mystère"

@@ -20,7 +20,9 @@
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","该角色每次尝试对敌方发动掠夺时，所有盟友获得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻击力叠加效果。（最大叠加次数：{MAXSTACK}）"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","叠加（最多：{MAXSTACK}层）：该角色每次尝试对敌方发动掠夺时，所有盟友获得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻击力叠加效果。"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","叠加（最多：{MAXSTACK}层）：该角色每次尝试对敌方发动掠夺时，所有盟友获得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻击力叠加效果。此效果每回合仅生效{MAXACTIVATIONSPERTURN}次。"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","叠加（最多：{MAXSTACK}层）：该角色每次尝试对敌方发动掠夺时，所有盟友获得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻击力叠加效果。此效果每回合仅生效一次。"
 "familybonuses.description.long.build_charge_beauty_beast","不同英雄的谦逊需求各不相同。
 当英雄施放其强力版本的特殊技能时，仅消耗所需的谦逊值。
 最大谦逊值：100。
@@ -36,6 +38,8 @@
 "familybonuses.description.long.build_charge_nidavellir","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其熔岩核心充能。"
 "familybonuses.description.long.build_charge_nidavellir_alt","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其熔岩核心充能。"
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","此角色在攻击时有{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的额外几率绕过防御增益。如果绕过防御增益，此角色的法力增加{POWER}%。"
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","此角色在攻击时有{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的额外几率无视防御增益。必定无视反击和反弹。
+如果无视防御增益，此角色的法力增加{POWER}%。"
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","此英雄受到影响防御的状态异常时，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%几率施加该状态异常于所有敌人身上。"
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","每次此英雄施放幸运之舞状态效果时，都有{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的几率使其持续时间延长1个回合。"
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%额外特殊技能伤害。"
@@ -184,7 +188,9 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","每回合开始时，用血莲标记剩余生命值最高的敌人。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","每回合开始时，用血莲标记剩余生命值最高的敌人。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","每回合开始时，用血莲标记剩余生命值最高的敌人。"
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","当该角色尝试对敌人发动掠夺时，为全体盟友施加{ATTACK}%攻击力叠加效果。（最大叠加次数：{MAXSTACK}）"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","叠加（最多：10层）：当此角色尝试对敌人发动掠夺时，所有盟友获得{ATTACK}%的攻击力。"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","叠加（最多：10层）：当此角色尝试对敌人发动掠夺时，所有盟友获得{ATTACK}%的攻击力。此效果每回合仅激活{MAXACTIVATIONSPERTURN}次。"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","叠加（最多：10层）：当此角色尝试对敌人发动掠夺时，所有盟友获得{ATTACK}%的攻击力。此效果每回合仅激活一次。"
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","该角色在受到特殊技能造成的直接伤害时会获得{CURRENTCHARGEFROMDAMAGE}点谦逊。每回合最多一次。
 该角色在受到特殊技能直接治疗时会获得{CURRENTCHARGEFROMHEAL}点谦逊。每回合最多一次。"
@@ -193,6 +199,7 @@
 "familybonuses.description.short.build_charge_nidavellir","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为此角色的熔岩核心充能。"
 "familybonuses.description.short.build_charge_nidavellir_alt","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其熔岩核心充能。"
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","此角色攻击时有{CHANCE}%的额外几率绕过防御增益。如果绕过防御增益，此角色的法力增加{POWER}%。"
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","此角色攻击时有{CHANCE}%的额外几率无视防御增益。如果无视防御增益，此角色的法力增加{POWER}%。必定无视反击和反弹。"
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","此英雄受到影响防御的状态异常时，有{CHANCE}%几率施加该状态异常于所有敌人身上。"
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","有{CHANCE}%几率使所施放的幸运之舞状态效果持续时间延长1个回合。"
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}%额外特殊技能伤害。"
@@ -510,7 +517,7 @@
 "herocard.family.title.musketeer.short","火枪手"
 "herocard.family.title.muspelheim","穆斯贝尔海姆王国"
 "herocard.family.title.muspelheim.short","穆斯贝尔海姆"
-"herocard.family.title.myrkheim","马克海姆"
+"herocard.family.title.myrkheim","马克海姆王国"
 "herocard.family.title.myrkheim.short","马克海姆"
 "herocard.family.title.mystery","神秘家族"
 "herocard.family.title.mystery.short","神秘"

@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Utallige historier"
 "lottery.title.superelementalsummon","Superelementfremkalling"
 "lottery.title.templesummon","Tempelfremkalling"
+"lottery.title.thunderboltsummon","Tordenboltfremkalling"
 "lottery.title.titanhuntersummon","Titanjakt-fremkalling"
 "lottery.title.towereventsummon","Tårnpåkalling"
 "lottery.title.towertroopsummon","Tårntropp-påkalling"

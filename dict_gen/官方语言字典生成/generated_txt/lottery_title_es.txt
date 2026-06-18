@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Historias no contadas"
 "lottery.title.superelementalsummon","Invocación superelemental"
 "lottery.title.templesummon","Invocación de templo"
+"lottery.title.thunderboltsummon","Invocación de relámpago"
 "lottery.title.titanhuntersummon","Invocación cazatitanes"
 "lottery.title.towereventsummon","Invocación de torre"
 "lottery.title.towertroopsummon","Invocación de tropas de torre"

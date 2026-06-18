@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Impresa del patto"
 "quests.name.crafting","Trova materiali di creazione"
 "quests.name.crafting_uncommon","Trova materiali di creazione II"
+"quests.name.demonic_rift_dragon","Razziatori demoniaci"
 "quests.name.dragon_battle_and_crafting","Notte degli oggetti"
 "quests.name.dragon_cave_classic","Caverna del drago"
 "quests.name.dragon_dragonlings_and_xp","Recupera cuccioli di drago"

@@ -8895,7 +8895,7 @@ const translatedEffectsCN =
         "effects": [
             "掠夺目标，偷取生命值和增益。（偷取 400 点生命值。安全地从目标身上偷取一个随机成长效果、正面叠加或状态效果增益。包括无法驱散的增益与舞蹈效果。安全偷取会无视状态效果增益被移除时的副作用，例如移除时的伤害。但被动技能和家族效果仍会触发。）",
             "对目标造成 560% 伤害。",
-            "目标在 3 回合内受到共计 1413 点剧毒伤害。此效果会蔓延至附近敌人。"
+            "目标在 3 回合内受到共计 1425 点剧毒伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
@@ -18049,6 +18049,156 @@ const translatedEffectsCN =
     {
         "heroId": "institute_azureus",
         "name": "Azureus",
+        "effects": []
+    },
+    {
+        "heroId": "construct_featherweight",
+        "name": "Featherweight",
+        "effects": []
+    },
+    {
+        "heroId": "ghost_hua_pi_gui",
+        "name": "Hua Pi Gui",
+        "effects": []
+    },
+    {
+        "heroId": "nordic_ice_enchantress_costume_stylish",
+        "name": "Isarnia Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "oriental_panda_warrior_costume_stylish",
+        "name": "Hu Tao Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "lizardman_trapper_costume_stylish",
+        "name": "Kashhrek Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "nordic_chained_werewolf_costume_stylish",
+        "name": "Graymane Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "forest_friar_costume_stylish",
+        "name": "Friar Tuck Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_orson",
+        "name": "Orson",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_baji",
+        "name": "Baji",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_hogne_costume_lunar",
+        "name": "Hogne C",
+        "effects": []
+    },
+    {
+        "heroId": "kalevala_iku_turso_costume_crown",
+        "name": "Iku-Turso C",
+        "effects": []
+    },
+    {
+        "heroId": "kalevala_para_costume_sword",
+        "name": "Para C",
+        "effects": []
+    },
+    {
+        "heroId": "kalevala_ajatar",
+        "name": "Ajatar",
+        "effects": []
+    },
+    {
+        "heroId": "kalevala_kaski",
+        "name": "Kaski",
+        "effects": []
+    },
+    {
+        "heroId": "musketeer_queen_anne_costume_commander",
+        "name": "Queen Anne C",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_beauty",
+        "name": "Beauty",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
+        "effects": []
+    },
+    {
+        "heroId": "s2_fox_girl_costume_cute",
+        "name": "Inari Toon",
+        "effects": []
+    },
+    {
+        "heroId": "forest_god_oberon_costume_cute",
+        "name": "Alberich Toon",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "name": "Darkfeather C",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_goldie_costume_perfume",
+        "name": "Goldie C",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_boots_costume_candle",
+        "name": "Boots C",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_brin",
+        "name": "Brin",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_tofana",
+        "name": "Tofana",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_cade",
+        "name": "Cade",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_ketch",
+        "name": "Ketch",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_irme",
+        "name": "Irme",
+        "effects": []
+    },
+    {
+        "heroId": "ninja_zircon_costume_iron",
+        "name": "Zircon C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_tenzin_kiba",
+        "name": "Tenzin Kiba",
         "effects": []
     }
 ];

@@ -20,7 +20,9 @@ Onderwildernis-edelstenen verschijnen uitsluitend op gewone schilden van hetzelf
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% aanvalskracht."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% aanvalskracht."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% aanvalskracht."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Alle bondgenoten krijgen elke keer als dit personage een vijand probeert te plunderen {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% cumulatieve aanvalskracht. (Max. cumulatief: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Cumulatief (max. cumulatief: {MAXSTACK}): alle bondgenoten krijgen elke keer als dit personage een vijand probeert te plunderen {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% cumulatieve aanvalskracht."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Cumulatief (max. cumulatief: {MAXSTACK}): alle bondgenoten krijgen elke keer als dit personage een vijand probeert te plunderen {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% cumulatieve aanvalskracht. Dit effect kan per beurt {MAXACTIVATIONSPERTURN} keer geactiveerd worden."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Cumulatief (max. cumulatief: {MAXSTACK}): alle bondgenoten krijgen elke keer als dit personage een vijand probeert te plunderen {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% cumulatieve aanvalskracht. Dit effect kan per beurt één keer geactiveerd worden."
 "familybonuses.description.long.build_charge_beauty_beast","Verschillende helden hebben verschillende nederigheidsvereisten.
 Als de held de sterke versie van zijn of haar speciale vaardigheid gebruikt, wordt alleen de vereiste hoeveelheid nederigheid verbruikt.
 Maximale nederigheid: 100.
@@ -36,6 +38,8 @@ De held krijgt {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.build_charge_nidavellir","De gesmolten kern wordt opgeladen elke keer als dit personage schade oploopt van normale aanvallen of speciale vaardigheden."
 "familybonuses.description.long.build_charge_nidavellir_alt","De gesmolten kern wordt opgeladen elke keer als dit personage schade oploopt van normale aanvallen of speciale vaardigheden."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Dit personage heeft {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% extra kans om verdedigende oppeppers te omzeilen met hun aanvallen. Als er verdedigingsoppeppers worden omzeild, wordt de mana van dit personage verhoogd met {POWER}%."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Dit personage heeft {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% extra kans om verdedigende oppeppers te omzeilen met hun aanvallen. Omzeiling is gegarandeerd bij tegenaanvallen en weerspiegeling.
+Als er verdedigingsoppeppers worden omzeild, wordt de mana van dit personage verhoogd met {POWER}%."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Als een held een statuseffect ontvangt dat invloed heeft op zijn verdediging, is er {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans dat het ontvangen effect op alle vijanden wordt toegepast."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans om de duur van elk fortuindans-statuseffect dat door dit personage gebruikt wordt, te verlengen met 1 beurt."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% extra schade speciale vaardigheden."
@@ -183,7 +187,9 @@ Aanvullende vaardigheid met 3 familieleden: bij aanroep geeft de maskervolgeling
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","Aan het begin van iedere beurt wordt de vijand met de meeste resterende HP gemarkeerd met een bloedlelie."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Aan het begin van iedere beurt wordt de vijand met de meeste resterende HP gemarkeerd met een bloedlelie."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Aan het begin van iedere beurt wordt de vijand met de meeste resterende HP gemarkeerd met een bloedlelie."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Pas {ATTACK}% cumulatieve aanval toe op alle bondgenoten wanneer dit personage een ander personage probeert te plunderen. (Cumulatief max.: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Cumulatief (max: 10): alle bondgenoten krijgen {ATTACK}% aanvalskracht als dit personage probeert een vijand te plunderen."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Cumulatief (max: 10): alle bondgenoten krijgen {ATTACK}% aanvalskracht als dit personage probeert een vijand te plunderen. Dit effect kan per beurt {MAXACTIVATIONSPERTURN} keer geactiveerd worden."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Cumulatief (max: 10): alle bondgenoten krijgen {ATTACK}% aanvalskracht als dit personage probeert een vijand te plunderen. Dit effect kan per beurt maar één keer geactiveerd worden."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Dit personage krijgt {CURRENTCHARGEFROMDAMAGE} nederigheid wanneer het directe schade lijdt door speciale vaardigheden. Maximaal één keer per beurt.
 Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe genezing krijgt door speciale vaardigheden. Maximaal één keer per beurt."
@@ -192,6 +198,7 @@ Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe gen
 "familybonuses.description.short.build_charge_nidavellir","Dit personage laadt de gesmolten kern op bij schade opgelopen door normale aanvallen en speciale vaardigheden."
 "familybonuses.description.short.build_charge_nidavellir_alt","De gesmolten kern wordt opgeladen elke keer als dit personage schade oploopt van normale aanvallen of speciale vaardigheden."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE}% extra kans om verdedigende oppeppers te omzeilen met hun aanvallen. Als er verdedigingsoppeppers worden omzeild, wordt de mana van dit personage verhoogd met {POWER}%."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE}% extra kans om verdedigende oppeppers te omzeilen met hun aanvallen. Als er verdedigingsoppeppers worden omzeild, wordt de mana van dit personage verhoogd met {POWER}%. Omzeiling is gegarandeerd bij tegenaanvallen en weerspiegeling."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Als een statuseffect invloed heeft op de verdediging van deze held, is er {CHANCE}% kans om het ontvangen effect op alle vijanden toe te passen."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% kans om de duur van fortuindans-statuseffecten met 1 te verlengen."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% aanvullende schade van speciale vaardigheid."
@@ -509,7 +516,7 @@ De Maanjaar-familie bevat verschillende maanjaardierenhelden. Elk maanjaardier g
 "herocard.family.title.musketeer.short","Musketier"
 "herocard.family.title.muspelheim","Muspelheim-rijk"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Myrkheim-rijk"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Mysterieuze familie"
 "herocard.family.title.mystery.short","Mysterie"

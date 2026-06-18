@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","الحكايات المخفية"
 "lottery.title.superelementalsummon","الاستدعاء الجوهري الفائق"
 "lottery.title.templesummon","استدعاء المعبد"
+"lottery.title.thunderboltsummon","استدعاء الصاعقة"
 "lottery.title.titanhuntersummon","استدعاء صائد العمالقة"
 "lottery.title.towereventsummon","استدعاء البرج"
 "lottery.title.towertroopsummon","استدعاء قوات البرج"

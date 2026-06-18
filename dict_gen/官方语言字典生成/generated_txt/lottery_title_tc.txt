@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","隱秘傳說"
 "lottery.title.superelementalsummon","超級元素召喚"
 "lottery.title.templesummon","神殿召喚"
+"lottery.title.thunderboltsummon","閃電召喚"
 "lottery.title.titanhuntersummon","泰坦獵人召喚"
 "lottery.title.towereventsummon","高塔召喚"
 "lottery.title.towertroopsummon","高塔部隊召喚"

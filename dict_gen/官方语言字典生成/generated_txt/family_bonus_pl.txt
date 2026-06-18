@@ -20,7 +20,9 @@ Klejnot Podziemia może pojawić się tylko na zwykłych tarczach, które odpowi
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% ataku."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Wszyscy sojusznicy zyskują {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% kumulacji ataku za każdym razem, gdy ta postać spróbuje ograbić wroga. (maks.: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Kumulacja (maks.: {MAXSTACK}): Wszyscy sojusznicy zyskują {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% kumulacji ataku za każdym razem, gdy ta postać spróbuje ograbić wroga."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Kumulacja (maks.: {MAXSTACK}): Wszyscy sojusznicy zyskują {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% kumulacji ataku za każdym razem, gdy ta postać spróbuje ograbić wroga. Efekt może zostać aktywowany tylko {MAXACTIVATIONSPERTURN} razy na turę."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Kumulacja (maks.: {MAXSTACK}): Wszyscy sojusznicy zyskują {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% kumulacji ataku za każdym razem, gdy ta postać spróbuje ograbić wroga. Efekt może zostać aktywowany tylko raz na turę."
 "familybonuses.description.long.build_charge_beauty_beast","Różni bohaterowie mają różne wymagania pokory.
 Kiedy bohater rzuci mocną wersję swojej umiejętności specjalnej, zużywa tylko wymaganą ilość pokory.
 Maksymalnie 100 pkt. pokory.
@@ -37,6 +39,8 @@ Bohater zyskuje {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGE
 "familybonuses.description.long.build_charge_nidavellir","Stopiony rdzeń zostanie naładowany za każdym razem, gdy ta postać otrzyma obrażenia od ataków zwykłych lub umiejętności specjalnych."
 "familybonuses.description.long.build_charge_nidavellir_alt","Stopiony rdzeń zostanie naładowany za każdym razem, gdy ta postać otrzyma obrażenia od ataków zwykłych lub umiejętności specjalnych."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Ta postać ma {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% dodatkowych szans na obejście wzmocnień obrony za pomocą ataków. Jeżeli jakiekolwiek wzmocnienia obrony zostaną ominięte, mana tej postaci zostaje zwiększona o {POWER}%."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Ta postać ma {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% dodatkowych szans na obejście wzmocnień obrony za pomocą ataków. Obejście jest gwarantowane przeciwko kontratakom i odbiciom.
+Jeżeli jakiekolwiek wzmocnienia obrony zostaną ominięte, mana tej postaci zostaje zwiększona o {POWER}%."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Gdy na tego bohatera zostanie rzucona dolegliwość ze statusu wpływająca na obronę, szansa na rzucenie tej dolegliwości na wszystkich wrogów wynosi {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% szans na wydłużenie czasu trwania każdego z efektów ze statusu tańca fortuny rzuconych przez tą postać o 1 turę."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% dodatkowych obrażeń od umiejętności specjalnej."
@@ -183,7 +187,9 @@ Dodatkowa umiejętność z 3 członkami rodziny: po wezwaniu zamaskowany pomocni
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","Na początku każdej tury oznacza krwawą lilią wroga, któremu pozostało najwięcej PŻ."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Na początku każdej tury oznacza krwawą lilią wroga, któremu pozostało najwięcej PŻ."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Na początku każdej tury oznacza krwawą lilią wroga, któremu pozostało najwięcej PŻ."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Nakłada na wszystkich sojuszników {ATTACK}% kumulacji ataki, jeśli ta postać spróbuje ograbić inną postać. (Mas.: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Kumulacja (maks.: 10): Wszyscy sojusznicy otrzymują {ATTACK}% do ataku, gdy ta postać spróbuje ograbić wroga."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Kumulacja (maks.: 10): Wszyscy sojusznicy otrzymują {ATTACK}% do ataku, gdy ta postać spróbuje ograbić wroga. Efekt może zostać aktywowany tylko {MAXACTIVATIONSPERTURN} razy na turę."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Kumulacja (maks.: 10): Wszyscy sojusznicy otrzymują {ATTACK}% do ataku, gdy ta postać spróbuje ograbić wroga. Efekt może zostać aktywowany tylko raz na turę."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Ta postać zyskuje {CURRENTCHARGEFROMDAMAGE} pokory, gdy odnosi bezpośrednie obrażenia od umiejętności specjalnych. Efekt może wystąpić maksymalnie raz na turę.
 Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie leczenie od umiejętności specjalnych. Efekt może wystąpić maksymalnie raz na turę."
@@ -192,6 +198,7 @@ Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie l
 "familybonuses.description.short.build_charge_nidavellir","Postać ładuje swój stopiony rdzeń po otrzymaniu obrażeń od zwykłych ataków i umiejętności specjalnych."
 "familybonuses.description.short.build_charge_nidavellir_alt","Stopiony rdzeń zostanie naładowany za każdym razem, gdy ta postać otrzyma obrażenia od ataków zwykłych lub umiejętności specjalnych."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE}% dodatkowych szans na obejście wzmocnień obrony za pomocą ataków. Jeżeli jakiekolwiek wzmocnienia obrony zostaną ominięte, mana tej postaci zostaje zwiększona o {POWER}%."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE}% dodatkowych szans na obejście wzmocnień obrony za pomocą ataków. Jeżeli jakiekolwiek wzmocnienia obrony zostaną ominięte, mana tej postaci zostaje zwiększona o {POWER}%. Obejście jest gwarantowane przeciwko kontratakom i odbiciom."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Gdy ten bohater odnosi dolegliwości ze statusu wpływające na obronę, szansa na rzucenie tej dolegliwości na wszystkich wrogów wynosi {CHANCE}%."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% szans na wydłużenie czasu trwania rzuconych efektów ze statusu tańca fortuny o 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% dodatkowych obrażeń od umiejętności specjalnej."
@@ -509,7 +516,7 @@ Rodzina księżycowego roku obejmuje różnych bohaterów, będąćych zwierzęt
 "herocard.family.title.musketeer.short","Muszkieter"
 "herocard.family.title.muspelheim","Królestwo Muspelheimu"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Królestwo Myrkheimu"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Tajemnicza rodzina"
 "herocard.family.title.mystery.short","Tajemnica"

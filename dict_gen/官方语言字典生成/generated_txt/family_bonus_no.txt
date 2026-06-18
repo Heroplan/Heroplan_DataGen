@@ -20,7 +20,9 @@ Underverden-juveler kan bare dukke opp på vanlige skjold som matcher elementet 
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % angrep."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Alle allierte får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % angrepsstabel hver gang denne figuren forsøker å ransake en fiende. (Maks. stabel: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Stabel (maks.: {MAXSTACK}): Alle allierte får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % angrepsstabel hver gang denne figuren forsøker å ransake en fiende."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Stabel (maks.: {MAXSTACK}): Alle allierte får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % angrepsstabel hver gang denne figuren forsøker å ransake en fiende. Denne effekten kan kun aktiveres {MAXACTIVATIONSPERTURN} ganger per tur."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Stabel (maks.: {MAXSTACK}): Alle allierte får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % angrepsstabel hver gang denne figuren forsøker å ransake en fiende. Denne effekten kan kun aktiveres én gang per tur."
 "familybonuses.description.long.build_charge_beauty_beast","Forskjellige helter har forskjellige ydmykhet-krav.
 Når helten bruker den sterke versjonen av spesialferdigheten sin, brukes kun den nødvendige mengden ydmykhet.
 Maksimal ydmykhet: 100.
@@ -37,6 +39,8 @@ Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.build_charge_nidavellir","Moltenkjernen lades hver gang denne figuren tar skade fra vanlige angrep eller spesialferdighet."
 "familybonuses.description.long.build_charge_nidavellir_alt","Moltenkjernen lades hver gang denne figuren tar skade fra vanlige angrep eller spesialferdighet."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Denne figuren har {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % ekstra sjanse til å forbigå forsvarsøkninger med angrepene sine. Hvis defensive økninger forbigås, økes denne figurens mana med {POWER} %."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Denne figuren har {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % ekstra sjanse til å forbigå forsvarsøkninger med angrepene sine. Forbigår garantert mot motangrep og refleksjon.
+Hvis defensive økninger forbigås, økes denne figurens mana med {POWER} %."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Når denne helten mottar en statuslidelse som påvirker forsvar, er det {1MEMBERCHANCE} % / {2MEMBERSCHANCE} % / {3MEMBERSCHANCE} % sjanse til å bruke den mottatte lidelsen på alle fiender."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % sjanse til å øke varigheten til hver lykkedans-statuseffekt som brukes av denne figuren innen 1 runder."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % ekstra skade fra spesialferdighet."
@@ -186,7 +190,9 @@ Hvis fiendens spesialferdighet beseirer denne figuren, er sjansen {1MEMBERCHANCE
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","Ved starten av hver runde merkes fienden med høyest gjenværende HP med en blodlilje."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Ved starten av hver runde merkes fienden med høyest gjenværende HP med en blodlilje."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Ved starten av hver runde merkes fienden med høyest gjenværende HP med en blodlilje."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Bruk {ATTACK} % angrepsstabel på alle allierte når denne figuren prøver å ransake en figur. (Maksimal stabel: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Stabel (maks.: 10) : Alle allierte får {ATTACK} % angrep når denne figuren prøver å ransake en fiende."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Stabel (maks.: 10) : Alle allierte får {ATTACK} % angrep når denne figuren prøver å ransake en fiende. Denne effekten kan kun aktiveres {MAXACTIVATIONSPERTURN} ganger per runde."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Stabel (maks.: 10) : Alle allierte får {ATTACK} % angrep når denne figuren prøver å ransake en fiende. Denne effekten kan kun aktiveres én gang per runde."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Denne figuren får {CURRENTCHARGEFROMDAMAGE} ydmykhet når den tar direkte skade fra spesialferdigheter. Maksimalt én gang per runde.
 Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbredelse fra spesialferdigheter. Maksimalt én gang per runde."
@@ -195,6 +201,7 @@ Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbred
 "familybonuses.description.short.build_charge_nidavellir","Denne figuren lader sin moltenkjerne når figuren tar skade fra vanlige angrep og spesialferdigheter."
 "familybonuses.description.short.build_charge_nidavellir_alt","Moltenkjernen lades hver gang denne figuren tar skade fra vanlige angrep eller spesialferdighet."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE} % ekstra sjanse til å forbigå forsvarsøkninger med angrepene sine. Hvis defensive økninger forbigås, økes denne figurens mana med {POWER} %."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE} % ekstra sjanse til å forbigå forsvarsøkninger med angrepene sine. Hvis defensive økninger forbigås, økes denne figurens mana med {POWER} %. Forbigår garantert mot motangrep og refleksjon."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Når denne helten mottar en statuslidelse som påvirker forsvar, er det {CHANCE} % sjanse til å bruke den mottatte lidelsen på alle fiender."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % sjanse til å øke varigheten til brukte lykkedans-statuseffekter med 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % ekstra skade fra spesialferdighet."
@@ -512,7 +519,7 @@ Månenyttår-familien har forskjellige Månenyttår-dyrehelter. Hvert Månenytt�
 "herocard.family.title.musketeer.short","Musketerer"
 "herocard.family.title.muspelheim","Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Myrkheim-heimen"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Mystisk familien"
 "herocard.family.title.mystery.short","Mysterium"

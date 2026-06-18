@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Petualangan Perjanjian"
 "quests.name.crafting","Temukan Material Produksi"
 "quests.name.crafting_uncommon","Temukan Material Produksi II"
+"quests.name.demonic_rift_dragon","Setan Penjarah"
 "quests.name.dragon_battle_and_crafting","Malam Barang"
 "quests.name.dragon_cave_classic","Gua Naga"
 "quests.name.dragon_dragonlings_and_xp","Selamatkan Anak Naga"

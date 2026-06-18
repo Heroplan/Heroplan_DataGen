@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","Musketööri"
 "herocard.family.title.muspelheim","Muspelheimin valtakunta"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Myrkheimin valtakunta"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Mysteeriperhe"
 "herocard.family.title.mystery.short","Mysteeri"

@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Covenant Quest"
 "quests.name.crafting","Find Crafting Materials"
 "quests.name.crafting_uncommon","Find Crafting Materials II"
+"quests.name.demonic_rift_dragon","Demon Raiders"
 "quests.name.dragon_battle_and_crafting","Night of Items"
 "quests.name.dragon_cave_classic","Dragon Cave"
 "quests.name.dragon_dragonlings_and_xp","Rescue Dragonlings"

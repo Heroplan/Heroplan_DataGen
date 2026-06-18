@@ -20,7 +20,9 @@
 "familybonuses.description.long.attack_multiplier_plains_hunters","攻撃力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.attack_multiplier_realm","攻撃力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","攻撃力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","このキャラクターが敵に強奪を行うたびに、味方全員が{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%の攻撃力累積効果を得る（最大累積：{MAXSTACK}）。"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","累積（最大：{MAXSTACK}）：このキャラクターが敵に強奪を行うたびに、味方全員が{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%の攻撃力累積効果を得る。"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","累積（最大：{MAXSTACK}）：このキャラクターが敵に強奪を行うたびに、味方全員が{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%の攻撃力累積効果を得る。この効果は1ターンに{MAXACTIVATIONSPERTURN}回のみ発動可能。"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","累積（最大：{MAXSTACK}）：このキャラクターが敵に強奪を行うたびに、味方全員が{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%の攻撃力累積効果を得る。この効果は1ターンに1回のみ発動可能。"
 "familybonuses.description.long.build_charge_beauty_beast","英雄ごとに謙虚さの要件は異なる。
 英雄がより強力な特殊スキルを使用する場合、要件となる量の謙虚さが消費される。
 謙虚さ最大量：100
@@ -35,6 +37,8 @@
 "familybonuses.description.long.build_charge_nidavellir","溶解のコアは、このキャラクターが通常攻撃または特殊スキルによるダメージを受けるたびにチャージされる。"
 "familybonuses.description.long.build_charge_nidavellir_alt","溶解のコアは、このキャラクターが通常攻撃または特殊スキルによるダメージを受けるたびにチャージされる。"
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","このキャラクターが攻撃時に防御バフを無効化する確率が、さらに{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%上昇する。いずれかの防御バフを無効化すると、このキャラクターのマナが{POWER}%増加する。"
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","このキャラクターが攻撃時に防御バフを無効化する確率が、さらに{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%上昇する。この無効化は反撃と反射を必ず無効化する。
+いずれかの防御バフを無効化すると、このキャラクターのマナが{POWER}%増加する。"
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","この英雄が防御力に影響するステータス異常を受けた場合、{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、与えられたステータス異常を敵全員に適用する。"
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、このキャラクターが使用した幸運のダンスによるステータス効果の持続時間が1ターン分延長される。"
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%の追加特殊スキルダメージ。"
@@ -96,7 +100,7 @@
 "familybonuses.description.long.health_multiplier_cultist_and_investigator","ライフが{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる"
 "familybonuses.description.long.health_multiplier_forsaken_and_institute","ライフが{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる"
 "familybonuses.description.long.health_multiplier_jungle_hunters","回復量が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
-"familybonuses.description.long.hp_regen_on_mesmerize_dryad","このキャラクターが敵の魅了を試みるごとに、仲間全員が+{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL}のライフ回復累積を獲得する。（最大累積：{STATUSEFFECT1MAXSTACK})"
+"familybonuses.description.long.hp_regen_on_mesmerize_dryad","このキャラクターが敵の魅了を試みるごとに、仲間全員が+{FAMILYMEMBERS1HEAL}/+{FAMILYMEMBERS2HEAL}/+{FAMILYMEMBERS3HEAL}のライフ回復累積を獲得する。（最大累積：{STATUSEFFECT1MAXSTACK}"
 "familybonuses.description.long.increased_damage_against_big_minions_3_members","メガミニオンに対して与えるダメージがさらに{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%増える。"
 "familybonuses.description.long.increased_damage_against_minions_2_members","ミニオンに対して与えるダメージがさらに{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%増える。"
 "familybonuses.description.long.increased_damage_against_minions_3_members","ミニオンに対して与えるダメージがさらに{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%増える。"
@@ -146,7 +150,7 @@
 "familybonuses.description.long.share_effects_from_atlantis","この英雄はアトランティスファミリーの英雄と関連している。チームに少なくとも1人の関連する英雄がいる場合、この英雄は以下のファミリーボーナスを獲得する。英雄数が1/2/3/4/5人の場合に付与されるボーナス：
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","この英雄は魔法ファミリーの英雄と関連している。チームに少なくとも1人の関連する英雄がいる場合、この英雄は以下のファミリーボーナスを獲得する。英雄数が1/2/3/4/5人の場合に付与されるボーナス：
-"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","このキャラクターに特殊スキルダメージを与えた敵に、{STATUSEFFECT1TURNS}持続する{FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE}の水ダメージを与える。"
+"familybonuses.description.long.shark_debuffs_on_special_damage.underwater_shark_family","このキャラクターに特殊スキルダメージを与えた敵に、{STATUSEFFECT1TURNS}ターンにわたって{FAMILYMEMBERS1STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS2STATUSEFFECT1DAMAGE}/{FAMILYMEMBERS3STATUSEFFECT1DAMAGE}の水ダメージを与える。"
 "familybonuses.description.long.slime_familiar_attack_multiplier","仲間がサモンしたメガミニオン、ミニオン、メガフィエンド、フィエンドが、チーム内にいるスライムファミリーの英雄の数に応じて {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}%の攻撃力を得る。"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","特殊スキルの威力が{2MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.start_battle_with_fox_minion","戦闘開始時に、自身のもとに自分のライフの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を受け継ぐスライフォックスのミニオンを{FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT}体サモンする。
@@ -185,7 +189,9 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","各ターン開始時に、残りHPが最も高い敵に血の百合のしるしを刻む。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","各ターン開始時に、残りHPが最も高い敵に血の百合のしるしを刻む。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","各ターン開始時に、残りHPが最も高い敵に血の百合のしるしを刻む。"
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","このキャラクターが他のキャラクターに強奪を行うと、仲間全員に{ATTACK}%の攻撃力累積効果を付与する（累積最大：{MAXSTACK}）。"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","累積効果(最大10)：このキャラクターが敵1体に強奪を試みた際、仲間全員が{ATTACK}%の攻撃力を得る。"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","累積効果(最大10)：このキャラクターが敵1体に強奪を試みた際、仲間全員が{ATTACK}%の攻撃力を得る。この効果は1ターンに{MAXACTIVATIONSPERTURN}回だけ発動できる。"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","累積効果(最大10)：このキャラクターが敵1体に強奪を試みた際、仲間全員が{ATTACK}%の攻撃力を得る。この効果は1ターンに1回だけ発動できる。"
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","特殊スキルによって直接ダメージを受けると、このキャラクターは{CURRENTCHARGEFROMDAMAGE}つ謙虚さを獲得する。1ターンに1回まで。
 特殊スキルによって直接回復を受けると、このキャラクターは{CURRENTCHARGEFROMHEAL}つ謙虚さを獲得する。1ターンに1回まで。"
@@ -194,6 +200,7 @@
 "familybonuses.description.short.build_charge_nidavellir","このキャラクターの溶解のコアは、通常攻撃または特殊スキルによるダメージを受けた場合にチャージされる。"
 "familybonuses.description.short.build_charge_nidavellir_alt","溶解のコアは、このキャラクターが通常攻撃または特殊スキルによるダメージを受けるたびにチャージされる。"
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","攻撃時に防御バフを無効化する確率が、さらに{CHANCE}%上昇する。いずれかの防御バフを無効化すると、このキャラクターのマナが{POWER}%増加する。"
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","攻撃時に防御バフを無効化する確率が、さらに{CHANCE}%上昇する。いずれかの防御バフを無効化すると、このキャラクターのマナが{POWER}%増加する。この無効化は反撃と反射を必ず無効化する。"
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","この英雄が防御力に影響するステータス異常を受けた場合、{CHANCE}%の確率で、与えられたステータス異常を敵全員に適用する"
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}%の確率で、幸運のダンスによるステータス効果の持続時間が1ターン分延長される。"
 "familybonuses.description.short.champions_special_damage_power_modifier","特殊スキルのダメージが+{MULTIPLIERPERCENT}%増加。"
@@ -521,7 +528,7 @@
 "herocard.family.title.musketeer.short","銃士"
 "herocard.family.title.muspelheim","ムスペルヘイム領域"
 "herocard.family.title.muspelheim.short","ムスペルヘイム"
-"herocard.family.title.myrkheim","ミアークヘイム"
+"herocard.family.title.myrkheim","ミアークヘイムの領域"
 "herocard.family.title.myrkheim.short","ミアークヘイム"
 "herocard.family.title.mystery","ミステリー ファミリー"
 "herocard.family.title.mystery.short","ミステリー"

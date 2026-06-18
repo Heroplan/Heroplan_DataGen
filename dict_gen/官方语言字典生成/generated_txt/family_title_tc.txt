@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","火槍手"
 "herocard.family.title.muspelheim","穆斯貝爾海姆王國"
 "herocard.family.title.muspelheim.short","穆斯貝爾海姆"
-"herocard.family.title.myrkheim","米爾克海姆"
+"herocard.family.title.myrkheim","米爾克海姆王國"
 "herocard.family.title.myrkheim.short","米爾克海姆"
 "herocard.family.title.mystery","神秘家族"
 "herocard.family.title.mystery.short","神秘"

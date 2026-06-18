@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Untold Tales"
 "lottery.title.superelementalsummon","Super Elemental Summon"
 "lottery.title.templesummon","Temple Summon"
+"lottery.title.thunderboltsummon","Thunderbolt Summon"
 "lottery.title.titanhuntersummon","Titan Hunter Summon"
 "lottery.title.towereventsummon","Tower Summon"
 "lottery.title.towertroopsummon","Tower Troop Summon"

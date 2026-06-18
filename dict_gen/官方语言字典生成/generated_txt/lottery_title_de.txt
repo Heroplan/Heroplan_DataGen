@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Unerzählte Geschichten"
 "lottery.title.superelementalsummon","Superelementar-Beschwörung"
 "lottery.title.templesummon","Tempelbeschwörung"
+"lottery.title.thunderboltsummon","Donnerblitz-Beschwörung"
 "lottery.title.titanhuntersummon","Titanenjäger-Beschwörung"
 "lottery.title.towereventsummon","Turm-Beschwörung"
 "lottery.title.towertroopsummon","Turmtruppen-Beschwörung"

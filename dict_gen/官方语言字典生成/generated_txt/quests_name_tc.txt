@@ -26,6 +26,7 @@
 "quests.name.covenant_2","聖約任務"
 "quests.name.crafting","找出鍛造材料"
 "quests.name.crafting_uncommon","找出鍛造材料 II"
+"quests.name.demonic_rift_dragon","惡魔突襲者"
 "quests.name.dragon_battle_and_crafting","物品之夜"
 "quests.name.dragon_cave_classic","巨龍洞穴"
 "quests.name.dragon_dragonlings_and_xp","營救幼龍"

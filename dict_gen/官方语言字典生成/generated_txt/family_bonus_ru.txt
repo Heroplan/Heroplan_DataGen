@@ -20,7 +20,9 @@
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % атаки."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % атаки."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % атаки."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Все союзники получают {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % накапливаемой атаки всякий раз, когда этот герой пытается ограбить врага. (Макс. накопление: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Накопление (макс.: {MAXSTACK}): все союзники получают {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % накапливаемой атаки всякий раз, когда этот герой пытается ограбить врага."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Накопление (макс.: {MAXSTACK}): все союзники получают {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % накапливаемой атаки всякий раз, когда этот герой пытается ограбить врага. Эффект может сработать только {MAXACTIVATIONSPERTURN} р. за ход."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Накопление (макс.: {MAXSTACK}): все союзники получают {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % накапливаемой атаки всякий раз, когда этот герой пытается ограбить врага. Эффект может сработать только один раз за ход."
 "familybonuses.description.long.build_charge_beauty_beast","У разных героев различные требования к смирению.
 Когда герой использует усиленную версию своего особого навыка, расходуется только определенное количество смирения.
 Максимальное смирение: 100.
@@ -35,6 +37,8 @@
 "familybonuses.description.long.build_charge_nidavellir","Расплавленное ядро заряжается каждый раз, когда герой получает урон от обычных атак или особых навыков."
 "familybonuses.description.long.build_charge_nidavellir_alt","Расплавленное ядро заряжается каждый раз, когда герой получает урон от обычных атак или особых навыков."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Шанс обойти защитные усиления у этого персонажа увеличен на {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %. За обход усилений мана этого персонажа увеличивается на {POWER} %."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Шанс обойти защитные усиления у этого персонажа увеличен на {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %. Обход гарантированно сработает при контратаках и отражениях.
+За обход усилений мана этого персонажа увеличивается на {POWER} %."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Когда герой получает недуг, влияющий на защиту, есть {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанса наложить полученный недуг на всех врагов."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанс увеличить длительность каждого эффекта статуса от танца удачи, используемого персонажем, на 1 ход."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % дополнительного урона от особого навыка."
@@ -183,7 +187,9 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","В начале каждого хода помечает врага с самым большим количеством оставшихся ОЗ кровавой лилией."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","В начале каждого хода помечает врага с самым большим количеством оставшихся ОЗ кровавой лилией."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","В начале каждого хода помечает врага с самым большим количеством оставшихся ОЗ кровавой лилией."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Дает {ATTACK} % накапливаемой атаки всем союзникам всякий раз, когда этот герой пытается ограбить персонажа. (Макс. накопление: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Заряды (макс.: 10): все союзники получают {ATTACK} % атаки при попытке этого героя ограбить врага."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Заряды (макс.: 10 ): все союзники получают {ATTACK} % атаки при попытке этого героя ограбить врага. Эффект может сработать только {MAXACTIVATIONSPERTURN} р. за ход."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Заряды (макс.: 10): все союзники получают {ATTACK} % атаки при попытке этого героя ограбить врага. Эффект может сработать только один раз за ход."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Когда этот герой получает прямой урон от особых навыков, ему дается {CURRENTCHARGEFROMDAMAGE} смирения. Максимум один раз за ход.
 Когда этот герой получает прямое исцеление от особых навыков, ему дается {CURRENTCHARGEFROMHEAL} смирения. Максимум один раз за ход."
@@ -192,6 +198,7 @@
 "familybonuses.description.short.build_charge_nidavellir","Этот герой заряжает свое расплавленное ядро, когда получает урон от обычных атак и особых навыков."
 "familybonuses.description.short.build_charge_nidavellir_alt","Расплавленное ядро заряжается каждый раз, когда герой получает урон от обычных атак или особых навыков."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Дополнительно {CHANCE} % к шансу обойти защитное усиление. За обход усилений мана этого персонажа увеличивается на {POWER} %."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Дополнительно {CHANCE} % к шансу обойти защитное усиление. За обход усилений мана этого персонажа увеличивается на {POWER} %. Обход гарантированно сработает при контратаках и отражениях."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Когда герой получает недуг, влияющий на защиту, есть {CHANCE} % шанса наложить полученный недуг на всех врагов."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % шанс увеличить длительность эффектов статуса от танца удачи на 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % дополнительного урона от особого навыка."
@@ -509,7 +516,7 @@
 "herocard.family.title.musketeer.short","Мушкетер"
 "herocard.family.title.muspelheim","Муспельхейм"
 "herocard.family.title.muspelheim.short","Муспельхейм"
-"herocard.family.title.myrkheim","Миркхейм"
+"herocard.family.title.myrkheim","Мир Миркхейм"
 "herocard.family.title.myrkheim.short","Миркхейм"
 "herocard.family.title.mystery","Семья Тайны"
 "herocard.family.title.mystery.short","Тайна"

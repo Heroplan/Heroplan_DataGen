@@ -20,7 +20,9 @@ Underwild Gems can only spawn on regular shields that match the element of this 
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","All allies get {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% attack stack each time this character attempts to Ransack an enemy. (Max stack: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Stack (max: {MAXSTACK}): All allies get {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% attack stack each time this character attempts to Ransack an enemy."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Stack (max: {MAXSTACK}): All allies get {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% attack stack each time this character attempts to Ransack an enemy. This effect can activate only {MAXACTIVATIONSPERTURN} times per turn."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Stack (max: {MAXSTACK}): All allies get {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% attack stack each time this character attempts to Ransack an enemy. This effect can activate only once per turn."
 "familybonuses.description.long.build_charge_beauty_beast","Different Heroes have different Humility requirements.
 When the Hero casts the strong version of their Special Skill, only the required amount of Humility is consumed.
 Maximum Humility: 100.
@@ -34,6 +36,8 @@ The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.build_charge_nidavellir","The Molten Core is charged each time this character receives damage from normal attacks or Special Skills."
 "familybonuses.description.long.build_charge_nidavellir_alt","The Molten Core is charged each time this character receives damage from normal attacks or Special Skills."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","This character has {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% extra chance to bypass defensive buffs with their attacks. If any defensive buffs are bypassed, this character's mana is increased by {POWER}%."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","This character has {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% extra chance to bypass defensive buffs with their attacks. The bypass is guaranteed against counterattacks and reflection.
+If any defensive buffs are bypassed, this character's mana is increased by {POWER}%."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","When this Hero receives a status ailment affecting defense, {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to cast the received ailment to all enemies."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to increase the duration of each Fortune Dance status effect cast by this character by 1 turn."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% additional Special Skill damage."
@@ -180,7 +184,9 @@ Additional skill with 3 family members: When summoned, the Mask Minion gives its
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","At the start of each turn, marks the enemy with the highest remaining HP with a Blood Lily."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","At the start of each turn, marks the enemy with the highest remaining HP with a Blood Lily."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","At the start of each turn, marks the enemy with the highest remaining HP with a Blood Lily."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Cast {ATTACK}% attack stack on all allies when this character tries to Ransack a character. (Max stack: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Stack (max: 10): All allies get {ATTACK}% attack when this character attempts to Ransack an enemy."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Stack (max: 10): All allies get {ATTACK}% attack when this character attempts to Ransack an enemy. This effect can activate only {MAXACTIVATIONSPERTURN} times per turn."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Stack (max: 10): All allies get {ATTACK}% attack when this character attempts to Ransack an enemy. This effect can only activate once per turn."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","This character gains {CURRENTCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills. Max once per turn.
 This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills. Max once per turn."
@@ -189,6 +195,7 @@ This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct heal
 "familybonuses.description.short.build_charge_nidavellir","This character charges their Molten Core when receiving damage from normal attacks and Special Skills."
 "familybonuses.description.short.build_charge_nidavellir_alt","The Molten Core is charged each time this character receives damage from normal attacks or Special Skills."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE}% extra chance to bypass defensive buffs with their attacks. If any defensive buffs are bypassed, this character's mana is increased by {POWER}%."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE}% extra chance to bypass defensive buffs with their attacks. If any defensive buffs are bypassed, this character's mana is increased by {POWER}%. The bypass is guaranteed against counterattacks and reflection."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","When this Hero receives a status ailment affecting defense, {CHANCE}% chance to cast the received ailment to all enemies."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% chance to increase the duration of cast Fortune Dance status effects by 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% additional Special Skill damage."
@@ -506,7 +513,7 @@ The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Ye
 "herocard.family.title.musketeer.short","Musketeer"
 "herocard.family.title.muspelheim","Muspelheim Realm"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Myrkheim Realm"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Mystery Family"
 "herocard.family.title.mystery.short","Mystery"

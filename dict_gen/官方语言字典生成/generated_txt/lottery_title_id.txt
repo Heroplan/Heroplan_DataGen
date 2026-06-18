@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Kisah Tak Diceritakan"
 "lottery.title.superelementalsummon","Panggilan Elemen Super"
 "lottery.title.templesummon","Panggilan Kuil"
+"lottery.title.thunderboltsummon","Panggilan Halilintar"
 "lottery.title.titanhuntersummon","Panggilan Pemburu Titan"
 "lottery.title.towereventsummon","Panggilan Menara"
 "lottery.title.towertroopsummon","Panggilan Pasukan Menara"

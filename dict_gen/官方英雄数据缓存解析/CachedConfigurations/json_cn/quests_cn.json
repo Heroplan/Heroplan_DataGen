@@ -25536,7 +25536,6 @@
               "xpReward": 1000
             },
             "recommendedTeamPower": 1950,
-            "avatarReward": "",
             "heroRewards": [
               {
                 "type": "Hero",
@@ -27722,12 +27721,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 2,
-          "Common": 4
+          "Common": 4,
+          "Rare": 2
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 6,
-          "Common": 2
+          "Common": 2,
+          "Rare": 6
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -30374,12 +30373,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 2,
-          "Common": 4
+          "Common": 4,
+          "Rare": 2
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 6,
-          "Common": 2
+          "Common": 2,
+          "Rare": 6
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -32998,12 +32997,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 2,
-          "Common": 4
+          "Common": 4,
+          "Rare": 2
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 6,
-          "Common": 2
+          "Common": 2,
+          "Rare": 6
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "magic_normal",
@@ -34348,12 +34347,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 2,
-          "Common": 4
+          "Common": 4,
+          "Rare": 2
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 6,
-          "Common": 2
+          "Common": 2,
+          "Rare": 6
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "ninja",
@@ -37138,8 +37137,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 2
+                "id": "lottery_temple_coin",
+                "amount": 5
               },
               {
                 "type": "Gem",
@@ -37209,7 +37208,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_minor_mana_potion",
+                "id": "battle_healing_salve",
                 "amount": 2
               },
               {
@@ -37279,8 +37278,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 2
+                "id": "lottery_temple_coin",
+                "amount": 5
               },
               {
                 "type": "Item",
@@ -37430,8 +37429,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 2
+                "id": "lottery_temple_coin",
+                "amount": 5
               },
               {
                 "type": "Item",
@@ -37507,7 +37506,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_minor_mana_potion",
+                "id": "battle_healing_salve",
                 "amount": 2
               },
               {
@@ -37586,8 +37585,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 3
+                "id": "lottery_temple_coin",
+                "amount": 5
               },
               {
                 "type": "Item",
@@ -37751,8 +37750,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 3
+                "id": "lottery_temple_coin",
+                "amount": 5
               },
               {
                 "type": "Item",
@@ -37839,18 +37838,18 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "hero_poison_darts",
+                "id": "hero_royal_tabard",
                 "amount": 1
               },
               {
                 "type": "Item",
-                "id": "emblem_barbarian",
+                "id": "emblem_druid",
                 "amount": 20
               },
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 10
+                "id": "lottery_temple_coin",
+                "amount": 15
               },
               {
                 "type": "Gem",
@@ -37928,8 +37927,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 3
+                "id": "lottery_temple_coin",
+                "amount": 5
               },
               {
                 "type": "Item",
@@ -37938,7 +37937,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -38104,7 +38103,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -38114,7 +38113,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -38279,8 +38278,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 5
+                "id": "lottery_temple_coin",
+                "amount": 10
               },
               {
                 "type": "Item",
@@ -38289,7 +38288,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -38373,7 +38372,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 3
               },
               {
@@ -38383,7 +38382,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_minor_mana_potion",
+                "id": "battle_healing_salve",
                 "amount": 3
               },
               {
@@ -38561,8 +38560,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 5
+                "id": "lottery_temple_coin",
+                "amount": 10
               },
               {
                 "type": "Item",
@@ -38571,7 +38570,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -38655,7 +38654,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -38665,7 +38664,7 @@
               },
               {
                 "type": "Hero",
-                "id": "trainer_green_uncommon",
+                "id": "trainer_red_uncommon",
                 "amount": 1
               },
               {
@@ -38706,7 +38705,7 @@
                       "lvl": 75
                     },
                     {
-                      "id": "kalevala_vainamoinen_costume"
+                      "id": "para_sword_boss"
                     },
                     {
                       "id": "鳞梭鱼"
@@ -38755,17 +38754,17 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "hero_limitbreak_legendary_yellow",
+                "id": "hero_limitbreak_legendary_purple",
                 "amount": 1
               },
               {
                 "type": "Item",
-                "id": "emblem_master_barbarian",
+                "id": "emblem_master_druid",
                 "amount": 2
               },
               {
                 "type": "Item",
-                "id": "emblem_barbarian",
+                "id": "emblem_druid",
                 "amount": 30
               },
               {
@@ -38863,7 +38862,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_minor_mana_potion",
+                "id": "battle_healing_salve",
                 "amount": 2
               },
               {
@@ -39017,7 +39016,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 1
               },
               {
@@ -39164,7 +39163,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -39252,12 +39251,12 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 2
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -39338,7 +39337,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -39431,12 +39430,12 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 2
               },
               {
                 "type": "Item",
-                "id": "battle_minor_mana_potion",
+                "id": "battle_healing_salve",
                 "amount": 2
               },
               {
@@ -39515,7 +39514,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -39525,7 +39524,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 3
               },
               {
@@ -39567,7 +39566,7 @@
                       "lvl": 96
                     },
                     {
-                      "id": "勒明盖宁之母",
+                      "id": "ikuturso_crown_boss",
                       "lvl": 96
                     }
                   ]
@@ -39796,7 +39795,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 2
               },
               {
@@ -39884,7 +39883,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 2
               },
               {
@@ -40027,6 +40026,7 @@
               "xpReward": 2400
             },
             "recommendedTeamPower": 3200,
+            "avatarReward": "kalevala_mother_lemminkainen",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -40059,7 +40059,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 2
               },
               {
@@ -40068,6 +40068,7 @@
               }
             ],
             "displayedEntities": [
+              "Avatar",
               "Item",
               "Item",
               "Item"
@@ -40248,7 +40249,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 2
               },
               {
@@ -40343,7 +40344,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -40479,7 +40480,7 @@
                       "lvl": 151
                     },
                     {
-                      "id": "kalevala_vainamoinen_costume"
+                      "id": "kaski_boss"
                     },
                     {
                       "id": "鳞梭鱼"
@@ -40528,18 +40529,18 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "hero_limitbreak_legendary_green",
+                "id": "hero_limitbreak_legendary_red",
                 "amount": 1
               },
               {
                 "type": "Item",
-                "id": "emblem_master_barbarian",
+                "id": "emblem_master_druid",
                 "amount": 4
               },
               {
                 "type": "Item",
-                "id": "emblem_barbarian",
-                "amount": 80
+                "id": "emblem_druid",
+                "amount": 100
               },
               {
                 "type": "Item",
@@ -40647,7 +40648,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 3
               },
               {
@@ -40724,17 +40725,17 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 5
+                "id": "lottery_temple_coin",
+                "amount": 10
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 2
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -40821,7 +40822,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 3
               },
               {
@@ -40898,17 +40899,17 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 5
+                "id": "lottery_temple_coin",
+                "amount": 10
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 2
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -40949,7 +40950,7 @@
                       "lvl": 144
                     },
                     {
-                      "id": "帕拉",
+                      "id": "para_sword_boss",
                       "lvl": 144
                     }
                   ]
@@ -40962,6 +40963,7 @@
               "xpReward": 2900
             },
             "recommendedTeamPower": 3800,
+            "avatarReward": "kalevala_vainamoinen_costume_vainamoinen_sage",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -40994,7 +40996,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 3
               },
               {
@@ -41003,6 +41005,7 @@
               }
             ],
             "displayedEntities": [
+              "Avatar",
               "Item",
               "Item",
               "Item"
@@ -41072,17 +41075,17 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 10
+                "id": "lottery_temple_coin",
+                "amount": 20
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 2
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -41170,7 +41173,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_wall_of_shields",
+                "id": "battle_hail_of_spears",
                 "amount": 5
               },
               {
@@ -41226,7 +41229,6 @@
               "xpReward": 3050
             },
             "recommendedTeamPower": 4000,
-            "avatarReward": "kalevala_vainamoinen_costume_vainamoinen_sage",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -41249,17 +41251,17 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 10
+                "id": "lottery_temple_coin",
+                "amount": 20
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 3
               },
               {
                 "type": "Item",
-                "id": "battle_healing_potion",
+                "id": "battle_mana_potion",
                 "amount": 3
               },
               {
@@ -41268,7 +41270,6 @@
               }
             ],
             "displayedEntities": [
-              "Avatar",
               "Item",
               "Item",
               "Item"
@@ -41402,6 +41403,7 @@
               "xpReward": 3150
             },
             "recommendedTeamPower": 4100,
+            "avatarReward": "kalevala_ukkonen_costume_ukkonen_infernal",
             "heroRewards": [
               {
                 "type": "Hero",
@@ -41430,18 +41432,18 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "hero_mysterious_tonic",
+                "id": "hero_mystic_rings",
                 "amount": 1
               },
               {
                 "type": "Item",
-                "id": "emblem_barbarian",
+                "id": "emblem_druid",
                 "amount": 100
               },
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 20
+                "id": "lottery_temple_coin",
+                "amount": 50
               },
               {
                 "type": "Item",
@@ -41451,6 +41453,7 @@
             ],
             "displayedEntities": [
               "Hero",
+              "Avatar",
               "Item",
               "Item",
               "Item"
@@ -41482,7 +41485,7 @@
                       "id": "kalevala_animal_woodpecker"
                     },
                     {
-                      "id": "伊古·杜尔索",
+                      "id": "ikuturso_crown_boss",
                       "lvl": 140
                     },
                     {
@@ -41525,7 +41528,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 3
               },
               {
@@ -41608,8 +41611,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 10
+                "id": "lottery_temple_coin",
+                "amount": 20
               },
               {
                 "type": "Item",
@@ -41706,7 +41709,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 3
               },
               {
@@ -41746,7 +41749,7 @@
                       "id": "kalevala_animal_bear"
                     },
                     {
-                      "id": "乌戈宁"
+                      "id": "ajatar_boss"
                     },
                     {
                       "id": "kalevala_animal_bear"
@@ -41788,7 +41791,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 3
               },
               {
@@ -41848,7 +41851,7 @@
               "xpReward": 3400
             },
             "recommendedTeamPower": 4350,
-            "avatarReward": "kalevala_ukkonen_costume_ukkonen_infernal",
+            "avatarReward": "kalevala_suomuhauki",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -41976,7 +41979,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 3
               },
               {
@@ -42019,7 +42022,7 @@
                       "id": "kalevala_animal_pike"
                     },
                     {
-                      "id": "娄希",
+                      "id": "kalevala_louhi_costume",
                       "lvl": 213
                     },
                     {
@@ -42164,7 +42167,7 @@
               },
               {
                 "type": "Item",
-                "id": "battle_revival_scroll",
+                "id": "battle_dragon_banner",
                 "amount": 4
               },
               {
@@ -42295,13 +42298,13 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "奥德索"
+                      "id": "ikuturso_crown_boss"
                     },
                     {
-                      "id": "kalevala_vainamoinen_costume"
+                      "id": "ajatar_boss"
                     },
                     {
-                      "id": "鳞梭鱼"
+                      "id": "kaski_boss"
                     }
                   ]
                 }
@@ -42313,7 +42316,7 @@
               "xpReward": 3650
             },
             "recommendedTeamPower": 4600,
-            "avatarReward": "kalevala_mother_lemminkainen",
+            "avatarReward": "kalevala_kaski",
             "heroRewards": [
               {
                 "type": "Hero",
@@ -45189,12 +45192,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 4
+          "Common": 4,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 5
+          "Common": 5,
+          "Rare": 0
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -46516,12 +46519,12 @@
           "styx_bombs_more"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 4
+          "Common": 4,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 5
+          "Common": 5,
+          "Rare": 0
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "styx_normal",
@@ -74537,12 +74540,12 @@
           "challenge_event_easy"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "stagesCanBeReplayed": true,
@@ -75039,12 +75042,12 @@
           "challenge_event_medium"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "stagesCanBeReplayed": true,
@@ -75538,12 +75541,12 @@
           "challenge_event_hard"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "stagesCanBeReplayed": true,
@@ -82441,16 +82444,16 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "暗羽",
+                      "id": "ketch_boss",
+                      "lvl": 60
+                    },
+                    {
+                      "id": "巧舌妇",
                       "lvl": 90
                     },
                     {
-                      "id": "疯锤儿",
-                      "lvl": 90
-                    },
-                    {
-                      "id": "布茨",
-                      "lvl": 90
+                      "id": "cade_boss",
+                      "lvl": 60
                     }
                   ]
                 }
@@ -82498,16 +82501,16 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "巧舌妇",
+                      "id": "boots_candle_boss",
+                      "lvl": 50
+                    },
+                    {
+                      "id": "疯锤儿",
                       "lvl": 105
                     },
                     {
-                      "id": "亡灵布特",
-                      "lvl": 105
-                    },
-                    {
-                      "id": "金娘",
-                      "lvl": 105
+                      "id": "goldie_perfume_boss",
+                      "lvl": 50
                     }
                   ]
                 }
@@ -82556,16 +82559,16 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "暗羽",
-                      "lvl": 135
+                      "id": "lane_boss",
+                      "lvl": 50
                     },
                     {
-                      "id": "疯锤儿",
-                      "lvl": 135
+                      "id": "darkfeather_glowing_boss",
+                      "lvl": 50
                     },
                     {
-                      "id": "凯特尔",
-                      "lvl": 135
+                      "id": "duval_boss",
+                      "lvl": 50
                     }
                   ]
                 }
@@ -82614,16 +82617,16 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "布茨",
-                      "lvl": 160
+                      "id": "cade_boss",
+                      "lvl": 100
                     },
                     {
-                      "id": "凯特尔",
-                      "lvl": 150
+                      "id": "lane_boss",
+                      "lvl": 80
                     },
                     {
-                      "id": "金娘",
-                      "lvl": 160
+                      "id": "ketch_boss",
+                      "lvl": 100
                     }
                   ]
                 }
@@ -82672,16 +82675,16 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "布茨",
-                      "lvl": 200
+                      "id": "goldie_perfume_boss",
+                      "lvl": 120
                     },
                     {
-                      "id": "疯锤儿",
-                      "lvl": 200
+                      "id": "darkfeather_glowing_boss",
+                      "lvl": 120
                     },
                     {
-                      "id": "亡灵布特",
-                      "lvl": 200
+                      "id": "boots_candle_boss",
+                      "lvl": 120
                     }
                   ]
                 }
@@ -82730,13 +82733,16 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "巧舌妇"
+                      "id": "duval_boss",
+                      "lvl": 140
                     },
                     {
-                      "id": "暗羽"
+                      "id": "brin_boss",
+                      "lvl": 140
                     },
                     {
-                      "id": "疯锤儿"
+                      "id": "sheppard_boss",
+                      "lvl": 140
                     }
                   ]
                 }
@@ -82748,6 +82754,7 @@
               "xpReward": 4000
             },
             "recommendedTeamPower": 5400,
+            "avatarReward": "scoundrel_brin",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -82758,6 +82765,7 @@
             ],
             "itemRewardsAlternative": [],
             "displayedEntities": [
+              "Avatar",
               "Item"
             ],
             "lootConfigId": "goblin_2"
@@ -84055,12 +84063,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 2,
-          "Common": 4
+          "Common": 4,
+          "Rare": 2
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 6,
-          "Common": 2
+          "Common": 2,
+          "Rare": 6
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -85404,12 +85412,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 2,
-          "Common": 4
+          "Common": 4,
+          "Rare": 2
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 6,
-          "Common": 2
+          "Common": 2,
+          "Rare": 6
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "owl_normal",
@@ -89876,12 +89884,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -90201,12 +90209,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -90674,12 +90682,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -91010,12 +91018,12 @@
           "volcanic_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -91346,12 +91354,12 @@
           "poisonous_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -91682,12 +91690,12 @@
           "glacial_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -92013,12 +92021,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -92349,12 +92357,12 @@
           "sacred_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -92685,12 +92693,12 @@
           "shadow_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93021,12 +93029,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93367,12 +93375,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -96692,12 +96700,12 @@
           "esoteric_winds"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -96719,12 +96727,12 @@
           "guestip1_troop_icon_override"
         ],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "battleItemsDisabled": true,
         "questBoosterProductId": "com.smallgiantgames.empires.guestip1_booster",
@@ -100468,6 +100476,299 @@
         "maxDifficultyMultiplierPerMil": 0,
         "completionRewards": [],
         "energyType": "TempleEventEnergy"
+      },
+      {
+        "id": "demonic_rift_dragon",
+        "type": "DemonicRiftDragon",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": 0,
+        "provinceLootTableId": "",
+        "provinceLootItemLimit": 0,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 65,
+              "randomizedMonsterIds": [
+                "dragon_raider_imp_blue",
+                "dragon_raider_bigeye_bat_red"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_raider_bigeye_bat_blue"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_red"
+                    },
+                    {
+                      "id": "dragon_raider_bigeye_bat_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "DragonNightTownAttacked",
+              "foodReward": 4000,
+              "ironReward": 8000,
+              "recruitsReward": 4,
+              "xpReward": 2000
+            },
+            "recommendedTeamPower": 38000,
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 5,
+              "commonMonstersLevel": 90,
+              "randomizedMonsterIds": [
+                "dragon_raider_bigeye_bat_green",
+                "dragon_raider_gargoyle_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_raider_gargoyle_red"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_purple"
+                    },
+                    {
+                      "id": "dragon_raider_gargoyle_red"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "DragonNightTownAttacked",
+              "foodReward": 5200,
+              "ironReward": 10100,
+              "recruitsReward": 6,
+              "xpReward": 2600
+            },
+            "recommendedTeamPower": 42000,
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": []
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 98,
+              "randomizedMonsterIds": [
+                "dragon_raider_imp_yellow",
+                "dragon_raider_gargoyle_green"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_5_W",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_raider_imp_purple"
+                    },
+                    {
+                      "id": "dragon_raider_gargoyle_yellow"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_blue"
+                    },
+                    {
+                      "id": "dragon_raider_gargoyle_yellow"
+                    },
+                    {
+                      "id": "dragon_raider_imp_purple"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "DragonNightTownAttacked",
+              "foodReward": 6400,
+              "ironReward": 12300,
+              "recruitsReward": 8,
+              "xpReward": 3200
+            },
+            "recommendedTeamPower": 46000,
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": []
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 7,
+              "commonMonstersLevel": 108,
+              "randomizedMonsterIds": [
+                "dragon_raider_bigeye_bat_yellow",
+                "dragon_raider_gargoyle_blue"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_raider_demon_boss_red"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_purple"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "DragonNightTownAttacked",
+              "foodReward": 7600,
+              "ironReward": 14400,
+              "recruitsReward": 10,
+              "xpReward": 3800
+            },
+            "recommendedTeamPower": 50000,
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": []
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 8,
+              "commonMonstersLevel": 120,
+              "randomizedMonsterIds": [
+                "dragon_raider_bigeye_bat_purple",
+                "dragon_raider_imp_red"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_raider_demon_boss_purple"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "DragonNightTownAttacked",
+              "foodReward": 8800,
+              "ironReward": 17000,
+              "recruitsReward": 12,
+              "xpReward": 4500
+            },
+            "recommendedTeamPower": 55000,
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": []
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 150,
+              "randomizedMonsterIds": [
+                "dragon_raider_imp_green",
+                "dragon_raider_gargoyle_red"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A_big",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_raider_demon_boss_purple"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_blue"
+                    },
+                    {
+                      "id": "dragon_raider_demon_boss_red"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "DragonNightTownAttacked",
+              "foodReward": 10000,
+              "ironReward": 20000,
+              "recruitsReward": 14,
+              "xpReward": 5000
+            },
+            "recommendedTeamPower": 60000,
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": []
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "demonic_rift_item_modifiers",
+          "demonic_rift_debuff"
+        ],
+        "playerCharacterUsageLimitId": "each_dragon_allowed_once",
+        "mode": "Dragon",
+        "fullScreenQuestLineClientDataIdOverride": "DemonicRiftDragon",
+        "energyType": "PveDragonEnergy"
       }
     ],
     "classQuestLines": [
@@ -107744,12 +108045,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Rare": 0,
-          "Common": 0
+          "Common": 0,
+          "Rare": 0
         },
         "battleItemsDisabled": true,
         "shareIdOfDifferentQuestLineVariants": true,
@@ -111809,16 +112110,18 @@
           "endTime": "2026-06-15 07:00:00"
         },
         {
+          "overridden": true,
           "id": "dragon_cave_classic2026_7_10",
           "questLineId": "dragon_cave_classic",
-          "startTime": "2026-07-10 07:00:00",
-          "endTime": "2026-07-13 07:00:00"
+          "startTime": "2026-07-07 07:00:00",
+          "endTime": "2026-07-10 07:00:00"
         },
         {
+          "overridden": true,
           "id": "dragon_cave_classic2026_8_7",
           "questLineId": "dragon_cave_classic",
-          "startTime": "2026-08-07 07:00:00",
-          "endTime": "2026-08-10 07:00:00"
+          "startTime": "2026-08-08 07:00:00",
+          "endTime": "2026-08-11 07:00:00"
         },
         {
           "id": "dragon_cave_classic2026_9_4",
@@ -111839,7 +112142,84 @@
           "endTime": "2026-11-02 07:00:00"
         }
       ]
+    },
+    "demonicRiftDragonQuests": {
+      "week": "Second",
+      "day": "Friday",
+      "timeOfDay": 25200,
+      "duration": 259200,
+      "skippedCyclesBetweenEvents": 1,
+      "scheduleLength": "Week",
+      "enabled": false,
+      "entries": [
+        {
+          "id": "demonic_rift_dragon2026_3_13",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-03-13 07:00:00",
+          "endTime": "2026-03-16 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_3_27",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-03-27 07:00:00",
+          "endTime": "2026-03-30 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_4_10",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-04-10 07:00:00",
+          "endTime": "2026-04-13 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_4_24",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-04-24 07:00:00",
+          "endTime": "2026-04-27 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_5_8",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-05-08 07:00:00",
+          "endTime": "2026-05-11 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_5_22",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-05-22 07:00:00",
+          "endTime": "2026-05-25 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_6_5",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-06-05 07:00:00",
+          "endTime": "2026-06-08 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_6_19",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-06-19 07:00:00",
+          "endTime": "2026-06-22 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_7_3",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-07-03 07:00:00",
+          "endTime": "2026-07-06 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_7_17",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-07-17 07:00:00",
+          "endTime": "2026-07-20 07:00:00"
+        },
+        {
+          "id": "demonic_rift_dragon2026_7_31",
+          "questLineId": "demonic_rift_dragon",
+          "startTime": "2026-07-31 07:00:00",
+          "endTime": "2026-08-03 07:00:00"
+        }
+      ]
     }
   },
-  "questsConfigId": 2563919150
+  "questsConfigId": 2672097203
 }

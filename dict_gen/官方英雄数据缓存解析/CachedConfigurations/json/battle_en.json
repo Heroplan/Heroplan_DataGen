@@ -25907,14 +25907,14 @@
       {
         "id": "dragon_noctur_ultimateboss",
         "element": "Purple",
-        "baseHealth": 10000,
-        "baseAttack": 4500,
-        "baseDefense": 1500,
+        "baseHealth": 11000,
+        "baseAttack": 4700,
+        "baseDefense": 1800,
         "manaSpeedId": "very_fast",
         "type": "UltimateBoss",
         "turnsToAttackPerMil": 1000,
         "specialIds": [
-          "wings_of_laceration"
+          "wings_of_laceration_ultimate_boss"
         ],
         "sourceHeroId": "",
         "mode": "Dragon"
@@ -25922,14 +25922,14 @@
       {
         "id": "dragon_noctur_corrupted_ultimateboss",
         "element": "Purple",
-        "baseHealth": 1200,
+        "baseHealth": 17000,
         "baseAttack": 5000,
-        "baseDefense": 1500,
+        "baseDefense": 2000,
         "manaSpeedId": "very_fast",
         "type": "UltimateBoss",
         "turnsToAttackPerMil": 1000,
         "specialIds": [
-          "wings_of_laceration"
+          "wings_of_corruption_ultimate_boss"
         ],
         "mode": "Dragon"
       },
@@ -30502,70 +30502,70 @@
       {
         "id": "dragon_raider_gargoyle_red",
         "element": "Red",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1300,
+        "baseAttack": 3900,
+        "baseDefense": 1300,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "rend_and_despoil_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_gargoyle_green",
         "element": "Green",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1300,
+        "baseAttack": 3900,
+        "baseDefense": 1300,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "rend_and_despoil_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_gargoyle_blue",
         "element": "Blue",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1300,
+        "baseAttack": 3900,
+        "baseDefense": 1300,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "rend_and_despoil_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_gargoyle_purple",
         "element": "Purple",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1300,
+        "baseAttack": 3900,
+        "baseDefense": 1300,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "rend_and_despoil_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_gargoyle_yellow",
         "element": "Yellow",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1300,
+        "baseAttack": 3900,
+        "baseDefense": 1300,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "rend_and_despoil_dragon_pve"
         ],
         "mode": "Dragon"
       },
@@ -30579,7 +30579,7 @@
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "pillaging_strike_dragon_pve"
         ],
         "mode": "Dragon"
       },
@@ -30593,7 +30593,7 @@
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "pillaging_strike_dragon_pve"
         ],
         "mode": "Dragon"
       },
@@ -30607,7 +30607,7 @@
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "pillaging_strike_dragon_pve"
         ],
         "mode": "Dragon"
       },
@@ -30621,7 +30621,7 @@
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "pillaging_strike_dragon_pve"
         ],
         "mode": "Dragon"
       },
@@ -30635,105 +30635,105 @@
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "pillaging_strike_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_bigeye_bat_red",
         "element": "Red",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1700,
+        "baseAttack": 3100,
+        "baseDefense": 1700,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "blinding_frenzy_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_bigeye_bat_green",
         "element": "Green",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1700,
+        "baseAttack": 3100,
+        "baseDefense": 1700,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "blinding_frenzy_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_bigeye_bat_blue",
         "element": "Blue",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1700,
+        "baseAttack": 3100,
+        "baseDefense": 1700,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "blinding_frenzy_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_bigeye_bat_purple",
         "element": "Purple",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1700,
+        "baseAttack": 3100,
+        "baseDefense": 1700,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "blinding_frenzy_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_bigeye_bat_yellow",
         "element": "Yellow",
-        "baseHealth": 1500,
-        "baseAttack": 3500,
-        "baseDefense": 1500,
+        "baseHealth": 1700,
+        "baseAttack": 3100,
+        "baseDefense": 1700,
         "manaSpeedId": "average",
         "type": "Normal",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "blinding_frenzy_dragon_pve"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_demon_boss_red",
         "element": "Red",
-        "baseHealth": 3500,
-        "baseAttack": 4500,
-        "baseDefense": 1500,
+        "baseHealth": 3750,
+        "baseAttack": 4000,
+        "baseDefense": 1750,
         "manaSpeedId": "slow",
         "type": "Boss",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "demon_lords_punishment"
         ],
         "mode": "Dragon"
       },
       {
         "id": "dragon_raider_demon_boss_purple",
         "element": "Purple",
-        "baseHealth": 3500,
-        "baseAttack": 4500,
-        "baseDefense": 1500,
+        "baseHealth": 3250,
+        "baseAttack": 5000,
+        "baseDefense": 1250,
         "manaSpeedId": "slow",
         "type": "Boss",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "infernal_cleave_dragon_pve"
         ],
         "mode": "Dragon"
       },
@@ -30747,7 +30747,7 @@
         "type": "Boss",
         "turnsToAttackPerMil": 3000,
         "specialIds": [
-          "welding_sweep_dragon_pve"
+          "will_breaking_pummel"
         ],
         "mode": "Dragon"
       },
@@ -36335,6 +36335,249 @@
           "bone_club_clonk"
         ],
         "sourceHeroId": "monster_hunter_bogart"
+      },
+      {
+        "id": "ajatar_boss",
+        "element": "Purple",
+        "family": "kalevala",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "heal_mana_on_low_health_once"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "alluring_whispers"
+        ],
+        "sourceHeroId": "kalevala_ajatar"
+      },
+      {
+        "id": "kaski_boss",
+        "element": "Red",
+        "family": "kalevala",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "fast",
+        "passiveSkills": [
+          "heal_mana_on_low_health_once"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "slash_and_burn"
+        ],
+        "sourceHeroId": "kalevala_kaski"
+      },
+      {
+        "id": "ikuturso_crown_boss",
+        "element": "Green",
+        "family": "kalevala",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "fast",
+        "passiveSkills": [
+          "heal_mana_on_low_health_once"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "shimmering_waters"
+        ],
+        "sourceHeroId": "kalevala_iku_turso_costume_crown"
+      },
+      {
+        "id": "para_sword_boss",
+        "element": "Purple",
+        "family": "kalevala",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "heal_mana_on_low_health_once"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "familiar_sorcery"
+        ],
+        "sourceHeroId": "kalevala_para_costume_sword"
+      },
+      {
+        "id": "sheppard_boss",
+        "element": "Yellow",
+        "family": "shady_scoundrels",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "very_fast",
+        "passiveSkills": [
+          "ransack",
+          "cheat_death"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "blink_of_an_eye"
+        ],
+        "sourceHeroId": "scoundrel_sheppard"
+      },
+      {
+        "id": "brin_boss",
+        "element": "Red",
+        "family": "shady_scoundrels",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "slow",
+        "passiveSkills": [
+          "ransack",
+          "cheat_death"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "come_hither"
+        ],
+        "sourceHeroId": "scoundrel_brin"
+      },
+      {
+        "id": "lane_boss",
+        "element": "Blue",
+        "family": "shady_scoundrels",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "ransack",
+          "cheat_death"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "roadside_surprise"
+        ],
+        "sourceHeroId": "scoundrel_lane"
+      },
+      {
+        "id": "duval_boss",
+        "element": "Purple",
+        "family": "shady_scoundrels",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "fast",
+        "passiveSkills": [
+          "ransack",
+          "cheat_death"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "thieving_shot"
+        ],
+        "sourceHeroId": "scoundrel_duval"
+      },
+      {
+        "id": "cade_boss",
+        "element": "Red",
+        "family": "shady_scoundrels",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "ransack_epic_and_rare",
+          "cheat_death_epic_and_rare"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "vengeful_mob"
+        ],
+        "sourceHeroId": "scoundrel_cade"
+      },
+      {
+        "id": "ketch_boss",
+        "element": "Purple",
+        "family": "shady_scoundrels",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "slow",
+        "passiveSkills": [
+          "ransack_epic_and_rare",
+          "cheat_death_epic_and_rare"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "haphazard_chop"
+        ],
+        "sourceHeroId": "scoundrel_ketch"
+      },
+      {
+        "id": "darkfeather_glowing_boss",
+        "element": "Purple",
+        "family": "goblin",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "goblin_damage_and_accuracy_debuff_on_special",
+          "iterate_passive_effects_on_special"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "the_eagles_enchantment"
+        ],
+        "sourceHeroId": "goblin_darkfeather_costume_glowing"
+      },
+      {
+        "id": "goldie_perfume_boss",
+        "element": "Yellow",
+        "family": "goblin",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "goblin_damage_and_accuracy_debuff_on_special",
+          "iterate_passive_effects_on_special"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "magic_perfume_of_power"
+        ],
+        "sourceHeroId": "goblin_goldie_costume_perfume"
+      },
+      {
+        "id": "boots_candle_boss",
+        "element": "Red",
+        "family": "goblin",
+        "baseHealth": 480,
+        "baseAttack": 275,
+        "baseDefense": 150,
+        "manaSpeedId": "average",
+        "passiveSkills": [
+          "goblin_damage_and_accuracy_debuff_on_special",
+          "iterate_passive_effects_on_special"
+        ],
+        "type": "Boss",
+        "turnsToAttackPerMil": 3000,
+        "specialIds": [
+          "candle_thump"
+        ],
+        "sourceHeroId": "goblin_boots_costume_candle"
       }
     ],
     "rareMonsterTemplates": [
@@ -36497,6 +36740,13 @@
         "id": "stun_less",
         "buff": "MinorDebuff",
         "attackMultiplierPerMil": 900,
+        "attackMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "AttackModifier",
+        "id": "stun_para_sword",
+        "buff": "MinorDebuff",
+        "attackMultiplierPerMil": 840,
         "attackMultiplierIncrementPerLevelPerMil": 236
       },
       {
@@ -36967,6 +37217,14 @@
       },
       {
         "statusEffect": "FixedHealthRecovery",
+        "id": "health_boost_recovery_darkfeather_c1",
+        "buff": "MinorBuff",
+        "healthPoints": 230,
+        "healthPointsIncrementPerLevel": 10,
+        "isHealthBoost": true
+      },
+      {
+        "statusEffect": "FixedHealthRecovery",
         "id": "health_boost_recovery_queen_anne_costume",
         "buff": "MinorBuff",
         "healthPoints": 128,
@@ -37041,6 +37299,13 @@
         "statusEffect": "HealMultiplier",
         "id": "deep_wound",
         "buff": "MajorDebuff",
+        "healMultiplierPerMil": 0,
+        "healMultiplierPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "HealMultiplier",
+        "id": "deep_wound_cleansable",
+        "buff": "MinorDebuff",
         "healMultiplierPerMil": 0,
         "healMultiplierPerLevelPerMil": 0
       },
@@ -37475,7 +37740,7 @@
         "buff": "MinorBuff",
         "dodgeIncrementPerMil": 420,
         "dodgeIncrementPerLevelPerMil": 20,
-        "familiarId": "sakura_fox_costume"
+        "familiarId": "sakura_fox_costume_cute"
       },
       {
         "statusEffect": "ElementMirror",
@@ -37959,6 +38224,13 @@
         "receivedDamageMultiplierIncrementPerLevelPerMil": 236
       },
       {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_reduction_judnug",
+        "buff": "MinorBuff",
+        "receivedDamageMultiplierPerMil": 900,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
         "statusEffect": "CounterAttack",
         "id": "counter_attack_sif",
         "buff": "MinorBuff",
@@ -38091,11 +38363,6 @@
       {
         "statusEffect": "ResistNewMinions",
         "id": "resist_new_minions",
-        "buff": "MinorDebuff"
-      },
-      {
-        "statusEffect": "ResistNewMinions",
-        "id": "dragon_support_skill_resist_new_minions",
         "buff": "MinorDebuff"
       },
       {
@@ -39406,7 +39673,7 @@
         "statusEffect": "Abyss",
         "id": "abyss_ajatar",
         "buff": "MajorDebuff",
-        "damageMultiplierPerMil": 200,
+        "damageMultiplierPerMil": 150,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -40213,6 +40480,13 @@
         "stolenHealingMultiplierPerLevelPerMil": 30
       },
       {
+        "statusEffect": "HealSteal",
+        "id": "heal_steal_ikuturso_crown",
+        "buff": "MinorDebuff",
+        "stolenHealingMultiplierPerMil": 250,
+        "stolenHealingMultiplierPerLevelPerMil": 50
+      },
+      {
         "statusEffect": "DefenseModifier",
         "id": "brittle_less",
         "buff": "MinorDebuff",
@@ -40634,11 +40908,11 @@
         "manaGenerationMultiplierIncrementPerLevelPerMil": 20
       },
       {
-        "statusEffect": "HealMultiplier",
-        "id": "wound_penolite",
-        "buff": "MinorDebuff",
-        "healMultiplierPerMil": 640,
-        "healMultiplierPerLevelPerMil": 236
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_regen_alberich_cute",
+        "buff": "MinorBuff",
+        "manaGenerationMultiplierPerMil": 1100,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 0
       },
       {
         "statusEffect": "Frost",
@@ -41393,7 +41667,7 @@
       {
         "statusEffect": "AttackModifier",
         "id": "attack_tethys_toon_blue",
-        "buff": "MinorBuff",
+        "buff": "MajorBuff",
         "attackMultiplierPerMil": 1560,
         "attackMultiplierIncrementPerLevelPerMil": 20
       },
@@ -41776,6 +42050,14 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 80,
         "damageMultiplierIncrementPerLevelPerMil": 3,
+        "strongAttackMultiplierIncrementPerMil": 20
+      },
+      {
+        "statusEffect": "UnderWater",
+        "id": "underwater_ikuturso_crown",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 100,
+        "damageMultiplierIncrementPerLevelPerMil": 10,
         "strongAttackMultiplierIncrementPerMil": 20
       },
       {
@@ -42576,11 +42858,11 @@
       },
       {
         "statusEffect": "Burn",
-        "id": "burn_absorb_boosted_heal_kaski",
+        "id": "burn_absorb_heal_kaski",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 100,
-        "damageMultiplierIncrementPerLevelPerMil": 10,
-        "additionalCasterSideEffect": "Heal",
+        "damageMultiplierIncrementPerLevelPerMil": 5,
+        "additionalCasterSideEffect": "HealthBoost",
         "additionalCasterSideEffectPowerPerMil": 500,
         "additionalCasterSideEffectTargetType": "Single"
       },
@@ -44400,6 +44682,15 @@
         "additionalCasterSideEffectPowerPerMil": 300
       },
       {
+        "statusEffect": "Poison",
+        "id": "poison_with_absorb_boosted_healing_all_tofana",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 90,
+        "damageMultiplierIncrementPerLevelPerMil": 10,
+        "additionalCasterSideEffect": "HealthBoost",
+        "additionalCasterSideEffectPowerPerMil": 300
+      },
+      {
         "statusEffect": "ManaOnOwnSpecial",
         "id": "reduce_allies_mana_on_owner_special_lucy_pve",
         "buff": "MinorDebuff",
@@ -45396,6 +45687,13 @@
         "defenseMultiplierIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "GreenDefenseModifier",
+        "id": "barrier_green_perseus_cute",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1810,
+        "defenseMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
         "statusEffect": "AttackModifier",
         "id": "attack_debuff_ukkonen",
         "buff": "MinorDebuff",
@@ -45499,6 +45797,20 @@
         "id": "counterattack_dominique",
         "buff": "MinorBuff",
         "damageDeflectionPerMil": 1150,
+        "damageDeflectionPerLevelPerMil": 50
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counterattack_glamiera1",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 750,
+        "damageDeflectionPerLevelPerMil": 50
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counterattack_glamiera2",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 450,
         "damageDeflectionPerLevelPerMil": 50
       },
       {
@@ -45877,6 +46189,12 @@
         "ignoresReflection": true
       },
       {
+        "statusEffect": "SoulBindDamageReceiver",
+        "id": "soul_bind_damage_receiver_minor",
+        "buff": "MinorDebuff",
+        "ignoresReflection": true
+      },
+      {
         "statusEffect": "CounterAttack",
         "id": "counter_attack_while_white_boar_mega_minion",
         "buff": "MajorBuff",
@@ -45894,6 +46212,23 @@
         "damageDeflectionPerLevelPerMil": 50
       },
       {
+        "statusEffect": "CounterAttack",
+        "id": "counter_attack_while_white_boar_mega_minion_c1",
+        "buff": "MajorBuff",
+        "keepConditions": [
+          {
+            "conditionTarget": "Single",
+            "conditionType": "FamiliarAlive",
+            "conditionSideAffected": "Allies",
+            "familiarIds": [
+              "white_boar_mega_minion_c1"
+            ]
+          }
+        ],
+        "damageDeflectionPerMil": 1150,
+        "damageDeflectionPerLevelPerMil": 50
+      },
+      {
         "statusEffect": "BrutalSupportStatusEffectSkill",
         "id": "darkfeather_damage_on_ally_special",
         "buff": "MinorBuff",
@@ -45902,6 +46237,23 @@
             "typeOfTarget": "Random",
             "effectType": "Damage",
             "powerMultiplierPerMil": 2350,
+            "powerMultiplierIncrementPerLevelPerMil": 50
+          }
+        ],
+        "activationChancePerMil": 500,
+        "effectActivationTypes": [
+          "AllySpecial"
+        ]
+      },
+      {
+        "statusEffect": "BrutalSupportStatusEffectSkill",
+        "id": "darkfeather_damage_on_ally_special_c1",
+        "buff": "MinorBuff",
+        "directEffects": [
+          {
+            "typeOfTarget": "Random",
+            "effectType": "Damage",
+            "powerMultiplierPerMil": 2450,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -46222,6 +46574,13 @@
         "manaStealIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "ConstantManaGainSteal",
+        "id": "constant_mana_steal_cappix",
+        "buff": "MinorDebuff",
+        "manaStealPerMil": 55,
+        "manaStealIncrementPerLevelPerMil": 5
+      },
+      {
         "statusEffect": "AttackModifier",
         "id": "tweedles_attack_debuff",
         "buff": "MinorDebuff",
@@ -46363,6 +46722,13 @@
         "id": "heal_steal_thaffer",
         "buff": "MinorDebuff",
         "stolenHealingMultiplierPerMil": 560,
+        "stolenHealingMultiplierPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "HealSteal",
+        "id": "heal_steal_sheppard",
+        "buff": "MinorDebuff",
+        "stolenHealingMultiplierPerMil": 460,
         "stolenHealingMultiplierPerLevelPerMil": 20
       },
       {
@@ -46990,6 +47356,13 @@
       },
       {
         "statusEffect": "HealMultiplier",
+        "id": "wound_penolite",
+        "buff": "MinorDebuff",
+        "healMultiplierPerMil": 640,
+        "healMultiplierPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "HealMultiplier",
         "id": "wound_charlotta",
         "buff": "MinorDebuff",
         "healMultiplierPerMil": 640,
@@ -47204,6 +47577,13 @@
         "buff": "MinorDebuff",
         "receivedDamageMultiplierPerMil": 1190,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 30
+      },
+      {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_increase_akthral_dragon_pve",
+        "buff": "MinorDebuff",
+        "receivedDamageMultiplierPerMil": 1600,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 0
       },
       {
         "statusEffect": "AmplifiedHealOnRemoval",
@@ -47554,6 +47934,16 @@
         "damageMultiplierIncrementPerLevelPerMil": 0,
         "fixedDamagePerTurn": 550,
         "fixedDamagePerTurnIncrementPerLevel": 50,
+        "damageRangeMultiplierPerMil": 500
+      },
+      {
+        "statusEffect": "Lightning",
+        "id": "lightning_voltina",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 770,
+        "fixedDamagePerTurnIncrementPerLevel": 70,
         "damageRangeMultiplierPerMil": 500
       },
       {
@@ -48213,6 +48603,15 @@
         "strongAttackMultiplierIncrementPerMil": 20
       },
       {
+        "statusEffect": "UnderWater",
+        "id": "underwater_fixed_cappix",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 308,
+        "fixedDamagePerTurnIncrementPerLevel": 28
+      },
+      {
         "statusEffect": "ReceivedDamageModifier",
         "id": "received_damage_increase_hammerclang",
         "buff": "MinorDebuff",
@@ -48463,6 +48862,15 @@
         "damageMultiplierIncrementPerLevelPerMil": 0,
         "fixedDamagePerTurn": 770,
         "fixedDamagePerTurnIncrementPerLevel": 70
+      },
+      {
+        "statusEffect": "Bleeding",
+        "id": "bleed_fixed_vzaakh",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 935,
+        "fixedDamagePerTurnIncrementPerLevel": 85
       },
       {
         "statusEffect": "DefenseModifier",
@@ -49181,7 +49589,7 @@
       {
         "statusEffect": "ElementSwap",
         "id": "element_swap_red_azureus",
-        "buff": "MajorDebuff",
+        "buff": "MinorDebuff",
         "excludedMonsterCategories": [
           "Titan"
         ],
@@ -49639,6 +50047,23 @@
         "fixedDamagePerTurnIncrementPerLevel": 50
       },
       {
+        "statusEffect": "Poison",
+        "id": "poison_fixed_noctur_corrupted",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 1000
+      },
+      {
+        "statusEffect": "Poison",
+        "id": "poison_fixed_judnug",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 440,
+        "fixedDamagePerTurnIncrementPerLevel": 40
+      },
+      {
         "statusEffect": "FixedDefenseModifier",
         "id": "brittle_fixed_doombringer",
         "buff": "MinorDebuff",
@@ -49772,6 +50197,13 @@
         "receivedDamageMultiplierIncrementPerLevelPerMil": 246
       },
       {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_reduction_lumeire",
+        "buff": "MinorBuff",
+        "receivedDamageMultiplierPerMil": 730,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
         "statusEffect": "SpecialRevengeStatusEffectSkill",
         "id": "special_revenge_minor_fixed",
         "buff": "MinorBuff",
@@ -49839,6 +50271,20 @@
         "id": "dragon_support_skill_fixed_health_recovery",
         "buff": "MinorBuff",
         "healthPoints": 5,
+        "healthPointsIncrementPerLevel": 5
+      },
+      {
+        "statusEffect": "AssistSkillFixedHealthRecovery",
+        "id": "dragon_support_skill_fixed_health_recovery_cryonia",
+        "buff": "MinorBuff",
+        "healthPoints": 7,
+        "healthPointsIncrementPerLevel": 5
+      },
+      {
+        "statusEffect": "AssistSkillFixedHealthRecovery",
+        "id": "dragon_support_skill_fixed_health_recovery_vzaakh",
+        "buff": "MinorBuff",
+        "healthPoints": 6,
         "healthPointsIncrementPerLevel": 5
       },
       {
@@ -50099,6 +50545,13 @@
         "buff": "MinorDebuff",
         "healMultiplierPerMil": 480,
         "healMultiplierPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "HealMultiplier",
+        "id": "wound_noctur_corrupted",
+        "buff": "MinorDebuff",
+        "healMultiplierPerMil": 700,
+        "healMultiplierPerLevelPerMil": 0
       },
       {
         "statusEffect": "NormalAttackReceivedDamageModifier",
@@ -50512,7 +50965,7 @@
         "defenseMultiplierPerMil": 700
       },
       {
-        "statusEffect": "TransformHero",
+        "statusEffect": "VermisTransformHero",
         "id": "worm_appearance",
         "buff": "MajorDebuff",
         "additionalTags": [
@@ -50901,6 +51354,13 @@
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
+        "statusEffect": "Burn",
+        "id": "burn_rozanidth_dragon_pve",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 10,
+        "damageMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
         "statusEffect": "DefenseModifier",
         "id": "basic_defense_theodosius",
         "buff": "MinorBuff",
@@ -50948,6 +51408,13 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 55,
         "damageMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "Frost",
+        "id": "frost_akthral_dragon_pve",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 40,
+        "damageMultiplierIncrementPerLevelPerMil": 0
       },
       {
         "statusEffect": "Frost",
@@ -51846,6 +52313,13 @@
         "buff": "MinorBuff",
         "damageDeflectionPerMil": 550,
         "damageDeflectionPerLevelPerMil": 50
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counterattack_lumeire",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 160,
+        "damageDeflectionPerLevelPerMil": 10
       },
       {
         "statusEffect": "Lightning",
@@ -54159,6 +54633,13 @@
         "accuracyIncrementPerLevelPerMil": 0
       },
       {
+        "statusEffect": "AccuracyModifier",
+        "id": "blind_raider_bigeye_bat_dragon_pve",
+        "buff": "MinorDebuff",
+        "accuracyIncrementPerMil": 65086,
+        "accuracyIncrementPerLevelPerMil": 0
+      },
+      {
         "statusEffect": "DefenseModifier",
         "id": "defense_debuff_dragon_pve",
         "buff": "MinorDebuff",
@@ -54324,6 +54805,13 @@
       },
       {
         "statusEffect": "StackingAttackModifier",
+        "id": "stacking_attack_on_damage_received_passive_low",
+        "buff": "StackMinorBuff",
+        "attackMultiplierPerMil": 1150,
+        "attackMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "StackingAttackModifier",
         "id": "stacking_attack_on_damage_received_passive_pve",
         "buff": "StackMinorBuff",
         "attackMultiplierPerMil": 1100,
@@ -54460,6 +54948,13 @@
         "buff": "MinorBuff",
         "healthPoints": 115,
         "healthPointsIncrementPerLevel": 9
+      },
+      {
+        "statusEffect": "FixedHealthRecovery",
+        "id": "hp_recovery_alberich_cute",
+        "buff": "MinorBuff",
+        "healthPoints": 230,
+        "healthPointsIncrementPerLevel": 18
       },
       {
         "statusEffect": "FixedHealthRecovery",
@@ -55843,6 +56338,21 @@
         "receivedDamageMultiplierIncrementPerLevelPerMil": 10
       },
       {
+        "statusEffect": "StackingReceivedDamageModifier",
+        "id": "received_damage_increase_fafnir_fallen",
+        "buff": "StackMinorDebuff",
+        "extraStackCount": 1,
+        "receivedDamageMultiplierPerMil": 1100,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_increase_boots_candle",
+        "buff": "MinorDebuff",
+        "receivedDamageMultiplierPerMil": 1330,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
         "statusEffect": "DefenseModifier",
         "id": "defense_up_thrivaldi",
         "buff": "MinorBuff",
@@ -55850,10 +56360,33 @@
         "defenseMultiplierIncrementPerLevelPerMil": 10
       },
       {
+        "statusEffect": "BerserkDefense",
+        "id": "defense_up_thrivaldi_void",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1230,
+        "defenseMultiplierIncrementPerLevelPerMil": 10,
+        "defenseMultiplierIncrementPerHitPerMil": 100,
+        "maxNumberOfHits": 6
+      },
+      {
         "statusEffect": "MoonriseWard",
         "id": "ice_ward_dain",
         "buff": "MinorBuff",
         "fixedDamageModifier": 146,
+        "fixedDamageModifierPerLevel": 236,
+        "validEffectSources": [
+          "SpecialSkill",
+          "StatusEffectSkill"
+        ],
+        "elementForAdditionalModifier": "Red",
+        "additionalDamageModifierAgainstElementPerMil": 180,
+        "additionalDamageModifierAgainstElementIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "MoonriseWard",
+        "id": "ice_ward_dain_meal",
+        "buff": "MinorBuff",
+        "fixedDamageModifier": 65376,
         "fixedDamageModifierPerLevel": 236,
         "validEffectSources": [
           "SpecialSkill",
@@ -55884,6 +56417,15 @@
         "attackMultiplierPerMil": 1850,
         "attackMultiplierIncrementPerLevelPerMil": 50,
         "maxAttackMultiplierPerMil": 3000
+      },
+      {
+        "statusEffect": "ChangingNormalAttackModifier",
+        "id": "changing_normal_attack_boost_dain_meal",
+        "buff": "MinorBuff",
+        "attackMultiplierPerMil": 1650,
+        "attackMultiplierIncrementPerLevelPerMil": 50,
+        "maxAttackMultiplierPerMil": 3000,
+        "attackMultiplierIncrementPerTurnPerMil": 250
       },
       {
         "statusEffect": "AttackModifier",
@@ -56018,6 +56560,13 @@
         "id": "blind_regium",
         "buff": "MinorDebuff",
         "accuracyIncrementPerMil": 65366,
+        "accuracyIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "AccuracyModifier",
+        "id": "blind_nuyza",
+        "buff": "MinorDebuff",
+        "accuracyIncrementPerMil": 65316,
         "accuracyIncrementPerLevelPerMil": 236
       },
       {
@@ -58985,10 +59534,18 @@
       },
       {
         "statusEffect": "ResistHealing",
+        "id": "resist_healing_with_damage_perseus_cute",
+        "buff": "MajorDebuff",
+        "effectOnResistedHealing": "Damage",
+        "fixedPower": 360,
+        "fixedPowerIncrementPerLevel": 20
+      },
+      {
+        "statusEffect": "ResistHealing",
         "id": "resist_healing_with_damage_hogne_lunar",
         "buff": "MinorDebuff",
         "effectOnResistedHealing": "Damage",
-        "fixedPower": 110,
+        "fixedPower": 140,
         "fixedPowerIncrementPerLevel": 20
       },
       {
@@ -59545,6 +60102,13 @@
       },
       {
         "statusEffect": "FixedYellowDefenseModifier",
+        "id": "mark_holy_fixed_vzaakh",
+        "buff": "MinorDebuff",
+        "defenseModifier": 62786,
+        "defenseModifierIncrementPerLevel": 65286
+      },
+      {
+        "statusEffect": "FixedYellowDefenseModifier",
         "id": "mark_holy_fixed_talonshine",
         "buff": "MinorDebuff",
         "defenseModifier": 64436,
@@ -59634,6 +60198,15 @@
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
         "fixedDamagePerTurn": 22,
+        "fixedDamagePerTurnIncrementPerLevel": 22
+      },
+      {
+        "statusEffect": "AssistSkillBurn",
+        "id": "dragon_support_skill_burn_draining_blaze_lumeire",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 24,
         "fixedDamagePerTurnIncrementPerLevel": 22
       },
       {
@@ -60102,7 +60675,7 @@
           "SpecialSkill",
           "StatusEffectSkill"
         ],
-        "damageDeflectionPerMil": 1650,
+        "damageDeflectionPerMil": 1300,
         "damageDeflectionPerLevelPerMil": 50,
         "requiredElementForReflect": "Red"
       },
@@ -60472,6 +61045,13 @@
         "receivedDamageMultiplierIncrementPerLevelPerMil": 10
       },
       {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_increase_snorri_blast",
+        "buff": "MinorDebuff",
+        "receivedDamageMultiplierPerMil": 1130,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
         "statusEffect": "BaldurStatusEffectSkill",
         "id": "random_damage_while_xshahr_has_boosted_health",
         "buff": "MajorBuff",
@@ -60820,6 +61400,44 @@
         "buffCategoryToRemove": "AllDebuffs",
         "totalDamageNeededToDisband": 1500,
         "inAmbushDamageDealtMultiplierPerMil": 1430,
+        "inAmbushDamageDealtMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "Ambush",
+        "id": "ambush_ketch",
+        "buff": "MajorBuff",
+        "keepConditions": [
+          {
+            "conditionTarget": "Caster",
+            "conditionType": "None",
+            "conditionSideAffected": "Enemies"
+          }
+        ],
+        "removalTrigger": "DamageReceived",
+        "receivedDamageMultiplierPerMil": 770,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 246,
+        "buffCategoryToRemove": "AllDebuffs",
+        "totalDamageNeededToDisband": 500,
+        "inAmbushDamageDealtMultiplierPerMil": 1330,
+        "inAmbushDamageDealtMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "Ambush",
+        "id": "ambush_tofana",
+        "buff": "MajorBuff",
+        "keepConditions": [
+          {
+            "conditionTarget": "Caster",
+            "conditionType": "None",
+            "conditionSideAffected": "Enemies"
+          }
+        ],
+        "removalTrigger": "DamageReceived",
+        "receivedDamageMultiplierPerMil": 820,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 246,
+        "buffCategoryToRemove": "AllDebuffs",
+        "totalDamageNeededToDisband": 1200,
+        "inAmbushDamageDealtMultiplierPerMil": 1330,
         "inAmbushDamageDealtMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -62151,6 +62769,36 @@
         "dodgeChanceIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "EffectOnDodgedSpecial",
+        "id": "damage_on_dodged_special_tanaka_isako_1",
+        "buff": "MinorBuff",
+        "dodgeIncrementPerMil": 280,
+        "dodgeIncrementPerLevelPerMil": 10,
+        "effect": "Damage",
+        "effectFixedPower": 280,
+        "effectFixedPowerIncrementPerLevel": 10
+      },
+      {
+        "statusEffect": "EffectOnDodgedSpecial",
+        "id": "damage_on_dodged_special_tanaka_isako_2",
+        "buff": "MinorBuff",
+        "dodgeIncrementPerMil": 380,
+        "dodgeIncrementPerLevelPerMil": 10,
+        "effect": "Damage",
+        "effectFixedPower": 380,
+        "effectFixedPowerIncrementPerLevel": 10
+      },
+      {
+        "statusEffect": "EffectOnDodgedSpecial",
+        "id": "damage_on_dodged_special_tanaka_isako_3",
+        "buff": "MinorBuff",
+        "dodgeIncrementPerMil": 580,
+        "dodgeIncrementPerLevelPerMil": 10,
+        "effect": "Damage",
+        "effectFixedPower": 930,
+        "effectFixedPowerIncrementPerLevel": 10
+      },
+      {
         "statusEffect": "Bleeding",
         "id": "bleed_easter",
         "buff": "MinorDebuff",
@@ -62252,6 +62900,19 @@
         "buff": "MinorBuff",
         "manaPerTurnPerMil": 30,
         "manaPerTurnIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "ManaOverTime",
+        "id": "mana_overtime_alberich_cute",
+        "buff": "MinorBuff",
+        "manaPerTurnPerMil": 30,
+        "manaPerTurnIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "ManaOverTime",
+        "id": "mana_overtime_bryggvir_whisperer",
+        "buff": "MinorBuff",
+        "manaPerTurnPerMil": 50
       },
       {
         "statusEffect": "ManaOverTime",
@@ -62371,6 +63032,14 @@
         "totalDamageNeededToWakeUp": 750
       },
       {
+        "statusEffect": "Sleep",
+        "id": "sleep_brin",
+        "buff": "MajorDebuff",
+        "removalTrigger": "NonFamiliarDamageReceived",
+        "receivedDamageMultiplierPerMil": 1660,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
         "statusEffect": "Poison",
         "id": "poison_daigo2",
         "buff": "MinorDebuff",
@@ -62425,6 +63094,13 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 72,
         "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "Burn",
+        "id": "burn_cade",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 80,
+        "damageMultiplierIncrementPerLevelPerMil": 0
       },
       {
         "statusEffect": "RedDefenseModifier",
@@ -62861,8 +63537,8 @@
         "id": "poison_contagious_baji",
         "buff": "MinorDebuff",
         "isContagious": true,
-        "damageMultiplierPerMil": 92,
-        "damageMultiplierIncrementPerLevelPerMil": 10
+        "damageMultiplierPerMil": 97,
+        "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
         "statusEffect": "Bleeding",
@@ -63107,7 +63783,7 @@
         "id": "buff_immunity_with_damage_on_resist_mizuno1",
         "buff": "MinorDebuff",
         "effectOnResistedStatusEffect": "Damage",
-        "fixedPower": 180,
+        "fixedPower": 230,
         "fixedPowerIncrementPerLevel": 10,
         "statusEffectOnResist": {
           "id": ""
@@ -63118,7 +63794,7 @@
         "id": "buff_immunity_with_damage_on_resist_mizuno2",
         "buff": "MinorDebuff",
         "effectOnResistedStatusEffect": "Damage",
-        "fixedPower": 430,
+        "fixedPower": 530,
         "fixedPowerIncrementPerLevel": 10,
         "statusEffectOnResist": {
           "id": ""
@@ -63142,6 +63818,231 @@
         "healthPoints": 170,
         "healthPointsIncrementPerLevel": 10,
         "isHealthBoost": true
+      },
+      {
+        "statusEffect": "DefenseModifier",
+        "id": "defense_down_iron_mimic",
+        "buff": "MinorDebuff",
+        "defenseMultiplierPerMil": 800
+      },
+      {
+        "statusEffect": "DamageAndDebuffShield",
+        "id": "mimic_iron_red_closed",
+        "buff": "MajorBuff",
+        "appearanceHeroIdForPortrait": "mimic_iron_red_closed"
+      },
+      {
+        "statusEffect": "DamageAndDebuffShield",
+        "id": "mimic_iron_green_closed",
+        "buff": "MajorBuff",
+        "appearanceHeroIdForPortrait": "mimic_iron_green_closed"
+      },
+      {
+        "statusEffect": "DamageAndDebuffShield",
+        "id": "mimic_iron_blue_closed",
+        "buff": "MajorBuff",
+        "appearanceHeroIdForPortrait": "mimic_iron_blue_closed"
+      },
+      {
+        "statusEffect": "DamageAndDebuffShield",
+        "id": "mimic_iron_yellow_closed",
+        "buff": "MajorBuff",
+        "appearanceHeroIdForPortrait": "mimic_iron_yellow_closed"
+      },
+      {
+        "statusEffect": "DamageAndDebuffShield",
+        "id": "mimic_iron_purple_closed",
+        "buff": "MajorBuff",
+        "appearanceHeroIdForPortrait": "mimic_iron_purple_closed"
+      },
+      {
+        "statusEffect": "DefenseModifierPerDead",
+        "id": "defense_modifier_per_dead_caravita",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1360,
+        "defenseMultiplierIncrementPerLevelPerMil": 20,
+        "sideAffected": "Allies",
+        "incrementPerDeadPerMil": 100
+      },
+      {
+        "statusEffect": "FixedHealthRecovery",
+        "id": "hp_recovery_goldie_perfume",
+        "buff": "MinorBuff",
+        "healthPoints": 290,
+        "healthPointsIncrementPerLevel": 10
+      },
+      {
+        "statusEffect": "Possession",
+        "id": "love_struck_hua_pi_gui",
+        "buff": "MinorDebuff",
+        "specialId": "mindless_heal_hua_pi_gui"
+      },
+      {
+        "statusEffect": "AmplifiedHealOnRemoval",
+        "id": "conditional_heal_bai_wu_chang",
+        "buff": "MinorBuff",
+        "removalEffects": [
+          {
+            "effectType": "Heal",
+            "effectTargetType": "Single",
+            "sideAffected": "Allies",
+            "effectTriggerRemovalReasons": [
+              "Expiration"
+            ],
+            "excludeEffectTriggerRemovalReasons": [],
+            "fixedPower": 1360,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "effectType": "Heal",
+            "effectTargetType": "Single",
+            "sideAffected": "Allies",
+            "effectTriggerRemovalReasons": [
+              "Dispel",
+              "Removal",
+              "Reallocation",
+              "ReplaceSameStatusEffect"
+            ],
+            "excludeEffectTriggerRemovalReasons": [],
+            "fixedPower": 1660,
+            "fixedPowerIncrementPerLevel": 20
+          }
+        ],
+        "isStubborn": true
+      },
+      {
+        "statusEffect": "ManaOverTime",
+        "id": "mana_recovery_surgeback",
+        "buff": "MinorBuff",
+        "manaPerTurnPerMil": 50
+      },
+      {
+        "statusEffect": "PungentBomb",
+        "id": "pungent_bomb",
+        "buff": "MinorDebuff",
+        "removalEffects": [
+          {
+            "effectType": "Damage",
+            "effectTargetType": "NearToTarget",
+            "sideAffected": "Allies",
+            "effectTriggerRemovalReasons": [
+              "Dispel",
+              "Expiration",
+              "Death",
+              "ReplaceSameStatusEffect"
+            ],
+            "excludeEffectTriggerRemovalReasons": [],
+            "fixedPower": 650,
+            "fixedPowerIncrementPerLevel": 50
+          }
+        ],
+        "defenseMultiplierPerMil": 690,
+        "defenseMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "Burn",
+        "id": "burn_chilazar",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 130,
+        "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "StackingAttackModifier",
+        "id": "stacking_attack_chilazar",
+        "buff": "StackMinorBuff",
+        "attackMultiplierPerMil": 1050,
+        "attackMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "StackingAttackModifier",
+        "id": "stacking_attack_zhakiturion",
+        "buff": "StackMinorBuff",
+        "attackMultiplierPerMil": 1080,
+        "attackMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "SandCurse",
+        "id": "sand_damage_avani",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 185,
+        "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "UnderWater",
+        "id": "underwater_bhagirathi",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 140,
+        "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "DefenseModifier",
+        "id": "brittle_stylish_isarnia",
+        "buff": "MinorDebuff",
+        "defenseMultiplierPerMil": 650,
+        "defenseMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
+        "statusEffect": "FixedHealthRecovery",
+        "id": "hp_recovery_stylish_kashhrek",
+        "buff": "MinorBuff",
+        "healthPoints": 72,
+        "healthPointsIncrementPerLevel": 4
+      },
+      {
+        "statusEffect": "FixedHealthRecovery",
+        "id": "hp_recoery_stylish_firar_tuck",
+        "buff": "MinorBuff",
+        "healthPoints": 32,
+        "healthPointsIncrementPerLevel": 4
+      },
+      {
+        "statusEffect": "AccuracyModifier",
+        "id": "blind_stylish_hu_tao",
+        "buff": "MinorDebuff",
+        "accuracyIncrementPerMil": 65216,
+        "accuracyIncrementPerLevelPerMil": 246
+      },
+      {
+        "statusEffect": "RedDefenseModifier",
+        "id": "barrier_fire_stylish_kashhrek",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1760,
+        "defenseMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_regen_stylish_friar_tuck",
+        "buff": "MinorBuff",
+        "manaGenerationMultiplierPerMil": 1060,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "BlockNewMinionSpecialSummonWithDamage",
+        "id": "block_minion_summon_with_damage_topaz_costume1",
+        "buff": "MinorDebuff",
+        "damage": 65,
+        "damageIncrementPerLevel": 5
+      },
+      {
+        "statusEffect": "BlockNewMinionSpecialSummonWithDamage",
+        "id": "block_minion_summon_with_damage_topaz_costume",
+        "buff": "MinorDebuff",
+        "damage": 165,
+        "damageIncrementPerLevel": 5
+      },
+      {
+        "statusEffect": "BlockNewMinionSpecialSummonWithDamage",
+        "id": "block_minion_summon_with_damage_topazz_costume3",
+        "buff": "MinorDebuff",
+        "damage": 360,
+        "damageIncrementPerLevel": 20
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counter_attack_stylish_elena",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 870,
+        "damageDeflectionPerLevelPerMil": 50
       }
     ],
     "tileEnhancements": [
@@ -65528,6 +66429,12 @@
           "DamageOverTime",
           "Water"
         ]
+      },
+      {
+        "typeOfStatusEffect": "PungentBomb",
+        "tags": [
+          "DefenseModifier"
+        ]
       }
     ],
     "passiveSkills": [
@@ -67023,7 +67930,24 @@
           "SpecialSkill",
           "StatusEffectSkill"
         ],
-        "triggeringStatusEffectTag": "Cover"
+        "triggeringStatusEffectTag": "Cover",
+        "rarityBasedDamageLimits": [
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          }
+        ]
       },
       {
         "passiveSkillType": "EffectOnDamageReceived",
@@ -67038,7 +67962,24 @@
           "SpecialSkill",
           "StatusEffectSkill"
         ],
-        "triggeringStatusEffectTag": "Cover"
+        "triggeringStatusEffectTag": "Cover",
+        "rarityBasedDamageLimits": [
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          },
+          {
+            "damageLimit": 0
+          }
+        ]
       },
       {
         "passiveSkillType": "ReallocateStatusEffectOnSpecialCast",
@@ -68026,7 +68967,8 @@
         "eatFamiliarSideAffected": "Allies",
         "eatFamiliarTargetType": "Single",
         "targetFamiliarTypes": [
-          "Parasite"
+          "Parasite",
+          "BigParasite"
         ]
       },
       {
@@ -68658,6 +69600,29 @@
         "statusEffectsToAdd": [
           {
             "id": "stacking_attack_on_damage_received_passive"
+          }
+        ],
+        "limitUsageToOncePerTurn": true
+      },
+      {
+        "passiveSkillType": "EffectOnDamageReceived",
+        "id": "attack_buff_on_damage_received_low",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "effectType": "None",
+        "powerMultiplierPerMil": 0,
+        "chancePerMil": 1000,
+        "sideAffected": "Allies",
+        "typeOfTarget": "Single",
+        "triggeringSources": [
+          "SpecialSkill"
+        ],
+        "excludedTriggerSources": [
+          "StatusEffect"
+        ],
+        "statusEffectsToAdd": [
+          {
+            "id": "stacking_attack_on_damage_received_passive_low"
           }
         ],
         "limitUsageToOncePerTurn": true
@@ -70128,7 +71093,17 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "redirectTargetType": "Single",
-        "redirectSideAffectedType": "Enemies"
+        "redirectSideAffectedType": "Enemies",
+        "redirectDamageMultiplierPerMil": 1000
+      },
+      {
+        "passiveSkillType": "RedirectLethalDamage",
+        "id": "cheat_death_epic_and_rare",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "redirectTargetType": "Single",
+        "redirectSideAffectedType": "Enemies",
+        "redirectDamageMultiplierPerMil": 500
       },
       {
         "passiveSkillType": "EffectOnFamiliarDamageDone",
@@ -70172,7 +71147,25 @@
           "MajorBuff"
         ],
         "orderOfReallocation": "Random",
-        "fixedHealthStealAmount": 100
+        "fixedHealthStealAmount": 100,
+        "distributeStolenBuffsTargetType": "Single"
+      },
+      {
+        "passiveSkillType": "Ransack",
+        "id": "ransack_epic_and_rare",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "stealSideAffected": "Enemies",
+        "stealTarget": "Single",
+        "stealChancePerMil": 1000,
+        "maxBuffsToSteal": 1,
+        "acceptedReallocationTypes": [
+          "MinorBuff",
+          "MajorBuff"
+        ],
+        "orderOfReallocation": "Random",
+        "fixedHealthStealAmount": 50,
+        "distributeStolenBuffsTargetType": "Single"
       },
       {
         "passiveSkillType": "ReceivedEffectReplacement",
@@ -71130,6 +72123,56 @@
         "maxItemsPerBattle": 5
       },
       {
+        "passiveSkillType": "MimicLootOnLevelCompleted",
+        "id": "Iron Satchel of Terror",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "activeOnlyOnMaxedUpCharacter": true,
+        "lootId": "mimic_iron_red",
+        "energiesPerLootDraw": 1,
+        "maxItemsPerBattle": 5
+      },
+      {
+        "passiveSkillType": "MimicLootOnLevelCompleted",
+        "id": "Iron Satchel of Terror",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "activeOnlyOnMaxedUpCharacter": true,
+        "lootId": "mimic_iron_green",
+        "energiesPerLootDraw": 1,
+        "maxItemsPerBattle": 5
+      },
+      {
+        "passiveSkillType": "MimicLootOnLevelCompleted",
+        "id": "Iron Satchel of Terror",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "activeOnlyOnMaxedUpCharacter": true,
+        "lootId": "mimic_iron_blue",
+        "energiesPerLootDraw": 1,
+        "maxItemsPerBattle": 5
+      },
+      {
+        "passiveSkillType": "MimicLootOnLevelCompleted",
+        "id": "Iron Satchel of Terror",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "activeOnlyOnMaxedUpCharacter": true,
+        "lootId": "mimic_iron_yellow",
+        "energiesPerLootDraw": 1,
+        "maxItemsPerBattle": 5
+      },
+      {
+        "passiveSkillType": "MimicLootOnLevelCompleted",
+        "id": "Iron Satchel of Terror",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "activeOnlyOnMaxedUpCharacter": true,
+        "lootId": "mimic_iron_purple",
+        "energiesPerLootDraw": 1,
+        "maxItemsPerBattle": 5
+      },
+      {
         "passiveSkillType": "Resist",
         "id": "resist_ailments_red",
         "targets": "Single",
@@ -71325,6 +72368,13 @@
         "modifyTargetType": "All"
       },
       {
+        "passiveSkillType": "HinderDispel",
+        "id": "hinder_cleansing",
+        "targets": "All",
+        "targetsSideAffected": "Enemies",
+        "hinderBuffCategory": "MinorDebuff"
+      },
+      {
         "passiveSkillType": "DealtDamageModifierOnOwnedStatusEffect",
         "id": "dealt_damage_modifier_per_water_ailment_on_target",
         "targets": "Single",
@@ -71363,6 +72413,76 @@
         ],
         "resistChancePerMil": 1000,
         "resistingBuffCategory": "StatusEffectDebuffs"
+      },
+      {
+        "passiveSkillType": "Resist",
+        "id": "resist_resonance",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "resistTypes": [
+          "Resonance"
+        ],
+        "resistChancePerMil": 1000,
+        "resistingBuffCategory": "StatusEffectDebuffs"
+      },
+      {
+        "passiveSkillType": "ContainSpreadingStatusEffects",
+        "id": "contain_spreading_ailments",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "containedBuffCategory": "AllDebuffs"
+      },
+      {
+        "passiveSkillType": "EffectOnSpecialWithChance",
+        "id": "reduce_enemies_stacks_on_special",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "statusEffectRemovalInfo": {
+          "buffToRemove": "StackBuffs",
+          "stackReductionAmount": 1
+        },
+        "chancePerMil": 1000
+      },
+      {
+        "passiveSkillType": "BypassCounterAttackAndReflect",
+        "id": "bypass_counterattack_and_reflection",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "acceptedDamageSources": [
+          "SpecialSkill"
+        ]
+      },
+      {
+        "passiveSkillType": "EffectOnTurnStart",
+        "id": "dragon_damage_on_turn_start",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "effects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 350
+          }
+        ],
+        "chancePerMil": 250,
+        "chanceIsPerTarget": true
+      },
+      {
+        "passiveSkillType": "EffectOnDamageReceivedWithHealthThreshold",
+        "id": "dragon_low_health_mana_recovery_on_damage_received",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "effectType": "None",
+        "powerMultiplierPerMil": 0,
+        "chancePerMil": 1000,
+        "sideAffected": "Allies",
+        "typeOfTarget": "Single",
+        "statusEffectsToAdd": [
+          {
+            "id": "mana_recovery_surgeback",
+            "turns": 3
+          }
+        ],
+        "healthThresholdPerMil": 500
       }
     ],
     "familiars": [
@@ -72208,6 +73328,21 @@
         "monsterHealthPerMil": 50
       },
       {
+        "familiarType": "Minion",
+        "id": "sakura_fox_costume_cute",
+        "accuracyPerMil": 1000,
+        "effects": [
+          {
+            "id": "damage_sakura_fox"
+          },
+          {
+            "id": "addmana_sakura_fox"
+          }
+        ],
+        "healthPerMil": 200,
+        "monsterHealthPerMil": 50
+      },
+      {
         "familiarType": "Parasite",
         "id": "gargoyle_parasite",
         "accuracyPerMil": 1000,
@@ -73015,6 +74150,25 @@
           }
         ],
         "healthPerMil": 510,
+        "healthPerLevelPerMil": 20,
+        "monsterHealthPerMil": 200
+      },
+      {
+        "familiarType": "BigMinion",
+        "id": "white_boar_mega_minion_c1",
+        "accuracyPerMil": 1000,
+        "effects": [
+          {
+            "id": "damage_white_boar_c1"
+          },
+          {
+            "id": "counter_attack_while_white_boar_c1"
+          },
+          {
+            "id": "defense_wither_on_hit_white_boar_c1"
+          }
+        ],
+        "healthPerMil": 560,
         "healthPerLevelPerMil": 20,
         "monsterHealthPerMil": 200
       },
@@ -74075,7 +75229,8 @@
             "id": "heal_construct_minion"
           }
         ],
-        "healthPerMil": 270
+        "healthPerMil": 33,
+        "healthPerLevelPerMil": 3
       },
       {
         "familiarType": "BigMinion",
@@ -76487,6 +77642,16 @@
         "monsterAttackPercentPerMil": 500
       },
       {
+        "effectType": "Damage",
+        "id": "damage_white_boar_c1",
+        "effectTriggers": [
+          "Turn"
+        ],
+        "attackPercentPerMil": 2850,
+        "attackPercentIncrementPerLevelPerMil": 50,
+        "monsterAttackPercentPerMil": 500
+      },
+      {
         "effectType": "AddStatusEffects",
         "id": "counter_attack_while_white_boar_mega_minion",
         "effectTriggers": [
@@ -76495,6 +77660,20 @@
         "statusEffects": [
           {
             "id": "counter_attack_while_white_boar_mega_minion",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single"
+          }
+        ]
+      },
+      {
+        "effectType": "AddStatusEffects",
+        "id": "counter_attack_while_white_boar_c1",
+        "effectTriggers": [
+          "Summon"
+        ],
+        "statusEffects": [
+          {
+            "id": "counter_attack_while_white_boar_mega_minion_c1",
             "sideAffected": "Allies",
             "statusTargetType": "Single"
           }
@@ -77069,6 +78248,16 @@
             "turns": 3
           }
         ]
+      },
+      {
+        "effectType": "Wither",
+        "id": "defense_wither_on_hit_white_boar_c1",
+        "effectTriggers": [
+          "Turn"
+        ],
+        "targetType": "Single",
+        "baseDefenseModifier": 191,
+        "baseDefenseModifierIncrementPerLevel": 251
       },
       {
         "effectType": "Damage",
@@ -77803,7 +78992,8 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 550
+        "attackPercentPerMil": 55,
+        "attackPercentIncrementPerLevelPerMil": 5
       },
       {
         "effectType": "Damage",
@@ -79665,7 +80855,8 @@
         "familyEffects": [
           "build_charge_myrkheim"
         ],
-        "isRealm": true
+        "isRealm": true,
+        "useCustomDescription": true
       },
       {
         "id": "fox",
@@ -83913,7 +85104,7 @@
       {
         "id": "kalevala_brawl",
         "effects": [
-          "kalevala_brawl_blind_on_special",
+          "kalevala_brawl_debuff_duration_modifier",
           "kalevala_brawl_enhanced_criticals",
           "kalevala_brawl_resist_mana_status_effects",
           "kalevala_brawl_resist_mana_reductions"
@@ -84121,7 +85312,8 @@
           "demonic_rift_status_effect",
           "demonic_rift_tile_booster_effect"
         ],
-        "turnsBetweenTurnBasedEffects": 2
+        "turnsBetweenTurnBasedEffects": 2,
+        "applyTurnBasedEffectsAtStartOfBattle": true
       },
       {
         "id": "demonic_rift_item_modifiers",
@@ -87089,19 +88281,13 @@
         ]
       },
       {
-        "effectType": "StatusEffectOnHit",
-        "id": "kalevala_brawl_blind_on_special",
-        "statusEffects": [
-          {
-            "id": "blind_kalevala_brawl",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All",
-            "turns": 2
-          }
-        ],
-        "chancePerMil": 1000,
-        "acceptedDamageSources": [
-          "SpecialSkill"
+        "effectType": "ModifiedStatusEffectDuration",
+        "id": "kalevala_brawl_debuff_duration_modifier",
+        "durationModifier": 1,
+        "battleFieldSide": "PlayerCharacters",
+        "buffTypes": [
+          "MinorDebuff",
+          "MajorDebuff"
         ],
         "affectedFamilies": [
           "kalevala"
@@ -94507,7 +95693,10 @@
       "TroopQuestOutskirts",
       "VeggieWindmillField",
       "VeggieTomatoPatch",
-      "CostumeChamber2"
+      "CostumeChamber2",
+      "DragonNightTownAttacked",
+      "DragonPitOfAnguishNoctur",
+      "DragonPitOfAnguish"
     ],
     "titanBackgroundId": "MoltenCore",
     "uberTitanBackgroundId": "MoltenCore",
@@ -94715,7 +95904,8 @@
       "Mesmerize",
       "AdditiveUnderwater",
       "NormalAttackModifier",
-      "ChangingNormalAttackModifier"
+      "ChangingNormalAttackModifier",
+      "PungentBomb"
     ],
     "statusEffectTagsWithExtraDescription": [
       "ManaGenerationModifier",
@@ -94792,6 +95982,9 @@
       "ReceivedEffectReplacement",
       "TransformStatusEffectOnSpecialCast",
       "ReviveInAlternativeFormWithInsanityChance"
+    ],
+    "resistPassiveSkillTypesWithExtraDescription": [
+      "Resonance"
     ],
     "statsPerLevelConfiguration": {
       "defaultMonsterStatsMultiplierPerLevelPerMil": 60,
@@ -95311,6 +96504,30 @@
         ]
       },
       {
+        "id": "dragon_weakening_blaze_judnug",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 281,
+            "fixedPowerIncrementPerLevel": 31
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 56,
+            "fixedPowerIncrementPerLevel": 6
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_attack_down_weakening_blaze_epic",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
         "id": "dragon_blinding_blaze",
         "directEffects": [
           {
@@ -95667,6 +96884,32 @@
         "buffToRemoveSideAffected": "Allies"
       },
       {
+        "id": "dragon_sacred_flame_nuyza",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 421,
+            "fixedPowerIncrementPerLevel": 41
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 112,
+            "fixedPowerIncrementPerLevel": 12
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_heal_from_normal_damage_buff",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ],
+        "buffToRemove": "MinorDebuff",
+        "buffToRemoveSideAffected": "Allies"
+      },
+      {
         "id": "dragon_cleansing_flame",
         "directEffects": [
           {
@@ -95742,6 +96985,66 @@
         "statusEffects": [
           {
             "id": "dragon_support_skill_fixed_health_recovery",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "dragon_esoteric_flame_vzaakh",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 221,
+            "fixedPowerIncrementPerLevel": 21
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 111,
+            "fixedPowerIncrementPerLevel": 11
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "AddMana",
+            "powerMultiplierPerMil": 20,
+            "powerMultiplierIncrementPerLevelPerMil": 20
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_fixed_health_recovery_vzaakh",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "dragon_esoteric_flame_cryonia",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 222,
+            "fixedPowerIncrementPerLevel": 22
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 112,
+            "fixedPowerIncrementPerLevel": 12
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "AddMana",
+            "powerMultiplierPerMil": 20,
+            "powerMultiplierIncrementPerLevelPerMil": 20
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_fixed_health_recovery_cryonia",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 5
@@ -95956,6 +97259,27 @@
             "effectType": "AddMana",
             "powerMultiplierPerMil": 236,
             "powerMultiplierIncrementPerLevelPerMil": 236
+          }
+        ]
+      },
+      {
+        "id": "dragon_blaze_of_torment_cappix",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 188,
+            "fixedPowerIncrementPerLevel": 18
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
+          },
+          {
+            "effectType": "AddMana",
+            "powerMultiplierPerMil": 246,
+            "powerMultiplierIncrementPerLevelPerMil": 246
           }
         ]
       },
@@ -96971,6 +98295,36 @@
         ]
       },
       {
+        "id": "dragon_draining_blaze_lumeire",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 221,
+            "fixedPowerIncrementPerLevel": 21
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 111,
+            "fixedPowerIncrementPerLevel": 11
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_burn_draining_blaze_lumeire",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          },
+          {
+            "id": "dragon_support_skill_healing_reduction_draining_blaze",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
         "id": "dragon_shocking_blaze",
         "directEffects": [
           {
@@ -97017,6 +98371,35 @@
             "effectType": "ReduceMaxHealth",
             "fixedPower": 270,
             "fixedPowerIncrementPerLevel": 20
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_defense_down_shocking_blaze",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "dragon_shocking_blaze_voltina",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 222,
+            "fixedPowerIncrementPerLevel": 22
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 112,
+            "fixedPowerIncrementPerLevel": 12
+          },
+          {
+            "effectType": "ReduceMaxHealth",
+            "fixedPower": 271,
+            "fixedPowerIncrementPerLevel": 21
           }
         ],
         "statusEffects": [
@@ -97091,5 +98474,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2693124023
+  "battleConfigId": 1094738453
 }

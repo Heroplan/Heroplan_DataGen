@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Récits inédits"
 "lottery.title.superelementalsummon","Invocation super élémentaire"
 "lottery.title.templesummon","Invocation du temple"
+"lottery.title.thunderboltsummon","Invocation d'éclair"
 "lottery.title.titanhuntersummon","Invocation des chasseurs de titans"
 "lottery.title.towereventsummon","Invocation de tour"
 "lottery.title.towertroopsummon","Invocation de troupe de tour"

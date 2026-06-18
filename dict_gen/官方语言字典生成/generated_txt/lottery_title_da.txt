@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Ufortalte historier"
 "lottery.title.superelementalsummon","Superelementærhidkaldelse"
 "lottery.title.templesummon","Tempelhidkaldelse"
+"lottery.title.thunderboltsummon","Lynhidkaldelsen"
 "lottery.title.titanhuntersummon","Titanjægerhidkaldelse"
 "lottery.title.towereventsummon","Tårnhidkaldelse"
 "lottery.title.towertroopsummon","Tårn-enhedshidkaldelse"

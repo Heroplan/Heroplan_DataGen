@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","Musketri"
 "herocard.family.title.muspelheim","Area Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Area Myrkheim"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Keluarga Misteri"
 "herocard.family.title.mystery.short","Misteri"

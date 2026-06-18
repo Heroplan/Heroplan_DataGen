@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Pagtekspedition"
 "quests.name.crafting","Find fremstillingsmaterialer"
 "quests.name.crafting_uncommon","Find fremstillingsmaterialer II"
+"quests.name.demonic_rift_dragon","Dæmonrøvere"
 "quests.name.dragon_battle_and_crafting","Aften med objekter"
 "quests.name.dragon_cave_classic","Dragegrotten"
 "quests.name.dragon_dragonlings_and_xp","Red dragelinger"

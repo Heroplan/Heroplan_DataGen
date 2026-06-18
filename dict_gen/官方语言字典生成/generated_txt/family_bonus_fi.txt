@@ -20,7 +20,9 @@ Syvänkölän jalokiviä voi ilmestyä vain tavallisille kilville, jotka vastaav
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % hyökkäystä."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Kaikki liittolaiset saavat {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} %:n hyökkäyskasauman aina kun tämä hahmo yrittää ryöstää vihollisen. (Maksimikasauma: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Kasauma (maksimi: {MAXSTACK}): Kaikki liittolaiset saavat {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} %:n hyökkäyskasauman aina kun tämä hahmo yrittää ryöstää vihollisen."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Kasauma (maksimi: {MAXSTACK}): Kaikki liittolaiset saavat {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} %:n hyökkäyskasauman aina kun tämä hahmo yrittää ryöstää vihollisen. Tämä vaikutus voi aktivoitua enintään {MAXACTIVATIONSPERTURN} kertaa vuorossa."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Kasauma (maksimi: {MAXSTACK}): Kaikki liittolaiset saavat {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} %:n hyökkäyskasauman aina kun tämä hahmo yrittää ryöstää vihollisen. Tämä vaikutus voi aktivoitua enintään kerran vuorossa."
 "familybonuses.description.long.build_charge_beauty_beast","Eri sankareilla on erilaiset nöyryyttä koskevat vaatimukset.
 Kun sankari käyttää erikoistaitonsa vahvaa versiota, vain vaadittava määrä nöyryyttä käytetään.
 Nöyryyden enimmäismäärä: 100.
@@ -37,6 +39,8 @@ Sankari saa {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.build_charge_nidavellir","Sulanut ydin latautuu aina, kun tämä hahmo kärsii vauriota normaalihyökkäyksistä tai erikoistaidoista."
 "familybonuses.description.long.build_charge_nidavellir_alt","Sulanut ydin latautuu aina, kun tämä hahmo kärsii vauriota normaalihyökkäyksistä tai erikoistaidoista."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Tällä hahmolla on {CHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n lisämahdollisuus ohittaa puolustustehosteet hyökkäyksillään. Jos puolustustehosteita ohitetaan, tämän hahmon mana nousee {POWER} %."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Tällä hahmolla on {CHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n lisämahdollisuus ohittaa puolustustehosteet hyökkäyksillään. Ohitus on taattu vastahyökkäyksiä ja heijastuksia vastaan.
+Jos puolustustehosteita ohitetaan, tämän hahmon mana nousee {POWER} %."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Kun tämä sankari saa puolustukseen vaikuttavan vaivan, {1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus loitsia saatu vaiva kaikille vihollisille."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus pidentää kunkin tämän hahmon loitsiman onnentanssin tilaefektin kestoa 1 vuorolla."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % lisää erikoistaitovauriota."
@@ -183,7 +187,9 @@ Lisätaito kolmella perheenjäsenellä: Kun naamiokäskyläinen kutsutaan, se te
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","Merkitsee jokaisen vuoron alussa verililjalla vihollisen, jolla on eniten terveyttä jäljellä."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Merkitsee jokaisen vuoron alussa verililjalla vihollisen, jolla on eniten terveyttä jäljellä."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Merkitsee jokaisen vuoron alussa verililjalla vihollisen, jolla on eniten terveyttä jäljellä."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Loitsii {ATTACK} %:n hyökkäyskasauman kaikille liittolaisille, kun tämä hahmo yrittää ryöstää jonkun hahmon. (Maksimikasauma: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Pino (maksimi: 10) : Kaikki liittolaiset saavat {ATTACK} % hyökkäystä, kun tämä hahmo yrittää ryöstää vihollisen."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Kasauma (maksimi: 10): Kaikki liittolaiset saavat {ATTACK} % hyökkäystä, kun tämä hahmo yrittää ryöstää vihollisen. Tämä vaikutus voi aktivoitua enintään {MAXACTIVATIONSPERTURN} kertaa vuorossa."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Kasauma (maksimi: 10): Kaikki liittolaiset saavat {ATTACK} % hyökkäystä, kun tämä hahmo yrittää ryöstää vihollisen. Tämä vaikutus voi aktivoitua enintään kerran vuorossa."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Tämä hahmo saa {CURRENTCHARGEFROMDAMAGE} nöyryyttä kärsiessään suoraa vauriota erikoistaidoista. Enintään kerran vuorossa.
 Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannusta erikoistaidoista. Enintään kerran vuorossa."
@@ -192,6 +198,7 @@ Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannust
 "familybonuses.description.short.build_charge_nidavellir","Tämä hahmo lataa sulanutta ydintään kärsiessään vauriota normaalihyökkäyksistä tai erikoistaidoista."
 "familybonuses.description.short.build_charge_nidavellir_alt","Sulanut ydin latautuu aina, kun tämä hahmo kärsii vauriota normaalihyökkäyksistä tai erikoistaidoista."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE} %:n lisämahdollisuus ohittaa puolustustehosteet hyökkäyksillä. Jos puolustustehosteita ohitetaan, tämän hahmon mana nousee {POWER} %."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE} %:n lisämahdollisuus ohittaa puolustustehosteet hyökkäyksillä. Jos puolustustehosteita ohitetaan, tämän hahmon mana nousee {POWER} %. Ohitus on taattu vastahyökkäyksiä ja heijastuksia vastaan."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Kun tämä sankari saa puolustukseen vaikuttavan vaivan, {CHANCE} %:n mahdollisuus loitsia saatu vaiva kaikille vihollisille."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} %:n mahdollisuus pidentää loitsittujen onnentanssin tilaefektien kestoa 1:llä."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % erikoistaitojen vaurioon."
@@ -509,7 +516,7 @@ Kuukalenteriperheessä on erilaisia kuukalenterin eläinsankareita. Kukin kuukal
 "herocard.family.title.musketeer.short","Musketööri"
 "herocard.family.title.muspelheim","Muspelheimin valtakunta"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Myrkheimin valtakunta"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Mysteeriperhe"
 "herocard.family.title.mystery.short","Mysteeri"

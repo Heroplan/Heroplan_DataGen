@@ -397,5 +397,20 @@
   "reduce_growth_on_special": "passive_reduce_growth",
   "dealt_damage_modifier_per_water_ailment_on_target": "passive_increase_damage_per_water_ailment_on_target",
   "stop_chain_strikes": "passive_stop_chain",
-  "resist_all_stealing": "status_ransac"
+  "resist_all_stealing": "status_ransac",
+  "resist_resonance": "status_radiation",
+  "contain_spreading_ailments": "passive_contain_spreading_ailment",
+  "reduce_enemies_stacks_on_special": "passive_reduce_stacks",
+  "mimic_iron_red": "passive_mimic_training_hero_red",
+  "mimic_iron_green": "passive_mimic_training_hero_green",
+  "mimic_iron_blue": "passive_mimic_training_hero_blue",
+  "mimic_iron_yellow": "passive_mimic_training_hero_yellow",
+  "mimic_iron_purple": "passive_mimic_training_hero_purple",
+  "bypass_counterattack_and_reflection": "passive_bypass_counterattack",
+  "cheat_death_epic_and_rare": "passive_cheat_death",
+  "ransack_epic_and_rare": "passive_thiefs_opportunity",
+  "hinder_cleansing": "passive_hinder_cleansing",
+  "dragon_damage_on_turn_start": "passive_crackling_hatchling",
+  "dragon_low_health_mana_recovery_on_damage_received": "passive_surgeback",
+  "attack_buff_on_damage_received_low": "passive_attack_buff_on_damage_received"
 }

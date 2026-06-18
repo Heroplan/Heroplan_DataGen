@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Paktoppdrag"
 "quests.name.crafting","Finn produksjonsmaterialer"
 "quests.name.crafting_uncommon","Finn produksjonsmaterialer II"
+"quests.name.demonic_rift_dragon","Demonraidere"
 "quests.name.dragon_battle_and_crafting","Gjenstandskveld"
 "quests.name.dragon_cave_classic","Dragegrotte"
 "quests.name.dragon_dragonlings_and_xp","Redd smådrager"

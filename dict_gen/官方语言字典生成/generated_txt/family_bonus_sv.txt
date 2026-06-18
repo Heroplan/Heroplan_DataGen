@@ -20,7 +20,9 @@ Undre vildmarken-ädelstenar kan bara uppstå på vanliga sköldar som har samma
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % attack."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % attack."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % attack."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Alla allierade får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % attackstapel varje gång den här karaktären försöker plundra en fiende. (Maxstapel: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Stapel (max: {MAXSTACK}): Alla allierade får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % attackstapel varje gång den här karaktären försöker plundra en fiende."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Stapel (max: {MAXSTACK}): Alla allierade får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % attackstapel varje gång den här karaktären försöker plundra en fiende. Den här effekten kan bara aktiveras {MAXACTIVATIONSPERTURN} gånger per runda."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Stapel (max: {MAXSTACK}): Alla allierade får {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % attackstapel varje gång den här karaktären försöker plundra en fiende. Den här effekten kan bara aktiveras en gång per runda."
 "familybonuses.description.long.build_charge_beauty_beast","Olika hjältar har olika ödmjukhetskrav.
 När hjälten använder den starka versionen av sin specialförmåga förbrukas bara den mängd ödmjukhet som krävs.
 Maximal ödmjukhet: 100.
@@ -36,6 +38,8 @@ Hjälten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFR
 "familybonuses.description.long.build_charge_nidavellir","Den smälta kärnan laddas varje gång den här karaktären tar skada av vanliga attacker eller specialförmågor."
 "familybonuses.description.long.build_charge_nidavellir_alt","Den smälta kärnan laddas varje gång den här karaktären tar skada av vanliga attacker eller specialförmågor."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Den här karaktären har {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % extra chans att ignorera försvarsbonusar med sina attacker. Om försvarsbonusar ignoreras får den här karaktären {POWER} % mer mana."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Den här karaktären har {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % extra chans att ignorera försvarsbonusar med sina attacker. Det här ignorerandet är garanterat mot motattacker och reflektioner.
+Om försvarsbonusar ignoreras får den här karaktären {POWER} % mer mana."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","När den här hjälten får en negativ statuseffekt som påverkar försvar har den {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chans att kasta samma statuseffekt på alla fiender."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chans att förlänga alla statuseffekter från lyckodanser som kastas av den här karaktären med 1 runda."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % ytterligare skada från specialförmågor."
@@ -184,7 +188,9 @@ Ytterligare förmåga med 3 familjemedlemmar: När maskundersåten åkallas ger 
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","I början av varje tur markeras fienden med högst återstående HP med en blodslilja."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","I början av varje tur markeras fienden med högst återstående HP med en blodslilja."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","I början av varje tur markeras fienden med högst återstående HP med en blodslilja."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Kasta {ATTACK} % attackstapel på allierade när den här karaktären försöker plundra en annan karaktär. (Maxstapel: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Stapel (max: 10) Alla allierade får {ATTACK} % attack när den här karaktären försöker plundra en fiende."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Stapel (max: 10): Alla allierade får {ATTACK} % attack när den här karaktären försöker plundra en fiende. Den här effekten kan bara aktiveras {MAXACTIVATIONSPERTURN} gånger per tur."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Stapel (max: 10): Alla allierade får {ATTACK} % attack när den här karaktären försöker plundra en fiende. Den här effekten kan bara aktiveras en gång per tur."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Den här karaktären får {CURRENTCHARGEFROMDAMAGE} ödmjukhet när den tar direkt skada från specialförmågor. Högst en gång per runda.
 Den här karaktären får {CURRENTCHARGEFROMHEAL} ödmjukhet när den får direkt läkning från specialförmågor. Högst en gång per runda."
@@ -193,6 +199,7 @@ Den här karaktären får {CURRENTCHARGEFROMHEAL} ödmjukhet när den får direk
 "familybonuses.description.short.build_charge_nidavellir","Den smälta kärnan laddas varje gång karaktären tar skada av vanliga attacker eller specialförmågor."
 "familybonuses.description.short.build_charge_nidavellir_alt","Den smälta kärnan laddas varje gång den här karaktären tar skada av vanliga attacker eller specialförmågor."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE} % extra chans att ignorera försvarsbonusar med sina attacker. Om försvarsbonusar ignoreras får den här karaktären {POWER} % mer mana."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE} % extra chans att ignorera försvarsbonusar med sina attacker. Om försvarsbonusar ignoreras får den här karaktären {POWER} % mer mana. Det här ignorerandet är garanterat mot motattacker och reflektioner."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","När den här hjälten får en negativ statuseffekt som påverkar försvar har den {CHANCE} % chans att kasta samma statuseffekt på alla fiender."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % chans att förlänga alla statuseffekter från lyckodanser med 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % ytterligare skada från specialförmågor."
@@ -510,7 +517,7 @@ Månårsfamiljen innehåller olika månårsdjurhjältar. Varje månårsdjur ger 
 "herocard.family.title.musketeer.short","Musketör"
 "herocard.family.title.muspelheim","Riket Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Riket Myrkheim"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Mystisk familj"
 "herocard.family.title.mystery.short","Mystisk"

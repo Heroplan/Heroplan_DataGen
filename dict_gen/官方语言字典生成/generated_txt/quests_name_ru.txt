@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Заветный квест"
 "quests.name.crafting","Найдите ремесленные материалы"
 "quests.name.crafting_uncommon","Найдите ремесленные материалы II"
+"quests.name.demonic_rift_dragon","Демонические налетчики"
 "quests.name.dragon_battle_and_crafting","Ночь предметов"
 "quests.name.dragon_cave_classic","Пещера драконов"
 "quests.name.dragon_dragonlings_and_xp","Спасите дракончиков"

@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Niet-vertelde verhalen"
 "lottery.title.superelementalsummon","Superelementenaanroep"
 "lottery.title.templesummon","Tempelaanroep"
+"lottery.title.thunderboltsummon","Bliksemaanroep"
 "lottery.title.titanhuntersummon","Titanenjageraanroep"
 "lottery.title.towereventsummon","Torenaanroep"
 "lottery.title.towertroopsummon","Torentroepenaanroep"

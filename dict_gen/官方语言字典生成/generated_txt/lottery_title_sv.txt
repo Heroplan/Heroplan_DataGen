@@ -46,6 +46,7 @@
 "lottery.title.summon.view.untoldtales","Osagda sagor"
 "lottery.title.superelementalsummon","Superelementåkallelse"
 "lottery.title.templesummon","Tempelåkallelse"
+"lottery.title.thunderboltsummon","Åskviggsåkallelse"
 "lottery.title.titanhuntersummon","Titanjägaråkallelse"
 "lottery.title.towereventsummon","Tornåkallelse"
 "lottery.title.towertroopsummon","Torntruppsåkallelse"

@@ -20,7 +20,9 @@ Le Gemme delle Profondità possono generarsi solamente su scudi standard che sia
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% di Attacco."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Tutti gli alleati ottengono {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% di iterazione di Attacco ogni volta che questo personaggio tenta di saccheggiare un nemico. (Max: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% di iterazione di Attacco ogni volta che questo personaggio tenta di saccheggiare un nemico."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% di iterazione di Attacco ogni volta che questo personaggio tenta di saccheggiare un nemico. Questo effetto può attivarsi solo {MAXACTIVATIONSPERTURN} volte per turno."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% di iterazione di Attacco ogni volta che questo personaggio tenta di saccheggiare un nemico. Questo effetto può attivarsi solo una volta per turno."
 "familybonuses.description.long.build_charge_beauty_beast","Eroi diversi hanno requisiti di Umiltà diversi.
 Quando l'Eroe lancia la versione potente della sua Abilità speciale, viene consumata solo la quantità necessaria di Umiltà.
 Umiltà massima: 100.
@@ -35,6 +37,8 @@ L'Eroe ottiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.build_charge_nidavellir","Il Nucleo fuso viene caricato ogni volta che questo personaggio subisce danni da attacchi normali o Abilità speciali."
 "familybonuses.description.long.build_charge_nidavellir_alt","Il Nucleo fuso viene caricato ogni volta che questo personaggio subisce danni da attacchi normali o Abilità speciali."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Questo personaggio ha il {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità extra di aggirare le magie benefiche difensive con i suoi attacchi. Se viene aggirata almeno una magia benefica difensiva, il mana di questo personaggio aumenta del {POWER}%."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Questo personaggio ha il {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità extra di superare le magie benefiche difensive con i suoi attacchi. Il superamento è garantito contro contrattacchi e riflesso.
+Se viene superata almeno una magia benefica difensiva, il mana di questo personaggio aumenta del {POWER}%."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quando questo eroe riceve un disturbo che interessa la Difesa, ha il {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di lanciare il disturbo subito a tutti i nemici."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di aumentare di 1 turno la durata di ogni effetto di stato Danza della fortuna lanciato da questo personaggio."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% danni da Abilità speciali extra."
@@ -182,7 +186,9 @@ Se l'Abilità speciale del nemico sconfigge questo personaggio, le probabilità 
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","All'inizio di ogni turno, marchia il nemico con il numero più alto di HP rimanenti con un Giglio di sangue."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","All'inizio di ogni turno, marchia il nemico con il numero più alto di HP rimanenti con un Giglio di sangue."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","All'inizio di ogni turno, marchia il nemico con il numero più alto di HP rimanenti con un Giglio di sangue."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Lancia {ATTACK}% di iterazione di Attacco su tutti gli alleati quando questo personaggio tenta di saccheggiare un personaggio. (Max: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Iterazione (max: 10): tutti gli alleati ricevono {ATTACK}% di Attacco quando questo personaggio tenta di saccheggiare un nemico."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Iterazione (max: 10): tutti gli alleati ricevono {ATTACK}% di Attacco quando questo personaggio tenta di saccheggiare un nemico. Questo effetto può attivarsi solo {MAXACTIVATIONSPERTURN} volte per turno."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Iterazione (max: 10): tutti gli alleati ricevono {ATTACK}% di Attacco quando questo personaggio tenta di saccheggiare un nemico. Questo effetto può attivarsi solo una volta per turno."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Questo personaggio ottiene {CURRENTCHARGEFROMDAMAGE} Umiltà quando subisce danni diretti da Abilità speciali. Massimo una volta per turno.
 Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure dirette da Abilità speciali. Massimo una volta per turno."
@@ -191,6 +197,7 @@ Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure di
 "familybonuses.description.short.build_charge_nidavellir","Questo personaggio carica il suo Nucleo fuso quando subisce danni da attacchi normali o Abilità speciali."
 "familybonuses.description.short.build_charge_nidavellir_alt","Il Nucleo fuso viene caricato ogni volta che questo personaggio subisce danni da attacchi normali o Abilità speciali."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE}% di probabilità extra di aggirare le magie benefiche difensive con i suoi attacchi. Se viene aggirata almeno una magia benefica difensiva, il mana di questo personaggio aumenta del {POWER}%."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE}% di probabilità extra di superare le magie benefiche difensive con i suoi attacchi. Se viene superata almeno una magia benefica difensiva, il mana di questo personaggio aumenta del {POWER}%. Il superamento è garantito contro contrattacchi e riflesso."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quando questo eroe riceve un disturbo che interessa la difesa, {CHANCE}% di probabilità di lanciare il disturbo ricevuto a tutti i nemici."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE}% di probabilità di aumentare di 1 la durata degli effetti di stato di Danza della fortuna lanciati."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% di danni aggiuntivi dell'Abilità speciale."
@@ -508,7 +515,7 @@ La famiglia Anno lunare presenta diversi Eroi animali dell'anno lunare. Ogni ani
 "herocard.family.title.musketeer.short","Moschettieri"
 "herocard.family.title.muspelheim","Regno di Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Regno di Myrkheim"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Famiglia Mistero"
 "herocard.family.title.mystery.short","Mistero"

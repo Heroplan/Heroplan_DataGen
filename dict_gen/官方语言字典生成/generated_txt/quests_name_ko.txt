@@ -26,6 +26,7 @@
 "quests.name.covenant_2","서약 퀘스트"
 "quests.name.crafting","제작 재료 찾기"
 "quests.name.crafting_uncommon","제작 재료 찾기 II"
+"quests.name.demonic_rift_dragon","악마 강도단"
 "quests.name.dragon_battle_and_crafting","아이템의 밤"
 "quests.name.dragon_cave_classic","드래곤 동굴"
 "quests.name.dragon_dragonlings_and_xp","새끼 드래곤 구조하기"

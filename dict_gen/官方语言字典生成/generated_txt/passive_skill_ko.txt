@@ -2,6 +2,7 @@
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.addmana","이 캐릭터는 적이 출혈 피해를 받을 때마다 {POWER}% 마나를 얻습니다."
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","이 캐릭터는 적이 출혈 피해를 받을 때마다 {POWER}의 HP를 회복합니다."
 "herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","이 캐릭터는 적이 화상 피해를 받을 때마다 {POWER}% 마나를 받습니다."
+"herocard.passive_skill.description.bypasscounterattackandreflect","이 캐릭터의 특수 스킬은 반격 및 반사를 우회합니다."
 "herocard.passive_skill.description.bypassfamiliars.minion","이 캐릭터가 주는 모든 피해는 하수인을 통과합니다."
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","이 캐릭터가 주는 모든 피해는 하수인과 메가 하수인을 통과합니다."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","일정 확률로 시전한 상태 효과의 지속 시간을 늘립니다."
@@ -18,6 +19,9 @@
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","{TURNS}턴마다 쓰러진 모든 아군을 {POWER}% HP로 부활시킵니다."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","{TURNS}턴마다 쓰러진 근처의 아군을 {POWER}% HP로 부활시킵니다."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","이 캐릭터가 전투 중 처음으로 체력이 낮은 상태에서 턴을 시작하면 HP를 {HEALTH}% 회복하고 {MANA}% 마나를 받습니다."
+"herocard.passive_skill.description.containspreadingstatuseffects.alldebuffs","이 캐릭터에게 걸린 상태 이상 효과와 부정적인 중첩은 다른 아군에게 전이되지 않습니다.
+
+또한 상태 이상 효과나 부정적인 중첩이 해당 캐릭터가 아닌 다른 아군에게 피해를 주지 않도록 방지합니다."
 "herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","이 캐릭터가 상태 이상 또는 부정적 중첩 효과로 인해 피해를 받을 때마다 그 피해 만큼의 HP를 회복합니다."
 "herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","이 캐릭터가 상태 이상 효과 또는 부정적 중첩으로 인해 피해를 받을 때마다 HP를 회복합니다. 받은 피해량의 {MULTIPLIER}%를 회복합니다."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER}% 치명타 확률."
@@ -25,7 +29,7 @@
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","{TURNS}턴마다 모든 하수인과 메가 하수인에 {DAMAGEPERTURN}만큼 피해를 줍니다."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","턴을 시작할 때마다 모든 하수인과 메가 하수인에 {DAMAGEPERTURN}만큼 피해를 줍니다."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","턴을 시작할 때마다 모든 하수인과 메가 하수인에 {DAMAGEPERTURN}만큼 피해를 줍니다."
-"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","이 캐릭터가 가하는 일반 공격 및 특수 스킬의 모든 피해량이, 이 캐릭터에게 축적된 광기 {INSANITYPERSTEP}당 {DAMAGEINCREASEPERSTEP}%씩 증가하며, 최대 {MAXDAMAGEINCREASE}%까지 증가합니다."
+"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","일반 공격 및 특수 스킬로 적에게 주는 모든 피해량이 이 캐릭터에 걸린 {INSANITYPERSTEP} 광기당 {DAMAGEINCREASEPERSTEP}% 증가하며, 최대 {MAXDAMAGEINCREASE}% 증가합니다. 광기 발동 시 자신이나 아군에 가하는 피해는 포함되지 않습니다."
 "herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","연결된 영웅이 특수 스킬에 적중되면 해제 가능한 강화 효과 중 남은 시간이 가장 짧은 효과가 해제되며, 받는 피해가 {DAMAGEREDUCTION}% 감소합니다. 연결된 영웅의 HP가 {INCREASEDDAMAGEREDUCTIONTHRESHOLD}% 이하인 경우 피해가 대신 {INCREASEDDAMAGEREDUCTION}% 감소합니다."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","대상에 대한 핏빛 백합이 중첩될 때마다 이 캐릭터가 가하는 모든 일반 공격 및 특수 스킬의 피해가 {MODIFIER}% 증가합니다."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","아군 중 하나가 춤을 추는 상태인 경우, 이 캐릭터의 특수 스킬이 {MODIFIERCHANGE}% 증가합니다."
@@ -44,7 +48,7 @@
 이 피해는 소진된 에너지에 비례합니다. 코어가 활성화되면 모든 에너지가 소진됩니다."
 "herocard.passive_skill.description.dispelonownfamiliardeath.minion.minordebuff","이 캐릭터는 보유한 하수인이 파괴되면 상태 이상 효과가 사라집니다."
 "herocard.passive_skill.description.dodgespecialdamage","이 캐릭터는 {CHANCE}%의 확률로 피해를 주는 특수 스킬을 회피합니다."
-"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","이 캐릭터가 특수 스킬을 시전할 때, 모든 악마가 그로 인해 파괴됩니다."
+"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.bigparasite.allies.single","이 캐릭터가 특수 스킬을 시전할 때, 모든 악마가 그로 인해 파괴됩니다. 이 효과는 메가 악마에게 피해를 줍니다."
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","매 {TURNS}턴마다 랜덤으로 적 하나의 모든 하수인을 먹어치우고 먹은 하수인 하나 당 약간의 마나를 회복합니다."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","이 캐릭터가 특수 스킬을 치명타로 명중시키면 모든 아군으로부터 가장 최근에 걸린 정화 가능한 상태 이상 효과를 정화합니다. 이 효과는 턴마다 한 번만 활성화할 수 있습니다."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","이 캐릭터가 특수 스킬을 치명타로 명중시키면, 모든 아군의 HP를 {HEALTHBOOST}% 강화합니다. 이 효과는 턴당 한 번 활성화할 수 있습니다."
@@ -55,8 +59,11 @@
 "herocard.passive_skill.description.effectondamagereceived.addmana.troop.npcnormalattack.specialskill.single.allies","이 캐릭터가 특수 스킬 또는 일반 공격으로 직접 피해를 받으면 약간의 마나를 얻습니다. 
 턴마다 최대 {MAXMANAGAINPERTURN}%까지 마나를 생성합니다."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","이 캐릭터가 특수 스킬 또는 엄폐 상태인 캐릭터로 인해 피해를 입은 경우 {CHANCE}% 확률로 받은 피해의 {POWER}%를 모든 적들에게 돌려줍니다."
+"herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","이 캐릭터가 특수 스킬 또는 엄폐 상태인 캐릭터로 인해 피해를 입은 경우 {CHANCE}% 확률로 받은 피해의 {POWER}%를 모든 적들에게 돌려줍니다. (최대 피해: {RARITYLIMITEDDAMAGE})"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","이 캐릭터는 특수 스킬 피해를 받을 경우 {STATUSEFFECT1ATTACK}% 공격력 중첩 효과를 얻습니다(최대: {STATUSEFFECT1MAXSTACK}). 턴 당 한 번의 중첩을 얻을 수 있습니다."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","이 캐릭터는 특수 스킬 피해를 받을 경우 {STATUSEFFECT1ATTACK}% 공격력 중첩 효과를 얻습니다(최대: {STATUSEFFECT1MAXSTACK}). 턴 당 한 번의 중첩을 얻을 수 있습니다."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","이 캐릭터는 특수 스킬 피해를 받을 경우 {STATUSEFFECT1ATTACK}% 공격력 중첩 효과를 얻습니다(최대: {STATUSEFFECT1MAXSTACK}). 턴 당 한 번의 중첩을 얻을 수 있습니다."
+"herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","이 캐릭터의 HP가 {HEALTHTHRESHOLD}% 미만으로 떨어지면, {STATUSEFFECT1TURNS}턴 동안 {STATUSEFFECT1TOTAL}% 마나를 얻습니다."
 "herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","아군 하나가 특수 스킬로 정화를 시도할 때, 모든 아군의 HP가 {POWER} 증가합니다. 이 효과는 한 턴에 한 번만 활성화할 수 있습니다."
 "herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","적 하나가 특수 스킬로 정화를 시도할 때, 모든 적이 {POWER}의 피해를 받습니다. 이 효과는 한 턴에 한 번만 활성화할 수 있습니다."
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","이 캐릭터는 적용된 강화 효과가 해제될 때마다 {POWER}% 마나를 받습니다. 이 효과는 턴당 한 번만 발동할 수 있습니다."
@@ -92,6 +99,7 @@
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","이 영웅의 특수 스킬 시전 시 {CHANCE}% 확률로 {POWER}% 마나를 얼음 속성이 아닌 모든 아군에게 줍니다. 특수 스킬을 완전 충전 상태로 시전 시 확률이 {CHANCEFULLYCHARGED}%가 됩니다."
 "herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minorbuff.latest.from.all.enemies.always","이 캐릭터가 특수 스킬을 시전할 때 모든 적의 새로운 상태 강화 효과를 해제합니다."
 "herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minordebuff.latest.from.all.allies.always","이 캐릭터가 특수 스킬을 시전할 때 모든 아군의 새로운 상태 이상 효과를 정화합니다."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.stackbuffs.from.all.enemies.stack_reduction.always","이 캐릭터가 특수 스킬을 시전할 때, 모든 적의 긍정적인 중첩이 {STACKREDUCTION} 감소합니다."
 "herocard.passive_skill.description.effectonspecialwithchance.damage.all.enemies","이 영웅의 특수 스킬 시전 시 {CHANCE}% 확률로 {POWER}%의 피해를 모든 적에게 줍니다. 특수 스킬을 완전 충전 상태로 시전 시 확률이 {CHANCEFULLYCHARGED}%가 됩니다."
 "herocard.passive_skill.description.effectonspecialwithchance.damage.notpurple.enemies","이 영웅의 특수 스킬 시전 시 {CHANCE}% 확률로 {POWER}%의 피해를 암흑 속성이 아닌 모든 적에게 줍니다. 특수 스킬을 완전 충전 상태로 시전 시 확률이 {CHANCEFULLYCHARGED}%가 됩니다."
 "herocard.passive_skill.description.effectonspecialwithchance.damage.notred.enemies","이 영웅의 특수 스킬 시전 시 {CHANCE}% 확률로 {POWER}%의 피해를 화염 속성이 아닌 모든 적에게 줍니다. 특수 스킬을 완전 충전 상태로 시전 시 확률이 {CHANCEFULLYCHARGED}%가 됩니다."
@@ -111,6 +119,7 @@
 "herocard.passive_skill.description.effectonstatuseffectadditionwithchance.addmana.allbuffs","이 캐릭터는 강화 효과나 이로운 중첩을 받으면 {CHANCE}% 확률로 {POWER}% 마나를 획득합니다."
 "herocard.passive_skill.description.effectonstatuseffectadditionwithchance.can_stack.heal.allbuffs","이 캐릭터는 강화 효과나 이로운 중첩을 받으면 {CHANCE}% 확률로 HP를 {POWER}% 회복합니다."
 "herocard.passive_skill.description.effectonstatuseffectadditionwithchance.heal.allbuffs","이 캐릭터는 강화 효과나 이로운 중첩을 받으면 {CHANCE}% 확률로 HP를 {POWER}% 회복합니다."
+"herocard.passive_skill.description.effectonturnstart.damage.all.enemies.fixedpower.pertargetchance","각 턴 시작 시, 각 적이 {CHANCE}% 확률로 {DAMAGE}의 피해를 받습니다."
 "herocard.passive_skill.description.effectovertime.revival.neartotargetexceptcaster.allies","{TURNS}턴마다 쓰러진 근처의 아군을 {POWER}% HP로 부활시킵니다."
 "herocard.passive_skill.description.effectovertimeperstatuseffect.addmana.fixedpower.everyturn.per.statuseffectbuffs.enemies","턴 시작 시 적 팀이 가진 모든 활성 상태 효과 버프에 대해 소량의 마나를 획득합니다(최대 {MAXSTATUSEFFECTCOUNT} 버프)."
 "herocard.passive_skill.description.effectovertimeperstatuseffect.healthboost.neartotarget.allies.everyturn.per.poison.statuseffectdebuffs.enemies","매 턴이 시작할 때 적이 독으로 피해를 입을 때마다 이 캐릭터와 주변 아군의 HP를 {INCREMENTPERSTATUSEFFECT1}% 증가시킵니다 . 증가된 HP는 최대 HP를 초과할 수 있습니다."
@@ -158,6 +167,9 @@
 "herocard.passive_skill.description.healonownfamiliardeath.minion","이 캐릭터는 보유한 하수인이 파괴되면 HP를 {HEALTH} 회복합니다."
 "herocard.passive_skill.description.healonownfamiliardeath.minion.healthboost","이 캐릭터는 보유한 하수인이 파괴되면 증폭된 HP를 {HEALTH} 회복합니다."
 "herocard.passive_skill.description.healthboost.all.allies","모든 아군의 HP를 {HEALTHBOOST}% 높입니다. 높아진 HP는 최대치를 초과할 수 있습니다."
+"herocard.passive_skill.description.hinderdispel.all.enemies","적이 사용한 정화가 평소보다 더 적은 양의 상태 이상을 제거합니다.
+ 정화가 평소에 여러 상태 이상을 제거하는 경우, 오직 1개의 상태 이상만 제거됩니다.
+ 정화가 평소에 1개의 상태 이상을 제거하는 경우, 아무 상태 이상도 제거되지 않습니다."
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.green","각 전투 시작 시 이 캐릭터의 공격력이 자연 속성이 아닌 적마다 {ATTACK}% 증가합니다. 한 전투에 여러 공세가 있는 경우 각 공세 시작마다 효과가 초기화됩니다."
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.green.battle","이 캐릭터의 공격력이 자연 속성이 아닌 생존한 적마다 {ATTACK}% 증가합니다. 한 전투에 여러 공세가 있는 경우 각 공세 시작마다 효과가 초기화됩니다.(현재: {CURRENTMODIFIER}%)"
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.red","각 전투 시작 시 이 캐릭터의 공격력이 화염 속성이 아닌 적마다 {ATTACK}% 증가합니다. 한 전투에 여러 공세가 있는 경우 각 공세 시작마다 효과가 초기화됩니다."
@@ -198,11 +210,11 @@
  링크된 영웅의 특수 스킬에 의한 직접 치유가 {PASSIVESKILL1HEALMULTIPLIER}% 증가합니다.
  링크된 영웅이 특수 스킬을 ㅣ전할 때, 모든 아군이 {PASSIVESKILL2TURNS}턴 동안 최대 HP 감소에 면역을 얻습니다."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","적의 체력은 최대 체력을 증가할 수 없습니다."
-"herocard.passive_skill.description.ransack","매 턴이 시작할 때마다 이 캐릭터는 무작위 적 하나를 약탈합니다.
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","매 턴이 시작할 때마다 이 캐릭터는 무작위 적 하나를 약탈합니다.
 
 {DAMAGE} HP를 훔칩니다.
 안전하게 적의 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다."
-"herocard.passive_skill.description.ransack.chance","매 턴이 시작할 때마다 이 캐릭터는 무작위 적 하나를 {CHANCE}% 확률로 약탈합니다.
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","매 턴이 시작할 때마다 이 캐릭터는 무작위 적 하나를 {CHANCE}% 확률로 약탈합니다.
 
 약탈:
 {DAMAGE} HP를 훔칩니다.
@@ -217,10 +229,14 @@
 받은 피해: -{MODIFIER}%"
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","더 강한 속성의 부대에게서 {MODIFIER}% 적은 피해를 받습니다."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","더 강한 속성의 화염구에게서 {MODIFIER}% 더 많은 속성 피해를 받습니다."
-"herocard.passive_skill.description.redirectlethaldamage.enemies.single","이 캐릭터가 치명적인 피해를 처음으로 받으면, 대신 피해를 무작위로 적 하나에게 되돌려 줍니다.
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single","이 캐릭터가 처음으로 치명적인 피해를 받을 경우, 해당 피해의 {REDIRECTDAMAGEMULTIPLIER}%를 무작위 적 1명에게 대신 전가합니다.
+
+여러 공세의 전투에서는 각 공세 시작 시 효과가 초기화됩니다."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","이 캐릭터가 처음으로 치명적인 피해를 받을 경우, 해당 피해의 {REDIRECTDAMAGEMULTIPLIER}%를 무작위 적 1명에게 대신 전가합니다. (남은 발동 횟수: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","이 캐릭터가 치명적인 피해를 처음으로 받으면, 대신 피해를 무작위로 적 하나에게 되돌려 줍니다.
 
 여러 공세가 있는 전투의 경우 다음 공세에 효과가 갱신됩니다."
-"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","이 캐릭터가 치명적인 피해를 처음으로 받으면, 대신 피해를 무작위로 적 하나에게 되돌려 줍니다. (남은 활성화: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","이 캐릭터가 치명적인 피해를 처음으로 받으면, 대신 피해를 무작위로 적 하나에게 되돌려 줍니다. (남은 활성화: {ACTIVATIONSLEFT})"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}%의 추가 확률로 상태 이상 효과를 공격자에게 돌려보냅니다."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","매 {TURNS}턴마다 모든 아군의 쇠퇴 효과를 제거합니다."
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","매 {TURNS}턴마다 모든 적의 성장 효과를 제거합니다."
@@ -307,6 +323,7 @@
 "herocard.passive_skill.description.resist.poison","이 캐릭터는 독 피해를 가하는 상태 이상 효과에 대한 면역력을 갖고 있습니다."
 "herocard.passive_skill.description.resist.poison.burn.bleed","이 캐릭터는 독, 화상, 또는 출혈 피해를 가하는 상태 이상 효과에 대한 면역력을 갖고 있습니다."
 "herocard.passive_skill.description.resist.possession.allstatuseffects","이 캐릭터는 정신을 지배하는 상태 이상 효과에 대한 면역력을 갖고 있습니다."
+"herocard.passive_skill.description.resist.resonance","이 캐릭터는 공명에 면역력을 갖고 있습니다."
 "herocard.passive_skill.description.resist.sand","이 캐릭터는 모래 피해를 가하는 상태 이상 효과에 대한 면역력을 갖고 있습니다."
 "herocard.passive_skill.description.resist.specialblocking","이 캐릭터는 특수 스킬 사용을 막는 상태 이상 효과에 대한 면역력을 갖고 있습니다."
 "herocard.passive_skill.description.resist.specialblocking.with_chance","이 캐릭터는 특수 스킬 사용을 막는 상태 이상 효과를 {CHANCE}% 확률로 저항합니다."
@@ -502,6 +519,7 @@
 "herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.addmana","출혈 시 마나"
 "herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.heal","출혈 시 회복"
 "herocard.passive_skill.title.burn.effectondamageovertime.activates_on_enemy_action.addmana","화상 시 마나"
+"herocard.passive_skill.title.bypasscounterattackandreflect","반격 및 반사 통과"
 "herocard.passive_skill.title.bypassfamiliars.minion","하수인 통과"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","상급 하수인 통과"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","상태 효과 지속 시간 연장"
@@ -509,6 +527,7 @@
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","쇠퇴 중 마나 생성"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","시간에 따른 부활"
 "herocard.passive_skill.title.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","시수의 힘"
+"herocard.passive_skill.title.containspreadingstatuseffects.alldebuffs","상태 이상 전이 포함"
 "herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect","내면의 아름다움"
 "herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect","내면의 아름다움"
 "herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","용융 코어"
@@ -530,7 +549,7 @@
 "herocard.passive_skill.title.dispelonownfamiliardeath.minion.minordebuff","하수인 사망 시 정화"
 "herocard.passive_skill.title.dodgespecialdamage","특수 피해 회피"
 "herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","특수 스킬 효과 누적"
-"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","특수 스킬 사용 시 악마 파괴"
+"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.bigparasite.allies.single","특수 스킬 사용 시 악마 파괴"
 "herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","하수인을 먹어치우고 시간에 따라 마나 회복"
 "herocard.passive_skill.title.effectoncounterattack.statuseffects.bleeding","분쇄의 손길"
 "herocard.passive_skill.title.effectondamagedone.bufftoremove.minordebuff.latest.safe.specialskill.only_criticals.once","치명타 특수 공격 시 정화"
@@ -540,7 +559,9 @@
 "herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","받는 피해에 따른 마나 생성"
 "herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","특수 스킬과 엄폐 피해 반사"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","받은 피해량 만큼 공격력 중첩"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","받은 피해량 만큼 공격력 중첩"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","받은 피해량 만큼 공격력 중첩"
+"herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","역류"
 "herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","아군 정화 시도 시 HP 증가"
 "herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","적 정화 시도 시 피해"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","해제 시 마나"
@@ -572,6 +593,7 @@
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","완전 충전 시 마나"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","특수 스킬 사용 시 해제"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minordebuff.latest","특수 스킬 사용 시 정화"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.stackbuffs.stack_reduction","적 중첩 감소"
 "herocard.passive_skill.title.effectonspecialwithchance.damage","완전 충전 시 피해"
 "herocard.passive_skill.title.effectonspecialwithchance.heal","완전 충전 시 HP 회복"
 "herocard.passive_skill.title.effectonspecialwithchance.healthboost","특수 스킬 사용 시 HP 증가"
@@ -601,6 +623,7 @@
 "herocard.passive_skill.title.effectonstatuseffectadditionwithchance.heal.allbuffs","강화 시 HP 회복"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","상태 이상 제거 시 HP 증가"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","상태 이상 제거 시 피해"
+"herocard.passive_skill.title.effectonturnstart.damage.pertargetchance","번개 새끼용"
 "herocard.passive_skill.title.effectovertime.revival","시간에 따른 부활"
 "herocard.passive_skill.title.effectovertime.statuseffects.mesmerize","속삭이는 꽃잎의 비"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","적 버프 당 마나"
@@ -627,6 +650,7 @@
 "herocard.passive_skill.title.healonheal.heal","추가 회복"
 "herocard.passive_skill.title.healonownfamiliardeath.minion","사망한 하수인에게서 HP 받음"
 "herocard.passive_skill.title.healonownfamiliardeath.minion.healthboost","사망한 하수인에게서 증폭된 HP 받음"
+"herocard.passive_skill.title.hinderdispel.all.enemies","정화 방해"
 "herocard.passive_skill.title.increasedattackperelement.enemies.not.green","자연 속성이 아닌 적당 공격력 증가"
 "herocard.passive_skill.title.increasedattackperelement.enemies.not.red","화염 속성이 아닌 적당 공격력 증가"
 "herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","하수인과 메가 하수인에게 추가 피해"
@@ -653,13 +677,14 @@
 "herocard.passive_skill.title.nevermissspecial","완벽한 명중률"
 "herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","더욱 커진 치유"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","강화된 치유 방지"
-"herocard.passive_skill.title.ransack","도둑의 기회"
+"herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies","도둑의 기회"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","강화 효과 스틸"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","사냥꾼의 감"
 "herocard.passive_skill.title.received_strong_troop_damage_pve","부대 피해 감소"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","부대 숙련도"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","강력한 화염구 피해 증가"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","죽음 속이기"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","죽음 속이기"
 "herocard.passive_skill.title.remove_growth_from_enemies","경비병 집결"
 "herocard.passive_skill.title.remove_wither_from_allies","경비병 집결"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","수리 코어"
@@ -707,6 +732,7 @@
 "herocard.passive_skill.title.resist.poison","독 저항"
 "herocard.passive_skill.title.resist.poison.burn.bleed","독, 화상 및 출혈에 저항"
 "herocard.passive_skill.title.resist.possession.allstatuseffects","저항 소유"
+"herocard.passive_skill.title.resist.resonance","공명 저항"
 "herocard.passive_skill.title.resist.sand","모래 저항"
 "herocard.passive_skill.title.resist.specialblocking","특수 스킬 차단 저항"
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","특수 스킬 차단에 대한 강화된 저항"

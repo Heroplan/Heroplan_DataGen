@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","الفارس"
 "herocard.family.title.muspelheim","عالم موسبلهايم"
 "herocard.family.title.muspelheim.short","موسبلهايم"
-"herocard.family.title.myrkheim","ميركهايم"
+"herocard.family.title.myrkheim","عالم ميركهايم"
 "herocard.family.title.myrkheim.short","ميركهايم"
 "herocard.family.title.mystery","عائلة الغموض"
 "herocard.family.title.mystery.short","الغموض"

@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Misja Przymierza"
 "quests.name.crafting","Znajdź materiały do budowy"
 "quests.name.crafting_uncommon","Znajdź materiały do budowy 2"
+"quests.name.demonic_rift_dragon","Demoniczni najeźdźcy"
 "quests.name.dragon_battle_and_crafting","Noc przedmiotów"
 "quests.name.dragon_cave_classic","Smocza jaskinia"
 "quests.name.dragon_dragonlings_and_xp","Ocal smoczątka"

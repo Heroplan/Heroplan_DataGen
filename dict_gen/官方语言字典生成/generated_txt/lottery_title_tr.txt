@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Anlatılmayan Hikayeler"
 "lottery.title.superelementalsummon","Süper Elementer Çağrısı"
 "lottery.title.templesummon","Tapınak Çağrısı"
+"lottery.title.thunderboltsummon","Şimşek Çağrısı"
 "lottery.title.titanhuntersummon","Titan Avcısı Çağrısı"
 "lottery.title.towereventsummon","Kule Çağrısı"
 "lottery.title.towertroopsummon","Kule Birliği Çağrısı"

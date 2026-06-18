@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Przemilczane historie"
 "lottery.title.superelementalsummon","Superwezwanie żywiołaków"
 "lottery.title.templesummon","Wezwanie świątyni"
+"lottery.title.thunderboltsummon","Wezwanie Gromu"
 "lottery.title.titanhuntersummon","Wezwanie łowców tytanów"
 "lottery.title.towereventsummon","Wezwanie wieży"
 "lottery.title.towertroopsummon","Wezwanie oddziałów wieży"

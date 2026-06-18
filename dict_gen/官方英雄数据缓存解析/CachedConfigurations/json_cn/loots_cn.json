@@ -42669,6 +42669,221 @@
             }
           }
         ]
+      },
+      {
+        "id": "钢铁拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_blue_common",
+                "trainer_blue_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "钢铁拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_green_common",
+                "trainer_green_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "钢铁拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_purple_common",
+                "trainer_purple_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "钢铁拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_red_common",
+                "trainer_red_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "钢铁拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_iron_tiny",
+                "refill_iron_small",
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                9700,
+                225,
+                60,
+                10,
+                4,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_yellow_common",
+                "trainer_yellow_uncommon"
+              ],
+              "weights": [
+                990,
+                9,
+                1
+              ]
+            }
+          }
+        ]
       }
     ],
     "sharedPoolLoots": [
@@ -44549,6 +44764,54 @@
             "weight": 10
           }
         ]
+      },
+      {
+        "id": "thunderbolt_chest_loot",
+        "lootPool": [
+          {
+            "type": "ThunderboltSummonCoin",
+            "amount": 200,
+            "weight": 5
+          },
+          {
+            "type": "ThunderboltSummonCoin",
+            "amount": 150,
+            "weight": 10
+          },
+          {
+            "type": "ThunderboltSummonCoin",
+            "amount": 100,
+            "weight": 15
+          },
+          {
+            "type": "AlphaAether",
+            "rarity": 5,
+            "amount": 1,
+            "weight": 15
+          },
+          {
+            "type": "EpicTomeOfExperience",
+            "amount": 1,
+            "weight": 20
+          },
+          {
+            "type": "FreeTalentPoint",
+            "amount": 1,
+            "weight": 15
+          },
+          {
+            "type": "FoodBundle",
+            "rarity": 5,
+            "amount": 1,
+            "weight": 9
+          },
+          {
+            "type": "LegendaryTomeOfExperience",
+            "amount": 1,
+            "weight": 1
+          }
+        ],
+        "occurrenceType": "ExclusiveOnly"
       }
     ],
     "guaranteedPoolLoots": [],
@@ -48102,5 +48365,5 @@
       }
     ]
   },
-  "lootsConfigId": 1663906495
+  "lootsConfigId": 4205179400
 }

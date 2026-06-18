@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","語られざる物語"
 "lottery.title.superelementalsummon","スーパーエレメント サモン"
 "lottery.title.templesummon","寺院サモン"
+"lottery.title.thunderboltsummon","サンダーボルトサモン"
 "lottery.title.titanhuntersummon","タイタンハンターサモン"
 "lottery.title.towereventsummon","タワーサモン"
 "lottery.title.towertroopsummon","タワー兵団サモン"

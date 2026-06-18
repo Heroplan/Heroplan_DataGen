@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Quête de pacte"
 "quests.name.crafting","Trouvez des matériaux de fabrication"
 "quests.name.crafting_uncommon","Trouvez des matériaux de fabrication II"
+"quests.name.demonic_rift_dragon","Démons pillards"
 "quests.name.dragon_battle_and_crafting","Nuit des objets"
 "quests.name.dragon_cave_classic","Grotte des dragons"
 "quests.name.dragon_dragonlings_and_xp","Sauver des dragonnets"

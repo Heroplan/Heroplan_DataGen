@@ -18,7 +18,9 @@
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}% من الهجوم."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","يحصل جميع الحلفاء على  {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% تراكم هجوم في كل مرة تحاول فيها هذه الشخصية نهب أحد الأعداء. (الحد الأقصى للتراكم: {MAXSTACK})"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","التكدسات (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على  {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% تراكم هجوم في كل مرة تحاول فيها هذه الشخصية نهب أحد الأعداء."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","التكدسات (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على  {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% تراكم هجوم في كل مرة تحاول فيها هذه الشخصية نهب أحد الأعداء. يمكن تفعيل هذا التأثير {MAXACTIVATIONSPERTURN} من المرات فقط في الجولة."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","التكدسات (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على  {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% تراكم هجوم في كل مرة تحاول فيها هذه الشخصية نهب أحد الأعداء. يمكن تفعيل هذا التأثير مرة واحدة فقط في الجولة."
 "familybonuses.description.long.build_charge_beauty_beast","تختلف متطلبات التواضع لدى الأبطال من بطل لآخر.
 عندما يُطلِق البطل النسخة القوية من مهارته الخاصة، يتم استهلاك المقدار المطلوب من التواضع فقط.
 الحد الأقصى من التواضع هو: 100.
@@ -34,6 +36,8 @@
 "familybonuses.description.long.build_charge_nidavellir","يُشحن المركز الذائب في كل مرة تتلقى هذه الشخصية ضررًا من الهجمات العادية أو من المهارات الخاصة."
 "familybonuses.description.long.build_charge_nidavellir_alt","يُشحن المركز الذائب في كل مرة تتلقى هذه الشخصية ضررًا من الهجمات العادية أو من المهارات الخاصة."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","تتمتع هذه الشخصية بفرصة إضافية بنسبة {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% لتخطي تعزيزات دفاعية من خلال هجماتها. إذا تم تجاوز أي تعزيزات دفاعية، تزداد قوة هذه الشخصية بنسبة {POWER}%."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","تتمتع هذه الشخصية بفرصة إضافية بنسبة {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% لتخطي تعزيزات دفاعية من خلال هجماتها. التخطي مضمون ضد الهجمات المضادة وتأثيرات العكس.
+إذا تم تجاوز أي تعزيزات دفاعية، تزداد قوة هذه الشخصية بنسبة {POWER}%."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","عندما يتلقى هذا البطل حالة مرض تطال الدفاع، {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لإلقاء المرض المُتلقى على جميع الأعداء."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","فرصة {2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% لزيادة مدة تأثير حالة كل رقصة حظ تلقيها هذه الشخصية بمقدار جولة 1."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% من الضرر الإضافي للمهارة الخاصة."
@@ -177,7 +181,9 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","في بداية كل جولة، توضَع علامة زنبق دموي على العدو صاحب أعلى نقاط صحة متبقية."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","في بداية كل جولة، توضَع علامة زنبق دموي على العدو صاحب أعلى نقاط صحة متبقية."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","في بداية كل جولة، توضَع علامة زنبق دموي على العدو صاحب أعلى نقاط صحة متبقية."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","امنح جميع الحلفاء {ATTACK}% من تراكم الهجوم في كل مرة يحاول فيها هذا البطل نهب عدو. (الحد الأقصى للتراكم: {MAXSTACK})"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","تكدس (الحد الأقصى: 10): يحصل جميع الحلفاء على هجوم بنسبة {ATTACK}% عندما تحاول هذه الشخصية نهب عدو."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","تكدس (الحد الأقصى: 10): يحصل جميع الحلفاء على هجوم بنسبة {ATTACK}% عندما تحاول هذه الشخصية نهب عدو. يمكن تفعيل هذا التأثير {MAXACTIVATIONSPERTURN}  من المرات فقط خلال الجولة."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","تكدس (الحد الأقصى: 10): يحصل جميع الحلفاء على هجوم بنسبة {ATTACK}% عندما تحاول هذه الشخصية نهب عدو. يمكن تفعيل هذا التأثير مرة واحدة فقط خلال الدور."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","تكتسب الشخصية {CURRENTCHARGEFROMDAMAGE} تواضع عند تلقي ضرر مباشر من المهارات الخاصة. بحد أقصى مرة في الجولة.
 تكتسب هذه الشخصية {CURRENTCHARGEFROMHEAL} تواضع عند تلقي علاج مباشر من المهارات الخاصة. بحد أقصى مرة في الجولة."
@@ -186,6 +192,7 @@
 "familybonuses.description.short.build_charge_nidavellir","تشحن هذه الشخصية المركز الذائب الخاص بها عند تلقي ضرر من الهجمات العادية والمهارات الخاصة."
 "familybonuses.description.short.build_charge_nidavellir_alt","يُشحن المركز الذائب في كل مرة تتلقى هذه الشخصية ضررًا من الهجمات العادية أو من المهارات الخاصة."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","{CHANCE}% فرصة إضافية لتخطي تعزيزات دفاعية من خلال هجماتها. إذا تم تجاوز أي تعزيزات دفاعية، تزداد قوة هذه الشخصية بنسبة {POWER}%."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","{CHANCE}% فرصة إضافية لتخطي تعزيزات دفاعية من خلال هجماتها. إذا تم تجاوز أي تعزيزات دفاعية، تزداد قوة هذه الشخصية بنسبة {POWER}%. التخطي مضمون ضد الهجمات المضادة وتأثيرات العكس."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","عندما يتلقى هذا البطل حالة مرض تطال الدفاع، {CHANCE}% فرصة لإلقاء المرض المُتلقى على جميع الأعداء."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","فرصة {CHANCE}% لزيادة مدة إلقاء تأثيرات حالة رقصة الحظ بمقدار 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% ضرر إضافي للمهارة الخاصة."
@@ -499,7 +506,7 @@
 "herocard.family.title.musketeer.short","الفارس"
 "herocard.family.title.muspelheim","عالم موسبلهايم"
 "herocard.family.title.muspelheim.short","موسبلهايم"
-"herocard.family.title.myrkheim","ميركهايم"
+"herocard.family.title.myrkheim","عالم ميركهايم"
 "herocard.family.title.myrkheim.short","ميركهايم"
 "herocard.family.title.mystery","عائلة الغموض"
 "herocard.family.title.mystery.short","الغموض"

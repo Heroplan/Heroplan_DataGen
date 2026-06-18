@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Kovenanttiseikkailu"
 "quests.name.crafting","Etsi valmistusmateriaaleja"
 "quests.name.crafting_uncommon","Etsi valmistusmateriaaleja II"
+"quests.name.demonic_rift_dragon","Ryöstelevät demonit"
 "quests.name.dragon_battle_and_crafting","Esineiden yö"
 "quests.name.dragon_cave_classic","Lohikäärmeluola"
 "quests.name.dragon_dragonlings_and_xp","Pelasta lohikäärmeen poikasia"

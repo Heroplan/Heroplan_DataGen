@@ -26,6 +26,7 @@
 "quests.name.covenant_2","盟约任务"
 "quests.name.crafting","找到锻造材料"
 "quests.name.crafting_uncommon","找到锻造材料 2"
+"quests.name.demonic_rift_dragon","恶魔突袭者"
 "quests.name.dragon_battle_and_crafting","物品之夜"
 "quests.name.dragon_cave_classic","龙窟"
 "quests.name.dragon_dragonlings_and_xp","营救幼龙"

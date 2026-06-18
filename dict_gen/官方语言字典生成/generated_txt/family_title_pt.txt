@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","Mosqueteiro"
 "herocard.family.title.muspelheim","Reino de Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Reino de Myrkheim"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Família Mistério"
 "herocard.family.title.mystery.short","Mistério"

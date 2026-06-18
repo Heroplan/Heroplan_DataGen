@@ -2,6 +2,7 @@
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.addmana","Hahmo saa {POWER} % manaa aina, kun vihollinen saa verenvuotovaurioita."
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","Hahmo paranee {POWER} terveyspistettä aina, kun vihollinen saa verenvuotovaurioita."
 "herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","Hahmo saa {POWER} % manaa aina, kun vihollinen saa palovaurioita."
+"herocard.passive_skill.description.bypasscounterattackandreflect","Tämän hahmon erikoistaito ohittaa vastahyökkäykset ja heijastukset."
 "herocard.passive_skill.description.bypassfamiliars.minion","Kaikki tämän hahmon tuottama vaurio ohittaa käskyläiset."
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Kaikki tämän hahmon tuottama vaurio ohittaa käskyläiset ja megakäskyläiset."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Mahdollisuus pidentää loitsittujen tilaefektien kestoa."
@@ -18,6 +19,9 @@ Tällä hahmolla on nyt:
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Elvyttää kaikki kukistuneet liittolaiset {TURNS} vuoron välein {POWER} % terveyteen."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Elvyttää kukistuneet lähellä olevat liittolaiset {TURNS} vuoron välein {POWER} % terveyteen."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Kun tämä hahmo aloittaa vuoron heikolla terveydellä ensimmäistä kertaa taistelun aikana, hän saa {HEALTH} % terveyttä ja {MANA} % manaa."
+"herocard.passive_skill.description.containspreadingstatuseffects.alldebuffs","Vaivojen ja negatiivisten kasaumien leviäminen tältä hahmolta muihin liittolaisiin on estetty.
+
+Lisäksi vaivat ja negatiiviset kasaumat voivat vaurioittaa vain niistä suoraan kärsivää hahmoa, eivät muita liittolaisia."
 "herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Aina kun tämä hahmo kärsisi vauriota vaivasta tai negatiivisesta kasaumasta, hän saakin saman verran terveyttä takaisin."
 "herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Aina kun tämä hahmo kärsisi vauriota vaivasta tai negatiivisesta kasaumasta, hän saakin terveyttä takaisin. Parannuksen määrä on {MULTIPLIER} % vauriosta."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER} % kriittisiä iskuja."
@@ -25,7 +29,7 @@ Tällä hahmolla on nyt:
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Tuottaa {DAMAGEPERTURN} vauriota kaikille vihollisen käskyläisille ja megakäskyläisille {TURNS} vuoron välein."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Tuottaa {DAMAGEPERTURN} vauriota kaikille vihollisen käskyläisille ja megakäskyläisille jokaisen vuoron alussa."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Tuottaa {DAMAGEPERTURN} vauriota kaikille vihollisen käskyläisille ja megakäskyläisille jokaisen vuoron alussa."
-"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Kaikki tämän hahmon normaalihyökkäyksillä ja erikoistaidoilla tuottama vaurio kasvaa {DAMAGEINCREASEPERSTEP} % jokaista tällä hahmolla olevaa {INSANITYPERSTEP} hulluuspistettä kohti, yhteensä enintään {MAXDAMAGEINCREASE} %."
+"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Kaikki normaalihyökkäyksillä ja erikoistaidoilla vihollisille tuotettu vaurio kasvaa {DAMAGEINCREASEPERSTEP} % jokaista tällä hahmolla olevaa {INSANITYPERSTEP} hulluuspistettä kohti, yhteensä enintään {MAXDAMAGEINCREASE} %. Ei koske hulluuden aktivoimisesta itselle tai liittolaisille tulevaa vauriota."
 "herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Kun linkitettyä sankaria isketään erikoistaidolla, häneltä poistetaan häivytettävä tehoste, jossa on vähiten kestoa jäljellä, ja iskun vaurio laskee {DAMAGEREDUCTION} %. Jos linkitetyllä sankarilla on {INCREASEDDAMAGEREDUCTIONTHRESHOLD} % terveyttä jäljellä tai vähemmän, vaurio laskee {INCREASEDDAMAGEREDUCTION} %."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Kaikki tämän hahmon normaaleilla hyökkäyksillä ja erikoistaidoilla tuottama vaurio kasvaa {MODIFIER} % jokaista kohteella olevaa verililja-kasaumaa kohti."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Jos yksikään liittolainen tanssii, tämän hahmon erikoistaito tuottaa {MODIFIERCHANGE} % enemmän vauriota."
@@ -44,7 +48,7 @@ Tuhoydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
  Vaurio skaalautuu ytimessä olevan latauksen määrän mukaan. Lataus tyhjenee kokonaan, kun ydin aktivoituu."
 "herocard.passive_skill.description.dispelonownfamiliardeath.minion.minordebuff","Hahmon vaivat puhdistetaan, kun hänen omistamansa käskyläinen tuhotaan."
 "herocard.passive_skill.description.dodgespecialdamage","Tällä hahmolla on {CHANCE} %:n mahdollisuus väistää vauriota tekevät erikoistaidot."
-"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","Kun tämä hahmo käyttää erikoistaitoaan, hänen kaikki riiviönsä tuhoutuvat."
+"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.bigparasite.allies.single","Kun tämä hahmo käyttää erikoistaitoaan, hänen kaikki riiviönsä tuhoutuvat. Tämä vaikutus tuottaa vauriota megakäskyläisille."
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Syö {TURNS} vuoron välein satunnaiselta viholliselta kaikki käskyläiset ja saa pienen määrän manaa jokaisesta syömästään käskyläisestä."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Kun tämä hahmo saa kriittisen osuman erikoistaidollaan, hän puhdistaa turvallisesti uusimman puhdistettavan vaivan kaikilta liittolaisilta. Tämä vaikutus voi aktivoitua kerran vuorossa."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Kun tämä hahmo saa kriittisen osuman erikoistaidollaan, hän tehostaa kaikkien liittolaistensa terveyttä {HEALTHBOOST} %. Tämä vaikutus voi aktivoitua kerran vuorossa."
@@ -55,8 +59,11 @@ Kukin näistä vaikutuksista voi aktivoitua kerran vuorossa."
 "herocard.passive_skill.description.effectondamagereceived.addmana.troop.npcnormalattack.specialskill.single.allies","Kun tämä hahmo kärsii suoraa vauriota erikoistaidoista tai normaaleista hyökkäyksistä, hän saa pienen määrän manaa. 
  Enintään {MAXMANAGAINPERTURN} % manaa vuorossa."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","Kun tämä hahmo kärsii vauriota erikoistaidoista tai suojatun hahmon sijaan, hänellä on {CHANCE} %:n mahdollisuus tuottaa {POWER} % kärsimästään vauriosta kaikille vihollisille."
+"herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","Kun tämä hahmo kärsii vauriota erikoistaidoista tai suojatun hahmon sijaan, hänellä on {CHANCE} %:n mahdollisuus tuottaa {POWER} % kärsimästään vauriosta kaikille vihollisille. (Maksimivaurio: {RARITYLIMITEDDAMAGE})"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","Kun tämä hahmo kärsii vauriota erikoistaidoista, hän saa {STATUSEFFECT1ATTACK} %:n hyökkäyskasauman (maksimi: {STATUSEFFECT1MAXSTACK}). Vain yksi kasauma vuoroa kohti."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","Kun tämä hahmo kärsii vauriota erikoistaidoista, hän saa {STATUSEFFECT1ATTACK} %:n hyökkäyskasauman (maksimi: {STATUSEFFECT1MAXSTACK}). Vain yksi kasauma vuoroa kohti."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","Kun tämä hahmo kärsii vauriota erikoistaidoista, hän saa {STATUSEFFECT1ATTACK} %:n hyökkäyskasauman (maksimi: {STATUSEFFECT1MAXSTACK}). Vain yksi kasauma vuoroa kohti."
+"herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","Kun tällä hahmolla on alle {HEALTHTHRESHOLD} % terveyttä, hän saa {STATUSEFFECT1TOTAL} % manaa {STATUSEFFECT1TURNS} vuoron aikana."
 "herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Kun liittolainen yrittää puhdistaa erikoistaidolla, kaikki liittolaiset saavat {POWER} tehostettua terveyttä. Tämä vaikutus voi aktivoitua vain kerran vuorossa."
 "herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Kun vihollinen yrittää puhdistaa erikoistaidolla, kaikki viholliset saavat {POWER} vauriota. Tämä vaikutus voi aktivoitua vain kerran vuorossa."
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","Hahmo saa {POWER} % manaa joka kerta, kun häneltä häivytetään tehoste. Vaikutus voi aktivoitua vain kerran vuorossa."
@@ -92,6 +99,7 @@ Hyökkääjä kärsii {DAMAGE} % vauriota.
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Kun tämä hahmo käyttää erikoistaitoaan, hänellä on {CHANCE} %:n mahdollisuus antaa {POWER} % manaa kaikille liittolaisille, jotka eivät ole jääelementtiä. Jos erikoistaito on ladattu täyteen, mahdollisuus on {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minorbuff.latest.from.all.enemies.always","Kun tämä hahmo käyttää erikoistaitoaan, hän häivyttää uusimman tilaefektitehosteen kaikilta vihollisilta."
 "herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minordebuff.latest.from.all.allies.always","Kun tämä hahmo käyttää erikoistaitoaan, hän puhdistaa uusimman vaivan kaikilta liittolaisilta."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.stackbuffs.from.all.enemies.stack_reduction.always","Kun tämä hahmo käyttää erikoistaitoaan, kaikkien vihollisten positiivisista kasaumista vähennetään {STACKREDUCTION}."
 "herocard.passive_skill.description.effectonspecialwithchance.damage.all.enemies","Kun tämä hahmo käyttää erikoistaitoaan, hänellä on {CHANCE} %:n mahdollisuus antaa {POWER} % vahinkoa kaikille vihollisille. Jos erikoistaito on ladattu täyteen, mahdollisuus on {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.damage.notpurple.enemies","Kun tämä hahmo käyttää erikoistaitoaan, hänellä on {CHANCE} %:n mahdollisuus antaa {POWER} % vahinkoa kaikille vihollisille, jotka eivät ole pimeyden elementtiä. Jos erikoistaito on ladattu täyteen, mahdollisuus on {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.damage.notred.enemies","Kun tämä hahmo käyttää erikoistaitoaan, hänellä on {CHANCE} %:n mahdollisuus antaa {POWER} % vahinkoa kaikille vihollisille, jotka eivät ole tulielementtiä. Jos erikoistaito on ladattu täyteen, mahdollisuus on {CHANCEFULLYCHARGED} %."
@@ -111,6 +119,7 @@ Hyökkääjä kärsii {DAMAGE} % vauriota.
 "herocard.passive_skill.description.effectonstatuseffectadditionwithchance.addmana.allbuffs","Hahmolla on {CHANCE} %:n mahdollisuus saada {POWER} % manaa, kun hän saa tehosteen tai positiivisen kasauman."
 "herocard.passive_skill.description.effectonstatuseffectadditionwithchance.can_stack.heal.allbuffs","Hahmolla on {CHANCE} %:n mahdollisuus saada takaisin {POWER} % terveyttä, kun hän saa tehosteen tai positiivisen kasauman."
 "herocard.passive_skill.description.effectonstatuseffectadditionwithchance.heal.allbuffs","Hahmolla on {CHANCE} %:n mahdollisuus saada takaisin {POWER} % terveyttä, kun hän saa tehosteen tai positiivisen kasauman."
+"herocard.passive_skill.description.effectonturnstart.damage.all.enemies.fixedpower.pertargetchance","Jokaisella vihollisella on jokaisen vuoron alussa {CHANCE} %:n mahdollisuus kärsiä {DAMAGE} vauriota."
 "herocard.passive_skill.description.effectovertime.revival.neartotargetexceptcaster.allies","Elvyttää kukistuneet lähellä olevat liittolaiset {TURNS} vuoron välein {POWER} % terveyteen."
 "herocard.passive_skill.description.effectovertimeperstatuseffect.addmana.fixedpower.everyturn.per.statuseffectbuffs.enemies","Saa pienen määrän manaa jokaista vihollisryhmällä kunkin vuoron alussa olevaa aktiivista tilaefektien tehostetta kohti (enintään {MAXSTATUSEFFECTCOUNT} tehostetta)."
 "herocard.passive_skill.description.effectovertimeperstatuseffect.healthboost.neartotarget.allies.everyturn.per.poison.statuseffectdebuffs.enemies","Tehostaa tämän hahmon ja lähellä olevien liittolaisten terveyttä {INCREMENTPERSTATUSEFFECT1} % jokaista myrkytyksestä kärsivää vihollista kohti kunkin vuoron alussa. Tehostettu terveys voi ylittää maksiterveyspisteet."
@@ -158,6 +167,9 @@ Käskyläisydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
 "herocard.passive_skill.description.healonownfamiliardeath.minion","Hahmo saa {HEALTH} terveyttä, kun hänen omistamansa käskyläinen tuhotaan."
 "herocard.passive_skill.description.healonownfamiliardeath.minion.healthboost","Hahmo saa {HEALTH} tehostettua terveyttä, kun hänen omistamansa käskyläinen tuhotaan."
 "herocard.passive_skill.description.healthboost.all.allies","Lisää {HEALTHBOOST} % kaikkien liittolaisten terveyteen. Tehostettu terveys voi ylittää maksimiterveyden."
+"herocard.passive_skill.description.hinderdispel.all.enemies","Vihollisten tekemät puhdistukset poistavat tavallista vähemmän vaivoja.
+ Jos puhdistus poistaisi yleensä useita vaivoja, se poistaa nyt vain 1 vaivan.
+ Jos puhdistus poistaisi normaalisti 1 vaivan, se ei poista nyt yhtään vaivaa."
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.green","Tämän hahmon hyökkäys nousee taistelun alussa {ATTACK} % jokaisesta vihollisesta, jonka elementti ei ole luonto. Useamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.green.battle","Tämän hahmon hyökkäys nousee {ATTACK} % jokaisesta elävästä vihollisesta, jonka elementti ei ole luonto. Vaikutus uudistuu jokaisen aallon alussa. (Tällä hetkellä: {CURRENTMODIFIER} %)"
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.red","Tämän hahmon hyökkäys nousee taistelun alussa {ATTACK} % jokaisesta vihollisesta, jonka elementti ei ole tuli. Useamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
@@ -197,11 +209,11 @@ Jos hulluus nousee {AUTOMATICTRANSFORMINSANITYTHRESHOLD} pisteeseen, muutos akti
  Linkitetyn sankarin erikoistaidon tekemä suora parannus kasvaa {PASSIVESKILL1HEALMULTIPLIER} %.
  Kun linkitetty sankari käyttää erikoistaitoaan, kaikki liittolaiset saavat immuniteetin maksimiterveyden vähennykselle {PASSIVESKILL2TURNS} vuoron ajaksi."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Vihollisten terveys ei voi kasvaa maksimiterveyttä suuremmaksi."
-"herocard.passive_skill.description.ransack","Tämä hahmo ryöstää satunnaisen vihollisen joka vuoron alussa:
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","Tämä hahmo ryöstää satunnaisen vihollisen joka vuoron alussa:
 
 Varastaa {DAMAGE} terveyttä.
 Varastaa viholliselta turvallisesti jonkin tehosteen. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssiefektejä."
-"herocard.passive_skill.description.ransack.chance","Tällä hahmolla on joka vuoron alussa {CHANCE} %:n mahdollisuus ryöstää satunnainen vihollinen:
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","Tällä hahmolla on joka vuoron alussa {CHANCE} %:n mahdollisuus ryöstää satunnainen vihollinen:
 
 Ryöstö:
 Varastaa {DAMAGE} terveyttä.
@@ -216,10 +228,14 @@ Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutuks
 Kärsitty vaurio: -{MODIFIER} %"
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % vähemmän vauriota vahvemman elementin joukoilta."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER} % enemmän elementaalivauriota vahvemman elementin tulipalloista."
-"herocard.passive_skill.description.redirectlethaldamage.enemies.single","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen.
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta satunnaiselle viholliselle sen sijaan.
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
-"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta satunnaiselle viholliselle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen.
+
+Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} %:n lisämahdollisuus heijastaa vaivat takaisin hyökkääjälle."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Poistaa kaikilta liittolaisilta kaikki näivetysefektit aina {TURNS} vuoron välein."
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Poistaa kaikilta vihollisilta kaikki kasvuefektit aina {TURNS} vuoron välein."
@@ -306,6 +322,7 @@ Tämä koskee
 "herocard.passive_skill.description.resist.poison","Hahmo on immuuni myrkkyvauriota tuottaville vaivoille."
 "herocard.passive_skill.description.resist.poison.burn.bleed","Hahmo on immuuni myrkky-, palo- tai verenvuotovauriota tuottaville vaivoille."
 "herocard.passive_skill.description.resist.possession.allstatuseffects","Hahmo on immuuni tilaefekteille, jotka riivaisivat hahmon."
+"herocard.passive_skill.description.resist.resonance","Hahmo on immuuni resonanssille."
 "herocard.passive_skill.description.resist.sand","Hahmo on immuuni hiekkavauriota tuottaville vaivoille."
 "herocard.passive_skill.description.resist.specialblocking","Hahmo on immuuni erikoistaitojen käytön estäville vaivoille."
 "herocard.passive_skill.description.resist.specialblocking.with_chance","Hahmolla on {CHANCE} %:n mahdollisuus vastustaa vaivoja, jotka estävät erikoistaitojen käytön."
@@ -501,6 +518,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.addmana","Manaa verenvuodosta"
 "herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.heal","Parannusta verenvuodosta"
 "herocard.passive_skill.title.burn.effectondamageovertime.activates_on_enemy_action.addmana","Manaa palamisesta"
+"herocard.passive_skill.title.bypasscounterattackandreflect","Vastahyökkäyksen ja heijastuksen ohitus"
 "herocard.passive_skill.title.bypassfamiliars.minion","Käskyläisten ohitus"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Parempi käskyläisten ohitus"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","Pidempi tilaefektien kesto"
@@ -508,6 +526,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Manaa näivetyksen aikana"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Elvytyksiä ajan mittaan"
 "herocard.passive_skill.title.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Sisun voima"
+"herocard.passive_skill.title.containspreadingstatuseffects.alldebuffs","Vaivojen leviämisen esto"
 "herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect","Sisäisesti kaunis"
 "herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect","Sisäisesti kaunis"
 "herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","Sulanut ydin"
@@ -529,7 +548,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.dispelonownfamiliardeath.minion.minordebuff","Puhdistus käskyläisen kuolemasta"
 "herocard.passive_skill.title.dodgespecialdamage","Erikoistaidon vaurion väistö"
 "herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","Kasauma erikoistaidosta"
-"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","Tuhoaa riiviöt erikoistaidolla"
+"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.bigparasite.allies.single","Tuhoaa riiviöt erikoistaidolla"
 "herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Syö ajan mittaan käskyläisiä ja saa manaa"
 "herocard.passive_skill.title.effectoncounterattack.statuseffects.bleeding","Repivä kosketus"
 "herocard.passive_skill.title.effectondamagedone.bufftoremove.minordebuff.latest.safe.specialskill.only_criticals.once","Puhdistaa erikoistaidon kriittisellä osumalla"
@@ -539,7 +558,9 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","Manaa kärsitystä vauriosta"
 "herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","Vauriota erikoistaidoista ja suojausvauriosta"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","Kasautuvaa hyökkäystä kärsitystä vauriosta"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Kasautuvaa hyökkäystä kärsitystä vauriosta"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Kasautuvaa hyökkäystä kärsitystä vauriosta"
+"herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","Paluuvirtaus"
 "herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Tehostettua terveyttä liittolaisen yrittämästä puhdistuksesta"
 "herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Vauriota vihollisen yrittämästä puhdistuksesta"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","Manaa häivytyksestä"
@@ -571,6 +592,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Manaa erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Häivytys erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minordebuff.latest","Puhdistus erikoistaidosta"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.stackbuffs.stack_reduction","Vihollisten kasaumien vähennys"
 "herocard.passive_skill.title.effectonspecialwithchance.damage","Vahinkoa erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.heal","Terveyden palautusta erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.healthboost","Terveyden tehostusta erikoistaidosta"
@@ -600,6 +622,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectonstatuseffectadditionwithchance.heal.allbuffs","Terveyden palautusta saadusta tehosteesta"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","Tehostettua terveyttä tilaefektin poistosta"
 "herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","Vauriota tilaefektin poistosta"
+"herocard.passive_skill.title.effectonturnstart.damage.pertargetchance","Rätisevä poikanen"
 "herocard.passive_skill.title.effectovertime.revival","Elvytyksiä ajan mittaan"
 "herocard.passive_skill.title.effectovertime.statuseffects.mesmerize","Kuiskiva kukkasade"
 "herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","Manaa per vihollisen tehoste"
@@ -626,6 +649,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.healonheal.heal","Lisäparannus"
 "herocard.passive_skill.title.healonownfamiliardeath.minion","Terveyttä kuolleesta käskyläisestä"
 "herocard.passive_skill.title.healonownfamiliardeath.minion.healthboost","Tehostettua terveyttä kuolleesta käskyläisestä"
+"herocard.passive_skill.title.hinderdispel.all.enemies","Puhdistusten heikennys"
 "herocard.passive_skill.title.increasedattackperelement.enemies.not.green","Lisää hyökkäystä muista kuin luontovihollisista"
 "herocard.passive_skill.title.increasedattackperelement.enemies.not.red","Lisää hyökkäystä muista kuin tulivihollisista"
 "herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","Lisävauriota käskyläisille ja megakäskyläisille"
@@ -652,13 +676,14 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.nevermissspecial","Täydellinen tarkkuus"
 "herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Suurempi parannus"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Tehostetun parannuksen esto"
-"herocard.passive_skill.title.ransack","Varkaan tilaisuus"
+"herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies","Varkaan tilaisuus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Tehosteen anastus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Metsästäjän vaisto"
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Joukkojen vaurion vähennys"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Joukkojen mestari"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Tulipallon vaurion voimakas kasvu"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Huijaa kuolemaa"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Huijaa kuolemaa"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vartijoiden kokoonkutsu"
 "herocard.passive_skill.title.remove_wither_from_allies","Vartijoiden kokoonkutsu"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Korjausydin"
@@ -706,6 +731,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.resist.poison","Myrkyn vastustus"
 "herocard.passive_skill.title.resist.poison.burn.bleed","Myrkyn, palamisen ja verenvuodon vastustus"
 "herocard.passive_skill.title.resist.possession.allstatuseffects","Riivauksen vastustus"
+"herocard.passive_skill.title.resist.resonance","Resonanssin vastustus"
 "herocard.passive_skill.title.resist.sand","Hiekan vastustus"
 "herocard.passive_skill.title.resist.specialblocking","Erikoistaitojen eston vastustus"
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Erikoistaitojen eston voimakas vastustus"

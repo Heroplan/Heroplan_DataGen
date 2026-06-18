@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Förbundsäventyr"
 "quests.name.crafting","Hitta tillverkningsmaterial"
 "quests.name.crafting_uncommon","Hitta tillverkningsmaterial II"
+"quests.name.demonic_rift_dragon","Demonplundrare"
 "quests.name.dragon_battle_and_crafting","Föremålens natt"
 "quests.name.dragon_cave_classic","Drakgrottan"
 "quests.name.dragon_dragonlings_and_xp","Rädda drakungar"

@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Pakt Görevi"
 "quests.name.crafting","Üretim Malzemeleri bul"
 "quests.name.crafting_uncommon","Üretim Malzemeleri bul II"
+"quests.name.demonic_rift_dragon","İblis Baskıncılar"
 "quests.name.dragon_battle_and_crafting","Nesne Gecesi"
 "quests.name.dragon_cave_classic","Ejderha Mağarası"
 "quests.name.dragon_dragonlings_and_xp","Ejderha Yavrularını kurtar"

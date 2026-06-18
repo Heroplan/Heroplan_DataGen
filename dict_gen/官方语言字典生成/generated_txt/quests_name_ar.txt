@@ -26,6 +26,7 @@
 "quests.name.covenant_2","مهمة المعاهدة"
 "quests.name.crafting","اعثر على مواد تصنيع"
 "quests.name.crafting_uncommon","اعثر على مواد تصنيع II"
+"quests.name.demonic_rift_dragon","الشياطين المقاتلون"
 "quests.name.dragon_battle_and_crafting","ليلة العناصر"
 "quests.name.dragon_cave_classic","كهف التنين"
 "quests.name.dragon_dragonlings_and_xp","أنقذ صغار التنانين"

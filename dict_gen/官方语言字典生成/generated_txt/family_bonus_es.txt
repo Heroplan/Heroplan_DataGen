@@ -20,7 +20,9 @@ Las gemas de las profundidades solo pueden generarse en escudos normales que coi
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de ataque."
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de ataque."
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE} % de ataque."
-"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Todos los aliados obtienen un {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % de acumulación de ataque cada vez que este personaje intenta saquear a un enemigo. (Acumulación máx.: {MAXSTACK})."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % de acumulación de ataque cada vez que este personaje intenta saquear a un enemigo."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % de acumulación de ataque cada vez que este personaje intenta saquear a un enemigo. Este efecto solo se puede activar {MAXACTIVATIONSPERTURN} veces por turno."
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels.onceperturn","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {FAMILYMEMBERS1ATTACK} %/{FAMILYMEMBERS2ATTACK} %/{FAMILYMEMBERS3ATTACK} % de acumulación de ataque cada vez que este personaje intenta saquear a un enemigo. Este efecto solo se puede activar una vez por turno."
 "familybonuses.description.long.build_charge_beauty_beast","Los héroes tienen distintos requisitos de humildad.
 Cuando el héroe usa la versión fuerte de su habilidad especial, solo se consume la cantidad requerida de humildad.
 Humildad máxima: 100.
@@ -34,6 +36,8 @@ El héroe obtiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHAR
 "familybonuses.description.long.build_charge_nidavellir","El núcleo fundido se carga cada vez que este personaje recibe daño de los ataques normales o las habilidades especiales."
 "familybonuses.description.long.build_charge_nidavellir_alt","El núcleo fundido se carga cada vez que este personaje recibe daño de los ataques normales o las habilidades especiales."
 "familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Este personaje tiene un {CHANCE} %/{2MEMBERSCHANCE} %/ {3MEMBERSCHANCE} % de probabilidad extra de ignorar las bendiciones defensivas con sus ataques. Si se ignora una bendición defensiva, el maná de este personaje aumenta en un {POWER} %."
+"familybonuses.description.long.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Este personaje tiene un {CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad extra de ignorar las bendiciones defensivas con sus ataques. Se garantiza que ignore contraataques y reflejos.
+Si ignora una bendición defensiva, el maná de este personaje aumenta en un {POWER} %."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Cuando este héroe recibe un estado alterado que afecta a la defensa, {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de lanzárselo a todos los enemigos."
 "familybonuses.description.long.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de aumentar la duración de todos los efectos de estado de bailarines de la fortuna aplicados por este personaje en 1 turno."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % de daño de habilidad especial adicional."
@@ -181,7 +185,9 @@ Si la habilidad especial del enemigo derrota a este personaje, la probabilidad e
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","Al comienzo de cada turno, marca al enemigo al que le quede más VIT con un lirio de sangre."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","Al comienzo de cada turno, marca al enemigo al que le quede más VIT con un lirio de sangre."
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","Al comienzo de cada turno, marca al enemigo al que le quede más VIT con un lirio de sangre."
-"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Otorga un {ATTACK} % de acumulación de ataque a todos los aliados cuando este personaje intenta saquear a otro (máx.: {MAXSTACK})."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","Acumulación (máx.: 10): Todos los aliados reciben un {ATTACK} % de ataque cuando este personaje intenta saquear a un enemigo."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.limitedactivations","Acumulación (máx.: 10): Todos los aliados reciben un {ATTACK} % de ataque cuando este personaje intenta saquear a un enemigo. Este efecto solo se puede activar {MAXACTIVATIONSPERTURN} veces por turno."
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels.onceperturn","Acumulación (máx.: 10): Todos los aliados reciben un {ATTACK} % de ataque cuando este personaje intenta saquear a un enemigo. Este efecto solo se puede activar una vez por turno."
 "familybonuses.description.short.build_charge_beauty_beast","{CURRENTCHARGEGAINS}"
 "familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","Este personaje obtiene {CURRENTCHARGEFROMDAMAGE} de humildad al recibir daño directo de habilidades especiales (solo una vez por turno).
 Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación directa de habilidades especiales (solo una vez por turno)."
@@ -190,6 +196,7 @@ Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación
 "familybonuses.description.short.build_charge_nidavellir","Este personaje carga su núcleo fundido al recibir daño de los ataques normales y las habilidades especiales."
 "familybonuses.description.short.build_charge_nidavellir_alt","El núcleo fundido se carga cada vez que este personaje recibe daño de los ataques normales o las habilidades especiales."
 "familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn","Un {CHANCE} % de probabilidad extra de ignorar las bendiciones defensivas con sus ataques. Si se ignora una bendición defensiva, el maná de este personaje aumenta en un {POWER} %."
+"familybonuses.description.short.bypass_defensive_buffs_ronin.troop.npcnormalattack.specialskill.on_bypass.addmana.single.allies.once_per_turn.always_bypass_counter_attack","Un {CHANCE} % de probabilidad extra de ignorar las bendiciones defensivas con sus ataques. Si ignora una bendición defensiva, el maná de este personaje aumenta en un {POWER} %. Se garantiza que ignore contraataques y reflejos."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Cuando este héroe recibe un estado alterado que afecta a la defensa, {CHANCE} % de probabilidad de lanzárselo a todos los enemigos."
 "familybonuses.description.short.cast_status_effect_duration_increase_fortune.always_one_turn.fortunedance","{CHANCE} % de probabilidad de aumentar la duración de los efectos de estado de bailarines de la fortuna aplicados en 1."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % de daño de habilidad especial adicional."
@@ -507,7 +514,7 @@ La familia del año lunar tiene diferentes héroes animales. Cada animal del añ
 "herocard.family.title.musketeer.short","Mosqueteros"
 "herocard.family.title.muspelheim","Reino de Muspelheim"
 "herocard.family.title.muspelheim.short","Muspelheim"
-"herocard.family.title.myrkheim","Myrkheim"
+"herocard.family.title.myrkheim","Reino de Myrkheim"
 "herocard.family.title.myrkheim.short","Myrkheim"
 "herocard.family.title.mystery","Familia misteriosa"
 "herocard.family.title.mystery.short","Misteriosa"

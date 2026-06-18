@@ -26,6 +26,7 @@
 "quests.name.covenant_2","盟約クエスト"
 "quests.name.crafting","作成用素材集め"
 "quests.name.crafting_uncommon","作成用素材集め II"
+"quests.name.demonic_rift_dragon","デーモンレイダー"
 "quests.name.dragon_battle_and_crafting","アイテムの夜"
 "quests.name.dragon_cave_classic","ドラゴンの洞穴"
 "quests.name.dragon_dragonlings_and_xp","ベビードラゴンの救出"

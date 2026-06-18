@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Storie non raccontate"
 "lottery.title.superelementalsummon","Chiamata dei Super elementi"
 "lottery.title.templesummon","Chiamata del Tempio"
+"lottery.title.thunderboltsummon","Chiamata del Fulmine"
 "lottery.title.titanhuntersummon","Chiamata dei cacciatori di Titani"
 "lottery.title.towereventsummon","Chiamata della Torre"
 "lottery.title.towertroopsummon","Chiamata delle truppe della Torre"

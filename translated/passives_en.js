@@ -14099,5 +14099,155 @@ const allTranslations =
         "heroId": "institute_azureus",
         "name": "Azureus",
         "passives": []
+    },
+    {
+        "heroId": "construct_featherweight",
+        "name": "Featherweight",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_hua_pi_gui",
+        "name": "Hua Pi Gui",
+        "passives": []
+    },
+    {
+        "heroId": "nordic_ice_enchantress_costume_stylish",
+        "name": "Isarnia Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "oriental_panda_warrior_costume_stylish",
+        "name": "Hu Tao Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "lizardman_trapper_costume_stylish",
+        "name": "Kashhrek Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "nordic_chained_werewolf_costume_stylish",
+        "name": "Graymane Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "forest_friar_costume_stylish",
+        "name": "Friar Tuck Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_orson",
+        "name": "Orson",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_baji",
+        "name": "Baji",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_hogne_costume_lunar",
+        "name": "Hogne C",
+        "passives": []
+    },
+    {
+        "heroId": "kalevala_iku_turso_costume_crown",
+        "name": "Iku-Turso C",
+        "passives": []
+    },
+    {
+        "heroId": "kalevala_para_costume_sword",
+        "name": "Para C",
+        "passives": []
+    },
+    {
+        "heroId": "kalevala_ajatar",
+        "name": "Ajatar",
+        "passives": []
+    },
+    {
+        "heroId": "kalevala_kaski",
+        "name": "Kaski",
+        "passives": []
+    },
+    {
+        "heroId": "musketeer_queen_anne_costume_commander",
+        "name": "Queen Anne C",
+        "passives": []
+    },
+    {
+        "heroId": "beauty_beast_beauty",
+        "name": "Beauty",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
+        "passives": []
+    },
+    {
+        "heroId": "s2_fox_girl_costume_cute",
+        "name": "Inari Toon",
+        "passives": []
+    },
+    {
+        "heroId": "forest_god_oberon_costume_cute",
+        "name": "Alberich Toon",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "name": "Darkfeather C",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_goldie_costume_perfume",
+        "name": "Goldie C",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_boots_costume_candle",
+        "name": "Boots C",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_brin",
+        "name": "Brin",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_tofana",
+        "name": "Tofana",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_cade",
+        "name": "Cade",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_ketch",
+        "name": "Ketch",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_irme",
+        "name": "Irme",
+        "passives": []
+    },
+    {
+        "heroId": "ninja_zircon_costume_iron",
+        "name": "Zircon C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_tenzin_kiba",
+        "name": "Tenzin Kiba",
+        "passives": []
     }
 ];

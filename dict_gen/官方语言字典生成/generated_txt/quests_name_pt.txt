@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Objetivo do Pacto"
 "quests.name.crafting","Encontrar materiais de Criação"
 "quests.name.crafting_uncommon","Encontrar materiais de Criação II"
+"quests.name.demonic_rift_dragon","Invasores Demoníacos"
 "quests.name.dragon_battle_and_crafting","Noite dos Itens"
 "quests.name.dragon_cave_classic","Caverna Dracônica"
 "quests.name.dragon_dragonlings_and_xp","Resgate os Filhotes de Dragão"

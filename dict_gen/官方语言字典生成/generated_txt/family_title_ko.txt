@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","총사"
 "herocard.family.title.muspelheim","무스펠하임 왕국"
 "herocard.family.title.muspelheim.short","무스펠하임"
-"herocard.family.title.myrkheim","미르하임"
+"herocard.family.title.myrkheim","미르하임 왕국"
 "herocard.family.title.myrkheim.short","미르하임"
 "herocard.family.title.mystery","미스테리 패밀리"
 "herocard.family.title.mystery.short","미스테리"

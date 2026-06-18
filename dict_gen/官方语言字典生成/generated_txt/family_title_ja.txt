@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","銃士"
 "herocard.family.title.muspelheim","ムスペルヘイム領域"
 "herocard.family.title.muspelheim.short","ムスペルヘイム"
-"herocard.family.title.myrkheim","ミアークヘイム"
+"herocard.family.title.myrkheim","ミアークヘイムの領域"
 "herocard.family.title.myrkheim.short","ミアークヘイム"
 "herocard.family.title.mystery","ミステリー ファミリー"
 "herocard.family.title.mystery.short","ミステリー"

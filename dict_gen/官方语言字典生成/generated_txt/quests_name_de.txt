@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Pakt-Quest"
 "quests.name.crafting","Finde Fertigungsmaterialien"
 "quests.name.crafting_uncommon","Finde Fertigungsmaterialien II"
+"quests.name.demonic_rift_dragon","Dämonenplünderer"
 "quests.name.dragon_battle_and_crafting","Nacht der Gegenstände"
 "quests.name.dragon_cave_classic","Drachenhöhle"
 "quests.name.dragon_dragonlings_and_xp","Rette Drachenjunge"

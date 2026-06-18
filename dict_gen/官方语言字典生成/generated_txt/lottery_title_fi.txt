@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Kertomattomat tarinat"
 "lottery.title.superelementalsummon","Superelementaalikutsu"
 "lottery.title.templesummon","Temppelikutsu"
+"lottery.title.thunderboltsummon","Salamakutsu"
 "lottery.title.titanhuntersummon","Titaaninmetsästäjäkutsu"
 "lottery.title.towereventsummon","Tornikutsu"
 "lottery.title.towertroopsummon","Tornijoukkokutsu"

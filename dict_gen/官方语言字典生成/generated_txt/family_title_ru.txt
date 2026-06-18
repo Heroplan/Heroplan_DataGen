@@ -116,7 +116,7 @@
 "herocard.family.title.musketeer.short","Мушкетер"
 "herocard.family.title.muspelheim","Муспельхейм"
 "herocard.family.title.muspelheim.short","Муспельхейм"
-"herocard.family.title.myrkheim","Миркхейм"
+"herocard.family.title.myrkheim","Мир Миркхейм"
 "herocard.family.title.myrkheim.short","Миркхейм"
 "herocard.family.title.mystery","Семья Тайны"
 "herocard.family.title.mystery.short","Тайна"

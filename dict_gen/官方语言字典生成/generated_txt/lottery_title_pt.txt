@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Histórias Inauditas"
 "lottery.title.superelementalsummon","Convocação de Superelemental"
 "lottery.title.templesummon","Convocação do Templo"
+"lottery.title.thunderboltsummon","Convocação Relâmpago"
 "lottery.title.titanhuntersummon","Convocação dos Caçadores de Titãs"
 "lottery.title.towereventsummon","Convocação da Torre"
 "lottery.title.towertroopsummon","Convocação de Tropa da Torre"

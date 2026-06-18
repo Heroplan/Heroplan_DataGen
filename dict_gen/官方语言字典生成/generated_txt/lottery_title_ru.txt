@@ -45,6 +45,7 @@
 "lottery.title.summon.view.untoldtales","Нерассказанные истории"
 "lottery.title.superelementalsummon","Суперпризыв стихии"
 "lottery.title.templesummon","Призыв храма"
+"lottery.title.thunderboltsummon","Призыв удара молнии"
 "lottery.title.titanhuntersummon","Призыв охотника на титанов"
 "lottery.title.towereventsummon","Призыв башни"
 "lottery.title.towertroopsummon","Призыв отрядов башни"

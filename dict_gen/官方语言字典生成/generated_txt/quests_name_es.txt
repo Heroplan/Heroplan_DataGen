@@ -26,6 +26,7 @@
 "quests.name.covenant_2","Aventura de coalición"
 "quests.name.crafting","Buscar materiales de elaboración"
 "quests.name.crafting_uncommon","Buscar materiales de elaboración II"
+"quests.name.demonic_rift_dragon","Asaltantes demoníacos"
 "quests.name.dragon_battle_and_crafting","La noche de los objetos"
 "quests.name.dragon_cave_classic","Cueva dragontina"
 "quests.name.dragon_dragonlings_and_xp","Al rescate de las crías de dragón"
