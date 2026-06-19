@@ -36,6 +36,7 @@ TARGET_POOLS = {
     "lottery_shadow_default": "lottery_shadow_default",
     "lottery_wilderness_default": "lottery_wilderness_default",
     "lottery_temple_default": "lottery_temple_default",
+    "lottery_astralelves_default": "lottery_astralelves_default",
     "lottery_titan_hunter_default": "lottery_titan_hunter_default",
     "lottery_covenant_default": "lottery_covenant_default",
     "lottery_goblin_default": "lottery_goblin_default",
