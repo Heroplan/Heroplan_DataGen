@@ -1,43 +1,13 @@
-2026-06-18 12:26:04,371 - INFO - 成功加载并规范化 1806 条中文额外数据。
-2026-06-18 12:26:04,439 - INFO - [skill] 已加载 cn 技能 2598 条
-2026-06-18 12:26:04,441 - INFO - [skill] 已加载 tc 技能 2598 条
-2026-06-18 12:26:04,443 - INFO - [skill] 已加载 en 技能 2598 条
-2026-06-18 12:26:12,098 - WARNING - 
---- 发现 34 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-2026-06-18 12:26:12,098 - INFO - 检测到 34 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-2026-06-18 12:26:12,103 - INFO - 准备为 'Ajatar' 添加新条目，键名为 'Ajatar'。
-2026-06-18 12:26:12,103 - INFO - 准备为 'Alberich Toon' 添加新条目，键名为 'Alberich Toon'。
-2026-06-18 12:26:12,103 - INFO - 准备为 'Baji' 添加新条目，键名为 'Baji'。
-2026-06-18 12:26:12,103 - INFO - 准备为 'Beauty' 添加新条目，键名为 'Beauty'。
-2026-06-18 12:26:12,103 - INFO - 准备为 'Boots C' 添加新条目，键名为 'Boots C'。
-2026-06-18 12:26:12,103 - INFO - 准备为 'Brin' 添加新条目，键名为 'Brin'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Cade' 添加新条目，键名为 'Cade'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Darkfeather C' 添加新条目，键名为 'Darkfeather C'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Featherweight' 添加新条目，键名为 'Featherweight'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Friar Tuck Stylish' 添加新条目，键名为 'Friar Tuck Stylish'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Garlacteus' 添加新条目，键名为 'Garlacteus'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Goldie C' 添加新条目，键名为 'Goldie C'。
-2026-06-18 12:26:12,104 - INFO - 准备为 'Graymane Stylish' 添加新条目，键名为 'Graymane Stylish'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Hu Tao Stylish' 添加新条目，键名为 'Hu Tao Stylish'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Hua Pi Gui' 添加新条目，键名为 'Hua Pi Gui'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Högne C' 添加新条目，键名为 'Högne C'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Iku-Turso C' 添加新条目，键名为 'Iku-Turso C'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Inari Toon' 添加新条目，键名为 'Inari Toon'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Irme' 添加新条目，键名为 'Irme'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Isarnia Stylish' 添加新条目，键名为 'Isarnia Stylish'。
-2026-06-18 12:26:12,105 - INFO - 准备为 'Kashhrek Stylish' 添加新条目，键名为 'Kashhrek Stylish'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Kaski' 添加新条目，键名为 'Kaski'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Ketch' 添加新条目，键名为 'Ketch'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Orson' 添加新条目，键名为 'Orson'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Para C' 添加新条目，键名为 'Para C'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Queen Anne C' 添加新条目，键名为 'Queen Anne C'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Tenzin Kiba' 添加新条目，键名为 'Tenzin Kiba'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Tofana' 添加新条目，键名为 'Tofana'。
-2026-06-18 12:26:12,106 - INFO - 准备为 'Zircon C' 添加新条目，键名为 'Zircon C'。
-2026-06-18 12:26:12,107 - INFO - 准备为 'Zurrumurgh' 添加新条目，键名为 'Zurrumurgh'。
-2026-06-18 12:26:12,174 - INFO - 成功！已将 30 个新的空白英雄条目追加到 'heroes_data_extra_skill_cn.json'。
-2026-06-18 12:26:12,471 - INFO - 成功加载并规范化 1836 条中文额外数据。
-2026-06-18 12:26:15,173 - WARNING - 
---- 发现 12 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-2026-06-18 12:26:15,173 - INFO - 检测到 12 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-2026-06-18 12:26:15,177 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
+2026-06-19 09:19:56,503 - INFO - 成功加载并规范化 1836 条中文额外数据。
+2026-06-19 09:19:56,524 - INFO - [skill] 已加载 cn 技能 2598 条
+2026-06-19 09:19:56,526 - INFO - [skill] 已加载 tc 技能 2598 条
+2026-06-19 09:19:56,527 - INFO - [skill] 已加载 en 技能 2598 条
+2026-06-19 09:19:59,191 - WARNING - 
+--- 发现 11 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
+2026-06-19 09:19:59,191 - INFO - 检测到 11 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+2026-06-19 09:19:59,195 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
+2026-06-19 09:19:59,447 - INFO - 成功加载并规范化 1836 条中文额外数据。
+2026-06-19 09:20:02,097 - WARNING - 
+--- 发现 11 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
+2026-06-19 09:20:02,098 - INFO - 检测到 11 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+2026-06-19 09:20:02,102 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。

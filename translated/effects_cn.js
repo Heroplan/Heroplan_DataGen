@@ -12055,6 +12055,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C1",
+        "effects": [
+            "使用焰暴闪袭攻击目标，造成最多 4400 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "所有盟友拥有 +45% 几率闪避特殊技能，持续 5 回合。每次闪避会对攻击者造成 500 点伤害。",
+            "该角色获得一层祭品标记，持续 5 回合。每当有敌人或盟友受到燃烧伤害时，施法者获得一层叠加（最多： 10 层 ）。每层叠加可使施法者的法力生成提高 +6%"
+        ]
+    },
+    {
         "heroId": "halloween_alucard",
         "name": "Alucard",
         "effects": [
@@ -17990,11 +17999,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "tales2_aethslegaur_costume_soul_seeker",
-        "name": "Aethslegaur C",
-        "effects": []
     },
     {
         "heroId": "elemental_zaria_costume_enchanter",

@@ -481,6 +481,7 @@
     "^\\*\\s+Fire\\s+Aether\\s+III$": "* 烈火已太 III。",
     "^\\*\\s+Fire\\s+Aether\\s+II$": "* 烈火已太 II。",
     "^\\*\\s+Fire\\s+Aether\\s+I$": "* 烈火已太 I。",
+    "^\\*\\s+All\\s+enemies\\s+receive\\s+Corrosive\\s+Burn\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+With\\s+a\\s+fully\\s+charged\\s+Molten\\s+Core,\\s+the\\s+Corrosive\\s+Burn\\s+deals([+-]?\\s*\\d+\\s*%?)Burn\\s+damage\\s+and\\s+lowers\\s+the\\s+target['’]?s\\s+defense\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\s+each\\s+turn\\.?\\s*\\s+Deals\\s+extra\\s+damage\\s+against\\s+heroes\\s+with\\s+Minions\\s+or\\s+a\\s+Mega\\s+Minions\\.?\\s*$": "* 所有敵人獲得腐蝕燃燒，持續\\1回合。熔融核心完全暴增時，腐蝕燃燒會造成\\2燃燒傷害，並在每回合降低目標 \\3 防禦。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
     "^Resist\\s+Mana\\s+Generation\\s+Ailments:\\s+This\\s+character\\s+is\\s+immune\\s+to\\s+status\\s+ailments\\s+and\\s+negative\\s+stacks\\s+that\\s+affect\\s+mana\\s+generation\\.?\\s*\\s+Doesn['’]?t\\s+apply\\s+to\\s+status\\s+ailments\\s+that\\s+stop\\s+mana\\s+generation\\s+or\\s+steal\\s+mana\\.?\\s*$": "抵禦法力產出異常：此角色對影響法力產出的狀態異常和負面疊加具有天生抗性。不適用會阻止法力產出或偷走法力的狀態異常。",
     "^\\-\\s+Mystic\\s+Rings$": "- 神妙戒指。",
     "^\\-\\s+Hidden\\s+Blade$": "- 袖剑。",

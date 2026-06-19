@@ -48256,5 +48256,32 @@ window.allHeroesExtra = [
             "mesmerize_over_time_dryad"
         ],
         "family": "dryad"
+    },
+    {
+        "name": "Aethslegaur costume1",
+        "fancy name": "Dwarven Soul Seeker",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-06-18",
+        "AetherPower": "Mana Boost",
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "baseAttack": 562,
+        "baseDefense": 580,
+        "baseHealth": 1116,
+        "specialId": "mana_immolation",
+        "specialId_costume": "mana_immolation_soul_seeker",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume",
+            "resist_all_stealing"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "14%",
+        "defenseBonus": "14%",
+        "healthBonus": "14%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
     }
 ];

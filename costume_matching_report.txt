@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (588 / 0)
+✅ 成功匹配的服装 (589 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -118,6 +118,7 @@ Name: Dagr costume1, Fancy Name: Dwarven Plague Shaman
 Name: Gandr costume1, Fancy Name: Dwarven Regal Soldier
 Name: Helgi costume1, Fancy Name: Dwarven Replenisher
 Name: Andvari costume1, Fancy Name: Dwarven Restorer
+Name: Aethslegaur costume1, Fancy Name: Dwarven Soul Seeker
 Name: Jack O'Hare Costume1, Fancy Name: Egg Hunter of Springvale
 Name: Ptolemy Costume1, Fancy Name: Elder Log
 Name: Quintus Costume1, Fancy Name: Electro Scientist

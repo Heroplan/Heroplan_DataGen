@@ -12055,6 +12055,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C1",
+        "effects": [
+            "Attacks the target with Firestorm Strike, dealing up to 4400 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
+            "All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge damages the attacker for 500 damage.",
+            "This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stack increases mana generation of the caster by +6%."
+        ]
+    },
+    {
         "heroId": "halloween_alucard",
         "name": "Alucard",
         "effects": [
@@ -17990,11 +17999,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "tales2_aethslegaur_costume_soul_seeker",
-        "name": "Aethslegaur C",
-        "effects": []
     },
     {
         "heroId": "elemental_zaria_costume_enchanter",

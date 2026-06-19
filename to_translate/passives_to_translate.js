@@ -9367,6 +9367,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C1",
+        "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 388 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
         "heroId": "halloween_alucard",
         "name": "Alucard",
         "passives": [
@@ -14039,11 +14050,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "tales2_aethslegaur_costume_soul_seeker",
-        "name": "Aethslegaur C",
-        "passives": []
     },
     {
         "heroId": "elemental_zaria_costume_enchanter",

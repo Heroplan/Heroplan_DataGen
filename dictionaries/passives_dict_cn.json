@@ -481,6 +481,7 @@
     "^\\*\\s+Fire\\s+Aether\\s+III$": "* 烈火艾瑟尔 III。",
     "^\\*\\s+Fire\\s+Aether\\s+II$": "* 烈火艾瑟尔 II。",
     "^\\*\\s+Fire\\s+Aether\\s+I$": "* 烈火艾瑟尔 I。",
+    "^\\*\\s+All\\s+enemies\\s+receive\\s+Corrosive\\s+Burn\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+With\\s+a\\s+fully\\s+charged\\s+Molten\\s+Core,\\s+the\\s+Corrosive\\s+Burn\\s+deals([+-]?\\s*\\d+\\s*%?)Burn\\s+damage\\s+and\\s+lowers\\s+the\\s+target['’]?s\\s+defense\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\s+each\\s+turn\\.?\\s*\\s+Deals\\s+extra\\s+damage\\s+against\\s+heroes\\s+with\\s+Minions\\s+or\\s+a\\s+Mega\\s+Minions\\.?\\s*$": "* 所有敌人受到腐蚀燃烧效果，持续\\1回合。当熔岩核心完全充能时，腐蚀燃烧造成\\2点燃烧伤害，并每回合降低目标 \\3 的防御。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
     "^Resist\\s+Mana\\s+Generation\\s+Ailments:\\s+This\\s+character\\s+is\\s+immune\\s+to\\s+status\\s+ailments\\s+and\\s+negative\\s+stacks\\s+that\\s+affect\\s+mana\\s+generation\\.?\\s*\\s+Doesn['’]?t\\s+apply\\s+to\\s+status\\s+ailments\\s+that\\s+stop\\s+mana\\s+generation\\s+or\\s+steal\\s+mana\\.?\\s*$": "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
     "^\\-\\s+Mystic\\s+Rings$": "- 神秘戒指。",
     "^\\-\\s+Hidden\\s+Blade$": "- 袖剑。",

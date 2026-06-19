@@ -12055,6 +12055,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "tales2_aethslegaur_costume_soul_seeker",
+        "name": "Aethslegaur C1",
+        "effects": [
+            "使用火風暴打擊攻擊目標，造成最多 4400 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
+            "所有盟友有 +45% 機率閃避特殊技能，持續 5 回合。每次閃避會對攻擊者造成 500 點傷害。",
+            "角色獲得獻祭印記，持續 5 回合。每當敵人或盟友受到燃燒傷害時，施法者就會獲得一層疊加。 （最大值： 10 ）。每層疊加都會使施法者的法力生成增加 +6%。"
+        ]
+    },
+    {
         "heroId": "halloween_alucard",
         "name": "Alucard",
         "effects": [
@@ -17990,11 +17999,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "tales2_aethslegaur_costume_soul_seeker",
-        "name": "Aethslegaur C",
-        "effects": []
     },
     {
         "heroId": "elemental_zaria_costume_enchanter",
