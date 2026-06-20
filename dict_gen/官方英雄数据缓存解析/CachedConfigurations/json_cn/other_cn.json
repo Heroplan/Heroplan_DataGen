@@ -3102,7 +3102,7 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
-              "vegetable_garlacteus",
+              "vegetable_chilazar",
               "vegetable_pepo",
               "vegetable_melonius"
             ],
@@ -93702,8 +93702,8 @@
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 150,
-                    "defenseBonusPerMil": 150,
+                    "attackBonusPerMil": 140,
+                    "defenseBonusPerMil": 140,
                     "healthBonusPerMil": 150,
                     "manaBonusPerMil": 50
                   }
@@ -93717,25 +93717,25 @@
                   {
                     "attackBonusPerMil": 400,
                     "defenseBonusPerMil": 400,
-                    "healthBonusPerMil": 400,
+                    "healthBonusPerMil": 420,
                     "manaBonusPerMil": 20
                   },
                   {
                     "attackBonusPerMil": 500,
                     "defenseBonusPerMil": 500,
-                    "healthBonusPerMil": 500,
+                    "healthBonusPerMil": 520,
                     "manaBonusPerMil": 30
                   },
                   {
                     "attackBonusPerMil": 600,
                     "defenseBonusPerMil": 600,
-                    "healthBonusPerMil": 600,
+                    "healthBonusPerMil": 620,
                     "manaBonusPerMil": 40
                   },
                   {
-                    "attackBonusPerMil": 690,
-                    "defenseBonusPerMil": 690,
-                    "healthBonusPerMil": 690,
+                    "attackBonusPerMil": 700,
+                    "defenseBonusPerMil": 700,
+                    "healthBonusPerMil": 720,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -93915,6 +93915,51 @@
                     "attackBonusPerMil": 420,
                     "defenseBonusPerMil": 420,
                     "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "musketeer_jul_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 450,
+                    "defenseBonusPerMil": 450,
+                    "healthBonusPerMil": 500,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 500,
+                    "defenseBonusPerMil": 500,
+                    "healthBonusPerMil": 550,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 600,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 600,
+                    "defenseBonusPerMil": 600,
+                    "healthBonusPerMil": 650,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -96066,7 +96111,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "85.0.2",
     "maxVersionToShowUpdateOutReminderIos": "85.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "86.0.1",
-    "standaloneNewVersionRolloutPercentage": 15,
+    "standaloneNewVersionRolloutPercentage": 90,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96171,5 +96216,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1424089880
+  "otherConfigId": 176300092
 }

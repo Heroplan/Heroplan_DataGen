@@ -5423,7 +5423,7 @@ const allTranslations =
         "heroId": "masquerade_februus",
         "name": "Februus",
         "effects": [
-            "Destroys all Fiends from all allies and damages all Mega Minions.",
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "Cleanses status ailments from all allies.",
             "All allies regenerate 1190 HP over 5 turns. This effect can't be dispelled.",
             "All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed."
@@ -5542,7 +5542,7 @@ const allTranslations =
             "All allies get Sticky surface for 4 turns. This effect can't be dispelled.",
             "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)",
             "All allies get +30% defense for 4 turns.",
-            "All allies are immune to buff dispels and reallocations for 4 turns. (This immunity also includes this effect itself.)"
+            "All allies are immune to buff dispels and reallocations for 4 turns. (This immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -6451,7 +6451,7 @@ const allTranslations =
         "effects": [
             "Boosts health of all allies by 600. Boosted health can exceed max HP.",
             "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1100. Reduces damage by additional 30% when the attacker is of the Nature element.",
-            "All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself.)"
+            "All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -7255,7 +7255,8 @@ const allTranslations =
         "heroId": "cultist_female_poisoner",
         "name": "Layla",
         "effects": [
-            "The target receives 78 damage over 6 turns"
+            "Deals 290% damage to the target.",
+            "The target receives 78 damage over 6 turns."
         ]
     },
     {
@@ -8567,7 +8568,7 @@ const allTranslations =
             "Recovers 42% health for all allies.",
             "All allies recover additional 8% health for each Fiend owned by the allies.",
             "All allies get +54% attack for 4 turns.",
-            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)"
+            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -8719,7 +8720,7 @@ const allTranslations =
             "Deals 355% damage to all enemies.",
             "Reduces the duration of all allies' active status ailments by 2 turns. (The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)",
             "Reduces the duration of all enemies' active buffs by 2 turns.(The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)",
-            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)"
+            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -10989,7 +10990,7 @@ const allTranslations =
         "effects": [
             "Deals 105% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
-            "All allies get +24% mana generation for 4 turns."
+            "All allies get +24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -11072,7 +11073,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 245% damage to the target.",
-            "The Mimic chest closes for 2 turns.(The Mimic is immune to damage and new status ailments while closed.)"
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -11328,7 +11329,7 @@ const allTranslations =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deal 265% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +20% mana generation for 3 turns."
+            "The caster and nearby allies get +20% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -11396,8 +11397,8 @@ const allTranslations =
             "Deals 210% damage to all enemies.",
             "Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35% attack every turn.",
             "The Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 18% of its target's max health.",
-            "Stack +2 (Max: 10): The caster gets +10% mana generation.",
-            "Stack (Max: 10): The caster recovers 10 HP each turn."
+            "Stack +2 (Max: 10): The caster gets +12% mana generation. (Affects only mana generated from matching shields or mana gained by defense at the end of their turn.)",
+            "Stack (Max: 10): The caster recovers 15 HP each turn."
         ]
     },
     {
@@ -11464,8 +11465,8 @@ const allTranslations =
         "effects": [
             "Deals 315% damage to the target and nearby enemies.",
             "If the caster dies during the next 4 turns they are resurrected in the beginning of their next turn with 27% health. All status effects and stacks are removed when the caster dies.",
-            "Stack (Max: 10): The caster gets +5% mana generation.",
-            "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
+            "Stack (Max: 10): The caster gets +6% mana generation.",
+            "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ]
     },
     {
@@ -11983,7 +11984,7 @@ const allTranslations =
         "heroId": "s2_rugged_fisherman_costume_sake_master",
         "name": "Wilbur C1",
         "effects": [
-            "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +140% increased power while this effect is active.",
+            "All allies get +100% normal attack for 4 turns. (If additional effects increase attack in general, normal attacks can have a total maximum of +140% increased power.)",
             "All allies regenerate 280 HP over 4 turns."
         ]
     },
@@ -12225,8 +12226,8 @@ const allTranslations =
         "name": "Asterius",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
-            "Reduces the duration of the target and nearby enemies buffs by 1 turn.",
-            "The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "Reduces the duration of the target and nearby enemies' buffs by 1 turn. (The duration modification affects Stubborn, dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
+            "The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minions."
         ]
     },
     {
@@ -12678,7 +12679,7 @@ const allTranslations =
         "name": "Daemon",
         "effects": [
             "Dispels buffs from the target.",
-            "Blocks Talent Skill activation for the target.",
+            "Blocks Talent Skill activation for the target for 3 turns.",
             "Deals 485% damage to the target.",
             "The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skills.)"
         ]
@@ -12947,14 +12948,14 @@ const allTranslations =
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
-            "* Destroys all Minions from the target.",
+            "* Destroys all Minions from the target. This effect damages Mega Minions.",
             "* Deals 520% damage to the target.",
             "2x Mana Charge:",
-            "* Destroys all Minions from the target.",
+            "* Destroys all Minions from the target. This effect damages Mega Minions.",
             "* Deals 610% damage to the target.",
             "* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
             "3x Mana Charge:",
-            "* Destroys all Minions from the target.",
+            "* Destroys all Minions from the target. This effect damages Mega Minions.",
             "* Deals 675% damage to the target.",
             "* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
         ]
@@ -13711,7 +13712,7 @@ const allTranslations =
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The caster and nearby allies counterattack with 145% of the damage received for 4 turns.",
-            "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 452 Sand damage over 4 turns.)"
+            "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 460 Sand damage over 4 turns.)"
         ]
     },
     {
@@ -13853,7 +13854,7 @@ const allTranslations =
         "name": "Otis",
         "effects": [
             "Deals 370% damage to all enemies.",
-            "All enemies receive 575 Bleed damage over 4 turns, starting low, and increasing with every turn.",
+            "All enemies receive 81-222 increasing Bleed damage each turn for 4 turns. (On the first turn, 81 damage is dealt. The damage increases by +40% each turn, up to 222 damage per turn.)",
             "All enemies get -70% decrease for any healing received for 4 turns. The healing received decreases by -10% each turn, up to -100%."
         ]
     },
@@ -14031,7 +14032,7 @@ const allTranslations =
         "name": "Reuben",
         "effects": [
             "Deals 340% damage to the target and nearby enemies.",
-            "All allies get -80% reduction to damage received from status ailments for 4 turns.",
+            "All allies get -80% reduction to damage received from status ailments and negative stacks for 4 turns.",
             "Element Link summons a Fire Minion for all Fire allies with 6% HP and 10% attack inherited from the caster."
         ]
     },
@@ -14087,7 +14088,7 @@ const allTranslations =
         "effects": [
             "Steals 50% mana from the target and distributes them on allies.",
             "Deals 480% damage to the target.",
-            "The more health the enemy has, the more damage they will receive, up to 600%.",
+            "The more health the enemy has, the more damage they will receive, up to 630%.",
             "Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -14167,7 +14168,7 @@ const allTranslations =
         "heroId": "astral_demon_salome",
         "name": "Salome",
         "effects": [
-            "Destroys all Fiends from all allies. The effect damages Mega Fiends.",
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "Recovers 50% health for all allies.",
             "At the end of each turn, all allies shot an Astral Beam at a random enemy for 4 turns.",
             "Each Astral Beam deals 100% damage.",
@@ -14418,7 +14419,7 @@ const allTranslations =
             "Deals 260% damage to all enemies.",
             "All enemies get -30% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "The caster and nearby allies recover 717 HP over 3 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.",
-            "The caster and nearby allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself)"
+            "The caster and nearby allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -14561,6 +14562,16 @@ const allTranslations =
             "Deals 290% damage to all enemies.",
             "If there are 6 or more Fire shields on the board, damage is increased to 340%.",
             "If there are 12 or more Fire shields on the board, damage is increased to 500%."
+        ]
+    },
+    {
+        "heroId": "elemental_zaria_costume_enchanter",
+        "name": "Zaria C1",
+        "effects": [
+            "Deals 350% damage to all enemies.",
+            "If there are 6 or more Fire shields on the board, the damage is increased to 400%.",
+            "If there are 12 or more Fire shields on the board, the damage is increased to 550%.",
+            "Deals extra damage against Nature."
         ]
     },
     {
@@ -17999,11 +18010,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "elemental_zaria_costume_enchanter",
-        "name": "Zaria C",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_konradus",

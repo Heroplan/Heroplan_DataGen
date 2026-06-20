@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (589 / 0)
+✅ 成功匹配的服装 (590 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -483,6 +483,7 @@ Name: Boldtusk Glass, Fancy Name: The Reflecting
 Name: Domiventus Costume1, Fancy Name: The Supreme Hadal Being
 Name: Boldtusk Toon, Fancy Name: The Unwavering Toon
 Name: Saoirse Costume1, Fancy Name: The Vanquisher
+Name: Zaria costume1, Fancy Name: Three-Eyed Enchanter
 Name: Chao Costume2, Fancy Name: Tiger Master
 Name: Oceanus costume1, Fancy Name: Titan of Magma
 Name: Skittleskull Costume2, Fancy Name: Toad Witch

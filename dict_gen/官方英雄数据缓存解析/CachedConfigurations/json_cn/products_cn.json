@@ -232,7 +232,7 @@
         "id": "lottery_featured_event_farmland",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 195,
+        "uiPriority": 197,
         "associatedEvent": "RecurringFarmland",
         "bonusChest": "beowulf_chest",
         "bonusChestRequirement": 5,
@@ -4401,7 +4401,7 @@
         "id": "lottery_hero_kalevala",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 41,
+        "uiPriority": 196,
         "associatedEvent": "Kalevala",
         "perfectSummon": "seasonal_perfect_10",
         "bucketWeights": [
@@ -56033,7 +56033,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 191,
+        "uiPriority": 196,
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
         "bonusChestRequirement": 5,
@@ -56213,7 +56213,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 190,
+        "uiPriority": 197,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -58703,5 +58703,5 @@
       }
     ]
   },
-  "productsConfigId": 3457452808
+  "productsConfigId": 800113366
 }

@@ -1,17 +1,5 @@
 [
     {
-        "name": "Zaria C",
-        "fancy_name": "Three-Eyed Enchanter",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-20 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_zaria_costume_enchanter",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Konradus",
         "fancy_name": "Vanguard of the Tundra",
         "color": "Blue",

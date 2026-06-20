@@ -8561,7 +8561,7 @@ const allTranslations =
         "heroId": "styx_dante",
         "name": "Dante",
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
@@ -8596,10 +8596,10 @@ const allTranslations =
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
             "**",
-            "- Uncommon Fire, Nature, Ice, Dark and Holy Heroes.",
+            "- Uncommon Fire Heroes.",
             "*",
             "- Common Master Trainer Heroes",
-            "- Common Fire, Nature, Ice, Dark and Holy Heroes"
+            "- Common Fire Heroes"
         ]
     },
     {
@@ -8855,7 +8855,7 @@ const allTranslations =
         "heroId": "slayer_aodhan",
         "name": "Aodhan",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -8903,7 +8903,7 @@ const allTranslations =
         "heroId": "slayer_cillian",
         "name": "Cillian",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -9287,7 +9287,7 @@ const allTranslations =
         "heroId": "gargoyle_vonreine",
         "name": "Vonreine",
         "passives": [
-            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. (The next 4 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.)"
         ]
     },
     {
@@ -10586,7 +10586,7 @@ const allTranslations =
         "heroId": "fire_god_maple",
         "name": "Maple",
         "passives": [
-            "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs.",
             "Health Recovery on Buff Received: This character recover 5% health when they receive a buff or positive stack."
         ]
     },
@@ -11349,6 +11349,18 @@ const allTranslations =
             "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             "* Received elemental damage: -10%"
+        ]
+    },
+    {
+        "heroId": "elemental_zaria_costume_enchanter",
+        "name": "Zaria C1",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
+            "* Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            "* Received elemental damage: -25%",
+            "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ]
     },
     {
@@ -14050,11 +14062,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "elemental_zaria_costume_enchanter",
-        "name": "Zaria C",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_konradus",

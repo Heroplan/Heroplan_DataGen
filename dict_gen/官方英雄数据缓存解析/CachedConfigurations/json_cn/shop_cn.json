@@ -25028,28 +25028,24 @@
         "id": "dynamic_offer_1_yellow_eloise",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
+            "id": "com.smallgiantgames.empires.dynamic_3c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_7",
+            "id": "com.smallgiantgames.empires.dynamic_3d",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "id": "com.smallgiantgames.empires.dynamic_15",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
+            "id": "com.smallgiantgames.empires.dynamic_29",
             "purchaseLimit": 2
-          },
-          {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -37996,6 +37992,42 @@
             ]
           },
           {
+            "activationTime": "2026-06-18 12:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_mystic_rings",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_farsight_telescope",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_mysterious_tonic",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_royal_tabard",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_poison_darts",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 3
+              }
+            ]
+          },
+          {
             "activationTime": "2026-06-19 07:00:00",
             "contents": [
               {
@@ -41452,6 +41484,28 @@
             ]
           },
           {
+            "activationTime": "2026-06-18 12:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 150,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_legendary",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 5
+              }
+            ]
+          },
+          {
             "activationTime": "2026-06-19 09:00:00",
             "contents": [
               {
@@ -43871,6 +43925,27 @@
                 "zyngaStoreExtraAmount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2026-06-18 12:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_damascus_blade",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_scroll_of_alteration",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
           }
         ]
       },
@@ -43912,6 +43987,27 @@
                 "id": "lottery_challenge_coin",
                 "amount": 10,
                 "zyngaStoreExtraAmount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-06-18 12:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_tome_of_tactics",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_hurricane",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 2
               }
             ]
           }
@@ -44558,6 +44654,32 @@
                 "type": "Item",
                 "id": "lottery_costume_key",
                 "amount": 25
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-06-18 12:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_astralelves_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 15
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1,
+                "zyngaStoreExtraAmount": 2
               }
             ]
           },
@@ -51832,13 +51954,6 @@
         "endTime": "2026-06-17 06:30:00"
       },
       {
-        "id": "dynamic_offer_1_yellow_eloise",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2026-06-17 07:00:00",
-        "endTime": "2026-06-18 06:30:00"
-      },
-      {
         "id": "dynamic_offer_28_faiez_oasis",
         "slot": "RightMiddle",
         "startTime": "2026-06-17 07:00:00",
@@ -51974,6 +52089,13 @@
         "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-06-18 09:00:00",
+        "endTime": "2026-06-19 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_1_yellow_eloise",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2026-06-18 12:00:00",
         "endTime": "2026-06-19 06:30:00"
       },
       {
@@ -63389,7 +63511,7 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "祖鲁穆鲁格",
+                "扎基图里昂",
                 "马达里卡"
               ]
             }
@@ -82567,5 +82689,5 @@
       ]
     }
   },
-  "shopConfigId": 789586403
+  "shopConfigId": 123632514
 }

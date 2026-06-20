@@ -48283,5 +48283,32 @@ window.allHeroesExtra = [
         "healthBonus": "14%",
         "manaBonus": "5%",
         "family": "nidavellir"
+    },
+    {
+        "name": "Zaria costume1",
+        "fancy name": "Three-Eyed Enchanter",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-06-20",
+        "AetherPower": "Counterattack",
+        "heroId": "elemental_zaria_costume_enchanter",
+        "baseAttack": 488,
+        "baseDefense": 459,
+        "baseHealth": 772,
+        "specialId": "cataclysmic_divination",
+        "specialId_costume": "enchanting_divination",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_green"
+        ],
+        "attackBonus": "44%",
+        "defenseBonus": "44%",
+        "healthBonus": "45%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];
