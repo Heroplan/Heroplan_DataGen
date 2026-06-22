@@ -1725,6 +1725,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
+        "passives": [
+            "特殊技能强化护盾：作为进攻方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上冰霜系护盾的暴击几率将提升 +54%。",
+            "作为防守方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上自然系护盾的精准度被削弱 -47%。",
+            "泰坦猎手标记：当此角色施放特殊技能时，会随机标记一名敌人，使其携带狩猎火焰效果，持续 4 回合。被狩猎火焰标记的目标在受到暴击时，将额外承受 150 点伤害。"
+        ]
+    },
+    {
         "heroId": "christmas_krampus",
         "name": "Krampus",
         "passives": []
@@ -14064,11 +14075,6 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "titan_hunter_konradus",
-        "name": "Konradus",
-        "passives": []
-    },
-    {
         "heroId": "ninja_quartz_costume_investigate",
         "name": "Quartz C",
         "passives": []
@@ -14194,13 +14200,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
         "passives": []
     },
     {
-        "heroId": "vegetable_garlacteus",
-        "name": "Garlacteus",
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
         "passives": []
     },
     {

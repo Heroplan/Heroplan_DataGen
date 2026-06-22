@@ -1,17 +1,5 @@
 [
     {
-        "name": "Konradus",
-        "fancy_name": "Vanguard of the Tundra",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-21 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_konradus",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Quartz C",
         "fancy_name": "Ninja of Ancient Graves",
         "color": "Purple",
@@ -312,27 +300,27 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zurrumurgh",
-        "fancy_name": "Astral Demon Spirit Whisperer",
-        "color": "Green",
+        "name": "Zhakiturion",
+        "fancy_name": "Astral Demon Chief Justiciar",
+        "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2026-07-15 07:00:00",
         "star": 5,
         "family": "astral_demons",
         "costume_id": 0,
-        "heroId": "astral_demon_zurrumurgh",
+        "heroId": "astral_demon_zhakiturion",
         "Lottery_Only": 1
     },
     {
-        "name": "Garlacteus",
-        "fancy_name": "Garlic Demolitionist",
-        "color": "Blue",
+        "name": "Chilazar",
+        "fancy_name": "Inferno Chili",
+        "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2026-07-19 07:00:00",
         "star": 5,
         "family": "vegetable",
         "costume_id": 0,
-        "heroId": "vegetable_garlacteus",
+        "heroId": "vegetable_chilazar",
         "Lottery_Only": 1
     },
     {

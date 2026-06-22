@@ -2148,6 +2148,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "Against Titans, deals 700% damage.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "The target gets -40% defense for 3 turns. Against Fire Titans, the target get -60% defense and the status effect lasts 2 turns longer."
+        ]
+    },
+    {
         "heroId": "christmas_krampus",
         "name": "Krampus",
         "effects": [
@@ -18012,11 +18022,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "titan_hunter_konradus",
-        "name": "Konradus",
-        "effects": []
-    },
-    {
         "heroId": "ninja_quartz_costume_investigate",
         "name": "Quartz C",
         "effects": []
@@ -18142,13 +18147,13 @@ const allTranslations =
         "effects": []
     },
     {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
         "effects": []
     },
     {
-        "heroId": "vegetable_garlacteus",
-        "name": "Garlacteus",
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
         "effects": []
     },
     {

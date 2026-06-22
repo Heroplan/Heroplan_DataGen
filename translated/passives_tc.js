@@ -1725,6 +1725,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
+        "passives": [
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的冰霜護盾會強化 +54% 暴擊率。",
+            "防禦角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的自然護盾會降低 -47% 精準度。",
+            "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ]
+    },
+    {
         "heroId": "christmas_krampus",
         "name": "Krampus",
         "passives": []
@@ -14064,11 +14075,6 @@ const translatedPassivesTC =
         ]
     },
     {
-        "heroId": "titan_hunter_konradus",
-        "name": "Konradus",
-        "passives": []
-    },
-    {
         "heroId": "ninja_quartz_costume_investigate",
         "name": "Quartz C",
         "passives": []
@@ -14194,13 +14200,13 @@ const translatedPassivesTC =
         "passives": []
     },
     {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
         "passives": []
     },
     {
-        "heroId": "vegetable_garlacteus",
-        "name": "Garlacteus",
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
         "passives": []
     },
     {

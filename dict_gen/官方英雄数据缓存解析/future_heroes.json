@@ -840,15 +840,15 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zhakiturion",
-        "fancy_name": "Astral Demon Chief Justiciar",
-        "color": "Yellow",
+        "name": "Zurrumurgh",
+        "fancy_name": "Astral Demon Spirit Whisperer",
+        "color": "Green",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
         "star": 5,
         "family": "astral_demons",
         "costume_id": 0,
-        "heroId": "astral_demon_zhakiturion",
+        "heroId": "astral_demon_zurrumurgh",
         "Lottery_Only": 1
     },
     {
@@ -885,6 +885,18 @@
         "family": "ronin",
         "costume_id": 0,
         "heroId": "ronin_tanaka_isako",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Garlacteus",
+        "fancy_name": "Garlic Demolitionist",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_garlacteus",
         "Lottery_Only": 1
     },
     {
@@ -957,18 +969,6 @@
         "family": "ghost",
         "costume_id": 0,
         "heroId": "ghost_bai_wu_chang",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Chilazar",
-        "fancy_name": "Inferno Chili",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_chilazar",
         "Lottery_Only": 1
     },
     {

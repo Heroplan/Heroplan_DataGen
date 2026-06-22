@@ -2148,6 +2148,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "titan_hunter_konradus",
+        "name": "Konradus",
+        "effects": [
+            "對目標造成 600% 傷害。",
+            "對上泰坦造成 700% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "目標獲得 -40% 防禦，持續 3 個回合。對上烈火泰坦時，目標獲得 -60% 防禦，且狀態效果會持續額外 2 回合。"
+        ]
+    },
+    {
         "heroId": "christmas_krampus",
         "name": "Krampus",
         "effects": [
@@ -18012,11 +18022,6 @@ const translatedEffectsTC =
         ]
     },
     {
-        "heroId": "titan_hunter_konradus",
-        "name": "Konradus",
-        "effects": []
-    },
-    {
         "heroId": "ninja_quartz_costume_investigate",
         "name": "Quartz C",
         "effects": []
@@ -18142,13 +18147,13 @@ const translatedEffectsTC =
         "effects": []
     },
     {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
         "effects": []
     },
     {
-        "heroId": "vegetable_garlacteus",
-        "name": "Garlacteus",
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
         "effects": []
     },
     {

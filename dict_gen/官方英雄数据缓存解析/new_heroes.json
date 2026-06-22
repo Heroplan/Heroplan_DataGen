@@ -1,17 +1,5 @@
 [
     {
-        "name": "Aethslegaur C",
-        "fancy_name": "Dwarven Soul Seeker",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-18 07:00:00",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_aethslegaur_costume_soul_seeker",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zaria C",
         "fancy_name": "Three-Eyed Enchanter",
         "color": "Red",
@@ -336,27 +324,27 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zurrumurgh",
-        "fancy_name": "Astral Demon Spirit Whisperer",
-        "color": "Green",
+        "name": "Zhakiturion",
+        "fancy_name": "Astral Demon Chief Justiciar",
+        "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2026-07-15 07:00:00",
         "star": 5,
         "family": "astral_demons",
         "costume_id": 0,
-        "heroId": "astral_demon_zurrumurgh",
+        "heroId": "astral_demon_zhakiturion",
         "Lottery_Only": 1
     },
     {
-        "name": "Garlacteus",
-        "fancy_name": "Garlic Demolitionist",
-        "color": "Blue",
+        "name": "Chilazar",
+        "fancy_name": "Inferno Chili",
+        "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2026-07-19 07:00:00",
         "star": 5,
         "family": "vegetable",
         "costume_id": 0,
-        "heroId": "vegetable_garlacteus",
+        "heroId": "vegetable_chilazar",
         "Lottery_Only": 1
     },
     {

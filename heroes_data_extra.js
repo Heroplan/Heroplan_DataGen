@@ -48310,5 +48310,25 @@ window.allHeroesExtra = [
         "healthBonus": "45%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Konradus",
+        "fancy name": "Vanguard of the Tundra",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-06-21",
+        "AetherPower": "Attack Up",
+        "heroId": "titan_hunter_konradus",
+        "baseAttack": 682,
+        "baseDefense": 665,
+        "baseHealth": 1161,
+        "specialId": "arctic_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_blue_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];
