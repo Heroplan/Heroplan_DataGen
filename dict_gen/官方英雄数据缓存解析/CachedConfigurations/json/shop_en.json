@@ -52370,6 +52370,20 @@
         "endTime": "2026-06-23 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-22 10:30:00",
+        "endTime": "2026-06-22 19:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-22 19:00:00",
+        "endTime": "2026-06-23 07:00:00"
+      },
+      {
         "id": "dynamic_offer_21_shrubbear",
         "slot": "RightMiddle",
         "startTime": "2026-06-23 07:00:00",
@@ -52381,6 +52395,13 @@
         "scheduledManually": true,
         "startTime": "2026-06-23 07:00:00",
         "endTime": "2026-06-24 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-23 07:00:00",
+        "endTime": "2026-06-24 07:00:00"
       },
       {
         "id": "seasonal_day23",
@@ -52438,6 +52459,13 @@
         "slot": "RightMiddle",
         "startTime": "2026-06-24 07:00:00",
         "endTime": "2026-06-25 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-06-24 07:00:00",
+        "endTime": "2026-06-25 07:00:00"
       },
       {
         "id": "seasonal_day24",
@@ -52753,6 +52781,13 @@
         "endTime": "2026-06-30 07:00:00"
       },
       {
+        "id": "triple_thunderbolt1",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-29 07:00:00",
+        "endTime": "2026-06-30 07:00:00"
+      },
+      {
         "id": "dragon_select_asc3_new",
         "slot": "RightTop",
         "startTime": "2026-06-29 07:00:00",
@@ -52781,6 +52816,13 @@
       {
         "id": "triple_levelupsummon",
         "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-06-30 07:00:00",
+        "endTime": "2026-07-01 07:00:00"
+      },
+      {
+        "id": "triple_thunderbolt2",
+        "slot": "RightBottom",
         "scheduledManually": true,
         "startTime": "2026-06-30 07:00:00",
         "endTime": "2026-07-01 07:00:00"
@@ -52826,6 +52868,13 @@
         "endTime": "2026-07-02 06:30:00"
       },
       {
+        "id": "triple_thunderbolt1",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-01 07:00:00",
+        "endTime": "2026-07-02 07:00:00"
+      },
+      {
         "id": "aethercrystalsoffer2",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
@@ -52856,6 +52905,13 @@
         "scheduledManually": true,
         "startTime": "2026-07-02 07:00:00",
         "endTime": "2026-07-03 06:30:00"
+      },
+      {
+        "id": "triple_thunderbolt2",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-02 07:00:00",
+        "endTime": "2026-07-03 07:00:00"
       },
       {
         "id": "dragon_flaming_new",
@@ -54599,34 +54655,6 @@
         "slot": "RightBottom",
         "startTime": "2026-09-29 07:00:00",
         "endTime": "2026-10-01 07:00:00"
-      },
-      {
-        "id": "triple_thunderbolt1",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2200-12-12 07:00:00",
-        "endTime": "2200-12-13 07:00:00"
-      },
-      {
-        "id": "triple_thunderbolt2",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2200-12-13 07:00:00",
-        "endTime": "2200-12-14 07:00:00"
-      },
-      {
-        "id": "triple_thunderbolt1",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2200-12-14 07:00:00",
-        "endTime": "2200-12-15 07:00:00"
-      },
-      {
-        "id": "triple_thunderbolt2",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2200-12-15 07:00:00",
-        "endTime": "2200-12-16 07:00:00"
       }
     ],
     "foodPerGem": 614,
@@ -61870,6 +61898,22 @@
                 "institute_zenas",
                 "mahayoddha_jyoti"
               ]
+            },
+            {
+              "lotteryProductType": "Covenant Summon",
+              "id": "covenant_extra_6_22",
+              "productId": "lottery_covenant_default",
+              "startDate": "2026-06-22 10:30:00",
+              "endDate": "2026-06-25 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "construct_dancrag",
+                "astral_demon_madarika",
+                "astral_demon_haradea",
+                "ghost_hei_wu_chang",
+                "musketeer_cardinal_richelieu_costume_ambassador",
+                "musketeer_rochefort_costume_ratcatcher"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -65232,7 +65276,7 @@
               ],
               "featuredHeroes": [
                 "mahayoddha_shaurya",
-                "mahayoddha_rudraditya"
+                "mahayoddha_ajay"
               ]
             },
             {
@@ -82689,5 +82733,5 @@
       ]
     }
   },
-  "shopConfigId": 123632514
+  "shopConfigId": 1851160403
 }

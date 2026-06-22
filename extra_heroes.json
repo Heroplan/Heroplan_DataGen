@@ -1,29 +1,5 @@
 [
     {
-        "name": "Quartz C",
-        "fancy_name": "Ninja of Ancient Graves",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-22 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_quartz_costume_investigate",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Mizuno Seiko",
-        "fancy_name": "Shaman Ronin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-22 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_mizuno_seiko",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Mina",
         "fancy_name": "Lonely Mountain Cat",
         "color": "Purple",

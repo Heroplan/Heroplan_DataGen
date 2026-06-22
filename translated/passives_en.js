@@ -609,7 +609,7 @@ const allTranslations =
         "heroId": "forsaken_lamentia",
         "name": "Lamentia",
         "passives": [
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -2101,7 +2101,7 @@ const allTranslations =
         "heroId": "astral_dwarf_orcur",
         "name": "Orcur",
         "passives": [
-            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them. This effect deals damage to Mega Fiends.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ]
@@ -2888,7 +2888,7 @@ const allTranslations =
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
-            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them. This effect deals damage to Mega Fiends."
         ]
     },
     {
@@ -4875,7 +4875,7 @@ const allTranslations =
         "heroId": "astral_dwarf_maegwyn",
         "name": "Maegwyn",
         "passives": [
-            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them. This effect deals damage to Mega Fiends.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ]
@@ -4947,6 +4947,17 @@ const allTranslations =
         "passives": [
             "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
+    },
+    {
+        "heroId": "ronin_mizuno_seiko",
+        "name": "Mizuno Seiko",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
         ]
     },
     {
@@ -6267,7 +6278,7 @@ const allTranslations =
         "heroId": "institute_ryleh",
         "name": "Ryleh",
         "passives": [
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -7313,7 +7324,7 @@ const allTranslations =
         "name": "Kadath",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -7440,7 +7451,7 @@ const allTranslations =
         "heroId": "astral_dwarf_lemniss",
         "name": "Lemniss",
         "passives": [
-            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them. This effect deals damage to Mega Fiends.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ]
@@ -7703,7 +7714,7 @@ const allTranslations =
         "name": "Nyctalos",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -7833,7 +7844,7 @@ const allTranslations =
         "name": "Prof. Morryster",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -7841,6 +7852,14 @@ const allTranslations =
         "name": "Quartz",
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
+        ]
+    },
+    {
+        "heroId": "ninja_quartz_costume_investigate",
+        "name": "Quartz C1",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 548 Bleed damage over 4 turns."
         ]
     },
     {
@@ -9407,7 +9426,7 @@ const allTranslations =
         "name": "Amarosa",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -11921,7 +11940,7 @@ const allTranslations =
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
-            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them. This effect deals damage to Mega Fiends."
         ]
     },
     {
@@ -12377,7 +12396,7 @@ const allTranslations =
         "name": "Axioma",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -12907,7 +12926,7 @@ const allTranslations =
         "name": "Inanis",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -13502,7 +13521,7 @@ const allTranslations =
         "name": "Prof. Ambrose",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+            "Branded by the Old Ones: All damage done to enemies by normal attacks and Special Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not include damage dealt to self or allies when activating Insanity."
         ]
     },
     {
@@ -14073,16 +14092,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "ninja_quartz_costume_investigate",
-        "name": "Quartz C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_mizuno_seiko",
-        "name": "Mizuno Seiko",
-        "passives": []
     },
     {
         "heroId": "wild_cat_mina",

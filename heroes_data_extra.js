@@ -48330,5 +48330,53 @@ window.allHeroesExtra = [
             "tile_enhancement_blue_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Mizuno Seiko",
+        "fancy name": "Shaman Ronin",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "charge_ninja",
+        "Release date": "2026-06-22",
+        "AetherPower": "Special Boost",
+        "heroId": "ronin_mizuno_seiko",
+        "baseAttack": 688,
+        "baseDefense": 660,
+        "baseHealth": 1161,
+        "specialId": "spiritual_stance",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health",
+            "reduce_minion_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Quartz costume1",
+        "fancy name": "Ninja of Ancient Graves",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "charge_ninja",
+        "Release date": "2026-06-22",
+        "AetherPower": "Boosted Regen",
+        "heroId": "ninja_quartz_costume_investigate",
+        "baseAttack": 366,
+        "baseDefense": 376,
+        "baseHealth": 741,
+        "specialId": "incite_ki",
+        "specialId_costume": "investigate_ki",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "attackBonus": "74%",
+        "defenseBonus": "74%",
+        "healthBonus": "74%",
+        "manaBonus": "1%",
+        "family": "ninja"
     }
 ];

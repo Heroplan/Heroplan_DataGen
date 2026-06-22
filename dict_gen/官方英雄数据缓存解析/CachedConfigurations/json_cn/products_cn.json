@@ -2187,7 +2187,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 167,
+        "uiPriority": 199,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -14504,7 +14504,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple10_unicorn_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -14586,7 +14585,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple10_unicorn_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23496,7 +23494,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple10_unicorn_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23600,6 +23597,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_1_1",
         "dollarValue": 12,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23623,6 +23621,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_1_2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23646,6 +23645,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_1_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23671,6 +23671,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_2_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23694,6 +23695,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_2_2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23718,6 +23720,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_2_3",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24029,7 +24032,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_blue_calendar_1_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24049,7 +24051,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_blue_calendar_1_tier2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24068,7 +24069,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_blue_calendar_2_tier1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24105,7 +24105,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_blue_calendar_3_tier1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24125,7 +24124,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_blue_calendar_3_tier2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29434,7 +29432,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_blue_calendar_2_tier2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -56198,7 +56195,7 @@
         "id": "lottery_goblin_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 140,
+        "uiPriority": 200,
         "associatedEvent": "Goblin"
       },
       {
@@ -58703,5 +58700,5 @@
       }
     ]
   },
-  "productsConfigId": 800113366
+  "productsConfigId": 1603370506
 }

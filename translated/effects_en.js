@@ -1797,7 +1797,7 @@ const allTranslations =
         "name": "Frostsnout",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "Reduces the duration for the caster and nearby allies' active status ailments by 2 turns. (The duration modification affects both cleansable and uncleansable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
+            "Reduces the duration for the caster and nearby allies' active status ailments by 2 turns. (The duration modification affects cleansable, Stubborn and uncleansable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
             "The caster and nearby allies get +40% critical chance for 3 turns."
         ]
     },
@@ -2650,7 +2650,7 @@ const allTranslations =
         "effects": [
             "Recovers 30% health for all allies.",
             "Growth: All allies get 250 attack.",
-            "Boosts health of all allies by 450 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP."
+            "Boosts health of all allies by 450 after 3 turns, or immediately if the effect is removed before the duration ends. Boosted health can exceed max HP."
         ]
     },
     {
@@ -3468,15 +3468,15 @@ const allTranslations =
             "1x Mana Charge:",
             "- All allies regenerate 144 boosted health over 2 turns. Boosted health can exceed max HP.",
             "- All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns, up to +49% defense.",
-            "- All allies are immune to buff dispels and reallocations for 2 turns.",
+            "- All allies are immune to buff dispels and reallocations for 2 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
             "2x Mana Charge:",
             "- All allies regenerate 504 boosted health over 3 turns. Boosted health can exceed max HP.",
             "- All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns, up to +59% defense.",
-            "- All allies are immune to buff dispels and reallocations for 3 turns.",
+            "- All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
             "3x Mana Charge:",
             "- All allies regenerate 980 boosted health over 4 turns. Boosted health can exceed max HP.",
             "- All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns, up to +79% defense.",
-            "- All allies are immune to buff dispels and reallocations for 4 turns."
+            "- All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -4131,7 +4131,7 @@ const allTranslations =
         "name": "Brynhild",
         "effects": [
             "Recovers 37% health for the caster and nearby allies.",
-            "The caster and nearby allies are immune to buff dispels for 3 turns.",
+            "The caster and nearby allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
             "The caster and nearby allies get +74% defense against Special Skills for 3 turns.",
             "The caster and nearby allies get +24% mana generation for 3 turns."
         ]
@@ -6139,7 +6139,7 @@ const allTranslations =
         "effects": [
             "Growth: All allies get 355 defense.",
             "Summons a Spotted Boar Mega Minion with 65% HP and 260% attack inherited from the caster.",
-            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. (This immunity also includes this effect itself.)"
+            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. (This immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -6374,6 +6374,25 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_mizuno_seiko",
+        "name": "Mizuno Seiko",
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Dispels 2 buffs from the target. (The latest buffs are dispelled first.)",
+            "Deals 430% damage to the target.",
+            "The target is immune to new status effect buffs for 2 turns, and receives 300 damage for each attempted buff.",
+            "x2 Mana Charge:",
+            "Dispels  buffs from the target and nearby enemies.",
+            "Deals 440% damage to the target and nearby enemies.",
+            "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receives 600 damage for each attempted buff.",
+            "x3 Mana Charge:",
+            "Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary effects, suchs as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.)",
+            "Deals 540% damage to all enemies.",
+            "All enemies are immune to new status effect buffs for 5 turns, and receives 1200 damage for each attempted buff."
+        ]
+    },
+    {
         "heroId": "astral_moonflower",
         "name": "Moonflower",
         "effects": [
@@ -6470,7 +6489,7 @@ const allTranslations =
         "effects": [
             "Boosts health of all allies by 900. Boosted health can exceed max HP.",
             "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1350. Reduces damage by additional 30% when the attacker is of the Nature element.",
-            "All allies are immune to buff dispel and reallocations for 3 turns. (The immunity also includes this effect itself.)"
+            "All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -6958,7 +6977,7 @@ const allTranslations =
         "name": "Theodosius",
         "effects": [
             "Deals 450% damage to all enemies.",
-            "Reduces the duration of all allies' active status ailments by 3 turn. (The duration reduction affects both cleansable and uncleansable status ailments. If the duration on any ailment is reduced to zero, the effect is considered as having expired naturally.)",
+            "Reduces the duration of all allies' active status ailments by 3 turn. (The duration modification affects cleansable, Stubborn and uncleansable status ailments. If the duration on any ailment is reduced to zero, the effect is considered as having expired naturally.)",
             "Reduces the duration of all enemies' active buffs by 3 turns.(The duration reduction affects both dispellable and undispellable status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)",
             "All allies get +35% defense for 5 turns.",
             "All enemies get -35% defense for 5 turns."
@@ -9209,7 +9228,7 @@ const allTranslations =
             "Deals 500% damage to the target.",
             "Safely dispels status effect buffs from the target. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passives skills and family effects can still activate.",
             "Deals 500% damage to a random target.",
-            "Increases the duration of the target's active status ailments by 5 turns. (The duration increase affect both cleansable and uncleansable status ailments.)"
+            "Increases the duration of the target's active status ailments by 5 turns. (The duration increase affects cleansable, Stubborn and uncleansable status ailments.)"
         ]
     },
     {
@@ -9499,8 +9518,8 @@ const allTranslations =
         "heroId": "astral_dwarf_lemniss",
         "name": "Lemniss",
         "effects": [
-            "Recovers 45% health from all allies.",
-            "Increases the duration of all allies active buffs by 2 turns. (The duration modification affects both cleansable and uncleasable effects.)",
+            "Recovers 45% health for all allies.",
+            "Increases the duration of all allies' active buffs by 2 turns. (The duration modification affects cleansable, Stubborn and uncleasable effects.)",
             "All allies are immune to new status ailments for 4 turns."
         ]
     },
@@ -10086,6 +10105,25 @@ const allTranslations =
             "3x Mana Charge:",
             "- All allies regenerate 940 HP over 4 turns. This effect can't be dispelled.",
             "- All allies get +54% attack for 4 turns.",
+            "- Cleanses status ailments from all allies."
+        ]
+    },
+    {
+        "heroId": "ninja_quartz_costume_investigate",
+        "name": "Quartz C1",
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
+            "x1 Mana Charge:",
+            "- All allies regenerate 600 HP over 2 turns.",
+            "- All allies get +40% attack, and a further +20% increase every time they are hit during 2 turns, up to +100% attack.",
+            "- Cleanses status ailments from all allies.",
+            "x2 Mana Charge:",
+            "- All allies regenerate 900 HP over 3 turns.",
+            "- All allies get +50% attack, and a further +20% increase every time they are hit during 3 turns, up to +150% attack.",
+            "- Cleanses status ailments from all allies.",
+            "x3 Mana Charge:",
+            "- All allies regenerate 1500 HP over 4 turns. This effect can't be dispelled.",
+            "- All allies get +60% attack, and a further +20% increase every time they are hit during 4 turns, up to +200% attack.",
             "- Cleanses status ailments from all allies."
         ]
     },
@@ -13780,16 +13818,19 @@ const allTranslations =
         "effects": [
             "1x Mana Charge",
             "* Deals 400% damage to the target.",
-            "* Deals 600% damage if the target has less than 50% health remaining.",
-            "* If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.",
+            "* If the target has less than 50% health remaining, deals 600% damage instead.",
+            "* Damage bypasses target's Minions.",
+            "* If an enemy is defeated by the attack, all allies get +20% mana generation for 2 turns.",
             "2x Mana Charge",
             "* Deals 425% damage to the target and nearby enemies.",
-            "* Deals 638% damage to enemies with less than 50% health remaining.",
-            "* If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.",
+            "* If the enemies have less than 50% health remaining, deals 638% damage instead.",
+            "* Damage bypasses target's Minions.",
+            "* If an enemy is defeated by the attack, all allies get +30% mana generation for 3 turns.",
             "3x Mana Charge",
             "* Deals 450% damage to all enemies.",
-            "* Deals 675% damage to enemies with less than 50% health remaining.",
-            "* If the target is defeated by the attack, all allies get +40% mana generation for 4 turns."
+            "* If the enemies have less than 50% health remaining, deals 675% damage instead.",
+            "* Damage bypasses target's Minions.",
+            "* If an enemy is defeated by the attack, all allies get +40% mana generation for 4 turns."
         ]
     },
     {
@@ -14419,7 +14460,7 @@ const allTranslations =
             "Deals 230% damage to all enemies.",
             "All enemies get -40% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "The caster and nearby allies recover 618 HP over 3 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.",
-            "The caster and nearby allies are immune to buff dispels for 3 turns."
+            "The caster and nearby allies are immune to buff dispels for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ]
     },
     {
@@ -15307,7 +15348,7 @@ const allTranslations =
         "name": "Errin",
         "effects": [
             "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
-            "All enemies receive +25% increased damage for 4 turns. This effect is increased by +5% for each Minion or Mega minion owned by all enemies, up to +50% in total."
+            "All enemies receive +25% increased damage for 4 turns. This effect is increased by +5% for each Minion or Mega Minion owned by all enemies, up to +50% in total."
         ]
     },
     {
@@ -18020,16 +18061,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "ninja_quartz_costume_investigate",
-        "name": "Quartz C",
-        "effects": []
-    },
-    {
-        "heroId": "ronin_mizuno_seiko",
-        "name": "Mizuno Seiko",
-        "effects": []
     },
     {
         "heroId": "wild_cat_mina",
