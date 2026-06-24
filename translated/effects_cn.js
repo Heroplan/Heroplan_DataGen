@@ -18188,6 +18188,11 @@ const translatedEffectsCN =
         "effects": []
     },
     {
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "name": "Gobbler Toon",
+        "effects": []
+    },
+    {
         "heroId": "s2_fox_girl_costume_cute",
         "name": "Inari Toon",
         "effects": []

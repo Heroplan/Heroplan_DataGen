@@ -14219,6 +14219,11 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "name": "Gobbler Toon",
+        "passives": []
+    },
+    {
         "heroId": "s2_fox_girl_costume_cute",
         "name": "Inari Toon",
         "passives": []

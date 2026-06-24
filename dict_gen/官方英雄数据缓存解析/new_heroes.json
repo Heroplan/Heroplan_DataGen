@@ -1,53 +1,5 @@
 [
     {
-        "name": "Zaria C",
-        "fancy_name": "Three-Eyed Enchanter",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-20 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_zaria_costume_enchanter",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Konradus",
-        "fancy_name": "Vanguard of the Tundra",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-21 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_konradus",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Quartz C",
-        "fancy_name": "Ninja of Ancient Graves",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-22 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_quartz_costume_investigate",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Mizuno Seiko",
-        "fancy_name": "Shaman Ronin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-06-22 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_mizuno_seiko",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Mina",
         "fancy_name": "Lonely Mountain Cat",
         "color": "Purple",
@@ -345,6 +297,18 @@
         "family": "vegetable",
         "costume_id": 0,
         "heroId": "vegetable_chilazar",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Gobbler Toon",
+        "fancy_name": "Toon Chameleon General",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-07-20 07:00:00",
+        "star": 4,
+        "family": "lagoon",
+        "costume_id": 2,
+        "heroId": "s2_chameleon_chief_costume_cute",
         "Lottery_Only": 1
     },
     {

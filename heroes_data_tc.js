@@ -113913,6 +113913,30 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
+        "name": "戈不勒 (Gobbler) 公仔",
+        "fancy_name": "變色龍將軍公仔",
+        "AetherPower": "",
+        "color": "自然",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "star": 4,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "lagoon",
+        "costume_id": 2,
+        "originalIndex": 1871,
+        "cn_skill_info": []
+    },
+    {
         "name": "伊娜莉 (Inari) 公仔",
         "fancy_name": "九尾公仔",
         "AetherPower": "",
@@ -113933,7 +113957,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 2,
-        "originalIndex": 1871,
+        "originalIndex": 1872,
         "cn_skill_info": []
     },
     {
@@ -113957,7 +113981,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 2,
-        "originalIndex": 1872,
+        "originalIndex": 1873,
         "cn_skill_info": []
     },
     {
@@ -113981,7 +114005,7 @@ window.allHeroes =
         "passives": [],
         "family": "goblin",
         "costume_id": 1,
-        "originalIndex": 1873,
+        "originalIndex": 1874,
         "cn_skill_info": []
     },
     {
@@ -114005,7 +114029,7 @@ window.allHeroes =
         "passives": [],
         "family": "goblin",
         "costume_id": 1,
-        "originalIndex": 1874,
+        "originalIndex": 1875,
         "cn_skill_info": []
     },
     {
@@ -114029,7 +114053,7 @@ window.allHeroes =
         "passives": [],
         "family": "goblin",
         "costume_id": 1,
-        "originalIndex": 1875,
+        "originalIndex": 1876,
         "cn_skill_info": []
     },
     {
@@ -114053,7 +114077,7 @@ window.allHeroes =
         "passives": [],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 1876,
+        "originalIndex": 1877,
         "cn_skill_info": []
     },
     {
@@ -114077,7 +114101,7 @@ window.allHeroes =
         "passives": [],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 1877,
+        "originalIndex": 1878,
         "cn_skill_info": []
     },
     {
@@ -114101,7 +114125,7 @@ window.allHeroes =
         "passives": [],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 1878,
+        "originalIndex": 1879,
         "cn_skill_info": []
     },
     {
@@ -114125,7 +114149,7 @@ window.allHeroes =
         "passives": [],
         "family": "shady_scoundrels",
         "costume_id": 0,
-        "originalIndex": 1879,
+        "originalIndex": 1880,
         "cn_skill_info": []
     },
     {
@@ -114149,7 +114173,7 @@ window.allHeroes =
         "passives": [],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1880,
+        "originalIndex": 1881,
         "cn_skill_info": []
     },
     {
@@ -114173,7 +114197,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 1,
-        "originalIndex": 1881,
+        "originalIndex": 1882,
         "cn_skill_info": []
     },
     {
@@ -114197,7 +114221,7 @@ window.allHeroes =
         "passives": [],
         "family": "ronin",
         "costume_id": 0,
-        "originalIndex": 1882,
+        "originalIndex": 1883,
         "cn_skill_info": []
     }
 ];

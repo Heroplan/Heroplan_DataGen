@@ -682,8 +682,8 @@
         "classic"
       ],
       "featuredHeroes": [
-        "nomad_female_captain_costume_stylish",
-        "oriental_enchanted_monk_costume_stylish"
+        "nordic_ice_enchantress_costume_stylish",
+        "oriental_warrior_king_costume_stylish"
       ]
     },
     "lottery_costume_wardrobe2": {
@@ -761,12 +761,12 @@
         "mimic_troop_green",
         "mimic_troop_purple",
         "mimic_troop_red",
-        "mimic_troop_yellow",
-        "mimic_training_hero_blue",
-        "mimic_training_hero_green",
-        "mimic_training_hero_purple",
-        "mimic_training_hero_red",
-        "mimic_training_hero_yellow"
+        "mimic_troop_blue",
+        "mimic_aether_blue",
+        "mimic_aether_green",
+        "mimic_aether_purple",
+        "mimic_aether_red",
+        "mimic_aether_yellow"
       ],
       "bucketRules": [
         {
@@ -1404,14 +1404,6 @@
     },
     "lottery_pickup_default": {
       "featuredHeroes": {
-        "2026-06-22": [
-          "astral_dwarf_quari",
-          "astral_lemonwood"
-        ],
-        "2026-06-23": [
-          "owl_verus",
-          "owl_timius"
-        ],
         "2026-06-24": [
           "ballerina_daroga",
           "gargoyle_pophit"
@@ -1523,6 +1515,14 @@
         "2026-07-21": [
           "garrison_theodosius",
           "tales2_dagr"
+        ],
+        "2026-07-22": [
+          "magic_carpet_naeem",
+          "magic_vaishali_costume_chef"
+        ],
+        "2026-07-23": [
+          "kingdom_zhuge_liang_costume_crane",
+          "astral_dwarf_orcur"
         ]
       },
       "includedHeroes": [
@@ -1534,8 +1534,9 @@
     },
     "lottery_goblin_default": {
       "featuredHeroes": [
-        "goblin_soursting",
-        "goblin_ratgrub"
+        "scoundrel_brin",
+        "scoundrel_tofana",
+        "goblin_darkfeather_costume_glowing"
       ],
       "AssociatedFamilies": [
         "goblin",

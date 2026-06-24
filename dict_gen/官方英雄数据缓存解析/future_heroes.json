@@ -12,18 +12,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Gobbler Toon",
-        "fancy_name": "Toon Chameleon General",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "lagoon",
-        "costume_id": 2,
-        "heroId": "s2_chameleon_chief_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Arco C",
         "fancy_name": "gargoyle_arco_costume_brewer",
         "color": "Green",

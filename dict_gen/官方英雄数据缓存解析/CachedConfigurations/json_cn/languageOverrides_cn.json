@@ -1,67 +1,647 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "English": {
-        "overrideEntries": []
-      },
-      "Dutch": {
-        "overrideEntries": []
-      },
-      "French": {
-        "overrideEntries": []
-      },
-      "German": {
-        "overrideEntries": []
-      },
-      "Indonesian": {
-        "overrideEntries": []
-      },
       "Italian": {
-        "overrideEntries": []
-      },
-      "Polish": {
-        "overrideEntries": []
-      },
-      "Portuguese": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Saccheggia[#] tutti i nemici, rubando [#!]{DAMAGE}[#] Salute e una magia benefica da ciascuno, quindi distribuisce casualmente le magie benefiche rubate agli alleati."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Saccheggia[#] il bersaglio, rubando [#!]{DAMAGE}[#] Salute e una magia benefica."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Ruba il {ABSPOWER}% di mana al bersaglio e ai nemici vicini e lo distribuisce agli alleati."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*] Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.\n[*] Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Cambia l'elemento di tutti i nemici in [##elementred]Fuoco[#] per {TURNS} turni."
+          }
+        ]
       },
       "Russian": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ворует[#] [#!]{DAMAGE}[#] здоровья и усиление у всех врагов, а затем случайным образом раздает украденные усиления союзникам."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Грабит[#] цель, крадя у нее [#!]{DAMAGE}[#] здоровье и усиление."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Безопасно крадет один эффект состояния с цели; сюда относятся стойкие эффекты, нерассеиваемые усиления и эффекты танца.\n[*]Безопасная кража обходит вторичные эффекты, такие как урон при снятии, от снимаемых усилений. Пассивные навыки и семейные эффекты действуют по-прежнему."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Меняет стихию всех врагов на [##elementred]огонь[#] на {TURNS} х."
+          }
+        ]
       },
-      "Spanish": {
-        "overrideEntries": []
-      },
-      "Danish": {
-        "overrideEntries": []
-      },
-      "Finnish": {
-        "overrideEntries": []
-      },
-      "Norwegian": {
-        "overrideEntries": []
-      },
-      "Swedish": {
-        "overrideEntries": []
-      },
-      "Korean": {
-        "overrideEntries": []
-      },
-      "Japanese": {
-        "overrideEntries": []
-      },
-      "ChineseSimplified": {
-        "overrideEntries": []
+      "Polish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Grabi[#] wszystkich wrogów, wykradając zdrowie równe [#!]{DAMAGE}[#]  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Obrabia[#] cel, wykradając zdrowie równe [#!]{DAMAGE}[#] i wzmocnienie."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.\n[*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Zmienia żywioł wszystkich wrogów na [##elementred]ogień[#] na {TURNS} tur(y)."
+          }
+        ]
       },
       "ChineseTraditional": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "對所有敵人進行[#!]掠奪[#]，竊取各個敵人[#!]{DAMAGE}[#]生命值與一項增益，並將竊取來的增益隨機分配給盟友。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]劫掠[#]目標，竊取[#!]{DAMAGE}[#]生命和一項增益。"
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "自目標與附近敵人身上偷取{ABSPOWER}%法力，並分給盟友。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]安全地從目標身上竊取一個狀態效果增益。包括頑固效果、不可驅散的增益和舞蹈效果。\n[*]安全竊取可避免移除增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "將所有敵人的元素變更為[##elementred]烈火[#]，持續{TURNS}個回合。"
+          }
+        ]
+      },
+      "Korean": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "모든 적을 [#!]약탈[#]하여 [#!]{DAMAGE}[#]의 HP와 강화 효과를 각각 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "대상을 [#!]약탈[#]해서 [#!]{DAMAGE}[#]의 HP와 강화 효과를 훔칩니다."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 분배합니다."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.\n[*]안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "모든 적의 속성이 {TURNS}턴 동안 [##elementred]화염[#]으로 변합니다."
+          }
+        ]
+      },
+      "German": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Raubt[#] alle Gegner aus, stiehlt [#!]{DAMAGE}[#] Gesundheit und pro Gegner einen Bonus und verteilt gestohlene Boni zufällig auf Verbündete."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Raubt[#] das Ziel aus und stiehlt ihm [#!]{DAMAGE}[#] Leben und einen Bonus."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stiehlt {ABSPOWER} % Mana vom Ziel und nahen Gegnern und verteilt es auf Verbündete."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*] Stiehlt einen Statuseffektbonus des Ziels. Dazu zählen auch hartnäckige Effekte, nicht entfernbare Boni und Tanzeffekte.\n[*] Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von den entfernten Boni ignoriert. Passive Fähigkeiten und Familieneffekte können noch aktiviert werden."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Ändert das Element aller Gegner für {TURNS} Runden zu [##elementred]Feuer[#]."
+          }
+        ]
+      },
+      "Japanese": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "敵全員を[#!]強奪[#]して[#!]{DAMAGE}[#]ライフとバフを奪取し、奪い取ったバフをランダムな仲間に付与する。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "標的に[#!]強奪[#]を行い、[#!]{DAMAGE}[#]ライフとバフを奪取する。"
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "ターゲットと近くにいる敵からマナを{ABSPOWER}%盗み、仲間に分配する。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]標的から、安全にステータス効果バフをランダムで奪取する。これには強固または解除不可能なバフとダンス効果も含まれる。\n[*]安全に奪取すると、削除時のダメージや削除したバフからの副次的効果を無効にできる。パッシブスキルとファミリー効果も有効にしたままにできる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "{TURNS}ターンの間、敵全員の属性が[##elementred]炎属性[#]に変化する。"
+          }
+        ]
+      },
+      "Swedish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Plundrar[#] alla fiender och stjäl [#!]{DAMAGE}[#] hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Plundrar[#] målet och stjäl [#!]{DAMAGE}[#] hälsa och en bonus."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Stjäl riskfritt en positiv statuseffekt från målet säkert. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.\n[*]Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Ändrar alla fienders element till [##elementred]eld[#] i {TURNS} rundor."
+          }
+        ]
       },
       "Turkish": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "Tüm düşmanları [#!]Yağmalar[#], her birinden [#!]{DAMAGE}[#] sağlık ve bir buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "Hedefi [#!]Yağmalayarak[#] [#!]{DAMAGE}[#] sağlık ve bir buff çalar."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve onu müttefiklere dağıtır."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.\n[*]Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "{TURNS} boyunca tüm düşmanların elementini [##elementred]Ateş[#] olarak değiştirir."
+          }
+        ]
+      },
+      "English": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ransacks[#] all enemies, stealing [#!]{DAMAGE}[#] health and a buff from each, and randomly distributes stolen buffs on allies."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Ransacks[#] the target, stealing [#!]{DAMAGE}[#] health and a buff."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Steals {ABSPOWER}% mana from the target and nearby enemies and distributes it to allies."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.\n[*]Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Changes the element of all enemies to [##elementred]Fire[#] for {TURNS} turns."
+          }
+        ]
       },
       "Arabic": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]تنهب[#]  كل الأعداء، وتسرق [#!]{DAMAGE}[#] الصحة والتعزيزات، وتوزيع المزايا المسروقة عشوائيًّا على الحلفاء."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]ينهب[#] الهدف، ويسرق [#!]{DAMAGE}[#] الصحة والتعزيزات."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "تسرق {ABSPOWER}% من القوة من الهدف والأعداء القريبين، وتوزعها على الحلفاء."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]تسرق تعزيز تأثير الحالة بأمان مرة واحدة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة والتأثيرات العنيدة، وتأثيرات الرقص.\n[*]تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضرر زائد أثناء النوم."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضررًا زائدًا أثناء النوم."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "تغير عنصر جميع الأعداء ليكون عنصر [##elementred]النار[#] طوال {TURNS} من الجولات."
+          }
+        ]
+      },
+      "French": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Pille[#] tous les ennemis, vole [#!]{DAMAGE}[#] PV et un bonus à chacun, et distribue les bonus volés aux alliés de façon aléatoire."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Pille[#] la cible pour lui voler [#!]{DAMAGE}[#] PV et un bonus."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Vole {ABSPOWER} % du mana de la cible et des ennemis proches et les distribue aux alliés."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Vole de façon sûre un effet appliqué positif de la cible. Il peut s'agir d'un effet obstiné, d'un bonus non dissipable ou d'un effet de danse.\n[*]Le vol sûr contourne les effets secondaires comme les dégâts lors du vol. Les compétences passives et les effets de famille peuvent toujours s'activer."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tous les ennemis [#!]s'endorment[#]. Ils subissent {DAMAGEMODIFIER} % de dégâts supplémentaires tant qu'ils sont endormis."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tous les ennemis [#!]s'endorment[#]. Ils subissent {DAMAGEMODIFIER} % de dégâts supplémentaires tant qu'ils sont endormis."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Change l'élément de tous les ennemis en [##elementred]feu[#] pour {TURNS} tours."
+          }
+        ]
+      },
+      "Portuguese": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Saqueia[#] todos os inimigos, roubando [#!]{DAMAGE}[#] de vida e um reforço de cada, e distribui os reforços roubados entre os aliados."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Saqueia[#] o alvo, roubando [#!]{DAMAGE}[#] de vida e um reforço."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui entre os aliados."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.\n[*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Altera o elemento de todos os inimigos para [##elementred]Fogo[#] por {TURNS} turnos."
+          }
+        ]
+      },
+      "Indonesian": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Menggeledah[#] semua musuh, mencuri [#!]{DAMAGE}[#] kesehatan dan genjotan dari tiap musuh, dan secara acak mendistribusikan genjotan curian kepada sekutu."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Menggeledah[#] sasaran, mencuri [#!]{DAMAGE}[#] kesehatan dan genjotan."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Mencuri {ABSPOWER}% mana dari sasaran dan musuh terdekat dan membagikannya kepada sekutu."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Dengan aman mencuri satu genjotan efek status dari sasaran. Ini termasuk efek Bandel, genjotan yang tidak bisa dienyahkan, dan efek Tarian.\n[*]Pencurian aman mengabaikan efek sekunder, seperti kerusakan saat dihapus, dari genjotan yang dihapus. Keahlian pasif dan efek keluarga masih dapat diaktifkan."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Semua musuh [#!]tertidur[#] dan menerima peningkatan kerusakan sebesar {DAMAGEMODIFIER}% selagi tidur."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Semua musuh [#!]tertidur[#] dan menerima peningkatan kerusakan sebesar {DAMAGEMODIFIER}% selagi tidur."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Mengubah elemen semua musuh menjadi [##elementred]Api[#] selama {TURNS} giliran."
+          }
+        ]
+      },
+      "Finnish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ryöstää[#] kaikki viholliset varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen jokaiselta ja jakaa varastetut tehosteet sattumanvaraisesti liittolaisille."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Ryöstää[#] kohteen varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Anastaa kohteelta ja lähellä olevilta vihollisilta {ABSPOWER} % manaa ja jakaa sen liittolaisille."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Varastaa kohteelta turvallisesti yhden tilaefektitehosteen. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssiefektejä.\n[*]Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutukset, kuten poistosta johtuvan vaurion. Passiiviset taidot ja perhevaikutukset voivat silti aktivoitua."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Kaikkien vihollisten elementti muuttuu [##elementred]tuleksi[#] {TURNS} vuoron ajaksi."
+          }
+        ]
+      },
+      "Danish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ransager[#] alle fjender, stjæler [#!]{DAMAGE}[#] helbred og en buffer fra hver, og fordeler stjålne buffere tilfældigt blandt allierede."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Ransager[#] målet, stjæler [#!]{DAMAGE}[#] helbred og en buffer."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjæler {ABSPOWER} % mana fra målet og fjender i nærheden, og fordeler den blandt allierede."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.\n[*]Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Ændrer alle fjenders element til [##elementred]ild[#] i {TURNS} runder."
+          }
+        ]
+      },
+      "Spanish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Saquea[#] a todos los enemigos, les roba [#!]{DAMAGE}[#] de vitalidad y una bendición a cada uno, y distribuye las bendiciones robadas entre los aliados de forma aleatoria."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Saquea[#] al objetivo y le roba  [#!]{DAMAGE}[#] de vitalidad y una bendición."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Roba un {ABSPOWER} % de maná del objetivo y los enemigos cercanos y lo distribuye entre los aliados."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*] Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.\n[*] El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Todos los enemigos [#!]se duermen[#] y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Todos los enemigos [#!]se duermen[#] y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Cambia el elemento de todos los enemigos a [##elementred]fuego[#] durante {TURNS} turnos."
+          }
+        ]
+      },
+      "Norwegian": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ransaker[#] alle fiender, stjeler [#!]{DAMAGE}[#] helse og en økning fra hver, og fordeler tilfeldig stjålne økninger på allierte."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Ransaker[#] målet for å stjele [#!]{DAMAGE}[#] helse og en økning."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjeler {ABSPOWER} % mana fra målet og fiender i nærheten, og fordeler det til allierte."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Stjeler på en trygg måte én statuseffektøkning fra målet. Dette inkluderer sta-effekter, økninger som ikke kan fjernes og danseeffekter.\n[*]Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fjernede økningene. Passive ferdigheter og familieeffekter kan fortsatt aktiveres."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle fiender [#!]sovner[#] og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle fiender [#!]sovner[#] og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Endrer elementet til alle fiender til [##elementred]ild[#] i {TURNS} runder."
+          }
+        ]
+      },
+      "Dutch": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Plundert[#] alle vijanden, steelt van elk [#!]{DAMAGE}[#] gezondheid en een oppepper, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Plundert[#] het doelwit, steelt [#!]{DAMAGE}[#] gezondheid en een oppepper."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het onder bondgenoten."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.\n[*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Verandert het element van alle vijanden {TURNS} beurten lang in [##elementred]vuur[#]."
+          }
+        ]
+      },
+      "ChineseSimplified": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]掠夺[#]所有敌人，从每名敌人身上偷取[#!]{DAMAGE}[#]点生命值和增益效果，并将偷取的增益效果随机分配给盟友。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]掠夺[#]目标，偷取[#!]{DAMAGE}[#]点生命值和增益效果。"
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "从目标和附近敌人身上偷取{ABSPOWER}%法力，并分配给盟友。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]安全地从目标身上偷取一个状态效果增益。包括顽固效果、不可驱散增益与舞蹈效果。\n[*]安全偷取会无视状态效果增益被移除时的副作用，例如移除时的伤害。但被动技能和家族效果仍会触发。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "所有敌人陷入[#!]沉睡[#]，且沉睡期间受到的伤害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "所有敌人陷入[#!]沉睡[#]，且沉睡期间受到的伤害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "将所有敌人的元素属性转变为[##elementred]烈火系[#]，持续{TURNS}回合。"
+          }
+        ]
       }
     }
   },
-  "languageOverridesConfigId": 1744595863
+  "languageOverridesConfigId": 3509653125
 }

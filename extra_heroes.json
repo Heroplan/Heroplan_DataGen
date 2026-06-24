@@ -300,6 +300,18 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Gobbler Toon",
+        "fancy_name": "Toon Chameleon General",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-07-20 07:00:00",
+        "star": 4,
+        "family": "lagoon",
+        "costume_id": 2,
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Inari Toon",
         "fancy_name": "Nine-tailed Toon",
         "color": "Yellow",

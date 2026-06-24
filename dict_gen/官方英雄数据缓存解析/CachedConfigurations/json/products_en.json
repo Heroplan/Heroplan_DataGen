@@ -2218,7 +2218,7 @@
         "id": "lottery_mimic_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 169
+        "uiPriority": 198
       },
       {
         "productType": "ItemSummon",
@@ -4903,6 +4903,16 @@
             "type": "Item",
             "id": "misc_loot_ticket",
             "amount": 6
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_medium",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_medium",
+            "amount": 1
           }
         ],
         "recurringHeroEmblemsAmount": 6,
@@ -4970,6 +4980,16 @@
             "type": "Item",
             "id": "misc_loot_ticket",
             "amount": 6
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_medium",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_medium",
+            "amount": 1
           }
         ],
         "recurringHeroEmblemsAmount": 6,
@@ -4997,6 +5017,16 @@
             "type": "Item",
             "id": "misc_loot_ticket",
             "amount": 6
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_medium",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_medium",
+            "amount": 1
           }
         ],
         "recurringHeroEmblemsAmount": 6,
@@ -5024,6 +5054,16 @@
             "type": "Item",
             "id": "misc_loot_ticket",
             "amount": 6
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_medium",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_medium",
+            "amount": 1
           }
         ],
         "recurringHeroEmblemsAmount": 6,
@@ -5225,19 +5265,46 @@
           {
             "type": "Item",
             "id": "time_skip_hour",
-            "amount": 9
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "misc_loot_ticket",
-            "amount": 9
+            "amount": 10
           }
         ],
         "recurringHeroEmblemsAmount": 0,
         "recurringContentsTimeout": 86400,
         "duration": "30天",
         "extraSummonTokens": 0,
-        "zyngaStorePlacement": "vip-pass-timesaver"
+        "zyngaStorePlacement": "vip-pass-timesaver",
+        "recurringTrainerHeroRewards": [
+          {
+            "type": "Hero",
+            "id": "trainer_blue_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_green_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_purple_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_red_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_yellow_common",
+            "amount": 1
+          }
+        ]
       },
       {
         "productType": "VipPackageOffer",
@@ -5310,19 +5377,46 @@
           {
             "type": "Item",
             "id": "time_skip_hour",
-            "amount": 9
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "misc_loot_ticket",
-            "amount": 9
+            "amount": 10
           }
         ],
         "recurringHeroEmblemsAmount": 0,
         "recurringContentsTimeout": 86400,
         "duration": "1天",
         "extraSummonTokens": 0,
-        "zyngaStorePlacement": "vip-pass-timesaver"
+        "zyngaStorePlacement": "vip-pass-timesaver",
+        "recurringTrainerHeroRewards": [
+          {
+            "type": "Hero",
+            "id": "trainer_blue_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_green_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_purple_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_red_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_yellow_common",
+            "amount": 1
+          }
+        ]
       },
       {
         "productType": "VipPackageOffer",
@@ -5338,19 +5432,46 @@
           {
             "type": "Item",
             "id": "time_skip_hour",
-            "amount": 9
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "misc_loot_ticket",
-            "amount": 9
+            "amount": 10
           }
         ],
         "recurringHeroEmblemsAmount": 0,
         "recurringContentsTimeout": 86400,
         "duration": "3天",
         "extraSummonTokens": 0,
-        "zyngaStorePlacement": "vip-pass-timesaver"
+        "zyngaStorePlacement": "vip-pass-timesaver",
+        "recurringTrainerHeroRewards": [
+          {
+            "type": "Hero",
+            "id": "trainer_blue_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_green_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_purple_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_red_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_yellow_common",
+            "amount": 1
+          }
+        ]
       },
       {
         "productType": "VipPackageOffer",
@@ -5366,19 +5487,46 @@
           {
             "type": "Item",
             "id": "time_skip_hour",
-            "amount": 9
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "misc_loot_ticket",
-            "amount": 9
+            "amount": 10
           }
         ],
         "recurringHeroEmblemsAmount": 0,
         "recurringContentsTimeout": 86400,
         "duration": "10天",
         "extraSummonTokens": 0,
-        "zyngaStorePlacement": "vip-pass-timesaver"
+        "zyngaStorePlacement": "vip-pass-timesaver",
+        "recurringTrainerHeroRewards": [
+          {
+            "type": "Hero",
+            "id": "trainer_blue_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_green_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_purple_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_red_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_yellow_common",
+            "amount": 1
+          }
+        ]
       },
       {
         "productType": "VipPackageOffer",
@@ -5394,19 +5542,46 @@
           {
             "type": "Item",
             "id": "time_skip_hour",
-            "amount": 9
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "misc_loot_ticket",
-            "amount": 9
+            "amount": 10
           }
         ],
         "recurringHeroEmblemsAmount": 0,
         "recurringContentsTimeout": 86400,
         "duration": "365天",
         "extraSummonTokens": 0,
-        "zyngaStorePlacement": "vip-pass-timesaver"
+        "zyngaStorePlacement": "vip-pass-timesaver",
+        "recurringTrainerHeroRewards": [
+          {
+            "type": "Hero",
+            "id": "trainer_blue_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_green_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_purple_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_red_common",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_yellow_common",
+            "amount": 1
+          }
+        ]
       },
       {
         "productType": "VipPackageOffer",
@@ -36093,6 +36268,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58700,5 +58876,5 @@
       }
     ]
   },
-  "productsConfigId": 1603370506
+  "productsConfigId": 3596815364
 }

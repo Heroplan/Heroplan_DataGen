@@ -4104,6 +4104,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-09-08 07:00:00",
             "endTime": "2026-09-12 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-09-15 07:00:00",
+            "endTime": "2026-09-19 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -49865,10 +49872,6 @@
                   "type": "Item",
                   "id": "emblem_master_monk",
                   "amount": 5
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -49890,10 +49893,6 @@
                   "type": "Item",
                   "id": "lottery_thunderbolt_coin",
                   "amount": 200
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -49915,10 +49914,6 @@
                   "type": "Item",
                   "id": "hero_limitbreak_alpha",
                   "amount": 1
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -49940,10 +49935,6 @@
                   "type": "Item",
                   "id": "emblem_monk",
                   "amount": 400
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -49965,10 +49956,6 @@
                   "type": "Item",
                   "id": "hero_mystic_rings",
                   "amount": 4
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -49989,10 +49976,6 @@
                 "premiumReward": {
                   "type": "Gem",
                   "amount": 300
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50014,10 +49997,6 @@
                   "type": "Item",
                   "id": "hero_tome_of_tactics",
                   "amount": 1
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50039,10 +50018,6 @@
                   "type": "Item",
                   "id": "lottery_covenant_coin",
                   "amount": 300
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50064,10 +50039,6 @@
                   "type": "Troop",
                   "id": "rainbow_rare_trainer",
                   "amount": 2
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50089,10 +50060,6 @@
                   "type": "Item",
                   "id": "titan_battle_scroll_of_alteration",
                   "amount": 20
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50112,10 +50079,6 @@
                   "type": "Troop",
                   "id": "rainbow_epic_trainer",
                   "amount": 2
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50137,10 +50100,6 @@
                   "type": "Item",
                   "id": "hero_limitbreak_legendary_yellow",
                   "amount": 3
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50162,10 +50121,6 @@
                   "type": "Item",
                   "id": "misc_free_talent_point",
                   "amount": 1
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50187,10 +50142,6 @@
                   "type": "Item",
                   "id": "emblem_master_monk",
                   "amount": 20
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -50212,10 +50163,6 @@
                   "type": "Item",
                   "id": "hero_poison_darts",
                   "amount": 4
-                },
-                "freeReward": {
-                  "type": "None",
-                  "amount": 0
                 }
               },
               {
@@ -59517,7 +59464,7 @@
                 "battleBackgroundId": "RaidVillage",
                 "recruitsRewardMin": 0,
                 "recruitsRewardMax": 0,
-                "enabled": false,
+                "enabled": true,
                 "wantedMissionLootConfigId": "wanted_mission_raids_bronze"
               },
               {
@@ -60281,6 +60228,7 @@
         "trophyRoadConfigByGameMode": [
           {
             "mode": "Classic",
+            "enabled": true,
             "milestones": [
               {
                 "requiredTrophies": 0,
@@ -60652,6 +60600,7 @@
           },
           {
             "mode": "Dragon",
+            "enabled": true,
             "milestones": [
               {
                 "requiredTrophies": 0,
@@ -82408,7 +82357,7 @@
         "classicAndTrainerDragonsOnly": true
       },
       "trainingConversion": {
-        "enabled": false,
+        "enabled": true,
         "foodCostPerHero": 10000,
         "fishCostPerDragon": 20000
       },
@@ -96077,17 +96026,6 @@
         "showInstantlyIfPossible": false,
         "waitForShopInitialization": true,
         "ignoreActivityTriggersPopupsRequirement": false
-      },
-      {
-        "type": "LeftBottomOffer",
-        "group": "Essential",
-        "priority": 149,
-        "cooldownSeconds": 14400,
-        "cooldownXpLevels": 0,
-        "delayOnStartupSeconds": 0,
-        "showInstantlyIfPossible": false,
-        "waitForShopInitialization": true,
-        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -96222,5 +96160,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3598487326
+  "otherConfigId": 3768082378
 }
