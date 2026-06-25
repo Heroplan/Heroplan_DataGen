@@ -44142,7 +44142,7 @@
         "statusEffect": "AccuracyModifier",
         "id": "blind_akilius",
         "buff": "MinorDebuff",
-        "accuracyIncrementPerMil": 65226,
+        "accuracyIncrementPerMil": 65176,
         "accuracyIncrementPerLevelPerMil": 236
       },
       {
@@ -44802,7 +44802,7 @@
         "statusEffect": "AccuracyModifier",
         "id": "blind_skargremmar",
         "buff": "MinorDebuff",
-        "accuracyIncrementPerMil": 65326,
+        "accuracyIncrementPerMil": 65276,
         "accuracyIncrementPerLevelPerMil": 236
       },
       {
@@ -59521,7 +59521,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_raffaele",
         "buff": "MinorBuff",
-        "healthPoints": 200,
+        "healthPoints": 230,
         "healthPointsIncrementPerLevel": 10
       },
       {
@@ -67938,10 +67938,10 @@
             "damageLimit": 0
           },
           {
-            "damageLimit": 0
+            "damageLimit": 600
           },
           {
-            "damageLimit": 0
+            "damageLimit": 600
           },
           {
             "damageLimit": 0
@@ -67970,10 +67970,10 @@
             "damageLimit": 0
           },
           {
-            "damageLimit": 0
+            "damageLimit": 600
           },
           {
-            "damageLimit": 0
+            "damageLimit": 600
           },
           {
             "damageLimit": 0
@@ -70066,7 +70066,9 @@
         "chanceReductionPerActivationPerMil": 150,
         "minimumChancePerMil": 50,
         "healthRecoveryPerMil": 500,
-        "manaRecoveryPerMil": 800
+        "manaRecoveryPerMil": 800,
+        "resetManaOnResistDeath": true,
+        "ignoresReviveBlockingDebuffs": true
       },
       {
         "passiveSkillType": "Resist",
@@ -82848,7 +82850,8 @@
             "sideAffected": "Allies",
             "statusTargetType": "All"
           }
-        ]
+        ],
+        "maxActivationsPerTurn": 2
       },
       {
         "effectType": "BattleTypeAlternativePowerEffectOnStartOfBattle",
@@ -98473,5 +98476,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2048086489
+  "battleConfigId": 2414030498
 }

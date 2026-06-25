@@ -7649,6 +7649,21 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "wild_cat_mina",
+        "name": "Mina",
+        "passives": [
+            "九条命：",
+            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
+            "* 最多可触发 9 次。复活几率会在每次触发后衰减。无法通过状态异常或被动技能阻止该效果。",
+            "特质：轻盈体态。",
+            "此角色不会受到增强或削弱防御效果的影响。",
+            "这包括：",
+            "* 状态效果增益和异常。",
+            "* 正面和负面叠加。",
+            "* 成长和衰退效果。"
+        ]
+    },
+    {
         "heroId": "s2_hammerhead_hulk",
         "name": "Mok-Arr",
         "passives": []
@@ -14092,11 +14107,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "wild_cat_mina",
-        "name": "Mina",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_shaurya",

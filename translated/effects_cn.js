@@ -9789,6 +9789,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "wild_cat_mina",
+        "name": "Mina",
+        "effects": [
+            "攻击会无视防御增益。（包括反击）",
+            "对目标造成 500% 伤害。",
+            "目标在 5 回合内受到共计 2970 点剧毒伤害。此效果会蔓延至附近敌人且无法净化。",
+            "在 5 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。"
+        ]
+    },
+    {
         "heroId": "s2_hammerhead_hulk",
         "name": "Mok-Arr",
         "effects": [
@@ -18061,11 +18071,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "wild_cat_mina",
-        "name": "Mina",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_shaurya",

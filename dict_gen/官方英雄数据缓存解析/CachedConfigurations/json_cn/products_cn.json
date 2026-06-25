@@ -2218,7 +2218,7 @@
         "id": "lottery_mimic_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 198
+        "uiPriority": 194
       },
       {
         "productType": "ItemSummon",
@@ -36273,7 +36273,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36320,7 +36319,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58881,5 +58879,5 @@
       }
     ]
   },
-  "productsConfigId": 1979426550
+  "productsConfigId": 3535858885
 }

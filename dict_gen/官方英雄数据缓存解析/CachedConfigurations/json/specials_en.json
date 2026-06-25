@@ -12935,7 +12935,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3100,
+          "powerMultiplierPerMil": 3400,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -18333,7 +18333,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4250,
+          "powerMultiplierPerMil": 4550,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -27979,7 +27979,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3100,
+          "powerMultiplierPerMil": 3400,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -38624,7 +38624,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2950,
+          "powerMultiplierPerMil": 3250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -48554,7 +48554,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4550,
+          "powerMultiplierPerMil": 5050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -53492,7 +53492,7 @@
             "id": "crushed_defenses",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
-            "turns": 2
+            "turns": 4
           },
           {
             "id": "link_blue_more",
@@ -68726,7 +68726,7 @@
       {
         "propertyType": "RemoveStatusEffects",
         "id": "remove_all_debuffs_safe_single",
-        "buffToRemove": "AllDebuffs",
+        "buffToRemove": "MinorDebuff",
         "bypassEffectsOnRemoval": true,
         "targetType": "Single",
         "sideAffected": "Allies"
@@ -74942,5 +74942,5 @@
       }
     ]
   },
-  "specialsConfigId": 1747878411
+  "specialsConfigId": 3366726731
 }

@@ -4,6 +4,10 @@
       "Italian": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Rimuove in modo sicuro tutti i disturbi dell'evocatore."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Saccheggia[#] tutti i nemici, rubando [#!]{DAMAGE}[#] Salute e una magia benefica da ciascuno, quindi distribuisce casualmente le magie benefiche rubate agli alleati."
           },
@@ -39,6 +43,10 @@
       },
       "Russian": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Безопасно очищает все недуги с героя."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Ворует[#] [#!]{DAMAGE}[#] здоровья и усиление у всех врагов, а затем случайным образом раздает украденные усиления союзникам."
@@ -76,6 +84,10 @@
       "Polish": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Bezpiecznie oczyszcza status rzucającego z wszystkich dolegliwości."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Grabi[#] wszystkich wrogów, wykradając zdrowie równe [#!]{DAMAGE}[#]  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
           },
@@ -111,6 +123,10 @@
       },
       "ChineseTraditional": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "安全淨化施法者的所有狀態異常。"
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "對所有敵人進行[#!]掠奪[#]，竊取各個敵人[#!]{DAMAGE}[#]生命值與一項增益，並將竊取來的增益隨機分配給盟友。"
@@ -148,6 +164,10 @@
       "Korean": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "시전자의 모든 상태 이상 효과를 안전하게 정화합니다."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "모든 적을 [#!]약탈[#]하여 [#!]{DAMAGE}[#]의 HP와 강화 효과를 각각 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
           },
@@ -183,6 +203,10 @@
       },
       "German": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Reinigt sicher negative Statusänderungen vom Wirker."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Raubt[#] alle Gegner aus, stiehlt [#!]{DAMAGE}[#] Gesundheit und pro Gegner einen Bonus und verteilt gestohlene Boni zufällig auf Verbündete."
@@ -220,6 +244,10 @@
       "Japanese": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "術者のステータス異常を全て安全に浄化する。"
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "敵全員を[#!]強奪[#]して[#!]{DAMAGE}[#]ライフとバフを奪取し、奪い取ったバフをランダムな仲間に付与する。"
           },
@@ -255,6 +283,10 @@
       },
       "Swedish": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Rensar alla negativa statuseffekter från användaren på ett säkert sätt."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Plundrar[#] alla fiender och stjäl [#!]{DAMAGE}[#] hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
@@ -292,6 +324,10 @@
       "Turkish": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Eylemciden tüm durum engellerini güvenle arındırır."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "Tüm düşmanları [#!]Yağmalar[#], her birinden [#!]{DAMAGE}[#] sağlık ve bir buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
           },
@@ -327,6 +363,14 @@
       },
       "English": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Safely cleanses all status ailments from the caster."
+          },
+          {
+            "key": "familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations",
+            "text": "Stack (max: {MAXSTACK}): All allies get [#!]{FAMILYMEMBERS1ATTACK}%[#]/[#!]{FAMILYMEMBERS2ATTACK}%[#]/[#!]{FAMILYMEMBERS3ATTACK}%[#] attack stack each time this character attempts to [#!]Ransack[#] an enemy. This effect can activate up to [#!]{MAXACTIVATIONSPERTURN}[#] times per turn."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Ransacks[#] all enemies, stealing [#!]{DAMAGE}[#] health and a buff from each, and randomly distributes stolen buffs on allies."
@@ -364,6 +408,10 @@
       "Arabic": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "تشفي الرامي من حالات الأمراض كلها بأمان."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]تنهب[#]  كل الأعداء، وتسرق [#!]{DAMAGE}[#] الصحة والتعزيزات، وتوزيع المزايا المسروقة عشوائيًّا على الحلفاء."
           },
@@ -399,6 +447,10 @@
       },
       "French": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Purifie de façon sûre tous les effets négatifs du lanceur."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Pille[#] tous les ennemis, vole [#!]{DAMAGE}[#] PV et un bonus à chacun, et distribue les bonus volés aux alliés de façon aléatoire."
@@ -436,6 +488,10 @@
       "Portuguese": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Expurga com segurança todos os males de status do invocador."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Saqueia[#] todos os inimigos, roubando [#!]{DAMAGE}[#] de vida e um reforço de cada, e distribui os reforços roubados entre os aliados."
           },
@@ -471,6 +527,10 @@
       },
       "Indonesian": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Dengan aman membersihkan semua status pelemahan dari perapal."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Menggeledah[#] semua musuh, mencuri [#!]{DAMAGE}[#] kesehatan dan genjotan dari tiap musuh, dan secara acak mendistribusikan genjotan curian kepada sekutu."
@@ -508,6 +568,10 @@
       "Finnish": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Puhdistaa turvallisesti kaikki vaivat loitsijalta."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Ryöstää[#] kaikki viholliset varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen jokaiselta ja jakaa varastetut tehosteet sattumanvaraisesti liittolaisille."
           },
@@ -543,6 +607,10 @@
       },
       "Danish": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Rydder på sikker vis alle statuslidelser fra kasteren."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Ransager[#] alle fjender, stjæler [#!]{DAMAGE}[#] helbred og en buffer fra hver, og fordeler stjålne buffere tilfældigt blandt allierede."
@@ -580,6 +648,10 @@
       "Spanish": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Purifica de forma segura todos los estados alterados del héroe."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Saquea[#] a todos los enemigos, les roba [#!]{DAMAGE}[#] de vitalidad y una bendición a cada uno, y distribuye las bendiciones robadas entre los aliados de forma aleatoria."
           },
@@ -615,6 +687,10 @@
       },
       "Norwegian": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Renser bort statuslidelser fra brukeren på en trygg måte."
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Ransaker[#] alle fiender, stjeler [#!]{DAMAGE}[#] helse og en økning fra hver, og fordeler tilfeldig stjålne økninger på allierte."
@@ -652,6 +728,10 @@
       "Dutch": {
         "overrideEntries": [
           {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Zuivert veilig alle statuseffecten van de spreukspreker."
+          },
+          {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]Plundert[#] alle vijanden, steelt van elk [#!]{DAMAGE}[#] gezondheid en een oppepper, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
           },
@@ -687,6 +767,10 @@
       },
       "ChineseSimplified": {
         "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "安全净化施法者的所有状态异常。"
+          },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
             "text": "[#!]掠夺[#]所有敌人，从每名敌人身上偷取[#!]{DAMAGE}[#]点生命值和增益效果，并将偷取的增益效果随机分配给盟友。"
@@ -727,5 +811,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 392459836
+  "languageOverridesConfigId": 2467040461
 }

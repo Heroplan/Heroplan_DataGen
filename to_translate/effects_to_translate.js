@@ -9789,6 +9789,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "wild_cat_mina",
+        "name": "Mina",
+        "effects": [
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "Deals 500% damage to the target.",
+            "The target receives 2970 Poison damage over 5 turns. This effect spreads to nearby enemies and can't be cleansed.",
+            "The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 5 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
+        ]
+    },
+    {
         "heroId": "s2_hammerhead_hulk",
         "name": "Mok-Arr",
         "effects": [
@@ -18061,11 +18071,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "wild_cat_mina",
-        "name": "Mina",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_shaurya",

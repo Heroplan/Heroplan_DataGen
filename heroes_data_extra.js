@@ -41600,9 +41600,9 @@ window.allHeroesExtra = [
             "Extra Damage Dealers"
         ],
         "heroId": "scoundrel_lane",
-        "baseAttack": 623,
-        "baseDefense": 643,
-        "baseHealth": 1124,
+        "baseAttack": 667,
+        "baseDefense": 684,
+        "baseHealth": 1163,
         "specialId": "roadside_surprise",
         "passiveSkills": [
             "cheat_death",
@@ -41625,9 +41625,9 @@ window.allHeroesExtra = [
             "DoT Attackers"
         ],
         "heroId": "scoundrel_duval",
-        "baseAttack": 634,
-        "baseDefense": 633,
-        "baseHealth": 1116,
+        "baseAttack": 676,
+        "baseDefense": 674,
+        "baseHealth": 1161,
         "specialId": "thieving_shot",
         "passiveSkills": [
             "cheat_death",
@@ -48378,5 +48378,25 @@ window.allHeroesExtra = [
         "healthBonus": "74%",
         "manaBonus": "1%",
         "family": "ninja"
+    },
+    {
+        "name": "Mina",
+        "fancy name": "Lonely Mountain Cat",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-06-25",
+        "AetherPower": "Boosted Regen",
+        "heroId": "wild_cat_mina",
+        "baseAttack": 722,
+        "baseDefense": 622,
+        "baseHealth": 1157,
+        "specialId": "ocarina_of_sorrow",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];
