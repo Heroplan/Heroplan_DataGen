@@ -54273,8 +54273,8 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1550,
-          "powerMultiplierIncrementPerLevelPerMil": 100
+          "powerMultiplierPerMil": 2150,
+          "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
@@ -54304,7 +54304,8 @@
         "properties": [
           "ransack_brin",
           "secondary_direct_effect_brin",
-          "incereased_damage_per_defeated_enemy_brin"
+          "incereased_damage_per_defeated_enemy_brin",
+          "always_hit"
         ],
         "statusEffects": [
           {
@@ -58183,12 +58184,6 @@
         ],
         "statusEffects": [
           {
-            "id": "special_damage_modifier_niso",
-            "sideAffected": "Allies",
-            "statusTargetType": "LessOrEqualToHalfHpLeft",
-            "turns": 3
-          },
-          {
             "id": "resurrect_niso",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
@@ -59327,7 +59322,7 @@
             "turns": 4
           },
           {
-            "id": "deep_wound_cleansable",
+            "id": "silence",
             "sideAffected": "Enemies",
             "statusTargetType": "Sides",
             "turns": 4
@@ -59675,13 +59670,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4350,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
-          "extra_damage_on_higher_hp_avani",
-          "extra_damage_per_base_stat_single"
+          "extra_damage_per_base_stat_single",
+          "wither_avani"
         ],
         "statusEffects": [
           {
@@ -59722,7 +59717,7 @@
           "typeOfTarget": "All"
         },
         "maxLevel": 8,
-        "absorbDamagePerMil": 150,
+        "absorbDamagePerMil": 200,
         "properties": [
           "eat_parasites_all",
           "mana_per_eaten_fiend_zhakiturion",
@@ -60001,7 +59996,7 @@
         "propertyType": "DamageIncreasedByCharactersState",
         "id": "incereased_damage_per_defeated_enemy_brin",
         "countDeadCharacters": true,
-        "damageIncrementPerCharacterPerMil": 1000,
+        "damageIncrementPerCharacterPerMil": 750,
         "damageIncrementPerCharacterIncrementPerLevelPerMil": 0,
         "charactersSideAffected": "Enemies"
       },
@@ -68376,8 +68371,8 @@
         "propertyType": "ConditionalEffect",
         "id": "reduce_highest_mana_enemy_vora",
         "includeMissedTargetsInComparison": true,
-        "powerForTargetsThatMeetConditionPerMil": 65076,
-        "powerForOtherTargetsPerMil": 65326,
+        "powerForTargetsThatMeetConditionPerMil": 65176,
+        "powerForOtherTargetsPerMil": 65371,
         "powerIncrementPerLevelPerMil": 236,
         "directionOfCondition": "Highest",
         "statForCondition": "CurrentProportionalMana",
@@ -74733,7 +74728,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "mana_addition_hua_pi_gui",
-        "powerMultiplierPerMil": 230,
+        "powerMultiplierPerMil": 180,
         "powerMultiplierIncrementPerLevelPerMil": 10,
         "effectType": "AddMana",
         "targetType": "Single",
@@ -74768,7 +74763,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_zhakiturion",
-        "powerMultiplierPerMil": 4450,
+        "powerMultiplierPerMil": 5300,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "AllMinor",
@@ -74782,11 +74777,6 @@
         "modifiesPositiveModifiers": true,
         "targetType": "All",
         "sideAffected": "Enemies"
-      },
-      {
-        "propertyType": "DamageIncreasedByTargetHealth",
-        "id": "extra_damage_on_higher_hp_avani",
-        "targetHealthDamageIncrementPerMil": 500
       },
       {
         "propertyType": "TargetHealthDependantExtraDamage",
@@ -74889,8 +74879,8 @@
         "propertyType": "ConditionalEffect",
         "id": "heal_lowest_hp_ally_most_stylish_rigard",
         "includeMissedTargetsInComparison": true,
-        "powerForTargetsThatMeetConditionPerMil": 480,
-        "powerForOtherTargetsPerMil": 410,
+        "powerForTargetsThatMeetConditionPerMil": 550,
+        "powerForOtherTargetsPerMil": 480,
         "powerIncrementPerLevelPerMil": 0,
         "directionOfCondition": "Lowest",
         "statForCondition": "CurrentHp",
@@ -74932,16 +74922,25 @@
         "propertyType": "ConditionalEffect",
         "id": "heal_lowest_hp_ally_most_stylish_hawkmoon",
         "includeMissedTargetsInComparison": true,
-        "powerForTargetsThatMeetConditionPerMil": 380,
-        "powerForOtherTargetsPerMil": 310,
+        "powerForTargetsThatMeetConditionPerMil": 450,
+        "powerForOtherTargetsPerMil": 380,
         "powerIncrementPerLevelPerMil": 0,
         "directionOfCondition": "Lowest",
         "statForCondition": "CurrentHp",
         "effectType": "Heal",
         "sideAffected": "Allies",
         "targetType": "All"
+      },
+      {
+        "propertyType": "Wither",
+        "id": "wither_avani",
+        "baseAttackIncrease": 65176,
+        "baseAttackIncreasePerLevel": 236,
+        "baseDefenseIncrease": 0,
+        "targetType": "Single",
+        "sideAffected": "Enemies"
       }
     ]
   },
-  "specialsConfigId": 3523913820
+  "specialsConfigId": 1747878411
 }

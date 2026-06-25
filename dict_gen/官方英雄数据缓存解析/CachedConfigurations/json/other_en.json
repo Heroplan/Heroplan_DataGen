@@ -4111,6 +4111,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-09-15 07:00:00",
             "endTime": "2026-09-19 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-09-22 07:00:00",
+            "endTime": "2026-09-26 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -96160,5 +96167,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3768082378
+  "otherConfigId": 2559351723
 }

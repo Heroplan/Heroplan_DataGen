@@ -42056,7 +42056,7 @@
         "statusEffect": "UnderWater",
         "id": "underwater_ikuturso_crown",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 100,
+        "damageMultiplierPerMil": 60,
         "damageMultiplierIncrementPerLevelPerMil": 10,
         "strongAttackMultiplierIncrementPerMil": 20
       },
@@ -42860,7 +42860,7 @@
         "statusEffect": "Burn",
         "id": "burn_absorb_heal_kaski",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 100,
+        "damageMultiplierPerMil": 60,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "additionalCasterSideEffect": "HealthBoost",
         "additionalCasterSideEffectPowerPerMil": 500,
@@ -44685,7 +44685,7 @@
         "statusEffect": "Poison",
         "id": "poison_with_absorb_boosted_healing_all_tofana",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 90,
+        "damageMultiplierPerMil": 60,
         "damageMultiplierIncrementPerLevelPerMil": 10,
         "additionalCasterSideEffect": "HealthBoost",
         "additionalCasterSideEffectPowerPerMil": 300
@@ -53705,11 +53705,11 @@
         "statusEffect": "Bleeding",
         "id": "bleed_with_absorb_boosted_healing_colt",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 200,
+        "damageMultiplierPerMil": 160,
         "damageMultiplierIncrementPerLevelPerMil": 10,
         "additionalCasterSideEffect": "HealthBoost",
         "additionalCasterSideEffectPowerPerMil": 1000,
-        "additionalCasterSideEffectTargetType": "NearToTarget"
+        "additionalCasterSideEffectTargetType": "Single"
       },
       {
         "statusEffect": "Bleeding",
@@ -63036,7 +63036,7 @@
         "id": "sleep_brin",
         "buff": "MajorDebuff",
         "removalTrigger": "NonFamiliarDamageReceived",
-        "receivedDamageMultiplierPerMil": 1660,
+        "receivedDamageMultiplierPerMil": 1460,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -63907,8 +63907,7 @@
             "fixedPower": 1660,
             "fixedPowerIncrementPerLevel": 20
           }
-        ],
-        "isStubborn": true
+        ]
       },
       {
         "statusEffect": "ManaOverTime",
@@ -63943,21 +63942,21 @@
         "statusEffect": "Burn",
         "id": "burn_chilazar",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 130,
+        "damageMultiplierPerMil": 155,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
         "statusEffect": "StackingAttackModifier",
         "id": "stacking_attack_chilazar",
         "buff": "StackMinorBuff",
-        "attackMultiplierPerMil": 1050,
+        "attackMultiplierPerMil": 1250,
         "attackMultiplierIncrementPerLevelPerMil": 0
       },
       {
         "statusEffect": "StackingAttackModifier",
         "id": "stacking_attack_zhakiturion",
         "buff": "StackMinorBuff",
-        "attackMultiplierPerMil": 1080,
+        "attackMultiplierPerMil": 1030,
         "attackMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -90085,7 +90084,7 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1300
+            "multiplierPerMil": 1500
           },
           {
             "type": "DefenseMultiplier",
@@ -98474,5 +98473,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1094738453
+  "battleConfigId": 2048086489
 }

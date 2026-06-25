@@ -22223,7 +22223,7 @@ window.allHeroes =
         "health": 848,
         "effects": [
             "All allies regenerate 459 HP over 3 turns.",
-            "All allies are immune to buff dispells for 3 turns."
+            "All allies are immune to buff dispels and reallocations  for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ],
         "passives": [],
         "family": "classic",

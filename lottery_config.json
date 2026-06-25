@@ -66,6 +66,18 @@
       ],
       "featuredHeroNum": 3
     },
+    "GoblinSummon": {
+      "bucketConfig": [
+        "heroes_s1_3",
+        "heroes_s1_4",
+        "heroes_s1_5",
+        "heroes_event_3",
+        "heroes_event_4",
+        "heroes_event_5",
+        "featuredHero"
+      ],
+      "featuredHeroNum": 3
+    },
     "TempleSummon": {
       "bucketConfig": [
         "heroes_s1_3",
@@ -265,18 +277,6 @@
         "heroes_s1_3",
         "heroes_s1_4",
         "heroes_listed_5",
-        "featuredHero"
-      ],
-      "featuredHeroNum": 2
-    },
-    "GoblinSummon": {
-      "bucketConfig": [
-        "heroes_s1_3",
-        "heroes_s1_4",
-        "heroes_s1_5",
-        "heroes_event_3",
-        "heroes_event_4",
-        "heroes_event_5",
         "featuredHero"
       ],
       "featuredHeroNum": 2
@@ -481,9 +481,9 @@
       ],
       "featuredHeroes": [
         "wild_cat_mina",
-        "vegetable_big_barry",
-        "mahayoddha_ajay",
-        "outlaw_xiang_chong"
+        "astral_demon_madarika",
+        "wild_cat_zarek",
+        "vegetable_pepo"
       ],
       "advertisedHero": "wild_cat_stravia",
       "includedHeroes": [
@@ -605,6 +605,18 @@
         "plains_hunter",
         "jungle_hunter",
         "abyss_hunter"
+      ]
+    },
+    "lottery_goblin_default": {
+      "featuredHeroes": [
+        "scoundrel_brin",
+        "scoundrel_tofana",
+        "goblin_darkfeather_costume_glowing"
+      ],
+      "AssociatedFamilies": [
+        "goblin",
+        "garrison",
+        "shady_scoundrels"
       ]
     },
     "lottery_temple_default": {
@@ -761,7 +773,7 @@
         "mimic_troop_green",
         "mimic_troop_purple",
         "mimic_troop_red",
-        "mimic_troop_blue",
+        "mimic_troop_yellow",
         "mimic_aether_blue",
         "mimic_aether_green",
         "mimic_aether_purple",
@@ -1530,17 +1542,6 @@
         "s3_odin",
         "s4_xnolphod",
         "s5_el_naddaha"
-      ]
-    },
-    "lottery_goblin_default": {
-      "featuredHeroes": [
-        "scoundrel_brin",
-        "scoundrel_tofana",
-        "goblin_darkfeather_costume_glowing"
-      ],
-      "AssociatedFamilies": [
-        "goblin",
-        "garrison"
       ]
     },
     "lottery_hotm_event_default": {

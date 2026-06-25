@@ -30,6 +30,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Cambia l'elemento di tutti i nemici in [##elementred]Fuoco[#] per {TURNS} turni."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Tutti gli alleati recuperano {REMOVALEFFECT1FIXEDPOWER} Salute dopo {TURNS} turni. Se l'effetto viene rimosso o sostituito prima del termine previsto, recuperano invece {REMOVALEFFECT2FIXEDPOWER} Salute."
           }
         ]
       },
@@ -62,6 +66,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Меняет стихию всех врагов на [##elementred]огонь[#] на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Все союзники восстанавливают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х. Если эффект снимается или заменяется до истечения срока, восстанавливается {REMOVALEFFECT2FIXEDPOWER} здоровья."
           }
         ]
       },
@@ -94,6 +102,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Zmienia żywioł wszystkich wrogów na [##elementred]ogień[#] na {TURNS} tur(y)."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
           }
         ]
       },
@@ -126,6 +138,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "將所有敵人的元素變更為[##elementred]烈火[#]，持續{TURNS}個回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "所有盟友在{TURNS}個回合後恢復{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前遭移除或替代，則轉而恢復{REMOVALEFFECT2FIXEDPOWER}點生命值。"
           }
         ]
       },
@@ -158,6 +174,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "모든 적의 속성이 {TURNS}턴 동안 [##elementred]화염[#]으로 변합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "모든 아군이 {TURNS}턴 후에 {REMOVALEFFECT1FIXEDPOWER} HP를 회복합니다. 만약 그 전에 이 효과가 사라지거나 교체되면 대신 {REMOVALEFFECT2FIXEDPOWER} HP를 회복합니다."
           }
         ]
       },
@@ -190,6 +210,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Ändert das Element aller Gegner für {TURNS} Runden zu [##elementred]Feuer[#]."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Alle Verbündeten erhalten nach {TURNS} Zügen {REMOVALEFFECT1FIXEDPOWER} Gesundheit zurück. Wenn der Effekt vor Ablauf der Dauer entfernt oder ersetzt wird, erhalten sie stattdessen {REMOVALEFFECT2FIXEDPOWER} Lebenspunkte zurück."
           }
         ]
       },
@@ -222,6 +246,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "{TURNS}ターンの間、敵全員の属性が[##elementred]炎属性[#]に変化する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "{TURNS}ターン後に、仲間全員のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
           }
         ]
       },
@@ -254,6 +282,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Ändrar alla fienders element till [##elementred]eld[#] i {TURNS} rundor."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
           }
         ]
       },
@@ -286,6 +318,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "{TURNS} boyunca tüm düşmanların elementini [##elementred]Ateş[#] olarak değiştirir."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Tüm müttefikler {TURNS} turdan sonra {REMOVALEFFECT1FIXEDPOWER} sağlık yeniler. Efekt, süre bitmeden kaldırılırsa veya değiştirilirse {REMOVALEFFECT2FIXEDPOWER} sağlık yeniler."
           }
         ]
       },
@@ -318,6 +354,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Changes the element of all enemies to [##elementred]Fire[#] for {TURNS} turns."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
           }
         ]
       },
@@ -350,6 +390,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "تغير عنصر جميع الأعداء ليكون عنصر [##elementred]النار[#] طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "يستعيد جميع الحلفاء {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
           }
         ]
       },
@@ -382,6 +426,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Change l'élément de tous les ennemis en [##elementred]feu[#] pour {TURNS} tours."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Tous les alliés récupèrent {REMOVALEFFECT1FIXEDPOWER} PV après {TURNS} tours. Si l'effet est supprimé ou remplacé avant la fin de cette durée, la récupération s'élève à {REMOVALEFFECT2FIXEDPOWER} PV."
           }
         ]
       },
@@ -414,6 +462,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Altera o elemento de todos os inimigos para [##elementred]Fogo[#] por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, restaura {REMOVALEFFECT2FIXEDPOWER} de vida."
           }
         ]
       },
@@ -446,6 +498,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Mengubah elemen semua musuh menjadi [##elementred]Api[#] selama {TURNS} giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Kesehatan semua sekutu pulih {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, kesehatan akan pulih {REMOVALEFFECT2FIXEDPOWER}."
           }
         ]
       },
@@ -478,6 +534,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Kaikkien vihollisten elementti muuttuu [##elementred]tuleksi[#] {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Palauttaa kaikille liittolaisille {REMOVALEFFECT1FIXEDPOWER} terveyttä {TURNS} vuoron jälkeen. Jos vaikutus poistetaan tai korvataan ennen keston päättymistä, palauttaa {REMOVALEFFECT2FIXEDPOWER} terveyttä sen sijaan."
           }
         ]
       },
@@ -510,6 +570,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Ændrer alle fjenders element til [##elementred]ild[#] i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Alle allierede genvinder {REMOVALEFFECT1FIXEDPOWER} helbred efter {TURNS} runder. Hvis effekten fjernes eller erstattes, før den udløber, genvindes {REMOVALEFFECT2FIXEDPOWER} HP i stedet."
           }
         ]
       },
@@ -542,6 +606,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Cambia el elemento de todos los enemigos a [##elementred]fuego[#] durante {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Todos los aliados recuperan {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
           }
         ]
       },
@@ -574,6 +642,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Endrer elementet til alle fiender til [##elementred]ild[#] i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Alle allierte får tilbake {REMOVALEFFECT1FIXEDPOWER} helse etter {TURNS} runder. Hvis effekten fjernes eller erstattes før varigheten er over, fås {REMOVALEFFECT2FIXEDPOWER} helse tilbake i stedet."
           }
         ]
       },
@@ -606,6 +678,10 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "Verandert het element van alle vijanden {TURNS} beurten lang in [##elementred]vuur[#]."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Alle bondgenoten herstellen na {TURNS} beurten {REMOVALEFFECT1FIXEDPOWER} gezondheid. Als het effect voortijdig verwijderd of vervangen wordt, herstelt het in plaats daarvan {REMOVALEFFECT2FIXEDPOWER} gezondheid."
           }
         ]
       },
@@ -638,10 +714,18 @@
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
             "text": "将所有敌人的元素属性转变为[##elementred]烈火系[#]，持续{TURNS}回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "目标会变成[#!]噬心虫[#]。此效果无法净化。[#!]噬心虫[#]拥有{ATTACK}%攻击力、{DEFENSE}%防御力以及以下特殊技能：\n\n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]对随机一名盟友施加100层[#!]狂乱[#]。\n[>]移除施法者身上的[#!]噬心虫[#]状态异常。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "{TURNS}回合后，所有盟友恢复{REMOVALEFFECT1FIXEDPOWER}点生命。若该效果在持续时间结束前被移除或取代，则改为恢复{REMOVALEFFECT2FIXEDPOWER}点生命。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 3509653125
+  "languageOverridesConfigId": 392459836
 }
