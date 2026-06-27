@@ -2036,7 +2036,7 @@ window.allHeroes =
             "The caster regenerates 243 HP over 3 turns."
         ],
         "passives": [
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -2097,7 +2097,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -7810,7 +7810,7 @@ window.allHeroes =
         "health": 2567,
         "effects": [
             "Deals 560% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -41% defense, and a further -4% decrease every time they are hit for 2 turns, down to -65% defense.",
+            "The target and nearby enemies get -41% defense, and a further -4% decrease every time they are hit for 4 turns, down to -65% defense.",
             "Deals extra damage against Fire.",
             "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ],
@@ -17639,7 +17639,7 @@ window.allHeroes =
         "health": 1402,
         "effects": [
             "Heals all allies who have less than 50% HP left to 50% health.",
-            "All allies regenerate 1080 HP over 4 turns.",
+            "All allies regenerate 1200 HP over 4 turns.",
             "Cleanses status ailments from all allies.",
             "Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ],
@@ -29695,7 +29695,7 @@ window.allHeroes =
             "The caster regenerates 324 HP over 4 turns."
         ],
         "passives": [
-            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -29759,7 +29759,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -33773,7 +33773,7 @@ window.allHeroes =
         "defense": 745,
         "health": 1353,
         "effects": [
-            "Deals 345% damage to the target and nearby enemies.",
+            "Deals 375% damage to the target and nearby enemies.",
             "The caster reflects 130% of the damage received from their status ailments and negative stacks to all enemies for 4 turns.",
             "Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ],
@@ -50036,7 +50036,7 @@ window.allHeroes =
             "The caster gets +30% defense for 3 turns."
         ],
         "passives": [
-            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage to all enemies."
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage to all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -50097,7 +50097,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -52647,12 +52647,12 @@ window.allHeroes =
         "health": 1823,
         "effects": [
             "Steals Minions from the target.",
-            "Deals 490% damage to the target.",
-            "The target and nearby enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "Deals 540% damage to the target.",
+            "The target and nearby enemies get -50% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
             "Elemental Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.",
+            "Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions.",
             "Health from Dead Minion: This character recovers 100 health when a Minion owned by them is destroyed."
         ],
         "family": "hotm2025",
@@ -53278,8 +53278,8 @@ window.allHeroes =
         "defense": 751,
         "health": 1413,
         "effects": [
-            "Deals 460% damage to the target.",
-            "The more mana the enemies have, the more damage they will receive up to 650%.",
+            "Deals 490% damage to the target.",
+            "The more mana the enemies have, the more damage they will receive up to 680%.",
             "The caster gets +75% chance to dodge Special Skills that deal damage for 3 turns.",
             "Element Link gives all Dark allies +10% defense for 4 turns. This effect can't be dispelled."
         ],
@@ -89818,9 +89818,9 @@ window.allHeroes =
         "defense": 791,
         "health": 1497,
         "effects": [
-            "Deals 345% damage to the target and nearby enemies.",
+            "Deals 375% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 20%.",
-            "The target and nearby enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills.",
+            "The target and nearby enemies get -40% accuracy for 4 turns. Chance to miss applies to offensive Special Skills.",
             "Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
@@ -93414,7 +93414,7 @@ window.allHeroes =
             "The caster regenerates 243 HP over 3 turns."
         ],
         "passives": [
-            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -93481,7 +93481,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -99766,7 +99766,7 @@ window.allHeroes =
         "defense": 962,
         "health": 1680,
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
+            "Deals 360% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effects buffs for 4 turns.",
             "The caster and nearby allies get +50% critical chance for 4 turns.",
             "Element Link gives all Holy allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
@@ -110147,6 +110147,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Shaurya",
+        "fancy_name": "White Desert Warrior",
+        "AetherPower": "Rage",
+        "color": "Holy",
+        "class": "Rogue",
+        "speed": "Very Fast",
+        "skill": "Thrusting Bhuj",
+        "source": "Temple Summon",
+        "Release date": "2026-06-27",
+        "specialId": "thrusting_bhuj",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "heroId": "mahayoddha_shaurya",
+        "star": 5,
+        "power": 1337,
+        "attack": 1409,
+        "defense": 1374,
+        "health": 2393,
+        "effects": [
+            "Deals 300% damage to the target and nearby enemies.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on the caster when damage is dealt. Up to a maximum 600 of additional damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effects affecting attack stat do not affect the extra damage.)",
+            "The target and nearby enemies receive 436 Bleed damage over 2 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer."
+        ],
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1796,
+        "lb1": {
+            "attack": 1518,
+            "defense": 1480,
+            "health": 2579,
+            "power": 1431
+        },
+        "lb2": {
+            "attack": 1737,
+            "defense": 1694,
+            "health": 2951,
+            "power": 1620
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Area",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Shimmerscale",
         "fancy_name": "Lizardfolk Lanternbearer",
         "AetherPower": "Attack Up",
@@ -110178,7 +110245,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1796,
+        "originalIndex": 1797,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -110236,7 +110303,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1797,
+        "originalIndex": 1798,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -110287,7 +110354,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1798,
+        "originalIndex": 1799,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -110340,7 +110407,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1799,
+        "originalIndex": 1800,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -110398,7 +110465,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1800,
+        "originalIndex": 1801,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -110458,7 +110525,7 @@ window.allHeroes =
         ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1801,
+        "originalIndex": 1802,
         "lb1": {
             "attack": 1476,
             "defense": 1371,
@@ -110524,7 +110591,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1802,
+        "originalIndex": 1803,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -110597,7 +110664,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1803,
+        "originalIndex": 1804,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -110657,7 +110724,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1804,
+        "originalIndex": 1805,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -110726,7 +110793,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1805,
+        "originalIndex": 1806,
         "lb1": {
             "attack": 1522,
             "defense": 1480,
@@ -110791,7 +110858,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1806,
+        "originalIndex": 1807,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -110852,7 +110919,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1807,
+        "originalIndex": 1808,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -110911,7 +110978,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1808,
+        "originalIndex": 1809,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -110977,7 +111044,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1809,
+        "originalIndex": 1810,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -111044,7 +111111,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1810,
+        "originalIndex": 1811,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -111122,7 +111189,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1811,
+        "originalIndex": 1812,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -111189,7 +111256,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1812,
+        "originalIndex": 1813,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111257,7 +111324,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1813,
+        "originalIndex": 1814,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -111327,7 +111394,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1814,
+        "originalIndex": 1815,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -111406,7 +111473,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1815,
+        "originalIndex": 1816,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -111468,7 +111535,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1816,
+        "originalIndex": 1817,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -111527,7 +111594,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1817,
+        "originalIndex": 1818,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -111586,7 +111653,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1818,
+        "originalIndex": 1819,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -111649,7 +111716,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1819,
+        "originalIndex": 1820,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -111713,7 +111780,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1820,
+        "originalIndex": 1821,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -111777,7 +111844,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1821,
+        "originalIndex": 1822,
         "lb1": {
             "attack": 1446,
             "defense": 1476,
@@ -111837,7 +111904,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1823,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -111906,7 +111973,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1824,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -111976,7 +112043,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1824,
+        "originalIndex": 1825,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -112034,7 +112101,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1825,
+        "originalIndex": 1826,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -112091,7 +112158,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1826,
+        "originalIndex": 1827,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -112155,7 +112222,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1827,
+        "originalIndex": 1828,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -112226,7 +112293,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1828,
+        "originalIndex": 1829,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -112284,7 +112351,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1829,
+        "originalIndex": 1830,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -112346,7 +112413,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1830,
+        "originalIndex": 1831,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -112413,7 +112480,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1831,
+        "originalIndex": 1832,
         "lb1": {
             "attack": 1369,
             "defense": 1434,
@@ -112471,7 +112538,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1832,
+        "originalIndex": 1833,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -112538,7 +112605,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1833,
+        "originalIndex": 1834,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -112606,7 +112673,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1834,
+        "originalIndex": 1835,
         "lb1": {
             "attack": 1500,
             "defense": 1384,
@@ -112668,7 +112735,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1835,
+        "originalIndex": 1836,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -112736,7 +112803,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1836,
+        "originalIndex": 1837,
         "lb1": {
             "attack": 1323,
             "defense": 1402,
@@ -112804,7 +112871,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1837,
+        "originalIndex": 1838,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -112863,7 +112930,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1838,
+        "originalIndex": 1839,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -112930,7 +112997,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1839,
+        "originalIndex": 1840,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -112994,7 +113061,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1840,
+        "originalIndex": 1841,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -113050,7 +113117,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1841,
+        "originalIndex": 1842,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -113111,7 +113178,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1842,
+        "originalIndex": 1843,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -113170,7 +113237,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1843,
+        "originalIndex": 1844,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -113233,7 +113300,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1844,
+        "originalIndex": 1845,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -113293,7 +113360,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1845,
+        "originalIndex": 1846,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -113353,7 +113420,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1846,
+        "originalIndex": 1847,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -113384,30 +113451,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Shaurya",
-        "fancy_name": "White Desert Warrior",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "mahayoddha_shaurya",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "originalIndex": 1847,
-        "cn_skill_info": []
     },
     {
         "name": "Ameonna Toon",

@@ -70067,7 +70067,6 @@
         "minimumChancePerMil": 50,
         "healthRecoveryPerMil": 500,
         "manaRecoveryPerMil": 800,
-        "resetManaOnResistDeath": true,
         "ignoresReviveBlockingDebuffs": true
       },
       {
@@ -98476,5 +98475,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2414030498
+  "battleConfigId": 3899769503
 }

@@ -1208,7 +1208,7 @@ const allTranslations =
         "name": "Athena Toon",
         "effects": [
             "Deals 560% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -41% defense, and a further -4% decrease every time they are hit for 2 turns, down to -65% defense.",
+            "The target and nearby enemies get -41% defense, and a further -4% decrease every time they are hit for 4 turns, down to -65% defense.",
             "Deals extra damage against Fire.",
             "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
@@ -2786,7 +2786,7 @@ const allTranslations =
         "name": "Raffaele",
         "effects": [
             "Heals all allies who have less than 50% HP left to 50% health.",
-            "All allies regenerate 1080 HP over 4 turns.",
+            "All allies regenerate 1200 HP over 4 turns.",
             "Cleanses status ailments from all allies.",
             "Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ]
@@ -5356,7 +5356,7 @@ const allTranslations =
         "heroId": "forest_god_elradir",
         "name": "Elradir",
         "effects": [
-            "Deals 345% damage to the target and nearby enemies.",
+            "Deals 375% damage to the target and nearby enemies.",
             "The caster reflects 130% of the damage received from their status ailments and negative stacks to all enemies for 4 turns.",
             "Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ]
@@ -8398,8 +8398,8 @@ const allTranslations =
         "name": "Akilius",
         "effects": [
             "Steals Minions from the target.",
-            "Deals 490% damage to the target.",
-            "The target and nearby enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "Deals 540% damage to the target.",
+            "The target and nearby enemies get -50% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
             "Elemental Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -8503,8 +8503,8 @@ const allTranslations =
         "heroId": "dark_god_arfanias",
         "name": "Arfanias",
         "effects": [
-            "Deals 460% damage to the target.",
-            "The more mana the enemies have, the more damage they will receive up to 650%.",
+            "Deals 490% damage to the target.",
+            "The more mana the enemies have, the more damage they will receive up to 680%.",
             "The caster gets +75% chance to dodge Special Skills that deal damage for 3 turns.",
             "Element Link gives all Dark allies +10% defense for 4 turns. This effect can't be dispelled."
         ]
@@ -14352,9 +14352,9 @@ const allTranslations =
         "heroId": "fire_god_skargremar",
         "name": "Skargremar",
         "effects": [
-            "Deals 345% damage to the target and nearby enemies.",
+            "Deals 375% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 20%.",
-            "The target and nearby enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills.",
+            "The target and nearby enemies get -40% accuracy for 4 turns. Chance to miss applies to offensive Special Skills.",
             "Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled."
         ]
     },
@@ -15882,7 +15882,7 @@ const allTranslations =
         "heroId": "holy_god_aviana",
         "name": "Aviana",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
+            "Deals 360% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effects buffs for 4 turns.",
             "The caster and nearby allies get +50% critical chance for 4 turns.",
             "Element Link gives all Holy allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
@@ -17546,6 +17546,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_shaurya",
+        "name": "Shaurya",
+        "effects": [
+            "Deals 300% damage to the target and nearby enemies.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on the caster when damage is dealt. Up to a maximum 600 of additional damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effects affecting attack stat do not affect the extra damage.)",
+            "The target and nearby enemies receive 436 Bleed damage over 2 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer."
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "effects": [
@@ -18071,11 +18080,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "mahayoddha_shaurya",
-        "name": "Shaurya",
-        "effects": []
     },
     {
         "heroId": "s2_ghost_woman_costume_cute",

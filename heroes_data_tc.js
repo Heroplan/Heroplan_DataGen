@@ -2036,7 +2036,7 @@ window.allHeroes =
             "施法者在 3 回合內恢復 243 點生命值。"
         ],
         "passives": [
-            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。"
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -2097,7 +2097,7 @@ window.allHeroes =
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
-            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。"
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -7810,7 +7810,7 @@ window.allHeroes =
         "health": 2567,
         "effects": [
             "對目標造成 560% 傷害，並對附近敵人造成輕微傷害。",
-            "目標與附近敵人獲得 -41% 防禦，並在每次被擊中後減少 -4%，持續 2 回合，最高 -65% 防禦。",
+            "目標與附近敵人獲得 -41% 防禦，並在每次被擊中後減少 -4%，持續 4 回合，最高 -65% 防禦。",
             "對烈火系造成額外傷害。",
             "元素鏈給予所有冰雪盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
         ],
@@ -17639,7 +17639,7 @@ window.allHeroes =
         "health": 1402,
         "effects": [
             "為剩餘生命少於 50% 的盟友，將生命恢復至 50%。",
-            "所有盟友在 4 回合內恢復 1080 點生命值。",
+            "所有盟友在 4 回合內恢復 1200 點生命值。",
             "淨化所有盟友的狀態異常。",
             "元素鏈給予所有冰雪盟友抵禦特殊技能的 +30% 防禦，持續 4 回合。此效果無法淨化。"
         ],
@@ -29695,7 +29695,7 @@ window.allHeroes =
             "施法者在 4 回合內恢復 324 點生命值。"
         ],
         "passives": [
-            "特殊技能傷害：當此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。"
+            "特殊技能傷害：當此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -29759,7 +29759,7 @@ window.allHeroes =
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
-            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。"
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -33773,7 +33773,7 @@ window.allHeroes =
         "defense": 745,
         "health": 1353,
         "effects": [
-            "對目標與附近敵人造成 345% 傷害。",
+            "對目標與附近敵人造成 375% 傷害。",
             "施法者將從狀態異常或負面疊加得到的 130% 傷害反射給所有敵人，持續 4 回合。",
             "元素鏈會在回合結束時賦予所有自然盟友少量法力，持續 4 個回合。此效果無法驅散。"
         ],
@@ -50036,7 +50036,7 @@ window.allHeroes =
             "施法者獲得 +30% 防禦，持續 3 回合。"
         ],
         "passives": [
-            "特殊技能傷害：當此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。"
+            "特殊技能傷害：當此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -50097,7 +50097,7 @@ window.allHeroes =
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
-            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。"
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -52647,8 +52647,8 @@ window.allHeroes =
         "health": 1823,
         "effects": [
             "從目標竊取小兵。",
-            "對目標造成 490% 傷害。",
-            "目標與附近敵人獲得 -45% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
+            "對目標造成 540% 傷害。",
+            "目標與附近敵人獲得 -50% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
             "元素鏈給予所有暗黑系盟友抵禦特殊技能的 +30% 防禦，持續 4 回合。此效果無法驅散。"
         ],
         "passives": [
@@ -53278,8 +53278,8 @@ window.allHeroes =
         "defense": 751,
         "health": 1413,
         "effects": [
-            "對目標造成 460% 傷害。",
-            "敵人的法力越高，受到的傷害越大，最高可達 650%。",
+            "對目標造成 490% 傷害。",
+            "敵人的法力越高，受到的傷害越大，最高可達 680%。",
             "施法者有 +75% 的機率閃避可造成傷害的特殊技能，持續 3 回合。",
             "元素鏈給予所有暗黑盟友 +10% 的防禦，持續 4 個回合。此效果無法驅散。"
         ],
@@ -89818,9 +89818,9 @@ window.allHeroes =
         "defense": 791,
         "health": 1497,
         "effects": [
-            "對目標與附近敵人造成 345% 傷害。",
+            "對目標與附近敵人造成 375% 傷害。",
             "使目標和附近敵人的法力減少 20%。",
-            "目標與附近敵人獲得 -35% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
+            "目標與附近敵人獲得 -40% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）",
             "元素鏈給予所有烈火盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [
@@ -93414,7 +93414,7 @@ window.allHeroes =
             "施法者在 3 回合內恢復 243 點生命值。"
         ],
         "passives": [
-            "特殊技能傷害：當此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。"
+            "特殊技能傷害：當此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 60% 機率對所有敵人造成所承受傷害的 20% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 0,
@@ -93481,7 +93481,7 @@ window.allHeroes =
         ],
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
-            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。"
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。（最大傷害： 600 ）"
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -99766,7 +99766,7 @@ window.allHeroes =
         "defense": 962,
         "health": 1680,
         "effects": [
-            "對目標與附近敵人造成 330% 傷害。",
+            "對目標與附近敵人造成 360% 傷害。",
             "目標與附近敵人在 4 回合內無法獲得新的狀態效果增益。",
             "施法者與附近盟友獲得 +50% 暴擊率，持續 4 回合。",
             "元素鏈使所有神聖盟友提高 +5% 閃避機率，持續 6 個回合。此效果無法驅散。"
@@ -110147,6 +110147,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "沙爾雅 (Shaurya)",
+        "fancy_name": "白漠戰士",
+        "AetherPower": "憤怒",
+        "color": "神聖",
+        "class": "盜賊",
+        "speed": "非常快",
+        "skill": "突刺布吉",
+        "source": "神殿召喚",
+        "Release date": "2026-06-27",
+        "specialId": "thrusting_bhuj",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "heroId": "mahayoddha_shaurya",
+        "star": 5,
+        "power": 1337,
+        "attack": 1409,
+        "defense": 1374,
+        "health": 2393,
+        "effects": [
+            "對目標與附近敵人造成 300% 傷害。",
+            "成長恩惠：每一點已修改的攻擊造成 2x 點额外傷害。（造成的額外傷害會依施法者調整過的攻擊數值計算。最多可造成额外 600 點额外傷害。會影響所造成傷害的狀態效果，亦會影響造成的外傷害值。额外傷害不受防禦数值影響。會影響攻擊数值的状態效果，不會影響造成的額外傷害值。）",
+            "目標與附近敵人在 2 個回合内受到 436 點流血傷害。對上暗黑系角色時，此状態效果不可淨化，且會持續額外 2 個回合。"
+        ],
+        "passives": [
+            "受到傷害時獲得法力：",
+            "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
+            "* 每回合最多可獲得 10% 法力。",
+            "對小兵和超級小兵造成額外傷害：此角色對小兵和超級小兵造成 +150% 傷害。"
+        ],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1796,
+        "lb1": {
+            "attack": 1518,
+            "defense": 1480,
+            "health": 2579,
+            "power": 1431
+        },
+        "lb2": {
+            "attack": 1737,
+            "defense": 1694,
+            "health": 2951,
+            "power": 1620
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-範圍",
+                    "傷害-持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害",
+                    "傷害-傷害↑：黑暗"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：流血"
+                ]
+            }
+        ]
+    },
+    {
         "name": "微光鱗片 (Shimmerscale)",
         "fancy_name": "蜥蜴人提燈者",
         "AetherPower": "攻擊提升",
@@ -110178,7 +110245,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1796,
+        "originalIndex": 1797,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -110236,7 +110303,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1797,
+        "originalIndex": 1798,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -110287,7 +110354,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1798,
+        "originalIndex": 1799,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -110340,7 +110407,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1799,
+        "originalIndex": 1800,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -110398,7 +110465,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1800,
+        "originalIndex": 1801,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -110458,7 +110525,7 @@ window.allHeroes =
         ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1801,
+        "originalIndex": 1802,
         "lb1": {
             "attack": 1476,
             "defense": 1371,
@@ -110524,7 +110591,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1802,
+        "originalIndex": 1803,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -110597,7 +110664,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1803,
+        "originalIndex": 1804,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -110657,7 +110724,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1804,
+        "originalIndex": 1805,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -110726,7 +110793,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1805,
+        "originalIndex": 1806,
         "lb1": {
             "attack": 1522,
             "defense": 1480,
@@ -110791,7 +110858,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1806,
+        "originalIndex": 1807,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -110852,7 +110919,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1807,
+        "originalIndex": 1808,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -110911,7 +110978,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1808,
+        "originalIndex": 1809,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -110977,7 +111044,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1809,
+        "originalIndex": 1810,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -111044,7 +111111,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1810,
+        "originalIndex": 1811,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -111122,7 +111189,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1811,
+        "originalIndex": 1812,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -111189,7 +111256,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1812,
+        "originalIndex": 1813,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111257,7 +111324,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1813,
+        "originalIndex": 1814,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -111327,7 +111394,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1814,
+        "originalIndex": 1815,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -111406,7 +111473,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1815,
+        "originalIndex": 1816,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -111468,7 +111535,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1816,
+        "originalIndex": 1817,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -111527,7 +111594,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1817,
+        "originalIndex": 1818,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -111586,7 +111653,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1818,
+        "originalIndex": 1819,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -111649,7 +111716,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1819,
+        "originalIndex": 1820,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -111713,7 +111780,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1820,
+        "originalIndex": 1821,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -111777,7 +111844,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1821,
+        "originalIndex": 1822,
         "lb1": {
             "attack": 1446,
             "defense": 1476,
@@ -111837,7 +111904,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1823,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -111906,7 +111973,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1824,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -111976,7 +112043,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1824,
+        "originalIndex": 1825,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -112034,7 +112101,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1825,
+        "originalIndex": 1826,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -112091,7 +112158,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1826,
+        "originalIndex": 1827,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -112155,7 +112222,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1827,
+        "originalIndex": 1828,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -112226,7 +112293,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1828,
+        "originalIndex": 1829,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -112284,7 +112351,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1829,
+        "originalIndex": 1830,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -112346,7 +112413,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1830,
+        "originalIndex": 1831,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -112413,7 +112480,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1831,
+        "originalIndex": 1832,
         "lb1": {
             "attack": 1369,
             "defense": 1434,
@@ -112471,7 +112538,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1832,
+        "originalIndex": 1833,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -112538,7 +112605,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1833,
+        "originalIndex": 1834,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -112606,7 +112673,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1834,
+        "originalIndex": 1835,
         "lb1": {
             "attack": 1500,
             "defense": 1384,
@@ -112668,7 +112735,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1835,
+        "originalIndex": 1836,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -112736,7 +112803,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1836,
+        "originalIndex": 1837,
         "lb1": {
             "attack": 1323,
             "defense": 1402,
@@ -112804,7 +112871,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1837,
+        "originalIndex": 1838,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -112863,7 +112930,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1838,
+        "originalIndex": 1839,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -112930,7 +112997,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1839,
+        "originalIndex": 1840,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -112994,7 +113061,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1840,
+        "originalIndex": 1841,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -113050,7 +113117,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1841,
+        "originalIndex": 1842,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -113111,7 +113178,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1842,
+        "originalIndex": 1843,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -113170,7 +113237,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1843,
+        "originalIndex": 1844,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -113233,7 +113300,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1844,
+        "originalIndex": 1845,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -113293,7 +113360,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1845,
+        "originalIndex": 1846,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -113353,7 +113420,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1846,
+        "originalIndex": 1847,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -113384,30 +113451,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "沙爾雅 (Shaurya)",
-        "fancy_name": "白漠戰士",
-        "AetherPower": "",
-        "color": "神聖",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "mahayoddha_shaurya",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "originalIndex": 1847,
-        "cn_skill_info": []
     },
     {
         "name": "雨女 (Ameonna) 公仔",

@@ -48398,5 +48398,25 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Shaurya",
+        "fancy name": "White Desert Warrior",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
+        "Release date": "2026-06-27",
+        "AetherPower": "Rage",
+        "heroId": "mahayoddha_shaurya",
+        "baseAttack": 684,
+        "baseDefense": 667,
+        "baseHealth": 1162,
+        "specialId": "thrusting_bhuj",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

@@ -2211,7 +2211,7 @@
         "id": "lottery_ascension_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 167
+        "uiPriority": 195
       },
       {
         "productType": "MimicSummon",
@@ -36273,6 +36273,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58879,5 +58880,5 @@
       }
     ]
   },
-  "productsConfigId": 3535858885
+  "productsConfigId": 2235813161
 }

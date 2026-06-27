@@ -257,7 +257,7 @@ const allTranslations =
         "heroId": "musketeer_planchet",
         "name": "Planchet",
         "passives": [
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -265,7 +265,7 @@ const allTranslations =
         "name": "Planchet C1",
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -3614,7 +3614,7 @@ const allTranslations =
         "heroId": "musketeer_villiers",
         "name": "Villiers",
         "passives": [
-            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -3622,7 +3622,7 @@ const allTranslations =
         "name": "Villiers C1",
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -6181,7 +6181,7 @@ const allTranslations =
         "heroId": "musketeer_kitty",
         "name": "Kitty",
         "passives": [
-            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage to all enemies."
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage to all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -6189,7 +6189,7 @@ const allTranslations =
         "name": "Kitty C1",
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -6493,7 +6493,7 @@ const allTranslations =
         "heroId": "dark_god_akilius",
         "name": "Akilius",
         "passives": [
-            "Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.",
+            "Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions.",
             "Health from Dead Minion: This character recovers 100 health when a Minion owned by them is destroyed."
         ]
     },
@@ -11600,7 +11600,7 @@ const allTranslations =
         "heroId": "musketeer_felton",
         "name": "Felton",
         "passives": [
-            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies."
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -11608,7 +11608,7 @@ const allTranslations =
         "name": "Felton C1",
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies. (Max damage: 600)"
         ]
     },
     {
@@ -13688,6 +13688,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_shaurya",
+        "name": "Shaurya",
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "passives": [
@@ -14107,11 +14117,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "mahayoddha_shaurya",
-        "name": "Shaurya",
-        "passives": []
     },
     {
         "heroId": "s2_ghost_woman_costume_cute",

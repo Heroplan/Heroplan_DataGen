@@ -460,19 +460,8 @@
         "id": "dynamic_alliancegift",
         "contents": [
           {
-            "type": "Item",
-            "id": "lottery_temple_coin",
-            "amount": 25
-          },
-          {
-            "type": "Item",
-            "id": "lottery_untold_tales_coin",
-            "amount": 25
-          },
-          {
-            "type": "Item",
-            "id": "lottery_pickup_coin",
-            "amount": 25
+            "type": "Gem",
+            "amount": 100
           }
         ]
       },
@@ -511,18 +500,28 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_mercenary_war_coin",
-            "amount": 35
+            "id": "lottery_wilderness_coin",
+            "amount": 40
           },
           {
             "type": "Item",
             "id": "lottery_ascension_coin",
-            "amount": 35
+            "amount": 40
           },
           {
             "type": "Item",
-            "id": "lottery_shadow_coin",
-            "amount": 35
+            "id": "lottery_mimic_coin",
+            "amount": 40
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_small",
+            "amount": 1
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_common",
+            "amount": 1
           }
         ]
       },
@@ -28682,19 +28681,11 @@
         "id": "dynamic_offer_16_celebration_cake",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
+            "id": "com.smallgiantgames.empires.dynamic_17",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_8",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_35",
+            "id": "com.smallgiantgames.empires.dynamic_12d",
             "purchaseLimit": 2
           }
         ],
@@ -28704,6 +28695,7 @@
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "zyngaStorePlacementPool": "dynamic-offers",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.celebrate"
       },
       {
@@ -32048,20 +32040,12 @@
         "id": "dynamic_offer_31_motega",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_7d",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30c",
-            "purchaseLimit": 3
+            "id": "offer_dynamic_free_m",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -32070,6 +32054,7 @@
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "zyngaStorePlacementPool": "dynamic-offers",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.mystic_wonders"
       },
       {
@@ -35283,7 +35268,7 @@
         "id": "dynamic_offer_flash_02",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_25",
+            "id": "com.smallgiantgames.empires.dynamic_10b",
             "purchaseLimit": 2
           }
         ],
@@ -41283,6 +41268,16 @@
                 "zyngaStoreExtraAmount": 400
               }
             ]
+          },
+          {
+            "activationTime": "2026-06-26 09:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              }
+            ]
           }
         ]
       },
@@ -42995,6 +42990,35 @@
             ]
           },
           {
+            "activationTime": "2026-06-28 14:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_temple_coin",
+                "amount": 550,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 550,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
             "activationTime": "2026-06-29 07:00:00",
             "contents": [
               {
@@ -43625,7 +43649,18 @@
       },
       {
         "id": "offer_dynamic_free_m",
-        "schedule": []
+        "schedule": [
+          {
+            "activationTime": "2026-06-27 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_ascension_coin",
+                "amount": 20
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "offer_dynamic_free_n",
@@ -47788,6 +47823,16 @@
                 "amount": 600
               }
             ]
+          },
+          {
+            "activationTime": "2026-06-26 09:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1500,
+                "zyngaStoreExtraAmount": 200
+              }
+            ]
           }
         ]
       },
@@ -47845,6 +47890,41 @@
                 "type": "Item",
                 "id": "lottery_elite_hero",
                 "amount": 4
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-06-27 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_ascension_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mimic_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pvp_full",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 1
               }
             ]
           }
@@ -52586,6 +52666,13 @@
         "endTime": "2026-06-30 07:00:00"
       },
       {
+        "id": "dynamic_offer_16_celebration_cake",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-26 09:30:00",
+        "endTime": "2026-06-27 06:30:00"
+      },
+      {
         "id": "dynamic_offer_19_sparkles",
         "slot": "RightMiddle",
         "startTime": "2026-06-27 07:00:00",
@@ -52652,6 +52739,13 @@
         "endTime": "2026-07-01 07:00:00"
       },
       {
+        "id": "dynamic_offer_31_motega",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2026-06-27 11:00:00",
+        "endTime": "2026-06-28 06:30:00"
+      },
+      {
         "id": "dynamic_offer_18_ducks",
         "slot": "RightMiddle",
         "startTime": "2026-06-28 07:00:00",
@@ -52714,6 +52808,13 @@
         "scheduledManually": true,
         "startTime": "2026-06-28 07:00:00",
         "endTime": "2026-07-02 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_flash_02",
+        "slot": "Flash",
+        "scheduledManually": true,
+        "startTime": "2026-06-28 14:00:00",
+        "endTime": "2026-06-29 06:30:00"
       },
       {
         "id": "dynamic_offer_14_purple_umbria",
@@ -62852,6 +62953,20 @@
                 "slime_gunktus",
                 "garrison_iocantha",
                 "astral_moonbell"
+              ]
+            },
+            {
+              "lotteryProductType": "Instant Power",
+              "id": "lottery_instantpower_2026_06_26",
+              "productId": "lottery_ascension_default",
+              "startDate": "2026-06-26 07:00:00",
+              "endDate": "2026-07-01 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "castle_bear_bearnadette",
+                "garrison_fergus",
+                "elemental_gastille",
+                "tales1_domiventus"
               ]
             }
           ],
@@ -74596,6 +74711,67 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "startTime": "2026-06-26 07:00:00",
+            "endTime": "2026-06-27 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              30
+            ],
+            "rewards": [
+              {
+                "type": "Hero",
+                "id": "Astral Demon Voidbender",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Astral Demon Shadowguard",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Astral Demon Inquisitor",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Astral Demon Lawmaker",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Astral Demon Warlord",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Bloom of the Bewitched Castle",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Impatient Clock of the Bewitched Castle",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Romantic Musketeer-Boulanger Musketeer",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Petrified Guard of the Bewitched Castle",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "The Faithful Protector",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -83204,5 +83380,5 @@
       ]
     }
   },
-  "shopConfigId": 4285910190
+  "shopConfigId": 437819207
 }
