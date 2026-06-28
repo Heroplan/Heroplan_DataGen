@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 【最终版】引入“先试整句，再试拆分”逻辑，完美兼容所有情况
+# 【最终版】括号翻译失败时保留原文，但条目仍计入失败
 
 import re
 import json
@@ -168,8 +168,10 @@ def main():
         for effect_str in original_effects:
             match = split_pattern.match(effect_str.strip())
             final_translation = None
+            paren_failed = False  # 标记括号是否翻译失败
+
             if match:
-                # 策略：优先尝试整句翻译
+                # 优先尝试整句翻译
                 final_translation = translator_cn.translate(effect_str)
                 
                 # 如果整句翻译失败，再尝试拆分翻译
@@ -177,28 +179,44 @@ def main():
                     main_part, paren_part, _ = match.groups()
                     trans_main = translator_cn.translate(main_part)
                     trans_paren = translator_cn.translate(paren_part)
-                    if trans_main and trans_paren:
-                        if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
-                            final_translation = Translator.format_spacing(trans_main + "。" + trans_paren)
+                    if trans_main:
+                        # 主句翻译成功
+                        if trans_paren:
+                            paren_final = trans_paren
                         else:
-                            final_translation = Translator.format_spacing(trans_main + trans_paren)
-                    else: # 如果拆分翻译也失败了，记录具体失败的部分
-                        if not trans_main: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
-                        if not trans_paren: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
+                            paren_final = paren_part
+                            paren_failed = True
+                            logger.warning(f"[CN括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
+                        # 组合译文
+                        if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
+                            final_translation = Translator.format_spacing(trans_main + "。" + paren_final)
+                        else:
+                            final_translation = Translator.format_spacing(trans_main + paren_final)
+                    else:
+                        # 主句翻译失败，整项失败
+                        logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
             else:
                 # 不带括号，直接翻译
                 final_translation = translator_cn.translate(effect_str)
+                if final_translation is None:
+                    logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
 
             if final_translation:
                 translated_effects_cn.append(final_translation)
             else:
+                # 完全失败（主句失败或无匹配），保留原文
                 is_cn_item_fully_translated = False
-                if not match: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
-                translated_effects_cn.append(effect_str) 
+                translated_effects_cn.append(effect_str)
+
+            # 如果括号翻译失败，条目整体仍视为失败
+            if paren_failed:
+                is_cn_item_fully_translated = False
         
         translated_data_cn[item_index]['effects'] = translated_effects_cn
-        if is_cn_item_fully_translated: translated_items_cn += 1
-        else: failed_items_cn += 1
+        if is_cn_item_fully_translated:
+            translated_items_cn += 1
+        else:
+            failed_items_cn += 1
 
         # --- 繁体中文翻译流程 (逻辑同上) ---
         is_tc_item_fully_translated = True
@@ -206,33 +224,46 @@ def main():
         for effect_str in original_effects:
             match = split_pattern.match(effect_str.strip())
             final_translation = None
+            paren_failed = False
+
             if match:
                 final_translation = translator_tc.translate(effect_str)
                 if final_translation is None:
                     main_part, paren_part, _ = match.groups()
                     trans_main = translator_tc.translate(main_part)
                     trans_paren = translator_tc.translate(paren_part)
-                    if trans_main and trans_paren:
-                        if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
-                            final_translation = Translator.format_spacing(trans_main + "。" + trans_paren)
+                    if trans_main:
+                        if trans_paren:
+                            paren_final = trans_paren
                         else:
-                            final_translation = Translator.format_spacing(trans_main + trans_paren)
+                            paren_final = paren_part
+                            paren_failed = True
+                            logger.warning(f"[TC括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
+                        if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
+                            final_translation = Translator.format_spacing(trans_main + "。" + paren_final)
+                        else:
+                            final_translation = Translator.format_spacing(trans_main + paren_final)
                     else:
-                        if not trans_main: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
-                        if not trans_paren: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
+                        logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
             else:
                 final_translation = translator_tc.translate(effect_str)
+                if final_translation is None:
+                    logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
 
             if final_translation:
                 translated_effects_tc.append(final_translation)
             else:
                 is_tc_item_fully_translated = False
-                if not match: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
                 translated_effects_tc.append(effect_str)
+
+            if paren_failed:
+                is_tc_item_fully_translated = False
         
         translated_data_tc[item_index]['effects'] = translated_effects_tc
-        if is_tc_item_fully_translated: translated_items_tc += 1
-        else: failed_items_tc += 1
+        if is_tc_item_fully_translated:
+            translated_items_tc += 1
+        else:
+            failed_items_tc += 1
 
     logger.info(f"翻译处理完成。正在写入结果文件...")
     try:
