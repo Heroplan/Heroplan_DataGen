@@ -7750,6 +7750,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "effects": [
+            "对施放者释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果（包含顽固、不可驱散或不可净化的状态效果和叠加效果)。）",
+            "施法者转变为幽灵形态，持续 4 回合。",
+            "处于幽灵形态期间，施法者获得 +90% 攻击力。（处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、造成伤害的被动技能、状态效果和叠加效果。免疫新的成长和衰退效果。）",
+            "除施法者外的所有盟友获得对神圣系 +54% 的防御，持续 4 回合。"
+        ]
+    },
+    {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
         "effects": [
@@ -10723,6 +10733,17 @@ const translatedEffectsCN =
             "如果目标剩余生命超过 50%，可对其造成 260% 伤害。",
             "所有盟友会将来自神圣系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
             "所有神圣系敌人获得对暗黑系 -54% 的防御，持续 4 回合。"
+        ]
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "effects": [
+            "此特殊技能必定命中。",
+            "对所有敌人造成 210% 伤害。",
+            "如果目标剩余生命超过 50%，可对其造成 420% 伤害。",
+            "所有盟友会将来自神圣系敌人特殊技能的全部状态效果和 160% 伤害反弹至进攻者并阻挡该技能的其它负面效果，持续 4 回合。此状态效果无法驱散，对暗黑系角色持续时间延长 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
@@ -17141,6 +17162,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "effects": [
+            "对目标造成 575% 伤害，并对附近敌人造成轻微伤害。",
+            "所有盟友恢复相当于所造成普通伤害 50% 的生命值，持续 5 回合。",
+            "对暗黑系造成额外伤害。",
+            "元素链为全体神圣系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
+        ]
+    },
+    {
         "heroId": "holy_god_neith",
         "name": "Neith",
         "effects": [
@@ -18080,21 +18111,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "s2_ghost_woman_costume_cute",
-        "name": "Ameonna Toon",
-        "effects": []
-    },
-    {
-        "heroId": "holy_god_musashi_costume_cute",
-        "name": "Musashi Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_ursena_costume_cute",
-        "name": "Ursena Toon",
-        "effects": []
     },
     {
         "heroId": "elemental_farrah_costume_cyber",

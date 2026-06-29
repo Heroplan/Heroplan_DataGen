@@ -2321,7 +2321,7 @@
         "id": "lottery_thunderbolt_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 180,
+        "uiPriority": 199,
         "associatedEvent": "ThunderboltSummon",
         "bonusChest": "thunderbolt_chest",
         "bonusChestRequirement": 30,
@@ -58880,5 +58880,5 @@
       }
     ]
   },
-  "productsConfigId": 2235813161
+  "productsConfigId": 2947934777
 }

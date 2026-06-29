@@ -6034,6 +6034,13 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
         "passives": [
@@ -8333,6 +8340,13 @@ const translatedPassivesTC =
         "heroId": "s2_ursena_costume_reef",
         "name": "Ursena C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ]
     },
     {
         "heroId": "dark_god_uthragan",
@@ -13360,6 +13374,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。",
+            "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
+        ]
+    },
+    {
         "heroId": "holy_god_neith",
         "name": "Neith",
         "passives": [
@@ -14117,21 +14139,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "s2_ghost_woman_costume_cute",
-        "name": "Ameonna Toon",
-        "passives": []
-    },
-    {
-        "heroId": "holy_god_musashi_costume_cute",
-        "name": "Musashi Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_ursena_costume_cute",
-        "name": "Ursena Toon",
-        "passives": []
     },
     {
         "heroId": "elemental_farrah_costume_cyber",

@@ -7750,6 +7750,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "effects": [
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "The caster shifts into Ghost Form for 4 turns.",
+            "While in Ghost form the caster gains +90% attack. (While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)",
+            "All allies except the caster get +54% defense against Holy for 4 turns."
+        ]
+    },
+    {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
         "effects": [
@@ -8944,7 +8954,7 @@ const allTranslations =
         "name": "Elsbeth",
         "effects": [
             "Deals 600% damage to the target.",
-            "If the target has Fiends or Mega Fiends, deals 500% damage to a random enemy.",
+            "If the target has Fiends or Mega Fiends, deals 500% damage to a random different enemy.",
             "Summon a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns. Seedling Fiend: 50% attack, 20% health, Sprout Fiend: 75% attack, 30% health, Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health. The evolution of the Fiends is delayed by 1 turn each time they absorb healing.)",
             "The caster and nearby allies get +44% defense, and a further 10% increase every time they are hit during 3 turns, up to +94% defense."
         ]
@@ -10723,6 +10733,17 @@ const allTranslations =
             "If the enemies have more that 50% health remaining, deals 260% damage instead.",
             "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Holy Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
             "All Holy enemies get -54% defense against Dark for 4 turns."
+        ]
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "effects": [
+            "This Special Skill never misses its targets.",
+            "Deals 210% damage to all enemies.",
+            "If the enemies have more than 50% health remaining, deals 420% damage instead.",
+            "All allies reflect all status ailments and 160% damage back to the attacker and block other negative effects from enemies' Holy Special Skills for 4 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
+            "Deals extra damage against Holy."
         ]
     },
     {
@@ -17141,6 +17162,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "effects": [
+            "Deals 575% damage to the target and minor damage to nearby enemies.",
+            "All allies heal 50% of dealt normal damage for 5 turns.",
+            "Deals extra damage against Dark.",
+            "Element Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "holy_god_neith",
         "name": "Neith",
         "effects": [
@@ -18080,21 +18111,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "s2_ghost_woman_costume_cute",
-        "name": "Ameonna Toon",
-        "effects": []
-    },
-    {
-        "heroId": "holy_god_musashi_costume_cute",
-        "name": "Musashi Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_ursena_costume_cute",
-        "name": "Ursena Toon",
-        "effects": []
     },
     {
         "heroId": "elemental_farrah_costume_cyber",

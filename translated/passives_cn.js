@@ -6034,6 +6034,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
         "passives": [
@@ -8333,6 +8340,13 @@ const translatedPassivesCN =
         "heroId": "s2_ursena_costume_reef",
         "name": "Ursena C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
     },
     {
         "heroId": "dark_god_uthragan",
@@ -13360,6 +13374,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。",
+            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+        ]
+    },
+    {
         "heroId": "holy_god_neith",
         "name": "Neith",
         "passives": [
@@ -14117,21 +14139,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "s2_ghost_woman_costume_cute",
-        "name": "Ameonna Toon",
-        "passives": []
-    },
-    {
-        "heroId": "holy_god_musashi_costume_cute",
-        "name": "Musashi Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_ursena_costume_cute",
-        "name": "Ursena Toon",
-        "passives": []
     },
     {
         "heroId": "elemental_farrah_costume_cyber",

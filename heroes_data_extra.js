@@ -48418,5 +48418,80 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Ameonna toon",
+        "fancy name": "Lone Toon Ghost",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-06-28",
+        "AetherPower": "Special Armor",
+        "heroId": "s2_ghost_woman_costume_cute",
+        "baseAttack": 322,
+        "baseDefense": 297,
+        "baseHealth": 505,
+        "specialId": "ethereal",
+        "specialId_costume": "toon_ghost",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "japanese"
+    },
+    {
+        "name": "Ursena toon",
+        "fancy name": "Toon of the Depths",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-06-28",
+        "AetherPower": "Bulwark",
+        "heroId": "s2_ursena_costume_cute",
+        "baseAttack": 374,
+        "baseDefense": 350,
+        "baseHealth": 623,
+        "specialId": "depth_blast",
+        "specialId_costume": "toon_blast",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Musashi toon",
+        "fancy name": "Toon Ronin",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-06-28",
+        "AetherPower": "Attack Up",
+        "heroId": "holy_god_musashi_costume_cute",
+        "baseAttack": 383,
+        "baseDefense": 331,
+        "baseHealth": 609,
+        "specialId": "dragon_fang",
+        "specialId_costume": "toon_blade",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
     }
 ];

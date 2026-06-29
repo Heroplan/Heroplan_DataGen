@@ -53354,6 +53354,13 @@
         "endTime": "2026-07-15 07:00:00"
       },
       {
+        "id": "quintuple_sacred",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-13 07:00:00",
+        "endTime": "2026-07-15 07:00:00"
+      },
+      {
         "id": "harvester_hype2",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -68727,12 +68734,12 @@
               "lotteryProductType": "Thunderbolt Summon",
               "id": "lottery_thunderbolt_2200_10_16",
               "productId": "lottery_thunderbolt_default",
-              "startDate": "2200-12-12 07:00:00",
-              "endDate": "2200-12-16 07:00:00",
+              "startDate": "2026-06-29 07:00:00",
+              "endDate": "2026-07-03 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "forest_titan",
-                "christmas_mrs_claus"
+                "scoundrel_duval",
+                "scoundrel_lane"
               ]
             }
           ],
@@ -83380,5 +83387,5 @@
       ]
     }
   },
-  "shopConfigId": 437819207
+  "shopConfigId": 82270175
 }

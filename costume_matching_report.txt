@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (591 / 0)
+✅ 成功匹配的服装 (594 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -269,6 +269,7 @@ Name: Mnesseus Costume1, Fancy Name: Lieutenant of Atlantis
 Name: Isshtak Costume1, Fancy Name: Lizardfolk Ancestor
 Name: Kashhrek Costume1, Fancy Name: Lizardfolk Elder
 Name: Kashhrek Costume2, Fancy Name: Lizardfolk Fisher
+Name: Ameonna toon, Fancy Name: Lone Toon Ghost
 Name: Ameonna Costume1, Fancy Name: Lonesome Yurei
 Name: Zimkitha Costume1, Fancy Name: Long-Lost Adventurer
 Name: Almur Costume1, Fancy Name: Lord of Svartalfheim
@@ -519,6 +520,7 @@ Name: Balthazar Toon, Fancy Name: Toon Magician
 Name: Melia toon, Fancy Name: Toon Mermaid
 Name: Mnesseus toon, Fancy Name: Toon Merman
 Name: Ariel toon, Fancy Name: Toon Princess of Atlantis
+Name: Musashi toon, Fancy Name: Toon Ronin
 Name: Poseidon toon, Fancy Name: Toon Ruler of Atlantis
 Name: Vivica Toon, Fancy Name: Toon Scholar
 Name: Quintus Toon, Fancy Name: Toon Scientist
@@ -539,6 +541,7 @@ Name: Dawa Toon, Fancy Name: Toon of Shaguad
 Name: Justice Toon, Fancy Name: Toon of Stone
 Name: Ares toon, Fancy Name: Toon of War
 Name: Marjana Toon, Fancy Name: Toon of Windemer
+Name: Ursena toon, Fancy Name: Toon of the Depths
 Name: Tarlak toon, Fancy Name: Toon of the Jungle
 Name: Joon Toon, Fancy Name: Toon of the Sun
 Name: Horghall Toon, Fancy Name: Toon of the Woods

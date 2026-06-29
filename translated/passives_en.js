@@ -6034,6 +6034,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "s2_ghost_woman_costume_cute",
+        "name": "Ameonna Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
+    },
+    {
         "heroId": "ninja_ametrine",
         "name": "Ametrine",
         "passives": [
@@ -7392,7 +7399,7 @@ const allTranslations =
         "heroId": "dark_god_september_costume_engineer",
         "name": "Khiona C1",
         "passives": [
-            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status efect buff from all enemies."
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
@@ -8333,6 +8340,13 @@ const allTranslations =
         "heroId": "s2_ursena_costume_reef",
         "name": "Ursena C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_ursena_costume_cute",
+        "name": "Ursena Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
     },
     {
         "heroId": "dark_god_uthragan",
@@ -13360,6 +13374,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "holy_god_musashi_costume_cute",
+        "name": "Musashi Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ]
+    },
+    {
         "heroId": "holy_god_neith",
         "name": "Neith",
         "passives": [
@@ -14117,21 +14139,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "s2_ghost_woman_costume_cute",
-        "name": "Ameonna Toon",
-        "passives": []
-    },
-    {
-        "heroId": "holy_god_musashi_costume_cute",
-        "name": "Musashi Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_ursena_costume_cute",
-        "name": "Ursena Toon",
-        "passives": []
     },
     {
         "heroId": "elemental_farrah_costume_cyber",
