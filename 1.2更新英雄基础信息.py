@@ -303,6 +303,25 @@ def main_sync_process():
             print(f"  - {name} (共 {count} 个版本)")
     else:
         print("✅ 未发现任何重名英雄。")
+
+    # ==================================================================
+    # --- 构建服装被动技能索引（parentHeroId -> [(release_date, costumeBonusPassiveSkillIds), ...]）---
+    # ==================================================================
+    print("\n--- 构建服装被动技能索引... ---")
+    costume_passive_index = {}
+    for hero_id, data in CHARACTERS_DATA['__raw__'].items():
+        costume_skills = data.get('costumeBonusPassiveSkillIds')
+        if costume_skills is not None and data.get('parentHeroId'):
+            parent = data['parentHeroId']
+            release_date = data.get('canBeReceivedDate', '')
+            if release_date:
+                release_date = release_date.split(' ')[0]  # 取日期部分
+            else:
+                release_date = ''
+            if parent not in costume_passive_index:
+                costume_passive_index[parent] = []
+            costume_passive_index[parent].append((release_date, costume_skills))
+    print(f"✅ 构建完成，共 {len(costume_passive_index)} 个父英雄有服装被动技能记录。")
     # ==================================================================
 
     print("\n--- 阶段 2: 开始自动化数据同步 (Always Read Latest) ---")
@@ -418,6 +437,41 @@ def main_sync_process():
                         BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": reason})
                 else:
                     BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": f"未找到 parentHeroId '{parent_hero_id}'"})
+                
+                # --- 新增：合并早期服装的被动技能 ---
+                if parent_hero_id in costume_passive_index:
+                    current_release = hero_extra.get('Release date')
+                    if current_release:
+                        extra_skills = []
+                        for rel_date, skills in costume_passive_index[parent_hero_id]:
+                            if rel_date and rel_date < current_release:
+                                if skills:
+                                    if isinstance(skills, list):
+                                        extra_skills.extend(skills)
+                                    else:
+                                        extra_skills.append(skills)
+                        if extra_skills:
+                            # 合并到现有 passiveSkills
+                            current_skills = hero_extra.get('passiveSkills')
+                            all_skills = []
+                            if current_skills:
+                                if isinstance(current_skills, list):
+                                    all_skills.extend(current_skills)
+                                else:
+                                    all_skills.append(current_skills)
+                            all_skills.extend(extra_skills)
+                            # 去重保持顺序
+                            seen = set()
+                            unique_skills = []
+                            for s in all_skills:
+                                if s not in seen:
+                                    seen.add(s)
+                                    unique_skills.append(s)
+                            hero_extra['passiveSkills'] = unique_skills
+                            log_msg = f"[服装被动合并] '{hero_extra.get('name')}' 添加了来自 {len(extra_skills)} 个早于自身的服装被动技能"
+                            CORRECTION_LOG_MESSAGES.append(log_msg)
+                # --- 合并结束 ---
+
             else:
                 # 如果不是服装英雄，确保清理掉可能存在的旧服装数据
                 if 'costumeBonusPassiveSkillIds' in hero_extra: del hero_extra['costumeBonusPassiveSkillIds']

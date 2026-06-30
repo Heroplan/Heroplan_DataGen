@@ -46464,7 +46464,8 @@ window.allHeroesExtra = [
         "specialId": "crush_of_hel",
         "specialId_costume": "crush_of_toon_hel",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "90%",
@@ -46612,7 +46613,8 @@ window.allHeroesExtra = [
         "specialId": "soul_cage",
         "specialId_costume": "skeletoon_summon",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "90%",
@@ -46862,7 +46864,8 @@ window.allHeroesExtra = [
         "specialId": "might_of_ares",
         "specialId_costume": "might_of_toon_ares",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_cleanse_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "90%",
@@ -47518,7 +47521,8 @@ window.allHeroesExtra = [
         "specialId": "athenas_bow",
         "specialId_costume": "toon_athenas_bow",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "90%",
@@ -48485,7 +48489,8 @@ window.allHeroesExtra = [
         "specialId": "dragon_fang",
         "specialId_costume": "toon_blade",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "90%",

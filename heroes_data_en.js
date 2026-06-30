@@ -7799,7 +7799,8 @@ window.allHeroes =
         "specialId": "toon_athenas_bow",
         "parent_specialId": "athenas_bow",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "ice_god_athena_costume_cute",
@@ -57843,7 +57844,8 @@ window.allHeroes =
         "specialId": "crush_of_toon_hel",
         "parent_specialId": "crush_of_hel",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dark_god_hel_costume_cute",
@@ -66266,7 +66268,8 @@ window.allHeroes =
         "specialId": "skeletoon_summon",
         "parent_specialId": "soul_cage",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "witch_king_costume_cute",
@@ -76869,7 +76872,8 @@ window.allHeroes =
         "specialId": "might_of_toon_ares",
         "parent_specialId": "might_of_ares",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_cleanse_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fire_god_ares_costume_cute",
@@ -107682,7 +107686,8 @@ window.allHeroes =
         "specialId": "toon_blade",
         "parent_specialId": "dragon_fang",
         "passiveSkills": [
-            "empowered_toon_resist_manareduction_dispels"
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "holy_god_musashi_costume_cute",

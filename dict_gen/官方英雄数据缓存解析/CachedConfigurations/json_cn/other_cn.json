@@ -3081,6 +3081,12 @@
             "type": "CovenantQuest",
             "startTime": "2026-06-22 10:30:00",
             "endTime": "2026-06-25 07:00:00"
+          },
+          {
+            "id": "SecretSummonFoodMimicBlue",
+            "type": "MysteryHero",
+            "startTime": "2026-06-30 07:00:00",
+            "endTime": "2026-07-01 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -96167,5 +96173,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1273912764
+  "otherConfigId": 753306683
 }
