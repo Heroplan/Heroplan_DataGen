@@ -1393,6 +1393,26 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_food_blue",
+        "name": "Food Mimic Ice",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This mimic grants a chance for the following extra loot:",
+            "Legendary",
+            "* Giant Food Bundle",
+            "Epic",
+            "* Large Food Bundle",
+            "Rare",
+            "* Medium Food Bundle",
+            "Uncommon",
+            "* Small Food Bundle",
+            "* Trainer Hero",
+            "Common",
+            "* Tiny Food Bundle",
+            "* Trainer Hero"
+        ]
+    },
+    {
         "heroId": "masquerade_fortuna",
         "name": "Fortuna",
         "passives": [
@@ -1751,11 +1771,10 @@ const allTranslations =
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "passives": [
-            "Thief's Opportunity: At the start of each turn this character has a 100% chance to Ransack a random enemy",
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals one random status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
-            "* Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ]
     },
@@ -6940,11 +6959,10 @@ const allTranslations =
         "heroId": "scoundrel_duval",
         "name": "Duval",
         "passives": [
-            "Thief's Opportunity: At the start of each turn this character has a 100% chance to Ransack a random enemy",
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals one random status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
-            "* Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ]
     },

@@ -48498,5 +48498,25 @@ window.allHeroesExtra = [
         "healthBonus": "90%",
         "manaBonus": "5%",
         "family": "hotm2017"
+    },
+    {
+        "name": "Food Mimic Ice",
+        "fancy name": "Flesh-eating Chest",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-06-30",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_food_blue",
+        "baseAttack": 692,
+        "baseDefense": 689,
+        "baseHealth": 1158,
+        "specialId": "wicked_lick_blue",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_blue"
+        ],
+        "family": "mimic"
     }
 ];

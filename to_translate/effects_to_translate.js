@@ -1763,6 +1763,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_food_blue",
+        "name": "Food Mimic Ice",
+        "effects": [
+            "Deals 500% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "Heals all allies for 30% of damage dealt.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "masquerade_fortuna",
         "name": "Fortuna",
         "effects": [
@@ -8933,9 +8943,9 @@ const allTranslations =
         "heroId": "scoundrel_duval",
         "name": "Duval",
         "effects": [
-            "Ransacks the target, stealing health and buffs. (Steals 400 health. Safely steals one random status effect buff from the target. This includes undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
+            "Ransacks the target, stealing 400 health and a buff. (Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
             "Deals 560% damage to the target.",
-            "The target receives 1425 Poison damage over 3 turns. This effect spreads to nearby enemies."
+            "The target receives 1518 Poison damage over 3 turns. This effect spreads to nearby enemies."
         ]
     },
     {
@@ -17616,8 +17626,8 @@ const allTranslations =
         "heroId": "fox_silverpaw",
         "name": "Silverpaw",
         "effects": [
-            "Steals Minions or a Mega Minion from target.",
-            "Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
+            "Steals all Minions or a Mega Minion from target.",
+            "Inflicts the target wit lasting Greed. Friendly effects from all Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
             "All enemies receive 137-377 increasing Curse damage each turn for 4 turns. (On the first turn, 137 damage is dealt. The damage increases by +40% each turn, up to 377 damage per turn.)"
         ]
     },

@@ -350,6 +350,7 @@ new_heroes, future_heroes = generate_heroes_data_single_file(
 
 # 保存新英雄 (年份 < 2200)
 save_heroes_data(new_heroes, new_heroes_output, "新英雄 (年份<2200)")
+save_heroes_data(new_heroes, '../../extra_heroes.json', "新英雄 (年份<2200)")
 
 # 保存未来英雄 (年份 >= 2200)
 save_heroes_data(future_heroes, future_heroes_output, "未来英雄 (年份>=2200)")

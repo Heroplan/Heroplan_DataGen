@@ -1,5 +1,17 @@
 [
     {
+        "name": "Food Mimic",
+        "fancy_name": "Flesh-eating Chest",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-06-30 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_food_blue",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Farrah C",
         "fancy_name": "Cyber Blade Master",
         "color": "Purple",
