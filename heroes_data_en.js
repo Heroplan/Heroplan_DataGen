@@ -16013,7 +16013,7 @@ window.allHeroes =
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
-            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ],
         "family": "beowulf",
         "costume_id": 0,
@@ -25099,7 +25099,7 @@ window.allHeroes =
             "Stack (Max: 10): The caster recovers 5 HP each turn"
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -28890,7 +28890,7 @@ window.allHeroes =
             "Stack (Max: 10): The caster recovers 10 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -31331,7 +31331,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Minion Removal: This character has innate resistance against Minion removal.",
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them.",
             "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ],
         "family": "hotm2024",
@@ -47055,7 +47055,7 @@ window.allHeroes =
             "Stack (Max: 10): The caster recovers 5 HP each turn"
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -54039,7 +54039,7 @@ window.allHeroes =
             "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -61824,7 +61824,7 @@ window.allHeroes =
             "Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect cannot be dispelled"
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "hotm2022",
@@ -62071,7 +62071,7 @@ window.allHeroes =
             "All enemies get -34% attack for 3 turns."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -65544,7 +65544,7 @@ window.allHeroes =
             "Element Link gives all Dark allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
         "family": "hotm2024",

@@ -2018,7 +2018,7 @@ const allTranslations =
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Empowered Resist Mana Reduction: This character is immune to mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
-            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ]
     },
     {
@@ -3115,7 +3115,7 @@ const allTranslations =
         "heroId": "slayer_noril",
         "name": "Noril",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -3528,7 +3528,7 @@ const allTranslations =
         "heroId": "slayer_orla",
         "name": "Orla",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -3832,7 +3832,7 @@ const allTranslations =
         "heroId": "nature_god_bo_and_runt",
         "name": "Bo & Runt",
         "passives": [
-            "Resist Minion Removal: This character has innate resistance against Minion removal.",
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them.",
             "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ]
     },
@@ -5868,7 +5868,7 @@ const allTranslations =
         "heroId": "slayer_maeve",
         "name": "Maeve",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -6700,7 +6700,7 @@ const allTranslations =
         "heroId": "bard_belladonna",
         "name": "Belladonna",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -7709,7 +7709,7 @@ const allTranslations =
         "heroId": "dark_god_morax",
         "name": "Morax",
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
@@ -7739,7 +7739,7 @@ const allTranslations =
         "heroId": "bard_narcisa",
         "name": "Narcisa",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -8150,7 +8150,7 @@ const allTranslations =
         "heroId": "dark_god_sir_casmir",
         "name": "Sir Casmir",
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ]
     },
