@@ -36874,7 +36874,6 @@
     "specialId": "邪恶之舐",
     "canBeReceivedDate": "2026-06-05 07:00:00",
     "origin": "SecretSummonFoodMimicGreen",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_blue": {

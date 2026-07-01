@@ -3304,6 +3304,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_ulfhild",
+        "name": "Ulfhild",
+        "effects": [
+            "This Special Skill never misses its targets.",
+            "Deals 420% damage to the target and 3 random enemies.",
+            "All hit targets get -55% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "For each enemy defeated by the attack, the caster recovers +25% health and gains +25% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Elemental Link recovers +4% health for all Ice allies for 6 turns. This effect can’t be dispelled."
+        ]
+    },
+    {
         "heroId": "magic_ulius",
         "name": "Ulius",
         "effects": [
@@ -9004,6 +9015,16 @@ const allTranslations =
             "Deals 500% damage to the target.",
             "Deals additional 200% damage to as many random enemies as there are Dark tiles on the board, up to a maximum 12 hits. The damage is reduced on each consecutive hit.",
             "All hit targets get -35% defense against Dark, and a further -5% decrease every time they are hit for 4 turns."
+        ]
+    },
+    {
+        "heroId": "elemental_farrah_costume_cyber",
+        "name": "Farrah C1",
+        "effects": [
+            "Deals 510% damage to the target.",
+            "Deals additional 250% damage to as many random enemies as there are Dark shields on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive hit.",
+            "All hit targets get -40% defense against Dark, and a further -5% decrease every time they are hit during 4 turns, down to -60% defense.",
+            "Deals extra damage against Holy."
         ]
     },
     {
@@ -18121,11 +18142,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "elemental_farrah_costume_cyber",
-        "name": "Farrah C",
-        "effects": []
     },
     {
         "heroId": "institute_azureus",

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (594 / 0)
+✅ 成功匹配的服装 (595 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -83,6 +83,7 @@ Name: Zarola costume1, Fancy Name: Cupid of Lone Rangers
 Name: Voluptas costume1, Fancy Name: Cupid of Painters
 Name: Kageburado toon, Fancy Name: Cursed Toonlord
 Name: Ei-Dunn toon, Fancy Name: Cursed Viking Toon
+Name: Farrah costume1, Fancy Name: Cyber Blade Master
 Name: Aconia costume1, Fancy Name: Cyber Courier
 Name: Scarlett Costume2, Fancy Name: Dancer from the Sandsea
 Name: Azmia Costume1, Fancy Name: Dancing Tavern Keeper

@@ -2593,6 +2593,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "ice_god_ulfhild",
+        "name": "Ulfhild",
+        "passives": [
+            "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
+            "受到傷害時疊加攻擊：此角色受到特殊技能傷害時，獲得 +15% 攻擊疊加（最大值： 10 ）。每回合能獲得一層疊加。"
+        ]
+    },
+    {
         "heroId": "magic_ulius",
         "name": "Ulius",
         "passives": [
@@ -7034,6 +7042,18 @@ const translatedPassivesTC =
             "- 造成額外元素傷害： +100%",
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 受到元素傷害： -10%"
+        ]
+    },
+    {
+        "heroId": "elemental_farrah_costume_cyber",
+        "name": "Farrah C1",
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
+            "- 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
+            "- 受到元素傷害： -25%",
+            "抵禦神聖異常：此角色免疫神聖系角色施放的異常狀態及負面效果疊加。"
         ]
     },
     {
@@ -14157,11 +14177,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "elemental_farrah_costume_cyber",
-        "name": "Farrah C",
-        "passives": []
     },
     {
         "heroId": "institute_azureus",

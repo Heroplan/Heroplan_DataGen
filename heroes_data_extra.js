@@ -48518,5 +48518,52 @@ window.allHeroesExtra = [
             "mimic_food_blue"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Ulfhild",
+        "fancy name": "Battle Wolf",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_slow",
+        "Release date": "2026-07-01",
+        "AetherPower": "Rage",
+        "heroId": "ice_god_ulfhild",
+        "baseAttack": 615,
+        "baseDefense": 635,
+        "baseHealth": 1055,
+        "specialId": "iron_gale",
+        "passiveSkills": [
+            "attack_buff_on_damage_received_low",
+            "resist_special_blocking"
+        ],
+        "family": "hotm2026"
+    },
+    {
+        "name": "Farrah costume1",
+        "fancy name": "Cyber Blade Master",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-07-01",
+        "AetherPower": "Attack Up",
+        "heroId": "elemental_farrah_costume_cyber",
+        "baseAttack": 492,
+        "baseDefense": 466,
+        "baseHealth": 779,
+        "specialId": "piercing_falcon",
+        "specialId_costume": "turquoise_falcon",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_yellow"
+        ],
+        "attackBonus": "42%",
+        "defenseBonus": "42%",
+        "healthBonus": "45%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

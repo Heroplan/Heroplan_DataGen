@@ -4124,6 +4124,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-09-22 07:00:00",
             "endTime": "2026-09-26 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-09-29 07:00:00",
+            "endTime": "2026-10-03 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -75747,7 +75754,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 40,
+            "gemValue": 4,
             "amountForSummon": 100
           },
           {
@@ -96068,7 +96075,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "86.0.1",
     "maxVersionToShowUpdateOutReminderIos": "86.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.0",
-    "standaloneNewVersionRolloutPercentage": 20,
+    "standaloneNewVersionRolloutPercentage": 80,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96173,5 +96180,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 753306683
+  "otherConfigId": 3376833169
 }

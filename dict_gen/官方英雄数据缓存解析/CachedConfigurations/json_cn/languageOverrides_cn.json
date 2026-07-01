@@ -38,6 +38,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Tutti gli alleati recuperano {REMOVALEFFECT1FIXEDPOWER} Salute dopo {TURNS} turni. Se l'effetto viene rimosso o sostituito prima del termine previsto, recuperano invece {REMOVALEFFECT2FIXEDPOWER} Salute."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Il bersaglio subisce {DAMAGE} danni da sanguinamento nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da sanguinamento inflitti come Salute potenziata."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Subisce [#!]{DAMAGEPERTURN}[#] danni da sanguinamento a ogni turno. L'evocatore assorbe il [#!]{ABSORBHEALING}%[#] dei danni inflitti come Salute potenziata."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Avvizzimento:[#] il bersaglio ottiene {ATTACKINCREASE} di Attacco."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Il bersaglio si trasforma in un [#!]Verme mentale[#]. I [#!]Vermi mentali[#] hanno il {ATTACK}% di Attacco, il {DEFENSE}% di Difesa e la seguente Abilità speciale:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Infligge 75 di [#!]Follia[#] a un alleato casuale.\n[>]Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
           }
         ]
       },
@@ -78,6 +98,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Все союзники восстанавливают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х. Если эффект снимается или заменяется до истечения срока, восстанавливается {REMOVALEFFECT2FIXEDPOWER} здоровья."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Цель получает {DAMAGE} ед. урона от кровотечения в течение {TURNS} х. Герой поглощает {ABSORBHEALING} % нанесенного кровотечением урона в виде увеличенного здоровья."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Получает [#!]{DAMAGEPERTURN}[#] ед. урона от кровотечения за ход. Герой поглощает [#!]{ABSORBHEALING} %[#] нанесенного урона в виде увеличенного здоровья."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Увядание:[#] цель получает {ATTACKINCREASE} атаки."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Цель превращается в [#!]червя разума[#]. У [#!]червей разума[#] {ATTACK} % атаки, {DEFENSE} % защиты и следующий особый навык:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Вызывает 75 ед. [#!]безумия[#] у одного случайного союзника.\n[>]Снимает недуг [#!]червя разума[#] с героя."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Снимает с героя недуг [#!]«Червь разума»[#]."
           }
         ]
       },
@@ -118,6 +158,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y). Rzucający wchłania {ABSORBHEALING}% zadanych obrażeń od krwawienia jako wzmocnienie zdrowia."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Otrzymujesz [#!]{DAMAGEPERTURN}[#] pkt. obrażeń od krwawienia na turę. Rzucający wchłania [#!]{ABSORBHEALING}%[#] zadanych obrażeń jako wzmocnienie zdrowia."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Susza:[#] cel otrzymuje {ATTACKINCREASE} do ataku."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Cel zmienia się w [#!]robaka umysłu[#]. [#!]Robaki umysłu[#] posiadają {ATTACK}% ataku, {DEFENSE}% obrony i następującą specjalną zdolność:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Zadaje 75 pkt. [#!]obłędu[#] jednemu losowemu sojusznikowi.\n[>]Usuwa [#!]robaka umysłu[#] z rzucającego."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Usuwa dolegliwość [#!]robak umysłu[#] z rzucającego."
           }
         ]
       },
@@ -158,6 +218,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "所有盟友在{TURNS}個回合後恢復{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前遭移除或替代，則轉而恢復{REMOVALEFFECT2FIXEDPOWER}點生命值。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "目標在{TURNS}個回合內受到{DAMAGE}點流血傷害。施法者吸收所造成之流血傷害的{ABSORBHEALING}%作為加成生命值。"
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "每回合受到[#!]{DAMAGEPERTURN}[#]點流血傷害。施法者能吸收所造成之傷害的[#!]{ABSORBHEALING}%[#]作為加成生命值。"
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]枯萎：[#]目標獲得{ATTACKINCREASE}點攻擊。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "目標變成[#!]心靈蠕蟲[#]。 [#!]心靈蠕蟲[#]有{ATTACK}%攻擊、{DEFENSE}%防禦與以下特殊技能：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]對一名隨機盟友施加75點 [#!]瘋狂[#]。\n[>]移除施法者的[#!]心靈蠕蟲[#]異常。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "移除施法者的[#!]心靈蠕蟲[#]狀態異常。"
           }
         ]
       },
@@ -198,6 +278,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "모든 아군이 {TURNS}턴 후에 {REMOVALEFFECT1FIXEDPOWER} HP를 회복합니다. 만약 그 전에 이 효과가 사라지거나 교체되면 대신 {REMOVALEFFECT2FIXEDPOWER} HP를 회복합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "대상이 {TURNS}턴 동안 {DAMAGE}의 출혈 피해를 입습니다. 가한 출혈 피해의 {ABSORBHEALING}%를 시전자가 증가된 HP로 흡수합니다."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "턴마다 [#!]{DAMAGEPERTURN}[#] 출혈 피해를 입습니다. 가한 피해의 [#!]{ABSORBHEALING}%[#]를 시전자가 증가된 HP로 흡수합니다."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]쇠퇴:[#] 목표물이 {ATTACKINCREASE} 공격력을 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "대상이 [#!]마인드웜[#] 상태가 됩니다. [#!]마인드웜[#]은 {ATTACK}% 공격력, {DEFENSE}% 방어력을 받으며 다음 특수 스킬을 갖습니다:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]무작위 아군 한 명에게 75 [#!]광기[#]를 부여합니다.\n[>]시전자로부터 [#!]마인드웜[#] 상태 이상을 제거합니다."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "시전자의 [#!]마인드웜[#] 상태 이상을 제거합니다."
           }
         ]
       },
@@ -238,6 +338,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Alle Verbündeten erhalten nach {TURNS} Zügen {REMOVALEFFECT1FIXEDPOWER} Gesundheit zurück. Wenn der Effekt vor Ablauf der Dauer entfernt oder ersetzt wird, erhalten sie stattdessen {REMOVALEFFECT2FIXEDPOWER} Lebenspunkte zurück."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Das Ziel erleidet {DAMAGE} Blutungsschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Blutungsschadens als verstärktes Leben."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "[#!]{DAMAGEPERTURN}[#] Blutungsschaden pro Zug. Der Wirker absorbiert [#!]{ABSORBHEALING} %[#] des zugefügten Schadens als verstärktes Leben."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Verwelken:[#] Das Ziel erhält {ATTACKINCREASE} Angriff."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Das Ziel verwandelt sich in einen [#!]Verstandswurm[#]. [#!]Verstandswürmer[#] haben {ATTACK} % Angriff, {DEFENSE} % Verteidigung und die folgende Spezialfähigkeit:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Fügt zufälligem Gegner 75 [#!]Wahnsinn[#] hinzu.\n[>]Entfernt den Zustand [#!]Verstandswurm[#] vom Wirker."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Entfernt den Statuseffekt [#!]Verstandswurm[#] vom Wirker."
           }
         ]
       },
@@ -278,6 +398,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "{TURNS}ターン後に、仲間全員のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "{TURNS}ターンの間、ターゲットに{DAMAGE}の出血ダメージを与える。術者は、与えた出血ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "ターン毎に、敵全員に[#!]{DAMAGEPERTURN}[#]の出血ダメージを与える。術者は、与えた出血ダメージの[#!]{ABSORBHEALING}%[#]をブーストライフとして吸収する。"
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]弱化：[#]ターゲットの攻撃力が{ATTACKINCREASE}減少する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "ターゲットが[#!]マインドワーム[#]に変化する。[#!]マインドワーム[#]に変化すると、攻撃力が{ATTACK}%、防御力が{DEFENSE}%になり、以下の特殊スキルを使えるようになる：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]ランダムな味方1体に[#!]狂気[#]を75付与する。\n[>]術者から[#!]マインドワーム[#]のステータス異常を消去する。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "術者から[#!]マインドワーム[#]のステータス異常を消去する。"
           }
         ]
       },
@@ -318,6 +458,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som ökad hälsa."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Tar [#!]{DAMAGEPERTURN}[#] blödande skada per runda. Användaren absorberar [#!]{ABSORBHEALING} %[#] av den gjorda skadan som ökad hälsa."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Vittra:[#] Målet får {ATTACKINCREASE} attack."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Målet förvandlas till en [#!]sinnesmask[#]. [#!]Sinnesmaskar[#] har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Ger 75 [#!]vansinne[#] till en slumpmässig allierad.\n[>]Tar bort [#!]sinnesmask[#]-effekten från användaren."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Tar bort den negativa effekten [#!]sinnesmask[#] från användaren."
           }
         ]
       },
@@ -358,6 +518,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Tüm müttefikler {TURNS} turdan sonra {REMOVALEFFECT1FIXEDPOWER} sağlık yeniler. Efekt, süre bitmeden kaldırılırsa veya değiştirilirse {REMOVALEFFECT2FIXEDPOWER} sağlık yeniler."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Hedef {TURNS} tur boyunca {DAMAGE} Kanama hasarı alır. Eylemci, verilen Kanama hasarının %{ABSORBHEALING} kadarını güçlendirilmiş sağlık olarak emer."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Tur başına [#!]{DAMAGEPERTURN}[#] Kanama hasarı alırsın. Eylemci, verilen hasarın [#!]%{ABSORBHEALING}[#] kadarını güçlendirilmiş sağlık olarak emer."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Soldurma:[#] Hedef {ATTACKINCREASE} saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Hedef bir [#!]Zihin Kurduna[#] dönüşür. [#!]Zihin Kurtları[#] %{ATTACK} saldırıya, %{DEFENSE} savunmaya ve aşağıdaki Özel Yeteneğe sahiptir:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Rastgele bir müttefike 75 [#!]Delilik[#] uygular.\n[>]Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
           }
         ]
       },
@@ -402,6 +582,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as boosted health."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Receive [#!]{DAMAGEPERTURN}[#] Bleed damage per turn. The caster absorbs [#!]{ABSORBHEALING}%[#] of dealt damage as boosted health."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Wither:[#] The target gets {ATTACKINCREASE} attack."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "The target turns into a [#!]Mindworm[#]. [#!]Mindworms[#] have {ATTACK}% attack, {DEFENSE}% defense and the following Special Skill:\n\n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Inflicts 75 [#!]Insanity[#] on one random ally.\n[>]Removes the [#!]Mindworm[#] ailment from the caster."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Removes the [#!]Mindworm[#] ailment from the caster."
           }
         ]
       },
@@ -442,6 +642,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "يستعيد جميع الحلفاء {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "يتلقى الهدف {DAMAGE} من ضرر النزيف طوال {TURNS} من الجولات. يمتص الملقي نسبة {ABSORBHEALING}% من ضرر النزيف الملحق على هيئة صحة معززة."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "تلقَّ [#!]{DAMAGEPERTURN}[#] من ضرر النزيف في كل جولة. يمتص الرامي نسبة [#!]{ABSORBHEALING}%[#] من الضرر الملحق على هيئة صحة معززة."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]التلف:[#] يحصل الهدف على {ATTACKINCREASE} من الهجوم."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "يتحول الهدف إلى [#!]دودة عقل[#]. يمتلك [#!]دود العقل[#] {ATTACK}% من الهجوم، و{DEFENSE}% من الدفاع، والمهارة الخاصة التالية:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]تلحق 75 من [#!]الجنون[#] بحليف عشوائي.\n[>]تزيل مرض [#!]دودة العقل[#] عن الرامي."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "تُزيل مرض [#!]دودة العقل[#] من الملقي."
           }
         ]
       },
@@ -482,6 +702,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Tous les alliés récupèrent {REMOVALEFFECT1FIXEDPOWER} PV après {TURNS} tours. Si l'effet est supprimé ou remplacé avant la fin de cette durée, la récupération s'élève à {REMOVALEFFECT2FIXEDPOWER} PV."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "La cible reçoit {DAMAGE} points de dégâts de saignement en {TURNS} tours. Le lanceur obtient de la santé boostée à hauteur de [#!]{ABSORBHEALING} %[#] des dégâts."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Reçoit {DAMAGE} points de dégâts de saignement en {TURNS} tours. Le lanceur obtient de la santé boostée à hauteur de [#!]{ABSORBHEALING} %[#] des dégâts."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Flétrissement :[#] la cible reçoit {ATTACKINCREASE} points d'attaque."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "La cible se transforme en [#!]ver de l'esprit[#]. Le [#!]ver de l'esprit[#] a {ATTACK} % d'attaque, {DEFENSE} % de défense et la compétence spéciale suivante :\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Inflige 75 points de [#!]folie[#] à un allié aléatoire.\n[>]Retire le malus [#!]Ver de l'esprit[#] du lanceur."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Supprime le [#!]ver de l'esprit[#] du lanceur."
           }
         ]
       },
@@ -522,6 +762,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, restaura {REMOVALEFFECT2FIXEDPOWER} de vida."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "O alvo recebe {DAMAGE} de dano de sangramento por {TURNS} turnos. O invocador absorve como vida reforçada {ABSORBHEALING}% do dano de sangramento causado."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Recebe [#!]{DAMAGEPERTURN}[#] de dano de sangramento por turno. O invocador absorve como vida reforçada [#!]{ABSORBHEALING}%[#] do dano causado."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Atrofia:[#] o alvo recebe {ATTACKINCREASE} de ataque."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "O alvo se transforma em um [#!]Vermental[#]. [#!]Vermentais[#] têm {ATTACK}% de ataque, {DEFENSE}% de defesa e a seguinte habilidade especial:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aplica 75 [#!]Insanidade[#] a um aliado aleatório.\n[>]Remove o mal [#!]Vermental[#] do invocador."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Remove a doença [#!]Vermental[#] do invocador."
           }
         ]
       },
@@ -562,6 +822,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Kesehatan semua sekutu pulih {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, kesehatan akan pulih {REMOVALEFFECT2FIXEDPOWER}."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Sasaran menerima {DAMAGE} kerusakan Berdarah selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Berdarah yang ditimbulkan sebagai peningkatan kesehatan."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Mengalami [#!]{DAMAGEPERTURN}[#] kerusakan Berdarah per giliran. Perapal menyerap [#!]{ABSORBHEALING}%[#] dari kerusakan yang ditimbulkan sebagai peningkatan kesehatan."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Layu:[#] Sasaran mendapat {ATTACKINCREASE} serangan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Sasaran berubah jadi [#!]Mindworm[#]. [#!]Mindworm[#] memiliki {ATTACK}% serangan, {DEFENSE}% pertahanan, dan Keahlian Khusus berikut:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Menimpakan 75 [#!]Kegilaan[#] pada satu sekutu acak.\n[>]Menghilangkan pelemahan [#!]Mindworm[#] dari perapal."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Menghapus pelemahan [#!]Mindworm[#] dari perapal."
           }
         ]
       },
@@ -602,6 +882,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Palauttaa kaikille liittolaisille {REMOVALEFFECT1FIXEDPOWER} terveyttä {TURNS} vuoron jälkeen. Jos vaikutus poistetaan tai korvataan ennen keston päättymistä, palauttaa {REMOVALEFFECT2FIXEDPOWER} terveyttä sen sijaan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Kohde kärsii {DAMAGE} verenvuotovauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta verenvuotovauriosta tehostettuna terveytenä."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Kärsii [#!]{DAMAGEPERTURN}[#] verenvuotovauriota vuoroa kohden. Loitsija imee [#!]{ABSORBHEALING} %[#] tuotetusta vauriosta tehostettuna terveytenä."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Näivettäminen:[#] Kohde saa {ATTACKINCREASE} hyökkäystä."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Kohde muuttuu [#!]mielimadoksi[#]. [#!]Mielimadoilla[#] on {ATTACK} % hyökkäystä, {DEFENSE} % puolustusta ja seuraava erikoistaito:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aiheuttaa 75 [#!]hulluutta[#] yhdelle satunnaiselle liittolaiselle.\n[>]Poistaa loitsijalta [#!]mielimato[#]-vaivan."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Poistaa [#!]mielimato[#]-vaivan loitsijalta."
           }
         ]
       },
@@ -642,6 +942,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Alle allierede genvinder {REMOVALEFFECT1FIXEDPOWER} helbred efter {TURNS} runder. Hvis effekten fjernes eller erstattes, før den udløber, genvindes {REMOVALEFFECT2FIXEDPOWER} HP i stedet."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Målet får {DAMAGE} bløderskade i {TURNS} runder. Kasteren absorberer {ABSORBHEALING} % af den påførte bløderskade som forstærket helbred."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Modtag [#!]{DAMAGEPERTURN}[#] bløderskade per runde. Kasteren absorberer [#!]{ABSORBHEALING} %[#] af den påførte skade som forstærket helbred."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Visne:[#] Målet får {ATTACKINCREASE} angreb."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Målet bliver til en [#!]Sindsorm[#]. [#!]Sindsorme[#] har {ATTACK} % angreb, {DEFENSE} % forsvar og følgende særlige evne:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Giver 75 [#!]vanvid[#] til en tilfældig allieret.\n[>]Fjerner [#!]Sindsormens[#] lidelse fra kasteren."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Fjerner [#!]Sindsorm[#]-lidelsen fra kasteren."
           }
         ]
       },
@@ -682,6 +1002,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Todos los aliados recuperan {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "El objetivo recibe {DAMAGE} de daño de sangrado durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de sangrado infligido como vitalidad aumentada."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Recibe [#!]{DAMAGEPERTURN}[#] de daño de sangrado por turno. El héroe absorbe un [#!]{ABSORBHEALING} %[#] del daño infligido como vitalidad aumentada."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Merma:[#] El objetivo obtiene {ATTACKINCREASE} de ataque."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "El objetivo se convierte en [#!]gusano mental[#]. Los [#!]gusanos mentales[#] cuentan con {ATTACK} % de ataque, {DEFENSE} % de defensa y la siguiente habilidad especial:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Infllige 75 de [#!]demencia[#] a un aliado aleatorio.\n[>]Elimina la alteración del [#!]gusano mental[#] del héroe."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Elimina la alteración [#!]gusano mental[#] del héroe."
           }
         ]
       },
@@ -722,6 +1062,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Alle allierte får tilbake {REMOVALEFFECT1FIXEDPOWER} helse etter {TURNS} runder. Hvis effekten fjernes eller erstattes før varigheten er over, fås {REMOVALEFFECT2FIXEDPOWER} helse tilbake i stedet."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Målet tar {DAMAGE} blødeskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført blødeskade som økt helse."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Tar [#!]{DAMAGEPERTURN}[#] blødeskade per tur. Brukeren absorberer [#!]{ABSORBHEALING} %[#] av skade påført som økt helse."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Visne:[#] Målet får {ATTACKINCREASE} angrep."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Målet gjøres om til en [#!]tankeorm[#]. [#!]Tankeormer[#] har {ATTACK} % angrep, {DEFENSE} % forsvar og følgende spesialferdighet:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Påfører 75 [#!]galskap[#] på én tilfeldig alliert.\n[>]Fjerner [#!]tankeorm[#]-lidelsen fra brukeren."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Fjerner [#!]tankeorm[#]-lidelsen fra brukeren."
           }
         ]
       },
@@ -762,6 +1122,26 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "Alle bondgenoten herstellen na {TURNS} beurten {REMOVALEFFECT1FIXEDPOWER} gezondheid. Als het effect voortijdig verwijderd of vervangen wordt, herstelt het in plaats daarvan {REMOVALEFFECT2FIXEDPOWER} gezondheid."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Het doelwit loopt gedurende {TURNS} beurten {DAMAGE} bloedschade op. De spreukspreker absorbeert {ABSORBHEALING}% van de toegebrachte bloedschade als extra gezondheid."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Lijd [#!]{DAMAGEPERTURN}[#] bloedschade per beurt. De spreukspreker absorbeert [#!]{ABSORBHEALING}%[#] van de toegebrachte schade als extra gezondheid."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Verwelking[#]: het doelwit krijgt {ATTACKINCREASE} aanval."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Het doelwit verandert in een [#!]geestworm[#]. De [#!]geestwormen[#] hebben {ATTACK}% aanvalskracht, {DEFENSE}% verdediging en de volgende speciale vaardigheid:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Brengt 75 [#!]waanzin[#] toe aan één willekeurige bondgenoot.\n[>]Verwijdert de [#!]geestwormaandoening[#] van de spreukspreker."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Verwijdert de [#!]geestworm[#]aandoening van de spreukspreker."
           }
         ]
       },
@@ -806,10 +1186,30 @@
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
             "text": "{TURNS}回合后，所有盟友恢复{REMOVALEFFECT1FIXEDPOWER}点生命。若该效果在持续时间结束前被移除或取代，则改为恢复{REMOVALEFFECT2FIXEDPOWER}点生命。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "目标在{TURNS}回合内受到共计{DAMAGE}点流血伤害。施法者会吸收所造成流血伤害的{ABSORBHEALING}%并转化为生命值加成。"
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "每回合受到[#!]{DAMAGEPERTURN}[#]点流血伤害。施法者会吸收所造成剧毒伤害的[#!]{ABSORBHEALING}%[#]并转化为生命值加成。"
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]衰退：[#]目标获得{ATTACKINCREASE}点攻击力。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "目标会变成[#!]噬心虫[#]。[#!]噬心虫[#]拥有{ATTACK}%攻击力、{DEFENSE}%防御力以及以下特殊技能：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]对随机一名盟友施加75层[#!]狂乱[#]。\n[>]移除施法者身上的[#!]噬心虫[#]状态异常。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "移除施法者身上的[#!]噬心虫[#]状态异常。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2467040461
+  "languageOverridesConfigId": 458657944
 }

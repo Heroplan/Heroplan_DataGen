@@ -2593,6 +2593,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_ulfhild",
+        "name": "Ulfhild",
+        "passives": [
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +15% attack Stack (Max: 10). One Stack can be gained per turn."
+        ]
+    },
+    {
         "heroId": "magic_ulius",
         "name": "Ulius",
         "passives": [
@@ -7034,6 +7042,18 @@ const allTranslations =
             "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             "- Received elemental damage: -10%"
+        ]
+    },
+    {
+        "heroId": "elemental_farrah_costume_cyber",
+        "name": "Farrah C1",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
+            "- Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            "- Received elemental damage: -25%",
+            "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ]
     },
     {
@@ -14157,11 +14177,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "elemental_farrah_costume_cyber",
-        "name": "Farrah C",
-        "passives": []
     },
     {
         "heroId": "institute_azureus",
