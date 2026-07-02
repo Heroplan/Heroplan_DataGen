@@ -48565,5 +48565,25 @@ window.allHeroesExtra = [
         "healthBonus": "45%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Azureus",
+        "fancy name": "Aetheric Strategist",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-07-02",
+        "AetherPower": "Taunt",
+        "heroId": "institute_azureus",
+        "baseAttack": 667,
+        "baseDefense": 689,
+        "baseHealth": 1164,
+        "specialId": "aetheric_transmutation",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
+        ],
+        "family": "institute"
     }
 ];

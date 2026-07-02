@@ -42,7 +42,7 @@ const allTranslations =
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.",
             "All enemies get -24% attack for 6 turns.",
             "All enemies get -24% defense for 6 turns.",
-            "All enemies get -24% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All enemies get -24% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -1086,7 +1086,7 @@ const allTranslations =
             "Destroys all Minions from all enemies and damages all Mega Minions.",
             "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1300. Reduces damage by additional 30% when the attacker is of the Nature element.",
-            "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -1240,6 +1240,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "effects": [
+            "Changes the element of all enemies to Fire for 4 turns. (Titans and Mythic Titans are not affected by this status effect.)",
+            "Deals 300% damage to all enemies and inflicts 20 Insanity of them.",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "The caster reflects all status ailments and 165% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected. )",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
+        ]
+    },
+    {
         "heroId": "ninja_azurite",
         "name": "Azurite",
         "effects": [
@@ -1310,7 +1321,7 @@ const allTranslations =
             "Heals all allies for 30% of the damage dealt.",
             "All enemies receive Minion Wound for 5 turns.",
             "Minion Wound: Target's minions health is reduced by 50% and mega minions health is reduced by 25% each turn. (Reduction is applied to owned minions and to any received minions while the effect is active. Reduction only affects minions' current health.)",
-            "All allies get +40% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All allies get +40% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -1603,7 +1614,7 @@ const allTranslations =
         "effects": [
             "All allies regenerate 500 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration resets if the status effect owner is hit with direct damage from a Special Skill.",
             "All allies get +30% defense for 4 turns.",
-            "All allies get +20% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn."
+            "All allies get +20% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn."
         ]
     },
     {
@@ -1721,7 +1732,7 @@ const allTranslations =
         "name": "Fergus",
         "effects": [
             "Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.",
-            "All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
             "The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ]
@@ -1974,7 +1985,7 @@ const allTranslations =
         "effects": [
             "Deals 340% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
-            "All enemies get -24% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "All enemies get -24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
             "* +70% attack for 5 turns.",
             "* +50% defense for 5 turns.",
@@ -1997,7 +2008,7 @@ const allTranslations =
             "Deals 300% damage to all enemies.",
             "Deals additional 5% damage for each Fiend or Mega Fiend owned by the enemies, up to 350% damage in total.",
             "Stack (Max: 10): All damage all enemies receive is increased by 6%.",
-            "Stack (Max: 10): All allies get +4% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "Stack (Max: 10): All allies get +4% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -2342,7 +2353,7 @@ const allTranslations =
             "Recovers 50% health for all allies.",
             "Cleanses status ailments from all allies at the end of each turn for 4 turns.",
             "All allies get +40% chance to dodge Special Skills that deal damage for 4 turns.",
-            "The caster gets -10% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The caster gets -10% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -2987,7 +2998,7 @@ const allTranslations =
             "Deals 400% damage to all enemies.",
             "Enemies with less than 50% health remaining resist healing and receive 400 damage per each resisted healing for 4 turns.",
             "Stack +2 (Max: 10): All damage all enemies receive is increased by +10%.",
-            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -3055,7 +3066,7 @@ const allTranslations =
         "effects": [
             "Deals 270% damage to all enemies.",
             "All enemies receive 627 Water damage over 3 turns.",
-            "All enemies get -35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All enemies get -35% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -3549,7 +3560,7 @@ const allTranslations =
         "effects": [
             "Deals 235% damage to the target.",
             "Growth Boon: Deals 1x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 300 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
-            "The target gets -44% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The target gets -44% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -5168,8 +5179,8 @@ const allTranslations =
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 350% damage to all enemies.",
-            "All enemies get -32% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "The caster gets additional +50% power for the next Special Skill they cast. The additional power increaases +30% each turn, up to a maximum of 140% in total."
+            "All enemies get -32% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "The caster gets additional +50% power for the next Special Skill they cast. The additional power increases +30% each turn, up to a maximum of 140% in total."
         ]
     },
     {
@@ -5640,15 +5651,15 @@ const allTranslations =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* Caster steals 10% mana from the target.",
+            "* Caster steals 10% mana from the target. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 460% damage to the target.",
             "* The less mana the enemies have, the more damage they will receive, up to 600%.",
             "* All allies get +25% mana generation for 3 turns.",
             "2nd:",
-            "* Caster steals 20% mana from the target.",
+            "* Caster steals 20% mana from the target. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 530% damage to the target.",
             "* The less mana the enemies have, the more damage they will receive, up to 700%.",
-            "* All allies get +30% mana generation for 3 turns."
+            "* All allies get +30% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -5665,7 +5676,7 @@ const allTranslations =
             "* Caster steals 25% mana from the target.",
             "* Deals 550% damage to the target.",
             "* The less mana the enemies have, the more damage they will receive, up to 720%.",
-            "* All allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "* All allies get +35% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -5766,7 +5777,7 @@ const allTranslations =
             "After the Special Skill has been cast increases the mana of the caster by 20%.",
             "Summons a Moss Mothling Mega Fiend for the target. The Fiend damages the enemy with 275% attack every turn.",
             "The Moss Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 70% of its owner's max health.",
-            "When summoned, the Moss Mothling Mega Fiend gives -50% mana generation for its owner for as long as the owner has Moss Mothling Mega Fiend. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "When summoned, the Moss Mothling Mega Fiend gives -50% mana generation for its owner for as long as the owner has Moss Mothling Mega Fiend. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -5922,7 +5933,7 @@ const allTranslations =
             "Deals 850% damage to the target.",
             "The target receives 100% damage for all the damage their allies receive for 5 turns.",
             "Growth: All allies get 550 attack.",
-            "All allies get +35% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All allies get +35% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -5942,15 +5953,15 @@ const allTranslations =
             "x1 Mana Charge:",
             "- Deals 430% damage to the target.",
             "- Boosts all allies' health by 25% of damage dealt.",
-            "- The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "- The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "x2 Mana Charge:",
             "- Deals 440% damage to the target and nearby enemies.",
             "- Boosts all allies' health by 25% of damage dealt.",
-            "- The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "- The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "x3 Mana Charge:",
             "- Deals 450% damage to all enemies.",
             "- Boosts all allies' health by 25% of damage dealt.",
-            "- All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "- All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7399,7 +7410,7 @@ const allTranslations =
         "name": "Bjorn",
         "effects": [
             "Deals 200% damage to the target.",
-            "Deals 350% damage to a random different enemy. Deals extra damage if the target is Holy. This effect targets the same enemy as the first hit if there are no other valid targets."
+            "Deals 350% damage to a random different enemy. Deals extra damage if the target is Holy. (This effect targets the same enemy as the first hit if there are no other valid targets.)"
         ]
     },
     {
@@ -7407,8 +7418,8 @@ const allTranslations =
         "name": "Bjorn C1",
         "effects": [
             "Deals 180% damage to the target.",
-            "Deals 380% damage to a random different enemy.",
-            "Enemies hit get -24% mana generation for 3 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "Deals 380% damage to a random different enemy. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
+            "Enemies hit get -24% mana generation for 3 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7432,7 +7443,7 @@ const allTranslations =
         "name": "Chochin",
         "effects": [
             "Deals 215% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -24% mana generation for 3 turns."
+            "The target and nearby enemies get -24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7476,7 +7487,7 @@ const allTranslations =
         "effects": [
             "Deals 210% damage to all enemies.",
             "If the enemies have less than 50% health remaining, deals 315% damage instead.",
-            "The caster gains 20% mana for each enemy defeated by the attack."
+            "For each enemy defeated by the attack, the caster gains +20% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ]
     },
     {
@@ -7484,7 +7495,7 @@ const allTranslations =
         "name": "Guardian Bat",
         "effects": [
             "Deals 270% damage to the target and minor damage to nearby enemies.",
-            "The damage is increased by 50% per each dead ally."
+            "The damage is increased by 50% per each defeated ally."
         ]
     },
     {
@@ -7509,9 +7520,9 @@ const allTranslations =
         "name": "Maeve",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -44% defenese for 4 turns.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack (Max: 10): The caster recovers 5 HP each turn"
+            "The target and nearby enemies get -44% defense for 3 turns.",
+            "Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "Stack (Max: 10): The caster recovers 15 HP each turn."
         ]
     },
     {
@@ -7551,7 +7562,7 @@ const allTranslations =
             "While in the hole, the caster can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.",
             "After 3 turns, the caster jumps out from the hole and deals 143 damage to a random enemy.",
             "The hit enemy receives the following status ailment:",
-            "The target can't gain mana for 3 turns."
+            "* The target can't gain mana for 3 turns."
         ]
     },
     {
@@ -7679,7 +7690,7 @@ const allTranslations =
             "Deals 280% damage to all enemies.",
             "All enemies get -34% attack for 6 turns.",
             "All enemies get -34% defense for 6 turns.",
-            "All enemies get -34% mana generation for 6 turns."
+            "All enemies get -34% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7721,10 +7732,10 @@ const allTranslations =
         "name": "Unferth",
         "effects": [
             "Deals 250% damage to the target.",
-            "Deals 300% damage if the target has more than 70% health remaining.",
-            "Source of Ailments: The following effects are cast on a random enemy at the start of each turn",
+            "If the target has more than 70% health remaining, deals 300% damage instead.",
+            "Source of Ailments: The following effect is cast on a random enemy at the start of each turn:",
             "* -50% defense against Special Skill for 3 turns.",
-            "* The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
+            "The Source of Ailments will activate 3 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)"
         ]
     },
     {
@@ -7842,9 +7853,9 @@ const allTranslations =
         "heroId": "wonderland_cheshire_cat",
         "name": "Cheshire Cat",
         "effects": [
-            "Rearranges the enemy positions randomly",
-            "All holy enemies get -44% defense for 4 turns",
-            "All enemies receive 276 damage over 4 turns. This effect can't be cleansed"
+            "Rearranges the enemy positions randomly.",
+            "All holy enemies get -44% defense for 4 turns.",
+            "All enemies receive 276 damage over 4 turns. This effect can't be cleansed."
         ]
     },
     {
@@ -7853,7 +7864,7 @@ const allTranslations =
         "effects": [
             "Rearranges the enemy positions randomly.",
             "All Holy enemies get -34% defense for 4 turns.",
-            "All enemies receive 364 Bleed damage over 4 turns."
+            "All enemies receive 368 Bleed damage over 4 turns."
         ]
     },
     {
@@ -7862,7 +7873,7 @@ const allTranslations =
         "effects": [
             "Steals Minions from the target.",
             "Deals 400% damage to the target.",
-            "The target can't receive new Minions for 4 turns."
+            "The target resist new Minions for 4 turns."
         ]
     },
     {
@@ -7926,7 +7937,7 @@ const allTranslations =
         "effects": [
             "Deals 255% damage to the target and nearby enemies.",
             "The target and nearby enemies receive lasting 97 Poison damage per turn. (This effect lasts until it is cleansed, replaced or removed.)",
-            "The target and nearby enemies get -30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The target and nearby enemies get -30% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7962,8 +7973,8 @@ const allTranslations =
         "name": "Gafar",
         "effects": [
             "Deals 260% damage to the target.",
-            "The target receives 228 damage over 4 turns.",
-            "The target gets -100% increase for any healing received for 2 turns. This effect can't be cleansed.",
+            "The target receives 228 Sand damage over 4 turns.",
+            "The target gets -100% decrease for any healing received for 2 turns. This effect can't be cleansed.",
             "Cleanses status ailments from the caster."
         ]
     },
@@ -7980,9 +7991,9 @@ const allTranslations =
         "heroId": "villain_ingolf",
         "name": "Ingolf",
         "effects": [
-            "Deals 280% damage to all enemies",
-            "Reduces the duration of all enemies active buffs by 1 turn.",
-            "All enemies get corrosive poison for 4 turns. Corrosive Poison deals 50 damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "Deals 280% damage to all enemies.",
+            "Reduces the duration of all enemies' active buffs by 1 turn. (The duration modification affects Stubborn, dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
+            "All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 50 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7990,8 +8001,8 @@ const allTranslations =
         "name": "Jabbar",
         "effects": [
             "Deals 235% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 172 damage over 4 turns.",
-            "The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.",
+            "The target and nearby enemies receive 172 Sand damage over 4 turns.",
+            "The target and nearby enemies get -75% decrease for any healing received for 2 turns. This effect can't be cleansed.",
             "Cleanses status ailments from the caster."
         ]
     },
@@ -7999,8 +8010,7 @@ const allTranslations =
         "heroId": "owl_juliani",
         "name": "Juliani",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is Holy.",
+            "Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is of the Holy element. This Special Skill never misses its targets.",
             "The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health."
         ]
     },
@@ -8035,8 +8045,8 @@ const allTranslations =
         "heroId": "elemental_lexi",
         "name": "Lexi",
         "effects": [
-            "The caster and nearby allies become Soul onnected for received damage with  each other for 4 turns. Soul Connected allies share received damage.",
-            "The target and nearby enemies become Soul Connected for 4 turns. Soul Cibbected enemies share received damage.",
+            "The caster and nearby allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
+            "The target and nearby enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
             "The caster and nearby allies get +94% defense against Holy for 4 turns.",
             "The target and nearby enemies get -44% defense against Dark for 4 turns."
         ]
@@ -8046,15 +8056,15 @@ const allTranslations =
         "name": "Meadow",
         "effects": [
             "Deals 265% damage to the target.",
-            "The target receives 402 Poison damage over 3 turns, starting low and increasing with every turn."
+            "The target receives 92-181 increasing Poison damage each turn for 3 turns. (On the first turn, 92 damage is dealt. The damage increases by +40% each turn, up to 181 damage per turn.)"
         ]
     },
     {
         "heroId": "knights_merlin",
         "name": "Merlin",
         "effects": [
-            "Deals 220% damage to the target",
-            "The more mana the enemies have,the more damage they will receive, up to 250%",
+            "Deals 220% damage to the target.",
+            "The more mana the enemy has, the more damage they will receive, up to 250%.",
             "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ]
     },
@@ -8064,7 +8074,7 @@ const allTranslations =
         "effects": [
             "Deals 210% damage to the target and nearby enemies.",
             "The more mana the enemies have, the more damage they will receive, up to 270%.",
-            "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns"
+            "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ]
     },
     {
@@ -8080,7 +8090,7 @@ const allTranslations =
         "name": "Proteus C1",
         "effects": [
             "All enemies receive 324 Poison damage over 2 turns.",
-            "All enemies get -50% mana generation for 4 turns."
+            "All enemies get -50% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -8141,7 +8151,7 @@ const allTranslations =
         "name": "Ryleh",
         "effects": [
             "Deals 400% damage to the target and inflicts 30 Insanity on them.",
-            "The target gets Soul Bound for 3 turns. This effect can't be cleansed. (This effect always bypass reflection.)",
+            "The target gets Soul Bound for 3 turns. This effect can't be cleansed. (This effect will always bypass reflection.)",
             "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage incoming from other shared damage sources or counterattacks.)",
             "Casting this Special Skill inflicts 55 Insanity on the caster."
         ]
@@ -8198,7 +8208,7 @@ const allTranslations =
             "1x Mana Charge:",
             "* All enemies get -54% defense against Dark for 3 turns.",
             "2x Mana Charge:",
-            "* All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active."
+            "* All allies get +100% normal attack for 5 turns. (If additional effects increase attack in general, normal attacks can have a total maximum of +160% increased power.)"
         ]
     },
     {
@@ -8207,10 +8217,10 @@ const allTranslations =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
+            "* All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active. (If additional effects increase attack in general, normal attacks can have a total maximum of +160% increased power.)",
             "* All allies get +20% critical chance for 5 turns.",
             "2nd:",
-            "* All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
+            "* All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active. (If additional effects increase attack in general, normal attacks can have a total maximum of +160% increased power.)",
             "* All allies get +35% critical chance for 5 turns."
         ]
     },
@@ -8220,10 +8230,10 @@ const allTranslations =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* All allies get +70% normal attack for 5 turns. The normal attack is increased by 15% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +130% increased power while this effect is active.",
+            "* All allies get +70% normal attack for 5 turns. The normal attack is increased by 15% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +130% increased power while this effect is active. (If additional effects increase attack in general, normal attacks can have a total maximum of +130% increased power.)",
             "* All allies get +15% critical chance for 5 turns.",
             "2nd:",
-            "* All allies get +90% normal attack for 5 turns. The normal attack is increased by 25% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +190% increased power while this effect is active.",
+            "* All allies get +90% normal attack for 5 turns. The normal attack is increased by 25% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +190% increased power while this effect is active. (If additional effects increase attack in general, normal attacks can have a total maximum of +190% increased power.)",
             "* All allies get +40% critical chance for 5 turns."
         ]
     },
@@ -8241,18 +8251,17 @@ const allTranslations =
         "name": "Shyombre",
         "effects": [
             "Deals 250% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receives 220 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)"
+            "The enemies on the edges of the enemy formation receives 220 Toxin damage over 4 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)"
         ]
     },
     {
         "heroId": "s3_stonecleave",
         "name": "Stonecleave",
         "effects": [
-            "Removes all status effects and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleansable.",
-            "The caster shifts into Dire Ghost form.",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "The caster shifts into Dire Ghost form for 4 turns.",
             "While in Dire Ghost form, the caster automatically deals 175% damage against a random enemy each turn.",
-            "While in Dire Ghost form, the caster can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks,  status effects and stacks except the damage from enemies whose element is  strong against the caster.",
-            "Dire Ghost form lasts for 4 turns."
+            "While in Dire Ghost form the caster cand take damage from enemies whose element is strong against the caster. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ]
     },
     {
@@ -8496,7 +8505,7 @@ const allTranslations =
         "heroId": "s5_anubis",
         "name": "Anubis",
         "effects": [
-            "Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies Special Skills.",
+            "Inflicts the target with Greed for 3 turns. Friendly effects from ally Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from receiving friendly effects from allies. This includes all buffs, healing and Growth effects.)",
             "All enemies receive 501 Poison damage over 3 turns.",
             "All enemies get -34% defense for 3 turns."
         ]
@@ -8505,7 +8514,7 @@ const allTranslations =
         "heroId": "s5_anubis_costume_dancefloor",
         "name": "Anubis C1",
         "effects": [
-            "Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies' Special Skills.",
+            "Inflicts the target with Greed for 3 turns. Friendly effects from ally Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from receiving friendly effects from allies. This includes all buffs, healing and Growth effects.)",
             "All enemies receive 888 Poison damage over 3 turns.",
             "All enemies get -28% defense for 3 turns."
         ]
@@ -8616,9 +8625,9 @@ const allTranslations =
             "* Deals 430% damage to the target.",
             "* Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
             "2x Mana Charge:",
-            "* The caster and nearby allies get +45% defense against Holy for 5 turns.",
-            "* Increase the mana of all allies by 10%.",
-            "* For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+            "* Increase the mana of all allies by 10%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "* For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
+            "* The caster and nearby allies get +45% defense against Holy for 5 turns."
         ]
     },
     {
@@ -8676,7 +8685,7 @@ const allTranslations =
         "effects": [
             "Recovers 45% health for all allies.",
             "Lifts the latest status ailments from all allies and distributes them on enemies.",
-            "All allies get +33% mana generation for 3 turns."
+            "All allies get +33% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -8691,8 +8700,7 @@ const allTranslations =
         "heroId": "owl_cennius",
         "name": "Cennius",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Attacks the target with Moonrise Strike, dealing up to 1100 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1100 damage. Deals 40% more damage if the target is of the Holy element. This Special Skill never misses its targets.",
             "After a successful cast, has 100% chance to recast Blade Wings again on a random target.",
             "Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast."
         ]
@@ -8750,7 +8758,7 @@ const allTranslations =
         "name": "Cordelia",
         "effects": [
             "Deals 385% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 1165 Curse damage over 5 turns, starting low and increasing every turn.",
+            "The target and nearby enemies receive 106-409 increasing Curse damage each turn for 5 turns. (On the first turn, 106 damage is dealt. The damage increases by +40% each turn, up to 409 damage per turn.)",
             "If the target is defeated in 4 turns, all enemies receive 1027 damage.",
             "Elemental Link gives all Dark  allies +20% critical chance for 4 turns. This effect can’t be dispelled."
         ]
@@ -8770,7 +8778,7 @@ const allTranslations =
         "effects": [
             "Deals 560% damage to the target.",
             "Reduces the duration of the target and nearby enemies' buffs by 2 turns. (The duration reduction affects both dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
-            "The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 320 Poison damage and lowers the target's mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 320 Poison damage and lowers the target's mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -8789,7 +8797,7 @@ const allTranslations =
         "effects": [
             "Recovers 25% health of all allies.",
             "Growth: All allies get 180 attack and 180 defense.",
-            "All allies have 50% chance to deal 270% damage to a random enemy after any subsequent allied Special Skill is cast for 3 turns. (Damage is dealt on the first Special Skill cast of each character per turn.)"
+            "All allies have 50% chance to deal 270% damage to a random enemy after any subsequent allied Special Skill is cast for 3 turns. (Each character can trigger this effect once per turn.)"
         ]
     },
     {
@@ -8919,7 +8927,7 @@ const allTranslations =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 340% damage to all enemies.",
-            "All enemies get -35% mana generation for 4 turns.",
+            "All enemies get -35% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "All enemies get -85% decrease of any healing received for 4 turns."
         ]
     },
@@ -9059,7 +9067,7 @@ const allTranslations =
         "heroId": "elemental_gastille",
         "name": "Gastille",
         "effects": [
-            "All allies get +150% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of 200% increased power while this effect is active.",
+            "All allies get +150% normal attack for 4 turns. (If additional effects increase attack in general, normal attacks can have a total maximum of 200% increased power.)",
             "All damage all enemies receive is increased by +55% for 4 turns."
         ]
     },
@@ -9124,7 +9132,7 @@ const allTranslations =
         "name": "Griffex C1",
         "effects": [
             "Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 55%.",
-            "Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%. (This has no effect on other Griffex characters.)",
+            "Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%. (This has no effect on other Griffex characters. After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All allies are immune to new negative mana effects for 5 turns."
         ]
     },
@@ -9132,9 +9140,9 @@ const allTranslations =
         "heroId": "dark_god_grimble",
         "name": "Grimble",
         "effects": [
-            "Destroys all minions from all enemies.",
+            "Destroys all minions from all enemies and damages Mega Minions.",
             "Deals 315% damage to all enemies.",
-            "All allies get a small amount of mana for each destroyed minion",
+            "All allies get a small amount of mana for each destroyed minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Element Link gives all Dark allies +10% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -9207,7 +9215,7 @@ const allTranslations =
         "name": "Hawthorn",
         "effects": [
             "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "All allies receive a small amount of mana over 4 turns.",
+            "All allies receive a moderate amount of mana over 4 turns.",
             "All allies reflect status ailments for 4 turns and negative stacks for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
@@ -9362,7 +9370,8 @@ const allTranslations =
         "name": "Jabberwock C1",
         "effects": [
             "Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -12% each turn. This effect can't be cleansed. Deals extra damage against heroes with Minions or Mega Minions."
+            "Deals 300% damage to the enemies on the edges of the enemy formation, If there is only one enemy alive, the damage is doubled.",
+            "The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 162 Poison damage and lower the target's mana generation by -12% each turn. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -9388,7 +9397,7 @@ const allTranslations =
             "* The target receives 870 Poison damage over 3 turns. The caster absorbs 100% of dealt Poison damage as boosted health.",
             "x2 Mana Charge:",
             "* Deals 300% damage to all enemies.",
-            "* All enemies receive 1085 Poison damage over 5 turns. The caster and all their allies absorb 30% of dealt Poison damage as boosted health."
+            "* All enemies receive 1100 Poison damage over 5 turns. The caster and all their allies absorb 30% of dealt Poison damage as boosted health."
         ]
     },
     {
@@ -9489,7 +9498,7 @@ const allTranslations =
         "name": "Khiona C1",
         "effects": [
             "Deals 350% damage to the target.",
-            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.",
+            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 4 turns, up to +145% attack.",
             "Element Link recovers 4% health for all Dark allies for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -9497,16 +9506,16 @@ const allTranslations =
         "heroId": "s5_khonshu",
         "name": "Khonshu",
         "effects": [
-            "425% damage to the target",
-            "If it attack defeats the target, the caster gains +50% mana."
+            "Deals 425% damage to the target",
+            "If the target is defeated by the attack, the caster gains +50% mana. (After a character has received 5 direct mana addition from Special Skill during a single turn, all subsequent direct mana addition done by Special Skills will have reduced power on that character.)"
         ]
     },
     {
         "heroId": "s5_khonshu_costume_knight",
         "name": "Khonshu C1",
         "effects": [
-            "450% damage to the target.",
-            "If it attack defeats the target, the caster gains +45% mana."
+            "Deals 450% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +45% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ]
     },
     {
@@ -9540,7 +9549,7 @@ const allTranslations =
         "effects": [
             "Deals 540% damage to the target.",
             "The target enemy receives Devouring Goo status ailment for 3 turns.",
-            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.",
+            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)",
             "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. )",
             "All Holy enemies get -34% defense against Dark for 3 turns."
         ]
@@ -9590,10 +9599,10 @@ const allTranslations =
         "heroId": "moth_lilareine",
         "name": "Lilareine",
         "effects": [
-            "Boosts health fo all allies by 1500. Boosted health can exceed max HP.",
+            "Boosts health of all allies by 1500. Boosted health can exceed max HP.",
             "Cleanses status ailments from all allies.",
-            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "This character gets a Mark of Special Skill for 5 turns. Whenever an ally casts their Special Skill, the caster gains a stack (Max: 10). Each stack increases mana generation the caster receives by +5%."
+            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "The caster gets a Mark of Special Skill for 5 turns. When any ally except the caster casts their Special Skill, the caster gains a stack (Max: 10). Each stack increases mana generation the target receives by +5%."
         ]
     },
     {
@@ -10028,7 +10037,7 @@ const allTranslations =
         "effects": [
             "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
-            "All allies get 5% mana for each destroyed Fiend."
+            "All allies get 5% mana for each destroyed Fiend. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ]
     },
     {
@@ -10086,8 +10095,10 @@ const allTranslations =
             "Ballad of Obsession",
             "* -40% mana generation.",
             "* -40% decrease for any healing received.",
-            "* Gives immunity to new status effects.",
-            "* This effect cannot be dispelled. The effect is removed when the caster dies."
+            "* Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.",
+            "* All existing status effects will be removed when a dance status effect is added.",
+            "* Dance gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* Dance effect cannot be dispelled. The effect is removed when the caster dies."
         ]
     },
     {
@@ -10401,7 +10412,7 @@ const allTranslations =
             "Deals 265% damage to all enemies.",
             "Summons a Specter Fiend for all enemies. The Fiend damages its target with 55% attack every turn.",
             "The Specter Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.",
-            "Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack +3 (Max 10): The caster recovers 45 HP each turn."
         ]
     },
@@ -10459,7 +10470,7 @@ const allTranslations =
         "name": "Shacklebolt",
         "effects": [
             "Deals 370% damage to the target and nearby enemies.",
-            "Steals 25% mana from the target and nearby enemies and distributes it to the caster and nearby allies.",
+            "Steals 25% mana from the target and nearby enemies and distributes it to the caster and nearby allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Copies all dispellable buffs from the target and nearby enemies, and randomly distributes them on allies."
         ]
     },
@@ -10525,9 +10536,9 @@ const allTranslations =
         "heroId": "slime_sliposi",
         "name": "Sliposi",
         "effects": [
-            "Increases the mana of allies on the edges of the formation by 30%.",
+            "Increases the mana of allies on the edges of the formation by 30%. This cannot increase the mana of the caster. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster.",
-            "The caster regenerates 1020 boosted health over 4 turns."
+            "The caster regenerates 1020 boosted health over 4 turns. Boosted health can exceed max HP."
         ]
     },
     {
@@ -10792,7 +10803,7 @@ const allTranslations =
         "effects": [
             "Deals 850% damage to the target.",
             "If the target has less than 50% health before receiving damage, targets another enemy who had less than 50% health before receiving any damage from this Special Skill. If none of the other enemies have 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison damage for 5 turns. This effect is uncleansable. (Status effects are added at the end of a Special Skill. Status effects will not be added if this status effects is removed during a Special Skill.)"
+            "If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison damage for 5 turns. This effect can't be cleansed. (Status effects are added at the end of a Special Skill. Status effects will not be added if this status effects is removed during a Special Skill.)"
         ]
     },
     {
@@ -10811,7 +10822,7 @@ const allTranslations =
         "effects": [
             "Deals 470% damage to all enemies.",
             "Wither: All enemies get -350 attack and -350 defense.",
-            "All enemies get -35% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn."
+            "All enemies get -35% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -10892,11 +10903,8 @@ const allTranslations =
             "Deals 550% damage to the target.",
             "The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.",
             "Ballad of Pain:",
-            "The dancer gets silenced.",
-            "When the dance ends, the target suffers 1700 damage.",
-            "All existing status effects will be removed a dance status effect is added.",
-            "Dance gives immunity to new status effects. New dance status effect will replace this effect.",
-            "Dance effect cannot be dispelled. This effect is removed when the caster is defeated."
+            "* The dancer gets silenced.",
+            "* When the dance ends, the target suffers 1700 damage. (All existing status effects will be removed a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)"
         ]
     },
     {
@@ -12713,7 +12721,7 @@ const allTranslations =
         "effects": [
             "Recovers 45% health for all allies.",
             "For the next 4 turns, this character recovers 350 boosted health to all allies each time any other ally casts their Special Skill. (Each character an trigger this effect once per turn.)",
-            "All allies get +30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "All allies get +30% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Cleanses status ailments from all allies."
         ]
     },
@@ -12873,7 +12881,7 @@ const allTranslations =
             "Deals 500% damage to all enemies.",
             "All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn damage and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "The caster regenerate 1480 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "The caster gets +50% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The caster gets +50% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -13011,7 +13019,7 @@ const allTranslations =
         "effects": [
             "Deals 390% damage to the target and nearby enemies.",
             "Wild: For 3 turns, the target and nearby enemies receive 207 or 414 Burn damage each turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild effect has a 50% chance to deal +100% extra damage that turn. When extra damage is dealt, the effect also reduces enemies' max health and is stronger against boosted health. Wild effects bypass most effects that would normally prevent them from being applied. Wild effects can be applied in addition to other effects of the same type.)",
-            "The caster and nearby allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The caster and nearby allies get +35% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -13095,7 +13103,7 @@ const allTranslations =
         "effects": [
             "Safely cleanses all status ailments from the caster.",
             "Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack (Max: 10): All allies get +20% defense."
         ]
     },
@@ -13302,7 +13310,7 @@ const allTranslations =
         "name": "Guffa",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster gets +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "The caster gets +40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.)",
             "All allies recover 1400 health after 4 turns or instantly if the skill is cast again before the duration ends. This effect cannot be dispelled."
         ]
@@ -15645,7 +15653,7 @@ const allTranslations =
         "effects": [
             "Deals 415% damage to the target.",
             "Harvests buffs from the target. (Harvest safely removes 2 buffs, positive Stacks or Growth effects from each target. This includes undispellable buffs and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe removal bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate. Growth effects are removed first. Other effects, the latest removed first.)",
-            "Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -15688,7 +15696,7 @@ const allTranslations =
         "effects": [
             "Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)",
             "Reduces max health of all enemies by 500. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
-            "All enemies get -44% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All enemies get -44% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16033,7 +16041,7 @@ const allTranslations =
             "Boosts health of the caster and nearby allies by 1550. Boosted health can exceed max HP.",
             "Stack +2(Max: 10): All damage the caster and nearby allies receive is reduced by -8%.",
             "For the next 4 turns, this character recovers 850 boosted health to the caster and nearby allies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
-            "The caster and nearby allies get +35% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "The caster and nearby allies get +35% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16268,7 +16276,7 @@ const allTranslations =
         "effects": [
             "Recovers 46% health for all allies.",
             "All allies get +35% increase for any healing received for 5 turns.",
-            "Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Element Link gives all Holy allies +20% critical chance for 6 turns. This effect cannot be dispelled."
         ]
     },
@@ -16318,7 +16326,7 @@ const allTranslations =
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "The caster has a 50% chance to drop any received damage to 1 for 4 turns.",
             "For the next 4 turns, this character deals 250% damage to a random enemy each time any other ally casts their Special Skill. The enemy hit falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (Each character can trigger this effect once per turn.)",
-            "All allies get +25% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "All allies get +25% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16725,7 +16733,7 @@ const allTranslations =
             "Deals 210% damage to all enemies.",
             "All Dark enemies get -39% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
             "All Ice enemies get -39% defense for 3 turns.",
-            "All Nature enemies get -39% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "All Nature enemies get -39% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "All Fire enemies get -39% attack for 3 turns."
         ]
     },
@@ -17070,7 +17078,7 @@ const allTranslations =
         "effects": [
             "Growth: All allies get 150 attack and 150 defense.",
             "Summon a Carrot Minion for each ally with 25% HP inherited from the caster.",
-            "When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can't be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -17135,7 +17143,7 @@ const allTranslations =
         "name": "Moonbell",
         "effects": [
             "Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.",
-            "When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can't be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "All allies reduce all received damage by -43% for 4 turns.",
             "All allies' normal attacks and Special Skills deal +100% damage against targets with boosted health for 4 turns."
         ]
@@ -17808,7 +17816,7 @@ const allTranslations =
         "effects": [
             "Deals 305% damage to all enemies.",
             "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
-            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "All enemies get -34% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "All enemies are immune to new status effect buffs for 4 turns."
         ]
     },
@@ -18142,11 +18150,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
-        "effects": []
     },
     {
         "heroId": "construct_featherweight",

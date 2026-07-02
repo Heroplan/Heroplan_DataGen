@@ -974,6 +974,15 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "passives": [
+            "小兵腐化：回合结束时，狂乱的敌人有几率将小兵转化为恶魔。达到 70 点狂乱后自动激活转化小兵会变身成上古邪神恶魔： 15% 攻击力， 18% 生命值，每回合施加 5 点狂乱。超级小兵会变身成上古邪神超级恶魔： 115% 攻击力， 68% 生命值，每回合施加 10% 点狂乱。",
+            "邪神契约：被击败后，该角色有几率以上古邪神宿主的姿态重生。该角色每有 10% 点狂乱值，几率便会提升 10，最多可提升至 100%。",
+            "若因自身狂乱效果而被自己击败，重生几率始终为 100%。"
+        ]
+    },
+    {
         "heroId": "ninja_azurite",
         "name": "Azurite",
         "passives": [
@@ -5748,7 +5757,7 @@ const translatedPassivesCN =
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
             "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。",
+            "* 驱散所有敌人身上最新施加的可驱散增益。",
             "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
@@ -6813,7 +6822,7 @@ const translatedPassivesCN =
         "heroId": "villain_dark_lord_costume_astronomer",
         "name": "Dark Lord C1",
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 531 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
+            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 70 -213 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
         ]
     },
     {
@@ -7344,7 +7353,7 @@ const translatedPassivesCN =
         "heroId": "wonderland_jabberwocky_costume_moth",
         "name": "Jabberwock C1",
         "passives": [
-            "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
+            "特殊技能附带莽夫乱拳：当该角色施放其特殊技能时，有 50% 的几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
         ]
     },
     {
@@ -7398,7 +7407,7 @@ const translatedPassivesCN =
         "heroId": "villain_karnov_costume_jammies",
         "name": "Karnov C1",
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
+            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 67 -206 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
         ]
     },
     {
@@ -7629,7 +7638,7 @@ const translatedPassivesCN =
         "heroId": "pirate_marie_therese_costume_priestess",
         "name": "Marie-Therese C1",
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 504 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 532 点剧毒伤害。"
         ]
     },
     {
@@ -8014,7 +8023,7 @@ const translatedPassivesCN =
         "heroId": "pirate_dread_captain_costume_rotten",
         "name": "Sargasso C1",
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 476 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 516 点剧毒伤害。"
         ]
     },
     {
@@ -14177,11 +14186,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
-        "passives": []
     },
     {
         "heroId": "construct_featherweight",

@@ -974,6 +974,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+        ]
+    },
+    {
         "heroId": "ninja_azurite",
         "name": "Azurite",
         "passives": [
@@ -5748,7 +5757,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 70% damage to all enemies.",
-            "* Dispells the latest dispellable buff from all enemies.",
+            "* Dispels the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
@@ -6092,7 +6101,7 @@ const allTranslations =
         "heroId": "styx_arges",
         "name": "Arges",
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Weaker Minions: Enemy Minions have -50% HP.",
             "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
@@ -6813,7 +6822,7 @@ const allTranslations =
         "heroId": "villain_dark_lord_costume_astronomer",
         "name": "Dark Lord C1",
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 531 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 70-213 increasing Curse damage each turn for 4 turns."
         ]
     },
     {
@@ -7344,7 +7353,7 @@ const allTranslations =
         "heroId": "wonderland_jabberwocky_costume_moth",
         "name": "Jabberwock C1",
         "passives": [
-            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
+            "Mindless Attack on Special Skill: When this character casts their Special Skill, they have a 50% chance to give Mindless Attack for 3 turns to a random enemy."
         ]
     },
     {
@@ -7398,7 +7407,7 @@ const allTranslations =
         "heroId": "villain_karnov_costume_jammies",
         "name": "Karnov C1",
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 67-206 increasing Curse damage each turn for 4 turns."
         ]
     },
     {
@@ -7629,7 +7638,7 @@ const allTranslations =
         "heroId": "pirate_marie_therese_costume_priestess",
         "name": "Marie-Therese C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 532 Poison damage over 4 turns."
         ]
     },
     {
@@ -8014,7 +8023,7 @@ const allTranslations =
         "heroId": "pirate_dread_captain_costume_rotten",
         "name": "Sargasso C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 516 Poison damage over 4 turns."
         ]
     },
     {
@@ -8457,8 +8466,8 @@ const allTranslations =
         "heroId": "dark_god_viscaro",
         "name": "Viscaro",
         "passives": [
-            "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
-            "Resist negative minion effects: This character is immune to incoming negative effects and damage from Minions."
+            "Cursed Sapling Summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
+            "Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions."
         ]
     },
     {
@@ -14177,11 +14186,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
-        "passives": []
     },
     {
         "heroId": "construct_featherweight",

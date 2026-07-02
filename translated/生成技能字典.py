@@ -18,6 +18,33 @@ OUTPUT_DICT_TC = '../dictionaries/effects_dict_tc.json'
 LOG_FILE = '../../logs/effects_generate_log.log'
 STRUCTURAL_DISCREPANCY_REPORT = '../../logs/effects_structural_discrepancy_report.txt'
 
+def merge_and_save_dict(filepath, new_dict, logger=None):
+    """
+    将 new_dict 合并到 filepath 对应的 JSON 字典文件中。
+    若文件不存在则直接保存 new_dict；若存在则读入旧字典，执行 update，然后保存。
+    """
+    old_dict = {}
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                old_dict = json.load(f)
+            if logger:
+                logger.info(f"已读取旧字典，含 {len(old_dict)} 条规则。")
+        except Exception as e:
+            if logger:
+                logger.warning(f"读取旧字典失败，将直接覆盖。错误: {e}")
+            # 若读取失败，视为空字典，后续直接写入 new_dict
+            old_dict = {}
+    
+    # 合并：新字典覆盖旧字典，并追加新键
+    old_dict.update(new_dict)
+    
+    # 写回文件
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(old_dict, f, ensure_ascii=False, indent=4)
+    
+    if logger:
+        logger.info(f"合并后字典共 {len(old_dict)} 条规则，已保存至 {filepath}")
 
 def setup_logger():
     """配置日志记录器。"""
@@ -319,16 +346,15 @@ def main():
     logger.info("--- 开始写入字典文件 ---")
     if dictionary_cn:
         try:
-            with open(OUTPUT_DICT_CN, 'w', encoding='utf-8') as f:
-                json.dump(dictionary_cn, f, ensure_ascii=False, indent=4)
-            logger.info(f"简体中文 字典已成功保存到: {OUTPUT_DICT_CN}")
+            merge_and_save_dict(OUTPUT_DICT_CN, dictionary_cn, logger)
+            logger.info(f"简体中文 字典已合并保存到: {OUTPUT_DICT_CN}")
+        
         except Exception as e:
             logger.error(f"为 简体中文 保存字典时发生错误: {e}")
     if dictionary_tc:
         try:
-            with open(OUTPUT_DICT_TC, 'w', encoding='utf-8') as f:
-                json.dump(dictionary_tc, f, ensure_ascii=False, indent=4)
-            logger.info(f"繁體中文 字典已成功保存到: {OUTPUT_DICT_TC}")
+            merge_and_save_dict(OUTPUT_DICT_TC, dictionary_tc, logger)
+            logger.info(f"繁體中文 字典已合并保存到: {OUTPUT_DICT_TC}")
         except Exception as e:
             logger.error(f"为 繁體中文 保存字典时发生错误: {e}")
     logger.info("--- 所有任务完成 ---")

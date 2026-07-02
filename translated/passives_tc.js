@@ -974,6 +974,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "institute_azureus",
+        "name": "Azureus",
+        "passives": [
+            "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
+            "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+        ]
+    },
+    {
         "heroId": "ninja_azurite",
         "name": "Azurite",
         "passives": [
@@ -5748,7 +5757,7 @@ const translatedPassivesTC =
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 50% 機率執行下列行動：",
             "* 對所有敵人造成 70% 傷害。",
-            "* 驅散所有敵人最新的可驅散增益。",
+            "* 驱散所有来自敵人的最新的可驅散增益。",
             "施放特殊技能時效果的額外機率：此角色施放特殊技能時，為該施放賦予額外效果的任意被動技能有 3 次機會發動。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
@@ -6813,7 +6822,7 @@ const translatedPassivesTC =
         "heroId": "villain_dark_lord_costume_astronomer",
         "name": "Dark Lord C1",
         "passives": [
-            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 531 詛咒傷害，傷害從低開始並每回合增加。"
+            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 70 -213 詛咒傷害，傷害從低開始並每回合增加。"
         ]
     },
     {
@@ -7398,7 +7407,7 @@ const translatedPassivesTC =
         "heroId": "villain_karnov_costume_jammies",
         "name": "Karnov C1",
         "passives": [
-            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 461 詛咒傷害，傷害從低開始並每回合增加。"
+            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 67 -206 詛咒傷害，傷害從低開始並每回合增加。"
         ]
     },
     {
@@ -7629,7 +7638,7 @@ const translatedPassivesTC =
         "heroId": "pirate_marie_therese_costume_priestess",
         "name": "Marie-Therese C1",
         "passives": [
-            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 504 劇毒傷害。"
+            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 532 劇毒傷害。"
         ]
     },
     {
@@ -8014,7 +8023,7 @@ const translatedPassivesTC =
         "heroId": "pirate_dread_captain_costume_rotten",
         "name": "Sargasso C1",
         "passives": [
-            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 476 劇毒傷害。"
+            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 516 劇毒傷害。"
         ]
     },
     {
@@ -14177,11 +14186,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "institute_azureus",
-        "name": "Azureus",
-        "passives": []
     },
     {
         "heroId": "construct_featherweight",

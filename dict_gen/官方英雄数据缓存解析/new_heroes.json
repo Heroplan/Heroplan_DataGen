@@ -1,29 +1,5 @@
 [
     {
-        "name": "Farrah C",
-        "fancy_name": "Cyber Blade Master",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-01 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_farrah_costume_cyber",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ulfhild",
-        "fancy_name": "Battle Wolf",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "ice_god_ulfhild",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Azureus",
         "fancy_name": "Aetheric Strategist",
         "color": "Blue",

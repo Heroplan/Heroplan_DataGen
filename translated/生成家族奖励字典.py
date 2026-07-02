@@ -2,9 +2,38 @@
 # 最终优化版本 (Final Optimized Version for Family Bonus) - 已修正核心逻辑
 
 import re
+import os
 import json
 import logging
 from collections import defaultdict
+
+def merge_and_save_dict(filepath, new_dict, logger=None):
+    """
+    将 new_dict 合并到 filepath 对应的 JSON 字典文件中。
+    若文件不存在则直接保存 new_dict；若存在则读入旧字典，执行 update，然后保存。
+    """
+    old_dict = {}
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                old_dict = json.load(f)
+            if logger:
+                logger.info(f"已读取旧字典，含 {len(old_dict)} 条规则。")
+        except Exception as e:
+            if logger:
+                logger.warning(f"读取旧字典失败，将直接覆盖。错误: {e}")
+            # 若读取失败，视为空字典，后续直接写入 new_dict
+            old_dict = {}
+    
+    # 合并：新字典覆盖旧字典，并追加新键
+    old_dict.update(new_dict)
+    
+    # 写回文件
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(old_dict, f, ensure_ascii=False, indent=4)
+    
+    if logger:
+        logger.info(f"合并后字典共 {len(old_dict)} 条规则，已保存至 {filepath}")
 
 def setup_logger(log_file_name, logger_name):
     """配置日志记录器，同时输出到控制台和文件。"""
@@ -230,20 +259,15 @@ def main():
     dictionary_tc = generate_single_dictionary(original_data, translated_data_tc, 'TC', logger)
     
     logger.info(f"正在保存简体中文字典到 {output_filename_cn}...")
-    try:
-        with open(output_filename_cn, 'w', encoding='utf-8') as f:
-            json.dump(dictionary_cn, f, ensure_ascii=False, indent=4)
-        logger.info(f"成功为简体中文(CN)家族奖励生成 {len(dictionary_cn)} 条唯一翻译规则。")
-    except Exception as e:
-        logger.error(f"保存简体中文字典时发生错误: {e}")
+    # 保存简体中文
+    if dictionary_cn:
+        merge_and_save_dict(output_filename_cn, dictionary_cn, logger)
+        logger.info(f"简体中文(CN)字典已合并保存到 {output_filename_cn}")
 
-    logger.info(f"正在保存繁体中文字典到 {output_filename_tc}...")
-    try:
-        with open(output_filename_tc, 'w', encoding='utf-8') as f:
-            json.dump(dictionary_tc, f, ensure_ascii=False, indent=4)
-        logger.info(f"成功为繁体中文(TC)家族奖励生成 {len(dictionary_tc)} 条唯一翻译规则。")
-    except Exception as e:
-        logger.error(f"保存繁体中文字典时发生错误: {e}")
+    # 保存繁体中文
+    if dictionary_tc:
+        merge_and_save_dict(output_filename_tc, dictionary_tc, logger)
+        logger.info(f"繁體中文(TC)字典已合并保存到 {output_filename_tc}")
 
     logger.info("--- 字典生成任务报告 ---")
     logger.info(f"简体中文字典(CN)规则总数: {len(dictionary_cn)}")

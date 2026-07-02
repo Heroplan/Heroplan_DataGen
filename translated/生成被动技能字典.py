@@ -18,6 +18,33 @@ OUTPUT_DICT_TC = '../dictionaries/passives_dict_tc.json'
 LOG_FILE = '../../logs/passives_generate_log.log'
 STRUCTURAL_DISCREPANCY_REPORT = '../../logs/passives_structural_discrepancy_report.txt'
 
+def merge_and_save_dict(filepath, new_dict, logger=None):
+    """
+    将 new_dict 合并到 filepath 对应的 JSON 字典文件中。
+    若文件不存在则直接保存 new_dict；若存在则读入旧字典，执行 update，然后保存。
+    """
+    old_dict = {}
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                old_dict = json.load(f)
+            if logger:
+                logger.info(f"已读取旧字典，含 {len(old_dict)} 条规则。")
+        except Exception as e:
+            if logger:
+                logger.warning(f"读取旧字典失败，将直接覆盖。错误: {e}")
+            # 若读取失败，视为空字典，后续直接写入 new_dict
+            old_dict = {}
+    
+    # 合并：新字典覆盖旧字典，并追加新键
+    old_dict.update(new_dict)
+    
+    # 写回文件
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(old_dict, f, ensure_ascii=False, indent=4)
+    
+    if logger:
+        logger.info(f"合并后字典共 {len(old_dict)} 条规则，已保存至 {filepath}")
 
 def setup_logger():
     logger = logging.getLogger('PassivesDictionaryGenerator')
@@ -339,12 +366,8 @@ def main():
     for lang_name, _, output_filename in language_pairs:
         dictionary_to_save = dictionaries.get(lang_name)
         if dictionary_to_save is not None:
-            try:
-                with open(output_filename, 'w', encoding='utf-8') as f:
-                    json.dump(dictionary_to_save, f, ensure_ascii=False, indent=4)
-                logger.info(f"{lang_name} 字典已成功保存到: {output_filename}")
-            except Exception as e:
-                logger.error(f"为 {lang_name} 保存字典时发生错误: {e}")
+            merge_and_save_dict(output_filename, dictionary_to_save, logger)
+            logger.info(f"{lang_name} 字典已合并保存到: {output_filename}")
             
     logger.info("--- 所有任务完成 ---")
 
