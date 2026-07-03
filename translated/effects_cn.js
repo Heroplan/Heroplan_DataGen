@@ -1697,6 +1697,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "construct_featherweight",
+        "name": "Featherweight",
+        "effects": [
+            "对目标及附近敌人造成 400% 伤害。",
+            "偷取目标及附近敌人的全部可驱散增益，并随机施放给盟友。",
+            "施法者偷取目标及其附近敌人所获治疗的 85%，持续 5 回合。",
+            "施法者在 5 回合内偷取目标与附近敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。此效果不可净化，但会在施法者被击败后移除。"
+        ]
+    },
+    {
         "heroId": "s3_fenrir",
         "name": "Fenrir",
         "effects": [
@@ -18150,11 +18160,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "construct_featherweight",
-        "name": "Featherweight",
-        "effects": []
     },
     {
         "heroId": "ghost_hua_pi_gui",

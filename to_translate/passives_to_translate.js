@@ -1347,6 +1347,19 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_featherweight",
+        "name": "Featherweight",
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
+            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+        ]
+    },
+    {
         "heroId": "s3_fenrir",
         "name": "Fenrir",
         "passives": []
@@ -14186,11 +14199,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "construct_featherweight",
-        "name": "Featherweight",
-        "passives": []
     },
     {
         "heroId": "ghost_hua_pi_gui",

@@ -51610,7 +51610,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "SingleAndPurple",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4550,
+          "powerMultiplierPerMil": 5150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -66499,12 +66499,18 @@
         }
       },
       {
-        "propertyType": "RemoveStatusEffects",
+        "propertyType": "RemoveStatusEffectsWithEffectPerTotalRemoved",
         "id": "remove_buffs_vermis",
         "buffToRemove": "MinorBuff",
         "bypassEffectsOnRemoval": true,
+        "removalChancePerMil": 1000,
         "targetType": "All",
-        "sideAffected": "Enemies"
+        "sideAffected": "Enemies",
+        "powerIncrementPerStatusEffectPerMil": 30,
+        "effectOnRemoval": {
+          "sideAffected": "Allies",
+          "effectType": "AddMana"
+        }
       },
       {
         "propertyType": "ModifyStatusEffectTurns",
@@ -67115,7 +67121,7 @@
       {
         "propertyType": "RemoveStatusEffects",
         "id": "remove_status_one_of_us",
-        "buffToRemove": "Major",
+        "buffToRemove": "MinorDebuff",
         "statusEffectTagToRemove": "WormAppearance",
         "removalChancePerMil": 1000,
         "targetType": "Single",
@@ -74942,5 +74948,5 @@
       }
     ]
   },
-  "specialsConfigId": 3366726731
+  "specialsConfigId": 3136364094
 }

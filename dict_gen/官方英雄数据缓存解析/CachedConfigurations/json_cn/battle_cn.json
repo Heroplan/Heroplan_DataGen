@@ -50967,7 +50967,7 @@
       {
         "statusEffect": "VermisTransformHero",
         "id": "worm_appearance",
-        "buff": "MajorDebuff",
+        "buff": "MinorDebuff",
         "additionalTags": [
           "WormAppearance"
         ],
@@ -62304,7 +62304,7 @@
         "id": "add_insanity_vermis",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 100,
+        "insanityToAdd": 75,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -98475,5 +98475,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3899769503
+  "battleConfigId": 334162672
 }

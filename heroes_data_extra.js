@@ -48585,5 +48585,25 @@ window.allHeroesExtra = [
             "corrupt_minions_all_enemies"
         ],
         "family": "institute"
+    },
+    {
+        "name": "Featherweight",
+        "fancy name": "Bipedal Reservoir Construct",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-07-03",
+        "AetherPower": "Defense Up",
+        "heroId": "construct_featherweight",
+        "baseAttack": 665,
+        "baseDefense": 693,
+        "baseHealth": 1165,
+        "specialId": "heavy_drain",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

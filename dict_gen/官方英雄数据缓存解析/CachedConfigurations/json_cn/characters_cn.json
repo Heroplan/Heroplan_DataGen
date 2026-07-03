@@ -33986,7 +33986,8 @@
     "manaSpeedId": "中等",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "术士",
     "aetherGift": "坚壁",
@@ -34006,7 +34007,8 @@
     "manaSpeedId": "快速",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "盗贼",
     "aetherGift": "恶魔抵抗",
@@ -36385,7 +36387,7 @@
       "revive_in_alternative_form_with_insanity_chance",
       "corrupt_minions_all_enemies"
     ],
-    "classType": "僧侣",
+    "classType": "牧师",
     "aetherGift": "恶魔抵抗",
     "rarity": 5,
     "specialId": "蠕虫奥秘",

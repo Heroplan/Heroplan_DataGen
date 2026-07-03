@@ -94686,10 +94686,6 @@
             "brand": "Tecno"
           },
           {
-            "device": "hanoip",
-            "brand": "Motorola"
-          },
-          {
             "device": "PCZ",
             "brand": "Sharp"
           },
@@ -94816,10 +94812,6 @@
           {
             "device": "ice",
             "brand": "Redmi"
-          },
-          {
-            "device": "RE5C9F",
-            "brand": "realme"
           },
           {
             "device": "sofiap",
@@ -96180,5 +96172,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3376833169
+  "otherConfigId": 1270291256
 }

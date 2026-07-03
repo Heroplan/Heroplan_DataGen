@@ -33986,7 +33986,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Bulwark",
@@ -34006,7 +34007,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "Rogue",
     "aetherGift": "Fiend Resist",
@@ -36385,7 +36387,7 @@
       "revive_in_alternative_form_with_insanity_chance",
       "corrupt_minions_all_enemies"
     ],
-    "classType": "Monk",
+    "classType": "Cleric",
     "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "mysteries_of_the_worm",

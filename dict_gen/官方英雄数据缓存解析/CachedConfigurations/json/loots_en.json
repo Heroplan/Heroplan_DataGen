@@ -42696,18 +42696,24 @@
             }
           },
           {
-            "type": "TrainerCharacter",
+            "type": "Troop",
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
                 "",
-                "trainer_blue_common",
-                "trainer_blue_uncommon"
+                "blue_common_villager",
+                "blue_common_archer",
+                "blue_common_female_knight",
+                "blue_uncommon_knight",
+                "blue_uncommon_villager"
               ],
               "weights": [
-                990,
-                9,
-                1
+                9860,
+                40,
+                40,
+                40,
+                10,
+                10
               ]
             }
           }
@@ -42739,18 +42745,24 @@
             }
           },
           {
-            "type": "TrainerCharacter",
+            "type": "Troop",
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
                 "",
-                "trainer_green_common",
-                "trainer_green_uncommon"
+                "green_common_villager",
+                "green_common_female_rogue",
+                "green_common_female_cultist",
+                "green_uncommon_archer",
+                "green_uncommon_villager"
               ],
               "weights": [
-                990,
-                9,
-                1
+                9860,
+                40,
+                40,
+                40,
+                10,
+                10
               ]
             }
           }
@@ -42782,18 +42794,24 @@
             }
           },
           {
-            "type": "TrainerCharacter",
+            "type": "Troop",
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
                 "",
-                "trainer_purple_common",
-                "trainer_purple_uncommon"
+                "purple_common_villager",
+                "purple_common_skeleton",
+                "purple_common_cultist",
+                "purple_uncommon_female_rogue",
+                "purple_uncommon_female_knight"
               ],
               "weights": [
-                990,
-                9,
-                1
+                9860,
+                40,
+                40,
+                40,
+                10,
+                10
               ]
             }
           }
@@ -42825,18 +42843,24 @@
             }
           },
           {
-            "type": "TrainerCharacter",
+            "type": "Troop",
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
                 "",
-                "trainer_red_common",
-                "trainer_red_uncommon"
+                "red_common_villager",
+                "red_common_female_villager",
+                "red_common_monk",
+                "red_uncommon_barbarian",
+                "red_uncommon_mage"
               ],
               "weights": [
-                990,
-                9,
-                1
+                9860,
+                40,
+                40,
+                40,
+                10,
+                10
               ]
             }
           }
@@ -42868,18 +42892,24 @@
             }
           },
           {
-            "type": "TrainerCharacter",
+            "type": "Troop",
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
                 "",
-                "trainer_yellow_common",
-                "trainer_yellow_uncommon"
+                "yellow_common_villager",
+                "yellow_common_rogue",
+                "yellow_common_female_cultist",
+                "yellow_uncommon_monk",
+                "yellow_uncommon_mage"
               ],
               "weights": [
-                990,
-                9,
-                1
+                9860,
+                40,
+                40,
+                40,
+                10,
+                10
               ]
             }
           }
@@ -48365,5 +48395,5 @@
       }
     ]
   },
-  "lootsConfigId": 4205179400
+  "lootsConfigId": 3329407020
 }

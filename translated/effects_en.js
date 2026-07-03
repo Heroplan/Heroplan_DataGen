@@ -1697,6 +1697,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_featherweight",
+        "name": "Featherweight",
+        "effects": [
+            "Deals 400% damage to the target and nearby enemies.",
+            "Steals all dispellable buffs from the target and nearby enemies and randomly distributes them on allies.",
+            "The caster steals 85% of any healing applied to the target and nearby enemies for 5 turns.",
+            "The caster steals generated mana of the target and nearby enemies over 5 turns starting low and increasing every turn until the on the last turn all generated mana is stolen. This effect can't be cleansed, but gets removed if the caster is defeated."
+        ]
+    },
+    {
         "heroId": "s3_fenrir",
         "name": "Fenrir",
         "effects": [
@@ -18150,11 +18160,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "construct_featherweight",
-        "name": "Featherweight",
-        "effects": []
     },
     {
         "heroId": "ghost_hua_pi_gui",
