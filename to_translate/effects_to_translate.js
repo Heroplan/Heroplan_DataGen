@@ -434,7 +434,7 @@ const allTranslations =
         "name": "Vodnik",
         "effects": [
             "Deals 280% damage to the target",
-            "The more mana the enemies have, the more damage they will receive, up to 400%."
+            "The more mana the enemy has, the more damage they will receive, up to 400%."
         ]
     },
     {
@@ -598,7 +598,7 @@ const allTranslations =
         "heroId": "masquerade_fosco",
         "name": "Fosco",
         "effects": [
-            "Destroys all Minions from all enemies.",
+            "Destroys all Minions from all enemies and damages Mega Minions.",
             "Dispels buffs from all enemies.",
             "All allies regenerate 540 HP over 3 turns."
         ]
@@ -1358,7 +1358,7 @@ const allTranslations =
         "effects": [
             "Deals 400% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
             "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This affects can't be dispelled.",
-            "Casting this Special Skill inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
     {
@@ -1752,7 +1752,7 @@ const allTranslations =
         "name": "Finley",
         "effects": [
             "Deals 385% damage to the target.",
-            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
+            "If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
             "All hit targets get -34% defense for 3 turns."
         ]
     },
@@ -1761,7 +1761,7 @@ const allTranslations =
         "name": "Finley C1",
         "effects": [
             "Deals 420% damage to the target.",
-            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
+            "If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
             "All hit targets get -56% defense for 3 turns."
         ]
     },
@@ -2416,8 +2416,8 @@ const allTranslations =
         "effects": [
             "Deals 385% damage to all enemies.",
             "The caster regenerates 918 HP over 6 turns.",
-            "All enemies reflect status effect buffs to a random character on the opposing team for 6 turns. Only dispellable buffs are reflected.",
-            "All allies reflect cleansable status ailments to a random character on the opposing team for 6 turns. Only cleansable ailments are reflected."
+            "All enemies reflect status effect buffs to a random character on the opposing team for 6 turns. (Only dispellable buffs are reflected.)",
+            "All allies reflect cleansable status ailments to a random character on the opposing team for 6 turns. (Only dispellable buffs are reflected.)"
         ]
     },
     {
@@ -2426,8 +2426,8 @@ const allTranslations =
         "effects": [
             "Deals 510% damage to all enemies.",
             "The caster regenerates 1620 boosted health over 6 turns. Boosted health can exceed max HP.",
-            "All enemies reflect status effect buffs to a random character on the opposing team for 6 turns.",
-            "All allies reflect status ailments to a random character on the opposing team for 6 turns."
+            "All enemies reflect status effect buffs to a random character on the opposing team for 6 turns. (Only dispellable buffs are reflected.)",
+            "All allies reflect status ailments to a random character on the opposing team for 6 turns. (Only dispellable buffs are reflected.)"
         ]
     },
     {
@@ -3870,7 +3870,7 @@ const allTranslations =
         "effects": [
             "Deals 125% damage to all enemies.",
             "Deals additional 12% damage per each Nature shield on the board, up to 221% damage in total.",
-            "All enemies get -24% mana generation, and a further 2% decrease per each Nature shield on the board for 3 turns, up to -40% mana generation."
+            "All enemies get -24% mana generation, and a further 2% decrease per each Nature shield on the board for 3 turns, up to -40% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -4320,7 +4320,7 @@ const allTranslations =
         "name": "Hansel",
         "effects": [
             "Deals 255% damage to the target.",
-            "Automatically does 146 damage to the target and consumes 50% mana from the target when the target's mana is full for 3 turns.",
+            "The target receives 146 damage and loses 50% mana whenever their mana gets full during the next 3 turns.",
             "The caster gets +74% defense against Special Skills for 3 turns."
         ]
     },
@@ -4329,7 +4329,7 @@ const allTranslations =
         "name": "Hansel C1",
         "effects": [
             "Deals 209% damage to the target.",
-            "Automatically does 341 damage to the target and consumes 50% mana from the target when the target's mana is full for 3 turns.",
+            "The target receives 348 damage and loses 50% mana whenever their mana gets full during the next 3 turns.",
             "The caster gets +84% defense against Special Skills for 3 turns."
         ]
     },
@@ -4363,7 +4363,7 @@ const allTranslations =
         "name": "Kalo",
         "effects": [
             "Deals 70% damage to all enemies.",
-            "If no allies have fallen, deals twice the amount of damage to all enemies.",
+            "If no allies have been defeated, deals twice the amount of damage to all enemies.",
             "Cast the Special Skills of all defeated allies.",
             "This Special Skill can't be copied."
         ]
@@ -5164,10 +5164,10 @@ const allTranslations =
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
             "* Deals 250% damage to the target.",
-            "* Deals 500% damage if the target has less than 50% health remaining.",
+            "* If the target has less than 50% health remaining, deals 500% damage instead.",
             "2x Mana Charge:",
             "* Deals 215% damage to all enemies.",
-            "* Deals 430% damage to enemies with more than 50% health remaining."
+            "* If the enemies have more than 50% health remaining, deals 430% damage instead."
         ]
     },
     {
@@ -5177,10 +5177,10 @@ const allTranslations =
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
             "* Deals 300% damage to the target.",
-            "* Deals 600% damage if the target has more than 50% health remaining.",
+            "* If the target has more than 50% health remaining, deals 600% damage instead.",
             "2x Mana Charge:",
             "* Deals 250% damage to all enemies.",
-            "* Deals 500% damage to enemies with less than 50% health remaining."
+            "* If the enemies have less than 50% health remaining, deals 500% damage instead."
         ]
     },
     {
@@ -5391,7 +5391,7 @@ const allTranslations =
             "Each hit from an Aberration Mega Minion gives the target the following status ailment:",
             "* The target receives 552 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
             "* Inflicts 10 Insanity on the target.",
-            "Casting this Special Skill inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ]
     },
     {
@@ -6091,7 +6091,7 @@ const allTranslations =
             "Boosts health of the caster by 1000. Boosted health can exceed max HP.",
             "Deals 470% damage to all enemies and inflicts 25 Insanity on them.",
             "Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of 1500 damage. This effect can't be dispelled.",
-            "Casting this Special Skill inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ]
     },
     {
@@ -6541,7 +6541,7 @@ const allTranslations =
             "Deals 440% damage to all enemies.",
             "Heals all allies for 35% of the damage dealt.",
             "All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 15 Insanity on the attacker.",
-            "Casting this Special Skill inflicts 50 Insanity to the caster."
+            "Casting this Special Skill inflicts 50 Insanity on the caster."
         ]
     },
     {
@@ -8251,7 +8251,7 @@ const allTranslations =
         "heroId": "shadow_shoggo",
         "name": "Shoggo",
         "effects": [
-            "Deals 250% damage to all and inflicts 10 Insanity on them.",
+            "Deals 250% damage to all enemies and inflicts 10 Insanity on them.",
             "All enemies are immune to new status effect buffs for 4 turns.",
             "Casting this Special Skill inflicts 55 Insanity on the caster."
         ]
@@ -8584,7 +8584,7 @@ const allTranslations =
         "effects": [
             "Deals 410% damage to the target and nearby enemies and inflicts 40 Insanity on them.",
             "All active status ailments are uncleansable for the target and nearby enemies for the remaining turns of the status ailment.",
-            "Casting this Special Skill inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ]
     },
     {
@@ -9316,7 +9316,7 @@ const allTranslations =
             "The target get -25% defense for 3 turns.",
             "Deals 530% damage to the target.",
             "If the target is defeated by the attack, then nearby enemies are inflicted with 100 Insanity.",
-            "Casting this Special Skill inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ]
     },
     {
@@ -9417,7 +9417,7 @@ const allTranslations =
             "The target succumbs to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 250% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Deals 600% damage to the target and inflicts 50 Insanity on them.",
             "If the target is defeated by the attack, then nearby enemies succumb to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
-            "Casting this Special Skill inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
     {
@@ -10745,7 +10745,7 @@ const allTranslations =
             "Deaks 450% damage to the target.",
             "Summon a Spreading Shadow Fiend for the target. The Fiend damage the enemy with 60% attack every turn.",
             "The Spreading Shadow Fiend absorbs healing and disappears when it has absorbed health equal to 40% of its owner's max health.",
-            "The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2 turns. Cloned fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend."
+            "The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2 turns. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend. The Fiend will only clone if the target does not already have the maximum number of Fiends or Minions.)"
         ]
     },
     {
@@ -11308,9 +11308,9 @@ const allTranslations =
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            "* The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
+            "* The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns, up to +145% attack.",
             "2x Mana Charge:",
-            "* The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns."
+            "* The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns, down to -68% defense."
         ]
     },
     {
@@ -11592,8 +11592,8 @@ const allTranslations =
         "name": "Cillian",
         "effects": [
             "Deals 315% damage to the target and nearby enemies.",
-            "If the caster dies during the next 4 turns they are resurrected in the beginning of their next turn with 27% health. All status effects and stacks are removed when the caster dies.",
-            "Stack (Max: 10): The caster gets +6% mana generation.",
+            "If the caster is defeated during the next 4 turns, they are resurrected in the beginning of their next turn with 27% health. All status effects and stacks are removed when the caster is defeated.",
+            "Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ]
     },
@@ -11986,11 +11986,11 @@ const allTranslations =
         "effects": [
             "All allies get +30% attack for 4 turns.",
             "All allies get +30% critical chance for 4 turns.",
-            "All allies receive Draugr Blessing. If the blessed Hero dies in the next 4 turns, they will be reborn as a Draugr with:",
-            "100% inherited health.",
+            "All allies receive Draugr Blessing. If the blessed Hero is defeated in the next 4 turns, they will be reborn as a Draugr with:",
+            "100% inherited health, max 3000 HP.",
             "500 attack.",
             "500 defense.",
-            "Special Skill: Eternal Loyalty"
+            "Special Skill: Eternal Loyalty."
         ]
     },
     {
@@ -12500,7 +12500,7 @@ const allTranslations =
             "All enemies turn into Cursed Paintings for 5 turns. This effect can't be cleansed. Cursed Paintings have 70% attack, 70% defense and the following Special Skill:",
             "Break Free (Very Fast)",
             "* Deals 250% damage to the target.",
-            "* 60% chance of removing the Cursed Painting ailment from the caster. (Bosses, Titans and Mythic Titans are not affected by this status effect.)"
+            "* 60% chance of removing the Cursed Painting ailment from the caster. (This status effect transforms the target into a different form. The family Bonus and Special Skill of the new form are determined by this status effect. Bosses, Titans and Mythic Titans are not affected by this status effect.)"
         ]
     },
     {
@@ -12818,7 +12818,7 @@ const allTranslations =
         "effects": [
             "Deals 350% damage to the target and nearby enemies and inflicts 35 Insanity on them.",
             "The target and nearby enemies receive 654 Water damage over 3 turns. All allies absorb 50% of dealt Water damage as boosted health.",
-            "Casting this Special Skill inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
     {
@@ -13975,7 +13975,7 @@ const allTranslations =
             "Deals 500% damage to the target.",
             "Summons an Ominous Tentacle Fiend for the target.",
             "The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health.",
-            "The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)",
+            "The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend. The Fiend will only clone if the target does not already have the maximum number of Fiends or Minions.)",
             "The Ominous Tentacle Fiend inflicts 5 Insanity on the owner on every turn.",
             "Casting this Special Skill inflicts 45 Insanity on the caster."
         ]
@@ -14193,7 +14193,7 @@ const allTranslations =
             "Deals 500% damage to the target.",
             "Has a 80% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
             "All hit targets get 20 Insanity every time they are hit.",
-            "Casting this Special Skill inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
     {
@@ -14594,7 +14594,7 @@ const allTranslations =
         "heroId": "institute_wilcox",
         "name": "Wilcox",
         "effects": [
-            "The attack bypasses defensive buffs.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "Deals 300% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
             "All hit targets 20 Insanity every time they are hit.",
@@ -14905,7 +14905,7 @@ const allTranslations =
         "effects": [
             "Deals 250% damage to the target.",
             "All allies have 50% chance to deal 100% damage to a random enemy and inflicts 20 Insanity on them after any subsequent allied Special Skill is cast for 3 turns. (Damage and Insanity are dealt on the first Special Skill cast of each character per turn. The damage and Insanity dealt by this effect is not affected by Insanity.)",
-            "Inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
     {
@@ -14982,7 +14982,7 @@ const allTranslations =
             "Deals 375% damage to the target.",
             "Deals 150 extra damage if the target has boosted health.",
             "All enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)",
-            "The caster regenerates 200 HP over 2 turns. Boosted health can exceed max HP."
+            "The caster regenerates 200 boosted health over 2 turns. Boosted health can exceed max HP."
         ]
     },
     {
@@ -16173,10 +16173,10 @@ const allTranslations =
         "heroId": "shadow_dolores",
         "name": "Dolores",
         "effects": [
-            "For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.",
+            "For the next 4 turns, this character deals 220% damage to a random target and nearby enemies and inflicts 15 Insanity to them each time any other ally casts their Special Skill. (Damage and Insanity are dealt on the first Special Skill cast of each character per turn. The damage and Insanity dealt by this effect are not affected by Insanity.)",
             "Stack (Max: 10): All allies get +20% attack.",
-            "Stack (Max: 10): All allies get +5% mana generation.",
-            "Inflicts 50 Insanity to the caster."
+            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "Casting this Special Skill inflicts 50 Insanity on the caster."
         ]
     },
     {
@@ -16701,8 +16701,8 @@ const allTranslations =
         "effects": [
             "Deals 470% damage to the target.",
             "The target gets -44% defense for 4 turns.",
-            "Deals 470% damage to a random different enemy. This effect targets the same enemy as the first hit if there are no other valid targets.",
-            "The target of the second hit gets -44% mana generation for 4 turns."
+            "Deals 470% damage to a random different enemy. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
+            "The target of the second hit gets -44% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -17313,9 +17313,9 @@ const allTranslations =
         "heroId": "holy_god_onatel",
         "name": "Onatel",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies",
-            "The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.",
-            "Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't be cleansed"
+            "Deals 330% damage to the target and nearby enemies.",
+            "The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but gets removed if the caster is defeated.",
+            "Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't be dispelled."
         ]
     },
     {

@@ -4005,14 +4005,14 @@ const allTranslations =
         "heroId": "magic_cristobal",
         "name": "Cristobal",
         "passives": [
-            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%."
+            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
         "heroId": "magic_cristobal_costume_emerald",
         "name": "Cristobal C1",
         "passives": [
-            "Status effect on special: When this character casts their Special Skill, they have a 60% chance to give -45% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%.",
+            "Status effect on special: When this character casts their Special Skill, they have a 60% chance to give -45% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
@@ -13064,7 +13064,7 @@ const allTranslations =
         "heroId": "masquerade_jana",
         "name": "Jana",
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
+            "Cleanse on Minion Death: This character is cleansed of status ailments when a Minion owned by them is destroyed."
         ]
     },
     {
