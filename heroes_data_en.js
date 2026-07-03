@@ -10872,6 +10872,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -20041,6 +20042,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -39225,6 +39227,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -41514,6 +41517,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -43833,6 +43837,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             }
@@ -43891,6 +43896,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs",
                     "Summon - Minion"
                 ]
@@ -53335,6 +53341,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -55342,6 +55349,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs",
                     "Dmg - Extra"
                 ]
@@ -55407,6 +55415,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -58317,6 +58326,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs",
                     "Dmg - Dmg ↑ : Nature"
                 ]
@@ -58391,6 +58401,7 @@ window.allHeroes =
                     "Dmg - Dmg ↑ : Nature",
                     "Mana - Mana Cut",
                     "Mana - Mana Gain",
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             }
@@ -87024,6 +87035,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             }
@@ -100477,6 +100489,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Status - Redistribute Ailments",
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             }
@@ -104864,6 +104877,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -109112,6 +109126,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
@@ -109188,6 +109203,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs"
                 ]
             },
