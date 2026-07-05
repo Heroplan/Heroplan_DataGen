@@ -1,17 +1,5 @@
 [
     {
-        "name": "Hua Pi Gui",
-        "fancy_name": "Ghost with Painted Skin",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-05 07:00:00",
-        "star": 5,
-        "family": "ghost",
-        "costume_id": 0,
-        "heroId": "ghost_hua_pi_gui",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Isarnia Stylish",
         "fancy_name": "Stylish Ice Wizard",
         "color": "Blue",

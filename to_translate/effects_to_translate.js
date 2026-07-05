@@ -308,7 +308,7 @@ const allTranslations =
         "heroId": "musketeer_planchet",
         "name": "Planchet",
         "effects": [
-            "Destroys all Minions from the target.",
+            "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 385% damage to the target.",
             "The caster regenerates 243 HP over 3 turns."
         ]
@@ -327,7 +327,7 @@ const allTranslations =
         "name": "Soroca",
         "effects": [
             "Deals 235% damage to the target.",
-            "Deals additional 10% damage per each Ice shield on the board, up to 335%  damage in total."
+            "Deals additional 10% damage per each Ice shield on the board, up to 335% damage in total."
         ]
     },
     {
@@ -1046,7 +1046,7 @@ const allTranslations =
         "name": "Alice",
         "effects": [
             "Deals 430% damage to the target.",
-            "Target gets -44% attack for 3 turns. The effect duration is reset if the target is healed. This effect cannot be dispelled."
+            "Target gets -44% attack for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
         ]
     },
     {
@@ -1886,7 +1886,7 @@ const allTranslations =
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns.",
-            "Cleanses status ailements from all allies.",
+            "Cleanses status ailments from all allies.",
             "Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster."
         ]
     },
@@ -1936,8 +1936,8 @@ const allTranslations =
         "name": "Halwinter",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster counterattacks a random enemy with 120% of the damage received for 4 turns.",
-            "The caster reduces all received damage by -50% for 4 turns.",
+            "The caster counterattacks a random enemy with 130% of the damage received for 4 turns.",
+            "The caster reduces all received damage by -55% for 4 turns.",
             "The caster is immune to new status ailments for 4 turns."
         ]
     },
@@ -2598,8 +2598,8 @@ const allTranslations =
         "name": "Nautica",
         "effects": [
             "Recovers 45% health for all allies.",
-            "Increases the mana of nearby allies by 33%.",
-            "Nearby allies get +40% mana generation for 4 turns.",
+            "Increases the mana of nearby allies by 33%. (This has no effect on other Nautica characters. After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Nearby allies get +40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "The caster and nearby allies get +50% critical chance for 4 turns."
         ]
     },
@@ -6118,7 +6118,7 @@ const allTranslations =
         "heroId": "pirate_lady",
         "name": "Lady Locke",
         "effects": [
-            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn.",
+            "The target and nearby enemies receive 131-360 increasing Curse damage each turn for 4 turns. (On the first turn, 131 damage is dealt. The damage increases by +40% each turn, up to 360 damage per turn.)",
             "Cleanses status ailments from all allies."
         ]
     },
@@ -7001,8 +7001,8 @@ const allTranslations =
         "heroId": "wonderland_hatter",
         "name": "The Hatter",
         "effects": [
-            "Deals 400% damage to the target and minor damage to nearby enemies",
-            "Steals all the dispellable buffs from all enemies and randomly allocates them on all allies"
+            "Deals 400% damage to the target and minor damage to nearby enemies.",
+            "Steals all the dispellable buffs from all enemies and randomly distributes them on allies."
         ]
     },
     {
@@ -9371,8 +9371,8 @@ const allTranslations =
         "heroId": "wonderland_jabberwocky",
         "name": "Jabberwock",
         "effects": [
-            "Deals 300% damage to the enemies on the edges of the enemy formation, If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receive 249 poison damage over 3 turns. This effect can't be cleansed."
+            "Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "The enemies on the edges of the enemy formation receive 234 Poison damage over 3 turns. This effect can't be cleansed."
         ]
     },
     {
@@ -9743,13 +9743,13 @@ const allTranslations =
         "heroId": "pirate_marie_therese",
         "name": "Marie-Therese",
         "effects": [
-            "Deals 168% damage to all enemies",
-            "All allies regenerate 612 HP over 4 turns",
-            "All allies get +30% defense for 4 turns",
-            "All allies receive Zombie Blessing. If the blessed hero dies in the next 4 turns, they will be reborn as a Zombie with:",
-            "* 100% inherited health",
-            "* 500 attack",
-            "* 500 defense",
+            "Deals 168% damage to all enemies.",
+            "All allies regenerate 612 HP over 4 turns.",
+            "All allies get +30% defense for 4 turns.",
+            "All allies receive Zombie Blessing. If the blessed hero is defeated in the next 4 turns, they will be reborn as a Zombie with:",
+            "* 100% inherited health, max 3000 HP.",
+            "* 500 attack.",
+            "* 500 defense.",
             "* Special Skill:",
             "Poison Bite."
         ]
@@ -9759,12 +9759,12 @@ const allTranslations =
         "name": "Marie-Therese C1",
         "effects": [
             "Deals 138% damage to all enemies.",
-            "All allies regenerae 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
+            "All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
             "All allies get +30% defense for 4 turns. This effect can't be dispelled.",
             "All allies receive Zombie Blessing. If the blessed Hero dies in the next 4 turns, they will be reborn as a Zombie with:",
-            "* 100% inherited health",
-            "* 500 attack",
-            "* 500 defense",
+            "* 100% inherited health, max 3000 HP.",
+            "* 500 attack.",
+            "* 500 defense.",
             "* Special Skill: Poison Bite."
         ]
     },
@@ -13377,7 +13377,7 @@ const allTranslations =
             "Deals 480% damage to the target and minor damage to nearby enemies.",
             "Knocks down enemies. This has a different effect based on the team of this character:",
             "Attack Team:",
-            "* The target and nearby enemies have thier normal attack delayed by 2 turns.",
+            "* The target and nearby enemies have their normal attack delayed by 2 turns.",
             "Defense Team:",
             "* The target and nearby enemies don't contribute to Troop damage for 2 turns.",
             "The caster and nearby allies get +50% attack for 3 turns."
@@ -15318,7 +15318,7 @@ const allTranslations =
         "name": "Bellerive",
         "effects": [
             "Deals 420% damage to the target.",
-            "If the target dies, the excess damage is dealt to each nearby enemy."
+            "If the target is defeated, the excess damage is dealt to each nearby enemy."
         ]
     },
     {
@@ -15868,7 +15868,7 @@ const allTranslations =
         "effects": [
             "Deals 550% damage to the target.",
             "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if the status effect is removed during Special Skill."
+            "If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. (Status effects are added at the end of a Special Skill. Status effects will not be added if the status effect is removed during Special Skill.)"
         ]
     },
     {
@@ -16611,6 +16611,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_hua_pi_gui",
+        "name": "Hua Pi Gui",
+        "effects": [
+            "After the Special Skill has been cast, increases the mana of the caster by 25%. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Deals 500% damage to 5 random enemies.",
+            "For 5 turns, all hit enemies are forced to cast Mindless Heal when at full mana.",
+            "Mindless Heal:",
+            "* Recovers 60% health for the character on the opposing side with the lowest remaining HP."
+        ]
+    },
+    {
         "heroId": "astral_demon_ibelis",
         "name": "Ibelis",
         "effects": [
@@ -16671,8 +16682,8 @@ const allTranslations =
         "name": "Iron-Heart",
         "effects": [
             "Deals 520% damage to the target.",
-            "Deals 520% damage to a random different enemy.",
-            "If an enemy is defeated by the attack, the caster recovers +35% health and gains +35% mana.",
+            "Deals 520% damage to a random different enemy. (This effect targets the same enemy as the first hit target if there are no other valid targets.)",
+            "For each enemy defeated by the attack, the caster recovers +35% health and gains +35% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All allies counterattack with +110% of the damage received for 4 turns."
         ]
     },
@@ -17953,7 +17964,7 @@ const allTranslations =
         "name": "White Rabbit",
         "effects": [
             "Deals 280% Damage to the target and nearby enemies",
-            "The target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
+            "The target gets -34% defense for 4 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
         ]
     },
     {
@@ -18160,11 +18171,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "ghost_hua_pi_gui",
-        "name": "Hua Pi Gui",
-        "effects": []
     },
     {
         "heroId": "nordic_ice_enchantress_costume_stylish",

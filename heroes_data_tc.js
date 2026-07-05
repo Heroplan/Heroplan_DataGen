@@ -1806,8 +1806,8 @@ window.allHeroes =
         ],
         "passives": [
             "復仇糾纏：此角色一次失去超過 25% 的最大生命值時，啟動以下效果。",
-            "- 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
-            "- 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 250% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
+            "* 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
+            "* 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 250% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -2031,7 +2031,7 @@ window.allHeroes =
         "defense": 453,
         "health": 811,
         "effects": [
-            "摧毀目標的所有小兵。",
+            "摧毀目標的所有小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 385% 傷害。",
             "施法者在 3 回合內恢復 243 點生命值。"
         ],
@@ -4529,7 +4529,7 @@ window.allHeroes =
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
-            "石像鬼的柔軟膚：每次此石像鬼施放特殊技能時，其柔軟膚啟動。它們受之後 5 次的傷害，其傷害减少 -90% 且也對所有状態異常、法力減损與瘋狂免疫。此效果無法驅散。"
+            "石像鬼的柔軟膚：每次此石像鬼施放特殊技能時，其柔軟膚啟動。（它們受之後 5 次的傷害，其傷害减少 -90% 且也對所有状態異常、法力減损與瘋狂免疫。此效果無法驅散。）"
         ],
         "family": "gargoyle",
         "costume_id": 0,
@@ -11913,8 +11913,8 @@ window.allHeroes =
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
             "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 22% 生命值和 55% 攻擊。",
-            "* 繼承自施法者的生命值和攻擊會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
             "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -50。"
@@ -12358,16 +12358,15 @@ window.allHeroes =
         "health": 2319,
         "effects": [
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
-            "施法者以所受傷害的 120% 對一名隨機敵人進行反擊，持續 4 回合。",
-            "施法者受到的所有傷害降低 -50%，持續 4 回合。",
+            "施法者以所受傷害的 130% 對一名隨機敵人進行反擊，持續 4 回合。",
+            "施法者受到的所有傷害降低 -55%，持續 4 回合。",
             "施法者對新的狀態異常免疫，持續 4 回合。"
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
-            "小兵核心：此角色的横造體核心是小兵核心。",
-            "每次施放此角色的特殊技能時就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 22% 生命值和 55% 攻擊。",
-            "* 繼承自施法者的生命值和攻擊會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
             "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -50。"
@@ -12428,8 +12427,8 @@ window.allHeroes =
         ],
         "passives": [
             "復仇糾纏：此角色一次失去超過 25% 的最大生命值時，啟動以下效果。",
-            "- 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
-            "- 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
+            "* 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
+            "* 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -16517,8 +16516,8 @@ window.allHeroes =
         "health": 1730,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
-            "使附近盟友的法力增加 33%。",
-            "附近盟友獲得 +40% 法力產出，持續 4 回合。",
+            "使附近盟友的法力增加 33%。（對其他諾提卡角色無效。角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "附近盟友獲得 +40% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
             "施法者與附近盟友獲得 +50% 暴擊率，持續 4 回合。"
         ],
         "passives": [
@@ -19314,7 +19313,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
             "腐蝕核心：此角色的構造體核心為腐蝕核心。每次啟動腐蝕核心時，會施放此角色的特殊技能：",
             "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 153 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
-            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -27772,8 +27771,8 @@ window.allHeroes =
         ],
         "passives": [
             "復仇糾纏：此角色一次失去超過 25% 的最大生命值時，啟動以下效果。",
-            "- 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
-            "- 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 250% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
+            "* 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
+            "* 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -32911,9 +32910,8 @@ window.allHeroes =
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
-            "小兵核心：此角色的横造體核心是小兵核心。",
-            "每次施放此角色的特殊技能時就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -34666,7 +34664,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
             "腐蝕核心：此角色的構造體核心為腐蝕核心。每次啟動腐蝕核心時，會施放此角色的特殊技能：",
             "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 128 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
-            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -36833,8 +36831,8 @@ window.allHeroes =
         ],
         "passives": [
             "復仇糾纏：此角色一次失去超過 25% 的最大生命值時，啟動以下效果。",
-            "- 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
-            "- 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
+            "* 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
+            "* 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -38385,7 +38383,7 @@ window.allHeroes =
         "defense": 665,
         "health": 1231,
         "effects": [
-            "目標與附近敵人在 4 回合內受到共計 932 點傷害，起始傷害較低，每個回合逐漸增加。",
+            "目標與附近敵人每回合受到 131 - 360 點詛咒傷害，持續 4 回合。（第一回合造成 131 點傷害。傷害每回合增加 +40%，最高可達每回合 360 點傷害。）",
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [],
@@ -43177,9 +43175,8 @@ window.allHeroes =
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
-            "小兵核心：此角色的横造體核心是小兵核心。",
-            "每次施放此角色的特殊技能時就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -46499,7 +46496,7 @@ window.allHeroes =
             "附近盟友獲得柔軟膚。（他們下次受到的傷害減少 -90%，並抵抗所有狀態異常和法力減損。此效果無法驅散）"
         ],
         "passives": [
-            "石像鬼的柔軟膚：每次此石像鬼施放特殊技能時，其柔軟膚啟動。它們受之後 4 次的傷害，其傷害减少 -90% 且也對所有状態異常、法力減损與瘋狂免疫。此效果無法驅散。"
+            "石像鬼的柔軟膚：每次此石像鬼施放特殊技能時，其柔軟膚啟動。（它們受之後 4 次的傷害，其傷害减少 -90% 且也對所有状態異常、法力減损與瘋狂免疫。此效果無法驅散。）"
         ],
         "family": "gargoyle",
         "costume_id": 0,
@@ -53701,7 +53698,7 @@ window.allHeroes =
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
             "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -58958,7 +58955,7 @@ window.allHeroes =
         "health": 1328,
         "effects": [
             "對位於敵方陣型邊緣的敵人造成 300% 傷害。如果只有一個敵人，傷害加倍。",
-            "位於陣型邊緣的敵人在 3 個回合內受到 249 點劇毒傷害。此效果無法淨化。"
+            "位於陣型邊緣的敵人在 3 個回合內受到 234 點劇毒傷害。此效果無法淨化。"
         ],
         "passives": [],
         "family": "wonderland",
@@ -61311,7 +61308,7 @@ window.allHeroes =
             "所有盟友在 4 回合內恢復 612 點生命值。",
             "所有盟友獲得 +30% 防禦，持續 4 回合。",
             "所有盟友獲得僵屍庇佑。如果獲得庇佑的英雄在後續 4 個回合中被擊敗，將會變為僵屍重生，並且擁有：",
-            "* 100% 繼承生命值。",
+            "* 100% 繼承生命值，最高 3000 生命值。",
             "* 500 攻擊。",
             "* 500 防禦。",
             "* 特殊技能：",
@@ -61375,7 +61372,7 @@ window.allHeroes =
             "所有盟友在 4 個回合內恢復 600 點加成生命值。加成生命值能夠超過最大生命值。此效果無法驅散。",
             "所有盟友獲得 +30% 防禦，持續 4 回合。此效果無法驅散。",
             "所有盟友獲得僵屍庇佑。如果獲得庇佑的英雄在後續 4 個回合中被擊敗，將會變為僵屍重生，並且擁有：",
-            "* 100% 繼承生命值。",
+            "* 100% 繼承生命值，最高 3000 生命值。",
             "* 500 攻擊。",
             "* 500 防禦。",
             "* 特殊技能：劇毒撕咬。"
@@ -65773,8 +65770,8 @@ window.allHeroes =
         ],
         "passives": [
             "復仇糾纏：此角色一次失去超過 25% 的最大生命值時，啟動以下效果。",
-            "- 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
-            "- 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
+            "* 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
+            "* 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -66402,7 +66399,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
             "腐蝕核心：此角色的構造體核心為腐蝕核心。每次啟動腐蝕核心時，會施放此角色的特殊技能：",
             "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 140 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
-            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -68618,8 +68615,8 @@ window.allHeroes =
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
             "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
-            "* 繼承自施法者的生命值和攻擊會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
             "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -50。"
@@ -81622,7 +81619,7 @@ window.allHeroes =
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
             "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -89876,7 +89873,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
             "腐蝕核心：此角色的構造體核心為腐蝕核心。每次啟動腐蝕核心時，會施放此角色的特殊技能：",
             "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 146 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
-            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -90252,9 +90249,8 @@ window.allHeroes =
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
-            "小兵核心：此角色的横造體核心是小兵核心。",
-            "每次施放此角色的特殊技能時就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -99684,7 +99680,7 @@ window.allHeroes =
         "effects": [
             "對目標造成 550% 傷害。",
             "若目標在受到傷害前有超過 50% 的生命，則瞄準其他在受到此特殊技能傷害前超過 50% 生命的敵人。若無其他敵人有 50% 生命，則隨機瞄準敵人。每次連續攻擊，傷害會減少。每個敵人只能受攻擊一次。",
-            "若被命中敵人在之後 4 個回合使用其特殊技能，則獲得 -34% 攻擊、 -34% 防禦與 -24% 法力產出，持續 4 個回合。狀態效果在特殊技能結束後附加。若狀態效果在特殊技能期間被移除，將不會附加狀態效果。"
+            "若被命中敵人在之後 4 個回合使用其特殊技能，則獲得 -34% 攻擊、 -34% 防禦與 -24% 法力產出，持續 4 個回合。（特殊技能結束時可增加狀態效果。特殊技能使用中時若失去此状態效果，即無法增加狀態效果。）"
         ],
         "passives": [],
         "family": "pirate",
@@ -103838,7 +103834,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。",
             "腐蝕核心：此角色的構造體核心為腐蝕核心。每次啟動腐蝕核心時，會施放此角色的特殊技能：",
             "* 所有敵人獲得腐蝕劇毒，持續 3 回合。腐蝕核心完全暴增時，腐蝕劇毒會造成 151 劇毒傷害，並在每回合降低目標 -13% 法力產出。對付有小兵或超級小兵的英雄時，會造成額外傷害。",
-            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+            "* 劇毒傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -104382,6 +104378,71 @@ window.allHeroes =
         ]
     },
     {
+        "name": "畫皮鬼 (Hua Pi Gui)",
+        "fancy_name": "畫皮之鬼",
+        "AetherPower": "回復",
+        "color": "神聖",
+        "class": "術士",
+        "speed": "慢速",
+        "skill": "獻出你的心",
+        "source": "三國召喚",
+        "Release date": "2026-07-05",
+        "specialId": "surrender_your_heart",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "heroId": "ghost_hua_pi_gui",
+        "star": 5,
+        "power": 1340,
+        "attack": 1413,
+        "defense": 1376,
+        "health": 2397,
+        "effects": [
+            "施放特殊技能後，施法者的法力增加 25%。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "對 5 名隨機敵人造成 500% 傷害。",
+            "法力全滿時，所有被命中的敵人強制施放莽夫治療，持續 5 回合。",
+            "莽夫治療：",
+            "* 為剩餘生命值最低的敵方角色恢復 60% 生命值。"
+        ],
+        "passives": [
+            "復仇糾纏：此角色一次失去超過 25% 的最大生命值時，啟動以下效果。",
+            "* 此角色對自己施放完整移除。（完整移除會移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是顽固、無法驅散或淨化的狀態效果和疊加，也會遭到移除。）",
+            "* 此角色變成復仇幽靈型態，持續 2 回合。每回合結束時，復仇幽靈對隨機敵人造成 450% 傷害，並從其身上驅散增益。此效果不可驅散。（處於幽靈型態時，角色無法獲得法力，也無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、被動造成的傷害、狀態效果和疊加免疫。對新的成長、枯萎和瘋狂效果免疫。）"
+        ],
+        "family": "ghost",
+        "costume_id": 0,
+        "originalIndex": 1703,
+        "lb1": {
+            "attack": 1522,
+            "defense": 1482,
+            "health": 2584,
+            "power": 1434
+        },
+        "lb2": {
+            "attack": 1742,
+            "defense": 1696,
+            "health": 2956,
+            "power": 1623
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-隨機"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力恢復"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-混亂/沉默/睡眠"
+                ]
+            }
+        ]
+    },
+    {
         "name": "伊貝莉絲 (Ibelis)",
         "fancy_name": "星界惡魔・暗影守衛",
         "AetherPower": "攻擊提升",
@@ -104415,7 +104476,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1474,
             "defense": 1411,
@@ -104487,7 +104548,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1704,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -104543,7 +104604,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1705,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1476,
             "defense": 1420,
@@ -104597,7 +104658,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -104657,7 +104718,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1707,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1040,
             "defense": 921,
@@ -104716,14 +104777,14 @@ window.allHeroes =
         "health": 2097,
         "effects": [
             "對目標造成 520% 傷害。",
-            "對一名隨機的不同的敵人造成 520% 傷害。",
-            "若敵人被該攻擊所打敗，施法者恢復 +35% 生命值並獲得 +35% 法力。",
+            "對一名隨機的不同的敵人造成 520% 傷害。（若沒有其他可用目標，則此效果會選擇與第一次打擊相同的敵人）",
+            "每次敵人被該攻擊所打敗，施法者恢復 +35% 生命值並獲得 +35% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
             "所有盟友以所受傷害的 +110% 进行反擊，持續 4 個回合。"
         ],
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
             "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -104731,7 +104792,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -104797,7 +104858,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1709,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -104861,7 +104922,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -104925,7 +104986,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -104980,7 +105041,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -105045,7 +105106,7 @@ window.allHeroes =
         ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1129,
             "defense": 1270,
@@ -105113,7 +105174,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -105183,7 +105244,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1308,
             "defense": 1191,
@@ -105237,7 +105298,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -105290,7 +105351,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 908,
             "defense": 787,
@@ -105344,7 +105405,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1048,
             "defense": 890,
@@ -105404,7 +105465,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1255,
             "defense": 1070,
@@ -105467,7 +105528,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 1445,
             "defense": 1188,
@@ -105530,7 +105591,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1721,
+        "originalIndex": 1722,
         "lb1": {
             "attack": 1598,
             "defense": 1265,
@@ -105591,7 +105652,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1722,
+        "originalIndex": 1723,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -105643,7 +105704,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1723,
+        "originalIndex": 1724,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -105702,7 +105763,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1724,
+        "originalIndex": 1725,
         "lb1": {
             "attack": 820,
             "defense": 878,
@@ -105761,7 +105822,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1725,
+        "originalIndex": 1726,
         "lb1": {
             "attack": 959,
             "defense": 970,
@@ -105824,7 +105885,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1726,
+        "originalIndex": 1727,
         "lb1": {
             "attack": 1269,
             "defense": 1008,
@@ -105887,7 +105948,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1727,
+        "originalIndex": 1728,
         "lb1": {
             "attack": 1452,
             "defense": 1126,
@@ -105951,7 +106012,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1728,
+        "originalIndex": 1729,
         "lb1": {
             "attack": 1427,
             "defense": 1491,
@@ -106011,7 +106072,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1729,
+        "originalIndex": 1730,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -106065,7 +106126,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1730,
+        "originalIndex": 1731,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -106124,7 +106185,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1731,
+        "originalIndex": 1732,
         "lb1": {
             "attack": 1145,
             "defense": 1207,
@@ -106197,7 +106258,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1732,
+        "originalIndex": 1733,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -106264,7 +106325,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1733,
+        "originalIndex": 1734,
         "lb1": {
             "attack": 1367,
             "defense": 1434,
@@ -106342,7 +106403,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1734,
+        "originalIndex": 1735,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -106403,7 +106464,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1735,
+        "originalIndex": 1736,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -106461,7 +106522,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1736,
+        "originalIndex": 1737,
         "lb1": {
             "attack": 1414,
             "defense": 1345,
@@ -106527,7 +106588,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1737,
+        "originalIndex": 1738,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -106588,7 +106649,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1738,
+        "originalIndex": 1739,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -106641,7 +106702,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1739,
+        "originalIndex": 1740,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -106696,7 +106757,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1740,
+        "originalIndex": 1741,
         "lb1": {
             "attack": 870,
             "defense": 898,
@@ -106751,7 +106812,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1741,
+        "originalIndex": 1742,
         "lb1": {
             "attack": 999,
             "defense": 1010,
@@ -106815,7 +106876,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1742,
+        "originalIndex": 1743,
         "lb1": {
             "attack": 1228,
             "defense": 1187,
@@ -106876,7 +106937,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1743,
+        "originalIndex": 1744,
         "lb1": {
             "attack": 1441,
             "defense": 1301,
@@ -106940,7 +107001,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1744,
+        "originalIndex": 1745,
         "lb1": {
             "attack": 1569,
             "defense": 1408,
@@ -106999,7 +107060,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1745,
+        "originalIndex": 1746,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -107063,7 +107124,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1746,
+        "originalIndex": 1747,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -107129,7 +107190,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1747,
+        "originalIndex": 1748,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -107193,7 +107254,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1748,
+        "originalIndex": 1749,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -107257,7 +107318,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1749,
+        "originalIndex": 1750,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -107323,7 +107384,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1750,
+        "originalIndex": 1751,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -107385,7 +107446,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1751,
+        "originalIndex": 1752,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -107452,7 +107513,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1752,
+        "originalIndex": 1753,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -107511,7 +107572,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1753,
+        "originalIndex": 1754,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -107583,7 +107644,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1754,
+        "originalIndex": 1755,
         "lb1": {
             "attack": 1287,
             "defense": 1310,
@@ -107654,7 +107715,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1755,
+        "originalIndex": 1756,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -107710,7 +107771,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1756,
+        "originalIndex": 1757,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -107773,7 +107834,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1757,
+        "originalIndex": 1758,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -107831,7 +107892,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1758,
+        "originalIndex": 1759,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -107896,7 +107957,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1759,
+        "originalIndex": 1760,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -107946,7 +108007,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1760,
+        "originalIndex": 1761,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -108010,7 +108071,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1761,
+        "originalIndex": 1762,
         "lb1": {
             "attack": 1065,
             "defense": 939,
@@ -108077,7 +108138,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 2,
-        "originalIndex": 1762,
+        "originalIndex": 1763,
         "lb1": {
             "attack": 1615,
             "defense": 1396,
@@ -108141,7 +108202,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1763,
+        "originalIndex": 1764,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -108217,7 +108278,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1764,
+        "originalIndex": 1765,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -108283,7 +108344,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1765,
+        "originalIndex": 1766,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -108340,7 +108401,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1766,
+        "originalIndex": 1767,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -108393,7 +108454,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1767,
+        "originalIndex": 1768,
         "lb1": {
             "attack": 1145,
             "defense": 991,
@@ -108451,7 +108512,7 @@ window.allHeroes =
         ],
         "family": "vanaheim",
         "costume_id": 2,
-        "originalIndex": 1768,
+        "originalIndex": 1769,
         "lb1": {
             "attack": 1531,
             "defense": 1421,
@@ -108508,7 +108569,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1769,
+        "originalIndex": 1770,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -108567,7 +108628,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1770,
+        "originalIndex": 1771,
         "lb1": {
             "attack": 1031,
             "defense": 1054,
@@ -108629,7 +108690,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1771,
+        "originalIndex": 1772,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -108691,7 +108752,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1772,
+        "originalIndex": 1773,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -108759,7 +108820,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1773,
+        "originalIndex": 1774,
         "lb1": {
             "attack": 1445,
             "defense": 1429,
@@ -108823,7 +108884,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1774,
+        "originalIndex": 1775,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -108898,7 +108959,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1775,
+        "originalIndex": 1776,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -108964,7 +109025,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1776,
+        "originalIndex": 1777,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -109034,7 +109095,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1777,
+        "originalIndex": 1778,
         "lb1": {
             "attack": 1469,
             "defense": 1520,
@@ -109104,7 +109165,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1778,
+        "originalIndex": 1779,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -109181,7 +109242,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1779,
+        "originalIndex": 1780,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -109247,7 +109308,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1780,
+        "originalIndex": 1781,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -109310,7 +109371,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1781,
+        "originalIndex": 1782,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -109369,7 +109430,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1782,
+        "originalIndex": 1783,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -109422,7 +109483,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1783,
+        "originalIndex": 1784,
         "lb1": {
             "attack": 990,
             "defense": 957,
@@ -109481,7 +109542,7 @@ window.allHeroes =
         ],
         "family": "atlantis",
         "costume_id": 2,
-        "originalIndex": 1784,
+        "originalIndex": 1785,
         "lb1": {
             "attack": 1482,
             "defense": 1477,
@@ -109546,7 +109607,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1785,
+        "originalIndex": 1786,
         "lb1": {
             "attack": 1445,
             "defense": 1491,
@@ -109615,7 +109676,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1786,
+        "originalIndex": 1787,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -109677,7 +109738,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1787,
+        "originalIndex": 1788,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -109730,7 +109791,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1788,
+        "originalIndex": 1789,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -109789,7 +109850,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1789,
+        "originalIndex": 1790,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -109847,7 +109908,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1790,
+        "originalIndex": 1791,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -109906,7 +109967,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1791,
+        "originalIndex": 1792,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -109969,7 +110030,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1792,
+        "originalIndex": 1793,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -110022,7 +110083,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1793,
+        "originalIndex": 1794,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -110084,7 +110145,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1794,
+        "originalIndex": 1795,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -110140,7 +110201,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1795,
+        "originalIndex": 1796,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -110205,7 +110266,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1796,
+        "originalIndex": 1797,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -110274,7 +110335,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1797,
+        "originalIndex": 1798,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -110342,7 +110403,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1798,
+        "originalIndex": 1799,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -110401,7 +110462,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1799,
+        "originalIndex": 1800,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -110478,7 +110539,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1800,
+        "originalIndex": 1801,
         "lb1": {
             "attack": 1516,
             "defense": 1365,
@@ -110538,7 +110599,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1801,
+        "originalIndex": 1802,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -110609,7 +110670,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1802,
+        "originalIndex": 1803,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -110682,7 +110743,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1803,
+        "originalIndex": 1804,
         "lb1": {
             "attack": 1456,
             "defense": 1383,
@@ -110750,7 +110811,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1804,
+        "originalIndex": 1805,
         "lb1": {
             "attack": 1518,
             "defense": 1480,
@@ -110815,7 +110876,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1805,
+        "originalIndex": 1806,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -110873,7 +110934,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1806,
+        "originalIndex": 1807,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -110924,7 +110985,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1807,
+        "originalIndex": 1808,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -110977,7 +111038,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1808,
+        "originalIndex": 1809,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -111035,7 +111096,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1809,
+        "originalIndex": 1810,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111095,7 +111156,7 @@ window.allHeroes =
         ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1810,
+        "originalIndex": 1811,
         "lb1": {
             "attack": 1476,
             "defense": 1371,
@@ -111161,7 +111222,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1811,
+        "originalIndex": 1812,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -111234,7 +111295,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1812,
+        "originalIndex": 1813,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -111294,7 +111355,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1813,
+        "originalIndex": 1814,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -111355,7 +111416,7 @@ window.allHeroes =
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
             "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
-            "* 完全充能的小兵核心會為所有盟友召唤一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 33% 生命值和 55% 攻擊。",
             "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
             "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
             "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
@@ -111363,7 +111424,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1814,
+        "originalIndex": 1815,
         "lb1": {
             "attack": 1522,
             "defense": 1480,
@@ -111428,7 +111489,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1815,
+        "originalIndex": 1816,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -111489,7 +111550,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1816,
+        "originalIndex": 1817,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -111548,7 +111609,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1817,
+        "originalIndex": 1818,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -111614,7 +111675,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1818,
+        "originalIndex": 1819,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -111681,7 +111742,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1819,
+        "originalIndex": 1820,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -111759,7 +111820,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1820,
+        "originalIndex": 1821,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -111826,7 +111887,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1821,
+        "originalIndex": 1822,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111894,7 +111955,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1823,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -111964,7 +112025,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1824,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -112043,7 +112104,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1824,
+        "originalIndex": 1825,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -112105,7 +112166,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1825,
+        "originalIndex": 1826,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -112164,7 +112225,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1826,
+        "originalIndex": 1827,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -112223,7 +112284,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1827,
+        "originalIndex": 1828,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -112286,7 +112347,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1828,
+        "originalIndex": 1829,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -112350,7 +112411,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1829,
+        "originalIndex": 1830,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -112414,7 +112475,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1830,
+        "originalIndex": 1831,
         "lb1": {
             "attack": 1446,
             "defense": 1476,
@@ -112474,7 +112535,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1831,
+        "originalIndex": 1832,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -112543,7 +112604,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1832,
+        "originalIndex": 1833,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -112613,7 +112674,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1833,
+        "originalIndex": 1834,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -112671,7 +112732,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1834,
+        "originalIndex": 1835,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -112728,7 +112789,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1835,
+        "originalIndex": 1836,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -112792,7 +112853,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1836,
+        "originalIndex": 1837,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -112863,7 +112924,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1837,
+        "originalIndex": 1838,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -112921,7 +112982,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1838,
+        "originalIndex": 1839,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -112983,7 +113044,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1839,
+        "originalIndex": 1840,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -113050,7 +113111,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1840,
+        "originalIndex": 1841,
         "lb1": {
             "attack": 1369,
             "defense": 1434,
@@ -113108,7 +113169,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1841,
+        "originalIndex": 1842,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -113175,7 +113236,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1842,
+        "originalIndex": 1843,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -113243,7 +113304,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1843,
+        "originalIndex": 1844,
         "lb1": {
             "attack": 1500,
             "defense": 1384,
@@ -113305,7 +113366,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1844,
+        "originalIndex": 1845,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -113373,7 +113434,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1845,
+        "originalIndex": 1846,
         "lb1": {
             "attack": 1323,
             "defense": 1402,
@@ -113441,7 +113502,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1846,
+        "originalIndex": 1847,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -113500,7 +113561,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1847,
+        "originalIndex": 1848,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -113567,7 +113628,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1848,
+        "originalIndex": 1849,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -113631,7 +113692,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1849,
+        "originalIndex": 1850,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -113687,7 +113748,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1850,
+        "originalIndex": 1851,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -113748,7 +113809,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1851,
+        "originalIndex": 1852,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -113807,7 +113868,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1852,
+        "originalIndex": 1853,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -113870,7 +113931,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1853,
+        "originalIndex": 1854,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -113930,7 +113991,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1854,
+        "originalIndex": 1855,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -113990,7 +114051,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1855,
+        "originalIndex": 1856,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -114021,30 +114082,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "畫皮鬼 (Hua Pi Gui)",
-        "fancy_name": "畫皮之鬼",
-        "AetherPower": "",
-        "color": "神聖",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ghost_hua_pi_gui",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ghost",
-        "costume_id": 0,
-        "originalIndex": 1856,
-        "cn_skill_info": []
     },
     {
         "name": "伊薩莉亞 (Isarnia) 有型",

@@ -1806,8 +1806,8 @@ window.allHeroes =
         ],
         "passives": [
             "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
-            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
-            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -2031,7 +2031,7 @@ window.allHeroes =
         "defense": 453,
         "health": 811,
         "effects": [
-            "Destroys all Minions from the target.",
+            "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 385% damage to the target.",
             "The caster regenerates 243 HP over 3 turns."
         ],
@@ -2150,7 +2150,7 @@ window.allHeroes =
         "health": 703,
         "effects": [
             "Deals 235% damage to the target.",
-            "Deals additional 10% damage per each Ice shield on the board, up to 335%  damage in total."
+            "Deals additional 10% damage per each Ice shield on the board, up to 335% damage in total."
         ],
         "passives": [
             "Gargoyle's Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled."
@@ -4529,7 +4529,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. (The next 5 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.)"
         ],
         "family": "gargoyle",
         "costume_id": 0,
@@ -6764,7 +6764,7 @@ window.allHeroes =
         "health": 1326,
         "effects": [
             "Deals 430% damage to the target.",
-            "Target gets -44% attack for 3 turns. The effect duration is reset if the target is healed. This effect cannot be dispelled."
+            "Target gets -44% attack for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "wonderland",
@@ -11913,9 +11913,9 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies.",
-            "* The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
         ],
@@ -12041,7 +12041,7 @@ window.allHeroes =
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns.",
-            "Cleanses status ailements from all allies.",
+            "Cleanses status ailments from all allies.",
             "Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster."
         ],
         "passives": [
@@ -12358,16 +12358,15 @@ window.allHeroes =
         "health": 2319,
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster counterattacks a random enemy with 120% of the damage received for 4 turns.",
-            "The caster reduces all received damage by -50% for 4 turns.",
+            "The caster counterattacks a random enemy with 130% of the damage received for 4 turns.",
+            "The caster reduces all received damage by -55% for 4 turns.",
             "The caster is immune to new status ailments for 4 turns."
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core.",
-            "The Minion Core activates each time this character's Special Skill is cast:",
-            "* With fully charged Minion Core, summon a Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies.",
-            "* The HP and attack inherited from the caster is scaled by the amount of charge in Core. All charge is exhausted when the Core is activated.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
@@ -12428,8 +12427,8 @@ window.allHeroes =
         ],
         "passives": [
             "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
-            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
-            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -16517,8 +16516,8 @@ window.allHeroes =
         "health": 1730,
         "effects": [
             "Recovers 45% health for all allies.",
-            "Increases the mana of nearby allies by 33%.",
-            "Nearby allies get +40% mana generation for 4 turns.",
+            "Increases the mana of nearby allies by 33%. (This has no effect on other Nautica characters. After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Nearby allies get +40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "The caster and nearby allies get +50% critical chance for 4 turns."
         ],
         "passives": [
@@ -19314,7 +19313,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -27772,8 +27771,8 @@ window.allHeroes =
         ],
         "passives": [
             "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
-            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
-            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -32911,9 +32910,8 @@ window.allHeroes =
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core.",
-            "The Minion Core activates each time this character's Special Skill is cast:",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -34666,7 +34664,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -36833,8 +36831,8 @@ window.allHeroes =
         ],
         "passives": [
             "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
-            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
-            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -38385,7 +38383,7 @@ window.allHeroes =
         "defense": 665,
         "health": 1231,
         "effects": [
-            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn.",
+            "The target and nearby enemies receive 131-360 increasing Curse damage each turn for 4 turns. (On the first turn, 131 damage is dealt. The damage increases by +40% each turn, up to 360 damage per turn.)",
             "Cleanses status ailments from all allies."
         ],
         "passives": [],
@@ -43177,9 +43175,8 @@ window.allHeroes =
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core.",
-            "The Minion Core activates each time this character's Special Skill is cast:",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -43810,8 +43807,8 @@ window.allHeroes =
         "defense": 710,
         "health": 1341,
         "effects": [
-            "Deals 400% damage to the target and minor damage to nearby enemies",
-            "Steals all the dispellable buffs from all enemies and randomly allocates them on all allies"
+            "Deals 400% damage to the target and minor damage to nearby enemies.",
+            "Steals all the dispellable buffs from all enemies and randomly distributes them on allies."
         ],
         "passives": [],
         "family": "wonderland",
@@ -46499,7 +46496,7 @@ window.allHeroes =
             "Nearby allies receive Softskin. (The next time they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.)"
         ],
         "passives": [
-            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. (The next 4 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.)"
         ],
         "family": "gargoyle",
         "costume_id": 0,
@@ -53701,7 +53698,7 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -58957,8 +58954,8 @@ window.allHeroes =
         "defense": 747,
         "health": 1328,
         "effects": [
-            "Deals 300% damage to the enemies on the edges of the enemy formation, If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receive 249 poison damage over 3 turns. This effect can't be cleansed."
+            "Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "The enemies on the edges of the enemy formation receive 234 Poison damage over 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "wonderland",
@@ -61307,13 +61304,13 @@ window.allHeroes =
         "defense": 723,
         "health": 1301,
         "effects": [
-            "Deals 168% damage to all enemies",
-            "All allies regenerate 612 HP over 4 turns",
-            "All allies get +30% defense for 4 turns",
-            "All allies receive Zombie Blessing. If the blessed hero dies in the next 4 turns, they will be reborn as a Zombie with:",
-            "* 100% inherited health",
-            "* 500 attack",
-            "* 500 defense",
+            "Deals 168% damage to all enemies.",
+            "All allies regenerate 612 HP over 4 turns.",
+            "All allies get +30% defense for 4 turns.",
+            "All allies receive Zombie Blessing. If the blessed hero is defeated in the next 4 turns, they will be reborn as a Zombie with:",
+            "* 100% inherited health, max 3000 HP.",
+            "* 500 attack.",
+            "* 500 defense.",
             "* Special Skill:",
             "Poison Bite."
         ],
@@ -61372,12 +61369,12 @@ window.allHeroes =
         "health": 1845,
         "effects": [
             "Deals 138% damage to all enemies.",
-            "All allies regenerae 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
+            "All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
             "All allies get +30% defense for 4 turns. This effect can't be dispelled.",
             "All allies receive Zombie Blessing. If the blessed Hero dies in the next 4 turns, they will be reborn as a Zombie with:",
-            "* 100% inherited health",
-            "* 500 attack",
-            "* 500 defense",
+            "* 100% inherited health, max 3000 HP.",
+            "* 500 attack.",
+            "* 500 defense.",
             "* Special Skill: Poison Bite."
         ],
         "passives": [
@@ -65773,8 +65770,8 @@ window.allHeroes =
         ],
         "passives": [
             "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
-            "- This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
-            "- This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ],
         "family": "ghost",
         "costume_id": 0,
@@ -66402,7 +66399,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -68618,9 +68615,9 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
-            "* The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
         ],
@@ -81622,7 +81619,7 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -83902,7 +83899,7 @@ window.allHeroes =
             "Deals 480% damage to the target and minor damage to nearby enemies.",
             "Knocks down enemies. This has a different effect based on the team of this character:",
             "Attack Team:",
-            "* The target and nearby enemies have thier normal attack delayed by 2 turns.",
+            "* The target and nearby enemies have their normal attack delayed by 2 turns.",
             "Defense Team:",
             "* The target and nearby enemies don't contribute to Troop damage for 2 turns.",
             "The caster and nearby allies get +50% attack for 3 turns."
@@ -89876,7 +89873,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 146 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -90252,9 +90249,8 @@ window.allHeroes =
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core.",
-            "The Minion Core activates each time this character's Special Skill is cast:",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -96085,7 +96081,7 @@ window.allHeroes =
         "health": 1260,
         "effects": [
             "Deals 420% damage to the target.",
-            "If the target dies, the excess damage is dealt to each nearby enemy."
+            "If the target is defeated, the excess damage is dealt to each nearby enemy."
         ],
         "passives": [
             "Gargoyle's Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled."
@@ -99684,7 +99680,7 @@ window.allHeroes =
         "effects": [
             "Deals 550% damage to the target.",
             "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if the status effect is removed during Special Skill."
+            "If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. (Status effects are added at the end of a Special Skill. Status effects will not be added if the status effect is removed during Special Skill.)"
         ],
         "passives": [],
         "family": "pirate",
@@ -103838,7 +103834,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 151 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "construct",
         "costume_id": 0,
@@ -104382,6 +104378,71 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Hua Pi Gui",
+        "fancy_name": "Ghost with Painted Skin",
+        "AetherPower": "Regen",
+        "color": "Holy",
+        "class": "Sorcerer",
+        "speed": "Slow",
+        "skill": "Surrender Your Heart",
+        "source": "Three Kingdoms Summon",
+        "Release date": "2026-07-05",
+        "specialId": "surrender_your_heart",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "heroId": "ghost_hua_pi_gui",
+        "star": 5,
+        "power": 1340,
+        "attack": 1413,
+        "defense": 1376,
+        "health": 2397,
+        "effects": [
+            "After the Special Skill has been cast, increases the mana of the caster by 25%. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Deals 500% damage to 5 random enemies.",
+            "For 5 turns, all hit enemies are forced to cast Mindless Heal when at full mana.",
+            "Mindless Heal:",
+            "* Recovers 60% health for the character on the opposing side with the lowest remaining HP."
+        ],
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+        ],
+        "family": "ghost",
+        "costume_id": 0,
+        "originalIndex": 1703,
+        "lb1": {
+            "attack": 1522,
+            "defense": 1482,
+            "health": 2584,
+            "power": 1434
+        },
+        "lb2": {
+            "attack": 1742,
+            "defense": 1696,
+            "health": 2956,
+            "power": 1623
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Ibelis",
         "fancy_name": "Astral Demon Shadowguard",
         "AetherPower": "Attack Up",
@@ -104415,7 +104476,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1474,
             "defense": 1411,
@@ -104487,7 +104548,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1704,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -104543,7 +104604,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1705,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1476,
             "defense": 1420,
@@ -104597,7 +104658,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -104657,7 +104718,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1707,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1040,
             "defense": 921,
@@ -104716,22 +104777,22 @@ window.allHeroes =
         "health": 2097,
         "effects": [
             "Deals 520% damage to the target.",
-            "Deals 520% damage to a random different enemy.",
-            "If an enemy is defeated by the attack, the caster recovers +35% health and gains +35% mana.",
+            "Deals 520% damage to a random different enemy. (This effect targets the same enemy as the first hit target if there are no other valid targets.)",
+            "For each enemy defeated by the attack, the caster recovers +35% health and gains +35% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All allies counterattack with +110% of the damage received for 4 turns."
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
             "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -104797,7 +104858,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1709,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -104861,7 +104922,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -104925,7 +104986,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -104980,7 +105041,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -105045,7 +105106,7 @@ window.allHeroes =
         ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1129,
             "defense": 1270,
@@ -105113,7 +105174,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -105183,7 +105244,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1308,
             "defense": 1191,
@@ -105237,7 +105298,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -105290,7 +105351,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 908,
             "defense": 787,
@@ -105344,7 +105405,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1048,
             "defense": 890,
@@ -105404,7 +105465,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1255,
             "defense": 1070,
@@ -105467,7 +105528,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 1445,
             "defense": 1188,
@@ -105530,7 +105591,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1721,
+        "originalIndex": 1722,
         "lb1": {
             "attack": 1598,
             "defense": 1265,
@@ -105591,7 +105652,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1722,
+        "originalIndex": 1723,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -105643,7 +105704,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1723,
+        "originalIndex": 1724,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -105702,7 +105763,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1724,
+        "originalIndex": 1725,
         "lb1": {
             "attack": 820,
             "defense": 878,
@@ -105761,7 +105822,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1725,
+        "originalIndex": 1726,
         "lb1": {
             "attack": 959,
             "defense": 970,
@@ -105824,7 +105885,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1726,
+        "originalIndex": 1727,
         "lb1": {
             "attack": 1269,
             "defense": 1008,
@@ -105887,7 +105948,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1727,
+        "originalIndex": 1728,
         "lb1": {
             "attack": 1452,
             "defense": 1126,
@@ -105951,7 +106012,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1728,
+        "originalIndex": 1729,
         "lb1": {
             "attack": 1427,
             "defense": 1491,
@@ -106011,7 +106072,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1729,
+        "originalIndex": 1730,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -106065,7 +106126,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1730,
+        "originalIndex": 1731,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -106124,7 +106185,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1731,
+        "originalIndex": 1732,
         "lb1": {
             "attack": 1145,
             "defense": 1207,
@@ -106197,7 +106258,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1732,
+        "originalIndex": 1733,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -106264,7 +106325,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1733,
+        "originalIndex": 1734,
         "lb1": {
             "attack": 1367,
             "defense": 1434,
@@ -106342,7 +106403,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1734,
+        "originalIndex": 1735,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -106403,7 +106464,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1735,
+        "originalIndex": 1736,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -106461,7 +106522,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1736,
+        "originalIndex": 1737,
         "lb1": {
             "attack": 1414,
             "defense": 1345,
@@ -106527,7 +106588,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1737,
+        "originalIndex": 1738,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -106588,7 +106649,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1738,
+        "originalIndex": 1739,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -106641,7 +106702,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1739,
+        "originalIndex": 1740,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -106696,7 +106757,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1740,
+        "originalIndex": 1741,
         "lb1": {
             "attack": 870,
             "defense": 898,
@@ -106751,7 +106812,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1741,
+        "originalIndex": 1742,
         "lb1": {
             "attack": 999,
             "defense": 1010,
@@ -106815,7 +106876,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1742,
+        "originalIndex": 1743,
         "lb1": {
             "attack": 1228,
             "defense": 1187,
@@ -106876,7 +106937,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1743,
+        "originalIndex": 1744,
         "lb1": {
             "attack": 1441,
             "defense": 1301,
@@ -106940,7 +107001,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1744,
+        "originalIndex": 1745,
         "lb1": {
             "attack": 1569,
             "defense": 1408,
@@ -106999,7 +107060,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1745,
+        "originalIndex": 1746,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -107063,7 +107124,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1746,
+        "originalIndex": 1747,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -107129,7 +107190,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1747,
+        "originalIndex": 1748,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -107193,7 +107254,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1748,
+        "originalIndex": 1749,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -107257,7 +107318,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1749,
+        "originalIndex": 1750,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -107323,7 +107384,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1750,
+        "originalIndex": 1751,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -107385,7 +107446,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1751,
+        "originalIndex": 1752,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -107452,7 +107513,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1752,
+        "originalIndex": 1753,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -107511,7 +107572,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1753,
+        "originalIndex": 1754,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -107583,7 +107644,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1754,
+        "originalIndex": 1755,
         "lb1": {
             "attack": 1287,
             "defense": 1310,
@@ -107654,7 +107715,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1755,
+        "originalIndex": 1756,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -107710,7 +107771,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1756,
+        "originalIndex": 1757,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -107773,7 +107834,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1757,
+        "originalIndex": 1758,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -107831,7 +107892,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1758,
+        "originalIndex": 1759,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -107896,7 +107957,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1759,
+        "originalIndex": 1760,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -107946,7 +108007,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1760,
+        "originalIndex": 1761,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -108010,7 +108071,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1761,
+        "originalIndex": 1762,
         "lb1": {
             "attack": 1065,
             "defense": 939,
@@ -108077,7 +108138,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 2,
-        "originalIndex": 1762,
+        "originalIndex": 1763,
         "lb1": {
             "attack": 1615,
             "defense": 1396,
@@ -108141,7 +108202,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1763,
+        "originalIndex": 1764,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -108217,7 +108278,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1764,
+        "originalIndex": 1765,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -108283,7 +108344,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1765,
+        "originalIndex": 1766,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -108340,7 +108401,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1766,
+        "originalIndex": 1767,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -108393,7 +108454,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1767,
+        "originalIndex": 1768,
         "lb1": {
             "attack": 1145,
             "defense": 991,
@@ -108451,7 +108512,7 @@ window.allHeroes =
         ],
         "family": "vanaheim",
         "costume_id": 2,
-        "originalIndex": 1768,
+        "originalIndex": 1769,
         "lb1": {
             "attack": 1531,
             "defense": 1421,
@@ -108508,7 +108569,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1769,
+        "originalIndex": 1770,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -108567,7 +108628,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1770,
+        "originalIndex": 1771,
         "lb1": {
             "attack": 1031,
             "defense": 1054,
@@ -108629,7 +108690,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1771,
+        "originalIndex": 1772,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -108691,7 +108752,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1772,
+        "originalIndex": 1773,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -108759,7 +108820,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1773,
+        "originalIndex": 1774,
         "lb1": {
             "attack": 1445,
             "defense": 1429,
@@ -108823,7 +108884,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1774,
+        "originalIndex": 1775,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -108898,7 +108959,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1775,
+        "originalIndex": 1776,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -108964,7 +109025,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1776,
+        "originalIndex": 1777,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -109034,7 +109095,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1777,
+        "originalIndex": 1778,
         "lb1": {
             "attack": 1469,
             "defense": 1520,
@@ -109104,7 +109165,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1778,
+        "originalIndex": 1779,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -109181,7 +109242,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1779,
+        "originalIndex": 1780,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -109247,7 +109308,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1780,
+        "originalIndex": 1781,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -109310,7 +109371,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1781,
+        "originalIndex": 1782,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -109369,7 +109430,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1782,
+        "originalIndex": 1783,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -109422,7 +109483,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1783,
+        "originalIndex": 1784,
         "lb1": {
             "attack": 990,
             "defense": 957,
@@ -109481,7 +109542,7 @@ window.allHeroes =
         ],
         "family": "atlantis",
         "costume_id": 2,
-        "originalIndex": 1784,
+        "originalIndex": 1785,
         "lb1": {
             "attack": 1482,
             "defense": 1477,
@@ -109546,7 +109607,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1785,
+        "originalIndex": 1786,
         "lb1": {
             "attack": 1445,
             "defense": 1491,
@@ -109615,7 +109676,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1786,
+        "originalIndex": 1787,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -109677,7 +109738,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1787,
+        "originalIndex": 1788,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -109730,7 +109791,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1788,
+        "originalIndex": 1789,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -109789,7 +109850,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1789,
+        "originalIndex": 1790,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -109847,7 +109908,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1790,
+        "originalIndex": 1791,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -109906,7 +109967,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1791,
+        "originalIndex": 1792,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -109969,7 +110030,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1792,
+        "originalIndex": 1793,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -110022,7 +110083,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1793,
+        "originalIndex": 1794,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -110084,7 +110145,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1794,
+        "originalIndex": 1795,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -110140,7 +110201,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1795,
+        "originalIndex": 1796,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -110205,7 +110266,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1796,
+        "originalIndex": 1797,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -110274,7 +110335,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1797,
+        "originalIndex": 1798,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -110342,7 +110403,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1798,
+        "originalIndex": 1799,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -110401,7 +110462,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1799,
+        "originalIndex": 1800,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -110478,7 +110539,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1800,
+        "originalIndex": 1801,
         "lb1": {
             "attack": 1516,
             "defense": 1365,
@@ -110538,7 +110599,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1801,
+        "originalIndex": 1802,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -110609,7 +110670,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1802,
+        "originalIndex": 1803,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -110682,7 +110743,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1803,
+        "originalIndex": 1804,
         "lb1": {
             "attack": 1456,
             "defense": 1383,
@@ -110750,7 +110811,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1804,
+        "originalIndex": 1805,
         "lb1": {
             "attack": 1518,
             "defense": 1480,
@@ -110815,7 +110876,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1805,
+        "originalIndex": 1806,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -110873,7 +110934,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1806,
+        "originalIndex": 1807,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -110924,7 +110985,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1807,
+        "originalIndex": 1808,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -110977,7 +111038,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1808,
+        "originalIndex": 1809,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -111035,7 +111096,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1809,
+        "originalIndex": 1810,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111095,7 +111156,7 @@ window.allHeroes =
         ],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1810,
+        "originalIndex": 1811,
         "lb1": {
             "attack": 1476,
             "defense": 1371,
@@ -111161,7 +111222,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1811,
+        "originalIndex": 1812,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -111234,7 +111295,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1812,
+        "originalIndex": 1813,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -111294,7 +111355,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1813,
+        "originalIndex": 1814,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -111355,7 +111416,7 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
             "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
             "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
@@ -111363,7 +111424,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1814,
+        "originalIndex": 1815,
         "lb1": {
             "attack": 1522,
             "defense": 1480,
@@ -111428,7 +111489,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1815,
+        "originalIndex": 1816,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -111489,7 +111550,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1816,
+        "originalIndex": 1817,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -111548,7 +111609,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1817,
+        "originalIndex": 1818,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -111614,7 +111675,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1818,
+        "originalIndex": 1819,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -111681,7 +111742,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1819,
+        "originalIndex": 1820,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -111759,7 +111820,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1820,
+        "originalIndex": 1821,
         "lb1": {
             "attack": 1440,
             "defense": 1436,
@@ -111826,7 +111887,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1821,
+        "originalIndex": 1822,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111894,7 +111955,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1822,
+        "originalIndex": 1823,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -111964,7 +112025,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1823,
+        "originalIndex": 1824,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -112043,7 +112104,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1824,
+        "originalIndex": 1825,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -112105,7 +112166,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1825,
+        "originalIndex": 1826,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -112164,7 +112225,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1826,
+        "originalIndex": 1827,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -112223,7 +112284,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1827,
+        "originalIndex": 1828,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -112286,7 +112347,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1828,
+        "originalIndex": 1829,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -112350,7 +112411,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1829,
+        "originalIndex": 1830,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -112414,7 +112475,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1830,
+        "originalIndex": 1831,
         "lb1": {
             "attack": 1446,
             "defense": 1476,
@@ -112474,7 +112535,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1831,
+        "originalIndex": 1832,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -112543,7 +112604,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1832,
+        "originalIndex": 1833,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -112613,7 +112674,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1833,
+        "originalIndex": 1834,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -112666,12 +112727,12 @@ window.allHeroes =
         "health": 1353,
         "effects": [
             "Deals 280% Damage to the target and nearby enemies",
-            "The target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
+            "The target gets -34% defense for 4 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1834,
+        "originalIndex": 1835,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -112728,7 +112789,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1835,
+        "originalIndex": 1836,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -112792,7 +112853,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1836,
+        "originalIndex": 1837,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -112863,7 +112924,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1837,
+        "originalIndex": 1838,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -112921,7 +112982,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1838,
+        "originalIndex": 1839,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -112983,7 +113044,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1839,
+        "originalIndex": 1840,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -113050,7 +113111,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1840,
+        "originalIndex": 1841,
         "lb1": {
             "attack": 1369,
             "defense": 1434,
@@ -113108,7 +113169,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1841,
+        "originalIndex": 1842,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -113175,7 +113236,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1842,
+        "originalIndex": 1843,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -113243,7 +113304,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1843,
+        "originalIndex": 1844,
         "lb1": {
             "attack": 1500,
             "defense": 1384,
@@ -113305,7 +113366,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1844,
+        "originalIndex": 1845,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -113373,7 +113434,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1845,
+        "originalIndex": 1846,
         "lb1": {
             "attack": 1323,
             "defense": 1402,
@@ -113441,7 +113502,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1846,
+        "originalIndex": 1847,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -113500,7 +113561,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1847,
+        "originalIndex": 1848,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -113567,7 +113628,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1848,
+        "originalIndex": 1849,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -113631,7 +113692,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1849,
+        "originalIndex": 1850,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -113687,7 +113748,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1850,
+        "originalIndex": 1851,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -113748,7 +113809,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1851,
+        "originalIndex": 1852,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -113807,7 +113868,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1852,
+        "originalIndex": 1853,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -113870,7 +113931,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1853,
+        "originalIndex": 1854,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -113930,7 +113991,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1854,
+        "originalIndex": 1855,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -113990,7 +114051,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1855,
+        "originalIndex": 1856,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -114021,30 +114082,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Hua Pi Gui",
-        "fancy_name": "Ghost with Painted Skin",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ghost_hua_pi_gui",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ghost",
-        "costume_id": 0,
-        "originalIndex": 1856,
-        "cn_skill_info": []
     },
     {
         "name": "Isarnia Stylish",

@@ -48605,5 +48605,24 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Hua Pi Gui",
+        "fancy name": "Ghost with Painted Skin",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-07-05",
+        "AetherPower": "Regen",
+        "heroId": "ghost_hua_pi_gui",
+        "baseAttack": 686,
+        "baseDefense": 668,
+        "baseHealth": 1164,
+        "specialId": "surrender_your_heart",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "family": "ghost"
     }
 ];
