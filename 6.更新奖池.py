@@ -2,6 +2,7 @@ import json
 import os
 import sys
 import shutil
+import re
 from datetime import datetime, timedelta, UTC
 
 # ==================== 可自定义配置 ====================
@@ -276,7 +277,30 @@ def choose_best_candidate(candidates_with_date, ref_date):
         return max(all_past, key=lambda x: x[0])[1]
     else:
         return None
-    
+
+def choose_best_entry(candidates_with_date, ref_date):
+    """与 choose_best_candidate 类似，但返回原始条目（entry）而非配置"""
+    past_within_7 = []
+    future_within_30 = []
+    all_past = []
+    for dt, entry in candidates_with_date:
+        date = dt.date() if hasattr(dt, 'date') else dt
+        if date <= ref_date:
+            all_past.append((date, entry))
+            if (ref_date - date).days <= 7:
+                past_within_7.append((date, entry))
+        else:
+            if (date - ref_date).days <= 30:
+                future_within_30.append((date, entry))
+    if past_within_7:
+        return max(past_within_7, key=lambda x: x[0])[1]
+    elif future_within_30:
+        return min(future_within_30, key=lambda x: x[0])[1]
+    elif all_past:
+        return max(all_past, key=lambda x: x[0])[1]
+    else:
+        return None
+
 def extract_pool_config(entry: dict):
     """从主文件召唤池条目中提取 featuredHeroes、includedHeroes、limitedPoolSummonConfiguration"""
     config = {}
@@ -599,6 +623,189 @@ def extract_pickup_daily_heroes(lottery_data, base_datetime):
     sorted_heroes = {d.isoformat(): date_to_heroes[d] for d in sorted(date_to_heroes.keys())}
     return {"featuredHeroes": sorted_heroes}
 
+# ==================== 新增：从 other 提取灵魂交换、英雄教练、拜访裁缝 ====================
+def extract_soul_exchange(other_data, now):
+    """从 other_data 中提取 soulExchange 活动信息，返回包含 Date、five、fifteen、thirty 的字典"""
+    try:
+        entries = other_data["otherConfig"]["logic"]["soulExchange"]["schedule"]["entries"]
+    except (KeyError, TypeError):
+        return None
+    if not isinstance(entries, list):
+        return None
+    candidates = []
+    for entry in entries:
+        start_str = entry.get("startTime")
+        if start_str:
+            dt = parse_date(start_str)
+            if dt:
+                candidates.append((dt.date(), entry))
+    if not candidates:
+        return None
+    best_entry = choose_best_entry(candidates, now.date())
+    if not best_entry:
+        return None
+    # 提取 tiers
+    tiers = best_entry.get("soulExchangeTiers", [])
+    five_heroes = []
+    fifteen_heroes = []
+    thirty_heroes = []
+    for tier in tiers:
+        cost = tier.get("cost")
+        heroes = tier.get("heroes", [])
+        if cost == 5:
+            five_heroes = heroes
+        elif cost == 15:
+            fifteen_heroes = heroes
+        elif cost == 30:
+            thirty_heroes = heroes
+    date_str = best_entry.get("startTime", "")
+    date_part = date_str.split()[0] if date_str else ""
+    return {
+        "Date": date_part,
+        "five": five_heroes,
+        "fifteen": fifteen_heroes,
+        "thirty": thirty_heroes
+    }
+
+def extract_hero_coach_date(other_data, now):
+    """从 other_data 中提取 heroCoach 活动的 startTime 日期"""
+    try:
+        entries = other_data["otherConfig"]["logic"]["heroCoach"]["schedule"]["entries"]
+    except (KeyError, TypeError):
+        return None
+    if not isinstance(entries, list):
+        return None
+    candidates = []
+    for entry in entries:
+        start_str = entry.get("startTime")
+        if start_str:
+            dt = parse_date(start_str)
+            if dt:
+                candidates.append((dt.date(), entry))
+    if not candidates:
+        return None
+    best_entry = choose_best_entry(candidates, now.date())
+    if best_entry:
+        start_str = best_entry.get("startTime", "")
+        return start_str.split()[0] if start_str else None
+    return None
+
+def extract_visiting_outfitter_date(other_data, now):
+    """从 other_data 中提取 visitingOutfitter 活动的 startTime 日期"""
+    try:
+        entries = other_data["otherConfig"]["logic"]["visitingOutfitter"]["schedule"]["entries"]
+    except (KeyError, TypeError):
+        return None
+    if not isinstance(entries, list):
+        return None
+    candidates = []
+    for entry in entries:
+        start_str = entry.get("startTime")
+        if start_str:
+            dt = parse_date(start_str)
+            if dt:
+                candidates.append((dt.date(), entry))
+    if not candidates:
+        return None
+    best_entry = choose_best_entry(candidates, now.date())
+    if best_entry:
+        start_str = best_entry.get("startTime", "")
+        return start_str.split()[0] if start_str else None
+    return None
+
+def update_data_js(file_path, soul_exchange_data, one_click_max_date, purchase_costume_date):
+    if not os.path.isfile(file_path):
+        print(f"⚠️ data.js 不存在: {file_path}")
+        return
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    new_content = content
+    updated = False
+
+    # 更新 oneClickMaxDate
+    if one_click_max_date:
+        pattern = r"(const oneClickMaxDate\s*=\s*)'([^']*)'"
+        match = re.search(pattern, new_content)
+        if match:
+            old_date = match.group(2)
+            if old_date != one_click_max_date:
+                new_content = re.sub(pattern, r"\1'" + one_click_max_date + "'", new_content)
+                updated = True
+                print(f"✅ 更新 oneClickMaxDate: {old_date} -> {one_click_max_date}")
+            else:
+                print(f"ℹ️ oneClickMaxDate 已是 {old_date}，无需更新")
+        else:
+            print("⚠️ 未找到 oneClickMaxDate 定义，无法更新")
+
+    # 更新 purchaseCostumeDate
+    if purchase_costume_date:
+        pattern = r"(const purchaseCostumeDate\s*=\s*)'([^']*)'"
+        match = re.search(pattern, new_content)
+        if match:
+            old_date = match.group(2)
+            if old_date != purchase_costume_date:
+                new_content = re.sub(pattern, r"\1'" + purchase_costume_date + "'", new_content)
+                updated = True
+                print(f"✅ 更新 purchaseCostumeDate: {old_date} -> {purchase_costume_date}")
+            else:
+                print(f"ℹ️ purchaseCostumeDate 已是 {old_date}，无需更新")
+        else:
+            print("⚠️ 未找到 purchaseCostumeDate 定义，无法更新")
+
+    # 更新 soulExchange
+    if soul_exchange_data:
+        # 构造新的对象字符串
+        se_obj = {
+            "Date": soul_exchange_data["Date"],
+            "five": soul_exchange_data["five"],
+            "fifteen": soul_exchange_data["fifteen"],
+            "thirty": soul_exchange_data["thirty"],
+            "show": False
+        }
+        se_json_str = json.dumps(se_obj, indent=2, ensure_ascii=False)
+
+        # 匹配整个 const soulExchange = { ... }; 块
+        pattern = r"(const\s+soulExchange\s*=\s*)\{[\s\S]*?\}(\s*;)"
+        match = re.search(pattern, new_content)
+        if match:
+            old_full = match.group(0)  # 完整匹配块
+            old_date_match = re.search(r"Date\s*:\s*'([^']*)'", old_full)
+            old_date = old_date_match.group(1) if old_date_match else ""
+            if old_date and old_date > soul_exchange_data["Date"]:
+                print(f"⚠️ 现有 soulExchange.Date ({old_date}) 比新日期 ({soul_exchange_data['Date']}) 更未来，跳过更新")
+            else:
+                new_line = "const soulExchange = " + se_json_str + ";"
+                new_content = new_content.replace(old_full, new_line)
+                updated = True
+                print(f"✅ 更新 soulExchange: Date {old_date if old_date else '无'} -> {soul_exchange_data['Date']}")
+                print(f"   five: {len(soul_exchange_data['five'])} 个英雄, fifteen: {len(soul_exchange_data['fifteen'])} 个, thirty: {len(soul_exchange_data['thirty'])} 个")
+        else:
+            # 备用匹配：匹配到第一个分号
+            alt_pattern = r"(const\s+soulExchange\s*=\s*)([^;]+);"
+            alt_match = re.search(alt_pattern, new_content, re.DOTALL)
+            if alt_match:
+                old_full = alt_match.group(0)
+                old_date_match = re.search(r"Date\s*:\s*'([^']*)'", old_full)
+                old_date = old_date_match.group(1) if old_date_match else ""
+                if old_date and old_date > soul_exchange_data["Date"]:
+                    print(f"⚠️ 现有 soulExchange.Date ({old_date}) 比新日期 ({soul_exchange_data['Date']}) 更未来，跳过更新")
+                else:
+                    new_line = "const soulExchange = " + se_json_str + ";"
+                    new_content = new_content.replace(old_full, new_line)
+                    updated = True
+                    print(f"✅ 更新 soulExchange (备用匹配): Date {old_date if old_date else '无'} -> {soul_exchange_data['Date']}")
+            else:
+                print("⚠️ 无法定位 soulExchange 定义，跳过更新")
+
+    if updated:
+        if not new_content.endswith('\n'):
+            new_content += '\n'
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        print(f"✅ data.js 已更新: {file_path}")
+    else:
+        print("ℹ️ data.js 无实质性更新，未写入")
+
 # ==================== 主函数 ====================
 def main():
     script_dir = get_script_dir()
@@ -658,6 +865,7 @@ def main():
         adjusted_now = now_utc
         print(f"当前UTC时间 {now_utc.strftime('%Y-%m-%d %H:%M:%S')} 已达到或超过07:00，使用实际日期作为基准")
 
+    # ========== 奖池提取 ==========
     new_pools = {}
 
     for target_id, output_key in TARGET_POOLS.items():
@@ -767,6 +975,20 @@ def main():
             sync_to_target(output_path, target_file)
         else:
             print(f"⚠️ 本地目标目录不存在，无法同步：{target_dir}")
+
+        # ========== 新增：更新 data.js ==========
+        data_js_path = os.path.join(target_dir, "data.js")
+        if os.path.exists(data_js_path):
+            soul_exchange_data = None
+            one_click_max_date = None
+            purchase_costume_date = None
+            if other_data is not None:
+                soul_exchange_data = extract_soul_exchange(other_data, adjusted_now)
+                one_click_max_date = extract_hero_coach_date(other_data, adjusted_now)
+                purchase_costume_date = extract_visiting_outfitter_date(other_data, adjusted_now)
+            update_data_js(data_js_path, soul_exchange_data, one_click_max_date, purchase_costume_date)
+        else:
+            print(f"⚠️ data.js 不存在，跳过更新: {data_js_path}")
 
 if __name__ == "__main__":
     main()
