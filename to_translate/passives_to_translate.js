@@ -122,6 +122,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nordic_chained_werewolf_costume_stylish",
+        "name": "Graymane Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "guardian_lemur",
         "name": "Guardian Lemur",
         "passives": []
@@ -1682,6 +1689,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nordic_ice_enchantress_costume_stylish",
+        "name": "Isarnia Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "passives": [
@@ -3028,6 +3042,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "forest_friar_costume_stylish",
+        "name": "Friar Tuck Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "journey_general_yin",
         "name": "General Yin",
         "passives": []
@@ -3400,6 +3421,13 @@ const allTranslations =
         "name": "Kashhrek Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "lizardman_trapper_costume_stylish",
+        "name": "Kashhrek Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -12145,6 +12173,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "oriental_panda_warrior_costume_stylish",
+        "name": "Hu Tao Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "easter_lady_woolerton",
         "name": "Lady Woolerton",
         "passives": []
@@ -14204,31 +14239,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "nordic_ice_enchantress_costume_stylish",
-        "name": "Isarnia Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_panda_warrior_costume_stylish",
-        "name": "Hu Tao Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "lizardman_trapper_costume_stylish",
-        "name": "Kashhrek Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "nordic_chained_werewolf_costume_stylish",
-        "name": "Graymane Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "forest_friar_costume_stylish",
-        "name": "Friar Tuck Stylish",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_orson",

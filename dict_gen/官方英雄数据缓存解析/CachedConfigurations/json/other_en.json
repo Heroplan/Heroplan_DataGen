@@ -4131,6 +4131,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-09-29 07:00:00",
             "endTime": "2026-10-03 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-10-06 07:00:00",
+            "endTime": "2026-10-10 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -95976,7 +95983,8 @@
           "MercenaryWar",
           "AscensionSummon",
           "GoblinSummon",
-          "TitanHunterSummon"
+          "TitanHunterSummon",
+          "ThunderboltSummon"
         ]
       }
     },
@@ -96172,5 +96180,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 120847401
+  "otherConfigId": 3902790425
 }

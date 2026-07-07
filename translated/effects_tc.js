@@ -140,6 +140,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "nordic_chained_werewolf_costume_stylish",
+        "name": "Graymane Stylish",
+        "effects": [
+            "對目標造成 275% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 350% 傷害。",
+            "為施法者治療 49% 的傷害。"
+        ]
+    },
+    {
         "heroId": "guardian_lemur",
         "name": "Guardian Lemur",
         "effects": [
@@ -2075,6 +2084,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "nordic_ice_enchantress_costume_stylish",
+        "name": "Isarnia Stylish",
+        "effects": [
+            "對所有敵人造成 405% 傷害。",
+            "對剩餘生命少於 50% 的敵人造成 555% 傷害。",
+            "所有敵人獲得 -42% 防禦，持續 6 回合。"
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "effects": [
@@ -3848,6 +3866,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "forest_friar_costume_stylish",
+        "name": "Friar Tuck Stylish",
+        "effects": [
+            "為施法者和附近盟友恢復 43% 生命值。",
+            "施法者和附近盟友獲得 +20% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
+            "施法者和附近盟友在 4 回合內恢復 240 點生命值。"
+        ]
+    },
+    {
         "heroId": "journey_general_yin",
         "name": "General Yin",
         "effects": [
@@ -4407,6 +4434,15 @@ const translatedEffectsTC =
             "為施法者和附近盟友恢復 49% 生命值。",
             "所有自然系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反射。）",
             "施法者和附近盟友獲得對烈火系 +88% 的防禦，持續 3 回合。"
+        ]
+    },
+    {
+        "heroId": "lizardman_trapper_costume_stylish",
+        "name": "Kashhrek Stylish",
+        "effects": [
+            "為施法者和附近盟友恢復 50% 生命值。",
+            "施法者和附近盟友獲得對烈火系 +90% 的防禦，持續 4 回合。",
+            "施法者和附近盟友在 4 回合內恢復 400 點生命值。"
         ]
     },
     {
@@ -6147,7 +6183,7 @@ const translatedEffectsTC =
             "為所有盟友提供 550 點加成生命值。加成生命值能夠超過最大生命值。",
             "為施法者和附近盟友召喚一個魔力寶劍小兵，其可從施法者繼承 14% 生命值及 15% 攻擊。",
             "每次被魔力寶劍小兵擊中，會對目標造成以下狀態異常：",
-            "* -24% 法力產出，持續 3 回合。此效果無法淨化。"
+            "* -24% 法力產出，持續 3 回合。此效果無法淨化。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）"
         ]
     },
     {
@@ -15580,6 +15616,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "oriental_panda_warrior_costume_stylish",
+        "name": "Hu Tao Stylish",
+        "effects": [
+            "對所有敵人造成 255% 傷害。",
+            "對剩餘生命少於 50% 的敵人造成 335% 傷害。",
+            "所有敵人獲得 -39% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）"
+        ]
+    },
+    {
         "heroId": "easter_lady_woolerton",
         "name": "Lady Woolerton",
         "effects": [
@@ -18171,31 +18216,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "nordic_ice_enchantress_costume_stylish",
-        "name": "Isarnia Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_panda_warrior_costume_stylish",
-        "name": "Hu Tao Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "lizardman_trapper_costume_stylish",
-        "name": "Kashhrek Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "nordic_chained_werewolf_costume_stylish",
-        "name": "Graymane Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "forest_friar_costume_stylish",
-        "name": "Friar Tuck Stylish",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_orson",

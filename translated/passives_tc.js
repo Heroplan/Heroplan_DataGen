@@ -122,6 +122,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "nordic_chained_werewolf_costume_stylish",
+        "name": "Graymane Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "guardian_lemur",
         "name": "Guardian Lemur",
         "passives": []
@@ -1682,6 +1689,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "nordic_ice_enchantress_costume_stylish",
+        "name": "Isarnia Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "passives": [
@@ -3028,6 +3042,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "forest_friar_costume_stylish",
+        "name": "Friar Tuck Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "journey_general_yin",
         "name": "General Yin",
         "passives": []
@@ -3400,6 +3421,13 @@ const translatedPassivesTC =
         "name": "Kashhrek Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "lizardman_trapper_costume_stylish",
+        "name": "Kashhrek Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -12145,6 +12173,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "oriental_panda_warrior_costume_stylish",
+        "name": "Hu Tao Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "easter_lady_woolerton",
         "name": "Lady Woolerton",
         "passives": []
@@ -14204,31 +14239,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "nordic_ice_enchantress_costume_stylish",
-        "name": "Isarnia Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_panda_warrior_costume_stylish",
-        "name": "Hu Tao Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "lizardman_trapper_costume_stylish",
-        "name": "Kashhrek Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "nordic_chained_werewolf_costume_stylish",
-        "name": "Graymane Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "forest_friar_costume_stylish",
-        "name": "Friar Tuck Stylish",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_orson",

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (595 / 0)
+✅ 成功匹配的服装 (600 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -175,6 +175,7 @@ Name: Anzia costume1, Fancy Name: Galactic Jailer
 Name: Archie Costume1, Fancy Name: Gallant Llama Troubadour
 Name: Graymane Costume1, Fancy Name: Garlic Thief
 Name: Wang Yuanji Costume1, Fancy Name: Gentle Calligrapher
+Name: Hu Tao stylish, Fancy Name: Gilded Bamboo
 Name: Atlanteia Costume1, Fancy Name: Glacial Siren of the Deep
 Name: Berden Glass, Fancy Name: Glass Archer
 Name: Renfeld glass, Fancy Name: Glass Assassin
@@ -244,6 +245,7 @@ Name: Jabberwock Costume1, Fancy Name: Jabbermoth
 Name: Shar'Khai Costume1, Fancy Name: Jagged Butcher
 Name: Persa Costume1, Fancy Name: Jellyfish Noble
 Name: Oberon Costume1, Fancy Name: Jester Remnant
+Name: Friar Tuck stylish, Fancy Name: Jovial Disco Artist
 Name: Friar Tuck Costume1, Fancy Name: Jovial Explorer
 Name: Friar Tuck Toon, Fancy Name: Jovial Toon
 Name: Friar Tuck Glass, Fancy Name: Jovial Vitrail
@@ -426,6 +428,7 @@ Name: Obakan stylish, Fancy Name: Stylish Bodyguard
 Name: Colen stylish, Fancy Name: Stylish Bounty Hunter
 Name: Bane stylish, Fancy Name: Stylish Brawler
 Name: Little John stylish, Fancy Name: Stylish Brother
+Name: Kashhrek stylish, Fancy Name: Stylish Chieftain
 Name: Gormek stylish, Fancy Name: Stylish Connoisseur
 Name: Cyprian stylish, Fancy Name: Stylish Deathbound Lord
 Name: Brienne stylish, Fancy Name: Stylish Druid
@@ -433,6 +436,7 @@ Name: Caedmon stylish, Fancy Name: Stylish Elf
 Name: Sartana stylish, Fancy Name: Stylish Executioner
 Name: Li Xiu stylish, Fancy Name: Stylish General
 Name: Kailani stylish, Fancy Name: Stylish Healer
+Name: Isarnia stylish, Fancy Name: Stylish Ice Wizard
 Name: Marjana stylish, Fancy Name: Stylish Lady of Windemer
 Name: Azlar stylish, Fancy Name: Stylish Leor
 Name: Jahangir stylish, Fancy Name: Stylish Mage
@@ -445,6 +449,7 @@ Name: Belith stylish, Fancy Name: Stylish Spirit
 Name: Joon stylish, Fancy Name: Stylish Sun Monk
 Name: Kiril stylish, Fancy Name: Stylish Taster
 Name: Prisca stylish, Fancy Name: Stylish Warden
+Name: Graymane stylish, Fancy Name: Stylish Werewolf
 Name: Skittleskull stylish, Fancy Name: Stylish Witch
 Name: Melendor stylish, Fancy Name: Stylish Wizard
 Name: Agrafena Costume1, Fancy Name: Supreme Dark Sorceress

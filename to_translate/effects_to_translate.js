@@ -140,6 +140,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nordic_chained_werewolf_costume_stylish",
+        "name": "Graymane Stylish",
+        "effects": [
+            "Deals 275% damage to the target.",
+            "If the target has less than 50% health remaining, deals 350% damage instead.",
+            "Heals the caster for 49% of damage dealt."
+        ]
+    },
+    {
         "heroId": "guardian_lemur",
         "name": "Guardian Lemur",
         "effects": [
@@ -2075,6 +2084,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nordic_ice_enchantress_costume_stylish",
+        "name": "Isarnia Stylish",
+        "effects": [
+            "Deals 405% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 555% damage instead.",
+            "All enemies get -42% defense for 6 turns."
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "effects": [
@@ -3848,6 +3866,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "forest_friar_costume_stylish",
+        "name": "Friar Tuck Stylish",
+        "effects": [
+            "Recovers 43% health for the caster and nearby allies.",
+            "The caster and nearby allies get +20% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "The caster and nearby allies regenerate 240 HP over 4 turns."
+        ]
+    },
+    {
         "heroId": "journey_general_yin",
         "name": "General Yin",
         "effects": [
@@ -4407,6 +4434,15 @@ const allTranslations =
             "Recovers 49% health for the caster and nearby allies.",
             "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
             "The caster and nearby allies get +88% defense against Fire for 3 turns."
+        ]
+    },
+    {
+        "heroId": "lizardman_trapper_costume_stylish",
+        "name": "Kashhrek Stylish",
+        "effects": [
+            "Recovers 50% health for the caster and nearby allies.",
+            "The caster and nearby allies get +90% defense against Fire for 4 turns.",
+            "The caster and nearby allies regenerate 400 HP over 4 turns."
         ]
     },
     {
@@ -6147,7 +6183,7 @@ const allTranslations =
             "Boosts health of all allies by 550. Boosted health can exceed max HP.",
             "Summons a Magical Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.",
             "Each hit from the Magical Sword Minion gives the target the following status ailment:",
-            "* -24% mana generation for 3 turns. This effect can't be cleansed."
+            "* -24% mana generation for 3 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -15580,6 +15616,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "oriental_panda_warrior_costume_stylish",
+        "name": "Hu Tao Stylish",
+        "effects": [
+            "Deals 255% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 335% damage instead.",
+            "All enemies get -39% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
+        ]
+    },
+    {
         "heroId": "easter_lady_woolerton",
         "name": "Lady Woolerton",
         "effects": [
@@ -18171,31 +18216,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "nordic_ice_enchantress_costume_stylish",
-        "name": "Isarnia Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_panda_warrior_costume_stylish",
-        "name": "Hu Tao Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "lizardman_trapper_costume_stylish",
-        "name": "Kashhrek Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "nordic_chained_werewolf_costume_stylish",
-        "name": "Graymane Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "forest_friar_costume_stylish",
-        "name": "Friar Tuck Stylish",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_orson",

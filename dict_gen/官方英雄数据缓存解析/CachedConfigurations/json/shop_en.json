@@ -460,8 +460,9 @@
         "id": "dynamic_alliancegift",
         "contents": [
           {
-            "type": "Gem",
-            "amount": 100
+            "type": "Item",
+            "id": "lottery_mercenary_war_coin",
+            "amount": 35
           }
         ]
       },
@@ -27889,28 +27890,16 @@
         "id": "dynamic_offer_10_red_alucard",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10e",
+            "id": "com.smallgiantgames.empires.dynamic_50",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_5b",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20e",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_29",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10d",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_25",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -28803,10 +28792,6 @@
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7d",
             "purchaseLimit": 2
           }
         ],
@@ -32896,12 +32881,8 @@
         "id": "dynamic_offer_54_shrubbear",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5d",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_29",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_7d",
+            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -40239,6 +40220,33 @@
             ]
           },
           {
+            "activationTime": "2026-07-07 08:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_legendary",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_epic",
+                "amount": 5
+              }
+            ]
+          },
+          {
             "activationTime": "2026-07-08 07:00:00",
             "contents": [
               {
@@ -43735,6 +43743,27 @@
             ]
           },
           {
+            "activationTime": "2026-07-07 08:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 4
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 4
+              }
+            ]
+          },
+          {
             "activationTime": "2026-07-08 07:00:00",
             "contents": [
               {
@@ -46149,6 +46178,21 @@
               {
                 "type": "Item",
                 "id": "tome_levels_epic",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-07 08:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1100,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
                 "amount": 1
               }
             ]
@@ -49061,18 +49105,18 @@
               },
               {
                 "type": "Item",
-                "id": "hero_limitbreak_rare_yellow",
+                "id": "hero_limitbreak_rare_purple",
                 "amount": 25
               },
               {
                 "type": "Item",
-                "id": "hero_limitbreak_epic_yellow",
+                "id": "hero_limitbreak_epic_purple",
                 "amount": 10,
                 "zyngaStoreExtraAmount": 5
               },
               {
                 "type": "Item",
-                "id": "hero_limitbreak_legendary_yellow",
+                "id": "hero_limitbreak_legendary_purple",
                 "amount": 1
               }
             ]
@@ -49156,17 +49200,18 @@
             ]
           },
           {
-            "activationTime": "2026-07-09 07:00:00",
+            "activationTime": "2026-07-07 10:15:00",
             "contents": [
               {
-                "type": "Gem",
-                "amount": 700,
-                "zyngaStoreExtraAmount": 100
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 600
               },
               {
                 "type": "Item",
-                "id": "lottery_item_limit_break",
-                "amount": 20
+                "id": "refill_food_giant",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 2
               }
             ]
           }
@@ -55605,6 +55650,20 @@
         "scheduledManually": true,
         "startTime": "2026-07-07 07:00:00",
         "endTime": "2026-07-11 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_10_red_alucard",
+        "slot": "RightMiddle",
+        "scheduledManually": true,
+        "startTime": "2026-07-07 08:30:00",
+        "endTime": "2026-07-08 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_54_shrubbear",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-07 10:15:00",
+        "endTime": "2026-07-08 06:30:00"
       },
       {
         "id": "dynamic_offer_1_yellow_eloise",
@@ -86035,5 +86094,5 @@
       ]
     }
   },
-  "shopConfigId": 1943994244
+  "shopConfigId": 2568512883
 }
