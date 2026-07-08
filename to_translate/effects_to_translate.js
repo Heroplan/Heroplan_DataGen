@@ -6553,6 +6553,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_orson",
+        "name": "Orson",
+        "effects": [
+            "Deals 250% damage to all enemies.",
+            "Against Titans, deals 500% damage.",
+            "All allies get +50% attack for 4 turns. Against Ice Titans, all allies get +60% attack.",
+            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage."
+        ]
+    },
+    {
         "heroId": "tales2_ott",
         "name": "Ott",
         "effects": [
@@ -18216,11 +18226,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "titan_hunter_orson",
-        "name": "Orson",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_baji",

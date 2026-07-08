@@ -48749,5 +48749,25 @@ window.allHeroesExtra = [
         "healthBonus": "30%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Orson",
+        "fancy name": "Warden of the Grove",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-07-08",
+        "AetherPower": "Defense Up",
+        "heroId": "titan_hunter_orson",
+        "baseAttack": 689,
+        "baseDefense": 667,
+        "baseHealth": 1163,
+        "specialId": "verdant_guard",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_green_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];

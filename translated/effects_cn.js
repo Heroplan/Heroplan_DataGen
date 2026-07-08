@@ -6553,6 +6553,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "titan_hunter_orson",
+        "name": "Orson",
+        "effects": [
+            "对所有敌人造成 250% 伤害。",
+            "对抗泰坦时，造成 500% 伤害。",
+            "所有盟友获得 +50% 攻击力，持续 4 回合。对抗冰雪系泰坦时，所有盟友获得 +60% 攻击力。",
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。"
+        ]
+    },
+    {
         "heroId": "tales2_ott",
         "name": "Ott",
         "effects": [
@@ -18216,11 +18226,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_orson",
-        "name": "Orson",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_baji",

@@ -6553,6 +6553,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "titan_hunter_orson",
+        "name": "Orson",
+        "effects": [
+            "對所有敵人造成 250% 傷害。",
+            "對上泰坦造成 500% 傷害。",
+            "所有盟友獲得 +50% 攻擊，持續 4 回合。對上冰霜泰坦時，所有盟友獲得 +60% 攻擊。",
+            "所有盟友得到靈魂連結，持續 4 回合。靈魂連結的盟友會分享承受的傷害。"
+        ]
+    },
+    {
         "heroId": "tales2_ott",
         "name": "Ott",
         "effects": [
@@ -18216,11 +18226,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_orson",
-        "name": "Orson",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_baji",

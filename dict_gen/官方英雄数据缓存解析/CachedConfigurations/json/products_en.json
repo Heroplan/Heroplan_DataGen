@@ -19935,6 +19935,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_limitbreak1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -19942,6 +19943,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_limitbreak2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -19949,6 +19951,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_limitbreak3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -58873,5 +58876,5 @@
       }
     ]
   },
-  "productsConfigId": 70173293
+  "productsConfigId": 1243430354
 }

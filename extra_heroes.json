@@ -1,17 +1,5 @@
 [
     {
-        "name": "Orson",
-        "fancy_name": "Warden of the Grove",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-08 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_orson",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Baji",
         "fancy_name": "Bichuwa Assassin",
         "color": "Purple",
