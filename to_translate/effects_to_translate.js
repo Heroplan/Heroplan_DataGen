@@ -16364,6 +16364,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_food_yellow",
+        "name": "Food Mimic Holy",
+        "effects": [
+            "Deals 500% damage to the target.",
+            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "Heals all allies for 30% of damage dealt.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "effects": [

@@ -48769,5 +48769,25 @@ window.allHeroesExtra = [
             "tile_enhancement_green_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Food Mimic Holy",
+        "fancy name": "Flesh-eating Chest",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-07-09",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_food_yellow",
+        "baseAttack": 692,
+        "baseDefense": 689,
+        "baseHealth": 1158,
+        "specialId": "wicked_lick_yellow",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_food_yellow"
+        ],
+        "family": "mimic"
     }
 ];

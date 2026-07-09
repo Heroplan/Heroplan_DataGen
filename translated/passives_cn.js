@@ -12808,6 +12808,26 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "mimic_food_yellow",
+        "name": "Food Mimic Holy",
+        "passives": [
+            "完美精准度：该角色的特殊技能必定命中目标。",
+            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。:",
+            "传奇：",
+            "* 食物巨型包。",
+            "史诗：",
+            "* 食物大礼包。",
+            "稀有：",
+            "* 食物中礼包。",
+            "罕见：",
+            "* 食物小礼包。",
+            "* 训练师英雄。",
+            "普通：",
+            "* 食物迷你包。",
+            "* 训练师英雄。"
+        ]
+    },
+    {
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "passives": [

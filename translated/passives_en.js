@@ -12808,6 +12808,26 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_food_yellow",
+        "name": "Food Mimic Holy",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This mimic grants a chance for the following extra loot:",
+            "Legendary",
+            "* Giant Food Bundle",
+            "Epic",
+            "* Large Food Bundle",
+            "Rare",
+            "* Medium Food Bundle",
+            "Uncommon",
+            "* Small Food Bundle",
+            "* Trainer Hero",
+            "Common",
+            "* Tiny Food Bundle",
+            "* Trainer Hero"
+        ]
+    },
+    {
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "passives": [

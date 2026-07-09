@@ -804,18 +804,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Food Mimic",
-        "fancy_name": "Flesh-eating Chest",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_food_yellow",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zurrumurgh",
         "fancy_name": "Astral Demon Spirit Whisperer",
         "color": "Green",

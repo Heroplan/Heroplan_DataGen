@@ -471,18 +471,13 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
-            "amount": 25
+            "id": "lottery_mercenary_war_coin",
+            "amount": 35
           },
           {
             "type": "Item",
-            "id": "lottery_temple_coin",
-            "amount": 25
-          },
-          {
-            "type": "Item",
-            "id": "lottery_ascension_coin",
-            "amount": 25
+            "id": "lottery_covenant_coin",
+            "amount": 35
           },
           {
             "type": "Item",
@@ -32460,24 +32455,8 @@
         "id": "dynamic_offer_43_green_gadeirus",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
+            "id": "com.smallgiantgames.empires.dynamic_12d",
             "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -32487,6 +32466,7 @@
         "zyngaStoreEnabled": true,
         "zyngaStorePlacementPool": "dynamic-offers",
         "offerLayoutSource": "dynamic_offer_8_green_gadeirus",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.destined_deals"
       },
       {
@@ -50341,6 +50321,28 @@
                 "amount": 20
               }
             ]
+          },
+          {
+            "activationTime": "2026-07-09 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 400
+              },
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 5
+              }
+            ]
           }
         ]
       },
@@ -55706,13 +55708,6 @@
         "endTime": "2026-07-07 06:30:00"
       },
       {
-        "id": "dynamic_offer_flash_01",
-        "slot": "Flash",
-        "scheduledManually": true,
-        "startTime": "2026-07-06 12:00:00",
-        "endTime": "2026-07-07 06:30:00"
-      },
-      {
         "id": "dynamic_offer_40_red_yang_mai",
         "slot": "RightExtraTop",
         "scheduledManually": true,
@@ -55785,13 +55780,6 @@
         "slot": "RightMiddle",
         "scheduledManually": true,
         "startTime": "2026-07-07 08:30:00",
-        "endTime": "2026-07-08 06:30:00"
-      },
-      {
-        "id": "dynamic_offer_54_shrubbear",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-07-07 10:15:00",
         "endTime": "2026-07-08 06:30:00"
       },
       {
@@ -55889,6 +55877,13 @@
         "scheduledManually": true,
         "startTime": "2026-07-09 07:00:00",
         "endTime": "2026-07-11 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_43_green_gadeirus",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-09 09:30:00",
+        "endTime": "2026-07-10 06:30:00"
       },
       {
         "id": "dynamic_offer_28_faiez_oasis",
@@ -86402,5 +86397,5 @@
       ]
     }
   },
-  "shopConfigId": 2618551947
+  "shopConfigId": 4289574068
 }

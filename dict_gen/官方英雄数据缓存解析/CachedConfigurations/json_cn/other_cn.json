@@ -3087,6 +3087,12 @@
             "type": "MysteryHero",
             "startTime": "2026-06-30 07:00:00",
             "endTime": "2026-07-01 07:00:00"
+          },
+          {
+            "id": "SecretSummonFoodMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2026-07-09 07:00:00",
+            "endTime": "2026-07-10 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -96180,5 +96186,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3902790425
+  "otherConfigId": 103140996
 }

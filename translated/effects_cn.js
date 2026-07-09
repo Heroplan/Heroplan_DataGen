@@ -16364,6 +16364,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "mimic_food_yellow",
+        "name": "Food Mimic Holy",
+        "effects": [
+            "对目标造成 500% 伤害。",
+            "若目标被该攻击击败，施法者将获得 +33% 法力。",
+            "为所有盟友恢复等同于所造成伤害 30% 的生命值。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "effects": [

@@ -16364,6 +16364,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "mimic_food_yellow",
+        "name": "Food Mimic Holy",
+        "effects": [
+            "對目標造成 500% 傷害。",
+            "若攻擊擊败目標，施法者會獲得 +33% 法力。",
+            "為所有盟友治療 30% 的傷害。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ]
+    },
+    {
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "effects": [
