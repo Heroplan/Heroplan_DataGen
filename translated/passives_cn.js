@@ -6726,6 +6726,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "mahayoddha_baji",
+        "name": "Baji",
+        "passives": [
+            "受到伤害时获得法力：",
+            "* 当该角色受到来自特殊技能或普通攻击的直接伤害时，会获得少量法力。",
+            "* 每回合最多获得 10% 法力。",
+            "对小兵和巨大体型小兵的额外伤害：此角色对小兵和巨大体型小兵造成 +150% 伤害。"
+        ]
+    },
+    {
         "heroId": "s5_bastet",
         "name": "Bastet",
         "passives": [
@@ -14270,11 +14280,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "mahayoddha_baji",
-        "name": "Baji",
-        "passives": []
     },
     {
         "heroId": "tales2_hogne_costume_lunar",

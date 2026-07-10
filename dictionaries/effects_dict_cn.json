@@ -2862,5 +2862,7 @@
     "^\\*\\s+Recovers([+-]?\\s*\\d+\\s*%?)\\s+health\\s+for\\s+the\\s+character\\s+on\\s+the\\s+opposing\\s+side\\s+with\\s+the\\s+lowest\\s+remaining\\s+HP\\.?\\s*$": "* 为剩余生命值最低的敌方角色恢复\\1 生命值。",
     "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "目标获得 \\1 防御，持续\\2回合。若目标受到治疗，效果持续时间将重置。此效果无法净化。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Ice\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友获得 \\1 攻击力，持续\\2回合。对抗冰雪系泰坦时，所有盟友获得 \\3 攻击力。",
-    "^Boost\\s+health\\s+of\\s+all\\s+allies\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)for\\s+each\\s+Nature\\s+shield,\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "每有一面自然系盾牌额外提高\\1点生命加成，最高\\2点。"
+    "^Boost\\s+health\\s+of\\s+all\\s+allies\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)for\\s+each\\s+Nature\\s+shield,\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "每有一面自然系盾牌额外提高\\1点生命加成，最高\\2点。",
+    "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+receive([+-]?\\s*\\d+\\s*%?)Poison\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+spreads\\s+to\\s+nearby\\s+enemies\\.?\\s*$": "位于阵型边缘的敌人在\\2回合内受到共计\\1点剧毒伤害。此效果会蔓延至附近敌人。",
+    "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+get\\s+silenced\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "处于敌人阵型边缘的敌人会被沉默，持续\\1回合。"
 }

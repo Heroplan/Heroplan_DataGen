@@ -6726,6 +6726,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_baji",
+        "name": "Baji",
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ]
+    },
+    {
         "heroId": "s5_bastet",
         "name": "Bastet",
         "passives": [
@@ -14270,11 +14280,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "mahayoddha_baji",
-        "name": "Baji",
-        "passives": []
     },
     {
         "heroId": "tales2_hogne_costume_lunar",

@@ -48789,5 +48789,25 @@ window.allHeroesExtra = [
             "mimic_food_yellow"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Baji",
+        "fancy name": "Bichuwa Assassin",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-07-10",
+        "AetherPower": "Counterattack",
+        "heroId": "mahayoddha_baji",
+        "baseAttack": 686,
+        "baseDefense": 670,
+        "baseHealth": 1164,
+        "specialId": "double_bichuwa_slashes",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

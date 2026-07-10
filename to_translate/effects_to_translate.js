@@ -8644,6 +8644,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_baji",
+        "name": "Baji",
+        "effects": [
+            "Deals 500% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
+            "The enemies on the edges of the enemy formation receive 744 Poison damage over 4 turns. This effect spreads to nearby enemies.",
+            "The enemies on the edges of the enemy formation get silenced for 4 turns."
+        ]
+    },
+    {
         "heroId": "s5_bastet",
         "name": "Bastet",
         "effects": [
@@ -18236,11 +18246,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "mahayoddha_baji",
-        "name": "Baji",
-        "effects": []
     },
     {
         "heroId": "tales2_hogne_costume_lunar",

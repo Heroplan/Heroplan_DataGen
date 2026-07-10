@@ -1,17 +1,5 @@
 [
     {
-        "name": "Baji",
-        "fancy_name": "Bichuwa Assassin",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-10 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_baji",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Högne C",
         "fancy_name": "Dwarven Moon Knight",
         "color": "Blue",
