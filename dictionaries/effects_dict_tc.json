@@ -2861,5 +2861,6 @@
     "^Mindless\\s+Heal:$": "莽夫治療：",
     "^\\*\\s+Recovers([+-]?\\s*\\d+\\s*%?)\\s+health\\s+for\\s+the\\s+character\\s+on\\s+the\\s+opposing\\s+side\\s+with\\s+the\\s+lowest\\s+remaining\\s+HP\\.?\\s*$": "* 為剩餘生命值最低的敵方角色恢復\\1 生命值。",
     "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "目標獲得 \\1 防禦，持續\\2回合。若目標受到治療，效果持續時間將重置。此效果無法淨化。",
-    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Ice\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友獲得 \\1 攻擊，持續\\2回合。對上冰霜泰坦時，所有盟友獲得 \\3 攻擊。"
+    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Ice\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友獲得 \\1 攻擊，持續\\2回合。對上冰霜泰坦時，所有盟友獲得 \\3 攻擊。",
+    "^Boost\\s+health\\s+of\\s+all\\s+allies\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)for\\s+each\\s+Nature\\s+shield,\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "每有一個自然護盾額外提供\\1點加成生命，最高\\2點。"
 }

@@ -11441,7 +11441,7 @@ window.allHeroes =
         "health": 2385,
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -14042,7 +14042,7 @@ window.allHeroes =
             "Enhanced Shields on Special: Passive Skill as attacking character",
             "* Ice shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
             "Passive Skill as defending character",
-            "* Nature shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "* Ice shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
             "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
         ],
         "family": "titan_hunter",
@@ -32729,8 +32729,8 @@ window.allHeroes =
         "defense": 1079,
         "health": 1876,
         "effects": [
-            "Recovers 800 boosted health for all allies.",
-            "Recovers additional 50 boosted heath for each Nature shield, up to 1400.",
+            "Boosts health of all allies by 800. Boosted health can exceed max HP.",
+            "Boost health of all allies by an additional 50 for each Nature shield, up to 1400.",
             "All Ice enemies receive 972 Sand damage over 4 turns.",
             "All Fire enemies receive 972 Water damage over 4 turns.",
             "All Dark enemies receive 972 Burn damage over 4 turns.",
@@ -35025,7 +35025,7 @@ window.allHeroes =
         "health": 2385,
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -57215,7 +57215,7 @@ window.allHeroes =
         "health": 2385,
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -82876,7 +82876,7 @@ window.allHeroes =
         "health": 2385,
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -102922,7 +102922,7 @@ window.allHeroes =
         "health": 2385,
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],

@@ -1797,7 +1797,7 @@ const allTranslations =
         "name": "Food Mimic Ice",
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -5185,8 +5185,8 @@ const allTranslations =
         "heroId": "elemental_craum",
         "name": "Craum",
         "effects": [
-            "Recovers 800 boosted health for all allies.",
-            "Recovers additional 50 boosted heath for each Nature shield, up to 1400.",
+            "Boosts health of all allies by 800. Boosted health can exceed max HP.",
+            "Boost health of all allies by an additional 50 for each Nature shield, up to 1400.",
             "All Ice enemies receive 972 Sand damage over 4 turns.",
             "All Fire enemies receive 972 Water damage over 4 turns.",
             "All Dark enemies receive 972 Burn damage over 4 turns.",
@@ -5541,7 +5541,7 @@ const allTranslations =
         "name": "Food Mimic Nature",
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -9096,7 +9096,7 @@ const allTranslations =
         "name": "Food Mimic Dark",
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -13195,7 +13195,7 @@ const allTranslations =
         "name": "Food Mimic Fire",
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -16368,7 +16368,7 @@ const allTranslations =
         "name": "Food Mimic Holy",
         "effects": [
             "Deals 500% damage to the target.",
-            "If the target is defeated by the attack, the caster gains +33% mana.",
+            "If the target is defeated by the attack, the caster gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Heals all allies for 30% of damage dealt.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]

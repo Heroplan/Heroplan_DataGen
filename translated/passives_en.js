@@ -1786,7 +1786,7 @@ const allTranslations =
             "Enhanced Shields on Special: Passive Skill as attacking character",
             "* Ice shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
             "Passive Skill as defending character",
-            "* Nature shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "* Ice shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
             "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
         ]
     },
