@@ -1224,15 +1224,38 @@ def remove_processed_heroes_from_extra(processed_entries):
     except Exception as e:
         logging.error(f"从 {EXTRA_HEROES_JSON_FILE} 移除已处理英雄时出错: {e}")
 
+def normalize_cn_key(name: str) -> str:
+    """
+    将英雄全名转换为 CN 技能文件的 key 格式，同时执行 Unicode 规范化。
+    例如：'Porthos costume1' -> 'Porthos C'，'Éclair C2' -> 'Eclair C2'
+    """
+    if not isinstance(name, str):
+        return ""
+    # 1. Unicode 规范化（去掉变音符号）
+    name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('utf-8')
+    # 2. 按原逻辑进行后缀映射
+    parts = name.split()
+    if len(parts) > 1 and parts[-1].lower() in {"costume", "costume1", "costume2", "costume3", "toon", "glass", "stylish"}:
+        base = " ".join(parts[:-1])
+        suffix_raw = parts[-1].lower()
+        suffix_map = {
+            "costume": " C", "costume1": " C",
+            "costume2": " C2", "toon": " Toon",
+            "glass": " Glass", "stylish": " Stylish"
+        }
+        return f"{base}{suffix_map.get(suffix_raw, '')}"
+    return name
+
 def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
     """
     检测缺失中文技能分类数据的英雄，并将其以空白格式追加到指定的JSON文件中。
+    同时将文件中所有键进行 Unicode 规范化，并处理键冲突（合并列表）。
     """
     if not missing_names_list:
         return
-        
+
     logging.info(f"检测到 {len(missing_names_list)} 个英雄可能在 '{file_path}' 中缺少条目。正在检查并准备追加...")
-    
+
     existing_data = {}
     if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
         try:
@@ -1242,7 +1265,7 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
                 error_msg = f"文件 '{file_path}' 内容格式不正确，应为一个JSON对象(字典)。"
                 logging.critical(error_msg)
                 print(f"\n严重错误: {error_msg}")
-                return 
+                return
             existing_data = loaded_json
         except json.JSONDecodeError as e:
             error_msg = f"文件 '{file_path}' 格式错误，不是有效的JSON: {e}"
@@ -1250,26 +1273,33 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
             print(f"\n严重错误: {error_msg}")
             return
 
-    new_entries_count = 0
-    # 简单的转换函数，用于将全名转换为CN技能文件的key格式 (C/C2/C3等)
-    def _simple_convert_key(name):
-        parts = name.split()
-        if len(parts) > 1 and parts[-1].lower() in {"costume", "costume1", "costume2", "costume3", "toon", "glass", "stylish"}:
-            base = " ".join(parts[:-1])
-            suffix_raw = parts[-1].lower()
-            suffix_map = {
-                "costume": " C", "costume1": " C", 
-                "costume2": " C2", "toon": " Toon", 
-                "glass": " Glass", "stylish": " Stylish"
-            }
-            # 特殊英雄的 C2/C3 映射可能不同，这里简化处理，尽量匹配现有 key 格式
-            return f"{base}{suffix_map.get(suffix_raw, '')}"
-        return name
+    # 对现有键进行规范化，并合并可能冲突的键
+    normalized_existing = {}
+    for key, value in existing_data.items():
+        new_key = normalize_cn_key(key)
+        if new_key in normalized_existing:
+            # 合并两个字典的值（四个分类列表合并去重）
+            old_value = normalized_existing[new_key]
+            for cat in ["基础技能", "特殊效果", "增益效果", "负面效果"]:
+                old_list = old_value.get(cat, [])
+                new_list = value.get(cat, [])
+                if old_list and new_list:
+                    # 合并并去重（保持顺序）
+                    combined = list(dict.fromkeys(old_list + new_list))
+                    old_value[cat] = combined
+                elif new_list and not old_list:
+                    old_value[cat] = new_list
+                # 否则保留原列表
+            normalized_existing[new_key] = old_value
+        else:
+            normalized_existing[new_key] = value
 
+    # 追加缺失的英雄
+    new_entries_count = 0
     for hero_name_full in sorted(list(set(missing_names_list))):
-        output_key = _simple_convert_key(hero_name_full)
-        if output_key not in existing_data:
-            existing_data[output_key] = {
+        output_key = normalize_cn_key(hero_name_full)
+        if output_key not in normalized_existing:
+            normalized_existing[output_key] = {
                 "基础技能": [],
                 "特殊效果": [],
                 "增益效果": [],
@@ -1278,18 +1308,19 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
             new_entries_count += 1
             logging.info(f"准备为 '{hero_name_full}' 添加新条目，键名为 '{output_key}'。")
 
-    if new_entries_count > 0:
+    # 如果新增了条目或者键有变化（通过比较长度或内容），则保存
+    keys_changed = len(normalized_existing) != len(existing_data) or set(normalized_existing.keys()) != set(existing_data.keys())
+    if new_entries_count > 0 or keys_changed:
         try:
-            sorted_data = dict(sorted(existing_data.items()))
+            sorted_data = dict(sorted(normalized_existing.items()))
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(sorted_data, f, ensure_ascii=False, indent=4)
-            print(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'。")
-            logging.info(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'。")
+            print(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'，并规范化了所有现有键。")
+            logging.info(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'，并规范化了所有现有键。")
         except Exception as e:
             logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
     else:
         logging.info(f"无需向 '{file_path}' 追加新条目，文件已是最新。")
-
 
 # ===================== 配置区域 =====================
 MAX_AUTO_RERUN = 2  # 最大重试次数（包括第一次运行）

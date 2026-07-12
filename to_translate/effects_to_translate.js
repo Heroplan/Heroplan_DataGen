@@ -14238,7 +14238,7 @@ const allTranslations =
         "effects": [
             "Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
             "Recovers 35% health for all allies.",
-            "All allies reflect status ailments, negative stacks and Wither effects to a random character on the opposing team for 4 turns."
+            "All allies reflect status ailments, negative stacks and Wither effects to a random character on the opposing team for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {

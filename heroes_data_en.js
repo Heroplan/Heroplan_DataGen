@@ -8907,7 +8907,7 @@ window.allHeroes =
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
-            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "magic",
         "costume_id": 0,
@@ -21270,7 +21270,7 @@ window.allHeroes =
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
-            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "magic",
         "costume_id": 0,
@@ -23831,7 +23831,7 @@ window.allHeroes =
             "* All enemies get -56% defense for 5 turns."
         ],
         "passives": [
-            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
+            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "magic",
         "costume_id": 0,
@@ -26343,7 +26343,7 @@ window.allHeroes =
             "* All allies regenerate 405 HP over 5 turns"
         ],
         "passives": [
-            "Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
+            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
         "costume_id": 0,
@@ -43981,7 +43981,7 @@ window.allHeroes =
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
-            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "magic",
         "costume_id": 0,
@@ -71204,7 +71204,7 @@ window.allHeroes =
             "* The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns, down to -68% defense."
         ],
         "passives": [
-            "Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
+            "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
         "costume_id": 0,
@@ -89239,7 +89239,7 @@ window.allHeroes =
         "effects": [
             "Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
             "Recovers 35% health for all allies.",
-            "All allies reflect status ailments, negative stacks and Wither effects to a random character on the opposing team for 4 turns."
+            "All allies reflect status ailments, negative stacks and Wither effects to a random character on the opposing team for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -96381,7 +96381,7 @@ window.allHeroes =
             "* The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health."
         ],
         "passives": [
-            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
+            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "family": "magic",
         "costume_id": 0,
