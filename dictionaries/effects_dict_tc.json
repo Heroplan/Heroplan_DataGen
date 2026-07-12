@@ -2864,5 +2864,13 @@
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Ice\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友獲得 \\1 攻擊，持續\\2回合。對上冰霜泰坦時，所有盟友獲得 \\3 攻擊。",
     "^Boost\\s+health\\s+of\\s+all\\s+allies\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)for\\s+each\\s+Nature\\s+shield,\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "每有一個自然護盾額外提供\\1點加成生命，最高\\2點。",
     "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+receive([+-]?\\s*\\d+\\s*%?)Poison\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+spreads\\s+to\\s+nearby\\s+enemies\\.?\\s*$": "位於敵方陣型邊緣的敵人在\\2個回合內受到\\1點劇毒傷害。此效果會擴散至附近的敵人。",
-    "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+get\\s+silenced\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "位於敵方陣型邊緣的敵人陷入沉默，持續\\1個回合。"
+    "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+get\\s+silenced\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "位於敵方陣型邊緣的敵人陷入沉默，持續\\1個回合。",
+    "^Attacks\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+with\\s+Frostfall\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+damage\\s+if\\s+the\\s+target\\s+is\\s+of\\s+the\\s+Fire\\s+element\\.?\\s*\\s+This\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "使用霜落打擊攻擊目標與附近敵人，造成最多\\1點傷害。如果目標為烈火元素角色，則造成额外\\2 傷害。此特殊技能必定命中目標。",
+    "^Reduces\\s+max\\s+health\\s+of\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+by([+-]?\\s*\\d+\\s*%?)over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+is\\s+stronger\\s+against\\s+targets\\s+with\\s+boosted\\s+health\\.?\\s*$": "在\\2個回合内使目標與附近敵人的最大生命值降低\\1點。對有生命加成的目標效果更大。",
+    "^All\\s+Ice\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有冰雪盟友獲得\\2回合的 \\1 普通攻擊。",
+    "^\\(If\\s+additional\\s+effect\\s+increase\\s+attack\\s+in\\s+general,\\s+normal\\s+attacks\\s+can\\s+have\\s+a\\s+total\\s+maximum\\s+of\\s+([+-]?\\s*\\d+\\s*%?)\\s+increased\\s+power\\.?\\s*\\)$": "（若附加效果提升整體攻擊，普通攻擊最多可提升 \\1 的戰力。）",
+    "^All\\s+Nature\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有自然系盟友獲得\\2回合的 \\1 普通攻擊。",
+    "^All\\s+Dark\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有暗黑盟友獲得\\2回合的 \\1 普通攻擊。",
+    "^All\\s+Fire\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有烈火盟友獲得\\2回合的 \\1 普通攻擊。",
+    "^All\\s+Holy\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有神聖盟友獲得 2 回合的 +100% 普通攻擊。"
 }

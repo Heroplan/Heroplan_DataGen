@@ -2864,5 +2864,13 @@
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Ice\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友获得 \\1 攻击力，持续\\2回合。对抗冰雪系泰坦时，所有盟友获得 \\3 攻击力。",
     "^Boost\\s+health\\s+of\\s+all\\s+allies\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)for\\s+each\\s+Nature\\s+shield,\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "每有一面自然系盾牌额外提高\\1点生命加成，最高\\2点。",
     "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+receive([+-]?\\s*\\d+\\s*%?)Poison\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+spreads\\s+to\\s+nearby\\s+enemies\\.?\\s*$": "位于阵型边缘的敌人在\\2回合内受到共计\\1点剧毒伤害。此效果会蔓延至附近敌人。",
-    "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+get\\s+silenced\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "处于敌人阵型边缘的敌人会被沉默，持续\\1回合。"
+    "^The\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+get\\s+silenced\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "处于敌人阵型边缘的敌人会被沉默，持续\\1回合。",
+    "^Attacks\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+with\\s+Frostfall\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+damage\\s+if\\s+the\\s+target\\s+is\\s+of\\s+the\\s+Fire\\s+element\\.?\\s*\\s+This\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "使用霜降打击攻击目标和附近敌人，造成最多\\1点伤害。若目标为火焰系元素，则额外造成\\2 伤害。该特殊技能必定命中。",
+    "^Reduces\\s+max\\s+health\\s+of\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+by([+-]?\\s*\\d+\\s*%?)over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+is\\s+stronger\\s+against\\s+targets\\s+with\\s+boosted\\s+health\\.?\\s*$": "使目标和附近敌人在\\2回合内减少共计\\1点最大生命值。若目标拥有提高的生命值，此效果会增强。",
+    "^All\\s+Ice\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有冰雪系盟友在\\2回合内获得 \\1 普通攻击。",
+    "^\\(If\\s+additional\\s+effect\\s+increase\\s+attack\\s+in\\s+general,\\s+normal\\s+attacks\\s+can\\s+have\\s+a\\s+total\\s+maximum\\s+of\\s+([+-]?\\s*\\d+\\s*%?)\\s+increased\\s+power\\.?\\s*\\)$": "（若附加效果提升整体攻击，普通攻击最多可提升 \\1 的战力。）",
+    "^All\\s+Nature\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有自然系盟友在\\2回合内获得 \\1 普通攻击。",
+    "^All\\s+Dark\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有暗黑系盟友在\\2回合内获得 \\1 普通攻击。",
+    "^All\\s+Fire\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有烈火系盟友在\\2回合内获得 \\1 普通攻击。",
+    "^All\\s+Holy\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+normal\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有神圣系盟友在\\2回合内获得 \\1 普通攻击。"
 }

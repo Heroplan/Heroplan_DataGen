@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (600 / 0)
+✅ 成功匹配的服装 (601 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -115,6 +115,7 @@ Name: Dularfulr costume1, Fancy Name: Dwarven Dark Engineer
 Name: Regin costume1, Fancy Name: Dwarven Fallen Prince
 Name: Fjalar costume1, Fancy Name: Dwarven Ghostly Skald
 Name: Ott costume1, Fancy Name: Dwarven Maestro Trickster
+Name: Hogne costume1, Fancy Name: Dwarven Moon Knight
 Name: Dagr costume1, Fancy Name: Dwarven Plague Shaman
 Name: Gandr costume1, Fancy Name: Dwarven Regal Soldier
 Name: Helgi costume1, Fancy Name: Dwarven Replenisher

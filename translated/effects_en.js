@@ -1999,6 +1999,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_hogne_costume_lunar",
+        "name": "Hogne C1",
+        "effects": [
+            "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2500 damage. Deals 40% more damage if the target is of the Fire element. This Special Skill never misses its targets.",
+            "Reduces max health of the target and nearby enemies by 1000 over 4 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 250 per turn.)",
+            "The target and nearby enemies resist healing and receive 280 damage per each resisted healing for 4 turns."
+        ]
+    },
+    {
         "heroId": "beowulf_hrothgar",
         "name": "Hrothgar",
         "effects": [
@@ -3338,7 +3347,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "All Ice allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "All Ice allies get +100% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -7095,7 +7104,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "All Nature allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "All Nature allies get +100% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -10740,7 +10749,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "All Dark allies get +100% normal attack for 2 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "All Dark allies get +100% normal attack for 2 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -14564,7 +14573,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "All Fire allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "All Fire allies get +100% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -17892,7 +17901,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "All Ice allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "All Holy allies get +100% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -18246,11 +18255,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "tales2_hogne_costume_lunar",
-        "name": "Hogne C",
-        "effects": []
     },
     {
         "heroId": "kalevala_iku_turso_costume_crown",

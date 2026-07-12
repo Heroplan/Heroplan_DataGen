@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 【最终版】括号翻译失败时保留原文，但条目仍计入失败
+# 修改：主句失败时仍使用括号译文，组合输出
 
 import re
 import json
@@ -179,22 +180,28 @@ def main():
                     main_part, paren_part, _ = match.groups()
                     trans_main = translator_cn.translate(main_part)
                     trans_paren = translator_cn.translate(paren_part)
-                    if trans_main:
-                        # 主句翻译成功
-                        if trans_paren:
-                            paren_final = trans_paren
-                        else:
-                            paren_final = paren_part
-                            paren_failed = True
-                            logger.warning(f"[CN括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
-                        # 组合译文
-                        if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
-                            final_translation = Translator.format_spacing(trans_main + "。" + paren_final)
-                        else:
-                            final_translation = Translator.format_spacing(trans_main + paren_final)
+
+                    # 主句最终文本：有译文则用译文，否则原文
+                    main_final = trans_main if trans_main else main_part
+                    # 括号最终文本：有译文则用译文，否则原文（并记录失败）
+                    if trans_paren:
+                        paren_final = trans_paren
                     else:
-                        # 主句翻译失败，整项失败
-                        logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
+                        paren_final = paren_part
+                        paren_failed = True
+                        logger.warning(f"[CN括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
+
+                    # 组合，根据主句末尾是否已有标点决定是否加句号
+                    if main_final.strip() and main_final.strip()[-1] not in ending_punctuation:
+                        final_translation = Translator.format_spacing(main_final + "。" + paren_final)
+                    else:
+                        final_translation = Translator.format_spacing(main_final + paren_final)
+
+                    # 标记条目是否整体成功：主句或括号任一失败则整体失败
+                    if trans_main is None:
+                        is_cn_item_fully_translated = False
+                    if paren_failed:
+                        is_cn_item_fully_translated = False
             else:
                 # 不带括号，直接翻译
                 final_translation = translator_cn.translate(effect_str)
@@ -207,10 +214,6 @@ def main():
                 # 完全失败（主句失败或无匹配），保留原文
                 is_cn_item_fully_translated = False
                 translated_effects_cn.append(effect_str)
-
-            # 如果括号翻译失败，条目整体仍视为失败
-            if paren_failed:
-                is_cn_item_fully_translated = False
         
         translated_data_cn[item_index]['effects'] = translated_effects_cn
         if is_cn_item_fully_translated:
@@ -232,19 +235,24 @@ def main():
                     main_part, paren_part, _ = match.groups()
                     trans_main = translator_tc.translate(main_part)
                     trans_paren = translator_tc.translate(paren_part)
-                    if trans_main:
-                        if trans_paren:
-                            paren_final = trans_paren
-                        else:
-                            paren_final = paren_part
-                            paren_failed = True
-                            logger.warning(f"[TC括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
-                        if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
-                            final_translation = Translator.format_spacing(trans_main + "。" + paren_final)
-                        else:
-                            final_translation = Translator.format_spacing(trans_main + paren_final)
+
+                    main_final = trans_main if trans_main else main_part
+                    if trans_paren:
+                        paren_final = trans_paren
                     else:
-                        logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
+                        paren_final = paren_part
+                        paren_failed = True
+                        logger.warning(f"[TC括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
+
+                    if main_final.strip() and main_final.strip()[-1] not in ending_punctuation:
+                        final_translation = Translator.format_spacing(main_final + "。" + paren_final)
+                    else:
+                        final_translation = Translator.format_spacing(main_final + paren_final)
+
+                    if trans_main is None:
+                        is_tc_item_fully_translated = False
+                    if paren_failed:
+                        is_tc_item_fully_translated = False
             else:
                 final_translation = translator_tc.translate(effect_str)
                 if final_translation is None:
@@ -255,9 +263,6 @@ def main():
             else:
                 is_tc_item_fully_translated = False
                 translated_effects_tc.append(effect_str)
-
-            if paren_failed:
-                is_tc_item_fully_translated = False
         
         translated_data_tc[item_index]['effects'] = translated_effects_tc
         if is_tc_item_fully_translated:

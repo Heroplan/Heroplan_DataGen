@@ -48809,5 +48809,32 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Hogne costume1",
+        "fancy name": "Dwarven Moon Knight",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-07-12",
+        "AetherPower": "Special Armor",
+        "heroId": "tales2_hogne_costume_lunar",
+        "baseAttack": 571,
+        "baseDefense": 583,
+        "baseHealth": 1125,
+        "specialId": "glacial_fissure_cleave",
+        "specialId_costume": "lunar_fissure_cleave",
+        "passiveSkills": [
+            "arctic_core_costume",
+            "resist_frost_with_health_boost_and_mana_costume",
+            "resist_all_stealing"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "13%",
+        "healthBonus": "15%",
+        "manaBonus": "5%",
+        "family": "myrkheim"
     }
 ];
