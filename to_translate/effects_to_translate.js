@@ -2716,7 +2716,7 @@ const allTranslations =
         "name": "Otso",
         "effects": [
             "Deals 380% damage to all enemies.",
-            "The caster regenerates 870 HP over 6 turns.",
+            "The caster regenerates 1590 HP over 6 turns.",
             "All enemies get a Special Skill mark for 6 turns. Whenever marked target casts their Special Skill, they gain a Stack (Max 10). Each stack increases all damage the target receives by +5%. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
     },
@@ -6001,6 +6001,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "kalevala_iku_turso_costume_crown",
+        "name": "Iku-Turso C1",
+        "effects": [
+            "Deals 400% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 537 Water damage over 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "The caster steals 60% of any healing applied to the target and nearby enemies for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "Deals extra damage against Fire."
+        ]
+    },
+    {
         "heroId": "ninja_ito",
         "name": "Ito",
         "effects": [
@@ -7124,7 +7134,7 @@ const allTranslations =
         "name": "Vainamoinen",
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
-            "All enemies get -30% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills."
+            "All enemies get -30% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. (Chance to miss also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -7132,7 +7142,7 @@ const allTranslations =
         "name": "Vainamoinen C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
-            "All enemies get -25% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills."
+            "All enemies get -25% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. (Chance to miss also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -7669,6 +7679,15 @@ const allTranslations =
         "effects": [
             "Recovers 32% health for all allies.",
             "All enemies get -24% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer."
+        ]
+    },
+    {
+        "heroId": "kalevala_para_costume_sword",
+        "name": "Para C1",
+        "effects": [
+            "Recovers 35% health for all allies.",
+            "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
+            "All enemies get -30% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
     },
     {
@@ -8496,6 +8515,16 @@ const allTranslations =
             "* All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.",
             "* All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.",
             "* All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP."
+        ]
+    },
+    {
+        "heroId": "kalevala_ajatar",
+        "name": "Ajatar",
+        "effects": [
+            "Deals 450% damage to enemies on the edges of the enemy formation. If there is only one enemy, the damage doubled.",
+            "Casts Full Removal on the enemies on the edges of the enemy formation. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "Enemies on the edges of the enemy formation shift into Abyss Ghost form for 4 turns.",
+            "While in Abyss Ghost form the targets receive 313 damage each turn. Against Holy characters, this status effect lasts 2 turns longer. (While in Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects. Can't be cast if there's only one enemy left in the battle. Titans and Mythic Titans are not affected by this status effect.)"
         ]
     },
     {
@@ -13570,6 +13599,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "kalevala_kaski",
+        "name": "Kaski",
+        "effects": [
+            "Deals 270% damage to all enemies.",
+            "Wither: All enemies get -200 attack and -200 defense.",
+            "All enemies receive 405 Burn damage over 3 turns. The caster absorbs 50% of dealt Burn damage as boosted health. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer."
+        ]
+    },
+    {
         "heroId": "tribal_chief",
         "name": "Khagan",
         "effects": [
@@ -18255,26 +18293,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "kalevala_iku_turso_costume_crown",
-        "name": "Iku-Turso C",
-        "effects": []
-    },
-    {
-        "heroId": "kalevala_para_costume_sword",
-        "name": "Para C",
-        "effects": []
-    },
-    {
-        "heroId": "kalevala_ajatar",
-        "name": "Ajatar",
-        "effects": []
-    },
-    {
-        "heroId": "kalevala_kaski",
-        "name": "Kaski",
-        "effects": []
     },
     {
         "heroId": "musketeer_queen_anne_costume_commander",

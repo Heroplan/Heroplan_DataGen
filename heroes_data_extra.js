@@ -48836,5 +48836,93 @@ window.allHeroesExtra = [
         "healthBonus": "15%",
         "manaBonus": "5%",
         "family": "myrkheim"
+    },
+    {
+        "name": "Iku-Turso costume1",
+        "fancy name": "Jarl of the Depths",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-07-13",
+        "AetherPower": "Special Boost",
+        "heroId": "kalevala_iku_turso_costume_crown",
+        "baseAttack": 395,
+        "baseDefense": 385,
+        "baseHealth": 714,
+        "specialId": "dreaded_waters",
+        "specialId_costume": "shimmering_waters",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "70%",
+        "defenseBonus": "70%",
+        "healthBonus": "72%",
+        "manaBonus": "5%",
+        "family": "kalevala"
+    },
+    {
+        "name": "Para costume1",
+        "fancy name": "Chantry Familiar",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-07-13",
+        "AetherPower": "Bulwark",
+        "heroId": "kalevala_para_costume_sword",
+        "baseAttack": 262,
+        "baseDefense": 277,
+        "baseHealth": 511,
+        "specialId": "familiar_witchcraft",
+        "specialId_costume": "familiar_sorcery",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "14%",
+        "defenseBonus": "14%",
+        "healthBonus": "15%",
+        "manaBonus": "5%",
+        "family": "kalevala"
+    },
+    {
+        "name": "Ajatar",
+        "fancy name": "Nightmare Goddess of Korpi",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-07-13",
+        "AetherPower": "Special Armor",
+        "heroId": "kalevala_ajatar",
+        "baseAttack": 692,
+        "baseDefense": 667,
+        "baseHealth": 1162,
+        "specialId": "alluring_whispers",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "family": "kalevala"
+    },
+    {
+        "name": "Kaski",
+        "fancy name": "Maiden of Smoldering Swidden",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-07-13",
+        "AetherPower": "Special Boost",
+        "heroId": "kalevala_kaski",
+        "baseAttack": 693,
+        "baseDefense": 665,
+        "baseHealth": 1164,
+        "specialId": "slash_and_burn",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "family": "kalevala"
     }
 ];

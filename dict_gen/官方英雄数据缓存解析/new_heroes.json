@@ -1,29 +1,5 @@
 [
     {
-        "name": "Baji",
-        "fancy_name": "Bichuwa Assassin",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-10 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_baji",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Högne C",
-        "fancy_name": "Dwarven Moon Knight",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-12 07:00:00",
-        "star": 5,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_hogne_costume_lunar",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Iku-Turso C",
         "fancy_name": "Jarl of the Depths",
         "color": "Green",

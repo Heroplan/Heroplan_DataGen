@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (601 / 0)
+✅ 成功匹配的服装 (603 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -62,6 +62,7 @@ Name: Agwe Costume1, Fancy Name: Chameleon Alchemist
 Name: Triton Costume1, Fancy Name: Champion of Atlantis
 Name: Ray Costume1, Fancy Name: Champion of the Bramble
 Name: Quenell Costume1, Fancy Name: Champion of the Wolves
+Name: Para costume1, Fancy Name: Chantry Familiar
 Name: Khagan Costume2, Fancy Name: Chief of Leopards
 Name: Khagan stylish, Fancy Name: Chief of Style
 Name: Khagan Toon, Fancy Name: Chief of Toons
@@ -244,6 +245,7 @@ Name: Guan Yu Costume1, Fancy Name: Inferno General
 Name: Griffin Costume1, Fancy Name: Invisible Priest
 Name: Jabberwock Costume1, Fancy Name: Jabbermoth
 Name: Shar'Khai Costume1, Fancy Name: Jagged Butcher
+Name: Iku-Turso costume1, Fancy Name: Jarl of the Depths
 Name: Persa Costume1, Fancy Name: Jellyfish Noble
 Name: Oberon Costume1, Fancy Name: Jester Remnant
 Name: Friar Tuck stylish, Fancy Name: Jovial Disco Artist

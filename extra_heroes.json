@@ -1,53 +1,5 @@
 [
     {
-        "name": "Iku-Turso C",
-        "fancy_name": "Jarl of the Depths",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-13 07:00:00",
-        "star": 5,
-        "family": "kalevala",
-        "costume_id": 1,
-        "heroId": "kalevala_iku_turso_costume_crown",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Para C",
-        "fancy_name": "Chantry Familiar",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-13 07:00:00",
-        "star": 3,
-        "family": "kalevala",
-        "costume_id": 1,
-        "heroId": "kalevala_para_costume_sword",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Ajatar",
-        "fancy_name": "Nightmare Goddess of Korpi",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-13 07:00:00",
-        "star": 5,
-        "family": "kalevala",
-        "costume_id": 0,
-        "heroId": "kalevala_ajatar",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kaski",
-        "fancy_name": "Maiden of Smoldering Swidden",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-13 07:00:00",
-        "star": 5,
-        "family": "kalevala",
-        "costume_id": 0,
-        "heroId": "kalevala_kaski",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Queen Anne C",
         "fancy_name": "Elegant Commander",
         "color": "Green",

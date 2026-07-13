@@ -3546,14 +3546,14 @@ const allTranslations =
         "heroId": "kalevala_mielikki",
         "name": "Mielikki",
         "passives": [
-            "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "heroId": "kalevala_mielikki_costume_bear_protector",
         "name": "Mielikki C1",
         "passives": [
-            "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
@@ -4676,6 +4676,13 @@ const allTranslations =
     {
         "heroId": "kalevala_iku_turso",
         "name": "Iku-Turso",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
+    },
+    {
+        "heroId": "kalevala_iku_turso_costume_crown",
+        "name": "Iku-Turso C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
@@ -6001,6 +6008,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "kalevala_para_costume_sword",
+        "name": "Para C1",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
+    },
+    {
         "heroId": "blackguard_female_captain",
         "name": "Prisca",
         "passives": []
@@ -6590,6 +6604,13 @@ const allTranslations =
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
+        ]
+    },
+    {
+        "heroId": "kalevala_ajatar",
+        "name": "Ajatar",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
@@ -10607,6 +10628,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "kalevala_kaski",
+        "name": "Kaski",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
+    },
+    {
         "heroId": "tribal_chief",
         "name": "Khagan",
         "passives": []
@@ -14291,26 +14319,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "kalevala_iku_turso_costume_crown",
-        "name": "Iku-Turso C",
-        "passives": []
-    },
-    {
-        "heroId": "kalevala_para_costume_sword",
-        "name": "Para C",
-        "passives": []
-    },
-    {
-        "heroId": "kalevala_ajatar",
-        "name": "Ajatar",
-        "passives": []
-    },
-    {
-        "heroId": "kalevala_kaski",
-        "name": "Kaski",
-        "passives": []
     },
     {
         "heroId": "musketeer_queen_anne_costume_commander",

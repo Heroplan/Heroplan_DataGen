@@ -27032,7 +27032,6 @@
         "id": "com.smallgiantgames.empires.summoning_bonanza_15",
         "dollarValue": 15,
         "zyngaStoreDollarValueOverride": 14,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36243,7 +36242,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36271,7 +36269,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37018,7 +37015,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1a",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37043,7 +37039,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1b",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37068,7 +37063,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2a",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37100,7 +37094,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2b",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37132,7 +37125,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3a",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37172,7 +37164,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3b",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58877,5 +58868,5 @@
       }
     ]
   },
-  "productsConfigId": 2698702976
+  "productsConfigId": 3697950891
 }

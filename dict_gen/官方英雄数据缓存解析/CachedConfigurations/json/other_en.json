@@ -3122,7 +3122,7 @@
             "featuredCharacters": [
               "vegetable_chilazar",
               "vegetable_pepo",
-              "vegetable_melonius"
+              "vegetable_indigon"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2026-07-19 07:00:00",
@@ -94699,6 +94699,10 @@
             "brand": "Tecno"
           },
           {
+            "device": "hanoip",
+            "brand": "Motorola"
+          },
+          {
             "device": "PCZ",
             "brand": "Sharp"
           },
@@ -96080,8 +96084,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "86.0.1",
     "maxVersionToShowUpdateOutReminderIos": "86.0.1",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.0",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.1",
+    "standaloneNewVersionRolloutPercentage": 10,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96186,5 +96190,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 103140996
+  "otherConfigId": 2895169317
 }

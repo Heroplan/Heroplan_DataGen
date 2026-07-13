@@ -3546,14 +3546,14 @@ const translatedPassivesTC =
         "heroId": "kalevala_mielikki",
         "name": "Mielikki",
         "passives": [
-            "希甦之力 - 當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
+            "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
     },
     {
         "heroId": "kalevala_mielikki_costume_bear_protector",
         "name": "Mielikki C1",
         "passives": [
-            "希甦之力 - 當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
+            "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
     },
     {
@@ -4676,6 +4676,13 @@ const translatedPassivesTC =
     {
         "heroId": "kalevala_iku_turso",
         "name": "Iku-Turso",
+        "passives": [
+            "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
+        ]
+    },
+    {
+        "heroId": "kalevala_iku_turso_costume_crown",
+        "name": "Iku-Turso C1",
         "passives": [
             "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
@@ -6001,6 +6008,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "kalevala_para_costume_sword",
+        "name": "Para C1",
+        "passives": [
+            "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
+        ]
+    },
+    {
         "heroId": "blackguard_female_captain",
         "name": "Prisca",
         "passives": []
@@ -6590,6 +6604,13 @@ const translatedPassivesTC =
         "passives": [
             "暴增的傷害：此角色施放特殊技能時，有 60% 機率對所有敵人造成 150% 傷害。若特殊技能已完全暴增，則機率為 100%。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
+        ]
+    },
+    {
+        "heroId": "kalevala_ajatar",
+        "name": "Ajatar",
+        "passives": [
+            "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
     },
     {
@@ -10607,6 +10628,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "kalevala_kaski",
+        "name": "Kaski",
+        "passives": [
+            "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
+        ]
+    },
+    {
         "heroId": "tribal_chief",
         "name": "Khagan",
         "passives": []
@@ -14291,26 +14319,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "kalevala_iku_turso_costume_crown",
-        "name": "Iku-Turso C",
-        "passives": []
-    },
-    {
-        "heroId": "kalevala_para_costume_sword",
-        "name": "Para C",
-        "passives": []
-    },
-    {
-        "heroId": "kalevala_ajatar",
-        "name": "Ajatar",
-        "passives": []
-    },
-    {
-        "heroId": "kalevala_kaski",
-        "name": "Kaski",
-        "passives": []
     },
     {
         "heroId": "musketeer_queen_anne_costume_commander",
