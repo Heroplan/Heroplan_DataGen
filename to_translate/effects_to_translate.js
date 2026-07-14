@@ -6700,6 +6700,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "musketeer_queen_anne_costume_commander",
+        "name": "Queen Anne C1",
+        "effects": [
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.",
+            "The caster regenerates 1692 boosted health over 6 turns. Boosted health can exceed max HP.",
+            "All allies get +65% defense for 6 turns.",
+            "For the next 6 turns, all allies receive 12% mana at the end of the turn."
+        ]
+    },
+    {
         "heroId": "castle_wolf_quenell",
         "name": "Quenell",
         "effects": [
@@ -16101,6 +16111,24 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beauty_beast_beauty",
+        "name": "Beauty",
+        "effects": [
+            "Less than 40  Humility:",
+            "Deals 450% damage to the target and nearby enemies.",
+            "Heals the caster for 25% of damage dealt.",
+            "The target and nearby enemies get Soul Bound for 4 turns. (This effect will always bypass reflection.)",
+            "All damage received by the caster is dealt to all Soul Bound enemies. (Damage is shared between al Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)",
+            "Deals extra damage against Dark.",
+            "40 or more Humility:",
+            "Deals 550% damage to the target and nearby enemies.",
+            "Heals the caster for 30% of damage dealt.",
+            "The target and nearby enemies get Soul Bound for 4 turns. (This effect will always bypass reflection.)",
+            "All damage received by the caster is dealt to all Soul Bound enemies. (Damage is shared between al Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)",
+            "Deals extra damage against Dark."
+        ]
+    },
+    {
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "effects": [
@@ -18293,16 +18321,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "musketeer_queen_anne_costume_commander",
-        "name": "Queen Anne C",
-        "effects": []
-    },
-    {
-        "heroId": "beauty_beast_beauty",
-        "name": "Beauty",
-        "effects": []
     },
     {
         "heroId": "astral_demon_zhakiturion",

@@ -4144,6 +4144,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-10-06 07:00:00",
             "endTime": "2026-10-10 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-10-13 07:00:00",
+            "endTime": "2026-10-17 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -20907,6 +20914,88 @@
           },
           {
             "featuredFamilies": [
+              "atlantis",
+              "japanese",
+              "lagoon",
+              "wonderland",
+              "pirate",
+              "knight",
+              "fable",
+              "guardian",
+              "hotm2020",
+              "hotm2019"
+            ],
+            "featuredClassesPerRound": [
+              [
+                "Ranger",
+                "Barbarian"
+              ],
+              [
+                "Rogue",
+                "Wizard"
+              ],
+              [
+                "Paladin",
+                "Fighter"
+              ],
+              [
+                "Druid",
+                "Sorcerer"
+              ]
+            ],
+            "classBonusId": "league_class_hero_bonus",
+            "featuredFamilyRelatedBonusIds": [
+              "league_family_hero_bonus_legendary",
+              "league_family_hero_bonus_epic",
+              "league_family_hero_bonus_rare",
+              "league_non_family_hero_debuffs"
+            ],
+            "guestMembers": [
+              {
+                "heroId": "pirate_swashbuckler",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "fire_god_anzogh",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "fables_boss_wolf",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "dark_god_grimble",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "guardian_chameleon",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "knights_green_knight",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_alice",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "knights_king_arthur",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "guardian_owl_gentleman",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "pirate_anne",
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "startTime": "2026-08-03 07:00:00"
+          },
+          {
+            "featuredFamilies": [
               "fable",
               "wonderland",
               "knight"
@@ -21089,22 +21178,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_wizard",
+                  "id": "emblem_master_ranger",
                   "amount": 5
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_sorcerer",
+                  "id": "emblem_master_rogue",
                   "amount": 5
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_wizard",
+                  "id": "emblem_ranger",
                   "amount": 100
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_sorcerer",
+                  "id": "emblem_rogue",
                   "amount": 100
                 }
               ]
@@ -21153,22 +21242,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_wizard",
+                  "id": "emblem_master_ranger",
                   "amount": 10
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_sorcerer",
+                  "id": "emblem_master_rogue",
                   "amount": 10
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_wizard",
+                  "id": "emblem_ranger",
                   "amount": 150
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_sorcerer",
+                  "id": "emblem_rogue",
                   "amount": 150
                 }
               ]
@@ -21232,22 +21321,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_wizard",
+                  "id": "emblem_master_ranger",
                   "amount": 15
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_sorcerer",
+                  "id": "emblem_master_rogue",
                   "amount": 15
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_wizard",
+                  "id": "emblem_ranger",
                   "amount": 250
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_sorcerer",
+                  "id": "emblem_rogue",
                   "amount": 250
                 }
               ]
@@ -21326,22 +21415,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_wizard",
+                  "id": "emblem_master_ranger",
                   "amount": 20
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_sorcerer",
+                  "id": "emblem_master_rogue",
                   "amount": 20
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_wizard",
+                  "id": "emblem_ranger",
                   "amount": 350
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_sorcerer",
+                  "id": "emblem_rogue",
                   "amount": 350
                 }
               ]
@@ -21435,22 +21524,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_wizard",
+                  "id": "emblem_master_ranger",
                   "amount": 25
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_sorcerer",
+                  "id": "emblem_master_rogue",
                   "amount": 25
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_wizard",
+                  "id": "emblem_ranger",
                   "amount": 500
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_sorcerer",
+                  "id": "emblem_rogue",
                   "amount": 500
                 }
               ]
@@ -96085,7 +96174,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "86.0.1",
     "maxVersionToShowUpdateOutReminderIos": "86.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.1",
-    "standaloneNewVersionRolloutPercentage": 10,
+    "standaloneNewVersionRolloutPercentage": 50,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96190,5 +96279,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2895169317
+  "otherConfigId": 1877097888
 }

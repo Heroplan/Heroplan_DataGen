@@ -1,546 +1,6 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "Italian": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Rimuove in modo sicuro tutti i disturbi dell'evocatore."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Saccheggia[#] tutti i nemici, rubando [#!]{DAMAGE}[#] Salute e una magia benefica da ciascuno, quindi distribuisce casualmente le magie benefiche rubate agli alleati."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Saccheggia[#] il bersaglio, rubando [#!]{DAMAGE}[#] Salute e una magia benefica."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Ruba il {ABSPOWER}% di mana al bersaglio e ai nemici vicini e lo distribuisce agli alleati."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.\n[*] Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Cambia l'elemento di tutti i nemici in [##elementred]Fuoco[#] per {TURNS} turni."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Tutti gli alleati recuperano {REMOVALEFFECT1FIXEDPOWER} Salute dopo {TURNS} turni. Se l'effetto viene rimosso o sostituito prima del termine previsto, recuperano invece {REMOVALEFFECT2FIXEDPOWER} Salute."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Il bersaglio subisce {DAMAGE} danni da sanguinamento nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da sanguinamento inflitti come Salute potenziata."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Subisce [#!]{DAMAGEPERTURN}[#] danni da sanguinamento a ogni turno. L'evocatore assorbe il [#!]{ABSORBHEALING}%[#] dei danni inflitti come Salute potenziata."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Avvizzimento:[#] il bersaglio ottiene {ATTACKINCREASE} di Attacco."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Il bersaglio si trasforma in un [#!]Verme mentale[#]. I [#!]Vermi mentali[#] hanno il {ATTACK}% di Attacco, il {DEFENSE}% di Difesa e la seguente Abilità speciale:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Infligge 75 di [#!]Follia[#] a un alleato casuale.\n[>]Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
-          }
-        ]
-      },
-      "Russian": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Безопасно очищает все недуги с героя."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ворует[#] [#!]{DAMAGE}[#] здоровья и усиление у всех врагов, а затем случайным образом раздает украденные усиления союзникам."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Грабит[#] цель, крадя у нее [#!]{DAMAGE}[#] здоровье и усиление."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "Безопасно крадет один эффект состояния с цели; сюда относятся стойкие эффекты, нерассеиваемые усиления и эффекты танца.\n[*]Безопасная кража обходит вторичные эффекты, такие как урон при снятии, от снимаемых усилений. Пассивные навыки и семейные эффекты действуют по-прежнему."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Меняет стихию всех врагов на [##elementred]огонь[#] на {TURNS} х."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Все союзники восстанавливают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х. Если эффект снимается или заменяется до истечения срока, восстанавливается {REMOVALEFFECT2FIXEDPOWER} здоровья."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Цель получает {DAMAGE} ед. урона от кровотечения в течение {TURNS} х. Герой поглощает {ABSORBHEALING} % нанесенного кровотечением урона в виде увеличенного здоровья."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Получает [#!]{DAMAGEPERTURN}[#] ед. урона от кровотечения за ход. Герой поглощает [#!]{ABSORBHEALING} %[#] нанесенного урона в виде увеличенного здоровья."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Увядание:[#] цель получает {ATTACKINCREASE} атаки."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Цель превращается в [#!]червя разума[#]. У [#!]червей разума[#] {ATTACK} % атаки, {DEFENSE} % защиты и следующий особый навык:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Вызывает 75 ед. [#!]безумия[#] у одного случайного союзника.\n[>]Снимает недуг [#!]червя разума[#] с героя."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Снимает с героя недуг [#!]«Червь разума»[#]."
-          }
-        ]
-      },
-      "Polish": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Bezpiecznie oczyszcza status rzucającego z wszystkich dolegliwości."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Grabi[#] wszystkich wrogów, wykradając zdrowie równe [#!]{DAMAGE}[#]  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Obrabia[#] cel, wykradając zdrowie równe [#!]{DAMAGE}[#] i wzmocnienie."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.\n[*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Zmienia żywioł wszystkich wrogów na [##elementred]ogień[#] na {TURNS} tur(y)."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y). Rzucający wchłania {ABSORBHEALING}% zadanych obrażeń od krwawienia jako wzmocnienie zdrowia."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Otrzymujesz [#!]{DAMAGEPERTURN}[#] pkt. obrażeń od krwawienia na turę. Rzucający wchłania [#!]{ABSORBHEALING}%[#] zadanych obrażeń jako wzmocnienie zdrowia."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Susza:[#] cel otrzymuje {ATTACKINCREASE} do ataku."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Cel zmienia się w [#!]robaka umysłu[#]. [#!]Robaki umysłu[#] posiadają {ATTACK}% ataku, {DEFENSE}% obrony i następującą specjalną zdolność:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Zadaje 75 pkt. [#!]obłędu[#] jednemu losowemu sojusznikowi.\n[>]Usuwa [#!]robaka umysłu[#] z rzucającego."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Usuwa dolegliwość [#!]robak umysłu[#] z rzucającego."
-          }
-        ]
-      },
-      "ChineseTraditional": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "安全淨化施法者的所有狀態異常。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "對所有敵人進行[#!]掠奪[#]，竊取各個敵人[#!]{DAMAGE}[#]生命值與一項增益，並將竊取來的增益隨機分配給盟友。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]劫掠[#]目標，竊取[#!]{DAMAGE}[#]生命和一項增益。"
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "自目標與附近敵人身上偷取{ABSPOWER}%法力，並分給盟友。"
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]安全地從目標身上竊取一個狀態效果增益。包括頑固效果、不可驅散的增益和舞蹈效果。\n[*]安全竊取可避免移除增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "將所有敵人的元素變更為[##elementred]烈火[#]，持續{TURNS}個回合。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "所有盟友在{TURNS}個回合後恢復{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前遭移除或替代，則轉而恢復{REMOVALEFFECT2FIXEDPOWER}點生命值。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "目標在{TURNS}個回合內受到{DAMAGE}點流血傷害。施法者吸收所造成之流血傷害的{ABSORBHEALING}%作為加成生命值。"
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "每回合受到[#!]{DAMAGEPERTURN}[#]點流血傷害。施法者能吸收所造成之傷害的[#!]{ABSORBHEALING}%[#]作為加成生命值。"
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]枯萎：[#]目標獲得{ATTACKINCREASE}點攻擊。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "目標變成[#!]心靈蠕蟲[#]。 [#!]心靈蠕蟲[#]有{ATTACK}%攻擊、{DEFENSE}%防禦與以下特殊技能：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]對一名隨機盟友施加75點 [#!]瘋狂[#]。\n[>]移除施法者的[#!]心靈蠕蟲[#]異常。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "移除施法者的[#!]心靈蠕蟲[#]狀態異常。"
-          }
-        ]
-      },
-      "Korean": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "시전자의 모든 상태 이상 효과를 안전하게 정화합니다."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "모든 적을 [#!]약탈[#]하여 [#!]{DAMAGE}[#]의 HP와 강화 효과를 각각 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "대상을 [#!]약탈[#]해서 [#!]{DAMAGE}[#]의 HP와 강화 효과를 훔칩니다."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 분배합니다."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.\n[*]안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "모든 적의 속성이 {TURNS}턴 동안 [##elementred]화염[#]으로 변합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "모든 아군이 {TURNS}턴 후에 {REMOVALEFFECT1FIXEDPOWER} HP를 회복합니다. 만약 그 전에 이 효과가 사라지거나 교체되면 대신 {REMOVALEFFECT2FIXEDPOWER} HP를 회복합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "대상이 {TURNS}턴 동안 {DAMAGE}의 출혈 피해를 입습니다. 가한 출혈 피해의 {ABSORBHEALING}%를 시전자가 증가된 HP로 흡수합니다."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "턴마다 [#!]{DAMAGEPERTURN}[#] 출혈 피해를 입습니다. 가한 피해의 [#!]{ABSORBHEALING}%[#]를 시전자가 증가된 HP로 흡수합니다."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]쇠퇴:[#] 목표물이 {ATTACKINCREASE} 공격력을 받습니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "대상이 [#!]마인드웜[#] 상태가 됩니다. [#!]마인드웜[#]은 {ATTACK}% 공격력, {DEFENSE}% 방어력을 받으며 다음 특수 스킬을 갖습니다:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]무작위 아군 한 명에게 75 [#!]광기[#]를 부여합니다.\n[>]시전자로부터 [#!]마인드웜[#] 상태 이상을 제거합니다."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "시전자의 [#!]마인드웜[#] 상태 이상을 제거합니다."
-          }
-        ]
-      },
-      "German": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Reinigt sicher negative Statusänderungen vom Wirker."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Raubt[#] alle Gegner aus, stiehlt [#!]{DAMAGE}[#] Gesundheit und pro Gegner einen Bonus und verteilt gestohlene Boni zufällig auf Verbündete."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Raubt[#] das Ziel aus und stiehlt ihm [#!]{DAMAGE}[#] Leben und einen Bonus."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stiehlt {ABSPOWER} % Mana vom Ziel und nahen Gegnern und verteilt es auf Verbündete."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Stiehlt einen Statuseffektbonus des Ziels. Dazu zählen auch hartnäckige Effekte, nicht entfernbare Boni und Tanzeffekte.\n[*] Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von den entfernten Boni ignoriert. Passive Fähigkeiten und Familieneffekte können noch aktiviert werden."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Ändert das Element aller Gegner für {TURNS} Runden zu [##elementred]Feuer[#]."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle Verbündeten erhalten nach {TURNS} Zügen {REMOVALEFFECT1FIXEDPOWER} Gesundheit zurück. Wenn der Effekt vor Ablauf der Dauer entfernt oder ersetzt wird, erhalten sie stattdessen {REMOVALEFFECT2FIXEDPOWER} Lebenspunkte zurück."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Das Ziel erleidet {DAMAGE} Blutungsschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Blutungsschadens als verstärktes Leben."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "[#!]{DAMAGEPERTURN}[#] Blutungsschaden pro Zug. Der Wirker absorbiert [#!]{ABSORBHEALING} %[#] des zugefügten Schadens als verstärktes Leben."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Verwelken:[#] Das Ziel erhält {ATTACKINCREASE} Angriff."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Das Ziel verwandelt sich in einen [#!]Verstandswurm[#]. [#!]Verstandswürmer[#] haben {ATTACK} % Angriff, {DEFENSE} % Verteidigung und die folgende Spezialfähigkeit:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Fügt zufälligem Gegner 75 [#!]Wahnsinn[#] hinzu.\n[>]Entfernt den Zustand [#!]Verstandswurm[#] vom Wirker."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Entfernt den Statuseffekt [#!]Verstandswurm[#] vom Wirker."
-          }
-        ]
-      },
-      "Japanese": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "術者のステータス異常を全て安全に浄化する。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "敵全員を[#!]強奪[#]して[#!]{DAMAGE}[#]ライフとバフを奪取し、奪い取ったバフをランダムな仲間に付与する。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "標的に[#!]強奪[#]を行い、[#!]{DAMAGE}[#]ライフとバフを奪取する。"
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "ターゲットと近くにいる敵からマナを{ABSPOWER}%盗み、仲間に分配する。"
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]標的から、安全にステータス効果バフをランダムで奪取する。これには強固または解除不可能なバフとダンス効果も含まれる。\n[*]安全に奪取すると、削除時のダメージや削除したバフからの副次的効果を無効にできる。パッシブスキルとファミリー効果も有効にしたままにできる。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "{TURNS}ターンの間、敵全員の属性が[##elementred]炎属性[#]に変化する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "{TURNS}ターン後に、仲間全員のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "{TURNS}ターンの間、ターゲットに{DAMAGE}の出血ダメージを与える。術者は、与えた出血ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "ターン毎に、敵全員に[#!]{DAMAGEPERTURN}[#]の出血ダメージを与える。術者は、与えた出血ダメージの[#!]{ABSORBHEALING}%[#]をブーストライフとして吸収する。"
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]弱化：[#]ターゲットの攻撃力が{ATTACKINCREASE}減少する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "ターゲットが[#!]マインドワーム[#]に変化する。[#!]マインドワーム[#]に変化すると、攻撃力が{ATTACK}%、防御力が{DEFENSE}%になり、以下の特殊スキルを使えるようになる：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]ランダムな味方1体に[#!]狂気[#]を75付与する。\n[>]術者から[#!]マインドワーム[#]のステータス異常を消去する。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "術者から[#!]マインドワーム[#]のステータス異常を消去する。"
-          }
-        ]
-      },
-      "Swedish": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Rensar alla negativa statuseffekter från användaren på ett säkert sätt."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Plundrar[#] alla fiender och stjäl [#!]{DAMAGE}[#] hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Plundrar[#] målet och stjäl [#!]{DAMAGE}[#] hälsa och en bonus."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Stjäl riskfritt en positiv statuseffekt från målet säkert. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.\n[*]Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Ändrar alla fienders element till [##elementred]eld[#] i {TURNS} rundor."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som ökad hälsa."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Tar [#!]{DAMAGEPERTURN}[#] blödande skada per runda. Användaren absorberar [#!]{ABSORBHEALING} %[#] av den gjorda skadan som ökad hälsa."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Vittra:[#] Målet får {ATTACKINCREASE} attack."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Målet förvandlas till en [#!]sinnesmask[#]. [#!]Sinnesmaskar[#] har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Ger 75 [#!]vansinne[#] till en slumpmässig allierad.\n[>]Tar bort [#!]sinnesmask[#]-effekten från användaren."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Tar bort den negativa effekten [#!]sinnesmask[#] från användaren."
-          }
-        ]
-      },
-      "Turkish": {
-        "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Eylemciden tüm durum engellerini güvenle arındırır."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "Tüm düşmanları [#!]Yağmalar[#], her birinden [#!]{DAMAGE}[#] sağlık ve bir buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "Hedefi [#!]Yağmalayarak[#] [#!]{DAMAGE}[#] sağlık ve bir buff çalar."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve onu müttefiklere dağıtır."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.\n[*]Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "{TURNS} boyunca tüm düşmanların elementini [##elementred]Ateş[#] olarak değiştirir."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Tüm müttefikler {TURNS} turdan sonra {REMOVALEFFECT1FIXEDPOWER} sağlık yeniler. Efekt, süre bitmeden kaldırılırsa veya değiştirilirse {REMOVALEFFECT2FIXEDPOWER} sağlık yeniler."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Hedef {TURNS} tur boyunca {DAMAGE} Kanama hasarı alır. Eylemci, verilen Kanama hasarının %{ABSORBHEALING} kadarını güçlendirilmiş sağlık olarak emer."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Tur başına [#!]{DAMAGEPERTURN}[#] Kanama hasarı alırsın. Eylemci, verilen hasarın [#!]%{ABSORBHEALING}[#] kadarını güçlendirilmiş sağlık olarak emer."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Soldurma:[#] Hedef {ATTACKINCREASE} saldırı alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Hedef bir [#!]Zihin Kurduna[#] dönüşür. [#!]Zihin Kurtları[#] %{ATTACK} saldırıya, %{DEFENSE} savunmaya ve aşağıdaki Özel Yeteneğe sahiptir:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Rastgele bir müttefike 75 [#!]Delilik[#] uygular.\n[>]Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
-          }
-        ]
-      },
       "English": {
         "overrideEntries": [
           {
@@ -605,63 +65,63 @@
           }
         ]
       },
-      "Arabic": {
+      "Dutch": {
         "overrideEntries": [
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "تشفي الرامي من حالات الأمراض كلها بأمان."
+            "text": "Zuivert veilig alle statuseffecten van de spreukspreker."
           },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]تنهب[#]  كل الأعداء، وتسرق [#!]{DAMAGE}[#] الصحة والتعزيزات، وتوزيع المزايا المسروقة عشوائيًّا على الحلفاء."
+            "text": "[#!]Plundert[#] alle vijanden, steelt van elk [#!]{DAMAGE}[#] gezondheid en een oppepper, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
           },
           {
             "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]ينهب[#] الهدف، ويسرق [#!]{DAMAGE}[#] الصحة والتعزيزات."
+            "text": "[#!]Plundert[#] het doelwit, steelt [#!]{DAMAGE}[#] gezondheid en een oppepper."
           },
           {
             "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "تسرق {ABSPOWER}% من القوة من الهدف والأعداء القريبين، وتوزعها على الحلفاء."
+            "text": "Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het onder bondgenoten."
           },
           {
             "key": "specials.v2.property.ransack.extra",
-            "text": "[*]تسرق تعزيز تأثير الحالة بأمان مرة واحدة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة والتأثيرات العنيدة، وتأثيرات الرقص.\n[*]تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
+            "text": "[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.\n[*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
           },
           {
             "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضرر زائد أثناء النوم."
+            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
           },
           {
             "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضررًا زائدًا أثناء النوم."
+            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
           },
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "تغير عنصر جميع الأعداء ليكون عنصر [##elementred]النار[#] طوال {TURNS} من الجولات."
+            "text": "Verandert het element van alle vijanden {TURNS} beurten lang in [##elementred]vuur[#]."
           },
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "يستعيد جميع الحلفاء {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
+            "text": "Alle bondgenoten herstellen na {TURNS} beurten {REMOVALEFFECT1FIXEDPOWER} gezondheid. Als het effect voortijdig verwijderd of vervangen wordt, herstelt het in plaats daarvan {REMOVALEFFECT2FIXEDPOWER} gezondheid."
           },
           {
             "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "يتلقى الهدف {DAMAGE} من ضرر النزيف طوال {TURNS} من الجولات. يمتص الملقي نسبة {ABSORBHEALING}% من ضرر النزيف الملحق على هيئة صحة معززة."
+            "text": "Het doelwit loopt gedurende {TURNS} beurten {DAMAGE} bloedschade op. De spreukspreker absorbeert {ABSORBHEALING}% van de toegebrachte bloedschade als extra gezondheid."
           },
           {
             "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "تلقَّ [#!]{DAMAGEPERTURN}[#] من ضرر النزيف في كل جولة. يمتص الرامي نسبة [#!]{ABSORBHEALING}%[#] من الضرر الملحق على هيئة صحة معززة."
+            "text": "Lijd [#!]{DAMAGEPERTURN}[#] bloedschade per beurt. De spreukspreker absorbeert [#!]{ABSORBHEALING}%[#] van de toegebrachte schade als extra gezondheid."
           },
           {
             "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]التلف:[#] يحصل الهدف على {ATTACKINCREASE} من الهجوم."
+            "text": "[#!]Verwelking[#]: het doelwit krijgt {ATTACKINCREASE} aanval."
           },
           {
             "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "يتحول الهدف إلى [#!]دودة عقل[#]. يمتلك [#!]دود العقل[#] {ATTACK}% من الهجوم، و{DEFENSE}% من الدفاع، والمهارة الخاصة التالية:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]تلحق 75 من [#!]الجنون[#] بحليف عشوائي.\n[>]تزيل مرض [#!]دودة العقل[#] عن الرامي."
+            "text": "Het doelwit verandert in een [#!]geestworm[#]. De [#!]geestwormen[#] hebben {ATTACK}% aanvalskracht, {DEFENSE}% verdediging en de volgende speciale vaardigheid:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Brengt 75 [#!]waanzin[#] toe aan één willekeurige bondgenoot.\n[>]Verwijdert de [#!]geestwormaandoening[#] van de spreukspreker."
           },
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "تُزيل مرض [#!]دودة العقل[#] من الملقي."
+            "text": "Verwijdert de [#!]geestworm[#]aandoening van de spreukspreker."
           }
         ]
       },
@@ -725,63 +185,63 @@
           }
         ]
       },
-      "Portuguese": {
+      "German": {
         "overrideEntries": [
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Expurga com segurança todos os males de status do invocador."
+            "text": "Reinigt sicher negative Statusänderungen vom Wirker."
           },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Saqueia[#] todos os inimigos, roubando [#!]{DAMAGE}[#] de vida e um reforço de cada, e distribui os reforços roubados entre os aliados."
+            "text": "[#!]Raubt[#] alle Gegner aus, stiehlt [#!]{DAMAGE}[#] Gesundheit und pro Gegner einen Bonus und verteilt gestohlene Boni zufällig auf Verbündete."
           },
           {
             "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Saqueia[#] o alvo, roubando [#!]{DAMAGE}[#] de vida e um reforço."
+            "text": "[#!]Raubt[#] das Ziel aus und stiehlt ihm [#!]{DAMAGE}[#] Leben und einen Bonus."
           },
           {
             "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui entre os aliados."
+            "text": "Stiehlt {ABSPOWER} % Mana vom Ziel und nahen Gegnern und verteilt es auf Verbündete."
           },
           {
             "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.\n[*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
+            "text": "[*] Stiehlt einen Statuseffektbonus des Ziels. Dazu zählen auch hartnäckige Effekte, nicht entfernbare Boni und Tanzeffekte.\n[*] Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von den entfernten Boni ignoriert. Passive Fähigkeiten und Familieneffekte können noch aktiviert werden."
           },
           {
             "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
           },
           {
             "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
           },
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Altera o elemento de todos os inimigos para [##elementred]Fogo[#] por {TURNS} turnos."
+            "text": "Ändert das Element aller Gegner für {TURNS} Runden zu [##elementred]Feuer[#]."
           },
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, restaura {REMOVALEFFECT2FIXEDPOWER} de vida."
+            "text": "Alle Verbündeten erhalten nach {TURNS} Zügen {REMOVALEFFECT1FIXEDPOWER} Gesundheit zurück. Wenn der Effekt vor Ablauf der Dauer entfernt oder ersetzt wird, erhalten sie stattdessen {REMOVALEFFECT2FIXEDPOWER} Lebenspunkte zurück."
           },
           {
             "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "O alvo recebe {DAMAGE} de dano de sangramento por {TURNS} turnos. O invocador absorve como vida reforçada {ABSORBHEALING}% do dano de sangramento causado."
+            "text": "Das Ziel erleidet {DAMAGE} Blutungsschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Blutungsschadens als verstärktes Leben."
           },
           {
             "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Recebe [#!]{DAMAGEPERTURN}[#] de dano de sangramento por turno. O invocador absorve como vida reforçada [#!]{ABSORBHEALING}%[#] do dano causado."
+            "text": "[#!]{DAMAGEPERTURN}[#] Blutungsschaden pro Zug. Der Wirker absorbiert [#!]{ABSORBHEALING} %[#] des zugefügten Schadens als verstärktes Leben."
           },
           {
             "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Atrofia:[#] o alvo recebe {ATTACKINCREASE} de ataque."
+            "text": "[#!]Verwelken:[#] Das Ziel erhält {ATTACKINCREASE} Angriff."
           },
           {
             "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "O alvo se transforma em um [#!]Vermental[#]. [#!]Vermentais[#] têm {ATTACK}% de ataque, {DEFENSE}% de defesa e a seguinte habilidade especial:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aplica 75 [#!]Insanidade[#] a um aliado aleatório.\n[>]Remove o mal [#!]Vermental[#] do invocador."
+            "text": "Das Ziel verwandelt sich in einen [#!]Verstandswurm[#]. [#!]Verstandswürmer[#] haben {ATTACK} % Angriff, {DEFENSE} % Verteidigung und die folgende Spezialfähigkeit:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Fügt zufälligem Gegner 75 [#!]Wahnsinn[#] hinzu.\n[>]Entfernt den Zustand [#!]Verstandswurm[#] vom Wirker."
           },
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Remove a doença [#!]Vermental[#] do invocador."
+            "text": "Entfernt den Statuseffekt [#!]Verstandswurm[#] vom Wirker."
           }
         ]
       },
@@ -845,123 +305,243 @@
           }
         ]
       },
-      "Finnish": {
+      "Italian": {
         "overrideEntries": [
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Puhdistaa turvallisesti kaikki vaivat loitsijalta."
+            "text": "Rimuove in modo sicuro tutti i disturbi dell'evocatore."
           },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ryöstää[#] kaikki viholliset varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen jokaiselta ja jakaa varastetut tehosteet sattumanvaraisesti liittolaisille."
+            "text": "[#!]Saccheggia[#] tutti i nemici, rubando [#!]{DAMAGE}[#] Salute e una magia benefica da ciascuno, quindi distribuisce casualmente le magie benefiche rubate agli alleati."
           },
           {
             "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Ryöstää[#] kohteen varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen."
+            "text": "[#!]Saccheggia[#] il bersaglio, rubando [#!]{DAMAGE}[#] Salute e una magia benefica."
           },
           {
             "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Anastaa kohteelta ja lähellä olevilta vihollisilta {ABSPOWER} % manaa ja jakaa sen liittolaisille."
+            "text": "Ruba il {ABSPOWER}% di mana al bersaglio e ai nemici vicini e lo distribuisce agli alleati."
           },
           {
             "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Varastaa kohteelta turvallisesti yhden tilaefektitehosteen. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssiefektejä.\n[*]Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutukset, kuten poistosta johtuvan vaurion. Passiiviset taidot ja perhevaikutukset voivat silti aktivoitua."
+            "text": "[*] Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.\n[*] Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
           },
           {
             "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
           },
           {
             "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
           },
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Kaikkien vihollisten elementti muuttuu [##elementred]tuleksi[#] {TURNS} vuoron ajaksi."
+            "text": "Cambia l'elemento di tutti i nemici in [##elementred]Fuoco[#] per {TURNS} turni."
           },
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Palauttaa kaikille liittolaisille {REMOVALEFFECT1FIXEDPOWER} terveyttä {TURNS} vuoron jälkeen. Jos vaikutus poistetaan tai korvataan ennen keston päättymistä, palauttaa {REMOVALEFFECT2FIXEDPOWER} terveyttä sen sijaan."
+            "text": "Tutti gli alleati recuperano {REMOVALEFFECT1FIXEDPOWER} Salute dopo {TURNS} turni. Se l'effetto viene rimosso o sostituito prima del termine previsto, recuperano invece {REMOVALEFFECT2FIXEDPOWER} Salute."
           },
           {
             "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Kohde kärsii {DAMAGE} verenvuotovauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta verenvuotovauriosta tehostettuna terveytenä."
+            "text": "Il bersaglio subisce {DAMAGE} danni da sanguinamento nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da sanguinamento inflitti come Salute potenziata."
           },
           {
             "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Kärsii [#!]{DAMAGEPERTURN}[#] verenvuotovauriota vuoroa kohden. Loitsija imee [#!]{ABSORBHEALING} %[#] tuotetusta vauriosta tehostettuna terveytenä."
+            "text": "Subisce [#!]{DAMAGEPERTURN}[#] danni da sanguinamento a ogni turno. L'evocatore assorbe il [#!]{ABSORBHEALING}%[#] dei danni inflitti come Salute potenziata."
           },
           {
             "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Näivettäminen:[#] Kohde saa {ATTACKINCREASE} hyökkäystä."
+            "text": "[#!]Avvizzimento:[#] il bersaglio ottiene {ATTACKINCREASE} di Attacco."
           },
           {
             "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Kohde muuttuu [#!]mielimadoksi[#]. [#!]Mielimadoilla[#] on {ATTACK} % hyökkäystä, {DEFENSE} % puolustusta ja seuraava erikoistaito:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aiheuttaa 75 [#!]hulluutta[#] yhdelle satunnaiselle liittolaiselle.\n[>]Poistaa loitsijalta [#!]mielimato[#]-vaivan."
+            "text": "Il bersaglio si trasforma in un [#!]Verme mentale[#]. I [#!]Vermi mentali[#] hanno il {ATTACK}% di Attacco, il {DEFENSE}% di Difesa e la seguente Abilità speciale:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Infligge 75 di [#!]Follia[#] a un alleato casuale.\n[>]Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
           },
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Poistaa [#!]mielimato[#]-vaivan loitsijalta."
+            "text": "Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
           }
         ]
       },
-      "Danish": {
+      "Polish": {
         "overrideEntries": [
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Rydder på sikker vis alle statuslidelser fra kasteren."
+            "text": "Bezpiecznie oczyszcza status rzucającego z wszystkich dolegliwości."
           },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ransager[#] alle fjender, stjæler [#!]{DAMAGE}[#] helbred og en buffer fra hver, og fordeler stjålne buffere tilfældigt blandt allierede."
+            "text": "[#!]Grabi[#] wszystkich wrogów, wykradając zdrowie równe [#!]{DAMAGE}[#]  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
           },
           {
             "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Ransager[#] målet, stjæler [#!]{DAMAGE}[#] helbred og en buffer."
+            "text": "[#!]Obrabia[#] cel, wykradając zdrowie równe [#!]{DAMAGE}[#] i wzmocnienie."
           },
           {
             "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stjæler {ABSPOWER} % mana fra målet og fjender i nærheden, og fordeler den blandt allierede."
+            "text": "Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
           },
           {
             "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.\n[*]Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
+            "text": "[*]Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.\n[*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
           },
           {
             "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
+            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
           },
           {
             "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
+            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
           },
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Ændrer alle fjenders element til [##elementred]ild[#] i {TURNS} runder."
+            "text": "Zmienia żywioł wszystkich wrogów na [##elementred]ogień[#] na {TURNS} tur(y)."
           },
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle allierede genvinder {REMOVALEFFECT1FIXEDPOWER} helbred efter {TURNS} runder. Hvis effekten fjernes eller erstattes, før den udløber, genvindes {REMOVALEFFECT2FIXEDPOWER} HP i stedet."
+            "text": "Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
           },
           {
             "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Målet får {DAMAGE} bløderskade i {TURNS} runder. Kasteren absorberer {ABSORBHEALING} % af den påførte bløderskade som forstærket helbred."
+            "text": "Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y). Rzucający wchłania {ABSORBHEALING}% zadanych obrażeń od krwawienia jako wzmocnienie zdrowia."
           },
           {
             "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Modtag [#!]{DAMAGEPERTURN}[#] bløderskade per runde. Kasteren absorberer [#!]{ABSORBHEALING} %[#] af den påførte skade som forstærket helbred."
+            "text": "Otrzymujesz [#!]{DAMAGEPERTURN}[#] pkt. obrażeń od krwawienia na turę. Rzucający wchłania [#!]{ABSORBHEALING}%[#] zadanych obrażeń jako wzmocnienie zdrowia."
           },
           {
             "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Visne:[#] Målet får {ATTACKINCREASE} angreb."
+            "text": "[#!]Susza:[#] cel otrzymuje {ATTACKINCREASE} do ataku."
           },
           {
             "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Målet bliver til en [#!]Sindsorm[#]. [#!]Sindsorme[#] har {ATTACK} % angreb, {DEFENSE} % forsvar og følgende særlige evne:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Giver 75 [#!]vanvid[#] til en tilfældig allieret.\n[>]Fjerner [#!]Sindsormens[#] lidelse fra kasteren."
+            "text": "Cel zmienia się w [#!]robaka umysłu[#]. [#!]Robaki umysłu[#] posiadają {ATTACK}% ataku, {DEFENSE}% obrony i następującą specjalną zdolność:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Zadaje 75 pkt. [#!]obłędu[#] jednemu losowemu sojusznikowi.\n[>]Usuwa [#!]robaka umysłu[#] z rzucającego."
           },
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Fjerner [#!]Sindsorm[#]-lidelsen fra kasteren."
+            "text": "Usuwa dolegliwość [#!]robak umysłu[#] z rzucającego."
+          }
+        ]
+      },
+      "Portuguese": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Expurga com segurança todos os males de status do invocador."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Saqueia[#] todos os inimigos, roubando [#!]{DAMAGE}[#] de vida e um reforço de cada, e distribui os reforços roubados entre os aliados."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Saqueia[#] o alvo, roubando [#!]{DAMAGE}[#] de vida e um reforço."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui entre os aliados."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.\n[*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Altera o elemento de todos os inimigos para [##elementred]Fogo[#] por {TURNS} turnos."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, restaura {REMOVALEFFECT2FIXEDPOWER} de vida."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "O alvo recebe {DAMAGE} de dano de sangramento por {TURNS} turnos. O invocador absorve como vida reforçada {ABSORBHEALING}% do dano de sangramento causado."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Recebe [#!]{DAMAGEPERTURN}[#] de dano de sangramento por turno. O invocador absorve como vida reforçada [#!]{ABSORBHEALING}%[#] do dano causado."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Atrofia:[#] o alvo recebe {ATTACKINCREASE} de ataque."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "O alvo se transforma em um [#!]Vermental[#]. [#!]Vermentais[#] têm {ATTACK}% de ataque, {DEFENSE}% de defesa e a seguinte habilidade especial:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aplica 75 [#!]Insanidade[#] a um aliado aleatório.\n[>]Remove o mal [#!]Vermental[#] do invocador."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Remove a doença [#!]Vermental[#] do invocador."
+          }
+        ]
+      },
+      "Russian": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Безопасно очищает все недуги с героя."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ворует[#] [#!]{DAMAGE}[#] здоровья и усиление у всех врагов, а затем случайным образом раздает украденные усиления союзникам."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Грабит[#] цель, крадя у нее [#!]{DAMAGE}[#] здоровье и усиление."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "Безопасно крадет один эффект состояния с цели; сюда относятся стойкие эффекты, нерассеиваемые усиления и эффекты танца.\n[*]Безопасная кража обходит вторичные эффекты, такие как урон при снятии, от снимаемых усилений. Пассивные навыки и семейные эффекты действуют по-прежнему."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Меняет стихию всех врагов на [##elementred]огонь[#] на {TURNS} х."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Все союзники восстанавливают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х. Если эффект снимается или заменяется до истечения срока, восстанавливается {REMOVALEFFECT2FIXEDPOWER} здоровья."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Цель получает {DAMAGE} ед. урона от кровотечения в течение {TURNS} х. Герой поглощает {ABSORBHEALING} % нанесенного кровотечением урона в виде увеличенного здоровья."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Получает [#!]{DAMAGEPERTURN}[#] ед. урона от кровотечения за ход. Герой поглощает [#!]{ABSORBHEALING} %[#] нанесенного урона в виде увеличенного здоровья."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Увядание:[#] цель получает {ATTACKINCREASE} атаки."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Цель превращается в [#!]червя разума[#]. У [#!]червей разума[#] {ATTACK} % атаки, {DEFENSE} % защиты и следующий особый навык:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Вызывает 75 ед. [#!]безумия[#] у одного случайного союзника.\n[>]Снимает недуг [#!]червя разума[#] с героя."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Снимает с героя недуг [#!]«Червь разума»[#]."
           }
         ]
       },
@@ -1025,6 +605,126 @@
           }
         ]
       },
+      "Danish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Rydder på sikker vis alle statuslidelser fra kasteren."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ransager[#] alle fjender, stjæler [#!]{DAMAGE}[#] helbred og en buffer fra hver, og fordeler stjålne buffere tilfældigt blandt allierede."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Ransager[#] målet, stjæler [#!]{DAMAGE}[#] helbred og en buffer."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjæler {ABSPOWER} % mana fra målet og fjender i nærheden, og fordeler den blandt allierede."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.\n[*]Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Ændrer alle fjenders element til [##elementred]ild[#] i {TURNS} runder."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Alle allierede genvinder {REMOVALEFFECT1FIXEDPOWER} helbred efter {TURNS} runder. Hvis effekten fjernes eller erstattes, før den udløber, genvindes {REMOVALEFFECT2FIXEDPOWER} HP i stedet."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Målet får {DAMAGE} bløderskade i {TURNS} runder. Kasteren absorberer {ABSORBHEALING} % af den påførte bløderskade som forstærket helbred."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Modtag [#!]{DAMAGEPERTURN}[#] bløderskade per runde. Kasteren absorberer [#!]{ABSORBHEALING} %[#] af den påførte skade som forstærket helbred."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Visne:[#] Målet får {ATTACKINCREASE} angreb."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Målet bliver til en [#!]Sindsorm[#]. [#!]Sindsorme[#] har {ATTACK} % angreb, {DEFENSE} % forsvar og følgende særlige evne:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Giver 75 [#!]vanvid[#] til en tilfældig allieret.\n[>]Fjerner [#!]Sindsormens[#] lidelse fra kasteren."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Fjerner [#!]Sindsorm[#]-lidelsen fra kasteren."
+          }
+        ]
+      },
+      "Finnish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Puhdistaa turvallisesti kaikki vaivat loitsijalta."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]Ryöstää[#] kaikki viholliset varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen jokaiselta ja jakaa varastetut tehosteet sattumanvaraisesti liittolaisille."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]Ryöstää[#] kohteen varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Anastaa kohteelta ja lähellä olevilta vihollisilta {ABSPOWER} % manaa ja jakaa sen liittolaisille."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Varastaa kohteelta turvallisesti yhden tilaefektitehosteen. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssiefektejä.\n[*]Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutukset, kuten poistosta johtuvan vaurion. Passiiviset taidot ja perhevaikutukset voivat silti aktivoitua."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "Kaikkien vihollisten elementti muuttuu [##elementred]tuleksi[#] {TURNS} vuoron ajaksi."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Palauttaa kaikille liittolaisille {REMOVALEFFECT1FIXEDPOWER} terveyttä {TURNS} vuoron jälkeen. Jos vaikutus poistetaan tai korvataan ennen keston päättymistä, palauttaa {REMOVALEFFECT2FIXEDPOWER} terveyttä sen sijaan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Kohde kärsii {DAMAGE} verenvuotovauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta verenvuotovauriosta tehostettuna terveytenä."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Kärsii [#!]{DAMAGEPERTURN}[#] verenvuotovauriota vuoroa kohden. Loitsija imee [#!]{ABSORBHEALING} %[#] tuotetusta vauriosta tehostettuna terveytenä."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Näivettäminen:[#] Kohde saa {ATTACKINCREASE} hyökkäystä."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Kohde muuttuu [#!]mielimadoksi[#]. [#!]Mielimadoilla[#] on {ATTACK} % hyökkäystä, {DEFENSE} % puolustusta ja seuraava erikoistaito:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aiheuttaa 75 [#!]hulluutta[#] yhdelle satunnaiselle liittolaiselle.\n[>]Poistaa loitsijalta [#!]mielimato[#]-vaivan."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Poistaa [#!]mielimato[#]-vaivan loitsijalta."
+          }
+        ]
+      },
       "Norwegian": {
         "overrideEntries": [
           {
@@ -1085,63 +785,183 @@
           }
         ]
       },
-      "Dutch": {
+      "Swedish": {
         "overrideEntries": [
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Zuivert veilig alle statuseffecten van de spreukspreker."
+            "text": "Rensar alla negativa statuseffekter från användaren på ett säkert sätt."
           },
           {
             "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Plundert[#] alle vijanden, steelt van elk [#!]{DAMAGE}[#] gezondheid en een oppepper, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
+            "text": "[#!]Plundrar[#] alla fiender och stjäl [#!]{DAMAGE}[#] hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
           },
           {
             "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Plundert[#] het doelwit, steelt [#!]{DAMAGE}[#] gezondheid en een oppepper."
+            "text": "[#!]Plundrar[#] målet och stjäl [#!]{DAMAGE}[#] hälsa och en bonus."
           },
           {
             "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het onder bondgenoten."
+            "text": "Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
           },
           {
             "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.\n[*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
+            "text": "[*]Stjäl riskfritt en positiv statuseffekt från målet säkert. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.\n[*]Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
           },
           {
             "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
+            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
           },
           {
             "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
+            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
           },
           {
             "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Verandert het element van alle vijanden {TURNS} beurten lang in [##elementred]vuur[#]."
+            "text": "Ändrar alla fienders element till [##elementred]eld[#] i {TURNS} rundor."
           },
           {
             "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle bondgenoten herstellen na {TURNS} beurten {REMOVALEFFECT1FIXEDPOWER} gezondheid. Als het effect voortijdig verwijderd of vervangen wordt, herstelt het in plaats daarvan {REMOVALEFFECT2FIXEDPOWER} gezondheid."
+            "text": "Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
           },
           {
             "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Het doelwit loopt gedurende {TURNS} beurten {DAMAGE} bloedschade op. De spreukspreker absorbeert {ABSORBHEALING}% van de toegebrachte bloedschade als extra gezondheid."
+            "text": "Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som ökad hälsa."
           },
           {
             "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Lijd [#!]{DAMAGEPERTURN}[#] bloedschade per beurt. De spreukspreker absorbeert [#!]{ABSORBHEALING}%[#] van de toegebrachte schade als extra gezondheid."
+            "text": "Tar [#!]{DAMAGEPERTURN}[#] blödande skada per runda. Användaren absorberar [#!]{ABSORBHEALING} %[#] av den gjorda skadan som ökad hälsa."
           },
           {
             "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Verwelking[#]: het doelwit krijgt {ATTACKINCREASE} aanval."
+            "text": "[#!]Vittra:[#] Målet får {ATTACKINCREASE} attack."
           },
           {
             "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Het doelwit verandert in een [#!]geestworm[#]. De [#!]geestwormen[#] hebben {ATTACK}% aanvalskracht, {DEFENSE}% verdediging en de volgende speciale vaardigheid:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Brengt 75 [#!]waanzin[#] toe aan één willekeurige bondgenoot.\n[>]Verwijdert de [#!]geestwormaandoening[#] van de spreukspreker."
+            "text": "Målet förvandlas till en [#!]sinnesmask[#]. [#!]Sinnesmaskar[#] har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Ger 75 [#!]vansinne[#] till en slumpmässig allierad.\n[>]Tar bort [#!]sinnesmask[#]-effekten från användaren."
           },
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Verwijdert de [#!]geestworm[#]aandoening van de spreukspreker."
+            "text": "Tar bort den negativa effekten [#!]sinnesmask[#] från användaren."
+          }
+        ]
+      },
+      "Korean": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "시전자의 모든 상태 이상 효과를 안전하게 정화합니다."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "모든 적을 [#!]약탈[#]하여 [#!]{DAMAGE}[#]의 HP와 강화 효과를 각각 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "대상을 [#!]약탈[#]해서 [#!]{DAMAGE}[#]의 HP와 강화 효과를 훔칩니다."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 분배합니다."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.\n[*]안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "모든 적의 속성이 {TURNS}턴 동안 [##elementred]화염[#]으로 변합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "모든 아군이 {TURNS}턴 후에 {REMOVALEFFECT1FIXEDPOWER} HP를 회복합니다. 만약 그 전에 이 효과가 사라지거나 교체되면 대신 {REMOVALEFFECT2FIXEDPOWER} HP를 회복합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "대상이 {TURNS}턴 동안 {DAMAGE}의 출혈 피해를 입습니다. 가한 출혈 피해의 {ABSORBHEALING}%를 시전자가 증가된 HP로 흡수합니다."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "턴마다 [#!]{DAMAGEPERTURN}[#] 출혈 피해를 입습니다. 가한 피해의 [#!]{ABSORBHEALING}%[#]를 시전자가 증가된 HP로 흡수합니다."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]쇠퇴:[#] 목표물이 {ATTACKINCREASE} 공격력을 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "대상이 [#!]마인드웜[#] 상태가 됩니다. [#!]마인드웜[#]은 {ATTACK}% 공격력, {DEFENSE}% 방어력을 받으며 다음 특수 스킬을 갖습니다:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]무작위 아군 한 명에게 75 [#!]광기[#]를 부여합니다.\n[>]시전자로부터 [#!]마인드웜[#] 상태 이상을 제거합니다."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "시전자의 [#!]마인드웜[#] 상태 이상을 제거합니다."
+          }
+        ]
+      },
+      "Japanese": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "術者のステータス異常を全て安全に浄化する。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "敵全員を[#!]強奪[#]して[#!]{DAMAGE}[#]ライフとバフを奪取し、奪い取ったバフをランダムな仲間に付与する。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "標的に[#!]強奪[#]を行い、[#!]{DAMAGE}[#]ライフとバフを奪取する。"
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "ターゲットと近くにいる敵からマナを{ABSPOWER}%盗み、仲間に分配する。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]標的から、安全にステータス効果バフをランダムで奪取する。これには強固または解除不可能なバフとダンス効果も含まれる。\n[*]安全に奪取すると、削除時のダメージや削除したバフからの副次的効果を無効にできる。パッシブスキルとファミリー効果も有効にしたままにできる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "{TURNS}ターンの間、敵全員の属性が[##elementred]炎属性[#]に変化する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "{TURNS}ターン後に、仲間全員のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "{TURNS}ターンの間、ターゲットに{DAMAGE}の出血ダメージを与える。術者は、与えた出血ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "ターン毎に、敵全員に[#!]{DAMAGEPERTURN}[#]の出血ダメージを与える。術者は、与えた出血ダメージの[#!]{ABSORBHEALING}%[#]をブーストライフとして吸収する。"
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]弱化：[#]ターゲットの攻撃力が{ATTACKINCREASE}減少する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "ターゲットが[#!]マインドワーム[#]に変化する。[#!]マインドワーム[#]に変化すると、攻撃力が{ATTACK}%、防御力が{DEFENSE}%になり、以下の特殊スキルを使えるようになる：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]ランダムな味方1体に[#!]狂気[#]を75付与する。\n[>]術者から[#!]マインドワーム[#]のステータス異常を消去する。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "術者から[#!]マインドワーム[#]のステータス異常を消去する。"
           }
         ]
       },
@@ -1206,6 +1026,186 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "移除施法者身上的[#!]噬心虫[#]状态异常。"
+          }
+        ]
+      },
+      "ChineseTraditional": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "安全淨化施法者的所有狀態異常。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "對所有敵人進行[#!]掠奪[#]，竊取各個敵人[#!]{DAMAGE}[#]生命值與一項增益，並將竊取來的增益隨機分配給盟友。"
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]劫掠[#]目標，竊取[#!]{DAMAGE}[#]生命和一項增益。"
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "自目標與附近敵人身上偷取{ABSPOWER}%法力，並分給盟友。"
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]安全地從目標身上竊取一個狀態效果增益。包括頑固效果、不可驅散的增益和舞蹈效果。\n[*]安全竊取可避免移除增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "將所有敵人的元素變更為[##elementred]烈火[#]，持續{TURNS}個回合。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "所有盟友在{TURNS}個回合後恢復{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前遭移除或替代，則轉而恢復{REMOVALEFFECT2FIXEDPOWER}點生命值。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "目標在{TURNS}個回合內受到{DAMAGE}點流血傷害。施法者吸收所造成之流血傷害的{ABSORBHEALING}%作為加成生命值。"
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "每回合受到[#!]{DAMAGEPERTURN}[#]點流血傷害。施法者能吸收所造成之傷害的[#!]{ABSORBHEALING}%[#]作為加成生命值。"
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]枯萎：[#]目標獲得{ATTACKINCREASE}點攻擊。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "目標變成[#!]心靈蠕蟲[#]。 [#!]心靈蠕蟲[#]有{ATTACK}%攻擊、{DEFENSE}%防禦與以下特殊技能：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]對一名隨機盟友施加75點 [#!]瘋狂[#]。\n[>]移除施法者的[#!]心靈蠕蟲[#]異常。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "移除施法者的[#!]心靈蠕蟲[#]狀態異常。"
+          }
+        ]
+      },
+      "Turkish": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "Eylemciden tüm durum engellerini güvenle arındırır."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "Tüm düşmanları [#!]Yağmalar[#], her birinden [#!]{DAMAGE}[#] sağlık ve bir buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "Hedefi [#!]Yağmalayarak[#] [#!]{DAMAGE}[#] sağlık ve bir buff çalar."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve onu müttefiklere dağıtır."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.\n[*]Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "{TURNS} boyunca tüm düşmanların elementini [##elementred]Ateş[#] olarak değiştirir."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "Tüm müttefikler {TURNS} turdan sonra {REMOVALEFFECT1FIXEDPOWER} sağlık yeniler. Efekt, süre bitmeden kaldırılırsa veya değiştirilirse {REMOVALEFFECT2FIXEDPOWER} sağlık yeniler."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "Hedef {TURNS} tur boyunca {DAMAGE} Kanama hasarı alır. Eylemci, verilen Kanama hasarının %{ABSORBHEALING} kadarını güçlendirilmiş sağlık olarak emer."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "Tur başına [#!]{DAMAGEPERTURN}[#] Kanama hasarı alırsın. Eylemci, verilen hasarın [#!]%{ABSORBHEALING}[#] kadarını güçlendirilmiş sağlık olarak emer."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]Soldurma:[#] Hedef {ATTACKINCREASE} saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "Hedef bir [#!]Zihin Kurduna[#] dönüşür. [#!]Zihin Kurtları[#] %{ATTACK} saldırıya, %{DEFENSE} savunmaya ve aşağıdaki Özel Yeteneğe sahiptir:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Rastgele bir müttefike 75 [#!]Delilik[#] uygular.\n[>]Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
+          }
+        ]
+      },
+      "Arabic": {
+        "overrideEntries": [
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
+            "text": "تشفي الرامي من حالات الأمراض كلها بأمان."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
+            "text": "[#!]تنهب[#]  كل الأعداء، وتسرق [#!]{DAMAGE}[#] الصحة والتعزيزات، وتوزيع المزايا المسروقة عشوائيًّا على الحلفاء."
+          },
+          {
+            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
+            "text": "[#!]ينهب[#] الهدف، ويسرق [#!]{DAMAGE}[#] الصحة والتعزيزات."
+          },
+          {
+            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "تسرق {ABSPOWER}% من القوة من الهدف والأعداء القريبين، وتوزعها على الحلفاء."
+          },
+          {
+            "key": "specials.v2.property.ransack.extra",
+            "text": "[*]تسرق تعزيز تأثير الحالة بأمان مرة واحدة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة والتأثيرات العنيدة، وتأثيرات الرقص.\n[*]تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضرر زائد أثناء النوم."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
+            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضررًا زائدًا أثناء النوم."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
+            "text": "تغير عنصر جميع الأعداء ليكون عنصر [##elementred]النار[#] طوال {TURNS} من الجولات."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
+            "text": "يستعيد جميع الحلفاء {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
+            "text": "يتلقى الهدف {DAMAGE} من ضرر النزيف طوال {TURNS} من الجولات. يمتص الملقي نسبة {ABSORBHEALING}% من ضرر النزيف الملحق على هيئة صحة معززة."
+          },
+          {
+            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
+            "text": "تلقَّ [#!]{DAMAGEPERTURN}[#] من ضرر النزيف في كل جولة. يمتص الرامي نسبة [#!]{ABSORBHEALING}%[#] من الضرر الملحق على هيئة صحة معززة."
+          },
+          {
+            "key": "specials.v2.property.wither.none.single.enemies.attack",
+            "text": "[#!]التلف:[#] يحصل الهدف على {ATTACKINCREASE} من الهجوم."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
+            "text": "يتحول الهدف إلى [#!]دودة عقل[#]. يمتلك [#!]دود العقل[#] {ATTACK}% من الهجوم، و{DEFENSE}% من الدفاع، والمهارة الخاصة التالية:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]تلحق 75 من [#!]الجنون[#] بحليف عشوائي.\n[>]تزيل مرض [#!]دودة العقل[#] عن الرامي."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
+            "text": "تُزيل مرض [#!]دودة العقل[#] من الملقي."
           }
         ]
       }

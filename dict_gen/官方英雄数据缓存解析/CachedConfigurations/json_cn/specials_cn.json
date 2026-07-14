@@ -74769,7 +74769,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_zhakiturion",
-        "powerMultiplierPerMil": 5300,
+        "powerMultiplierPerMil": 5400,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "AllMinor",
@@ -74948,5 +74948,5 @@
       }
     ]
   },
-  "specialsConfigId": 3136364094
+  "specialsConfigId": 3418898757
 }

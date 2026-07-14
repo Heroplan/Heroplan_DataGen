@@ -5210,6 +5210,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "musketeer_queen_anne_costume_commander",
+        "name": "Queen Anne C1",
+        "passives": [
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
+            "在受到特殊技能和掩護傷害時造成傷害：此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有 75% 機率對所有敵人造成所承受傷害的 50% 傷害。"
+        ]
+    },
+    {
         "heroId": "castle_wolf_quenell",
         "name": "Quenell",
         "passives": []
@@ -12594,6 +12602,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "beauty_beast_beauty",
+        "name": "Beauty",
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ]
+    },
+    {
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
@@ -14319,16 +14336,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "musketeer_queen_anne_costume_commander",
-        "name": "Queen Anne C",
-        "passives": []
-    },
-    {
-        "heroId": "beauty_beast_beauty",
-        "name": "Beauty",
-        "passives": []
     },
     {
         "heroId": "astral_demon_zhakiturion",

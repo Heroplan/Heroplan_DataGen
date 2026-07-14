@@ -5210,6 +5210,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "musketeer_queen_anne_costume_commander",
+        "name": "Queen Anne C1",
+        "passives": [
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+        ]
+    },
+    {
         "heroId": "castle_wolf_quenell",
         "name": "Quenell",
         "passives": []
@@ -12594,6 +12602,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beauty_beast_beauty",
+        "name": "Beauty",
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+        ]
+    },
+    {
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
@@ -14319,16 +14336,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "musketeer_queen_anne_costume_commander",
-        "name": "Queen Anne C",
-        "passives": []
-    },
-    {
-        "heroId": "beauty_beast_beauty",
-        "name": "Beauty",
-        "passives": []
     },
     {
         "heroId": "astral_demon_zhakiturion",

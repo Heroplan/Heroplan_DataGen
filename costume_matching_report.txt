@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (603 / 0)
+✅ 成功匹配的服装 (604 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -126,6 +126,7 @@ Name: Jack O'Hare Costume1, Fancy Name: Egg Hunter of Springvale
 Name: Ptolemy Costume1, Fancy Name: Elder Log
 Name: Quintus Costume1, Fancy Name: Electro Scientist
 Name: Passepartout Costume1, Fancy Name: Elegant Artist
+Name: Queen Anne costume1, Fancy Name: Elegant Commander
 Name: Aqualith Costume1, Fancy Name: Elemental Colossus
 Name: Helo Costume1, Fancy Name: Eloi Baker
 Name: Russula Costume1, Fancy Name: Eloi Painter

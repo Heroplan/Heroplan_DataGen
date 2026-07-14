@@ -461,8 +461,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_mercenary_war_coin",
-            "amount": 35
+            "id": "lottery_wilderness_coin",
+            "amount": 70
           }
         ]
       },
@@ -20545,6 +20545,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20562,6 +20563,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20579,6 +20581,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20596,6 +20599,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20613,6 +20617,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20630,6 +20635,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20647,6 +20653,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20664,6 +20671,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20681,6 +20689,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20698,6 +20707,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20715,6 +20725,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20732,6 +20743,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20749,6 +20761,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20766,6 +20779,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20783,6 +20797,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20800,6 +20815,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20817,6 +20833,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20834,6 +20851,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20851,6 +20869,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20868,6 +20887,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20885,6 +20905,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20902,6 +20923,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20919,6 +20941,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20936,6 +20959,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20953,6 +20977,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20970,6 +20995,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -20987,6 +21013,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -21004,6 +21031,7 @@
         ],
         "supportsTabs": true,
         "zyngaStoreEnabled": true,
+        "zyngaStorePlacementPool": "calendar",
         "associatedEvent": "Kalevala"
       },
       {
@@ -32315,43 +32343,19 @@
         "id": "dynamic_offer_37_blue_esme",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
+            "id": "com.smallgiantgames.empires.dynamic_8",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
+            "id": "com.smallgiantgames.empires.dynamic_7c",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30c",
+            "id": "com.smallgiantgames.empires.dynamic_100b",
             "purchaseLimit": 2
           }
         ],
@@ -32939,32 +32943,16 @@
         "id": "dynamic_offer_56_acidfire",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
+            "id": "com.smallgiantgames.empires.dynamic_12d",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15",
+            "id": "com.smallgiantgames.empires.dynamic_5c",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12b",
+            "id": "com.smallgiantgames.empires.dynamic_7b",
             "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15b",
-            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -32974,6 +32962,7 @@
         "zyngaStoreEnabled": true,
         "zyngaStorePlacementPool": "dynamic-offers",
         "offerLayoutSource": "dynamic_offer_23_acidfire",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_might"
       },
       {
@@ -42803,6 +42792,29 @@
                 "zyngaStoreExtraAmount": 2
               }
             ]
+          },
+          {
+            "activationTime": "2026-07-14 11:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 40,
+                "zyngaStoreExtraAmount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 1
+              }
+            ]
           }
         ]
       },
@@ -46584,6 +46596,34 @@
                 "id": "lottery_elite_hero",
                 "amount": 3,
                 "zyngaStoreExtraAmount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-14 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "battle_trebuchet",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "battle_super_mana_potion",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 50
               }
             ]
           },
@@ -50739,6 +50779,31 @@
             ]
           },
           {
+            "activationTime": "2026-07-14 11:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 10000,
+                "zyngaStoreExtraAmount": 1000
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_scroll_of_alteration",
+                "amount": 111
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_hurricane",
+                "amount": 111
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_titan_banner",
+                "amount": 111
+              }
+            ]
+          },
+          {
             "activationTime": "2026-07-16 07:00:00",
             "contents": [
               {
@@ -51181,6 +51246,40 @@
             ]
           },
           {
+            "activationTime": "2026-07-14 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "battle_minor_mana_potion",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_arrows",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 10
+              }
+            ]
+          },
+          {
             "activationTime": "2026-07-15 07:00:00",
             "contents": [
               {
@@ -51521,6 +51620,22 @@
               {
                 "type": "Item",
                 "id": "hero_limitbreak_legendary_purple",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-14 11:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
                 "amount": 1
               }
             ]
@@ -52642,6 +52757,22 @@
                 "amount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2026-07-14 11:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
           }
         ]
       },
@@ -52850,6 +52981,22 @@
                 "id": "lottery_costume_key",
                 "amount": 20,
                 "zyngaStoreExtraAmount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-14 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 7
               }
             ]
           }
@@ -58562,6 +58709,20 @@
         "scheduledManually": true,
         "startTime": "2026-07-14 07:00:00",
         "endTime": "2026-07-19 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_56_acidfire",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-14 09:00:00",
+        "endTime": "2026-07-15 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_37_blue_esme",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-14 11:30:00",
+        "endTime": "2026-07-15 06:30:00"
       },
       {
         "id": "dynamic_offer_15_red_carmenta",
@@ -84587,39 +84748,6 @@
           },
           {
             "lotteryProductType": "Hero League Summon",
-            "id": "league_1_1_2050",
-            "productId": "lottery_league_default",
-            "startDate": "2050-01-01 07:00:00",
-            "endDate": "2050-01-08 07:00:00",
-            "playerSelectableFeaturedEntityConfig": {
-              "summonId": "lottery_league_default",
-              "amountOfSelectableFeaturedSlots": 6,
-              "entitiesToChooseFrom": [
-                "wonderland_hatter_costume_tea",
-                "wonderland_knave_of_hearts",
-                "fables_cinderella",
-                "wonderland_queen_costume_benefactor",
-                "wonderland_tweedles",
-                "fables_frog_prince",
-                "fables_puss_in_boots_costume_highwaycat",
-                "knights_green_knight",
-                "knights_guinevere_costume_rider",
-                "fables_rumpelstiltskin_costume_eternal",
-                "knights_black_knight_costume_negative",
-                "wonderland_white_rabbit_costume_mask",
-                "fables_snow_white_costume_slayer",
-                "knights_lady_of_the_lake_costume_blades",
-                "wonderland_jabberwocky_costume_moth",
-                "fables_boss_wolf",
-                "fables_red_hood",
-                "knights_king_arthur",
-                "knights_morgan_le_fay",
-                "wonderland_alice"
-              ]
-            }
-          },
-          {
-            "lotteryProductType": "Hero League Summon",
             "id": "league_4_5_2026_2nd",
             "productId": "lottery_league_default",
             "startDate": "2026-05-25 07:00:00",
@@ -84730,6 +84858,374 @@
                 "sand_king_costume_lifeguard",
                 "sand_queen_costume_surfer",
                 "easter_sir_roostley"
+              ]
+            }
+          },
+          {
+            "lotteryProductType": "Hero League Summon",
+            "id": "league_3_8_2026",
+            "productId": "lottery_league_default",
+            "startDate": "2026-08-03 07:00:00",
+            "endDate": "2026-08-10 07:00:00",
+            "playerSelectableFeaturedEntityConfig": {
+              "summonId": "lottery_league_default",
+              "amountOfSelectableFeaturedSlots": 6,
+              "entitiesToChooseFrom": [
+                "s2_oceanus_costume_volcano",
+                "s2_tethys_costume_steel",
+                "wonderland_hatter_costume_tea",
+                "wonderland_knave_of_hearts",
+                "fables_cinderella",
+                "guardian_elephant",
+                "pirate_boatswain",
+                "pirate_dread_captain_costume_rotten",
+                "pirate_lady_costume_queen",
+                "wonderland_queen_costume_benefactor",
+                "wonderland_tweedles",
+                "fables_frog_prince",
+                "fables_puss_in_boots_costume_highwaycat",
+                "knights_green_knight",
+                "knights_guinevere_costume_rider",
+                "s2_skyllaros_costume_reef",
+                "s2_noble_lady_costume_warrior",
+                "s2_hammerhead_hulk_costume_emerald",
+                "guardian_gazelle_costume_bandalore",
+                "guardian_hippo",
+                "s2_mercenary_woman_costume_dancer",
+                "s2_junglehunter_costume_party",
+                "pirate_anne",
+                "fables_rumpelstiltskin_costume_eternal",
+                "guardian_cat_warrior_costume_fierce",
+                "knights_black_knight_costume_negative",
+                "s2_fox_girl_costume_white_kitsune",
+                "guardian_gorilla_chieftain_costume_conqueror",
+                "pirate_commodore_finley_costume_bleak",
+                "pirate_marie_therese_costume_priestess",
+                "wonderland_white_rabbit_costume_mask",
+                "fables_snow_white_costume_slayer",
+                "knights_lady_of_the_lake_costume_blades",
+                "wonderland_jabberwocky_costume_moth",
+                "s2_ariel_costume_enchanter",
+                "s2_cursed_samurai_costume_beetle",
+                "s2_poseidon_costume_slayer",
+                "s2_ursena_costume_reef",
+                "dark_god_seshat_costume_revenant",
+                "fire_god_reuben",
+                "ice_god_glenda",
+                "dark_god_zulag",
+                "holy_god_bai_yeong",
+                "forest_god_zocc",
+                "fire_god_noor",
+                "ice_god_raffaele",
+                "dark_god_clarissa",
+                "holy_god_malosi",
+                "forest_god_telluria",
+                "fire_god_jean_francois",
+                "ice_god_vela",
+                "dark_god_grimble",
+                "holy_god_neith",
+                "forest_god_kingston",
+                "fire_god_nadnog",
+                "ice_god_miki",
+                "holy_god_ranvir",
+                "forest_god_elinor",
+                "fire_god_anzogh",
+                "ice_god_frida",
+                "dark_god_kunchen",
+                "holy_god_onatel",
+                "fables_boss_wolf",
+                "fables_red_hood",
+                "guardian_chameleon",
+                "guardian_owl_gentleman",
+                "knights_king_arthur",
+                "knights_morgan_le_fay",
+                "pirate_swashbuckler",
+                "wonderland_alice"
+              ]
+            }
+          },
+          {
+            "lotteryProductType": "Hero League Summon",
+            "id": "league_3_8_2026_2nd",
+            "productId": "lottery_league_default",
+            "startDate": "2026-08-16 07:00:00",
+            "endDate": "2026-08-17 07:00:00",
+            "overridden": true,
+            "playerSelectableFeaturedEntityConfig": {
+              "summonId": "lottery_league_default",
+              "amountOfSelectableFeaturedSlots": 6,
+              "entitiesToChooseFrom": [
+                "s2_oceanus_costume_volcano",
+                "s2_tethys_costume_steel",
+                "wonderland_hatter_costume_tea",
+                "wonderland_knave_of_hearts",
+                "fables_cinderella",
+                "guardian_elephant",
+                "pirate_boatswain",
+                "pirate_dread_captain_costume_rotten",
+                "pirate_lady_costume_queen",
+                "wonderland_queen_costume_benefactor",
+                "wonderland_tweedles",
+                "fables_frog_prince",
+                "fables_puss_in_boots_costume_highwaycat",
+                "knights_green_knight",
+                "knights_guinevere_costume_rider",
+                "s2_skyllaros_costume_reef",
+                "s2_noble_lady_costume_warrior",
+                "s2_hammerhead_hulk_costume_emerald",
+                "guardian_gazelle_costume_bandalore",
+                "guardian_hippo",
+                "s2_mercenary_woman_costume_dancer",
+                "s2_junglehunter_costume_party",
+                "pirate_anne",
+                "fables_rumpelstiltskin_costume_eternal",
+                "guardian_cat_warrior_costume_fierce",
+                "knights_black_knight_costume_negative",
+                "s2_fox_girl_costume_white_kitsune",
+                "guardian_gorilla_chieftain_costume_conqueror",
+                "pirate_commodore_finley_costume_bleak",
+                "pirate_marie_therese_costume_priestess",
+                "wonderland_white_rabbit_costume_mask",
+                "fables_snow_white_costume_slayer",
+                "knights_lady_of_the_lake_costume_blades",
+                "wonderland_jabberwocky_costume_moth",
+                "s2_ariel_costume_enchanter",
+                "s2_cursed_samurai_costume_beetle",
+                "s2_poseidon_costume_slayer",
+                "s2_ursena_costume_reef",
+                "dark_god_seshat_costume_revenant",
+                "fire_god_reuben",
+                "ice_god_glenda",
+                "dark_god_zulag",
+                "holy_god_bai_yeong",
+                "forest_god_zocc",
+                "fire_god_noor",
+                "ice_god_raffaele",
+                "dark_god_clarissa",
+                "holy_god_malosi",
+                "forest_god_telluria",
+                "fire_god_jean_francois",
+                "ice_god_vela",
+                "dark_god_grimble",
+                "holy_god_neith",
+                "forest_god_kingston",
+                "fire_god_nadnog",
+                "ice_god_miki",
+                "holy_god_ranvir",
+                "forest_god_elinor",
+                "fire_god_anzogh",
+                "ice_god_frida",
+                "dark_god_kunchen",
+                "holy_god_onatel",
+                "fables_boss_wolf",
+                "fables_red_hood",
+                "guardian_chameleon",
+                "guardian_owl_gentleman",
+                "knights_king_arthur",
+                "knights_morgan_le_fay",
+                "pirate_swashbuckler",
+                "wonderland_alice"
+              ]
+            }
+          },
+          {
+            "lotteryProductType": "Hero League Summon",
+            "id": "league_3_8_2026_3rd",
+            "productId": "lottery_league_default",
+            "startDate": "2026-08-23 07:00:00",
+            "endDate": "2026-08-24 07:00:00",
+            "overridden": true,
+            "playerSelectableFeaturedEntityConfig": {
+              "summonId": "lottery_league_default",
+              "amountOfSelectableFeaturedSlots": 6,
+              "entitiesToChooseFrom": [
+                "s2_oceanus_costume_volcano",
+                "s2_tethys_costume_steel",
+                "wonderland_hatter_costume_tea",
+                "wonderland_knave_of_hearts",
+                "fables_cinderella",
+                "guardian_elephant",
+                "pirate_boatswain",
+                "pirate_dread_captain_costume_rotten",
+                "pirate_lady_costume_queen",
+                "wonderland_queen_costume_benefactor",
+                "wonderland_tweedles",
+                "fables_frog_prince",
+                "fables_puss_in_boots_costume_highwaycat",
+                "knights_green_knight",
+                "knights_guinevere_costume_rider",
+                "s2_skyllaros_costume_reef",
+                "s2_noble_lady_costume_warrior",
+                "s2_hammerhead_hulk_costume_emerald",
+                "guardian_gazelle_costume_bandalore",
+                "guardian_hippo",
+                "s2_mercenary_woman_costume_dancer",
+                "s2_junglehunter_costume_party",
+                "pirate_anne",
+                "fables_rumpelstiltskin_costume_eternal",
+                "guardian_cat_warrior_costume_fierce",
+                "knights_black_knight_costume_negative",
+                "s2_fox_girl_costume_white_kitsune",
+                "guardian_gorilla_chieftain_costume_conqueror",
+                "pirate_commodore_finley_costume_bleak",
+                "pirate_marie_therese_costume_priestess",
+                "wonderland_white_rabbit_costume_mask",
+                "fables_snow_white_costume_slayer",
+                "knights_lady_of_the_lake_costume_blades",
+                "wonderland_jabberwocky_costume_moth",
+                "s2_ariel_costume_enchanter",
+                "s2_cursed_samurai_costume_beetle",
+                "s2_poseidon_costume_slayer",
+                "s2_ursena_costume_reef",
+                "dark_god_seshat_costume_revenant",
+                "fire_god_reuben",
+                "ice_god_glenda",
+                "dark_god_zulag",
+                "holy_god_bai_yeong",
+                "forest_god_zocc",
+                "fire_god_noor",
+                "ice_god_raffaele",
+                "dark_god_clarissa",
+                "holy_god_malosi",
+                "forest_god_telluria",
+                "fire_god_jean_francois",
+                "ice_god_vela",
+                "dark_god_grimble",
+                "holy_god_neith",
+                "forest_god_kingston",
+                "fire_god_nadnog",
+                "ice_god_miki",
+                "holy_god_ranvir",
+                "forest_god_elinor",
+                "fire_god_anzogh",
+                "ice_god_frida",
+                "dark_god_kunchen",
+                "holy_god_onatel",
+                "fables_boss_wolf",
+                "fables_red_hood",
+                "guardian_chameleon",
+                "guardian_owl_gentleman",
+                "knights_king_arthur",
+                "knights_morgan_le_fay",
+                "pirate_swashbuckler",
+                "wonderland_alice"
+              ]
+            }
+          },
+          {
+            "lotteryProductType": "Hero League Summon",
+            "id": "league_3_8_2026_4th",
+            "productId": "lottery_league_default",
+            "startDate": "2026-08-30 07:00:00",
+            "endDate": "2026-08-31 07:00:00",
+            "overridden": true,
+            "playerSelectableFeaturedEntityConfig": {
+              "summonId": "lottery_league_default",
+              "amountOfSelectableFeaturedSlots": 6,
+              "entitiesToChooseFrom": [
+                "s2_oceanus_costume_volcano",
+                "s2_tethys_costume_steel",
+                "wonderland_hatter_costume_tea",
+                "wonderland_knave_of_hearts",
+                "fables_cinderella",
+                "guardian_elephant",
+                "pirate_boatswain",
+                "pirate_dread_captain_costume_rotten",
+                "pirate_lady_costume_queen",
+                "wonderland_queen_costume_benefactor",
+                "wonderland_tweedles",
+                "fables_frog_prince",
+                "fables_puss_in_boots_costume_highwaycat",
+                "knights_green_knight",
+                "knights_guinevere_costume_rider",
+                "s2_skyllaros_costume_reef",
+                "s2_noble_lady_costume_warrior",
+                "s2_hammerhead_hulk_costume_emerald",
+                "guardian_gazelle_costume_bandalore",
+                "guardian_hippo",
+                "s2_mercenary_woman_costume_dancer",
+                "s2_junglehunter_costume_party",
+                "pirate_anne",
+                "fables_rumpelstiltskin_costume_eternal",
+                "guardian_cat_warrior_costume_fierce",
+                "knights_black_knight_costume_negative",
+                "s2_fox_girl_costume_white_kitsune",
+                "guardian_gorilla_chieftain_costume_conqueror",
+                "pirate_commodore_finley_costume_bleak",
+                "pirate_marie_therese_costume_priestess",
+                "wonderland_white_rabbit_costume_mask",
+                "fables_snow_white_costume_slayer",
+                "knights_lady_of_the_lake_costume_blades",
+                "wonderland_jabberwocky_costume_moth",
+                "s2_ariel_costume_enchanter",
+                "s2_cursed_samurai_costume_beetle",
+                "s2_poseidon_costume_slayer",
+                "s2_ursena_costume_reef",
+                "dark_god_seshat_costume_revenant",
+                "fire_god_reuben",
+                "ice_god_glenda",
+                "dark_god_zulag",
+                "holy_god_bai_yeong",
+                "forest_god_zocc",
+                "fire_god_noor",
+                "ice_god_raffaele",
+                "dark_god_clarissa",
+                "holy_god_malosi",
+                "forest_god_telluria",
+                "fire_god_jean_francois",
+                "ice_god_vela",
+                "dark_god_grimble",
+                "holy_god_neith",
+                "forest_god_kingston",
+                "fire_god_nadnog",
+                "ice_god_miki",
+                "holy_god_ranvir",
+                "forest_god_elinor",
+                "fire_god_anzogh",
+                "ice_god_frida",
+                "dark_god_kunchen",
+                "holy_god_onatel",
+                "fables_boss_wolf",
+                "fables_red_hood",
+                "guardian_chameleon",
+                "guardian_owl_gentleman",
+                "knights_king_arthur",
+                "knights_morgan_le_fay",
+                "pirate_swashbuckler",
+                "wonderland_alice"
+              ]
+            }
+          },
+          {
+            "lotteryProductType": "Hero League Summon",
+            "id": "league_1_1_2050",
+            "productId": "lottery_league_default",
+            "startDate": "2050-01-01 07:00:00",
+            "endDate": "2050-01-08 07:00:00",
+            "playerSelectableFeaturedEntityConfig": {
+              "summonId": "lottery_league_default",
+              "amountOfSelectableFeaturedSlots": 6,
+              "entitiesToChooseFrom": [
+                "wonderland_hatter_costume_tea",
+                "wonderland_knave_of_hearts",
+                "fables_cinderella",
+                "wonderland_queen_costume_benefactor",
+                "wonderland_tweedles",
+                "fables_frog_prince",
+                "fables_puss_in_boots_costume_highwaycat",
+                "knights_green_knight",
+                "knights_guinevere_costume_rider",
+                "fables_rumpelstiltskin_costume_eternal",
+                "knights_black_knight_costume_negative",
+                "wonderland_white_rabbit_costume_mask",
+                "fables_snow_white_costume_slayer",
+                "knights_lady_of_the_lake_costume_blades",
+                "wonderland_jabberwocky_costume_moth",
+                "fables_boss_wolf",
+                "fables_red_hood",
+                "knights_king_arthur",
+                "knights_morgan_le_fay",
+                "wonderland_alice"
               ]
             }
           }
@@ -88888,5 +89384,5 @@
       ]
     }
   },
-  "shopConfigId": 2685637422
+  "shopConfigId": 2586540937
 }

@@ -48924,5 +48924,52 @@ window.allHeroesExtra = [
             "heal_mana_on_low_health_once"
         ],
         "family": "kalevala"
+    },
+    {
+        "name": "Queen Anne costume1",
+        "fancy name": "Elegant Commander",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-07-14",
+        "AetherPower": "Damage Reduction",
+        "heroId": "musketeer_queen_anne_costume_commander",
+        "baseAttack": 375,
+        "baseDefense": 434,
+        "baseHealth": 806,
+        "specialId": "the_queens_speech",
+        "specialId_costume": "leading_by_example",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "60%",
+        "defenseBonus": "60%",
+        "healthBonus": "65%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Beauty",
+        "fancy name": "Cursebreaker of the Bewitched Castle",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-07-14",
+        "AetherPower": "Boosted Regen",
+        "heroId": "beauty_beast_beauty",
+        "baseAttack": 680,
+        "baseDefense": 668,
+        "baseHealth": 1192,
+        "specialId": "book_of_beautiful_tales",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];
