@@ -2885,5 +2885,7 @@
     "^\\(Chance\\s+to\\s+Miss\\s+applies\\s+to\\s+offensive\\s+Special\\s+Skills\\.?\\s*\\)$": "(進攻型特殊技能也有機率無法擊中。)",
     "^The\\s+target\\s+and\\s+nearby\\s+enemies\\s+get\\s+Soul\\s+Bound\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目標與附近敵人陷入靈魂綁定，持續\\1個回合。",
     "^All\\s+damage\\s+received\\s+by\\s+the\\s+caster\\s+is\\s+dealt\\s+to\\s+all\\s+Soul\\s+Bound\\s+enemies\\.?\\s*$": "所有施法者受到的傷害，也會反映至所有靈魂綁定的敵人身上。",
-    "^\\(Damage\\s+is\\s+shared\\s+between\\s+al\\s+Soul\\s+Bound\\s+enemies\\.?\\s*\\s+This\\s+effect\\s+will\\s+not\\s+share\\s+damage\\s+coming\\s+from\\s+other\\s+shared\\s+damage\\s+sources\\s+or\\s+counterattacks\\.?\\s*\\)$": "（所有靈魂綁定的敵人共享傷害。此效果将不會共享來自其他已共享傷害來源或反擊的傷害。）"
+    "^\\(Damage\\s+is\\s+shared\\s+between\\s+al\\s+Soul\\s+Bound\\s+enemies\\.?\\s*\\s+This\\s+effect\\s+will\\s+not\\s+share\\s+damage\\s+coming\\s+from\\s+other\\s+shared\\s+damage\\s+sources\\s+or\\s+counterattacks\\.?\\s*\\)$": "（所有靈魂綁定的敵人共享傷害。此效果将不會共享來自其他已共享傷害來源或反擊的傷害。）",
+    "^\\(After\\s+the\\s+character\\s+has\\s+received([+-]?\\s*\\d+\\s*%?)direct\\s+mana\\s+additions\\s+from\\s+Special\\s+Skills\\s+during\\s+a\\s+single\\s+turn,\\s+all\\s+subsequent\\s+direct\\s+mana\\s+additions\\s+done\\s+by\\s+Special\\s+Skills\\s+will\\s+have\\s+reduced\\s+power\\s+on\\s+the\\s+character\\.?\\s*\\)$": "（角色在單一回合中，透過特殊技能獲得\\1點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+    "^Stack\\s+\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+allies\\s+get\\s+an\\s+additional\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for\\s+each\\s+destroyed\\s+Fiend\\.?\\s*$": "疊加（最大值：\\1）：每摧毁一名惡魔，所有盟友獲得額外\\2攻擊。"
 }

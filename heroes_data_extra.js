@@ -48971,5 +48971,26 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Zhakiturion",
+        "fancy name": "Astral Demon Chief Justiciar",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-07-15",
+        "AetherPower": "Attack Up",
+        "heroId": "astral_demon_zhakiturion",
+        "baseAttack": 679,
+        "baseDefense": 685,
+        "baseHealth": 1162,
+        "specialId": "book_of_judgement",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];

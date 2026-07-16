@@ -1,41 +1,5 @@
 [
     {
-        "name": "Queen Anne C",
-        "fancy_name": "Elegant Commander",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-14 07:00:00",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_queen_anne_costume_commander",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Beauty",
-        "fancy_name": "Cursebreaker of the Bewitched Castle",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-14 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_beauty",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Zhakiturion",
-        "fancy_name": "Astral Demon Chief Justiciar",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-15 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_zhakiturion",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Chilazar",
         "fancy_name": "Inferno Chili",
         "color": "Red",

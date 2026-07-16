@@ -665,11 +665,11 @@ Cada ataque de um ajudante Mariposa dá ao alvo os seguintes males de status:"
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Expurga todos os males de status de todos os aliados e aumenta em {POWER}% o mana de todos os aliados por cada mal expurgado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Extrai males de todos os aliados."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Ceifa reforços de todos os inimigos."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","A [#!]Ceifa[#] remove com segurança {MAXREMOVALCOUNT} reforços, acumulações positivas ou efeitos Crescimento de cada alvo. Isso inclui efeitos persistentes, reforços indissipáveis e efeitos de dança.
-[*] O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","A Ceifa remove com segurança {MAXREMOVALCOUNT} reforços, acumulações positivas ou efeitos Crescimento de cada alvo. Isso inclui efeitos persistentes, reforços indissipáveis e efeitos de dança.
+ O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.
 
-[*] A remoção segura ignora os efeitos secundários, como dano ao remover, dos reforços de efeito de status removidos. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.
-[*] Os efeitos Crescimento são removidos primeiro. Entre outros efeitos, o mais recente é removido primeiro."
+ A remoção segura ignora os efeitos secundários, como dano ao remover, dos reforços de efeito de status removidos. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.
+ Os efeitos Crescimento são removidos primeiro. Entre outros efeitos, o mais recente é removido primeiro."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Extração remove com segurança {MAXREMOVALCOUNT} males de status, acumulações negativas ou efeitos Atrofia de cada alvo. Isso inclui efeitos de dança e males de status inexpurgáveis.
  O invocador recebe {HEALTHBOOST}% de vida reforçada por cada efeito removido. A vida reforçada pode exceder o limite de PV.
  O expurgo seguro ignora os efeitos secundários, como dano ao remover, do mal de status removido. Efeitos externos, como efeitos passivos e de família, ainda podem ser ativados.
@@ -856,7 +856,7 @@ Limites de modificação das pontuações de habilidade:
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","A modificação da duração afeta efeitos expurgáveis, persistentes e não expurgáveis.
 
-[*] Quando a duração de qualquer efeito chega a zero, o efeito é considerado naturalmente expirado."
+ Quando a duração de qualquer efeito chega a zero, o efeito é considerado naturalmente expirado."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","A modificação da duração afeta efeitos dissipáveis, persistentes e indissipáveis."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduz a duração dos males de status ativos do invocador e dos aliados próximos em {TURNS} turnos."
@@ -897,7 +897,7 @@ Limites de modificação das pontuações de habilidade:
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Destrói todos os ajudantes do alvo. Este efeito causa dano a mega-ajudantes."
 "specials.v2.property.pre.ignoredodgewithchance","Esta habilidade especial tem {IGNOREDODGECHANCE}% de chance de ignorar efeitos de Esquiva."
 "specials.v2.property.pre.ignoredodgewithchance.always","Esta habilidade especial ignora os efeitos de Esquiva."
-"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui aleatoriamente entre os aliados."
+"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui entre os aliados."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies","Rouba {ABSPOWER}% de mana do alvo e distribui entre os aliados."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.allexceptcaster.allies","Rouba {ABSPOWER}% de mana do alvo e distribui entre os aliados, exceto o invocador."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.single.allies","O invocador rouba {ABSPOWER}% de mana do alvo."
@@ -917,11 +917,10 @@ Limites de modificação das pontuações de habilidade:
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
 "specials.v2.property.randomstatuseffects","Lança aleatoriamente uma das seguintes alternativas:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","Rouba {DAMAGE} de vida. 
-[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.
+"specials.v2.property.ransack.extra","[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.
 [*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","Saqueia todos os inimigos, roubando vida e reforços, e distribui os reforços roubados entre os aliados."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","Saqueia o alvo, roubando vida e reforços."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Saqueia[#] todos os inimigos, roubando [#!]{DAMAGE}[#] de vida e um reforço de cada, e distribui os reforços roubados entre os aliados."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Saqueia[#] o alvo, roubando [#!]{DAMAGE}[#] de vida e um reforço."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Rouba {DAMAGE} de vida. 
  Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.
  O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
@@ -987,8 +986,8 @@ Limites de modificação das pontuações de habilidade:
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","O expurgo seguro ignora efeitos secundários, como o dano ao remover, do mal de status removido. Efeitos externos, como habilidades passivas e efeitos da família, ainda podem ser ativados."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","O dano é reduzido em {POWERPERREMOVALFROMTARGET}% por cada reforço removido.
  Os reforços persistentes e indissipáveis também são removidos."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] O reforço de vida é reduzido em [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] por cada mal removido.
-[*] Os males persistentes e inexpurgáveis também são removidos."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","O reforço de vida é reduzido em {FIXEDPOWERPERREMOVALFROMTARGET} por cada mal removido.
+ Os males persistentes e inexpurgáveis também são removidos."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Dissipa com segurança os reforços de todos os inimigos e aumenta o mana de todos os aliados em {POWERPERREMOVAL}% por cada reforço removido."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Expurga com segurança todos os males de status de todos os aliados e aumenta o mana de todos os aliados em {POWERPERREMOVAL}% por cada mal expurgado."
 "specials.v2.property.repeatspecial.blade_wings.random","Após um lançamento bem sucedido, tem {REPEATCHANCE}% de chance de lançar Asas Laminadas novamente em um alvo aleatório.
@@ -1669,7 +1668,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
  {DEFENSE} de defesa.
  Habilidade especial: Mordida Venenosa."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Todos os alvos atingidos são silenciados por {TURNS} turnos. Este efeito não pode ser expurgado."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos os inimigos adormecem e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","Os inimigos nas bordas da formação inimiga adormecem e sofrem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","O alvo adormece e recebe {DAMAGEMODIFIER}% de dano aumentado enquanto dorme."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Todos os aliados exceto o invocador recebem Pele macia."
@@ -1971,9 +1970,9 @@ Dança da Fortuna Vibrante
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","O ataque do alvo e dos inimigos próximos diminui em {CHANGE}% por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","A defesa do alvo e dos inimigos próximos diminui em {CHANGE}% por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","A geração de mana do alvo e dos inimigos próximos diminui em {CHANGE}% por turno durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno. Este efeito pode estar ativo juntamente com efeitos que alteram o ataque de modo geral. Os ataques normais podem ficar até {MAXATTACK}% mais potentes com este efeito ativo."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","O invocador e os aliados próximos recebem {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno. Este efeito pode estar ativo juntamente com efeitos que alteram o ataque de modo geral. Os ataques normais podem ficar até {MAXATTACK}% mais potentes com este efeito ativo."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","O invocador recebe {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","O invocador recebe {ATTACK}% do ataque normal por {TURNS} turnos. O ataque normal aumenta em {CHANGE}% a cada turno. Este efeito pode estar ativo juntamente com efeitos que alteram o ataque de modo geral. Os ataques normais podem ficar até {MAXATTACK}% mais potentes com este efeito ativo."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","O invocador rouba {CURRENTMANASTEAL}% de mana gerado de todos os inimigos ao longo de {TURNS} turnos. Este efeito é removido quando o invocador é derrotado."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","O invocador rouba {CURRENTMANASTEAL}% de mana gerado dos inimigos atingidos por {TURNS} turnos. Este efeito é removido quando o invocador é derrotado."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Todos os inimigos recebem Queimadura Corrosiva por {TURNS} turnos. A Queimadura Corrosiva causa {DAMAGEPERTURN} de dano de queimadura e diminui a defesa do alvo em {CHANGE}% a cada turno."
@@ -2410,13 +2409,13 @@ Gosma Devoradora: remove todos os efeitos Crescimento e reforços dissipáveis, 
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","O invocador recebe uma Barreira do Luar por {TURNS} turnos, que reduz o dano da habilidade especial em até -{MAX}. A redução de dano varia de acordo com a defesa do defensor e o poder de ataque do atacante. O dano é reduzido em mais {ADDITIONALDAMAGEMODIFIER}% quando o atacante é do elemento Luz."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Todos os inimigos recebem uma Poção Misteriosa. Após {TURNS} turnos, a Poção Misteriosa explode e causa {DAMAGE} de dano ao alvo. Após a explosão, o alvo não pode ganhar mana por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos os aliados recebem {ATTACK}% do ataque normal por {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos os aliados de [##elementblue]Gelo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos os aliados de [##elementgreen]Natureza[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos os aliados de Gelo recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos os aliados de Natureza recebem {ATTACK}% do ataque normal por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","O invocador e os aliados próximos recebem {ATTACK}% do ataque normal por {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos os aliados de [##elementpurple]Trevas[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos os aliados de [##elementred]Fogo[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos os aliados de Trevas recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos os aliados de Fogo recebem {ATTACK}% do ataque normal por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","O invocador recebe {ATTACK}% de ataque normal por {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos os aliados de [##elementyellow]Luz[#] recebem {ATTACK}% do ataque normal por {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos os aliados de Luz recebem {ATTACK}% do ataque normal por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Os inimigos não contribuem para o dano da tropa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","O alvo e os inimigos próximos não contribuem para o dano da Tropa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Os inimigos nas bordas da formação inimiga não contribuem para o dano da tropa por {TURNS} turnos."
@@ -2651,7 +2650,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Todos os alvos atingidos são silenciados por {TURNS} turnos."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","O alvo do segundo acerto é silenciado por {TURNS} turnos."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","O alvo é silenciado por {TURNS} turnos."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos os inimigos adormecem e sofrem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","O alvo e os inimigos próximos recebem Elo Espiritual por {TURNS} turnos."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Todos os aliados se tornam Almas Conectadas por {TURNS} turnos. Os aliados com Almas Conectadas compartilham o dano recebido."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Todos os aliados se tornam Almas Conectadas por {TURNS} turnos. Os aliados com Almas Conectadas compartilham o dano recebido.
@@ -2908,3 +2907,14 @@ Insanidade
 "specials.v2.toon_tide.immuneelement.purple","Todos os aliados e inimigos de Trevas são imunes a esta habilidade especial."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Este efeito acontece apenas uma vez por ajudante Cabeça de Hidra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Quando o ajudante Cabeça de Hidra Renascida é derrotado, um aliado aleatório recebe um ajudante Cabeça de Hidra Renascida que herda os atributos do ajudante original."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Expurga com segurança todos os males de status do invocador."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Altera o elemento de todos os inimigos para [##elementred]Fogo[#] por {TURNS} turnos."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, restaura {REMOVALEFFECT2FIXEDPOWER} de vida."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","O alvo recebe {DAMAGE} de dano de sangramento por {TURNS} turnos. O invocador absorve como vida reforçada {ABSORBHEALING}% do dano de sangramento causado."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]Atrofia:[#] o alvo recebe {ATTACKINCREASE} de ataque."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","O alvo se transforma em um [#!]Vermental[#]. [#!]Vermentais[#] têm {ATTACK}% de ataque, {DEFENSE}% de defesa e a seguinte habilidade especial:
+ 
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]Aplica 75 [#!]Insanidade[#] a um aliado aleatório.
+[>]Remove o mal [#!]Vermental[#] do invocador."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Remove a doença [#!]Vermental[#] do invocador."

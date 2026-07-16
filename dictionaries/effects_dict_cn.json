@@ -2888,5 +2888,7 @@
     "^\\(Chance\\s+to\\s+Miss\\s+applies\\s+to\\s+offensive\\s+Special\\s+Skills\\.?\\s*\\)$": "(进攻型特殊技能也有相同几率落空。)",
     "^The\\s+target\\s+and\\s+nearby\\s+enemies\\s+get\\s+Soul\\s+Bound\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目标与附近敌人获得缚魂，持续\\1回合。",
     "^All\\s+damage\\s+received\\s+by\\s+the\\s+caster\\s+is\\s+dealt\\s+to\\s+all\\s+Soul\\s+Bound\\s+enemies\\.?\\s*$": "对所有缚魂敌人造成施法者受到的所有伤害。",
-    "^\\(Damage\\s+is\\s+shared\\s+between\\s+al\\s+Soul\\s+Bound\\s+enemies\\.?\\s*\\s+This\\s+effect\\s+will\\s+not\\s+share\\s+damage\\s+coming\\s+from\\s+other\\s+shared\\s+damage\\s+sources\\s+or\\s+counterattacks\\.?\\s*\\)$": "（所有缚魂敌人共同承受伤害。此效果不会再次分担来自其他源头的共享伤害或反击伤害。）"
+    "^\\(Damage\\s+is\\s+shared\\s+between\\s+al\\s+Soul\\s+Bound\\s+enemies\\.?\\s*\\s+This\\s+effect\\s+will\\s+not\\s+share\\s+damage\\s+coming\\s+from\\s+other\\s+shared\\s+damage\\s+sources\\s+or\\s+counterattacks\\.?\\s*\\)$": "（所有缚魂敌人共同承受伤害。此效果不会再次分担来自其他源头的共享伤害或反击伤害。）",
+    "^\\(After\\s+the\\s+character\\s+has\\s+received([+-]?\\s*\\d+\\s*%?)direct\\s+mana\\s+additions\\s+from\\s+Special\\s+Skills\\s+during\\s+a\\s+single\\s+turn,\\s+all\\s+subsequent\\s+direct\\s+mana\\s+additions\\s+done\\s+by\\s+Special\\s+Skills\\s+will\\s+have\\s+reduced\\s+power\\s+on\\s+the\\s+character\\.?\\s*\\)$": "（在单个回合内，当一名角色已经从特殊技能获得了\\1次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+    "^Stack\\s+\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+allies\\s+get\\s+an\\s+additional\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for\\s+each\\s+destroyed\\s+Fiend\\.?\\s*$": "叠加（最多：\\1层 ）：每摧毁一个恶魔，所有盟友额外获得\\2攻击力。"
 }

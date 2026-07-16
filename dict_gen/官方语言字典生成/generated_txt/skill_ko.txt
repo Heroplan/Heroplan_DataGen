@@ -513,7 +513,7 @@
  {MAXHITS}명의 무작위 적에게   {DAMAGE}% 추가 피해를 줍니다."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","{DAMAGE}%의 피해를 대상과 무작위 적 {MAXHITS}명에게 줍니다."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","{CHANCE}% 확률로 무작위 적을 최대 {MAXHITS}번까지 추가로 공격합니다. 추가 공격은 더 낮은 피해를 줍니다."
-"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","{DAMAGE}%의 피해를 대상과 무작위 적 하나에게 줍니다."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","{DAMAGE}%의 피해를 대상과 무작위 적 1명에게 줍니다."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","{DAMAGE}%의 피해를 무작위 적 {TOTALMAXHITS}명에게 줍니다."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","{CHANCE}% 확률로 무작위 적을 최대 {MAXHITS}번까지 추가로 공격합니다."
 "specials.v2.property.chainstrike.minordamage","추가로 소량의 피해를 무작위 적 {MAXHITS}명에게 줍니다."
@@ -666,11 +666,11 @@
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","모든 아군의 모든 상태 이상을 정화하고, 치유된 상태 이상 하나당 모든 아군의 마나를 {POWER}%만큼 증가시킵니다."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","모든 아군의 디버프를 뿌리뽑기합니다."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","모든 적의 강화 효과를 수확합니다."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]수확[#]은 각 대상의 {MAXREMOVALCOUNT}개의 강화 효과, 긍정적 중첩 또는 성장 효과를 안전하게 제거합니다. 여기에는 완고한 효과, 해제할 수 없는 강화 효과와 댄스 효과가 포함됩니다.
-[*]효과를 제거할 때마다 시전자의 HP가 {HEALTHBOOST}% 증가합니다. 증가한 HP는 최대 HP를 초과할 수 있습니다.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","수확은 각 대상의 {MAXREMOVALCOUNT}개의 강화 효과, 긍정적 중첩 또는 성장 효과를 안전하게 제거합니다. 여기에는 완고한 효과, 해제할 수 없는 강화 효과와 댄스 효과가 포함됩니다.
+효과를 제거할 때마다 시전자의 HP가 {HEALTHBOOST}% 증가합니다. 증가한 HP는 최대 HP를 초과할 수 있습니다.
 
-[*]안전 제거는 제거된 상태 강화 효과에 딸려 있는 부가 효과(예: 제거 시 발동하는 피해)를 무시합니다. 패시브 스킬이나 패밀리 효과와 같은 외부 효과는 여전히 발동할 수 있습니다.
-[*]성장 효과가 먼저 제거됩니다. 그 외의 효과는 가장 나중에 적용된 것부터 제거됩니다."
+안전 제거는 제거된 상태 강화 효과에 딸려 있는 부가 효과(예: 제거 시 발동하는 피해)를 무시합니다. 패시브 스킬이나 패밀리 효과와 같은 외부 효과는 여전히 발동할 수 있습니다.
+성장 효과가 먼저 제거됩니다. 그 외의 효과는 가장 나중에 적용된 것부터 제거됩니다."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","뿌리뽑기는 각 대상의 {MAXREMOVALCOUNT}개의 상태 이상 효과, 부정적 중첩 또는 쇠퇴 효과를 안전하게 제거합니다. 여기에는 정화 불가능한 상태 이상 효과와 댄스 효과가 포함됩니다.
 효과를 제거할 때마다 시전자의 HP가 {HEALTHBOOST}% 증가합니다. 증가한 HP는 최대 HP를 초과할 수 없습니다.
 안전 정화는 제거된 상태 이상 효과에 딸려 있는 부가 효과(예: 제거 시 발동하는 피해)를 무시합니다. 패시브 스킬이나 패밀리 효과와 같은 외부 효과는 여전히 발동할 수 있습니다.
@@ -857,7 +857,7 @@
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다.
 
-[*]효과의 지속 시간이 0으로 줄어들면 해당 효과는 자연스럽게 만료된 것으로 간주됩니다."
+효과의 지속 시간이 0으로 줄어들면 해당 효과는 자연스럽게 만료된 것으로 간주됩니다."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","지속 시간 변화는 정화 가능, 완고 및 정화 불가능한 효과에 영향을 미칩니다."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","시전자와 주변 아군에게 적용된 상태 이상 효과의 지속 시간을 {TURNS}턴 줄입니다."
@@ -898,7 +898,7 @@
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","대상의 모든 하수인을 파괴합니다. 이 효과는 메가 하수인에게 피해를 줍니다."
 "specials.v2.property.pre.ignoredodgewithchance","이 특수 스킬은 {IGNOREDODGECHANCE}% 확률로 회피 효과를 무시합니다."
 "specials.v2.property.pre.ignoredodgewithchance.always","이 특수 스킬은 회피 효과를 무시합니다."
-"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 무작위로 분배합니다."
+"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 분배합니다."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies","대상으로부터 {ABSPOWER}%의 마나를 훔쳐 모든 아군에게 나눠줍니다."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.allexceptcaster.allies","대상으로부터 {ABSPOWER}% 의 마나를 훔쳐 시전자를 제외한 아군에게 나눠줍니다."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.single.allies","시전자가 대상으로부터 {ABSPOWER}%의 마나를 훔쳐옵니다."
@@ -918,11 +918,10 @@
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
 "specials.v2.property.randomstatuseffects","다음 대체 효과 중 하나를 무작위로 시전합니다:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","{DAMAGE} HP를 훔칩니다. 
-[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.
+"specials.v2.property.ransack.extra","[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.
 [*]안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","모든 적을 약탈하여 체력과 강화 효과를 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","대상을 약탈할 때 HP와 상태 강화 효과를 훔칩니다."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","모든 적을 [#!]약탈[#]하여 [#!]{DAMAGE}[#]의 HP와 강화 효과를 각각 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","대상을 [#!]약탈[#]해서 [#!]{DAMAGE}[#]의 HP와 강화 효과를 훔칩니다."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","{DAMAGE} HP를 훔칩니다. 
 안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.
 안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
@@ -988,8 +987,8 @@
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","안전 정화는 제거된 상태 이상에서 제거 시 피해와 같은 2차 효과를 우회합니다. 패시브 스킬 및 패밀리 효과와 같은 외부 효과는 여전히 활성화될 수 있습니다."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","제거된 강화 효과 하나마다 {POWERPERREMOVALFROMTARGET}%의 피해가 감소합니다.
  완고 및 해제 불가능한 버프도 제거됩니다."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] 제거된 상태 이상 하나마다 HP 증폭이 [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] 감소합니다.
-[*] 완고 및 정화 불가능한 상태 이상도 제거됩니다."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","제거된 상태 이상 하나마다 HP 증폭이 {FIXEDPOWERPERREMOVALFROMTARGET} 감소합니다.
+ 완고 및 정화 불가능한 상태 이상도 제거됩니다."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","모든 적에게 걸린 강화 효과를 안전하게 해제하고, 제거된 강화 효과 하나마다 모든 아군의 마나가 {POWERPERREMOVAL}% 증가합니다."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","모든 아군의 모든 상태 이상을 안전하게 정화하고, 치유된 상태 이상 하나당 모든 아군의 마나를 {POWERPERREMOVAL}%만큼 증가시킵니다."
 "specials.v2.property.repeatspecial.blade_wings.random","스킬 시전이 성공한 후 무작위 적에게 {REPEATCHANCE}% 확률로 블레이드 윙을 다시 시전합니다.
@@ -1670,7 +1669,7 @@ HP {HEALTH}%
 방어력 {DEFENSE}.
 특수 스킬: 독니."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","{TURNS}턴 동안 명중한 적들이 모두 침묵 상태가 됩니다. 이 효과는 정화할 수 없습니다."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","모든 적들이 수면 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","적 대형의 가장자리에 있는 적들이 수면 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","대상이 수면 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","시전자를 제외한 모든 아군이 부드러운 살결 효과를 받습니다."
@@ -1970,9 +1969,9 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","{TURNS}턴 동안 대상과 근처 적의 공격력이 턴마다 {CHANGE}% 낮아집니다."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","{TURNS}턴 동안 대상과 근처 적의 방어력이 턴마다 {CHANGE}% 낮아집니다."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","{TURNS}턴 동안 대상과 근처 적의 마나 재생력이 턴마다 {CHANGE}% 낮아집니다."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","{TURNS}턴 동안 모든 아군이 {ATTACK}% 일반 공격력을 받습니다. 턴마다 일반 공격력이 {CHANGE}% 증가합니다."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","{TURNS}턴 동안 모든 아군이 {ATTACK}% 일반 공격력을 받습니다. 턴마다 일반 공격력이 {CHANGE}% 증가합니다. 이 효과는 전반적으로 공격력을 변경시키는 효과와 함께 활성화될 수 있습니다. 이 효과가 활성화된 동안 일반 공격력이 총 최대 {MAXATTACK}%까지 증가할 수 있습니다."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","시전자와 주변 아군은 {TURNS}턴 동안 일반 공격력이 {ATTACK}% 증가합니다. 일반 공격력은 매 턴 {CHANGE}%씩 추가로 증가합니다. 이 효과는 일반 공격력을 변경하는 다른 효과와 중첩될 수 있습니다. 이 효과가 활성화된 동안 일반 공격력은 최대 {MAXATTACK}%까지 증가할 수 있습니다."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","{TURNS}턴 동안 시전자가 {ATTACK}% 일반 공격력을 받습니다. 턴마다 일반 공격이 {CHANGE}% 증가합니다."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","{TURNS}턴 동안 시전자가 {ATTACK}% 일반 공격력을 받습니다. 턴마다 일반 공격이 {CHANGE}% 증가합니다. 이 효과는 전반적으로 공격력을 변경시키는 효과와 함께 활성화될 수 있습니다. 이 효과가 활성화된 동안 일반 공격력이 총 최대 {MAXATTACK}%까지 증가할 수 있습니다."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","시전자는 {TURNS}턴에 걸쳐 모든 적으로부터 생성된 마나의 {CURRENTMANASTEAL}%를 가져옵니다. 이 효과는 시전자가 쓰러지면 효과가 제거됩니다."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","시전자는 {TURNS}턴에 걸쳐 적중한 적으로부터 생성된 마나의 {CURRENTMANASTEAL}%를 가져옵니다. 이 효과는 시전자가 쓰러지면 효과가 제거됩니다."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","모든 적들이 {TURNS}턴 동안 부식성 화상을 받습니다. 부식성 화상은 턴마다 {DAMAGEPERTURN}의 화상 피해를 주고 대상의 방어력을 {CHANGE}% 감소시킵니다."
@@ -2409,13 +2408,13 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","{TURNS}턴 동안 시전자가 적의 특수 스킬 피해를 최대 {MAX}까지 감소시키는 월출 방어를 받습니다. 피해 감소량은 공격자의 공격력과 방어자의 방어력에 따라 다릅니다. 공격자가 신성 속성일 경우 피해량이 추가로 {ADDITIONALDAMAGEMODIFIER}% 더 감소합니다."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","모든 적이 신비한 물약을 받습니다. {TURNS}턴 후 신비한 물약은 폭발하며 대상에게 {DAMAGE}의 피해를 입힙니다. 폭발 후 대상은 {STATUSEFFECT1TURNS}턴 동안 마나를 얻지 못합니다."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","{TURNS}턴 동안 모든 아군이 일반 공격력 {ATTACK}% 효과를 받습니다."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","모든 [##elementblue]얼음[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","모든 [##elementgreen]자연[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","모든 얼음 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","모든 자연 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","{TURNS}턴 동안 시전자와 주변 아군들이 일반 공격력 {ATTACK}% 효과를 받습니다."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","모든 [##elementpurple]어둠[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","모든 [##elementred]화염[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","모든 어둠 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","모든 화염 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","{TURNS}턴 동안 시전자가 일반 공격력 {ATTACK}% 효과를 받습니다."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","모든 [##elementyellow]신성[#] 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","모든 신성 아군이 {TURNS}턴 동안 일반 공격력 {ATTACK}% 상승 효과를 받습니다."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","모든 적이 {TURNS}턴 동안 부대에 피해를 가하지 않습니다."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","대상과 주변 적이 {TURNS}턴 동안 부대에 피해를 가하지 않습니다."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","적 대형의 가장자리의 적이 {TURNS}턴 동안 부대에 피해를 가하지 않습니다."
@@ -2650,7 +2649,7 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","{TURNS}턴 동안 모든 적중한 대상이 침묵에 걸립니다."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","{TURNS}턴 동안 두 번째 타격의 대상이 침묵에 걸립니다."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","{TURNS}턴 동안 대상이 침묵에 걸립니다."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","모든 적들이 수면 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","{TURNS}턴 동안 대상과 주변 적들이 영혼 결속을 받습니다."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","모든 동료가 {TURNS}턴 동안 영혼 연결됩니다. 영혼 연결된 동료는 받는 피해를 공유합니다."
 "specials.v2.statuseffect.minor.soulconnection.all.both","모든 동료가 {TURNS}턴 동안 영혼 연결 상태가 됩니다. 영혼 연결 상태의 동료는 피해를 공유합니다.
@@ -2907,3 +2906,14 @@ HP {HEALTH}%
 "specials.v2.toon_tide.immuneelement.purple","모든 암흑 속성 아군과 적은 이 특수 스킬에 면역입니다."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","아 효과는 히드라 머리 하수인 하나 당 한 번만 발생합니다."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","히드라 머리 하수인이 쓰러지면 무작위 아군 하나가 원래 하수인의 능력치를 물려 받은 부활한 히드라 머리 하수인을 받습니다."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","시전자의 모든 상태 이상 효과를 안전하게 정화합니다."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","모든 적의 속성이 {TURNS}턴 동안 [##elementred]화염[#]으로 변합니다."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","모든 아군이 {TURNS}턴 후에 {REMOVALEFFECT1FIXEDPOWER} HP를 회복합니다. 만약 그 전에 이 효과가 사라지거나 교체되면 대신 {REMOVALEFFECT2FIXEDPOWER} HP를 회복합니다."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","대상이 {TURNS}턴 동안 {DAMAGE}의 출혈 피해를 입습니다. 가한 출혈 피해의 {ABSORBHEALING}%를 시전자가 증가된 HP로 흡수합니다."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]쇠퇴:[#] 목표물이 {ATTACKINCREASE} 공격력을 받습니다."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","대상이 [#!]마인드웜[#] 상태가 됩니다. [#!]마인드웜[#]은 {ATTACK}% 공격력, {DEFENSE}% 방어력을 받으며 다음 특수 스킬을 갖습니다:
+ 
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]무작위 아군 한 명에게 75 [#!]광기[#]를 부여합니다.
+[>]시전자로부터 [#!]마인드웜[#] 상태 이상을 제거합니다."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","시전자의 [#!]마인드웜[#] 상태 이상을 제거합니다."

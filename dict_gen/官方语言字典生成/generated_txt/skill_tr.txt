@@ -658,11 +658,11 @@ Karanlık Küp, hedefin maksimum sağlığını {REDUCTION} düşürür. Efekt, 
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Tüm müttefiklerden tüm durum engellerini arındırır ve arındırılan her engel için tüm müttefiklerin manasını %{POWER} artırır."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Tüm müttefiklerden Kökten Sökme debuff'ları."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Tüm düşmanlardan buff toplar."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]Hasat[#] her bir hedeften {MAXREMOVALCOUNT} buff'ı, olumlu İstifi veya Büyüme efektini güvenle kaldırır. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri de dâhildir.
-[*]Eylemci, kaldırılan her efekt için %{HEALTHBOOST} artırılmış sağlık alır. Artırılmış sağlık, maks. SP'yi geçebilir.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Hasat her bir hedeften {MAXREMOVALCOUNT} buff'ı, olumlu İstifi veya Büyüme efektini güvenle kaldırır. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri de dâhildir.
+Eylemci, kaldırılan her efekt için %{HEALTHBOOST} artırılmış sağlık alır. Artırılmış sağlık, maks. SP'yi geçebilir.
 
-[*]Güvenli kaldırma, kaldırılan durum efekti buff'larındaki kaldırınca hasar alma gibi ikincil efektleri atlatır. Pasif yetenekler ve aile efektleri gibi dış efektler yine de etkinleşebilir.
-[*]İlk önce büyüme efektleri kaldırılır. Diğer efektlerde, en son uygulanan ilk önce kaldırılır."
+Güvenli kaldırma, kaldırılan durum efekti buff'larındaki kaldırınca hasar alma gibi ikincil efektleri atlatır. Pasif yetenekler ve aile efektleri gibi dış efektler yine de etkinleşebilir.
+İlk önce büyüme efektleri kaldırılır. Diğer efektlerde, en son uygulanan ilk önce kaldırılır."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Kökten Sökme; her bir hedeften {MAXREMOVALCOUNT} durum engelini, olumsuz İstifi veya Soldurma efektini güvenle kaldırır. Bunlara, arındırılamaz durum engelleri ve dans efektleri de dâhildir.
 Eylemci, kaldırılan her efekt için %{HEALTHBOOST} güçlendirilmiş sağlık alır. Güçlendirilmiş sağlık, maks. SP'yi geçebilir.
 
@@ -850,7 +850,7 @@ Herhangi bir efektin süresi sıfırlandıysa efektin doğal olarak süresi dolm
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler.
 
-[*]Herhangi bir efektin süresi sıfırlandıysa efektin doğal olarak süresi dolmuş sayılır."
+Herhangi bir efektin süresi sıfırlandıysa efektin doğal olarak süresi dolmuş sayılır."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","Süre değişikliği; arındırılabilen, İnatçı ve arındırılamayan efektleri etkiler."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Eylemcinin ve yakındaki müttefiklerin aktif durum engellerinin süresini {TURNS} tur azaltır."
@@ -891,7 +891,7 @@ Saldırıyı ve savunmayı etkileyen buff'lar ve durum engelleri hasar ölçekle
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Hedefin tüm Hizmetkarlarını yok eder. Bu efekt Mega Hizmetkarlara hasar verir."
 "specials.v2.property.pre.ignoredodgewithchance","Bu Özel Yeteneğin Savuşturma efektlerini yok saymak için %{IGNOREDODGECHANCE} şansı bulunur."
 "specials.v2.property.pre.ignoredodgewithchance.always","Bu Özel Yetenek, Savuşturma efektlerini yok sayar."
-"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve müttefiklere rastgele dağıtır."
+"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve onu müttefiklere dağıtır."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies","Hedeften %{ABSPOWER} mana çalar ve bunu müttefiklere dağıtır."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.allexceptcaster.allies","Hedeften %{ABSPOWER} mana çalar ve bunu eylemci dışındaki tüm müttefiklere dağıtır."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.single.allies","Eylemci, hedeften %{ABSPOWER} mana çalar."
@@ -911,11 +911,10 @@ Saldırıyı ve savunmayı etkileyen buff'lar ve durum engelleri hasar ölçekle
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: %{1}"
 "specials.v2.property.randomstatuseffects","Rastgele şu alternatiflerden birini uygular:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","{DAMAGE} sağlık çalar.
-[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.
+"specials.v2.property.ransack.extra","[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.
 [*]Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","Tüm düşmanları Yağmalar, sağlık ve buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","Hedefi Yağmalayarak sağlık ve buff'lar çalar."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","Tüm düşmanları [#!]Yağmalar[#], her birinden [#!]{DAMAGE}[#] sağlık ve bir buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","Hedefi [#!]Yağmalayarak[#] [#!]{DAMAGE}[#] sağlık ve bir buff çalar."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","{DAMAGE} sağlık çalar.
 Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.
 Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
@@ -981,8 +980,8 @@ Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efe
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","Güvenli arındırma, kaldırılan durum engelinin kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri gibi dış efektler yine de etkinleşebilir."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Hasar, kaldırılan her buff için %{POWERPERREMOVALFROMTARGET} azalır.
  İnatçı ve Bozulamayan buff'lar da kaldırılır."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] Sağlık artışı, kaldırılan her engel için [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] azalır.
-[*] İnatçı ve Arındırılamayan engeller de kaldırılır."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Sağlık artışı, kaldırılan her engel için {FIXEDPOWERPERREMOVALFROMTARGET} azalır.
+ İnatçı ve Arındırılamayan engeller de kaldırılır."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Tüm düşmanların buff'larını güvenli bir şekilde bozar ve kaldırılan her buff için tüm müttefiklerin manasını %{POWERPERREMOVAL} artırır."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Tüm müttefiklerden tüm durum engellerini güvenle arındırır ve arındırılan her engel için tüm müttefiklerin manasını %{POWERPERREMOVAL} artırır."
 "specials.v2.property.repeatspecial.blade_wings.random","Başarılı bir uygulamadan sonra %{REPEATCHANCE} şansla rastgele bir hedefe tekrar Kılıç Kanatlar uygular.
@@ -1663,7 +1662,7 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 {DEFENSE} savunma.
 Özel Yetenek: Zehirli Isırık."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Vurulan tüm hedefler {TURNS} tur boyunca susturulur. Bu efekt arındırılamaz."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Tüm düşmanlar uykuya dalar ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","Düşman oluşumunun kenarlarındaki düşmanlar uykuya dalar ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","Hedef uykuya dalar ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Eylemci hariç tüm müttefikler Yumuşak Deri alır."
@@ -1965,9 +1964,9 @@ Her Kemik Atma, hedefe bir İskelet Tilki Canavarı çağırır. Canavar, her tu
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","Hedefin ve yakındaki düşmanların saldırısı, {TURNS} tur boyunca her turda %{CHANGE} azaltılır."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","Hedefin ve yakındaki düşmanların savunması, {TURNS} tur boyunca her turda %{CHANGE} azaltılır."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Hedefin ve yakındaki düşmanların mana üretimi, {TURNS} tur boyunca her turda %{CHANGE} azaltılır."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tüm müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tüm müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır. Bu efekt, genel olarak saldırıyı değiştiren efektlere ek olarak etkinleştirilebilir. Bu efekt aktifken normal saldırıların, toplamda maksimum %{MAXATTACK} artırılmış gücü olur."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","Eylemci ve yakındaki müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır. Bu efekt, genel olarak saldırıyı değiştiren efektlere ek olarak etkinleştirilebilir. Bu efekt aktifken normal saldırıların, toplamda maksimum %{MAXATTACK} artırılmış gücü olur."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Eylemci {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Eylemci {TURNS} tur boyunca %{ATTACK} normal saldırı alır. Normal saldırı, her turda %{CHANGE} artırılır. Bu efekt, genel olarak saldırıyı değiştiren efektlere ek olarak etkinleştirilebilir. Bu efekt aktifken normal saldırıların, toplamda maksimum %{MAXATTACK} artırılmış gücü olur."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","Eylemci, {TURNS} tur boyunca tüm düşmanlardan üretilen mananın %{CURRENTMANASTEAL} kadarını çalar. Eylemci yenilgiye uğrarsa bu efekt kaldırılır."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","Eylemci, {TURNS} tur boyunca vurulan düşmanlardan üretilen mananın %{CURRENTMANASTEAL} kadarını çalar. Eylemci yenilgiye uğrarsa bu efekt kaldırılır."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Tüm düşmanlar {TURNS} tur boyunca Yıpratıcı Yakma alır. Yıpratıcı Yakma, {DAMAGEPERTURN} Yakma hasarı verir ve hedefin savunmasını her turda %{CHANGE} azaltır."
@@ -2404,13 +2403,13 @@ Her Astral Işın, vurulan düşmanın Maks. Sağlığını {REDUCTION2} azaltı
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","{TURNS} tur boyunca eylemci, gelen Özel Yetenek hasarını en fazla {MAX} azaltan Ay Doğumu Koğuşu alır. Hasar düşüşü, savunmacının savunmasına ve saldırganın saldırı gücüne göre ölçeklenir. Saldırgan Kutsal elementinden olduğunda hasarı ek olarak %{ADDITIONALDAMAGEMODIFIER} daha azaltır."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Tüm düşmanlar bir Gizemli İksir alır. {TURNS} turdan sonra Gizemli İksir patlar ve hedefe {DAMAGE} hasar verir. Patlamadan sonra hedef, {STATUSEFFECT1TURNS} tur boyunca mana kazanamaz."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Tüm müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Tüm [##elementblue]Buz[#] müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Tüm [##elementgreen]Doğa[#] müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Tüm Buz müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Tüm Doğa müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Eylemci ve yakındaki müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Tüm [##elementpurple]Karanlık[#] müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Tüm [##elementred]Ateş[#] müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Tüm Karanlık müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Tüm Ateş müttefikleri {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Eylemci {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Tüm [##elementyellow]Kutsal[#] müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Tüm Kutsal müttefikler {TURNS} tur boyunca %{ATTACK} normal saldırı alır."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Hiçbir düşman, {TURNS} tur boyunca Birlik hasarına katkıda bulunmaz."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Hedef ve yakındaki düşmanlar {TURNS} tur boyunca Birlik hasarına katkıda bulunmaz."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Düşman oluşumunun kenarındaki düşmanlar, {TURNS} tur boyunca Birlik hasarına katkıda bulunmaz."
@@ -2645,7 +2644,7 @@ Dirilişten sonra tüm düşmanlar {STATUSEFFECT1TURNS} tur boyunca %{STATUSEFFE
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Vurulan tüm hedefler {TURNS} tur boyunca susturulur."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","İkinci darbenin hedefi {TURNS} tur boyunca susturulur."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","Hedef {TURNS} tur boyunca susturulur."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Tüm düşmanlar uykuya dalar ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","Hedefe ve yakındaki düşmanlara {TURNS} tur boyunca Ruh Sınırı uygulanır."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Tüm müttefikler {TURNS} tur boyunca Ruh Bağlı olur. Ruh Bağlı müttefikler alınan hasarı paylaşır."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Tüm müttefikler {TURNS} tur boyunca Ruh Bağlı olur. Ruh Bağlı müttefikler alınan hasarı paylaşır.
@@ -2902,3 +2901,14 @@ Kahramanın Deliliği, bir Özel Yetenekle doğrudan iyileştirilerek düşürü
 "specials.v2.toon_tide.immuneelement.purple","Tüm Karanlık müttefikler ve düşmanlar bu Özel Yeteneğe karşı bağışıklık kazanır."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Bu efekt yalnızca her Hidra Başı Hizmetkarı için bir defa gerçekleşebilir."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Hidra Başı Hizmetkarı yenildiğinde rastgele bir müttefik, asıl Hizmetkarın istatistiklerini devralan bir Yeniden Doğan Hidra Başı Hizmetkarı alır."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Eylemciden tüm durum engellerini güvenle arındırır."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","{TURNS} boyunca tüm düşmanların elementini [##elementred]Ateş[#] olarak değiştirir."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Tüm müttefikler {TURNS} turdan sonra {REMOVALEFFECT1FIXEDPOWER} sağlık yeniler. Efekt, süre bitmeden kaldırılırsa veya değiştirilirse {REMOVALEFFECT2FIXEDPOWER} sağlık yeniler."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Hedef {TURNS} tur boyunca {DAMAGE} Kanama hasarı alır. Eylemci, verilen Kanama hasarının %{ABSORBHEALING} kadarını güçlendirilmiş sağlık olarak emer."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]Soldurma:[#] Hedef {ATTACKINCREASE} saldırı alır."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Hedef bir [#!]Zihin Kurduna[#] dönüşür. [#!]Zihin Kurtları[#] %{ATTACK} saldırıya, %{DEFENSE} savunmaya ve aşağıdaki Özel Yeteneğe sahiptir:
+ 
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]Rastgele bir müttefike 75 [#!]Delilik[#] uygular.
+[>]Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."

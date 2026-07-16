@@ -114699,6 +114699,75 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Zhakiturion",
+        "fancy_name": "Astral Demon Chief Justiciar",
+        "AetherPower": "Attack Up",
+        "color": "Holy",
+        "class": "Monk",
+        "speed": "Average",
+        "skill": "Book of Judgement",
+        "source": "Astral Summon",
+        "Release date": "2026-07-15",
+        "specialId": "book_of_judgement",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_zhakiturion",
+        "star": 5,
+        "power": 1344,
+        "attack": 1398,
+        "defense": 1411,
+        "health": 2393,
+        "effects": [
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
+            "All allies get 5% mana for each destroyed Fiend. (After the character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on the character.)",
+            "Stack (Max: 10): All allies get an additional +10% attack for each destroyed Fiend.",
+            "Deals 575% damage to the target and minor damage to all other enemies.",
+            "Heals all allies for 20% of damage dealt."
+        ],
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": 1866,
+        "lb1": {
+            "attack": 1507,
+            "defense": 1520,
+            "health": 2579,
+            "power": 1439
+        },
+        "lb2": {
+            "attack": 1724,
+            "defense": 1739,
+            "health": 2951,
+            "power": 1628
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - All",
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Zhang Fei",
         "fancy_name": "Merciless General",
         "AetherPower": "Attack Up",
@@ -114723,7 +114792,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1866,
+        "originalIndex": 1867,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -114784,7 +114853,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1867,
+        "originalIndex": 1868,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -114843,7 +114912,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1868,
+        "originalIndex": 1869,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -114906,7 +114975,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1869,
+        "originalIndex": 1870,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -114966,7 +115035,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1870,
+        "originalIndex": 1871,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -115026,7 +115095,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1871,
+        "originalIndex": 1872,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -115057,30 +115126,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Zhakiturion",
-        "fancy_name": "Astral Demon Chief Justiciar",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "astral_demon_zhakiturion",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "astral_demons",
-        "costume_id": 0,
-        "originalIndex": 1872,
-        "cn_skill_info": []
     },
     {
         "name": "Chilazar",

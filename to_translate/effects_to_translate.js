@@ -18267,6 +18267,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
+        "effects": [
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
+            "All allies get 5% mana for each destroyed Fiend. (After the character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on the character.)",
+            "Stack (Max: 10): All allies get an additional +10% attack for each destroyed Fiend.",
+            "Deals 575% damage to the target and minor damage to all other enemies.",
+            "Heals all allies for 20% of damage dealt."
+        ]
+    },
+    {
         "heroId": "kingdom_zhang_fei",
         "name": "Zhang Fei",
         "effects": [
@@ -18321,11 +18332,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "astral_demon_zhakiturion",
-        "name": "Zhakiturion",
-        "effects": []
     },
     {
         "heroId": "vegetable_chilazar",

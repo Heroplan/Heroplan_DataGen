@@ -510,7 +510,7 @@ Statuseffecten die invloed hebben op ontvangen genezing, hebben ook effect op de
  Brengt {DAMAGE}% schade toe aan {MAXHITS} willekeurige vijanden."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Brengt {DAMAGE}% schade toe aan het doelwit en {MAXHITS} willekeurige vijanden."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","Heeft {CHANCE}% kans op extra aanvallen tegen willekeurige vijanden tot maximaal {MAXHITS} keer. Extra aanvallen doen niet veel schade."
-"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","Brengt {DAMAGE}% schade toe aan het doelwit en een willekeurige vijand."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","Brengt {DAMAGE}% schade toe aan het doelwit en één willekeurige vijand."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Brengt {DAMAGE}% schade toe aan {TOTALMAXHITS} willekeurige vijanden."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","Heeft {CHANCE}% kans op extra aanvallen tegen willekeurige vijanden tot maximaal {MAXHITS} keer."
 "specials.v2.property.chainstrike.minordamage","Brengt minimale extra schade toe aan {MAXHITS} willekeurige vijanden."
@@ -663,11 +663,11 @@ Richt {POWERPERTILE}% extra schade aan voor elk vuurschild op het bord, tot maxi
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Zuivert veilig alle statuseffecten van alle bondgenoten en verhoogt de mana van alle bondgenoten met {POWER}% voor elk gezuiverd effect."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Uitroeiingsdebuffs van alle bondgenoten."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Oogst oppeppers van alle vijanden."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Met [#!]oogsten[#] worden maximaal {MAXREMOVALCOUNT} oppeppers, positieve cumulatieve effecten of groei-effecten veilig verwijderd van elk doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.
-[*]De spreukspreker ontvangt een boost van {HEALTHBOOST}% gezondheid voor elk verwijderd effect. De verhoogde gezondheid kan hoger zijn dan de maximale gezondheid.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Met oogsten worden maximaal {MAXREMOVALCOUNT} oppeppers, positieve cumulatieve effecten of groei-effecten veilig verwijderd van elk doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.
+De spreukspreker ontvangt een boost van {HEALTHBOOST}% gezondheid voor elk verwijderd effect. De verhoogde gezondheid kan hoger zijn dan de maximale gezondheid.
 
-[*]Veilig verwijderen omzeilt secundaire effecten, zoals schade bij verwijdering, die optreden bij het verwijderen van oppeppers door statuseffecten. Externe effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn.
-[*]Groei-effecten worden het eerst verwijderd. Bij andere effecten wordt het laatste effect het eerst verwijderd."
+Veilig verwijderen omzeilt secundaire effecten, zoals schade bij verwijdering, die optreden bij het verwijderen van oppeppers door statuseffecten. Externe effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn.
+Groei-effecten worden het eerst verwijderd. Bij andere effecten wordt het laatste effect het eerst verwijderd."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Met uitroeien worden maximaal {MAXREMOVALCOUNT} statusaandoeningen, negetieve cumulatieve effecten of verwerkingseffecten veilig verwijderd van elk doelwit. Dit is inclusief niet-zuiverbare statusaandoeningen en danseffecten.
 De spreukspreker ontvangt een boost van {HEALTHBOOST}% gezondheid voor elk verwijderd effect. De verhoogde gezondheid kan hoger zijn dan de maximale gezondheid.
 Veilig zuiveren omzeilt secundaire effecten, zoals schade bij verwijdering, die optreden bij het verwijderen van statusaandoeningen. Externe effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn.
@@ -854,7 +854,7 @@ Als de duur van een effect de nul bereikt, wordt het effect beschouwd als verlop
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","De tijdsaanpassing is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten.
 
-[*]Als de duur van een effect de nul bereikt, wordt het effect beschouwd als verlopen."
+Als de duur van een effect de nul bereikt, wordt het effect beschouwd als verlopen."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","De verandering van de duur is van invloed op zuiverbare, hardnekkige en niet-zuiverbare effecten."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Verkort de duur van actieve statuseffecten van de spreukspeker en bondgenoten in de buurt met {TURNS} beurten."
@@ -895,7 +895,7 @@ Oppeppers en statuseffecten die aanval of verdediging beïnvloeden, hebben geen 
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Vernietigt alle volgelingen van het doelwit. Dit effect brengt schade toe aan megavolgelingen."
 "specials.v2.property.pre.ignoredodgewithchance","Deze speciale vaardigheid heeft een kans van {IGNOREDODGECHANCE}% om ontwijkingseffecten te negeren."
 "specials.v2.property.pre.ignoredodgewithchance.always","Deze speciale vaardigheid negeert ontwijkingseffecten."
-"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het willekeurig onder bondgenoten."
+"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het onder bondgenoten."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies","Steelt {ABSPOWER}% mana van het doelwit en verspreidt het onder bondgenoten."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.allexceptcaster.allies","Steelt {ABSPOWER}% mana van het doelwit en verspreidt het over alle bondgenoten met uitzondering van de spreukspreker."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.single.allies","De spreukspreker steelt {ABSPOWER}% mana van het doelwit."
@@ -915,11 +915,10 @@ Oppeppers en statuseffecten die aanval of verdediging beïnvloeden, hebben geen 
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
 "specials.v2.property.randomstatuseffects","Past willekeurig een van de volgende alternatieven toe:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","Steelt {DAMAGE} gezondheid.
-[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.
+"specials.v2.property.ransack.extra","[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.
 [*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","Plundert alle vijanden, steelt gezondheid en oppeppers, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","Plundert het doelwit, steelt gezondheid en oppeppers."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Plundert[#] alle vijanden, steelt van elk [#!]{DAMAGE}[#] gezondheid en een oppepper, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Plundert[#] het doelwit, steelt [#!]{DAMAGE}[#] gezondheid en een oppepper."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Steelt {DAMAGE} gezondheid.
 Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.
 Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
@@ -985,8 +984,8 @@ Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwi
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","Veilig zuiveren omzeilt secundaire effecten, zoals schade bij verwijdering, die optreden bij het verwijderen van een statusaandoening. Externe effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Schade wordt verminderd met {POWERPERREMOVALFROMTARGET}% voor iedere verwijderde oppepper.
  Hardnekkige effecten en niet-verwijderbare oppeppers worden ook verwijderd."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] De gezondheidsboost wordt verminderd met [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] voor iedere verwijderde aandoening.
-[*] Hardnekkige en niet-zuiverbare aandoeningen worden ook verwijderd."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","De gezondheidsboost wordt verminderd met {FIXEDPOWERPERREMOVALFROMTARGET} voor iedere verwijderde aandoening.
+ Hardnekkige en niet-zuiverbare aandoeningen worden ook verwijderd."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Verwijdert veilig oppeppers van alle vijanden en verhoogt de mana van alle bondgenoten met {POWERPERREMOVAL}% voor elke verwijderde oppepper."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Zuivert veilig alle statusaandoeningen van alle bondgenoten en verhoogt de mana van alle bondgenoten met {POWERPERREMOVAL}% voor elke gezuiverde aandoening."
 "specials.v2.property.repeatspecial.blade_wings.random","Heeft na een succesvol gebruik {REPEATCHANCE}% kans om zwaardvleugels nogmaals toe te passen op een willekeurig doelwit.
@@ -1667,7 +1666,7 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 {DEFENSE} verdediging
 Speciale vaardigheid: gifbeet"
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Alle getroffen doelwitten worden gedurende {TURNS} beurten verstomd. Dit effect kan niet worden gezuiverd."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle vijanden vallen in slaap en alle schade die de slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","De vijanden aan de randen van de vijandelijke formatie vallen in slaap en ze lopen dan {DAMAGEMODIFIER}% meer schade op."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","Het doelwit valt in slaap en alle schade die het slapende doelwit oploopt, is {DAMAGEMODIFIER}% hoger."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Alle bondgenoten behalve de spreukspreker krijgen zachte huid."
@@ -1969,9 +1968,9 @@ De skeletvosdemon absorbeert genezing. Hij verdwijnt nadat een hoeveelheid gezon
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","De aanvalskracht van het doelwit en vijanden in de buurt wordt verlaagd met {CHANGE}% per beurt gedurende {TURNS} beurten."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","De verdediging van het doelwit en vijanden in de buurt wordt verlaagd met {CHANGE}% per beurt gedurende {TURNS} beurten."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","De manarecuperatie van het doelwit en vijanden in de buurt wordt verlaagd met {CHANGE}% per beurt gedurende {TURNS} beurten."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd. Dit effect kan actief zijn naast effecten die de aanvalskracht in het algemeen wijzigen. Normale aanvallen kunnen maximaal {MAXATTACK}% krachtiger zijn terwijl dit effect actief is."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","De spreukspreker en bondgenoten in de buurt krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd. Dit effect kan actief zijn naast effecten die de aanvalskracht in het algemeen wijzigen. Normale aanvallen kunnen maximaal {MAXATTACK}% krachtiger zijn terwijl dit effect actief is."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","De spreukspreker krijgt {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","De spreukspreker krijgt {TURNS} beurten lang {ATTACK}% normale aanvalskracht. De normale aanvalkracht wordt elke beurt met {CHANGE}% verhoogd. Dit effect kan actief zijn naast effecten die de aanvalskracht in het algemeen wijzigen. Normale aanvallen kunnen maximaal {MAXATTACK}% krachtiger zijn terwijl dit effect actief is."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","De spreukspreker steelt {TURNS} beurten lang {CURRENTMANASTEAL}% ontvangen mana van alle vijanden. Dit effect verdwijnt als de spreukspreker wordt verslagen."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","De spreukspreker steelt {TURNS} beurten lang {CURRENTMANASTEAL}% ontvangen mana van getroffen vijanden. Dit effect verdwijnt als de spreukspreker wordt verslagen."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Alle vijanden lijden gedurende {TURNS} beurten bijtende vuurschade. De bijtende vuurschade brengt elke beurt {DAMAGEPERTURN} vuurschade toe en verlaagt de verdediging van het doelwit met {CHANGE}%."
@@ -2408,13 +2407,13 @@ Elke astrale straal vermindert de maximale gezondheid van de geraakte vijand met
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","De spreukspreker krijgt gedurende {TURNS} beurten een maanopkomstbescherming die schade door speciale vaardigheden vermindert met maximaal -{MAX}. power. Schadevermindering is afhankelijk van de verdediging van de verdediger en de aanval van de aanvaller. Vermindert schade met nog eens {ADDITIONALDAMAGEMODIFIER}% als de aanvaller van het element heilig is."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Alle vijanden ontvangen een verrassingsdrankje. Na {TURNS} beurten ontploft het verrassingsdrankje en brengt {DAMAGE} schade toe aan het doelwit. Na de ontploffing kan het doelwit {STATUSEFFECT1TURNS} beurten lang geen mana krijgen."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Alle bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Alle [##elementblue]ijsbondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Alle [##elementgreen]natuurbondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Alle ijsbondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Alle natuurbondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","De held en bondgenoten in de buurt krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Alle [##elementpurple]duistere bondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Alle [##elementred]vuurbondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Alle duistere bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Alle vuurbondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","De spreukspreker krijgt {TURNS} beurten lang {ATTACK}% aanvalskracht voor normale aanvallen."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Alle [##elementyellow]heilige bondgenoten[#] krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Alle heilige bondgenoten krijgen {TURNS} beurten lang {ATTACK}% normale aanvalskracht."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Alle vijanden dragen {TURNS} beurten lang niet bij aan schade aan troepen."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Het doelwit en vijanden in de buurt dragen {TURNS} beurten lang niet bij aan schade aan troepen."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","De vijanden aan de randen van de vijandelijke formatie dragen {TURNS} beurten lang niet bij aan schade aan troepen."
@@ -2649,7 +2648,7 @@ Op het moment dat de spreukspreker wordt teruggebracht krijgen alle vijanden {ST
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Alle getroffen doelwitten zijn {TURNS} beurten lang verstomd."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","Het doelwit van de tweede treffer is {TURNS} beurten lang verstomd."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","Het doelwit is {TURNS} beurten lang verstomd."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle vijanden vallen in slaap en alle schade die de slapende vijand oploopt, is {DAMAGEMODIFIER}% hoger."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","Het doelwit en vijanden in de buurt worden {TURNS} beurten lang zielgebonden."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Alle bondgenoten worden {TURNS} beurten lang zielgebonden. Zielgebonden bondgenoten delen opgelopen schade met elkaar."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Alle bondgenoten worden {TURNS} beurten lang zielgebonden. Zielgebonden bondgenoten delen opgelopen schade met elkaar.
@@ -2906,3 +2905,14 @@ De waanzin van een held kan worden verminderd door directe genezing van een spec
 "specials.v2.toon_tide.immuneelement.purple","Alle Duistere bondgenoten en vijanden zijn immuun voor deze speciale vaardigheid."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Dit effect kan slechts één keer per hydrahoofdvolgeling plaatsvinden."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Wanneer de hydrahoofdvolgeling wordt verslagen, krijgt een willekeurige bondgenoot een herboren hydrahoofdvolgeling met de statistieken van de oorspronkelijke volgeling."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Zuivert veilig alle statuseffecten van de spreukspreker."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Verandert het element van alle vijanden {TURNS} beurten lang in [##elementred]vuur[#]."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Alle bondgenoten herstellen na {TURNS} beurten {REMOVALEFFECT1FIXEDPOWER} gezondheid. Als het effect voortijdig verwijderd of vervangen wordt, herstelt het in plaats daarvan {REMOVALEFFECT2FIXEDPOWER} gezondheid."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Het doelwit loopt gedurende {TURNS} beurten {DAMAGE} bloedschade op. De spreukspreker absorbeert {ABSORBHEALING}% van de toegebrachte bloedschade als extra gezondheid."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]Verwelking[#]: het doelwit krijgt {ATTACKINCREASE} aanval."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Het doelwit verandert in een [#!]geestworm[#]. De [#!]geestwormen[#] hebben {ATTACK}% aanvalskracht, {DEFENSE}% verdediging en de volgende speciale vaardigheid:
+ 
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]Brengt 75 [#!]waanzin[#] toe aan één willekeurige bondgenoot.
+[>]Verwijdert de [#!]geestwormaandoening[#] van de spreukspreker."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Verwijdert de [#!]geestworm[#]aandoening van de spreukspreker."

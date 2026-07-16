@@ -14292,6 +14292,15 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
+        "passives": [
+            "阻碍法力：通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少 -80%。此效果适用于战场上的所有敌人。",
+            "抵抗负面法力效果：此角色免疫法力减损，以及影响法力生成的状态异常和负面效果叠加，包括禁用法力或偷取法力的状态异常。",
+            "完美精准度：该角色的特殊技能必定命中目标。"
+        ]
+    },
+    {
         "heroId": "kingdom_zhang_fei",
         "name": "Zhang Fei",
         "passives": []
@@ -14336,11 +14345,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "astral_demon_zhakiturion",
-        "name": "Zhakiturion",
-        "passives": []
     },
     {
         "heroId": "vegetable_chilazar",

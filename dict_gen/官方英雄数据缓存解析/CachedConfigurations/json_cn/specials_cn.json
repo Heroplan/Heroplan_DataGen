@@ -59655,7 +59655,7 @@
             "id": "burn_chilazar",
             "sideAffected": "Enemies",
             "statusTargetType": "SingleAndGreen",
-            "turns": 2
+            "turns": 3
           },
           {
             "id": "stacking_attack_chilazar",
@@ -74948,5 +74948,5 @@
       }
     ]
   },
-  "specialsConfigId": 3418898757
+  "specialsConfigId": 2026960457
 }

@@ -20673,7 +20673,6 @@
         "id": "com.smallgiantgames.empires.xp_pyramid_1a",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20713,7 +20712,6 @@
         "id": "com.smallgiantgames.empires.xp_pyramid_1b",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20738,7 +20736,6 @@
         "id": "com.smallgiantgames.empires.xp_pyramid_2a",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20783,7 +20780,6 @@
         "id": "com.smallgiantgames.empires.xp_pyramid_2b",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20808,7 +20804,6 @@
         "id": "com.smallgiantgames.empires.xp_pyramid_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36269,7 +36264,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58869,5 +58864,5 @@
       }
     ]
   },
-  "productsConfigId": 3558750963
+  "productsConfigId": 1712117120
 }

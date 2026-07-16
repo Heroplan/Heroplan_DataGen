@@ -507,7 +507,7 @@ Statuseffekter som påvirker helse mottatt, påvirker skaleringen til helbredels
  Påfører ytterligere {DAMAGE} % skade på {MAXHITS} tilfeldige fiender."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Påfører {DAMAGE} % skade på målet {MAXHITS} tilfeldige fiender."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade."
-"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","Påfører {DAMAGE} % skade på målet og en tilfeldig fiende."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","Påfører {DAMAGE} % skade på målet og én tilfeldig fiende."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Påfører {DAMAGE} % skade på {TOTALMAXHITS} tilfeldige fiender."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger."
 "specials.v2.property.chainstrike.minordamage","Påfører ytterligere mindre skade på {MAXHITS} tilfeldige fiender."
@@ -660,11 +660,11 @@ Mørk kube reduserer målets maksimale helse med {REDUCTION}. Effekten er sterke
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Renser alle statuslidelser på en trygg måte fra alle allierte og øker alle alliertes mana med {POWER} % for hver rensede lidelse."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Rotløs fjerner svekkelser fra alle allierte."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Innhøster økninger fra alle fiender."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]Innhøsting[#] fjerner trygt {MAXREMOVALCOUNT} økninger, positive stabler eller veksteffekter fra hvert mål. Dette inkluderer sta effekter, økninger som ikke kan fjernes og danseeffekter.
-[*]Brukeren mottar {HEALTHBOOST} % økt helse for hver effekt fjernet. Økt helse kan overskride maksimal HP.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Innhøsting fjerner trygt {MAXREMOVALCOUNT} økninger, positive stabler eller veksteffekter fra hvert mål. Dette inkluderer sta effekter, økninger som ikke kan fjernes og danseeffekter.
+Brukeren mottar {HEALTHBOOST} % økt helse for hver effekt fjernet. Økt helse kan overskride maksimal HP.
 
-[*]Trygg fjerning forbigår sekundære effekter, som skade ved fjerning, fra de fjernede statuseffektøkningene. Eksterne effekter, som passive ferdigheter og familieeffekter, kan fortsatt aktiveres.
-[*]Veksteffekter fjernes først. For andre effekter fjernes den siste først."
+Trygg fjerning forbigår sekundære effekter, som skade ved fjerning, fra de fjernede statuseffektøkningene. Eksterne effekter, som passive ferdigheter og familieeffekter, kan fortsatt aktiveres.
+Veksteffekter fjernes først. For andre effekter fjernes den siste først."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Rotløs fjerner trygt {MAXREMOVALCOUNT} statuslidelser, negative stabler og visne-effekter fra hvert mål. Dette inkluderer statuslidelser som ikke kan renses, og danseeffekter.
 Brukeren mottar {HEALTHBOOST} % økt helse for hver effekt fjernet. Økt helse kan overskride maksimal HP.
 Trygg fjerning forbigår sekundære effekter, som skade ved fjerning, fra de fjernede statuslidelsene. Eksterne effekter, som passive ferdigheter og familieeffekter, kan fortsatt aktiveres.
@@ -851,7 +851,7 @@ Hvis varigheten til en effekt reduseres til null, anses effekten å ha utløpt n
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses.
 
-[*]Hvis varigheten til en effekt reduseres til null, anses effekten å ha utløpt naturlig."
+Hvis varigheten til en effekt reduseres til null, anses effekten å ha utløpt naturlig."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","Modifiseringen i varighet påvirker effekter som kan renses, er sta og ikke kan renses."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduserer varigheten til brukerens og allierte i nærhetens aktive statuslidelsene med {TURNS} runder."
@@ -892,7 +892,7 @@ Vekst og visning påvirker skalering av skade.
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Ødelegger alle undersåttene til målet. Denne effekten skader megaundersåtter."
 "specials.v2.property.pre.ignoredodgewithchance","Denne spesialferdigheten har {IGNOREDODGECHANCE} % sjanse til å ignorere unnvike-effekter."
 "specials.v2.property.pre.ignoredodgewithchance.always","Denne spesialferdigheten ignorerer unnvik-effekter."
-"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Stjeler {ABSPOWER} % mana fra målet og fiender i nærheten, og fordeler det tilfeldig på allierte."
+"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Stjeler {ABSPOWER} % mana fra målet og fiender i nærheten, og fordeler det til allierte."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies","Stjeler {ABSPOWER} % mana fra målet og fordeler det på allierte."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.allexceptcaster.allies","Stjeler {ABSPOWER} % mana fra målet og fordeler den til alle allierte med unntak av brukeren."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.single.allies","Brukeren stjeler {ABSPOWER} % mana fra målet."
@@ -912,11 +912,10 @@ Vekst og visning påvirker skalering av skade.
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1} %"
 "specials.v2.property.randomstatuseffects","Bruker tilfeldig en av følgende alternativer:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","Stjeler {DAMAGE} helse.
-[*]Stjeler på en trygg måte én statuseffektøkning fra målet. Dette inkluderer sta-effekter, økninger som ikke kan fjernes og danseeffekter.
+"specials.v2.property.ransack.extra","[*]Stjeler på en trygg måte én statuseffektøkning fra målet. Dette inkluderer sta-effekter, økninger som ikke kan fjernes og danseeffekter.
 [*]Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fjernede økningene. Passive ferdigheter og familieeffekter kan fortsatt aktiveres."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","Ransaker alle fiender, stjeler helse og økninger, og fordeler tilfeldig stjålne økninger på allierte."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","Ransaker målet for å stjele helse og økninger."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Ransaker[#] alle fiender, stjeler [#!]{DAMAGE}[#] helse og en økning fra hver, og fordeler tilfeldig stjålne økninger på allierte."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Ransaker[#] målet for å stjele [#!]{DAMAGE}[#] helse og en økning."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Stjeler {DAMAGE} helse.
 Stjeler på en trygg måte én statuseffektøkning fra målet. Dette inkluderer sta-effekter, økninger som ikke kan fjernes og danseeffekter.
 Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fjernede økningene. Passive ferdigheter og familieeffekter kan fortsatt aktiveres."
@@ -982,8 +981,8 @@ Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fje
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","Trygg rensing forbigår sekundære effekter, som skade ved fjerning, fra de fjernede statuslidelsene. Eksterne effekter, som passive ferdigheter og familieeffekter, kan fortsatt aktiveres."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Skade reduseres med {POWERPERREMOVALFROMTARGET} % for hver fjernet økning.
  Sta og ufjernbare økninger fjernes også."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] Helseøkningen reduseres med [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for hver fjernet lidelse.
-[*] Lidelser som er sta og ikke kan renses bort, fjernes også."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Helseøkningen reduseres med {FIXEDPOWERPERREMOVALFROMTARGET} for hver fjernet lidelse.
+ Lidelser som er sta og ikke kan renses bort, fjernes også."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Fjerner trygt økninger fra alle fiender, og øker alle alliertes mana med {POWERPERREMOVAL} % for hver fjernet økning."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Fjerner alle statuslidelser på en trygg måte fra alle allierte, og øker alle alliertes mana med {POWERPERREMOVAL} % for hver rensede lidelse."
 "specials.v2.property.repeatspecial.blade_wings.random","Etter å ha brukt vellykket er det {REPEATCHANCE} % sjanse til å bruke knivvinger igjen på et tilfeldig mål.
@@ -1658,7 +1657,7 @@ Hvis Slim ikke beseires på {CHANGEDAPPEARANCETURNS} runder, blir det gjenfødt 
 {DEFENSE} forsvar.
 Spesialferdighet: giftbitt."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Alle mål som blir truffet, blir stilnet i {TURNS} runder. Denne effekten kan ikke renses bort."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle fiender sovner og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle fiender [#!]sovner[#] og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","Fiendene på utkanten av fiendeformasjonen sovner og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","Målet sovner og tar {DAMAGEMODIFIER} % økt skade mens det sover."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Alle allierte, med unntak av brukeren, mottar myk hud."
@@ -1960,9 +1959,9 @@ Rev-skjelettdjevelen absorberer helbredelse. Den forsvinner etter å ha absorber
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","Angrepet til målet og fiender i nærheten senkes med {CHANGE} % per runde i {TURNS} runder."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","Forsvaret til målet og fiender i nærheten senkes med {CHANGE} % per runde i {TURNS} runder."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Mana-genereringen til målet og fiender i nærheten senkes med {CHANGE} % per runde i {TURNS} runder."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle allierte får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle allierte får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde. Denne effekten kan være aktiv i tillegg til effekter som generelt endrer angrepet. Vanlige angrep kan til sammen ha maksimalt {MAXATTACK} % økt styrke mens denne effekten er aktiv."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","Brukeren og allierte i nærheten får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde. Denne effekten kan være aktiv i tillegg til effekter som generelt endrer angrepet. Vanlige angrep kan til sammen ha maksimalt {MAXATTACK} % økt styrke mens denne effekten er aktiv."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Brukeren får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Brukeren får {ATTACK} % normalt angrep i {TURNS} runder. Det normale angrepet økes med {CHANGE} % hver runde. Denne effekten kan være aktiv i tillegg til effekter som generelt endrer angrepet. Vanlige angrep kan til sammen ha maksimalt {MAXATTACK} % økt styrke mens denne effekten er aktiv."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","Brukeren stjeler {CURRENTMANASTEAL} % av generert mana fra alle fiender over {TURNS} runder. Denne effekten fjernes dersom brukeren beseires."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","Brukeren stjeler {CURRENTMANASTEAL} % av generert mana fra trufne fiender over {TURNS} runder. Denne effekten fjernes dersom brukeren beseires."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Alle fiender utsettes for etsende brenning i {TURNS} runder. Etsende brenning gjør {DAMAGEPERTURN} brannskade og senker målets forsvar med {CHANGE} % hver runde."
@@ -2399,13 +2398,13 @@ Hver astralstråle reduserer maksimal helse på fienden truffet med {REDUCTION2}
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","Brukere får en måneoppgangvokter i {TURNS} runder som reduserer innkommende skade fra spesialferdighet med opptil -{MAX}. Skadereduksjonen skalerer avhengig av forsvarerens forsvar og angriperens angrepsstyrke. Reduserer skade med ytterligere {ADDITIONALDAMAGEMODIFIER} % når angriperen er av hellig-element."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Alle fiender får en mystisk eliksir. Etter {TURNS} runder eksploderer den mystiske eliksiren og påfører målet {DAMAGE} skade. Etter eksplosjonen kan ikke målet få mana i {STATUSEFFECT1TURNS} runder."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Alle allierte får {ATTACK} % normalt angrep i {TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Alle [##elementblue]is[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Alle [##elementgreen]natur[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Alle is-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Alle natur-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Brukeren og allierte i nærheten får {ATTACK} % normalt angrep i {TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Alle [##elementpurple]mørke[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Alle [##elementred]ild[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Alle mørke-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Alle ild-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Brukeren får {ATTACK} % normalt angrep i {TURNS} runder."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Alle [##elementyellow]hellig[#]-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Alle hellig-allierte får {ATTACK} % normalt angrep i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Alle fiender bidrar ikke til troppeskade i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Målet og fiender i nærheten bidrar ikke til troppeskade i {TURNS} runder."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Fiendene på kanten av fiendens formasjon bidrar ikke til troppeskade i {TURNS} runder."
@@ -2638,7 +2637,7 @@ Ved gjenopplivning får alle fiender {STATUSEFFECT1ACCURACY} % treffsikkerhet i
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Alle mål som treffes blir forstummet i {TURNS} runder."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","Målet til det andre treffet blir forstummet i {TURNS} runder."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","Målet blir forstummet i {TURNS} runder."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle fiender sovner og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Alle fiender [#!]sovner[#] og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","Målet og fiender i nærheten blir sjelbundet i {TURNS} runder."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Alle allierte blir sjelbundet i {TURNS} runder. Sjelbundne allierte deler tatt skade."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Alle allierte blir sjelbundet i {TURNS} runder. Sjelbundne allierte deler tatt skade.
@@ -2895,3 +2894,14 @@ Helters galskap kan senkes ved direkte helbredelse fra en spesialferdighet."
 "specials.v2.toon_tide.immuneelement.purple","Alle mørke-allierte og fiender er immune mot denne spesialferdigheten."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Denne effekten kan bare aktiveres én gang per hydrahode-undersått."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Når hydrahode-undersåtten beseires, gjenoppliver en tilfeldig alliert en gjenfødt hydrahode-undersått som nedarver tallene fra den opprinnelige undersåtten."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Renser bort statuslidelser fra brukeren på en trygg måte."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Endrer elementet til alle fiender til [##elementred]ild[#] i {TURNS} runder."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Alle allierte får tilbake {REMOVALEFFECT1FIXEDPOWER} helse etter {TURNS} runder. Hvis effekten fjernes eller erstattes før varigheten er over, fås {REMOVALEFFECT2FIXEDPOWER} helse tilbake i stedet."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Målet tar {DAMAGE} blødeskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført blødeskade som økt helse."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]Visne:[#] Målet får {ATTACKINCREASE} angrep."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Målet gjøres om til en [#!]tankeorm[#]. [#!]Tankeormer[#] har {ATTACK} % angrep, {DEFENSE} % forsvar og følgende spesialferdighet:
+ 
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]Påfører 75 [#!]galskap[#] på én tilfeldig alliert.
+[>]Fjerner [#!]tankeorm[#]-lidelsen fra brukeren."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Fjerner [#!]tankeorm[#]-lidelsen fra brukeren."

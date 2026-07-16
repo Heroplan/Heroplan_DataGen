@@ -665,11 +665,11 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Purifica los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Arranca de raíz las mermas de todos los aliados."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Cosecha bendiciones de todos los enemigos."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La [#!]cosecha[#] elimina de forma segura hasta {MAXREMOVALCOUNT} bendiciones, acumulaciones positivas o efectos de crecimiento de cada objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
-[*] La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La cosecha elimina de forma segura hasta {MAXREMOVALCOUNT} bendiciones, acumulaciones positivas o efectos de crecimiento de cada objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
+ La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
 
-[*] La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
-[*] Los efectos de crecimiento se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
+ La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
+ Los efectos de crecimiento se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Arrancar de raíz elimina de forma segura hasta {MAXREMOVALCOUNT} estados alterados, acumulaciones negativas o efectos de merma de cada objetivo. Se incluyen los estados alterados impurificables y los efectos de danza.
  La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
  La purificación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de los estados alterados eliminados. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
@@ -856,7 +856,7 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables.
 
-[*] Si la duración de cualquier efecto se reduce a cero, se considera que el efecto ha caducado de forma natural."
+ Si la duración de cualquier efecto se reduce a cero, se considera que el efecto ha caducado de forma natural."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","La modificación de duración afecta a efectos purificables, obstinados e impurificables."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduce la duración de los estados alterados activos del héroe y los aliados cercanos {TURNS} turnos."
@@ -897,7 +897,7 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Destruye a todos los secuaces del objetivo. Este efecto inflige daño a los megasecuaces."
 "specials.v2.property.pre.ignoredodgewithchance","Esta habilidad especial tiene un {IGNOREDODGECHANCE} % de probabilidad de ignorar los efectos de esquivar."
 "specials.v2.property.pre.ignoredodgewithchance.always","Esta habilidad especial ignora los efectos de esquivar."
-"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Roba un {ABSPOWER} % de maná del objetivo y los enemigos cercanos y lo distribuye aleatoriamente entre los aliados."
+"specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Roba un {ABSPOWER} % de maná del objetivo y los enemigos cercanos y lo distribuye entre los aliados."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies","Roba un {ABSPOWER} % de maná del objetivo y lo distribuye entre los aliados."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.allexceptcaster.allies","Roba un {ABSPOWER} % de maná del objetivo y lo distribuye entre los aliados salvo el héroe."
 "specials.v2.property.pre.manareallocation.from.single.enemies.to.single.allies","El héroe roba un {ABSPOWER} % de maná del objetivo."
@@ -917,11 +917,10 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1} %"
 "specials.v2.property.randomstatuseffects","Lanza una de las siguientes alternativas aleatoriamente:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","Roba {DAMAGE} de vitalidad.
-[*] Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
+"specials.v2.property.ransack.extra","[*] Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
 [*] El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","Saquea a todos los enemigos, les roba vitalidad y bendiciones, y distribuye las bendiciones robadas entre los aliados de forma aleatoria."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","Saquea al objetivo y le roba vitalidad y bendiciones."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Saquea[#] a todos los enemigos, les roba [#!]{DAMAGE}[#] de vitalidad y una bendición a cada uno, y distribuye las bendiciones robadas entre los aliados de forma aleatoria."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Saquea[#] al objetivo y le roba  [#!]{DAMAGE}[#] de vitalidad y una bendición."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Roba {DAMAGE} de vitalidad.
  Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
  El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
@@ -987,8 +986,8 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","La purificación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) del estado alterado eliminado. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","El daño se reduce en un {POWERPERREMOVALFROMTARGET} % por cada bendición eliminada.
  Las bendiciones obstinadas e indescartables también se eliminan."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] La vitalidad potenciada se reduce en [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] por cada estado alterado eliminado.
-[*] Los estados alterados obstinados e impurificables también se eliminan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","La vitalidad potenciada se reduce en {FIXEDPOWERPERREMOVALFROMTARGET} por cada estado alterado eliminado.
+ Los estados alterados obstinados e impurificables también se eliminan."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Descarta las bendiciones de todos los enemigos de forma segura y aumenta el maná de todos los aliados un {POWERPERREMOVAL} % por cada bendición eliminada."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Purifica de forma segura los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWERPERREMOVAL} % por cada estado purificado."
 "specials.v2.property.repeatspecial.blade_wings.random","Tras usarse con éxito, tiene un {REPEATCHANCE} % de probabilidad de volver a usar Alas de cuchilla contra un objetivo aleatorio.
@@ -1674,7 +1673,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
  {DEFENSE} de defensa.
  Habilidad especial: Mordisco venenoso."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Se silencian todos los objetivos golpeados durante {TURNS} turnos. Este efecto no se puede purificar."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos los enemigos se duermen y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos los enemigos [#!]se duermen[#] y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","Los enemigos en los márgenes de la formación enemiga se duermen y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","El objetivo se duerme y recibe un {DAMAGEMODIFIER} % más de daño mientras está dormido."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Todos los aliados, salvo el héroe, reciben piel suave."
@@ -1976,9 +1975,9 @@ Danza de la fortuna vibrante
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","El ataque del objetivo y de los enemigos cercanos se reduce un {CHANGE} % por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","La defensa del objetivo y de los enemigos cercanos se reduce un {CHANGE} % por turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","La regeneración de maná del objetivo y de los enemigos cercanos se reduce un {CHANGE} % por turno durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","El héroe y los aliados cercanos reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","El héroe reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","El héroe recibe un {ATTACK} % de ataque normal durante {TURNS} turnos. El ataque normal aumenta un {CHANGE} % cada turno. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","El héroe roba un {CURRENTMANASTEAL} % del maná generado de todos los enemigos durante {TURNS} turnos. Este efecto se elimina si el héroe cae derrotado."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","El héroe roba un {CURRENTMANASTEAL} % del maná generado de los enemigos golpeados durante {TURNS} turnos. Este efecto se elimina si el héroe cae derrotado."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Todos los enemigos reciben una quemadura corrosiva durante {TURNS} turnos. Esta inflige {DAMAGEPERTURN} de daño de quemadura y reduce la defensa del objetivo en un {CHANGE} % cada turno."
@@ -2415,13 +2414,13 @@ Danza de la fortuna vibrante
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","El héroe obtiene Protección lunar, que reduce el daño de las habilidades especiales recibido en hasta -{MAX}, durante {TURNS} turnos. La reducción de daño aumenta en función de la defensa de quien se defiende y el poder de ataque de quien ataca. Reduce el daño un {ADDITIONALDAMAGEMODIFIER} % más cuando el atacante es del elemento sagrado."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Todos los enemigos reciben una poción misteriosa. Tras {TURNS} turnos, la poción misteriosa explota e inflige {DAMAGE} de daño al objetivo. Tras la explosión, el objetivo no podrá obtener maná durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos los aliados de [##elementblue]hielo[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos los aliados de [##elementgreen]naturaleza[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos los aliados de hielo reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos los aliados de naturaleza reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","El héroe y los aliados cercanos reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos los aliados [##elementpurple]oscuros[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos los aliados de [##elementred]fuego[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos los aliados oscuros reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos los aliados de fuego reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","El héroe obtiene un {ATTACK} % de ataque normal durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos los aliados [##elementyellow]sagrados[#] reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos los aliados sagrados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Ningún enemigo contribuye al daño de las tropas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Ni el objetivo ni los enemigos cercanos contribuyen al daño de las tropas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Los enemigos en los márgenes de la formación enemiga no contribuyen al daño de las tropas durante {TURNS} turnos."
@@ -2656,7 +2655,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Se silencia a todos los objetivos golpeados durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","Se silencia al objetivo del segundo golpe durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","Se silencia al objetivo durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos los enemigos se duermen y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Todos los enemigos [#!]se duermen[#] y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","El objetivo y los enemigos cercanos obtienen un vínculo espiritual durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Todos los aliados comparten un vínculo de almas durante {TURNS} turnos. Los aliados con vínculo de almas comparten el daño recibido."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Todos los aliados comparten un vínculo de almas durante {TURNS} turnos. Los aliados con vínculo de almas comparten el daño recibido.
@@ -2913,3 +2912,14 @@ Demencia
 "specials.v2.toon_tide.immuneelement.purple","Todos los aliados oscuros y los enemigos son inmunes a esta habilidad especial."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Este efecto solo puede producirse una vez por cada secuaz cabeza de hidra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Cuando el secuaz cabeza de hidra es derrotado, un aliado aleatorio recibe un secuaz cabeza de hidra renacido que hereda las estadísticas del secuaz original."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Purifica de forma segura todos los estados alterados del héroe."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Cambia el elemento de todos los enemigos a [##elementred]fuego[#] durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Todos los aliados recuperan {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","El objetivo recibe {DAMAGE} de daño de sangrado durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de sangrado infligido como vitalidad aumentada."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]Merma:[#] El objetivo obtiene {ATTACKINCREASE} de ataque."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","El objetivo se convierte en [#!]gusano mental[#]. Los [#!]gusanos mentales[#] cuentan con {ATTACK} % de ataque, {DEFENSE} % de defensa y la siguiente habilidad especial:
+ 
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]Infllige 75 de [#!]demencia[#] a un aliado aleatorio.
+[>]Elimina la alteración del [#!]gusano mental[#] del héroe."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Elimina la alteración [#!]gusano mental[#] del héroe."

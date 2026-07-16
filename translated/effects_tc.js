@@ -18267,6 +18267,17 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "astral_demon_zhakiturion",
+        "name": "Zhakiturion",
+        "effects": [
+            "摧毀所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。",
+            "每摧毀一個惡魔，所有盟友獲得 5% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "疊加（最大值： 10 ）：每摧毁一名惡魔，所有盟友獲得額外 +10% 攻擊。",
+            "對目標造成 575% 傷害，並對其餘敵人造成輕微傷害。",
+            "為所有盟友治療 20% 的傷害。"
+        ]
+    },
+    {
         "heroId": "kingdom_zhang_fei",
         "name": "Zhang Fei",
         "effects": [
@@ -18321,11 +18332,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "astral_demon_zhakiturion",
-        "name": "Zhakiturion",
-        "effects": []
     },
     {
         "heroId": "vegetable_chilazar",

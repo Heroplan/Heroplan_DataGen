@@ -114699,6 +114699,75 @@ window.allHeroes =
         ]
     },
     {
+        "name": "扎基圖里昂 (Zhakiturion)",
+        "fancy_name": "星界惡魔首席司法官",
+        "AetherPower": "攻擊提升",
+        "color": "神聖",
+        "class": "僧侶",
+        "speed": "平均",
+        "skill": "審判之書",
+        "source": "星界召喚",
+        "Release date": "2026-07-15",
+        "specialId": "book_of_judgement",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_zhakiturion",
+        "star": 5,
+        "power": 1344,
+        "attack": 1398,
+        "defense": 1411,
+        "health": 2393,
+        "effects": [
+            "摧毀所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。",
+            "每摧毀一個惡魔，所有盟友獲得 5% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "疊加（最大值： 10 ）：每摧毁一名惡魔，所有盟友獲得額外 +10% 攻擊。",
+            "對目標造成 575% 傷害，並對其餘敵人造成輕微傷害。",
+            "為所有盟友治療 20% 的傷害。"
+        ],
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": 1866,
+        "lb1": {
+            "attack": 1507,
+            "defense": 1520,
+            "health": 2579,
+            "power": 1439
+        },
+        "lb2": {
+            "attack": 1724,
+            "defense": 1739,
+            "health": 2951,
+            "power": 1628
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-全體",
+                    "治療-傷害量"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "召喚-摧毀惡魔",
+                    "法力-法力恢復（擊殺）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-疊加：攻擊力↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "張飛 (Zhang Fei)",
         "fancy_name": "鐵血將軍",
         "AetherPower": "攻擊提升",
@@ -114723,7 +114792,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1866,
+        "originalIndex": 1867,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -114784,7 +114853,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1867,
+        "originalIndex": 1868,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -114843,7 +114912,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1868,
+        "originalIndex": 1869,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -114906,7 +114975,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1869,
+        "originalIndex": 1870,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -114966,7 +115035,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1870,
+        "originalIndex": 1871,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -115026,7 +115095,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1871,
+        "originalIndex": 1872,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -115057,30 +115126,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "扎基圖里昂 (Zhakiturion)",
-        "fancy_name": "星界惡魔首席司法官",
-        "AetherPower": "",
-        "color": "神聖",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "astral_demon_zhakiturion",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "astral_demons",
-        "costume_id": 0,
-        "originalIndex": 1872,
-        "cn_skill_info": []
     },
     {
         "name": "奇拉札 (Chilazar)",

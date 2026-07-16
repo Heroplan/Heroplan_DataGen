@@ -512,7 +512,7 @@ Status effects affecting healing received do affect the healing scaling."
  Deals additional {DAMAGE}% damage to {MAXHITS} random enemies."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Deals {DAMAGE}% damage to the target and {MAXHITS} random enemies."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","Has a {CHANCE}% chance for additional hits on random enemies up to {MAXHITS} times. Additional hits deal minor damage."
-"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","Deals {DAMAGE}% damage to the target and a random enemy."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.onehit","Deals {DAMAGE}% damage to the target and one random enemy."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","Has a {CHANCE}% chance for additional hits on random enemies up to {MAXHITS} times."
 "specials.v2.property.chainstrike.minordamage","Deals additional minor damage to {MAXHITS} random enemies."
@@ -665,11 +665,11 @@ Dark Cube reduces max health of the target by {REDUCTION}. The effect is stronge
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Cleanses all status ailments from all allies, and increases all allies' mana by {POWER}% for each cleansed ailment."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Uproots debuffs from all allies."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Harvests buffs from all enemies."
-"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","[#!]Harvest[#] safely removes {MAXREMOVALCOUNT} buffs, positive Stacks or Growth effects from each target. This includes Stubborn effects, undispellable buffs and Dance effects.
-[*]The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Harvest safely removes {MAXREMOVALCOUNT} buffs, positive Stacks or Growth effects from each target. This includes Stubborn effects, undispellable buffs and Dance effects.
+The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
 
-[*]Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.
-[*]Growth effects are removed first. Other effects, the latest is removed first."
+Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.
+Growth effects are removed first. Other effects, the latest is removed first."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Uproot safely removes {MAXREMOVALCOUNT} status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects.
 The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
 Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.
@@ -856,7 +856,7 @@ If the duration of any effect is reduced to zero, the effect is considered as ha
 "specials.v2.property.modifystatuseffectturns.buffs.increase.one.extra","The duration modification affects cleansable, Stubborn and uncleansable effects."
 "specials.v2.property.modifystatuseffectturns.debuffs.decrease.extra","The duration modification affects cleansable, Stubborn and uncleansable effects.
 
-[*]If the duration of any effect is reduced to zero, the effect is considered as having expired naturally."
+If the duration of any effect is reduced to zero, the effect is considered as having expired naturally."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.extra","The duration modification affects cleansable, Stubborn and uncleansable effects."
 "specials.v2.property.modifystatuseffectturns.debuffs.increase.one.extra","The duration modification affects cleansable, Stubborn and uncleansable effects."
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduces the duration of the caster and nearby allies' active status ailments by {TURNS} turns."
@@ -917,11 +917,10 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
 "specials.v2.property.randomstatuseffects","Randomly casts one of the following alternatives:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","Steals {DAMAGE} health.
-[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
+"specials.v2.property.ransack.extra","[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
 [*]Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","Ransacks all enemies, stealing {DAMAGE} health and a buff from each, and randomly distributes stolen buffs on allies."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","Ransacks the target, stealing {DAMAGE} health and a buff."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Ransacks[#] all enemies, stealing [#!]{DAMAGE}[#] health and a buff from each, and randomly distributes stolen buffs on allies."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Ransacks[#] the target, stealing [#!]{DAMAGE}[#] health and a buff."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Steals {DAMAGE} health.
 Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
 Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
@@ -987,8 +986,8 @@ Safe stealing bypasses secondary effects, such as damage on removal, from the re
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.extra","Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Damage is reduced by {POWERPERREMOVALFROMTARGET}% for each removed buff.
  Stubborn and Undispellable buffs are also removed."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","[*] The health boost is reduced by [#!]{FIXEDPOWERPERREMOVALFROMTARGET}[#] for each removed ailment.
-[*] Stubborn and Uncleansable ailments are also removed."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","The health boost is reduced by {FIXEDPOWERPERREMOVALFROMTARGET} for each removed ailment.
+ Stubborn and Uncleansable ailments are also removed."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Safely dispels buffs from all enemies, and increases all allies' mana by {POWERPERREMOVAL}% for each removed buff."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Safely cleanses all status ailments from all allies, and increases all allies' mana by {POWERPERREMOVAL}% for each cleansed ailment."
 "specials.v2.property.repeatspecial.blade_wings.random","After a successful cast, has a {REPEATCHANCE}% chance to recast Blade Wings on a random target.
@@ -1669,7 +1668,7 @@ If the Slime is not defeated in {CHANGEDAPPEARANCETURNS} turns, it will be rebor
 {DEFENSE} defense.
 Special Skill: Poison Bite."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","All hit targets get silenced for {TURNS} turns. This effect can't be cleansed."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall asleep and receive {DAMAGEMODIFIER}% increased damage while sleeping."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","The enemies on the edges of the enemy formation fall asleep and receive {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","The target falls asleep and receives {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","All allies except the caster receive Softskin."
@@ -1971,9 +1970,9 @@ The Skeleton Fox Fiend absorbs healing. It disappears after absorbing a healing 
 "specials.v2.statuseffect.minor.changingattackmodifier.neartotarget.enemies","The target's and nearby enemies' attack is lowered by {CHANGE}% per turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","The target's and nearby enemies' defense is lowered by {CHANGE}% per turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","The target's and nearby enemies' mana generation is lowered by {CHANGE}% per turn for {TURNS} turns."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","The caster and nearby allies get {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","The caster gets {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","The caster gets {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","The caster steals {CURRENTMANASTEAL}% of generated mana from all enemies over {TURNS} turns. This effect gets removed if the caster is defeated."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","The caster steals {CURRENTMANASTEAL}% of generated mana from hit enemies over {TURNS} turns. This effect gets removed if the caster is defeated."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","All enemies receive Corrosive Burn for {TURNS} turns. The Corrosive Burn deals {DAMAGEPERTURN} Burn damage and lowers the target's defense by {CHANGE}% each turn."
@@ -2161,7 +2160,7 @@ Devouring Goo: Removes all dispellable buffs and Growth effects, deals {BASEDAMA
 "specials.v2.statuseffect.minor.elementmirror.yellow.neartotarget.allies","The caster and nearby allies reflect all status ailments and {DEFLECTION}% damage back to the attacker and block all other negative effects from enemies' Holy Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.allies","The caster reflects all status ailments and {DEFLECTION}% damage back to the attacker and block other negative effects from enemies' Holy Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.enemies","The caster reflects all status ailments and {DEFLECTION}% damage back to the attacker and block other negative effects from enemies' Dark Special Skills for {TURNS} turns."
-"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Changes the element of all enemies to Fire for {TURNS} turns."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Changes the element of all enemies to [##elementred]Fire[#] for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementswap.all.enemies.strongagainstelement","Changes the element of all enemies to the element they are strong against for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementswap.single.allies.maintargetelement","Changes the element of the caster to the target's element for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementswap.single.allies.strongagainstelement","Changes the element of the caster to the element they are strong against for {TURNS} turns."
@@ -2411,13 +2410,13 @@ Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","The caster gets a Moonrise Ward for {TURNS} turns, that reduces incoming Special Skill damage by up to -{MAX}. Damage reduction is scaled by defender's defense and attacker's attack power. Reduces damage by additional {ADDITIONALDAMAGEMODIFIER}% when the attacker is of the Holy element."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","All enemies receive a Mystery Potion. After {TURNS} turns the Mystery Potion explodes and deals {DAMAGE} damage to the target. After the explosion the target can't gain mana for {STATUSEFFECT1TURNS} turns."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","All allies get {ATTACK}% normal attack for {TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","All [##elementblue]Ice[#] allies get {ATTACK}% normal attack for {TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","All [##elementgreen]Nature[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","All Ice allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","All Nature allies get {ATTACK}% normal attack for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","The caster and nearby allies get {ATTACK}% normal attack for {TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","All [##elementpurple]Dark[#] allies get {ATTACK}% normal attack for {TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","All [##elementred]Fire[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","All Dark allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","All Fire allies get {ATTACK}% normal attack for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","The caster gets {ATTACK}% normal attack for {TURNS} turns."
-"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","All [##elementyellow]Holy[#] allies get {ATTACK}% normal attack for {TURNS} turns."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","All Holy allies get {ATTACK}% normal attack for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","All enemies don't contribute to Troop damage for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","The target and nearby enemies don't contribute to Troop damage for {TURNS} turns."
 "specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","The enemies on the edges of the enemy formation don't contribute to Troop damage for {TURNS} turns."
@@ -2652,7 +2651,7 @@ Upon resurrection all enemies get {STATUSEFFECT1ACCURACY}% accuracy for {STATUSE
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","All hit targets get silenced for {TURNS} turns."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","The target of the second hit gets silenced for {TURNS} turns."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","The target gets silenced for {TURNS} turns."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall asleep and receive {DAMAGEMODIFIER}% increased damage while sleeping."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","The target and nearby enemies get Soul Bound for {TURNS} turns."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","All allies become Soul Connected for {TURNS} turns. Soul Connected allies share received damage."
 "specials.v2.statuseffect.minor.soulconnection.all.both","All allies become Soul Connected for {TURNS} turns. Soul Connected allies share received damage.
@@ -2909,3 +2908,13 @@ Hero's Insanity can be lowered by direct heal from a Special Skill."
 "specials.v2.toon_tide.immuneelement.purple","All Dark allies and enemies are immune to this Special Skill."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","This effect may only happen once per Hydra Head Minion."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","When the Hydra Head Minion is defeated, a random ally receives a Reborn Hydra Head Minion that inherits the stats of the original Minion."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Safely cleanses all status ailments from the caster."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as boosted health."
+"specials.v2.property.wither.none.single.enemies.attack","[#!]Wither:[#] The target gets {ATTACKINCREASE} attack."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","The target turns into a [#!]Mindworm[#]. [#!]Mindworms[#] have {ATTACK}% attack, {DEFENSE}% defense and the following Special Skill:
+
+[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
+[>]Inflicts 75 [#!]Insanity[#] on one random ally.
+[>]Removes the [#!]Mindworm[#] ailment from the caster."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Removes the [#!]Mindworm[#] ailment from the caster."
