@@ -74,11 +74,11 @@ def get_target_image_url(page_url):
             soup = BeautifulSoup(resp.text, 'html.parser')
             for a_tag in soup.find_all('a'):
                 href = a_tag.get('href')
-                if href and 'r2.dev' in href:
+                if href and 'r2calendar.ep-base.com' in href:
                     return href
             for img_tag in soup.find_all('img'):
                 src = img_tag.get('src')
-                if src and 'r2.dev' in src:
+                if src and 'r2calendar.ep-base.com' in src:
                     return src
             return None
 

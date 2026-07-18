@@ -13494,7 +13494,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13576,7 +13575,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15245,7 +15243,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15259,7 +15256,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3_bonus",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23254,7 +23250,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28422,7 +28417,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_day_price15",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28472,7 +28466,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_day_price50",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58864,5 +58857,5 @@
       }
     ]
   },
-  "productsConfigId": 1712117120
+  "productsConfigId": 1635262962
 }

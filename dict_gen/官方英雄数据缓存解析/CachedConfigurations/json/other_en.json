@@ -4788,7 +4788,7 @@
           ]
         },
         "towerEventConfig": {
-          "towerEventsEnabled": false,
+          "towerEventsEnabled": true,
           "towerEventSummonEnabled": true,
           "towerEventPlayerLevelRequirement": 20,
           "towerEventEntries": [
@@ -96279,5 +96279,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1877097888
+  "otherConfigId": 2620814219
 }

@@ -7338,7 +7338,7 @@ window.allHeroes =
         "health": 1260,
         "effects": [
             "Recovers 40% health for all allies.",
-            "All allies get +24% mana generation for 4 turns.",
+            "All allies get +24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Cleanses status ailments from all allies."
         ],
         "passives": [],
@@ -15922,7 +15922,7 @@ window.allHeroes =
         "effects": [
             "Deals 310% damage to the target.",
             "Has a 42% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage.",
-            "All allies gain a small amount of mana for each hit."
+            "All allies gain a small amount of mana for each hit. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ],
         "passives": [],
         "family": "lagoon",
@@ -36200,7 +36200,7 @@ window.allHeroes =
         "health": 1627,
         "effects": [
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "For the next 3 turns, this character deals 500% damage to a random enemy each time any other ally casts their Special Skill. (Damage is dealt on the first Special Skill cast of each character per turn.)",
+            "For the next 3 turns, this character deals 500% damage to a random enemy each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)",
             "All allies' except the caster's Special Skill deal an additional +20% damage for 3 turns."
         ],
         "passives": [],
@@ -49403,9 +49403,9 @@ window.allHeroes =
         "defense": 527,
         "health": 1054,
         "effects": [
-            "Casts Full Removal on the caster.",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
             "The caster shifts into Ghost Form for 4 turns.",
-            "While in Ghost form the caster gains +82% attack. (While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
+            "While in Ghost form the caster gains +82% attack. (While in Ghost form character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ],
         "passives": [],
         "family": "japanese",
@@ -49457,7 +49457,7 @@ window.allHeroes =
         "defense": 652,
         "health": 1139,
         "effects": [
-            "Casts Full Removal on the caster.",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
             "The caster shifts into Ghost Form for 4 turns. (While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither effects and Insanity effects.)",
             "While in Ghost form, all allies except the caster have +44% defense.",
             "While in Ghost form, all allies except the caster regenerate 140 HP every turn."
@@ -87148,7 +87148,7 @@ window.allHeroes =
         "effects": [
             "Deals 245% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 20%.",
-            "All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [],
         "family": "japanese",
@@ -87206,8 +87206,8 @@ window.allHeroes =
         "health": 1909,
         "effects": [
             "Deals 230% damage to all enemies.",
-            "All enemies get -34% mana generation.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "All enemies get -34% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [],
         "family": "japanese",
@@ -88075,7 +88075,7 @@ window.allHeroes =
         "health": 1398,
         "effects": [
             "Deals 220% damage to all enemies.",
-            "All allies get +120% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this effect is active.",
+            "All allies get +120% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +170% increased power.)",
             "All allies get +46% defense for 4 turns."
         ],
         "passives": [],
@@ -88130,7 +88130,7 @@ window.allHeroes =
         "health": 1810,
         "effects": [
             "Deals 270% damage to all enemies.",
-            "All allies get +125% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +180% increased power while this effect is active.",
+            "All allies get +125% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +180% increased power.)",
             "All allies get +50% defense for 4 turns."
         ],
         "passives": [],
@@ -95945,7 +95945,7 @@ window.allHeroes =
         "health": 709,
         "effects": [
             "Deals 120% damage to all enemies.",
-            "All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive Special Skills."
+            "All enemies get -25% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [],
         "family": "atlantis",
@@ -97346,9 +97346,9 @@ window.allHeroes =
             "Perform a trick for a special effect:",
             "Swords:",
             "* Deals 255% damage to all enemies.",
-            "* All enemies get -54% accuracy for 3 turns and chance to miss also applies to offensive Special Skills.",
+            "* All enemies get -54% accuracy for 3 turns( Chance to miss also applies to offensive Special Skills.)",
             "Bottle:",
-            "* All allies get +24% mana generation for 4 turns.",
+            "* All allies get +24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "* All allies get +63% defense for 4 turns.",
             "Freeze:",
             "* The caster can't gain mana for 2 turns.",
@@ -97421,10 +97421,10 @@ window.allHeroes =
             "* Deals 270% damage to all enemies.",
             "* All enemies get -39% attack for 3 turns.",
             "Questionable Snake Oil",
-            "* All enemies get -24% mana generation for 3 turns.",
+            "* All enemies get -24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "* All enemies get -44% defense for 3 turns.",
             "Clearance Sale",
-            "* Increases the mana of all allies except the caster's by 3%.",
+            "* Increases the mana of all allies except the caster's by 3%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* The caster can't gain mana for 2 turns. This effect can't be cleansed."
         ],
         "passives": [],
@@ -106137,7 +106137,7 @@ window.allHeroes =
             "Deals 200% damage to all enemies.",
             "All Dark enemies get -34% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
             "All Ice enemies get -34% defense for 3 turns.",
-            "All Nature enemies get -34% mana generation for 3 turns.",
+            "All Nature enemies get -34% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "All Fire enemies get -34% attack for 3 turns."
         ],
         "passives": [
@@ -110274,7 +110274,7 @@ window.allHeroes =
         "effects": [
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1620 damage. Deals 40% more damage if the target of the Holy element. This Special Skill Never misses its targets",
             "Summon Owlkyrie Minion for the caster and nearby allies. The minion inherits 25% HP and 45% attack from the caster.",
-            "If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.).",
+            "If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
             "After the Full Removal is cast, the attacker shifts into Owlhalla Ghost form for 3 turns.",
             "While in Owlhalla the target receives 360 damage each turn. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but is immune to normal attack, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can't be cast if there is only one enemy left in the battle.)"
         ],
