@@ -12811,6 +12811,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
+        "effects": [
+            "Deals 450% damage to the target and all Nature enemies.",
+            "The attack bypasses defense buffs. (This includes counterattacks.)",
+            "The target and all Nature enemies receive 765 Burn damage over 3 turns.",
+            "Stack (Max: 10): The caster gets +25% attack."
+        ]
+    },
+    {
         "heroId": "slime_chingiriko",
         "name": "Chingiriko",
         "effects": [
@@ -18332,11 +18342,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "vegetable_chilazar",
-        "name": "Chilazar",
-        "effects": []
     },
     {
         "heroId": "s2_chameleon_chief_costume_cute",

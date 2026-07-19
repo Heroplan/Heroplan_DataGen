@@ -2893,7 +2893,9 @@
     "^Stack\\s+\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+allies\\s+get\\s+an\\s+additional\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for\\s+each\\s+destroyed\\s+Fiend\\.?\\s*$": "叠加（最多：\\1层 ）：每摧毁一个恶魔，所有盟友额外获得 \\2 攻击力。",
     "^\\(While\\s+in\\s+Ghost\\s+form\\s+character\\s+can['’]?t\\s+gain\\s+mana\\s+and\\s+can['’]?t\\s+be\\s+healed\\s+by\\s+Special\\s+Skills,\\s+but\\s+is\\s+immune\\s+to\\s+normal\\s+attacks,\\s+Special\\s+Skill\\s+attacks,\\s+damage\\s+dealing\\s+passives,\\s+status\\s+effects\\s+and\\s+stacks\\.?\\s*\\s+Immune\\s+to\\s+new\\s+Growth,\\s+Wither\\s+and\\s+Insanity\\s+effects\\.?\\s*\\)$": "（处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、造成伤害的被动技能、状态效果和叠加效果。免疫新的成长和衰退效果。）",
     "^All\\s+allies\\s+reflect\\s+all\\s+status\\s+effects\\s+and([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+back\\s+to\\s+the\\s+attacker\\s+\\s+and\\s+block\\s+other\\s+negative\\s+effects\\s+from\\s+enemies['’]?\\s+Ice\\s+Special\\s+Skills\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有盟友会将来自冰雪系敌人特殊技能的全部状态效果和\\1 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续\\2回合。",
-    "^\\*\\s+All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns$": "* 所有敌人获得 \\1 精准度，持续\\2回合，",
+    "^\\*\\s+All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns$": "* 所有敌人获得 \\1 精准度，持续\\2回合，。",
     "^\\(\\s+Chance\\s+to\\s+miss\\s+also\\s+applies\\s+to\\s+offensive\\s+Special\\s+Skills\\.?\\s*\\)$": "（进攻型特殊技能也有相同几率落空。）",
-    "^If\\s+the\\s+Owlkyrie\\s+Minion\\s+is\\s+defeated,\\s+Full\\s+Removal\\s+is\\s+cast\\s+on\\s+the\\s+attacker\\.?\\s*$": "若猫头鹰武神小兵被击败，对攻击者释放完全移除。"
+    "^If\\s+the\\s+Owlkyrie\\s+Minion\\s+is\\s+defeated,\\s+Full\\s+Removal\\s+is\\s+cast\\s+on\\s+the\\s+attacker\\.?\\s*$": "若猫头鹰武神小兵被击败，对攻击者释放完全移除。",
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+all\\s+Nature\\s+enemies\\.?\\s*$": "对目标和所有自然系敌人造成\\1伤害。",
+    "^The\\s+attack\\s+bypasses\\s+defense\\s+buffs\\.?\\s*$": "攻击会无视防御增益。"
 }

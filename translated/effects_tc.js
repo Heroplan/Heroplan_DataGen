@@ -12811,6 +12811,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
+        "effects": [
+            "對目標及所有自然敵人造成 450% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "目標和所有自然敵人在 3 回合內受到共計 765 點燃燒傷害。",
+            "疊加（最大值： 10 ）：施法者獲得 +25% 攻擊。"
+        ]
+    },
+    {
         "heroId": "slime_chingiriko",
         "name": "Chingiriko",
         "effects": [
@@ -18332,11 +18342,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "vegetable_chilazar",
-        "name": "Chilazar",
-        "effects": []
     },
     {
         "heroId": "s2_chameleon_chief_costume_cute",

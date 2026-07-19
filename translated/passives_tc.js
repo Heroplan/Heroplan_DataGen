@@ -9996,6 +9996,20 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "樹苗召喚：每回合對一位随機敵人召喚一個種子恶魔。",
+            "* 2 回合後，種子惡魔會進化為發芽惡魔。",
+            "* 2 回合後，發芽惡魔會进化為盛開超級惡魔。",
+            "* 惡魔每次吸收傷害後，進化會延遲 1 回合。",
+            "1 ） 种子惡魔： 50% 攻撃、 20% 生命。",
+            "2 ） 發芽惡魔： 75% 攻撃、 30% 生命。",
+            "3 ） 盛开超級惡魔： 250% 攻撃、 60% 生命。"
+        ]
+    },
+    {
         "heroId": "slime_chingiriko",
         "name": "Chingiriko",
         "passives": [
@@ -14345,11 +14359,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "vegetable_chilazar",
-        "name": "Chilazar",
-        "passives": []
     },
     {
         "heroId": "s2_chameleon_chief_costume_cute",

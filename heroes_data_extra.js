@@ -48992,5 +48992,25 @@ window.allHeroesExtra = [
             "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Chilazar",
+        "fancy name": "Inferno Chili",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
+        "Release date": "2026-07-19",
+        "AetherPower": "Attack Up",
+        "heroId": "vegetable_chilazar",
+        "baseAttack": 685,
+        "baseDefense": 676,
+        "baseHealth": 1164,
+        "specialId": "hot_and_spicy",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

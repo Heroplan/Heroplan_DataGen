@@ -12811,6 +12811,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
+        "effects": [
+            "对目标和所有自然系敌人造成 450% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标和所有自然系敌人在 3 回合内受到共计 765 点燃烧伤害。",
+            "叠加（最多： 10 层 ）：施法者获得 +25% 攻击力。"
+        ]
+    },
+    {
         "heroId": "slime_chingiriko",
         "name": "Chingiriko",
         "effects": [
@@ -18332,11 +18342,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "vegetable_chilazar",
-        "name": "Chilazar",
-        "effects": []
     },
     {
         "heroId": "s2_chameleon_chief_costume_cute",

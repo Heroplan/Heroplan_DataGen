@@ -9996,6 +9996,20 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "vegetable_chilazar",
+        "name": "Chilazar",
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
+            "1) Seedling Fiend: 50% attack, 20% health",
+            "2) Sprout Fiend: 75% attack, 30% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health."
+        ]
+    },
+    {
         "heroId": "slime_chingiriko",
         "name": "Chingiriko",
         "passives": [
@@ -14345,11 +14359,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "vegetable_chilazar",
-        "name": "Chilazar",
-        "passives": []
     },
     {
         "heroId": "s2_chameleon_chief_costume_cute",
