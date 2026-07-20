@@ -49012,5 +49012,81 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Gobbler toon",
+        "fancy name": "Toon Chameleon General",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-07-20",
+        "AetherPower": "Fiend Resist",
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "baseAttack": 271,
+        "baseDefense": 301,
+        "baseHealth": 629,
+        "specialId": "familiar_eater",
+        "specialId_costume": "toon_jaws",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "lagoon"
+    },
+    {
+        "name": "Alberich toon",
+        "fancy name": "Seelie Toon",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
+        "Release date": "2026-07-20",
+        "AetherPower": "Defense Up",
+        "heroId": "forest_god_oberon_costume_cute",
+        "baseAttack": 345,
+        "baseDefense": 368,
+        "baseHealth": 625,
+        "specialId": "midsummers_dream",
+        "specialId_costume": "toonsummers_dream",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_cleanse_newest"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
+    },
+    {
+        "name": "Inari toon",
+        "fancy name": "Nine-tailed Toon",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2026-07-20",
+        "AetherPower": "Attack Up",
+        "heroId": "s2_fox_girl_costume_cute",
+        "baseAttack": 402,
+        "baseDefense": 304,
+        "baseHealth": 637,
+        "specialId": "lucky_nine",
+        "specialId_costume": "toons_luck",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "87%",
+        "defenseBonus": "87%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "japanese"
     }
 ];

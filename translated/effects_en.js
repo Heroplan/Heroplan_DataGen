@@ -3075,7 +3075,7 @@ const allTranslations =
             "Deals 220% damage to all enemies.",
             "The damage is increased by 50% per each defeated enemy.",
             "Stack (Max: 10): All enemies receive 30 Frost damage per each defeated enemy or enemy minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy minion."
+            "Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy minion. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -3085,7 +3085,7 @@ const allTranslations =
             "Deals 320% damage to the target and nearby enemies.",
             "The damage is increased by 35% per each defeated enemy.",
             "Stack (Max: 10): All enemies receive 54 Frost damage per each defeated enemy or enemy Minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -7% mana generation per each defeated enemy or enemy Minion."
+            "Stack (Max: 10): All enemies get -7% mana generation per each defeated enemy or enemy Minion. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -4211,7 +4211,7 @@ const allTranslations =
             "Recovers 37% health for the caster and nearby allies.",
             "The caster and nearby allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
             "The caster and nearby allies get +74% defense against Special Skills for 3 turns.",
-            "The caster and nearby allies get +24% mana generation for 3 turns."
+            "The caster and nearby allies get +24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -4349,6 +4349,16 @@ const allTranslations =
             "Steals Minions from the target.",
             "Deals 310% damage to the target.",
             "The target receives 213 Sand damage over 3 turns. This effect spreads to nearby enemies."
+        ]
+    },
+    {
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "name": "Gobbler Toon",
+        "effects": [
+            "Destroys all Minions from all enemies and damages Mega Minions.",
+            "Deals 200% damage to all enemies.",
+            "All allies recover 100 HP for each destroyed Minion.",
+            "Deals extra damage against Ice."
         ]
     },
     {
@@ -4878,6 +4888,16 @@ const allTranslations =
             "All allies regenerate 648 HP over 4 turns.",
             "All allies get +38% mana generation for 4 turns.",
             "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
+        ]
+    },
+    {
+        "heroId": "forest_god_oberon_costume_cute",
+        "name": "Alberich Toon",
+        "effects": [
+            "Each defeated ally has a 60% chance to get revived with 30% HP.",
+            "All allies regenerate 1424 HP over 4 turns. This status effect is undispellable and lasts 2 turns longer on Nature characters.",
+            "For the next 4 turns, all allies receive 10% mana at the end of the turn. This status effect is undispellable and lasts 2 turns longer on Nature characters.",
+            "Element Link gives all Nature allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -14942,7 +14962,7 @@ const allTranslations =
         "name": "Agnes",
         "effects": [
             "Deals 320% damage to the target.",
-            "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks."
+            "The attack has a 60% chance to bypass defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
@@ -15786,7 +15806,7 @@ const allTranslations =
             "Deals 175% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns.",
             "The target and nearby enemies get -34% defense against Special Skills for 3 turns.",
-            "The target and nearby enemies get -64% mana generation for 3 turns."
+            "The target and nearby enemies get -64% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16838,6 +16858,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "s2_fox_girl_costume_cute",
+        "name": "Inari Toon",
+        "effects": [
+            "Deals 240% damage to all enemies.",
+            "All enemies get -34% defense against Holy for 3 turns.",
+            "All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge summons a Sakura Fox Minion.",
+            "Sakura Fox Minion has 20% HP and 30% attack inherited from the caster. The Minion adds 7% mana to its owner at the end of each turn."
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "effects": [
@@ -17458,7 +17488,7 @@ const allTranslations =
         "effects": [
             "Deals 100% damage to all enemies.",
             "Deals additional 18% damage per each Holy shield on the board, up to 244% damage in total",
-            "All allies get +8% mana generation, and a further 2% increase per each Holy shield on the board for 3 turns, up to +28% mana generation"
+            "All allies get +8% mana generation, and a further 2% increase per each Holy shield on the board for 3 turns, up to +28% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -17467,7 +17497,7 @@ const allTranslations =
         "effects": [
             "Deals 90% damage to all enemies.",
             "Deals additional 25% damage per each Holy shield on the board, up to 290% damage in total",
-            "All allies get +8% mana generation, and a further 3% increase per each Holy shield on the board for 3 turns, up to +38% mana generation"
+            "All allies get +8% mana generation, and a further 3% increase per each Holy shield on the board for 3 turns, up to +38% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -17907,13 +17937,13 @@ const allTranslations =
             "Special Skill has a different effect on consecutive uses, in the following order:",
             "1st:",
             "* Deals 280% damage to the target.",
-            "* The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* The target get -40% accuracy for 3 turns. (Chance to miss also applies to offensive special skills.)",
             "2nd:",
             "* Deals 280% damage to the target and nearby enemies.",
-            "* The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* The target and nearby enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive special skills.)",
             "3rd:",
             "* Deals 280% damage to all enemies.",
-            "* All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
+            "* All enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive special skills.)"
         ]
     },
     {
@@ -17923,13 +17953,13 @@ const allTranslations =
             "Special Skill has a different effect on consecutive uses, in the following order:",
             "1st:",
             "* Deals 185% damage to all enemies.",
-            "* All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* All enemies get -25% accuracy for 3 turns. (Chance to miss also applies to offensive special skills.)",
             "2nd:",
             "* Deals 260% damage to all enemies.",
-            "* All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* All enemies get -35% accuracy for 3 turns. (Chance to miss also applies to offensive special skills.)",
             "3rd:",
             "* Deals 290% damage to all enemies.",
-            "* All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
+            "* All enemies get -54% accuracy for 3 turns. (Chance to miss also applies to offensive special skills.)"
         ]
     },
     {
@@ -18342,21 +18372,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "s2_chameleon_chief_costume_cute",
-        "name": "Gobbler Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_fox_girl_costume_cute",
-        "name": "Inari Toon",
-        "effects": []
-    },
-    {
-        "heroId": "forest_god_oberon_costume_cute",
-        "name": "Alberich Toon",
-        "effects": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

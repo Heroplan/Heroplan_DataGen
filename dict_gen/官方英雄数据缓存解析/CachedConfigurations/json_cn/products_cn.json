@@ -15187,7 +15187,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery1",
         "dollarValue": 1,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15201,7 +15200,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery1_bonus",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21863,7 +21861,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_day_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21892,7 +21889,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_day_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21941,7 +21937,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_day_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22055,7 +22050,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_pre_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22069,7 +22063,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_pre_2",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27544,7 +27537,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27564,7 +27556,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27584,7 +27575,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier3",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27609,7 +27599,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27635,7 +27624,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier5",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28479,7 +28467,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_day_price10",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28673,7 +28660,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_price5",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28687,7 +28673,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_price30",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28701,7 +28686,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_30",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28750,7 +28734,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.summersolstice_100",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36257,7 +36240,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58857,5 +58840,5 @@
       }
     ]
   },
-  "productsConfigId": 1635262962
+  "productsConfigId": 2616074706
 }

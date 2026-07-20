@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (604 / 0)
+✅ 成功匹配的服装 (607 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -333,6 +333,7 @@ Name: Medea Costume1, Fancy Name: Naga Goddess of the Deep
 Name: Spartoi Costume1, Fancy Name: Naga Guard
 Name: Black Knight Costume1, Fancy Name: Negative Knight
 Name: Horghall Costume2, Fancy Name: Nightmare of the Woods
+Name: Inari toon, Fancy Name: Nine-tailed Toon
 Name: Quartz costume1, Fancy Name: Ninja of Ancient Graves
 Name: Garnet costume1, Fancy Name: Ninja of Flaming Vigor
 Name: Cobalt costume1, Fancy Name: Ninja of Turbulent Seas
@@ -400,6 +401,7 @@ Name: Azar Glass, Fancy Name: Seeker of Glass
 Name: Azar Costume1, Fancy Name: Seeker of Gods
 Name: Azar stylish, Fancy Name: Seeker of Style
 Name: Azar Toon, Fancy Name: Seeker of Toons
+Name: Alberich toon, Fancy Name: Seelie Toon
 Name: Drake Fong Costume1, Fancy Name: Serene Fighter
 Name: Almur toon, Fancy Name: Shadowtoon of Svartalfheim
 Name: Dawa Costume1, Fancy Name: Shaguadian Guardian
@@ -509,6 +511,7 @@ Name: Triton toon, Fancy Name: Toon Captain of Atlantis
 Name: Rigard Toon, Fancy Name: Toon Cavalier
 Name: Hel toon, Fancy Name: Toon Celestial of Darkness
 Name: Athena toon, Fancy Name: Toon Celestial of Ice
+Name: Gobbler toon, Fancy Name: Toon Chameleon General
 Name: Agwe toon, Fancy Name: Toon Chameleon Shaman
 Name: Sonya Toon, Fancy Name: Toon Champion
 Name: Kashhrek Toon, Fancy Name: Toon Chieftain

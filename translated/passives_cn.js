@@ -3370,6 +3370,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "name": "Gobbler Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "fables_hansel",
         "name": "Hansel",
         "passives": []
@@ -3769,6 +3776,14 @@ const translatedPassivesCN =
         "heroId": "forest_god_oberon_costume_everoak",
         "name": "Alberich C1",
         "passives": [
+            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+        ]
+    },
+    {
+        "heroId": "forest_god_oberon_costume_cute",
+        "name": "Alberich Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。",
             "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
         ]
     },
@@ -13180,6 +13195,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "s2_fox_girl_costume_cute",
+        "name": "Inari Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "passives": [
@@ -14359,21 +14381,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "s2_chameleon_chief_costume_cute",
-        "name": "Gobbler Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_fox_girl_costume_cute",
-        "name": "Inari Toon",
-        "passives": []
-    },
-    {
-        "heroId": "forest_god_oberon_costume_cute",
-        "name": "Alberich Toon",
-        "passives": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

@@ -2896,6 +2896,13 @@
     "^\\*\\s+All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns$": "* 所有敌人获得 \\1 精准度，持续\\2回合，。",
     "^\\(\\s+Chance\\s+to\\s+miss\\s+also\\s+applies\\s+to\\s+offensive\\s+Special\\s+Skills\\.?\\s*\\)$": "（进攻型特殊技能也有相同几率落空。）",
     "^If\\s+the\\s+Owlkyrie\\s+Minion\\s+is\\s+defeated,\\s+Full\\s+Removal\\s+is\\s+cast\\s+on\\s+the\\s+attacker\\.?\\s*$": "若猫头鹰武神小兵被击败，对攻击者释放完全移除。",
-    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+all\\s+Nature\\s+enemies\\.?\\s*$": "对目标和所有自然系敌人造成\\1伤害。",
-    "^The\\s+attack\\s+bypasses\\s+defense\\s+buffs\\.?\\s*$": "攻击会无视防御增益。"
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+all\\s+Nature\\s+enemies\\.?\\s*$": "对目标和所有自然系敌人造成\\1 伤害。",
+    "^The\\s+attack\\s+bypasses\\s+defense\\s+buffs\\.?\\s*$": "攻击会无视防御增益。",
+    "^For\\s+the\\s+next([+-]?\\s*\\d+\\s*%?)turns,\\s+all\\s+allies\\s+receive([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+at\\s+the\\s+end\\s+of\\s+the\\s+turn\\.?\\s*\\s+This\\s+status\\s+effect\\s+is\\s+undispellable\\s+and\\s+lasts([+-]?\\s*\\d+\\s*%?)turns\\s+longer\\s+on\\s+Nature\\s+characters\\.?\\s*$": "在接下来的\\1回合，所有盟友在回合结束时获得\\2 的法力值。对所有自然系角色，此状态效果无法驱散且持续时间延长\\3回合。",
+    "^All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+against\\s+Holy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有敌人获得对神圣系 \\1 的防御，持续\\2回合。",
+    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Each\\s+dodge\\s+summons\\s+a\\s+Sakura\\s+Fox\\s+Minion\\.?\\s*$": "所有盟友有 \\1 几率闪避特殊技能，持续\\2回合。每次闪避会召唤一名樱花狐狸小兵。",
+    "^Sakura\\s+Fox\\s+Minion\\s+has([+-]?\\s*\\d+\\s*%?)\\s+HP\\s+and([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+inherited\\s+from\\s+the\\s+caster\\.?\\s*\\s+The\\s+Minion\\s+adds([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+to\\s+its\\s+owner\\s+at\\s+the\\s+end\\s+of\\s+each\\s+turn\\.?\\s*$": "樱花狐狸小兵从施法者处继承了\\1 生命和\\2 攻击力。小兵可在每回合结束时为主人增加\\3 法力。",
+    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation,\\s+and\\s+a\\s+further([+-]?\\s*\\d+\\s*%?)\\s+increase\\s+per\\s+each\\s+Holy\\s+shield\\s+on\\s+the\\s+board\\s+for([+-]?\\s*\\d+\\s*%?)turns,\\s+up\\s+to\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\.?\\s*$": "所有盟友获得 \\1 法力生成，且面板中每个神圣系盾牌额外提升\\2 法力生成，持续\\3回合，最多累计至 \\4 法力生成。",
+    "^\\*\\s+The\\s+target\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 目标获得 \\1 精准度，持续\\2回合。",
+    "^\\*\\s+All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有敌人获得 \\1 精准度，持续\\2回合。"
 }

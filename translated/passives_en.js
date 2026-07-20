@@ -3370,6 +3370,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "name": "Gobbler Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
+    },
+    {
         "heroId": "fables_hansel",
         "name": "Hansel",
         "passives": []
@@ -3770,6 +3777,14 @@ const allTranslations =
         "name": "Alberich C1",
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
+        ]
+    },
+    {
+        "heroId": "forest_god_oberon_costume_cute",
+        "name": "Alberich Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
@@ -13180,6 +13195,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "s2_fox_girl_costume_cute",
+        "name": "Inari Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "passives": [
@@ -14359,21 +14381,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "s2_chameleon_chief_costume_cute",
-        "name": "Gobbler Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_fox_girl_costume_cute",
-        "name": "Inari Toon",
-        "passives": []
-    },
-    {
-        "heroId": "forest_god_oberon_costume_cute",
-        "name": "Alberich Toon",
-        "passives": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

@@ -20927,20 +20927,20 @@
             ],
             "featuredClassesPerRound": [
               [
-                "Ranger",
-                "Barbarian"
-              ],
-              [
-                "Rogue",
-                "Wizard"
-              ],
-              [
-                "Paladin",
+                "Barbarian",
                 "Fighter"
+              ],
+              [
+                "Wizard",
+                "Paladin"
               ],
               [
                 "Druid",
                 "Sorcerer"
+              ],
+              [
+                "Ranger",
+                "Rogue"
               ]
             ],
             "classBonusId": "league_class_hero_bonus",
@@ -96171,10 +96171,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "86.0.1",
-    "maxVersionToShowUpdateOutReminderIos": "86.0.1",
+    "maxVersionToShowUpdateOutReminderAndroid": "87.0.1",
+    "maxVersionToShowUpdateOutReminderIos": "87.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.1",
-    "standaloneNewVersionRolloutPercentage": 50,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96279,5 +96279,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2620814219
+  "otherConfigId": 1713925250
 }

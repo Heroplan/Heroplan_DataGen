@@ -3370,6 +3370,13 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "s2_chameleon_chief_costume_cute",
+        "name": "Gobbler Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "fables_hansel",
         "name": "Hansel",
         "passives": []
@@ -3769,6 +3776,14 @@ const translatedPassivesTC =
         "heroId": "forest_god_oberon_costume_everoak",
         "name": "Alberich C1",
         "passives": [
+            "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
+        ]
+    },
+    {
+        "heroId": "forest_god_oberon_costume_cute",
+        "name": "Alberich Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。",
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ]
     },
@@ -13180,6 +13195,13 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "s2_fox_girl_costume_cute",
+        "name": "Inari Toon",
+        "passives": [
+            "賦能公仔：有 75% 额外機率可抵禦所有状態異常、法力減損與增益驅散。每次成功抵禦可獲得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "passives": [
@@ -14359,21 +14381,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "s2_chameleon_chief_costume_cute",
-        "name": "Gobbler Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_fox_girl_costume_cute",
-        "name": "Inari Toon",
-        "passives": []
-    },
-    {
-        "heroId": "forest_god_oberon_costume_cute",
-        "name": "Alberich Toon",
-        "passives": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",
