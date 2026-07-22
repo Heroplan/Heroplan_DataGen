@@ -1671,6 +1671,29 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_blue",
+        "name": "Iron Mimic Ice",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages:",
+            "Legendary:",
+            "* Giant Iron Bundle",
+            "Epic:",
+            "* Large Iron Bundle",
+            "Rare:",
+            "* Medium Iron Bundle",
+            "Uncommon:",
+            "* Small Iron Bundle",
+            "* Imperial Soldiers",
+            "* Militia Rookies",
+            "Common",
+            "* Tiny Iron Bundle",
+            "* Common Villagers",
+            "* Militia Archers",
+            "* Imperial Strikers"
+        ]
+    },
+    {
         "heroId": "nordic_ice_enchantress",
         "name": "Isarnia",
         "passives": []
@@ -14381,11 +14404,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "mimic_iron_blue",
-        "name": "Iron Mimic",
-        "passives": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

@@ -49088,5 +49088,25 @@ window.allHeroesExtra = [
         "healthBonus": "90%",
         "manaBonus": "5%",
         "family": "japanese"
+    },
+    {
+        "name": "Iron Mimic Ice",
+        "fancy name": "Iron Satchel of Terror",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-07-22",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_iron_blue",
+        "baseAttack": 701,
+        "baseDefense": 699,
+        "baseHealth": 1185,
+        "specialId": "iron_mimic_bite_blue",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_iron_blue"
+        ],
+        "family": "mimic"
     }
 ];

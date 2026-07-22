@@ -2929,5 +2929,7 @@
     "^\\(This\\s+effect\\s+cannot\\s+be\\s+replaced\\s+with\\s+itself\\.?\\s*\\)$": "（此效果無法被自身取代。）",
     "^The\\s+caster\\s+get\\s+Taunt\\s+that\\s+prevents\\s+enemies\\s+from\\s+using\\s+Special\\s+Skills\\s+on\\s+the\\s+caster['’]?s\\s+allies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續\\1回合。",
     "^Heals\\s+all\\s+allies\\s+who\\s+have\\s+less\\s+than([+-]?\\s*\\d+\\s*%?)\\s+HP\\s+left\\s+to([+-]?\\s*\\d+\\s*%?)\\s+health\\.?\\s*\\s+\\(Ignores\\s+heal\\s+steal,\\s+healing\\s+modifiers\\s+and\\s+Fiends\\.?\\s*$": "為剩餘生命少於\\1 的盟友，將生命恢復至\\2。（無視治療竊取、治療量修改和恶魔。）",
-    "^\\(Allied\\s+heroes\\s+must\\s+be\\s+alive\\s+for\\s+the\\s+effect\\s+to\\s+activate\\.?\\s*\\)$": "（友方英雄需活著才能觸發該效果。）"
+    "^\\(Allied\\s+heroes\\s+must\\s+be\\s+alive\\s+for\\s+the\\s+effect\\s+to\\s+activate\\.?\\s*\\)$": "（友方英雄需活著才能觸發該效果。）",
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+one\\s+random\\s+enemy\\.?\\s*$": "對目標和一名隨機敵人造成\\1傷害。",
+    "^\\(After\\s+a\\s+character\\s+has\\s+received([+-]?\\s*\\d+\\s*%?)direct\\s+mana\\s+additions\\s+from\\s+Special\\s+Skills\\s+during\\s+a\\s+single\\s+turn,\\s+all\\s+subsequent\\s+direct\\s+mana\\s+additions\\s+don\\s+by\\s+Special\\s+Skills\\s+will\\s+have\\s+a\\s+reduced\\s+power\\s+on\\s+that\\s+character\\.?\\s*\\)$": "（角色在單一回合中，透過特殊技能獲得\\1點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）"
 }

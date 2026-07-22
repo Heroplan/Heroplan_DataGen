@@ -130,5 +130,89 @@
         "costume_id": 0,
         "heroId": "ronin_tenzin_kiba",
         "Lottery_Only": 1
+    },
+    {
+        "name": "Avani",
+        "fancy_name": "Vigilante of Sacred Grove",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-01 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_avani",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Elena Stylish",
+        "fancy_name": "Captain of the Style Guard",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-02 07:00:00",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "nomad_female_lord_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Rigard Stylish",
+        "fancy_name": "Stylish Cavalier",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-02 07:00:00",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "blackguard_knight_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Chao Stylish",
+        "fancy_name": "Stylish Tactician",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-02 07:00:00",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "oriental_falconer_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Hawkmoon Stylish",
+        "fancy_name": "Stylish Shaman",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-02 07:00:00",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Carver Stylish",
+        "fancy_name": "Stylish Cutpurse",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-02 07:00:00",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "goblin_fighter_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Veldt",
+        "fancy_name": "Trapper from the Wilds",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-03 07:00:00",
+        "star": 5,
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "heroId": "titan_hunter_veldt",
+        "Lottery_Only": 1
     }
 ]

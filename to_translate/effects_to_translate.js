@@ -2048,6 +2048,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_blue",
+        "name": "Iron Mimic Ice",
+        "effects": [
+            "Deals 500% damage to the target and one random enemy.",
+            "All hit targets get -20% defense for 4 turns.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "nordic_ice_enchantress",
         "name": "Isarnia",
         "effects": [
@@ -18368,11 +18378,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "mimic_iron_blue",
-        "name": "Iron Mimic",
-        "effects": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

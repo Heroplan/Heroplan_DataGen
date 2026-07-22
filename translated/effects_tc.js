@@ -2048,6 +2048,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "mimic_iron_blue",
+        "name": "Iron Mimic Ice",
+        "effects": [
+            "對目標和一名隨機敵人造成 500% 傷害。",
+            "所有命中目標獲得 -20% 防禦，持續 4 回合。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ]
+    },
+    {
         "heroId": "nordic_ice_enchantress",
         "name": "Isarnia",
         "effects": [
@@ -18368,11 +18378,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "mimic_iron_blue",
-        "name": "Iron Mimic",
-        "effects": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

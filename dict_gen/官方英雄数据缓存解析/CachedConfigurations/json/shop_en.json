@@ -62519,6 +62519,20 @@
         "endTime": "2026-07-30 07:00:00"
       },
       {
+        "id": "emblemvault",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-28 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
+      },
+      {
+        "id": "m_emblemvault",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-28 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
+      },
+      {
         "id": "ancient_dragon_calendar",
         "slot": "LeftExtraTop",
         "startTime": "2026-07-28 07:00:00",
@@ -62537,6 +62551,20 @@
         "scheduledManually": true,
         "startTime": "2026-07-28 07:00:00",
         "endTime": "2026-08-01 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.alliancegiftoffer",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-29 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-29 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
       },
       {
         "id": "kalevala_day17",
@@ -62560,6 +62588,13 @@
         "id": "dragon_select_asc4_new",
         "slot": "LeftBottom",
         "startTime": "2026-07-29 07:00:00",
+        "endTime": "2026-07-31 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-30 07:00:00",
         "endTime": "2026-07-31 07:00:00"
       },
       {
@@ -62594,12 +62629,26 @@
         "endTime": "2026-08-03 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-31 07:00:00",
+        "endTime": "2026-08-01 07:00:00"
+      },
+      {
         "id": "kalevala_day19",
         "slot": "LeftTop",
         "customContents": [
           "seasonalcalendar_5_day19",
           "seasonalcalendar_5_10_saturdaybag"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-07-31 07:00:00",
+        "endTime": "2026-08-01 07:00:00"
+      },
+      {
+        "id": "step_up",
+        "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2026-07-31 07:00:00",
         "endTime": "2026-08-01 07:00:00"
@@ -62615,6 +62664,13 @@
         "id": "dragon_triple_snowys_treasure_new",
         "slot": "RightTop",
         "startTime": "2026-07-31 07:00:00",
+        "endTime": "2026-08-02 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-01 07:00:00",
         "endTime": "2026-08-02 07:00:00"
       },
       {
@@ -62638,6 +62694,13 @@
       {
         "id": "dragon_owlfords_new",
         "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-08-01 07:00:00",
+        "endTime": "2026-08-03 07:00:00"
+      },
+      {
+        "id": "selectable_ascension_2",
+        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2026-08-01 07:00:00",
         "endTime": "2026-08-03 07:00:00"
@@ -62668,6 +62731,13 @@
         "endTime": "2026-08-03 07:00:00"
       },
       {
+        "id": "triple_alpha",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-02 07:00:00",
+        "endTime": "2026-08-04 07:00:00"
+      },
+      {
         "id": "wardrobe",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -62681,6 +62751,13 @@
           "seasonalcalendar_5_day22",
           "seasonalcalendar_10_barbarian_ranger"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-08-03 07:00:00",
+        "endTime": "2026-08-04 07:00:00"
+      },
+      {
+        "id": "titanhunter_a",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-08-03 07:00:00",
         "endTime": "2026-08-04 07:00:00"
@@ -62717,6 +62794,13 @@
         "endTime": "2026-08-05 07:00:00"
       },
       {
+        "id": "titanhunter_b",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-08-04 07:00:00",
+        "endTime": "2026-08-05 07:00:00"
+      },
+      {
         "id": "dragon_trainer_1",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
@@ -62742,6 +62826,13 @@
           "seasonalcalendar_5_ascension5",
           "seasonalcalendar_10_day24"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-08-05 07:00:00",
+        "endTime": "2026-08-06 07:00:00"
+      },
+      {
+        "id": "titanhunter_a",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-08-05 07:00:00",
         "endTime": "2026-08-06 07:00:00"
@@ -62773,6 +62864,13 @@
           "seasonalcalendar_10_day38",
           "seasonalcalendar_30_day25"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-08-06 07:00:00",
+        "endTime": "2026-08-07 07:00:00"
+      },
+      {
+        "id": "titanhunter_b",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-08-06 07:00:00",
         "endTime": "2026-08-07 07:00:00"
@@ -69561,8 +69659,8 @@
                 "costume_quest3"
               ],
               "featuredCostumeItems": [
-                "magitech_sniper_costume_stylish",
-                "oriental_warrior_king_costume_stylish"
+                "nomad_female_lord_costume_stylish",
+                "magitech_sniper_costume_stylish"
               ]
             },
             {
@@ -70790,6 +70888,22 @@
                 "tales2_hreidmarr_costume_trader",
                 "elemental_farrah_costume_cyber"
               ]
+            },
+            {
+              "lotteryProductType": "Covenant Summon",
+              "id": "lottery_covenant_2026_07_29",
+              "productId": "lottery_covenant_default",
+              "startDate": "2026-07-29 07:00:00",
+              "endDate": "2026-08-02 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "ghost_shu_jing",
+                "institute_zenas",
+                "institute_axioma",
+                "beauty_beast_rose_de_flo",
+                "musketeer_cardinal_richelieu_costume_ambassador",
+                "outlaw_xiang_chong"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -71348,9 +71462,9 @@
               "overridden": true,
               "featuredHeroes": [
                 "wild_cat_irme",
-                "wild_cat_mina",
+                "institute_azureus",
                 "mahayoddha_ajay",
-                "outlaw_xiang_chong"
+                "vegetable_big_barry"
               ]
             },
             {
@@ -72141,8 +72255,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "astral_demon_madarika",
-                "astral_demon_zondalath"
+                "astral_demon_ushal",
+                "astral_demon_zhakiturion"
               ]
             },
             {
@@ -74251,8 +74365,8 @@
                 "temple1"
               ],
               "featuredHeroes": [
-                "mahayoddha_bhairavi_devi",
-                "mahayoddha_veer"
+                "mahayoddha_avani",
+                "mahayoddha_devyani"
               ]
             }
           ],
@@ -75013,6 +75127,55 @@
               "featuredHeroes": [
                 "titan_hunter_brachynd",
                 "titan_hunter_orson"
+              ],
+              "includedHeroes": [
+                "faun_isidore",
+                "s4_phileas_fogg_costume_engineer",
+                "ice_god_athena_costume_wargoddess",
+                "easter_jasper_costume_fisherman",
+                "goblin_darkfeather",
+                "tales1_gestalt_costume_pearls",
+                "ballerina_daroga",
+                "ice_god_perseus_costume_frozen",
+                "guardian_elephant",
+                "elemental_gastille",
+                "elemental_ash",
+                "ballerina_armand",
+                "goblin_grimsteel",
+                "astral_dwarf_haumri",
+                "elemental_farrah",
+                "s2_rugged_fisherman_costume_sake_master",
+                "castle_raven_franz",
+                "s3_jott",
+                "guardian_jackal_assassin_costume_bones",
+                "tales1_sharkhai_costume_butcher",
+                "kingdom_sun_shangxiang",
+                "s3_almur_costume_lord",
+                "tales2_dain",
+                "monster_hunter_bogart",
+                "magic_sergei",
+                "tales1_bagreg_costume_scout",
+                "astral_dwarf_chires",
+                "s3_nordri_costume_explorer",
+                "beachparty_dolrak",
+                "knights_treevil",
+                "christmas_buster",
+                "bard_zarel",
+                "ballerina_swan_maiden",
+                "shadow_cthuwu",
+                "s2_fiji_mermaid_costume_hunter"
+              ]
+            },
+            {
+              "lotteryProductType": "Titan Hunter Summon",
+              "id": "titan_hunter_2026_08_03",
+              "productId": "lottery_titan_hunter_default",
+              "startDate": "2026-08-03 07:00:00",
+              "endDate": "2026-08-07 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "titan_hunter_veldt",
+                "monster_hunter_sorcha"
               ],
               "includedHeroes": [
                 "faun_isidore",
@@ -88770,8 +88933,8 @@
           {
             "entities": [
               "dragon_wingmane",
-              "dragon_ardentis",
-              "dragon_ashenheart"
+              "dragon_goldbeak",
+              "dragon_trezoro"
             ]
           },
           {
@@ -92829,5 +92992,5 @@
       ]
     }
   },
-  "shopConfigId": 1325646918
+  "shopConfigId": 85419215
 }

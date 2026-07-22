@@ -62519,6 +62519,20 @@
         "endTime": "2026-07-30 07:00:00"
       },
       {
+        "id": "emblemvault",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-28 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
+      },
+      {
+        "id": "m_emblemvault",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-28 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
+      },
+      {
         "id": "ancient_dragon_calendar",
         "slot": "LeftExtraTop",
         "startTime": "2026-07-28 07:00:00",
@@ -62537,6 +62551,20 @@
         "scheduledManually": true,
         "startTime": "2026-07-28 07:00:00",
         "endTime": "2026-08-01 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.alliancegiftoffer",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-29 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-29 07:00:00",
+        "endTime": "2026-07-30 07:00:00"
       },
       {
         "id": "kalevala_day17",
@@ -62560,6 +62588,13 @@
         "id": "dragon_select_asc4_new",
         "slot": "LeftBottom",
         "startTime": "2026-07-29 07:00:00",
+        "endTime": "2026-07-31 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-30 07:00:00",
         "endTime": "2026-07-31 07:00:00"
       },
       {
@@ -62594,12 +62629,26 @@
         "endTime": "2026-08-03 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-07-31 07:00:00",
+        "endTime": "2026-08-01 07:00:00"
+      },
+      {
         "id": "kalevala_day19",
         "slot": "LeftTop",
         "customContents": [
           "seasonalcalendar_5_day19",
           "seasonalcalendar_5_10_saturdaybag"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-07-31 07:00:00",
+        "endTime": "2026-08-01 07:00:00"
+      },
+      {
+        "id": "step_up",
+        "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2026-07-31 07:00:00",
         "endTime": "2026-08-01 07:00:00"
@@ -62615,6 +62664,13 @@
         "id": "dragon_triple_snowys_treasure_new",
         "slot": "RightTop",
         "startTime": "2026-07-31 07:00:00",
+        "endTime": "2026-08-02 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-01 07:00:00",
         "endTime": "2026-08-02 07:00:00"
       },
       {
@@ -62638,6 +62694,13 @@
       {
         "id": "dragon_owlfords_new",
         "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-08-01 07:00:00",
+        "endTime": "2026-08-03 07:00:00"
+      },
+      {
+        "id": "selectable_ascension_2",
+        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2026-08-01 07:00:00",
         "endTime": "2026-08-03 07:00:00"
@@ -62668,6 +62731,13 @@
         "endTime": "2026-08-03 07:00:00"
       },
       {
+        "id": "triple_alpha",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-02 07:00:00",
+        "endTime": "2026-08-04 07:00:00"
+      },
+      {
         "id": "wardrobe",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -62681,6 +62751,13 @@
           "seasonalcalendar_5_day22",
           "seasonalcalendar_10_barbarian_ranger"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-08-03 07:00:00",
+        "endTime": "2026-08-04 07:00:00"
+      },
+      {
+        "id": "titanhunter_a",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-08-03 07:00:00",
         "endTime": "2026-08-04 07:00:00"
@@ -62717,6 +62794,13 @@
         "endTime": "2026-08-05 07:00:00"
       },
       {
+        "id": "titanhunter_b",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-08-04 07:00:00",
+        "endTime": "2026-08-05 07:00:00"
+      },
+      {
         "id": "dragon_trainer_1",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
@@ -62742,6 +62826,13 @@
           "seasonalcalendar_5_ascension5",
           "seasonalcalendar_10_day24"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-08-05 07:00:00",
+        "endTime": "2026-08-06 07:00:00"
+      },
+      {
+        "id": "titanhunter_a",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-08-05 07:00:00",
         "endTime": "2026-08-06 07:00:00"
@@ -62773,6 +62864,13 @@
           "seasonalcalendar_10_day38",
           "seasonalcalendar_30_day25"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-08-06 07:00:00",
+        "endTime": "2026-08-07 07:00:00"
+      },
+      {
+        "id": "titanhunter_b",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-08-06 07:00:00",
         "endTime": "2026-08-07 07:00:00"
@@ -69561,8 +69659,8 @@
                 "costume_quest3"
               ],
               "featuredCostumeItems": [
-                "magitech_sniper_costume_stylish",
-                "oriental_warrior_king_costume_stylish"
+                "nomad_female_lord_costume_stylish",
+                "magitech_sniper_costume_stylish"
               ]
             },
             {
@@ -70790,6 +70888,22 @@
                 "赫里德马尔-皇家矮人商人",
                 "法拉-赛博刀锋大师"
               ]
+            },
+            {
+              "lotteryProductType": "盟约召唤",
+              "id": "lottery_covenant_2026_07_29",
+              "productId": "lottery_covenant_default",
+              "startDate": "2026-07-29 07:00:00",
+              "endDate": "2026-08-02 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "舒静",
+                "泽纳斯",
+                "西奥玛",
+                "罗丝·德·弗洛",
+                "红衣主教黎塞留-双面使节",
+                "项充"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -71348,9 +71462,9 @@
               "overridden": true,
               "featuredHeroes": [
                 "伊尔梅",
-                "米娜",
+                "祖里奥斯",
                 "阿杰",
-                "项充"
+                "大巴里"
               ]
             },
             {
@@ -72141,8 +72255,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "马达里卡",
-                "尊达拉斯"
+                "乌煞尔",
+                "扎基图里昂"
               ]
             },
             {
@@ -74251,8 +74365,8 @@
                 "temple1"
               ],
               "featuredHeroes": [
-                "巴洛维德威",
-                "维尔"
+                "阿瓦尼",
+                "黛瓦妮"
               ]
             }
           ],
@@ -75013,6 +75127,55 @@
               "featuredHeroes": [
                 "布拉齐德",
                 "奥森"
+              ],
+              "includedHeroes": [
+                "艾西多尔",
+                "斐利亚·福格-精湛工程师",
+                "阿西娜-战争女神",
+                "贾斯珀-渔人公牛",
+                "暗羽",
+                "格式塔-永恒明珠王子",
+                "达洛加",
+                "柏休斯-玻瑞阿斯的挑战者",
+                "巨象守护者",
+                "加斯蒂尔",
+                "余烬",
+                "阿曼德·孟夏曼",
+                "寒铁",
+                "哈乌里",
+                "法拉",
+                "威尔伯-无畏酒仙",
+                "弗朗茨",
+                "乔特",
+                "豺狼守护者-特尔托克集骨者",
+                "沙凯-锯齿屠夫",
+                "孙尚香",
+                "阿穆尔-瓦特海姆之王",
+                "达因",
+                "博加特",
+                "谢尔盖",
+                "巴格雷格-鱼仔斥候",
+                "奇雷斯",
+                "诺德里-约顿海姆探险家矮人",
+                "多拉克",
+                "树威尔",
+                "巴斯特",
+                "扎丽尔",
+                "天鹅室女",
+                "克苏乌",
+                "鳃拉-浅滩追逐者"
+              ]
+            },
+            {
+              "lotteryProductType": "泰坦猎手召唤",
+              "id": "titan_hunter_2026_08_03",
+              "productId": "lottery_titan_hunter_default",
+              "startDate": "2026-08-03 07:00:00",
+              "endDate": "2026-08-07 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "威尔德",
+                "索查"
               ],
               "includedHeroes": [
                 "艾西多尔",
@@ -88770,8 +88933,8 @@
           {
             "entities": [
               "dragon_wingmane",
-              "dragon_ardentis",
-              "dragon_ashenheart"
+              "dragon_goldbeak",
+              "dragon_trezoro"
             ]
           },
           {
@@ -92829,5 +92992,5 @@
       ]
     }
   },
-  "shopConfigId": 1325646918
+  "shopConfigId": 85419215
 }

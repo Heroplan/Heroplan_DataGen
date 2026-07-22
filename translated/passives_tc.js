@@ -1671,6 +1671,29 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "mimic_iron_blue",
+        "name": "Iron Mimic Ice",
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
+            "* 鐵塊巨禮包。",
+            "史詩：",
+            "* 鐵塊大禮包。",
+            "稀有：",
+            "* 鐵塊中禮包。",
+            "罕見：",
+            "* 鐵塊小禮包。",
+            "* 帝國士兵。",
+            "* 民兵菜烏。",
+            "普通：",
+            "* 鐵塊微禮包。",
+            "* 普通村民。",
+            "* 民兵箭手。",
+            "* 帝國先鋒。"
+        ]
+    },
+    {
         "heroId": "nordic_ice_enchantress",
         "name": "Isarnia",
         "passives": []
@@ -14381,11 +14404,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "mimic_iron_blue",
-        "name": "Iron Mimic",
-        "passives": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",

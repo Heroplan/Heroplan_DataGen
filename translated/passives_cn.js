@@ -1671,6 +1671,29 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "mimic_iron_blue",
+        "name": "Iron Mimic Ice",
+        "passives": [
+            "完美精准度：该角色的特殊技能必定命中目标。",
+            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。:",
+            "传奇：",
+            "* 铁块巨型包。",
+            "史诗：",
+            "* 铁块大礼包。",
+            "稀有：",
+            "* 铁块中礼包。",
+            "罕见：",
+            "* 铁块小礼包。",
+            "* 帝国士兵。",
+            "* 民兵菜鸟。",
+            "普通：",
+            "* 铁块微小礼包。",
+            "* 普通村民。",
+            "* 民兵箭手。",
+            "* 帝国先锋。"
+        ]
+    },
+    {
         "heroId": "nordic_ice_enchantress",
         "name": "Isarnia",
         "passives": []
@@ -14381,11 +14404,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "mimic_iron_blue",
-        "name": "Iron Mimic",
-        "passives": []
     },
     {
         "heroId": "goblin_darkfeather_costume_glowing",
