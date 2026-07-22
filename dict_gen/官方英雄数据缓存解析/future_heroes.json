@@ -890,18 +890,6 @@
     {
         "name": "Iron Mimic",
         "fancy_name": "Iron Satchel of Terror",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_iron_blue",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Iron Mimic",
-        "fancy_name": "Iron Satchel of Terror",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",

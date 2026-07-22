@@ -14383,6 +14383,11 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_blue",
+        "name": "Iron Mimic",
+        "passives": []
+    },
+    {
         "heroId": "goblin_darkfeather_costume_glowing",
         "name": "Darkfeather C",
         "passives": []

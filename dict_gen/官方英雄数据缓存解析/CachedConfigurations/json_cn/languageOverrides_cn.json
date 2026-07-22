@@ -122,6 +122,10 @@
           {
             "key": "specials.v2.property.secondarydirecteffect.damage.allminor.enemies",
             "text": "Наносит {SECONDARYPOWER} % урона цели и незначительный урон всем прочим врагам."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.specialskilldefensemodifier.neartotarget.enemies.withactivationcount.one.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.sleep_philomena.unreallocatable",
+            "text": "[#!]Недуг усиленной защиты:[#] цель и ближайшие враги получают {SPECIALSKILLDEFENSE} % защиты против особых навыков. Эффект длится, пока враг не получит урон от особого навыка.\n[*] Когда [#!]недуг усиленной защиты[#] заканчивается, снимается или заменяется, враг [#!]засыпает[#]. Пока враг спит, он получает на {STATUSEFFECT1DAMAGEMODIFIER} % больше урона."
           }
         ]
       },
@@ -182,6 +186,10 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "Usuwa dolegliwość [#!]robak umysłu[#] z rzucającego."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
+            "text": "Regeneracja zdrowia celu zostaje zmniejszona o {HEALING}%, a wszystkich pozostałych wrogów o {MINORHEALING}% na okres {TURNS} tur."
           }
         ]
       },
@@ -302,6 +310,10 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "시전자의 [#!]마인드웜[#] 상태 이상을 제거합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies",
+            "text": "시전자와 근처 아군의 특수 스킬이 {TURNS}턴 동안 추가로 {POWER}% 피해를 줍니다."
           }
         ]
       },
@@ -362,6 +374,10 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "Entfernt den Statuseffekt [#!]Verstandswurm[#] vom Wirker."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies",
+            "text": "Der Wirker und nahe Verbündete sind für {TURNS} Züge immun gegen neue Effekte, die die Nutzung von Spezialangriffen verhindern."
           }
         ]
       },
@@ -422,6 +438,10 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "術者から[#!]マインドワーム[#]のステータス異常を消去する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
+            "text": "{TURNS}ターンの間、ターゲットが受ける回復量が{HEALING}%、他の敵全員の回復量が{MINORHEALING}%になる。"
           }
         ]
       },
@@ -542,6 +562,18 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.dodgespecialdamage.neartotarget.allies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.attack_buff_peregrine",
+            "text": "[#!]Geliştirilmiş Savuşturma[#]: Eylemci ve yakındaki müttefikler %{DODGE} şansla, hasar veren Özel Yetenekleri savuşturur. Bu efekt, müttefik {MAXACTIVATIONCOUNT} defa başarıyla savuşturana kadar geçerlidir.\n[*] [#!]Geliştirilmiş Savuşturma[#] sona erdikten, kaldırıldıktan veya değiştirildikten sonra müttefik {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1ATTACK} saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.dodgespecialdamage.neartotarget.allies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.attack_buff_peregrine.unreallocatable",
+            "text": "[#!]Geliştirilmiş Savuşturma[#]: Eylemci ve yakındaki müttefikler %{DODGE} şansla, hasar veren Özel Yetenekleri savuşturur. Bu efekt, müttefik {MAXACTIVATIONCOUNT} defa başarıyla savuşturana kadar geçerlidir.\n[*] [#!]Geliştirilmiş Savuşturma[#] sona erdikten, kaldırıldıktan veya değiştirildikten sonra müttefik {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1ATTACK} saldırı alır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.dodgespecialdamage.neartotarget.allies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.bleed_yolanda.blind_yolanda.unreallocatable",
+            "text": "[#!]Geliştirilmiş Savuşturma[#]: Eylemci ve yakındaki müttefikler %{DODGE} şansla, hasar veren Özel Yetenekleri savuşturur. Bu efekt, müttefik {MAXACTIVATIONCOUNT} defa başarıyla savuşturana kadar geçerlidir.\n[*] [#!]Geliştirilmiş Savuşturma[#] sona erdikten, kaldırıldıktan veya değiştirildikten sonra rastgele bir düşman {REMOVALEFFECT1STATUSEFFECT2TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT2ACCURACY} isabetlilik alır, bir diğer rastgele düşman ise {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca {REMOVALEFFECT1STATUSEFFECT1DAMAGE} Kanama hasarı alır."
           }
         ]
       },
@@ -666,6 +698,14 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "تُزيل مرض [#!]دودة العقل[#] من الملقي."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.addstatuseffectonremoval.all.enemies.onremoval.expiration.paralysis_kitou_sayomi.turns.one",
+            "text": "بعد مرور {TURNS} من الجولات، يُصاب جميع الأعداء بـ[#!]الشلل[#] لمدة {STATUSEFFECT1TURNS} من الجول"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
+            "text": "يحصل الهدف على شفاء بنسبة {HEALING}%، ويحصل جميع الأعداء الآخرين على تخفيض {MINORHEALING}% لأي شفاء يحصلون عليه لمدة {TURNS} من الجو"
           }
         ]
       },
@@ -1210,10 +1250,14 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "移除施法者身上的[#!]噬心虫[#]状态异常。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.berserkdefense.neartotarget.allies",
+            "text": "施法者与附近盟友获得{DEFENSE}%防御力，每次被击中后额外增加{CHANGE}%防御力，持续{TURNS}回合，最多增加{MAXMODIFIER}%防御力。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 3323267538
+  "languageOverridesConfigId": 4159133220
 }

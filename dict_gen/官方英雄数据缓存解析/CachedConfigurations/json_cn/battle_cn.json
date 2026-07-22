@@ -37219,7 +37219,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "health_boost_recovery_darkfeather_c1",
         "buff": "MinorBuff",
-        "healthPoints": 230,
+        "healthPoints": 330,
         "healthPointsIncrementPerLevel": 10,
         "isHealthBoost": true
       },
@@ -98475,5 +98475,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1838042032
+  "battleConfigId": 865980437
 }

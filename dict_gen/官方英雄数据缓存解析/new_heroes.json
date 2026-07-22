@@ -1,38 +1,14 @@
 [
     {
-        "name": "Gobbler Toon",
-        "fancy_name": "Toon Chameleon General",
-        "color": "Green",
+        "name": "Iron Mimic",
+        "fancy_name": "Iron Satchel of Terror",
+        "color": "Blue",
         "Release date": "",
-        "canBeReceivedDate": "2026-07-20 07:00:00",
-        "star": 4,
-        "family": "lagoon",
-        "costume_id": 2,
-        "heroId": "s2_chameleon_chief_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Inari Toon",
-        "fancy_name": "Nine-tailed Toon",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-20 07:00:00",
+        "canBeReceivedDate": "2026-07-22 07:00:00",
         "star": 5,
-        "family": "japanese",
-        "costume_id": 2,
-        "heroId": "s2_fox_girl_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Alberich Toon",
-        "fancy_name": "Seelie Toon",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-20 07:00:00",
-        "star": 5,
-        "family": "hotm2017",
-        "costume_id": 2,
-        "heroId": "forest_god_oberon_costume_cute",
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_iron_blue",
         "Lottery_Only": 1
     },
     {

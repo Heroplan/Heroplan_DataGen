@@ -1,5 +1,17 @@
 [
     {
+        "name": "Iron Mimic",
+        "fancy_name": "Iron Satchel of Terror",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-07-22 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_iron_blue",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Darkfeather C",
         "fancy_name": "Adept Eagle Enchanter",
         "color": "Purple",

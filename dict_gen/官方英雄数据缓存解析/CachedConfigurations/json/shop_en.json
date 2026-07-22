@@ -25214,36 +25214,16 @@
         "id": "dynamic_offer_5_red_yang_mai",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
+            "id": "com.smallgiantgames.empires.dynamic_3c",
+            "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_5b",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_50",
+            "id": "offer_dynamic_free_b",
             "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -46631,6 +46611,21 @@
                 "zyngaStoreExtraAmount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2026-07-21 13:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 2
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -48333,6 +48328,16 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2026-07-21 13:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_iron_large",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -48888,6 +48893,27 @@
                 "type": "Item",
                 "id": "lottery_legendary_troop",
                 "amount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-21 13:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 3
               }
             ]
           },
@@ -62047,6 +62073,13 @@
         "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-07-21 10:00:00",
+        "endTime": "2026-07-22 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_5_red_yang_mai",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2026-07-21 13:00:00",
         "endTime": "2026-07-22 06:30:00"
       },
       {
@@ -92796,5 +92829,5 @@
       ]
     }
   },
-  "shopConfigId": 3807856538
+  "shopConfigId": 1325646918
 }

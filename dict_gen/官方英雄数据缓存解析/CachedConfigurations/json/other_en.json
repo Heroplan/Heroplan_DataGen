@@ -1435,6 +1435,7 @@
           "SecretSummonFoodMimicGreen",
           "SecretSummonFoodMimicPurple",
           "SecretSummonFoodMimicYellow",
+          "SecretSummonIronMimicBlue",
           "MonthlyHeroJune2026",
           "MonthlyHeroJuly2026",
           "MonthlyHeroAugust2026",
@@ -3093,6 +3094,12 @@
             "type": "MysteryHero",
             "startTime": "2026-07-09 07:00:00",
             "endTime": "2026-07-10 07:00:00"
+          },
+          {
+            "id": "SecretSummonIronMimicBlue",
+            "type": "MysteryHero",
+            "startTime": "2026-07-22 07:00:00",
+            "endTime": "2026-07-23 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -4151,6 +4158,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-10-13 07:00:00",
             "endTime": "2026-10-17 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-10-20 07:00:00",
+            "endTime": "2026-10-24 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -96279,5 +96293,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1713925250
+  "otherConfigId": 475116387
 }
