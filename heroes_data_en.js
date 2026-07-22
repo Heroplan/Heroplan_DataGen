@@ -13195,6 +13195,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain (on Kill)"
                 ]
