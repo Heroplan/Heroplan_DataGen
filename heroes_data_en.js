@@ -80324,6 +80324,7 @@ window.allHeroes =
                 "特殊效果": [
                     "Atk - Bypass Dodge",
                     "Heal - From Dmg",
+                    "Status - Steal Buffs",
                     "Status - Redistribute Buffs",
                     "Dmg - Extra"
                 ]
