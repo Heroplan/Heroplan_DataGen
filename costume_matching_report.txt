@@ -1,5 +1,6 @@
-✅ 成功匹配的服装 (607 / 0)
+✅ 成功匹配的服装 (610 / 0)
 ================================
+Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
 Name: Justice Costume2, Fancy Name: Ancient of Thorns
@@ -206,6 +207,7 @@ Name: Belith Glass, Fancy Name: Glass Spirit
 Name: Chao Glass, Fancy Name: Glass Tactician
 Name: Skittleskull Glass, Fancy Name: Glass Witch
 Name: Ginger costume1, Fancy Name: Gnome Master of Gifts
+Name: Goldie costume1, Fancy Name: Goblin Perfumer
 Name: Frigg Costume1, Fancy Name: Goddess of Clairvoyance
 Name: Athena Costume1, Fancy Name: Goddess of War
 Name: Gefjon Costume1, Fancy Name: Goddess of the Wild
@@ -340,6 +342,7 @@ Name: Cobalt costume1, Fancy Name: Ninja of Turbulent Seas
 Name: Bane Costume1, Fancy Name: Noble Brawler
 Name: Rigard Costume2, Fancy Name: Noble Healer
 Name: Jahangir Glass, Fancy Name: Nomad from the Glass Sea
+Name: Boots costume1, Fancy Name: Oblivious Explorer
 Name: Zila Lei Costume1, Fancy Name: Octopod Dancer
 Name: Exeera Costume1, Fancy Name: Octopod Hierophant
 Name: Xnolphod Costume1, Fancy Name: Octopod Jailer

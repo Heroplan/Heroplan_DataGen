@@ -2051,7 +2051,7 @@ const translatedEffectsTC =
         "heroId": "mimic_iron_blue",
         "name": "Iron Mimic Ice",
         "effects": [
-            "對目標和一名隨機敵人造成 500% 傷害。",
+            "對目標和一名隨機敵人造成 450% 傷害。",
             "所有命中目標獲得 -20% 防禦，持續 4 回合。",
             "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
@@ -7127,6 +7127,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "scoundrel_tofana",
+        "name": "Tofana",
+        "effects": [
+            "對所有敵人造成 250% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "所有敵人在 4 個回合內受到 728 點劇毒傷害。施法者和所有其盟友能吸收所造成之劇毒傷害的 30% 作為生命值加成。",
+            "施法者及附近盟友進入伏擊狀態。施法者及附近盟友造成的傷害增加 +40%，受到的傷害减少 -25%。（角色進入伏擊状態時，移除所有現有的可淨化異常和枯萎效果。角色在伏擊期間無法獲得新的異常或枯萎效果。此效果無法淨化。角色受到 1200 點傷害後，伏擊狀態會結束。）"
+        ]
+    },
+    {
         "heroId": "villain_toxicandra",
         "name": "Toxicandra",
         "effects": [
@@ -7624,6 +7634,14 @@ const translatedEffectsTC =
         "effects": [
             "對目標造成 200% 傷害。",
             "目標收到一個南瓜炸彈。南瓜炸彈會在 3 個回合後爆炸，對目標和附近目標造成 206 傷害。目標被擊敗時南瓜炸彈也會爆炸。"
+        ]
+    },
+    {
+        "heroId": "scoundrel_ketch",
+        "name": "Ketch",
+        "effects": [
+            "對目標與附近敵人造成 300% 傷害。",
+            "施法者進入伏擊狀態。施法者造成的傷害提高 +40%，其受到的傷害降低 -30%。（角色進入伏擊状態時，移除所有現有的可淨化異常和枯萎效果。角色在伏擊期間無法獲得新的異常或枯萎效果。此效果無法淨化。角色受到 500 點傷害後，伏擊狀態會結束。）"
         ]
     },
     {
@@ -8938,6 +8956,15 @@ const translatedEffectsTC =
             "為所有盟友恢復 25% 生命值。",
             "成長：所有盟友獲得 180 點攻擊和 180 點防禦。",
             "在任何隨後盟友施放特殊技能後，所有盟友有 50% 機率對一名隨機敵人造成 270% 傷害，持續 3 個回合。（每個角色每回合可以觸發一次此效果。）"
+        ]
+    },
+    {
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "name": "Darkfeather C1",
+        "effects": [
+            "所有盟友可在 3 個回合内恢復 1200 加成生命值。加成生命值能夠超過最大生命值。",
+            "成長：所有盟友獲得 200 點攻擊和 200 點防禦。",
+            "在任何隨後盟友施放特殊技能後，所有盟友有 50% 機率對一名隨機敵人造成 280% 傷害，持續 3 個回合。（每個角色每回合可以觸發一次此效果。）"
         ]
     },
     {
@@ -11261,6 +11288,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "goblin_boots_costume_candle",
+        "name": "Boots C1",
+        "effects": [
+            "對目標與附近敵人造成 210% 傷害。",
+            "枯萎：目標與附近敵人獲得 -45 點攻擊和 -45 點防禦。",
+            "目標與附近敵人受到的所有傷害提高 +40% ,持續 3 回合。"
+        ]
+    },
+    {
         "heroId": "christmas_buster",
         "name": "Buster",
         "effects": [
@@ -11706,6 +11742,15 @@ const translatedEffectsTC =
         "effects": [
             "恢復剩餘生命值最低的盟友 42% 生命值。恢復其餘盟友 35% 生命值。",
             "所有盟友獲得 +46% 攻擊力，持續 4 回合。"
+        ]
+    },
+    {
+        "heroId": "scoundrel_cade",
+        "name": "Cade",
+        "effects": [
+            "劫掠目標，竊取 200 生命和一個增益。（安全地從目標身上竊取一個隨機成長效果、正面疊加增益或狀態效果。包括不可驅散的增益和舞蹈效果。安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。）",
+            "對目標造成 420% 傷害。",
+            "目標在 4 回合內受到共計 276 點燃燒傷害。"
         ]
     },
     {
@@ -12719,6 +12764,17 @@ const translatedEffectsTC =
             "煉獄惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 35% 時消失。",
             "召喚時，主人擁有煉獄惡魔的期間，目標對烈火系獲得 -54% 防禦。此效果無法淨化。",
             "所有盟友獲得對冰雪系 +86% 的防禦，持續 3 回合。"
+        ]
+    },
+    {
+        "heroId": "scoundrel_brin",
+        "name": "Brin",
+        "effects": [
+            "此特殊技能必定命中目標。",
+            "對所有敵人進行掠奪，竊取各個敵人 400 生命值與一項增益，並將竊取來的增益隨機分配給盟友。?（安全地從目標身上竊取一個隨機成長效果、正面疊加增益或狀態效果。包括不可驅散的增益和舞蹈效果。安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。）",
+            "對所有敵人造成 400% 傷害。",
+            "每有一個敵人被擊敗，傷害增加 75%。",
+            "所有敵人會陷入沉睡,睡著時受到的傷害增加 +60。（睡著的角色無法獲得法力或攻擊。睡著的目標受到傷害後便會醒來。此傷害不包含來自小兵、惡魔、超級小兵與超級惡魔的傷害。此效果無法淨化）"
         ]
     },
     {
@@ -15608,6 +15664,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "goblin_goldie_costume_perfume",
+        "name": "Goldie C1",
+        "effects": [
+            "所有盟友在 3 回合內恢復 1080 點生命值。",
+            "成長：所有盟友獲得 110 點攻擊。",
+            "消除所有盟友的全部可淨化的狀態異常，並隨機分配給所有敵人。",
+            "所有盟友將異常狀態反射給敵方戰隊的隨機角色，持續 3 回合。（僅反射可淨化的狀態異常。）"
+        ]
+    },
+    {
         "heroId": "fables_gretel",
         "name": "Gretel",
         "effects": [
@@ -18380,41 +18446,6 @@ const translatedEffectsTC =
         ]
     },
     {
-        "heroId": "goblin_darkfeather_costume_glowing",
-        "name": "Darkfeather C",
-        "effects": []
-    },
-    {
-        "heroId": "goblin_goldie_costume_perfume",
-        "name": "Goldie C",
-        "effects": []
-    },
-    {
-        "heroId": "goblin_boots_costume_candle",
-        "name": "Boots C",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_brin",
-        "name": "Brin",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_tofana",
-        "name": "Tofana",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_cade",
-        "name": "Cade",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_ketch",
-        "name": "Ketch",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_irme",
         "name": "Irme",
         "effects": []
@@ -18427,6 +18458,41 @@ const translatedEffectsTC =
     {
         "heroId": "ronin_tenzin_kiba",
         "name": "Tenzin Kiba",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "effects": []
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
         "effects": []
     }
 ];

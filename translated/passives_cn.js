@@ -5573,6 +5573,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "scoundrel_tofana",
+        "name": "Tofana",
+        "passives": [
+            "盗贼的良机：每回合开始时，该角色会掠夺一名随机敌人。",
+            "掠夺：",
+            "* 偷取 100 点生命值。",
+            "* 安全地窃取目标的一个增益。包括顽固效果、不可驱散的增益与舞蹈效果。",
+            "死里逃生：该角色第一次受到致命伤害时，将该伤害会转移至一个随机敌在包含多波敌人的战斗中，该效果会在每一波开始时刷新。"
+        ]
+    },
+    {
         "heroId": "villain_toxicandra",
         "name": "Toxicandra",
         "passives": []
@@ -5992,6 +6003,17 @@ const translatedPassivesCN =
         "name": "Jack",
         "passives": [
             "窃取增益：当该角色施放其特殊技能时，有 65% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 150% 的伤害。"
+        ]
+    },
+    {
+        "heroId": "scoundrel_ketch",
+        "name": "Ketch",
+        "passives": [
+            "盗贼的良机：每回合开始时，该角色会掠夺一名随机敌人。",
+            "掠夺：",
+            "* 偷取 50 点生命值。",
+            "* 安全地窃取目标的一个增益。包括顽固效果、不可驱散的增益与舞蹈效果。",
+            "死里逃生：此角色第一次受到致命伤害时，将该伤害的 50% 转移至一个随机敌人。在包含多波敌人的战斗中，该效果会在每一波开始时刷新。"
         ]
     },
     {
@@ -6976,6 +6998,16 @@ const translatedPassivesCN =
             "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
             "* 对所有敌人造成 90% 的伤害。",
             "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+        ]
+    },
+    {
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "name": "Darkfeather C1",
+        "passives": [
+            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
+            "* 对所有敌人造成 90% 的伤害。",
+            "* 所有敌人获得 -25% 的精准度，持续 3 回合。",
+            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。"
         ]
     },
     {
@@ -8796,6 +8828,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "goblin_boots_costume_candle",
+        "name": "Boots C1",
+        "passives": [
+            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
+            "* 对所有敌人造成 90% 的伤害。",
+            "* 所有敌人获得 -25% 的精准度，持续 3 回合。",
+            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。"
+        ]
+    },
+    {
         "heroId": "christmas_buster",
         "name": "Buster",
         "passives": []
@@ -9135,6 +9177,17 @@ const translatedPassivesCN =
         "name": "Boldtusk Stylish",
         "passives": [
             "华丽登场！：有 65% 的几率将受到的负面效果替换为对应的正面效果。"
+        ]
+    },
+    {
+        "heroId": "scoundrel_cade",
+        "name": "Cade",
+        "passives": [
+            "盗贼的良机：每回合开始时，该角色会掠夺一名随机敌人。",
+            "掠夺：",
+            "* 偷取 100 点生命值。",
+            "* 安全地窃取目标的一个增益。包括顽固效果、不可驱散的增益与舞蹈效果。",
+            "死里逃生：此角色第一次受到致命伤害时，将该伤害的 50% 转移至一个随机敌人。在包含多波敌人的战斗中，该效果会在每一波开始时刷新。"
         ]
     },
     {
@@ -9930,6 +9983,16 @@ const translatedPassivesCN =
             "毁灭核心：此角色的机械核心为毁灭核心。每当此角色施放特殊技能时，都会启动毁灭核心：",
             "* 若毁灭核心已完全充满，则对所有敌人造成 180% 的伤害。",
             "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+        ]
+    },
+    {
+        "heroId": "scoundrel_brin",
+        "name": "Brin",
+        "passives": [
+            "盗贼的良机：每回合开始时，该角色会掠夺一名随机敌人。",
+            "* 偷取 100 点生命值。",
+            "* 安全地窃取目标的一个增益。包括顽固效果、不可驱散的增益与舞蹈效果。",
+            "死里逃生：该角色第一次受到致命伤害时，将该伤害会转移至一个随机敌在包含多波敌人的战斗中，该效果会在每一波开始时刷新。"
         ]
     },
     {
@@ -12208,6 +12271,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "goblin_goldie_costume_perfume",
+        "name": "Goldie C1",
+        "passives": [
+            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
+            "* 对所有敌人造成 90% 的伤害。",
+            "* 所有敌人获得 -25% 的精准度，持续 3 回合。",
+            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。"
+        ]
+    },
+    {
         "heroId": "fables_gretel",
         "name": "Gretel",
         "passives": []
@@ -14406,41 +14479,6 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "goblin_darkfeather_costume_glowing",
-        "name": "Darkfeather C",
-        "passives": []
-    },
-    {
-        "heroId": "goblin_goldie_costume_perfume",
-        "name": "Goldie C",
-        "passives": []
-    },
-    {
-        "heroId": "goblin_boots_costume_candle",
-        "name": "Boots C",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_brin",
-        "name": "Brin",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_tofana",
-        "name": "Tofana",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_cade",
-        "name": "Cade",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_ketch",
-        "name": "Ketch",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_irme",
         "name": "Irme",
         "passives": []
@@ -14453,6 +14491,41 @@ const translatedPassivesCN =
     {
         "heroId": "ronin_tenzin_kiba",
         "name": "Tenzin Kiba",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "passives": []
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
         "passives": []
     }
 ];

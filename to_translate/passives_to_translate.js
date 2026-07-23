@@ -5573,6 +5573,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "scoundrel_tofana",
+        "name": "Tofana",
+        "passives": [
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
+            "Ransack:",
+            "* Steals 100 health.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+        ]
+    },
+    {
         "heroId": "villain_toxicandra",
         "name": "Toxicandra",
         "passives": []
@@ -5992,6 +6003,17 @@ const allTranslations =
         "name": "Jack",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies."
+        ]
+    },
+    {
+        "heroId": "scoundrel_ketch",
+        "name": "Ketch",
+        "passives": [
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
+            "Ransack:",
+            "* Steals 50 health.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect 50% of that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ]
     },
     {
@@ -6976,6 +6998,16 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
             "* Deals 90% damage to all enemies.",
             "* All enemies get -25% accuracy for 3 turns."
+        ]
+    },
+    {
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "name": "Darkfeather C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate."
         ]
     },
     {
@@ -8796,6 +8828,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_boots_costume_candle",
+        "name": "Boots C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate."
+        ]
+    },
+    {
         "heroId": "christmas_buster",
         "name": "Buster",
         "passives": []
@@ -9135,6 +9177,17 @@ const allTranslations =
         "name": "Boldtusk Stylish",
         "passives": [
             "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
+        "heroId": "scoundrel_cade",
+        "name": "Cade",
+        "passives": [
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
+            "Ransack:",
+            "* Steals 100 health.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect 50% of that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ]
     },
     {
@@ -9930,6 +9983,16 @@ const allTranslations =
             "Destructive Core: The Construct Core of this character is a Destructive Core. The Destructive Core activates each time this character's Special Skill is cast",
             "* With a fully charged Destructive Core, deals 180% damage to all enemies.",
             "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "scoundrel_brin",
+        "name": "Brin",
+        "passives": [
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
+            "* Steals 100 health.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ]
     },
     {
@@ -12208,6 +12271,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_goldie_costume_perfume",
+        "name": "Goldie C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate."
+        ]
+    },
+    {
         "heroId": "fables_gretel",
         "name": "Gretel",
         "passives": []
@@ -14406,41 +14479,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "goblin_darkfeather_costume_glowing",
-        "name": "Darkfeather C",
-        "passives": []
-    },
-    {
-        "heroId": "goblin_goldie_costume_perfume",
-        "name": "Goldie C",
-        "passives": []
-    },
-    {
-        "heroId": "goblin_boots_costume_candle",
-        "name": "Boots C",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_brin",
-        "name": "Brin",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_tofana",
-        "name": "Tofana",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_cade",
-        "name": "Cade",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_ketch",
-        "name": "Ketch",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_irme",
         "name": "Irme",
         "passives": []
@@ -14453,6 +14491,41 @@ const allTranslations =
     {
         "heroId": "ronin_tenzin_kiba",
         "name": "Tenzin Kiba",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "passives": []
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
         "passives": []
     }
 ];

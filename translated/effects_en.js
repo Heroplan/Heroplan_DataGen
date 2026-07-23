@@ -2051,7 +2051,7 @@ const allTranslations =
         "heroId": "mimic_iron_blue",
         "name": "Iron Mimic Ice",
         "effects": [
-            "Deals 500% damage to the target and one random enemy.",
+            "Deals 450% damage to the target and one random enemy.",
             "All hit targets get -20% defense for 4 turns.",
             "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
@@ -7127,6 +7127,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "scoundrel_tofana",
+        "name": "Tofana",
+        "effects": [
+            "Deals 250% damage to all enemies.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "All enemies receive 728 Poison damage over 4 turns. The caster and all their allies absorb 30% of dealt Poison damage as boosted health.",
+            "The caster and nearby allies go into Ambush. Damage dealt by the caster and nearby allies is increased by +40%, and damage received by them is decreased by -25%. (When the character goes into Ambush, all existing cleansable ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is uncleasable. Ambush ends once the character has received 1200 damage.)"
+        ]
+    },
+    {
         "heroId": "villain_toxicandra",
         "name": "Toxicandra",
         "effects": [
@@ -7624,6 +7634,14 @@ const allTranslations =
         "effects": [
             "Deals 200% damage to the target.",
             "The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and deals 206 damage to the target and nearby targets. The Pumpkin Bomb also explodes when the target is defeated."
+        ]
+    },
+    {
+        "heroId": "scoundrel_ketch",
+        "name": "Ketch",
+        "effects": [
+            "Deals 300% damage to the target and nearby enemies.",
+            "The caster goes into Ambush. Damage dealt by the caster is increased by +40%, and damage received by them is decreased by -30%. (When the character goes into Ambush, all existing cleansable ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is uncleasable. Ambush ends once the character has received 500 damage.)"
         ]
     },
     {
@@ -8938,6 +8956,15 @@ const allTranslations =
             "Recovers 25% health of all allies.",
             "Growth: All allies get 180 attack and 180 defense.",
             "All allies have 50% chance to deal 270% damage to a random enemy after any subsequent allied Special Skill is cast for 3 turns. (Each character can trigger this effect once per turn.)"
+        ]
+    },
+    {
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "name": "Darkfeather C1",
+        "effects": [
+            "All allies regenerate 1200 boosted health over 3 turns. Boosted heath can exceed max HP.",
+            "Growth: All allies get 200 attack and 200 defense.",
+            "All allies have 50% chance to deal 280% damage to a random enemy after any subsequent allied Special Skill is cast for 3 turns. (Each character can trigger this effect once per turn.)"
         ]
     },
     {
@@ -11261,6 +11288,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_boots_costume_candle",
+        "name": "Boots C1",
+        "effects": [
+            "Deals 210% damage to the target and nearby enemies.",
+            "Wither: The target and nearby enemies get -45 attack and -45 defense.",
+            "All damage the target and nearby enemies is increased by +40% for 3 turns."
+        ]
+    },
+    {
         "heroId": "christmas_buster",
         "name": "Buster",
         "effects": [
@@ -11706,6 +11742,15 @@ const allTranslations =
         "effects": [
             "Recovers 42% health for all the ally with the lowest remaining HP. All other allies recover 35% health.",
             "All allies get +46% attack for 4 turns"
+        ]
+    },
+    {
+        "heroId": "scoundrel_cade",
+        "name": "Cade",
+        "effects": [
+            "Ransacks the target, stealing 200 health and a buff. (Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
+            "Deals 420% damage to the target.",
+            "The target receives 276 Burn damage over 4 turns."
         ]
     },
     {
@@ -12719,6 +12764,17 @@ const allTranslations =
             "The Infernal Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target max health.",
             "When summoned, the Infernal Fiend give -54% defense againt Fire for its target for as long as the target has Infernal Fiends. This effect can't be cleansed.",
             "All allies get +86% defense against Ice for 3 turns."
+        ]
+    },
+    {
+        "heroId": "scoundrel_brin",
+        "name": "Brin",
+        "effects": [
+            "This Special Skill never misses its targets.",
+            "Ransacks all enemies, stealing 400 health and a buff from each, and randomly distributes stolen buffs on allies. (Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
+            "Deals 400% damage to all enemies.",
+            "The damage is increased by 75% per each defeated enemy.",
+            "All enemies fall asleep and receive +60 increased damage while in sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)"
         ]
     },
     {
@@ -15608,6 +15664,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_goldie_costume_perfume",
+        "name": "Goldie C1",
+        "effects": [
+            "All allies regenerate 1080 HP over 3 turns.",
+            "Growth: All allies get 110 attack.",
+            "Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.",
+            "All allies reflect ailments to a random character on the opposing team for 3 turns. (Only cleansable status ailments are reflected.)"
+        ]
+    },
+    {
         "heroId": "fables_gretel",
         "name": "Gretel",
         "effects": [
@@ -18380,41 +18446,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "goblin_darkfeather_costume_glowing",
-        "name": "Darkfeather C",
-        "effects": []
-    },
-    {
-        "heroId": "goblin_goldie_costume_perfume",
-        "name": "Goldie C",
-        "effects": []
-    },
-    {
-        "heroId": "goblin_boots_costume_candle",
-        "name": "Boots C",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_brin",
-        "name": "Brin",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_tofana",
-        "name": "Tofana",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_cade",
-        "name": "Cade",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_ketch",
-        "name": "Ketch",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_irme",
         "name": "Irme",
         "effects": []
@@ -18427,6 +18458,41 @@ const allTranslations =
     {
         "heroId": "ronin_tenzin_kiba",
         "name": "Tenzin Kiba",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "effects": []
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
         "effects": []
     }
 ];

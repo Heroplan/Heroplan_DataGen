@@ -378,6 +378,22 @@
           {
             "key": "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies",
             "text": "Der Wirker und nahe Verbündete sind für {TURNS} Züge immun gegen neue Effekte, die die Nutzung von Spezialangriffen verhindern."
+          },
+          {
+            "key": "missions.name.win_pvp_with_wizard",
+            "text": "Überfälle gewinnen: Magier"
+          },
+          {
+            "key": "missions.name.win_pvp_with_wizards",
+            "text": "Extreme Überfälle gewinnen: Magier"
+          },
+          {
+            "key": "missions.name.win_pvp_with_sorcerer",
+            "text": "Überfälle gewinnen: Zauberer"
+          },
+          {
+            "key": "missions.name.win_pvp_with_sorcerers",
+            "text": "Extreme Überfälle gewinnen: Zauberer"
           }
         ]
       },
@@ -1259,5 +1275,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 4159133220
+  "languageOverridesConfigId": 574038776
 }

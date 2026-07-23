@@ -49108,5 +49108,166 @@ window.allHeroesExtra = [
             "mimic_iron_blue"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Tofana",
+        "fancy name": "Merchant from the Shady Inn",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-07-23",
+        "AetherPower": "Special Armor",
+        "heroId": "scoundrel_tofana",
+        "baseAttack": 681,
+        "baseDefense": 689,
+        "baseHealth": 1163,
+        "specialId": "aqua_tofana",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "family": "shady_scoundrels"
+    },
+    {
+        "name": "Ketch",
+        "fancy name": "Unprofessional Executioner",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slow",
+        "Release date": "2026-07-23",
+        "AetherPower": "Special Armor",
+        "heroId": "scoundrel_ketch",
+        "baseAttack": 329,
+        "baseDefense": 316,
+        "baseHealth": 521,
+        "specialId": "haphazard_chop",
+        "passiveSkills": [
+            "cheat_death_epic_and_rare",
+            "ransack_epic_and_rare"
+        ],
+        "family": "shady_scoundrels"
+    },
+    {
+        "name": "Darkfeather costume1",
+        "fancy name": "Adept Eagle Enchanter",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-07-23",
+        "AetherPower": "Bulwark",
+        "heroId": "goblin_darkfeather_costume_glowing",
+        "baseAttack": 439,
+        "baseDefense": 461,
+        "baseHealth": 814,
+        "specialId": "the_eagles_blessing",
+        "specialId_costume": "the_eagles_enchantment",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "attackBonus": "49%",
+        "defenseBonus": "49%",
+        "healthBonus": "51%",
+        "manaBonus": "5%",
+        "family": "goblin"
+    },
+    {
+        "name": "Boots costume1",
+        "fancy name": "Oblivious Explorer",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-07-23",
+        "AetherPower": "Special Boost",
+        "heroId": "goblin_boots_costume_candle",
+        "baseAttack": 264,
+        "baseDefense": 263,
+        "baseHealth": 550,
+        "specialId": "hammer_thump",
+        "specialId_costume": "candle_thump",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "attackBonus": "13.5%",
+        "defenseBonus": "13.5%",
+        "healthBonus": "13.5%",
+        "manaBonus": "5%",
+        "family": "goblin"
+    },
+    {
+        "name": "Cade",
+        "fancy name": "The Unruly Peasant",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-07-23",
+        "AetherPower": "Attack Up",
+        "heroId": "scoundrel_cade",
+        "baseAttack": 409,
+        "baseDefense": 396,
+        "baseHealth": 603,
+        "specialId": "vengeful_mob",
+        "passiveSkills": [
+            "cheat_death_epic_and_rare",
+            "ransack_epic_and_rare"
+        ],
+        "family": "shady_scoundrels"
+    },
+    {
+        "name": "Brin",
+        "fancy name": "Fatal Seducer",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-07-23",
+        "AetherPower": "Damage Reduction",
+        "heroId": "scoundrel_brin",
+        "baseAttack": 675,
+        "baseDefense": 701,
+        "baseHealth": 1153,
+        "specialId": "come_hither",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "family": "shady_scoundrels"
+    },
+    {
+        "name": "Goldie costume1",
+        "fancy name": "Goblin Perfumer",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-07-23",
+        "AetherPower": "Special Armor",
+        "heroId": "goblin_goldie_costume_perfume",
+        "baseAttack": 302,
+        "baseDefense": 340,
+        "baseHealth": 597,
+        "specialId": "magic_mirror_of_power",
+        "specialId_costume": "magic_perfume_of_power",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "attackBonus": "18.8%",
+        "defenseBonus": "18.8%",
+        "healthBonus": "18.8%",
+        "manaBonus": "5%",
+        "family": "goblin"
     }
 ];
