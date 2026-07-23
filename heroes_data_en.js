@@ -14408,7 +14408,13 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Dmg ↑ : Fire",
+                    "Dmg - Extra",
                     "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -44750,12 +44756,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Bypass / Ignore",
-                    "Dmg - Extra"
+                    "Dmg - Extra",
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "增益效果": [
-                    "Status - Hide/Ghost Form",
                     "Def - Dmg Reduction"
                 ]
             },
@@ -48087,12 +48093,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Extra"
+                    "Dmg - Extra",
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "增益效果": [
-                    "Status - Hide/Ghost Form",
                     "Def - Dmg Reduction"
                 ]
             }
@@ -53941,7 +53947,7 @@ window.allHeroes =
                 ]
             },
             {
-                "增益效果": [
+                "特殊效果": [
                     "Status - Hide/Ghost Form"
                 ]
             }
@@ -57512,7 +57518,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Steal Buffs"
+                    "Status - Steal Buffs",
+                    "Heal - From Dmg"
                 ]
             },
             {
@@ -80312,6 +80319,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Bypass Dodge",
+                    "Heal - From Dmg",
                     "Status - Redistribute Buffs",
                     "Dmg - Extra"
                 ]
