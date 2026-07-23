@@ -32811,10 +32811,14 @@ window.allHeroes =
                 ]
             },
             {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
                 "负面效果": [
                     "Def - Def ↓ : Special",
-                    "Def - Dmg Taken ↑",
-                    "Def - Dmg Reduction"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
