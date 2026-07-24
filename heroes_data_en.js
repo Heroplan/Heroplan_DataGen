@@ -8748,7 +8748,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Mindless",
                     "Def - Defense ↓"
                 ]
             }
@@ -9672,7 +9672,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Dmg - DoT : Curse",
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -13809,7 +13809,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -15648,7 +15648,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -16092,7 +16092,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -20003,7 +20003,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Def - Defense ↓"
                 ]
             }
@@ -27580,7 +27580,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -27639,7 +27639,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -29641,7 +29641,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -29695,7 +29695,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Def - Defense ↓"
                 ]
             }
@@ -30348,7 +30348,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -30408,7 +30408,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -33592,7 +33592,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -39587,7 +39587,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -42885,7 +42885,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Def - Def ↓ : Special",
                     "Status - Block Cleanse",
                     "Status - Self-Debuff"
@@ -43651,7 +43651,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -45256,7 +45256,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Def - Dmg Taken ↑",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -45582,7 +45582,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -45654,7 +45654,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Mindless",
                     "Def - Def ↓ : Nature"
                 ]
             }
@@ -46433,7 +46433,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -51612,7 +51612,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -51671,7 +51671,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -54055,7 +54055,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -54111,7 +54111,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -54976,7 +54976,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Dmg - DoT : Poison",
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -57577,7 +57577,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -61242,7 +61242,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -62706,7 +62706,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Healing ↓",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -62776,7 +62776,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Healing ↓",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -62998,7 +62998,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Dmg - DoT : Poison",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -63381,7 +63381,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -65058,7 +65058,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -65308,7 +65308,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -67410,7 +67410,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -67470,7 +67470,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Def - Def ↓ : Special"
                 ]
             }
@@ -67607,7 +67607,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Mindless",
                     "Def - Def ↓ : Dark"
                 ]
             }
@@ -68797,7 +68797,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -69373,7 +69373,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -80919,7 +80919,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Atk - Wither : Atk↓",
                     "Def - Wither : Def↓"
                 ]
@@ -81543,7 +81543,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -81603,7 +81603,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Def - Def ↓ : Fire",
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -83595,7 +83595,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Mindless",
                     "Def - Defense ↓"
                 ]
             }
@@ -85200,7 +85200,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -91350,7 +91350,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Atk - Wither : Atk↓"
                 ]
             }
@@ -96832,7 +96832,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -98543,7 +98543,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -99624,7 +99624,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -100349,7 +100349,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -101356,7 +101356,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -104188,7 +104188,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
@@ -106175,7 +106175,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -107955,7 +107955,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -108014,7 +108014,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -108091,7 +108091,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence"
+                    "Mana - Mindless"
                 ]
             }
         ]
@@ -112230,7 +112230,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence",
+                    "Mana - Silence",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -112366,7 +112366,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence"
+                    "Mana - Silence"
                 ]
             }
         ]
