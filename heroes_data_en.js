@@ -1892,7 +1892,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -10599,7 +10599,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Conditional Trigger",
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -12511,7 +12511,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -18979,7 +18979,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -19038,7 +19038,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -40149,7 +40149,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -40217,7 +40217,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -48270,7 +48270,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -48337,7 +48337,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -49766,7 +49766,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -49826,7 +49826,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -49885,7 +49885,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -52828,7 +52828,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             }
         ]
@@ -53932,7 +53932,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             }
         ]
@@ -55866,7 +55866,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Extra",
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             },
             {
@@ -61490,7 +61490,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             }
         ]
@@ -61555,7 +61555,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             }
         ]
@@ -111138,7 +111138,7 @@ window.allHeroes =
                     "Summon - Minion",
                     "Atk - Bypass Dodge",
                     "Dmg - Dmg ↑ : Holy",
-                    "状态-潜行/幽灵形态"
+                    "Status - Ghost Form"
                 ]
             }
         ]
