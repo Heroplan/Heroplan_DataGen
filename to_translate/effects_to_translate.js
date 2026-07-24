@@ -15660,7 +15660,7 @@ const allTranslations =
         "effects": [
             "Recover 38% health for all allies.",
             "Growth: All allies get 100 attack.",
-            "All allies reflect ailments to a random character on the opposing team for 3 turns. (Only cleansable status ailments are reflected)"
+            "All allies reflect ailments to a random character on the opposing team for 3 turns. (Only cleansable status ailments are reflected.)"
         ]
     },
     {
