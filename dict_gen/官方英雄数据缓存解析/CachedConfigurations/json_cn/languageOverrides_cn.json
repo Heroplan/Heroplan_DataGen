@@ -58,6 +58,22 @@
           {
             "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
             "text": "Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
+          },
+          {
+            "key": "missions.name.win_pvp_with_wizard",
+            "text": "Vinci i Raid: Stregoni"
+          },
+          {
+            "key": "missions.name.win_pvp_with_wizards",
+            "text": "Vinci i Raid estremi: Stregoni"
+          },
+          {
+            "key": "missions.name.win_pvp_with_sorcerer",
+            "text": "Vinci i Raid: Incantatori"
+          },
+          {
+            "key": "missions.name.win_pvp_with_sorcerers",
+            "text": "Vinci i Raid estremi: Incantatori"
           }
         ]
       },
@@ -126,6 +142,10 @@
           {
             "key": "specials.v2.statuseffect.minor.specialskilldefensemodifier.neartotarget.enemies.withactivationcount.one.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.sleep_philomena.unreallocatable",
             "text": "[#!]Недуг усиленной защиты:[#] цель и ближайшие враги получают {SPECIALSKILLDEFENSE} % защиты против особых навыков. Эффект длится, пока враг не получит урон от особого навыка.\n[*] Когда [#!]недуг усиленной защиты[#] заканчивается, снимается или заменяется, враг [#!]засыпает[#]. Пока враг спит, он получает на {STATUSEFFECT1DAMAGEMODIFIER} % больше урона."
+          },
+          {
+            "key": "missions.name.defeat_pvp_enemies_cleric",
+            "text": "Победите врагов-церковников"
           }
         ]
       },
@@ -190,6 +210,10 @@
           {
             "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
             "text": "Regeneracja zdrowia celu zostaje zmniejszona o {HEALING}%, a wszystkich pozostałych wrogów o {MINORHEALING}% na okres {TURNS} tur."
+          },
+          {
+            "key": "missions.name.defeat_pvp_enemies_sorcerer",
+            "text": "Pokonuj czarodziejów"
           }
         ]
       },
@@ -314,6 +338,30 @@
           {
             "key": "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies",
             "text": "시전자와 근처 아군의 특수 스킬이 {TURNS}턴 동안 추가로 {POWER}% 피해를 줍니다."
+          },
+          {
+            "key": "missions.name.win_pvp_with_barbarian",
+            "text": "레이드 승리: 야만전사"
+          },
+          {
+            "key": "missions.name.win_pvp_with_barbarians",
+            "text": "극한 레이드 승리: 야만전"
+          },
+          {
+            "key": "missions.name.win_pvp_with_fighter",
+            "text": "레이드 승리: 전투사"
+          },
+          {
+            "key": "missions.name.win_pvp_with_fighters",
+            "text": "극한 레이드 승리: 전투사"
+          },
+          {
+            "key": "missions.name.win_pvp_with_paladin",
+            "text": "레이드 승리: 성전사"
+          },
+          {
+            "key": "missions.name.win_pvp_with_paladins",
+            "text": "극한 레이드 승리: 성전사"
           }
         ]
       },
@@ -1275,5 +1323,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 574038776
+  "languageOverridesConfigId": 689780604
 }

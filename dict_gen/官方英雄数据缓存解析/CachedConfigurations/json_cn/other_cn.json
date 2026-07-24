@@ -94056,6 +94056,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "ninja_july_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 460,
+                    "defenseBonusPerMil": 460,
+                    "healthBonusPerMil": 460,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 560,
+                    "defenseBonusPerMil": 560,
+                    "healthBonusPerMil": 560,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 660,
+                    "defenseBonusPerMil": 660,
+                    "healthBonusPerMil": 660,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 760,
+                    "defenseBonusPerMil": 760,
+                    "healthBonusPerMil": 760,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -96188,7 +96233,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.1",
     "maxVersionToShowUpdateOutReminderIos": "87.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.2",
-    "standaloneNewVersionRolloutPercentage": 20,
+    "standaloneNewVersionRolloutPercentage": 40,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96293,5 +96338,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2734499513
+  "otherConfigId": 4110865427
 }

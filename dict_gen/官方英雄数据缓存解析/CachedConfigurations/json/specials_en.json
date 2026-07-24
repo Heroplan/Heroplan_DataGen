@@ -59161,10 +59161,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2350,
+          "powerMultiplierPerMil": 2150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "properties": [
+          "bypass_counterattack_and_reflect"
+        ],
         "statusEffects": [
           {
             "id": "taunt_tenzin_kiba1",
@@ -59184,6 +59187,9 @@
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "properties": [
+          "bypass_counterattack_and_reflect"
+        ],
         "statusEffects": [
           {
             "id": "block_tenzin_kiba2",
@@ -59205,10 +59211,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4250,
+          "powerMultiplierPerMil": 4650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "properties": [
+          "bypass_counterattack_and_reflect"
+        ],
         "statusEffects": [
           {
             "id": "block_tenzin_kiba3",
@@ -74948,5 +74957,5 @@
       }
     ]
   },
-  "specialsConfigId": 2026960457
+  "specialsConfigId": 684274297
 }

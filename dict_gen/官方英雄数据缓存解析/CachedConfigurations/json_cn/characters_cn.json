@@ -8633,7 +8633,7 @@
     "specialId": "气之墙",
     "canBeReceivedDate": "2021-11-10 07:00:00",
     "origin": "忍者高塔",
-    "costumeBonusesId": "ninja_2026"
+    "costumeBonusesId": "ninja_july_2026"
   },
   "ninja_peridot": {
     "id": "珮绿朵",
@@ -34327,7 +34327,7 @@
     "element": "蓝",
     "family": "忍者家族",
     "baseHealth": 697,
-    "baseAttack": 357,
+    "baseAttack": 358,
     "baseDefense": 408,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
@@ -34582,9 +34582,9 @@
     "id": "英姿卫队队长",
     "element": "红",
     "family": "经典家族",
-    "baseHealth": 678,
-    "baseAttack": 339,
-    "baseDefense": 333,
+    "baseHealth": 676,
+    "baseAttack": 340,
+    "baseDefense": 335,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "stylish_legendary"
@@ -34666,7 +34666,7 @@
     "id": "英姿扒手",
     "element": "绿",
     "family": "经典家族",
-    "baseHealth": 388,
+    "baseHealth": 389,
     "baseAttack": 306,
     "baseDefense": 208,
     "manaSpeedId": "中等",
@@ -36593,9 +36593,9 @@
     "id": "柯尔特",
     "element": "黄",
     "family": "hotm2026",
-    "baseHealth": 1000,
-    "baseAttack": 590,
-    "baseDefense": 615,
+    "baseHealth": 1080,
+    "baseAttack": 617,
+    "baseDefense": 641,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "never_miss_special",
@@ -37189,9 +37189,9 @@
     "id": "丹增·牙",
     "element": "红",
     "family": "浪人家族",
-    "baseHealth": 1128,
-    "baseAttack": 643,
-    "baseDefense": 665,
+    "baseHealth": 1164,
+    "baseAttack": 676,
+    "baseDefense": 697,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -37533,9 +37533,9 @@
     "id": "阿瓦尼",
     "element": "绿",
     "family": "马哈尤达家族",
-    "baseHealth": 1210,
-    "baseAttack": 636,
-    "baseDefense": 674,
+    "baseHealth": 1166,
+    "baseAttack": 679,
+    "baseDefense": 694,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",

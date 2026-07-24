@@ -116,7 +116,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 195,
+        "uiPriority": 200,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -3721,7 +3721,7 @@
         "id": "lottery_tower_ninja_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 198,
+        "uiPriority": 200,
         "associatedEvent": "TowerNinja",
         "bucketWeights": [
           643,
@@ -36234,7 +36234,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58834,5 +58834,5 @@
       }
     ]
   },
-  "productsConfigId": 3070701408
+  "productsConfigId": 928357023
 }

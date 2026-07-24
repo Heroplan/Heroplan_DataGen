@@ -63766,7 +63766,7 @@
         "statusEffect": "Block",
         "id": "block_tenzin_kiba2",
         "buff": "MinorBuff",
-        "blockChancePerMil": 60,
+        "blockChancePerMil": 360,
         "blockChanceIncrementPerLevelPerMil": 20,
         "immuneElement": "None"
       },
@@ -63774,7 +63774,7 @@
         "statusEffect": "Block",
         "id": "block_tenzin_kiba3",
         "buff": "MinorBuff",
-        "blockChancePerMil": 260,
+        "blockChancePerMil": 360,
         "blockChanceIncrementPerLevelPerMil": 20,
         "immuneElement": "None"
       },
@@ -98475,5 +98475,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 865980437
+  "battleConfigId": 1347327708
 }
