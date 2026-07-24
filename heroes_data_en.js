@@ -8507,7 +8507,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Status - Cleanse Ailments",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -8748,7 +8748,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Defense ↓"
                 ]
             }
@@ -8866,7 +8866,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑",
                     "Status - Cleanse Ailments"
                 ]
@@ -9673,7 +9673,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Dmg - DoT : Curse",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -13810,7 +13810,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -15651,7 +15651,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -16095,7 +16095,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -20008,7 +20008,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Defense ↓"
                 ]
             }
@@ -20330,7 +20330,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -27586,7 +27586,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -27645,7 +27645,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -27811,7 +27811,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Def - Dmg Taken ↑",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -29648,7 +29648,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -29702,7 +29702,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Defense ↓"
                 ]
             }
@@ -30355,7 +30355,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -30415,7 +30415,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -31331,7 +31331,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -31919,7 +31919,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -32626,7 +32626,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -33602,7 +33602,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -39597,7 +39597,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -39837,7 +39837,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -42896,7 +42896,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Def ↓ : Special",
                     "Status - Block Cleanse",
                     "Status - Self-Debuff"
@@ -43662,7 +43662,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -44226,7 +44226,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -45270,7 +45270,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Def - Dmg Taken ↑",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -45596,7 +45596,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -45668,7 +45668,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Def ↓ : Nature"
                 ]
             }
@@ -46447,7 +46447,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -51632,7 +51632,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -51691,7 +51691,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -54075,7 +54075,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -54131,7 +54131,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -54335,7 +54335,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -54997,7 +54997,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Dmg - DoT : Poison",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -57598,7 +57598,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -61263,7 +61263,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -62727,7 +62727,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Healing ↓",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -62797,7 +62797,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Healing ↓",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -63019,7 +63019,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Dmg - DoT : Poison",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -63402,7 +63402,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -65079,7 +65079,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -65329,7 +65329,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -67432,7 +67432,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -67492,7 +67492,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Def ↓ : Special"
                 ]
             }
@@ -67629,7 +67629,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Def ↓ : Dark"
                 ]
             }
@@ -68819,7 +68819,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -69395,7 +69395,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -80331,7 +80331,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -80941,7 +80941,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Atk - Wither : Atk↓",
                     "Def - Wither : Def↓"
                 ]
@@ -81565,7 +81565,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -81625,7 +81625,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Def - Def ↓ : Fire",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -83617,7 +83617,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Defense ↓"
                 ]
             }
@@ -84159,7 +84159,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -85222,7 +85222,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -91372,7 +91372,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Atk - Wither : Atk↓"
                 ]
             }
@@ -96854,7 +96854,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -98565,7 +98565,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -99646,7 +99646,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -100371,7 +100371,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -101378,7 +101378,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -101769,7 +101769,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Dmg Taken ↑",
                     "Mana - Mana Steal"
                 ]
@@ -104211,7 +104211,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -104480,7 +104480,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -106198,7 +106198,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -107978,7 +107978,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -108037,7 +108037,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -108115,7 +108115,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
@@ -111227,7 +111227,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Sleep",
                     "Def - Def ↓ : Special",
                     "Def - Dmg Taken ↑"
                 ]
@@ -112255,7 +112255,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Mindless/Silence/Sleep",
+                    "Mana - Mindless/Silence",
                     "Def - Dmg Taken ↑"
                 ]
             }
@@ -112391,7 +112391,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Mana - Mindless/Silence/Sleep"
+                    "Mana - Mindless/Silence"
                 ]
             }
         ]
