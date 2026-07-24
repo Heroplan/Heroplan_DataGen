@@ -91025,11 +91025,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Summon - Destroy Fiends"
-                ]
-            },
-            {
-                "增益效果": [
+                    "Summon - Destroy Fiends",
                     "Dmg - Conditional Trigger"
                 ]
             },
