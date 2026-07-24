@@ -1892,7 +1892,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -8867,7 +8867,6 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Mana - Sleep",
-                    "Def - Dmg Taken ↑",
                     "Status - Cleanse Ailments"
                 ]
             }
@@ -10600,7 +10599,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Conditional Trigger",
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -12512,7 +12511,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -14407,14 +14406,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Dmg ↑ : Fire",
-                    "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "增益效果": [
-                    "Def - Dmg Reduction"
+                    "Def - Hide/Ambush"
                 ]
             }
         ]
@@ -18859,9 +18856,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
+                "增益效果": [
+                    "Def - Hide/Ambush"
                 ]
             }
         ]
@@ -18922,9 +18918,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
+                "增益效果": [
+                    "Def - Hide/Ambush"
                 ]
             }
         ]
@@ -18984,7 +18979,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -19043,7 +19038,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -20330,8 +20325,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -27810,7 +27804,6 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Dmg Taken ↑",
                     "Mana - Sleep"
                 ]
             }
@@ -31331,8 +31324,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -31919,8 +31911,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -32626,8 +32617,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -39837,8 +39827,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -40160,7 +40149,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -40228,7 +40217,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -44226,8 +44215,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -44759,14 +44747,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Atk - Bypass / Ignore",
-                    "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Def - Dmg Reduction"
+                    "Def - Hide/Ambush"
                 ]
             },
             {
@@ -48096,14 +48082,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Def - Dmg Reduction"
+                    "Def - Hide/Ambush"
                 ]
             }
         ]
@@ -48290,7 +48270,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -48357,7 +48337,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -49786,7 +49766,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -49846,7 +49826,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -49905,7 +49885,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -52848,7 +52828,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             }
         ]
@@ -53952,7 +53932,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             }
         ]
@@ -54335,8 +54315,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Mana - Sleep",
-                    "Def - Dmg Taken ↑"
+                    "Mana - Sleep"
                 ]
             }
         ]
@@ -55887,7 +55866,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             },
             {
@@ -61511,7 +61490,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             }
         ]
@@ -61576,7 +61555,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             }
         ]
@@ -66143,9 +66122,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra",
-                    "Status - Hide/Ghost Form"
+                "增益效果": [
+                    "Def - Hide/Ambush"
                 ]
             }
         ]
@@ -101770,7 +101748,6 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Mana - Sleep",
-                    "Def - Dmg Taken ↑",
                     "Mana - Mana Steal"
                 ]
             }
@@ -108108,9 +108085,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Conditional Trigger",
-                    "Status - Hide/Ghost Form"
+                "增益效果": [
+                    "Def - Hide/Ambush"
                 ]
             },
             {
@@ -111162,7 +111138,7 @@ window.allHeroes =
                     "Summon - Minion",
                     "Atk - Bypass Dodge",
                     "Dmg - Dmg ↑ : Holy",
-                    "Status - Hide/Ghost Form"
+                    "状态-潜行/幽灵形态"
                 ]
             }
         ]
@@ -111228,8 +111204,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Mana - Sleep",
-                    "Def - Def ↓ : Special",
-                    "Def - Dmg Taken ↑"
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
