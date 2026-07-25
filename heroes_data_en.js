@@ -24234,6 +24234,11 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Atk - Clawing"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Bleed"
                 ]
@@ -39432,6 +39437,11 @@ window.allHeroes =
                 "基础技能": [
                     "Atk - Area",
                     "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Clawing"
                 ]
             },
             {
@@ -62578,6 +62588,11 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Atk - Clawing"
+                ]
+            },
+            {
                 "负面效果": [
                     "Dmg - DoT : Surge Bleed",
                     "Dmg - DoT : Poison"
@@ -65299,6 +65314,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk - All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Clawing"
                 ]
             },
             {
@@ -80855,6 +80875,11 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Atk - Clawing"
+                ]
+            },
+            {
                 "增益效果": [
                     "Atk - Attack ↑",
                     "Atk - Crit Chance ↑"
@@ -85849,6 +85874,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk - All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Clawing"
                 ]
             },
             {
@@ -91738,6 +91768,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Clawing",
                     "Mana - Mana Cut",
                     "Dmg - Extra"
                 ]
@@ -113190,6 +113221,11 @@ window.allHeroes =
                 "基础技能": [
                     "Atk - All",
                     "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Clawing"
                 ]
             },
             {
