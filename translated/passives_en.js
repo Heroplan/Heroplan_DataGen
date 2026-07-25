@@ -10705,6 +10705,21 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "wild_cat_irme",
+        "name": "Irme",
+        "passives": [
+            "Nine Lives:",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affected by effects that increase or reduce defense.",
+            "This includes:",
+            "* Status effect buffs and ailments.",
+            "* Positive and negative stacks.",
+            "* Growth and Wither effects."
+        ]
+    },
+    {
         "heroId": "faun_isidore",
         "name": "Isidore",
         "passives": [
@@ -14477,11 +14492,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "wild_cat_irme",
-        "name": "Irme",
-        "passives": []
     },
     {
         "heroId": "ninja_zircon_costume_iron",

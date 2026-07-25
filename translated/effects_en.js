@@ -13654,6 +13654,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "wild_cat_irme",
+        "name": "Irme",
+        "effects": [
+            "Deals 330% Clawing damage to all enemies. (Deals 400% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 5 turns.)",
+            "Wither: All enemies get -250 attack.",
+            "All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn.",
+            "All allies get +50% attack, and a further 20% increase every time they are hit during 4 turns, up to +150% attack."
+        ]
+    },
+    {
         "heroId": "faun_isidore",
         "name": "Isidore",
         "effects": [
@@ -18444,11 +18454,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "wild_cat_irme",
-        "name": "Irme",
-        "effects": []
     },
     {
         "heroId": "ninja_zircon_costume_iron",

@@ -49269,5 +49269,25 @@ window.allHeroesExtra = [
         "healthBonus": "18.8%",
         "manaBonus": "5%",
         "family": "goblin"
+    },
+    {
+        "name": "Irme",
+        "fancy name": "Crimson Isle Iriomote",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-07-25",
+        "AetherPower": "Rage",
+        "heroId": "wild_cat_irme",
+        "baseAttack": 728,
+        "baseDefense": 628,
+        "baseHealth": 1164,
+        "specialId": "ignited_defiance",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];
