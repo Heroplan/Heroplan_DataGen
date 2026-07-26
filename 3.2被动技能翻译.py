@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 【被动技能-纯翻译最终版】强制拆分翻译，确保括号结构保留，括号失败时保留原文但条目计入失败
+# 新增：遗漏翻译检查，仅报告原文==译文且主句非空的情况
 
 import re
 import json
@@ -130,33 +131,82 @@ def expand_passive_list(raw_passives):
              则按单个 '*' (r'\s+(?=\*(?!\*))') 分割，忽略 '**' 或 '***'。
     """
     expanded_list = []
-    
-    # 规则2: 用于分割普通技能的正则表达式 (匹配单个*, 忽略**)
     split_pattern = r'\s+(?=\*(?!\*))'
-    
-    # 规则1: 用于检查纯星号标题行的正则表达式
-    # ^[\s\*]+$ 意味着从头到尾只包含空格或星号
     star_header_pattern = re.compile(r'^[\s\*]+$')
 
     for item in raw_passives:
         text = extract_string_from_item(item)
         if not text:
             continue
-            
         cleaned_text = text.strip("'\" ")
-
         if not cleaned_text:
             continue
 
-        # 检查是否为 "纯星号标题行"
         if '*' in cleaned_text and star_header_pattern.match(cleaned_text):
             expanded_list.append(cleaned_text)
         else:
             split_parts = [part.strip() for part in re.split(split_pattern, cleaned_text) if part.strip()]
             expanded_list.extend(split_parts)
-            
     return expanded_list
 
+def extract_outside_parentheses(text):
+    """去除括号及其内部内容，返回括号外的部分（主句）。"""
+    return re.sub(r'\([^()]*\)|（[^（）]*）', '', text).strip()
+
+def check_untouched_translations(logger, original_data, translated_data, field_name, lang_name):
+    """
+    检查翻译后的数据中，是否有条目完全未被翻译（与原文完全相同），
+    但排除整条都在括号内的情况（即括号外无内容），且原文长度至少为3个字符。
+    """
+    logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的 {field_name} 条目 ---")
+    untouched_entries = []
+
+    # 最小长度阈值（字符数），可自定义
+    MIN_LENGTH = 3
+
+    for idx, orig_item in enumerate(original_data):
+        if field_name not in orig_item:
+            continue
+        if idx >= len(translated_data) or field_name not in translated_data[idx]:
+            continue
+
+        trans_item = translated_data[idx]
+        orig_list = orig_item[field_name]
+        trans_list = trans_item[field_name]
+
+        orig_expanded = expand_passive_list(orig_list) if orig_list else []
+        trans_expanded = [extract_string_from_item(t) for t in trans_list if t and extract_string_from_item(t)]
+        trans_expanded = [s.strip() for s in trans_expanded if s and s.strip()]
+
+        orig_expanded = [s.strip() for s in orig_expanded if s and s.strip()]
+        trans_expanded = [s.strip() for s in trans_expanded if s and s.strip()]
+
+        if len(orig_expanded) != len(trans_expanded):
+            logger.warning(f"[{lang_name}] 条目 {idx} 原始展开长度与翻译后长度不一致，跳过检查。")
+            continue
+
+        for o_str, t_str in zip(orig_expanded, trans_expanded):
+            if o_str == t_str:
+                # ---- 新增：跳过长度小于阈值的条目（如单独的 '*'） ----
+                if len(o_str) < MIN_LENGTH:
+                    continue
+                outside = extract_outside_parentheses(o_str)
+                if outside.strip():
+                    hero_name = trans_item.get('name', 'N/A')
+                    untouched_entries.append({
+                        'heroId': orig_item.get('heroId', 'N/A'),
+                        'name': hero_name,
+                        'english': o_str,
+                        'translation': t_str
+                    })
+
+    if untouched_entries:
+        logger.warning(f"  >>> 发现 {len(untouched_entries)} 条 {field_name} 条目完全未翻译（与原文相同）。")
+        for entry in untouched_entries:
+            logger.warning(f"英雄ID: {entry['heroId']}, 名称: {entry['name']}\n原文: {entry['english']}\n译文: {entry['translation']}\n")
+    else:
+        logger.info(f"  √ 未发现完全未翻译的 {field_name} 条目。")
+        
 def main():
     """主函数，执行被动技能的双语批量翻译流程。"""
     logger = setup_logger('../logs/passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
@@ -208,7 +258,6 @@ def main():
             paren_failed = False
 
             if match:
-                # 强制拆分，不尝试整句翻译
                 main_part, paren_part, _ = match.groups()
                 trans_main = translator_cn.translate(main_part)
                 trans_paren = translator_cn.translate(paren_part)
@@ -322,6 +371,12 @@ def main():
         logger.info(f"繁体中文结果已成功保存到: {output_file_tc}")
     except Exception as e:
         logger.error(f"写入繁体中文输出文件时发生错误: {e}")
+
+    # --- 新增：遗漏翻译检查 ---
+    logger.info("--- 开始漏翻译检查 ---")
+    check_untouched_translations(logger, original_data, translated_data_cn, 'passives', 'CN')
+    check_untouched_translations(logger, original_data, translated_data_tc, 'passives', 'TC')
+    logger.info("--- 漏翻译检查完成 ---")
 
     logger.info("--- 双语翻译任务报告 ---")
     logger.info(f"总处理独立被动技能条目数: {total_items}")

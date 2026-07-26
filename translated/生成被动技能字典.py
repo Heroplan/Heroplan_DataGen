@@ -225,12 +225,25 @@ def create_passives_dictionary(original_data, translated_data, lang_name, logger
 def check_untouched_translations(logger, original_data, translated_data, lang_name):
     """
     检查指定语言版本的翻译是否与英文原文完全相同（疑似漏翻译）。
+    新增：检测主句未翻译，仅括号内翻译的情况（但排除整个条目都在括号内的情形）。
     """
     logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的技能效果文本 ---")
     
-    untouched_entries = []
+    untouched_entries = []      # 完全未翻译
+    bracket_only_entries = []   # 仅括号内翻译（且存在括号外主句）
+    
     original_map = {item['heroId']: item.get('passives', []) for item in original_data}
     translated_map = {item['heroId']: item.get('passives', []) for item in translated_data}
+    
+    def strip_parentheses(text):
+        """将圆括号和中文括号内的内容替换为 '()'，保留括号位置，便于比较主句部分。"""
+        return re.sub(r'\([^()]*\)|（[^（）]*）', '()', text).strip()
+    
+    def extract_outside_parentheses(text):
+        """提取括号外（即主句）的内容，忽略括号及其内部。"""
+        # 先移除括号内内容，再去除空白
+        without_brackets = re.sub(r'\([^()]*\)|（[^（）]*）', '', text).strip()
+        return without_brackets
     
     for hero_id in original_map:
         if hero_id not in translated_map:
@@ -239,42 +252,54 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
         eng_effects = [extract_string_from_item(e) for e in original_map.get(hero_id, [])]
         trans_effects = [extract_string_from_item(t) for t in translated_map.get(hero_id, [])]
         
-        # 确保比较的列表长度一致
         min_len = min(len(eng_effects), len(trans_effects))
         for i in range(min_len):
             eng_text = eng_effects[i] if i < len(eng_effects) else None
             trans_text = trans_effects[i] if i < len(trans_effects) else None
             
-            # 移除首尾空白后进行严格比对
-            # 仅当英文原文非空且长度大于5时才进行比较
             if eng_text and trans_text:
                 eng_stripped = eng_text.strip()
                 trans_stripped = trans_text.strip()
-                if len(eng_stripped) > 5 and eng_stripped == trans_stripped:
-                    # 找到疑似漏翻译的条目
-                    hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
-                    untouched_entries.append({
-                        'heroId': hero_id,
-                        'name': hero_name,
-                        'english': eng_stripped,
-                        'translation': trans_stripped
-                    })
+                if len(eng_stripped) > 5:
+                    # 1. 完全未翻译
+                    if eng_stripped == trans_stripped:
+                        hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
+                        untouched_entries.append({
+                            'heroId': hero_id,
+                            'name': hero_name,
+                            'english': eng_stripped,
+                            'translation': trans_stripped,
+                        })
+                    # 2. 仅括号内翻译（但前提是括号外存在主句内容）
+                    else:
+                        # 提取括号外内容
+                        eng_outside = extract_outside_parentheses(eng_stripped)
+                        trans_outside = extract_outside_parentheses(trans_stripped)
+                        # 只有当括号外内容非空且二者相等时，才视为“主句未翻译”
+                        if eng_outside and trans_outside and eng_outside == trans_outside:
+                            hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
+                            bracket_only_entries.append({
+                                'heroId': hero_id,
+                                'name': hero_name,
+                                'english': eng_stripped,
+                                'translation': trans_stripped,
+                            })
     
-    # 生成报告
+    # 输出报告（略，与原逻辑相同）
     if untouched_entries:
-        try:
-            for entry in untouched_entries:
-                logger.warning(f"英雄ID (heroId): {entry['heroId']}\n")
-                logger.warning(f"英雄名称: {entry['name']}\n")
-                logger.warning(f"英文原文: {entry['english']}\n")
-                logger.warning(f"当前译文: {entry['translation']}\n")
-                logger.warning("-"*50 + "\n")
-            logger.warning(f"  >>> 发现 {len(untouched_entries)} 条技能效果文本可能未被翻译（与原文相同）。")
-        except Exception as e:
-            logger.error(f"保存【{lang_name}】漏翻译检查报告时出错: {e}")
+        logger.warning(f"  >>> 发现 {len(untouched_entries)} 条技能效果文本完全未翻译（与原文相同）。")
+        for entry in untouched_entries:
+            logger.warning(f"英雄ID: {entry['heroId']}, 名称: {entry['name']}\n原文: {entry['english']}\n译文: {entry['translation']}\n")
     else:
-        logger.info(f"  √ 未发现与原文完全相同的技能效果文本（【{lang_name}】基础漏翻译检查通过）。")
-        
+        logger.info(f"  √ 未发现完全未翻译的条目。")
+    
+    if bracket_only_entries:
+        logger.warning(f"  >>> 发现 {len(bracket_only_entries)} 条技能效果文本仅括号内被翻译，主句未翻译。")
+        for entry in bracket_only_entries:
+            logger.warning(f"英雄ID: {entry['heroId']}, 名称: {entry['name']}\n原文: {entry['english']}\n译文: {entry['translation']}\n")
+    else:
+        logger.info(f"  √ 未发现仅括号内翻译的条目。")
+          
 def analyze_passives_discrepancies(logger, original_data, cn_data, tc_data):
     """分析中英文被动技能列表的行数差异。"""
     logger.info("--- 开始生成被动技能(passives)的结构性差异报告 ---")

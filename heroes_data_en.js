@@ -3559,7 +3559,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Def - Counterattack"
+                    "Def - Counterattack",
+                    "Def - Increment Counterattack"
                 ]
             }
         ]
@@ -3896,7 +3897,7 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Dmg Reduction",
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             }
         ]
@@ -5070,6 +5071,7 @@ window.allHeroes =
                 "增益效果": [
                     "Status - Reflect Ailments",
                     "Def - Defense ↑",
+                    "Def - Increment Defense ↑",
                     "Atk - Stack : Atk ↑"
                 ]
             }
@@ -6409,7 +6411,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Dmg Share",
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -7774,7 +7777,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -7840,7 +7844,8 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Def - Def ↓ : Ice",
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -7912,7 +7917,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -12579,7 +12585,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Def ↑ : Nature"
+                    "Def - Def ↑ : Nature",
+                    "Def - Increment Defense ↑"
                 ]
             },
             {
@@ -12649,7 +12656,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Def ↑ : Nature"
+                    "Def - Def ↑ : Nature",
+                    "Def - Increment Defense ↑"
                 ]
             },
             {
@@ -14284,7 +14292,8 @@ window.allHeroes =
                 "增益效果": [
                     "Def - Taunt",
                     "Atk - Attack ↑",
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -14345,6 +14354,7 @@ window.allHeroes =
                 "增益效果": [
                     "Def - Taunt",
                     "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑",
                     "Def - Defense ↑"
                 ]
             }
@@ -14827,7 +14837,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -15642,7 +15653,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Mana - Mana Gen ↑"
                 ]
             },
@@ -18399,7 +18410,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Atk - Attack ↓"
+                    "Atk - Attack ↓",
+                    "Atk - Decrement Attack ↓"
                 ]
             }
         ]
@@ -19432,6 +19444,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Atk - Attack ↓",
+                    "Atk - Decrement Attack ↓",
                     "Heal - Healing ↓"
                 ]
             }
@@ -20063,7 +20076,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -20706,7 +20720,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Reflect : Nature",
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -21245,7 +21260,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Def - Mimic"
                 ]
             }
@@ -22394,6 +22409,7 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Defense ↑",
+                    "Def - Increment Defense ↑",
                     "Status - Block Buff Dispel"
                 ]
             }
@@ -23326,7 +23342,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -23373,7 +23390,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -23424,7 +23442,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -23477,7 +23496,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Status - Reflect Ailments",
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -23534,7 +23554,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -25973,13 +25994,15 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             },
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -29881,7 +29904,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Mana - Mana Gen ↑",
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -30650,7 +30674,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Counterattack"
+                    "Def - Counterattack",
+                    "Def - Increment Counterattack"
                 ]
             },
             {
@@ -36644,7 +36669,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -37554,7 +37580,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Atk - Attack ↓"
+                    "Atk - Attack ↓",
+                    "Atk - Decrement Attack ↓"
                 ]
             }
         ]
@@ -37913,7 +37940,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -38884,7 +38912,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Atk - Attack ↓"
+                    "Atk - Attack ↓",
+                    "Atk - Decrement Attack ↓"
                 ]
             }
         ]
@@ -43598,6 +43627,7 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Atk - Accuracy ↓",
+                    "Atk - Decrement Accuracy ↓",
                     "Dmg - DoT : Poison"
                 ]
             }
@@ -44058,7 +44088,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             }
         ]
@@ -44111,7 +44141,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             }
         ]
@@ -44168,7 +44198,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             }
         ]
@@ -44967,7 +44997,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Def - Mimic"
                 ]
             }
@@ -52549,7 +52579,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             },
             {
@@ -52612,7 +52642,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Atk - Crit Chance ↑",
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑",
+                    "Atk - Increment Normal Attack ↑"
                 ]
             }
         ]
@@ -52675,7 +52706,8 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Atk - Crit Chance ↑",
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑",
+                    "Atk - Increment Normal Attack ↑"
                 ]
             }
         ]
@@ -53795,7 +53827,9 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Atk - Attack ↑",
-                    "Def - Defense ↑"
+                    "Atk - Increment Attack ↑",
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             },
             {
@@ -53877,7 +53911,9 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Atk - Attack ↑",
-                    "Def - Defense ↑"
+                    "Atk - Increment Attack ↑",
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             },
             {
@@ -57658,7 +57694,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -57929,7 +57966,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Def ↓ : Dark"
+                    "Def - Def ↓ : Dark",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -58002,7 +58040,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Def ↓ : Dark"
+                    "Def - Def ↓ : Dark",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -58242,7 +58281,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             },
             {
@@ -58427,7 +58466,8 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Mana - Mana Gen ↓/Block",
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -58914,6 +58954,7 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑",
                     "Heal - Self Revive"
                 ]
             }
@@ -60906,7 +60947,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -60965,7 +61007,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -64841,7 +64884,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             },
             {
@@ -64917,7 +64961,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             },
             {
@@ -68031,7 +68076,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Def - Mimic"
                 ]
             }
@@ -70608,8 +70653,10 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Counterattack",
+                    "Def - Increment Counterattack",
                     "Def - Dmg Share",
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -71978,12 +72025,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -72156,7 +72205,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -72785,7 +72835,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -73476,7 +73527,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -76362,7 +76414,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Atk - Attack ↓"
+                    "Atk - Attack ↓",
+                    "Atk - Decrement Attack ↓"
                 ]
             }
         ]
@@ -77114,7 +77167,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -77283,7 +77337,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             }
         ]
@@ -78481,7 +78535,9 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Counterattack",
+                    "Def - Increment Counterattack",
                     "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑",
                     "Def - Defense ↑"
                 ]
             }
@@ -78767,7 +78823,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Def ↓ : Fire"
+                    "Def - Def ↓ : Fire",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -79900,7 +79957,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             },
             {
@@ -80016,7 +80074,8 @@ window.allHeroes =
                 "增益效果": [
                     "Def - Dmg Reduction",
                     "Def - Taunt",
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             }
         ]
@@ -80391,7 +80450,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             },
             {
@@ -81458,7 +81518,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Atk - Attack ↓"
+                    "Atk - Attack ↓",
+                    "Atk - Decrement Attack ↓"
                 ]
             }
         ]
@@ -82680,7 +82741,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Counterattack"
+                    "Def - Counterattack",
+                    "Def - Increment Counterattack"
                 ]
             }
         ]
@@ -85883,7 +85945,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑"
                 ]
             },
             {
@@ -86686,7 +86749,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Def ↓ : Fire"
+                    "Def - Def ↓ : Fire",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -86752,7 +86816,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Def ↓ : Fire"
+                    "Def - Def ↓ : Fire",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -88902,7 +88967,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Def - Defense ↑"
                 ]
             }
@@ -92499,7 +92564,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Def - Mimic"
                 ]
             }
@@ -94872,7 +94937,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Atk - Attack ↑"
+                    "Atk - Normal Attack ↑"
                 ]
             }
         ]
@@ -97097,7 +97162,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Def ↑ : Dark"
+                    "Def - Def ↑ : Dark",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -97162,7 +97228,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Def ↑ : Dark"
+                    "Def - Def ↑ : Dark",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -97721,7 +97788,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Defense ↓"
+                    "Def - Defense ↓",
+                    "Def - Decrement Defense ↓"
                 ]
             }
         ]
@@ -103028,7 +103096,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Defense ↑"
+                    "Def - Defense ↑",
+                    "Def - Increment Defense ↑"
                 ]
             }
         ]
@@ -105016,6 +105085,7 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Defense ↑",
+                    "Def - Increment Defense ↑",
                     "Mana - Mana Gain"
                 ]
             }
@@ -105761,6 +105831,7 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Counterattack",
+                    "Def - Increment Counterattack",
                     "Atk - Crit Chance ↑"
                 ]
             }
@@ -109884,6 +109955,7 @@ window.allHeroes =
                 "增益效果": [
                     "Def - Dmg Reduction",
                     "Atk - Attack ↑",
+                    "Atk - Increment Attack ↑",
                     "Atk - Crit Chance ↑",
                     "Atk - Bypass / Ignore"
                 ]
@@ -113761,7 +113833,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Attack ↑",
+                    "Atk - Normal Attack ↑",
                     "Def - Mimic"
                 ]
             }

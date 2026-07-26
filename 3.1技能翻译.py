@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 【最终版】强制拆分翻译，确保括号结构保留，括号失败时保留原文但条目计入失败
+# 新增：遗漏翻译检查，仅报告原文==译文且主句非空的情况
 
 import re
 import json
@@ -121,6 +122,90 @@ def extract_string_from_item(item):
     if isinstance(item, dict) and item: return next(iter(item.values()), None)
     return None
 
+def expand_passive_list(raw_passives):
+    """
+    展开被动技能列表（通用函数，也可用于effects），将包含 '*' 的字符串拆分为多个条目。
+    - 规则1: 如果字符串只包含 '*' 和空格 (如 " ****" 或 "* * *"), 则不分割。
+    - 规则2: 如果字符串包含其他字符 (如 "Effect 1 * Effect 2"), 
+             则按单个 '*' (r'\s+(?=\*(?!\*))') 分割，忽略 '**' 或 '***'。
+    """
+    expanded_list = []
+    split_pattern = r'\s+(?=\*(?!\*))'
+    star_header_pattern = re.compile(r'^[\s\*]+$')
+
+    for item in raw_passives:
+        text = extract_string_from_item(item)
+        if not text:
+            continue
+        cleaned_text = text.strip("'\" ")
+        if not cleaned_text:
+            continue
+
+        if '*' in cleaned_text and star_header_pattern.match(cleaned_text):
+            expanded_list.append(cleaned_text)
+        else:
+            split_parts = [part.strip() for part in re.split(split_pattern, cleaned_text) if part.strip()]
+            expanded_list.extend(split_parts)
+    return expanded_list
+
+def extract_outside_parentheses(text):
+    """去除括号及其内部内容，返回括号外的部分（主句）。"""
+    return re.sub(r'\([^()]*\)|（[^（）]*）', '', text).strip()
+
+def check_untouched_translations(logger, original_data, translated_data, field_name, lang_name):
+    """
+    检查翻译后的数据中，是否有条目完全未被翻译（与原文完全相同），
+    但排除整条都在括号内的情况（即括号外无内容），且原文长度至少为3个字符。
+    """
+    logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的 {field_name} 条目 ---")
+    untouched_entries = []
+
+    # 最小长度阈值（字符数），可自定义
+    MIN_LENGTH = 3
+
+    for idx, orig_item in enumerate(original_data):
+        if field_name not in orig_item:
+            continue
+        if idx >= len(translated_data) or field_name not in translated_data[idx]:
+            continue
+
+        trans_item = translated_data[idx]
+        orig_list = orig_item[field_name]
+        trans_list = trans_item[field_name]
+
+        orig_expanded = expand_passive_list(orig_list) if orig_list else []
+        trans_expanded = [extract_string_from_item(t) for t in trans_list if t and extract_string_from_item(t)]
+        trans_expanded = [s.strip() for s in trans_expanded if s and s.strip()]
+
+        orig_expanded = [s.strip() for s in orig_expanded if s and s.strip()]
+        trans_expanded = [s.strip() for s in trans_expanded if s and s.strip()]
+
+        if len(orig_expanded) != len(trans_expanded):
+            logger.warning(f"[{lang_name}] 条目 {idx} 原始展开长度与翻译后长度不一致，跳过检查。")
+            continue
+
+        for o_str, t_str in zip(orig_expanded, trans_expanded):
+            if o_str == t_str:
+                # ---- 新增：跳过长度小于阈值的条目（如单独的 '*'） ----
+                if len(o_str) < MIN_LENGTH:
+                    continue
+                outside = extract_outside_parentheses(o_str)
+                if outside.strip():
+                    hero_name = trans_item.get('name', 'N/A')
+                    untouched_entries.append({
+                        'heroId': orig_item.get('heroId', 'N/A'),
+                        'name': hero_name,
+                        'english': o_str,
+                        'translation': t_str
+                    })
+
+    if untouched_entries:
+        logger.warning(f"  >>> 发现 {len(untouched_entries)} 条 {field_name} 条目完全未翻译（与原文相同）。")
+        for entry in untouched_entries:
+            logger.warning(f"英雄ID: {entry['heroId']}, 名称: {entry['name']}\n原文: {entry['english']}\n译文: {entry['translation']}\n")
+    else:
+        logger.info(f"  √ 未发现完全未翻译的 {field_name} 条目。")
+        
 def main():
     """主函数，实现翻译后合并的核心逻辑"""
     logger = setup_logger('../logs/effects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
@@ -168,22 +253,19 @@ def main():
         for effect_str in original_effects:
             match = split_pattern.match(effect_str.strip())
             final_translation = None
-            paren_failed = False  # 标记括号是否翻译失败
+            paren_failed = False
 
             if match:
-                # 强制拆分，不尝试整句翻译
                 main_part, paren_part, _ = match.groups()
                 trans_main = translator_cn.translate(main_part)
                 trans_paren = translator_cn.translate(paren_part)
 
-                # 主句最终文本：有译文则用译文，否则原文（并记录失败）
                 if trans_main:
                     main_final = trans_main
                 else:
                     main_final = main_part
                     logger.warning(f"[CN主句翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
                 
-                # 括号最终文本：有译文则用译文，否则原文（并记录失败）
                 if trans_paren:
                     paren_final = trans_paren
                 else:
@@ -191,17 +273,14 @@ def main():
                     paren_failed = True
                     logger.warning(f"[CN括号翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
 
-                # 组合，根据主句末尾是否已有标点决定是否加句号
                 if main_final.strip() and main_final.strip()[-1] not in ending_punctuation:
                     final_translation = Translator.format_spacing(main_final + "。" + paren_final)
                 else:
                     final_translation = Translator.format_spacing(main_final + paren_final)
 
-                # 标记条目是否整体成功：主句或括号任一失败则整体失败
                 if trans_main is None or paren_failed:
                     is_cn_item_fully_translated = False
             else:
-                # 不带括号，直接翻译
                 final_translation = translator_cn.translate(effect_str)
                 if final_translation is None:
                     logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
@@ -209,7 +288,6 @@ def main():
             if final_translation:
                 translated_effects_cn.append(final_translation)
             else:
-                # 完全失败（主句失败或无匹配），保留原文
                 is_cn_item_fully_translated = False
                 translated_effects_cn.append(effect_str)
         
@@ -287,6 +365,12 @@ def main():
         with open(output_file_tc, 'w', encoding='utf-8') as f: f.write(prefix_tc + translated_json_string_tc + suffix)
         logger.info(f"繁体中文结果已成功保存到: {output_file_tc}")
     except Exception as e: logger.error(f"写入繁体中文输出文件时发生错误: {e}")
+
+    # --- 新增：遗漏翻译检查 ---
+    logger.info("--- 开始漏翻译检查 ---")
+    check_untouched_translations(logger, original_data, translated_data_cn, 'effects', 'CN')
+    check_untouched_translations(logger, original_data, translated_data_tc, 'effects', 'TC')
+    logger.info("--- 漏翻译检查完成 ---")
 
     logger.info("--- 双语翻译任务报告 ---")
     logger.info(f"总处理独立技能条目数: {total_items}")

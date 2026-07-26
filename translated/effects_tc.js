@@ -7180,7 +7180,7 @@ const translatedEffectsTC =
         "name": "Vainamoinen",
         "effects": [
             "對目標與附近敵人造成 270% 傷害。",
-            "All enemies get -30% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.（進攻型特殊技能也有機率無法擊中。）"
+            "所有敵人獲得 -30% 精準度，持續 3 回合。 對烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。（進攻型特殊技能也有機率無法擊中。）"
         ]
     },
     {
@@ -7188,7 +7188,7 @@ const translatedEffectsTC =
         "name": "Vainamoinen C1",
         "effects": [
             "對目標與附近敵人造成 300% 傷害。",
-            "All enemies get -25% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.（進攻型特殊技能也有機率無法擊中。）"
+            "所有敵人獲得 -25% 精準度，持續 3 回合。 對烈火系角色，此狀態效果變為無法驅散且持續時間延長 2 回合。（進攻型特殊技能也有機率無法擊中。）"
         ]
     },
     {
