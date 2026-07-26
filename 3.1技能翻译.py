@@ -154,14 +154,22 @@ def extract_outside_parentheses(text):
 
 def check_untouched_translations(logger, original_data, translated_data, field_name, lang_name):
     """
-    检查翻译后的数据中，是否有条目完全未被翻译（与原文完全相同），
-    但排除整条都在括号内的情况（即括号外无内容），且原文长度至少为3个字符。
+    检查翻译后的数据，报告主句或括号内容未翻译的情况。
+    - 整句完全未翻译（原文==译文）且括号外有主句 -> 报告“整句未翻译”
+    - 主句相同但括号不同 -> 报告“主句未翻译”
+    - 括号相同但主句不同 -> 报告“括号内容未翻译”
+    - 忽略长度小于 MIN_LENGTH 的文本
     """
     logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的 {field_name} 条目 ---")
-    untouched_entries = []
+    untouched_entries = []      # 存储完全未翻译
+    main_untouched = []         # 主句未翻译
+    paren_untouched = []        # 括号内容未翻译
 
-    # 最小长度阈值（字符数），可自定义
     MIN_LENGTH = 3
+    split_pattern = re.compile(r'^(.*\S)\s*([\(\（][^)\）]+[\)\）])\s*([.。!?？]?)$', re.DOTALL)
+
+    def extract_outside_parentheses(text):
+        return re.sub(r'\([^()]*\)|（[^（）]*）', '', text).strip()
 
     for idx, orig_item in enumerate(original_data):
         if field_name not in orig_item:
@@ -173,7 +181,9 @@ def check_untouched_translations(logger, original_data, translated_data, field_n
         orig_list = orig_item[field_name]
         trans_list = trans_item[field_name]
 
+        # 展开原始列表（处理星号分割）
         orig_expanded = expand_passive_list(orig_list) if orig_list else []
+        # 翻译后的列表已经是展开后的字符串列表（我们的翻译流程已展开）
         trans_expanded = [extract_string_from_item(t) for t in trans_list if t and extract_string_from_item(t)]
         trans_expanded = [s.strip() for s in trans_expanded if s and s.strip()]
 
@@ -184,27 +194,76 @@ def check_untouched_translations(logger, original_data, translated_data, field_n
             logger.warning(f"[{lang_name}] 条目 {idx} 原始展开长度与翻译后长度不一致，跳过检查。")
             continue
 
+        hero_name = trans_item.get('name', 'N/A')
+        hero_id = orig_item.get('heroId', 'N/A')
+
         for o_str, t_str in zip(orig_expanded, trans_expanded):
+            # 跳过过短的文本
+            if len(o_str) < MIN_LENGTH:
+                continue
+
+            # 1. 检查整句是否完全相同
             if o_str == t_str:
-                # ---- 新增：跳过长度小于阈值的条目（如单独的 '*'） ----
-                if len(o_str) < MIN_LENGTH:
-                    continue
                 outside = extract_outside_parentheses(o_str)
-                if outside.strip():
-                    hero_name = trans_item.get('name', 'N/A')
+                if outside.strip():  # 括号外有主句，才报告整句未翻译
                     untouched_entries.append({
-                        'heroId': orig_item.get('heroId', 'N/A'),
+                        'heroId': hero_id,
                         'name': hero_name,
                         'english': o_str,
-                        'translation': t_str
+                        'translation': t_str,
+                        'type': '整句未翻译'
                     })
+                continue  # 整句相同，不用再细分
 
+            # 2. 尝试拆分主句和括号
+            o_match = split_pattern.match(o_str)
+            t_match = split_pattern.match(t_str)
+
+            if o_match and t_match:
+                o_main, o_paren, _ = o_match.groups()
+                t_main, t_paren, _ = t_match.groups()
+
+                # 检查主句
+                if o_main.strip() and t_main.strip() and len(o_main.strip()) >= MIN_LENGTH:
+                    if o_main.strip() == t_main.strip():
+                        main_untouched.append({
+                            'heroId': hero_id,
+                            'name': hero_name,
+                            'english': o_str,
+                            'translation': t_str,
+                            'type': '主句未翻译'
+                        })
+                # 检查括号
+                if o_paren.strip() and t_paren.strip() and len(o_paren.strip()) >= MIN_LENGTH:
+                    if o_paren.strip() == t_paren.strip():
+                        paren_untouched.append({
+                            'heroId': hero_id,
+                            'name': hero_name,
+                            'english': o_str,
+                            'translation': t_str,
+                            'type': '括号内容未翻译'
+                        })
+            else:
+                # 无括号，但整句并不相同，说明至少部分翻译了，忽略（因为无法细分）
+                pass
+
+    # --- 输出报告 ---
+    all_reports = []
     if untouched_entries:
-        logger.warning(f"  >>> 发现 {len(untouched_entries)} 条 {field_name} 条目完全未翻译（与原文相同）。")
-        for entry in untouched_entries:
-            logger.warning(f"英雄ID: {entry['heroId']}, 名称: {entry['name']}\n原文: {entry['english']}\n译文: {entry['translation']}\n")
+        all_reports.extend(untouched_entries)
+    if main_untouched:
+        all_reports.extend(main_untouched)
+    if paren_untouched:
+        all_reports.extend(paren_untouched)
+
+    if all_reports:
+        logger.warning(f"  >>> 发现 {len(all_reports)} 处漏翻译问题。")
+        for entry in all_reports:
+            logger.warning(f"[{entry['type']}] 英雄ID: {entry['heroId']}, 名称: {entry['name']}")
+            logger.warning(f"原文: {entry['english']}")
+            logger.warning(f"译文: {entry['translation']}\n")
     else:
-        logger.info(f"  √ 未发现完全未翻译的 {field_name} 条目。")
+        logger.info(f"  √ 未发现漏翻译条目。")
         
 def main():
     """主函数，实现翻译后合并的核心逻辑"""
