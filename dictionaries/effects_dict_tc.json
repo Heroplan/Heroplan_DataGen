@@ -2939,5 +2939,7 @@
     "^All\\s+damage\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+is\\s+increased\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目標與附近敵人受到的所有傷害提高 \\1 ,持續\\2回合。",
     "^Ransacks\\s+all\\s+enemies,\\s+stealing([+-]?\\s*\\d+\\s*%?)health\\s+and\\s+a\\s+buff\\s+from\\s+each,\\s+and\\s+randomly\\s+distributes\\s+stolen\\s+buffs\\s+on\\s+allies\\.?\\s*$": "對所有敵人進行掠奪，竊取各個敵人\\1生命值與一項增益，並將竊取來的增益隨機分配給盟友。?",
     "^All\\s+enemies\\s+fall\\s+asleep\\s+and\\s+receive\\s+([+-]?\\s*\\d+\\s*%?)increased\\s+damage\\s+while\\s+in\\s+sleeping\\.?\\s*$": "所有敵人會陷入沉睡,睡著時受到的傷害增加 \\1。",
-    "^All\\s+enemies\\s+become\\s+Provoked\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+Provoked\\s+character\\s+deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+a\\s+random\\s+opponent\\s+at\\s+the\\s+end\\s+of\\s+the\\s+turn\\.?\\s*$": "所有敵人都被激怒，持續\\1個回合。被激怒的角色在回合結束時對一名隨機對手造成\\2 傷害。"
+    "^All\\s+enemies\\s+become\\s+Provoked\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+Provoked\\s+character\\s+deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+a\\s+random\\s+opponent\\s+at\\s+the\\s+end\\s+of\\s+the\\s+turn\\.?\\s*$": "所有敵人都被激怒，持續\\1個回合。被激怒的角色在回合結束時對一名隨機對手造成\\2 傷害。",
+    "^The\\s+caster\\s+has\\s+a([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+drop\\s+any\\s+received\\s+damage\\s+to([+-]?\\s*\\d+\\s*%?)from([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "施法者有\\1的機率將受到的傷害降低至\\2,持續\\3個回合。",
+    "^The\\s+caster\\s+gets\\s+Taunt\\s+that\\s+prevents\\s+enemies\\s+from\\s+using\\s+Special\\s+Skill\\s+on\\s+the\\s+caster['’]?s\\s+allies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "施法者受到的嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續\\1個回合。此效果無法驅散。"
 }

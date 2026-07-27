@@ -1,29 +1,5 @@
 [
     {
-        "name": "Zircon C",
-        "fancy_name": "Ninja of Iron Waves",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-27 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_zircon_costume_iron",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tenzin Kiba",
-        "fancy_name": "Intimidator Ronin",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-07-27 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_tenzin_kiba",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Avani",
         "fancy_name": "Vigilante of Sacred Grove",
         "color": "Green",

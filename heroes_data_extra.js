@@ -49289,5 +49289,53 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Zircon costume1",
+        "fancy name": "Ninja of Iron Waves",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "charge_ninja",
+        "Release date": "2026-07-27",
+        "AetherPower": "Defense Up",
+        "heroId": "ninja_zircon_costume_iron",
+        "baseAttack": 358,
+        "baseDefense": 408,
+        "baseHealth": 697,
+        "specialId": "wall_of_ki",
+        "specialId_costume": "defensive_ki",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "attackBonus": "76%",
+        "defenseBonus": "76%",
+        "healthBonus": "76%",
+        "manaBonus": "1%",
+        "family": "ninja"
+    },
+    {
+        "name": "Tenzin Kiba",
+        "fancy name": "Intimidator Ronin",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
+        "Release date": "2026-07-27",
+        "AetherPower": "Taunt",
+        "heroId": "ronin_tenzin_kiba",
+        "baseAttack": 676,
+        "baseDefense": 697,
+        "baseHealth": 1164,
+        "specialId": "bring_it_on",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health",
+            "reduce_minion_health"
+        ],
+        "family": "ronin"
     }
 ];

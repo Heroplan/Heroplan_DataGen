@@ -3555,6 +3555,25 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ninja_zircon_costume_iron",
+        "name": "Zircon C1",
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
+            "x1 Mana Charge:",
+            "Boosts health of all allies by 300. Boosted health can exceed max HP.",
+            "All allies get +30% defense, and a further +5% increase every time they are hit during 2 turns, up to +50% defense.",
+            "All allies are immune to buff dispels and reallocations for 2 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
+            "x2 Mana Charge:",
+            "Boosts health of all allies by 600. Boosted health can exceed max HP.",
+            "All allies get +50% defense, and a further +5% increase every time they are hit during 3 turns, up to +75% defense.",
+            "All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself. Also includes Ransack.)",
+            "x3 Mana Charge:",
+            "Boosts health of all allies by 2000. Boosted health can exceed max HP.",
+            "All allies get +65% defense, and a further +5% increase every time they are hit during 4 turns, up to +90% defense.",
+            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself. Also includes Ransack.)"
+        ]
+    },
+    {
         "heroId": "forest_female_warrior",
         "name": "Aife",
         "effects": [
@@ -14682,6 +14701,27 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_tenzin_kiba",
+        "name": "Tenzin Kiba",
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Deals 250% damage to all enemies.",
+            "The attack bypasses counterattacks and reflection.",
+            "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 2 turns.",
+            "x2 Mana Charge:",
+            "Deals 350% damage to all enemies.",
+            "The attack bypasses counterattacks and reflection.",
+            "The caster has a 50% chance to drop any received damage to 1 from 3 turns.",
+            "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 3 turns.",
+            "x3 Mana Charge:",
+            "Deals 500% damage to all enemies.",
+            "The attack bypasses counterattacks and reflection.",
+            "The caster has a 50% chance to drop any received damage to 1 from 5 turns.",
+            "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 5 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "s5_tetisheri",
         "name": "Tetisheri",
         "effects": [
@@ -18454,16 +18494,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "ninja_zircon_costume_iron",
-        "name": "Zircon C",
-        "effects": []
-    },
-    {
-        "heroId": "ronin_tenzin_kiba",
-        "name": "Tenzin Kiba",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_avani",

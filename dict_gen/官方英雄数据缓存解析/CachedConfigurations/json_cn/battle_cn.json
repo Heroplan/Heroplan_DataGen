@@ -90086,15 +90086,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1600
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1300
+            "multiplierPerMil": 1400
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1300
+            "multiplierPerMil": 1400
           },
           {
             "type": "ManaGenerationMultiplier",
@@ -98475,5 +98475,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1347327708
+  "battleConfigId": 4052892709
 }

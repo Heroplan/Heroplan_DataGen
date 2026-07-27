@@ -32759,19 +32759,15 @@
         "id": "dynamic_offer_49_purple_umbria",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_7c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "id": "com.smallgiantgames.empires.dynamic_5d",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20c",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10e",
+            "id": "com.smallgiantgames.empires.dynamic_3c",
             "purchaseLimit": 2
           }
         ],
@@ -50441,6 +50437,27 @@
                 "amount": 100
               }
             ]
+          },
+          {
+            "activationTime": "2026-07-27 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 150,
+                "zyngaStoreExtraAmount": 50
+              }
+            ]
           }
         ]
       },
@@ -50734,6 +50751,22 @@
                 "type": "Item",
                 "id": "refill_food_giant",
                 "amount": 8
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-27 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
               }
             ]
           }
@@ -52059,6 +52092,22 @@
                 "id": "refill_iron_giant",
                 "amount": 17,
                 "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-07-27 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 750,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 1
               }
             ]
           },
@@ -64617,6 +64666,13 @@
         "endTime": "2026-08-01 07:00:00"
       },
       {
+        "id": "dynamic_offer_49_purple_umbria",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-07-27 10:00:00",
+        "endTime": "2026-07-28 06:30:00"
+      },
+      {
         "id": "dynamic_offer_13_green_lughaidh",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -65238,7 +65294,7 @@
         "slot": "RightExtraBottom",
         "scheduledManually": true,
         "startTime": "2026-08-11 07:00:00",
-        "endTime": "2026-08-16 07:00:00"
+        "endTime": "2026-08-15 07:00:00"
       },
       {
         "id": "aethercrystalsoffer2",
@@ -95220,5 +95276,5 @@
       ]
     }
   },
-  "shopConfigId": 3669700115
+  "shopConfigId": 1878824516
 }

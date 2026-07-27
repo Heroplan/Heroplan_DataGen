@@ -2815,6 +2815,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "ninja_zircon_costume_iron",
+        "name": "Zircon C1",
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
+            "撕裂之觸：每當此角色反擊敵人時，攻擊者在 4 回合內受到 544 點流血傷害。"
+        ]
+    },
+    {
         "heroId": "forest_female_warrior",
         "name": "Aife",
         "passives": []
@@ -11487,6 +11495,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "ronin_tenzin_kiba",
+        "name": "Tenzin Kiba",
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
+            "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
+            "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
+        ]
+    },
+    {
         "heroId": "s5_tetisheri",
         "name": "Tetisheri",
         "passives": [
@@ -14492,16 +14511,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "ninja_zircon_costume_iron",
-        "name": "Zircon C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_tenzin_kiba",
-        "name": "Tenzin Kiba",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_avani",

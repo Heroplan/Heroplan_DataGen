@@ -22972,7 +22972,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_1",
         "dollarValue": 2,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22996,7 +22995,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_2",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23020,7 +23018,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_3",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23049,7 +23046,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23078,7 +23074,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_5",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24308,7 +24303,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_1_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24328,7 +24322,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_1_tier2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24347,7 +24340,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_2_tier1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24384,7 +24376,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_3_tier1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24404,7 +24395,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_3_tier2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29591,7 +29581,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_2_tier2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33598,7 +33587,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33617,7 +33605,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33636,7 +33623,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33660,7 +33646,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58834,5 +58819,5 @@
       }
     ]
   },
-  "productsConfigId": 928357023
+  "productsConfigId": 2774298867
 }

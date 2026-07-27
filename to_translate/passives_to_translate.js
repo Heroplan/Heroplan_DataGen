@@ -2815,6 +2815,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ninja_zircon_costume_iron",
+        "name": "Zircon C1",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 544 Bleed damage over 4 turns."
+        ]
+    },
+    {
         "heroId": "forest_female_warrior",
         "name": "Aife",
         "passives": []
@@ -11487,6 +11495,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_tenzin_kiba",
+        "name": "Tenzin Kiba",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ]
+    },
+    {
         "heroId": "s5_tetisheri",
         "name": "Tetisheri",
         "passives": [
@@ -14492,16 +14511,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "ninja_zircon_costume_iron",
-        "name": "Zircon C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_tenzin_kiba",
-        "name": "Tenzin Kiba",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_avani",
