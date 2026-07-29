@@ -94912,7 +94912,7 @@
             ]
           }
         ],
-        "classType": "德鲁伊"
+        "classType": "盗贼"
       },
       {
         "bonusType": "Class",
@@ -98475,5 +98475,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 4052892709
+  "battleConfigId": 3815122890
 }

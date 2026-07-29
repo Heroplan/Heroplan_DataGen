@@ -2211,7 +2211,7 @@
         "id": "lottery_ascension_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 195
+        "uiPriority": 197
       },
       {
         "productType": "MimicSummon",
@@ -36219,7 +36219,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56329,7 +56328,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 197,
+        "uiPriority": 198,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -58819,5 +58818,5 @@
       }
     ]
   },
-  "productsConfigId": 2774298867
+  "productsConfigId": 2083455389
 }

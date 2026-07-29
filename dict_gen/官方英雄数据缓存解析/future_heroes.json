@@ -192,18 +192,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ironmaw C",
-        "fancy_name": "Warlord of the Legion",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_ironmaw_costume_legion",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Desmond C",
         "fancy_name": "Blade Assassin",
         "color": "Green",
@@ -540,18 +528,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Thrívaldi C",
-        "fancy_name": "Dwarven Void Seeker",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_thrivaldi_costume_void",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Fafnir C",
         "fancy_name": "Fallen Lord of Myrkheim",
         "color": "Green",
@@ -837,18 +813,6 @@
         "family": "mimic",
         "costume_id": 0,
         "heroId": "mimic_iron_purple",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Bai Wu Chang",
-        "fancy_name": "White Guardian of Underworld",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "ghost",
-        "costume_id": 0,
-        "heroId": "ghost_bai_wu_chang",
         "Lottery_Only": 1
     },
     {

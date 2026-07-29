@@ -5339,7 +5339,7 @@ window.allHeroes =
             "* The target gets -40% defense for 4 turns.",
             "3x Mana Charge",
             "* Deals 400% damage to the target.",
-            "* If the attack defeats the target, the caster gains 100% mana.",
+            "* If the attack defeats the target, the caster gains 100% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* The target gets -45% defense for 6 turns."
         ],
         "passives": [
@@ -5517,13 +5517,13 @@ window.allHeroes =
         "effects": [
             "1x Mana Charge",
             "* Deals 225% damage to the target.",
-            "* The attack has a 35% chance to bypass defensive buffs. (This includes counter attack.)",
+            "* The attack has a 35% chance to bypass defensive buffs. (This includes counterattacks.)",
             "2x Mana Charge",
             "* Deals 250% damage to the target and nearby enemies.",
-            "* The attack has a 60% chance to bypass defensive buffs. (This includes counter attack.)",
+            "* The attack has a 60% chance to bypass defensive buffs. (This includes counterattacks.)",
             "3x Mana Charge",
             "* Deals 290% damage to all enemies.",
-            "* The attack has a 85% chance to bypass defensive buffs. (This includes counter attack.)"
+            "* The attack has a 85% chance to bypass defensive buffs. (This includes counterattacks.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
@@ -10098,15 +10098,15 @@ window.allHeroes =
             "x1 Mana Charge:",
             "Deals 420% damage to the target.",
             "The attack has a 65% chance to bypass defensive buffs. (This includes counterattacks.)",
-            "The caster gains 15% mana if any defensive buffs were bypassed.",
+            "The caster gains 15% mana if any defensive buffs were bypassed. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "x2 Mana Charge:",
             "Deals 430% damage to the target and nearby enemies.",
             "The attack has a 85% chance to bypass defensive buffs. (This includes counterattacks.)",
-            "The caster gains 25% mana if any defensive buffs were bypassed.",
+            "The caster gains 25% mana if any defensive buffs were bypassed. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "x3 Mana Charge:",
             "Deals 440% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "After the Special Skill has been cast, increases the mana of the caster by 50%."
+            "After the Special Skill has been cast, increases the mana of the caster by 50%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP.",
@@ -12554,8 +12554,8 @@ window.allHeroes =
         "health": 1629,
         "effects": [
             "Recovers 50% health for all allies.",
-            "All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.",
-            "All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skill."
+            "All allies get +84% defense against Nature, and a further 2% increase every time they are hit during 4 turns.",
+            "All enemies get -40% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skill.)"
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -12624,7 +12624,7 @@ window.allHeroes =
         "effects": [
             "Recovers 54% health for all allies.",
             "All allies get +64% defense against Nature, and a further 3% increase every time they are hit during 4 turns.",
-            "All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "All enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -19844,7 +19844,7 @@ window.allHeroes =
         "health": 1600,
         "effects": [
             "Deals 290% damage to all enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks."
+            "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -41423,15 +41423,15 @@ window.allHeroes =
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
             "- Boosts health of all allies by 370. Boosted health can exceed max HP.",
-            "- All allies get +33% mana generation for 2 turns.",
+            "- All allies get +33% mana generation for 2 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "- All allies get +25% defense for 2 turns.",
             "x2 Mana Charge:",
             "- Boosts health of all allies by 530. Boosted health can exceed max HP.",
-            "- All allies get +33% mana generation for 3 turns.",
+            "- All allies get +33% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "- All allies get +40% defense for 3 turns.",
             "x3 Mana Charge:",
             "- Boosts health of all allies by 600. Boosted health can exceed max HP.",
-            "- All allies get +33% mana generation for 4 turns.",
+            "- All allies get +33% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "- All allies get +65% defense for 4 turns."
         ],
         "passives": [
@@ -41926,15 +41926,15 @@ window.allHeroes =
             "x1 Mana Charge:",
             "* Deals 240% damage to the target.",
             "• The target receives 220 Poison damage over 2 turns.",
-            "• The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
+            "• The target gets -35% accuracy for 2 turns. (Chance to miss also applies to offensive Special Skills.)",
             "x2 Mana Charge:",
             "* Deals 280% damage to the target and nearby enemies.",
             "* The target and nearby enemies receive 438 Poison damage over 3 turns.",
-            "* The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
+            "* The target and nearby enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
             "x3 Mana Charge:",
             "* Deals 320% damage to all enemies.",
             "* All enemies receive 764 Poison damage over 4 turns.",
-            "* All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "* All enemies get -54% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
@@ -48288,13 +48288,13 @@ window.allHeroes =
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
             "- All enemies receive 64 Poison damage over 2 turns.",
-            "- All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
+            "- All enemies get -40% accuracy for 2 turns. (Chance to miss also applies to offensive Special Skills.)",
             "x2 Mana Charge:",
             "- All enemies receive 196 Poison damage over 4 turns.",
-            "- All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
+            "- All enemies get -40% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
             "x3 Mana Charge:",
             "- All enemies receive 354 Poison damage over 6 turns.",
-            "- All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills."
+            "- All enemies get -40% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
@@ -63018,7 +63018,7 @@ window.allHeroes =
             "Deals 340% damage to the target.",
             "Deals additional 340% damage to 10 random enemies.",
             "Stack (Max: 10): Each hit gives its target -5% defense.",
-            "Safely Dispels 1 buff from each hit enemy."
+            "Safely Dispels 1 buff from each hit enemy. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passives skills and family effects can still activate.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP.",
@@ -90890,15 +90890,15 @@ window.allHeroes =
             "1x Mana Charge:",
             "- Deals 290% damage to the target.",
             "- Reduces the mana of the target by 25%.",
-            "- The target gets -14% mana generation for 2 turns.",
+            "- The target gets -14% mana generation for 2 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "2x Mana Charge:",
             "- Deals 330% damage to the target and nearby enemies.",
             "- Reduces the mana of the target and nearby enemies by 50%.",
-            "- The target and nearby enemies get -24% mana generation for 3 turns.",
+            "- The target and nearby enemies get -24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "3x Mana Charge:",
             "- Deals 370% damage to all enemies.",
             "- Reduces the mana of all enemies by 100%.",
-            "- All enemies gets -34% mana generation for 4 turns."
+            "- All enemies gets -34% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
@@ -104163,7 +104163,7 @@ window.allHeroes =
         "health": 1612,
         "effects": [
             "Deals 250% damage to the target. Deals extra damage is the target is Dark.",
-            "Deals 180% damage to 5 random enemies. Deals extra damage if the target is Dark.",
+            "Deals 180% damage to 5 random enemies. Deals extra damage if the target is Dark. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
             "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack."
         ],
         "passives": [
@@ -106343,7 +106343,7 @@ window.allHeroes =
         "health": 1598,
         "effects": [
             "Deals 250% damage to target and nearby enemies.",
-            "Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn."
+            "Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill:",
@@ -106405,7 +106405,7 @@ window.allHeroes =
         "health": 2394,
         "effects": [
             "Deals 230% damage to the target and nearby enemies.",
-            "Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn."
+            "Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill:",
@@ -109696,7 +109696,7 @@ window.allHeroes =
             "Deals 130% damage to all enemies.",
             "The more mana the enemies have,the more damage they will receive,up to 250%",
             "Reduces the mana of all enemies by 20%.",
-            "All enemies get -14% mana generation for 3 turns."
+            "All enemies get -14% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -109766,7 +109766,7 @@ window.allHeroes =
             "Deals 180% damage to all enemies.",
             "The more mana the enemies have, the more damage they will receive, up to 300%.",
             "Reduces the mana of all enemies by 15%.",
-            "All enemies get -10% mana generation for 3 turns."
+            "All enemies get -10% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -109832,16 +109832,16 @@ window.allHeroes =
         "effects": [
             "1x Mana Charge",
             "* All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
-            "* All allies get +25% defense for 2 turns",
-            "* All allies get +24% mana generation for 2 turns",
+            "* All allies get +25% defense for 2 turns.",
+            "* All allies get +24% mana generation for 2 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "2x Mana Charge",
             "* All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "* All allies get +50% defense for 4 turns",
-            "* All allies get +33% mana generation for 4 turns",
+            "* All allies get +50% defense for 4 turns.",
+            "* All allies get +33% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "3x Mana Charge",
             "* All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            "* All allies get +73% defense for 5 turns",
-            "* All allies get +38% mana generation for 5 turns"
+            "* All allies get +73% defense for 5 turns.",
+            "* All allies get +38% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
@@ -113865,15 +113865,15 @@ window.allHeroes =
             "x1 Mana Charge:",
             "* Destroys all Minions from the target. This effect damages Mega Minions.",
             "* Deals 310% damage to the target.",
-            "* All allies get a small amount of mana for each destroyed Minion.",
+            "* All allies get a small amount of mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "x2 Mana Charge:",
             "* Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "* Deals 350% damage to the target and nearby enemies.",
-            "* All allies get a small amount of mana for each destroyed Minion.",
+            "* All allies get a small amount of mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "x3 Mana Charge:",
             "* Destroys all Minions from all enemies. This effect damages Mega Minions.",
             "* Deals 390% damage to all enemies.",
-            "* All allies get a small amount of mana for each destroyed Minion."
+            "* All allies get a small amount of mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ],
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
@@ -116456,6 +116456,78 @@ window.allHeroes =
         "family": "titan_hunter",
         "costume_id": 0,
         "originalIndex": 1894,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Thrivaldi C",
+        "fancy_name": "Dwarven Void Seeker",
+        "AetherPower": "",
+        "color": "Dark",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "tales2_thrivaldi_costume_void",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "myrkheim",
+        "costume_id": 1,
+        "originalIndex": 1895,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Bai Wu Chang",
+        "fancy_name": "White Guardian of Underworld",
+        "AetherPower": "",
+        "color": "Fire",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ghost_bai_wu_chang",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ghost",
+        "costume_id": 0,
+        "originalIndex": 1896,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Ironmaw C",
+        "fancy_name": "Warlord of the Legion",
+        "AetherPower": "",
+        "color": "Holy",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "elemental_ironmaw_costume_legion",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 1897,
         "cn_skill_info": []
     }
 ];

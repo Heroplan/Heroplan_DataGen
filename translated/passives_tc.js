@@ -14546,5 +14546,20 @@ const translatedPassivesTC =
         "heroId": "titan_hunter_veldt",
         "name": "Veldt",
         "passives": []
+    },
+    {
+        "heroId": "tales2_thrivaldi_costume_void",
+        "name": "Thrivaldi C",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_bai_wu_chang",
+        "name": "Bai Wu Chang",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_ironmaw_costume_legion",
+        "name": "Ironmaw C",
+        "passives": []
     }
 ];
