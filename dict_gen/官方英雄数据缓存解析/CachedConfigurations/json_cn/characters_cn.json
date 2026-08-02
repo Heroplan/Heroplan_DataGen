@@ -27214,7 +27214,8 @@
     "rarity": 5,
     "specialId": "冰川凛寒",
     "canBeReceivedDate": "2025-05-16 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2_may_2026_2"
   },
   "tales2_fimafeng": {
     "id": "费玛芬格",
@@ -33980,9 +33981,9 @@
     "id": "矮人觅空者",
     "element": "紫",
     "family": "马克海姆王国",
-    "baseHealth": 1124,
-    "baseAttack": 600,
-    "baseDefense": 557,
+    "baseHealth": 1127,
+    "baseAttack": 601,
+    "baseDefense": 558,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "arctic_core_costume",
@@ -35882,9 +35883,9 @@
     "id": "威尔德",
     "element": "黄",
     "family": "泰坦猎手家族",
-    "baseHealth": 1118,
-    "baseAttack": 655,
-    "baseDefense": 638,
+    "baseHealth": 1163,
+    "baseAttack": 694,
+    "baseDefense": 678,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -36896,7 +36897,6 @@
     "specialId": "邪恶之舐",
     "canBeReceivedDate": "2026-06-30 07:00:00",
     "origin": "SecretSummonFoodMimicBlue",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_yellow": {
@@ -36917,7 +36917,6 @@
     "specialId": "邪恶之舐",
     "canBeReceivedDate": "2026-07-09 07:00:00",
     "origin": "SecretSummonFoodMimicYellow",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_purple": {
@@ -37414,7 +37413,6 @@
     "specialId": "钢铁泪滴",
     "canBeReceivedDate": "2026-07-22 07:00:00",
     "origin": "SecretSummonIronMimicBlue",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_yellow": {
@@ -37496,9 +37494,9 @@
     "id": "白无常",
     "element": "红",
     "family": "杨戬家族幽灵",
-    "baseHealth": 1174,
-    "baseAttack": 653,
-    "baseDefense": 671,
+    "baseHealth": 1166,
+    "baseAttack": 680,
+    "baseDefense": 696,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "vengeful_ghost_on_damage_received"

@@ -49337,5 +49337,45 @@ window.allHeroesExtra = [
             "reduce_minion_health"
         ],
         "family": "ronin"
+    },
+    {
+        "name": "Avani",
+        "fancy name": "Vigilante of Sacred Grove",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-08-01",
+        "AetherPower": "Attack Up",
+        "heroId": "mahayoddha_avani",
+        "baseAttack": 679,
+        "baseDefense": 694,
+        "baseHealth": 1166,
+        "specialId": "anointed_machete",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Colt",
+        "fancy name": "Alchemist of the Quiver",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2026-08-01",
+        "AetherPower": "Dodge",
+        "heroId": "holy_god_colt",
+        "baseAttack": 617,
+        "baseDefense": 641,
+        "baseHealth": 1080,
+        "specialId": "biting_bolt",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_bleed"
+        ],
+        "family": "hotm2026"
     }
 ];

@@ -3919,6 +3919,16 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "passives": [
+            "受到傷害時獲得法力：",
+            "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
+            "* 每回合最多可獲得 10% 法力。",
+            "對小兵和超級小兵造成額外傷害：此角色對小兵和超級小兵造成 +150% 傷害。"
+        ]
+    },
+    {
         "heroId": "nature_god_balbar",
         "name": "Balbar",
         "passives": [
@@ -12849,6 +12859,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "holy_god_colt",
+        "name": "Colt",
+        "passives": [
+            "抵禦流血：此角色對造成流血傷害的状態異常免疫。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ]
+    },
+    {
         "heroId": "musketeer_constance",
         "name": "Constance",
         "passives": [
@@ -14511,11 +14529,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "mahayoddha_avani",
-        "name": "Avani",
-        "passives": []
     },
     {
         "heroId": "nomad_female_lord_costume_stylish",

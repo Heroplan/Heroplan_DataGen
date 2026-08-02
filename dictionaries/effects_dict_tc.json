@@ -2945,5 +2945,7 @@
     "^\\(Chance\\s+to\\s+miss\\s+also\\s+applies\\s+to\\s+offensive\\s+Special\\s+Skill\\.?\\s*\\)$": "（進攻型特殊技能也有機率無法擊中。）",
     "^•\\s+The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 目標獲得 \\1 精準度，持續\\2回合。",
     "^\\-\\s+All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "- 所有敵人獲得 \\1 精準度，持續\\2回合。",
-    "^\\(Max\\s+health\\s+can['’]?t\\s+get\\s+lower\\s+than([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+original\\s+health\\.?\\s*\\s+Any\\s+boosted\\s+health\\s+is\\s+reduced\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)per\\s+turn\\.?\\s*\\)$": "（最大生命值不得低於原生命值的\\1。任何生命值加成會造成額外降低每回合\\2點。）"
+    "^\\(Max\\s+health\\s+can['’]?t\\s+get\\s+lower\\s+than([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+original\\s+health\\.?\\s*\\s+Any\\s+boosted\\s+health\\s+is\\s+reduced\\s+by\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)per\\s+turn\\.?\\s*\\)$": "（最大生命值不得低於原生命值的\\1。任何生命值加成會造成額外降低每回合\\2點。）",
+    "^The\\s+target\\s+receives([+-]?\\s*\\d+\\s*%?)Bleed\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+\\s+The\\s+caster\\s+absorbs([+-]?\\s*\\d+\\s*%?)\\s+of\\s+dealt\\s+Bleed\\s+damage\\s+as\\s+boosted\\s+health\\.?\\s*$": "目標在\\2個回合內受到\\1點流血傷害。施法者吸收所造成之流血傷害的\\3 作為加成生命值。",
+    "^Elemental\\s+Link\\s+recovers\\s+([+-]?\\s*\\d+\\s*%?)\\s+health\\s+for\\s+all\\s+Holy\\s+allies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "元素鏈使所有神聖盟友恢復 \\1 生命，持續\\2個回合。此效果無法驅散。"
 }

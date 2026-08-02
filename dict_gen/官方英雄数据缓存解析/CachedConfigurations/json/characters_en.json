@@ -27214,7 +27214,8 @@
     "rarity": 5,
     "specialId": "glacial_atmosphere",
     "canBeReceivedDate": "2025-05-16 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2_may_2026_2"
   },
   "tales2_fimafeng": {
     "id": "Dwarven Survivalist",
@@ -33980,9 +33981,9 @@
     "id": "Dwarven Void Seeker",
     "element": "Purple",
     "family": "myrkheim",
-    "baseHealth": 1124,
-    "baseAttack": 600,
-    "baseDefense": 557,
+    "baseHealth": 1127,
+    "baseAttack": 601,
+    "baseDefense": 558,
     "manaSpeedId": "average",
     "passiveSkills": [
       "arctic_core_costume",
@@ -35882,9 +35883,9 @@
     "id": "Trapper from the Wilds",
     "element": "Yellow",
     "family": "titan_hunter",
-    "baseHealth": 1118,
-    "baseAttack": 655,
-    "baseDefense": 638,
+    "baseHealth": 1163,
+    "baseAttack": 694,
+    "baseDefense": 678,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -36896,7 +36897,6 @@
     "specialId": "wicked_lick_blue",
     "canBeReceivedDate": "2026-06-30 07:00:00",
     "origin": "SecretSummonFoodMimicBlue",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_yellow": {
@@ -36917,7 +36917,6 @@
     "specialId": "wicked_lick_yellow",
     "canBeReceivedDate": "2026-07-09 07:00:00",
     "origin": "SecretSummonFoodMimicYellow",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_food_purple": {
@@ -37414,7 +37413,6 @@
     "specialId": "iron_mimic_bite_blue",
     "canBeReceivedDate": "2026-07-22 07:00:00",
     "origin": "SecretSummonIronMimicBlue",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_yellow": {
@@ -37496,9 +37494,9 @@
     "id": "White Guardian of Underworld",
     "element": "Red",
     "family": "ghost",
-    "baseHealth": 1174,
-    "baseAttack": 653,
-    "baseDefense": 671,
+    "baseHealth": 1166,
+    "baseAttack": 680,
+    "baseDefense": 696,
     "manaSpeedId": "average",
     "passiveSkills": [
       "vengeful_ghost_on_damage_received"

@@ -1530,7 +1530,7 @@ const allTranslations =
         "name": "Chitrangada",
         "effects": [
             "Recover 25% health for all allies.",
-            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 600 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to maximum 600 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
             "Each defeated ally has a 35% chance to get revived with 35% HP.",
             "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
         ]
@@ -5054,6 +5054,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
+            "The target receives 1068 Sand damage over 3 turns."
+        ]
+    },
+    {
         "heroId": "nature_god_balbar",
         "name": "Balbar",
         "effects": [
@@ -6469,7 +6478,7 @@ const allTranslations =
         "name": "Meenakshi",
         "effects": [
             "Recovers 25% health for the caster and nearby allies.",
-            "Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to a maximum 600 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to maximum 600 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
             "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
             "The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn."
         ]
@@ -12713,7 +12722,7 @@ const allTranslations =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 410% damage to the target and nearby enemies.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Up to a maximum 600 additional extra damage. Status affects affecting damage dealt do affect extra damage. Defense stat does not affect the extra damage. Status effects affecting attack do not affect extra damage.)",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
             "Reduces max health of the target and nearby enemies by 1000. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 1000.)",
             "The target and nearby enemies get -55% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)"
         ]
@@ -13724,7 +13733,7 @@ const allTranslations =
         "name": "Jyoti",
         "effects": [
             "Recovers 42% health for all allies.",
-            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 600 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to maximum 600 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
             "All allies are immune to new status ailments for 4 turns, and recovers 250 health for each attempted status ailment.",
             "Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
         ]
@@ -14493,7 +14502,7 @@ const allTranslations =
         "name": "Rudraditya",
         "effects": [
             "Deals 600% damage to the target.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage  is based on the modified attack on the caster when damage is dealt. Up to a maximum 600 of additional damage. Status effects affecting damage dealt do affect the extra damage. Status effects affecting attack stack do not affect the extra damage.)",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
             "The target receives 776 Burn damage over 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "All allies reflect status ailments, negative stacks, and Wither effects to a random character on the opposing team for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
@@ -16087,7 +16096,7 @@ const allTranslations =
             "Deals 310% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
             "All hit targets receive 933 Bleed damage over 3 turns.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on the caster when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effects affecting attack stat do not affect the extra damage.)"
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 600 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)"
         ]
     },
     {
@@ -16376,6 +16385,16 @@ const allTranslations =
         "effects": [
             "Recovers 60% health for all allies.",
             "All allies are immune to new status ailments for 3 turns, and recover 360 health for each attempted status ailment."
+        ]
+    },
+    {
+        "heroId": "holy_god_colt",
+        "name": "Colt",
+        "effects": [
+            "Deals 200% damage to the target.",
+            "If the target has less than 50% health remaining, deals 600% damage instead.",
+            "The target receives 584 Bleed damage over 2 turns.  The caster absorbs 100% of dealt Bleed damage as boosted health.",
+            "Elemental Link recovers +4% health for all Holy allies for 6 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -18494,11 +18513,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "mahayoddha_avani",
-        "name": "Avani",
-        "effects": []
     },
     {
         "heroId": "nomad_female_lord_costume_stylish",

@@ -3919,6 +3919,16 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "mahayoddha_avani",
+        "name": "Avani",
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ]
+    },
+    {
         "heroId": "nature_god_balbar",
         "name": "Balbar",
         "passives": [
@@ -12849,6 +12859,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "holy_god_colt",
+        "name": "Colt",
+        "passives": [
+            "Resist Bleed: This character is immune to status ailments that deal Bleed damage.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ]
+    },
+    {
         "heroId": "musketeer_constance",
         "name": "Constance",
         "passives": [
@@ -14511,11 +14529,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "mahayoddha_avani",
-        "name": "Avani",
-        "passives": []
     },
     {
         "heroId": "nomad_female_lord_costume_stylish",

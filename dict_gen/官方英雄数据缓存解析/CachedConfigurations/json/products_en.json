@@ -1131,7 +1131,7 @@
         "id": "lottery_season_untold_tales2",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 195,
+        "uiPriority": 201,
         "bonusChest": "untold_tales2",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 12,
@@ -2293,7 +2293,7 @@
         "id": "lottery_titan_hunter_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 197,
+        "uiPriority": 201,
         "associatedEvent": "TitanHunter",
         "bucketWeights": [
           710,
@@ -3776,7 +3776,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 168,
+        "uiPriority": 202,
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -15905,7 +15905,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_ascension_4",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27005,23 +27004,24 @@
         "id": "com.smallgiantgames.empires.summoning_bonanza_15",
         "dollarValue": 15,
         "zyngaStoreDollarValueOverride": 14,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 30,
-            "zyngaStoreExtraAmount": 10
-          },
-          {
-            "type": "Item",
-            "id": "lottery_shadow_coin",
+            "id": "lottery_temple_coin",
             "amount": 300
           },
           {
             "type": "Item",
-            "id": "lottery_ascension_coin",
+            "id": "lottery_covenant_coin",
             "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "lottery_untold_tales_coin",
+            "amount": 300,
+            "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
@@ -36219,6 +36219,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56421,7 +56422,7 @@
         "id": "lottery_league_default",
         "gemPrice": 500,
         "amount": 1,
-        "uiPriority": 188
+        "uiPriority": 200
       },
       {
         "productType": "SeasonalPremiumSummon",
@@ -58818,5 +58819,5 @@
       }
     ]
   },
-  "productsConfigId": 2083455389
+  "productsConfigId": 603068623
 }
