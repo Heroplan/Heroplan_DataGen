@@ -2987,6 +2987,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "astral_dwarf_chires",
         "name": "Chires",
         "passives": [
@@ -6478,6 +6485,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "institute_ryleh",
         "name": "Ryleh",
         "passives": [
@@ -8937,6 +8951,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "passives": [
@@ -10335,6 +10356,13 @@ const allTranslations =
         "name": "Elena Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -12257,6 +12285,13 @@ const allTranslations =
         "name": "Chao Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -14529,31 +14564,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "nomad_female_lord_costume_stylish",
-        "name": "Elena Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "blackguard_knight_costume_stylish",
-        "name": "Rigard Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_falconer_costume_stylish",
-        "name": "Chao Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "nomad_female_shaman_costume_stylish",
-        "name": "Hawkmoon Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "goblin_fighter_costume_stylish",
-        "name": "Carver Stylish",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_veldt",

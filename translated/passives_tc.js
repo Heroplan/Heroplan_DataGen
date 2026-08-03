@@ -2987,6 +2987,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "astral_dwarf_chires",
         "name": "Chires",
         "passives": [
@@ -6478,6 +6485,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "institute_ryleh",
         "name": "Ryleh",
         "passives": [
@@ -8937,6 +8951,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "passives": [
@@ -10335,6 +10356,13 @@ const translatedPassivesTC =
         "name": "Elena Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -12257,6 +12285,13 @@ const translatedPassivesTC =
         "name": "Chao Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -14529,31 +14564,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "nomad_female_lord_costume_stylish",
-        "name": "Elena Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "blackguard_knight_costume_stylish",
-        "name": "Rigard Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_falconer_costume_stylish",
-        "name": "Chao Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "nomad_female_shaman_costume_stylish",
-        "name": "Hawkmoon Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "goblin_fighter_costume_stylish",
-        "name": "Carver Stylish",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_veldt",

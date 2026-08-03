@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (611 / 0)
+✅ 成功匹配的服装 (616 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -54,6 +54,7 @@ Name: Elena Costume1, Fancy Name: Captain of Fire
 Name: Mr Pengi Costume1, Fancy Name: Captain of Snowboard Team
 Name: Elena Glass, Fancy Name: Captain of the Glass Guard
 Name: Elena Toon, Fancy Name: Captain of the Royal Toons
+Name: Elena stylish, Fancy Name: Captain of the Style Guard
 Name: Elena Costume2, Fancy Name: Captain of the Wicked
 Name: Boldtusk Costume1, Fancy Name: Cast Iron Chef
 Name: Telonius costume1, Fancy Name: Centaur of the Taproom
@@ -438,8 +439,10 @@ Name: Obakan stylish, Fancy Name: Stylish Bodyguard
 Name: Colen stylish, Fancy Name: Stylish Bounty Hunter
 Name: Bane stylish, Fancy Name: Stylish Brawler
 Name: Little John stylish, Fancy Name: Stylish Brother
+Name: Rigard stylish, Fancy Name: Stylish Cavalier
 Name: Kashhrek stylish, Fancy Name: Stylish Chieftain
 Name: Gormek stylish, Fancy Name: Stylish Connoisseur
+Name: Carver stylish, Fancy Name: Stylish Cutpurse
 Name: Cyprian stylish, Fancy Name: Stylish Deathbound Lord
 Name: Brienne stylish, Fancy Name: Stylish Druid
 Name: Caedmon stylish, Fancy Name: Stylish Elf
@@ -453,10 +456,12 @@ Name: Jahangir stylish, Fancy Name: Stylish Mage
 Name: Balthazar stylish, Fancy Name: Stylish Magician
 Name: Kelile stylish, Fancy Name: Stylish Priestess
 Name: Vivica stylish, Fancy Name: Stylish Scholar
+Name: Hawkmoon stylish, Fancy Name: Stylish Shaman
 Name: Domitia stylish, Fancy Name: Stylish Sniper
 Name: Elkanen stylish, Fancy Name: Stylish Spearmaster
 Name: Belith stylish, Fancy Name: Stylish Spirit
 Name: Joon stylish, Fancy Name: Stylish Sun Monk
+Name: Chao stylish, Fancy Name: Stylish Tactician
 Name: Kiril stylish, Fancy Name: Stylish Taster
 Name: Prisca stylish, Fancy Name: Stylish Warden
 Name: Graymane stylish, Fancy Name: Stylish Werewolf

@@ -3796,6 +3796,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "effects": [
+            "对所有敌人造成 175% 伤害。",
+            "对剩余生命值少于 50% 的敌人造成 245% 伤害。",
+            "使所有敌人的法力减少 -19%。"
+        ]
+    },
+    {
         "heroId": "astral_dwarf_chires",
         "name": "Chires",
         "effects": [
@@ -8313,6 +8322,14 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "effects": [
+            "为剩余生命值最低的盟友恢复 55% 生命值。为其他所有盟友恢复 48% 生命值。",
+            "净化所有盟友的状态异常。"
+        ]
+    },
+    {
         "heroId": "institute_ryleh",
         "name": "Ryleh",
         "effects": [
@@ -11438,6 +11455,13 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "effects": [
+            "为剩余生命值最低的盟友恢复 45% 生命值。为其他所有盟友恢复 38% 生命值。"
+        ]
+    },
+    {
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "effects": [
@@ -13185,6 +13209,15 @@ const translatedEffectsCN =
             "对所有敌人造成 362% 伤害。",
             "攻击会无视防御增益。（包括反击。）",
             "施法者和附近盟友以所受伤害的 120% 进行反击，持续 5 回合。"
+        ]
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "effects": [
+            "对所有敌人造成 372% 伤害。",
+            "对剩余生命值少于 50% 的敌人造成 522% 伤害。",
+            "施法者和附近盟友以所受伤害的 122% 进行反击，持续 5 回合。"
         ]
     },
     {
@@ -15644,6 +15677,15 @@ const translatedEffectsCN =
             "对目标造成 325% 伤害。",
             "使目标的法力减少 23%。",
             "攻击会无视防御增益。（包括反击。）"
+        ]
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "effects": [
+            "对目标造成 335% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 385% 伤害。",
+            "使目标的法力减少 24%。"
         ]
     },
     {
@@ -18513,31 +18555,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "nomad_female_lord_costume_stylish",
-        "name": "Elena Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "blackguard_knight_costume_stylish",
-        "name": "Rigard Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_falconer_costume_stylish",
-        "name": "Chao Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "nomad_female_shaman_costume_stylish",
-        "name": "Hawkmoon Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "goblin_fighter_costume_stylish",
-        "name": "Carver Stylish",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_veldt",

@@ -3796,6 +3796,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_fighter_costume_stylish",
+        "name": "Carver Stylish",
+        "effects": [
+            "Deals 175% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 245% damage instead.",
+            "Reduces the mana of all enemies by -19%."
+        ]
+    },
+    {
         "heroId": "astral_dwarf_chires",
         "name": "Chires",
         "effects": [
@@ -8313,6 +8322,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "blackguard_knight_costume_stylish",
+        "name": "Rigard Stylish",
+        "effects": [
+            "Recovers 55% health for the ally with the lowest remaining HP. All other allies recover 48% health.",
+            "Cleanses status ailments from all allies."
+        ]
+    },
+    {
         "heroId": "institute_ryleh",
         "name": "Ryleh",
         "effects": [
@@ -11438,6 +11455,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nomad_female_shaman_costume_stylish",
+        "name": "Hawkmoon Stylish",
+        "effects": [
+            "Recovers 45% health for the ally with the lowest remaining HP. All other allies recover 38% health."
+        ]
+    },
+    {
         "heroId": "tales2_helgi",
         "name": "Helgi",
         "effects": [
@@ -13185,6 +13209,15 @@ const allTranslations =
             "Deals 362% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "The caster and nearby allies counterattack with 120% of the damage received for 5 turns."
+        ]
+    },
+    {
+        "heroId": "nomad_female_lord_costume_stylish",
+        "name": "Elena Stylish",
+        "effects": [
+            "Deals 372% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 522% damage instead.",
+            "The caster and nearby allies counterattack with 122% of the damage received for 5 turns."
         ]
     },
     {
@@ -15644,6 +15677,15 @@ const allTranslations =
             "Deals 325% damage to the target.",
             "Reduces the mana of the target by 23%.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
+        ]
+    },
+    {
+        "heroId": "oriental_falconer_costume_stylish",
+        "name": "Chao Stylish",
+        "effects": [
+            "Deals 335% damage to the target.",
+            "If the target has less than 50% health remaining, deals 385% damage instead.",
+            "Reduces the mana of the target by 24%."
         ]
     },
     {
@@ -18513,31 +18555,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "nomad_female_lord_costume_stylish",
-        "name": "Elena Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "blackguard_knight_costume_stylish",
-        "name": "Rigard Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_falconer_costume_stylish",
-        "name": "Chao Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "nomad_female_shaman_costume_stylish",
-        "name": "Hawkmoon Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "goblin_fighter_costume_stylish",
-        "name": "Carver Stylish",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_veldt",
