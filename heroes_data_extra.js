@@ -49502,5 +49502,45 @@ window.allHeroesExtra = [
         "healthBonus": "30%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Veldt",
+        "fancy name": "Trapper from the Wilds",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-08-03",
+        "AetherPower": "Regen",
+        "heroId": "titan_hunter_veldt",
+        "baseAttack": 694,
+        "baseDefense": 678,
+        "baseHealth": 1163,
+        "specialId": "desert_trap",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_yellow_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
+    },
+    {
+        "name": "Iron Mimic Dark",
+        "fancy name": "Iron Satchel of Terror",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-08-04",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_iron_purple",
+        "baseAttack": 701,
+        "baseDefense": 699,
+        "baseHealth": 1185,
+        "specialId": "iron_mimic_bite_purple",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_iron_purple"
+        ],
+        "family": "mimic"
     }
 ];

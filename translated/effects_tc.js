@@ -9554,6 +9554,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "mimic_iron_purple",
+        "name": "Iron Mimic Dark",
+        "effects": [
+            "對目標和一名隨機敵人造成 450% 傷害。",
+            "所有命中目標獲得 -20% 防禦，持續 4 回合。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ]
+    },
+    {
         "heroId": "beauty_beast_ivete",
         "name": "Ivete",
         "effects": [
@@ -18246,6 +18256,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
+        "effects": [
+            "對 3 名隨機敵人造成 275% 傷害。",
+            "被擊中的敵人受到尖刺陷阱影響。",
+            "尖刺陷阱會赋予其目標 -42% 對神聖的防禦。對暗黑泰坦時，尖刺陷阱會賦予其目標 -65% 對神聖的防禦。",
+            "尖刺陷阱會在 3 回合後爆炸，對其所有者造成 300 點傷害。（尖刺陷阱被相同元素的新尖刺陷阱取代時，會產生爆炸。此效果每回合最多可發生 2 次。）"
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "effects": [
@@ -18555,11 +18575,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_veldt",
-        "name": "Veldt",
-        "effects": []
     },
     {
         "heroId": "tales2_thrivaldi_costume_void",

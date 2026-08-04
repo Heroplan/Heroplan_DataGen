@@ -22561,7 +22561,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_elemental_blue2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22586,7 +22585,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_elemental_green2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22611,7 +22609,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_elemental_purple2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22636,7 +22633,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_elemental_red2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22661,7 +22657,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_elemental_yellow2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36219,7 +36214,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58819,5 +58814,5 @@
       }
     ]
   },
-  "productsConfigId": 603068623
+  "productsConfigId": 1325438269
 }

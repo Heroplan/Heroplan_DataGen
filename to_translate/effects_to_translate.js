@@ -4721,8 +4721,8 @@ const allTranslations =
         "heroId": "pirate_cabin_boy",
         "name": "Peters",
         "effects": [
-            "Deals 320% damage to the target",
-            "The target gets silenced for 3 turns"
+            "Deals 320% damage to the target.",
+            "The target gets silenced for 3 turns."
         ]
     },
     {
@@ -9551,6 +9551,16 @@ const allTranslations =
             "All enemies get -80% decrease for any healing received for 4 turns. This effect can't be cleansed.",
             "Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.",
             "Cleanses status ailments from all allies at the end of each turn for 4 turns."
+        ]
+    },
+    {
+        "heroId": "mimic_iron_purple",
+        "name": "Iron Mimic Dark",
+        "effects": [
+            "Deals 450% damage to the target and one random enemy.",
+            "All hit targets get -20% defense for 4 turns.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -18246,6 +18256,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
+        "effects": [
+            "Deals 275% damage to 3 random enemies.",
+            "Hit enemies become afflicted with Spike Trap.",
+            "The Spike Trap gives its target with -42% defense against Holy. Against Dark Titans, the Spike Trap gives its target -65% defense against Holy.",
+            "Spike Trap explode in 3 turns dealing 300 damage to their owner. (If a Spike Trap is replaced by a new Spike Trap of the same element, it explodes. This can happen up to 2 times per turn.)"
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "effects": [
@@ -18555,11 +18575,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "titan_hunter_veldt",
-        "name": "Veldt",
-        "effects": []
     },
     {
         "heroId": "tales2_thrivaldi_costume_void",

@@ -7537,6 +7537,29 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "mimic_iron_purple",
+        "name": "Iron Mimic Dark",
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
+            "* 鐵塊巨禮包。",
+            "史詩：",
+            "* 鐵塊大禮包。",
+            "稀有：",
+            "* 鐵塊中禮包。",
+            "罕見：",
+            "* 鐵塊小禮包。",
+            "* 公會刺客。",
+            "* 公會先鋒。",
+            "普通：",
+            "* 鐵塊微禮包。",
+            "* 普通村民。",
+            "* 復生戰士。",
+            "* 公會發起者。"
+        ]
+    },
+    {
         "heroId": "beauty_beast_ivete",
         "name": "Ivete",
         "passives": [
@@ -14307,6 +14330,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
+        "passives": [
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 当此角色施放特殊技能时，面板上神圣系护盾的暴击几率将提升 +54%。",
+            "防禦角色時的被動技能：",
+            "* 当此角色施放特殊技能时，面板上神圣系护盾的精准度被削弱 -47%。",
+            "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "passives": []
@@ -14564,11 +14598,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_veldt",
-        "name": "Veldt",
-        "passives": []
     },
     {
         "heroId": "tales2_thrivaldi_costume_void",

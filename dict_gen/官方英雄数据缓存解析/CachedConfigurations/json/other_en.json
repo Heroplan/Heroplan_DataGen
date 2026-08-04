@@ -1441,7 +1441,8 @@
           "MonthlyHeroAugust2026",
           "BeachParty2026",
           "ThunderboltSummon",
-          "MonthlyHeroSeptember2026"
+          "MonthlyHeroSeptember2026",
+          "SecretSummonIronMimicPurple"
         ],
         "uniqueEvents": [
           {
@@ -3100,6 +3101,12 @@
             "type": "MysteryHero",
             "startTime": "2026-07-22 07:00:00",
             "endTime": "2026-07-23 07:00:00"
+          },
+          {
+            "id": "SecretSummonIronMimicPurple",
+            "type": "MysteryHero",
+            "startTime": "2026-08-04 07:00:00",
+            "endTime": "2026-08-05 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -96356,5 +96363,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 925420636
+  "otherConfigId": 2933173467
 }

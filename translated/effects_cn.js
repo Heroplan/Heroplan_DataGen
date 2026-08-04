@@ -9554,6 +9554,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "mimic_iron_purple",
+        "name": "Iron Mimic Dark",
+        "effects": [
+            "对目标和随机一名敌人造成 450% 伤害。",
+            "所有命中的目标获得 -20% 防御，持续 4 回合。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。（在单个回合内，当一名角色已经从特殊技能获得了 5 次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
         "heroId": "beauty_beast_ivete",
         "name": "Ivete",
         "effects": [
@@ -18246,6 +18256,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "titan_hunter_veldt",
+        "name": "Veldt",
+        "effects": [
+            "对随机 3 名敌人造成 275% 伤害。",
+            "被命中的敌人将陷入尖刺陷阱状态。",
+            "尖刺陷阱使目标对神圣系 -42% 防御力。若目标为暗黑系泰坦，则尖刺陷阱使其对神圣系 -65% 防御力。",
+            "尖刺陷阱在 3 回合后爆炸，对其所有者造成 300 点伤害。（如果一个尖刺陷阱被相同元素的新尖刺陷阱替换，它会立即爆炸。每回合最多触发 2 次。）"
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "effects": [
@@ -18555,11 +18575,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_veldt",
-        "name": "Veldt",
-        "effects": []
     },
     {
         "heroId": "tales2_thrivaldi_costume_void",
