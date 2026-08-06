@@ -10872,6 +10872,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_thrivaldi_costume_void",
+        "name": "Thrivaldi C1",
+        "effects": [
+            "Attacks all enemies with Frostfall Strike, dealing up to 1800 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
+            "All allies get +30% defense, and a further 10% increase every time they are hit during for 4 turns, up to +90% defense.",
+            "All allies are immune to damage from status ailments and negative stacks for 4 turns."
+        ]
+    },
+    {
         "heroId": "ninja_tora",
         "name": "Tora",
         "effects": [
@@ -12673,6 +12682,15 @@ const allTranslations =
             "Deals 375% damage to all enemies.",
             "If the enemies have less than 50% health remaining, deals 525% damage instead.",
             "All enemies receive 741 Burn damage over 3 turns."
+        ]
+    },
+    {
+        "heroId": "ghost_bai_wu_chang",
+        "name": "Bai Wu Chang",
+        "effects": [
+            "Cleanses status ailments from the caster and nearby allies.",
+            "Recovers 55% health for the caster and nearby allies.",
+            "All allies recover 1500 health after 4 turns. If the effect is removed or replaced before the duration ends, recovers 1800 health instead."
         ]
     },
     {
@@ -18577,18 +18595,43 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "tales2_thrivaldi_costume_void",
-        "name": "Thrivaldi C",
-        "effects": []
-    },
-    {
-        "heroId": "ghost_bai_wu_chang",
-        "name": "Bai Wu Chang",
-        "effects": []
-    },
-    {
         "heroId": "elemental_ironmaw_costume_legion",
         "name": "Ironmaw C",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_vora",
+        "name": "Vora",
+        "effects": []
+    },
+    {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "effects": []
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "effects": []
+    },
+    {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
         "effects": []
     }
 ];

@@ -8526,6 +8526,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "tales2_thrivaldi_costume_void",
+        "name": "Thrivaldi C1",
+        "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
+            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 600 点生命加成和 10% 的法力。",
+            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
+            "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 412 点冰冻伤害，并使目标的攻击每回合降低 -16%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
+            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+        ]
+    },
+    {
         "heroId": "ninja_tora",
         "name": "Tora",
         "passives": [
@@ -9921,6 +9932,15 @@ const translatedPassivesCN =
         "name": "Azlar Stylish",
         "passives": [
             "华丽登场！：有 65% 的几率将受到的负面效果替换为对应的正面效果。"
+        ]
+    },
+    {
+        "heroId": "ghost_bai_wu_chang",
+        "name": "Bai Wu Chang",
+        "passives": [
+            "复仇阴影：此角色将失去等同于最大生命值 25% 的生命时，以下效果立即生效。",
+            "* 对施放者释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果,包含顽固、不可驱散或不可净化的状态效果和叠加效果。）",
+            "* 此角色变为复仇幽灵形态，持续 2 回合。每回合结束时，复仇幽灵对随机一名敌人造成 450% 的伤害，并驱散其增益。此效果不可驱散。（处于幽灵形态期间，角色无法获得法力，且无法被特殊技能治疗，但是对普通攻击、特殊技能攻击、造成伤害的被动效果、状态效果和叠加免疫。对新的成长、衰退和狂乱效果免疫。）"
         ]
     },
     {
@@ -14600,18 +14620,43 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "tales2_thrivaldi_costume_void",
-        "name": "Thrivaldi C",
-        "passives": []
-    },
-    {
-        "heroId": "ghost_bai_wu_chang",
-        "name": "Bai Wu Chang",
-        "passives": []
-    },
-    {
         "heroId": "elemental_ironmaw_costume_legion",
         "name": "Ironmaw C",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "passives": []
+    },
+    {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_vora",
+        "name": "Vora",
+        "passives": []
+    },
+    {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "passives": []
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "passives": []
+    },
+    {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
         "passives": []
     }
 ];

@@ -10872,6 +10872,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "tales2_thrivaldi_costume_void",
+        "name": "Thrivaldi C1",
+        "effects": [
+            "使用霜落打擊攻擊所有敵人，造成最多 1800 點傷害。如果目標為烈火元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
+            "所有盟友獲得 +30% 防禦，並在每次被擊中後增加 10%，持續 4 個回合，最高 +90% 防禦。",
+            "所有盟友對狀態異常的傷害免疫，持續 4 回合。"
+        ]
+    },
+    {
         "heroId": "ninja_tora",
         "name": "Tora",
         "effects": [
@@ -12673,6 +12682,15 @@ const translatedEffectsTC =
             "對所有敵人造成 375% 傷害。",
             "對剩餘生命少於 50% 的敵人造成 525% 傷害。",
             "所有敵人在 3 回合內受到共計 741 點燃燒傷害。"
+        ]
+    },
+    {
+        "heroId": "ghost_bai_wu_chang",
+        "name": "Bai Wu Chang",
+        "effects": [
+            "淨化施法者和附近盟友的狀態異常。",
+            "為施法者和附近盟友恢復 55% 生命值。",
+            "所有盟友在 4 個回合後恢復 1500 點生命。若效果在持續時間結束前移除或取代，則改為恢復 1800 點生命。"
         ]
     },
     {
@@ -18577,18 +18595,43 @@ const translatedEffectsTC =
         ]
     },
     {
-        "heroId": "tales2_thrivaldi_costume_void",
-        "name": "Thrivaldi C",
-        "effects": []
-    },
-    {
-        "heroId": "ghost_bai_wu_chang",
-        "name": "Bai Wu Chang",
-        "effects": []
-    },
-    {
         "heroId": "elemental_ironmaw_costume_legion",
         "name": "Ironmaw C",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_vora",
+        "name": "Vora",
+        "effects": []
+    },
+    {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "effects": []
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "effects": []
+    },
+    {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
         "effects": []
     }
 ];

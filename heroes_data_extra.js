@@ -49542,5 +49542,51 @@ window.allHeroesExtra = [
             "mimic_iron_purple"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Thrivaldi costume1",
+        "fancy name": "Dwarven Void Seeker",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-08-05",
+        "AetherPower": "Bulwark",
+        "heroId": "tales2_thrivaldi_costume_void",
+        "baseAttack": 601,
+        "baseDefense": 558,
+        "baseHealth": 1127,
+        "specialId": "glacial_atmosphere",
+        "specialId_costume": "umbral_atmosphere",
+        "passiveSkills": [
+            "arctic_core_costume",
+            "resist_frost_with_health_boost_and_mana_costume",
+            "resist_all_stealing"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "13%",
+        "healthBonus": "15%",
+        "manaBonus": "5%",
+        "family": "myrkheim"
+    },
+    {
+        "name": "Bai Wu Chang",
+        "fancy name": "White Guardian of Underworld",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-08-05",
+        "AetherPower": "Heal Increase",
+        "heroId": "ghost_bai_wu_chang",
+        "baseAttack": 680,
+        "baseDefense": 696,
+        "baseHealth": 1166,
+        "specialId": "gratified_judgement",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "family": "ghost"
     }
 ];

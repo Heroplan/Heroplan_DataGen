@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (616 / 0)
+✅ 成功匹配的服装 (617 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -124,6 +124,7 @@ Name: Gandr costume1, Fancy Name: Dwarven Regal Soldier
 Name: Helgi costume1, Fancy Name: Dwarven Replenisher
 Name: Andvari costume1, Fancy Name: Dwarven Restorer
 Name: Aethslegaur costume1, Fancy Name: Dwarven Soul Seeker
+Name: Thrivaldi costume1, Fancy Name: Dwarven Void Seeker
 Name: Jack O'Hare Costume1, Fancy Name: Egg Hunter of Springvale
 Name: Ptolemy Costume1, Fancy Name: Elder Log
 Name: Quintus Costume1, Fancy Name: Electro Scientist

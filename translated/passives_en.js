@@ -7554,7 +7554,7 @@ const allTranslations =
             "* Guild Strikers",
             "Common",
             "* Tiny Iron Bundle",
-            "* Common Villager",
+            "* Common Villagers",
             "* Reanimated Fighters",
             "* Guild Initiates"
         ]
@@ -8522,6 +8522,17 @@ const allTranslations =
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "tales2_thrivaldi_costume_void",
+        "name": "Thrivaldi C1",
+        "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 412 Frost damage and lowers the target's attack by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -9921,6 +9932,15 @@ const allTranslations =
         "name": "Azlar Stylish",
         "passives": [
             "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
+        "heroId": "ghost_bai_wu_chang",
+        "name": "Bai Wu Chang",
+        "passives": [
+            "Vengeful Haunting: When this character loses more than 25% of max health at once, the following effects activate.",
+            "* This character casts Full Removal on themselves. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "* This character shifts into Vengeful Ghost form for 2 turns. At the end of each turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from them. This effect is undispellable. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)"
         ]
     },
     {
@@ -14600,18 +14620,43 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "tales2_thrivaldi_costume_void",
-        "name": "Thrivaldi C",
-        "passives": []
-    },
-    {
-        "heroId": "ghost_bai_wu_chang",
-        "name": "Bai Wu Chang",
-        "passives": []
-    },
-    {
         "heroId": "elemental_ironmaw_costume_legion",
         "name": "Ironmaw C",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "passives": []
+    },
+    {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_vora",
+        "name": "Vora",
+        "passives": []
+    },
+    {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "passives": []
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "passives": []
+    },
+    {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
         "passives": []
     }
 ];

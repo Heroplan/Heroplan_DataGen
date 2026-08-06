@@ -3215,9 +3215,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
-              "beauty_beast_jacquespierre",
-              "musketeer_cardinal_richelieu_costume_ambassador",
-              "beauty_beast_pendulus_clonk"
+              "beauty_beast_glamiera",
+              "beauty_beast_beauty",
+              "musketeer_constance_costume_fusilier"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-08-14 07:00:00",
@@ -4027,7 +4027,7 @@
             "endTime": "2026-08-05 07:00:00"
           },
           {
-            "id": "AncientDragon_2026_8_4",
+            "id": "AncientDragon_2026_8_11",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-08-04 07:00:00",
@@ -4179,6 +4179,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-10-27 07:00:00",
             "endTime": "2026-10-31 07:00:00"
+          },
+          {
+            "id": "AncientDragon_2026_11_3",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-11-03 07:00:00",
+            "endTime": "2026-11-07 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -48145,8 +48152,7 @@
               {
                 "requiredPoints": 300,
                 "premiumReward": {
-                  "type": "Item",
-                  "id": "lottery_thunderbolt_coin",
+                  "type": "Gem",
                   "amount": 100
                 }
               },
@@ -50040,8 +50046,7 @@
               {
                 "requiredPoints": 900,
                 "premiumReward": {
-                  "type": "Item",
-                  "id": "lottery_thunderbolt_coin",
+                  "type": "Gem",
                   "amount": 200
                 }
               },
@@ -78884,7 +78889,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-08-21 07:00:00",
             "costumeId": "Valiant Fisherman-Valiant Fishertoon",
             "parentHeroId": "s2_rugged_fisherman"
           },
@@ -79532,7 +79537,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-08-21 07:00:00",
             "costumeId": "Titan of Sea-Toon Titan of Sea",
             "parentHeroId": "s2_oceanus"
           },
@@ -79916,7 +79921,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-08-21 07:00:00",
             "costumeId": "Son of Zeus-Son of Toon Zeus",
             "parentHeroId": "ice_god_perseus"
           },
@@ -96257,8 +96262,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.1",
     "maxVersionToShowUpdateOutReminderIos": "87.0.1",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.2",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.3",
+    "standaloneNewVersionRolloutPercentage": 30,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -96363,5 +96368,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2933173467
+  "otherConfigId": 2657413447
 }

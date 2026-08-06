@@ -1,41 +1,5 @@
 [
     {
-        "name": "Iron Mimic",
-        "fancy_name": "Iron Satchel of Terror",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-04 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_iron_purple",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Thrívaldi C",
-        "fancy_name": "Dwarven Void Seeker",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-05 07:00:00",
-        "star": 5,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_thrivaldi_costume_void",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Bai Wu Chang",
-        "fancy_name": "White Guardian of Underworld",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-05 07:00:00",
-        "star": 5,
-        "family": "ghost",
-        "costume_id": 0,
-        "heroId": "ghost_bai_wu_chang",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Ironmaw C",
         "fancy_name": "Warlord of the Legion",
         "color": "Yellow",
@@ -45,6 +9,90 @@
         "family": "super_elemental",
         "costume_id": 1,
         "heroId": "elemental_ironmaw_costume_legion",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Zurrumurgh",
+        "fancy_name": "Astral Demon Spirit Whisperer",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-11 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_zurrumurgh",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Glamiera",
+        "fancy_name": "Magical Mirror of the Bewitched Castle",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-14 07:00:00",
+        "star": 5,
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "heroId": "beauty_beast_glamiera",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Vora",
+        "fancy_name": "Elder Lynx of the Whispering Peaks",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-16 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_vora",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Vermis",
+        "fancy_name": "The Worm King",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-17 07:00:00",
+        "star": 5,
+        "family": "forsaken",
+        "costume_id": 0,
+        "heroId": "forsaken_vermis",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Oceanus Toon",
+        "fancy_name": "Toon Titan of Sea",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-21 07:00:00",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 2,
+        "heroId": "s2_oceanus_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Perseus Toon",
+        "fancy_name": "Son of Toon Zeus",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-21 07:00:00",
+        "star": 5,
+        "family": "hotm2017",
+        "costume_id": 2,
+        "heroId": "ice_god_perseus_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Wilbur Toon",
+        "fancy_name": "Valiant Fishertoon",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-21 07:00:00",
+        "star": 4,
+        "family": "lagoon",
+        "costume_id": 2,
+        "heroId": "s2_rugged_fisherman_costume_cute",
         "Lottery_Only": 1
     }
 ]
