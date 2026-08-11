@@ -44111,7 +44111,7 @@ window.allHeroes =
         "AetherPower": "Counterattack",
         "color": "Nature",
         "class": "Monk",
-        "speed": "Fast",
+        "speed": "Average",
         "skill": "Ancient Martial Arts",
         "source": "Covenant Summon",
         "Release date": "2026-04-28",
@@ -46818,7 +46818,7 @@ window.allHeroes =
         "AetherPower": "Regen",
         "color": "Nature",
         "class": "Wizard",
-        "speed": "Slow",
+        "speed": "Average",
         "skill": "Eye See You!",
         "source": "Astral Summon",
         "Release date": "2026-08-11",
@@ -46830,10 +46830,10 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_zurrumurgh",
         "star": 5,
-        "power": 1344,
-        "attack": 1380,
-        "defense": 1433,
-        "health": 2393,
+        "power": 1353,
+        "attack": 1388,
+        "defense": 1444,
+        "health": 2416,
         "effects": [
             "Deals 630% damage to the target.",
             "Casts Full Removal on the target. (Full Removes removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
@@ -46849,16 +46849,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 762,
         "lb1": {
-            "attack": 1487,
-            "defense": 1545,
-            "health": 2579,
-            "power": 1439
+            "attack": 1496,
+            "defense": 1556,
+            "health": 2604,
+            "power": 1448
         },
         "lb2": {
-            "attack": 1701,
-            "defense": 1767,
-            "health": 2951,
-            "power": 1628
+            "attack": 1711,
+            "defense": 1780,
+            "health": 2979,
+            "power": 1639
         },
         "cn_skill_info": [
             {
@@ -107755,10 +107755,10 @@ window.allHeroes =
         ],
         "heroId": "elemental_ironmaw_costume_legion",
         "star": 5,
-        "power": 1228,
-        "attack": 1296,
-        "defense": 1243,
-        "health": 2155,
+        "power": 1352,
+        "attack": 1447,
+        "defense": 1388,
+        "health": 2374,
         "effects": [
             "Deals 550% damage to the target and all Dark enemies.",
             "All allies get +40% defense against Dark for 4 turns.",
@@ -107776,16 +107776,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1752,
         "lb1": {
-            "attack": 1397,
-            "defense": 1340,
-            "health": 2323,
-            "power": 1314
+            "attack": 1560,
+            "defense": 1496,
+            "health": 2558,
+            "power": 1448
         },
         "lb2": {
-            "attack": 1598,
-            "defense": 1533,
-            "health": 2658,
-            "power": 1485
+            "attack": 1784,
+            "defense": 1711,
+            "health": 2927,
+            "power": 1638
         },
         "cn_skill_info": [
             {

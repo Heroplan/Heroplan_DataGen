@@ -46131,7 +46131,7 @@ window.allHeroesExtra = [
         "element": "Green",
         "rarity": 5,
         "class": "Monk",
-        "speed": "fast",
+        "speed": "average",
         "Release date": "2026-04-28",
         "AetherPower": "Counterattack",
         "skill_types": [],
@@ -49595,13 +49595,13 @@ window.allHeroesExtra = [
         "element": "Green",
         "rarity": 5,
         "class": "Wizard",
-        "speed": "slow",
+        "speed": "average",
         "Release date": "2026-08-11",
         "AetherPower": "Regen",
         "heroId": "astral_demon_zurrumurgh",
-        "baseAttack": 670,
-        "baseDefense": 696,
-        "baseHealth": 1162,
+        "baseAttack": 674,
+        "baseDefense": 701,
+        "baseHealth": 1173,
         "specialId": "eye_see_you",
         "passiveSkills": [
             "never_miss_special",
@@ -49622,7 +49622,7 @@ window.allHeroesExtra = [
         "heroId": "elemental_ironmaw_costume_legion",
         "baseAttack": 488,
         "baseDefense": 468,
-        "baseHealth": 805,
+        "baseHealth": 806,
         "specialId": "chains_of_light",
         "specialId_costume": "chains_of_legion",
         "passiveSkills": [
@@ -49631,9 +49631,9 @@ window.allHeroesExtra = [
         "costumeBonusPassiveSkillIds": [
             "resist_ailments_purple"
         ],
-        "attackBonus": "29%",
-        "defenseBonus": "29%",
-        "healthBonus": "30%",
+        "attackBonus": "44%",
+        "defenseBonus": "44%",
+        "healthBonus": "43%",
         "manaBonus": "5%",
         "family": "super_elemental"
     }

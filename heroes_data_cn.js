@@ -44111,7 +44111,7 @@ window.allHeroes =
         "AetherPower": "反击",
         "color": "自然",
         "class": "僧侣",
-        "speed": "快速",
+        "speed": "中等",
         "skill": "远古武术",
         "source": "盟约召唤",
         "Release date": "2026-04-28",
@@ -46818,7 +46818,7 @@ window.allHeroes =
         "AetherPower": "生命恢复",
         "color": "自然",
         "class": "巫师",
-        "speed": "慢",
+        "speed": "中等",
         "skill": "盯上你了！",
         "source": "星体召唤",
         "Release date": "2026-08-11",
@@ -46830,10 +46830,10 @@ window.allHeroes =
         ],
         "heroId": "astral_demon_zurrumurgh",
         "star": 5,
-        "power": 1344,
-        "attack": 1380,
-        "defense": 1433,
-        "health": 2393,
+        "power": 1353,
+        "attack": 1388,
+        "defense": 1444,
+        "health": 2416,
         "effects": [
             "对目标造成 630% 伤害。",
             "对目标释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含顽固、不可驱散或不可净化的状态效果和叠加效果。）",
@@ -46849,16 +46849,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 762,
         "lb1": {
-            "attack": 1487,
-            "defense": 1545,
-            "health": 2579,
-            "power": 1439
+            "attack": 1496,
+            "defense": 1556,
+            "health": 2604,
+            "power": 1448
         },
         "lb2": {
-            "attack": 1701,
-            "defense": 1767,
-            "health": 2951,
-            "power": 1628
+            "attack": 1711,
+            "defense": 1780,
+            "health": 2979,
+            "power": 1639
         },
         "cn_skill_info": [
             {
@@ -107755,10 +107755,10 @@ window.allHeroes =
         ],
         "heroId": "elemental_ironmaw_costume_legion",
         "star": 5,
-        "power": 1228,
-        "attack": 1296,
-        "defense": 1243,
-        "health": 2155,
+        "power": 1352,
+        "attack": 1447,
+        "defense": 1388,
+        "health": 2374,
         "effects": [
             "对目标和所有暗黑系敌人造成 550% 伤害。",
             "所有盟友获得对暗黑系 +40% 的防御，持续 4 回合。",
@@ -107776,16 +107776,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1752,
         "lb1": {
-            "attack": 1397,
-            "defense": 1340,
-            "health": 2323,
-            "power": 1314
+            "attack": 1560,
+            "defense": 1496,
+            "health": 2558,
+            "power": 1448
         },
         "lb2": {
-            "attack": 1598,
-            "defense": 1533,
-            "health": 2658,
-            "power": 1485
+            "attack": 1784,
+            "defense": 1711,
+            "health": 2927,
+            "power": 1638
         },
         "cn_skill_info": [
             {
