@@ -1326,12 +1326,12 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
 MAX_AUTO_RERUN = 2  # 最大重试次数（包括第一次运行）
 
 def run_update_hero_base_info():
-    """运行1.2更新英雄基础信息.py，使用--auto参数跳过交互"""
+    """运行1.0更新英雄基础信息.py，使用--auto参数跳过交互"""
     try:
-        subprocess.check_call([sys.executable, "1.2更新英雄基础信息.py", "--auto"])
+        subprocess.check_call([sys.executable, "1.0更新英雄基础信息.py", "--auto"])
         return True
     except Exception as e:
-        print(f"❌ 运行 1.2更新英雄基础信息.py 时出错: {e}")
+        print(f"❌ 运行 1.0更新英雄基础信息.py 时出错: {e}")
         return False
 
 def load_heroes_data_extra_json():
@@ -1435,8 +1435,8 @@ def main():
         # 执行修复流程
         print("\n--- 检测到新添加的英雄，开始自动修复流程 ---")
         
-        # 运行1.2更新脚本
-        print("第1步：运行 1.2更新英雄基础信息.py...")
+        # 运行1.0更新脚本
+        print("第1步：运行 1.0更新英雄基础信息.py...")
         if not run_update_hero_base_info():
             print("❌ 修复流程中断")
             break
