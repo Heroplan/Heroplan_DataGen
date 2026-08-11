@@ -1,17 +1,5 @@
 [
     {
-        "name": "Ironmaw C",
-        "fancy_name": "Warlord of the Legion",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-10 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_ironmaw_costume_legion",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zurrumurgh",
         "fancy_name": "Astral Demon Spirit Whisperer",
         "color": "Green",

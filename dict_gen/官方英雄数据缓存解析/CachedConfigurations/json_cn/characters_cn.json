@@ -23011,7 +23011,7 @@
     "id": "军团战神",
     "element": "黄",
     "family": "超级元素人家族",
-    "baseHealth": 805,
+    "baseHealth": 806,
     "baseAttack": 488,
     "baseDefense": 468,
     "manaSpeedId": "中等",
@@ -24485,7 +24485,7 @@
     "specialId": "光明之链",
     "canBeReceivedDate": "2023-12-04 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_aug_2026"
   },
   "elemental_desmond": {
     "id": "德斯蒙德",
@@ -29588,9 +29588,9 @@
     "id": "沃拉",
     "element": "蓝",
     "family": "野猫家族",
-    "baseHealth": 1200,
-    "baseAttack": 670,
-    "baseDefense": 650,
+    "baseHealth": 1227,
+    "baseAttack": 679,
+    "baseDefense": 670,
     "manaSpeedId": "非常慢",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -31842,7 +31842,7 @@
     "baseHealth": 1155,
     "baseAttack": 664,
     "baseDefense": 671,
-    "manaSpeedId": "快速",
+    "manaSpeedId": "中等",
     "passiveSkills": [
       "minion_core",
       "resist_special_blocking_with_health_boost_and_mana"
@@ -34908,9 +34908,9 @@
     "id": "格莱米拉",
     "element": "蓝",
     "family": "美女与野兽家族",
-    "baseHealth": 1140,
-    "baseAttack": 692,
-    "baseDefense": 645,
+    "baseHealth": 1173,
+    "baseAttack": 701,
+    "baseDefense": 667,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -37128,10 +37128,10 @@
     "id": "祖鲁穆鲁格",
     "element": "绿",
     "family": "星体恶魔",
-    "baseHealth": 1162,
-    "baseAttack": 670,
-    "baseDefense": 696,
-    "manaSpeedId": "慢",
+    "baseHealth": 1173,
+    "baseAttack": 674,
+    "baseDefense": 701,
+    "manaSpeedId": "中等",
     "passiveSkills": [
       "never_miss_special",
       "resist_all_mana_debuffs_and_reductions",
@@ -37331,7 +37331,7 @@
       "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
-    "classType": "游侠",
+    "classType": "僧侣",
     "aetherGift": "恶魔抵抗",
     "rarity": 5,
     "specialId": "刺鼻惩戒",

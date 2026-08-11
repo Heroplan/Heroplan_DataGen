@@ -78,6 +78,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Esclude gli Eroi Mimic, Roditori avventurosi e Driadi"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'[#!]Abilità speciale[#] di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un [#!]servitore Killer Bot[#] con il [#!]{FAMILIARHEALTHPERCENT}%[#!] di HP e il [#!]{FAMILIARATTACK}%[#] di Attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.\n[*] Il servitore Killer Bot recupera il {FAMILIARHEAL}% di Salute per il suo proprietario alla fine di ogni turno.\n[*] [#!]Avvizzimento[#]: ogni colpo di un servitore Killer Bot conferisce al bersaglio [#!]{ATTACKMODIFIER}[#] Attacco."
           }
         ]
       },
@@ -154,6 +158,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Кроме героев Имитатор, Грызуны-авантюристы и Дриады"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Структурное ядро этого героя — [#!]ядро прислужников[#].\n\n[#!]Ядро прислужников[#] активируется каждый раз при использовании особого навыка героя:\n\n[*] Полностью заряженное [#!]ядро прислужников[#] призывает [#!]бота-убийцу[#] с [#!]{FAMILIARHEALTHPERCENT} %[#] ОЗ и [#!]{FAMILIARATTACK} %[#] атаки героя для всех союзников.\n[*] ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.\n[*]Бот-убийца восстанавливает {FAMILIARHEAL} % здоровья своему владельцу в конце каждого хода.\n[*] [#!]Увядание:[#] Каждый удар бота-убийцы меняет атаку цели на [#!]{ATTACKMODIFIER}[#]."
           }
         ]
       },
@@ -226,6 +234,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Nie obejmuje bohaterów Mimik, Śmiały gryzoń i Driady"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Rdzeń konstruktu tej postaci to [#!]rdzeń pomocnika[#].\n\n[#!]Rdzeń pomocnika[#] aktywuje się za każdym razem, gdy rzucona zostanie [#!]umiejętność specjalna[#] tej postaci:\n\n[*] Przy pełnym naładowaniu [#!]rdzenia pomocnika[#], wzywa dla wszystkich sojuszników [#!]zabójczego bota[#] z [#!]{FAMILIARHEALTHPERCENT}%[#] PŻ i [#!]{FAMILIARATTACK}%[#] ataku przejętymi od bohatera.\n[*]PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.\n[*]Pomocnik przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.\n[*] [#!]Susza:[#] Zabójczy bot każdym trafieniem zapewnia celowi [#!]{ATTACKMODIFIER}[#] ataku."
           }
         ]
       },
@@ -290,6 +302,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "不包含模仿怪、冒險小鼠和樹精英雄"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "此角色的構造體核心是[#!]小兵核心[#]。\n\n每次施放此角色的[#!]特殊技能[#]時，就會啟動[#!]小兵核心[#]：\n\n[*]完全充能的[#!]小兵核心[#]會為所有盟友召喚一個[#!]殺手機器人小兵[#]，擁有繼承自施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻擊。\n[*]繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。\n[*]殺手機器人小兵於每回合結束時，會為其主人治療{FAMILIARHEAL}%生命值。\n[*][#!]枯萎：[#]殺手機器人小兵每次攻擊， 都會使目標的攻擊力變為[#!]{ATTACKMODIFIER}[#]。"
           }
         ]
       },
@@ -382,6 +398,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "미믹, 모험적인 설치류, 드라이어드 영웅 제외"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "이 캐릭터의 수호물 코어는 [#!]하수인 코어[#]입니다.\n\n[#!]하수인 코어[#]는 이 캐릭터의 [#!]특수 스킬[#]이 시전될 때마다 발동합니다.\n\n[*]에너지가 완충된 [#!]하수인 코어[#]는 시전자로부터 [#!]{FAMILIARHEALTHPERCENT}%[#] HP와 [#!]{FAMILIARATTACK}%[#] 공격력을 물려받은 [#!]킬러봇 하수인[#]을 모든 아군에게 소환합니다.\n[*] 시전자로부터 물려받는 HP와 공격력은 코어의 에너지 충전도에 따라 변합니다. 충전된 에너지는 코어가 활성화된 동안 소모됩니다.\n[*]각 턴 종료 시 킬러봇 하수인이 주인의 HP를 {FAMILIARHEAL}% 회복시킵니다.\n[*][#!]쇠퇴:[#] 킬러봇 하수인의 타격마다 대상에게 [#!]{ATTACKMODIFIER}[#] 공격력을 줍니다."
           }
         ]
       },
@@ -466,6 +486,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Mimen-, Abenteuerlustige Nager- und Dryaden-Helden sind ausgenommen"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Der Konstruktkern dieses Charakters ist ein [#!]Lakaikern[#].\n\nDer [#!]Lakaikern[#] wird immer aktiviert, wenn die [#!]Spezialfähigkeit[#] dieses Charakters gewirkt wird:\n\n[*] Bei vollständig aufgeladenem [#!]Lakaikern[#] wird ein [#!]Killer-Bot-Lakai mit [#!]{FAMILIARHEALTHPERCENT} %[#] LP und [#!]{FAMILIARATTACK} %[#] Angriff des Wirkers für alle Verbündeten beschworen.\n[*] Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.\n[*] Der Killer-Bot-Lakai stellt am Ende jeder Runde {FAMILIARHEAL} % Leben seines Besitzers wieder her.\n[*] [#!]Verwelken:[#] Jeder Treffer von einem Killer-Bot-Lakai gibt seinem Ziel [#!]{ATTACKMODIFIER}[#] Angriff."
           }
         ]
       },
@@ -534,6 +558,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "ミミック、冒険好きなげっ歯類、ドライアド英雄を除く"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "このキャラクターの蓄積コアは[#!]ミニオンコア[#]だ。\n\n[#!]ミニオンコア[#]はこのキャラクターが[#!]特殊スキル[#]を使用するたびに発動する：\n\n[*] [#!]ミニオンコア[#]をフルチャージすると、術者から継承したHP[#!]{FAMILIARHEALTHPERCENT}%[#]、攻撃力[#!]{FAMILIARATTACK}%[#]の[#!]キラーボットミニオン[#]を仲間全員にサモンする。\n[*] 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。\n[*]キラーボットミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。\n[*] [#!]弱化：[#] キラーボットミニオンの攻撃が当たったターゲットの攻撃力は[#!]{ATTACKMODIFIER}[#]になる。"
           }
         ]
       },
@@ -598,6 +626,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Utesluter Härmare-, Äventyrlig gnagare- och Dryaderhjältar"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].\n\n[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:\n\n[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.\n[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.\n[*]Mördarrobotundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.\n[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
           }
         ]
       },
@@ -674,6 +706,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Taklitçi, Maceracı Kemirgen ve Orman Perileri Kahramanları hariçtir"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Bu karakterin Yapı Merkezi [#!]Hizmetkar Merkezidir[#].\n\n[#!]Hizmetkar Merkezi[#], bu karakterin [#!]Özel Yeteneği[#] her uygulandığında etkinleşir:\n\n[*] Tamamen dolan bir [#!]Hizmetkar Merkezi[#], eylemciden tüm müttefiklere miras kalan [#!]%{FAMILIARHEALTHPERCENT}[#] SP'ye ve [#!]%{FAMILIARATTACK}[#] saldırıya sahip bir [#!]Katil Bot Hizmetkar[#] çağırır.\n[*] Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.\n[*] Katil Bot Hizmetkar, her turun sonunda sahibi için %{FAMILIARHEAL} sağlık yeniler.\n[*] [#!]Soldurma:[#] Katil Bot Hizmetkarın yaptığı her vuruş hedefine [#!]{ATTACKMODIFIER}[#] saldırı verir."
           }
         ]
       },
@@ -742,6 +778,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Excludes Mimic, Adventurous Rodent and Dryad Heroes"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "The Construct Core of this character is a [#!]Minion Core[#].\n\nThe [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:\n\n[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.\n[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.\n[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.\n[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
           }
         ]
       },
@@ -814,6 +854,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "استثناء أبطال المحاكاة، القوارض المغامرة والحوريات"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "جوهر بناء هذه الشخصية هو [#!]جوهر تابع[#].\n\n يتم تفعيل [#!]جوهر التابع[#] كلما يتم إلقاء [#!]المهارة الخاصة[#] لهذه الشخصية:\n\n[*] مع [#!]جوهر تابع[#] مشحون بالكامل، لاستدعاء [#!]تابع آلي قاتل[#] مع صحة بنسبة [#!]{FAMILIARHEALTHPERCENT}%[#] وهجوم بنسبة [#!]{FAMILIARATTACK}%[#] موروث من الملقي لكل الحلفاء.\n[*] يتم تحديد الصحة والهجوم الموروثين من الملقي حسب مقدار الشحن في الجوهر. يتم استنفاد كل الشحن عند تفعيل الجوهر.\n[*] يستعيد تابع الآلي القاتل {FAMILIARHEAL}% من الصحة لمالكه في نهاية كل دور.\n[*][#!]الذبول:[#] تمنح كل ضربة من تابع الآلي القاتل هدفها [#!]{ATTACKMODIFIER}[#] من الهجوم."
           }
         ]
       },
@@ -878,6 +922,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Héros Imposteurs, Rongeurs aventureux et Dryades non inclus"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Le noyau de golem de ce personnage est un [#!]noyau sbire[#].\n\nLe [#!]noyau sbire[#] s'active à chaque fois que le personnage utilise sa [#!]compétence spéciale[#] :\n\n[*] Avec un [#!]noyau sbire[#] entièrement chargé, chaque allié reçoit un [#!]sbire robot tueur[#] avec [#!]{FAMILIARHEALTHPERCENT} %[#] de PV et [#!]{FAMILIARATTACK} %[#] d'attaque hérités du lanceur.\n[*] Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.\n[*]Le sbire robot tueur récupère {FAMILIARHEAL} % de santé pour son propriétaire à la fin de chaque tour.\n[*] [#!]Flétrissement :[#] chaque coup du sbire robot tueur donne à sa cible [#!]{ATTACKMODIFIER}[#] d'attaque."
           }
         ]
       },
@@ -942,6 +990,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Exclui heróis Mimese, Roedores Aventureiros e Dríades"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "O núcleo de construto deste personagem é um [#!]núcleo de ajudante[#].\n\nO [#!]núcleo de ajudante[#] é ativado sempre que a [#!]habilidade especial[#] deste personagem é lançada:\n\n[*] Com um [#!]núcleo de ajudante[#] totalmente carregado, convoca um [#!]ajudante Bot Assassino[#] com [#!]{FAMILIARHEALTHPERCENT}%[#] de HP e [#!]{FAMILIARATTACK}%[#] de ataque do invocador para todos os aliados.\n[*] O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.\n[*] O ajudante Bot Assassino restaura {FAMILIARHEAL}% da vida do dono ao fim de cada turno.\n[*] [#!]Atrofia:[#] cada acerto de um ajudante Bot Assassino dá [#!]{ATTACKMODIFIER}[#] de ataque ao alvo."
           }
         ]
       },
@@ -1006,6 +1058,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Kecuali Pahlawan Mimik, Pengerat Petualang, dan Dryad"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Inti Konstruksi karakter ini adalah [#!]Inti Antek[#].\n\n[#!]Inti Antek[#] aktif setiap kali [#!]Keahlian Khusus[#] karakter ini dirapal:\n\n[*] Dengan [#!]Inti Antek[#] yang terisi penuh, memanggil [#!]Antek Bot Pembunuh[#] dengan [#!]{FAMILIARHEALTHPERCENT}%[#] HP dan serangan [#!]{FAMILIARATTACK}%[#] yang diwarisi dari perapal pada semua sekutu.\n[*] HP dan serangan yang diwarisi dari perapal diskalakan berdasarkan jumlah muatan di Inti. Semua muatan akan habis saat Inti diaktifkan.\n[*]Antek Bot Pembunuh memulihkan {FAMILIARHEAL}% kesehatan untuk pemiliknya di akhir setiap giliran.\n[*][#!]Layu:[#] Setiap serangan dari Antek Bot Pembunuh memberi targetnya [#!]{ATTACKMODIFIER}[#] serangan."
           }
         ]
       },
@@ -1070,6 +1126,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Ei sisällä Matkija-, Seikkaileva jyrsijä- ja Dryadisankareita"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Tämän hahmon rakennelmaydin on [#!]käskyläisydin[#].\n\n[#!]Käskyläisydin[#] aktivoituu aina kun tämän hahmon [#!]erikoistaitoa[#] käytetään:\n\n[*] Täysin ladattu [#!]käskyläisydin[#] kutsuu kaikille liittolaisille [#!]tappajabottikäskyläisen[#], joka perii loitsijalta [#!]{FAMILIARHEALTHPERCENT} %[#] terveyttä ja [#!]{FAMILIARATTACK} %[#] hyökkäystä.\n[*] Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.\n[*]Tappajabottikäskyläinen palauttaa {FAMILIARHEAL} % terveyttä omistajalleen joka vuoron lopussa.\n[*] [#!]Näivetys:[#] Tappajabottikäskyläisen osumat antavat kohteelle [#!]{ATTACKMODIFIER}[#] hyökkäystä."
           }
         ]
       },
@@ -1134,6 +1194,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Efterligner-, Eventyrlysten gnaver- og Skovnymfehelte er ikke inkluderet"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Denne figurs byggekerne er en [#!]håndlangerkerne[#].\n\n[#!]Håndlangerkernen[#] aktiveres, hver gang denne figurs særlige egenskab kastes:\n\n[*] Med en fuldt opladet [#!]håndlangerkerne[#] hidkaldes en  dræberbot-håndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet kasteren på alle allierede.\n[*] De HP og det angreb, der arves fra kasteren, skaleres med ladningen i kernen. Al ladning udtømmes, når kernen aktiveres.\n[*]Dræberbot-håndlangeren genvinder {FAMILIARHEAL} % helbred til sin ejer i slutningen af hver runde.\n[*][#!]Forvitring:[#] Hver træffer fra en dræberbot-håndlanger giver dens mål [#!]{ATTACKMODIFIER}[#] angreb."
           }
         ]
       },
@@ -1198,6 +1262,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Excluye héroes Copias, Roedores aventureros y Dríades"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "El núcleo de creación de este personaje es un [#!]núcleo secuaz[#].\n\nEl [#!]núcleo secuaz[#] se activa cada vez que este personaje lanza su [#!]habilidad especial[#]:\n\n[*] Con un [#!]núcleo secuaz[#] cargado al máximo, invoca a un [#!]secuaz robot asesino[#] para cada aliado con un [#!]{FAMILIARHEALTHPERCENT}[#] % VIT y un [#!]{FAMILIARATTACK}[#] % de ataque heredados del héroe.\n[*] La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.\n[*] El secuaz robot asesino recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.\n[*] [#!]Merma:[#] Cada golpe de un secuaz robot asesino le otorga al objetivo [#!]{ATTACKMODIFIER}[#] de ataque."
           }
         ]
       },
@@ -1262,6 +1330,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Ekskluderer Etterlign-, Eventyrlysten gnager- og Dryaderhelter"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Konstruktørkjernen til denne figuren er en [#!]undersåttkjerne[#].\n\n[#!]Undersåttkjernen[#] aktiveres hver gang denne figurens [#!]spesialferdighet[#] brukes:\n\n[*] Med en fulladet [#!]undersåttkjerne[#] kan du fremkalle en [#!]drapsrobotundersått[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] HP og [#!]{FAMILIARATTACK} %[#] nedarvet angrep fra brukeren på alle allierte.\n[*] HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.\n[*]Drapsrobotundersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.\n[*][#!]Visne:[#] Hvert treff fra en drapsrobotundersått gir målet [#!]{ATTACKMODIFIER}[#] angrep."
           }
         ]
       },
@@ -1326,6 +1398,10 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "Exclusief Nabootsers-, Avontuurlijk knaagdier- en Dryadenhelden"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "De constructiekern van dit personage is een [#!]volgelingkern[#].\n\nDe [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van dit personage wordt gebruikt:\n\n[*] Met een volledig opgeladen [#!]volgelingkern[#], wordt een [#!]killerbotvolgeling aangeroepen. Deze erft [#!]{FAMILIARHEALTHPERCENT}%[#] HP en [#!]{FAMILIARATTACK}%[#] aanvalskracht van de spreukspreker voor alle bondgenoten.\n[*] De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.\n[*]De killerbotvolgeling herstelt aan het eind van iedere beurt {FAMILIARHEAL}% gezondheid voor zijn eigenaar.[*] [#!]Verwelken:[#] iedere treffer van een killerbotvolgeling levert het doelwit [#!]{ATTACKMODIFIER}[#] aanvalskracht op."
           }
         ]
       },
@@ -1398,10 +1474,14 @@
           {
             "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
             "text": "不包含拟态兽、冒险鼠和树妖英雄"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "此角色的机械核心为[#!]小兵核心[#]。\n\n每当此角色施放[#!]特殊技能[#]时，都会启动[#!]小兵核心[#]：\n\n[*]若[#!]小兵核心[#]已完全充满，为所有盟友召唤一个[#!]杀戮机器人小兵[#]，小兵继承施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻击力。\n[*]核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。\n[*]每回合结束时，杀戮机器人小兵为其所有者恢复{FAMILIARHEAL}%的生命值。\n[*][#!]衰退：[#]杀戮机器人小兵每次命中，会给予目标[#!]{ATTACKMODIFIER}[#]攻击力。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 3185694318
+  "languageOverridesConfigId": 566766322
 }

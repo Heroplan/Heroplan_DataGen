@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (617 / 0)
+✅ 成功匹配的服装 (618 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -605,6 +605,7 @@ Name: Ferant Costume1, Fancy Name: Warden of the Wolves
 Name: Liu Bei Costume1, Fancy Name: Warlord of Forest
 Name: Sun Quan Costume1, Fancy Name: Warlord of Fortune
 Name: Cao Cao Costume1, Fancy Name: Warlord of Ice
+Name: Ironmaw costume1, Fancy Name: Warlord of the Legion
 Name: Phorcys Costume1, Fancy Name: Warrior God of the Depths
 Name: Congalach Costume1, Fancy Name: Warrior of Kelp
 Name: Norns toon, Fancy Name: Weavers of Toon Destiny

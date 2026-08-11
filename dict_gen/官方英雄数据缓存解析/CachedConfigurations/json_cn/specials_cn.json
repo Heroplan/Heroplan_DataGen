@@ -9228,7 +9228,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 80,
+          "powerMultiplierPerMil": 130,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -12935,7 +12935,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3400,
+          "powerMultiplierPerMil": 3650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -18361,7 +18361,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -28129,7 +28129,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -38655,7 +38655,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2450,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -54232,7 +54232,10 @@
         "id": "blink_of_an_eye",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "All"
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 1900,
+          "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
@@ -58147,7 +58150,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3650,
+          "powerMultiplierPerMil": 4455,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58222,11 +58225,11 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "AllMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4650,
+          "powerMultiplierPerMil": 4850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
-        "absorbDamagePerMil": 300,
+        "absorbDamagePerMil": 350,
         "absorbDamageTargetType": "Single",
         "statusEffects": [
           {
@@ -59116,20 +59119,14 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4000,
+          "powerMultiplierPerMil": 5950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "absorbDamageTargetType": "Single",
         "properties": [
-          "remove_status_effects_and_base_stat_modifiers_single_enemy"
-        ],
-        "statusEffects": [
-          {
-            "id": "abyss_zurrumurgh",
-            "sideAffected": "Enemies",
-            "statusTargetType": "Single",
-            "turns": 3
-          }
+          "remove_status_effects_and_base_stat_modifiers_single_enemy",
+          "add_abyss_zurrumurgh"
         ]
       },
       {
@@ -59369,15 +59366,10 @@
         },
         "maxLevel": 8,
         "properties": [
-          "harvest_garlacteus"
-        ],
-        "statusEffects": [
-          {
-            "id": "pungent_bomb",
-            "sideAffected": "Enemies",
-            "statusTargetType": "Single",
-            "turns": 3
-          }
+          "harvest_garlacteus",
+          "add_pungent_bomb_garlacteus",
+          "add_defense_debuff_garlacteus",
+          "damage_single_garlacteus"
         ]
       },
       {
@@ -64453,7 +64445,6 @@
         "id": "mana_steal_sheppard",
         "reallocateToTargetType": "All",
         "reallocateToSideAffected": "Allies",
-        "applyBeforeDirectEffect": true,
         "powerMultiplierPerMil": 226,
         "powerMultiplierIncrementPerLevelPerMil": 246,
         "targetType": "NearToTarget",
@@ -69977,7 +69968,7 @@
         "chainEffectType": "Damage",
         "powerMultiplierPerMil": 2300,
         "powerMultiplierIncrementPerLevelPerMil": 100,
-        "consecutiveHitDamageReductionPerMil": 251,
+        "consecutiveHitDamageReductionPerMil": 156,
         "preferTargetsThatFulfillCondition": true,
         "thresholdPerMil": 500,
         "thresholdType": "Health",
@@ -74185,7 +74176,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_elx",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 1450,
+        "powerMultiplierPerMil": 1550,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 5,
         "extraHitChancePerMil": 1000,
@@ -74954,8 +74945,53 @@
         "baseDefenseIncrease": 0,
         "targetType": "Single",
         "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "AddStatusEffects",
+        "id": "add_abyss_zurrumurgh",
+        "statusEffects": [
+          {
+            "id": "abyss_zurrumurgh",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "propertyType": "AddStatusEffects",
+        "id": "add_pungent_bomb_garlacteus",
+        "statusEffects": [
+          {
+            "id": "pungent_bomb",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "propertyType": "AddStatusEffects",
+        "id": "add_defense_debuff_garlacteus",
+        "statusEffects": [
+          {
+            "id": "defense_debuff_garlacteus",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "propertyType": "SecondaryDirectEffect",
+        "id": "damage_single_garlacteus",
+        "powerMultiplierPerMil": 3650,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "effectType": "Damage",
+        "targetType": "Single",
+        "sideAffected": "Enemies"
       }
     ]
   },
-  "specialsConfigId": 684274297
+  "specialsConfigId": 770389648
 }

@@ -5857,6 +5857,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ]
+    },
+    {
         "heroId": "cultist_thief",
         "name": "Fletcher",
         "passives": []
@@ -13452,6 +13461,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "elemental_ironmaw_costume_legion",
+        "name": "Ironmaw C1",
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此角色的部隊可對更弱的元素造成额外傷害。",
+            "* 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此角色受到較強元素部隊造成的傷害會减少。",
+            "* 受到元素傷害： -25%"
+        ]
+    },
+    {
         "heroId": "holy_god_ithar",
         "name": "Ithar",
         "passives": [
@@ -14618,16 +14638,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "elemental_ironmaw_costume_legion",
-        "name": "Ironmaw C",
-        "passives": []
-    },
-    {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_glamiera",

@@ -5857,6 +5857,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ]
+    },
+    {
         "heroId": "cultist_thief",
         "name": "Fletcher",
         "passives": []
@@ -9326,7 +9335,7 @@ const allTranslations =
         "name": "Ferant C1",
         "passives": [
             "Ability: Increased Status Effect Duration Chance to increase the duration of cast status effects.",
-            "* +1 turn: 75%",
+            "* +1 turn:  75%",
             "* +2 turns: 25%"
         ]
     },
@@ -13452,6 +13461,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_ironmaw_costume_legion",
+        "name": "Ironmaw C1",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero's Troops deal extra damage against weaker element.",
+            "* Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less damage from Troops of stronger element.",
+            "* Received elemental damage: -25%"
+        ]
+    },
+    {
         "heroId": "holy_god_ithar",
         "name": "Ithar",
         "passives": [
@@ -14618,16 +14638,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "elemental_ironmaw_costume_legion",
-        "name": "Ironmaw C",
-        "passives": []
-    },
-    {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_glamiera",

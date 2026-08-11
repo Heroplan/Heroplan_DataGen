@@ -23011,7 +23011,7 @@
     "id": "Warlord of the Legion",
     "element": "Yellow",
     "family": "super_elemental",
-    "baseHealth": 805,
+    "baseHealth": 806,
     "baseAttack": 488,
     "baseDefense": 468,
     "manaSpeedId": "average",
@@ -24485,7 +24485,7 @@
     "specialId": "chains_of_light",
     "canBeReceivedDate": "2023-12-04 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_aug_2026"
   },
   "elemental_desmond": {
     "id": "Blade Alchemist",
@@ -29588,9 +29588,9 @@
     "id": "Elder Lynx of the Whispering Peaks",
     "element": "Blue",
     "family": "wild_cat",
-    "baseHealth": 1200,
-    "baseAttack": 670,
-    "baseDefense": 650,
+    "baseHealth": 1227,
+    "baseAttack": 679,
+    "baseDefense": 670,
     "manaSpeedId": "very_slow",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -31842,7 +31842,7 @@
     "baseHealth": 1155,
     "baseAttack": 664,
     "baseDefense": 671,
-    "manaSpeedId": "fast",
+    "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
       "resist_special_blocking_with_health_boost_and_mana"
@@ -34908,9 +34908,9 @@
     "id": "Magical Mirror of the Bewitched Castle",
     "element": "Blue",
     "family": "beauty_beast",
-    "baseHealth": 1140,
-    "baseAttack": 692,
-    "baseDefense": 645,
+    "baseHealth": 1173,
+    "baseAttack": 701,
+    "baseDefense": 667,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -37128,10 +37128,10 @@
     "id": "Astral Demon Spirit Whisperer",
     "element": "Green",
     "family": "astral_demons",
-    "baseHealth": 1162,
-    "baseAttack": 670,
-    "baseDefense": 696,
-    "manaSpeedId": "slow",
+    "baseHealth": 1173,
+    "baseAttack": 674,
+    "baseDefense": 701,
+    "manaSpeedId": "average",
     "passiveSkills": [
       "never_miss_special",
       "resist_all_mana_debuffs_and_reductions",
@@ -37331,7 +37331,7 @@
       "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
-    "classType": "Ranger",
+    "classType": "Monk",
     "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "pungent_punishment",

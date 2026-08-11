@@ -36853,6 +36853,17 @@
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
+        "statusEffect": "DefenseModifier",
+        "id": "defense_debuff_garlacteus",
+        "buff": "MinorDebuff",
+        "buffTypeOverride": {
+          "overrideBuffTypeElement": "None",
+          "buffTypeOverride": "None"
+        },
+        "iconOverrideStatusEffectId": "defense_down_agrafena",
+        "defenseMultiplierPerMil": 550
+      },
+      {
         "statusEffect": "AccuracyModifier",
         "id": "blind_more",
         "buff": "MinorDebuff",
@@ -57948,7 +57959,7 @@
         "id": "poison_contagious_florenna",
         "buff": "MinorDebuff",
         "isContagious": true,
-        "damageMultiplierPerMil": 190,
+        "damageMultiplierPerMil": 220,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -60515,7 +60526,7 @@
         "statusEffect": "UnderWater",
         "id": "underwater_with_absorb_healing_klaern",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 84,
+        "damageMultiplierPerMil": 110,
         "damageMultiplierIncrementPerLevelPerMil": 3,
         "additionalCasterSideEffect": "Heal",
         "additionalCasterSideEffectPowerPerMil": 350,
@@ -63113,7 +63124,7 @@
         "statusEffect": "ElementSwapOverTime",
         "id": "element_swap_damage_green_elx",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 480,
+        "damageMultiplierPerMil": 550,
         "damageMultiplierIncrementPerLevelPerMil": 20,
         "elementToDamage": "Green"
       },
@@ -63130,7 +63141,7 @@
               "Expiration"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "powerMultiplierPerMil": 200,
+            "powerMultiplierPerMil": 270,
             "powerMultiplierIncrementPerLevelPerMil": 20
           }
         ],
@@ -63453,28 +63464,7 @@
         "statusEffect": "Abyss",
         "id": "abyss_zurrumurgh",
         "buff": "MajorDebuff",
-        "removalEffects": [
-          {
-            "effectType": "Damage",
-            "effectTargetType": "All",
-            "sideAffected": "Allies",
-            "effectTriggerRemovalReasons": [
-              "Expiration"
-            ],
-            "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 250,
-            "fixedPowerIncrementPerLevel": 50,
-            "statusEffects": [
-              {
-                "id": "resonance_damage_over_time_zurrumurgh",
-                "sideAffected": "Allies",
-                "statusTargetType": "All",
-                "turns": 3
-              }
-            ]
-          }
-        ],
-        "damageMultiplierPerMil": 225,
+        "damageMultiplierPerMil": 313,
         "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
@@ -63935,8 +63925,8 @@
             "fixedPowerIncrementPerLevel": 50
           }
         ],
-        "defenseMultiplierPerMil": 690,
-        "defenseMultiplierIncrementPerLevelPerMil": 236
+        "defenseMultiplierPerMil": 1000,
+        "defenseMultiplierIncrementPerLevelPerMil": 0
       },
       {
         "statusEffect": "Burn",
@@ -75217,9 +75207,6 @@
         "accuracyPerMil": 1000,
         "effects": [
           {
-            "id": "eatfamiliars"
-          },
-          {
             "id": "damage_construct_minion_core"
           },
           {
@@ -75229,8 +75216,8 @@
             "id": "heal_construct_minion"
           }
         ],
-        "healthPerMil": 33,
-        "healthPerLevelPerMil": 3
+        "healthPerMil": 50,
+        "healthPerLevelPerMil": 2
       },
       {
         "familiarType": "BigMinion",
@@ -77923,7 +77910,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "healPercentPerMil": 50,
+        "healPercentPerMil": 70,
         "monsterHealPercentPerMil": 10
       },
       {
@@ -78992,8 +78979,8 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 55,
-        "attackPercentIncrementPerLevelPerMil": 5
+        "attackPercentPerMil": 110,
+        "attackPercentIncrementPerLevelPerMil": 10
       },
       {
         "effectType": "Damage",
@@ -79447,7 +79434,7 @@
           "Turn"
         ],
         "targetType": "Single",
-        "baseAttackModifier": 206
+        "baseAttackModifier": 216
       },
       {
         "effectType": "Damage",
@@ -80200,7 +80187,7 @@
         "id": "changing_tides",
         "maxMana": 800,
         "showExtraInfo": true,
-        "alternatingManaModifierPerMil": 65286
+        "alternatingManaModifierPerMil": 65336
       },
       {
         "speedType": "AlternateOnSpecial",
@@ -98475,5 +98462,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3815122890
+  "battleConfigId": 950385157
 }

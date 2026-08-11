@@ -49588,5 +49588,53 @@ window.allHeroesExtra = [
             "vengeful_ghost_on_damage_received"
         ],
         "family": "ghost"
+    },
+    {
+        "name": "Zurrumurgh",
+        "fancy name": "Astral Demon Spirit Whisperer",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
+        "Release date": "2026-08-11",
+        "AetherPower": "Regen",
+        "heroId": "astral_demon_zurrumurgh",
+        "baseAttack": 670,
+        "baseDefense": 696,
+        "baseHealth": 1162,
+        "specialId": "eye_see_you",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Ironmaw costume1",
+        "fancy name": "Warlord of the Legion",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-08-10",
+        "AetherPower": "Special Boost",
+        "heroId": "elemental_ironmaw_costume_legion",
+        "baseAttack": 488,
+        "baseDefense": 468,
+        "baseHealth": 805,
+        "specialId": "chains_of_light",
+        "specialId_costume": "chains_of_legion",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_purple"
+        ],
+        "attackBonus": "29%",
+        "defenseBonus": "29%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

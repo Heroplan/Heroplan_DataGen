@@ -94120,6 +94120,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "elemental_aug_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 300,
+                    "defenseBonusPerMil": 300,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 350,
+                    "defenseBonusPerMil": 350,
+                    "healthBonusPerMil": 350,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 410,
+                    "defenseBonusPerMil": 410,
+                    "healthBonusPerMil": 410,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 440,
+                    "defenseBonusPerMil": 440,
+                    "healthBonusPerMil": 430,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -94864,10 +94909,6 @@
           {
             "device": "TECNO-KG5m",
             "brand": "Tecno"
-          },
-          {
-            "device": "hanoip",
-            "brand": "Motorola"
           },
           {
             "device": "PCZ",
@@ -96368,5 +96409,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2657413447
+  "otherConfigId": 2859002499
 }

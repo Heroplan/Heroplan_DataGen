@@ -3801,7 +3801,7 @@ const allTranslations =
         "effects": [
             "Deals 175% damage to all enemies.",
             "If the enemies have less than 50% health remaining, deals 245% damage instead.",
-            "Reduces the mana of all enemies by -19%."
+            "Reduces the mana of all enemies by -16%."
         ]
     },
     {
@@ -5392,7 +5392,7 @@ const allTranslations =
         "effects": [
             "Destroys all minions from the target. This effect damages Mega Minions.",
             "Deals 600% damage to the target.",
-            "Reduces max health from all enemies who own Minions by 404. Max health can't get lower than 30% of the original max health."
+            "Reduces max health from all enemies who own Minions by 404. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 404.)"
         ]
     },
     {
@@ -7447,6 +7447,16 @@ const allTranslations =
             "If the target is of Ice element, deals 300% damage to all other enemies.",
             "Hit enemies get -39% attack for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.",
             "Hit enemies get -39% defense for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer."
+        ]
+    },
+    {
+        "heroId": "astral_demon_zurrumurgh",
+        "name": "Zurrumurgh",
+        "effects": [
+            "Deals 630% damage to the target.",
+            "Casts Full Removal on the target. (Full Removes removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)",
+            "The target shifts into Abyss Ghost form for 3 turns.",
+            "While in Abyss Ghost form the target receives 483 damage each turn. (While in a Ghost form, character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects. Can't be cast if there is only one enemy left in the battle. Titans and Mythic Titans are not affected by this status effect.)"
         ]
     },
     {
@@ -16849,11 +16859,11 @@ const allTranslations =
         "effects": [
             "Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
             "Recovers 48% health for all allies.",
-            "All allies except the caster dance the Dance of Spirits for 4 turns:",
+            "All allies except the caster dance the Dance of Spirits for 4 turns.",
+            "Dance of Spirits:",
             "* +110% attack.",
             "* Reduces all received damage by -30%.",
-            "* If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%.",
-            "* This effect can't be dispelled, but it gets removed if caster is defeated."
+            "* If the caster is defeated, the dancer receives 121 damage and their mana is reduced by 100%. (All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
         ]
     },
     {
@@ -17094,6 +17104,16 @@ const allTranslations =
         "effects": [
             "Deals 500% damage to the target and all Dark enemies.",
             "All enemies get -39% mana generation for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "Deals extra damage against Dark."
+        ]
+    },
+    {
+        "heroId": "elemental_ironmaw_costume_legion",
+        "name": "Ironmaw C1",
+        "effects": [
+            "Deals 550% damage to the target and all Dark enemies.",
+            "All allies get +40% defense against Dark for 4 turns.",
+            "All enemies get -44% mana generation for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Deals extra damage against Dark."
         ]
     },
@@ -18593,16 +18613,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "elemental_ironmaw_costume_legion",
-        "name": "Ironmaw C",
-        "effects": []
-    },
-    {
-        "heroId": "astral_demon_zurrumurgh",
-        "name": "Zurrumurgh",
-        "effects": []
     },
     {
         "heroId": "beauty_beast_glamiera",
