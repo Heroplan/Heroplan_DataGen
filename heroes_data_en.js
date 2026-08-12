@@ -5164,9 +5164,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ],
         "family": "super_elemental",
@@ -6441,9 +6441,9 @@ window.allHeroes =
         "health": 2259,
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
@@ -7165,9 +7165,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ],
         "family": "super_elemental",
@@ -7225,9 +7225,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -25%",
             "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ],
@@ -7586,7 +7586,7 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -10486,7 +10486,7 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -10825,7 +10825,7 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -10898,7 +10898,7 @@ window.allHeroes =
         "defense": 1427,
         "health": 2399,
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
+            "Deals 480% damage to the target and nearby enemies.",
             "Steals all dispellable buffs from the target and nearby enemies and randomly distributes them on allies.",
             "The caster steals 85% of any healing applied to the target and nearby enemies for 5 turns.",
             "The caster steals generated mana of the target and nearby enemies over 5 turns starting low and increasing every turn until the on the last turn all generated mana is stolen. This effect can't be cleansed, but gets removed if the caster is defeated."
@@ -10906,11 +10906,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -11976,11 +11975,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -12428,11 +12426,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -13663,9 +13660,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ],
         "family": "super_elemental",
@@ -14129,8 +14126,8 @@ window.allHeroes =
         "defense": 772,
         "health": 1427,
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "All enemies receive 400 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.",
+            "Deals 330% damage to all enemies.",
+            "All enemies receive 500 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.",
             "Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
@@ -17075,9 +17072,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ],
         "family": "super_elemental",
@@ -17966,9 +17963,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ],
         "family": "super_elemental",
@@ -18037,9 +18034,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -25%",
             "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ],
@@ -19344,8 +19341,8 @@ window.allHeroes =
         "defense": 974,
         "health": 1629,
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields becme weakened with -47% attack.",
+            "Deals 300% damage to all enemies.",
+            "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields become weakened with -47% attack.",
             "Deals extra damage against Fire.",
             "Element Link gives all Ice allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
         ],
@@ -22168,9 +22165,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ],
         "family": "super_elemental",
@@ -22236,9 +22233,9 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -25%",
             "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ],
@@ -26345,10 +26342,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -30843,9 +30840,9 @@ window.allHeroes =
         "health": 2259,
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
@@ -31517,7 +31514,7 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -32610,7 +32607,7 @@ window.allHeroes =
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies gain 25% mana after 3 turns or immediately if the effect is removed before the duration ends.",
-            "Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)"
+            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
@@ -32937,7 +32934,7 @@ window.allHeroes =
         "defense": 729,
         "health": 1341,
         "effects": [
-            "Deals 300% damage to all enemies.",
+            "Deals 330% damage to all enemies.",
             "All enemies get -70% decrease of any healing received for 3 turns.",
             "All enemies receive 450 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
@@ -33255,10 +33252,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -33668,11 +33665,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -33795,10 +33791,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -34816,7 +34812,7 @@ window.allHeroes =
         "defense": 745,
         "health": 1353,
         "effects": [
-            "Deals 375% damage to the target and nearby enemies.",
+            "Deals 400% damage to the target and nearby enemies.",
             "The caster reflects 130% of the damage received from their status ailments and negative stacks to all enemies for 4 turns.",
             "Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ],
@@ -34942,7 +34938,7 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -35206,7 +35202,7 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -35477,7 +35473,7 @@ window.allHeroes =
         "effects": [
             "Deals 435% damage to the target.",
             "The target can't get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating of itself.)",
-            "The target receives 912 Poison damage over 3 turn. This effect spreads to nearby enemies.",
+            "The target receives 1017 Poison damage over 3 turn. This effect spreads to nearby enemies.",
             "Elemental Link gives all Nature allies +20% attack for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
@@ -42982,10 +42978,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -43042,10 +43038,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ],
         "family": "super_elemental",
@@ -44134,11 +44130,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -45790,10 +45785,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -45861,10 +45856,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ],
         "family": "super_elemental",
@@ -46708,10 +46703,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -46776,10 +46771,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ],
         "family": "super_elemental",
@@ -51773,10 +51768,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -53708,10 +53703,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -53778,10 +53773,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ],
         "family": "super_elemental",
@@ -53965,9 +53960,9 @@ window.allHeroes =
         "health": 2259,
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
@@ -55032,11 +55027,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -55095,7 +55089,7 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -58046,7 +58040,7 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -58181,7 +58175,7 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -58259,10 +58253,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -58327,10 +58321,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ],
         "family": "super_elemental",
@@ -58581,10 +58575,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -58942,10 +58936,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -59006,10 +59000,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ],
         "family": "super_elemental",
@@ -67280,7 +67274,7 @@ window.allHeroes =
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 550% damage to the target.",
-            "Deals 150% damage to 8 random enemies. (The effect target the same enemy as the first hit if there are no other valid targets.)",
+            "Deals 150% damage to 8 random enemies. (This effect target the same enemy as the first hit if there are no other valid targets.)",
             "All allies get +45% attack for 4 turns."
         ],
         "passives": [
@@ -69316,10 +69310,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -70274,11 +70268,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -75418,11 +75411,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -75482,7 +75474,7 @@ window.allHeroes =
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 70 damage for each attempted buff.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "The caster and nearby allies are immune to new effects that prevent the use of Special Skills for 3 turns."
         ],
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 Water damage over 2 turns.",
@@ -75552,7 +75544,7 @@ window.allHeroes =
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 100 damage for each attempted buff.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "The caster and nearby allies are immune to new effects that prevent the use of Special Skills for 3 turns."
         ],
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 192 Water damage over 2 turns.",
@@ -76571,10 +76563,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -78214,9 +78206,9 @@ window.allHeroes =
         "health": 2259,
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
@@ -79238,7 +79230,7 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -79325,10 +79317,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -82773,10 +82765,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -82839,10 +82831,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ],
         "family": "super_elemental",
@@ -83747,20 +83739,19 @@ window.allHeroes =
         "defense": 1404,
         "health": 2389,
         "effects": [
-            "Deals 180% damage to 6 random enemies.",
+            "Deals 190% damage to 6 random enemies.",
             "All enemies get -45% defense against Fire for 3 turns.",
             "For 3 turns, the element of all enemies is changed each turn. On the first 2 turns, the element is random.",
             "On the last turn, enemies revert to their original element.",
-            "After each element change, enemies take 846 damage if their element is Nature."
+            "After each element change, enemies take 941 damage if their element is Nature."
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -84013,7 +84004,7 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -84369,7 +84360,7 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -86242,10 +86233,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -86313,10 +86304,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ],
         "family": "super_elemental",
@@ -89345,10 +89336,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -89474,7 +89465,7 @@ window.allHeroes =
         "defense": 782,
         "health": 1314,
         "effects": [
-            "Recovers 15% health for all allies.",
+            "Recovers 20% health for all allies.",
             "Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30% attack from the caster",
             "Before Sparrow Minion hits target, it destroys all Minions from the target.",
             "Element Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
@@ -92527,11 +92518,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -94487,10 +94477,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -94552,10 +94542,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ],
         "family": "super_elemental",
@@ -95653,7 +95643,7 @@ window.allHeroes =
         "defense": 460,
         "health": 820,
         "effects": [
-            "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effectst hat alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
+            "All allies get +100% normal attack for 4 turns. (If additional effects increase attack in general, normal attacks can have a total maximum of +160% increased power.)"
         ],
         "passives": [],
         "family": "wolf",
@@ -95698,7 +95688,7 @@ window.allHeroes =
         "defense": 488,
         "health": 809,
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health.",
+            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.)",
             "All allies regenerate 261 HP over 3 turns."
         ],
         "passives": [],
@@ -96731,16 +96721,15 @@ window.allHeroes =
         "health": 976,
         "effects": [
             "Deals 300% damage to 2 random enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +20% health and gains +20% mana."
+            "If an enemy is defeated by the attack, the caster recovers +20% health and gains +20% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -96794,10 +96783,10 @@ window.allHeroes =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* Steals 33% mana from the target, and distributes it to allies.",
+            "* Steals 33% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 235% damage to target and minor damage to nearby enemies.",
             "2nd:",
-            "* Steals 33% mana from the target, and distributes it to allies.",
+            "* Steals 33% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 310% damage to target and minor damage to nearby enemies."
         ],
         "passives": [
@@ -96860,10 +96849,10 @@ window.allHeroes =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* Steals 25% mana from the target, and distributes it to allies.",
+            "* Steals 25% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 225% damage to target and minor damage to nearby enemies.",
             "2nd:",
-            "* Steals 35% mana from the target, and distributes it to allies.",
+            "* Steals 35% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 330% damage to target and minor damage to nearby enemies."
         ],
         "passives": [
@@ -96922,7 +96911,7 @@ window.allHeroes =
             "Boosts health of all allies by 475. Boosted health can exceed max HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "All allies reduce all received damage by -45% for 6 turns.",
-            "All allies get +35% mana generation for 6 turns."
+            "All allies get +35% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [],
         "family": "winter",
@@ -97661,7 +97650,7 @@ window.allHeroes =
         "effects": [
             "All allies get a Moonrise Ward for 6 turns, that reduces the incoming Special Skill damage by -320. Reduces damage by additional 20% when attacker is Holy.",
             "All allies get +24% attack for 6 turns.",
-            "All allies get +24% mana generation for 6 turns."
+            "All allies get +24% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
@@ -98230,7 +98219,7 @@ window.allHeroes =
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
             "* +25% mana generation for 3 turns.",
             "* +50% increase for all healing received for 3 turns.",
-            "* The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation.",
+            "* The Source of Buffs will activate 4 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
             "All allies regenerate 600 HP over 4 turns."
         ],
         "passives": [
@@ -98953,7 +98942,7 @@ window.allHeroes =
         "effects": [
             "Recovers 35% health for all allies.",
             "All allies with a cleansable status ailment that affects defense get +50% defense for 3 turns.",
-            "All allies get +24% mana generation for 3 turns."
+            "All allies get +24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [],
         "family": "circus",
@@ -101733,10 +101722,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -101789,9 +101778,9 @@ window.allHeroes =
         "health": 2259,
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
@@ -102466,7 +102455,7 @@ window.allHeroes =
         "health": 2152,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -102678,7 +102667,7 @@ window.allHeroes =
         "health": 2105,
         "effects": [
             "Steals all Minions or a Mega Minion from the target.",
-            "Steals 40% mana from the target and distributes it to allies.",
+            "Steals 40% mana from the target and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Deals 530% damage to the target.",
             "The target falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleansable.)"
         ],
@@ -102942,7 +102931,7 @@ window.allHeroes =
         "health": 1314,
         "effects": [
             "Deals 390% damage to the target.",
-            "The target gets -75% accuracy for 2 turns.  Chance to miss also applies to offensive Special Skills.",
+            "The target gets -75% accuracy for 2 turns. (Chance to miss also applies to offensive Special Skills.)",
             "The target gets -75% decrease for any healing received for 2 turns.",
             "Element Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ],
@@ -103276,7 +103265,7 @@ window.allHeroes =
             "Dispels buffs from all enemies.",
             "Deals 180% damage to all enemies.",
             "Deals additional 20% damage per removed status effect, up to 340% damage in total.",
-            "Stack (Max: 10): The caster gets +6% mana generation",
+            "Stack (Max: 10): The caster gets +6% mana generation.  (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ],
         "passives": [
@@ -103345,7 +103334,7 @@ window.allHeroes =
             "Dispels buffs from all enemies.",
             "Deals 170% damage to all enemies.",
             "Deals additional 25% damage per removed status effect, up to 370% damage in total.",
-            "Stack +2 (Max: 10): The caster gets +12% mana generation.",
+            "Stack +2 (Max: 10): The caster gets +12% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack +3 (Max: 10): The caster recovers 45 HP each turn."
         ],
         "passives": [
@@ -104054,7 +104043,7 @@ window.allHeroes =
         "effects": [
             "Recovers 42% health for all allies.",
             "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [],
         "family": "hotm2018",
@@ -104115,7 +104104,7 @@ window.allHeroes =
         "effects": [
             "Recovers 40% health for all allies.",
             "Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
@@ -104425,7 +104414,7 @@ window.allHeroes =
         "health": 1353,
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
+            "The target and nearby enemies get -35% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
             "Element Link gives all Holy allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
         ],
         "passives": [],
@@ -104487,8 +104476,8 @@ window.allHeroes =
         "health": 1947,
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills.",
-            "Element Link   gives all Holy  allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled."
+            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "Element Link gives all Holy allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
@@ -104607,7 +104596,7 @@ window.allHeroes =
         "health": 2224,
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
@@ -105003,7 +104992,7 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -105135,7 +105124,7 @@ window.allHeroes =
         "health": 1394,
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
-            "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
+            "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [],
         "family": "circus",
@@ -105662,7 +105651,7 @@ window.allHeroes =
         "defense": 1165,
         "health": 2193,
         "effects": [
-            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.",
+            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)",
             "Enhanced Dodge: All allies get +100% chance to dodge Special Skill that deal damage. This effect lasts until the ally succesfully dodges once.",
             "After the Enhanced Dodge ends or is removed or replaced, the ally recovers 56% health and gets +60% defense for 6 turns."
         ],
@@ -105793,7 +105782,7 @@ window.allHeroes =
         "health": 1555,
         "effects": [
             "Deals 410% damage to the target and nearby enemies.",
-            "The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.",
+            "The attack has a 80% chance to bypass defensive buffs. (This includes counterattacks.)",
             "All allies get +45% defense for 4 turns.",
             "Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ],
@@ -105978,8 +105967,9 @@ window.allHeroes =
         "health": 2051,
         "effects": [
             "All allies get +60% attack for 5 turns.",
-            "All allies get +44% mana generation for 5 turns.",
-            "All allies receive Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
+            "All allies get +44% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies receive Slime Revive for 2 turns.",
+            "If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
             "* 100% inherited health",
             "* 50% attack",
             "* 50% defense",
@@ -106047,10 +106037,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -106476,7 +106466,7 @@ window.allHeroes =
         "effects": [
             "Reduces the mana of the target and nearby enemies by 25%.",
             "Recovers 40% health for all allies.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. Status effects cast by characters Minions and Fiends on the same side cannot be reflected."
+            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. (Status effects cast by characters Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [],
         "family": "knight",
@@ -106725,7 +106715,7 @@ window.allHeroes =
             "Destroys all Minions from the target. This effect damage Mega Minions. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion's max health is dealt to the Mega Minion.)",
             "Deals 325% damage to hit targets.",
             "If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion's max health is dealt to the Mega Minion.)",
-            "The caster gets lasting counterattack with 115% of the damage received. (This effect lasts until it is cleansed, replaced or removed.)"
+            "The caster gets lasting counterattack with 115% of the damage received. (This effect lasts until it is dispelled, replaced or removed.)"
         ],
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
@@ -107489,7 +107479,7 @@ window.allHeroes =
         "effects": [
             "Deals 210% damage to all enemies.",
             "Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to its owner at the end of each turn.",
-            "All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive Special Skills."
+            "All enemies get -40% accuracy for 3 turns. (Chance to miss is also applies to offensive Special Skills.)"
         ],
         "passives": [],
         "family": "japanese",
@@ -107629,11 +107619,10 @@ window.allHeroes =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -107696,10 +107685,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -107767,10 +107756,11 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra damage against weaker element.",
-            "* Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less damage from Troops of stronger element.",
-            "* Received elemental damage: -25%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
+            "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -107958,7 +107948,7 @@ window.allHeroes =
             "All allies regenerate 1428 HP over 6 turns.",
             "All allies get +50% attack for 6 turns.",
             "All allies get +50% critical chance for 6 turns.",
-            "The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed."
+            "The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [],
         "family": "easter",
@@ -108021,7 +108011,7 @@ window.allHeroes =
             "All allies regenerate 1450 HP over 5 turns.",
             "All allies get +60% attack for 5 turns.",
             "All allies get +60% critical chance for 5 turns.",
-            "The caster gets -5% mana generation for 5 turns. This effect can't be cleansed."
+            "The caster gets -5% mana generation for 5 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all allies get: Stack (Max: 10): Recovers 30 HP each turn."
@@ -108089,10 +108079,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -108158,10 +108148,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
@@ -108925,8 +108915,15 @@ window.allHeroes =
         "effects": [
             "Deals 350% damage to all enemies.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
-            "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
+            "The caster receives Slime Revive for 4 turns. This effect can't be dispelled.",
+            "If defeated while Slime Revive is active, the caster will be reborn as a Slime.",
+            "Slime:",
+            "* 100% inherited health",
+            "* 50% attack",
+            "* 50% defense",
+            "* Special Skill: Slime Slap (Deals 350% damage to the target.)",
+            "* This effect can’t be dispelled.",
+            "If the Slime is not defeated in 2 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana."
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -109099,7 +109096,7 @@ window.allHeroes =
         "health": 1918,
         "effects": [
             "Deals 450% damage to the target.",
-            "Deals 320% damage to a random different enemy.",
+            "Deals 320% damage to a random different enemy. (This effect target the same enemy as the first hit if there are no other valid targets.)",
             "Enemies hit automatically cast Mindless attack on a random ally when mana is full at the start of the turn during 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 1 turn longer."
         ],
         "passives": [
@@ -109235,7 +109232,7 @@ window.allHeroes =
         "effects": [
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 350% damage to all enemies.",
-            "All allies get 5% mana for each destroyed Minion.",
+            "All allies get 5% mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
             "All enemies receive Devouring Goo for 4 turns.",
             "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 50 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)"
@@ -109307,7 +109304,7 @@ window.allHeroes =
         "defense": 1260,
         "health": 2311,
         "effects": [
-            "Safely cleanses status ailments for all allies.",
+            "Safely cleanses status ailments for all allies.  (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)",
             "Deals 450% damage to all enemies.",
             "All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)"
         ],
@@ -109497,7 +109494,7 @@ window.allHeroes =
         "defense": 1017,
         "health": 1730,
         "effects": [
-            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)",
+            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)",
             "Deals 325% damage to all enemies.",
             "All enemies get -50% decrease for any healing received for 4 turns.",
             "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.)"
@@ -110102,7 +110099,7 @@ window.allHeroes =
             "Deals 325% damage to all enemies.",
             "All enemies receive 364 Bleed damage over 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "All enemies get -75% decrease for any healing for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "All enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "All enemies get -35% accuracy for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer. (Chance to miss applies to offensive Special Skills.)",
             "Deals extra damage against Dark."
         ],
         "passives": [
@@ -110167,7 +110164,7 @@ window.allHeroes =
         "health": 1303,
         "effects": [
             "Deals 400% damage to the target.",
-            "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skill.",
+            "The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skill.)",
             "Element Link gives all Holy allies +10% critical chance for 6 turns. This effect can't be cleansed."
         ],
         "passives": [
@@ -110744,11 +110741,11 @@ window.allHeroes =
             "1x Mana Charge:",
             "* Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
             "* Each hit from a Butterfly Minion Gives the target the following status ailment:",
-            "*** +20% increase to all received damage for 3 turns.",
+            "* +20% increase to all received damage for 3 turns.",
             "2x Mana Charge:",
             "* Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            "* The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
-            "* When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
+            "* The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its owner's max health.",
+            "* When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
             "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'"
@@ -111114,10 +111111,10 @@ window.allHeroes =
         "defense": 737,
         "health": 1299,
         "effects": [
-            "Deals 200% damage to all enemies",
+            "Deals 200% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
-            "All enemies get -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills",
-            "Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
+            "All enemies get -35% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "Element Link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
             "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
@@ -111602,7 +111599,7 @@ window.allHeroes =
         "defense": 799,
         "health": 1404,
         "effects": [
-            "Destroys all Minions from all enemies and damages all Mega Minions.",
+            "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 275% damage to all enemies.",
             "Deals additional 30% damage to all enemies for each Minion destroyed.",
             "Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion."
@@ -113178,8 +113175,8 @@ window.allHeroes =
         "effects": [
             "Recovers 30% health for all allies.",
             "Stack (Max 10): All damage all allies receive is reduced by -5%.",
-            "Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
+            "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
+            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
             "Resist Mana Reduction: This character is immune to mana reductions.",
@@ -113850,7 +113847,7 @@ window.allHeroes =
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
             "The caster and nearby allies reduce all received damage by -50% for 4 turns.",
-            "The caster and nearby allies get +24% mana generation for 4 turns."
+            "The caster and nearby allies get +24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [],
         "family": "midgard",
@@ -113899,7 +113896,7 @@ window.allHeroes =
         "defense": 957,
         "health": 1846,
         "effects": [
-            "Increases the mana of the caster and nearby allies by 15%.",
+            "Increases the mana of the caster and nearby allies by 15%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
             "The caster and nearby allies reduce all received damage by 40% for 4 turns."
         ],
@@ -114133,7 +114130,7 @@ window.allHeroes =
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies except the caster dance the Dance of the Slimy for 4 turns.",
-            "==Dance of the Slimy==",
+            "Dance of the Slimy:",
             "* +45% chance to dodge Special Skills. Each dodge damages the attacker for 1600 damage.",
             "* When the dance ends, the dancer recovers 700 HP. (All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)"
         ],
@@ -114201,7 +114198,7 @@ window.allHeroes =
             "Deals 170% Clawing damage to all enemies. (Deals 255% damage against enemies with Minions or Mega Minions. Enemies with Minions or Mega Minions receive -35% defense for 6 turns.)",
             "All enemies receives 1200 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
             "If the caster is defeated in the next 4 turns, reduces max health for all enemies by 1000 over 4 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 250 per turn.)",
-            "All allies resist new effects that block usage of Special Skills for 4 turns."
+            "All allies are immune to new effects that prevent the use of Special Skills for 4 turns."
         ],
         "passives": [
             "Nine Lives:",
@@ -114334,19 +114331,18 @@ window.allHeroes =
         "defense": 1374,
         "health": 2301,
         "effects": [
-            "Deals 500% damage to the target and minor damage to all other enemies.",
-            "Heals the caster for 30% of damage dealt.",
+            "Deals 520% damage to the target and minor damage to all other enemies.",
+            "Heals the caster for 35% of damage dealt.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "Deals 480-1243 damage to all enemies after 4 turns, based  on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)"
+            "Deals 579-1342 damage to all enemies after 4 turns, based  on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)"
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -114526,7 +114522,7 @@ window.allHeroes =
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 5 turns.",
             "The caster regenerates 1250 boosted health over 5 turns. Boosted health can exceed max HP.",
-            "Deals 500-1000 damage to all enemies after 5 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
+            "Deals 500-1000 damage to all enemies after 5 turns, based on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)",
             "Stack (Max: 10): The caster gets +25% attack against the weaker element."
         ],
         "passives": [
@@ -115584,7 +115580,7 @@ window.allHeroes =
         "defense": 1236,
         "health": 2305,
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.",
+            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.)",
             "All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
             "* +100% Special Skill damage for 4 turns.",
@@ -115837,7 +115833,7 @@ window.allHeroes =
             "* Dispels status effect buffs that affect defense from all enemies.",
             "* All enemies are immune to new status effect buffs that affect defense for 3 turns.",
             "2x Mana Charge:",
-            "* All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
+            "* All allies bypass defensive buffs with their attacks for 5 turns. (Defensive buffs include counterattacks.)",
             "* All allies reduce all received damage by -45% for 5 turns.",
             "* All allies counterattack with 115% of the damage received for 5 turns."
         ],
@@ -116223,10 +116219,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -116293,7 +116289,7 @@ window.allHeroes =
             "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
             "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
-            "* Received elemental damage: -25%",
+            "* Received damage: -25%",
             "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
@@ -116353,10 +116349,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -116420,10 +116416,10 @@ window.allHeroes =
         ],
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ],
         "family": "super_elemental",
@@ -116862,7 +116858,7 @@ window.allHeroes =
         "effects": [
             "Deals 520% damage to the target.",
             "The target receives 390 Bleed damage over 3 turns.",
-            "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed."
+            "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [
             "Unstoppable Minions:",

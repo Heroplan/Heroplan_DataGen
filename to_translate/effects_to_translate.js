@@ -998,9 +998,9 @@ const allTranslations =
         "name": "Aether Mimic Ice",
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -1177,7 +1177,7 @@ const allTranslations =
         "name": "Ascension Mimic Ice",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -1652,7 +1652,7 @@ const allTranslations =
         "name": "Emblem Mimic Ice",
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -1699,7 +1699,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -1707,7 +1707,7 @@ const allTranslations =
         "heroId": "construct_featherweight",
         "name": "Featherweight",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
+            "Deals 480% damage to the target and nearby enemies.",
             "Steals all dispellable buffs from the target and nearby enemies and randomly distributes them on allies.",
             "The caster steals 85% of any healing applied to the target and nearby enemies for 5 turns.",
             "The caster steals generated mana of the target and nearby enemies over 5 turns starting low and increasing every turn until the on the last turn all generated mana is stolen. This effect can't be cleansed, but gets removed if the caster is defeated."
@@ -2208,8 +2208,8 @@ const allTranslations =
         "heroId": "ice_god_klaern",
         "name": "Klaern",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "All enemies receive 400 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.",
+            "Deals 330% damage to all enemies.",
+            "All enemies receive 500 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.",
             "Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -3058,8 +3058,8 @@ const allTranslations =
         "heroId": "ice_god_sini",
         "name": "Sini",
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields becme weakened with -47% attack.",
+            "Deals 300% damage to all enemies.",
+            "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields become weakened with -47% attack.",
             "Deals extra damage against Fire.",
             "Element Link gives all Ice allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
         ]
@@ -4883,9 +4883,9 @@ const allTranslations =
         "name": "Aether Mimic Nature",
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -4986,7 +4986,7 @@ const allTranslations =
         "name": "Ascension Mimic Nature",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -5156,7 +5156,7 @@ const allTranslations =
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies gain 25% mana after 3 turns or immediately if the effect is removed before the duration ends.",
-            "Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)"
+            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ]
     },
     {
@@ -5212,7 +5212,7 @@ const allTranslations =
         "heroId": "nature_god_cinisia",
         "name": "Cinisia",
         "effects": [
-            "Deals 300% damage to all enemies.",
+            "Deals 330% damage to all enemies.",
             "All enemies get -70% decrease of any healing received for 3 turns.",
             "All enemies receive 450 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
@@ -5506,7 +5506,7 @@ const allTranslations =
         "heroId": "forest_god_elradir",
         "name": "Elradir",
         "effects": [
-            "Deals 375% damage to the target and nearby enemies.",
+            "Deals 400% damage to the target and nearby enemies.",
             "The caster reflects 130% of the damage received from their status ailments and negative stacks to all enemies for 4 turns.",
             "Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ]
@@ -5525,7 +5525,7 @@ const allTranslations =
         "name": "Emblem Mimic Nature",
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -5566,7 +5566,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -5604,7 +5604,7 @@ const allTranslations =
         "effects": [
             "Deals 435% damage to the target.",
             "The target can't get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating of itself.)",
-            "The target receives 912 Poison damage over 3 turn. This effect spreads to nearby enemies.",
+            "The target receives 1017 Poison damage over 3 turn. This effect spreads to nearby enemies.",
             "Elemental Link gives all Nature allies +20% attack for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -8582,9 +8582,9 @@ const allTranslations =
         "name": "Aether Mimic Dark",
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -8766,7 +8766,7 @@ const allTranslations =
         "name": "Ascension Mimic Dark",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -9215,7 +9215,7 @@ const allTranslations =
         "name": "Emblem Mimic Dark",
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -9234,7 +9234,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -10723,7 +10723,7 @@ const allTranslations =
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 550% damage to the target.",
-            "Deals 150% damage to 8 random enemies. (The effect target the same enemy as the first hit if there are no other valid targets.)",
+            "Deals 150% damage to 8 random enemies. (This effect target the same enemy as the first hit if there are no other valid targets.)",
             "All allies get +45% attack for 4 turns."
         ]
     },
@@ -12004,7 +12004,7 @@ const allTranslations =
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 70 damage for each attempted buff.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "The caster and nearby allies are immune to new effects that prevent the use of Special Skills for 3 turns."
         ]
     },
     {
@@ -12013,7 +12013,7 @@ const allTranslations =
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 100 damage for each attempted buff.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "The caster and nearby allies are immune to new effects that prevent the use of Special Skills for 3 turns."
         ]
     },
     {
@@ -12425,9 +12425,9 @@ const allTranslations =
         "name": "Aether Mimic Fire",
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -12591,7 +12591,7 @@ const allTranslations =
         "name": "Ascension Mimic Fire",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -13292,11 +13292,11 @@ const allTranslations =
         "heroId": "construct_elx",
         "name": "Elx",
         "effects": [
-            "Deals 180% damage to 6 random enemies.",
+            "Deals 190% damage to 6 random enemies.",
             "All enemies get -45% defense against Fire for 3 turns.",
             "For 3 turns, the element of all enemies is changed each turn. On the first 2 turns, the element is random.",
             "On the last turn, enemies revert to their original element.",
-            "After each element change, enemies take 846 damage if their element is Nature."
+            "After each element change, enemies take 941 damage if their element is Nature."
         ]
     },
     {
@@ -13332,7 +13332,7 @@ const allTranslations =
         "name": "Emblem Mimic Fire",
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -13398,7 +13398,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -14231,7 +14231,7 @@ const allTranslations =
         "heroId": "fire_god_noor",
         "name": "Noor",
         "effects": [
-            "Recovers 15% health for all allies.",
+            "Recovers 20% health for all allies.",
             "Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30% attack from the caster",
             "Before Sparrow Minion hits target, it destroys all Minions from the target.",
             "Element Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
@@ -15214,14 +15214,14 @@ const allTranslations =
         "heroId": "castle_wolf_bertulf",
         "name": "Bertulf",
         "effects": [
-            "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effectst hat alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
+            "All allies get +100% normal attack for 4 turns. (If additional effects increase attack in general, normal attacks can have a total maximum of +160% increased power.)"
         ]
     },
     {
         "heroId": "circus_candy",
         "name": "Candy",
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health.",
+            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.)",
             "All allies regenerate 261 HP over 3 turns."
         ]
     },
@@ -15377,7 +15377,7 @@ const allTranslations =
         "name": "Ironvein",
         "effects": [
             "Deals 300% damage to 2 random enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +20% health and gains +20% mana."
+            "If an enemy is defeated by the attack, the caster recovers +20% health and gains +20% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
         ]
     },
     {
@@ -15386,10 +15386,10 @@ const allTranslations =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* Steals 33% mana from the target, and distributes it to allies.",
+            "* Steals 33% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 235% damage to target and minor damage to nearby enemies.",
             "2nd:",
-            "* Steals 33% mana from the target, and distributes it to allies.",
+            "* Steals 33% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 310% damage to target and minor damage to nearby enemies."
         ]
     },
@@ -15399,10 +15399,10 @@ const allTranslations =
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            "* Steals 25% mana from the target, and distributes it to allies.",
+            "* Steals 25% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 225% damage to target and minor damage to nearby enemies.",
             "2nd:",
-            "* Steals 35% mana from the target, and distributes it to allies.",
+            "* Steals 35% mana from the target, and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "* Deals 330% damage to target and minor damage to nearby enemies."
         ]
     },
@@ -15413,7 +15413,7 @@ const allTranslations =
             "Boosts health of all allies by 475. Boosted health can exceed max HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "All allies reduce all received damage by -45% for 6 turns.",
-            "All allies get +35% mana generation for 6 turns."
+            "All allies get +35% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -15536,7 +15536,7 @@ const allTranslations =
         "effects": [
             "All allies get a Moonrise Ward for 6 turns, that reduces the incoming Special Skill damage by -320. Reduces damage by additional 20% when attacker is Holy.",
             "All allies get +24% attack for 6 turns.",
-            "All allies get +24% mana generation for 6 turns."
+            "All allies get +24% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -15622,7 +15622,7 @@ const allTranslations =
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
             "* +25% mana generation for 3 turns.",
             "* +50% increase for all healing received for 3 turns.",
-            "* The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation.",
+            "* The Source of Buffs will activate 4 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
             "All allies regenerate 600 HP over 4 turns."
         ]
     },
@@ -15732,7 +15732,7 @@ const allTranslations =
         "effects": [
             "Recovers 35% health for all allies.",
             "All allies with a cleansable status ailment that affects defense get +50% defense for 3 turns.",
-            "All allies get +24% mana generation for 3 turns."
+            "All allies get +24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16164,9 +16164,9 @@ const allTranslations =
         "name": "Aether Mimic Holy",
         "effects": [
             "Deals 600% damage to the target.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Boosts all allies' health by 30% of damage dealt.",
-            "The Mimic chest closes for 2 turns."
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -16265,7 +16265,7 @@ const allTranslations =
         "name": "Ascension Mimic Holy",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "For each enemy defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -16296,7 +16296,7 @@ const allTranslations =
         "name": "Auricarc",
         "effects": [
             "Steals all Minions or a Mega Minion from the target.",
-            "Steals 40% mana from the target and distributes it to allies.",
+            "Steals 40% mana from the target and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Deals 530% damage to the target.",
             "The target falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleansable.)"
         ]
@@ -16336,7 +16336,7 @@ const allTranslations =
         "name": "Bai Yeong",
         "effects": [
             "Deals 390% damage to the target.",
-            "The target gets -75% accuracy for 2 turns.  Chance to miss also applies to offensive Special Skills.",
+            "The target gets -75% accuracy for 2 turns. (Chance to miss also applies to offensive Special Skills.)",
             "The target gets -75% decrease for any healing received for 2 turns.",
             "Element Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ]
@@ -16395,7 +16395,7 @@ const allTranslations =
             "Dispels buffs from all enemies.",
             "Deals 180% damage to all enemies.",
             "Deals additional 20% damage per removed status effect, up to 340% damage in total.",
-            "Stack (Max: 10): The caster gets +6% mana generation",
+            "Stack (Max: 10): The caster gets +6% mana generation.  (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ]
     },
@@ -16406,7 +16406,7 @@ const allTranslations =
             "Dispels buffs from all enemies.",
             "Deals 170% damage to all enemies.",
             "Deals additional 25% damage per removed status effect, up to 370% damage in total.",
-            "Stack +2 (Max: 10): The caster gets +12% mana generation.",
+            "Stack +2 (Max: 10): The caster gets +12% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Stack +3 (Max: 10): The caster recovers 45 HP each turn."
         ]
     },
@@ -16519,7 +16519,7 @@ const allTranslations =
         "effects": [
             "Recovers 42% health for all allies.",
             "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16528,7 +16528,7 @@ const allTranslations =
         "effects": [
             "Recovers 40% health for all allies.",
             "Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16575,7 +16575,7 @@ const allTranslations =
         "name": "Drake Fong",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
+            "The target and nearby enemies get -35% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
             "Element Link gives all Holy allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
         ]
     },
@@ -16584,8 +16584,8 @@ const allTranslations =
         "name": "Drake Fong C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills.",
-            "Element Link   gives all Holy  allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled."
+            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "Element Link gives all Holy allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16602,7 +16602,7 @@ const allTranslations =
         "name": "Emblem Mimic Holy",
         "effects": [
             "Deals 480% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
@@ -16667,7 +16667,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -16686,7 +16686,7 @@ const allTranslations =
         "name": "Faline",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
-            "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
+            "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16762,7 +16762,7 @@ const allTranslations =
         "heroId": "faun_gideon",
         "name": "Gideon",
         "effects": [
-            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.",
+            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)",
             "Enhanced Dodge: All allies get +100% chance to dodge Special Skill that deal damage. This effect lasts until the ally succesfully dodges once.",
             "After the Enhanced Dodge ends or is removed or replaced, the ally recovers 56% health and gets +60% defense for 6 turns."
         ]
@@ -16782,7 +16782,7 @@ const allTranslations =
         "name": "Gilligan",
         "effects": [
             "Deals 410% damage to the target and nearby enemies.",
-            "The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.",
+            "The attack has a 80% chance to bypass defensive buffs. (This includes counterattacks.)",
             "All allies get +45% defense for 4 turns.",
             "Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ]
@@ -16810,8 +16810,9 @@ const allTranslations =
         "name": "Gooric",
         "effects": [
             "All allies get +60% attack for 5 turns.",
-            "All allies get +44% mana generation for 5 turns.",
-            "All allies receive Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
+            "All allies get +44% mana generation for 5 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies receive Slime Revive for 2 turns.",
+            "If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
             "* 100% inherited health",
             "* 50% attack",
             "* 50% defense",
@@ -16900,7 +16901,7 @@ const allTranslations =
         "effects": [
             "Reduces the mana of the target and nearby enemies by 25%.",
             "Recovers 40% health for all allies.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. Status effects cast by characters Minions and Fiends on the same side cannot be reflected."
+            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. (Status effects cast by characters Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
@@ -16943,7 +16944,7 @@ const allTranslations =
             "Destroys all Minions from the target. This effect damage Mega Minions. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion's max health is dealt to the Mega Minion.)",
             "Deals 325% damage to hit targets.",
             "If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion's max health is dealt to the Mega Minion.)",
-            "The caster gets lasting counterattack with 115% of the damage received. (This effect lasts until it is cleansed, replaced or removed.)"
+            "The caster gets lasting counterattack with 115% of the damage received. (This effect lasts until it is dispelled, replaced or removed.)"
         ]
     },
     {
@@ -17075,7 +17076,7 @@ const allTranslations =
         "effects": [
             "Deals 210% damage to all enemies.",
             "Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to its owner at the end of each turn.",
-            "All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive Special Skills."
+            "All enemies get -40% accuracy for 3 turns. (Chance to miss is also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -17144,7 +17145,7 @@ const allTranslations =
             "All allies regenerate 1428 HP over 6 turns.",
             "All allies get +50% attack for 6 turns.",
             "All allies get +50% critical chance for 6 turns.",
-            "The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed."
+            "The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -17154,7 +17155,7 @@ const allTranslations =
             "All allies regenerate 1450 HP over 5 turns.",
             "All allies get +60% attack for 5 turns.",
             "All allies get +60% critical chance for 5 turns.",
-            "The caster gets -5% mana generation for 5 turns. This effect can't be cleansed."
+            "The caster gets -5% mana generation for 5 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -17290,8 +17291,15 @@ const allTranslations =
         "effects": [
             "Deals 350% damage to all enemies.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
-            "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
+            "The caster receives Slime Revive for 4 turns. This effect can't be dispelled.",
+            "If defeated while Slime Revive is active, the caster will be reborn as a Slime.",
+            "Slime:",
+            "* 100% inherited health",
+            "* 50% attack",
+            "* 50% defense",
+            "* Special Skill: Slime Slap (Deals 350% damage to the target.)",
+            "* This effect can’t be dispelled.",
+            "If the Slime is not defeated in 2 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana."
         ]
     },
     {
@@ -17318,7 +17326,7 @@ const allTranslations =
         "name": "Kullervo C1",
         "effects": [
             "Deals 450% damage to the target.",
-            "Deals 320% damage to a random different enemy.",
+            "Deals 320% damage to a random different enemy. (This effect target the same enemy as the first hit if there are no other valid targets.)",
             "Enemies hit automatically cast Mindless attack on a random ally when mana is full at the start of the turn during 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 1 turn longer."
         ]
     },
@@ -17353,7 +17361,7 @@ const allTranslations =
         "effects": [
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 350% damage to all enemies.",
-            "All allies get 5% mana for each destroyed Minion.",
+            "All allies get 5% mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
             "All enemies receive Devouring Goo for 4 turns.",
             "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 50 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)"
@@ -17363,7 +17371,7 @@ const allTranslations =
         "heroId": "magic_carpet_lando",
         "name": "Lando",
         "effects": [
-            "Safely cleanses status ailments for all allies.",
+            "Safely cleanses status ailments for all allies.  (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)",
             "Deals 450% damage to all enemies.",
             "All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)"
         ]
@@ -17389,7 +17397,7 @@ const allTranslations =
         "heroId": "champions_lazara",
         "name": "Lazara",
         "effects": [
-            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)",
+            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)",
             "Deals 325% damage to all enemies.",
             "All enemies get -50% decrease for any healing received for 4 turns.",
             "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.)"
@@ -17489,7 +17497,7 @@ const allTranslations =
             "Deals 325% damage to all enemies.",
             "All enemies receive 364 Bleed damage over 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
             "All enemies get -75% decrease for any healing for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "All enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "All enemies get -35% accuracy for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer. (Chance to miss applies to offensive Special Skills.)",
             "Deals extra damage against Dark."
         ]
     },
@@ -17498,7 +17506,7 @@ const allTranslations =
         "name": "Malosi",
         "effects": [
             "Deals 400% damage to the target.",
-            "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skill.",
+            "The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skill.)",
             "Element Link gives all Holy allies +10% critical chance for 6 turns. This effect can't be cleansed."
         ]
     },
@@ -17598,11 +17606,11 @@ const allTranslations =
             "1x Mana Charge:",
             "* Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
             "* Each hit from a Butterfly Minion Gives the target the following status ailment:",
-            "*** +20% increase to all received damage for 3 turns.",
+            "* +20% increase to all received damage for 3 turns.",
             "2x Mana Charge:",
             "* Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            "* The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
-            "* When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
+            "* The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its owner's max health.",
+            "* When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. (Chance to miss also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -17656,10 +17664,10 @@ const allTranslations =
         "heroId": "holy_god_neith",
         "name": "Neith",
         "effects": [
-            "Deals 200% damage to all enemies",
+            "Deals 200% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
-            "All enemies get -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills",
-            "Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
+            "All enemies get -35% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "Element Link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
         ]
     },
     {
@@ -17735,7 +17743,7 @@ const allTranslations =
         "heroId": "bard_ogima",
         "name": "Ogima",
         "effects": [
-            "Destroys all Minions from all enemies and damages all Mega Minions.",
+            "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 275% damage to all enemies.",
             "Deals additional 30% damage to all enemies for each Minion destroyed.",
             "Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion."
@@ -17984,8 +17992,8 @@ const allTranslations =
         "effects": [
             "Recovers 30% health for all allies.",
             "Stack (Max 10): All damage all allies receive is reduced by -5%.",
-            "Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
+            "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
+            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ]
     },
     {
@@ -18081,14 +18089,14 @@ const allTranslations =
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
             "The caster and nearby allies reduce all received damage by -50% for 4 turns.",
-            "The caster and nearby allies get +24% mana generation for 4 turns."
+            "The caster and nearby allies get +24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
         "heroId": "s3_sif_costume_golden",
         "name": "Sif C1",
         "effects": [
-            "Increases the mana of the caster and nearby allies by 15%.",
+            "Increases the mana of the caster and nearby allies by 15%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
             "The caster and nearby allies reduce all received damage by 40% for 4 turns."
         ]
@@ -18127,7 +18135,7 @@ const allTranslations =
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies except the caster dance the Dance of the Slimy for 4 turns.",
-            "==Dance of the Slimy==",
+            "Dance of the Slimy:",
             "* +45% chance to dodge Special Skills. Each dodge damages the attacker for 1600 damage.",
             "* When the dance ends, the dancer recovers 700 HP. (All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)"
         ]
@@ -18139,7 +18147,7 @@ const allTranslations =
             "Deals 170% Clawing damage to all enemies. (Deals 255% damage against enemies with Minions or Mega Minions. Enemies with Minions or Mega Minions receive -35% defense for 6 turns.)",
             "All enemies receives 1200 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
             "If the caster is defeated in the next 4 turns, reduces max health for all enemies by 1000 over 4 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 250 per turn.)",
-            "All allies resist new effects that block usage of Special Skills for 4 turns."
+            "All allies are immune to new effects that prevent the use of Special Skills for 4 turns."
         ]
     },
     {
@@ -18155,10 +18163,10 @@ const allTranslations =
         "heroId": "construct_tengo",
         "name": "Tengo",
         "effects": [
-            "Deals 500% damage to the target and minor damage to all other enemies.",
-            "Heals the caster for 30% of damage dealt.",
+            "Deals 520% damage to the target and minor damage to all other enemies.",
+            "Heals the caster for 35% of damage dealt.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "Deals 480-1243 damage to all enemies after 4 turns, based  on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)"
+            "Deals 579-1342 damage to all enemies after 4 turns, based  on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)"
         ]
     },
     {
@@ -18199,7 +18207,7 @@ const allTranslations =
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 5 turns.",
             "The caster regenerates 1250 boosted health over 5 turns. Boosted health can exceed max HP.",
-            "Deals 500-1000 damage to all enemies after 5 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
+            "Deals 500-1000 damage to all enemies after 5 turns, based on the damage the caster had taken while this effect was active. (Maximum effect is achieved upon taking 50% of max health in damage.)",
             "Stack (Max: 10): The caster gets +25% attack against the weaker element."
         ]
     },
@@ -18370,7 +18378,7 @@ const allTranslations =
         "heroId": "beowulf_wealhtheow",
         "name": "Wealhtheow",
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.",
+            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.)",
             "All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
             "* +100% Special Skill damage for 4 turns.",
@@ -18416,7 +18424,7 @@ const allTranslations =
             "* Dispels status effect buffs that affect defense from all enemies.",
             "* All enemies are immune to new status effect buffs that affect defense for 3 turns.",
             "2x Mana Charge:",
-            "* All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
+            "* All allies bypass defensive buffs with their attacks for 5 turns. (Defensive buffs include counterattacks.)",
             "* All allies reduce all received damage by -45% for 5 turns.",
             "* All allies counterattack with 115% of the damage received for 5 turns."
         ]
@@ -18572,7 +18580,7 @@ const allTranslations =
         "effects": [
             "Deals 520% damage to the target.",
             "The target receives 390 Bleed damage over 3 turns.",
-            "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed."
+            "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {

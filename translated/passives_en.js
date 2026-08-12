@@ -624,9 +624,9 @@ const allTranslations =
         "name": "Linus",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ]
     },
@@ -861,9 +861,9 @@ const allTranslations =
         "name": "Anzia",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ]
     },
@@ -872,9 +872,9 @@ const allTranslations =
         "name": "Anzia C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -25%",
             "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ]
@@ -1359,11 +1359,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -1509,11 +1508,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -1569,11 +1567,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -1743,9 +1740,9 @@ const allTranslations =
         "name": "Jolt",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ]
     },
@@ -2164,9 +2161,9 @@ const allTranslations =
         "name": "Nylora",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ]
     },
@@ -2271,9 +2268,9 @@ const allTranslations =
         "name": "Quinn",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ]
     },
@@ -2282,9 +2279,9 @@ const allTranslations =
         "name": "Quinn C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -25%",
             "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ]
@@ -2777,9 +2774,9 @@ const allTranslations =
         "name": "Zengar",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +100%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -10%"
         ]
     },
@@ -2788,9 +2785,9 @@ const allTranslations =
         "name": "Zengar C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  damage against weaker element.",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
-            "Passive Skill as defending character: This hero receives less  damage from Troops of stronger element.",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
             "* Received damage: -25%",
             "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
         ]
@@ -3276,10 +3273,10 @@ const allTranslations =
         "name": "Alfie",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -4096,10 +4093,10 @@ const allTranslations =
         "name": "Craum",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -4160,11 +4157,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -4180,10 +4176,10 @@ const allTranslations =
         "name": "Desmond",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -5341,10 +5337,10 @@ const allTranslations =
         "name": "Roz",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -5352,10 +5348,10 @@ const allTranslations =
         "name": "Roz C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ]
     },
@@ -5499,11 +5495,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -5714,10 +5709,10 @@ const allTranslations =
         "name": "Xandrella",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -5725,10 +5720,10 @@ const allTranslations =
         "name": "Xandrella C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ]
     },
@@ -5838,10 +5833,10 @@ const allTranslations =
         "name": "Zuni",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -5849,10 +5844,10 @@ const allTranslations =
         "name": "Zuni C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
         ]
     },
@@ -6423,10 +6418,10 @@ const allTranslations =
         "name": "Lexi",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -6640,10 +6635,10 @@ const allTranslations =
         "name": "Aconia",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -6651,10 +6646,10 @@ const allTranslations =
         "name": "Aconia C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ]
     },
@@ -6819,11 +6814,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -7257,10 +7251,10 @@ const allTranslations =
         "name": "Farrah",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -7268,10 +7262,10 @@ const allTranslations =
         "name": "Farrah C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ]
     },
@@ -7310,10 +7304,10 @@ const allTranslations =
         "name": "Gastille",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -7362,10 +7356,10 @@ const allTranslations =
         "name": "Griffex",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -7373,10 +7367,10 @@ const allTranslations =
         "name": "Griffex C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Holy Ailments: This character is immune to status ailments and negative stacks cast by Holy characters."
         ]
     },
@@ -8659,10 +8653,10 @@ const allTranslations =
         "name": "Vander",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -8778,11 +8772,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -9386,11 +9379,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -9538,10 +9530,10 @@ const allTranslations =
         "name": "Nova",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -9878,10 +9870,10 @@ const allTranslations =
         "name": "Ash",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -10327,10 +10319,10 @@ const allTranslations =
         "name": "Doxan",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -10338,10 +10330,10 @@ const allTranslations =
         "name": "Doxan C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ]
     },
@@ -10446,11 +10438,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -10762,10 +10753,10 @@ const allTranslations =
         "name": "Ignazio",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -10773,10 +10764,10 @@ const allTranslations =
         "name": "Ignazio C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ]
     },
@@ -11145,10 +11136,10 @@ const allTranslations =
         "name": "Niki",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -11538,11 +11529,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -11795,10 +11785,10 @@ const allTranslations =
         "name": "Zaria",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -11806,10 +11796,10 @@ const allTranslations =
         "name": "Zaria C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Nature Ailments: This character is immune to status ailments and negative stacks cast by Nature characters."
         ]
     },
@@ -12061,11 +12051,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -12684,10 +12673,10 @@ const allTranslations =
         "name": "Zione",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -13256,10 +13245,10 @@ const allTranslations =
         "name": "Grilka",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -13442,11 +13431,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -13454,10 +13442,10 @@ const allTranslations =
         "name": "Ironmaw",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -13465,10 +13453,11 @@ const allTranslations =
         "name": "Ironmaw C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra damage against weaker element.",
-            "* Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less damage from Troops of stronger element.",
-            "* Received elemental damage: -25%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
+            "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ]
     },
     {
@@ -13503,10 +13492,10 @@ const allTranslations =
         "name": "Jequn",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -13514,10 +13503,10 @@ const allTranslations =
         "name": "Jequn C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ]
     },
@@ -14272,11 +14261,10 @@ const allTranslations =
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
-            "* With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and 55% attack inherited from the caster on all allies.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
             "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
-            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
-            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
         ]
     },
     {
@@ -14505,10 +14493,10 @@ const allTranslations =
         "name": "Xavier",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -14519,7 +14507,7 @@ const allTranslations =
             "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
             "* Extra damage dealt: +150%",
             "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
-            "* Received elemental damage: -25%",
+            "* Received damage: -25%",
             "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ]
     },
@@ -14528,10 +14516,10 @@ const allTranslations =
         "name": "Zandria",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "* Dealt extra elemental damage: +100%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "* Received elemental damage: -10%"
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +100%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -10%"
         ]
     },
     {
@@ -14539,10 +14527,10 @@ const allTranslations =
         "name": "Zandria C1",
         "passives": [
             "Troop Mastery:",
-            "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
-            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -25%",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
             "Resist Dark Ailments: This character is immune to status ailments and negative stacks cast by Dark characters."
         ]
     },
