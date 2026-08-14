@@ -1523,6 +1523,15 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "passives": [
+            "复活生命值削减：除头目外的所有敌人会以 -80% 的生命值复活。",
+            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
+            "内在美：每当该角色本应受到状态异常或负面叠加造成的伤害时，改为恢复相同数值的生命值。"
+        ]
+    },
+    {
         "heroId": "ice_god_glenda",
         "name": "Glenda",
         "passives": [
@@ -14628,11 +14637,6 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "beauty_beast_glamiera",
-        "name": "Glamiera",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_vora",
         "name": "Vora",
         "passives": []
@@ -14640,6 +14644,21 @@ const translatedPassivesCN =
     {
         "heroId": "forsaken_vermis",
         "name": "Vermis",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "passives": []
+    },
+    {
+        "heroId": "construct_niso",
+        "name": "Niso",
         "passives": []
     },
     {
@@ -14655,6 +14674,11 @@ const translatedPassivesCN =
     {
         "heroId": "s2_rugged_fisherman_costume_cute",
         "name": "Wilbur Toon",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
         "passives": []
     }
 ];

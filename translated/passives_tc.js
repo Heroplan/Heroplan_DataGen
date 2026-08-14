@@ -1523,6 +1523,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ]
+    },
+    {
         "heroId": "ice_god_glenda",
         "name": "Glenda",
         "passives": [
@@ -14628,11 +14637,6 @@ const translatedPassivesTC =
         ]
     },
     {
-        "heroId": "beauty_beast_glamiera",
-        "name": "Glamiera",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_vora",
         "name": "Vora",
         "passives": []
@@ -14640,6 +14644,21 @@ const translatedPassivesTC =
     {
         "heroId": "forsaken_vermis",
         "name": "Vermis",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "passives": []
+    },
+    {
+        "heroId": "construct_niso",
+        "name": "Niso",
         "passives": []
     },
     {
@@ -14655,6 +14674,11 @@ const translatedPassivesTC =
     {
         "heroId": "s2_rugged_fisherman_costume_cute",
         "name": "Wilbur Toon",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
         "passives": []
     }
 ];

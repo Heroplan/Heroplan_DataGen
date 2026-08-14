@@ -1277,7 +1277,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -1520,6 +1520,15 @@ const allTranslations =
         "passives": [
             "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Mana on Enemy Defensive Buff: This character gains 10% mana when an enemy receives a status effect buff that affects defense. This effect can activate only once per turn."
+        ]
+    },
+    {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -3175,7 +3184,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -4759,7 +4768,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -4875,7 +4884,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -8494,7 +8503,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -11367,7 +11376,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -12296,7 +12305,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -12852,7 +12861,7 @@ const allTranslations =
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
         ]
     },
     {
@@ -14628,11 +14637,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "beauty_beast_glamiera",
-        "name": "Glamiera",
-        "passives": []
-    },
-    {
         "heroId": "wild_cat_vora",
         "name": "Vora",
         "passives": []
@@ -14640,6 +14644,21 @@ const allTranslations =
     {
         "heroId": "forsaken_vermis",
         "name": "Vermis",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "passives": []
+    },
+    {
+        "heroId": "construct_niso",
+        "name": "Niso",
         "passives": []
     },
     {
@@ -14655,6 +14674,11 @@ const allTranslations =
     {
         "heroId": "s2_rugged_fisherman_costume_cute",
         "name": "Wilbur Toon",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
         "passives": []
     }
 ];

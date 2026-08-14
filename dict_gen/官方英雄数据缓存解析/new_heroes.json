@@ -1,17 +1,5 @@
 [
     {
-        "name": "Zurrumurgh",
-        "fancy_name": "Astral Demon Spirit Whisperer",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-11 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_zurrumurgh",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Glamiera",
         "fancy_name": "Magical Mirror of the Bewitched Castle",
         "color": "Blue",
@@ -48,6 +36,42 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Boom & Fang C",
+        "fancy_name": "Duo of Furious Skulls",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-19 07:00:00",
+        "star": 5,
+        "family": "goblin",
+        "costume_id": 1,
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sheppard",
+        "fancy_name": "Slippery Kiddo",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-19 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_sheppard",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Niso",
+        "fancy_name": "Asymmetric Security Construct",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-20 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_niso",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Oceanus Toon",
         "fancy_name": "Toon Titan of Sea",
         "color": "Red",
@@ -81,6 +105,18 @@
         "family": "lagoon",
         "costume_id": 2,
         "heroId": "s2_rugged_fisherman_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Garlacteus",
+        "fancy_name": "Garlic Demolitionist",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-23 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_garlacteus",
         "Lottery_Only": 1
     }
 ]

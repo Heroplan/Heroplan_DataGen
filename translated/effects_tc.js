@@ -1888,6 +1888,20 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "effects": [
+            "低於 40 謙遜：",
+            "對所有敵人造成 280% 傷害。",
+            "所有敵人將狀態效果增益反射給敵方戰隊的隨機角色，持續 3 回合。（僅反射可驅散的增益）",
+            "所有盟友以所受傷害的 80% 進行反擊，持續 3 回合。",
+            "40 或以上的謙遜：",
+            "對所有敵人造成 320% 傷害。",
+            "所有敵人將狀態效果增益反射給敵方戰隊的隨機角色，持續 3 回合。（僅反射可驅散的增益）",
+            "所有盟友以所受傷害的 110% 進行反擊，持續 3 回合。"
+        ]
+    },
+    {
         "heroId": "ice_god_glenda",
         "name": "Glenda",
         "effects": [
@@ -18623,11 +18637,6 @@ const translatedEffectsTC =
         ]
     },
     {
-        "heroId": "beauty_beast_glamiera",
-        "name": "Glamiera",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_vora",
         "name": "Vora",
         "effects": []
@@ -18635,6 +18644,21 @@ const translatedEffectsTC =
     {
         "heroId": "forsaken_vermis",
         "name": "Vermis",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "effects": []
+    },
+    {
+        "heroId": "construct_niso",
+        "name": "Niso",
         "effects": []
     },
     {
@@ -18650,6 +18674,11 @@ const translatedEffectsTC =
     {
         "heroId": "s2_rugged_fisherman_costume_cute",
         "name": "Wilbur Toon",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
         "effects": []
     }
 ];

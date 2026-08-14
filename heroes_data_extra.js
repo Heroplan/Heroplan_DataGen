@@ -49636,5 +49636,26 @@ window.allHeroesExtra = [
         "healthBonus": "43%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Glamiera",
+        "fancy name": "Magical Mirror of the Bewitched Castle",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-08-14",
+        "AetherPower": "Counterattack",
+        "heroId": "beauty_beast_glamiera",
+        "baseAttack": 701,
+        "baseDefense": 667,
+        "baseHealth": 1173,
+        "specialId": "you_look_wonderful_tonight",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];

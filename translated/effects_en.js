@@ -1888,6 +1888,20 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "effects": [
+            "Less than 40 Humility:",
+            "Deals 280% damage to all enemies.",
+            "All enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)",
+            "All allies counterattack with 80% of the damage received for 3 turns.",
+            "40 or more Humility:",
+            "Deals 320% damage to all enemies.",
+            "All enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)",
+            "All allies counterattack with 110% of the damage received for 3 turns."
+        ]
+    },
+    {
         "heroId": "ice_god_glenda",
         "name": "Glenda",
         "effects": [
@@ -18623,11 +18637,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "beauty_beast_glamiera",
-        "name": "Glamiera",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_vora",
         "name": "Vora",
         "effects": []
@@ -18635,6 +18644,21 @@ const allTranslations =
     {
         "heroId": "forsaken_vermis",
         "name": "Vermis",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "effects": []
+    },
+    {
+        "heroId": "construct_niso",
+        "name": "Niso",
         "effects": []
     },
     {
@@ -18650,6 +18674,11 @@ const allTranslations =
     {
         "heroId": "s2_rugged_fisherman_costume_cute",
         "name": "Wilbur Toon",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
         "effects": []
     }
 ];

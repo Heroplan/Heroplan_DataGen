@@ -1888,6 +1888,20 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "beauty_beast_glamiera",
+        "name": "Glamiera",
+        "effects": [
+            "谦逊低于 40 时：",
+            "对所有敌人造成 280% 伤害。",
+            "所有敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合。（只有可驱散的增益才可反弹）",
+            "所有盟友会以所受伤害的 80% 进行反击，持续 3 回合。",
+            "谦逊等于或高于 40 时：",
+            "对所有敌人造成 320% 伤害。",
+            "所有敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合。（只有可驱散的增益才可反弹）",
+            "所有盟友会以所受伤害的 110% 进行反击，持续 3 回合。"
+        ]
+    },
+    {
         "heroId": "ice_god_glenda",
         "name": "Glenda",
         "effects": [
@@ -18623,11 +18637,6 @@ const translatedEffectsCN =
         ]
     },
     {
-        "heroId": "beauty_beast_glamiera",
-        "name": "Glamiera",
-        "effects": []
-    },
-    {
         "heroId": "wild_cat_vora",
         "name": "Vora",
         "effects": []
@@ -18635,6 +18644,21 @@ const translatedEffectsCN =
     {
         "heroId": "forsaken_vermis",
         "name": "Vermis",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "effects": []
+    },
+    {
+        "heroId": "construct_niso",
+        "name": "Niso",
         "effects": []
     },
     {
@@ -18650,6 +18674,11 @@ const translatedEffectsCN =
     {
         "heroId": "s2_rugged_fisherman_costume_cute",
         "name": "Wilbur Toon",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
         "effects": []
     }
 ];
