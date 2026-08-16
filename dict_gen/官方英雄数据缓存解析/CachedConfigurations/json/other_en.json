@@ -93966,27 +93966,27 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 115,
-                    "defenseBonusPerMil": 115,
-                    "healthBonusPerMil": 115,
+                    "attackBonusPerMil": 145,
+                    "defenseBonusPerMil": 145,
+                    "healthBonusPerMil": 145,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 230,
-                    "defenseBonusPerMil": 230,
-                    "healthBonusPerMil": 230,
+                    "attackBonusPerMil": 265,
+                    "defenseBonusPerMil": 265,
+                    "healthBonusPerMil": 265,
                     "manaBonusPerMil": 20
                   },
                   {
-                    "attackBonusPerMil": 345,
-                    "defenseBonusPerMil": 345,
-                    "healthBonusPerMil": 345,
+                    "attackBonusPerMil": 375,
+                    "defenseBonusPerMil": 375,
+                    "healthBonusPerMil": 375,
                     "manaBonusPerMil": 40
                   },
                   {
-                    "attackBonusPerMil": 460,
-                    "defenseBonusPerMil": 460,
-                    "healthBonusPerMil": 460,
+                    "attackBonusPerMil": 500,
+                    "defenseBonusPerMil": 490,
+                    "healthBonusPerMil": 480,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -96416,5 +96416,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2522106792
+  "otherConfigId": 2821745503
 }

@@ -3468,6 +3468,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "wild_cat_vora",
+        "name": "Vora",
+        "effects": [
+            "Safely dispels buffs from all enemies, and increases all allies' mana by 5% for each removed buffs. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Safely cleanse all Status ailments from all allies, and increases all allies' mana by 5% for each cleansed ailment. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "Reduces the mana of the enemy with the most mana by 50%. Reduces the mana of all other enemies by 30%."
+        ]
+    },
+    {
         "heroId": "monster_hunter_waterpipe",
         "name": "Waterpipe",
         "effects": [
@@ -14629,7 +14638,7 @@ const allTranslations =
         "effects": [
             "Destroys all Fiends from all allies and damages all Mega Fiends.",
             "Recovers 50% health for all allies.",
-            "At the end of each turn, all allies shot an Astral Beam at a random enemy for 4 turns.",
+            "At the end of each turn, all allies shoot an Astral Beam at a random enemy for 4 turns.",
             "Each Astral Beam deals 100% damage.",
             "Each Astral Beam reduces the Max Health of the hit enemy by 100."
         ]
@@ -18635,11 +18644,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "wild_cat_vora",
-        "name": "Vora",
-        "effects": []
     },
     {
         "heroId": "forsaken_vermis",

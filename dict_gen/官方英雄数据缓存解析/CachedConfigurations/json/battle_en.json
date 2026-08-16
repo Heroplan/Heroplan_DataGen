@@ -63921,7 +63921,7 @@
               "ReplaceSameStatusEffect"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 650,
+            "fixedPower": 1050,
             "fixedPowerIncrementPerLevel": 50
           }
         ],
@@ -98462,5 +98462,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 950385157
+  "battleConfigId": 1083485128
 }

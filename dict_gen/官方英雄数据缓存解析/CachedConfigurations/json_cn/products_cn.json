@@ -232,7 +232,7 @@
         "id": "lottery_featured_event_farmland",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 197,
+        "uiPriority": 209,
         "associatedEvent": "RecurringFarmland",
         "bonusChest": "beowulf_chest",
         "bonusChestRequirement": 5,
@@ -2187,7 +2187,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 199,
+        "uiPriority": 207,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2265,7 +2265,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 166,
+        "uiPriority": 205,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -15239,6 +15239,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15252,6 +15253,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3_bonus",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15510,6 +15512,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.emblemoffermega_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15578,6 +15581,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.emblemoffermega_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15903,6 +15907,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_ascension_4",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21711,9 +21716,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_untold_tales_coin",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
+            "id": "lottery_costume_key",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -21731,14 +21736,14 @@
           },
           {
             "type": "Item",
-            "id": "lottery_mimic_coin",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 35
+            "id": "lottery_item_limit_break",
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "lottery_costume_key",
-            "amount": 5
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -21756,9 +21761,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_untold_tales_coin",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 50
+            "id": "lottery_challenge_coin",
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           },
           {
             "type": "Item",
@@ -21781,15 +21786,14 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_mercenary_war_coin",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
+            "id": "lottery_challenge_coin",
+            "amount": 10,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
-            "id": "lottery_mimic_coin",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
+            "id": "lottery_item_limit_break",
+            "amount": 10
           },
           {
             "type": "Item",
@@ -21805,7 +21809,8 @@
           {
             "type": "Item",
             "id": "lottery_costume_key",
-            "amount": 5
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -56331,7 +56336,7 @@
         "id": "lottery_goblin_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 200,
+        "uiPriority": 206,
         "associatedEvent": "Goblin"
       },
       {
@@ -58836,5 +58841,5 @@
       }
     ]
   },
-  "productsConfigId": 578934039
+  "productsConfigId": 3827903869
 }

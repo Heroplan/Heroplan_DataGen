@@ -49657,5 +49657,25 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Vora",
+        "fancy name": "Elder Lynx of the Whispering Peaks",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "very_slow",
+        "Release date": "2026-08-16",
+        "AetherPower": "Regen",
+        "heroId": "wild_cat_vora",
+        "baseAttack": 679,
+        "baseDefense": 670,
+        "baseHealth": 1227,
+        "specialId": "absolute_stillness",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];

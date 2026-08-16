@@ -2982,5 +2982,8 @@
     "^\\*\\s+When\\s+summoned,\\s+the\\s+Butterfly\\s+Fiend\\s+gives\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for\\s+its\\s+target\\s+for\\s+as\\s+long\\s+as\\s+the\\s+owner\\s+has\\s+Butterfly\\s+Fiends\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "* 蝴蝶恶魔被召唤后，只要其所有者拥有蝴蝶恶魔，其所有者就会获得 \\1 精准度。此效果无法净化。",
     "^Dance\\s+of\\s+the\\s+Slimy:$": "黏液之舞：",
     "^Deals([+-]?\\s*\\d+\\s*%?)([+-]?\\s*\\d+\\s*%?)damage\\s+to\\s+all\\s+enemies\\s+after([+-]?\\s*\\d+\\s*%?)turns,\\s+based\\s+on\\s+the\\s+damage\\s+the\\s+caster\\s+had\\s+taken\\s+while\\s+this\\s+effect\\s+was\\s+active\\.?\\s*$": "\\3回合后，根据此效果有效期间施法者的所受伤害，对所有敌人造成\\1\\2点伤害。",
-    "^\\*\\s+All\\s+allies\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有盟友攻击时无视防御增益，持续\\1回合。"
+    "^\\*\\s+All\\s+allies\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有盟友攻击时无视防御增益，持续\\1回合。",
+    "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buffs\\.?\\s*$": "安全驱散所有敌人的增益效果，每驱散一个增益效果，便为所有盟友增加\\1的法力。",
+    "^Safely\\s+cleanse\\s+all\\s+Status\\s+ailments\\s+from\\s+all\\s+allies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+cleansed\\s+ailment\\.?\\s*$": "安全净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加\\1。",
+    "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+all\\s+allies\\s+shoot\\s+an\\s+Astral\\s+Beam\\s+at\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合结束时，所有盟友向一名随机敌人发射一道星体光束，持续\\1回合。"
 }

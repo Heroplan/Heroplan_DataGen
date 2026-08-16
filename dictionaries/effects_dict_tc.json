@@ -2979,5 +2979,8 @@
     "^\\*\\s+When\\s+summoned,\\s+the\\s+Butterfly\\s+Fiend\\s+gives\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for\\s+its\\s+target\\s+for\\s+as\\s+long\\s+as\\s+the\\s+owner\\s+has\\s+Butterfly\\s+Fiends\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "* 召喚蝴蝶惡魔之後，主人擁有蝴蝶惡魔期間，蝴蝶惡魔為主人提供 \\1 精準度。此效果無法淨化。",
     "^Dance\\s+of\\s+the\\s+Slimy:$": "黏膩之舞：",
     "^Deals([+-]?\\s*\\d+\\s*%?)([+-]?\\s*\\d+\\s*%?)damage\\s+to\\s+all\\s+enemies\\s+after([+-]?\\s*\\d+\\s*%?)turns,\\s+based\\s+on\\s+the\\s+damage\\s+the\\s+caster\\s+had\\s+taken\\s+while\\s+this\\s+effect\\s+was\\s+active\\.?\\s*$": "\\3回合後，根據此效果有效期間施法者的所受傷害，對所有敵人造成\\1\\2點傷害。",
-    "^\\*\\s+All\\s+allies\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有盟友攻擊時無視防禦增益，持續\\1回合。"
+    "^\\*\\s+All\\s+allies\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有盟友攻擊時無視防禦增益，持續\\1回合。",
+    "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buffs\\.?\\s*$": "安全驅散所有敵人的增益，每移除一個增益，所有盟友的法力增加\\1。",
+    "^Safely\\s+cleanse\\s+all\\s+Status\\s+ailments\\s+from\\s+all\\s+allies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+cleansed\\s+ailment\\.?\\s*$": "安全淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力\\1。",
+    "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+all\\s+allies\\s+shoot\\s+an\\s+Astral\\s+Beam\\s+at\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合結束時，所有盟友對隨機敵人發出星界射線，持續\\1個回合。"
 }
