@@ -49677,5 +49677,25 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Vermis",
+        "fancy name": "The Worm King",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2026-08-17",
+        "AetherPower": "Fiend Resist",
+        "heroId": "forsaken_vermis",
+        "baseAttack": 646,
+        "baseDefense": 683,
+        "baseHealth": 1286,
+        "specialId": "mysteries_of_the_worm",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
+        ],
+        "family": "forsaken"
     }
 ];

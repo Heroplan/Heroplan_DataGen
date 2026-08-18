@@ -115271,6 +115271,81 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Vermis",
+        "fancy_name": "The Worm King",
+        "AetherPower": "Fiend Resist",
+        "color": "Holy",
+        "class": "Cleric",
+        "speed": "Fast",
+        "skill": "Mysteries of the Worm",
+        "source": "Shadow Summon",
+        "Release date": "2026-08-17",
+        "specialId": "mysteries_of_the_worm",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "forsaken_vermis",
+        "star": 5,
+        "power": 1355,
+        "attack": 1330,
+        "defense": 1406,
+        "health": 2649,
+        "effects": [
+            "Safely dispels buffs from all enemies and increases all allies' mana by 3% for each removed buff. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "The target turns into a Mindworm. Mindworms have 70% attack, 70% defense and the following Special Skill:",
+            "One of Us (Very Fast)",
+            "* Inflicts 75 Insanity on one random ally.",
+            "* Removes the mind Mindworm ailment from the caster. (This effect lasts until it is cleansed, replaced or removed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
+        ],
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
+            "The Eldritch Host has",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
+            "Special Skill - Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
+        ],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 1871,
+        "lb1": {
+            "attack": 1434,
+            "defense": 1516,
+            "health": 2854,
+            "power": 1450
+        },
+        "lb2": {
+            "attack": 1640,
+            "defense": 1734,
+            "health": 3266,
+            "power": 1641
+        },
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Vivica",
         "fancy_name": "Scholar Supreme",
         "AetherPower": "Defense Up",
@@ -115296,7 +115371,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1871,
+        "originalIndex": 1872,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -115355,7 +115430,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1872,
+        "originalIndex": 1873,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -115414,7 +115489,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1873,
+        "originalIndex": 1874,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -115477,7 +115552,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1874,
+        "originalIndex": 1875,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -115541,7 +115616,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1875,
+        "originalIndex": 1876,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -115605,7 +115680,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1876,
+        "originalIndex": 1877,
         "lb1": {
             "attack": 1446,
             "defense": 1476,
@@ -115666,7 +115741,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1877,
+        "originalIndex": 1878,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -115735,7 +115810,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1878,
+        "originalIndex": 1879,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -115805,7 +115880,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1879,
+        "originalIndex": 1880,
         "lb1": {
             "attack": 1407,
             "defense": 1429,
@@ -115863,7 +115938,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1880,
+        "originalIndex": 1881,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -115920,7 +115995,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1881,
+        "originalIndex": 1882,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -115984,7 +116059,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1882,
+        "originalIndex": 1883,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -116055,7 +116130,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1883,
+        "originalIndex": 1884,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -116113,7 +116188,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1884,
+        "originalIndex": 1885,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -116175,7 +116250,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1885,
+        "originalIndex": 1886,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -116242,7 +116317,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1886,
+        "originalIndex": 1887,
         "lb1": {
             "attack": 1369,
             "defense": 1434,
@@ -116300,7 +116375,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1887,
+        "originalIndex": 1888,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -116367,7 +116442,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1888,
+        "originalIndex": 1889,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -116435,7 +116510,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1889,
+        "originalIndex": 1890,
         "lb1": {
             "attack": 1500,
             "defense": 1384,
@@ -116497,7 +116572,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1890,
+        "originalIndex": 1891,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -116565,7 +116640,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1891,
+        "originalIndex": 1892,
         "lb1": {
             "attack": 1323,
             "defense": 1402,
@@ -116633,7 +116708,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1892,
+        "originalIndex": 1893,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -116692,7 +116767,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1893,
+        "originalIndex": 1894,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -116759,7 +116834,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1894,
+        "originalIndex": 1895,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -116823,7 +116898,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1895,
+        "originalIndex": 1896,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -116890,7 +116965,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1896,
+        "originalIndex": 1897,
         "lb1": {
             "attack": 1507,
             "defense": 1520,
@@ -116948,7 +117023,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1897,
+        "originalIndex": 1898,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -117009,7 +117084,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1898,
+        "originalIndex": 1899,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -117068,7 +117143,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1899,
+        "originalIndex": 1900,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -117131,7 +117206,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1900,
+        "originalIndex": 1901,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -117191,7 +117266,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1901,
+        "originalIndex": 1902,
         "lb1": {
             "attack": 1425,
             "defense": 1474,
@@ -117251,7 +117326,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1902,
+        "originalIndex": 1903,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -117282,30 +117357,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Vermis",
-        "fancy_name": "The Worm King",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "forsaken_vermis",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "forsaken",
-        "costume_id": 0,
-        "originalIndex": 1903,
-        "cn_skill_info": []
     },
     {
         "name": "Boom & Fang C",

@@ -27060,27 +27060,28 @@
         "id": "com.smallgiantgames.empires.summoning_bonanza_50",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
+            "id": "lottery_shadow_coin",
             "amount": 500
           },
           {
             "type": "Item",
-            "id": "lottery_costume_key",
-            "amount": 25
+            "id": "lottery_wilderness_coin",
+            "amount": 500
+          },
+          {
+            "type": "Item",
+            "id": "lottery_alliance_coin",
+            "amount": 50
           },
           {
             "type": "Item",
             "id": "lottery_pickup_coin",
             "amount": 500
-          },
-          {
-            "type": "Item",
-            "id": "lottery_elite_hero",
-            "amount": 5
           },
           {
             "type": "Item",
@@ -58841,5 +58842,5 @@
       }
     ]
   },
-  "productsConfigId": 3827903869
+  "productsConfigId": 3715099431
 }

@@ -14393,6 +14393,21 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
+            "The Eldritch Host has",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
+            "Special Skill - Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "passives": []
@@ -14650,11 +14665,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "forsaken_vermis",
-        "name": "Vermis",
-        "passives": []
     },
     {
         "heroId": "goblin_boom_and_fang_costume_poisonous",

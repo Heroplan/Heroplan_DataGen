@@ -70434,7 +70434,17 @@
         "id": "league_mana_generation_modifier_non_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "modifierPerMil": 700
+        "modifierPerMil": 700,
+        "requiredSources": [
+          "Troop",
+          "SpecialSkill",
+          "StatusEffect",
+          "Familiar",
+          "PassiveSkill",
+          "Realm",
+          "Family",
+          "NpcTurnManaAddition"
+        ]
       },
       {
         "passiveSkillType": "HealModifier",
@@ -89741,7 +89751,7 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1900
+            "multiplierPerMil": 2000
           },
           {
             "type": "DefenseMultiplier",
@@ -89764,7 +89774,7 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 2100
+            "multiplierPerMil": 2200
           },
           {
             "type": "DefenseMultiplier",
@@ -89787,7 +89797,7 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2500
           },
           {
             "type": "DefenseMultiplier",
@@ -98462,5 +98472,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1083485128
+  "battleConfigId": 2661786388
 }

@@ -18335,6 +18335,18 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "effects": [
+            "Safely dispels buffs from all enemies and increases all allies' mana by 3% for each removed buff. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "The target turns into a Mindworm. Mindworms have 70% attack, 70% defense and the following Special Skill:",
+            "One of Us (Very Fast)",
+            "* Inflicts 75 Insanity on one random ally.",
+            "* Removes the mind Mindworm ailment from the caster. (This effect lasts until it is cleansed, replaced or removed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "effects": [
@@ -18644,11 +18656,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "forsaken_vermis",
-        "name": "Vermis",
-        "effects": []
     },
     {
         "heroId": "goblin_boom_and_fang_costume_poisonous",

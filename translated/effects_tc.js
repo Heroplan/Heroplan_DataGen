@@ -18335,6 +18335,18 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "forsaken_vermis",
+        "name": "Vermis",
+        "effects": [
+            "安全驅散所有敵人的增益，每移除一個增益，所有盟友的法力增加 3%。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "目標變成心靈蠕蟲。心靈蠕蟲有 70% 攻擊、 70% 防禦與以下特殊技能：",
+            "我方一員。（非常快）",
+            "* 對一名隨機盟友施加 75 點瘋狂。",
+            "* 移除施法者的心靈蠕蟲異常。（此效果會持續到被淨化、替代或移除為止。頭目、泰坦和神話泰坦不受此狀態效果影響。）",
+            "對施法者造成 45 點瘋狂。"
+        ]
+    },
+    {
         "heroId": "oriental_female_mystic",
         "name": "Vivica",
         "effects": [
@@ -18644,11 +18656,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "forsaken_vermis",
-        "name": "Vermis",
-        "effects": []
     },
     {
         "heroId": "goblin_boom_and_fang_costume_poisonous",

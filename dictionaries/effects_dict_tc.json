@@ -2982,5 +2982,11 @@
     "^\\*\\s+All\\s+allies\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有盟友攻擊時無視防禦增益，持續\\1回合。",
     "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buffs\\.?\\s*$": "安全驅散所有敵人的增益，每移除一個增益，所有盟友的法力增加\\1。",
     "^Safely\\s+cleanse\\s+all\\s+Status\\s+ailments\\s+from\\s+all\\s+allies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+cleansed\\s+ailment\\.?\\s*$": "安全淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力\\1。",
-    "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+all\\s+allies\\s+shoot\\s+an\\s+Astral\\s+Beam\\s+at\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合結束時，所有盟友對隨機敵人發出星界射線，持續\\1個回合。"
+    "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+all\\s+allies\\s+shoot\\s+an\\s+Astral\\s+Beam\\s+at\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合結束時，所有盟友對隨機敵人發出星界射線，持續\\1個回合。",
+    "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buff\\.?\\s*$": "安全驅散所有敵人的增益，每移除一個增益，所有盟友的法力增加\\1。",
+    "^The\\s+target\\s+turns\\s+into\\s+a\\s+Mindworm\\.?\\s*\\s+Mindworms\\s+have([+-]?\\s*\\d+\\s*%?)\\s+attack,([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+and\\s+the\\s+following\\s+Special\\s+Skill:$": "目標變成心靈蠕蟲。心靈蠕蟲有\\1攻擊、\\2防禦與以下特殊技能：",
+    "^One\\s+of\\s+Us$": "我方一員。",
+    "^\\*\\s+Inflicts([+-]?\\s*\\d+\\s*%?)Insanity\\s+on\\s+one\\s+random\\s+ally\\.?\\s*$": "* 對一名隨機盟友施加\\1點瘋狂。",
+    "^\\*\\s+Removes\\s+the\\s+mind\\s+Mindworm\\s+ailment\\s+from\\s+the\\s+caster\\.?\\s*$": "* 移除施法者的心靈蠕蟲異常。",
+    "^\\(This\\s+effect\\s+lasts\\s+until\\s+it\\s+is\\s+cleansed,\\s+replaced\\s+or\\s+removed\\.?\\s*\\s+Bosses,\\s+Titans\\s+and\\s+Mythic\\s+Titans\\s+are\\s+not\\s+affected\\s+by\\s+this\\s+status\\s+effect\\.?\\s*\\)$": "（此效果會持續到被淨化、替代或移除為止。頭目、泰坦和神話泰坦不受此狀態效果影響。）"
 }

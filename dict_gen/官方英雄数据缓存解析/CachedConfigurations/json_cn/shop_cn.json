@@ -32913,16 +32913,8 @@
         "id": "dynamic_offer_53_norns",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15c",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "offer_dynamic_free_q",
-            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -57520,6 +57512,17 @@
             ]
           },
           {
+            "activationTime": "2026-08-17 10:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 90,
+                "zyngaStoreExtraAmount": 15
+              }
+            ]
+          },
+          {
             "activationTime": "2026-08-20 07:00:00",
             "contents": [
               {
@@ -73239,6 +73242,27 @@
         "scheduledManually": true,
         "startTime": "2026-08-17 07:00:00",
         "endTime": "2026-08-22 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_53_norns",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-17 10:30:00",
+        "endTime": "2026-08-18 06:30:00"
+      },
+      {
+        "id": "summoning_bonanza_50",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-17 10:30:00",
+        "endTime": "2026-08-18 07:00:00"
+      },
+      {
+        "id": "titanhunter_b",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-08-17 10:30:00",
+        "endTime": "2026-08-18 07:00:00"
       },
       {
         "id": "dynamic_offer_36_yellow_eloise",
@@ -103838,5 +103862,5 @@
       ]
     }
   },
-  "shopConfigId": 2780205176
+  "shopConfigId": 1137509888
 }

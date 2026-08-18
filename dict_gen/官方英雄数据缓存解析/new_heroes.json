@@ -1,29 +1,5 @@
 [
     {
-        "name": "Vora",
-        "fancy_name": "Elder Lynx of the Whispering Peaks",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-16 07:00:00",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_vora",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Vermis",
-        "fancy_name": "The Worm King",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-17 07:00:00",
-        "star": 5,
-        "family": "forsaken",
-        "costume_id": 0,
-        "heroId": "forsaken_vermis",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Boom & Fang C",
         "fancy_name": "Duo of Furious Skulls",
         "color": "Green",
