@@ -1,29 +1,5 @@
 [
     {
-        "name": "Boom & Fang C",
-        "fancy_name": "Duo of Furious Skulls",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-19 07:00:00",
-        "star": 5,
-        "family": "goblin",
-        "costume_id": 1,
-        "heroId": "goblin_boom_and_fang_costume_poisonous",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Sheppard",
-        "fancy_name": "Slippery Kiddo",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-19 07:00:00",
-        "star": 5,
-        "family": "shady_scoundrels",
-        "costume_id": 0,
-        "heroId": "scoundrel_sheppard",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Niso",
         "fancy_name": "Asymmetric Security Construct",
         "color": "Purple",

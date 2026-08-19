@@ -28539,28 +28539,28 @@
         "id": "dynamic_offer_11_yellow_justice",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_100",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3",
+            "id": "com.smallgiantgames.empires.dynamic_3c",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
+            "id": "com.smallgiantgames.empires.dynamic_5b",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_8",
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_30d",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -33175,20 +33175,20 @@
         "id": "dynamic_offer_63_construct_shacklebolt",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5d",
-            "purchaseLimit": 2
-          },
-          {
             "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20f",
+            "id": "com.smallgiantgames.empires.dynamic_17",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_29",
+            "id": "com.smallgiantgames.empires.dynamic_8",
             "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10d",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -47730,6 +47730,47 @@
                 "zyngaStoreExtraAmount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2026-08-18 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_tome_of_tactics",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_damascus_blade",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_farsight_telescope",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_warm_cape",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-19 11:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 400
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
           }
         ]
       },
@@ -48875,6 +48916,31 @@
                 "type": "Gem",
                 "amount": 3000,
                 "zyngaStoreExtraAmount": 400
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-19 11:15:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 2000,
+                "zyngaStoreExtraAmount": 300
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pvp_full",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_alliance_full",
+                "amount": 10
               }
             ]
           }
@@ -51758,6 +51824,17 @@
                 "type": "Item",
                 "id": "relic_level_up_xp_multiplier",
                 "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-18 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 15,
+                "zyngaStoreExtraAmount": 2
               }
             ]
           }
@@ -55210,6 +55287,22 @@
                 "zyngaStoreExtraAmount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2026-08-18 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 100
+              }
+            ]
           }
         ]
       },
@@ -57519,6 +57612,67 @@
                 "id": "lottery_alliance_coin",
                 "amount": 90,
                 "zyngaStoreExtraAmount": 15
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-18 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "misc_free_talent_point",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-19 11:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_blue",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_green",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_red",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_purple",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_yellow",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 10
               }
             ]
           },
@@ -61291,6 +61445,22 @@
                 "type": "Hero",
                 "id": "trainer_purple_rare",
                 "amount": 12
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-18 09:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 10
               }
             ]
           }
@@ -65106,6 +65276,70 @@
                 "id": "refill_energy_pve_full",
                 "amount": 20,
                 "zyngaStoreExtraAmount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-18 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 30
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 300
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-19 11:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_goblin_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_limit_break",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 2
               }
             ]
           }
@@ -73326,6 +73560,20 @@
         "endTime": "2026-08-22 07:00:00"
       },
       {
+        "id": "dynamic_offer_11_yellow_justice",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-18 09:30:00",
+        "endTime": "2026-08-19 06:30:00"
+      },
+      {
+        "id": "step_up_nature",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-08-18 09:30:00",
+        "endTime": "2026-08-19 07:00:00"
+      },
+      {
         "id": "dynamic_offer_38_green_elradir",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -73342,6 +73590,13 @@
       {
         "id": "com.smallgiantgames.empires.limitbreakaether_nature",
         "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2026-08-19 07:00:00",
+        "endTime": "2026-08-20 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.selectable_ascension_4",
+        "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2026-08-19 07:00:00",
         "endTime": "2026-08-20 07:00:00"
@@ -73380,6 +73635,13 @@
         "scheduledManually": true,
         "startTime": "2026-08-19 07:00:00",
         "endTime": "2026-08-23 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_63_construct_shacklebolt",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-19 11:15:00",
+        "endTime": "2026-08-20 06:30:00"
       },
       {
         "id": "dynamic_offer_42_blue_klaern",
@@ -81287,10 +81549,10 @@
               "featuredHeroes": [
                 "construct_niso",
                 "construct_sylosis",
-                "construct_tengo",
+                "construct_dancrag",
+                "ghost_hua_pi_gui",
                 "astral_demon_madarika",
-                "beauty_beast_rose_de_flo",
-                "ghost_hei_wu_chang"
+                "tales2_hreidmarr_costume_trader"
               ]
             },
             {
@@ -103862,5 +104124,5 @@
       ]
     }
   },
-  "shopConfigId": 1137509888
+  "shopConfigId": 1613183977
 }

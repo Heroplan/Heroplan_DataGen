@@ -5164,6 +5164,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C1",
+        "effects": [
+            "召唤一个白野猪超级小兵，其可从施法者处继承 70% 生命值和 320% 攻击力。",
+            "白野猪超级小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 150% 作出反击。此效果无法驱散。",
+            "衰退：白野猪超级小兵的每次攻击都会使目标 -100 防御力。"
+        ]
+    },
+    {
         "heroId": "titan_hunter_borgholf",
         "name": "Borgholf",
         "effects": [
@@ -18098,6 +18107,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "effects": [
+            "对目标及附近敌人造成 225% 伤害。",
+            "偷取目标及附近敌人的全部可驱散增益，并随机施放给盟友。",
+            "从目标和附近敌人身上偷取 10% 法力，并分配给盟友。（在单个回合内，当一名角色已经从特殊技能获得了 5 次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+            "施法者偷取目标及其附近敌人所获治疗的 60% ,持续 2 回合。"
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "effects": [
@@ -18656,16 +18675,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "goblin_boom_and_fang_costume_poisonous",
-        "name": "Boom & Fang C",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_sheppard",
-        "name": "Sheppard",
-        "effects": []
     },
     {
         "heroId": "construct_niso",

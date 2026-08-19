@@ -4016,6 +4016,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C1",
+        "passives": [
+            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
+            "* 对所有敌人造成 90% 的伤害。",
+            "* 所有敌人获得 -25% 的精准度，持续 3 回合。",
+            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。"
+        ]
+    },
+    {
         "heroId": "titan_hunter_borgholf",
         "name": "Borgholf",
         "passives": [
@@ -14212,6 +14222,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "passives": [
+            "盗贼的良机：每回合开始时，该角色会掠夺一名随机敌人。",
+            "掠夺：",
+            "* 偷取 100 点生命值。",
+            "* 安全地窃取目标的一个增益。包括顽固效果、不可驱散的增益与舞蹈效果。",
+            "死里逃生：该角色第一次受到致命伤害时，将该伤害会转移至一个随机敌在包含多波敌人的战斗中，该效果会在每一波开始时刷新。"
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "passives": [
@@ -14665,16 +14686,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "goblin_boom_and_fang_costume_poisonous",
-        "name": "Boom & Fang C",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_sheppard",
-        "name": "Sheppard",
-        "passives": []
     },
     {
         "heroId": "construct_niso",

@@ -63248,7 +63248,7 @@
         "effect": "Damage",
         "effectTargetType": "All",
         "sideAffected": "Enemies",
-        "fixedEffectPower": 500,
+        "fixedEffectPower": 350,
         "fixedEffectPowerIncrementPerLevel": 50
       },
       {
@@ -98472,5 +98472,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2661786388
+  "battleConfigId": 390426528
 }

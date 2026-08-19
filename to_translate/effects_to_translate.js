@@ -5164,6 +5164,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C1",
+        "effects": [
+            "Summons a White Boar Mega Minion with 70% HP and 320% attack inherited from the caster.",
+            "When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 150% of the received damage as long as the owner has a White Boar Mega Minion. This effect can't be dispelled.",
+            "Wither: Each hit from the White Boar Mega Minion gives its target -100 defense."
+        ]
+    },
+    {
         "heroId": "titan_hunter_borgholf",
         "name": "Borgholf",
         "effects": [
@@ -18098,6 +18107,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "effects": [
+            "Deals 225% damage to the target and nearby enemies.",
+            "Steals all dispellable buffs from the target and nearby enemies and randomly distributes them on allies.",
+            "Steals 10% mana from the target and nearby enemies and randomly distributes them on allies. (After a character received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "The caster steals 60% of any healing applied to the target an nearby enemies for 2 turns."
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "effects": [
@@ -18656,16 +18675,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "goblin_boom_and_fang_costume_poisonous",
-        "name": "Boom & Fang C",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_sheppard",
-        "name": "Sheppard",
-        "effects": []
     },
     {
         "heroId": "construct_niso",

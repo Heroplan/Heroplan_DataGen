@@ -5164,6 +5164,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C1",
+        "effects": [
+            "召喚一個白野豬超級小兵，其可從施法者繼承 70% 生命與 320% 攻擊。",
+            "召喚白野豬超級小兵之後，主人擁有白野豬超級小兵期間，白野豬超級小兵會給予其主人以所受傷害 150% 的反擊能力。此效果無法驅散。",
+            "枯萎：白野豬超級小兵每次攻擊都會使其目標獲得 -100 防禦。"
+        ]
+    },
+    {
         "heroId": "titan_hunter_borgholf",
         "name": "Borgholf",
         "effects": [
@@ -18098,6 +18107,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "effects": [
+            "對目標與附近敵人造成 225% 傷害。",
+            "竊取目標及鄰近敵人的全部可驅散增益並隨機分配給所有盟友。",
+            "自目標與附近敵人身上偷取 10% 法力，並分給盟友。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "施法者偷取目標及所有附近敵人所獲治療的 60%，持續 2 個回合。"
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "effects": [
@@ -18656,16 +18675,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "goblin_boom_and_fang_costume_poisonous",
-        "name": "Boom & Fang C",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_sheppard",
-        "name": "Sheppard",
-        "effects": []
     },
     {
         "heroId": "construct_niso",

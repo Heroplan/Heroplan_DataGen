@@ -49697,5 +49697,52 @@ window.allHeroesExtra = [
             "corrupt_minions_all_enemies"
         ],
         "family": "forsaken"
+    },
+    {
+        "name": "Boom & Fang costume1",
+        "fancy name": "Duo of Furious Skulls",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-08-19",
+        "AetherPower": "Special Armor",
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "baseAttack": 431,
+        "baseDefense": 470,
+        "baseHealth": 846,
+        "specialId": "boar_call",
+        "specialId_costume": "boar_fury",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "attackBonus": "50%",
+        "defenseBonus": "49%",
+        "healthBonus": "48%",
+        "manaBonus": "5%",
+        "family": "goblin"
+    },
+    {
+        "name": "Sheppard",
+        "fancy name": "Slippery Kiddo",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
+        "Release date": "2026-08-19",
+        "AetherPower": "Heal Increase",
+        "heroId": "scoundrel_sheppard",
+        "baseAttack": 680,
+        "baseDefense": 685,
+        "baseHealth": 1197,
+        "specialId": "blink_of_an_eye",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "family": "shady_scoundrels"
     }
 ];

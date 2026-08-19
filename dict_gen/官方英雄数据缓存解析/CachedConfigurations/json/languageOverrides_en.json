@@ -86,6 +86,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] di rigenerazione mana."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Ruba il {ABSPOWER}% di mana al bersaglio e ai nemici vicini e lo distribuisce agli alleati."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Il bersaglio riceve una [#!]Bomba pestilenziale[#]. La [#!]Bomba pestilenziale[#] esplode dopo [#!]{TURNS}[#] turni e infligge [#!]{FIXEDPOWER}[#] danni al bersaglio e agli alleati vicini."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Bomba pestilenziale[#]: il proprietario e gli alleati vicini subiscono [#!]{DAMAGE}[#] danni dopo [#!]{TURNSLEFT}[#] turni. La [#!]Bomba pestilenziale[#] si attiva anche se viene sostituita o se il proprietario viene sconfitto."
           }
         ]
       },
@@ -170,6 +182,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] генерации маны."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Цель получает эффект [#!]Зловонной бомбы[#]. [#!]Зловонная бомба[#] взрывается через [#!]{TURNS}[#] х. и наносит цели и соседним союзникам [#!]{FIXEDPOWER}[#] ед. урона."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Зловонная бомба[#]: персонаж и ближайшие союзники получают [#!]{DAMAGE}[#] ед. урона после [#!]{TURNSLEFT}[#] х. [#!]Зловонная бомба[#] также активируется, если заменить ее или победить владельца."
           }
         ]
       },
@@ -250,6 +274,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] regeneracji many."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Cel otrzymuje [#!]śmierdzącą bombę[#]. [#!]Śmierdząca bomba[#] wybucha po [#!]{TURNS}[#] turach i zadaje [#!]{FIXEDPOWER}[#] obrażeń celowi i pobliskim sojusznikom."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Śmierdząca bomba[#]: Posiadacz i pobliscy sojusznicy otrzymują [#!]{DAMAGE}[#] pkt. obrażeń po upływie [#!]{TURNSLEFT}[#] tur. [#!]Śmierdząca bomba[#] aktywuje się również, jeżeli zostanie zastąpiona lub posiadacz zostanie pokonany."
           }
         ]
       },
@@ -322,6 +358,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#]法力產出。"
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "自目標與附近敵人身上偷取{ABSPOWER}%法力，並分給盟友。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "目標遭受[#!]刺鼻炸彈[#]。[#!]刺鼻炸彈[#]會在[#!]{TURNS}[#]回合後爆炸，並對目標及附近盟友造成[#!]{FIXEDPOWER}[#]點傷害。"
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]刺鼻炸彈[#]：炸彈持有者和附近盟友在[#!]{TURNSLEFT}[#]回合後受到[#!]{DAMAGE}[#]點傷害。若被替代或擁有者被擊敗，[#!]刺鼻炸彈[#]也會啟動。"
           }
         ]
       },
@@ -422,6 +470,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] 마나 재생력."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 분배합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "대상이 [#!]악취 폭탄[#]을 받습니다. [#!]악취 폭탄[#]은 [#!]{TURNS}[#]턴 후 폭발하여 대상과 주변 아군에게 [#!]{FIXEDPOWER}[#]의 피해를 줍니다."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]악취 폭탄[#]: [#!]{TURNSLEFT}[#]턴 후 보유자와 주변 아군이 [#!]{DAMAGE}[#]의 피해를 받습니다. [#!]악취 폭탄[#]은 다른 효과로 교체되거나 보유자가 쓰러진 경우에도 발동합니다."
           }
         ]
       },
@@ -514,6 +574,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] Manaregeneration."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stiehlt {ABSPOWER} % Mana vom Ziel und nahen Gegnern und verteilt es auf Verbündete."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Das Ziel erhält eine [#!]Stinkbombe[#]. Die [#!]Stinkbombe[#] explodiert nach [#!]{TURNS}[#] Zügen und fügt dem Ziel und Verbündeten in der Nähe [#!]{FIXEDPOWER}[#] Schaden zu."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Stinkbombe[#]: Der Besitzer und nahe Verbündete erleiden [#!]{DAMAGE}[#] Schaden nach [#!]{TURNSLEFT}[#] Runden. Die [#!]Stinkbombe[#] wird auch dann aktiviert, wenn sie ersetzt oder der Besitzer besiegt wird."
           }
         ]
       },
@@ -590,6 +662,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "マナ生成が[#!]{MODIFIER}%[#]になる。"
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "ターゲットと近くにいる敵からマナを{ABSPOWER}%盗み、仲間に分配する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "ターゲットに[#!]悪臭爆弾[#]が付与される。[#!]悪臭爆弾[#]は[#!]{TURNS}[#]ターンが経過すると爆発し、ターゲットとその近くにいる仲間に[#!]{FIXEDPOWER}[#]ダメージを与える。"
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]悪臭爆弾[#]：所持者と近くにいる仲間が、[#!]{TURNSLEFT}[#]ターン後に[#!]{DAMAGE}[#]ダメージを受ける。[#!]悪臭爆弾[#]は置き換えられるか、所有者が倒された場合にも発動する。"
           }
         ]
       },
@@ -662,6 +746,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] manaskapande."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Målet får en [#!]stinkbomb[#]. [#!]Stinkbomben[#] exploderar efter [#!]{TURNS}[#] rundor och gör [#!]{FIXEDPOWER}[#] skada mot målet och allierade i närheten."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Stinkbomb[#]: Ägaren och allierade i närheten tar [#!]{DAMAGE}[#] skada efter [#!]{TURNSLEFT}[#] rundor. [#!]Stinkbomben[#] aktiveras också om den ersätts eller om ägaren besegras."
           }
         ]
       },
@@ -746,6 +842,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]%{MODIFIER}[#] mana üretimi."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve onu müttefiklere dağıtır."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Hedef bir [#!]Haşin Bomba[#] alır. [#!]Haşin Bomba[#], [#!]{TURNS}[#] tur sonra patlayarak hedefe ve yakındaki müttefiklere [#!]{FIXEDPOWER}[#] hasar verir."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Haşin Bomba[#]: Bu karakter ve yakındaki müttefikler, [#!]{TURNSLEFT}[#] tur sonra [#!]{DAMAGE}[#] hasar alır. [#!]Haşin Bomba[#], değiştirildiğinde veya sahibi yenilgiye uğradığında da etkinleşir."
           }
         ]
       },
@@ -822,6 +930,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] mana generation."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Steals {ABSPOWER}% mana from the target and nearby enemies and distributes it to allies."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "The target receives a [#!]Pungent Bomb[#]. [#!]Pungent Bomb[#] explodes after [#!]{TURNS}[#] turns and deals [#!]{FIXEDPOWER}[#] damage to the target and nearby allies."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Pungent Bomb[#]: The owner and nearby allies receive [#!]{DAMAGE}[#] damage after [#!]{TURNSLEFT}[#] turns. The [#!]Pungent Bomb[#] also activates if it is replaced or if the owner is defeated."
           }
         ]
       },
@@ -902,6 +1022,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] توليد قوة."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "تسرق {ABSPOWER}% من القوة من الهدف والأعداء القريبين، وتوزعها على الحلفاء."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "يتلقى الهدف [#!]قنبلة نفاذة[#]. تنفجر [#!]القنبلة النفاذة[#] بعد [#!]{TURNS}[#] من الجولات، وتُلحق [#!]{FIXEDPOWER}[#] من الضرر بالهدف والحلفاء القريبين."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]القنبلة النفاذة[#] يتلقى المالك والحلفاء القريبون منه [#!]{DAMAGE}[#] من الضرر بعد [#!]{TURNSLEFT}[#] من الجولات. تنشط [#!]القنبلة النفاذة[#] أيضًا إذا تم استبدالها أو عند هزيمة المالك."
           }
         ]
       },
@@ -974,6 +1106,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] de génération de mana."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Vole {ABSPOWER} % du mana de la cible et des ennemis proches et les distribue aux alliés."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "La cible obtient une [#!]bombe caustique[#]. La [#!]bombe caustique[#] explose au bout de [#!]{TURNS}[#] tours et inflige [#!]{FIXEDPOWER}[#] points de dégâts à la cible et aux alliés proches."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Bombe caustique[#] : son propriétaire et les alliés proches subissent [#!]{DAMAGE}[#] points de dégâts après [#!]{TURNSLEFT}[#] tours. La [#!]bombe caustique[#] s'active également si elle est remplacée ou si le propriétaire est vaincu."
           }
         ]
       },
@@ -1046,6 +1190,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] de geração de mana."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui entre os aliados."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "O alvo recebe uma [#!]bomba pungente[#]. A [#!]bomba pungente[#] explode após [#!]{TURNS}[#] turnos e causa [#!]{FIXEDPOWER}[#] de dano ao alvo e aos aliados próximos."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Bomba pungente[#]: o dono e os aliados próximos recebem [#!]{DAMAGE}[#] de dano após [#!]{TURNSLEFT}[#] turnos. A [#!]bomba pungente[#] também é ativada quando é substituída ou o dono é derrotado."
           }
         ]
       },
@@ -1118,6 +1274,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "Generasi mana [#!]{MODIFIER}%[#]."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Mencuri {ABSPOWER}% mana dari sasaran dan musuh terdekat dan membagikannya kepada sekutu."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Sasaran menerima [#!]Bom Bau Tajam[#]. [#!]Bom Bau Tajam[#] meledak setelah [#!]{TURNS}[#] giliran dan menimbulkan [#!]{FIXEDPOWER}[#] kerusakan pada sasaran dan sekutu terdekat."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Bom Bau Tajam[#]: Pemilik dan sekutu terdekat menerima [#!]{DAMAGE}[#] kerusakan setelah [#!]{TURNSLEFT}[#] giliran. [#!]Bom Bau Tajam[#] juga akan aktif jika diganti atau jika pemiliknya kalah."
           }
         ]
       },
@@ -1190,6 +1358,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] manatuotantoa."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Anastaa kohteelta ja lähellä olevilta vihollisilta {ABSPOWER} % manaa ja jakaa sen liittolaisille."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Kohde saa [#!]hajupommin[#]. [#!]Hajupommi[#] räjähtää [#!]{TURNS}[#] vuoron jälkeen ja tuottaa [#!]{FIXEDPOWER}[#] vauriota kohteelle ja lähellä oleville liittolaisille."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Hajupommi[#]: Omistaja ja lähellä olevat liittolaiset kärsivät [#!]{DAMAGE}[#] vauriota [#!]{TURNSLEFT}[#] vuoron jälkeen. [#!]Hajupommi[#] aktivoituu myös silloin, jos se korvataan tai sen omistaja kukistuu."
           }
         ]
       },
@@ -1262,6 +1442,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] managendannelse."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjæler {ABSPOWER} % mana fra målet og fjender i nærheden, og fordeler den blandt allierede."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Målet får en [#!]ubehagelig bombe[#]. [#!]Den ubehagelige bombe[#] eksploderer efter [#!]{TURNS}[#] runder og gør [#!]{FIXEDPOWER}[#] skade på målet og allierede i nærheden."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Den ubehagelige bombe[#]: Ejeren og allierede i nærheden påføres [#!]{DAMAGE}[#] skade efter [#!]{TURNSLEFT}[#] runder. [#!]Den ubehagelige bombe[#] aktiveres også, hvis den erstattes, eller hvis ejeren besejres."
           }
         ]
       },
@@ -1334,6 +1526,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] de regeneración de maná."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Roba un {ABSPOWER} % de maná del objetivo y los enemigos cercanos y lo distribuye entre los aliados."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "El objetivo recibe una [#!]bomba punzante[#] que explota tras [#!]{TURNS}[#] turnos e inflige [#!]{FIXEDPOWER}[#] de daño al objetivo y a los aliados cercanos."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Bomba punzante[#]: Su dueño y los aliados cercanos reciben [#!]{DAMAGE}[#] de daño después de [#!]{TURNSLEFT}[#] turnos. La [#!]bomba punzante[#] también se activa si se reemplaza o si el dueño cae derrotado."
           }
         ]
       },
@@ -1406,6 +1610,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] mana-generering."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Stjeler {ABSPOWER} % mana fra målet og fiender i nærheten, og fordeler det til allierte."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Målet får en [#!]skarp bombe[#]. [#!]Skarp bombe[#] eksploderer etter [#!]{TURNS}[#] runder og påfører [#!]{FIXEDPOWER}[#] skade på målet og allierte i nærheten."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Skarp bombe[#]: Eieren og allierte i nærheten tar [#!]{DAMAGE}[#] skade etter [#!]{TURNSLEFT}[#] runder. Den [#!]skarpe bomben[#] aktiveres også hvis den erstattes eller eieren beseires."
           }
         ]
       },
@@ -1478,6 +1694,18 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] manarecuperatie."
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het onder bondgenoten."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "Het doelwit krijgt een [#!]penetrante bom[#]. [#!]Penetrante bom[#] ontploft na [#!]{TURNS}[#] beurten en brengt [#!]{FIXEDPOWER}[#] schade toe aan het doelwit en bondgenoten in de buurt."
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]Penetrante bom[#]: de eigenaar en bondgenoten in de buurt lijden [#!]{DAMAGE}[#] schade na [#!]{TURNSLEFT}[#] beurten. De [#!]penetrante bom[#] wordt ook geactiveerd als deze wordt vervangen of als de eigenaar wordt verslagen."
           }
         ]
       },
@@ -1558,10 +1786,22 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#]法力生成。"
+          },
+          {
+            "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
+            "text": "从目标和附近敌人身上偷取{ABSPOWER}%法力，并分配给盟友。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "目标获得一个[#!]刺鼻炸弹[#]。[#!]刺鼻炸弹[#]在[#!]{TURNS}[#]回合后爆炸并对目标和附近盟友造成[#!]{FIXEDPOWER}[#]点伤害。"
+          },
+          {
+            "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
+            "text": "[#!]刺鼻炸弹[#]：[#!]{TURNSLEFT}[#]回合后，所有者及附近盟友受到[#!]{DAMAGE}[#]伤害。如被替换或所有者被击败，[#!]刺鼻炸弹[#]也会启动。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 1799747814
+  "languageOverridesConfigId": 2703876896
 }

@@ -4016,6 +4016,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_boom_and_fang_costume_poisonous",
+        "name": "Boom & Fang C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate."
+        ]
+    },
+    {
         "heroId": "titan_hunter_borgholf",
         "name": "Borgholf",
         "passives": [
@@ -14212,6 +14222,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "scoundrel_sheppard",
+        "name": "Sheppard",
+        "passives": [
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
+            "Ransack:",
+            "* Steals 100 health.",
+            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+        ]
+    },
+    {
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "passives": [
@@ -14665,16 +14686,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "goblin_boom_and_fang_costume_poisonous",
-        "name": "Boom & Fang C",
-        "passives": []
-    },
-    {
-        "heroId": "scoundrel_sheppard",
-        "name": "Sheppard",
-        "passives": []
     },
     {
         "heroId": "construct_niso",

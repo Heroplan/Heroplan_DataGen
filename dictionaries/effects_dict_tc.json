@@ -2984,9 +2984,13 @@
     "^Safely\\s+cleanse\\s+all\\s+Status\\s+ailments\\s+from\\s+all\\s+allies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+cleansed\\s+ailment\\.?\\s*$": "安全淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力\\1。",
     "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+all\\s+allies\\s+shoot\\s+an\\s+Astral\\s+Beam\\s+at\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合結束時，所有盟友對隨機敵人發出星界射線，持續\\1個回合。",
     "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buff\\.?\\s*$": "安全驅散所有敵人的增益，每移除一個增益，所有盟友的法力增加\\1。",
-    "^The\\s+target\\s+turns\\s+into\\s+a\\s+Mindworm\\.?\\s*\\s+Mindworms\\s+have([+-]?\\s*\\d+\\s*%?)\\s+attack,([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+and\\s+the\\s+following\\s+Special\\s+Skill:$": "目標變成心靈蠕蟲。心靈蠕蟲有\\1攻擊、\\2防禦與以下特殊技能：",
+    "^The\\s+target\\s+turns\\s+into\\s+a\\s+Mindworm\\.?\\s*\\s+Mindworms\\s+have([+-]?\\s*\\d+\\s*%?)\\s+attack,([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+and\\s+the\\s+following\\s+Special\\s+Skill:$": "目標變成心靈蠕蟲。心靈蠕蟲有\\1 攻擊、\\2 防禦與以下特殊技能：",
     "^One\\s+of\\s+Us$": "我方一員。",
     "^\\*\\s+Inflicts([+-]?\\s*\\d+\\s*%?)Insanity\\s+on\\s+one\\s+random\\s+ally\\.?\\s*$": "* 對一名隨機盟友施加\\1點瘋狂。",
     "^\\*\\s+Removes\\s+the\\s+mind\\s+Mindworm\\s+ailment\\s+from\\s+the\\s+caster\\.?\\s*$": "* 移除施法者的心靈蠕蟲異常。",
-    "^\\(This\\s+effect\\s+lasts\\s+until\\s+it\\s+is\\s+cleansed,\\s+replaced\\s+or\\s+removed\\.?\\s*\\s+Bosses,\\s+Titans\\s+and\\s+Mythic\\s+Titans\\s+are\\s+not\\s+affected\\s+by\\s+this\\s+status\\s+effect\\.?\\s*\\)$": "（此效果會持續到被淨化、替代或移除為止。頭目、泰坦和神話泰坦不受此狀態效果影響。）"
+    "^\\(This\\s+effect\\s+lasts\\s+until\\s+it\\s+is\\s+cleansed,\\s+replaced\\s+or\\s+removed\\.?\\s*\\s+Bosses,\\s+Titans\\s+and\\s+Mythic\\s+Titans\\s+are\\s+not\\s+affected\\s+by\\s+this\\s+status\\s+effect\\.?\\s*\\)$": "（此效果會持續到被淨化、替代或移除為止。頭目、泰坦和神話泰坦不受此狀態效果影響。）",
+    "^Wither:\\s+Each\\s+hit\\s+from\\s+the\\s+White\\s+Boar\\s+Mega\\s+Minion\\s+gives\\s+its\\s+target\\s+([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "枯萎：白野豬超級小兵每次攻擊都會使其目標獲得\\1防禦。",
+    "^Steals([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+from\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+and\\s+randomly\\s+distributes\\s+them\\s+on\\s+allies\\.?\\s*$": "自目標與附近敵人身上偷取\\1法力，並分給盟友。",
+    "^\\(After\\s+a\\s+character\\s+received([+-]?\\s*\\d+\\s*%?)direct\\s+mana\\s+additions\\s+from\\s+Special\\s+Skills\\s+during\\s+a\\s+single\\s+turn,\\s+all\\s+subsequent\\s+direct\\s+mana\\s+additions\\s+done\\s+by\\s+Special\\s+Skills\\s+will\\s+have\\s+reduced\\s+power\\s+on\\s+that\\s+character\\.?\\s*\\)$": "（角色在單一回合中，透過特殊技能獲得\\1點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+    "^The\\s+caster\\s+steals([+-]?\\s*\\d+\\s*%?)\\s+of\\s+any\\s+healing\\s+applied\\s+to\\s+the\\s+target\\s+an\\s+nearby\\s+enemies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "施法者偷取目標及所有附近敵人所獲治療的\\1，持續\\2個回合。"
 }

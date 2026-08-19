@@ -2986,10 +2986,14 @@
     "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buffs\\.?\\s*$": "安全驱散所有敌人的增益效果，每驱散一个增益效果，便为所有盟友增加\\1 的法力。",
     "^Safely\\s+cleanse\\s+all\\s+Status\\s+ailments\\s+from\\s+all\\s+allies,\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+cleansed\\s+ailment\\.?\\s*$": "安全净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加\\1。",
     "^At\\s+the\\s+end\\s+of\\s+each\\s+turn,\\s+all\\s+allies\\s+shoot\\s+an\\s+Astral\\s+Beam\\s+at\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合结束时，所有盟友向一名随机敌人发射一道星体光束，持续\\1回合。",
-    "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buff\\.?\\s*$": "安全驱散所有敌人的增益效果，每驱散一个增益效果，便为所有盟友增加\\1的法力。",
-    "^The\\s+target\\s+turns\\s+into\\s+a\\s+Mindworm\\.?\\s*\\s+Mindworms\\s+have([+-]?\\s*\\d+\\s*%?)\\s+attack,([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+and\\s+the\\s+following\\s+Special\\s+Skill:$": "目标会变成噬心虫。噬心虫拥有\\1攻击力、\\2防御力以及以下特殊技能：",
+    "^Safely\\s+dispels\\s+buffs\\s+from\\s+all\\s+enemies\\s+and\\s+increases\\s+all\\s+allies['’]?\\s+mana\\s+by([+-]?\\s*\\d+\\s*%?)\\s+for\\s+each\\s+removed\\s+buff\\.?\\s*$": "安全驱散所有敌人的增益效果，每驱散一个增益效果，便为所有盟友增加\\1 的法力。",
+    "^The\\s+target\\s+turns\\s+into\\s+a\\s+Mindworm\\.?\\s*\\s+Mindworms\\s+have([+-]?\\s*\\d+\\s*%?)\\s+attack,([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+and\\s+the\\s+following\\s+Special\\s+Skill:$": "目标会变成噬心虫。噬心虫拥有\\1 攻击力、\\2 防御力以及以下特殊技能：",
     "^One\\s+of\\s+Us$": "同化一员。",
     "^\\*\\s+Inflicts([+-]?\\s*\\d+\\s*%?)Insanity\\s+on\\s+one\\s+random\\s+ally\\.?\\s*$": "* 对随机一名盟友施加\\1点狂乱。",
     "^\\*\\s+Removes\\s+the\\s+mind\\s+Mindworm\\s+ailment\\s+from\\s+the\\s+caster\\.?\\s*$": "* 移除施法者身上的噬心虫状态异常。",
-    "^\\(This\\s+effect\\s+lasts\\s+until\\s+it\\s+is\\s+cleansed,\\s+replaced\\s+or\\s+removed\\.?\\s*\\s+Bosses,\\s+Titans\\s+and\\s+Mythic\\s+Titans\\s+are\\s+not\\s+affected\\s+by\\s+this\\s+status\\s+effect\\.?\\s*\\)$": "（此效果将持续，直至被净化、替代或移除。头目、泰坦和神话泰坦不受此状态效果影响。）"
+    "^\\(This\\s+effect\\s+lasts\\s+until\\s+it\\s+is\\s+cleansed,\\s+replaced\\s+or\\s+removed\\.?\\s*\\s+Bosses,\\s+Titans\\s+and\\s+Mythic\\s+Titans\\s+are\\s+not\\s+affected\\s+by\\s+this\\s+status\\s+effect\\.?\\s*\\)$": "（此效果将持续，直至被净化、替代或移除。头目、泰坦和神话泰坦不受此状态效果影响。）",
+    "^Wither:\\s+Each\\s+hit\\s+from\\s+the\\s+White\\s+Boar\\s+Mega\\s+Minion\\s+gives\\s+its\\s+target\\s+([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "衰退：白野猪超级小兵的每次攻击都会使目标\\1防御力。",
+    "^Steals([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+from\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+and\\s+randomly\\s+distributes\\s+them\\s+on\\s+allies\\.?\\s*$": "从目标和附近敌人身上偷取\\1法力，并分配给盟友。",
+    "^\\(After\\s+a\\s+character\\s+received([+-]?\\s*\\d+\\s*%?)direct\\s+mana\\s+additions\\s+from\\s+Special\\s+Skills\\s+during\\s+a\\s+single\\s+turn,\\s+all\\s+subsequent\\s+direct\\s+mana\\s+additions\\s+done\\s+by\\s+Special\\s+Skills\\s+will\\s+have\\s+reduced\\s+power\\s+on\\s+that\\s+character\\.?\\s*\\)$": "（在单个回合内，当一名角色已经从特殊技能获得了\\1次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+    "^The\\s+caster\\s+steals([+-]?\\s*\\d+\\s*%?)\\s+of\\s+any\\s+healing\\s+applied\\s+to\\s+the\\s+target\\s+an\\s+nearby\\s+enemies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "施法者偷取目标及其附近敌人所获治疗的\\1,持续\\2回合。"
 }
