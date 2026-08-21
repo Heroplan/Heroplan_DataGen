@@ -49840,5 +49840,25 @@ window.allHeroesExtra = [
         "healthBonus": "72%",
         "manaBonus": "5%",
         "family": "atlantis"
+    },
+    {
+        "name": "Iron Mimic Holy",
+        "fancy name": "Iron Satchel of Terror",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2200-01-01",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_iron_yellow",
+        "baseAttack": 701,
+        "baseDefense": 699,
+        "baseHealth": 1185,
+        "specialId": "iron_mimic_bite_yellow",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_iron_yellow"
+        ],
+        "family": "mimic"
     }
 ];

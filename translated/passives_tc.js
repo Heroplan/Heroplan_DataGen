@@ -13494,6 +13494,29 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "mimic_iron_yellow",
+        "name": "Iron Mimic Holy",
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品：",
+            "傳奇：",
+            "* 鐵塊巨禮包。",
+            "史詩：",
+            "* 鐵塊大禮包。",
+            "稀有：",
+            "* 鐵塊中禮包。",
+            "罕見：",
+            "* 鐵塊小禮包。",
+            "* 尊貴僧侶。",
+            "* 虔誠巫師。",
+            "普通：",
+            "* 鐵塊微禮包。",
+            "* 普通村民。",
+            "* 修行盜賊。",
+            "* 虔誠戰士。"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "passives": [
@@ -14737,6 +14760,11 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "passives": []
+    },
+    {
         "heroId": "ninja_topaz_costume_precise",
         "name": "Topaz C",
         "passives": []
@@ -14754,6 +14782,16 @@ const translatedPassivesTC =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "passives": []
+    },
+    {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "passives": []
+    },
+    {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
         "passives": []
     }
 ];

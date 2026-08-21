@@ -13494,6 +13494,29 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_yellow",
+        "name": "Iron Mimic Holy",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages:",
+            "Legendary:",
+            "* Giant Iron Bundle",
+            "Epic:",
+            "* Large Iron Bundle",
+            "Rare:",
+            "* Medium Iron Bundle",
+            "Uncommon:",
+            "* Small Iron Bundle",
+            "* Exalted Monks",
+            "* Devout Wizards",
+            "Common",
+            "* Tiny Iron Bundle",
+            "* Common Villager",
+            "* Monastic Rogues",
+            "* Devout Fighters"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "passives": [
@@ -14737,6 +14760,11 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "passives": []
+    },
+    {
         "heroId": "ninja_topaz_costume_precise",
         "name": "Topaz C",
         "passives": []
@@ -14754,6 +14782,16 @@ const allTranslations =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "passives": []
+    },
+    {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "passives": []
+    },
+    {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
         "passives": []
     }
 ];

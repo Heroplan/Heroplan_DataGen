@@ -1,23 +1,13 @@
-2026-08-21 19:23:57,445 - INFO - 成功加载并规范化 1861 条中文额外数据。
-2026-08-21 19:23:57,465 - INFO - [skill] 已加载 cn 技能 2598 条
-2026-08-21 19:23:57,466 - INFO - [skill] 已加载 tc 技能 2598 条
-2026-08-21 19:23:57,468 - INFO - [skill] 已加载 en 技能 2598 条
-2026-08-21 19:24:00,263 - WARNING - 翻译缺失: 字典='heroes_name_fancy', 值='holy_god_onatel_costume_divine' (规范化为: 'holy_god_onatel_costume_divine')
-2026-08-21 19:24:00,263 - WARNING - 翻译缺失: 字典='heroes_name_fancy', 值='dark_god_kunchen_costume_mystic' (规范化为: 'dark_god_kunchen_costume_mystic')
-2026-08-21 19:24:00,366 - WARNING - 
---- 发现 6 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-2026-08-21 19:24:00,366 - INFO - 检测到 6 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-2026-08-21 19:24:00,372 - INFO - 准备为 'Fafnir C' 添加新条目，键名为 'Fafnir C'。
-2026-08-21 19:24:00,372 - INFO - 准备为 'Kunchen C' 添加新条目，键名为 'Kunchen C'。
-2026-08-21 19:24:00,372 - INFO - 准备为 'Onatel C' 添加新条目，键名为 'Onatel C'。
-2026-08-21 19:24:00,372 - INFO - 准备为 'Snorri C' 添加新条目，键名为 'Snorri C'。
-2026-08-21 19:24:00,372 - INFO - 准备为 'Tanaka Isako' 添加新条目，键名为 'Tanaka Isako'。
-2026-08-21 19:24:00,373 - INFO - 准备为 'Topaz C' 添加新条目，键名为 'Topaz C'。
-2026-08-21 19:24:00,447 - INFO - 成功！已将 6 个新的空白英雄条目追加到 'heroes_data_extra_skill_cn.json'，并规范化了所有现有键。
-2026-08-21 19:24:00,708 - INFO - 成功加载并规范化 1867 条中文额外数据。
-2026-08-21 19:24:03,469 - WARNING - 翻译缺失: 字典='heroes_name_fancy', 值='holy_god_onatel_costume_divine' (规范化为: 'holy_god_onatel_costume_divine')
-2026-08-21 19:24:03,469 - WARNING - 翻译缺失: 字典='heroes_name_fancy', 值='dark_god_kunchen_costume_mystic' (规范化为: 'dark_god_kunchen_costume_mystic')
-2026-08-21 19:24:03,572 - WARNING - 
+2026-08-21 20:47:47,449 - INFO - 成功加载并规范化 1870 条中文额外数据。
+2026-08-21 20:47:47,470 - INFO - [skill] 已加载 cn 技能 2663 条
+2026-08-21 20:47:47,471 - INFO - [skill] 已加载 tc 技能 2663 条
+2026-08-21 20:47:47,473 - INFO - [skill] 已加载 en 技能 2663 条
+2026-08-21 20:47:50,383 - WARNING - 
 --- 发现 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-2026-08-21 19:24:03,572 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-2026-08-21 19:24:03,578 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
+2026-08-21 20:47:50,383 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+2026-08-21 20:47:50,389 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
+2026-08-21 20:47:50,647 - INFO - 成功加载并规范化 1870 条中文额外数据。
+2026-08-21 20:47:53,614 - WARNING - 
+--- 发现 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
+2026-08-21 20:47:53,614 - INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+2026-08-21 20:47:53,620 - INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。

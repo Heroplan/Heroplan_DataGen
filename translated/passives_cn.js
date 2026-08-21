@@ -13494,6 +13494,29 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "mimic_iron_yellow",
+        "name": "Iron Mimic Holy",
+        "passives": [
+            "完美精准度：该角色的特殊技能必定命中目标。",
+            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。:",
+            "传奇：",
+            "* 铁块巨型包。",
+            "史诗：",
+            "* 铁块大礼包。",
+            "稀有：",
+            "* 铁块中礼包。",
+            "罕见：",
+            "* 铁块小礼包。",
+            "* 尊贵僧侣。",
+            "* 虔诚巫师。",
+            "普通：",
+            "* 铁块微小礼包。",
+            "* 普通村民。",
+            "* 僧侣盗贼。",
+            "* 虔诚战士。"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "passives": [
@@ -14737,6 +14760,11 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "passives": []
+    },
+    {
         "heroId": "ninja_topaz_costume_precise",
         "name": "Topaz C",
         "passives": []
@@ -14754,6 +14782,16 @@ const translatedPassivesCN =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "passives": []
+    },
+    {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "passives": []
+    },
+    {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
         "passives": []
     }
 ];

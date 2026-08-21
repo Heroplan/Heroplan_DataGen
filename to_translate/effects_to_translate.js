@@ -17162,6 +17162,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_yellow",
+        "name": "Iron Mimic Holy",
+        "effects": [
+            "Deals 450% damage to the target and one random enemy.",
+            "All hit targets get -20% defense for 4 turns.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "effects": [
@@ -18732,6 +18742,11 @@ const allTranslations =
         "effects": []
     },
     {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "effects": []
+    },
+    {
         "heroId": "ninja_topaz_costume_precise",
         "name": "Topaz C",
         "effects": []
@@ -18749,6 +18764,16 @@ const allTranslations =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "effects": []
+    },
+    {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "effects": []
+    },
+    {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
         "effects": []
     }
 ];

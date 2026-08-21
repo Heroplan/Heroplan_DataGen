@@ -17162,6 +17162,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "mimic_iron_yellow",
+        "name": "Iron Mimic Holy",
+        "effects": [
+            "对目标和随机一名敌人造成 450% 伤害。",
+            "所有命中的目标获得 -20% 防御，持续 4 回合。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。（在单个回合内，当一名角色已经从特殊技能获得了 5 次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "effects": [
@@ -18732,6 +18742,11 @@ const translatedEffectsCN =
         "effects": []
     },
     {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "effects": []
+    },
+    {
         "heroId": "ninja_topaz_costume_precise",
         "name": "Topaz C",
         "effects": []
@@ -18749,6 +18764,16 @@ const translatedEffectsCN =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "effects": []
+    },
+    {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "effects": []
+    },
+    {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
         "effects": []
     }
 ];

@@ -17162,6 +17162,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "mimic_iron_yellow",
+        "name": "Iron Mimic Holy",
+        "effects": [
+            "對目標和一名隨機敵人造成 450% 傷害。",
+            "所有命中目標獲得 -20% 防禦，持續 4 回合。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ]
+    },
+    {
         "heroId": "construct_ironheart",
         "name": "Iron-Heart",
         "effects": [
@@ -18732,6 +18742,11 @@ const translatedEffectsTC =
         "effects": []
     },
     {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "effects": []
+    },
+    {
         "heroId": "ninja_topaz_costume_precise",
         "name": "Topaz C",
         "effects": []
@@ -18749,6 +18764,16 @@ const translatedEffectsTC =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "effects": []
+    },
+    {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "effects": []
+    },
+    {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
         "effects": []
     }
 ];
