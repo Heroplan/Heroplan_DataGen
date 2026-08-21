@@ -36,7 +36,7 @@
 "lottery.title.season5","Sanddyner-fremkalling"
 "lottery.title.seasonal","Sesongfremkalling"
 "lottery.title.seasonalpremiumsummon.beachparty2026","Solbukta-fremkalling"
-"lottery.title.seasonalpremiumsummon.halloween2025","Optimistisk fremkalling"
+"lottery.title.seasonalpremiumsummon.halloween2025","Blodrød fremkalling"
 "lottery.title.seasonalpremiumsummon.lunarnewyear2026","Lykkefremkalling"
 "lottery.title.shadowsummon","Skyggefremkalling"
 "lottery.title.silverdragonsummon","Sølvfremkalling"

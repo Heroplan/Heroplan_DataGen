@@ -4,6 +4,9 @@ Varje träff från en monstrummegaundersåte ger målet följande negativa statu
 "specials.v2.bigminion.black_boar_mega_minion.single","Åkallar en svart megavildsvin-undersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.bigminion.body_guard_mega_minion.single","Åkallar megaundersåten Livvakt med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.bigminion.goblin_rat_princess.single","Åkallar megaundersåten Råttprinsessa med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.bigminion.ratter.eatfamiliars","Innan pesthunds-megaundersåten träffar ett mål förstör den alla målets undersåtar och skadar megaundersåtar."
+"specials.v2.bigminion.ratter.reallocateeffects.minorbuff.majorbuff.minorbuffstack.random.multiple","Varje gång pesthunds-megaundersåten träffar en fiende stjäl den {REALLOCATIONCOUNT} slumpmässiga bonusar från fienden, inklusive bonusar och staplar som inte kan avbrytas, och ger dem till ägaren."
+"specials.v2.bigminion.ratter.single","Åkallar en pesthunds-megaundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från åkallaren."
 "specials.v2.bigminion.recruit_guard_mega_minion.single","Åkallar megaundersåten Rekrytvakt med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren.
 Rekrytvakten får mer hälsa och attack ju fler unika garnisonsvakthjältar det finns i laget, upp till {FAMILIARHEALTHPERCENT3MEMBERS} % hälsa och {FAMILIARATTACK3MEMBERS} % attack."
 "specials.v2.bigminion.shark_big_minion_blue.single.strong_damage_against_red","Åkallar en hajmegaundersåte med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack ärvd från användaren. Gör stark skada mot eldkaraktärer."
@@ -39,6 +42,8 @@ Gäddmegaodjuret absorberar läkning och försvinner när det absorberat den mä
 "specials.v2.clearbuffs.minorbuff.all.enemies.latest","Ta bort den senaste bonusen som kan avbrytas från alla fiender."
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Tar bort bonusar från målet och fiender i närheten."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Tar bort bonusar från fiender i utkantan av fiendeformationen."
+"specials.v2.clearbuffs.minorbuff.sides.enemies.bypassremoveeffects","Avbryter bonusar säkert på fienderna i utkanten av fiendeformationen."
+"specials.v2.clearbuffs.minorbuff.sides.enemies.bypassremoveeffects.extra","Säkert avbrott ignorerar sekundära effekter, som skada vid borttagning, från de borttagna statuseffektsbonusarna. Externa effekter som passiva förmågor och familjeeffekter kan dock fortfarande aktiveras."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Tar bort bonusar från målet."
 "specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Tar bort bonusar från målet säkert."
 "specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects.extra","Säkert avbrott ignorerar sekundära effekter, som skada vid borttagning, från de borttagna statuseffektsbonusarna. Externa effekter som passiva förmågor och familjeeffekter kan dock fortfarande aktiveras."
@@ -166,6 +171,7 @@ Varje träff från en biundersåte ger målet följande statuseffekter:"
 "specials.v2.minion.clown_costume.all","Åkallar en clownundersåte till varje allierad, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.dark.all","Åkallar en mörkerundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.dark.purple","Elementlänk åkallar en mörkerundersåte till alla mörkerallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.minion.dark_hotm_2026.purple","Elementlänk åkallar en mörkerundersåte till alla mörkerallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.dark_soldier.all","Åkallar en mörk soldatundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.dark_soldier_set_costume.all","Åkallar en mörk soldatundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.druid_thorn","Törnundersåten har ärvt {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack från användaren."
@@ -175,6 +181,7 @@ Varje träff från en biundersåte ger målet följande statuseffekter:"
 "specials.v2.minion.enchanted_sigil_minion_costume.all","Åkallar en förtrollad sigillundersåte till varje allierad, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.fire.all","Åkallar en eldundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.fire.red","Elementlänk åkallar en eldundersåte till alla eldallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.minion.fire_hotm_2026.red","Elementlänk åkallar en eldundersåte till alla eldallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.firewall_minion.all","Åkallar en eldväggsundersåte per allierad med {FAMILIARHEALTHPERCENT} % hälsa som ärvs från anfallaren."
 "specials.v2.minion.firewall_minion.explode","När eldväggsundersåten förgörs gör den {FAMILIARFIXEDEXPLOSIONDAMAGE} skada mot den anfallande fienden."
 "specials.v2.minion.fish.all","Åkallar en fiskundersåte till varje allierad. Fiskundersåten ärver {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack från anfallaren. 
@@ -190,16 +197,19 @@ Varje träff från en fiskundersåte ger målet följande statuseffekter:"
 "specials.v2.minion.gargoyle_minion.all","Åkallar en groteskundersåte till varje allierad. Groteskundersåten ärver {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack från anfallaren."
 "specials.v2.minion.grimoire.all","Åkallar en svartkonstundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Åkallar en väktarundersåte till varje allierad, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.minion.guardian_minion_delilah_cute.all","Åkallar en väktarundersåte till varje allierad, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.harpoon_sentry.all","Åkallar en harpunväktarundersåte till varje allierad med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack ärvd från anfallaren.
  Varje träff från en harpunväktarundersåte minskar målets mana med {FAMILIARADDMANA} % och ger målet följande negativa statuseffekter:"
 "specials.v2.minion.holy.all","Åkallar en helig undersåte per allierad med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.holy.yellow","Elementlänk åkallar en helig undersåte till alla heliga allierade med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.holy_god_delilah.all","Åkallar ens väktarundersåte till varje allierad, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.minion.holy_hotm_2026.yellow","Elementlänk åkallar en helig undersåte till alla heliga allierade med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.hunting_owl.neartotarget","Åkallar en jaktuggleundersåte för användaren och nära allierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs av användaren.
  Varje träff från jaktuggleundersåten tar bort {FAMILIARADDMANA} % mana från målet."
 "specials.v2.minion.hydra_head.neartotarget","Åkallar en hydrahuvudundersåte för användaren och allierade i närheten, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.ice.all","Åkallar en isundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.ice.blue","Elementlänk åkallar en isundersåte till alla isallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.minion.ice_hotm_2026.blue","Elementlänk åkallar en isundersåte till alla isallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.icebound_sickle_minion.explode","När den iskalla månskäraundersåten förgörs så gör den {FAMILIARFIXEDEXPLOSIONDAMAGE} skada mot alla fiender."
 "specials.v2.minion.icebound_sickle_minion.neartotarget","Åkallar en månskäraundersåte till anfallaren och allierade i närheten, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.icebound_sickle_minion.neartotarget.multiplepercharacter","Åkallar {FAMILIARAMOUNT} en iskall månskäraundersåte till användaren och allierade i närheten, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
@@ -241,12 +251,16 @@ Varje träff från en malundersåte ger målet följande statuseffekter:"
 "specials.v2.minion.mouse_costume_highwaycat.single.multiplepercharacter","Åkallar {FAMILIARAMOUNT} musundersåtar med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs av användaren. Undersåtarna har {FAMILIARACCURACY} % träffsäkerhet."
 "specials.v2.minion.nature.all","Åkallar en naturundersåte per allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.nature.green","Elementlänk åkallar en naturundersåte till alla naturallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+"specials.v2.minion.nature_hotm_2026.green","Elementlänk åkallar en naturundersåte till alla naturallierade med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren."
 "specials.v2.minion.owl.all","Åkallar en sparvundersåte till varje allierad. Sparvundersåten ärver {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack från anfallaren."
 "specials.v2.minion.owl.eatfamiliars","Innan sparvundersåten träffar målet förstör den alla målets undersåtar."
 "specials.v2.minion.owlkyrie.neartotarget","Åkallar en ugglekyrieundersåte till användaren och allierade i närheten, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från användaren."
 "specials.v2.minion.owlkyrie.removebasestatmodifiers","Tar bort tillväxt- och vittringseffekter från målet."
 "specials.v2.minion.owlkyrie.removestatuseffects.allstatuseffectsandstacks.single.enemies.bypassremoveeffects","Om ugglekyrieundersåten besegras tas alla statuseffekter bort från en slumpmässig fiende."
 "specials.v2.minion.owlkyrie.removestatuseffectsandbasestatmodifiers","Om ugglekyrieundersåten besegras används fullständig borttagning på anfallaren."
+"specials.v2.minion.ratter.all","Åkallar en pesthunds-undersåte per allierad med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack ärvt från åkallaren."
+"specials.v2.minion.ratter.eatfamiliars","Innan pesthunds-undersåten träffar ett mål förstör den alla målets undersåtar och skadar megaundersåtar."
+"specials.v2.minion.ratter.reallocateeffects.minorbuff.random","Varje gång en pesthunds-undersåte träffar en fiende stjäl den en slumpmässig bonus som kan avbrytas från fienden och ger den till sin ägare."
 "specials.v2.minion.raven.all","Åkallar en korpundersåte till varje allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren. 
 Korpundersåtar ger {ATTACK} % attack till sin ägares andra undersåtar."
 "specials.v2.minion.raven_costume_freya.all","Åkallar en korpundersåte till varje allierad med {FAMILIARHEALTHPERCENT} % HP och {FAMILIARATTACK} % attack som ärvs från anfallaren. 
@@ -601,12 +615,15 @@ Förlänger ett slumpmässigt måls aktiva negativa statuseffekter med {TURNS} r
 "specials.v2.property.damageincreasedbytargetmana.less","Ju mindre mana fienderna har, desto mer skada tar de, upp till {MAXDAMAGE} %."
 "specials.v2.property.damageincreasedbytargetmana.single","Ju mer mana fienden har, desto mer skada tar den, upp till {MAXDAMAGE} %."
 "specials.v2.property.damageincreasedbytargetmana.single.less","Ju mindre mana fienderna har, desto mer skada tar de, upp till {MAXDAMAGE} %."
-"specials.v2.property.damageincreasedbytargetmanaspeed.average.extra","Fienderna har manahastigheten Väldigt snabb i rusningsattacksturneringar och krig.
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.pveoverride.average","Alla monster och bossar har genomsnittlig manahastighet."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.rush_attack_note","I rusningsattacksturneringar och krig har fiender mycket snabb manahastighet."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.average","Gör {DAMAGE} % extra skada mot mål med genomsnittlig manahastighet."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.fast","Gör {DAMAGE} % extra skada mot mål med snabb manahastighet."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.very_fast.orfaster","Gör {DAMAGE} % extra skada mot mål med mycket snabb manahastighet."
+"specials.v2.property.damageincreasedbytargetmanaspeed.faster.average","Gör extra skada om målet har genomsnittlig eller snabbare manahastighet."
+"specials.v2.property.damageincreasedbytargetmanaspeed.faster.extra","{THRESHOLDLINES}
 
- Alla monster och bossar har manahastigheten Standard."
-"specials.v2.property.damageincreasedbytargetmanaspeed.faster.very_fast.fast.average","Om målet har manahastigheten Standard gör det ytterligare {MANASPEED3DAMAGE} % skada.
- Om det har manahastigheten Snabb gör det {MANASPEED2DAMAGE} % extra skada.
- Om målet har manahastigheten Väldigt snabb eller snabbare gör det istället {MANASPEED1DAMAGE} % mer skada."
+{PVEOVERRIDENOTE}"
 "specials.v2.property.damageincreasedpertile.red","Skadan ökas med {EXTRADAMAGEPERTILE} % för varje eldsköld på brädet, upp till {MAXDAMAGE} % skada per träff."
 "specials.v2.property.damagemultiplieragainstdispellersandcleansers","Ger {DAMAGEMULTIPLIER} % skada mot karaktärer som rensar eller avbryter med hjälp av specialförmågor."
 "specials.v2.property.damagemultiplieragainstdispellersandcleansers.extra","Endast direkta avbrytnings- och rensningseffekter från specialförmågor räknas. Det utesluter borttagningseffekter, passiva förmågor, undersåtar, familjeeffekter, talanger och statuseffekter."
@@ -705,7 +722,7 @@ Alla allierade får ytterligare {POWERPERFAMILIAR} % mana för varje odjur elle
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Gör {BASEPOWER} % skada mot alla fiender.
 Gör ytterligare {POWERPERFAMILIAR} % skada för varje undersåte eller megaundersåte fienderna har, upp till {MAXPOWER} % skada totalt."
 "specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Gör {BASEPOWER} % skada mot alla fiender.
-Gör ytterligare {POWERPERFAMILIAR} % skada för varje odjur eller megaodjur fienderna har, upp till {MAXPOWER} % skada totalt."
+ Gör {POWERPERFAMILIAR} % extra skada för varje odjur eller megaodjur som fienden äger, upp till sammanlagt {MAXPOWER} % skada."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Gör {BASEPOWER} % skada mot målet och fiender i närheten.
 Gör ytterligare {POWERPERFAMILIAR} % skada för varje undersåte eller megaundersåte fienderna har, upp till {MAXPOWER} % skada totalt."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Gör {BASEPOWER} % skada mot målet och fiender i närheten.
@@ -767,8 +784,6 @@ Kritiska träffar kan sänka fiendens maxhälsa i PvP-strider. Den här effekten
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.allies.bigminion","Om en allierad har en megaundersåte innan den här specialförmågan används gör den {POWER} % skada på alla fiender istället."
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.enemies.bigminion","Om fiendelaget har en megaundersåte gör den här specialförmågan {POWER} % skada på alla fiender istället."
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.enemies.minion","Om fiendelaget har en undersåte gör den här specialförmågan {POWER} % skada på alla fiender istället."
-"specials.v2.property.familiarsteal.stealfamiliars.single.enemies.bigminion.minion.follower","Stjäl alla undersåtar eller en megaundersåte från målet."
-"specials.v2.property.familiarsteal.stealfamiliars.single.enemies.minion.follower","Stjäl undersåtar från målet."
 "specials.v2.property.firestormstrike.enemies.all.green","Angriper alla fiender med eldstormsslag och gör upp till {MAX} skada. Gör {STRONGATTACKELEMENTDAMAGEMODIFIER} % mer skada om måltavlan har elementet natur."
 "specials.v2.property.firestormstrike.enemies.all.green.always_hit","Angriper alla fiender med eldstormsslag och gör upp till {MAX} skada. Gör {STRONGATTACKELEMENTDAMAGEMODIFIER} % mer skada om målet har elementet natur. Den här specialförmågan missar aldrig."
 "specials.v2.property.firestormstrike.enemies.neartotarget.green","Angriper målet och fiender i närheten med eldstormsslag och gör upp till {MAX} skada. Gör {STRONGATTACKELEMENTDAMAGEMODIFIER} % mer skada om måltavlan är grön."
@@ -829,6 +844,7 @@ Bonusar och negativa statuseffekter som påverkar attack och försvar påverkar 
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.blue.neartotargetexceptmaintarget.enemies","Om målet har iselement görs {POWER} % skada på fiender i närheten."
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.red.neartotargetexceptmaintarget.enemies","Om målet har eldelement görs {POWER} % skada på fiender i närheten."
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.yellow.neartotargetexceptmaintarget.enemies","Om målet är heligt görs {POWER} % skada på fiender i närheten."
+"specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies","Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
 "specials.v2.property.manareallocation.from.neartotarget.enemies.to.neartotarget.allies","Stjäl {ABSPOWER} % mana från målet och fiender i närheten och distribuerar den till kastaren och allierade i närheten."
 "specials.v2.property.manareallocation.from.sides.enemies.to.all.allies","Stjäl {ABSPOWER} % mana från fiender i fiendeformationens utkanter och distribuerar den till allierade."
 "specials.v2.property.manareallocation.from.single.enemies.to.all.allies","Stjäl {ABSPOWER} % mana från målet och distribuerar den bland allierade."
@@ -895,6 +911,8 @@ Bonusar och negativa statuseffekter som påverkar attack och försvar påverkar 
 "specials.v2.property.pre.eatfamiliarswitheffectpereatenfamiliar.single.enemies.minion.follower.bigminion","Förstör alla undersåtar som tillhör målet. Den här effekten skadar megaundersåtar."
 "specials.v2.property.pre.enablespecialcriticalhit","Den här specialförmågan har chansen att få in kritiska träffar."
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Förstör alla undersåtar som tillhör målet. Den här effekten skadar megaundersåtar."
+"specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.bigminion.minion.follower","Stjäl alla undersåtar eller en megaundersåte från målet."
+"specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.minion.follower","Stjäl undersåtar från målet."
 "specials.v2.property.pre.ignoredodgewithchance","Den här specialförmågan har {IGNOREDODGECHANCE} % chans att ignorera undvikande effekter."
 "specials.v2.property.pre.ignoredodgewithchance.always","Den här specialförmågan ignorerar undvikningseffekter."
 "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
@@ -907,6 +925,7 @@ Bonusar och negativa statuseffekter som påverkar attack och försvar påverkar 
 "specials.v2.property.random_special_danzaburo_costume","Sälj skräp för en specifik effekt:"
 "specials.v2.property.random_special_danzaburo_cute","Gör ett trick för en specifik effekt:"
 "specials.v2.property.random_special_kettle","Tillaga slumpgenererad mat för en specialeffekt:"
+"specials.v2.property.random_special_kettle_field_cook","Tillaga slumpgenererad mat för en specialeffekt:"
 "specials.v2.property.random_special_kettle_pve","Tillaga slumpgenererad mat för en specialeffekt:"
 "specials.v2.property.random_special_mimic","Härmaren gör en av följande specialattacker:"
 "specials.v2.property.random_special_mimic2","Härmaren gör en av följande specialattacker:"
@@ -917,13 +936,15 @@ Bonusar och negativa statuseffekter som påverkar attack och försvar påverkar 
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1} %"
 "specials.v2.property.randomstatuseffects","Kastar en av följande slumpmässigt:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","[*]Stjäl riskfritt en positiv statuseffekt från målet säkert. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.
-[*]Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Plundrar[#] alla fiender och stjäl [#!]{DAMAGE}[#] hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Plundrar[#] målet och stjäl [#!]{DAMAGE}[#] hälsa och en bonus."
+"specials.v2.property.ransack.extra","Stjäl riskfritt en statuseffektbonus från fienden – även sådana som inte kan avbrytas och danseffekter.
+Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva förmågor och familjeeffekter kan fortfarande aktiveras."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","Plundrar alla fiender och stjäl {DAMAGE} hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
+"specials.v2.property.ransack.from.neartotarget.enemies.to.single.allies","Plundrar målet och fiender i närheten, och stjäl {DAMAGE} hälsa och en bonus från var och en."
+"specials.v2.property.ransack.from.sides.enemies.to.single.allies","Plundrar fiender på utkanten av fiendeformationen och stjäl {DAMAGE} hälsa och en bonus. Plundra två gånger om det bara finns en fiende."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","Plundrar målet och stjäl {DAMAGE} hälsa och en bonus."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Stjäl {DAMAGE} hälsa.
-Stjäl riskfritt en statuseffektsbonus från målet. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.
-Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
+Stjäl riskfritt en statuseffektbonus från fienden – även sådana som inte kan avbrytas och danseffekter.
+Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva förmågor och familjeeffekter kan fortfarande aktiveras."
 "specials.v2.property.reducemaxhealth.extra","Maxhälsan kan inte understiga {MINIMUMMAXHEALTH} % av den ursprungliga maxhälsan.
  Eventuell ökad hälsa minskas med ytterligare {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies","Minskar alla fienders maxhälsa med {REDUCTION}. Effekten är starkare mot mål med bonushälsa."
@@ -956,6 +977,7 @@ Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, h
 "specials.v2.property.removestatuseffects.minorbuff.extra","Säkert avbrott ignorerar sekundära effekter, som skada vid borttagning, från de borttagna statuseffektsbonusarna. Externa effekter som passiva förmågor och familjeeffekter kan dock fortfarande aktiveras."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies","Tar bort bonusar från målet och fiender i närheten."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount","Tar bort 1 bonus från målet och fiender i närheten."
+"specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount.bypassremoveeffects","Avbryter 1 bonus på målet och fiender i närheten säkert."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount.multiple","Tar bort {REMOVALCOUNT} bonusar från målet och fiender i närheten."
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies","Tar bort bonusar från målet."
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.bypassremoveeffects","Tar, på säkert manér, bort statuseffektsbonusar från målet."
@@ -969,7 +991,9 @@ Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, h
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Negativa statuseffekter rensas bort i den ordning de fåtts. De senaste statuseffekterna rensas bort först."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Säker rensning ignorerar sekundära effekter, som skada vid borttagning, från den borttagna negativa statuseffekten. Externa effekter som passiva förmågor och familjeeffekter kan dock fortfarande aktiveras."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Renar negativa statuseffekter från användaren och allierade i närheten säkert."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Rensar alla negativa statuseffekter från användaren på ett säkert sätt."
 "specials.v2.property.removestatuseffects.minordebuff.single.allies.customremovalcount","Renar 1 negativ statuseffekt från användaren."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Tar bort den negativa effekten sinnesmask från användaren."
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","Använder fullständig borttagning på användaren och allierade i närheten."
 "specials.v2.property.removestatuseffectsandbasemodifiers.sides.enemies.allstatuseffectsandstacks","Använder fullständig borttagning på fienderna i utkanten av fiendeformationen."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Använder fullständig borttagning på användaren."
@@ -990,8 +1014,11 @@ Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, h
  Envisa negativa statuseffekter och negativa statuseffekter som inte kan rensas tas också bort."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Tar säkert bort bonusar från alla fiender och ökar alla allierades mana med {POWERPERREMOVAL} % för varje borttagen bonus."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Rensar säkert alla negativa statuseffekter från alla allierade och ökar alla allierades mana med {POWERPERREMOVAL} % för varje rensad negativ effekt."
+"specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.damage.single.enemies","Rensar alla negativa statuseffekter säkert från alla allierade, och gör {FIXEDPOWERPERREMOVAL} skada mot målet för varje rensad effekt."
 "specials.v2.property.repeatspecial.blade_wings.random","Har {REPEATCHANCE} % chans att använda Svärdvingar igen på ett slumpmässigt mål efter en lyckad användning.
 Går att använda på nytt upp till {MAXREPEATS} gånger, och chansen för återanvändning sjunker med {REPEATCHANCEDECREASE} % efter varje lyckad användning."
+"specials.v2.property.repeatspecial.heads_or_tails.random","Har {REPEATCHANCE} % chans att kasta om Krona eller klave? på ett slumpmässigt mål efter en lyckad användning.
+Kan kastas om upp till {MAXREPEATS} gånger."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","Bonusarnas varaktighet nollställs för alla allierade."
 "specials.v2.property.resetstatuseffectduration.all.enemies.alldebuffs","De negativa statuseffekternas varaktighet nollställs för alla fiender."
 "specials.v2.property.resetstatuseffectduration.neartotarget.allies.allbuffs","Bonusarnas varaktighet nollställs för användaren och allierade i närheten."
@@ -1114,6 +1141,7 @@ Om målet saknar specialförmåga, eller om den inte kan kopieras, användas fö
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Lyfter alla statuseffekter som kan renas från användaren och allierade i närheten och fördelar dem slumpmässigt på fienderna."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Stjäl alla bonusar som kan avbrytas från målet och fiender i närheten och fördelar dem slumpmässigt på allierade."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Stjäl {CUSTOMREALLOCATIONCOUNT} slumpvalda bonusar som kan avbrytas från målet och fiender i närheten och fördelar dem slumpmässigt på allierade."
+"specials.v2.property.statuseffectreallocation.from.sides.enemies.to.all.allies","Stjäl alla bonusar som kan avbrytas från fiender i utkanten av fiendeformationen och fördelar dem slumpmässigt på allierade."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Stjäl alla bonusar som kan avbrytas från målet och fördelar dem slumpmässigt på allierade."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies.customreallocationcount.multiple","Stjäl {CUSTOMREALLOCATIONCOUNT} slumpvalda positiva effekter som kan avbrytas från målet och ger dem till användaren."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Stjäl alla bonusar som kan avbrytas från målet och fördelar dem slumpmässigt mellan anfallaren och allierade i närheten."
@@ -1137,6 +1165,7 @@ Gör ytterligare {POWERPERALLOCATION} % skada per överförd statuseffektbonus,
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Stjäl den senaste statuseffektbonusen som kan avbrytas från alla fiender och fördelar dem slumpmässigt bland allierade."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","Om målet besegras aktiveras inte specialförmågan igen."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","Om målet har drabbats av frost kastas frysande kraftkrokar igen, på ett annat slumpmässigt mål."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_jabs.random","Om målet har drabbats av frost så används Frysande kraftjabbar en gång till på ett slumpmässigt mål."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","Om målet har drabbats av blödning kastas blodlukten igen på målet."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alla negativa statuseffekter som påverkar attack, försvar och manaskapande för alla allierade förvandlas till matchande icke avbrytbara bonusar."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alla bonusar som påverkar attack, försvar och manaskapande för alla fiender förvandlas till matchande negativa effekter som inte går att rensa."
@@ -1169,6 +1198,9 @@ Fiender med undersåtar eller megaundersåtar får {STATUSEFFECT1DEFENSE} % fö
 Fiender med undersåtar eller megaundersåtar får {STATUSEFFECT1DEFENSE} % försvar i {STATUSEFFECT1TURNS} rundor."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Gör {POWERFORTARGETSTHATMEETCONDITION} % skada mot fiender med försvarsbonusar, undersåtar eller megaundersåtar.
 Fiender med försvarsbonusar, undersåtar eller megaundersåtar får {STATUSEFFECT1DEFENSE} % försvar i {STATUSEFFECT1TURNS} rundor."
+"specials.v2.property.talondamage.damage.all.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Gör {POWERFOROTHERTARGETS} % kloskada på alla fiender."
+"specials.v2.property.talondamage.damage.neartotarget.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Gör {POWERFOROTHERTARGETS} % kloskada på målet och fiender i närheten."
+"specials.v2.property.talondamage.extra","Gör {POWERFORTARGETSTHATMEETCONDITION} % skada mot fiender med minst {STATTHRESHOLDPERMIL} % mana. Fienderna får {STATUSEFFECTFORTARGETSTHATMEETCONDITION1MANAREGEN} % manaskapande i {STATUSEFFECTFORTARGETSTHATMEETCONDITION1TURNS} rundor."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
 Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
 
@@ -1200,6 +1232,7 @@ Utvecklingen av odjur fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runda v
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Om målet har mindre än {HEALTHBOUNDARY} % hälsa kvar görs {DAMAGEMULTIPLIER} % skada istället."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Om målet har mer än {THRESHOLD1} % mana efter manaminskningen upprepas specialförmågan med en slumpvald fiende som mål. Skadan minskas för varje följande träff."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Om målet har mer än {THRESHOLD1} % mana efter manaminskningen upprepas specialförmågan med en slumpvald fiende som mål. Skadan minskas för varje följande träff."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.no_damage_reduction.over_health_threshold","Om målet hade mer än {THRESHOLD1} % hälsa innan det skadades så anfalls en annan fiende som hade över {THRESHOLD2} % hälsa innan den skadades av den här specialförmågan. Om ingen annan fiende hade {THRESHOLD3} % hälsa så anfalls en slumpmässig fiende. Varje fiende kan bara träffas en gång."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Om måltavlan hade mer än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mer än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om ingen av fienderna hade {THRESHOLD3} % hälsa så blir en slumpmässig fiende mål. Skadan sänks med varje ny träff. Varje fiende kan bara träffas en gång."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Om måltavlan hade mer än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mer än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om ingen av fienderna hade {THRESHOLD3} % hälsa så blir en slumpmässig fiende mål. Skadan höjs med varje ny träff. Varje fiende kan bara träffas en gång."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Om måltavlan hade mer än {THRESHOLD1} % mana innan den tog skada blir en annan fiende som hade mer än {THRESHOLD2} % mana innan den tog skada från den här specialförmågan ett mål. Om ingen av fienderna hade {THRESHOLD3} % mana så blir en slumpmässig fiende mål. Skadan sänks per träff. Varje fiende kan bara träffas en gång."
@@ -1264,6 +1297,8 @@ Den här effekten blir mindre effektiv när den aktiveras av monster och bossar.
 "specials.v2.property.wither.none.neartotarget.enemies.attack","Vittra: Målet och fiender i närheten får {ATTACKINCREASE} attack."
 "specials.v2.property.wither.none.neartotarget.enemies.attack.defense","Vittra: Målet och fiender i närheten får {ATTACKINCREASE} attack och {DEFENSEINCREASE} försvar."
 "specials.v2.property.wither.none.neartotarget.enemies.defense","Vittra: Målet och fiender i närheten får {DEFENSEINCREASE} försvar."
+"specials.v2.property.wither.none.sides.enemies.defense","Vittra: Fiender i utkanten av fiendeformationen får {DEFENSEINCREASE} försvar."
+"specials.v2.property.wither.none.single.enemies.attack","Vittra: Målet får {ATTACKINCREASE} attack."
 "specials.v2.property.wither.none.single.enemies.attack.defense","Vittra: Målet får {ATTACKINCREASE} attack och {DEFENSEINCREASE} försvar."
 "specials.v2.property.wither.none.single.enemies.defense","Vittra: Målet får {DEFENSEINCREASE} försvar."
 "specials.v2.saturated_suffering.immuneelement.blue","Alla isfiender är immuna mot den här attacken."
@@ -1283,6 +1318,7 @@ Den här effekten blir mindre effektiv när den aktiveras av monster och bossar.
 "specials.v2.statuseffect.major.accuracymodifier.single.allies","Anfallaren får {ACCURACY} % träffsäkerhet under {TURNS} rundor. Denna effekt kan ej renas."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies.while.single.allies.familiaralive.butterfly_parasite","När fjärilsodjuret åkallas ger det {ACCURACY} % träffsäkerhet till ägaren så länge ägaren har fjärilsodjur. Effekten kan inte renas."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies.while.single.allies.familiaralive.moreau_parasite.moreau_parasite_waker","Restskuggodjuret ger {ACCURACY} % träffsäkerhet till målet så länge målet har restskuggodjur. Chansen att missa gäller även offensiva specialförmågor. Effekten kan inte renas."
+"specials.v2.statuseffect.major.ambush.all.allies.decrease.removeondamagereceived.while.caster.enemies.none","Alla allierade lägger sig i bakhåll. Alla allierade gör {DAMAGE} % mer skada och tar {DAMAGEREDUCTION} % mindre skada."
 "specials.v2.statuseffect.major.ambush.neartotarget.allies.decrease.removeondamagereceived.while.caster.enemies.none","Användaren och allierade i närheten lägger sig i bakhåll. Användaren och allierade i närheten gör {DAMAGE} % mer skada och tar {DAMAGEREDUCTION} % mindre skada."
 "specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived","Kastaren lägger sig i bakhåll. Anfallaren gör {DAMAGE} % mer skada och tar {DAMAGEREDUCTION} % mindre skada."
 "specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none","Kastaren lägger sig i bakhåll. Anfallaren gör {DAMAGE} % mer skada och tar {DAMAGEREDUCTION} % mindre skada."
@@ -1315,6 +1351,7 @@ När anfallaren slutar gömma sig gör den {DAMAGE} skada på alla fiender som a
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Gör {POWER1} % skada mot en slumpad fiende i slutet av varje runda så länge anfallaren har hälsobonusen. Effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","Användaren och allierade i närheten får {DEFENSE} % försvar och ytterligare {CHANGE} % varje gång de träffas i {TURNS} rundor, ner till {MAXMODIFIER} %. Den här effekten kan ej avbrytas."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Användaren får {DEFENSE} % försvar och ytterligare {CHANGE} % varje gång de träffas i {TURNS} rundor, ner till {MAXMODIFIER} %. Den här effekten kan ej avbrytas."
+"specials.v2.statuseffect.major.bleeding.neartotarget.enemies","Målet och fiender i närheten får {DAMAGE} blödningsskada över {TURNS} rundor. Den här effekten kan inte rensas."
 "specials.v2.statuseffect.major.bluedefensemodifier.single.allies","Anfallaren får {DEFENSE} % försvar mot is i {TURNS} rundor. Effekten kan inte renas."
 "specials.v2.statuseffect.major.buffimmunity.all.enemies.damage","Alla fiender är immuna mot nya positiva statuseffekter i {TURNS} rundor och tar {POWER} skada för varje försök till bonus. Den här effekten kan inte rensas."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Målet och allierade i närheten är immuna mot nya bonusar med statuseffekter under {TURNS} rundor. Den här effekten kan inte avbrytas."
@@ -1392,6 +1429,10 @@ Passionens ballad
 
 Den mörka svanens ballad
 {STATUSEFFECTS}"
+"specials.v2.statuseffect.major.dancemultieffect.random.enemies.contagious.ballad_of_biroho","En slumpmässig fiende dansar till Birohos ballad i {TURNS} rundor. Dansen sprids till fiender i närheten.
+
+Birohos ballad
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.major.dancemultieffect.single.enemies.contagious.ballad_of_pain","Målet dansar till smärtans ballad i {TURNS} rundor. Dansen sprider sig till fiender i närheten.
 
 Smärtans ballad
@@ -1435,6 +1476,8 @@ Smärtans ballad
  I vansinnig hemsk spökform gör användaren automatiskt {POWER1} % skada och ger {STATUSEFFECT1INSANITYTOADD} vansinne till en slumpvald fiende varje runda.
  I vansinnig hemsk spökform kan användaren ta skada från fiender vars element är starkt mot användaren."
 "specials.v2.statuseffect.major.dispel.all.allies.minordebuff","Renar negativa statuseffekter från alla allierade i slutet av varje runda under {TURNS} rundor. Effekten kan inte avbrytas."
+"specials.v2.statuseffect.major.dispel.all.allies.minordebuff.bypassremoveeffects","Renar riskfritt negativa statuseffekter från alla allierade i slutet av varje runda under {TURNS} rundor. Effekten kan inte avbrytas."
+"specials.v2.statuseffect.major.dispel.all.allies.minordebuff.customremovalcount","Renar 1 negativ statuseffekt från alla allierade i slutet av varje runda i {TURNS} rundor. Effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.elementlink.blue.allies","Elementlänk ger alla isallierade {ATTACK} % attack och {DEFENSE} % försvar under {TURNS} rundor. Denna effekt kan ej avbrytas."
 "specials.v2.statuseffect.major.elementlink.green.allies","Elementlänk ger alla naturallierade {ATTACK} % attack och {DEFENSE} % försvar under {TURNS} rundor. Denna effekt kan ej avbrytas."
 "specials.v2.statuseffect.major.elementlink.purple.allies","Elementlänk ger alla mörkerallierade {ATTACK} % attack och {DEFENSE} % försvar under {TURNS} rundor. Denna effekt kan ej avbrytas."
@@ -1622,6 +1665,7 @@ Klibbig yta: Stjäl {REALLOCATIONCOUNT} slumpmässig bonus som kan avbrytas elle
 Klibbig yta: Stjäl {REALLOCATIONCOUNT} slumpmässig bonus som kan avbrytas eller tillväxteffekt från en attackerande fiende."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","Alla allierade minskar all tagen skada med {DAMAGEREDUCTION} % i {TURNS} rundor. Effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","Alla fiender tar {DAMAGEMODIFIER} % mer skada om användaren har en undersåte eller megaundersåte. Effekten kan inte avbrytas och är aktiv så länge användaren har en undersåte eller megaundersåte."
+"specials.v2.statuseffect.major.reddefensemodifier.single.enemies","Målet får {DEFENSE} % försvar mot eld i {TURNS} rundor. Effekten kan inte renas."
 "specials.v2.statuseffect.major.resisthealing.single.enemies.damage","Målet motstår läkning och får {FIXEDPOWER} skada per motstådd läkning i {TURNS} rundor. Den här effekten kan inte rensas."
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","Alla allierade är immuna mot direkt manaminskning så länge anfallaren har förstärkt hälsa. Effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","Alla allierade blir slagskämpar under {TURNS} rundor. Om en allierad besegras som slagskämpe återföds den som kameleont med:
@@ -1677,7 +1721,7 @@ Om slemmet inte besegras inom {CHANGEDAPPEARANCETURNS} rundor återföds det som
 {DEFENSE} försvar.
 Specialförmåga: Giftbett."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Alla träffade mål tystas under {TURNS} rundor. Effekten kan inte renas."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Alla fiender somnar och tar {DAMAGEMODIFIER} % extra skada när de sover."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","Fiender i utkanten av fiendeformationen somnar och tar {DAMAGEMODIFIER} % mer skada när de sover."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","Måltavlan somnar och tar {DAMAGEMODIFIER} % mer skada så länge den sover."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Alla allierade utom användaren får mjukskinn."
@@ -1698,6 +1742,7 @@ Andedans
 Minskar all skada som tas med {DAMAGEREDUCTION} %.
 Om användaren besegras tar dansaren {DAMAGEONCASTERDEATH} skada och dess mana minskas med 100 %."
 "specials.v2.statuseffect.major.statuseffectsonspecialcast.single.enemies.poison.chain_strike","Om fiender använder sin specialförmåga inom de nästa {TURNS} rundorna tar de {DAMAGE} giftskada i {DURATIONFORSTATUSEFFECTS} rundor. Effekten kan inte renas."
+"specials.v2.statuseffect.major.stone.all.allies.withactivationcount","Alla allierade aktiverar stenskinn som sänker all skada mot den allierade till 1, men tas bort efter {MAXHITS} träffar. Den här effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.stone.single.allies.withactivationcount","Användaren aktiverar stenskinn, som sänker alla skada mot sig själv till 1 men tas bort efter {MAXHITS} träffar. Effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.storeddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Lagrar all skada som drabbat kastaren i {TURNS} rundor. När effekten upphör utdelas lagrad skada till alla fiender, upp till maximalt {MAXDAMAGE} skada. Denna effekt kan ej avbrytas."
 "specials.v2.statuseffect.major.storeddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.removal","Lagrar all skada som drabbat kastaren i {TURNS} rundor. När effekten upphör görs lagrad skada på alla fiender, upp till maximalt {MAXDAMAGE} skada. Effekten kan inte avbrytas."
@@ -1725,11 +1770,11 @@ I slutet av varje runda gör det hämndlystna spöket {POWER} % skada mot en sl
 I slutet av varje runda gör det hämndlystna spöket {POWER} % skada mot en slumpmässig fiende och avbryter bonusar hos den fienden. Den här effekten kan inte avbrytas."
 "specials.v2.statuseffect.major.vengefulghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies.customremovalcount","Användaren antar hämndlysten spökform i {TURNS} rundor.
 I slutet på varje runda gör hämndlystet spöke {POWER} % skada mot en slumpad fiende och avbryter {REMOVALCOUNT} bonusar för den. Den här effekten kan inte avbrytas."
-"specials.v2.statuseffect.major.vermistransformhero.single.enemies.noturns.worm_appearance","Målet blir till en sinnesmask. Effekten kan inte rensas. Sinnesmaskar har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:
+"specials.v2.statuseffect.major.vermistransformhero.single.enemies.noturns.worm_appearance","Målet förvandlas till en sinnesmask. Den här effekten kan inte rensas. Sinnesmaskar har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:
 
 {REPLACEDSPECIALTITLE} ({REPLACEDMANASPEED})
-Ger 100 vansinne till en slumpvald allierad.
-Tar bort den negativa statuseffekten sinnesmask från användaren."
+Ger 100 vansinne till en slumpmässig allierad.
+Tar bort sinnesmask-effekten från användaren."
 "specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","Allierade i närheten dansar den livliga lyckodansen i {TURNS} rundor.
 
 Livlig lyckodans
@@ -1742,6 +1787,7 @@ Livlig lyckodans
 Lyckodanser kan staplas med andra danseffekter."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Alla fiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Alla fiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor. Den här effekten är envis."
+"specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Alla fiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor. Effektens varaktighet nollställs om målet läks."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","Målet får {ACCURACY} % träffsäkerhet och alla andra fiender får {MINORACCURACY} % träffsäkerhet i {TURNS} rundor."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","Alla isfiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
 "specials.v2.statuseffect.minor.accuracymodifier.neartotarget.enemies","Målet och fiender i närheten får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
@@ -1752,6 +1798,7 @@ Lyckodanser kan staplas med andra danseffekter."
 "specials.v2.statuseffect.minor.accuracymodifier.single.allies","Anfallaren får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies","Målet får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies.chain_strike","Alla träffade mål får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies.resetonheal","Målet får {ACCURACY} % träffsäkerhet i {TURNS} rundor. Effektens varaktighet nollställs om målet läks."
 "specials.v2.statuseffect.minor.accuracymodifierperhit.all.enemies","Alla fiender får {ACCURACY} % träffsäkerhet och ytterligare {CHANGE} % mindre varje gång de blir träffade under {TURNS} rundor med upp till {MAXACCURACY} % träffsäkerhet."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.blue.neartotarget.enemies","Målet och fiender i närheten får {ACCURACY} % träffsäkerhet, och ytterligare {ACCURACYPERTILE} % mindre per issköld på brädet i {TURNS} rundor, upp till {MAXACCURACY} % träffsäkerhet."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.purple.all.enemies","Alla fiender får {ACCURACY} % träffsäkerhet, och ytterligare {ACCURACYPERTILE} % mindre per mörkersköld på brädet i {TURNS} rundor, upp till {MAXACCURACY} % träffsäkerhet."
@@ -1777,6 +1824,7 @@ Lyckodanser kan staplas med andra danseffekter."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","Efter {TURNS} runda blir målet och fiender i närheten paralyserade i {STATUSEFFECT1TURNS} rundor. Paralyserade fiender kan inte attackera eller få mana och tar {STATUSEFFECT1DAMAGEMODIFIER} % mer skada."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","Efter 1 runda blir målet och fiender i närheten paralyserade i 2 rundor."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_titan.single.allies.turns.one","Efter {TURNS} runda blir målet och fiender i närheten paralyserade i {STATUSEFFECT1TURNS} rundor. Paralyserade fiender kan inte attackera eller få mana och tar {STATUSEFFECT1DAMAGEMODIFIER} % mer skada."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.sides.enemies.onremoval.expiration.paralysis_vasily.turns.one","Efter {TURNS} runda blir fienderna i utkanten av formationen paralyserade i {STATUSEFFECT1TURNS} rundor."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.allies.onremoval.death.reduce_max_health_over_time_stravia.all.enemies","Om användaren besegras under de kommande {TURNS} rundorna minskas alla fienders maxhälsa med {STATUSEFFECT1TOTAL} över {STATUSEFFECT1TURNS} rundor. Effekten är starkare mot mål med ökad hälsa."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.allies.onremoval.expiration.stun_major.brittle_major.mana_regen_reduction","Efter {TURNS} rundor får användaren följande negativa statuseffekter:
  Användaren får {REMOVALEFFECT1STATUSEFFECT1ATTACK} % attack under {REMOVALEFFECT1STATUSEFFECT1TURNS} rundor. Den här effekten kan inte rensas.
@@ -1791,6 +1839,7 @@ Lyckodanser kan staplas med andra danseffekter."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Efter {TURNS} rundor blir målet paralyserat i {STATUSEFFECT1TURNS} rundor."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Efter {TURNS} rundor blir målet paralyserat i {STATUSEFFECT1TURNS} rundor."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","Anfallaren gör {REMOVALEFFECT1FIXEDPOWER} skada på alla fiender efter {TURNS} rundor. Om effekten tas bort eller ersätts före det gör den {REMOVALEFFECT2FIXEDPOWER} skada istället."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.dispelincreasesactivations","Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället. Den här effekten är envis."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Användaren och allierade i närheten får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
@@ -1815,6 +1864,10 @@ Lyckodanser kan staplas med andra danseffekter."
 "specials.v2.statuseffect.minor.assistskillreceiveddamagemodifier.all.enemies","All skada som alla fiender tar emot ökar med {DAMAGEREDUCTION} % i {TURNS} rundor."
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.allies","Alla allierade får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor under {TURNS} rundor."
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","Alla fiender får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor under {TURNS} rundor."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.all.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_coronzom.single.allies","Alla fiender drabbas av ett stjärnklot.
+Den som är drabbad av stjärnklot kan inte få nya positiva statuseffekter.
+ Stjärnklot exploderar efter {TURNS} rundor och gör {DAMAGE} skada på den drabbade.
+ Om stjärnklotet rensas får ägaren resonans i {STATUSEFFECT1TURNS} rundor. Varje runda gör resonans {STATUSEFFECT1DAMAGEPERTURN} skada mot den drabbade fienden och {RESONANCEDAMAGE} skada mot fiender i närheten."
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Träffade fiender drabbas av stjärnklot.
 Ägaren kan inte få nya statuseffektsbonusar medan den drabbas av stjärnklotet.
  Stjärnklot sprängs efter {TURNS} rundor och gör {DAMAGE} skada mot ägaren.
@@ -1888,6 +1941,7 @@ Lyckodanser kan staplas med andra danseffekter."
 "specials.v2.statuseffect.minor.bleeding.sides.enemies.contagious","Fiender på kanten av formationen får {DAMAGE} blödningsskada under {TURNS} rundor. Effekten sprids till fiender i närheten."
 "specials.v2.statuseffect.minor.bleeding.single.enemies","Målet får {DAMAGE} blödningsskada under {TURNS} rundor."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.neartotarget","Målet tar {DAMAGE} blödningsskada över {TURNS} rundor. Användaren och alla dess allierade absorberar {ABSORBHEALING} % av den gjorda blödningsskadan som ökad hälsa."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som ökad hälsa."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.neartotarget.chain_strike","Alla träffade tar {DAMAGE} blödningsskada över {TURNS} rundor. Användaren och dess allierade i närheten absorberar {ABSORBHEALING} % av den gjorda blödningsskadan som hälsa."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.single","Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som hälsa."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.single.chain_strike","Alla fiender som träffas tar {DAMAGE} blödningsskada över {TURNS} rundor. Användaren absorberar {ABSORBHEALING} % av den gjorda blödningsskadan som hälsa."
@@ -1948,6 +2002,7 @@ Varje benkast åkallar ett skeletträvodjur åt målet. Odjuret skadar sitt mål
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.chain_strike","Alla som träffas är immuna mot nya bonusar med statuseffekter under {TURNS} rundor."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","Målet är immunt mot nya bonusar med statuseffekter i {TURNS} rundor, och tar {POWER} skada för varje bonusförsök."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","Alla träffade mål blir immuna mot nya bonusar med statuseffekter i {TURNS} rundor, och tar {POWER} skada för varje bonusförsök."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.dispelincreasesactivations.chain_strike","Alla träffade mål är immuna mot nya positiva statuseffekter i {TURNS} rundor och tar {POWER} skada när de försöker få bonusar. Den här effekten är envis."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Gör {DAMAGE}–{MAXDAMAGE} skada mot alla fiender efter {TURNS} rundor baserat på skadan som användaren tog under tiden som effekten var aktiv."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Gör {DAMAGE}–{MAXDAMAGE} skada mot alla fiender efter {TURNS} rundor eller om användaren besegras, baserat på skadan som användaren tog under tiden som effekten var aktiv."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","Gör {POWER} % – {MAXPOWER} % skada mot alla fiender efter {TURNS} rundor baserat på skadan som anfallaren gjorde under tiden som effekten var aktiv."
@@ -1980,7 +2035,7 @@ Varje benkast åkallar ett skeletträvodjur åt målet. Odjuret skadar sitt mål
 "specials.v2.statuseffect.minor.changingdefensemodifier.neartotarget.enemies","Målet och fiender i närheten får {CHANGE} % mindre försvar per runda under {TURNS} rundor."
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Målet och fiender i närheten får {CHANGE} % mindre manaskapande per runda under {TURNS} rundor."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alla allierade får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Den vanliga attackstyrkan stiger med {CHANGE} % varje runda. Den här effekten kan vara aktiv tillsammans med effekter som påverkar attackstyrka i allmänhet. Vanliga attacker kan ha högst {MAXATTACK} % högre kraft när den här effekten är aktiv."
-"specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","Användaren får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Den vanliga attackstyrkan ökar med {CHANGE} % varje runda. Den här effekten kan vara aktiv tillsammans med effekter som påverkar attackstyrka i allmänhet. Vanliga attacker kan ha högst {MAXATTACK} % högre kraft när den här effekten är aktiv."
+"specials.v2.statuseffect.minor.changingnormalattackmodifier.neartotarget.allies","Användaren och allierade i närheten får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Den vanliga attackstyrkan ökar med {CHANGE} % varje runda. Den här effekten kan vara aktiv tillsammans med effekter som påverkar attackstyrka i allmänhet. Vanliga attacker kan ha högst {MAXATTACK} % högre kraft när den här effekten är aktiv."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Användaren får {ATTACK} % vanlig attackstyrka i {TURNS} rundor. Den vanliga attackstyrkan stiger med {CHANGE} % varje runda. Den här effekten kan vara aktiv tillsammans med effekter som påverkar attackstyrka i allmänhet. Vanliga attacker kan ha högst {MAXATTACK} % högre kraft när den här effekten är aktiv."
 "specials.v2.statuseffect.minor.constantmanagainsteal.all.enemies","Användaren stjäl {CURRENTMANASTEAL} % av den skapade manan från alla fiender över {TURNS} rundor. Effekten tas bort när användaren besegras."
 "specials.v2.statuseffect.minor.constantmanagainsteal.single.enemies.chain_strike","Användaren stjäl {CURRENTMANASTEAL} % av den skapade manan från träffade fiender över {TURNS} rundor. Effekten tas bort när användaren besegras."
@@ -2104,6 +2159,11 @@ Slukande gegga: Tar bort alla positiva effekter som kan avbrytas, samt tillväxt
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Målfienden drabbas av den negativa statuseffekten slukande gegga i {TURNS} rundor.
 Slukande gegga: Tar bort alla positiva effekter som kan avbrytas, samt tillväxteffekter, gör {BASEDAMAGEPERTURN} skada per runda och {DAMAGEPERTURNPEREFFECT} skada per borttagen effekt."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Renar negativa statuseffekter från alla allierade i slutet av varje runda under {TURNS} rundor."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Rensar negativa statuseffekter säkert från alla allierade i slutet av varje runda i {TURNS} rundor."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Rensar 1 negativ statuseffekt från alla allierade i slutet av varje runda i {TURNS} rundor."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.bypassremoveeffects","Rensar 1 negativ statuseffekt säkert från alla allierade i slutet av varje runda i {TURNS} rundor."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.multiple","Rensar {REMOVALCOUNT} negativa statuseffekter från alla allierade i slutet av varje runda i {TURNS} rundor."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.multiple.bypassremoveeffects","Rensar {REMOVALCOUNT} negativa statuseffekter säkert från alla allierade i slutet av varje runda i {TURNS} rundor."
 "specials.v2.statuseffect.minor.dispel.all.enemies.minorbuff","Tar bort bonusar från alla fiender vid slutet av varje runda i {TURNS} rundor."
 "specials.v2.statuseffect.minor.dispel.neartotarget.allies.minordebuff","Renar negativa statuseffekter från användaren och allierade i närheten i slutet av varje runda under {TURNS} rundor."
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Tar bort bonusar från målet och fiender i närheten vid slutet av varje runda i {TURNS} rundor."
@@ -2169,6 +2229,7 @@ När trädockeundersåten åkallas ger den sin ägare immunitet mot nya negativa
 "specials.v2.statuseffect.minor.elementmirror.yellow.neartotarget.allies","Användaren och allierade i närheten reflekterar alla negativa statuseffekter och {DEFLECTION} % skada tillbaka till anfallaren och blockerar alla andra negativa statuseffekter från fienders heliga specialförmågor i {TURNS} rundor."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.allies","Användaren reflekterar alla negativa statuseffekter och {DEFLECTION} % skada tillbaka till anfallaren och blockerar andra negativa statuseffekter från fienders heliga specialförmågor i {TURNS} rundor."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.enemies","Användaren reflekterar alla negativa statuseffekter och {DEFLECTION} % skada tillbaka till anfallaren och blockerar andra negativa statuseffekter från fienders specialförmågor med mörker i {TURNS} rundor."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Ändrar alla fienders element till eld i {TURNS} rundor."
 "specials.v2.statuseffect.minor.elementswap.all.enemies.strongagainstelement","Ändrar alla fienders element till element de är starka mot under {TURNS} rundor."
 "specials.v2.statuseffect.minor.elementswap.single.allies.maintargetelement","Ändrar användarens element till målets element under {TURNS} rundor."
 "specials.v2.statuseffect.minor.elementswap.single.allies.strongagainstelement","Ändrar användarens element till det element den är stark mot under {TURNS} rundor."
@@ -2228,6 +2289,7 @@ Efter varje elementbyte tar fienderna {DAMAGEPERTURN} skada om deras element är
 "specials.v2.statuseffect.minor.fixedmanatoowneroncounterattack.small.increment.neartotarget.allies","Kastaren och allierade i närheten återställer en liten mängd mana för varje motanfall under {TURNS} rundor. Effekten blir mindre om detta aktiveras flera gånger under samma runda."
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.allminor.enemies","Målet får {DEFENSE} försvar mot mörker och alla andra fiender får {MINORDEFENSE} försvar mot mörker i {TURNS} rundor."
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.single.enemies","Målet får {DEFENSE} försvar mot mörker i {TURNS} rundor."
+"specials.v2.statuseffect.minor.fixedreddefensemodifier.single.enemies","Målet får {DEFENSE} försvar mot eld i {TURNS} rundor."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.allies","Alla allierade får {DEFENSE} försvar mot specialförmågor i {TURNS} rundor."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.enemies","Alla fiender får {DEFENSE} försvar mot specialförmågor i {TURNS} rundor."
 "specials.v2.statuseffect.minor.fixedyellowdefensemodifier.single.enemies","Målet får {DEFENSE} försvar mot heligt i {TURNS} rundor."
@@ -2393,21 +2455,24 @@ Varje mynt gör {POWER1} % skada."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.addmana.random.enemies","I slutet av varje runda avfyrar alla allierade en månstråle mot en slumpad fiende i {TURNS} rundor.
 Varje månstråle gör {POWER1} % skada.
 Varje månstråle minskar manan hos den träffade fienden med {ABSPOWER2} %."
-"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","I slutet av varje runda avfyrar alla allierade en stjärnstråle mot en slumpad fiende i {TURNS} rundor.
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","I slutet av varje runda avfyrar alla allierade en stjärnstråle mot en slumpvald fiende i {TURNS} rundor.
 Varje stjärnstråle gör {POWER1} % skada.
-Varje stjärnstråle minskar maxhälsan hos den träffade fienden med {REDUCTION2}."
+Varje stjärnstråle minskar den träffade fiendens maxhälsa med {REDUCTION2}. Den här effekten är starkare mot mål med ökad hälsa."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","I slutet av varje runda avfyrar anfallaren och allierade i närheten en månstråle mot en slumpad fiende under {TURNS} rundor.
 Varje månstråle gör {POWER1} % skada.
 Varje månstråle minskar manan hos den träffade fienden med {ABSPOWER2} %."
-"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.reducemaxhealth.random.enemies.add_insanity_ocular_ray_nyctalos.with_chance","I slutet av varje runda skjuter användaren och allierade i närheten en ögonstråle på en slumpvald fiende i {TURNS} rundor.
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","I slutet av varje runda avfyrar användaren och allierade i närheten en stjärnstråle mot en slumpvald fiende i {TURNS} rundor.
+Varje stjärnstråle gör {POWER1} % skada.
+Varje stjärnstråle minskar den träffade fiendens maxhälsa med {REDUCTION2}. Den här effekten är starkare mot mål med ökad hälsa."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.reducemaxhealth.random.enemies.add_insanity_ocular_ray_nyctalos.with_chance","I slutet av varje runda avfyrar användaren och allierade i närheten en ögonstråle mot en slumpvald fiende i {TURNS} rundor.
  Varje ögonstråle ger den träffade fienden {INSANITYTOADD} vansinne.
- Varje ögonstråle sänker den träffade fiendes maxhälsa med {REDUCTION1}."
+ Varje ögonstråle sänker den träffade fiendes maxhälsa med {REDUCTION1}. Den här effekten är starkare mot mål med ökad hälsa."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","I slutet av varje runda avfyrar anfallaren en månstråle mot en slumpmässig fiende under {TURNS} rundor.
 Varje månstråle gör {POWER1} % skada.
 Varje månstråle minskar manan hos den träffade fienden med {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","I slutet av varje runda avfyrar användaren en stjärnstråle mot en slumpvald fiende i {TURNS} rundor.
 Varje stjärnstråle gör {POWER1} % skada.
-Varje stjärnstråle sänker maxhälsan hos den träffade fienden med {REDUCTION2}."
+Varje stjärnstråle minskar den träffade fiendens maxhälsa med {REDUCTION2}. Den här effekten är starkare mot mål med ökad hälsa."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","Alla allierade får ett eldstormsbeskydd under {TURNS} rundor, som minskar skada från specialförmågor med upp till -{MAX}. Minskar skada med ytterligare {ADDITIONALDAMAGEMODIFIER} % om anfallaren har elementet natur."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","Alla allierade i närheten får ett frostbeskydd i {TURNS} rundor, som minskar skada från specialförmågor med upp till -{MAX}. Minskar skada med ytterligare {ADDITIONALDAMAGEMODIFIER} % om anfallaren har elementet eld."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","Alla allierade får ett månbeskydd under {TURNS} rundor, som minskar skada från specialförmågor med upp till -{MAX}. Minskar skada med ytterligare {ADDITIONALDAMAGEMODIFIER} % om anfallaren har elementet helig."
@@ -2496,7 +2561,7 @@ Varje genomborrande shuriken gör {POWER1} % skada."
 "specials.v2.statuseffect.minor.proportionalmanatoattackeroncounterattack.decrement.single.allies","Användaren sänker anfallarens mana med {PROPORTIONALMANA} % för varje motanfall i {TURNS} rundor. Effekten blir svagare för varje användning under samma runda."
 "specials.v2.statuseffect.minor.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies","Alla fiender blir provocerade i {TURNS} rundor. Den provocerade karaktären gör {POWER1} % skada mot en slumpvald fiende vid rundans slut."
 "specials.v2.statuseffect.minor.pumpkinbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Målet får en pumpabomb. Efter {TURNS} rundor exploderar pumpabomben och gör {DAMAGE} skada på målet och fiender i närheten. Pumpabomben exploderar också när målet dör."
-"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","Målet får en stinkbomb och får {DEFENSE} % försvar så länge den är påverkad av den. Stinkbomben exploderar efter {TURNS} rundor och gör {FIXEDPOWER} skada mot målet och allierade i närheten."
+"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","Målet får en [#!]stinkbomb[#]. [#!]Stinkbomben[#] exploderar efter [#!]{TURNS}[#] rundor och gör [#!]{FIXEDPOWER}[#] skada mot målet och allierade i närheten."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.allies","Alla allierade får {DEFENSE} % försvar mot mörker i {TURNS} rundor."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Alla fiender får {DEFENSE} % försvar mot mörker under {TURNS} rundor."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","Anfallaren och allierade i närheten får {DEFENSE} % försvar mot mörker under {TURNS} rundor."
@@ -2577,7 +2642,7 @@ Tålig röta
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Målet och fiender i närheten står emot läkning och får {FIXEDPOWER} skada för varje läkning de motstår under {TURNS} rundor."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Fienderna i fiendeformationens utkant står emot läkning och tar {FIXEDPOWER} skada för varje läkning de motstår under {TURNS} rundor."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Målet står emot läkning och tar {FIXEDPOWER} skada för varje läkning som motstås under {TURNS} rundor."
-"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","Målet står emot läkning och tar {FIXEDPOWER} skada för varje läkning som motstås under {TURNS} rundor."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","Alla fiender står emot läkning och tar {FIXEDPOWER} skada för varje läkning de motstår i {TURNS} rundor."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","Den andra träffens mål står emot läkning och tar {FIXEDPOWER} skada för varje läkning som motstås under {TURNS} rundor."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","Alla mål som träffas står emot läkning och tar {FIXEDPOWER} skada för varje läkning de motstår i {TURNS} rundor."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Alla allierade är immuna mot negativa manaeffekter i {TURNS} rundor."
@@ -2659,7 +2724,7 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Alla mål som träffas tystas i {TURNS} rundor."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","Målet för den andra träffen tystas under {TURNS} rundor."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","Målet tystas under {TURNS} rundor."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Alla fiender somnar och tar {DAMAGEMODIFIER} % extra skada när de sover."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","Målet och fiender i närheten blir själsbundna i {TURNS} rundor."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Alla allierade blir själsbundna i {TURNS} rundor. Själsbundna allierade delar mottagen skada."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Alla allierade blir själsbundna i {TURNS} rundor. Själsbundna allierade delar mottagen skada.
@@ -2685,6 +2750,8 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.specialskillcastmark.single.allies.stackingmanagenerationmodifier.specialskillcast.activates_on_ally_action","Användren får får ett specialförmågemärke i {TURNS} rundor. Varje gång en allierad förutom användaren använder sin specialförmåga får användaren en stapel (högst {STATUSEFFECT1MAXSTACK}). Varje stapel ökar användarens manaskapande med {STATUSEFFECT1MANAREGEN} %."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.allies","Alla allierade får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor under {TURNS} rundor."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies","Alla fiender får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor under {TURNS} rundor."
+"specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.onremoval.damage.single.allies","Alla fiender får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor i {TURNS} rundor. Om effekten tas bort innan den går ut av sig själv tar målet med effekten {DAMAGE} skada."
+"specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.onremoval.damage.single.allies.removal.dispel.reallocation.replacesamestatuseffect","Alla fiender får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor i {TURNS} rundor. Om effekten tas bort innan den går ut av sig själv tar målet med effekten {DAMAGE} skada."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.withactivationcount.one.onremoval.addmana.single.allies.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.decrease.unreallocatable","Förbättrat effektförsvar: Alla fiender får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor. Den här effekten varar tills fienden tar skada från en specialförmåga.
  När förbättrat effektförsvar tar slut, tas bort eller ersätts minskas fiendens mana med {REMOVALEFFECT1MANA} %."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.withactivationcount.one.onremoval.damage.single.allies.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.unreallocatable","Förbättrat effektförsvar: Alla fiender får {SPECIALSKILLDEFENSE} % försvar mot specialförmågor. Den här effekten varar tills fienden tar skada från en specialförmåga.
@@ -2728,6 +2795,7 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Staplas (max: {MAXSTACK}): Användaren får ytterligare {ATTACK} % attack för varje besegrad undersåte."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Stapel (max: {MAXSTACK}): Varje träff ger målet {ATTACK} % attack."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Stapel (max: {MAXSTACK}): Användaren får {ATTACK} % attack mot det svagare elementet."
+"specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Stapel (max: {MAXSTACK}): Alla allierade får {CRIT} % kritisk chans."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): Alla allierade får {CRITPERSTACK} % chans till kritisk träff per stapel."
 "specials.v2.statuseffect.minor.stackingcritmodifier.neartotarget.allies","Stapel (Max: {MAXSTACK}): Användaren och allierade i närheten får {CRIT} % chans till kritisk träff."
 "specials.v2.statuseffect.minor.stackingcritmodifier.single.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): Den här karaktären får {CRIT} % chans till kritisk träff."
@@ -2806,6 +2874,10 @@ Källan till bonusar aktiveras {MAXACTIVATIONCOUNT} gånger. Den här effekten �
 {STATUSEFFECT1MANAREGEN} % manaskapande i {STATUSEFFECT1TURNS} rundor.
 {STATUSEFFECT2DEFENSE} % försvar mot specialförmågor i {STATUSEFFECT2TURNS} rundor.
 Källan till negativa effekter aktiveras {MAXACTIVATIONCOUNT} gånger. Den här effekten är envis."
+"specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.poison_paracelsus.resist_healing_with_damage_paracelsus.dispelincreasesactivations","Källa till negativa effekter: Följande effekter används på en slumpvald fiende i början av varje runda:
+{STATUSEFFECT1DAMAGE} giftskada i {STATUSEFFECT1TURNS} rundor.
+Står emot läkning och får {FIXEDPOWER} per motstådd läkning i {STATUSEFFECT2TURNS} rundor.
+Källan till negativa effekter aktiveras {MAXACTIVATIONCOUNT} gånger. Den här effekten är envis."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_modthryth.mana_regen_modthryth","Statuseffektgenerator: I början av de kommande {MAXACTIVATIONCOUNT} rundorna ger den här karaktären en slumpvald allierad {STATUSEFFECT1POWER} % extra specialförmågeskada och {STATUSEFFECT2MANAREGEN} % manaskapande under {STATUSEFFECT1TURNS} rundor. Den här effekten kan inte tas bort."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_modthryth.mana_regen_modthryth.dispelincreasesactivations","Källa till bonusar: Följande effekter används på en slumpvald allierad i början av varje runda:
 {STATUSEFFECT1POWER} % specialförmågeskada i {STATUSEFFECT1TURNS} rundor.
@@ -2844,6 +2916,7 @@ Varje undvikande ger alla allierade {MANAREGEN} % manaskapande i {TURNS} rundor
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Alla allierade får {ATTACK} % attack i {TURNS} rundor. Alla allierade får {ATTACKAGAINSTVALIDTARGET} % attack mot heliga titaner."
 "specials.v2.statuseffect.minor.taunt.single.allies","Användaren får hån som hindrar fiender från att använda specialförmågor på användarens allierade under {TURNS} rundor."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Alla fiender i närheten tar {DAMAGE} giftskada i {TURNS} rundor. Skadan ökas mot mål med ökad hälsa, undersåtar eller megaundersåtar."
+"specials.v2.statuseffect.minor.toxin.neartotarget.enemies.dispelincreasesactivations.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Målet och fiender i närheten tar {DAMAGE} giftskada över {TURNS} rundor. Skadan stiger mot mål med ökad hälsa, undersåtar och megaundersåtar. Den här effekten är envis."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Målet och fiender i närheten tar {DAMAGE} giftskada i {TURNS} rundor. Skadan ökas mot mål med ökad hälsa, undersåtar eller megaundersåtar."
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Fiender i fiendeformationens utkanter tar {DAMAGE} giftskada i {TURNS} rundor. Skadan ökas mot mål med ökad hälsa, undersåtar eller megaundersåtar."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Målet tar {DAMAGE} giftskada i {TURNS} rundor. Skadan ökas mot mål med boostad hälsa, undersåtar eller megaundersåtar."
@@ -2868,8 +2941,16 @@ Varje undvikande ger alla allierade {MANAREGEN} % manaskapande i {TURNS} rundor
  Om magmakuben rensas får ägaren {STATUSEFFECT1MANAREGEN} % manaskapande i {REMOVALEFFECT2STATUSEFFECT1TURNS} rundor."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Alla fiender tar {BASEDAMAGE} vattenskada och ökad {DAMAGEPERTILE} skada för varje issköld på brädet i {TURNS} rundor, upp till {MAXDAMAGE} skada. Den här effekten går inte att rena för alla eldfiender."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","Anfallaren får Hämnd under {TURNS} rundor. Om den avbryts av en specialförmåga tar alla fiender {DAMAGE} skada."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Målet blir till en sinnesmask. Sinnesmaskar har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:
+
+{REPLACEDSPECIALTITLE} ({REPLACEDMANASPEED})
+Gör 75 vansinne på en slumpmässig allierad.
+Tar bort effekten sinnesmask från användaren."
 "specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Vild: Målet och fiender i närheten tar {DAMAGEPERTURN} eller {WILDDAMAGEPERTURN} eldskada i {TURNS} rundor."
 "specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Vild: Alla allierade återfår {HPPERTURN} hälsa eller får {WILDHPPERTURN} ökad hälsa i {TURNS} rundor."
+"specials.v2.statuseffect.minor.wind.all.enemies.alldefensivebuffs.minion.bigminion.follower","Alla fiender tar {DAMAGE} vindskada i {TURNS} rundor. Skadan ignorerar försvarsbonusar, undersåtar och megaundersåtar."
+"specials.v2.statuseffect.minor.wind.neartotarget.enemies.alldefensivebuffs.minion.bigminion.follower","Målet och fiender i närheten tar {DAMAGE} vindskada i {TURNS} rundor. Skadan ignorerar försvarsbonusar, undersåtar och megaundersåtar."
+"specials.v2.statuseffect.minor.wind.single.enemies.alldefensivebuffs.minion.bigminion.follower.chain_strike","Alla träffade mål tar {DAMAGE} vindskada i {TURNS} rundor. Skadan ignorerar försvarsbonusar, undersåtar och megaundersåtar."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","Alla allierade får {DEFENSE} % försvar mot helig i {TURNS} rundor."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.enemies","Alla fiender får {DEFENSE} % försvar mot heligt i {TURNS} rundor."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.allexceptcaster.allies","Alla allierade utom användaren får {DEFENSE} % försvar mot heligt i {TURNS} rundor."
@@ -2916,14 +2997,3 @@ En hjältes vansinne kan minskas genom direkt läkning från en specialförmåga
 "specials.v2.toon_tide.immuneelement.purple","Alla mörka allierade och fiender är immuna mot den här specialförmågan."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Effekten kan bar aktiveras en gång per hydrahuvudsundersåte."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","När hydrahuvudsundersåten besegras får en slumpvald allierad en återfödd hydrahuvudsundersåte som ärver den ursprungliga undersåtens attribut."
-"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Rensar alla negativa statuseffekter från användaren på ett säkert sätt."
-"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Ändrar alla fienders element till [##elementred]eld[#] i {TURNS} rundor."
-"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
-"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som ökad hälsa."
-"specials.v2.property.wither.none.single.enemies.attack","[#!]Vittra:[#] Målet får {ATTACKINCREASE} attack."
-"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Målet förvandlas till en [#!]sinnesmask[#]. [#!]Sinnesmaskar[#] har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:
- 
-[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
-[>]Ger 75 [#!]vansinne[#] till en slumpmässig allierad.
-[>]Tar bort [#!]sinnesmask[#]-effekten från användaren."
-"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Tar bort den negativa effekten [#!]sinnesmask[#] från användaren."

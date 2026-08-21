@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Väktare"
 "herocard.family.title.halloween","Morlovienfamiljen"
 "herocard.family.title.halloween.short","Morlovien"
+"herocard.family.title.harpy","Våldsamma harpyor"
+"herocard.family.title.harpy.short","Våldsamma harpyor"
 "herocard.family.title.helheim","Riket Helheim"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","{0}-legendfamilj"

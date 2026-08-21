@@ -58,7 +58,7 @@
 "quests.name.goblin","Goblinlandsby"
 "quests.name.guestip1","Spesiell gjest-hendelse"
 "quests.name.halloween_2018","Tilbake til Morlovia"
-"quests.name.halloween_2025","Det optimistiske festmåltidet"
+"quests.name.halloween_2025","Blodrødt festmåltid"
 "quests.name.hotm_quest1","Legendenes kro"
 "quests.name.iron","Utvinn jern"
 "quests.name.kalevala","Kalevala"

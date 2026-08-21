@@ -2,11 +2,12 @@
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.addmana","このキャラクターのマナは、敵が出血ダメージを受けるたびに{POWER}%増加する。"
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","このキャラクターのHPは、敵が出血ダメージを受けるたびに{POWER}回復する。"
 "herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","このキャラクターのマナは、敵が燃焼ダメージを受けるたびに{POWER}%増加する"
-"herocard.passive_skill.description.bypasscounterattackandreflect","このキャラクターにの特殊スキルがカウンターとリフレクトを貫通する。"
+"herocard.passive_skill.description.bypasscounterattackandreflect","このキャラクターの特殊スキルがカウンターとリフレクトを貫通する。"
 "herocard.passive_skill.description.bypassfamiliars.minion","このキャラクターによって与えられる全ダメージがミニオンを貫通する。"
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","このキャラクターの与える全ダメージがミニオンとメガミニオンを貫通する。"
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","ステータス効果の持続時間が延長される確率が上昇。"
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0}ターン: {1}%"
+"herocard.passive_skill.description.charactercoreintrinsicchargeconsumptionmodifier","このキャラクターのコアが有効になると、コアチャージの{MULTIPLIER}%のみが消費される。"
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","このキャラクターの飛行推進力が残っている場合、以下を獲得する：
 最大{MAXMANAGENERATIONMODIFIER}%の追加のマナ生成。
 最大{MAXDODGEMODIFIER}%の回避確率。
@@ -61,15 +62,17 @@
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","このキャラクターが特殊スキルによってダメージを受けた場合、または仲間をかばってダメージを受けた場合、{CHANCE}%の確率で、受けたダメージの{POWER}%を敵全員に与える。"
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","このキャラクターが特殊スキルによってダメージを受けた場合、または仲間をかばってダメージを受けた場合、{CHANCE}%の確率で、受けたダメージの{POWER}%を敵全員に与える。（最大ダメージ：{RARITYLIMITEDDAMAGE}）"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","このキャラクターが特殊スキルによるダメージを受けると、{STATUSEFFECT1ATTACK}%の攻撃力の累積効果を獲得する（最大：{STATUSEFFECT1MAXSTACK}）。1ターンに獲得可能な累積効果は1つのみ。"
-"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","このキャラクターが特殊スキルによるダメージを受けると、{STATUSEFFECT1ATTACK}%の攻撃力の累積効果を獲得する（最大： {STATUSEFFECT1MAXSTACK}）。1ターンに獲得可能な累積効果は1つのみ。"
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","このキャラクターが特殊スキルによるダメージを受けると、{STATUSEFFECT1ATTACK}%の攻撃力の累積効果を獲得する（最大：{STATUSEFFECT1MAXSTACK}）。1ターンに獲得可能な累積効果は1つのみ。"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","このキャラクターが特殊スキルによるダメージを受けると、{STATUSEFFECT1ATTACK}%の攻撃力の累積効果を獲得する（最大： {STATUSEFFECT1MAXSTACK}）。1ターンに獲得可能な累積効果は1つのみ。"
 "herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","このキャラクターのライフが{HEALTHTHRESHOLD}%未満になると、{STATUSEFFECT1TURNS}ターンかけてマナを{STATUSEFFECT1TOTAL}%獲得する。"
-"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","仲間が特殊スキルで浄化を試みると、すべての仲間のライフが{POWER}ブーストされる。この効果は1ターンに一度のみ発動。"
-"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","敵が特殊スキルで浄化を試みると、敵全員が{POWER}ダメージを受ける。この効果は1ターンに一度のみ発動。"
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","仲間が特殊スキルでステータス異常の浄化を試みると、すべての仲間のHPが{POWER}ブーストされる。この効果は1ターンに一度のみ発動。また、浄化に成功しなかった場合にも発動する。"
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","敵が特殊スキルでステータス異常の浄化を試みると、すべての敵が{POWER}のダメージを受ける。この効果は1ターンに一度のみ発動。また、浄化に成功しなかった場合にも発動する。"
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","バフが解除されるたびに、このキャラクターのマナが{POWER}%増加する。この効果を発動できるのは、1ターンにつき1回まで。"
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","バフが解除されるたびに、このキャラクターのマナが{POWER}%増加する。この効果を発動できるのは、1ターンにつき1回まで。また、解除に成功しなかった場合にも発動する。"
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","このキャラクターはステータス異常が終了/浄化/解除/再割り当てされるたびに、{POWER}%HPを付与される。この効果は1ターンにつき、1回のみ有効となる。"
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","このキャラクターはステータス異常が終了/浄化/解除/再割り当てされるたびに、{CHANCE}%の確率で{POWER}%HPを付与される。この効果は1ターンにつき、1回のみ有効となる。"
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","バフが解除されるたびに、このキャラクターのHPが{POWER}ブーストされる。この効果を発動できるのは、1ターンにつき1回まで。"
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","バフが解除されるたびに、このキャラクターのHPが{POWER}増加する。この効果を発動できるのは、1ターンにつき1回まで。また、解除に成功しなかった場合にも発動する。"
 "herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","このキャラクターが所有するミニオンが攻撃を与えるたびに、{TURNS}ターンにわたって{DAMAGE}フロストダメージを与える。"
 "herocard.passive_skill.description.effectonheal.addmana","HPが回復するたびに、このキャラクターのマナが{POWER}%増加する。"
 "herocard.passive_skill.description.effectonheal.heal","このキャラクターのライフが回復するたびに、さらにライフが{POWER}%増加する。"
@@ -86,6 +89,7 @@
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","このキャラクターが、1回の攻撃で最大ライフの{DAMAGETHRESHOLD}%を失うと、自身のもとに{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を備えたスライムのメガミニオンをサモンする。"
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","このキャラクターが、1回の攻撃で最大ライフの{DAMAGETHRESHOLD}%を失うと、自身のもとに{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を備えたスライムのメガミニオンをサモンする。"
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","このキャラクターが、1回の攻撃で最大ライフの{DAMAGETHRESHOLD}%を失うと、自身のもとに{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を備えたスライムのメガミニオンをサモンする。"
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.all.allies.fixedpower.addmana.all.allies.once","このキャラクターがパッシブスキルでいずれかの効果を阻止するごとに、仲間全員のHPが{HEALTHBOOST}、マナが{MANA}%ブーストされる。この効果を発動できるのは、1ターンにつき1回まで。"
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","このキャラクターが抵抗に成功すると、そのライフが{HEALTHBOOST}%ブーストされ、マナが{MANA}%増加する。"
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","敵がライフを直接ブーストさせる特殊スキルを使用するたびに、このキャラクターのマナが{POWER}%増加する。"
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","敵がライフを直接ブーストさせる特殊スキルを使用するたびに、このキャラクターも{POWER}のHPブーストを獲得する。"
@@ -154,15 +158,14 @@
 "herocard.passive_skill.description.extraactionsafterspecial","このキャラクターが特殊スキルを使用すると、{CHANCE}%の確率で追加攻撃を行える："
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","敵全員のミニオンの命中率が{MINIONMODIFIER}%になる。
 敵全員のメガミニオンの命中率が{MEGAMINIONMODIFIER}%になる。"
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","このキャラクターの蓄積コアはミニオンコアだ。
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","このキャラクターの蓄積コアは[#!]ミニオンコア[#]だ。
 
-ミニオンコアはこのキャラクターが特殊スキルを使用するたびに発動する：
+[#!]ミニオンコア[#]はこのキャラクターが[#!]特殊スキル[#]を使用するたびに発動する：
 
- ミニオンコアをフルチャージすると、術者から継承したHP{FAMILIARHEALTHPERCENT}%、攻撃力{FAMILIARATTACK}%のキラーボットミニオンを仲間全員にサモンする。
- 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。
- キラーボットミニオンはターゲットに攻撃を与える前に、ターゲットのミニオンをすべて破壊し、メガミニオンにダメージを与える。
-キラーボットミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。
- 弱化： キラーボットミニオンの攻撃が当たったターゲットの攻撃力は{ATTACKMODIFIER}になる。"
+[*] [#!]ミニオンコア[#]をフルチャージすると、術者から継承したHP[#!]{FAMILIARHEALTHPERCENT}%[#]、攻撃力[#!]{FAMILIARATTACK}%[#]の[#!]キラーボットミニオン[#]を仲間全員にサモンする。
+[*] 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。
+[*] キラーボットミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。
+[*] [#!]弱化：[#] キラーボットミニオンの攻撃が当たったターゲットの攻撃力は[#!]{ATTACKMODIFIER}[#]になる。"
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","このキャラクターの蓄積コアはミニオンコアだ。
 
 ミニオンコアはこのキャラクターが特殊スキルを使用するたびに発動する：
@@ -231,12 +234,12 @@
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","各ターン開始時に、このキャラクターはランダムな敵1体に強奪を行う：
 
 ライフを{DAMAGE}奪取する。
-その敵から安全にバフを奪取する。これには強固および解除不可のバフとダンス効果も含まれる。"
+その敵から安全にバフを奪取する。これには解除不可能なバフとダンス効果も含まれる。"
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","各ターン開始時に、このキャラクターはランダムな敵1体に{CHANCE}%の確率で強奪を行う：
 
 強奪：
 ライフを{DAMAGE}奪取する。
-その敵から安全に成長効果、プラスの累積効果バフ、またはステータス効果バフをランダムで奪取する。これには強固および解除不可能なバフとダンス効果も含まれる。
+その敵から安全に成長効果、プラスの累積効果バフ、またはステータス効果バフをランダムで奪取する。これには解除不可能なバフとダンス効果も含まれる。
 安全に奪取すると、削除時のダメージや削除したバフからの副次的効果を無効にできる。パッシブスキルとファミリー効果も有効にしたままにできる。"
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","このキャラクターが特殊スキルを使用すると、{CHANCE}%の確率で敵から最新の解除可能なバフを盗む。バフがかかっている敵がいない場合、敵全員に{DAMAGE}%のダメージを与える。"
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","このキャラクターが特殊スキルを使用すると、{CHANCE}%の確率で敵から最新の解除可能なバフを盗む。バフがかかっている敵がいない場合、敵全員に{DAMAGE}%のダメージを与える。"
@@ -255,6 +258,7 @@
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージをランダムな敵1体にはね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
+"herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","パッシブスキルによって、このキャラクターが抵抗したステータス異常が敵全員に跳ね返る。"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","ステータス異常を攻撃者に反射する確率がさらに{CHANCE}%上昇。"
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","{TURNS}ターンごとに、仲間全員の弱体効果すべてが解除される。"
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","{TURNS}ターンごとに、敵全員の成長効果すべてが解除される。"
@@ -415,6 +419,8 @@
 狩猟のフレアの印がつけられたターゲットはクリティカル攻撃を受けると追加で{FIXEDPOWER}ダメージを受ける。"
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","このキャラクターが特殊スキルを使用すると、{TURNS}ターンの間、ミニオンの攻撃力が{ATTACK}%になる。この効果は攻撃力を変化させる効果に累積できる。"
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","バトルにつき1回だけ、{TURNS}ターンにわたって、この英雄の属性を別の属性の中から選んで変更できる。属性を変更するには、この英雄をタップすること（マナが満タンでない場合のみ）。"
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","{TURNSBETWEENEFFECTS}ターンごとに、このキャラクターはマナ回復速度が最も速い敵から{MANASTEAL}%のマナを奪う。この効果はステータス効果またはパッシブスキルによって妨害されない。"
+"herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","{TURNSBETWEENEFFECTS}ターンごとに、このキャラクターはマナが最も多い敵から{MANASTEAL}%のマナを奪う。この効果はステータス効果またはパッシブスキルによって妨害されない。"
 "herocard.passive_skill.description.stopchainstrikes","このキャラクターは、特殊スキルの連鎖または複数回攻撃の効果を終了させる。有用な効果は妨害しない。"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。
 苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
@@ -544,6 +550,7 @@
 "herocard.passive_skill.title.bypassfamiliars.minion","ミニオン貫通"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","ミニオン超貫通"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","ステータス効果持続時間延長"
+"herocard.passive_skill.title.charactercoreintrinsicchargeconsumptionmodifier","エネルギーセーバー"
 "herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","飛行推進力"
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","弱化中のマナ"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","一定時間経過後に甦る"
@@ -583,12 +590,14 @@
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","被ダメージ時の累積効果攻撃力"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","被ダメージ時の累積効果攻撃力"
 "herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","サージバック"
-"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","仲間による浄化試行時のHPブースト"
-"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","敵による浄化試行時のダメージ"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","仲間による浄化時のHPブースト"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","敵による浄化時のダメージ"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","解除時マナ増加"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","バフ解除時マナ増加"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","バフ解除時マナ増加"
 "herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","ステータス異常が終了するか浄化されると回復する"
 "herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","バフ解除時HPブースト獲得"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel.activates_on_dispel_cast","バフ解除時HPブースト獲得"
 "herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","ミニオン攻撃時のフロスト付与"
 "herocard.passive_skill.title.effectonheal.addmana","HP回復時にマナ増加"
 "herocard.passive_skill.title.effectonheal.heal","ライフ回復時の回復量が増加"
@@ -602,6 +611,7 @@
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","スライムミニオンの分裂"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","スライムミニオンの分裂"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","スライムミニオンの分裂"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","レジェンド逆転"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","抵抗時にライフブースト&マナを獲得"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","特殊スキルでライフブースト時にマナを獲得"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","敵HPブースト時のセルフHPブースト"
@@ -631,6 +641,8 @@
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","特殊スキルを累積"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","一定期間の特殊スキルによるダメージ"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","敵が特殊スキル使用時にダメージを付与"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingdefensemodifier.faster.average","敵が特殊スキル使用時に防御力累積"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingreceiveddamagemodifier.faster.average","敵の特殊スキルに対するダメージ軽減"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","マナ挑発"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","敵が防御力バフ使用時マナ増加"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","敵の防御力が増加した場合に、ステータス効果を与える"
@@ -707,6 +719,7 @@
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","強化ファイヤーボールダメージ増加"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","九死に一生"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","九死に一生"
+"herocard.passive_skill.title.reflectresistedstatuseffect","レジェンドリフレクター"
 "herocard.passive_skill.title.remove_growth_from_enemies","ガードラリー"
 "herocard.passive_skill.title.remove_wither_from_allies","ガードラリー"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","修復コア"
@@ -822,6 +835,8 @@
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","ガーゴイルの石膚"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","異常からのマナ生成バフ"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","エレメントマスク"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","急襲と強奪"
+"herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","急襲と強奪"
 "herocard.passive_skill.title.stopchainstrikes","連鎖攻撃阻止"
 "herocard.passive_skill.title.stylish","スタイリッシュ！"
 "herocard.passive_skill.title.stylish_epic","スタイリッシュ！"
@@ -858,3 +873,4 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","バフ変化"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","ステータス異常変化"
 "herocard.passive_skill.title.wither.all.enemies","弱化"
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","マナ生成が[#!]{MODIFIER}%[#]になる。"

@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Guardianes"
 "herocard.family.title.halloween","Familia de Morlovia"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Arpías despiadadas"
+"herocard.family.title.harpy.short","Arpías despiadadas"
 "herocard.family.title.helheim","Reino de Helheim"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Familia de leyendas {0}"

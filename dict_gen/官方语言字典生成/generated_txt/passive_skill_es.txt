@@ -7,6 +7,7 @@
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Todo el daño que inflige este personaje ignora a los secuaces y megasecuaces."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Probabilidad de aumentar la duración de los efectos de estado aplicados."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} turnos: {1} %"
+"herocard.passive_skill.description.charactercoreintrinsicchargeconsumptionmodifier","Cuando el núcleo de este personaje está activado, solo se agota un {MULTIPLIER} % de su carga del núcleo."
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Si este personaje tiene cualquier cantidad de ímpetu de vuelo, recibe:
  Hasta un {MAXMANAGENERATIONMODIFIER} % de regeneración de maná extra.
  Hasta un {MAXDODGEMODIFIER} % de probabilidad de esquivar adicional.
@@ -63,13 +64,15 @@ El núcleo destructor se activa cada vez que este personaje lanza su habilidad e
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","Cuando este personaje recibe daño de habilidades especiales, obtiene un {STATUSEFFECT1ATTACK} % de acumulación de ataque (máx.: {STATUSEFFECT1MAXSTACK}). Se puede obtener una acumulación por turno."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","Cuando este personaje recibe daño de habilidades especiales, obtiene un {STATUSEFFECT1ATTACK} % de acumulación de ataque (máx.: {STATUSEFFECT1MAXSTACK}). Se puede obtener una acumulación por turno."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","Cuando este personaje recibe daño de habilidades especiales, obtiene un {STATUSEFFECT1ATTACK} % de acumulación de ataque (máx.: {STATUSEFFECT1MAXSTACK}). Se puede obtener una acumulación por turno."
-"herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","Cuando la vitalidad de este personaje baja del {HEALTHTHRESHOLD} %  obtiene un {STATUSEFFECT1TOTAL} % de maná durante {STATUSEFFECT1TURNS} turnos."
-"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Cuando un aliado intenta purificarse usando habilidades especiales, todos los aliados reciben {POWER} de vitalidad potenciada. Este efecto solo se puede activar una vez por turno."
-"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Cuando un enemigo intenta purificarse usando habilidades especiales, todos los enemigos reciben {POWER} de daño. Este efecto solo se puede activar una vez por turno."
+"herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","Cuando la vitalidad de este personaje baja del {HEALTHTHRESHOLD} % obtiene un {STATUSEFFECT1TOTAL} % de maná durante {STATUSEFFECT1TURNS} turnos."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Cuando un aliado purifica estados alterados usando una habilidad especial, todos los aliados reciben {POWER} de vitalidad potenciada. Este efecto solo se puede activar una vez por turno. También se activa con los intentos de purificar."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Cuando un enemigo purifica estados alterados usando una habilidad especial, todos los enemigos reciben {POWER} de daño. Este efecto solo se puede activar una vez por turno. También se activa con los intentos de purificar."
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","Este personaje recibe un {POWER} % de maná cada vez que se descarta una bendición suya. Este efecto solo se puede activar una vez por turno."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Este personaje recibe un {POWER} % de maná cada vez que se descarta una bendición suya. Este efecto solo se puede activar una vez por turno. También se activa con los intentos de descartar."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Este personaje recibe un {POWER} % de vitalidad cada vez que un estado alterado termina, se purifica, se elimina o se reasigna. Este efecto solo se puede activar una vez por turno."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","Este personaje tiene un {CHANCE} % de probabilidad de recibir un {POWER} % de vitalidad cada vez que un estado alterado termina, se purifica, se elimina o se reasigna. Este efecto solo se puede activar una vez por turno."
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","Este personaje recibe {POWER} de vitalidad potenciada cada vez que se descarta una bendición de este personaje. Este efecto solo se puede activar una vez por turno."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","Este personaje recibe un {POWER} de vitalidad potenciada cada vez que se descarta una bendición suya. Este efecto solo se puede activar una vez por turno. También se activa con los intentos de descartar."
 "herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","Cada golpe de los secuaces de este personaje inflige {DAMAGE} de daño de escarcha a lo largo de {TURNS} turnos."
 "herocard.passive_skill.description.effectonheal.addmana","Este personaje recibe un {POWER} % de maná cada vez que recupera vitalidad."
 "herocard.passive_skill.description.effectonheal.heal","Este personaje recibe un {POWER} % de vitalidad cada vez que recupera vitalidad."
@@ -86,6 +89,7 @@ El núcleo destructor se activa cada vez que este personaje lanza su habilidad e
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Si este personaje pierde más de un {DAMAGETHRESHOLD} % de vitalidad máxima de una vez, se autoinvoca un megasecuaz viscoso con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Si este personaje pierde más de un {DAMAGETHRESHOLD} % de vitalidad máxima de una vez, se autoinvoca un megasecuaz viscoso con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Si este personaje pierde más de un {DAMAGETHRESHOLD} % de vitalidad máxima de una vez, se autoinvoca un megasecuaz viscoso con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.all.allies.fixedpower.addmana.all.allies.once","Todos los aliados obtienen {HEALTHBOOST} de vitalidad potenciada y un {MANA} % de maná cada vez que este personaje resiste efectos con habilidades pasivas. Este efecto se puede activar una vez por turno."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Este personaje obtiene un {HEALTHBOOST} % de vitalidad potenciada y un {MANA} % de maná al resistir un ataque."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Este personaje obtiene un {POWER} % de maná cada vez que un enemigo lanza una habilidad especial que potencie la vitalidad directamente."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Este personaje obtiene {POWER} de vitalidad potenciada cada vez que un enemigo lanza una habilidad especial que potencie la vitalidad directamente."
@@ -134,15 +138,14 @@ El núcleo destructor se activa cada vez que este personaje lanza su habilidad e
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE} % de probabilidad de usar acciones extras cuando este personaje lanza su habilidad especial."
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Los secuaces de todos los enemigos tienen un {MINIONMODIFIER} % de precisión.
  Los megasecuaces de todos los enemigos tienen un {MEGAMINIONMODIFIER} % de precisión."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","El núcleo de creación de este personaje es un núcleo secuaz.
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","El núcleo de creación de este personaje es un [#!]núcleo secuaz[#].
 
-El núcleo secuaz se activa cada vez que este personaje lanza su habilidad especial:
+El [#!]núcleo secuaz[#] se activa cada vez que este personaje lanza su [#!]habilidad especial[#]:
 
- Con un núcleo secuaz cargado al máximo, invoca a un secuaz robot asesino para cada aliado con un {FAMILIARHEALTHPERCENT} % VIT y un {FAMILIARATTACK} % de ataque heredados del héroe.
- La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.
- Antes de golpear al objetivo, el secuaz robot asesino destruye a todos sus secuaces e inflige daño a sus megasecuaces.
- El secuaz robot asesino recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.
- Merma: Cada golpe de un secuaz robot asesino le otorga al objetivo {ATTACKMODIFIER} de ataque."
+[*] Con un [#!]núcleo secuaz[#] cargado al máximo, invoca a un [#!]secuaz robot asesino[#] para cada aliado con un [#!]{FAMILIARHEALTHPERCENT}[#] % VIT y un [#!]{FAMILIARATTACK}[#] % de ataque heredados del héroe.
+[*] La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.
+[*] El secuaz robot asesino recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.
+[*] [#!]Merma:[#] Cada golpe de un secuaz robot asesino le otorga al objetivo [#!]{ATTACKMODIFIER}[#] de ataque."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","El núcleo de creación de este personaje es un núcleo secuaz.
 
 El núcleo secuaz se activa cada vez que este personaje lanza su habilidad especial:
@@ -212,12 +215,12 @@ El núcleo secuaz se activa cada vez que este personaje lanza su habilidad espec
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","Al comienzo de cada turno, este personaje saquea a un enemigo aleatorio:
 
  Roba {DAMAGE} de vitalidad.
- Roba de forma segura una bendición del enemigo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza."
+ Roba de forma segura una bendición del enemigo. Se incluyen las bendiciones indescartables y los efectos de danza."
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","Al comienzo de cada turno, este personaje tiene un {CHANCE} % de probabilidad de saquear a un enemigo aleatorio:
 
 Saquear:
  Roba {DAMAGE} de vitalidad.
- Roba de forma segura un efecto de crecimiento, una acumulación positiva o una bendición de estado al azar del enemigo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.
+ Roba de forma segura un efecto de crecimiento, una acumulación positiva o una bendición de estado al azar del enemigo. Se incluyen las bendiciones indescartables y los efectos de danza.
  El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Cuando este personaje lanza su habilidad especial, tiene un {CHANCE} % de probabilidad de robar la bendición descartable más reciente de un enemigo aleatorio con bendiciones. Si ningún enemigo tiene bendiciones, inflige un {DAMAGE} % de daño a todos los enemigos."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Cuando este personaje lanza su habilidad especial, tiene un {CHANCE} % de probabilidad de robar la bendición descartable más reciente de un enemigo aleatorio con bendiciones. Si ningún enemigo tiene bendiciones, inflige un {DAMAGE} % de daño a todos los enemigos."
@@ -236,6 +239,7 @@ En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada un
 
 En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige ese daño hacia un enemigo aleatorio. (Activaciones restantes: {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Cualquier estado alterado que resista este personaje con habilidades pasivas se reflejará a todos los enemigos."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % más de probabilidad de reflejar los estados alterados al atacante."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Cada {TURNS} turnos se eliminan todos los efectos de merma de todos los aliados."
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Cada {TURNS} turnos se eliminan todos los efectos de crecimiento de todos los enemigos."
@@ -393,6 +397,8 @@ El huésped sobrenatural tiene:
  Los objetivos marcados con la bengala de caza reciben {FIXEDPOWER} de daño adicional al recibir un golpe crítico."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Cuando este personaje lanza su habilidad especial, obtiene un {ATTACK} % de ataque durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","El elemento de este héroe puede cambiar al que se prefiera una vez por batalla durante {TURNS} turnos. Para cambiarlo, toca este héroe cuando no tenga todo su maná."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Cada {TURNSBETWEENEFFECTS} turnos, este personaje roba un {MANASTEAL} % de maná al enemigo con la velocidad de maná más rápida. Esto no se puede impedir mediante efectos de estado ni habilidades pasivas."
+"herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Cada {TURNSBETWEENEFFECTS} turnos, este personaje roba un {MANASTEAL} % de maná al enemigo con más maná. Esto no se puede impedir mediante efectos de estado ni habilidades pasivas."
 "herocard.passive_skill.description.stopchainstrikes","Las habilidades especiales que encadenan o atacan varias veces se detienen ante este personaje. Los efectos positivos no se detienen."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno.
  El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
@@ -522,6 +528,7 @@ Megademonio flor:
 "herocard.passive_skill.title.bypassfamiliars.minion","Ignora los secuaces"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Ignora los secuaces (superior)"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","Efectos de estado prolongados"
+"herocard.passive_skill.title.charactercoreintrinsicchargeconsumptionmodifier","Ahorro de energía"
 "herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","Ímpetu de vuelo"
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Maná durante merma"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Resurrección con el tiempo"
@@ -561,12 +568,14 @@ Megademonio flor:
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Ataque acumulado al recibir daño"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Ataque acumulado al recibir daño"
 "herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","Resurgimiento"
-"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Vitalidad potenciada con intento de purificación aliada"
-"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Daño con intento de purificación enemiga"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Vitalidad potenciada con purificación aliada"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Daño con purificación enemiga"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","Maná con descarte"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","Maná con descarte de bendición"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Maná con descarte de bendición"
 "herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Curación cuando un estado alterado termina o se purifica"
 "herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","Vitalidad potenciada con descarte de bendición"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel.activates_on_dispel_cast","Vitalidad potenciada con descarte de bendición"
 "herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","Escarcha con golpe de secuaz"
 "herocard.passive_skill.title.effectonheal.addmana","Maná al recuperar vitalidad"
 "herocard.passive_skill.title.effectonheal.heal","Vitalidad extra al recuperar vitalidad"
@@ -580,6 +589,7 @@ Megademonio flor:
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","División de secuaz viscoso"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","División de secuaz viscoso"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","División de secuaz viscoso"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","Inversión legendaria"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Vitalidad potenciada y maná al resistir"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Maná con habilidad especial que aumenta la vitalidad"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Vitalidad potenciada con potenciación de vitalidad enemiga"
@@ -609,6 +619,8 @@ Megademonio flor:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Acumulación con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Daño con el tiempo con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Daño con habilidad especial enemiga"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingdefensemodifier.faster.average","Acumulación de defensa ante habilidad especial enemiga"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingreceiveddamagemodifier.faster.average","Reducción del daño con habilidad especial enemiga"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Maná con burla"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Maná con bendición de estado de defensa"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","Efecto de estado con bendiciones defensivas enemigas"
@@ -684,6 +696,7 @@ Megademonio flor:
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento de daño de bola de fuego fuerte"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Engaño a la muerte"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Engaño a la muerte"
+"herocard.passive_skill.title.reflectresistedstatuseffect","Reflector legendario"
 "herocard.passive_skill.title.remove_growth_from_enemies","Arenga protectora"
 "herocard.passive_skill.title.remove_wither_from_allies","Arenga protectora"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Núcleo reparador"
@@ -797,6 +810,8 @@ Estructura flexible"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Piel de piedra de gárgola"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Bendición de regeneración de maná con alteraciones"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Máscara elemental"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Picado y robo"
+"herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Picado y robo"
 "herocard.passive_skill.title.stopchainstrikes","Detiene los ataques en cadena"
 "herocard.passive_skill.title.stylish","¡Con estilo!"
 "herocard.passive_skill.title.stylish_epic","¡Con estilo!"
@@ -833,3 +848,4 @@ Estructura flexible"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformar bendiciones"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformar alteraciones"
 "herocard.passive_skill.title.wither.all.enemies","Merma"
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER} %[#] de regeneración de maná."

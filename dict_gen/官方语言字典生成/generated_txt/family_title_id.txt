@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Penjaga"
 "herocard.family.title.halloween","Keluarga Morlovia"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Harpy Ganas"
+"herocard.family.title.harpy.short","Harpy Ganas"
 "herocard.family.title.helheim","Area Helheim"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Keluarga {0} Legenda"

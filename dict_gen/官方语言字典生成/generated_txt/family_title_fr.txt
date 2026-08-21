@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Gardien"
 "herocard.family.title.halloween","Famille Morlovia"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Harpies vicieuses"
+"herocard.family.title.harpy.short","Harpies vicieuses"
 "herocard.family.title.helheim","Royaume d'Helheim"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Famille Légendes {0}"

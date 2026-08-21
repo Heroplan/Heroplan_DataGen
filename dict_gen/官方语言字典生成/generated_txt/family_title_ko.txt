@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","수호자"
 "herocard.family.title.halloween","몰로비아 패밀리"
 "herocard.family.title.halloween.short","몰로비아"
+"herocard.family.title.harpy","사나운 하피"
+"herocard.family.title.harpy.short","사나운 하피"
 "herocard.family.title.helheim","헬하임 왕국"
 "herocard.family.title.helheim.short","헬하임"
 "herocard.family.title.hotm","전설 {0} 패밀리"

@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","الحارس"
 "herocard.family.title.halloween","عائلة مورلوفيا"
 "herocard.family.title.halloween.short","مورلوفيا"
+"herocard.family.title.harpy","الهاربي الشريرة"
+"herocard.family.title.harpy.short","الهاربي الشريرة"
 "herocard.family.title.helheim","عالم هيلهايم"
 "herocard.family.title.helheim.short","هيلهايم"
 "herocard.family.title.hotm","عائلة {0} الأساطير"

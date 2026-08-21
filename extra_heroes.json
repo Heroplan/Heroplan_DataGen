@@ -1,5 +1,41 @@
 [
     {
+        "name": "Oceanus Toon",
+        "fancy_name": "Toon Titan of Sea",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-21 07:00:00",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 2,
+        "heroId": "s2_oceanus_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Perseus Toon",
+        "fancy_name": "Son of Toon Zeus",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-21 07:00:00",
+        "star": 5,
+        "family": "hotm2017",
+        "costume_id": 2,
+        "heroId": "ice_god_perseus_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Wilbur Toon",
+        "fancy_name": "Valiant Fishertoon",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-21 07:00:00",
+        "star": 4,
+        "family": "lagoon",
+        "costume_id": 2,
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Garlacteus",
         "fancy_name": "Garlic Demolitionist",
         "color": "Blue",
@@ -13,7 +49,7 @@
     },
     {
         "name": "Onatel C",
-        "fancy_name": "holy_god_onatel_costume_divine",
+        "fancy_name": "Blind Diviner",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2026-08-25 07:00:00",
@@ -25,7 +61,7 @@
     },
     {
         "name": "Kunchen C",
-        "fancy_name": "dark_god_kunchen_costume_mystic",
+        "fancy_name": "Mystic of Croquet",
         "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2026-08-25 07:00:00",
@@ -33,6 +69,18 @@
         "family": "hotm2019",
         "costume_id": 1,
         "heroId": "dark_god_kunchen_costume_mystic",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Katzy",
+        "fancy_name": "Boxing Champion",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-08-25 07:00:00",
+        "star": 5,
+        "family": "champions",
+        "costume_id": 0,
+        "heroId": "champions_katzy",
         "Lottery_Only": 1
     },
     {
@@ -81,6 +129,30 @@
         "family": "myrkheim",
         "costume_id": 1,
         "heroId": "tales2_snorri_costume_powder",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kyrathis",
+        "fancy_name": "Stormcaller Harpy",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-07 07:00:00",
+        "star": 5,
+        "family": "harpy",
+        "costume_id": 0,
+        "heroId": "harpy_kyrathis",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Jarrik",
+        "fancy_name": "Cardinal Harpy Warrior",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-07 07:00:00",
+        "star": 5,
+        "family": "harpy",
+        "costume_id": 0,
+        "heroId": "harpy_jarrik",
         "Lottery_Only": 1
     }
 ]

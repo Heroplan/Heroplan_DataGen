@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Vogter"
 "herocard.family.title.halloween","Morlovia-familien"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Vicious Harpies"
+"herocard.family.title.harpy.short","Vicious Harpies"
 "herocard.family.title.helheim","Helheim-verden"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Legendefamilien {0}"

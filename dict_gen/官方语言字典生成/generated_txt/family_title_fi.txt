@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Vartija"
 "herocard.family.title.halloween","Morlovian perhe"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Häijy harpyijaperhe"
+"herocard.family.title.harpy.short","Häijy harpyija"
 "herocard.family.title.helheim","Helheimin valtakunta"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Legendat {0} -perhe"

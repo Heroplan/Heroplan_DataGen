@@ -4,6 +4,9 @@ Każde trafienie przez mega pomocnika aberrację nakłada na cel następującą 
 "specials.v2.bigminion.black_boar_mega_minion.single","Wzywa mega pomocnika czarnego dzika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego."
 "specials.v2.bigminion.body_guard_mega_minion.single","Wzywa mega pomocnika ochroniarza z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego."
 "specials.v2.bigminion.goblin_rat_princess.single","Wzywa mega pomocnika szczurzą księżniczkę z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego."
+"specials.v2.bigminion.ratter.eatfamiliars","Zanim mega pomocnik ogar plagi trafi w cel, zniszczy wszystkich pomocników celu i zadaje obrażenia Mega pomocnikom."
+"specials.v2.bigminion.ratter.reallocateeffects.minorbuff.majorbuff.minorbuffstack.random.multiple","Za każdym razem, gdy mega pomocnik ogar plagi trafi wroga, kradnie {REALLOCATIONCOUNT} losowych wzmocnień od wroga, w tym nieodwoływalne wzmocnienia i kumulacje, i daje je swojemu właścicielowi."
+"specials.v2.bigminion.ratter.single","Wzywa mega pomocnika ogara plagi z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego."
 "specials.v2.bigminion.recruit_guard_mega_minion.single","Wzywa mega pomocnika strażnika rekruta z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego. 
 Mega pomocnik strażnik rekrut otrzymuje więcej PŻ i ataku, jeśli w drużynie jest więcej unikalnych bohaterów straży garnizonu, maksymalnie do {FAMILIARHEALTHPERCENT3MEMBERS}% PŻ i {FAMILIARATTACK3MEMBERS}% ataku."
 "specials.v2.bigminion.shark_big_minion_blue.single.strong_damage_against_red","Wzywa mega pomocnika rekina z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego. Zadaje poważne obrażenia postaciom ognia."
@@ -39,6 +42,8 @@ Mega potwór szczupak wysysa efekty leczenia i znika, gdy wchłonie zdrowie rów
 "specials.v2.clearbuffs.minorbuff.all.enemies.latest","Rozprasza ostatnie wzmocnienie możliwe do rozproszenia u wszystkich wrogów."
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Odwołuje wzmocnienia celu i pobliskich wrogów."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Odwołuje wzmocnienia z wrogów na skrajach formacji przeciwnika."
+"specials.v2.clearbuffs.minorbuff.sides.enemies.bypassremoveeffects","Bezpiecznie odwołuje wzmocnienia z wrogów na skrajach formacji przeciwnika."
+"specials.v2.clearbuffs.minorbuff.sides.enemies.bypassremoveeffects.extra","Bezpieczne usunięcie pomija efekty drugorzędne, takie jak obrażenia przy usunięciu, nakładane przez usuwane efekty wzmocnień statusu. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Odwołuje wzmocnienia celu."
 "specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Bezpiecznie odwołuje wzmocnienia z celu."
 "specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects.extra","Bezpieczne usunięcie pomija efekty drugorzędne, takie jak obrażenia przy usunięciu, nakłądane przez usuwane efekty wzmocnień statusu. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
@@ -166,6 +171,7 @@ Każde trafienie pszczelego pomocnika obciąża cel następującymi dolegliwośc
 "specials.v2.minion.clown_costume.all","Przywołuje pomocnika klauna dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.dark.all","Przywołuje pomocnika mroku dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.dark.purple","Połączenie z żywiołem przywołuje pomocnika mroku dla wszystkich sojuszników mroku z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.dark_hotm_2026.purple","Połączenie z żywiołem przywołuje pomocnika mroku dla wszystkich sojuszników mroku z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.dark_soldier.all","Przywołuje żołnierza mroku dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.dark_soldier_set_costume.all","Przywołuje żołnierza mroku dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.druid_thorn","Ciernisty pomocnik ma {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętych od bohatera."
@@ -175,6 +181,7 @@ Każde trafienie pszczelego pomocnika obciąża cel następującymi dolegliwośc
 "specials.v2.minion.enchanted_sigil_minion_costume.all","Przywołuje zaklętego magicznego pomocnika dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.fire.all","Przywołuje pomocnika ognia dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.fire.red","Połączenie z żywiołem przywołuje pomocnika ognia dla wszystkich sojuszników ognia z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.fire_hotm_2026.red","Połączenie z żywiołem przywołuje pomocnika ognia dla wszystkich sojuszników ognia z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.firewall_minion.all","Wzywa pomocnika ścianę ognia dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ przejętym od rzucającego."
 "specials.v2.minion.firewall_minion.explode","Gdy pomocnik ściana ognia ulegnie zniszczeniu, zadaje {FAMILIARFIXEDEXPLOSIONDAMAGE} pkt. obrażeń atakującemu wrogowi."
 "specials.v2.minion.fish.all","Wzywa rybiego pomocnika dla każdego sojusznika. Rybi pomocnik dziedziczy {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku od bohatera. 
@@ -190,16 +197,19 @@ Pomocnik szczwany lis ma {FAMILIARDODGECHANCE}% szans na uniknięcie ataków."
 "specials.v2.minion.gargoyle_minion.all","Przywołuje pomocnika w postaci gargulca dla każdego sojusznika. Gargulec dziedziczy {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku od bohatera."
 "specials.v2.minion.grimoire.all","Przywołuje dla wszystkich sojuszników księgę czarów z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku inicjatora."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Przywołuje strażniczego pomocnika dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.guardian_minion_delilah_cute.all","Przywołuje strażniczego pomocnika dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.harpoon_sentry.all","Wzywa dla każdego sojusznika pomocniczego strażnika harpunnika, który ma {FAMILIARHEALTHPERCENT}% PŻ i zadaje {FAMILIARATTACK}% ataku rzucającego.
  Każde trafienie przez pomocniczego strażnika harpunnika zmniejsza manę celu o {FAMILIARADDMANA}% i nakłada na niego następujące dolegliwości ze statusu:"
 "specials.v2.minion.holy.all","Przywołuje pomocnika światłości dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.holy.yellow","Połączenie z żywiołem przywołuje pomocnika światłości dla wszystkich sojuszników światłości z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.holy_god_delilah.all","Przywołuje strażniczego pomocnika dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.holy_hotm_2026.yellow","Połączenie z żywiołem przywołuje pomocnika światłości dla wszystkich sojuszników światłości z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.hunting_owl.neartotarget","Przywołuje pomocniczą łowczą sowę dla bohatera i pobliskich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku zaczerpniętymi od bohatera.
  Pomocnicza łowcza sowa zabiera celowi {FAMILIARADDMANA}% many przy każdym trafieniu."
 "specials.v2.minion.hydra_head.neartotarget","Wzywa pomocnika głowę hydry dla bohatera i pobliskich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% do ataku przejętymi od bohatera."
 "specials.v2.minion.ice.all","Przywołuje pomocnika lodu dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.ice.blue","Połączenie z żywiołem przywołuje pomocnika lodu dla wszystkich sojuszników lodu z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.ice_hotm_2026.blue","Połączenie z żywiołem przywołuje pomocnika lodu dla wszystkich sojuszników lodu z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.icebound_sickle_minion.explode","Gdy lodowy sierp ulegnie zniszczeniu, zadaje {FAMILIARFIXEDEXPLOSIONDAMAGE} pkt. obrażeń wszystkim wrogom."
 "specials.v2.minion.icebound_sickle_minion.neartotarget","Przywołuje lodowy sierp dla bohatera i pobliskich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% do ataku przejętymi od bohatera."
 "specials.v2.minion.icebound_sickle_minion.neartotarget.multiplepercharacter","Przywołuje pomocnika lodowy sierp w liczbie: {FAMILIARAMOUNT} dla bohatera i pobliskich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% do ataku przejętymi od bohatera."
@@ -241,12 +251,16 @@ Każde trafienie ćmy obciąża cel następującymi dolegliwościami ze statusu:
 "specials.v2.minion.mouse_costume_highwaycat.single.multiplepercharacter","Przywołuje {FAMILIARAMOUNT} mysich pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera. Pomocnicy mają {FAMILIARACCURACY}% precyzji."
 "specials.v2.minion.nature.all","Przywołuje pomocnika natury dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.nature.green","Połączenie z żywiołem przywołuje pomocnika natury dla wszystkich sojuszników natury z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.nature_hotm_2026.green","Połączenie z żywiołem przywołuje pomocnika natury dla wszystkich sojuszników natury z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
 "specials.v2.minion.owl.all","Przywołuje pomocnika w postaci wróbla dla każdego sojusznika. Wróbel dziedziczy {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku od bohatera."
 "specials.v2.minion.owl.eatfamiliars","Zanim wróbel zaatakuje cel, zniszczy wszystkich pomocników atakowanego celu."
 "specials.v2.minion.owlkyrie.neartotarget","Przywołuje pomocnika Sowią Walkirię dla bohatera i pobliskich sojuszników. Pomocnik przejmuje {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% do ataku od rzucającego."
 "specials.v2.minion.owlkyrie.removebasestatmodifiers","Usuwa efekty rozrostu i suszy z celu."
 "specials.v2.minion.owlkyrie.removestatuseffects.allstatuseffectsandstacks.single.enemies.bypassremoveeffects","Jeśli pomocnik Sowia Walkiria zostanie pokonany, usuwa wszystkie efekty statusu z losowego wroga."
 "specials.v2.minion.owlkyrie.removestatuseffectsandbasestatmodifiers","Jeśli pomocnik Sowia Walkiria zostanie pokonany, na atakującego rzucone zostanie pełne usunięcie."
+"specials.v2.minion.ratter.all","Przywołuje pomocnika ogara plagi dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera."
+"specials.v2.minion.ratter.eatfamiliars","Zanim wrogi pomocnik ogar plagi trafi w cel, niszczy wszystkich pomocników celu i zadaje obrażenia Mega pomocnikom."
+"specials.v2.minion.ratter.reallocateeffects.minorbuff.random","Za każdym razem, gdy pomocnik ogar plagi trafia wroga, kradnie losowe wzmocnienie możliwe do rozproszenia wrogowi i przekazuje je swojemu właścicielowi."
 "specials.v2.minion.raven.all","Wzywa pomocnika w postaci kruka dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku odziedziczonego od bohatera.
 Kruk zapewnia {ATTACK}% ataku wszystkim pozostałym pomocnikom swojego właściciela."
 "specials.v2.minion.raven_costume_freya.all","Wzywa pomocnika w postaci kruka dla każdego sojusznika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku odziedziczonego od bohatera.
@@ -601,12 +615,15 @@ Zwiększa czas trwania losowych aktywnych dolegliwości ze statusu celu o {TURNS
 "specials.v2.property.damageincreasedbytargetmana.less","Im mniej many mają przeciwnicy, tym większe obrażenia odniosą, maks. {MAXDAMAGE}%."
 "specials.v2.property.damageincreasedbytargetmana.single","Im więcej many ma przeciwnik, tym większe obrażenia odniesie, maks. {MAXDAMAGE}%."
 "specials.v2.property.damageincreasedbytargetmana.single.less","Im mniej many mają przeciwnicy, tym większe obrażenia odniosą, maks. {MAXDAMAGE}%."
-"specials.v2.property.damageincreasedbytargetmanaspeed.average.extra","Podczas szturmów w turniejach i wojnach przeciwnicy mają bardzo dużą szybkość regeneracji many.
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.pveoverride.average","Wszystkie potwory i bossowie są traktowane, jakby miały średnią szybkość regeneracji many."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.rush_attack_note","Podczas szturmów w turniejach i wojnach przeciwnicy mają bardzo szybką regenerację many."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.average","Przeciw celom o średniej szybkości regeneracji many zadaje dodatkowe {DAMAGE}% obrażeń."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.fast","Przeciw celom o szybkiej regeneracji many zadaje dodatkowe {DAMAGE}% obrażeń."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.very_fast.orfaster","Przeciw celom o bardzo szybkiej regeneracji many zadaje dodatkowe {DAMAGE}% obrażeń."
+"specials.v2.property.damageincreasedbytargetmanaspeed.faster.average","Jeśli cel ma średnią lub większą szybkość regeneracji many, zadaje dodatkowe obrażenia."
+"specials.v2.property.damageincreasedbytargetmanaspeed.faster.extra","{THRESHOLDLINES}
 
- Każdy potwór i boss ma średnią szybkość regeneracji many."
-"specials.v2.property.damageincreasedbytargetmanaspeed.faster.very_fast.fast.average","Jeśli cel ma średnią prędkość regeneracji many, zadaje dodatkowe {MANASPEED3DAMAGE}% obrażeń.
- Jeśli cel ma dużą prędkość regeneracji many, zadaje dodatkowe {MANASPEED2DAMAGE}% obrażeń.
- Jeśli cel ma co najmniej bardzo dużą prędkość regeneracji many, zadaje dodatkowe {MANASPEED1DAMAGE}% obrażeń."
+{PVEOVERRIDENOTE}"
 "specials.v2.property.damageincreasedpertile.red","Obrażenia są zwiększone o {EXTRADAMAGEPERTILE}% za każdą tarczę ognia na planszy, maksymalnie do {MAXDAMAGE}% przy każdym trafieniu."
 "specials.v2.property.damagemultiplieragainstdispellersandcleansers","Zadaje {DAMAGEMULTIPLIER}% obrażeń postaciom, które oczyszczają lub odwołują umiejętnościami specjalnymi."
 "specials.v2.property.damagemultiplieragainstdispellersandcleansers.extra","Pod uwagę brane są tylko bezpośrednie efekty odwołania i oczyszczenia z umiejętności specjalnych. Wyklucza to efekty usuwające, umiejętności pasywne, pomocników, efekty rodzin, talenty i efekty ze statusu."
@@ -705,7 +722,7 @@ Wszyscy sojusznicy zyskują dodatkowo {POWERPERFAMILIAR}% many za każdego potwo
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Zadaje {BASEPOWER}% obrażeń wszystkim wrogom.
 Zadaje dodatkowe {POWERPERFAMILIAR}% obrażeń za każdego pomocnika lub mega pomocnika posiadanego przez wrogów, łącznie do {MAXPOWER}% obrażeń."
 "specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Zadaje {BASEPOWER}% obrażeń wszystkim wrogom.
-Zadaje dodatkowe {POWERPERFAMILIAR}% obrażeń za każdego potwora lub mega potwora posiadanego przez wrogów, łącznie do {MAXPOWER}% obrażeń."
+ Zadaje dodatkowe {POWERPERFAMILIAR}% obrażeń za każdego potwora lub mega potwora posiadanego przez wrogów, łącznie do {MAXPOWER}% obrażeń."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Zadaje {BASEPOWER}% obrażeń celowi i pobliskim wrogom.
 Zadaje dodatkowe {POWERPERFAMILIAR}% obrażeń za każdego pomocnika lub mega pomocnika posiadanego przez wrogów, łącznie do {MAXPOWER}% obrażeń."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Zadaje {BASEPOWER}% obrażeń celowi i pobliskim wrogom.
@@ -767,8 +784,6 @@ Trafienia krytyczne mogą zmniejszyć maksymalne zdrowie wrogów w bitwach PvP. 
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.allies.bigminion","Jeśli dowolny sojusznik ma mega pomocnika przed rzuceniem tej umiejętności specjalnej, zadaje {POWER}% obrażeń wszystkim wrogom."
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.enemies.bigminion","Jeśli we wrogiej drużynie znajdują się mega pomocnicy, ta umiejętność specjalna zadaje wszystkim wrogom {POWER}% obrażeń."
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.enemies.minion","Jeśli we wrogiej drużynie znajdują się pomocnicy, ta umiejętność specjalna zadaje wszystkim wrogom {POWER}% obrażeń."
-"specials.v2.property.familiarsteal.stealfamiliars.single.enemies.bigminion.minion.follower","Wykrada celowi wszystkich pomocników i mega pomocników."
-"specials.v2.property.familiarsteal.stealfamiliars.single.enemies.minion.follower","Wykrada celowi pomocników."
 "specials.v2.property.firestormstrike.enemies.all.green","Atakuje wszystkich wrogów ciosem burzy ognia, zadając do {MAX} pkt. obrażeń. Zadaje o {STRONGATTACKELEMENTDAMAGEMODIFIER}% więcej obrażeń celom natury."
 "specials.v2.property.firestormstrike.enemies.all.green.always_hit","Atakuje wszystkich wrogów ciosem burzy ognia, zadając do {MAX} pkt. obrażeń. Zadaje o {STRONGATTACKELEMENTDAMAGEMODIFIER}% więcej obrażeń celom natury. Ta umiejętność specjalna nigdy nie chybia obranego celu."
 "specials.v2.property.firestormstrike.enemies.neartotarget.green","Atakuje cel i pobliskich wrogów ciosem burzy ognia, zadając do {MAX} pkt. obrażeń. Zadaje o {STRONGATTACKELEMENTDAMAGEMODIFIER}% więcej obrażeń celom natury."
@@ -802,7 +817,7 @@ Ten efekt ma mniejszą skuteczność, gdy zostaje aktywowany przez potwory i bos
 "specials.v2.property.growth.none.single.allies.attack","Wzrost: rzucający otrzymuje {ATTACKINCREASE} do ataku."
 "specials.v2.property.growth.none.single.allies.attack.defense","Wzrost: rzucający otrzymuje {ATTACKINCREASE} do ataku i {DEFENSEINCREASE} do obrony."
 "specials.v2.property.growth.none.single.allies.attack.hidden","Wzrost: atak rzucającego zostaje zwiększony."
-"specials.v2.property.heallowhealthtargets","Przywraca wszystkim sojusznikom, którzy mają poniżej {HEALTHLIMIT}% PŻ maks. {FINALHEALTH}% zdrowia."
+"specials.v2.property.heallowhealthtargets","Przywraca wszystkim sojusznikom, którzy mają poniżej {HEALTHLIMIT}% PŻ do poziomu {FINALHEALTH}% zdrowia."
 "specials.v2.property.heallowhealthtargets.extra","Ignoruje kradzież i modyfikatory regeneracji zdrowia oraz potwory."
 "specials.v2.property.healpertile.heal.all.allies.blue","Regeneruje {BASEPOWER}% zdrowia wszystkich sojuszników.
 Dodatkowo regeneruje {POWERPERTILE}% zdrowia za każdą tarczę lodu na planszy, maksymalnie {MAXPOWER}% zdrowia."
@@ -829,6 +844,7 @@ Wzmocnienia i osłabienia stanu wpływające na atak i obronę nie mają wpływu
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.blue.neartotargetexceptmaintarget.enemies","Jeśli cel należy do żywiołu lodu, zadaje{POWER}% obrażeń pobliskim wrogom."
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.red.neartotargetexceptmaintarget.enemies","Jeśli cel należy do żywiołu ognia, zadaje {POWER}% obrażeń pobliskim wrogom."
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.yellow.neartotargetexceptmaintarget.enemies","Jeśli cel należy do żywiołu światłości, zadaje {POWER}% obrażeń pobliskim wrogom."
+"specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies","Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
 "specials.v2.property.manareallocation.from.neartotarget.enemies.to.neartotarget.allies","Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją bohaterowi i pobliskim sojusznikom."
 "specials.v2.property.manareallocation.from.sides.enemies.to.all.allies","Wysysa {ABSPOWER}% many celom na skrajach formacji wroga i przekazuje ją sojusznikom."
 "specials.v2.property.manareallocation.from.single.enemies.to.all.allies","Wysysa {ABSPOWER}% many celowi i przekazuje ją sojusznikom."
@@ -895,6 +911,8 @@ Wzmocnienia i osłabienia stanu wpływające na atak i obronę nie mają wpływu
 "specials.v2.property.pre.eatfamiliarswitheffectpereatenfamiliar.single.enemies.minion.follower.bigminion","Niszczy wszystkich pomocników celu. Ten efekt zadaje obrażenia mega pomocnikom."
 "specials.v2.property.pre.enablespecialcriticalhit","Ta umiejętność specjalna ma szanse na trafienie krytyczne."
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Niszczy wszystkich pomocników celu. Ten efekt zadaje obrażenia mega pomocnikom."
+"specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.bigminion.minion.follower","Wykrada celowi wszystkich pomocników lub mega pomocnika."
+"specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.minion.follower","Wykrada celowi pomocników."
 "specials.v2.property.pre.ignoredodgewithchance","Umiejętność specjalna ma {IGNOREDODGECHANCE}% szans na zignorowanie uniku."
 "specials.v2.property.pre.ignoredodgewithchance.always","Ta umiejętność specjalna ignoruje uniki."
 "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
@@ -907,6 +925,7 @@ Wzmocnienia i osłabienia stanu wpływające na atak i obronę nie mają wpływu
 "specials.v2.property.random_special_danzaburo_costume","Sprzedaj rupiecie, by uzyskać określony efekt:"
 "specials.v2.property.random_special_danzaburo_cute","Wykonaj sztuczkę, by uzyskać określony efekt:"
 "specials.v2.property.random_special_kettle","Przygotuj losową żywność, aby uzyskać specjalny efekt:"
+"specials.v2.property.random_special_kettle_field_cook","Przygotuj losową żywność, aby uzyskać specjalny efekt:"
 "specials.v2.property.random_special_kettle_pve","Przygotuj losową żywność, aby uzyskać specjalny efekt:"
 "specials.v2.property.random_special_mimic","Mimik wykonuje jeden z następujących ataków specjalnych:"
 "specials.v2.property.random_special_mimic2","Mimik wykonuje jeden z następujących ataków specjalnych:"
@@ -917,12 +936,14 @@ Wzmocnienia i osłabienia stanu wpływające na atak i obronę nie mają wpływu
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
 "specials.v2.property.randomstatuseffects","Losowo rzuca jeden z następujących efektów:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","[*]Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.
-[*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Grabi[#] wszystkich wrogów, wykradając zdrowie równe [#!]{DAMAGE}[#]  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Obrabia[#] cel, wykradając zdrowie równe [#!]{DAMAGE}[#] i wzmocnienie."
+"specials.v2.property.ransack.extra","Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieoczyszczalne wzmocnienia i efekty tańca.
+Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","Grabi wszystkich wrogów, wykradając zdrowie równe {DAMAGE}  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
+"specials.v2.property.ransack.from.neartotarget.enemies.to.single.allies","Ograbia cel i pobliskich wrogów, wykradając zdrowie równe {DAMAGE} i wzmocnienie."
+"specials.v2.property.ransack.from.sides.enemies.to.single.allies","Ograbia wrogów na skrajach formacji wroga, wykradając {DAMAGE} pkt. zdrowia i wzmocnienie. Jeśli jest tylko jeden wróg, ograbia dwa razy."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","Ograbia cel, wykradając zdrowie równe {DAMAGE} i wzmocnienie."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Kradnie {DAMAGE} pkt. zdrowia.
-Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.
+Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieodwoływalne wzmocnienia i efekty tańca.
 Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "specials.v2.property.reducemaxhealth.extra","Maksymalne zdrowie nie może być niższe niż {MINIMUMMAXHEALTH}% pierwotnego maksymalnego zdrowia.
  Wzmocnione zdrowie zostaje zmniejszone o dodatkowe {REDUCTION} pkt."
@@ -956,6 +977,7 @@ Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane
 "specials.v2.property.removestatuseffects.minorbuff.extra","Bezpieczne usunięcie pomija efekty drugorzędne, takie jak obrażenia przy usunięciu, nakłądane przez usuwane efekty wzmocnień statusu. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies","Odwołuje wzmocnienia celu i pobliskich wrogów."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount","Odwołuje 1 wzmocnienie z celu i pobliskich wrogów."
+"specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount.bypassremoveeffects","Bezpiecznie odwołuje 1 wzmocnienie z celu i pobliskich wrogów."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount.multiple","Odwołuje wzmocnienia celu i pobliskich wrogów: {REMOVALCOUNT}."
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies","Odwołuje wzmocnienia celu."
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.bypassremoveeffects","Bezpiecznie odwołuje z celu wzmocnienia ze statusu."
@@ -969,7 +991,9 @@ Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Oczyszcza status z dolegliwości w kolejności ich otrzymania. W pierwszej kolejności oczyszczane są ostatnio otrzymane dolegliwości ze statusu."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Bezpieczne oczyszczenie pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane osłabienia statusu. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Bezpiecznie oczyszcza status rzucającego i pobliskich sojuszników z dolegliwości."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Bezpiecznie oczyszcza status rzucającego z wszystkich dolegliwości."
 "specials.v2.property.removestatuseffects.minordebuff.single.allies.customremovalcount","Oczyszcza status rzucającego z 1 dolegliwości."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Usuwa dolegliwość robak umysłu z rzucającego."
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","Rzuca pełne usunięcie na rzucającego i pobliskich sojuszników."
 "specials.v2.property.removestatuseffectsandbasemodifiers.sides.enemies.allstatuseffectsandstacks","Rzuca pełne usunięcie na cele znajdujące się na skrajach formacji wroga."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Rzuca pełne usunięcie na rzucającego."
@@ -990,8 +1014,11 @@ Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane
  Nieustępliwe i niemożliwe do oczyszczenia dolegliwości również zostają usunięte."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Bezpiecznie odwołuje wzmocnienia ze wszystkich wrogów i zwiększa manę wszystkich sojuszników o {POWERPERREMOVAL}% za każde usunięte wzmocnienie."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Bezpiecznie oczyszcza wszystkich sojuszników ze wszystkich dolegliwości ze statusu i zwiększa ich manę o {POWERPERREMOVAL}% za każdą oczyszczoną dolegliwość."
+"specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.damage.single.enemies","Bezpiecznie oczyszcza wszystkich sojuszników ze wszystkich dolegliwości ze statusu i zadaje {FIXEDPOWERPERREMOVAL} obrażeń celowi za każdą oczyszczoną dolegliwość."
 "specials.v2.property.repeatspecial.blade_wings.random","Po udanym rzuceniu ma {REPEATCHANCE}% szansy na ponowne rzucenie skrzydlatych ostrzy przeciwko losowemu celowi.
 Może rzucić ponownie maksymalnie {MAXREPEATS} razy, a szansa na ponowne rzucenie zmniejsza się o {REPEATCHANCEDECREASE}% po każdym udanym rzuceniu."
+"specials.v2.property.repeatspecial.heads_or_tails.random","Po udanym użyciu ma {REPEATCHANCE}% szans na ponowne rzucenie orzeł czy reszka? na losowy cel.
+Można użyć ponownie do {MAXREPEATS} razy."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","Czas trwania ulepszeń zostaje zresetowany dla wszystkich sojuszników."
 "specials.v2.property.resetstatuseffectduration.all.enemies.alldebuffs","Czas trwania dolegliwości ze statusu zostaje zresetowany dla wszystkich wrogów."
 "specials.v2.property.resetstatuseffectduration.neartotarget.allies.allbuffs","Czas trwania ulepszeń zostaje zresetowany dla rzucającego i pobliskich sojuszników."
@@ -1114,6 +1141,7 @@ Jeśli cel nie ma umiejętności specjalnej lub nie można jej skopiować, wykor
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Zdejmuje wszystkie odwoływalne dolegliwości z bohatera i pobliskich sojuszników i losowo rzuca je na wrogów."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Zabiera wszystkie odwoływalne efekty wybranemu przeciwnikowi i pobliskim wrogom oraz losowo rozprowadza je na wszystkich sojuszników."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Zabiera losowe odwoływalne wzmocnienia w liczbie : {CUSTOMREALLOCATIONCOUNT} wybranemu przeciwnikowi i pobliskim wrogom oraz losowo rozprowadza je na wszystkich sojuszników."
+"specials.v2.property.statuseffectreallocation.from.sides.enemies.to.all.allies","Zabiera wszystkie odwoływalne wzmocnienia wrogom na skrajach formacji wroga i losowo rozprowadza je na sojuszników."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Zabiera wszystkie odwoływalne efekty wybranemu przeciwnikowi oraz losowo rozprowadza je na wszystkich sojuszników."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies.customreallocationcount.multiple","Kradnie celowi losowe odwoływalne wzmocnienia: {CUSTOMREALLOCATIONCOUNT} i przenosi je na rzucającego."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Zabiera wszystkie odwoływalne efekty wybranemu przeciwnikowi oraz losowo rozprowadza je na rzucającego i pobliskich sojuszników."
@@ -1137,6 +1165,7 @@ Zadaje dodatkowe {POWERPERALLOCATION}% obrażeń za przeniesione ulepszenie efek
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Zabiera ostatnie odwoływalne wzmocnienie efektu ze statusu wszystkim wrogom i losowo rozprowadza je na wszystkich sojuszników."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","Jeśli cel zostanie pokonany, nie nastąpi ponowne rzucenie umiejętności specjalnej."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","Jeśli na cel nałożono mróz, zamrażające sierpowe zostaną rzucone ponownie na losowy cel."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_jabs.random","Jeśli na cel nałożono mróz, zamrażające potężne ciosy zostaną rzucone ponownie na losowy cel."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","Jeśli cel zacznie krwawić, zapach krwi zostanie rzucony ponownie na cel."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Wszystkie dolegliwości wpływające na atak, obronę i regenerację many na sojusznikach są przekształcane na odpowiednie, niemożliwe do odwołania wzmocnienia."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Wszystkie wzmocnienia wpływające na atak, obronę i regenerację many na wrogach są przekształcane na odpowiednie, niemożliwe do oczyszczenia dolegliwości."
@@ -1169,6 +1198,9 @@ Wrogowie z pomocnikami lub mega pomocnikami otrzymują {STATUSEFFECT1DEFENSE}% d
 Wrogowie z pomocnikami lub mega pomocnikami otrzymują {STATUSEFFECT1DEFENSE}% do obrony na okres {STATUSEFFECT1TURNS} tur."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Zadaje {POWERFORTARGETSTHATMEETCONDITION}% obrażeń przeciwko wrogom ze wzmocnieniami obrony, pomocnikami lub mega pomocnikami.
 Wrogowie ze wzmocnieniami obrony, pomocnikami lub mega pomocnikami otrzymują {STATUSEFFECT1DEFENSE}% do obrony na okres {STATUSEFFECT1TURNS} tur."
+"specials.v2.property.talondamage.damage.all.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Zadaje {POWERFOROTHERTARGETS}% obrażeń od szponów wszystkim wrogom."
+"specials.v2.property.talondamage.damage.neartotarget.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Zadaje {POWERFOROTHERTARGETS}% obrażeń od szponów celowi i pobliskim wrogom."
+"specials.v2.property.talondamage.extra","Zadaje {POWERFORTARGETSTHATMEETCONDITION}% obrażeń wrogom, którzy mają {STATTHRESHOLDPERMIL}% many lub więcej. Wrogowie otrzymują także {STATUSEFFECTFORTARGETSTHATMEETCONDITION1MANAREGEN}% regeneracji many na czas {STATUSEFFECTFORTARGETSTHATMEETCONDITION1TURNS} tur."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
 Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
 
@@ -1195,6 +1227,7 @@ Wzywa na każdego trafionego wroga potwora sadzonkę."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Jeśli celowi zostało poniżej {HEALTHBOUNDARY}% zdrowia, zadaje {DAMAGEMULTIPLIER}% obrażeń."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Jeśli po redukcji many cel ma więcej niż {THRESHOLD1}% many, umiejętność specjalna ponownie obiera losowego wroga za cel. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Jeśli po redukcji many cel ma więcej niż {THRESHOLD1}% many, umiejętność specjalna ponownie obiera losowego wroga za cel. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.no_damage_reduction.over_health_threshold","Jeśli cel ma więcej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% zdrowia przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Każdy z wrogów może być trafiony tylko raz."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Jeśli cel ma więcej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% zdrowia przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Jeśli cel ma więcej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% zdrowia przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz wyższe. Każdy z wrogów może być trafiony tylko raz."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Jeśli cel ma więcej niż {THRESHOLD1}% many przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% many przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% many, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
@@ -1259,6 +1292,8 @@ Ten efekt ma mniejszą skuteczność, gdy zostaje aktywowany przez potwory i bos
 "specials.v2.property.wither.none.neartotarget.enemies.attack","Susza: cel i pobliscy wrogowie otrzymują {ATTACKINCREASE} do ataku."
 "specials.v2.property.wither.none.neartotarget.enemies.attack.defense","Susza: cel i pobliscy wrogowie otrzymują {ATTACKINCREASE} do ataku i {DEFENSEINCREASE} do obrony."
 "specials.v2.property.wither.none.neartotarget.enemies.defense","Susza: cel i pobliscy wrogowie otrzymują {DEFENSEINCREASE} do obrony."
+"specials.v2.property.wither.none.sides.enemies.defense","Susza: Wrogowie na skrajach formacji wroga otrzymują {DEFENSEINCREASE} obrony."
+"specials.v2.property.wither.none.single.enemies.attack","Susza: Cel otrzymuje {ATTACKINCREASE} do ataku."
 "specials.v2.property.wither.none.single.enemies.attack.defense","Susza: cel otrzymuje {ATTACKINCREASE} do ataku i {DEFENSEINCREASE} do obrony."
 "specials.v2.property.wither.none.single.enemies.defense","Susza: cel otrzymuje {DEFENSEINCREASE} do obrony."
 "specials.v2.saturated_suffering.immuneelement.blue","Wszyscy wrogowie lodu są odporni na ten atak."
@@ -1278,6 +1313,7 @@ Ten efekt ma mniejszą skuteczność, gdy zostaje aktywowany przez potwory i bos
 "specials.v2.statuseffect.major.accuracymodifier.single.allies","Bohater otrzymuje {ACCURACY}% do precyzji na okres {TURNS} tur. Oczyszczenie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies.while.single.allies.familiaralive.butterfly_parasite","Po wezwaniu potworny motyl zapewnia swojemu właścicielowi {ACCURACY}% precyzji przez cały okres posiadania. Oczyszczenie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies.while.single.allies.familiaralive.moreau_parasite.moreau_parasite_waker","Strzęp cienia zapewnia swojemu celowi {ACCURACY}% precyzji przez cały okres posiadania. Obniżenie precyzji dotyczy również ofensywnych umiejętności specjalnych. Oczyszczenie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.major.ambush.all.allies.decrease.removeondamagereceived.while.caster.enemies.none","Wszyscy sojusznicy zastawiają zasadzkę. Obrażenia zadawane przez wszystkich sojuszników zostają zwiększone o {DAMAGE}%, a obrażenia, jakie otrzymują, zostają zmniejszone o {DAMAGEREDUCTION}%."
 "specials.v2.statuseffect.major.ambush.neartotarget.allies.decrease.removeondamagereceived.while.caster.enemies.none","Rzucający i pobliscy sojusznicy zastawiają zasadzkę. Obrażenia zadawane przez rzucającego i pobliskich sojuszników zostają zwiększone o {DAMAGE}%, a obrażenia, jakie otrzymują, zostają zmniejszone o {DAMAGEREDUCTION}%."
 "specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived","Rzucający zastawia zasadzkę. Obrażenia zadawane przez rzucającego zostają zwiększone o {DAMAGE}%, a obrażenia, jakie otrzymuje, zostają zmniejszone o {DAMAGEREDUCTION}%."
 "specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none","Rzucający zastawia zasadzkę. Obrażenia zadawane przez rzucającego zostają zwiększone o {DAMAGE}%, a obrażenia, jakie otrzymuje, zostają zmniejszone o {DAMAGEREDUCTION}%."
@@ -1310,6 +1346,7 @@ Gdy rzucający wyjdzie z ukrycia, zadaje {DAMAGE} pkt. obrażeń wszystkim przec
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Zadaje {POWER1}% obrażeń losowemu wrogowi na końcu każdej tury, dopóki rzucający ma wzmocnione zdrowie. Odwołanie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","Bohater i pobliscy sojusznicy otrzymują {DEFENSE}% do obrony i dodatkowe {CHANGE}% za każde otrzymane trafienie przez {TURNS} tur(y), maksymalnie do {MAXMODIFIER}% obrony. Tego efektu nie można odwołać."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Rzucający otrzymuje {DEFENSE}% do obrony i dodatkowe {CHANGE}% za każde otrzymane trafienie przez {TURNS} tur(y). Obrona może wzrosnąć maksymalnie do {MAXMODIFIER}%. Tego efektu nie można odwołać."
+"specials.v2.statuseffect.major.bleeding.neartotarget.enemies","Cel i pobliscy wrogowie otrzymują {DAMAGE} obrażeń od krwawienia przez {TURNS} tur(y). Oczyszczenie statusu z tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.bluedefensemodifier.single.allies","Bohater otrzymuje {DEFENSE}% do obrony przeciwko lodowi przez {TURNS} tur(y). Oczyszczenie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.buffimmunity.all.enemies.damage","Wrogowie nie mogą otrzymywać wzmocnień ze statusu przez okres {TURNS} tur i otrzymują {POWER} pkt. obrażeń za każdą próbę nałożenia wzmocnienia. Ten efekt nie może zostać oczyszczony."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Cel i pobliscy wrogowie są odporni na nowe efekty ze statusu przez {TURNS} tur(y). Odwołanie tego efektu nie jest możliwe."
@@ -1387,6 +1424,10 @@ Ballada namiętności
 
 Ballada mrocznego łabędzia
 {STATUSEFFECTS}"
+"specials.v2.statuseffect.major.dancemultieffect.random.enemies.contagious.ballad_of_biroho","Losowy wróg tańczy do ballady biroho przez okres {TURNS} tur. Taniec przenosi się na pobliskich wrogów.
+
+Ballada biroho
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.major.dancemultieffect.single.enemies.contagious.ballad_of_pain","Cel i pobliscy wrogowie tańczą do ballady bólu przez okres {TURNS} tur. Taniec przenosi się na pobliskich wrogów.
 
 Ballada bólu
@@ -1430,6 +1471,8 @@ Gdy postać strasznego obłąkanego ducha dobiegnie końca, na postać nałożon
  Pod jego postacią rzucający automatycznie zadaje {POWER1}% obrażeń i nakłada {STATUSEFFECT1INSANITYTOADD} pkt. obłędu na losowego wroga w każdej turze.
  Pod tą postacią rzucający może otrzymywać obrażenia od wrogów, których żywioł jest silny przeciwko jego żywiołowi."
 "specials.v2.statuseffect.major.dispel.all.allies.minordebuff","Przez {TURNS} tur(y) na koniec każdej tury oczyszcza dolegliwości ze statusu wszystkich sojuszników. Odwołanie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.major.dispel.all.allies.minordebuff.bypassremoveeffects","Przez {TURNS} tur(y) na koniec każdej tury bezpiecznie oczyszcza dolegliwości ze statusu wszystkich sojuszników. Odwołanie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.major.dispel.all.allies.minordebuff.customremovalcount","Przez {TURNS} tur(y) na koniec każdej tury oczyszcza 1 dolegliwość ze statusu wszystkich sojuszników. Odwołanie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.elementlink.blue.allies","Spoiwo żywiołów daje wszystkim sojusznikom lodu {ATTACK}% do ataku i {DEFENSE}% do obrony przez {TURNS} tur(y). Efekt nie może być odwołany czarami."
 "specials.v2.statuseffect.major.elementlink.green.allies","Spoiwo żywiołów daje wszystkim sojusznikom natury {ATTACK}% do ataku i {DEFENSE}% do obrony przez {TURNS} tur(y). Efekt nie może być odwołany czarami."
 "specials.v2.statuseffect.major.elementlink.purple.allies","Spoiwo żywiołów daje wszystkim sojusznikom mroku {ATTACK}% do ataku i {DEFENSE}% do obrony przez {TURNS} tur(y). Efekt nie może być odwołany czarami."
@@ -1617,6 +1660,7 @@ Lepka powierzchnia: wykrada {REALLOCATIONCOUNT} losowe odwoływalne wzmocnienie 
 Lepka powierzchnia: wykrada {REALLOCATIONCOUNT} losowe odwoływalne wzmocnienie lub efekt wzrostu z atakującego wroga."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","Wszyscy sojusznicy otrzymują o {DAMAGEREDUCTION}% mniej obrażeń przez {TURNS} tur(y). Odwołanie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","Jeśli rzucający ma pomocnika lub mega pomocnika, wszyscy wrogowie otrzymują obrażenia zwiększone o {DAMAGEMODIFIER}%. Efekt pozostaje aktywny, dopóki rzucający ma pomocnika lub mega pomocnika. Odwołanie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.major.reddefensemodifier.single.enemies","Cel otrzymuje {DEFENSE}% obrony przed ognia na {TURNS} tur. Tego efektu nie można oczyścić."
 "specials.v2.statuseffect.major.resisthealing.single.enemies.damage","Cel jest odporny na leczenie i otrzymuje {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur. Oczyszczenie statusu z tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","Wszyscy sojusznicy mają odporność na zmniejszenie many, kiedy bohater ma wzmocnione zdrowie. Odwołanie tego efektu nie jest możliwe."
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","Wszyscy sojusznicy stają się Braćmi Bitki przez {TURNS} tur(y). Jeśli sojusznik zostanie pokonany w trakcie aktywności innego Brata, zostanie wskrzeszony jako kameleon z:
@@ -1668,7 +1712,7 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 {DEFENSE} obrony.
 umiejętnością specjalną: Zatrute ugryzienie."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","Wszystkie trafione cele zostają uciszone na czas {TURNS} tur. Oczyszczenie tego efektu nie jest możliwe."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","Wszyscy wrogowie zasypiają i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","Wrogowie na krańcach formacji przeciwnika zasypiają i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","Cel zasnął i otrzymuje w czasie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","Wszyscy sojusznicy poza rzucającym otrzymują delikatną skórę."
@@ -1689,6 +1733,7 @@ Taniec duchów
 Zmniejsza otrzymywane obrażenia o {DAMAGEREDUCTION}%.
 W razie pokonania rzucającego tancerze otrzymują {DAMAGEONCASTERDEATH} pkt. obrażeń, a ich mana zostaje zmniejszona o 100%."
 "specials.v2.statuseffect.major.statuseffectsonspecialcast.single.enemies.poison.chain_strike","Jeśli trafieni wrogowie użyją swojej umiejętności specjalnej w ciągu następnych {TURNS} tur, otrzymają {DAMAGE} pkt. obrażeń od trucizny przez {DURATIONFORSTATUSEFFECTS} tur(y). Oczyszczenie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.major.stone.all.allies.withactivationcount","Wszyscy sojusznicy aktywują kamienną skórę, która obniża wszystkie zadawane sojusznikowi obrażenia do 1 pkt., ale zostaje usunięta po przyjęciu {MAXHITS} trafień. Efekt nie może być odwołany czarami."
 "specials.v2.statuseffect.major.stone.single.allies.withactivationcount","Rzucający aktywuje kamienną skórę, która obniża wszystkie zadawane mu obrażenia do 1 pkt., ale zostaje usunięta po przyjęciu {MAXHITS} trafień. Efekt nie może być odwołany czarami."
 "specials.v2.statuseffect.major.storeddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Przechowuje wszystkie obrażenia zadane bohaterowi przez {TURNS} tur(y). Po zakończeniu efektu zadaje przechowane obrażenia wszystkim wrogom, maksymalnie do {MAXDAMAGE} pkt. obrażeń. Efekt nie może być odwołany czarami."
 "specials.v2.statuseffect.major.storeddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.removal","Przechowuje wszystkie obrażenia zadane bohaterowi przez {TURNS} tur(y). Po zakończeniu efektu zadaje przechowane obrażenia wszystkim wrogom, maksymalnie do {MAXDAMAGE} pkt. obrażeń. Efekt nie może być odwołany czarami."
@@ -1733,6 +1778,7 @@ Energiczny taniec fortuny
  Tańce fortuny kumulują się z innymi efektami tańca."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur. Ten efekt jest nieustępliwy."
+"specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez {TURNS} tur(y). Czas trwania efektu zostanie zresetowany w razie wyleczenia celu."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","Cel otrzymuje {ACCURACY}% do celności a wszyscy inni wrogowie otrzymują {MINORACCURACY}% do celności przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","Wszyscy wrogowie lodu otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.neartotarget.enemies","Cel i pobliscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur."
@@ -1743,6 +1789,7 @@ Energiczny taniec fortuny
 "specials.v2.statuseffect.minor.accuracymodifier.single.allies","Bohater otrzymuje {ACCURACY}% do precyzji na okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies","Cel otrzymuje {ACCURACY}% do precyzji przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies.chain_strike","Wszystkie trafione cele otrzymują {ACCURACY}% do celności przez okres {TURNS} tur."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies.resetonheal","Cel otrzymuje {ACCURACY}% do precyzji przez {TURNS} tur(y). Czas trwania efektu zostanie zresetowany w razie wyleczenia celu."
 "specials.v2.statuseffect.minor.accuracymodifierperhit.all.enemies","Przez okres {TURNS} tur wszyscy wrogowie mają {ACCURACY}% precyzji, która obniża się o dodatkowe {CHANGE}% za każde otrzymane trafienie, maks. do {MAXACCURACY}% precyzji."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.blue.neartotarget.enemies","Cel i pobliscy wrogowie otrzymują {ACCURACY}% do precyzji i dodatkowe zmniejszenie o {ACCURACYPERTILE}% za każdą tarczę lodu na planszy na czas {TURNS} tur, maksymalnie do {MAXACCURACY}% precyzji."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.purple.all.enemies","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji i dodatkowe zmniejszenie o {ACCURACYPERTILE}% za każdą tarczę mroku na planszy na czas {TURNS} tur, maksymalnie do {MAXACCURACY}% precyzji."
@@ -1768,6 +1815,7 @@ Energiczny taniec fortuny
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","Po upływie {TURNS} tury cel i pobliscy wrogowie zostają sparaliżowani na okres {STATUSEFFECT1TURNS} tur. Sparaliżowani wrogowie nie mogą atakować ani odnawiać many i otrzymują obrażenia zwiększone o {STATUSEFFECT1DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","Po upływie 1 tury cel i pobliscy wrogowie zostają sparaliżowani na 2 tury."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_titan.single.allies.turns.one","Po upływie {TURNS} tury cel i pobliscy wrogowie zostają sparaliżowani na okres {STATUSEFFECT1TURNS} tur. Sparaliżowani wrogowie nie mogą atakować ani odnawiać many i otrzymują obrażenia zwiększone o {STATUSEFFECT1DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.sides.enemies.onremoval.expiration.paralysis_vasily.turns.one","Po upływie {TURNS} tur wrogowie na skrajach formacji zostają sparaliżowani na okres {STATUSEFFECT1TURNS} tur."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.allies.onremoval.death.reduce_max_health_over_time_stravia.all.enemies","Jeśli rzucający zostanie pokonany w ciągu kolejnych {TURNS} tur, zmniejsza maksymalne zdrowie wszystkich wrogów o {STATUSEFFECT1TOTAL} w ciągu {STATUSEFFECT1TURNS} tur. Efekt jest silniejszy przeciwko celom ze wzmocnionym zdrowiem."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.allies.onremoval.expiration.stun_major.brittle_major.mana_regen_reduction","Po {TURNS} turach rzucający odczuwa następujące dolegliwości ze statusu:
  Rzucający otrzymuje {REMOVALEFFECT1STATUSEFFECT1ATTACK}% do ataku na okres {REMOVALEFFECT1STATUSEFFECT1TURNS} tur. Efektu nie można oczyścić.
@@ -1782,6 +1830,7 @@ Energiczny taniec fortuny
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Po upływie {TURNS} tury cel zostaje sparaliżowany na okres {STATUSEFFECT1TURNS} tur."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Po upływie {TURNS} tury cel zostaje sparaliżowany na okres {STATUSEFFECT1TURNS} tur."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","Rzucający zadaje {REMOVALEFFECT1FIXEDPOWER} pkt. obrażeń wszystkim wrogom po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zadaje zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. obrażeń."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.dispelincreasesactivations","Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Bohater i pobliscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
@@ -1806,6 +1855,10 @@ Energiczny taniec fortuny
 "specials.v2.statuseffect.minor.assistskillreceiveddamagemodifier.all.enemies","Wszystkie obrażenia zadane wszystkim przeciwnikom są {DAMAGEREDUCTION}% większe przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.allies","Wszyscy sojusznicy otrzymują {SPECIALSKILLDEFENSE}% do obrony przeciwko umiejętnościom specjalnym przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","Wszyscy wrogowie otrzymują {SPECIALSKILLDEFENSE}% do obrony przeciwko umiejętnościom specjalnym przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.all.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_coronzom.single.allies","Wszyscy wrogowie zostają obłożeni astralną kulą.
+Gdy posiadacz jest pod wpływem astralnej kuli, nie może otrzymywać nowych efektów ze statusu.
+ Astralne kule wybuchają po {TURNS} turach, zadając posiadaczowi {DAMAGE} pkt. obrażeń.
+ Jeśli astralna kula zostanie oczyszczona, posiadacz otrzymuje Rezonowanie na okres {STATUSEFFECT1TURNS} tur. Rezonowanie co turę zadaje wrogowi pod wpływem {STATUSEFFECT1DAMAGEPERTURN} pkt. obrażeń i {RESONANCEDAMAGE} pkt. obrażeń pobliskim wrogom."
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Trafieni wrogowie zostają obłożeni astralną kulą.
 Gdy posiadacz jest pod wpływem astralnej kuli, nie może otrzymywać nowych efektów ze statusu.
  Astralne kule wybuchają po {TURNS} turach, zadając posiadaczowi {DAMAGE} pkt. obrażeń.
@@ -1879,6 +1932,7 @@ Gdy posiadacz jest pod wpływem astralnej kuli, nie może otrzymywać nowych efe
 "specials.v2.statuseffect.minor.bleeding.sides.enemies.contagious","Wrogowie na skraju formacji przeciwnika odnoszą {DAMAGE} obrażeń od krwawienia przez {TURNS} tur(y). Ten efekt rozprzestrzenia się na pobliskich wrogów."
 "specials.v2.statuseffect.minor.bleeding.single.enemies","Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.neartotarget","Cel odnosi {DAMAGE} pkt. obrażeń od krwawienia przez okres {TURNS} tur.  Rzucający  i  pobliscy  sojusznicy pochłaniają {ABSORBHEALING}% zadanych obrażeń od krwawienia w postaci wzmocnionego zdrowia."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y). Rzucający wchłania {ABSORBHEALING}% zadanych obrażeń od krwawienia jako wzmocnienie zdrowia."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.neartotarget.chain_strike","Wszyscy trafieni wrogowie odnoszą {DAMAGE} pkt. obrażeń od krwawienia przez okres {TURNS} tur. Rzucający i pobliscy sojusznicy pochłaniają {ABSORBHEALING}% zadanych obrażeń od krwawienia w postaci PŻ."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.single","Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez okres {TURNS} tur. Rzucający pochłania {ABSORBHEALING}% zadanych obrażeń od krwawienia w postaci PŻ."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.single.chain_strike","Wszyscy trafieni wrogowie odnoszą {DAMAGE} pkt. obrażeń od krwawienia przez okres {TURNS} tur. Rzucający pochłania {ABSORBHEALING}% zadanych obrażeń od krwawienia w postaci PŻ."
@@ -1893,8 +1947,8 @@ Gdy posiadacz jest pod wpływem astralnej kuli, nie może otrzymywać nowych efe
 "specials.v2.statuseffect.minor.block.neartotarget.allies","Rzucający i pobliscy sojusznicy mają {BLOCKCHANCE}% szans na niwelowanie otrzymanych obrażeń do 1 pkt przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.block.neartotarget.allies.onremoval.dispel.removes.minorbuff.all.enemies","Bohater i pobliscy sojusznicy mają {BLOCKCHANCE}% szansy na zmniejszenie otrzymywanych obrażeń wszelkiego rodzaju do 1 pkt. na okres {TURNS} tur. Jeśli ten efekt zostanie odwołany, odwołuje wzmocnienia ze wszystkich wrogów."
 "specials.v2.statuseffect.minor.block.single.allies","Bohater ma {BLOCKCHANCE}% szans na niwelowanie otrzymanych obrażeń do 1 pkt przez {TURNS} tur(y)."
-"specials.v2.statuseffect.minor.blocknewminionspecialsummonwithdamage.all.enemies","Wszyscy wrogowie nie mogą wezwać nowych pomocników z umiejętnością specjalną i otrzymuje {DAMAGE} obrażeń za każdą próbę wezwania pomocnika przez okres {TURNS} tur."
-"specials.v2.statuseffect.minor.blocknewminionspecialsummonwithdamage.neartotarget.enemies","Cel i pobliscy wrogowie nie mogą wezwać nowych pomocników z umiejętnością specjalną i otrzymuje {DAMAGE} obrażeń za każdą próbę wezwania pomocnika przez okres {TURNS} tur."
+"specials.v2.statuseffect.minor.blocknewminionspecialsummonwithdamage.all.enemies","Wszyscy wrogowie nie mogą wezwać nowych pomocników z umiejętnością specjalną i otrzymują {DAMAGE} obrażeń za każdą próbę wezwania pomocnika przez okres {TURNS} tur."
+"specials.v2.statuseffect.minor.blocknewminionspecialsummonwithdamage.neartotarget.enemies","Cel i pobliscy wrogowie nie mogą wezwać nowych pomocników z umiejętnością specjalną i otrzymują {DAMAGE} obrażeń za każdą próbę wezwania pomocnika przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.blocknewminionspecialsummonwithdamage.single.enemies","Cel nie może wezwać nowych pomocników z umiejętnością specjalną i otrzymuje {DAMAGE} obrażeń za każdą próbę wezwania pomocnika przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.all.enemies","Wrogowie nie mogą rzucać żadnych nowych efektów statusu na wrogów lub sojuszników przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.all.enemies.resetonheal","Wrogowie nie mogą rzucać żadnych nowych efektów statusu na wrogów lub sojuszników przez okres {TURNS} tur. Czas trwania efektu resetuje się w razie wyleczenia celu."
@@ -1939,6 +1993,7 @@ Potworny szkielet lisa wysysa efekty leczenia i znika po wchłonięciu zdrowia r
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.chain_strike","Wszystkie trafione cele są odporne na nowe wzmocnienia ze statusu przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","Cel nie może otrzymywać wzmocnień ze statusu przez okres {TURNS} tur(y) i otrzymuje {POWER} pkt. obrażeń za każdą próbę nałożenia wzmocnienia."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","Wszystkie trafione cele nie mogą otrzymywać wzmocnień ze statusu przez okres {TURNS} tur i otrzymują {POWER} pkt. obrażeń za każdą próbę nałożenia wzmocnienia."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.dispelincreasesactivations.chain_strike","Wszystkie trafione cele nie mogą otrzymywać wzmocnień ze statusu przez okres {TURNS} tur i otrzymują {POWER} pkt. obrażeń za każdą próbę nałożenia wzmocnienia. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Zadaje {DAMAGE} - {MAXDAMAGE} pkt. obrażeń wszystkim wrogom po upływie {TURNS} tur, w zależności od obrażeń otrzymanych przez bohatera, gdy ten efekt był aktywny."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Zadaje {DAMAGE} - {MAXDAMAGE} pkt. obrażeń wszystkim wrogom po upływie {TURNS} tur lub jeśli rzucający zostanie pokonany, w zależności od obrażeń otrzymanych przez bohatera, gdy ten efekt był aktywny."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","Zadaje {POWER}% – {MAXPOWER}% obrażeń wszystkim wrogom po {TURNS} turach, w zależności od obrażeń otrzymanych przez rzucającego, gdy ten efekt był aktywny."
@@ -2095,6 +2150,11 @@ Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, z
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Wróg obrany za cel otrzymuje dolegliwość ze statusu pożerająca maź na okres {TURNS} tur.
 Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, zadaje {BASEDAMAGEPERTURN} pkt. obrażeń co turę i {DAMAGEPERTURNPEREFFECT} pkt. obrażeń za każdy usunięty efekt."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Na koniec każdej tury oczyszcza dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Na koniec każdej tury bezpiecznie oczyszcza dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Na koniec każdej tury oczyszcza 1 dolegliwość ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.bypassremoveeffects","Na koniec każdej tury bezpiecznie oczyszcza 1 dolegliwość ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.multiple","Na koniec każdej tury oczyszcza {REMOVALCOUNT} dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.multiple.bypassremoveeffects","Na koniec każdej tury bezpiecznie oczyszcza {REMOVALCOUNT} dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.all.enemies.minorbuff","Odwołuje wzmocnienia wszystkich wrogów na końcu każdej tury przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.neartotarget.allies.minordebuff","Na koniec każdej tury oczyszcza dolegliwości ze statusu rzucającego i pobliskich sojuszników przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Odwołuje wzmocnienia celu i pobliskich wrogów na końcu każdej tury przez {TURNS} tur(y)."
@@ -2160,6 +2220,7 @@ Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, z
 "specials.v2.statuseffect.minor.elementmirror.yellow.neartotarget.allies","Rzucający i pobliscy sojusznicy odbijają wszystkie dolegliwości ze statusu i {DEFLECTION}% obrażeń w atakującego i blokują inne negatywne efekty od wrogich umiejętności specjalnych światłości przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.allies","Rzucający odbija wszystkie dolegliwości ze statusu i {DEFLECTION}% obrażeń w atakującego i blokuje inne negatywne efekty od wrogich umiejętności specjalnych światłości przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.enemies","Rzucający odbija wszystkie dolegliwości ze statusu i {DEFLECTION}% obrażeń w atakującego i blokują inne negatywne efekty od wrogich umiejętności specjalnych mroku przez okres {TURNS} tur."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Zmienia żywioł wszystkich wrogów na ogień na {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.elementswap.all.enemies.strongagainstelement","Zmienia żywioł wszystkich wrogów na żywioł, do którego są najlepiej przystosowani przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.elementswap.single.allies.maintargetelement","Zmienia żywioł rzucającego na żywioł celu na czas {TURNS} tur."
 "specials.v2.statuseffect.minor.elementswap.single.allies.strongagainstelement","Zmienia żywioł rzucającego na żywioł, do którego jest najlepiej przystosowany na czas {TURNS} tur."
@@ -2219,6 +2280,7 @@ Po każdej zmianie żywiołu wrogowie otrzymują {DAMAGEPERTURN} obr., jeśli ic
 "specials.v2.statuseffect.minor.fixedmanatoowneroncounterattack.small.increment.neartotarget.allies","Bohater i pobliscy sojusznicy regenerują niewielką ilość many za każdy kontratak na czas {TURNS} tur. Efekt zostaje osłabiony przy kolejnych aktywacjach w trakcie tej samej tury."
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.allminor.enemies","Cel zyskuje {DEFENSE} pkt. do obrony przeciw mrokowi, a wszyscy pozostali wrogowie otrzymują {MINORDEFENSE} pkt. do obrony przeciw mrokowi na okres {TURNS} turn."
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.single.enemies","Cel otrzymuje {DEFENSE} pkt. do obrony przeciwko mrokowi przez okres {TURNS} tur."
+"specials.v2.statuseffect.minor.fixedreddefensemodifier.single.enemies","Cel otrzymuje {DEFENSE} pkt. do obrony przeciwko ogniowi przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.allies","Wszyscy sojusznicy otrzymują {DEFENSE} do obrony przeciwko umiejętnościom specjalnym przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.enemies","Wszyscy wrogowie otrzymują {DEFENSE} do obrony przeciwko umiejętnościom specjalnym przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.fixedyellowdefensemodifier.single.enemies","Cel otrzymuje {DEFENSE} pkt. do obrony przeciw światłości na okres {TURNS} tur."
@@ -2263,7 +2325,7 @@ Każda moneta zadaje {POWER1}% obrażeń."
 "specials.v2.statuseffect.minor.healmultiplier.all.enemies","Wszyscy wrogowie otrzymują {HEALING}% więcej każdej regeneracji przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.healmultiplier.all.enemies.decrease","Regeneracja wszystkich wrogów spada o {HEALING}% przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.healmultiplier.all.enemies.decrease.dispelincreasesactivations","Regeneracja zdrowia wszystkich wrogów spada o {HEALING}% przez {TURNS} tur(y). Ten efekt jest nieustępliwy."
-"specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease","Regeneracja zdrowia celu zostaje zmniejszona o {HEALING}%, a pobliskich wrogów o {MINORHEALING}% na okres {TURNS} tur."
+"specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease","Regeneracja zdrowia celu zostaje zmniejszona o {HEALING}%, a wszystkich pozostałych wrogów o {MINORHEALING}% na okres {TURNS} tur."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies","Cel i pobliscy wrogowie otrzymują {HEALING}% więcej każdej regeneracji przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies.decrease","Regeneracja celu i pobliskich wrogów spada o {HEALING}% przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.healmultiplier.neartotargetminor.enemies.decrease","Regeneracja zdrowia celu ze wszystkich źródeł spada o {HEALING}%, a pobliskich wrogów o {MINORHEALING}% na okres {TURNS} tur."
@@ -2383,16 +2445,18 @@ Każda moneta zadaje {POWER1}% obrażeń."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Na końcu każdej tury wszyscy sojusznicy strzelają Księżycowym promieniem w losowego wroga przez okres {TURNS} tur.
 Każdy promień zadaje {POWER1}% obrażeń i zmniejsza manę trafionego wroga o {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Na końcu każdej tury wszyscy sojusznicy strzelają astralnym promieniem w losowego wroga przez okres {TURNS} tur.
-Każdy astralny promień zadaje {POWER1}% obrażeń i zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION2}."
+Każdy astralny promień zadaje {POWER1}% obrażeń.Każdy astralny promień zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION2}. Efekt jest silniejszy przeciwko celom ze wzmocnionym zdrowiem."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Na końcu każdej tury rzucający i pobliscy sojusznicy strzelają Księżycowym promieniem w losowego wroga przez okres {TURNS} tur.
 Każdy promień zadaje {POWER1}% obrażeń i zmniejsza manę trafionego wroga o {ABSPOWER2}%."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Na końcu każdej tury rzucający i pobliscy sojusznicy strzelają astralnym promieniem w losowego wroga przez okres {TURNS} tur.
+Każdy astralny promień zadaje {POWER1}% obrażeń. Każdy astralny promień zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION2}. Efekt jest silniejszy przeciwko celom ze wzmocnionym zdrowiem."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.reducemaxhealth.random.enemies.add_insanity_ocular_ray_nyctalos.with_chance","Na końcu każdej tury rzucający i pobliscy sojusznicy strzelają okularnym promieniem w losowego wroga przez {TURNS} tur(y).
  Każdy okularny promień nakłada {INSANITYTOADD} pkt. obłędu na trafionego przeciwnika.
- Każdy okularny promień zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION1} pkt."
+ Każdy okularny promień zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION1} pkt. Efekt jest silniejszy przeciwko celom ze wzmocnionym zdrowiem."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Na końcu każdej tury rzucający strzela Księżycowym promieniem w losowego wroga przez okres {TURNS} tur.
 Każdy promień zadaje {POWER1}% obrażeń i zmniejsza manę trafionego wroga o {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Na końcu każdej tury rzucający strzela astralnym promieniem w losowego wroga przez okres {TURNS} tur.
-Każdy astralny promień zadaje {POWER1}% obrażeń i zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION2}."
+Każdy astralny promień zadaje {POWER1}% obrażeń. Każdy astralny promień zmniejsza maksymalne zdrowie trafionego wroga o {REDUCTION2}. Efekt jest silniejszy przeciwko celom ze wzmocnionym zdrowiem."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","Wszyscy sojusznicy na okres {TURNS} tur otrzymują Totem burzy ognia, który zmniejsza obrażenia otrzymywane od umiejętności specjalnych maksymalnie o -{MAX}. Zmniejsza obrażenia o dodatkowe {ADDITIONALDAMAGEMODIFIER}%, jeśli atakujący jest żywiołu natury."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","Wszyscy sojusznicy na okres {TURNS} tur otrzymują Totem mrozu, który zmniejsza obrażenia otrzymywane od umiejętności specjalnych maksymalnie o -{MAX}. Zmniejsza obrażenia o dodatkowe {ADDITIONALDAMAGEMODIFIER}%, jeśli atakujący jest żywiołu ognia."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","Wszyscy sojusznicy na okres {TURNS} tur otrzymują Totem wschodu księżyca, który zmniejsza obrażenia otrzymywane od umiejętności specjalnych maksymalnie o -{MAX}. Zmniejsza obrażenia o dodatkowe {ADDITIONALDAMAGEMODIFIER}%, jeśli atakujący jest żywiołu światłości."
@@ -2481,7 +2545,7 @@ Każdy penetrujący shuriken zadaje {POWER1}% obrażeń."
 "specials.v2.statuseffect.minor.proportionalmanatoattackeroncounterattack.decrement.single.allies","Rzucający przez {TURNS} tur(y) zmniejsza o {PROPORTIONALMANA}% ilość many atakującego podczas każdego kontrataku. Efekt zostaje osłabiony przy kolejnych aktywacjach w trakcie tej samej tury."
 "specials.v2.statuseffect.minor.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies","Wszyscy wrogowie zostają sprowokowani na okres {TURNS} tur. Sprowokowana postać zadaje na koniec tury {POWER1}% obrażeń losowemu wrogowi."
 "specials.v2.statuseffect.minor.pumpkinbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Cel otrzymuje bombę dyniową, która po {TURNS} turach wybucha, zadając {DAMAGE} pkt. obrażeń celowi i pobliskim wrogom. Bomba wybucha również, gdy cel zostanie pokonany."
-"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","Cel otrzymuje śmierdzącą bombę i {DEFENSE}% obrony, gdy jest pod jej wpływem. Śmierdząca bomba wybucha po {TURNS} turach i zadaje {FIXEDPOWER} obrażeń celowi i pobliskim sojusznikom."
+"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","Cel otrzymuje [#!]śmierdzącą bombę[#]. [#!]Śmierdząca bomba[#] wybucha po [#!]{TURNS}[#] turach i zadaje [#!]{FIXEDPOWER}[#] obrażeń celowi i pobliskim sojusznikom."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.allies","Wszyscy sojusznicy otrzymują {DEFENSE}% do obrony przeciwko mrokowi przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Wszyscy przeciwnicy otrzymują {DEFENSE}% do obrony przeciwko mrokowi przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","Bohater i pobliscy sojusznicy otrzymują {DEFENSE}% do obrony przeciwko mrokowi przez {TURNS} tur(y)."
@@ -2562,7 +2626,7 @@ Odporna zgnilizna
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Cel i pobliscy wrogowie są odporni na leczenie i otrzymują {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Wrogowie na skrajach formacji wroga są odporni na leczenie i otrzymują {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Cel jest odporny na leczenie i otrzymuje {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur."
-"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","Cel jest odporny na leczenie i otrzymuje {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","Wszyscy trafieni wrogowie są odporni na leczenie i otrzymują {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","Cel drugiego trafienia jest odporny na leczenie i otrzymuje {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","Wszystkie trafione cele są odporne na leczenie i otrzymują {FIXEDPOWER} pkt. obrażeń za każdy przypadek odpartego leczenia na czas {TURNS} tur."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Wszyscy sojusznicy są odporni na nowe negatywne efekty many przez {TURNS} tur(y)."
@@ -2644,7 +2708,7 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","Wszystkie trafione cele zostają uciszone przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","Cel drugiego trafienia zostaje uciszony przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","Cel zostaje uciszony przez {TURNS} tur(y)."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","Wszyscy wrogowie zasypiają i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","Cel i pobliscy wrogowie zostają powiązani duszami przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","Wszyscy sojusznicy otrzymują powiązanie dusz na {TURNS} tur(y). Sojusznicy z powiązaniem dusz dzielą się otrzymywanymi obrażeniami."
 "specials.v2.statuseffect.minor.soulconnection.all.both","Wszyscy sojusznicy otrzymują powiązanie dusz na {TURNS} tur(y). Sojusznicy z powiązaniem dusz dzielą się otrzymywanymi obrażeniami.
@@ -2670,6 +2734,8 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.specialskillcastmark.single.allies.stackingmanagenerationmodifier.specialskillcast.activates_on_ally_action","Rzucający otrzymuje znak umiejętności specjalnej na okres {TURNS} tur. Gdy sojusznik (z wyjątkiem rzucającego) rzuci umiejętność specjalną, rzucający zyskuje kumulację (Maks.: {STATUSEFFECT1MAXSTACK}). Każda kumulacja zwiększa regenerację many celu o {STATUSEFFECT1MANAREGEN}%."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.allies","Wszyscy sojusznicy otrzymują {SPECIALSKILLDEFENSE}% do obrony przeciwko umiejętnościom specjalnym przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies","Wszyscy wrogowie otrzymują {SPECIALSKILLDEFENSE}% do obrony przeciwko umiejętnościom specjalnym przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.onremoval.damage.single.allies","Wszyscy wrogowie otrzymują {SPECIALSKILLDEFENSE}% obrony przeciwko umiejętnościom specjalnym na czas {TURNS} tur. Jeśli efekt zostanie zdjęty, zanim upłynie czas jego trwania, cel z efektem odnosi {DAMAGE} pkt. obrażeń."
+"specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.onremoval.damage.single.allies.removal.dispel.reallocation.replacesamestatuseffect","Wszyscy wrogowie otrzymują {SPECIALSKILLDEFENSE}% obrony przeciwko umiejętnościom specjalnym na czas {TURNS} tur. Jeśli efekt zostanie zdjęty, zanim upłynie czas jego trwania, cel z efektem odnosi {DAMAGE} pkt. obrażeń."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.withactivationcount.one.onremoval.addmana.single.allies.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.decrease.unreallocatable","Ulepszona dolegliwość obronna: wszyscy wrogowie otrzymują {SPECIALSKILLDEFENSE}% do obrony przeciwko umiejętnościom specjalnym. Efekt trwa dopóki wróg nie otrzyma obrażeń od umiejętności specjalnej.
  Gdy ulepszona dolegliwość obronna dobiegnie końca, zostanie usunięta lub zastąpiona, mana wroga zostaje zmniejszona o {REMOVALEFFECT1MANA}%."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.withactivationcount.one.onremoval.damage.single.allies.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.unreallocatable","Ulepszona dolegliwość obronna: wszyscy wrogowie otrzymują {SPECIALSKILLDEFENSE}% do obrony przeciwko umiejętnościom specjalnym. Efekt trwa dopóki wróg nie otrzyma obrażeń od umiejętności specjalnej.
@@ -2713,6 +2779,7 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Kumulacja (maks.: {MAXSTACK}): Rzucający otrzymuje dodatkowe {ATTACK}% do ataku za każdego zniszczonego pomocnika."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Kumulacja (maks.: {MAXSTACK}): Każde trafienie daje celowi {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Kumulacja (maks.: {MAXSTACK}): inicjator otrzymuje {ATTACK}% siły ataku przeciwko słabszemu żywiołowi."
+"specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Kumulacja (Maks.: {MAXSTACK}): Wszyscy sojusznicy zyskują {CRIT}% szans na trafienie krytyczne."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies.withbasestackcount","Kumulacja +{BASESTACKCOUNT} (Max: {MAXSTACK}): Wszyscy sojusznicy zyskują {CRITPERSTACK}% szans na trafienie krytyczne za każdą kumulację."
 "specials.v2.statuseffect.minor.stackingcritmodifier.neartotarget.allies","Kumulacja (maks.: {MAXSTACK}): Rzucający i pobliscy sojusznicy zyskują {CRIT}% szans na trafienie krytyczne."
 "specials.v2.statuseffect.minor.stackingcritmodifier.single.allies.withbasestackcount","Kumulacja +{BASESTACKCOUNT} (Max: {MAXSTACK}): Ta postać zyskuje {CRIT}% szans na trafienie krytyczne."
@@ -2791,6 +2858,10 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 {STATUSEFFECT1MANAREGEN}% do regeneracji many na okres {STATUSEFFECT1TURNS} tur.
 {STATUSEFFECT2DEFENSE}% do obrony przeciwko umiejętnościom specjalnym na okres {STATUSEFFECT2TURNS} tur.
 Źródło dolegliwości aktywuje się {MAXACTIVATIONCOUNT} razy. Ten efekt jest nieustępliwy."
+"specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.poison_paracelsus.resist_healing_with_damage_paracelsus.dispelincreasesactivations","Źródło dolegliwości: Na losowego wroga co turę rzucane są następujące efekty:
+{STATUSEFFECT1DAMAGE} obrażeń od trucizny na okres {STATUSEFFECT1TURNS} tur.
+Odpiera leczenie i otrzymuje {FIXEDPOWER} pkt. obrażeń za każde odparte leczenie przez okres {STATUSEFFECT2TURNS} tur.
+ Źródło dolegliwości aktywuje się {MAXACTIVATIONCOUNT} razy. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_modthryth.mana_regen_modthryth","Generator efektów statusu: Na początku następnych {MAXACTIVATIONCOUNT} tur ta postać zapewnia losowemu sojusznikowi dodatkowe {STATUSEFFECT1POWER}% do obrażeń od umiejętności specjalnych i {STATUSEFFECT2MANAREGEN}% do generowania many na czas {STATUSEFFECT1TURNS} tur. Efektu nie można odwołać."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_modthryth.mana_regen_modthryth.dispelincreasesactivations","Źródło wzmocnień: Na losowego sojusznika co turę rzucane są następujące efekty:
  {STATUSEFFECT1POWER}% do obrażeń od umiejętności specjalnych na okres {STATUSEFFECT1TURNS} tur.
@@ -2829,6 +2900,7 @@ Każdy unik daje sojusznikom {MANAREGEN}% regeneracji many na {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Wszyscy sojusznicy otrzymują {ATTACK}% do ataku na okres {TURNS} tur. Przeciwko tytanom światłości, wszyscy sojusznicy otrzymują {ATTACKAGAINSTVALIDTARGET}% do ataku."
 "specials.v2.statuseffect.minor.taunt.single.allies","Bohater zyskuje efekt Prowokacji, który uniemożliwia wrogom używanie umiejętności specjalnych na sojusznikach bohatera przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Wszyscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od toksyn w ciągu {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
+"specials.v2.statuseffect.minor.toxin.neartotarget.enemies.dispelincreasesactivations.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Cel i pobliscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od toksyn w ciągu {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Cel i pobliscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od toksyn w ciągu {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Wrogowie na skraju formacji przeciwnika otrzymują {DAMAGE} pkt. obrażeń od toksyn przez okres {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Cel otrzymuje {DAMAGE} pkt. obrażeń od toksyn w ciągu {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
@@ -2853,8 +2925,16 @@ Każdy unik daje sojusznikom {MANAREGEN}% regeneracji many na {TURNS} tur(y)."
  W przypadku oczyszczenia kostki magmy jej właściciel otrzymuje {STATUSEFFECT1MANAREGEN}% do generowania many przez okres {REMOVALEFFECT2STATUSEFFECT1TURNS} tur."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Wszyscy wrogowie otrzymują {BASEDAMAGE} obrażeń od wody i odnoszą zwiększone o {DAMAGEPERTILE} obrażenia za każdą lodową tarczę na planszy przez {TURNS} tur(y), maksymalnie do {MAXDAMAGE} obrażeń. Tego efektu nie mogą oczyścić magią żadni ogniowi przeciwnicy."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","Bohater otrzymuje Zemstę na okres {TURNS} tur. Jeśli Zemsta zostanie rozproszona przez umiejętność specjalną, wszyscy wrogowie otrzymają {DAMAGE} pkt. obrażeń."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Cel zmienia się w robaka umysłu. Robaki umysłu posiadają {ATTACK}% ataku, {DEFENSE}% obrony i następującą specjalną zdolność:
+
+{REPLACEDSPECIALTITLE} ({REPLACEDMANASPEED})
+Zadaje 75 pkt. obłędu jednemu losowemu sojusznikowi.
+Usuwa robaka umysłu z rzucającego."
 "specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Dzicz: Na {TURNS} tur(y) cel i pobliscy wrogowie otrzymują {DAMAGEPERTURN} pkt. lub {WILDDAMAGEPERTURN} pkt. obrażeń od poparzenia co turę."
 "specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Dzicz: Przez {TURNS} tur(y) wszyscy sojusznicy regenerują {HPPERTURN} PŻ lub otrzymują {WILDHPPERTURN} pkt. wzmocnionego zdrowia co turę."
+"specials.v2.statuseffect.minor.wind.all.enemies.alldefensivebuffs.minion.bigminion.follower","Wszyscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od wiatru przez {TURNS} tur(y). Obrażenia omijają wzmocnienia obrony, pomocników i mega pomocników."
+"specials.v2.statuseffect.minor.wind.neartotarget.enemies.alldefensivebuffs.minion.bigminion.follower","Cel i pobliscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od wiatru przez {TURNS} tur(y). Obrażenia omijają wzmocnienia obrony, pomocników i mega pomocników."
+"specials.v2.statuseffect.minor.wind.single.enemies.alldefensivebuffs.minion.bigminion.follower.chain_strike","Wszystkie trafione cele otrzymują {DAMAGE} pkt. obrażeń od wiatru przez {TURNS} tur(y). Obrażenia omijają wzmocnienia obrony, pomocników i mega pomocników."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","Wszyscy sojusznicy otrzymują {DEFENSE}% do obrony przeciwko światłości przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.enemies","Wszyscy wrogowie otrzymują {DEFENSE}% do obrony przeciwko światłości przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.allexceptcaster.allies","Wszyscy sojusznicy z wyjątkiem rzucającego otrzymują {DEFENSE}% do obrony przeciwko światłości przez okres {TURNS} tur."
@@ -2901,14 +2981,3 @@ Obłęd bohatera może zostać zmniejszony poprzez bezpośrednie uleczenie umiej
 "specials.v2.toon_tide.immuneelement.purple","Wszyscy sojusznicy i wrogowie mroku są odporni na umiejętność specjalną."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Ten efekt może wystąpić tylko raz na każdym pomocniku głowie hydry."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Gdy pomocnik głowa hydry zostanie pokonany, losowy sojusznik otrzymuje pomocnika odrodzoną głowę hydry, która dziedziczy statystyki pierwotnego pomocnika."
-"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Bezpiecznie oczyszcza status rzucającego z wszystkich dolegliwości."
-"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Zmienia żywioł wszystkich wrogów na [##elementred]ogień[#] na {TURNS} tur(y)."
-"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
-"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y). Rzucający wchłania {ABSORBHEALING}% zadanych obrażeń od krwawienia jako wzmocnienie zdrowia."
-"specials.v2.property.wither.none.single.enemies.attack","[#!]Susza:[#] cel otrzymuje {ATTACKINCREASE} do ataku."
-"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Cel zmienia się w [#!]robaka umysłu[#]. [#!]Robaki umysłu[#] posiadają {ATTACK}% ataku, {DEFENSE}% obrony i następującą specjalną zdolność:
- 
-[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
-[>]Zadaje 75 pkt. [#!]obłędu[#] jednemu losowemu sojusznikowi.
-[>]Usuwa [#!]robaka umysłu[#] z rzucającego."
-"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Usuwa dolegliwość [#!]robak umysłu[#] z rzucającego."

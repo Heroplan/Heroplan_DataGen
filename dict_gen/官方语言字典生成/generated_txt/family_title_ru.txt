@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Хранители"
 "herocard.family.title.halloween","Семья Морловии"
 "herocard.family.title.halloween.short","Морловия"
+"herocard.family.title.harpy","Злобные гарпии"
+"herocard.family.title.harpy.short","Злобные гарпии"
 "herocard.family.title.helheim","Хельхейм"
 "herocard.family.title.helheim.short","Хельхейм"
 "herocard.family.title.hotm","Семья легенд {0}"

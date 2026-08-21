@@ -7,6 +7,7 @@
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","All skada den här karaktären gör går förbi undersåtar och megaundersåtar."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Chans att förlänga alla kastade statuseffekter."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} turer: {1} %"
+"herocard.passive_skill.description.charactercoreintrinsicchargeconsumptionmodifier","När den här karaktärens kärna aktiveras töms bara {MULTIPLIER} % av karaktärens kärnladdning."
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Om den här karaktären har flygstyrka får den:
 Upp till {MAXMANAGENERATIONMODIFIER} % extra manaskapande.
 Upp till {MAXDODGEMODIFIER} % extra väjningschans.
@@ -64,12 +65,14 @@ Var och en av de här effekterna kan aktiveras en gång per runda."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","När en karaktär tar skada av specialförmågor får den en attackstapel på {STATUSEFFECT1ATTACK} % attack (högst {STATUSEFFECT1MAXSTACK}). Karaktären kan få en stapel per runda."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","När en karaktär tar skada av specialförmågor får den en attackstapel på {STATUSEFFECT1ATTACK} % attack (högst {STATUSEFFECT1MAXSTACK}). Karaktären kan få en stapel per runda."
 "herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","När den här karaktärens hälsa faller under {HEALTHTHRESHOLD} % får karaktären {STATUSEFFECT1TOTAL} % mana över {STATUSEFFECT1TURNS} rundor."
-"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","När en allierad försöker rena med specialförmågor får alla allierade {POWER} ökad hälsa. Effekten kan bara aktiveras en gång per runda."
-"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","När en fiende försöker rena med specialförmågor tar alla allierade {POWER} skada. Effekten kan bara aktiveras en gång per runda."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","När en allierad renar med en specialförmåga får alla allierade {POWER} ökad hälsa. Effekten kan bara aktiveras en gång per runda. Den aktiveras även vid försök till rening."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","När en fiende renar med en specialförmåga får alla fiender {POWER} skada. Effekten kan bara aktiveras en gång per runda. Den aktiveras även vid försök till rening."
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","Karaktären får {POWER} % mana varje gång en av dess bonusar avbryts. Den här effekten kan bara aktiveras en gång per runda."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Karaktären får {POWER} % mana varje gång en av dess bonusar avbryts. Den här effekten kan bara aktiveras en gång per runda. Den aktiveras även vid försök till avbrott."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Den här karaktären får {POWER} % hälsa varje gång en negativ statuseffekt utgår eller på annat sätt tas bort. Den här effekten kan bara aktiveras en gång per runda."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","Den här karaktären har {CHANCE} % chans att få {POWER} % hälsa varje gång en negativ statuseffekt utgår eller på annat sätt tas bort. Den här effekten kan bara aktiveras en gång per runda."
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","Karaktären får sin hälsa ökad med {POWER}  varje gång en av den här karaktärens bonusar avbryts. Den här effekten kan bara aktiveras en gång per runda."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","Karaktären får {POWER} ökad hälsa varje gång en av dess bonusar avbryts. Den här effekten kan bara aktiveras en gång per runda. Den aktiveras även vid försök till avbrott."
 "herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","När den här karaktärens undersåtar träffar gör de {DAMAGE} frostskada över {TURNS} rundor"
 "herocard.passive_skill.description.effectonheal.addmana","Karaktären får {POWER} % mana varje gång den återställer hälsa."
 "herocard.passive_skill.description.effectonheal.heal","Karaktären får {POWER} % hälsa varje gång den återställer hälsa."
@@ -86,6 +89,7 @@ Anfallaren tar {STATUSEFFECT1DAMAGE} blödningsskada över {TURNS} rundor."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Om den här karaktären förlorar mer än {DAMAGETHRESHOLD} % av maxhälsan på en och samma gång åkallar den en slemmegaundersåte till sig själv med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Om den här karaktären förlorar mer än {DAMAGETHRESHOLD} % av maxhälsan på en och samma gång åkallar den en slemmegaundersåte till sig själv med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Om den här karaktären förlorar mer än {DAMAGETHRESHOLD} % av maxhälsan på en och samma gång åkallar den en slemmegaundersåte till sig själv med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.all.allies.fixedpower.addmana.all.allies.once","Alla allierade får {HEALTHBOOST} ökad hälsa och {MANA} % mana varje gång den här karaktären motstår effekter med passiva förmågor. Den här effekten kan bara aktiveras en gång per runda."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Den här karaktären får {HEALTHBOOST} % hälsoboost och {MANA} % när den motstår."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Den här karaktären får {POWER} % mana varje gång en fiende använder en specialförmåga som ökar hälsa direkt."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Den här karaktären får {POWER} hälsoökning varje gång en fiende använder en specialförmåga som ökar hälsa direkt."
@@ -135,15 +139,14 @@ Anfallaren tar {STATUSEFFECT1DAMAGE} blödningsskada över {TURNS} rundor."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE} % chans att utföra extra handlingar när karaktären använder sin specialförmåga:"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Alla fienders undersåtar har {MINIONMODIFIER} % träffsäkerhet.
 Alla fienders megaundersåtar har {MEGAMINIONMODIFIER} % träffsäkerhet."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Den här karaktärens konstruktionskärna är en undersåteskärna.
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].
 
-Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga används:
+[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:
 
- När undersåteskärnan är fulladdad åkallas en mördarrobotsundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från användaren åt alla allierade.
- Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.
- Innan mördarrobotundersåten träffar ett mål förstör den alla målets undersåtar och skadar dess megaundersåtar.
-Mördarrobotundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.
-Vittring: Varje träff från en mördarrobotsundersåte ger dess mål {ATTACKMODIFIER} attack."
+[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.
+[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.
+[*] Mördarrobotsundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.
+[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Den här karaktärens konstruktionskärna är en undersåteskärna.
 
 Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga används:
@@ -212,13 +215,12 @@ Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga 
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","I början av varje runda plundrar den här karaktären en slumpmässig fiende:
 
 Stjäl {DAMAGE} hälsa.
-Stjäl riskfritt en bonus från fienden. Det inkluderar envisa effekter, danseffekter och bonusar som inte kan avbrytas."
+Stjäl en bonus från fienden – även sådana som inte kan avbrytas och danseffekter."
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","I början av varje runda har den här karaktären {CHANCE} % chans att plundra en slumpmässig fiende:
 
-Plundra:
 Stjäl {DAMAGE} hälsa.
-Stjäl riskfritt en slumpmässig tillväxteffekt, positiv stapel eller bonus från fienden. Det inkluderar envisa effekter, danseffekter och bonusar som inte kan avbrytas.
-Riskfria stölder kringgår sekundäreffekter, som skada vid borttagning, från de borttagna bonusarna. Passiva förmåner och familjeeffekter kan fortfarande aktiveras."
+Stjäl riskfritt en slumpmässig tillväxteffekt, positiv stapel eller statuseffektbonus från fienden – även sådana som inte kan avbrytas och danseffekter.
+Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Externa effekter, som passiva effekter och familjeeffekter, kan fortfarande aktiveras."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att stjäla den senaste bonusen som kan avbrytas från en slumpmässig fiende som har bonusar. Om ingen fiende har bonusar så gör den {DAMAGE} % skada till alla fiender."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att stjäla den senaste bonusen som kan avbrytas från en slumpmässig fiende som har bonusar. Om ingen fiende har bonusar så gör den {DAMAGE} % skada till alla fiender."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","När karaktären använder sin specialförmåga för den över den senaste reningsbara negativa statuseffekten från sig själv till målet. Om specialförmågan inte kan sikta in sig på en fiende väljs en slumpmässig fiende istället. Om karaktären inte har några reningsbara negativa statuseffekter återställs {HEALTH} % hälsa."
@@ -236,6 +238,7 @@ I strider med flera vågor återställs effekten i början av varje våg."
 
 I strider med flera vågor återställs effekten i början av varje våg."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Första gången den här karaktären hade tagit dödlig skada dirigeras den skadan vidare till en slumpmässig fiende. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alla negativa statuseffekter den här karaktären motstår med passiva förmågor reflekteras på alla fiender."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % extra chans att reflektera negativa statuseffekter på anfallaren."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Tar bort alla vittringseffekter från alla allierade med {TURNS} rundors mellanrum."
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Tar bort alla tillväxteffekter från alla fiender med {TURNS} rundors mellanrum."
@@ -393,6 +396,8 @@ Kan aktiveras upp till {MAXACTIVATIONCOUNT} gånger. Chansen att återupplivas b
  Mål som är markerade med jaktfacklor tar ytterligare {FIXEDPOWER} skada när de blir träffade av kritiska träffar."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","När karaktären använder sin specialförmåga får den {ATTACK} % attack i {TURNS} rundor. Den här effekten kan vara aktiv tillsammans med effekter som påverkar attackstyrka."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Hjältens element kan bytas ut mot valfritt element i {TURNS} rundor genom att trycka på hjälten när den inte har full mana. Det kan du göra en gång per strid."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Den här karaktären stjäl {MANASTEAL} % mana från fienden med högst manahastighet med {TURNSBETWEENEFFECTS} rundors mellanrum. Det här kan inte motstås av statuseffekter eller passiva förmågor."
+"herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Den här karaktären stjäl {MANASTEAL} % mana från fienden med högst mana med {TURNSBETWEENEFFECTS} rundors mellanrum. Det här kan inte motstås av statuseffekter eller passiva förmågor."
 "herocard.passive_skill.description.stopchainstrikes","Specialförmågor som kedjar eller anfaller flera gånger slutar vid den här karaktären. Påverkar inte vänliga effekter."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
 Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
@@ -522,6 +527,7 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.bypassfamiliars.minion","Ignorera undersåtar"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Överlägset ignorerande av undersåtar"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","Ökad tid för statuseffekter"
+"herocard.passive_skill.title.charactercoreintrinsicchargeconsumptionmodifier","Energisparare"
 "herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","Flygstyrka"
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Mana under vittring"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Återuppliva över tid"
@@ -561,12 +567,14 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Staplar attack vid tagen skada"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Staplar attack vid tagen skada"
 "herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","Bakåtsvall"
-"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Hälsoökning när allierad försöker rena"
-"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Skada när fiende försöker rena"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Ökad hälsa vid allierad rening"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Skada vid fientlig rening"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","Få mana vid avbryt"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","Få mana när en bonus avbryts"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Få mana när en bonus avbryts"
 "herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Läk när negativ statuseffekt utgår eller tas bort"
 "herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","Ökad hälsa vid avbruten bonus"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel.activates_on_dispel_cast","Ökad hälsa vid avbruten bonus"
 "herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","Frost vid undersåteträff"
 "herocard.passive_skill.title.effectonheal.addmana","Mana vid hälsoåterställning"
 "herocard.passive_skill.title.effectonheal.heal","Extra hälsa vid hälsoåterställning"
@@ -580,6 +588,7 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Slemundersåte: delning"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Slemundersåte: delning"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Slemundersåte: delning"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","Legendarisk omvändning"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Hälsoökning och mana vid motstånd"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana vid hälsoökande specialförmåga"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Hälsoökning vid fientlig hälsoökning"
@@ -609,6 +618,8 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Stapla vid specialförmåga"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Skada över tid vid specialförmåga"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Skada vid fientlig specialförmåga"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingdefensemodifier.faster.average","Försvarsstapel av fienders specialförmågor"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingreceiveddamagemodifier.faster.average","Skadesänkning vid fientlig specialförmåga"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana vid hån"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Mana vid fientlig försvarsbonus"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","Statuseffekt vid fientlig försvarsbonus"
@@ -684,6 +695,7 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Stark skadeökning för eldklot"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Lura döden"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Lura döden"
+"herocard.passive_skill.title.reflectresistedstatuseffect","Legendarisk reflekterare"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vaktsamling"
 "herocard.passive_skill.title.remove_wither_from_allies","Vaktsamling"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Reparationskärna"
@@ -797,6 +809,8 @@ Vig kropp"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Grotesks stenskinn"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Manaskapandebonus från negativa statuseffekter"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementmask"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Stjäl snabbt"
+"herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Stjäl snabbt"
 "herocard.passive_skill.title.stopchainstrikes","Stoppa kedjeanfall"
 "herocard.passive_skill.title.stylish","Stilsäkert!"
 "herocard.passive_skill.title.stylish_epic","Stilsäkert!"
@@ -833,3 +847,4 @@ Vig kropp"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Förvandla bonusar"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Förvandla negativa effekter"
 "herocard.passive_skill.title.wither.all.enemies","Vittra"
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER} %[#] manaskapande."

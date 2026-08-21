@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Guardiani"
 "herocard.family.title.halloween","Famiglia Morlovia"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Arpie feroci"
+"herocard.family.title.harpy.short","Arpie feroci"
 "herocard.family.title.helheim","Regno di Helheim"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Famiglia Leggende {0}"

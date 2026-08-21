@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","守護者"
 "herocard.family.title.halloween","莫洛維亞家族"
 "herocard.family.title.halloween.short","莫洛維亞"
+"herocard.family.title.harpy","惡毒鳥妖"
+"herocard.family.title.harpy.short","惡毒鳥妖"
 "herocard.family.title.helheim","冥界王國"
 "herocard.family.title.helheim.short","冥界"
 "herocard.family.title.hotm","傳奇{0}家族"

@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Wachter"
 "herocard.family.title.halloween","Morlovië-familie"
 "herocard.family.title.halloween.short","Morlovië"
+"herocard.family.title.harpy","Wrede harpijen"
+"herocard.family.title.harpy.short","Wrede harpijen"
 "herocard.family.title.helheim","Helheim-rijk"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","{0}-legendenfamilie"

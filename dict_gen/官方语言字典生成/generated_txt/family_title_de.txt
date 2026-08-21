@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Wächter"
 "herocard.family.title.halloween","Morlovia-Familie"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Boshafte Harpyien"
+"herocard.family.title.harpy.short","Boshafte Harpyien"
 "herocard.family.title.helheim","Helheim-Reich"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Familie: Legenden {0}"

@@ -481,7 +481,7 @@
     },
     {
         "name": "Sváfa C",
-        "fancy_name": "tales2_svafa_costume_spirit_hunter",
+        "fancy_name": "Dwarven Spirit Hunter",
         "color": "Blue",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -493,7 +493,7 @@
     },
     {
         "name": "Fimafeng C",
-        "fancy_name": "tales2_fimafeng_costume_skater",
+        "fancy_name": "Dwarven Ice Skating Master",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -505,7 +505,7 @@
     },
     {
         "name": "Mótsognir C",
-        "fancy_name": "tales2_motsognir_costume_holy",
+        "fancy_name": "Paragon of the Dwarven Frontier",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -517,7 +517,7 @@
     },
     {
         "name": "Bragi C",
-        "fancy_name": "tales2_bragi_costume_stone",
+        "fancy_name": "Dwarven Stone Boxer",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -553,7 +553,7 @@
     },
     {
         "name": "Kettle C",
-        "fancy_name": "goblin_kettle_costume_field_cook",
+        "fancy_name": "Field Cook",
         "color": "Blue",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -565,7 +565,7 @@
     },
     {
         "name": "Smarttongue C",
-        "fancy_name": "goblin_smarttongue_costume_jeweller",
+        "fancy_name": "Goblin Jeweller",
         "color": "Green",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -577,7 +577,7 @@
     },
     {
         "name": "Deadboot C",
-        "fancy_name": "goblin_deadboot_costume_jester",
+        "fancy_name": "Harrowing Goblin Jester",
         "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -589,7 +589,7 @@
     },
     {
         "name": "Peridot C",
-        "fancy_name": "ninja_peridot_costume_herbalist",
+        "fancy_name": "Ninja of Deadly Herbs",
         "color": "Green",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -601,7 +601,7 @@
     },
     {
         "name": "Ruby C",
-        "fancy_name": "ninja_ruby_costume_menancer",
+        "fancy_name": "Menacing Oni Ninja",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -613,7 +613,7 @@
     },
     {
         "name": "Justice Stylish",
-        "fancy_name": "exalted_female_statue_costume_stylish",
+        "fancy_name": "Stylish Ancient of Stone",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -625,7 +625,7 @@
     },
     {
         "name": "Sonya Stylish",
-        "fancy_name": "royal_female_knight_costume_stylish",
+        "fancy_name": "Stylish Champion",
         "color": "Blue",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -637,7 +637,7 @@
     },
     {
         "name": "Wu Kong Stylish",
-        "fancy_name": "oriental_monkey_captain_costume_stylish",
+        "fancy_name": "Stylish Monkey",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -649,7 +649,7 @@
     },
     {
         "name": "Nashgar Stylish",
-        "fancy_name": "orc_warrior_costume_stylish",
+        "fancy_name": "Stylish Orc",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -661,7 +661,7 @@
     },
     {
         "name": "Karil Stylish",
-        "fancy_name": "dwarven_smasher_costume_stylish",
+        "fancy_name": "Stylish Dwarf",
         "color": "Blue",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -673,7 +673,7 @@
     },
     {
         "name": "Frida C",
-        "fancy_name": "ice_god_frida_costume_juggernaut",
+        "fancy_name": "Arctic Juggernaut",
         "color": "Blue",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -685,7 +685,7 @@
     },
     {
         "name": "Anzogh C",
-        "fancy_name": "fire_god_anzogh_costume_expeditioner",
+        "fancy_name": "Expeditioner with a Grudge",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -697,7 +697,7 @@
     },
     {
         "name": "Natalya C",
-        "fancy_name": "fire_god_natalya_costume_cute",
+        "fancy_name": "Fireborn Toon",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -709,7 +709,7 @@
     },
     {
         "name": "Delilah C",
-        "fancy_name": "holy_god_delilah_costume_cute",
+        "fancy_name": "Hero of Toon Island",
         "color": "Yellow",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Henriette",
-        "fancy_name": "beauty_beast_henriette",
+        "fancy_name": "Beauty's Supercilious Sister",
         "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -733,7 +733,7 @@
     },
     {
         "name": "Mirielle",
-        "fancy_name": "beauty_beast_mirielle",
+        "fancy_name": "Petrified Maid of the Bewitched Castle",
         "color": "Red",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -741,6 +741,102 @@
         "family": "beauty_beast",
         "costume_id": 0,
         "heroId": "beauty_beast_mirielle",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Shaw",
+        "fancy_name": "Muttering Rat Catcher",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_shaw",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Clim",
+        "fancy_name": "Deadeye Sharpshooter",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_clim",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Vasily",
+        "fancy_name": "Scale Clan's Debt Collector",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_vasily",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Saci",
+        "fancy_name": "Prodigal Mistborn Occultist",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_saci",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Marton",
+        "fancy_name": "Moonstruck Druid of the Woods",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_marton",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Nevison",
+        "fancy_name": "Gambling Scoundrel",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_nevison",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Paracelsus",
+        "fancy_name": "Mad Poison Brewer",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_paracelsus",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Jaz",
+        "fancy_name": "Failed Jackrabbit Experiment",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_jaz",
         "Lottery_Only": 1
     },
     {
@@ -777,6 +873,66 @@
         "family": "construct",
         "costume_id": 0,
         "heroId": "construct_nepant",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Ksorath",
+        "fancy_name": "Astral Demon Courier",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_ksorath",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Gremory",
+        "fancy_name": "Astral Demon Psychopomp",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_gremory",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Azaghim",
+        "fancy_name": "Astral Demon Mauler",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_azaghim",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Isharra",
+        "fancy_name": "Astral Demon Sentinel",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_isharra",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Coronzom",
+        "fancy_name": "Astral Demon Arbiter",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_coronzom",
         "Lottery_Only": 1
     },
     {
@@ -849,6 +1005,126 @@
         "family": "mahayoddha",
         "costume_id": 0,
         "heroId": "mahayoddha_bhagirathi",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Marjatta",
+        "fancy_name": "Nordic Skittles Champion",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "champions",
+        "costume_id": 0,
+        "heroId": "champions_marjatta",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Rubio",
+        "fancy_name": "Rhythmic Gymnastic Champion",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "champions",
+        "costume_id": 0,
+        "heroId": "champions_rubio",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Horace B. F.",
+        "fancy_name": "Archery Champion",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "champions",
+        "costume_id": 0,
+        "heroId": "champions_horace",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Chou Kou Gui",
+        "fancy_name": "Ghost of Noxious Mouth",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ghost",
+        "costume_id": 0,
+        "heroId": "ghost_chou_kou_gui",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Xiwang Gui",
+        "fancy_name": "Hungry Ghost",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ghost",
+        "costume_id": 0,
+        "heroId": "ghost_xiwang_gui",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Pyaza",
+        "fancy_name": "Purple Onion Warlock",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_pyaza",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Yusopea",
+        "fancy_name": "Tactical Pea-Shooter",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_yusopea",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sangeeta",
+        "fancy_name": "Wandering Minstrel",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_sangeeta",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sangram",
+        "fancy_name": "Valiant Senapati",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_sangram",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Mu Gui",
+        "fancy_name": "Ghost of Forgotten Grave",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "ghost",
+        "costume_id": 0,
+        "heroId": "ghost_mu_gui",
         "Lottery_Only": 1
     },
     {

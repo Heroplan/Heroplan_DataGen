@@ -7,6 +7,7 @@
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Wszystkie obrażenia zadawane przez tę jednostkę omijają pomocników i mega pomocników."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Szanse na wydłużenie czasu trwania rzuconych efektów ze statusu."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} tur(y): {1}%"
+"herocard.passive_skill.description.charactercoreintrinsicchargeconsumptionmodifier","Gdy rdzeń tej postaci jest aktywowany, tylko {MULTIPLIER}% jego podstawowego ładunku jest wyczerpane."
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Jeśli ta postać ma dowolną ilość pędu lotu, otrzymuje:
 Maksymalnie {MAXMANAGENERATIONMODIFIER}% dodatkowej regeneracji many.
 Maksymalnie {MAXDODGEMODIFIER}% dodatkowych szans na unik. 
@@ -64,12 +65,14 @@ Każdy z tych efektów może się aktywować raz na turę."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","Gdy ta postać otrzyma obrażenia umiejętnością specjalną, otrzymuje kumulację {STATUSEFFECT1ATTACK}% do ataku (maks.: {STATUSEFFECT1MAXSTACK}). W każdej turze można otrzymać jedną kumulację."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","Gdy ta postać otrzyma obrażenia umiejętnością specjalną, otrzymuje kumulację {STATUSEFFECT1ATTACK}% do ataku (maks.: {STATUSEFFECT1MAXSTACK}). W każdej turze można otrzymać jedną kumulację."
 "herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","Gdy zdrowie tej postaci spadnie poniżej {HEALTHTHRESHOLD}%, zyskuje {STATUSEFFECT1TOTAL}% many w ciągu {STATUSEFFECT1TURNS} tur."
-"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Jeśli sojusznik spróbuje dokonać oczyszczenia za pomocą umiejętności specjalnych, wszyscy sojusznicy otrzymają {POWER} pkt. wzmocnionego zdrowia. Efekt może zostać aktywowany tylko raz na turę."
-"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Jeśli wróg spróbuje dokonać oczyszczenia za pomocą umiejętności specjalnych, wszyscy wrogowie otrzymają {POWER} pkt. obrażeń. Efekt może zostać aktywowany tylko raz na turę."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Gdy sojusznik dokona oczyszczenia z dolegliwości za pomocą umiejętności specjalnej, wszyscy sojusznicy otrzymują {POWER} pkt. wzmocnionego zdrowia. Efekt może zostać aktywowany tylko raz na turę. Aktywuje się także przy próbach oczyszczenia."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Gdy wróg dokona oczyszczenia z dolegliwości za pomocą umiejętności specjalnej, wszyscy wrogowie otrzymują {POWER} pkt. obrażeń. Efekt może zostać aktywowany tylko raz na turę. Aktywuje się także przy próbach oczyszczenia."
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","Ta postać otrzymuje {POWER}% many za każdym razem, gdy wzmocnienie tej postaci zostaje odwołane. Efekt może zostać aktywowany tylko raz na turę."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Ta postać otrzymuje {POWER}% many za każdym razem, gdy wzmocnienie tej postaci zostaje odwołane. Efekt może zostać aktywowany tylko raz na turę. Aktywuje się także przy próbach odwołania."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Ta postać otrzymuje {POWER}% zdrowia za każdym razem, gdy dolegliwość ze statusu wygaśnie lub zostanie oczyszczona, usunięta lub przeniesiona. Efekt może zostać aktywowany tylko raz na turę."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","Ta postać ma {CHANCE}% szans na otrzymanie {POWER}% zdrowia za każdym razem, gdy dolegliwość ze statusu wygaśnie lub zostanie oczyszczona, usunięta lub przeniesiona. Efekt może zostać aktywowany tylko raz na turę."
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","Ta postać otrzymuje {POWER} wzmocnienia zdrowia za każdym razem, gdy wzmocnienie tej postaci zostaje odwołane. Efekt może zostać aktywowany tylko raz na turę."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","Ta postać otrzymuje {POWER} pkt. wzmocnionego zdrowia za każdym razem, gdy wzmocnienie tej postaci zostaje odwołane. Efekt może zostać aktywowany tylko raz na turę. Aktywuje się także przy próbach odwołania."
 "herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","Każde trafienie przez pomocników posiadanych przez tą postać zadaje {DAMAGE} obrażeń od mrozu w ciągu {TURNS} tur."
 "herocard.passive_skill.description.effectonheal.addmana","Ta postać otrzymuje {POWER}% many za każdym razem, gdy jej zdrowie jest regenerowane."
 "herocard.passive_skill.description.effectonheal.heal","Ta postać otrzymuje {POWER}% zdrowia za każdym razem, gdy jej zdrowie jest regenerowane."
@@ -86,6 +89,7 @@ Atakujący otrzymuje {STATUSEFFECT1DAMAGE} obrażeń od krwawienia przez {TURNS}
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Jeśli ta postać straci więcej niż {DAMAGETHRESHOLD}% maksymalnego zdrowia naraz, wzywa dla siebie śluzowego mega pomocnika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Jeśli ta postać straci więcej niż {DAMAGETHRESHOLD}% maksymalnego zdrowia naraz, wzywa dla siebie śluzowego mega pomocnika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Jeśli ta postać straci więcej niż {DAMAGETHRESHOLD}% maksymalnego zdrowia naraz, wzywa dla siebie śluzowego mega pomocnika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.all.allies.fixedpower.addmana.all.allies.once","Wszyscy sojusznicy otrzymują {HEALTHBOOST} pkt. wzmocnionego zdrowia oraz {MANA}% many za każdym razem, gdy ta postać odeprze dowolny efekt za pomocą umiejętności pasywnej. Ten efekt może się aktywować raz na rundę."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Ta postać zyskuje {HEALTHBOOST}% wzmocnienia zdrowia i {MANA}% many za udane odparcie."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Ta postać zyskuje {POWER}% many, ilekroć przeciwnik używa umiejętności specjalnej, która bezpośrednio wzmacnia zdrowie."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Ta postać otrzymuje {POWER} wzmocnionego zdrowia, ilekroć przeciwnik używa umiejętności specjalnej, która bezpośrednio wzmacnia zdrowie."
@@ -134,15 +138,14 @@ Atakujący otrzymuje {STATUSEFFECT1DAMAGE} obrażeń od krwawienia przez {TURNS}
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% szansy na rzucenie dodatkowych akcji po rzuceniu przez tę postać umiejętności specjalnej."
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Pomocnicy wszystkich wrogów mają {MINIONMODIFIER}% celności.
 Mega pomocnicy wszystkich wrogów mają {MEGAMINIONMODIFIER}% celności."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Rdzeń konstruktu tej postaci to rdzeń pomocnika.
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Rdzeń konstruktu tej postaci to [#!]rdzeń pomocnika[#].
 
-Rdzeń pomocnika aktywuje się za każdym razem, gdy rzucona zostanie umiejętność specjalna tej postaci:
+[#!]Rdzeń pomocnika[#] aktywuje się za każdym razem, gdy rzucona zostanie [#!]umiejętność specjalna[#] tej postaci:
 
- Przy pełnym naładowaniu rdzenia pomocnika, wzywa dla wszystkich sojuszników zabójczego bota z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od bohatera.
-PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.
- Zanim zabójczy bot trafi cel, niszczy wszystkich pomocników celu i zadaje obrażenia mega pomocnikom.
-Pomocnik przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.
- Susza: Zabójczy bot każdym trafieniem zapewnia celowi {ATTACKMODIFIER} ataku."
+[*] Przy pełnym naładowaniu [#!]rdzenia pomocnika[#], wzywa dla wszystkich sojuszników [#!]zabójczego bota[#] z [#!]{FAMILIARHEALTHPERCENT}%[#] PŻ i [#!]{FAMILIARATTACK}%[#] ataku przejętymi od bohatera.
+[*]PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.
+[*]Pomocnik zabójczy bot przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.
+[*] [#!]Susza:[#] Zabójczy bot każdym trafieniem zapewnia celowi [#!]{ATTACKMODIFIER}[#] ataku."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Rdzeń konstruktu tej postaci to rdzeń pomocnika.
 
 Rdzeń pomocnika aktywuje się za każdym razem, gdy rzucona zostanie umiejętność specjalna tej postaci:
@@ -211,12 +214,12 @@ PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzen
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","Na początku każdej tury ta postać grabi losowego wroga:
 
 Kradnie {DAMAGE} zdrowia.
-Bezpiecznie kradnie wrogowi wzmocnienie. Obejmuje to efekty nieustępliwe, a także nieodwoływalne wzmocnienia i efekty tańca."
+Bezpiecznie kradnie wrogowi wzmocnienie. Obejmuje to nieodwoływalne wzmocnienia i efekty tańca."
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","Na początku każdej tury ta postać ma {CHANCE}% szans na ograbienie losowego wroga:
 
 Ograbienie:
 Kradnie {DAMAGE} zdrowia.
-Bezpiecznie kradnie wrogowi jeden losowy efekt wzrostu, pozytywną kumulację lub wzmocnienie ze statusu. Obejmuje to efekty nieustępliwe, a także nieodwoływalne wzmocnienia i efekty tańca.
+Bezpiecznie kradnie wrogowi jeden losowy efekt wzrostu, pozytywną kumulację lub wzmocnienie ze statusu. Obejmuje to nieodwoływalne wzmocnienia i efekty tańca.
 Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Po rzuceniu przez tę postać umiejętności specjalnej, zyskuje ona {CHANCE}% szansy, by wykraść losowemu wrogowi ze wzmocnieniami ostatnie wzmocnienie możliwe do rozproszenia. Jeśli żaden przeciwnik nie ma wzmocnień, zadaje {DAMAGE}% obrażeń wszystkim wrogom."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans, by wykraść losowemu wrogowi ze wzmocnieniami ostatnie odwoływalne wzmocnienie. Jeśli żaden przeciwnik nie ma wzmocnień, zadaje {DAMAGE}% obrażeń wszystkim wrogom."
@@ -235,6 +238,7 @@ W bitwach z wieloma falami efekt ten jest odświeżany na początku każdej fali
 
 W bitwach z wieloma falami efekt ten jest odświeżany na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje je na losowego wroga. (Pozostała liczba aktywacji: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Dowolne dolegliwości ze statusu odpierane przez tę postać za pomocą umiejętności pasywnych są odbijane we wszystkich wrogów."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% dodatkowych szans na odbicie dolegliwości ze statusu do atakującego."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Co każde {TURNS} tur usuwa wszystkie efekty Suszy z każdego sojusznika."
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Co {TURNS} tur(y) usuwa wszystkie efekty wzrostu z każdego przeciwnika."
@@ -392,6 +396,8 @@ Aktywuje się maksymalnie {MAXACTIVATIONCOUNT} razy. Szanse na wskrzeszenie male
  Cel oznaczony flarą myśliwską odnosi dodatkowo {FIXEDPOWER} pkt. obrażeń, gdy zostanie trafiony krytycznie."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Podczas rzucania umiejętności specjalnej ta postać otrzymuje {ATTACK}% do ataku przez okres {TURNS} tur. Ten efekt może być aktywny wraz z innymi efektami, które wpływają na siłę ataku."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Raz w każdej bitwie żywioł tego bohatera można zmienić na dowolny wybrany przez gracza. Efekt trwa następującą liczbę tur: {TURNS}. Żywioł można zmienić, stukając w bohatera, gdy nie ma pełnej many."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Co {TURNSBETWEENEFFECTS} tur(y) ta postać kradnie {MANASTEAL}% many wrogowi z najwyższą szybkością many. Nie można temu zapobiec za pomocą efektów ze statusu lub umiejętności pasywnych."
+"herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Co {TURNSBETWEENEFFECTS} tur(y) ta postać kradnie {MANASTEAL}% many wrogowi z najwyższym poziomem many. Nie można temu zapobiec za pomocą efektów ze statusu lub umiejętności pasywnych."
 "herocard.passive_skill.description.stopchainstrikes","Umiejętności specjalne przeskakujące między celami lub atakujące wielokrotnie zatrzymują się na tej postaci. Nie dotyczy to efektów sojuszniczych."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Co turę wzywa na losowego wroga potwora sadzonkę.
  Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
@@ -521,6 +527,7 @@ Kwitnący mega potwór:
 "herocard.passive_skill.title.bypassfamiliars.minion","Omijanie pomocników"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Ulepszone omijanie pomocników"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","Wydłużony czas trwania efektu ze statusu"
+"herocard.passive_skill.title.charactercoreintrinsicchargeconsumptionmodifier","Oszczędzanie energii"
 "herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","Pęd lotu"
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Mana podczas suszy"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Wskrzesza z czasem"
@@ -560,12 +567,14 @@ Kwitnący mega potwór:
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Kumulacje ataku przy otrzymanych obrażeniach"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Kumulacje ataku przy otrzymanych obrażeniach"
 "herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","Gwałtowny powrót"
-"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Wzmocnione zdrowie przy próbie oczyszczenia przez sojusznika"
-"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Obrażenia przy próbie oczyszczenia przez wroga"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Wzmocnione zdrowie przy oczyszczeniu przez sojusznika"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Obrażeniu przy oczyszczeniu przez wroga"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","Mana po odczarowaniu"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","Mana po odwołaniu wzmocnienia"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Mana po odwołaniu wzmocnienia"
 "herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Leczenie, gdy dolegliwość ze statusu wygaśnie lub zostanie zdjęta"
 "herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","Wzmocnienie zdrowia przy odwołaniu wzmocnienia"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel.activates_on_dispel_cast","Wzmocnienie zdrowia przy odwołaniu wzmocnienia"
 "herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","Mróz przy trafieniu przez pomocnika"
 "herocard.passive_skill.title.effectonheal.addmana","Mana przy regeneracji zdrowia"
 "herocard.passive_skill.title.effectonheal.heal","Dodatkowe zdrowie podczas regeneracji zdrowia"
@@ -579,6 +588,7 @@ Kwitnący mega potwór:
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Podzielenie śluzowego pomocnika"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Podzielenie śluzowego pomocnika"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Podzielenie śluzowego pomocnika"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","Legendarny opór"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Wzmocnienie zdrowia i mana po odparciu"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana w umiejętności specjalnej wzmocnienie zdrowia"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Wzmocnienie zdrowia, gdy wróg otrzymuje wzmocnione zdrowie"
@@ -608,6 +618,8 @@ Kwitnący mega potwór:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Kumulacja umiejętności specjalnej"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Obrażenia z upływem czasu przy użyciu umiejętności specjalnej"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Obrażenia w umiejętnościach specjalnych wroga"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingdefensemodifier.faster.average","Kumulacja obrony po ataku specjalnym wroga"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingreceiveddamagemodifier.faster.average","Redukcja obrażeń przy umiejętności specjalnej wroga"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana podczas prowokacji"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Mana przy wzmocnieniu obrony wroga"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","Efekt statusu wpływający na wzmocnienie obrony wroga"
@@ -683,6 +695,7 @@ Kwitnący mega potwór:
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Silne wzmocnienie obrażeń kuli ognia"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Oszukanie śmierci"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Oszukanie śmierci"
+"herocard.passive_skill.title.reflectresistedstatuseffect","Legendarny odbijacz"
 "herocard.passive_skill.title.remove_growth_from_enemies","Zwarcie szyków"
 "herocard.passive_skill.title.remove_wither_from_allies","Zwarcie szyków"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Rdzeń naprawczy"
@@ -796,6 +809,8 @@ Gibka postawa"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Kamienna skóra gargulca"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Wzmocnienie regeneracji many za dolegliwości"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Maska Żywiołów"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Zamach i kradzież"
+"herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Zamach i kradzież"
 "herocard.passive_skill.title.stopchainstrikes","Przerwanie ataków przeskakujących"
 "herocard.passive_skill.title.stylish","Ikona stylu!"
 "herocard.passive_skill.title.stylish_epic","Ikona stylu!"
@@ -832,3 +847,4 @@ Gibka postawa"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Przemiana wzmocnień"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Przemiana dolegliwości"
 "herocard.passive_skill.title.wither.all.enemies","Susza"
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER}%[#] regeneracji many."

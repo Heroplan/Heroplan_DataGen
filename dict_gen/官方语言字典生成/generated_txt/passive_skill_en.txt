@@ -7,6 +7,7 @@
 "herocard.passive_skill.description.bypassfamiliars.minion.bigminion","All damage done by this character bypasses Minions and Mega Minions."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Chance to increase the duration of cast status effects."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} turns: {1}%"
+"herocard.passive_skill.description.charactercoreintrinsicchargeconsumptionmodifier","When the Core of this character is activated, only {MULTIPLIER}% of their Core charge is exhausted."
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","If this character has any amount of Flight Momentum, they receive:
 Up to {MAXMANAGENERATIONMODIFIER}% extra mana generation.
 Up to {MAXDODGEMODIFIER}% extra chance to dodge. 
@@ -64,12 +65,14 @@ Each of these effects can activate once per turn."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","When this character receives damage from Special Skills, they gain {STATUSEFFECT1ATTACK}% attack Stack (max: {STATUSEFFECT1MAXSTACK}). One Stack can be gained per turn."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","When this character receives damage from Special Skills, they gain {STATUSEFFECT1ATTACK}% attack Stack (max: {STATUSEFFECT1MAXSTACK}). One Stack can be gained per turn."
 "herocard.passive_skill.description.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback.single.allies","When this character drops below {HEALTHTHRESHOLD}% health, they gain {STATUSEFFECT1TOTAL}% mana over {STATUSEFFECT1TURNS} turns."
-"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","When an ally attempts to cleanse by using Special Skills, all allies receive {POWER} boosted health. This effect can activate only once per turn."
-"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","When an enemy attempts to cleanse by using Special Skills, all enemies receive {POWER} damage. This effect can activate only once per turn."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","When an ally cleanses ailments by using a Special Skill, all allies receive {POWER} boosted health. This effect can activate only once per turn. It also activates on attempted cleanses."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","When an enemy cleanses ailments by using a Special Skill, all enemies receive {POWER} damage. This effect can activate only once per turn. It also activates on attempted cleanses."
 "herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","This character receives {POWER}% mana each time a buff is dispelled from them. This effect can activate only once per turn."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","This character receives {POWER}% mana each time a buff is dispelled from them. This effect can activate only once per turn. It also activates on attempted dispels."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","This character receives {POWER}% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","This character has a {CHANCE}% chance to receive {POWER}% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","This character receives {POWER} boosted health each time a buff is dispelled from this character. This effect can activate only once per turn."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","This character receives {POWER} boosted health each time a buff is dispelled from them. This effect can activate only once per turn. It also activates on attempted dispels."
 "herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","Each hit from the Minions owned by the character inflicts {DAMAGE} Frost damage over {TURNS} turns"
 "herocard.passive_skill.description.effectonheal.addmana","This character receives {POWER}% mana each time its health is recovered."
 "herocard.passive_skill.description.effectonheal.heal","This character receives {POWER}% health each time its health is recovered."
@@ -86,6 +89,7 @@ The attacker receives {STATUSEFFECT1DAMAGE} Bleed damage over {TURNS} turns."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","If this character loses more than {DAMAGETHRESHOLD}% of max health at once, they summon a Slime Mega Minion for themselves with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","If this character loses more than {DAMAGETHRESHOLD}% of max health at once, they summon a Slime Mega Minion for themselves with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack."
 "herocard.passive_skill.description.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","If this character loses more than {DAMAGETHRESHOLD}% of max health at once, they summon a Slime Mega Minion for themselves with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.all.allies.fixedpower.addmana.all.allies.once","All allies gain {HEALTHBOOST} boosted health and {MANA}% mana each time this character resists any effects with Passive Skills. This effect can activate once per turn."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","This character gets {HEALTHBOOST}% boosted health and {MANA}% mana on successful resist."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","This character gains {POWER}% mana each time an enemy casts a Special Skill that directly boosts health."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","This character gets {POWER} boosted health each time an enemy casts a Special Skill that directly boosts health."
@@ -134,15 +138,14 @@ The attacker receives {STATUSEFFECT1DAMAGE} Bleed damage over {TURNS} turns."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% chance to cast extra actions when this character casts their Special Skill."
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","All enemies' Minions have {MINIONMODIFIER}% accuracy.
 All enemies' Mega Minions have {MEGAMINIONMODIFIER}% accuracy."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","The Construct Core of this character is a Minion Core.
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","The Construct Core of this character is a [#!]Minion Core[#].
 
-The Minion Core activates each time this character's Special Skill is cast:
+The [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:
 
- With a fully charged Minion Core, summons a Killer Bot Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster on all allies.
- The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
- Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.
-The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.
-Wither: Each hit from a Killer Bot Minion gives its target {ATTACKMODIFIER} attack."
+[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.
+[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
+[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.
+[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","The Construct Core of this character is a Minion Core.
 
 The Minion Core activates each time this character's Special Skill is cast:
@@ -211,12 +214,12 @@ The Minion Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","At the start of each turn, this character Ransacks a random enemy:
 
 Steals {DAMAGE} health.
-Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects."
+Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects."
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","At the start of each turn, this character has a {CHANCE}% chance to Ransack a random enemy:
 
 Ransack:
 Steals {DAMAGE} health.
-Safely steals one random Growth effect, positive Stack, or status effect buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.
+Safely steals one random Growth effect, positive Stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.
 Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","When this character casts their Special Skill, they have a {CHANCE}% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals {DAMAGE}% damage to all enemies."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","When this character casts their Special Skill, they have a {CHANCE}% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals {DAMAGE}% damage to all enemies."
@@ -235,6 +238,7 @@ In battles with multiple waves, the effect is refreshed at the beginning of each
 
 In battles with multiple waves, the effect is refreshed at the beginning of each wave."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. (Activations left: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Any status ailments this character resists with Passive Skills are reflected to all enemies."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% extra chance to reflect status ailments back to the attacker."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Every {TURNS} turns, removes all Wither effects from all allies."
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Every {TURNS} turns, removes all Growth effects from all enemies."
@@ -392,6 +396,8 @@ Activates up to {MAXACTIVATIONCOUNT} times. Chance to revive is reduced on each 
  A target marked with a Hunting Flare receives additional {FIXEDPOWER} damage when they receive a critical hit."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","When this character casts their Special Skill, they get {ATTACK}% attack for {TURNS} turns. This effect can be active in addition to other effects that alter attack."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Once per battle, this Hero's element can be changed to the Element of your choosing for {TURNS} turns. Element can be changed by tapping this Hero when it does not have full mana."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Every {TURNSBETWEENEFFECTS} turns, this character steals {MANASTEAL}% mana from the enemy with the fastest mana speed. This can't be prevented by status effects or Passive Skills."
+"herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Every {TURNSBETWEENEFFECTS} turns, this character steals {MANASTEAL}% mana from the enemy with the highest mana. This can't be prevented by status effects or Passive Skills."
 "herocard.passive_skill.description.stopchainstrikes","Special Skills that chain or attack multiple times stop at this character. Does not stop friendly effects."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Summons a Seedling Fiend every turn to a random enemy.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
@@ -521,6 +527,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.bypassfamiliars.minion","Bypass Minions"
 "herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Superior Bypass Minions"
 "herocard.passive_skill.title.caststatuseffectdurationmodifier","Increased Status Effect Duration"
+"herocard.passive_skill.title.charactercoreintrinsicchargeconsumptionmodifier","Energy Saver"
 "herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","Flight Momentum"
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Mana During Wither"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Revive Over Time"
@@ -560,12 +567,14 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Stacking Attack on Damage Received"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Stacking Attack on Damage Received"
 "herocard.passive_skill.title.effectondamagereceivedwithhealththreshold.none.mana_recovery_surgeback","Surgeback"
-"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Health Boost on Attempted Ally Cleanse"
-"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Damage on Attempted Enemy Cleanse"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Health Boost on Ally Cleanse"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Damage on Enemy Cleanse"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff","Mana on Dispel"
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","Mana on Buff Dispel"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel.activates_on_dispel_cast","Mana on Buff Dispel"
 "herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Heal when Status Ailment Expires Or Is Cleared"
 "herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","Health Boost on Buff Dispel"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel.activates_on_dispel_cast","Health Boost on Buff Dispel"
 "herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","Frost On Minion Hit"
 "herocard.passive_skill.title.effectonheal.addmana","Mana on Health Recovery"
 "herocard.passive_skill.title.effectonheal.heal","Extra Health on Health Recovery"
@@ -579,6 +588,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Slime Minion Split"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Slime Minion Split"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Slime Minion Split"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","Legendary Reversal"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Health Boost and Mana on Resist"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana On Health Boosting Special Skill"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Health Boost On Enemy Health Boost"
@@ -608,6 +618,8 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Stack on special"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Damage Over Time on Special"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Damage on Enemy Special"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingdefensemodifier.faster.average","Defense Stack on Enemy Special"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.statuseffects.stackingreceiveddamagemodifier.faster.average","Damage reduction on Enemy Special"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana On Taunt"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Mana On Enemy Defense Buff"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","Status Effect on Enemy Defense Buff"
@@ -683,6 +695,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Strong Fireball Damage Increase"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Cheat Death"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Cheat Death"
+"herocard.passive_skill.title.reflectresistedstatuseffect","Legendary Reflector"
 "herocard.passive_skill.title.remove_growth_from_enemies","Guard Rally"
 "herocard.passive_skill.title.remove_wither_from_allies","Guard Rally"
 "herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Repair Core"
@@ -796,6 +809,8 @@ Lithe Frame"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Gargoyle's Stoneskin"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Mana Generation Buff from Ailments"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elemental Mask"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Swoop and Steal"
+"herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Swoop and Steal"
 "herocard.passive_skill.title.stopchainstrikes","Stop Chain Attacks"
 "herocard.passive_skill.title.stylish","Stylish!"
 "herocard.passive_skill.title.stylish_epic","Stylish!"
@@ -832,3 +847,4 @@ Lithe Frame"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transform Buffs"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transform Ailments"
 "herocard.passive_skill.title.wither.all.enemies","Wither"
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER}%[#] mana generation."

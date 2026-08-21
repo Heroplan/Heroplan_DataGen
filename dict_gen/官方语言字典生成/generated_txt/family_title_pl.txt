@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Strażnik"
 "herocard.family.title.halloween","Rodzina Morlovia"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Okrutne harpie"
+"herocard.family.title.harpy.short","Okrutne harpie"
 "herocard.family.title.helheim","Królestwo Helheimu"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Rodzina Legend {0}"

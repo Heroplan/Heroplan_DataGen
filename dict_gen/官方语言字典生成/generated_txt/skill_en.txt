@@ -4,6 +4,9 @@ Each hit from an Aberration Mega Minion gives the target the following status ai
 "specials.v2.bigminion.black_boar_mega_minion.single","Summons a Black Boar Mega Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.bigminion.body_guard_mega_minion.single","Summons a Bodyguard Mega Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.bigminion.goblin_rat_princess.single","Summons a Rat Princess Mega Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.bigminion.ratter.eatfamiliars","Before the Pesthound Mega Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+"specials.v2.bigminion.ratter.reallocateeffects.minorbuff.majorbuff.minorbuffstack.random.multiple","Each time the Pesthound Mega Minion hits an enemy, it steals {REALLOCATIONCOUNT} random buffs from the enemy, including undispellable buffs and stacks, and gives those to its owner."
+"specials.v2.bigminion.ratter.single","Summons a Pesthound Mega Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.bigminion.recruit_guard_mega_minion.single","Summons a Recruit Guard Mega Minion with  {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster. 
 The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to {FAMILIARHEALTHPERCENT3MEMBERS}% HP and {FAMILIARATTACK3MEMBERS}% attack."
 "specials.v2.bigminion.shark_big_minion_blue.single.strong_damage_against_red","Summons a Shark Mega Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster. Deals strong damage against Fire characters."
@@ -39,6 +42,8 @@ The Pike Mega Fiend absorbs healing and disappears when it has absorbed health e
 "specials.v2.clearbuffs.minorbuff.all.enemies.latest","Dispels the latest dispellable buff from all enemies."
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Dispels buffs from the target and nearby enemies."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Dispels buffs from the enemies on the edges of the enemy formation."
+"specials.v2.clearbuffs.minorbuff.sides.enemies.bypassremoveeffects","Safely dispels buffs from the enemies on the edges of the enemy formation."
+"specials.v2.clearbuffs.minorbuff.sides.enemies.bypassremoveeffects.extra","Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Dispels buffs from the target."
 "specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Safely dispels buffs from the target."
 "specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects.extra","Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate."
@@ -166,6 +171,7 @@ Each hit from a Bee Minion gives the target the following status ailments:"
 "specials.v2.minion.clown_costume.all","Summons a Clown Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.dark.all","Summons a Dark Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.dark.purple","Element Link summons a Dark Minion for all Dark allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.dark_hotm_2026.purple","Element Link summons a Dark Minion for all Dark allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.dark_soldier.all","Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.dark_soldier_set_costume.all","Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.druid_thorn","Thorn Minion has {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
@@ -175,6 +181,7 @@ Each hit from a Bee Minion gives the target the following status ailments:"
 "specials.v2.minion.enchanted_sigil_minion_costume.all","Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.fire.all","Summons a Fire Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.fire.red","Element Link summons a Fire Minion for all Fire allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.fire_hotm_2026.red","Element Link summons a Fire Minion for all Fire allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.firewall_minion.all","Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster."
 "specials.v2.minion.firewall_minion.explode","When a Firewall Minion is destroyed, it deals {FAMILIARFIXEDEXPLOSIONDAMAGE} damage to the attacking enemy."
 "specials.v2.minion.fish.all","Summons a Fish Minion for each ally. The Fish Minion inherits {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack from the caster.
@@ -190,16 +197,19 @@ Sly Fox Minion has {FAMILIARDODGECHANCE}% chance to dodge incoming attacks."
 "specials.v2.minion.gargoyle_minion.all","Summons a Gargoyle Minion for each ally. The Gargoyle Minion inherits {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack from the caster."
 "specials.v2.minion.grimoire.all","Summons a Grimoire Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Summons a Guardian Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.guardian_minion_delilah_cute.all","Summons a Guardian Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.harpoon_sentry.all","Summons a Harpoon Sentry Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
  Each hit from a Harpoon Sentry Minion reduces the mana of the target by {FAMILIARADDMANA}% and gives the target the following status ailments:"
 "specials.v2.minion.holy.all","Summons a Holy Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.holy.yellow","Element Link summons a Holy Minion for all Holy allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.holy_god_delilah.all","Summons a Guardian Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.holy_hotm_2026.yellow","Element Link summons a Holy Minion for all Holy allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.hunting_owl.neartotarget","Summons a Hunting Owl Minion for the caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
 Each hit from a Hunting Owl Minion reduces the mana of the target by {FAMILIARADDMANA}%."
 "specials.v2.minion.hydra_head.neartotarget","Summons a Hydra Head Minion for the caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.ice.all","Summons an Ice Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.ice.blue","Element Link summons an Ice Minion for all Ice allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.ice_hotm_2026.blue","Element Link summons an Ice Minion for all Ice allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.icebound_sickle_minion.explode","When the Icebound Sickle Minion is destroyed, it deals {FAMILIARFIXEDEXPLOSIONDAMAGE} damage to all enemies."
 "specials.v2.minion.icebound_sickle_minion.neartotarget","Summons an Icebound Sickle Minion for the caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.icebound_sickle_minion.neartotarget.multiplepercharacter","Summons {FAMILIARAMOUNT} Icebound Sickle Minions for the caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
@@ -241,12 +251,16 @@ Each hit from a Moth Minion gives the target the following status ailments:"
 "specials.v2.minion.mouse_costume_highwaycat.single.multiplepercharacter","Summons {FAMILIARAMOUNT} Mouse Minions with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster. The Minions have {FAMILIARACCURACY}% accuracy."
 "specials.v2.minion.nature.all","Summons a Nature Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.nature.green","Element Link summons a Nature Minion for all Nature allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.nature_hotm_2026.green","Element Link summons a Nature Minion for all Nature allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
 "specials.v2.minion.owl.all","Summons a Sparrow Minion for each ally. The Sparrow Minion inherits {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack from the caster."
 "specials.v2.minion.owl.eatfamiliars","Before Sparrow Minion hits target, it destroys all Minions from the target."
 "specials.v2.minion.owlkyrie.neartotarget","Summons Owlkyrie Minion for the caster and nearby allies. The Minion inherits {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack from the caster."
 "specials.v2.minion.owlkyrie.removebasestatmodifiers","Removes Growth and Wither effects from the target."
 "specials.v2.minion.owlkyrie.removestatuseffects.allstatuseffectsandstacks.single.enemies.bypassremoveeffects","If the Owlkyrie Minion is defeated, then removes all status effects from a random enemy."
 "specials.v2.minion.owlkyrie.removestatuseffectsandbasestatmodifiers","If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker."
+"specials.v2.minion.ratter.all","Summons a Pesthound Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+"specials.v2.minion.ratter.eatfamiliars","Before the Pesthound Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+"specials.v2.minion.ratter.reallocateeffects.minorbuff.random","Each time a Pesthound Minion hits an enemy, it steals a random dispellable buff from the enemy and gives it to its owner."
 "specials.v2.minion.raven.all","Summons a Raven Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
 Raven Minion gives {ATTACK}% attack to all its owner's other Minions."
 "specials.v2.minion.raven_costume_freya.all","Summons a Raven Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
@@ -601,12 +615,15 @@ Increases the duration of the random target's active status ailments by {TURNS} 
 "specials.v2.property.damageincreasedbytargetmana.less","The less mana the enemies have, the more damage they will receive, up to {MAXDAMAGE}%."
 "specials.v2.property.damageincreasedbytargetmana.single","The more mana the enemy has, the more damage they will receive, up to {MAXDAMAGE}%."
 "specials.v2.property.damageincreasedbytargetmana.single.less","The less mana the enemies have, the more damage they will receive, up to {MAXDAMAGE}%."
-"specials.v2.property.damageincreasedbytargetmanaspeed.average.extra","In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.pveoverride.average","All monsters and bosses are considered as Average mana speed."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.rush_attack_note","In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.average","Against Average mana speed targets deals an additional {DAMAGE}% damage."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.fast","Against Fast mana speed targets deals an additional {DAMAGE}% damage."
+"specials.v2.property.damageincreasedbytargetmanaspeed.extra.threshold.very_fast.orfaster","Against Very Fast mana speed or faster targets deals an additional {DAMAGE}% damage."
+"specials.v2.property.damageincreasedbytargetmanaspeed.faster.average","If the target is Average or faster mana speed, deals additional damage."
+"specials.v2.property.damageincreasedbytargetmanaspeed.faster.extra","{THRESHOLDLINES}
 
- All monsters and bosses are considered as Average mana speed."
-"specials.v2.property.damageincreasedbytargetmanaspeed.faster.very_fast.fast.average","If the target is Average mana speed, deals an additional {MANASPEED3DAMAGE}% damage.
- If the target is Fast mana speed, deals an additional {MANASPEED2DAMAGE}% damage.
- If the target is Very Fast mana speed and faster,  deals an additional {MANASPEED1DAMAGE}% damage."
+{PVEOVERRIDENOTE}"
 "specials.v2.property.damageincreasedpertile.red","Damage is increased by {EXTRADAMAGEPERTILE}% per each Fire shield on the board, up to {MAXDAMAGE}% damage per hit."
 "specials.v2.property.damagemultiplieragainstdispellersandcleansers","Deals {DAMAGEMULTIPLIER}% damage against characters that cleanse or dispel using Special Skills."
 "specials.v2.property.damagemultiplieragainstdispellersandcleansers.extra","Only direct Dispel and Cleanse effects from Special Skills are considered. This excludes Remove effects, Passives, Minions, Family effects, Talents and Status effects."
@@ -704,7 +721,7 @@ Wither effects are removed first. Other effects, the latest is removed first."
 All allies gain an additional {POWERPERFAMILIAR}% mana for each Fiend or Mega Fiend owned by the enemies, up to {MAXPOWER}% mana in total."
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Deals {BASEPOWER}% damage to all enemies.
  Deals additional {POWERPERFAMILIAR}% damage for each Minion or Mega Minion owned by the enemies, up to {MAXPOWER}% damage in total."
-"specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Deals {BASEPOWER}% damage to all the enemies.
+"specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Deals {BASEPOWER}% damage to all enemies.
  Deals additional {POWERPERFAMILIAR}% damage for each Fiend or Mega Fiend owned by the enemies, up to {MAXPOWER}% damage in total."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Deals {BASEPOWER}% damage to the target and nearby enemies.
  Deals additional {POWERPERFAMILIAR}% damage for each Minion or Mega Minion owned by the enemies, up to {MAXPOWER}% damage in total."
@@ -767,8 +784,6 @@ Critical hits can reduce enemies' max health in PVP battles. This effect is stro
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.allies.bigminion","If any ally has a Mega Minion before this Special Skill is cast, deals {POWER}% damage to all enemies instead."
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.enemies.bigminion","If the enemy team has any Mega Minions, this Special Skill deals {POWER}% damage to all enemies instead."
 "specials.v2.property.familiarcountbasedamplifiedeffect.damage.all.enemies.requireone.enemies.minion","If the enemy team has any Minions, this Special Skill deals {POWER}% damage to all enemies instead."
-"specials.v2.property.familiarsteal.stealfamiliars.single.enemies.bigminion.minion.follower","Steals all Minions or a Mega Minion from the target."
-"specials.v2.property.familiarsteal.stealfamiliars.single.enemies.minion.follower","Steals Minions from the target."
 "specials.v2.property.firestormstrike.enemies.all.green","Attacks all enemies with Firestorm Strike, dealing up to {MAX} damage. Deals {STRONGATTACKELEMENTDAMAGEMODIFIER}% more damage if the target is of the Nature element."
 "specials.v2.property.firestormstrike.enemies.all.green.always_hit","Attacks all enemies with Firestorm Strike, dealing up to {MAX} damage. Deals {STRONGATTACKELEMENTDAMAGEMODIFIER}% more damage if the target is of the Nature element. This Special Skill never misses its targets."
 "specials.v2.property.firestormstrike.enemies.neartotarget.green","Attacks the target and nearby enemies with Firestorm Strike, dealing up to {MAX} damage. Deals {STRONGATTACKELEMENTDAMAGEMODIFIER}% more damage if the target is of the Nature element."
@@ -829,6 +844,7 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.blue.neartotargetexceptmaintarget.enemies","If the target is of Ice element, deals {POWER}% damage to nearby enemies."
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.red.neartotargetexceptmaintarget.enemies","If the target is of Fire element, deals {POWER}% damage to nearby enemies."
 "specials.v2.property.maintargetelementdependenteffect.damage.if_main_target_is.yellow.neartotargetexceptmaintarget.enemies","If the target is of Holy element, deals {POWER}% damage to nearby enemies."
+"specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies","Steals {ABSPOWER}% mana from the target and nearby enemies and distributes it to allies."
 "specials.v2.property.manareallocation.from.neartotarget.enemies.to.neartotarget.allies","Steals {ABSPOWER}% mana from the target and nearby enemies and distributes it to the caster and nearby allies."
 "specials.v2.property.manareallocation.from.sides.enemies.to.all.allies","Steals {ABSPOWER}% mana from the enemies on the edges of the enemy formation and distributes it to allies."
 "specials.v2.property.manareallocation.from.single.enemies.to.all.allies","Steals {ABSPOWER}% mana from the target and distributes it to allies."
@@ -895,6 +911,8 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 "specials.v2.property.pre.eatfamiliarswitheffectpereatenfamiliar.single.enemies.minion.follower.bigminion","Destroys all Minions from the target. This effect damages Mega Minions."
 "specials.v2.property.pre.enablespecialcriticalhit","This Special Skill has a chance to deal critical hits."
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Destroys all Minions from the target. This effect damages Mega Minions."
+"specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.bigminion.minion.follower","Steals all Minions or a Mega Minion from the target."
+"specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.minion.follower","Steals Minions from the target."
 "specials.v2.property.pre.ignoredodgewithchance","This Special Skill has a {IGNOREDODGECHANCE}% chance to ignore Dodge effects."
 "specials.v2.property.pre.ignoredodgewithchance.always","This Special Skill ignores Dodge effects."
 "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies","Steals {ABSPOWER}% mana from the target and nearby enemies and distributes it to allies."
@@ -907,6 +925,7 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 "specials.v2.property.random_special_danzaburo_costume","Sell junk for a specific effect:"
 "specials.v2.property.random_special_danzaburo_cute","Perform a trick for a specific effect:"
 "specials.v2.property.random_special_kettle","Cook random food for a special effect:"
+"specials.v2.property.random_special_kettle_field_cook","Cook random food for a special effect:"
 "specials.v2.property.random_special_kettle_pve","Cook random food for a special effect:"
 "specials.v2.property.random_special_mimic","Mimic does one of the following special attacks:"
 "specials.v2.property.random_special_mimic2","Mimic does one of the following special attacks:"
@@ -917,12 +936,14 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
 "specials.v2.property.randomstatuseffects","Randomly casts one of the following alternatives:
 {STATUSEFFECTS}"
-"specials.v2.property.ransack.extra","[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
-[*]Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
-"specials.v2.property.ransack.from.all.enemies.to.all.allies","[#!]Ransacks[#] all enemies, stealing [#!]{DAMAGE}[#] health and a buff from each, and randomly distributes stolen buffs on allies."
-"specials.v2.property.ransack.from.single.enemies.to.single.allies","[#!]Ransacks[#] the target, stealing [#!]{DAMAGE}[#] health and a buff."
+"specials.v2.property.ransack.extra","Safely steals one status effect buff from the target. This includes undispellable buffs and Dance effects.
+Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
+"specials.v2.property.ransack.from.all.enemies.to.all.allies","Ransacks all enemies, stealing {DAMAGE} health and a buff from each, and randomly distributes stolen buffs on allies."
+"specials.v2.property.ransack.from.neartotarget.enemies.to.single.allies","Ransacks the target and nearby enemies, stealing {DAMAGE} health and a buff from each."
+"specials.v2.property.ransack.from.sides.enemies.to.single.allies","Ransacks enemies on the edges of the enemy formation, stealing {DAMAGE} health and a buff. If there is only one enemy, ransacks twice."
+"specials.v2.property.ransack.from.single.enemies.to.single.allies","Ransacks the target, stealing {DAMAGE} health and a buff."
 "specials.v2.property.ransack.from.single.enemies.to.single.allies.extra","Steals {DAMAGE} health.
-Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.
+Safely steals one status effect buff from the target. This includes undispellable buffs and Dance effects.
 Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
 "specials.v2.property.reducemaxhealth.extra","Max health can't get lower than {MINIMUMMAXHEALTH}% of the original max health.
  Any boosted health is reduced by an additional {REDUCTION}."
@@ -956,6 +977,7 @@ Safe stealing bypasses secondary effects, such as damage on removal, from the re
 "specials.v2.property.removestatuseffects.minorbuff.extra","Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies","Dispels buffs from the target and nearby enemies."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount","Dispels 1 buff from the target and nearby enemies."
+"specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount.bypassremoveeffects","Safely dispels 1 buff from the target and nearby enemies."
 "specials.v2.property.removestatuseffects.minorbuff.neartotarget.enemies.customremovalcount.multiple","Dispels {REMOVALCOUNT} buffs from the target and nearby enemies."
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies","Dispels buffs from the target."
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.bypassremoveeffects","Safely dispels status effect buffs from the target."
@@ -969,7 +991,9 @@ Safe stealing bypasses secondary effects, such as damage on removal, from the re
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Safely cleanses status ailments from the caster and nearby allies."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Safely cleanses all status ailments from the caster."
 "specials.v2.property.removestatuseffects.minordebuff.single.allies.customremovalcount","Cleanses 1 status ailment from the caster."
+"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Removes the Mindworm ailment from the caster."
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","Casts Full Removal on the caster and nearby allies."
 "specials.v2.property.removestatuseffectsandbasemodifiers.sides.enemies.allstatuseffectsandstacks","Casts Full Removal on the enemies on the edges of the enemy formation."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Casts Full Removal on the caster."
@@ -990,8 +1014,11 @@ Safe stealing bypasses secondary effects, such as damage on removal, from the re
  Stubborn and Uncleansable ailments are also removed."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Safely dispels buffs from all enemies, and increases all allies' mana by {POWERPERREMOVAL}% for each removed buff."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Safely cleanses all status ailments from all allies, and increases all allies' mana by {POWERPERREMOVAL}% for each cleansed ailment."
+"specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.damage.single.enemies","Safely cleanses all status ailments from all allies, and deals {FIXEDPOWERPERREMOVAL} damage to the target for each cleansed ailment."
 "specials.v2.property.repeatspecial.blade_wings.random","After a successful cast, has a {REPEATCHANCE}% chance to recast Blade Wings on a random target.
 Can recast up to {MAXREPEATS} times and the chance to recast is reduced by {REPEATCHANCEDECREASE}% after every successful cast."
+"specials.v2.property.repeatspecial.heads_or_tails.random","After a successful cast, has a {REPEATCHANCE}% chance to recast Heads or Tails? on a random target.
+Can recast up to {MAXREPEATS} times."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","The duration of buffs is reset for all allies."
 "specials.v2.property.resetstatuseffectduration.all.enemies.alldebuffs","The duration of status ailments is reset for all enemies."
 "specials.v2.property.resetstatuseffectduration.neartotarget.allies.allbuffs","The duration of buffs is reset for caster and nearby allies."
@@ -1114,6 +1141,7 @@ If the target does not have a Special Skill, or it can't be copied, the followin
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Steals all dispellable buffs from the target and nearby enemies and randomly distributes them on allies."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Steals {CUSTOMREALLOCATIONCOUNT} random dispellable buffs from the target and nearby enemies and randomly distributes them on allies."
+"specials.v2.property.statuseffectreallocation.from.sides.enemies.to.all.allies","Steals all dispellable buffs from the enemies on the edges of the enemy formation and randomly distributes them on allies."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Steals all dispellable buffs from the target and randomly distributes them on allies."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies.customreallocationcount.multiple","Steals {CUSTOMREALLOCATIONCOUNT} random dispellable buffs from the target to the caster."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Steals all dispellable buffs from the target and randomly distributes them on caster and nearby allies."
@@ -1137,6 +1165,7 @@ Deals additional {POWERPERALLOCATION}% damage per transferred status effect buff
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Steals the latest dispellable status effect buff from all enemies and randomly distributes them on allies."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","If the target is defeated, the Special Skill will not be recast."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","If the target has been inflicted with Frost, Freezing Power Hooks will be recast once on a random target."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_jabs.random","If the target has been inflicted with Frost, Freezing Power Jabs will be recast once on a random target."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","If the target has been inflicted with Bleed, The Scent of Blood will be recast once on the target."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","All ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","All buffs affecting attack, defense and mana generation on all enemies are transformed into matching uncleansable ailments."
@@ -1169,6 +1198,9 @@ Enemies with Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for
 Enemies with Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for {STATUSEFFECT1TURNS} turns."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Deals {POWERFORTARGETSTHATMEETCONDITION}% damage against enemies with any defensive buffs, Minions or Mega Minions.
 Enemies with any defensive buffs, Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for {STATUSEFFECT1TURNS} turns."
+"specials.v2.property.talondamage.damage.all.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Deals {POWERFOROTHERTARGETS}% Talon Damage to all enemies."
+"specials.v2.property.talondamage.damage.neartotarget.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Deals {POWERFOROTHERTARGETS}% Talon Damage to the target and nearby enemies."
+"specials.v2.property.talondamage.extra","Deals {POWERFORTARGETSTHATMEETCONDITION}% damage to enemies with {STATTHRESHOLDPERMIL}% mana or more. The enemies also get {STATUSEFFECTFORTARGETSTHATMEETCONDITION1MANAREGEN}% mana generation for {STATUSEFFECTFORTARGETSTHATMEETCONDITION1TURNS} turns."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
 The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
 
@@ -1195,6 +1227,7 @@ Summons a Seedling Fiend to each hit enemy."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","If the target has less than {HEALTHBOUNDARY}% health remaining, deals {DAMAGEMULTIPLIER}% damage instead."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","If the target has more than {THRESHOLD1}% mana after the mana reduction, the Special Skill repeats, targeting a random enemy. The damage is reduced on each consecutive hit."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","If the target has more than {THRESHOLD1}% mana after the mana reduction, the Special Skill repeats, targeting a random enemy. The damage is reduced on each consecutive hit."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.no_damage_reduction.over_health_threshold","If the target had more than {THRESHOLD1}% health before receiving damage, targets another enemy who had over {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% health, targets a random enemy. Each enemy can only be hit once."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","If the target had more than {THRESHOLD1}% health before receiving damage, targets another enemy who had over {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","If the target had more than {THRESHOLD1}% health before receiving damage, targets another enemy who had over {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% health, targets a random enemy. The damage is increased on each consecutive hit. Each enemy can only be hit once."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","If the target had more than {THRESHOLD1}% mana before receiving damage, targets another enemy who had over {THRESHOLD2}% mana before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% mana, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once."
@@ -1259,6 +1292,8 @@ This effect is less effective when activated by monsters and bosses."
 "specials.v2.property.wither.none.neartotarget.enemies.attack","Wither: The target and nearby enemies get {ATTACKINCREASE} attack."
 "specials.v2.property.wither.none.neartotarget.enemies.attack.defense","Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense."
 "specials.v2.property.wither.none.neartotarget.enemies.defense","Wither: The target and nearby enemies get {DEFENSEINCREASE} defense."
+"specials.v2.property.wither.none.sides.enemies.defense","Wither: Enemies on the edges of the enemy formation get {DEFENSEINCREASE} defense."
+"specials.v2.property.wither.none.single.enemies.attack","Wither: The target gets {ATTACKINCREASE} attack."
 "specials.v2.property.wither.none.single.enemies.attack.defense","Wither: The target gets {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense."
 "specials.v2.property.wither.none.single.enemies.defense","Wither: The target gets {DEFENSEINCREASE} defense."
 "specials.v2.saturated_suffering.immuneelement.blue","All Ice enemies are immune to this attack."
@@ -1278,6 +1313,7 @@ This effect is less effective when activated by monsters and bosses."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies","The caster gets {ACCURACY}% accuracy for {TURNS} turns. This effect can't be cleansed."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies.while.single.allies.familiaralive.butterfly_parasite","When summoned, the Butterfly Fiend gives {ACCURACY}% accuracy for its owner for as long as the owner has Butterfly Fiends. This effect can't be cleansed."
 "specials.v2.statuseffect.major.accuracymodifier.single.allies.while.single.allies.familiaralive.moreau_parasite.moreau_parasite_waker","The Remnant Shade Fiend gives {ACCURACY}% accuracy for its target for as long as the target has Remnant Shade Fiends. Chance to miss also applies to offensive Special Skills. This effect can't be cleansed."
+"specials.v2.statuseffect.major.ambush.all.allies.decrease.removeondamagereceived.while.caster.enemies.none","All allies go into Ambush. Damage dealt by all allies is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%."
 "specials.v2.statuseffect.major.ambush.neartotarget.allies.decrease.removeondamagereceived.while.caster.enemies.none","The caster and nearby allies go into Ambush. Damage dealt by the caster and nearby allies is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%."
 "specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived","The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%."
 "specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none","The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%."
@@ -1310,6 +1346,7 @@ When the caster comes out of hiding, they deal {DAMAGE} damage to all enemies wh
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Deals {POWER1}% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","The caster and nearby allies get {DEFENSE}% defense, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, down to {MAXMODIFIER}% defense. This effect can't be dispelled."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","The caster gets {DEFENSE}% defense, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% defense. This effect can't be dispelled."
+"specials.v2.statuseffect.major.bleeding.neartotarget.enemies","The target and nearby enemies receive {DAMAGE} Bleed damage over {TURNS} turns. This effect can't be cleansed."
 "specials.v2.statuseffect.major.bluedefensemodifier.single.allies","The caster gets {DEFENSE}% defense against Ice for {TURNS} turns. This effect can't be cleansed."
 "specials.v2.statuseffect.major.buffimmunity.all.enemies.damage","All enemies are immune to new status effect buffs for {TURNS} turns, and receive {POWER} damage for each attempted buff. This effect can't be cleansed."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","The target and nearby enemies are immune to new status effect buffs for {TURNS} turns. This effect is undispellable."
@@ -1387,6 +1424,10 @@ Ballad of Passion
 
 Ballad of the Dark Swan
 {STATUSEFFECTS}"
+"specials.v2.statuseffect.major.dancemultieffect.random.enemies.contagious.ballad_of_biroho","A random enemy dances to Ballad of Biroho for {TURNS} turns. The dance spreads to nearby enemies.
+
+Ballad of Biroho
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.major.dancemultieffect.single.enemies.contagious.ballad_of_pain","The target dances to Ballad of Pain for {TURNS} turns. The dance spreads to nearby enemies.
 
 Ballad of Pain
@@ -1430,6 +1471,8 @@ Ballad of Pain
  While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflict {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
  While in Deranged Dire Ghost form the caster can take damage from enemies whose element is strong against them."
 "specials.v2.statuseffect.major.dispel.all.allies.minordebuff","Cleanses status ailments from all allies at the end of each turn for {TURNS} turns. This effect can't be dispelled."
+"specials.v2.statuseffect.major.dispel.all.allies.minordebuff.bypassremoveeffects","Safely cleanses status ailments from all allies at the end of each turn for {TURNS} turns. This effect can't be dispelled."
+"specials.v2.statuseffect.major.dispel.all.allies.minordebuff.customremovalcount","Cleanses 1 status ailment from all allies at the end of each turn for {TURNS} turns. This effect can't be dispelled."
 "specials.v2.statuseffect.major.elementlink.blue.allies","Element Link gives all Ice allies {ATTACK}% attack and {DEFENSE}% defense for {TURNS} turns. This effect can't be dispelled."
 "specials.v2.statuseffect.major.elementlink.green.allies","Element Link gives all Nature allies {ATTACK}% attack and {DEFENSE}% defense for {TURNS} turns. This effect can't be dispelled."
 "specials.v2.statuseffect.major.elementlink.purple.allies","Element Link gives all Dark allies {ATTACK}% attack and {DEFENSE}% defense for {TURNS} turns. This effect can't be dispelled."
@@ -1617,6 +1660,7 @@ Sticky Surface: Steals {REALLOCATIONCOUNT} random dispellable buff or Growth eff
 Sticky Surface: Steals {REALLOCATIONCOUNT} random dispellable buff or Growth effect from an attacking enemy."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","All allies reduce all received damage by {DAMAGEREDUCTION}% for {TURNS} turns. This effect can't be dispelled."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","If the caster has a Minion or Mega Minion, all enemies receive {DAMAGEMODIFIER}% increased damage. This effect remains active as long as the caster has a Minion or Mega Minion, and can't be dispelled."
+"specials.v2.statuseffect.major.reddefensemodifier.single.enemies","The target gets {DEFENSE}% defense against Fire for {TURNS} turns. This effect can't be cleansed."
 "specials.v2.statuseffect.major.resisthealing.single.enemies.damage","The target resists healing and receives {FIXEDPOWER} damage per each resisted healing for {TURNS} turns. This effect can't be cleansed."
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","All allies are immune to mana reduction for as long as the caster has boosted health. This effect can't be dispelled."
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","All allies become Bruiser Bros for {TURNS} turns. If an ally is defeated while being a Bruiser Bro they will be reborn as a Chameleon with:
@@ -1668,7 +1712,7 @@ If the Slime is not defeated in {CHANGEDAPPEARANCETURNS} turns, it will be rebor
 {DEFENSE} defense.
 Special Skill: Poison Bite."
 "specials.v2.statuseffect.major.silence.single.enemies.chain_strike","All hit targets get silenced for {TURNS} turns. This effect can't be cleansed."
-"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
+"specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall asleep and receive {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.major.sleep.sides.enemies.removeonnonfamiliardamagereceived","The enemies on the edges of the enemy formation fall asleep and receive {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.major.sleep.single.enemies.removeonnonfamiliardamagereceived","The target falls asleep and receives {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.major.softskin.allexceptcaster.allies.withactivationcount.one.decrease","All allies except the caster receive Softskin."
@@ -1689,6 +1733,7 @@ Dance of Spirits
 Reduces all received damage by {DAMAGEREDUCTION}%.
 If the caster is defeated, the dancer receives {DAMAGEONCASTERDEATH} damage and their mana is reduced by 100%."
 "specials.v2.statuseffect.major.statuseffectsonspecialcast.single.enemies.poison.chain_strike","If hit enemies use their Special Skill in the next {TURNS} turns, they receive {DAMAGE} Poison damage over {DURATIONFORSTATUSEFFECTS} turns. This effect can't be cleansed."
+"specials.v2.statuseffect.major.stone.all.allies.withactivationcount","All allies activate Stoneskin that drops all damage dealt to the ally to 1 but is removed after {MAXHITS} hits. This effect can't be dispelled."
 "specials.v2.statuseffect.major.stone.single.allies.withactivationcount","The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after {MAXHITS} hits. This effect can't be dispelled."
 "specials.v2.statuseffect.major.storeddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Stores all damage dealt to the caster for {TURNS} turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of {MAXDAMAGE} damage. This effect can't be dispelled."
 "specials.v2.statuseffect.major.storeddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.removal","Stores all damage dealt to the caster for {TURNS} turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of {MAXDAMAGE} damage. This effect can't be dispelled."
@@ -1733,6 +1778,7 @@ Vibrant Fortune Dance
 Fortune Dances stack with other Dance effects."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","All enemies get {ACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","All enemies get {ACCURACY}% accuracy for {TURNS} turns. This effect is Stubborn."
+"specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","All enemies get {ACCURACY}% accuracy for {TURNS} turns. The effect duration resets if the target is healed."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","The target gets {ACCURACY}% accuracy and all other enemies get {MINORACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","All Ice enemies get {ACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.neartotarget.enemies","The target and nearby enemies get {ACCURACY}% accuracy for {TURNS} turns."
@@ -1743,6 +1789,7 @@ Fortune Dances stack with other Dance effects."
 "specials.v2.statuseffect.minor.accuracymodifier.single.allies","The caster gets {ACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies","The target gets {ACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies.chain_strike","All hit targets get {ACCURACY}% accuracy for {TURNS} turns."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies.resetonheal","The target gets {ACCURACY}% accuracy for {TURNS} turns. The effect duration resets if the target is healed."
 "specials.v2.statuseffect.minor.accuracymodifierperhit.all.enemies","All enemies get {ACCURACY}% accuracy, and a further {CHANGE}% decrease every time they are hit during {TURNS} turns, up to {MAXACCURACY}% accuracy."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.blue.neartotarget.enemies","The target and nearby enemies get {ACCURACY}% accuracy, and a further {ACCURACYPERTILE}% decrease per each Ice shield on the board for {TURNS} turns, up to {MAXACCURACY}% accuracy."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.purple.all.enemies","All enemies get {ACCURACY}% accuracy, and a further {ACCURACYPERTILE}% decrease per each Dark shield on the board for {TURNS} turns, up to {MAXACCURACY}% accuracy."
@@ -1768,6 +1815,7 @@ Fortune Dances stack with other Dance effects."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","After {TURNS} turn the target and nearby enemies get Paralyzed for {STATUSEFFECT1TURNS} turns. Paralyzed enemies can't attack or gain mana and receive {STATUSEFFECT1DAMAGEMODIFIER}% increased damage."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","After 1 turn the target and nearby enemies get Paralyzed for 2 turns."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_titan.single.allies.turns.one","After {TURNS} turn the target and nearby enemies get Paralyzed for {STATUSEFFECT1TURNS} turns. Paralyzed enemies can't attack or gain mana and receive {STATUSEFFECT1DAMAGEMODIFIER}% increased damage."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.sides.enemies.onremoval.expiration.paralysis_vasily.turns.one","After {TURNS} turn the enemies on the edges of the formation get Paralyzed for {STATUSEFFECT1TURNS} turns."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.allies.onremoval.death.reduce_max_health_over_time_stravia.all.enemies","If the caster is defeated in the next {TURNS} turns, reduces max health of all enemies by {STATUSEFFECT1TOTAL} over {STATUSEFFECT1TURNS} turns. The effect is stronger against targets with boosted health."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.allies.onremoval.expiration.stun_major.brittle_major.mana_regen_reduction","After {TURNS} turns the caster gets following status ailments:
  The caster gets {REMOVALEFFECT1STATUSEFFECT1ATTACK}% attack for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect can't be cleansed.
@@ -1782,6 +1830,7 @@ Fortune Dances stack with other Dance effects."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","After {TURNS} turn the target gets Paralyzed for {STATUSEFFECT1TURNS} turns."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","After {TURNS} turn the target gets Paralyzed for {STATUSEFFECT1TURNS} turns."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","The caster deals {REMOVALEFFECT1FIXEDPOWER} damage to all enemies after {TURNS} turns. If the effect is removed or replaced before the duration ends, deals {REMOVALEFFECT2FIXEDPOWER} damage instead."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.dispelincreasesactivations","All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead. This effect is Stubborn."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Caster and nearby allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
@@ -1806,6 +1855,10 @@ Fortune Dances stack with other Dance effects."
 "specials.v2.statuseffect.minor.assistskillreceiveddamagemodifier.all.enemies","All damage all enemies receive is increased by {DAMAGEREDUCTION}% for {TURNS} turns."
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.allies","All allies get {SPECIALSKILLDEFENSE}% defense against Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","All enemies get {SPECIALSKILLDEFENSE}% defense against Special Skills for {TURNS} turns."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.all.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_coronzom.single.allies","All enemies become afflicted with an Astral Orb.
+While afflicted with the Astral Orb, the owner can't gain new status effect buffs.
+ Astral Orbs explode in {TURNS} turns dealing {DAMAGE} damage to their owner.
+ If the Astral Orb is cleansed, the owner receives Resonance for {STATUSEFFECT1TURNS} turns. Each turn, Resonance deals {STATUSEFFECT1DAMAGEPERTURN} damage to the afflicted enemy and {RESONANCEDAMAGE} damage to nearby enemies."
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Hit enemies become afflicted with Astral Orb.
 While afflicted with the Astral Orb, the owner can't gain new status effect buffs.
  Astral Orbs explode in {TURNS} turns dealing {DAMAGE} damage to their owner.
@@ -1879,6 +1932,7 @@ While afflicted with the Astral Orb, the owner can't gain new status effect buff
 "specials.v2.statuseffect.minor.bleeding.sides.enemies.contagious","The enemies on the edges of the enemy formation receive {DAMAGE} Bleed damage over {TURNS} turns. This effect spreads to nearby enemies."
 "specials.v2.statuseffect.minor.bleeding.single.enemies","The target receives {DAMAGE} Bleed damage over {TURNS} turns."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.neartotarget","The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster and nearby allies absorb {ABSORBHEALING}% of dealt Bleed damage as boosted health."
+"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as boosted health."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.neartotarget.chain_strike","All hit enemies receive {DAMAGE} Bleed damage over {TURNS} turns. The caster and their nearby allies absorb {ABSORBHEALING}% of dealt Bleed damage as health."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.single","The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as health."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_healing.to.single.chain_strike","All hit enemies receive {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as health."
@@ -1939,6 +1993,7 @@ The Skeleton Fox Fiend absorbs healing. It disappears after absorbing a healing 
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.chain_strike","All hit targets are immune to new status effect buffs for {TURNS} turns."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","The target is immune to new status effect buffs for {TURNS} turns, and receives {POWER} damage for each attempted buff."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","All hit targets are immune to new status effect buffs for {TURNS} turns, and receive {POWER} damage for each attempted buff."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.dispelincreasesactivations.chain_strike","All hit targets are immune to new status effect buffs for {TURNS} turns, and receive {POWER} damage for each attempted buff. This effect is Stubborn."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Deals {DAMAGE} - {MAXDAMAGE} damage to all enemies after {TURNS} turns, based on the damage the caster had taken while this effect was active."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Deals {DAMAGE} - {MAXDAMAGE} damage to all enemies after {TURNS} turns or if the caster is defeated, based on the damage the caster had taken while this effect was active."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","Deals {POWER}% - {MAXPOWER}% damage to all enemies after {TURNS} turns, based on the damage the caster had taken while this effect was active."
@@ -2095,6 +2150,11 @@ Devouring Goo: Removes all dispellable buffs and Growth effects, deals {BASEDAMA
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","The target enemy receives Devouring Goo status ailment for {TURNS} turns.
 Devouring Goo: Removes all dispellable buffs and Growth effects, deals {BASEDAMAGEPERTURN} damage per turn and {DAMAGEPERTURNPEREFFECT} damage per each removed effect."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Cleanses status ailments from all allies at the end of each turn for {TURNS} turns."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Safely cleanses status ailments from all allies at the end of each turn for {TURNS} turns."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Cleanses 1 status ailment from all allies at the end of each turn for {TURNS} turns."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.bypassremoveeffects","Safely cleanses 1 status ailment from all allies at the end of each turn for {TURNS} turns."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.multiple","Cleanses {REMOVALCOUNT} status ailments from all allies at the end of each turn for {TURNS} turns."
+"specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount.multiple.bypassremoveeffects","Safely cleanses {REMOVALCOUNT} status ailments from all allies at the end of each turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.dispel.all.enemies.minorbuff","Dispels buffs from all enemies at the end of each turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.dispel.neartotarget.allies.minordebuff","Cleanses status ailments from the caster and nearby allies at the end of each turn for {TURNS} turns."
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Dispels buffs from the target and nearby enemies at the end of each turn for {TURNS} turns."
@@ -2160,7 +2220,7 @@ Devouring Goo: Removes all dispellable buffs and Growth effects, deals {BASEDAMA
 "specials.v2.statuseffect.minor.elementmirror.yellow.neartotarget.allies","The caster and nearby allies reflect all status ailments and {DEFLECTION}% damage back to the attacker and block all other negative effects from enemies' Holy Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.allies","The caster reflects all status ailments and {DEFLECTION}% damage back to the attacker and block other negative effects from enemies' Holy Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementmirror.yellow.single.enemies","The caster reflects all status ailments and {DEFLECTION}% damage back to the attacker and block other negative effects from enemies' Dark Special Skills for {TURNS} turns."
-"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Changes the element of all enemies to [##elementred]Fire[#] for {TURNS} turns."
+"specials.v2.statuseffect.minor.elementswap.all.enemies.red","Changes the element of all enemies to Fire for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementswap.all.enemies.strongagainstelement","Changes the element of all enemies to the element they are strong against for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementswap.single.allies.maintargetelement","Changes the element of the caster to the target's element for {TURNS} turns."
 "specials.v2.statuseffect.minor.elementswap.single.allies.strongagainstelement","Changes the element of the caster to the element they are strong against for {TURNS} turns."
@@ -2220,6 +2280,7 @@ After each element change, enemies take {DAMAGEPERTURN} damage if their element 
 "specials.v2.statuseffect.minor.fixedmanatoowneroncounterattack.small.increment.neartotarget.allies","The caster and nearby allies regenerate a small amount of mana for each counterattack for {TURNS} turns. The effect gets diminished for consecutive activations during the same turn."
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.allminor.enemies","The target gets {DEFENSE} defense against Dark and all other enemies get {MINORDEFENSE} defense against Dark for {TURNS} turns."
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.single.enemies","The target gets {DEFENSE} defense against Dark for {TURNS} turns."
+"specials.v2.statuseffect.minor.fixedreddefensemodifier.single.enemies","The target gets {DEFENSE} defense against Fire for {TURNS} turns."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.allies","All allies get {DEFENSE} defense against Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.enemies","All enemies get {DEFENSE} defense against Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.fixedyellowdefensemodifier.single.enemies","The target gets {DEFENSE} defense against Holy for {TURNS} turns."
@@ -2387,19 +2448,22 @@ Each Moon Beam deals {POWER1}% damage.
 Each Moon Beam reduces the mana of the hit enemy by {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","At the end of each turn, all allies shoot an Astral Beam at a random enemy for {TURNS} turns.
 Each Astral Beam deals {POWER1}% damage.
-Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}."
+Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}. The effect is stronger against targets with boosted health."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","At the end of each turn, the caster and nearby allies shoot a Moon Beam at a random enemy for {TURNS} turns.
 Each Moon Beam deals {POWER1}% damage.
 Each Moon Beam reduces the mana of the hit enemy by {ABSPOWER2}%."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","At the end of each turn, the caster and nearby allies shoot an Astral Beam at a random enemy for {TURNS} turns.
+Each Astral Beam deals {POWER1}% damage.
+Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}. The effect is stronger against targets with boosted health."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.reducemaxhealth.random.enemies.add_insanity_ocular_ray_nyctalos.with_chance","At the end of each turn, the caster and nearby allies shoot an Ocular Ray at a random enemy for {TURNS} turns.
  Each Ocular Ray inflicts {INSANITYTOADD} Insanity on the hit enemy.
- Each Ocular Ray reduces the Max Health of the hit enemy by {REDUCTION1}."
+ Each Ocular Ray reduces the Max Health of the hit enemy by {REDUCTION1}. The effect is stronger against targets with boosted health."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","At the end of each turn, the caster shoots a Moon Beam at a random enemy for {TURNS} turns.
 Each Moon Beam deals {POWER1}% damage.
 Each Moon Beam reduces the mana of the hit enemy by {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","At the end of each turn, the caster shoots an Astral Beam at a random enemy for {TURNS} turns.
 Each Astral Beam deals {POWER1}% damage.
-Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}."
+Each Astral Beam reduces the Max Health of the hit enemy by {REDUCTION2}. The effect is stronger against targets with boosted health."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","All allies get a Firestorm Ward for {TURNS} turns, that reduces incoming Special Skill damage by up to -{MAX}. Reduces damage by additional {ADDITIONALDAMAGEMODIFIER}% when the attacker is of the Nature element."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","All allies get a Frostfall Ward for {TURNS} turns, that reduces incoming Special Skill damage by up to -{MAX}. Reduces damage by additional {ADDITIONALDAMAGEMODIFIER}% when the attacker is of the Fire element."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","All allies get a Moonrise Ward for {TURNS} turns, that reduces incoming Special Skill damage by up to -{MAX}. Reduces damage by additional {ADDITIONALDAMAGEMODIFIER}% when the attacker is of the Holy element."
@@ -2488,7 +2552,7 @@ Each Piercing Shuriken deals {POWER1}% damage."
 "specials.v2.statuseffect.minor.proportionalmanatoattackeroncounterattack.decrement.single.allies","The caster decreases {PROPORTIONALMANA}% mana from the attacker on each counterattack for {TURNS} turns. The effect gets diminished for consecutive activations during the same turn."
 "specials.v2.statuseffect.minor.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies","All enemies become Provoked for {TURNS} turns. The Provoked character deals {POWER1}% damage to a random opponent at the end of the turn."
 "specials.v2.statuseffect.minor.pumpkinbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","The target receives a Pumpkin Bomb. After {TURNS} turns the Pumpkin Bomb explodes and deals {DAMAGE} damage to the target and nearby enemies. The Pumpkin Bomb also explodes when the target is defeated."
-"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","The target receives a Pungent Bomb and gets {DEFENSE}% defense while afflicted by it. Pungent Bomb explodes after {TURNS} turns and deals {FIXEDPOWER} damage to the target and nearby allies."
+"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","The target receives a [#!]Pungent Bomb[#]. [#!]Pungent Bomb[#] explodes after [#!]{TURNS}[#] turns and deals [#!]{FIXEDPOWER}[#] damage to the target and nearby allies."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.allies","All allies get {DEFENSE}% defense against Dark for {TURNS} turns."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","All enemies get {DEFENSE}% defense against Dark for {TURNS} turns."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","The caster and nearby allies get {DEFENSE}% defense against Dark for {TURNS} turns."
@@ -2569,7 +2633,7 @@ Resilient Rot
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","The target and nearby enemies resist healing and receive {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","The enemies on the edges of the enemy formation resist healing and receive {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","The target resists healing and receives {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
-"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","The target resists healing and receives {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","All hit enemies resist healing and receive {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","The target of the second hit resists healing and receives {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","All hit targets resist healing and receive {FIXEDPOWER} damage per each resisted healing for {TURNS} turns."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","All allies are immune to new negative mana effects for {TURNS} turns."
@@ -2651,7 +2715,7 @@ Upon resurrection all enemies get {STATUSEFFECT1ACCURACY}% accuracy for {STATUSE
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike","All hit targets get silenced for {TURNS} turns."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.one_hit_chain_strike_salniss.on_additional_hit","The target of the second hit gets silenced for {TURNS} turns."
 "specials.v2.statuseffect.minor.silence.single.enemies.chain_strike.only_main_target","The target gets silenced for {TURNS} turns."
-"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
+"specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived","All enemies fall asleep and receive {DAMAGEMODIFIER}% increased damage while sleeping."
 "specials.v2.statuseffect.minor.soulbinddamagereceiver.neartotarget.enemies","The target and nearby enemies get Soul Bound for {TURNS} turns."
 "specials.v2.statuseffect.minor.soulconnection.all.allies","All allies become Soul Connected for {TURNS} turns. Soul Connected allies share received damage."
 "specials.v2.statuseffect.minor.soulconnection.all.both","All allies become Soul Connected for {TURNS} turns. Soul Connected allies share received damage.
@@ -2677,6 +2741,8 @@ Upon resurrection all enemies get {STATUSEFFECT1ACCURACY}% accuracy for {STATUSE
 "specials.v2.statuseffect.minor.specialskillcastmark.single.allies.stackingmanagenerationmodifier.specialskillcast.activates_on_ally_action","The caster gets a Mark of Special Skill for {TURNS} turns. When any ally except the caster casts their Special Skill, the caster gains a stack (Max: {STATUSEFFECT1MAXSTACK}). Each stack increases mana generation the target receives by {STATUSEFFECT1MANAREGEN}%."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.allies","All allies get {SPECIALSKILLDEFENSE}% defense against Special Skills for {TURNS} turns."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies","All enemies get {SPECIALSKILLDEFENSE}% defense against Special Skills for {TURNS} turns."
+"specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.onremoval.damage.single.allies","All enemies get {SPECIALSKILLDEFENSE}% defense against Special Skills for {TURNS} turns. If the effect is removed before the duration ends, the target with the effect suffers {DAMAGE} damage."
+"specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.onremoval.damage.single.allies.removal.dispel.reallocation.replacesamestatuseffect","All enemies get {SPECIALSKILLDEFENSE}% defense against Special Skills for {TURNS} turns. If the effect is removed before the duration ends, the target with the effect suffers {DAMAGE} damage."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.withactivationcount.one.onremoval.addmana.single.allies.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.decrease.unreallocatable","Enhanced Defense Ailment: All enemies get {SPECIALSKILLDEFENSE}% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.
  After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy's mana by {REMOVALEFFECT1MANA}%."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.all.enemies.withactivationcount.one.onremoval.damage.single.allies.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.unreallocatable","Enhanced Defense Ailment: All enemies get {SPECIALSKILLDEFENSE}% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.
@@ -2720,6 +2786,7 @@ After the Enhanced Defense Ailment ends or is removed or replaced, the enemy get
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Stack (Max: {MAXSTACK}): The caster gets an additional {ATTACK}% attack for each destroyed Minion."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Stack (Max: {MAXSTACK}): Each hit gives its target {ATTACK}% attack."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Stack (Max: {MAXSTACK}): The caster gets {ATTACK}% attack against the weaker element."
+"specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Stack (Max: {MAXSTACK}): All allies get {CRIT}% critical chance."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies.withbasestackcount","Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {CRITPERSTACK}% critical chance per stack."
 "specials.v2.statuseffect.minor.stackingcritmodifier.neartotarget.allies","Stack (Max: {MAXSTACK}): Caster and nearby allies get {CRIT}% critical chance."
 "specials.v2.statuseffect.minor.stackingcritmodifier.single.allies.withbasestackcount","Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): This character gets {CRIT}% critical chance."
@@ -2798,6 +2865,10 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 {STATUSEFFECT1MANAREGEN}% mana generation for {STATUSEFFECT1TURNS} turns.
 {STATUSEFFECT2DEFENSE}% defense against Special Skills for {STATUSEFFECT2TURNS} turns.
 The Source of Ailments will activate {MAXACTIVATIONCOUNT} times. This effect is Stubborn."
+"specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.poison_paracelsus.resist_healing_with_damage_paracelsus.dispelincreasesactivations","Source of Ailments: The following effects are cast on a random enemy at the start of each turn:
+{STATUSEFFECT1DAMAGE} Poison damage over {STATUSEFFECT1TURNS} turns.
+Resists healing and receives {FIXEDPOWER} damage per each resisted healing for {STATUSEFFECT2TURNS} turns.
+The Source of Ailments will activate {MAXACTIVATIONCOUNT} times. This effect is Stubborn."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_modthryth.mana_regen_modthryth","Status Effect Generator: At the start of the next {MAXACTIVATIONCOUNT} turns, this character gives a random ally an additional {STATUSEFFECT1POWER}% Special Skill damage and {STATUSEFFECT2MANAREGEN}% mana generation for {STATUSEFFECT1TURNS} turns. This effect cannot be dispelled."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_modthryth.mana_regen_modthryth.dispelincreasesactivations","Source of Buffs: The following effects are cast on a random ally at the start of each turn:
 {STATUSEFFECT1POWER}% Special Skill damage for {STATUSEFFECT1TURNS} turns.
@@ -2836,6 +2907,7 @@ Each dodge gives all allies {MANAREGEN}% mana generation for {TURNS} turns."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","All allies get {ATTACK}% attack for {TURNS} turns. Against Holy Titans, all allies get {ATTACKAGAINSTVALIDTARGET}% attack."
 "specials.v2.statuseffect.minor.taunt.single.allies","The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for {TURNS} turns."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","All enemies receive {DAMAGE} Toxin damage over {TURNS} turns. Damage is increased against targets with boosted health, Minions or a Mega Minion."
+"specials.v2.statuseffect.minor.toxin.neartotarget.enemies.dispelincreasesactivations.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","The target and nearby enemies receive {DAMAGE} Toxin damage over {TURNS} turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. This effect is Stubborn."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","The target and nearby enemies receive {DAMAGE} Toxin damage over {TURNS} turns. Damage is increased against targets with boosted health, Minions or a Mega Minion."
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","The enemies on the edges of the enemy formation receive {DAMAGE} Toxin damage over {TURNS} turns. Damage is increased against targets with boosted health, Minions or a Mega Minion."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","The target receives {DAMAGE} Toxin damage over {TURNS} turns. Damage is increased against targets with boosted health, Minions or a Mega Minion."
@@ -2860,8 +2932,16 @@ Each dodge gives all allies {MANAREGEN}% mana generation for {TURNS} turns."
  If Magma Cube is cleansed, the owner gets {STATUSEFFECT1MANAREGEN}% mana generation for {REMOVALEFFECT2STATUSEFFECT1TURNS} turns."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","All enemies receive {BASEDAMAGE} Water damage, and an increase of {DAMAGEPERTILE} damage per each Ice shield on the board over {TURNS} turns, up to {MAXDAMAGE} damage. This effect is uncleansable for all Fire enemies."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","The caster gets Vengeance for {TURNS} turns. If Vengeance is dispelled by a Special Skill, all enemies receive {DAMAGE} damage."
+"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","The target turns into a Mindworm. Mindworms have {ATTACK}% attack, {DEFENSE}% defense and the following Special Skill:
+
+{REPLACEDSPECIALTITLE} ({REPLACEDMANASPEED})
+Inflicts 75 Insanity on one random ally.
+Removes the Mindworm ailment from the caster."
 "specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Wild: For {TURNS} turns, the target and nearby enemies receive {DAMAGEPERTURN} or {WILDDAMAGEPERTURN} Burn damage each turn."
 "specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Wild: For {TURNS} turns, all allies either regenerate {HPPERTURN} HP or  receive {WILDHPPERTURN} boosted health each turn."
+"specials.v2.statuseffect.minor.wind.all.enemies.alldefensivebuffs.minion.bigminion.follower","All enemies receive {DAMAGE} Wind damage for {TURNS} turns. The damage bypasses defensive buffs, Minions and Mega Minions."
+"specials.v2.statuseffect.minor.wind.neartotarget.enemies.alldefensivebuffs.minion.bigminion.follower","The target and nearby enemies receive {DAMAGE} Wind damage over {TURNS} turns. The damage bypasses defensive buffs, Minions and Mega Minions."
+"specials.v2.statuseffect.minor.wind.single.enemies.alldefensivebuffs.minion.bigminion.follower.chain_strike","All hit targets receive {DAMAGE} Wind damage over {TURNS} turns. The damage bypasses defensive buffs, Minions and Mega Minions."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","All allies get {DEFENSE}% defense against Holy for {TURNS} turns."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.enemies","All enemies get {DEFENSE}% defense against Holy for {TURNS} turns."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.allexceptcaster.allies","All allies except the caster get {DEFENSE}% defense against Holy for {TURNS} turns."
@@ -2908,13 +2988,3 @@ Hero's Insanity can be lowered by direct heal from a Special Skill."
 "specials.v2.toon_tide.immuneelement.purple","All Dark allies and enemies are immune to this Special Skill."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","This effect may only happen once per Hydra Head Minion."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","When the Hydra Head Minion is defeated, a random ally receives a Reborn Hydra Head Minion that inherits the stats of the original Minion."
-"specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Safely cleanses all status ailments from the caster."
-"specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
-"specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single","The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as boosted health."
-"specials.v2.property.wither.none.single.enemies.attack","[#!]Wither:[#] The target gets {ATTACKINCREASE} attack."
-"specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","The target turns into a [#!]Mindworm[#]. [#!]Mindworms[#] have {ATTACK}% attack, {DEFENSE}% defense and the following Special Skill:
-
-[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})
-[>]Inflicts 75 [#!]Insanity[#] on one random ally.
-[>]Removes the [#!]Mindworm[#] ailment from the caster."
-"specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Removes the [#!]Mindworm[#] ailment from the caster."

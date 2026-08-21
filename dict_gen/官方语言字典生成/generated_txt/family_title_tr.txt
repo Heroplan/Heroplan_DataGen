@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Muhafız"
 "herocard.family.title.halloween","Morlovia Ailesi"
 "herocard.family.title.halloween.short","Morlovia"
+"herocard.family.title.harpy","Kötücül Harpy'ler"
+"herocard.family.title.harpy.short","Kötücül Harpy'ler"
 "herocard.family.title.helheim","Helheim Diyarı"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","{0} Efsaneleri Ailesi"

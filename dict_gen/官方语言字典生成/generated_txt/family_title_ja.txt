@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","ガーディアン"
 "herocard.family.title.halloween","モルロヴィアファミリー"
 "herocard.family.title.halloween.short","モルロヴィア"
+"herocard.family.title.harpy","凶悪なハーピー"
+"herocard.family.title.harpy.short","凶悪なハーピー"
 "herocard.family.title.helheim","ヘルヘイム領域"
 "herocard.family.title.helheim.short","ヘルヘイム"
 "herocard.family.title.hotm","{0}年レジェンドファミリー"

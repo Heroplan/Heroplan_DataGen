@@ -68,6 +68,8 @@
 "herocard.family.title.guardian.short","Guardião"
 "herocard.family.title.halloween","Família Morlóvia"
 "herocard.family.title.halloween.short","Morlóvia"
+"herocard.family.title.harpy","Harpias Hediondas"
+"herocard.family.title.harpy.short","Harpias Hediondas"
 "herocard.family.title.helheim","Reino de Helheim"
 "herocard.family.title.helheim.short","Helheim"
 "herocard.family.title.hotm","Família {0} Lendas"
