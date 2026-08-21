@@ -2242,6 +2242,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ]
+    },
+    {
         "heroId": "gargoyle_pophit",
         "name": "Pophit",
         "passives": [
@@ -8033,6 +8041,18 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_niso",
+        "name": "Niso",
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
+        ]
+    },
+    {
         "heroId": "christmas_noel",
         "name": "Noel",
         "passives": [
@@ -9705,6 +9725,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
+    },
+    {
         "heroId": "bard_zhabog",
         "name": "Zhabog",
         "passives": [
@@ -11208,6 +11235,13 @@ const allTranslations =
         "heroId": "s2_oceanus_costume_volcano",
         "name": "Oceanus C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
     },
     {
         "heroId": "s4_octros",
@@ -14688,28 +14722,38 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "construct_niso",
-        "name": "Niso",
-        "passives": []
-    },
-    {
-        "heroId": "s2_oceanus_costume_cute",
-        "name": "Oceanus Toon",
-        "passives": []
-    },
-    {
-        "heroId": "ice_god_perseus_costume_cute",
-        "name": "Perseus Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_rugged_fisherman_costume_cute",
-        "name": "Wilbur Toon",
-        "passives": []
-    },
-    {
         "heroId": "vegetable_garlacteus",
         "name": "Garlacteus",
+        "passives": []
+    },
+    {
+        "heroId": "holy_god_onatel_costume_divine",
+        "name": "Onatel C",
+        "passives": []
+    },
+    {
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "name": "Kunchen C",
+        "passives": []
+    },
+    {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_fafnir_costume_fallen",
+        "name": "Fafnir C",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_snorri_costume_powder",
+        "name": "Snorri C",
         "passives": []
     }
 ];

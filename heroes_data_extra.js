@@ -49744,5 +49744,101 @@ window.allHeroesExtra = [
             "ransack"
         ],
         "family": "shady_scoundrels"
+    },
+    {
+        "name": "Perseus toon",
+        "fancy name": "Son of Toon Zeus",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2026-08-21",
+        "AetherPower": "Attack Up",
+        "heroId": "ice_god_perseus_costume_cute",
+        "baseAttack": 355,
+        "baseDefense": 338,
+        "baseHealth": 661,
+        "specialId": "everlasting_wound",
+        "specialId_costume": "toon_wound",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2017"
+    },
+    {
+        "name": "Niso",
+        "fancy name": "Asymmetric Security Construct",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-08-20",
+        "AetherPower": "Attack Up",
+        "heroId": "construct_niso",
+        "baseAttack": 720,
+        "baseDefense": 694,
+        "baseHealth": 1082,
+        "specialId": "karmic_protocol",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Wilbur toon",
+        "fancy name": "Valiant Fishertoon",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-08-21",
+        "AetherPower": "Regen",
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "baseAttack": 280,
+        "baseDefense": 333,
+        "baseHealth": 538,
+        "specialId": "spiritual_unity",
+        "specialId_costume": "toontastic_feast",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "lagoon"
+    },
+    {
+        "name": "Oceanus toon",
+        "fancy name": "Toon Titan of Sea",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-08-21",
+        "AetherPower": "Attack Up",
+        "heroId": "s2_oceanus_costume_cute",
+        "baseAttack": 438,
+        "baseDefense": 351,
+        "baseHealth": 670,
+        "specialId": "strength_of_the_benemoth",
+        "specialId_costume": "strength_of_the_toon",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "72%",
+        "defenseBonus": "72%",
+        "healthBonus": "72%",
+        "manaBonus": "5%",
+        "family": "atlantis"
     }
 ];

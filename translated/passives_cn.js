@@ -2242,6 +2242,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。",
+            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+        ]
+    },
+    {
         "heroId": "gargoyle_pophit",
         "name": "Pophit",
         "passives": [
@@ -8033,6 +8041,18 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "construct_niso",
+        "name": "Niso",
+        "passives": [
+            "强化抵抗特殊技能格挡: 此英雄免疫禁用特殊技能的状态异常。每次抵抗时还会获得 450 点生命加成和 5% 法力。",
+            "小兵核心：此角色的机械核心为小兵核心。每当此角色施放特殊技能时，都会启动小兵核心：",
+            "* 若小兵核心已完全充满，为所有盟友召唤一个杀戮机器人小兵，小兵继承施法者的 25% 生命值和 110% 攻击力。",
+            "* 核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。",
+            "* 每回合结束时，小兵为其所有者恢复 7% 的生命值。",
+            "* 衰退：杀戮机器人小兵每次命中，会给予目标 -40 攻击力。"
+        ]
+    },
+    {
         "heroId": "christmas_noel",
         "name": "Noel",
         "passives": [
@@ -9705,6 +9725,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "bard_zhabog",
         "name": "Zhabog",
         "passives": [
@@ -11208,6 +11235,13 @@ const translatedPassivesCN =
         "heroId": "s2_oceanus_costume_volcano",
         "name": "Oceanus C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
     },
     {
         "heroId": "s4_octros",
@@ -14688,28 +14722,38 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "construct_niso",
-        "name": "Niso",
-        "passives": []
-    },
-    {
-        "heroId": "s2_oceanus_costume_cute",
-        "name": "Oceanus Toon",
-        "passives": []
-    },
-    {
-        "heroId": "ice_god_perseus_costume_cute",
-        "name": "Perseus Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_rugged_fisherman_costume_cute",
-        "name": "Wilbur Toon",
-        "passives": []
-    },
-    {
         "heroId": "vegetable_garlacteus",
         "name": "Garlacteus",
+        "passives": []
+    },
+    {
+        "heroId": "holy_god_onatel_costume_divine",
+        "name": "Onatel C",
+        "passives": []
+    },
+    {
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "name": "Kunchen C",
+        "passives": []
+    },
+    {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_fafnir_costume_fallen",
+        "name": "Fafnir C",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_snorri_costume_powder",
+        "name": "Snorri C",
         "passives": []
     }
 ];

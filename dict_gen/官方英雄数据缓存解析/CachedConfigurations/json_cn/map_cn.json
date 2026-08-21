@@ -139019,10 +139019,58 @@
           0,
           0
         ]
+      },
+      {
+        "id": "dragon_demon_raiders",
+        "craftingRewardLimit": 8,
+        "craftingRarityWeights": [
+          50,
+          30,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 3,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          0,
+          100,
+          0
+        ],
+        "rewardHeroes": [],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            600,
+            400,
+            0,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "NoviceRainbow"
+        },
+        "troopRewardWeights": [
+          1,
+          0,
+          0
+        ],
+        "increasedProbabilityItems": [],
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
       }
     ],
     "untoldTalesEnabled": true,
     "dragonProvinceCompletionRewardsEnabled": true
   },
-  "mapConfigId": 3474030786
+  "mapConfigId": 1713182610
 }

@@ -27721,12 +27721,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -30373,12 +30373,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -32997,12 +32997,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "magic_normal",
@@ -34347,12 +34347,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "ninja",
@@ -45192,12 +45192,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 5,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 5
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -46519,12 +46519,12 @@
           "styx_bombs_more"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 5,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 5
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "styx_normal",
@@ -74540,12 +74540,12 @@
           "challenge_event_easy"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "stagesCanBeReplayed": true,
@@ -75042,12 +75042,12 @@
           "challenge_event_medium"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "stagesCanBeReplayed": true,
@@ -75541,12 +75541,12 @@
           "challenge_event_hard"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "stagesCanBeReplayed": true,
@@ -84063,12 +84063,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -85412,12 +85412,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "owl_normal",
@@ -89884,12 +89884,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -90209,12 +90209,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -90682,12 +90682,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -91018,12 +91018,12 @@
           "volcanic_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -91354,12 +91354,12 @@
           "poisonous_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -91690,12 +91690,12 @@
           "glacial_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -92021,12 +92021,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -92357,12 +92357,12 @@
           "sacred_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -92693,12 +92693,12 @@
           "shadow_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93029,12 +93029,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93375,12 +93375,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -96700,12 +96700,12 @@
           "esoteric_winds"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -96727,12 +96727,12 @@
           "guestip1_troop_icon_override"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "battleItemsDisabled": true,
         "questBoosterProductId": "com.smallgiantgames.empires.guestip1_booster",
@@ -100483,14 +100483,14 @@
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
         "duration": 0,
-        "provinceLootTableId": "",
-        "provinceLootItemLimit": 0,
+        "provinceLootTableId": "dragon_demon_raiders",
+        "provinceLootItemLimit": 10,
         "quests": [
           {
             "level": {
               "provinceId": "",
               "energyCost": 4,
-              "commonMonstersLevel": 65,
+              "commonMonstersLevel": 40,
               "randomizedMonsterIds": [
                 "dragon_raider_imp_blue",
                 "dragon_raider_bigeye_bat_red"
@@ -100520,14 +100520,30 @@
                 }
               ],
               "battlegroundId": "DragonNightTownAttacked",
-              "foodReward": 4000,
-              "ironReward": 8000,
-              "recruitsReward": 4,
-              "xpReward": 2000
+              "foodReward": 6720,
+              "ironReward": 14840,
+              "recruitsReward": 10,
+              "xpReward": 2600
             },
-            "recommendedTeamPower": 38000,
+            "recommendedTeamPower": 30000,
             "heroRewards": [],
-            "itemRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_tall_boots",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_common_feather",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "dragon_mortar_and_pestle",
+                "amount": 1
+              }
+            ],
             "itemRewardsAlternative": [],
             "displayedEntities": [],
             "alternativeRewardsCustomChance": 500
@@ -100536,7 +100552,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 5,
-              "commonMonstersLevel": 90,
+              "commonMonstersLevel": 70,
               "randomizedMonsterIds": [
                 "dragon_raider_bigeye_bat_green",
                 "dragon_raider_gargoyle_purple"
@@ -100566,14 +100582,35 @@
                 }
               ],
               "battlegroundId": "DragonNightTownAttacked",
-              "foodReward": 5200,
-              "ironReward": 10100,
-              "recruitsReward": 6,
-              "xpReward": 2600
+              "foodReward": 8960,
+              "ironReward": 19040,
+              "recruitsReward": 12,
+              "xpReward": 3400
             },
-            "recommendedTeamPower": 42000,
+            "recommendedTeamPower": 40000,
             "heroRewards": [],
-            "itemRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_compass",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_mortar_and_pestle",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "assist_skill_material_common",
+                "amount": 6
+              }
+            ],
             "itemRewardsAlternative": [],
             "displayedEntities": []
           },
@@ -100581,7 +100618,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 6,
-              "commonMonstersLevel": 98,
+              "commonMonstersLevel": 100,
               "randomizedMonsterIds": [
                 "dragon_raider_imp_yellow",
                 "dragon_raider_gargoyle_green"
@@ -100617,14 +100654,35 @@
                 }
               ],
               "battlegroundId": "DragonNightTownAttacked",
-              "foodReward": 6400,
-              "ironReward": 12300,
-              "recruitsReward": 8,
-              "xpReward": 3200
+              "foodReward": 12600,
+              "ironReward": 25200,
+              "recruitsReward": 14,
+              "xpReward": 5700
             },
-            "recommendedTeamPower": 46000,
+            "recommendedTeamPower": 50000,
             "heroRewards": [],
-            "itemRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_fine_gloves",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_feathered_headdress",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_large",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "assist_skill_material_uncommon",
+                "amount": 3
+              }
+            ],
             "itemRewardsAlternative": [],
             "displayedEntities": []
           },
@@ -100632,7 +100690,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 7,
-              "commonMonstersLevel": 108,
+              "commonMonstersLevel": 125,
               "randomizedMonsterIds": [
                 "dragon_raider_bigeye_bat_yellow",
                 "dragon_raider_gargoyle_blue"
@@ -100659,14 +100717,35 @@
                 }
               ],
               "battlegroundId": "DragonNightTownAttacked",
-              "foodReward": 7600,
-              "ironReward": 14400,
-              "recruitsReward": 10,
-              "xpReward": 3800
+              "foodReward": 13160,
+              "ironReward": 25760,
+              "recruitsReward": 16,
+              "xpReward": 5940
             },
-            "recommendedTeamPower": 50000,
+            "recommendedTeamPower": 56000,
             "heroRewards": [],
-            "itemRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_tome_of_tactics",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_ornate_headdress",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "assist_skill_material_rare",
+                "amount": 2
+              }
+            ],
             "itemRewardsAlternative": [],
             "displayedEntities": []
           },
@@ -100674,7 +100753,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 8,
-              "commonMonstersLevel": 120,
+              "commonMonstersLevel": 150,
               "randomizedMonsterIds": [
                 "dragon_raider_bigeye_bat_purple",
                 "dragon_raider_imp_red"
@@ -100701,22 +100780,44 @@
                 }
               ],
               "battlegroundId": "DragonNightTownAttacked",
-              "foodReward": 8800,
-              "ironReward": 17000,
-              "recruitsReward": 12,
-              "xpReward": 4500
+              "foodReward": 14000,
+              "ironReward": 26600,
+              "recruitsReward": 18,
+              "xpReward": 6040
             },
-            "recommendedTeamPower": 55000,
+            "recommendedTeamPower": 62000,
             "heroRewards": [],
-            "itemRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_damascus_blade",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "relic_harvester_crafting",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "relic_harvester_food",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "assist_skill_material_epic",
+                "amount": 1
+              }
+            ],
             "itemRewardsAlternative": [],
-            "displayedEntities": []
+            "displayedEntities": [],
+            "alternativeRewardsCustomChance": 400
           },
           {
             "level": {
               "provinceId": "",
-              "energyCost": 9,
-              "commonMonstersLevel": 150,
+              "energyCost": 10,
+              "commonMonstersLevel": 205,
               "randomizedMonsterIds": [
                 "dragon_raider_imp_green",
                 "dragon_raider_gargoyle_red"
@@ -100746,14 +100847,35 @@
                 }
               ],
               "battlegroundId": "DragonNightTownAttacked",
-              "foodReward": 10000,
-              "ironReward": 20000,
-              "recruitsReward": 14,
-              "xpReward": 5000
+              "foodReward": 15000,
+              "ironReward": 28000,
+              "recruitsReward": 20,
+              "xpReward": 6200
             },
-            "recommendedTeamPower": 60000,
+            "recommendedTeamPower": 72000,
             "heroRewards": [],
-            "itemRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "relic_harvester_recruits",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "assist_skill_material_legendary",
+                "amount": 1
+              }
+            ],
             "itemRewardsAlternative": [],
             "displayedEntities": []
           }
@@ -108045,12 +108167,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "battleItemsDisabled": true,
         "shareIdOfDifferentQuestLineVariants": true,
@@ -108489,7 +108611,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 25
+                "amount": 35
               }
             ],
             "itemRewardsAlternative": [],
@@ -108543,7 +108665,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 30
+                "amount": 40
               }
             ],
             "itemRewardsAlternative": [],
@@ -108597,7 +108719,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 40
+                "amount": 60
               }
             ],
             "itemRewardsAlternative": [],
@@ -109044,7 +109166,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 25
+                "amount": 35
               }
             ],
             "itemRewardsAlternative": [],
@@ -109098,7 +109220,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 30
+                "amount": 40
               }
             ],
             "itemRewardsAlternative": [],
@@ -109152,7 +109274,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 40
+                "amount": 60
               }
             ],
             "itemRewardsAlternative": [],
@@ -109599,7 +109721,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 25
+                "amount": 35
               }
             ],
             "itemRewardsAlternative": [],
@@ -109653,7 +109775,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 30
+                "amount": 40
               }
             ],
             "itemRewardsAlternative": [],
@@ -109707,7 +109829,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 40
+                "amount": 60
               }
             ],
             "itemRewardsAlternative": [],
@@ -110140,7 +110262,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 25
+                "amount": 35
               }
             ],
             "itemRewardsAlternative": [],
@@ -110192,7 +110314,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 30
+                "amount": 40
               }
             ],
             "itemRewardsAlternative": [],
@@ -110244,7 +110366,7 @@
               {
                 "type": "Item",
                 "id": "lottery_hotm_coin",
-                "amount": 40
+                "amount": 60
               }
             ],
             "itemRewardsAlternative": [],
@@ -112034,10 +112156,11 @@
           "endTime": "2026-08-03 07:00:00"
         },
         {
+          "overridden": true,
           "id": "dragon_legendary_6",
           "questLineId": "dragon_legendary",
-          "startTime": "2026-10-23 07:00:00",
-          "endTime": "2026-10-26 07:00:00"
+          "startTime": "2026-09-24 07:00:00",
+          "endTime": "2026-09-27 07:00:00"
         },
         {
           "id": "dragon_legendary_7",
@@ -112079,18 +112202,6 @@
       "scheduleLength": "FixedMonth",
       "enabled": true,
       "entries": [
-        {
-          "id": "dragon_cave_classic2026_2_20",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2026-02-20 07:00:00",
-          "endTime": "2026-02-23 07:00:00"
-        },
-        {
-          "id": "dragon_cave_classic2026_3_20",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2026-03-20 07:00:00",
-          "endTime": "2026-03-23 07:00:00"
-        },
         {
           "id": "dragon_cave_classic2026_4_17",
           "questLineId": "dragon_cave_classic",
@@ -112140,86 +112251,93 @@
           "questLineId": "dragon_cave_classic",
           "startTime": "2026-10-30 07:00:00",
           "endTime": "2026-11-02 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_11_27",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-11-27 07:00:00",
+          "endTime": "2026-11-30 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_12_25",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-12-25 07:00:00",
+          "endTime": "2026-12-28 07:00:00"
         }
       ]
     },
     "demonicRiftDragonQuests": {
       "week": "Second",
-      "day": "Friday",
+      "day": "Saturday",
       "timeOfDay": 25200,
       "duration": 259200,
       "skippedCyclesBetweenEvents": 1,
       "scheduleLength": "Week",
-      "enabled": false,
+      "enabled": true,
       "entries": [
         {
-          "id": "demonic_rift_dragon2026_3_13",
+          "overridden": true,
+          "id": "demonic_rift_dragon2026_9_5",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-03-13 07:00:00",
-          "endTime": "2026-03-16 07:00:00"
+          "startTime": "2026-09-04 07:00:00",
+          "endTime": "2026-09-07 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_3_27",
+          "id": "demonic_rift_dragon2026_9_19",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-03-27 07:00:00",
-          "endTime": "2026-03-30 07:00:00"
+          "startTime": "2026-09-19 07:00:00",
+          "endTime": "2026-09-22 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_4_10",
+          "id": "demonic_rift_dragon2026_10_3",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-04-10 07:00:00",
-          "endTime": "2026-04-13 07:00:00"
+          "startTime": "2026-10-03 07:00:00",
+          "endTime": "2026-10-06 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_4_24",
+          "id": "demonic_rift_dragon2026_10_17",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-04-24 07:00:00",
-          "endTime": "2026-04-27 07:00:00"
+          "startTime": "2026-10-17 07:00:00",
+          "endTime": "2026-10-20 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_5_8",
+          "id": "demonic_rift_dragon2026_10_31",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-05-08 07:00:00",
-          "endTime": "2026-05-11 07:00:00"
+          "startTime": "2026-10-31 07:00:00",
+          "endTime": "2026-11-03 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_5_22",
+          "id": "demonic_rift_dragon2026_11_14",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-05-22 07:00:00",
-          "endTime": "2026-05-25 07:00:00"
+          "startTime": "2026-11-14 07:00:00",
+          "endTime": "2026-11-17 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_6_5",
+          "id": "demonic_rift_dragon2026_11_28",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-06-05 07:00:00",
-          "endTime": "2026-06-08 07:00:00"
+          "startTime": "2026-11-28 07:00:00",
+          "endTime": "2026-12-01 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_6_19",
+          "id": "demonic_rift_dragon2026_12_12",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-06-19 07:00:00",
-          "endTime": "2026-06-22 07:00:00"
+          "startTime": "2026-12-12 07:00:00",
+          "endTime": "2026-12-15 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_7_3",
+          "id": "demonic_rift_dragon2026_12_26",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-07-03 07:00:00",
-          "endTime": "2026-07-06 07:00:00"
+          "startTime": "2026-12-26 07:00:00",
+          "endTime": "2026-12-29 07:00:00"
         },
         {
-          "id": "demonic_rift_dragon2026_7_17",
+          "id": "demonic_rift_dragon2027_1_9",
           "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-07-17 07:00:00",
-          "endTime": "2026-07-20 07:00:00"
-        },
-        {
-          "id": "demonic_rift_dragon2026_7_31",
-          "questLineId": "demonic_rift_dragon",
-          "startTime": "2026-07-31 07:00:00",
-          "endTime": "2026-08-03 07:00:00"
+          "startTime": "2027-01-09 07:00:00",
+          "endTime": "2027-01-12 07:00:00"
         }
       ]
     }
   },
-  "questsConfigId": 2672097203
+  "questsConfigId": 1140823282
 }

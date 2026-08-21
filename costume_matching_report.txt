@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (619 / 0)
+✅ 成功匹配的服装 (622 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -423,6 +423,7 @@ Name: Snow White Costume1, Fancy Name: Slayer White
 Name: Poseidon Costume1, Fancy Name: Slayer of Atlantis
 Name: Sartana Costume2, Fancy Name: Snake of Descenthia
 Name: Tyrum Toon, Fancy Name: Solemn Toon
+Name: Perseus toon, Fancy Name: Son of Toon Zeus
 Name: Kelile Costume2, Fancy Name: Sorceress of Dragonia
 Name: Marie-Therese Costume1, Fancy Name: Soul-Stealing Priestess
 Name: Toxicandra Costume1, Fancy Name: Sovereign of Flora
@@ -553,6 +554,7 @@ Name: Domitia Toon, Fancy Name: Toon Sniper
 Name: Elkanen Toon, Fancy Name: Toon Spearmaster
 Name: Belith Toon, Fancy Name: Toon Spirit
 Name: Chao Toon, Fancy Name: Toon Tactician
+Name: Oceanus toon, Fancy Name: Toon Titan of Sea
 Name: Skittleskull Toon, Fancy Name: Toon Witch
 Name: Melendor Toon, Fancy Name: Toon Wizard
 Name: Hu Tao Toon, Fancy Name: Toon of Bamboo
@@ -584,6 +586,7 @@ Name: Leonidas Toon, Fancy Name: Unyielding Toon
 Name: Leonidas Glass, Fancy Name: Unyielding Vitrail
 Name: Planchet costume1, Fancy Name: Valiant Adventurer
 Name: Odin Costume1, Fancy Name: Valiant All-Father
+Name: Wilbur toon, Fancy Name: Valiant Fishertoon
 Name: Hansel Costume1, Fancy Name: Vampire Hunter of Grimforest
 Name: Alucard Costume1, Fancy Name: Vampire Kingpin
 Name: Sneferu Costume1, Fancy Name: Vanquisher of the Moon

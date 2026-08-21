@@ -23147,10 +23147,10 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                20,
-                30,
-                40,
-                50
+                5,
+                10,
+                15,
+                20
               ],
               "weights": [
                 10,
@@ -23220,7 +23220,7 @@
                 20
               ]
             },
-            "additionalDrawCount": 2
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
@@ -23230,13 +23230,13 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 1
+              "amount": 2
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 3
             },
-            "additionalDrawCount": 3
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -23261,8 +23261,15 @@
               "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 1
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                60,
+                40
+              ]
             },
             "rarityResolver": {
               "resolverType": "Fixed",
@@ -23276,9 +23283,11 @@
               "entityIds": [
                 "refill_food_medium",
                 "refill_food_large",
-                "refill_food_giant"
+                "refill_food_giant",
+                "refill_food_small"
               ],
               "weights": [
+                1,
                 1,
                 1,
                 1
@@ -23292,9 +23301,11 @@
               "entityIds": [
                 "refill_iron_medium",
                 "refill_iron_large",
-                "refill_iron_giant"
+                "refill_iron_giant",
+                "refill_iron_small"
               ],
               "weights": [
+                1,
                 1,
                 1,
                 1
@@ -23303,18 +23314,14 @@
           },
           {
             "type": "Item",
-            "idResolver": {
+            "amountResolver": {
               "resolverType": "Fixed",
-              "entityId": "lottery_elite_hero"
-            }
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_elite_troop"
+              "amount": 500
             },
-            "additionalDrawCount": 1
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_ascension_coin"
+            }
           }
         ]
       },
@@ -42914,6 +42921,196 @@
             }
           }
         ]
+      },
+      {
+        "id": "pvp_quick_brawl_instant",
+        "entities": [
+          {
+            "type": "Resource",
+            "resourceResolver": {
+              "resolverType": "Fixed",
+              "resourceType": "Gems"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                5,
+                10,
+                15,
+                20
+              ],
+              "weights": [
+                10,
+                40,
+                20,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                3,
+                6
+              ],
+              "weights": [
+                625,
+                3750,
+                5625
+              ]
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "misc_loot_ticket"
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_energy_pve_full",
+                "refill_energy_pvp_full",
+                "refill_energy_alliance_full"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "trainer_rainbow_common",
+                "trainer_rainbow_uncommon"
+              ],
+              "weights": [
+                80,
+                20
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                60,
+                40
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant",
+                "refill_food_small"
+              ],
+              "weights": [
+                1,
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant",
+                "refill_iron_small"
+              ],
+              "weights": [
+                1,
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 500
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_ascension_coin"
+            }
+          }
+        ]
       }
     ],
     "sharedPoolLoots": [
@@ -48395,5 +48592,5 @@
       }
     ]
   },
-  "lootsConfigId": 3329407020
+  "lootsConfigId": 3656594609
 }

@@ -2790,6 +2790,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "effects": [
+            "对目标造成 600% 伤害。",
+            "目标抵抗治疗，且每次抵抗治疗时都将受到 500 点伤害，持续 4 回合。此效果无法净化。",
+            "所有盟友获得对自然系 +95% 的防御，持续 4 回合。",
+            "对烈火系造成额外伤害。",
+            "元素链为全体冰雪系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
+        ]
+    },
+    {
         "heroId": "gargoyle_pophit",
         "name": "Pophit",
         "effects": [
@@ -10192,6 +10203,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "construct_niso",
+        "name": "Niso",
+        "effects": [
+            "对位于敌军阵型边缘的敌人造成 335% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "在造成伤害前，施法者拥有的生命值越低，造成的伤害越高，最高可达 470%。",
+            "如果施法者在后续 3 回合中被击败，该施法者将于下一个回合开始时以 45% 的生命复活，并对所有敌人造成 700 点伤害。（施法者被击败时，所有状态效果和叠加都会移除。）"
+        ]
+    },
+    {
         "heroId": "christmas_noel",
         "name": "Noel",
         "effects": [
@@ -12405,6 +12425,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
+        "effects": [
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。对所有烈火系角色，此状态效果无法驱散且持续时间延长 2 回合。",
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。此状态效果施加于自然系角色身上时，将变得不可净化，并会额外持续 2 回合。",
+            "所有盟友获得 +63% 防御，持续 4 回合。对所有烈火系角色，此状态效果无法驱散且持续时间延长 2 回合。",
+            "所有敌人获得 -44% 防御，持续 4 回合。 此状态效果施加于自然系角色身上时，将变得不可净化，并会额外持续 2 回合。"
+        ]
+    },
+    {
         "heroId": "bard_zhabog",
         "name": "Zhabog",
         "effects": [
@@ -14294,6 +14324,16 @@ const translatedEffectsCN =
             "对所有敌人造成 270% 伤害。",
             "所有盟友获得 +125% 普通攻击，持续 4 回合。（即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +180% 攻击力）",
             "所有盟友获得 +50% 防御，持续 4 回合。"
+        ]
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "effects": [
+            "对所有敌人造成 350% 伤害。",
+            "所有盟友获得 +150% 普通攻击，持续 4 回合。此状态效果无法驱散，对烈火系角色持续时间延长 2 回合。（即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +200% 攻击力。）",
+            "所有盟友获得 +55% 防御，持续 4 回合。对所有烈火系角色，此状态效果无法驱散且持续时间延长 2 回合。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
@@ -18677,28 +18717,38 @@ const translatedEffectsCN =
         ]
     },
     {
-        "heroId": "construct_niso",
-        "name": "Niso",
-        "effects": []
-    },
-    {
-        "heroId": "s2_oceanus_costume_cute",
-        "name": "Oceanus Toon",
-        "effects": []
-    },
-    {
-        "heroId": "ice_god_perseus_costume_cute",
-        "name": "Perseus Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_rugged_fisherman_costume_cute",
-        "name": "Wilbur Toon",
-        "effects": []
-    },
-    {
         "heroId": "vegetable_garlacteus",
         "name": "Garlacteus",
+        "effects": []
+    },
+    {
+        "heroId": "holy_god_onatel_costume_divine",
+        "name": "Onatel C",
+        "effects": []
+    },
+    {
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "name": "Kunchen C",
+        "effects": []
+    },
+    {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_fafnir_costume_fallen",
+        "name": "Fafnir C",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_snorri_costume_powder",
+        "name": "Snorri C",
         "effects": []
     }
 ];

@@ -5521,7 +5521,8 @@
     "rarity": 5,
     "specialId": "先知慧眼",
     "canBeReceivedDate": "2019-01-01 07:00:00",
-    "origin": "MonthlyHeroJanuary2019"
+    "origin": "MonthlyHeroJanuary2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "dark_god_kunchen": {
     "id": "坤奇恩",
@@ -5539,7 +5540,8 @@
     "rarity": 5,
     "specialId": "第三眼之威",
     "canBeReceivedDate": "2019-02-01 07:00:00",
-    "origin": "MonthlyHeroFebruary2019"
+    "origin": "MonthlyHeroFebruary2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "ice_god_frida": {
     "id": "弗里达",
@@ -5557,7 +5559,8 @@
     "rarity": 5,
     "specialId": "极地怒击",
     "canBeReceivedDate": "2019-03-01 07:00:00",
-    "origin": "MonthlyHeroMarch2019"
+    "origin": "MonthlyHeroMarch2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "fire_god_anzogh": {
     "id": "安佐",
@@ -5575,7 +5578,8 @@
     "rarity": 5,
     "specialId": "炽焰之怨",
     "canBeReceivedDate": "2019-04-01 07:00:00",
-    "origin": "MonthlyHeroApril2019"
+    "origin": "MonthlyHeroApril2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "forest_god_elinor": {
     "id": "玛格丽特",
@@ -8596,7 +8600,7 @@
     "specialId": "致命尖针",
     "canBeReceivedDate": "2022-02-02 07:00:00",
     "origin": "忍者高塔",
-    "costumeBonusesId": "ninja_2026"
+    "costumeBonusesId": "ninja_august_2026"
   },
   "ninja_ruby": {
     "id": "露比",
@@ -8614,7 +8618,8 @@
     "rarity": 5,
     "specialId": "猩红灾祸",
     "canBeReceivedDate": "2021-11-10 07:00:00",
-    "origin": "忍者高塔"
+    "origin": "忍者高塔",
+    "costumeBonusesId": "ninja_june_2026"
   },
   "ninja_zircon": {
     "id": "锆英",
@@ -8652,7 +8657,7 @@
     "specialId": "窒息浓烟",
     "canBeReceivedDate": "2022-02-02 07:00:00",
     "origin": "忍者高塔",
-    "costumeBonusesId": ""
+    "costumeBonusesId": "ninja_june_2026"
   },
   "ninja_quartz": {
     "id": "瓜尔茨",
@@ -10228,7 +10233,7 @@
     "specialId": "巨神之力",
     "canBeReceivedDate": "2022-06-27 07:00:00",
     "origin": "亚特兰蒂斯召唤",
-    "costumeBonusesId": "atlantis"
+    "costumeBonusesId": "atlantis_aug2026"
   },
   "dark_god_arfanias": {
     "id": "阿法尼亚斯",
@@ -13154,6 +13159,7 @@
     "specialId": "卡通之刃",
     "canBeReceivedDate": "2026-06-28 07:00:00",
     "origin": "MonthlyHeroSeptember2017",
+    "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "武藏"
   },
   "forest_god_evelyn_costume_huntress": {
@@ -19572,7 +19578,8 @@
     "rarity": 5,
     "specialId": "不洁神灵",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "哥布林村"
+    "origin": "哥布林村",
+    "costumeBonusesId": "goblin"
   },
   "goblin_darkfeather": {
     "id": "暗羽",
@@ -19609,7 +19616,8 @@
     "rarity": 5,
     "specialId": "诡异菜品",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "哥布林村"
+    "origin": "哥布林村",
+    "costumeBonusesId": "goblin"
   },
   "goblin_smarttongue": {
     "id": "巧舌妇",
@@ -19627,7 +19635,8 @@
     "rarity": 5,
     "specialId": "哥布林小夜曲",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "哥布林村"
+    "origin": "哥布林村",
+    "costumeBonusesId": "goblin"
   },
   "goblin_boom_and_fang": {
     "id": "哼哼和尖牙",
@@ -23732,9 +23741,9 @@
     "id": "卡通海之泰坦",
     "element": "红",
     "family": "亚特兰蒂斯家族",
-    "baseHealth": 672,
+    "baseHealth": 670,
     "baseAttack": 438,
-    "baseDefense": 352,
+    "baseDefense": 351,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "empowered_toon_resist_manareduction_dispels"
@@ -27173,7 +27182,8 @@
     "rarity": 5,
     "specialId": "贪婪之枪",
     "canBeReceivedDate": "2025-06-13 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2_mar_2026"
   },
   "tales2_hogne": {
     "id": "赫格内",
@@ -27235,7 +27245,8 @@
     "rarity": 5,
     "specialId": "自卫本能",
     "canBeReceivedDate": "2025-07-11 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2"
   },
   "tales2_bragi": {
     "id": "布拉吉",
@@ -27255,7 +27266,8 @@
     "rarity": 5,
     "specialId": "冰冻重钩",
     "canBeReceivedDate": "2025-10-02 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2"
   },
   "tales2_svafa": {
     "id": "斯瓦法",
@@ -27275,7 +27287,8 @@
     "rarity": 5,
     "specialId": "猎人强击",
     "canBeReceivedDate": "2025-08-26 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2"
   },
   "tales2_motsognir": {
     "id": "莫索尼尔",
@@ -27295,7 +27308,8 @@
     "rarity": 5,
     "specialId": "忠毅集结",
     "canBeReceivedDate": "2025-08-06 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2"
   },
   "tales2_snorri": {
     "id": "斯诺里",
@@ -27315,7 +27329,8 @@
     "rarity": 4,
     "specialId": "传说羁绊",
     "canBeReceivedDate": "2025-08-06 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2_may_2026_2"
   },
   "tales2_dain": {
     "id": "达因",
@@ -27335,7 +27350,8 @@
     "rarity": 4,
     "specialId": "冰山光环",
     "canBeReceivedDate": "2025-05-16 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2"
   },
   "tales2_bryggvir": {
     "id": "布里格维尔",
@@ -27355,7 +27371,8 @@
     "rarity": 3,
     "specialId": "山羊冲刺",
     "canBeReceivedDate": "2025-08-26 07:00:00",
-    "origin": "烈焰与冰霜宝藏"
+    "origin": "烈焰与冰霜宝藏",
+    "costumeBonusesId": "tales2"
   },
   "faun_saskia": {
     "id": "萨丝琪雅",
@@ -34002,7 +34019,7 @@
     "id": "马克海姆的堕落领主",
     "element": "绿",
     "family": "马克海姆王国",
-    "baseHealth": 1110,
+    "baseHealth": 1111,
     "baseAttack": 610,
     "baseDefense": 569,
     "manaSpeedId": "快速",
@@ -34015,27 +34032,112 @@
     "aetherGift": "恶魔抵抗",
     "rarity": 5,
     "specialId": "马克海姆长枪",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-08-29 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "法夫纳"
+  },
+  "tales2_svafa_costume_spirit_hunter": {
+    "id": "tales2_svafa_costume_spirit_hunter",
+    "element": "蓝",
+    "family": "马克海姆王国",
+    "baseHealth": 1095,
+    "baseAttack": 622,
+    "baseDefense": 595,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "arctic_core_costume",
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "特殊护甲",
+    "rarity": 5,
+    "specialId": "hunters_soulshot",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "烈焰与冰霜宝藏",
+    "parentHeroId": "斯瓦法"
+  },
+  "tales2_fimafeng_costume_skater": {
+    "id": "tales2_fimafeng_costume_skater",
+    "element": "红",
+    "family": "马克海姆王国",
+    "baseHealth": 1101,
+    "baseAttack": 612,
+    "baseDefense": 586,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "arctic_core_costume",
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "生命恢复加成",
+    "rarity": 5,
+    "specialId": "defending_the_title",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "烈焰与冰霜宝藏",
+    "parentHeroId": "费玛芬格"
+  },
+  "tales2_motsognir_costume_holy": {
+    "id": "tales2_motsognir_costume_holy",
+    "element": "黄",
+    "family": "马克海姆王国",
+    "baseHealth": 1209,
+    "baseAttack": 569,
+    "baseDefense": 596,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "arctic_core_costume",
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
+    ],
+    "classType": "牧师",
+    "aetherGift": "生命恢复加成",
+    "rarity": 5,
+    "specialId": "holy_rally",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "烈焰与冰霜宝藏",
+    "parentHeroId": "莫索尼尔"
+  },
+  "tales2_bragi_costume_stone": {
+    "id": "tales2_bragi_costume_stone",
+    "element": "黄",
+    "family": "马克海姆王国",
+    "baseHealth": 1094,
+    "baseAttack": 621,
+    "baseDefense": 615,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "arctic_core_costume",
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "坚壁",
+    "rarity": 5,
+    "specialId": "freezing_power_jabs",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "烈焰与冰霜宝藏",
+    "parentHeroId": "布拉吉"
   },
   "tales2_snorri_costume_powder": {
     "id": "矮人火药大师",
     "element": "绿",
     "family": "马克海姆王国",
-    "baseHealth": 641,
-    "baseAttack": 364,
-    "baseDefense": 356,
+    "baseHealth": 644,
+    "baseAttack": 365,
+    "baseDefense": 357,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "圣骑士",
     "aetherGift": "生命恢复",
     "rarity": 4,
     "specialId": "爆破束缚",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-08-29 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "斯诺里"
   },
@@ -34049,7 +34151,8 @@
     "manaSpeedId": "快速",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "牧师",
     "aetherGift": "坚壁",
@@ -34069,7 +34172,8 @@
     "manaSpeedId": "中等",
     "passiveSkills": [
       "arctic_core_costume",
-      "resist_frost_with_health_boost_and_mana_costume"
+      "resist_frost_with_health_boost_and_mana_costume",
+      "resist_all_stealing"
     ],
     "classType": "德鲁伊",
     "aetherGift": "防御提升",
@@ -34389,6 +34493,72 @@
     "origin": "哥布林村",
     "parentHeroId": "暗羽"
   },
+  "goblin_kettle_costume_field_cook": {
+    "id": "goblin_kettle_costume_field_cook",
+    "element": "蓝",
+    "family": "哥布林家族",
+    "baseHealth": 801,
+    "baseAttack": 460,
+    "baseDefense": 440,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "生命恢复加成",
+    "costumeBonusPassiveSkillIds": [
+      "iterate_passive_effects_on_special"
+    ],
+    "rarity": 5,
+    "specialId": "dubious_field_rations",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村",
+    "parentHeroId": "凯特尔"
+  },
+  "goblin_smarttongue_costume_jeweller": {
+    "id": "goblin_smarttongue_costume_jeweller",
+    "element": "绿",
+    "family": "哥布林家族",
+    "baseHealth": 808,
+    "baseAttack": 440,
+    "baseDefense": 464,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "牧师",
+    "aetherGift": "特殊护甲",
+    "costumeBonusPassiveSkillIds": [
+      "iterate_passive_effects_on_special"
+    ],
+    "rarity": 5,
+    "specialId": "goblin_bribe",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村",
+    "parentHeroId": "巧舌妇"
+  },
+  "goblin_deadboot_costume_jester": {
+    "id": "goblin_deadboot_costume_jester",
+    "element": "紫",
+    "family": "哥布林家族",
+    "baseHealth": 783,
+    "baseAttack": 472,
+    "baseDefense": 435,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "术士",
+    "aetherGift": "闪避",
+    "costumeBonusPassiveSkillIds": [
+      "iterate_passive_effects_on_special"
+    ],
+    "rarity": 5,
+    "specialId": "unhallowed_tricks",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村",
+    "parentHeroId": "亡灵布特"
+  },
   "goblin_goldie_costume_perfume": {
     "id": "地精调香师",
     "element": "黄",
@@ -34564,18 +34734,21 @@
     "id": "致命精准忍者",
     "element": "黄",
     "family": "忍者家族",
-    "baseHealth": 724,
+    "baseHealth": 727,
     "baseAttack": 399,
-    "baseDefense": 342,
+    "baseDefense": 343,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
-      "bleed_on_counter_attack"
+      "reduce_minion_health"
     ],
     "classType": "游侠",
     "aetherGift": "攻击提升",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
     "rarity": 5,
     "specialId": "精准尖针",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-08-27 07:00:00",
     "origin": "忍者高塔",
     "parentHeroId": "黄玉"
   },
@@ -34683,6 +34856,283 @@
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "卡沃"
+  },
+  "ninja_peridot_costume_herbalist": {
+    "id": "ninja_peridot_costume_herbalist",
+    "element": "绿",
+    "family": "忍者家族",
+    "baseHealth": 697,
+    "baseAttack": 355,
+    "baseDefense": 410,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "反击",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
+    "rarity": 5,
+    "specialId": "suffocating_miasma",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "忍者高塔",
+    "parentHeroId": "珮绿朵"
+  },
+  "ninja_ruby_costume_menancer": {
+    "id": "ninja_ruby_costume_menancer",
+    "element": "红",
+    "family": "忍者家族",
+    "baseHealth": 700,
+    "baseAttack": 386,
+    "baseDefense": 378,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "reduce_minion_health"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "特殊护甲",
+    "costumeBonusPassiveSkillIds": [
+      "bleed_on_counter_attack"
+    ],
+    "rarity": 5,
+    "specialId": "crimson_catastrophe",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "忍者高塔",
+    "parentHeroId": "露比"
+  },
+  "exalted_female_statue_costume_stylish": {
+    "id": "exalted_female_statue_costume_stylish",
+    "element": "黄",
+    "family": "经典家族",
+    "baseHealth": 680,
+    "baseAttack": 372,
+    "baseDefense": 292,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "stylish_legendary"
+    ],
+    "classType": "圣骑士",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "防御提升",
+    "rarity": 5,
+    "specialId": "style_judgement",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "贾斯提斯"
+  },
+  "royal_female_knight_costume_stylish": {
+    "id": "royal_female_knight_costume_stylish",
+    "element": "蓝",
+    "family": "经典家族",
+    "baseHealth": 461,
+    "baseAttack": 334,
+    "baseDefense": 296,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "stylish_epic"
+    ],
+    "classType": "圣骑士",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "特殊技能加成",
+    "rarity": 4,
+    "specialId": "stylish_strike_sonya",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "索尼娅"
+  },
+  "oriental_monkey_captain_costume_stylish": {
+    "id": "oriental_monkey_captain_costume_stylish",
+    "element": "黄",
+    "family": "经典家族",
+    "baseHealth": 497,
+    "baseAttack": 303,
+    "baseDefense": 319,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "stylish_epic"
+    ],
+    "classType": "僧侣",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "气运",
+    "rarity": 4,
+    "specialId": "stylish_stance",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "悟空"
+  },
+  "orc_warrior_costume_stylish": {
+    "id": "orc_warrior_costume_stylish",
+    "element": "红",
+    "family": "经典家族",
+    "baseHealth": 373,
+    "baseAttack": 318,
+    "baseDefense": 200,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "stylish_rare"
+    ],
+    "classType": "野蛮人",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "攻击提升",
+    "rarity": 3,
+    "specialId": "stylish_strike_nashgar",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "纳什加"
+  },
+  "dwarven_smasher_costume_stylish": {
+    "id": "dwarven_smasher_costume_stylish",
+    "element": "蓝",
+    "family": "经典家族",
+    "baseHealth": 413,
+    "baseAttack": 296,
+    "baseDefense": 205,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "stylish_rare"
+    ],
+    "classType": "野蛮人",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "怒气",
+    "rarity": 3,
+    "specialId": "stylish_rush",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "卡里尔"
+  },
+  "holy_god_onatel_costume_divine": {
+    "id": "holy_god_onatel_costume_divine",
+    "element": "黄",
+    "family": "hotm2019",
+    "baseHealth": 705,
+    "baseAttack": 302,
+    "baseDefense": 393,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_accuracy_modifier_debuffs"
+    ],
+    "classType": "术士",
+    "aetherGift": "反击",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reflector"
+    ],
+    "rarity": 5,
+    "specialId": "eye_of_the_diviner",
+    "canBeReceivedDate": "2026-08-25 07:00:00",
+    "origin": "MonthlyHeroJanuary2019",
+    "parentHeroId": "奥纳特而"
+  },
+  "dark_god_kunchen_costume_mystic": {
+    "id": "dark_god_kunchen_costume_mystic",
+    "element": "紫",
+    "family": "hotm2019",
+    "baseHealth": 701,
+    "baseAttack": 299,
+    "baseDefense": 399,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "减伤",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reflector"
+    ],
+    "rarity": 5,
+    "specialId": "might_of_ajna",
+    "canBeReceivedDate": "2026-08-25 07:00:00",
+    "origin": "MonthlyHeroFebruary2019",
+    "parentHeroId": "坤奇恩"
+  },
+  "ice_god_frida_costume_juggernaut": {
+    "id": "ice_god_frida_costume_juggernaut",
+    "element": "蓝",
+    "family": "hotm2019",
+    "baseHealth": 645,
+    "baseAttack": 357,
+    "baseDefense": 350,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_attack_modifier_debuffs"
+    ],
+    "classType": "战士",
+    "aetherGift": "特殊技能加成",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reflector"
+    ],
+    "rarity": 5,
+    "specialId": "polar_blast",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroMarch2019",
+    "parentHeroId": "弗里达"
+  },
+  "fire_god_anzogh_costume_expeditioner": {
+    "id": "fire_god_anzogh_costume_expeditioner",
+    "element": "红",
+    "family": "hotm2019",
+    "baseHealth": 615,
+    "baseAttack": 358,
+    "baseDefense": 363,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_mana_generation_modifier_debuffs"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "攻击提升",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reversal"
+    ],
+    "rarity": 5,
+    "specialId": "perennial_grudge",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroApril2019",
+    "parentHeroId": "安佐"
+  },
+  "fire_god_natalya_costume_cute": {
+    "id": "fire_god_natalya_costume_cute",
+    "element": "红",
+    "family": "hotm2018",
+    "baseHealth": 690,
+    "baseAttack": 350,
+    "baseDefense": 329,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "术士",
+    "aetherGift": "闪避",
+    "rarity": 5,
+    "specialId": "burning_toon_chains",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroJanuary2018",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "娜塔莉亚"
+  },
+  "holy_god_delilah_costume_cute": {
+    "id": "holy_god_delilah_costume_cute",
+    "element": "黄",
+    "family": "hotm2018",
+    "baseHealth": 654,
+    "baseAttack": 360,
+    "baseDefense": 340,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "战士",
+    "aetherGift": "防御提升",
+    "rarity": 5,
+    "specialId": "summon_toon_guardians",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroMarch2018",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "达利拉"
   },
   "beauty_beast_dominique": {
     "id": "多米尼克",
@@ -34848,19 +35298,19 @@
     "id": "亨丽埃特",
     "element": "紫",
     "family": "美女与野兽家族",
-    "baseHealth": 1092,
-    "baseAttack": 605,
-    "baseDefense": 606,
+    "baseHealth": 1125,
+    "baseAttack": 709,
+    "baseDefense": 632,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
       "heal_on_expired_or_cleared_debuff_average",
       "reduce_revival_health_all_enemies"
     ],
-    "classType": "德鲁伊",
-    "aetherGift": "恶魔抵抗",
+    "classType": "术士",
+    "aetherGift": "特殊技能加成",
     "rarity": 5,
-    "specialId": "美丽花瓣",
+    "specialId": "superfluous_jewelry",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "勇者与美人"
   },
@@ -34888,19 +35338,19 @@
     "id": "米瑞尔",
     "element": "红",
     "family": "美女与野兽家族",
-    "baseHealth": 1092,
-    "baseAttack": 605,
-    "baseDefense": 606,
-    "manaSpeedId": "飞速",
+    "baseHealth": 1152,
+    "baseAttack": 671,
+    "baseDefense": 666,
+    "manaSpeedId": "中等",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
       "heal_on_expired_or_cleared_debuff_average",
       "reduce_revival_health_all_enemies"
     ],
-    "classType": "德鲁伊",
-    "aetherGift": "恶魔抵抗",
+    "classType": "牧师",
+    "aetherGift": "防御提升",
     "rarity": 5,
-    "specialId": "美丽花瓣",
+    "specialId": "unyielding_duty",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "勇者与美人"
   },
@@ -35290,6 +35740,158 @@
     "rarity": 5,
     "specialId": "眨眼之间",
     "canBeReceivedDate": "2026-08-19 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_shaw": {
+    "id": "scoundrel_shaw",
+    "element": "绿",
+    "family": "暗影无赖家族",
+    "baseHealth": 1200,
+    "baseAttack": 661,
+    "baseDefense": 705,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "牧师",
+    "aetherGift": "坚壁",
+    "rarity": 5,
+    "specialId": "pest_inspection",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_clim": {
+    "id": "scoundrel_clim",
+    "element": "黄",
+    "family": "暗影无赖家族",
+    "baseHealth": 1165,
+    "baseAttack": 690,
+    "baseDefense": 685,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "游侠",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "target_practice",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_vasily": {
+    "id": "scoundrel_vasily",
+    "element": "黄",
+    "family": "暗影无赖家族",
+    "baseHealth": 1150,
+    "baseAttack": 669,
+    "baseDefense": 675,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "战士",
+    "aetherGift": "反击",
+    "rarity": 5,
+    "specialId": "stunning_right_jab",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_saci": {
+    "id": "scoundrel_saci",
+    "element": "蓝",
+    "family": "暗影无赖家族",
+    "baseHealth": 1128,
+    "baseAttack": 650,
+    "baseDefense": 710,
+    "manaSpeedId": "非常慢",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "巫师",
+    "aetherGift": "治疗提升",
+    "rarity": 5,
+    "specialId": "eternal_mist",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_marton": {
+    "id": "scoundrel_marton",
+    "element": "绿",
+    "family": "暗影无赖家族",
+    "baseHealth": 1111,
+    "baseAttack": 663,
+    "baseDefense": 702,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "生命恢复加成",
+    "rarity": 5,
+    "specialId": "tales_of_the_lost",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_nevison": {
+    "id": "scoundrel_nevison",
+    "element": "红",
+    "family": "暗影无赖家族",
+    "baseHealth": 1166,
+    "baseAttack": 691,
+    "baseDefense": 684,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "heads_or_tails",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_paracelsus": {
+    "id": "scoundrel_paracelsus",
+    "element": "紫",
+    "family": "暗影无赖家族",
+    "baseHealth": 1105,
+    "baseAttack": 661,
+    "baseDefense": 708,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "术士",
+    "aetherGift": "状态异常反弹",
+    "rarity": 5,
+    "specialId": "dose_makes_the_poison",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "scoundrel_jaz": {
+    "id": "scoundrel_jaz",
+    "element": "蓝",
+    "family": "暗影无赖家族",
+    "baseHealth": 1161,
+    "baseAttack": 667,
+    "baseDefense": 672,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "cheat_death",
+      "ransack"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "特殊护甲",
+    "rarity": 5,
+    "specialId": "bone_shattering_whip",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "哥布林村"
   },
   "scoundrel_cade": {
@@ -35902,9 +36504,9 @@
     "id": "玛尔",
     "element": "红",
     "family": "泰坦猎手家族",
-    "baseHealth": 1118,
-    "baseAttack": 658,
-    "baseDefense": 634,
+    "baseHealth": 1164,
+    "baseAttack": 676,
+    "baseDefense": 671,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -36609,6 +37211,44 @@
     "canBeReceivedDate": "2026-08-01 07:00:00",
     "origin": "MonthlyHeroAugust2026"
   },
+  "nature_god_theron": {
+    "id": "nature_god_theron",
+    "element": "绿",
+    "family": "hotm2026",
+    "baseHealth": 1050,
+    "baseAttack": 655,
+    "baseDefense": 620,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "bleed_on_counter_attack",
+      "heal_on_enemy_bleed"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "反击",
+    "rarity": 5,
+    "specialId": "spear_of_aggravation",
+    "canBeReceivedDate": "2026-10-01 07:00:00",
+    "origin": "MonthlyHeroOctober2026"
+  },
+  "fire_god_zeif": {
+    "id": "fire_god_zeif",
+    "element": "红",
+    "family": "hotm2026",
+    "baseHealth": 1060,
+    "baseAttack": 665,
+    "baseDefense": 630,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "never_miss_special",
+      "healthboost_on_enemy_special"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "坚壁",
+    "rarity": 5,
+    "specialId": "swing_of_torment",
+    "canBeReceivedDate": "2026-11-01 07:00:00",
+    "origin": "MonthlyHeroNovember2026"
+  },
   "vegetable_big_barry": {
     "id": "大巴里",
     "element": "红",
@@ -37184,6 +37824,106 @@
     "canBeReceivedDate": "2026-07-15 07:00:00",
     "origin": "星体位面"
   },
+  "astral_demon_ksorath": {
+    "id": "astral_demon_ksorath",
+    "element": "红",
+    "family": "星体恶魔",
+    "baseHealth": 1138,
+    "baseAttack": 686,
+    "baseDefense": 665,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "游侠",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "coronal_burn",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "星体位面"
+  },
+  "astral_demon_gremory": {
+    "id": "astral_demon_gremory",
+    "element": "黄",
+    "family": "星体恶魔",
+    "baseHealth": 1156,
+    "baseAttack": 675,
+    "baseDefense": 671,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "牧师",
+    "aetherGift": "复活",
+    "rarity": 5,
+    "specialId": "power_of_shattered_moons",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "星体位面"
+  },
+  "astral_demon_azaghim": {
+    "id": "astral_demon_azaghim",
+    "element": "绿",
+    "family": "星体恶魔",
+    "baseHealth": 1139,
+    "baseAttack": 689,
+    "baseDefense": 662,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "攻击提升",
+    "rarity": 5,
+    "specialId": "scintillating_slam",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "星体位面"
+  },
+  "astral_demon_isharra": {
+    "id": "astral_demon_isharra",
+    "element": "蓝",
+    "family": "星体恶魔",
+    "baseHealth": 1163,
+    "baseAttack": 661,
+    "baseDefense": 685,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "resist_heal_multiplier_debuffs",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "防御提升",
+    "rarity": 5,
+    "specialId": "march_of_constellations",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "星体位面"
+  },
+  "astral_demon_coronzom": {
+    "id": "astral_demon_coronzom",
+    "element": "紫",
+    "family": "星体恶魔",
+    "baseHealth": 1138,
+    "baseAttack": 686,
+    "baseDefense": 666,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "生命恢复",
+    "rarity": 5,
+    "specialId": "astral_reckoning",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "星体位面"
+  },
   "ronin_tenzin_kiba": {
     "id": "丹增·牙",
     "element": "红",
@@ -37228,13 +37968,14 @@
     "id": "绫美",
     "element": "红",
     "family": "浪人家族",
-    "baseHealth": 1154,
-    "baseAttack": 665,
-    "baseDefense": 670,
+    "baseHealth": 1174,
+    "baseAttack": 672,
+    "baseDefense": 697,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "术士",
     "aetherGift": "闪避",
@@ -37253,7 +37994,8 @@
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "战士",
     "aetherGift": "怒气",
@@ -37266,19 +38008,20 @@
     "id": "田中佐子",
     "element": "黄",
     "family": "浪人家族",
-    "baseHealth": 1161,
-    "baseAttack": 675,
-    "baseDefense": 654,
+    "baseHealth": 1167,
+    "baseAttack": 700,
+    "baseDefense": 679,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
-      "prevent_boosted_health"
+      "prevent_boosted_health",
+      "reduce_minion_health"
     ],
     "classType": "野蛮人",
     "aetherGift": "攻击提升",
     "rarity": 5,
     "specialId": "迅疾突刺",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-08-27 07:00:00",
     "origin": "忍者高塔"
   },
   "mahayoddha_baji": {
@@ -37374,6 +38117,7 @@
     "rarity": 5,
     "specialId": "钢铁泪滴",
     "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonIronMimicRed",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_green": {
@@ -37393,6 +38137,7 @@
     "rarity": 5,
     "specialId": "钢铁泪滴",
     "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonIronMimicGreen",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_blue": {
@@ -37432,6 +38177,7 @@
     "rarity": 5,
     "specialId": "钢铁泪滴",
     "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonIronMimicYellow",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_purple": {
@@ -37552,18 +38298,261 @@
     "id": "巴吉拉蒂",
     "element": "蓝",
     "family": "马哈尤达家族",
-    "baseHealth": 1145,
-    "baseAttack": 640,
-    "baseDefense": 657,
+    "baseHealth": 1208,
+    "baseAttack": 662,
+    "baseDefense": 662,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
       "mana_on_damage_received"
     ],
     "classType": "术士",
+    "aetherGift": "特殊技能加成",
     "rarity": 5,
     "specialId": "灾厄狂涛",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "风泽神殿"
+  },
+  "champions_marjatta": {
+    "id": "champions_marjatta",
+    "element": "红",
+    "family": "冠军家族",
+    "baseHealth": 1220,
+    "baseAttack": 670,
+    "baseDefense": 684,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "health_boost_on_ally_cleanse",
+      "damage_on_enemy_cleanse"
+    ],
+    "classType": "巫师",
+    "aetherGift": "生命恢复加成",
+    "rarity": 5,
+    "specialId": "baton_toss",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Champions"
+  },
+  "champions_rubio": {
+    "id": "champions_rubio",
+    "element": "紫",
+    "family": "冠军家族",
+    "baseHealth": 1158,
+    "baseAttack": 703,
+    "baseDefense": 674,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mana_on_dispel_buff_attempt",
+      "health_boost_on_dispel_attempt"
+    ],
+    "classType": "术士",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "spectacular_spirals",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Champions"
+  },
+  "champions_horace": {
+    "id": "champions_horace",
+    "element": "黄",
+    "family": "冠军家族",
+    "baseHealth": 1215,
+    "baseAttack": 668,
+    "baseDefense": 689,
+    "manaSpeedId": "非常慢",
+    "passiveSkills": [
+      "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
+      "damage_reduction_stack_on_enemy_special_if_faster_than_slow"
+    ],
+    "classType": "游侠",
+    "aetherGift": "闪避",
+    "rarity": 5,
+    "specialId": "steady_aim",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Champions"
+  },
+  "champions_katzy": {
+    "id": "champions_katzy",
+    "element": "绿",
+    "family": "冠军家族",
+    "baseHealth": 1162,
+    "baseAttack": 705,
+    "baseDefense": 677,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "add_mana_on_enemy_taunt_norman",
+      "bypass_taunt_effects"
+    ],
+    "classType": "战士",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "guard_breaking_hook",
+    "canBeReceivedDate": "2026-08-25 07:00:00",
+    "origin": "Champions"
+  },
+  "harpy_kyrathis": {
+    "id": "harpy_kyrathis",
+    "element": "蓝",
+    "family": "harpy",
+    "baseHealth": 1154,
+    "baseAttack": 665,
+    "baseDefense": 670,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "steal_mana_over_time_harpy"
+    ],
+    "classType": "术士",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "stormcaller_pact",
+    "canBeReceivedDate": "2026-09-07 07:00:00",
+    "origin": "Harvest"
+  },
+  "harpy_jarrik": {
+    "id": "harpy_jarrik",
+    "element": "红",
+    "family": "harpy",
+    "baseHealth": 1148,
+    "baseAttack": 678,
+    "baseDefense": 657,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "steal_mana_over_time_harpy"
+    ],
+    "classType": "战士",
+    "aetherGift": "攻击提升",
+    "rarity": 5,
+    "specialId": "wuthering_whips",
+    "canBeReceivedDate": "2026-09-07 07:00:00",
+    "origin": "Harvest"
+  },
+  "ghost_chou_kou_gui": {
+    "id": "ghost_chou_kou_gui",
+    "element": "绿",
+    "family": "杨戬家族幽灵",
+    "baseHealth": 1151,
+    "baseAttack": 688,
+    "baseDefense": 655,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "恶魔抵抗",
+    "rarity": 5,
+    "specialId": "noxious_breath",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "ghost_xiwang_gui": {
+    "id": "ghost_xiwang_gui",
+    "element": "蓝",
+    "family": "杨戬家族幽灵",
+    "baseHealth": 1167,
+    "baseAttack": 682,
+    "baseDefense": 663,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "攻击提升",
+    "rarity": 5,
+    "specialId": "all_consuming_hunger",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "KingdomWar"
+  },
+  "vegetable_pyaza": {
+    "id": "vegetable_pyaza",
+    "element": "紫",
+    "family": "英勇植物家族",
+    "baseHealth": 1210,
+    "baseAttack": 671,
+    "baseDefense": 660,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "攻击提升",
+    "rarity": 5,
+    "specialId": "chlorokinesis_tears",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "英勇植物"
+  },
+  "vegetable_yusopea": {
+    "id": "vegetable_yusopea",
+    "element": "绿",
+    "family": "英勇植物家族",
+    "baseHealth": 1137,
+    "baseAttack": 684,
+    "baseDefense": 670,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "游侠",
+    "aetherGift": "闪避",
+    "rarity": 5,
+    "specialId": "slingshot_ricochet",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "英勇植物"
+  },
+  "mahayoddha_sangeeta": {
+    "id": "mahayoddha_sangeeta",
+    "element": "红",
+    "family": "马哈尤达家族",
+    "baseHealth": 1203,
+    "baseAttack": 668,
+    "baseDefense": 674,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "increased_damage_against_minions_and_mega_minions",
+      "mana_on_damage_received"
+    ],
+    "classType": "巫师",
+    "aetherGift": "特殊技能加成",
+    "rarity": 5,
+    "specialId": "ballad_of_biroho",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "风泽神殿"
+  },
+  "mahayoddha_sangram": {
+    "id": "mahayoddha_sangram",
+    "element": "紫",
+    "family": "马哈尤达家族",
+    "baseHealth": 1164,
+    "baseAttack": 683,
+    "baseDefense": 668,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "increased_damage_against_minions_and_mega_minions",
+      "mana_on_damage_received"
+    ],
+    "classType": "战士",
+    "aetherGift": "坚壁",
+    "rarity": 5,
+    "specialId": "brutal_onslaught",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "风泽神殿"
+  },
+  "ghost_mu_gui": {
+    "id": "ghost_mu_gui",
+    "element": "紫",
+    "family": "杨戬家族幽灵",
+    "baseHealth": 1203,
+    "baseAttack": 668,
+    "baseDefense": 682,
+    "manaSpeedId": "非常慢",
+    "passiveSkills": [
+      "vengeful_ghost_on_damage_received"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "特殊护甲",
+    "rarity": 5,
+    "specialId": "buried_vengeance",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "KingdomWar"
   }
 }

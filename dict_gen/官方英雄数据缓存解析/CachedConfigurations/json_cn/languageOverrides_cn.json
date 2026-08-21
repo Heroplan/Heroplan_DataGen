@@ -4,86 +4,6 @@
       "Italian": {
         "overrideEntries": [
           {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Rimuove in modo sicuro tutti i disturbi dell'evocatore."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Saccheggia[#] tutti i nemici, rubando [#!]{DAMAGE}[#] Salute e una magia benefica da ciascuno, quindi distribuisce casualmente le magie benefiche rubate agli alleati."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Saccheggia[#] il bersaglio, rubando [#!]{DAMAGE}[#] Salute e una magia benefica."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Ruba il {ABSPOWER}% di mana al bersaglio e ai nemici vicini e lo distribuisce agli alleati."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Ruba in sicurezza una magia benefica degli effetti di stato dal bersaglio. Questo include effetti persistenti, magie benefiche non annullabili ed effetti di Danza.\n[*] Il furto sicuro ignora gli effetti secondari, come i danni alla rimozione, delle magie benefiche rimosse. Le abilità passive e gli effetti delle famiglie possono comunque attivarsi."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tutti i nemici si [#!]addormentano[#] e subiscono il {DAMAGEMODIFIER}% di danni aumentati mentre dormono."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Cambia l'elemento di tutti i nemici in [##elementred]Fuoco[#] per {TURNS} turni."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Tutti gli alleati recuperano {REMOVALEFFECT1FIXEDPOWER} Salute dopo {TURNS} turni. Se l'effetto viene rimosso o sostituito prima del termine previsto, recuperano invece {REMOVALEFFECT2FIXEDPOWER} Salute."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Il bersaglio subisce {DAMAGE} danni da sanguinamento nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da sanguinamento inflitti come Salute potenziata."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Subisce [#!]{DAMAGEPERTURN}[#] danni da sanguinamento a ogni turno. L'evocatore assorbe il [#!]{ABSORBHEALING}%[#] dei danni inflitti come Salute potenziata."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Avvizzimento:[#] il bersaglio ottiene {ATTACKINCREASE} di Attacco."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Il bersaglio si trasforma in un [#!]Verme mentale[#]. I [#!]Vermi mentali[#] hanno il {ATTACK}% di Attacco, il {DEFENSE}% di Difesa e la seguente Abilità speciale:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Infligge 75 di [#!]Follia[#] a un alleato casuale.\n[>]Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Rimuove il disturbo [#!]Verme mentale[#] dall'evocatore."
-          },
-          {
-            "key": "missions.name.win_pvp_with_wizard",
-            "text": "Vinci i Raid: Stregoni"
-          },
-          {
-            "key": "missions.name.win_pvp_with_wizards",
-            "text": "Vinci i Raid estremi: Stregoni"
-          },
-          {
-            "key": "missions.name.win_pvp_with_sorcerer",
-            "text": "Vinci i Raid: Incantatori"
-          },
-          {
-            "key": "missions.name.win_pvp_with_sorcerers",
-            "text": "Vinci i Raid estremi: Incantatori"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Esclude gli Eroi Mimic, Roditori avventurosi e Driadi"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'[#!]Abilità speciale[#] di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un [#!]servitore Killer Bot[#] con il [#!]{FAMILIARHEALTHPERCENT}%[#!] di HP e il [#!]{FAMILIARATTACK}%[#] di Attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.\n[*] Il servitore Killer Bot recupera il {FAMILIARHEAL}% di Salute per il suo proprietario alla fine di ogni turno.\n[*] [#!]Avvizzimento[#]: ogni colpo di un servitore Killer Bot conferisce al bersaglio [#!]{ATTACKMODIFIER}[#] Attacco."
-          },
-          {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] di rigenerazione mana."
           },
@@ -98,94 +18,46 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Bomba pestilenziale[#]: il proprietario e gli alleati vicini subiscono [#!]{DAMAGE}[#] danni dopo [#!]{TURNSLEFT}[#] turni. La [#!]Bomba pestilenziale[#] si attiva anche se viene sostituita o se il proprietario viene sconfitto."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Con il ripescaggio leggendario puoi cambiare un Eroe [#!]Leggendario[#] evocato per un Eroe [#!]Leggendario[#] casuale della stessa Chiamata. Gli eroi si possono ripescare solo durante la Chiamata che era attiva quando sono stati evocati.\n\nL'Eroe selezionato verrà sostituito dall'Eroe appena ripescato. \n\nIl nuovo Eroe avrà livelli di ascensione garantiti. I costumi associati al vecchio Eroe rimarranno nell'inventario. \n\nOgni ripescaggio conferisce anche un Eroe istruttore bonus.\n\nRipescaggio leggendario attivo per [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'[#!]Abilità speciale[#] di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un [#!]servitore Killer Bot[#] con il [#!]{FAMILIARHEALTHPERCENT}%[#!] di HP e il [#!]{FAMILIARATTACK}%[#] di Attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.\n[*] Il servitore Killer Bot recupera il {FAMILIARHEAL}% di Salute per il suo proprietario alla fine di ogni turno.\n[*] [#!]Avvizzimento[#]: ogni colpo di un servitore Killer Bot conferisce al bersaglio [#!]{ATTACKMODIFIER}[#] Attacco."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Portatrice della mazza cremisi"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Guerriero elafocentauro agile"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Le Chiamate possono essere effettuate con Gemme o [#!]monete delle Leggende[#], che si possono ottenere nelle [#!]Imprese delle Leggende[#].\n\nDopo ogni {0}, si evoca un [#!]Baule bonus degli emblemi[#]. Puoi riscattare un massimo di [#!]{1}[#] forziere durante ogni evento Chiamata delle Leggende.\n\nPuoi cambiare un Eroe [#!]Leggendario[#] evocato per un Eroe [#!]Leggendario[#] casuale della stessa Chiamata. L'eroe selezionato verrà sostituito dall'eroe appena ripescato. Il nuovo eroe avrà livelli ascensione garantiti. I costumi associati al vecchio eroe rimarranno nell'inventario."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Include gli Eroi rilasciati tra [#!]{0}[#] e [#!]{1}[#] giorni prima dell'inizio di questo evento"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Include Eroi del mese passati ed Eroi famiglia Campioni"
           }
         ]
       },
       "Russian": {
         "overrideEntries": [
           {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Безопасно очищает все недуги с героя."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ворует[#] [#!]{DAMAGE}[#] здоровья и усиление у всех врагов, а затем случайным образом раздает украденные усиления союзникам."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Грабит[#] цель, крадя у нее [#!]{DAMAGE}[#] здоровье и усиление."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "Безопасно крадет один эффект состояния с цели; сюда относятся стойкие эффекты, нерассеиваемые усиления и эффекты танца.\n[*]Безопасная кража обходит вторичные эффекты, такие как урон при снятии, от снимаемых усилений. Пассивные навыки и семейные эффекты действуют по-прежнему."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Все враги [#!]засыпают[#], и урон, наносимый спящим целям, увеличивается на {DAMAGEMODIFIER} %."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Меняет стихию всех врагов на [##elementred]огонь[#] на {TURNS} х."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Все союзники восстанавливают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х. Если эффект снимается или заменяется до истечения срока, восстанавливается {REMOVALEFFECT2FIXEDPOWER} здоровья."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Цель получает {DAMAGE} ед. урона от кровотечения в течение {TURNS} х. Герой поглощает {ABSORBHEALING} % нанесенного кровотечением урона в виде увеличенного здоровья."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Получает [#!]{DAMAGEPERTURN}[#] ед. урона от кровотечения за ход. Герой поглощает [#!]{ABSORBHEALING} %[#] нанесенного урона в виде увеличенного здоровья."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Увядание:[#] цель получает {ATTACKINCREASE} атаки."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Цель превращается в [#!]червя разума[#]. У [#!]червей разума[#] {ATTACK} % атаки, {DEFENSE} % защиты и следующий особый навык:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Вызывает 75 ед. [#!]безумия[#] у одного случайного союзника.\n[>]Снимает недуг [#!]червя разума[#] с героя."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Снимает с героя недуг [#!]«Червь разума»[#]."
-          },
-          {
-            "key": "specials.v2.property.secondarydirecteffect.damage.allminor.enemies",
-            "text": "Наносит {SECONDARYPOWER} % урона цели и незначительный урон всем прочим врагам."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.specialskilldefensemodifier.neartotarget.enemies.withactivationcount.one.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.sleep_philomena.unreallocatable",
-            "text": "[#!]Недуг усиленной защиты:[#] цель и ближайшие враги получают {SPECIALSKILLDEFENSE} % защиты против особых навыков. Эффект длится, пока враг не получит урон от особого навыка.\n[*] Когда [#!]недуг усиленной защиты[#] заканчивается, снимается или заменяется, враг [#!]засыпает[#]. Пока враг спит, он получает на {STATUSEFFECT1DAMAGEMODIFIER} % больше урона."
-          },
-          {
-            "key": "missions.name.defeat_pvp_enemies_cleric",
-            "text": "Победите врагов-церковников"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Кроме героев Имитатор, Грызуны-авантюристы и Дриады"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Структурное ядро этого героя — [#!]ядро прислужников[#].\n\n[#!]Ядро прислужников[#] активируется каждый раз при использовании особого навыка героя:\n\n[*] Полностью заряженное [#!]ядро прислужников[#] призывает [#!]бота-убийцу[#] с [#!]{FAMILIARHEALTHPERCENT} %[#] ОЗ и [#!]{FAMILIARATTACK} %[#] атаки героя для всех союзников.\n[*] ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.\n[*]Бот-убийца восстанавливает {FAMILIARHEAL} % здоровья своему владельцу в конце каждого хода.\n[*] [#!]Увядание:[#] Каждый удар бота-убийцы меняет атаку цели на [#!]{ATTACKMODIFIER}[#]."
-          },
-          {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] генерации маны."
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
+            "text": "Крадет {ABSPOWER} % маны у цели и врагов поблизости и распределяет между союзниками."
           },
           {
             "key": "specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
@@ -194,83 +66,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Зловонная бомба[#]: персонаж и ближайшие союзники получают [#!]{DAMAGE}[#] ед. урона после [#!]{TURNSLEFT}[#] х. [#!]Зловонная бомба[#] также активируется, если заменить ее или победить владельца."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Во время смены легендарных героев вы можете обменять призванного [#!]легендарного[#] героя на случайного [#!]легендарного[#] героя из того же призыва. Обменять героев можно только в том призыве, в котором вы их получили.\n\nВыбранного героя заменят на нового. Новый герой получит уровни перерождения. Костюмы, связанные со старым героем, останутся в инвентаре. \n\nПри каждой смене героя вы также получаете инструктора.\n\nСмена легендарных героев доступна: [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Структурное ядро этого героя — [#!]ядро прислужников[#].\n\n[#!]Ядро прислужников[#] активируется каждый раз при использовании особого навыка героя:\n\n[*] Полностью заряженное [#!]ядро прислужников[#] призывает [#!]бота-убийцу[#] с [#!]{FAMILIARHEALTHPERCENT} %[#] ОЗ и [#!]{FAMILIARATTACK} %[#] атаки героя для всех союзников.\n[*] ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.\n[*]Бот-убийца восстанавливает {FAMILIARHEAL} % здоровья своему владельцу в конце каждого хода.\n[*][#!]Увядание:[#] Каждый удар бота-убийцы меняет атаку цели на [#!]{ATTACKMODIFIER}[#]."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Носитель алой дубины"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Проворный элафокентавр-воин"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Призыв совершается за самоцветы или за [#!]монеты легенд[#], которые можно получить в [#!]квестах легенд[#].\n\nПосле каждых {0} призывов выдается [#!]бонусный сундук эмблем[#]. За время каждого события «Призыв легенд» можно забрать не более [#!]{1}[#] сундуков.\n\nВы можете обменять призванного [#!]легендарного[#] героя на случайного [#!]легендарного[#] героя из того же призыва. Выбранный герой будет заменен новым героем. У нового героя гарантированно будут уровни вознесения. Костюмы, связанные со старым героем, останутся в инвентаре."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Включает героев, выпущенных за [#!]{0}[#]–[#!]{1}[#] д. до начала события"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Включает прошлых героев месяца и героев из семьи чемпионов"
           }
         ]
       },
       "Polish": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Bezpiecznie oczyszcza status rzucającego z wszystkich dolegliwości."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Grabi[#] wszystkich wrogów, wykradając zdrowie równe [#!]{DAMAGE}[#]  i wzmocnienia oraz losowo rzuca skradzione wzmocnienia na sojuszników."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Obrabia[#] cel, wykradając zdrowie równe [#!]{DAMAGE}[#] i wzmocnienie."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Wysysa {ABSPOWER}% many celowi i pobliskim wrogom, a następnie przekazuje ją sojusznikom."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Bezpiecznie kradnie z celu jedno wzmocnienie ze statusu. Obejmuje to nieustępliwe efekty, nieoczyszczalne wzmocnienia i efekty tańca.\n[*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Wszyscy wrogowie [#!]zasypiają[#] i otrzymują w trakcie snu obrażenia zwiększone o {DAMAGEMODIFIER}%."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Zmienia żywioł wszystkich wrogów na [##elementred]ogień[#] na {TURNS} tur(y)."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Wszyscy sojusznicy odzyskują {REMOVALEFFECT1FIXEDPOWER} pkt. zdrowia po upływie {TURNS} tur. Jeśli ten efekt zostanie zdjęty lub zastąpiony, zanim upłynie czas jego trwania, zapewnia zamiast tego {REMOVALEFFECT2FIXEDPOWER} pkt. zdrowia."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Cel otrzymuje {DAMAGE} pkt. obrażeń od krwawienia przez {TURNS} tur(y). Rzucający wchłania {ABSORBHEALING}% zadanych obrażeń od krwawienia jako wzmocnienie zdrowia."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Otrzymujesz [#!]{DAMAGEPERTURN}[#] pkt. obrażeń od krwawienia na turę. Rzucający wchłania [#!]{ABSORBHEALING}%[#] zadanych obrażeń jako wzmocnienie zdrowia."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Susza:[#] cel otrzymuje {ATTACKINCREASE} do ataku."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Cel zmienia się w [#!]robaka umysłu[#]. [#!]Robaki umysłu[#] posiadają {ATTACK}% ataku, {DEFENSE}% obrony i następującą specjalną zdolność:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Zadaje 75 pkt. [#!]obłędu[#] jednemu losowemu sojusznikowi.\n[>]Usuwa [#!]robaka umysłu[#] z rzucającego."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Usuwa dolegliwość [#!]robak umysłu[#] z rzucającego."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
-            "text": "Regeneracja zdrowia celu zostaje zmniejszona o {HEALING}%, a wszystkich pozostałych wrogów o {MINORHEALING}% na okres {TURNS} tur."
-          },
-          {
-            "key": "missions.name.defeat_pvp_enemies_sorcerer",
-            "text": "Pokonuj czarodziejów"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Nie obejmuje bohaterów Mimik, Śmiały gryzoń i Driady"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Rdzeń konstruktu tej postaci to [#!]rdzeń pomocnika[#].\n\n[#!]Rdzeń pomocnika[#] aktywuje się za każdym razem, gdy rzucona zostanie [#!]umiejętność specjalna[#] tej postaci:\n\n[*] Przy pełnym naładowaniu [#!]rdzenia pomocnika[#], wzywa dla wszystkich sojuszników [#!]zabójczego bota[#] z [#!]{FAMILIARHEALTHPERCENT}%[#] PŻ i [#!]{FAMILIARATTACK}%[#] ataku przejętymi od bohatera.\n[*]PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.\n[*]Pomocnik przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.\n[*] [#!]Susza:[#] Zabójczy bot każdym trafieniem zapewnia celowi [#!]{ATTACKMODIFIER}[#] ataku."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] regeneracji many."
@@ -286,75 +114,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Śmierdząca bomba[#]: Posiadacz i pobliscy sojusznicy otrzymują [#!]{DAMAGE}[#] pkt. obrażeń po upływie [#!]{TURNSLEFT}[#] tur. [#!]Śmierdząca bomba[#] aktywuje się również, jeżeli zostanie zastąpiona lub posiadacz zostanie pokonany."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "W legendarnej wymianie możesz wymienić wezwanego [#!]legendarnego[#] bohatera na losowego [#!]legendarnego[#] bohatera z tego samego wezwania. Bohaterów można wymieniać podczas wezwania, które było aktywne, gdy zostali wezwani.\n\nWybrany bohater zostanie zastąpiony nowo wylosowanym bohaterem. Nowy bohater ma gwarantowany poziom ulepszenia. Kostiumy powiązane ze starym bohaterem pozostaną w ekwipunku.\n\nKażda wymiana daje także dodatkowego trenera.\n\nLegendarna wymiana jest aktywna dla bieżącego [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Rdzeń konstruktu tej postaci to [#!]rdzeń pomocnika[#].\n\n[#!]Rdzeń pomocnika[#] aktywuje się za każdym razem, gdy rzucona zostanie [#!]umiejętność specjalna[#] tej postaci:\n\n[*] Przy pełnym naładowaniu [#!]rdzenia pomocnika[#], wzywa dla wszystkich sojuszników [#!]zabójczego bota[#] z [#!]{FAMILIARHEALTHPERCENT}%[#] PŻ i [#!]{FAMILIARATTACK}%[#] ataku przejętymi od bohatera.\n[*]PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.\n[*]Pomocnik zabójczy bot przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.\n[*] [#!]Susza:[#] Zabójczy bot każdym trafieniem zapewnia celowi [#!]{ATTACKMODIFIER}[#] ataku."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Dzierżyciel karmazynowej maczugi"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Wojownik chyży elafocentaur"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Wzywać można za pomocą klejnotów lub [#!]monet legend[#], które można zdobyć w [#!]misjach legend[#].\n\nCo każde {0} wezwanie zapewnia [#!]bonusową skrzynię z symbolami[#]. Podczas każdego wezwania legend możesz odebrać do [#!]{1}[#] skrzyń.\n\nMożesz wymienić wezwanego [#!]legendarnego[#] bohatera na losowego [#!]legendarnego[#] bohatera z tego samego wezwania. Wybrany bohater zostanie zastąpiony nowo wylosowanym bohaterem. Nowy bohater ma gwarantowany poziom ulepszenia. Kostiumy powiązane ze starym bohaterem pozostaną w ekwipunku."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Obejmuje bohaterów udostępnionych od[#!]{0}[#] do [#!]{1}[#] dni przed rozpoczęciem tego wydarzenia"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Zawiera wcześniejszych bohaterów miesiąca i bohaterów z rodziny Czempionów."
           }
         ]
       },
       "ChineseTraditional": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "安全淨化施法者的所有狀態異常。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "對所有敵人進行[#!]掠奪[#]，竊取各個敵人[#!]{DAMAGE}[#]生命值與一項增益，並將竊取來的增益隨機分配給盟友。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]劫掠[#]目標，竊取[#!]{DAMAGE}[#]生命和一項增益。"
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "自目標與附近敵人身上偷取{ABSPOWER}%法力，並分給盟友。"
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]安全地從目標身上竊取一個狀態效果增益。包括頑固效果、不可驅散的增益和舞蹈效果。\n[*]安全竊取可避免移除增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "所有敵人會陷入[#!]沉睡[#] ，睡著時受到的傷害增加{DAMAGEMODIFIER}%。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "將所有敵人的元素變更為[##elementred]烈火[#]，持續{TURNS}個回合。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "所有盟友在{TURNS}個回合後恢復{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前遭移除或替代，則轉而恢復{REMOVALEFFECT2FIXEDPOWER}點生命值。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "目標在{TURNS}個回合內受到{DAMAGE}點流血傷害。施法者吸收所造成之流血傷害的{ABSORBHEALING}%作為加成生命值。"
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "每回合受到[#!]{DAMAGEPERTURN}[#]點流血傷害。施法者能吸收所造成之傷害的[#!]{ABSORBHEALING}%[#]作為加成生命值。"
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]枯萎：[#]目標獲得{ATTACKINCREASE}點攻擊。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "目標變成[#!]心靈蠕蟲[#]。 [#!]心靈蠕蟲[#]有{ATTACK}%攻擊、{DEFENSE}%防禦與以下特殊技能：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]對一名隨機盟友施加75點 [#!]瘋狂[#]。\n[>]移除施法者的[#!]心靈蠕蟲[#]異常。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "移除施法者的[#!]心靈蠕蟲[#]狀態異常。"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "不包含模仿怪、冒險小鼠和樹精英雄"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "此角色的構造體核心是[#!]小兵核心[#]。\n\n每次施放此角色的[#!]特殊技能[#]時，就會啟動[#!]小兵核心[#]：\n\n[*]完全充能的[#!]小兵核心[#]會為所有盟友召喚一個[#!]殺手機器人小兵[#]，擁有繼承自施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻擊。\n[*]繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。\n[*]殺手機器人小兵於每回合結束時，會為其主人治療{FAMILIARHEAL}%生命值。\n[*][#!]枯萎：[#]殺手機器人小兵每次攻擊， 都會使目標的攻擊力變為[#!]{ATTACKMODIFIER}[#]。"
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#]法力產出。"
@@ -370,103 +162,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]刺鼻炸彈[#]：炸彈持有者和附近盟友在[#!]{TURNSLEFT}[#]回合後受到[#!]{DAMAGE}[#]點傷害。若被替代或擁有者被擊敗，[#!]刺鼻炸彈[#]也會啟動。"
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "在傳奇再戰中，你可以讓一個召喚的[#!]傳奇[#]英雄再戰，獲得一個來自相同召喚的隨機[#!]傳奇[#]英雄。英雄僅可在其被召喚時所在的召喚活動期間內進行再戰。\n\n所選英雄會被替換為再戰的英雄。新英雄必定會獲得升等等級。舊英雄的服裝會保留在背包中。\n\n每次再戰都可獲得一個額外訓練家英雄。\n\n傳奇再戰已在當前[#!]{0}[#]中啟用"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "此角色的構造體核心是[#!]小兵核心[#]。\n\n每次施放此角色的[#!]特殊技能[#]時，就會啟動[#!]小兵核心[#]：\n\n[*]完全充能的[#!]小兵核心[#]會為所有盟友召喚一個[#!]殺手機器人小兵[#]，擁有繼承自施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻擊。\n[*]繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。\n[*]殺手機器人小兵在每回合結束時為其主人恢復{FAMILIARHEAL}%生命值。\n[*][#!]枯萎：[#]殺手機器人小兵每次攻擊， 都會使目標的攻擊力變為[#!]{ATTACKMODIFIER}[#]。"
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "緋紅俱樂部使用者"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "迅捷半人鹿勇士"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "可使用寶石或[#!]傳奇幣[#]進行召喚，傳奇幣可從[#!]傳奇任務[#]中獲得。\n\n每進行{0}次召喚，必定會獲得一個[#!]額外徽章寶箱[#]。在每次傳奇召喚活動期間，你最多可領取[#!]{1}[#]個寶箱。\n\n你可以讓已召喚的[#!]傳奇[#]英雄再戰，從而獲得來自相同召喚中的一位隨機[#!]傳說[#]英雄。所選英雄會被替換為再戰的英雄。新英雄必定會獲得升等等級。舊英雄的服裝會保留在背包中。"
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "包含在本次活動開始前 [#!]{0}[#]至[#!]{1}[#]天內推出的英雄"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "包含過去的月度英雄與勇士家族英雄"
           }
         ]
       },
       "Korean": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "시전자의 모든 상태 이상 효과를 안전하게 정화합니다."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "모든 적을 [#!]약탈[#]하여 [#!]{DAMAGE}[#]의 HP와 강화 효과를 각각 훔치고, 훔친 강화 효과를 아군에게 무작위로 분배합니다."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "대상을 [#!]약탈[#]해서 [#!]{DAMAGE}[#]의 HP와 강화 효과를 훔칩니다."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "대상과 주변 적들의 마나를 {ABSPOWER}% 훔쳐 아군에게 분배합니다."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]안전하게 대상의 상태 효과 버프를 하나 훔칩니다. 이 효과는 완고 효과, 해제 불가 버프 및 댄스 효과를 포함합니다.\n[*]안전한 훔치기는 제거된 버프로 인해 발생하는 제거 시 피해와 같은 2차 효과를 무시합니다. 단, 패시브 스킬과 패밀리 효과는 여전히 발동할 수 있습니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "모든 적들이 [#!]수면[#] 상태가 되며 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "모든 적의 속성이 {TURNS}턴 동안 [##elementred]화염[#]으로 변합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "모든 아군이 {TURNS}턴 후에 {REMOVALEFFECT1FIXEDPOWER} HP를 회복합니다. 만약 그 전에 이 효과가 사라지거나 교체되면 대신 {REMOVALEFFECT2FIXEDPOWER} HP를 회복합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "대상이 {TURNS}턴 동안 {DAMAGE}의 출혈 피해를 입습니다. 가한 출혈 피해의 {ABSORBHEALING}%를 시전자가 증가된 HP로 흡수합니다."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "턴마다 [#!]{DAMAGEPERTURN}[#] 출혈 피해를 입습니다. 가한 피해의 [#!]{ABSORBHEALING}%[#]를 시전자가 증가된 HP로 흡수합니다."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]쇠퇴:[#] 목표물이 {ATTACKINCREASE} 공격력을 받습니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "대상이 [#!]마인드웜[#] 상태가 됩니다. [#!]마인드웜[#]은 {ATTACK}% 공격력, {DEFENSE}% 방어력을 받으며 다음 특수 스킬을 갖습니다:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]무작위 아군 한 명에게 75 [#!]광기[#]를 부여합니다.\n[>]시전자로부터 [#!]마인드웜[#] 상태 이상을 제거합니다."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "시전자의 [#!]마인드웜[#] 상태 이상을 제거합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies",
-            "text": "시전자와 근처 아군의 특수 스킬이 {TURNS}턴 동안 추가로 {POWER}% 피해를 줍니다."
-          },
-          {
-            "key": "missions.name.win_pvp_with_barbarian",
-            "text": "레이드 승리: 야만전사"
-          },
-          {
-            "key": "missions.name.win_pvp_with_barbarians",
-            "text": "극한 레이드 승리: 야만전"
-          },
-          {
-            "key": "missions.name.win_pvp_with_fighter",
-            "text": "레이드 승리: 전투사"
-          },
-          {
-            "key": "missions.name.win_pvp_with_fighters",
-            "text": "극한 레이드 승리: 전투사"
-          },
-          {
-            "key": "missions.name.win_pvp_with_paladin",
-            "text": "레이드 승리: 성전사"
-          },
-          {
-            "key": "missions.name.win_pvp_with_paladins",
-            "text": "극한 레이드 승리: 성전사"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "미믹, 모험적인 설치류, 드라이어드 영웅 제외"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "이 캐릭터의 수호물 코어는 [#!]하수인 코어[#]입니다.\n\n[#!]하수인 코어[#]는 이 캐릭터의 [#!]특수 스킬[#]이 시전될 때마다 발동합니다.\n\n[*]에너지가 완충된 [#!]하수인 코어[#]는 시전자로부터 [#!]{FAMILIARHEALTHPERCENT}%[#] HP와 [#!]{FAMILIARATTACK}%[#] 공격력을 물려받은 [#!]킬러봇 하수인[#]을 모든 아군에게 소환합니다.\n[*] 시전자로부터 물려받는 HP와 공격력은 코어의 에너지 충전도에 따라 변합니다. 충전된 에너지는 코어가 활성화된 동안 소모됩니다.\n[*]각 턴 종료 시 킬러봇 하수인이 주인의 HP를 {FAMILIARHEAL}% 회복시킵니다.\n[*][#!]쇠퇴:[#] 킬러봇 하수인의 타격마다 대상에게 [#!]{ATTACKMODIFIER}[#] 공격력을 줍니다."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] 마나 재생력."
@@ -482,95 +210,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]악취 폭탄[#]: [#!]{TURNSLEFT}[#]턴 후 보유자와 주변 아군이 [#!]{DAMAGE}[#]의 피해를 받습니다. [#!]악취 폭탄[#]은 다른 효과로 교체되거나 보유자가 쓰러진 경우에도 발동합니다."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "전설 다시 뽑기에서는 소환한 [#!]전설[#] 영웅을 동일한 소환의 무작위 [#!]전설[#] 영웅으로 다시 뽑을 수 있습니다. 영웅은 해당 영웅을 소환했을 때 진행 중이던 소환에서만 다시 뽑을 수 있습니다.\n\n선택한 영웅은 새로 다시 뽑은 영웅으로 교체됩니다. 새로운 영웅은 각성 레벨이 보장됩니다. 기존 영웅과 연관된 의상은 인벤토리에 남습니다. \n\n다시 뽑을 때마다 보너스 훈련관 영웅도 획득합니다.\n\n현재 [#!]{0}[#]에서 전설 다시 뽑기 활성화"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "이 캐릭터의 수호물 코어는 [#!]하수인 코어[#]입니다.\n\n[#!]하수인 코어[#]는 이 캐릭터의 [#!]특수 스킬[#]이 시전될 때마다 발동합니다.\n\n[*]에너지가 완충된 [#!]하수인 코어[#]는 시전자로부터 [#!]{FAMILIARHEALTHPERCENT}%[#] HP와 [#!]{FAMILIARATTACK}%[#] 공격력을 물려받은 [#!]킬러봇 하수인[#]을 모든 아군에게 소환합니다.\n[*] 시전자로부터 물려받는 HP와 공격력은 코어의 에너지 충전도에 따라 변합니다. 충전된 에너지는 코어가 활성화된 동안 소모됩니다.\n[*]각 턴 종료 시 킬러봇 하수인이 주인의 HP를 {FAMILIARHEAL}% 회복시킵니다.\n[*][#!]쇠퇴:[#] 킬러봇 하수인의 타격마다 대상에게 [#!]{ATTACKMODIFIER}[#] 공격력을 줍니다."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "붉은 몽둥이의 지배자"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "날쌘 엘라포켄타우로스 워리어"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "소환에는 보석 또는 [#!]전설 코인[#]을 사용할 수 있으며, [#!]전설 퀘스트[#]에서 전설 코인을 획득할 수 있습니다.\n\n{0}회 소환할 때마다 [#!]보너스 문양 상자[#]를 받습니다. 각 전설 소환 이벤트에서 [#!]{1}[#]개의 상자를 최대한 획득할 수 있습니다.\n\n소환한 [#!]전설[#] 영웅을 동일한 소환의 무작위 [#!]전설[#] 영웅으로 다시 뽑을 수 있습니다. 선택한 영웅은 새로 다시 뽑은 영웅으로 교체됩니다. 새로운 영웅은 각성 레벨이 보장됩니다. 기존 영웅과 연관된 의상은 인벤토리에 남습니다."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "이 이벤트 시작 전 [#!]{0}[#]일에서 [#!]{1}[#]일 사이에 출시된 영웅 포함"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "지난 이달의 영웅 및 챔피언 패밀리 영웅 포함"
           }
         ]
       },
       "German": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Reinigt sicher negative Statusänderungen vom Wirker."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Raubt[#] alle Gegner aus, stiehlt [#!]{DAMAGE}[#] Gesundheit und pro Gegner einen Bonus und verteilt gestohlene Boni zufällig auf Verbündete."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Raubt[#] das Ziel aus und stiehlt ihm [#!]{DAMAGE}[#] Leben und einen Bonus."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stiehlt {ABSPOWER} % Mana vom Ziel und nahen Gegnern und verteilt es auf Verbündete."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Stiehlt einen Statuseffektbonus des Ziels. Dazu zählen auch hartnäckige Effekte, nicht entfernbare Boni und Tanzeffekte.\n[*] Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von den entfernten Boni ignoriert. Passive Fähigkeiten und Familieneffekte können noch aktiviert werden."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle Gegner [#!]schlafen ein[#] und erleiden während des Schlafs um {DAMAGEMODIFIER} % erhöhten Schaden."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Ändert das Element aller Gegner für {TURNS} Runden zu [##elementred]Feuer[#]."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle Verbündeten erhalten nach {TURNS} Zügen {REMOVALEFFECT1FIXEDPOWER} Gesundheit zurück. Wenn der Effekt vor Ablauf der Dauer entfernt oder ersetzt wird, erhalten sie stattdessen {REMOVALEFFECT2FIXEDPOWER} Lebenspunkte zurück."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Das Ziel erleidet {DAMAGE} Blutungsschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Blutungsschadens als verstärktes Leben."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "[#!]{DAMAGEPERTURN}[#] Blutungsschaden pro Zug. Der Wirker absorbiert [#!]{ABSORBHEALING} %[#] des zugefügten Schadens als verstärktes Leben."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Verwelken:[#] Das Ziel erhält {ATTACKINCREASE} Angriff."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Das Ziel verwandelt sich in einen [#!]Verstandswurm[#]. [#!]Verstandswürmer[#] haben {ATTACK} % Angriff, {DEFENSE} % Verteidigung und die folgende Spezialfähigkeit:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Fügt zufälligem Gegner 75 [#!]Wahnsinn[#] hinzu.\n[>]Entfernt den Zustand [#!]Verstandswurm[#] vom Wirker."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Entfernt den Statuseffekt [#!]Verstandswurm[#] vom Wirker."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies",
-            "text": "Der Wirker und nahe Verbündete sind für {TURNS} Züge immun gegen neue Effekte, die die Nutzung von Spezialangriffen verhindern."
-          },
-          {
-            "key": "missions.name.win_pvp_with_wizard",
-            "text": "Überfälle gewinnen: Magier"
-          },
-          {
-            "key": "missions.name.win_pvp_with_wizards",
-            "text": "Extreme Überfälle gewinnen: Magier"
-          },
-          {
-            "key": "missions.name.win_pvp_with_sorcerer",
-            "text": "Überfälle gewinnen: Zauberer"
-          },
-          {
-            "key": "missions.name.win_pvp_with_sorcerers",
-            "text": "Extreme Überfälle gewinnen: Zauberer"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Mimen-, Abenteuerlustige Nager- und Dryaden-Helden sind ausgenommen"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Der Konstruktkern dieses Charakters ist ein [#!]Lakaikern[#].\n\nDer [#!]Lakaikern[#] wird immer aktiviert, wenn die [#!]Spezialfähigkeit[#] dieses Charakters gewirkt wird:\n\n[*] Bei vollständig aufgeladenem [#!]Lakaikern[#] wird ein [#!]Killer-Bot-Lakai mit [#!]{FAMILIARHEALTHPERCENT} %[#] LP und [#!]{FAMILIARATTACK} %[#] Angriff des Wirkers für alle Verbündeten beschworen.\n[*] Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.\n[*] Der Killer-Bot-Lakai stellt am Ende jeder Runde {FAMILIARHEAL} % Leben seines Besitzers wieder her.\n[*] [#!]Verwelken:[#] Jeder Treffer von einem Killer-Bot-Lakai gibt seinem Ziel [#!]{ATTACKMODIFIER}[#] Angriff."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] Manaregeneration."
@@ -586,79 +258,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Stinkbombe[#]: Der Besitzer und nahe Verbündete erleiden [#!]{DAMAGE}[#] Schaden nach [#!]{TURNSLEFT}[#] Runden. Die [#!]Stinkbombe[#] wird auch dann aktiviert, wenn sie ersetzt oder der Besitzer besiegt wird."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Mit dem legendären Neuwurf kannst du einen beschworenen [#!]legendären[#] Helden neu würfeln und einen zufälligen [#!]legendären[#] Helden aus derselben Beschwörung erhalten. Helden können nur neu gewürfelt werden, während die Beschwörung aktiv ist, während der sie beschworen wurden.\n\nDer ausgewählte Held wird durch den neu gewürfelten Helden ersetzt. Der neue Held erhält garantierte Aufstiegslevel. Kostüme, die mit dem alten Helden verbunden sind, bleiben im Inventar.\n\nJeder Neuwurf gewährt außerdem einen Bonus-Trainerhelden.\n\nAktuell sind folgende legendäre Neuwürfe verfügbar: [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Der Konstruktkern dieses Charakters ist ein [#!]Lakaikern[#].\n\nDer [#!]Lakaikern[#] wird immer aktiviert, wenn die [#!]Spezialfähigkeit[#] dieses Charakters gewirkt wird:\n\n[*] Bei vollständig aufgeladenem [#!]Lakaikern[#] wird ein [#!]Killer-Bot-Lakai mit [#!]{FAMILIARHEALTHPERCENT} %[#] LP und [#!]{FAMILIARATTACK} %[#] Angriff des Wirkers für alle Verbündeten beschworen.\n[*] Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.\n[*] Der Killer-Bot-Lakai stellt am Ende jeder Runde {FAMILIARHEAL} % Leben seines Besitzers wieder her.\n[*] [#!]Verwelken:[#] Jeder Treffer von einem Killer-Bot-Lakai gibt seinem Ziel [#!]{ATTACKMODIFIER}[#] Angriff."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Träger der blutroten Keule"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Flinker Elaphocentaur-Krieger"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Beschwörungen können mit Edelsteinen oder [#!]Legenden-Münzen[#] durchgeführt werden, die in [#!]Legenden-Quests[#] erhalten werden können.\n\nNach jeweils {0} Beschwörungen erhältst du eine [#!]Bonuswappen-Truhe[#]. Während jedes Legenden-Beschwörungs-Events können maximal [#!]{1}[#] Truhen abgeholt werden.\n\nDu kannst einen beschworenen [#!]legendären[#] Helden neu würfeln, um einen zufälligen [#!]legendären[#] Helden aus derselben Beschwörung zu erhalten. Der ausgewählte Held wird durch den neu gewürfelten Helden ersetzt. Der neue Held erhält garantierte Aufstiegslevel. Kostüme, die mit dem alten Helden verbunden sind, bleiben im Inventar."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Enthält auch Helden, die bis zu [#!]{0}[#] und [#!]{1}[#] Tag(e) vor Beginn dieses Events veröffentlicht wurden."
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Enthält vergangene Helden des Monats und Helden aus der Champions-Familie."
           }
         ]
       },
       "Japanese": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "術者のステータス異常を全て安全に浄化する。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "敵全員を[#!]強奪[#]して[#!]{DAMAGE}[#]ライフとバフを奪取し、奪い取ったバフをランダムな仲間に付与する。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "標的に[#!]強奪[#]を行い、[#!]{DAMAGE}[#]ライフとバフを奪取する。"
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "ターゲットと近くにいる敵からマナを{ABSPOWER}%盗み、仲間に分配する。"
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]標的から、安全にステータス効果バフをランダムで奪取する。これには強固または解除不可能なバフとダンス効果も含まれる。\n[*]安全に奪取すると、削除時のダメージや削除したバフからの副次的効果を無効にできる。パッシブスキルとファミリー効果も有効にしたままにできる。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "敵全員が[#!]睡眠状態[#]となる。眠っている間は被ダメージが{DAMAGEMODIFIER}%増加する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "{TURNS}ターンの間、敵全員の属性が[##elementred]炎属性[#]に変化する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "{TURNS}ターン後に、仲間全員のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "{TURNS}ターンの間、ターゲットに{DAMAGE}の出血ダメージを与える。術者は、与えた出血ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "ターン毎に、敵全員に[#!]{DAMAGEPERTURN}[#]の出血ダメージを与える。術者は、与えた出血ダメージの[#!]{ABSORBHEALING}%[#]をブーストライフとして吸収する。"
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]弱化：[#]ターゲットの攻撃力が{ATTACKINCREASE}減少する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "ターゲットが[#!]マインドワーム[#]に変化する。[#!]マインドワーム[#]に変化すると、攻撃力が{ATTACK}%、防御力が{DEFENSE}%になり、以下の特殊スキルを使えるようになる：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]ランダムな味方1体に[#!]狂気[#]を75付与する。\n[>]術者から[#!]マインドワーム[#]のステータス異常を消去する。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "術者から[#!]マインドワーム[#]のステータス異常を消去する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
-            "text": "{TURNS}ターンの間、ターゲットが受ける回復量が{HEALING}%、他の敵全員の回復量が{MINORHEALING}%になる。"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "ミミック、冒険好きなげっ歯類、ドライアド英雄を除く"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "このキャラクターの蓄積コアは[#!]ミニオンコア[#]だ。\n\n[#!]ミニオンコア[#]はこのキャラクターが[#!]特殊スキル[#]を使用するたびに発動する：\n\n[*] [#!]ミニオンコア[#]をフルチャージすると、術者から継承したHP[#!]{FAMILIARHEALTHPERCENT}%[#]、攻撃力[#!]{FAMILIARATTACK}%[#]の[#!]キラーボットミニオン[#]を仲間全員にサモンする。\n[*] 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。\n[*]キラーボットミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。\n[*] [#!]弱化：[#] キラーボットミニオンの攻撃が当たったターゲットの攻撃力は[#!]{ATTACKMODIFIER}[#]になる。"
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "マナ生成が[#!]{MODIFIER}%[#]になる。"
@@ -674,75 +306,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]悪臭爆弾[#]：所持者と近くにいる仲間が、[#!]{TURNSLEFT}[#]ターン後に[#!]{DAMAGE}[#]ダメージを受ける。[#!]悪臭爆弾[#]は置き換えられるか、所有者が倒された場合にも発動する。"
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "レジェンドリロールで、サモンした[#!]レジェンド[#]英雄を同じサモンのランダムな[#!]レジェンド[#]英雄にリロールできる。英雄のリロールは、英雄がサモンされた際に有効だったサモン中にのみ行える。\n\n選択された英雄は、新しくリロールされた英雄に入れ替わる。新しい英雄はアセンドレベルを必ず獲得できる。前の英雄のコスチュームはインベントリ内に残る。\n\nまた、リロールする度にボーナストレーナー英雄を獲得できる。\n\n現在有効なレジェンドリロール：[#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "このキャラクターの蓄積コアは[#!]ミニオンコア[#]だ。\n\n[#!]ミニオンコア[#]はこのキャラクターが[#!]特殊スキル[#]を使用するたびに発動する：\n\n[*] [#!]ミニオンコア[#]をフルチャージすると、術者から継承したHP[#!]{FAMILIARHEALTHPERCENT}%[#]、攻撃力[#!]{FAMILIARATTACK}%[#]の[#!]キラーボットミニオン[#]を仲間全員にサモンする。\n[*] 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。\n[*] キラーボットミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。\n[*] [#!]弱化：[#] キラーボットミニオンの攻撃が当たったターゲットの攻撃力は[#!]{ATTACKMODIFIER}[#]になる。"
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "深紅のクラブの使い手"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "素早きシカのケンタウロスの戦士"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "サモンは、ジェムまたは[#!]レジェンドコイン[#]([#!]レジェンドクエスト[#]で入手可能)を消費することで行える。\n\nサモンを{0}回行うごとに、[#!]ボーナスエンブレム宝箱[#]を必ず獲得できる。レジェンドサモンの期間中は、最大で[#!]{1}[#]個の宝箱を獲得できる。\n\nサモンした[#!]レジェンド[#]英雄は同じサモンのランダムな[#!]レジェンド[#]英雄にリロールできる。選択された英雄は、新しくリロールされた英雄に入れ替わる。新しい英雄はアセンドレベルを必ず獲得できる。前の英雄のコスチュームはインベントリ内に残る。"
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "このイベント開幕の[#!]{0}[#]～[#!]{1}[#]日前までに登場した英雄を含む"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "過去の今月のスペシャル英雄とチャンピオンファミリー英雄を含む"
           }
         ]
       },
       "Swedish": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Rensar alla negativa statuseffekter från användaren på ett säkert sätt."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Plundrar[#] alla fiender och stjäl [#!]{DAMAGE}[#] hälsa och en bonus från var och en, och fördelar stulna bonusar slumpmässigt till allierade."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Plundrar[#] målet och stjäl [#!]{DAMAGE}[#] hälsa och en bonus."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stjäl {ABSPOWER} % mana från målet och fiender i närheten och fördelar den till allierade."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Stjäl riskfritt en positiv statuseffekt från målet säkert. Det här gäller envisa effekter, danseffekter och bonusar som inte kan avbrytas.\n[*]Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Passiva effekter och familjeeffekter kan fortfarande aktiveras."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alla fiender [#!]somnar[#] och tar {DAMAGEMODIFIER} % extra skada när de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Ändrar alla fienders element till [##elementred]eld[#] i {TURNS} rundor."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alla allierade får tillbaka {REMOVALEFFECT1FIXEDPOWER} hälsa efter {TURNS} rundor. Om effekten tas bort eller ersätts före det får de tillbaka {REMOVALEFFECT2FIXEDPOWER} hälsa istället."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Målet drabbas av {DAMAGE} blödningsskada under {TURNS} rundor. Besvärjaren absorberar {ABSORBHEALING} % av den utdelade blödningsskadan som ökad hälsa."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Tar [#!]{DAMAGEPERTURN}[#] blödande skada per runda. Användaren absorberar [#!]{ABSORBHEALING} %[#] av den gjorda skadan som ökad hälsa."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Vittra:[#] Målet får {ATTACKINCREASE} attack."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Målet förvandlas till en [#!]sinnesmask[#]. [#!]Sinnesmaskar[#] har {ATTACK} % attack, {DEFENSE} % försvar och följande specialförmåga:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Ger 75 [#!]vansinne[#] till en slumpmässig allierad.\n[>]Tar bort [#!]sinnesmask[#]-effekten från användaren."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Tar bort den negativa effekten [#!]sinnesmask[#] från användaren."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Utesluter Härmare-, Äventyrlig gnagare- och Dryaderhjältar"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].\n\n[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:\n\n[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.\n[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.\n[*]Mördarrobotundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.\n[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] manaskapande."
@@ -758,87 +354,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Stinkbomb[#]: Ägaren och allierade i närheten tar [#!]{DAMAGE}[#] skada efter [#!]{TURNSLEFT}[#] rundor. [#!]Stinkbomben[#] aktiveras också om den ersätts eller om ägaren besegras."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Vid legendariska omslumpningar kan du slumpa om en åkallad [#!]legendarisk[#] hjälte för att få en slumpmässig [#!]legendarisk[#] hjälte från samma åkallelse. Det går bara att slumpa om hjältar under åkallelsen som var aktiv när hjälten åkallades.\n\nDen valda hjälten ersättas av den omslumpade. Den nya hjälten har garanterade graderingsnivåer. Kläder kopplade till den gamla hjälten finns kvar i ditt förråd.\n\nVarje omslumpning ger även en bonusträningshjälte.\n\nLegendarisk omslumpning aktiv i nuvarande [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].\n\n[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:\n\n[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.\n[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.\n[*] Mördarrobotsundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.\n[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Röda klubbans bärare"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Kvick elafokentaurkrigare"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Det går att göra åkallelser med ädelstenar eller [#!]legendmynt[#], som man kan få från [#!]legendäventyr[#].\n\nVarje gång du gjort {0} åkallelser får du en [#!]bonusemblemkista[#]. Du kan få upp till [#!]{1}[#] kistor per legendåkellelseevenemang.\n\nDu kan slumpa om en åkallad [#!]legendarisk[#] hjälte till en slumpmässig [#!]legendarisk[#] hjälte från samma åkallelse. Den valda hjälten ersätts då av en ny slumpmässig hjälte. Den nya hjälten har garanterade graderingsnivåer. Du får behålla dräkter till den gamla hjälten i förrådet."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Innehåller hjältar släppta [#!]{0}[#] till [#!]{1}[#] dagar före starten av det här evenemanget"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Innehåller tidigare månadens hjältar och hjältar från förkämpefamiljen"
           }
         ]
       },
       "Turkish": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Eylemciden tüm durum engellerini güvenle arındırır."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "Tüm düşmanları [#!]Yağmalar[#], her birinden [#!]{DAMAGE}[#] sağlık ve bir buff çalar ve çalınan buff'ları rastgele bir şekilde müttefiklere dağıtır."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "Hedefi [#!]Yağmalayarak[#] [#!]{DAMAGE}[#] sağlık ve bir buff çalar."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Hedeften ve yakındaki düşmanlardan %{ABSPOWER} mana alır ve onu müttefiklere dağıtır."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Hedeften bir durum efekti buff'ını güvenle çalar. Buna İnatçı efektler, bozulamayan buff'lar ve Dans efektleri dâhildir.\n[*]Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tüm düşmanlar [#!]uykuya dalar[#] ve uyurken %{DAMAGEMODIFIER} artırılmış hasar alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "{TURNS} boyunca tüm düşmanların elementini [##elementred]Ateş[#] olarak değiştirir."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Tüm müttefikler {TURNS} turdan sonra {REMOVALEFFECT1FIXEDPOWER} sağlık yeniler. Efekt, süre bitmeden kaldırılırsa veya değiştirilirse {REMOVALEFFECT2FIXEDPOWER} sağlık yeniler."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Hedef {TURNS} tur boyunca {DAMAGE} Kanama hasarı alır. Eylemci, verilen Kanama hasarının %{ABSORBHEALING} kadarını güçlendirilmiş sağlık olarak emer."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Tur başına [#!]{DAMAGEPERTURN}[#] Kanama hasarı alırsın. Eylemci, verilen hasarın [#!]%{ABSORBHEALING}[#] kadarını güçlendirilmiş sağlık olarak emer."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Soldurma:[#] Hedef {ATTACKINCREASE} saldırı alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Hedef bir [#!]Zihin Kurduna[#] dönüşür. [#!]Zihin Kurtları[#] %{ATTACK} saldırıya, %{DEFENSE} savunmaya ve aşağıdaki Özel Yeteneğe sahiptir:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Rastgele bir müttefike 75 [#!]Delilik[#] uygular.\n[>]Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Eylemciden [#!]Zihin Kurdu[#] engelini kaldırır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.dodgespecialdamage.neartotarget.allies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.attack_buff_peregrine",
-            "text": "[#!]Geliştirilmiş Savuşturma[#]: Eylemci ve yakındaki müttefikler %{DODGE} şansla, hasar veren Özel Yetenekleri savuşturur. Bu efekt, müttefik {MAXACTIVATIONCOUNT} defa başarıyla savuşturana kadar geçerlidir.\n[*] [#!]Geliştirilmiş Savuşturma[#] sona erdikten, kaldırıldıktan veya değiştirildikten sonra müttefik {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1ATTACK} saldırı alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.dodgespecialdamage.neartotarget.allies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.attack_buff_peregrine.unreallocatable",
-            "text": "[#!]Geliştirilmiş Savuşturma[#]: Eylemci ve yakındaki müttefikler %{DODGE} şansla, hasar veren Özel Yetenekleri savuşturur. Bu efekt, müttefik {MAXACTIVATIONCOUNT} defa başarıyla savuşturana kadar geçerlidir.\n[*] [#!]Geliştirilmiş Savuşturma[#] sona erdikten, kaldırıldıktan veya değiştirildikten sonra müttefik {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1ATTACK} saldırı alır."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.dodgespecialdamage.neartotarget.allies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.bleed_yolanda.blind_yolanda.unreallocatable",
-            "text": "[#!]Geliştirilmiş Savuşturma[#]: Eylemci ve yakındaki müttefikler %{DODGE} şansla, hasar veren Özel Yetenekleri savuşturur. Bu efekt, müttefik {MAXACTIVATIONCOUNT} defa başarıyla savuşturana kadar geçerlidir.\n[*] [#!]Geliştirilmiş Savuşturma[#] sona erdikten, kaldırıldıktan veya değiştirildikten sonra rastgele bir düşman {REMOVALEFFECT1STATUSEFFECT2TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT2ACCURACY} isabetlilik alır, bir diğer rastgele düşman ise {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca {REMOVALEFFECT1STATUSEFFECT1DAMAGE} Kanama hasarı alır."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Taklitçi, Maceracı Kemirgen ve Orman Perileri Kahramanları hariçtir"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Bu karakterin Yapı Merkezi [#!]Hizmetkar Merkezidir[#].\n\n[#!]Hizmetkar Merkezi[#], bu karakterin [#!]Özel Yeteneği[#] her uygulandığında etkinleşir:\n\n[*] Tamamen dolan bir [#!]Hizmetkar Merkezi[#], eylemciden tüm müttefiklere miras kalan [#!]%{FAMILIARHEALTHPERCENT}[#] SP'ye ve [#!]%{FAMILIARATTACK}[#] saldırıya sahip bir [#!]Katil Bot Hizmetkar[#] çağırır.\n[*] Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.\n[*] Katil Bot Hizmetkar, her turun sonunda sahibi için %{FAMILIARHEAL} sağlık yeniler.\n[*] [#!]Soldurma:[#] Katil Bot Hizmetkarın yaptığı her vuruş hedefine [#!]{ATTACKMODIFIER}[#] saldırı verir."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]%{MODIFIER}[#] mana üretimi."
@@ -854,79 +402,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Haşin Bomba[#]: Bu karakter ve yakındaki müttefikler, [#!]{TURNSLEFT}[#] tur sonra [#!]{DAMAGE}[#] hasar alır. [#!]Haşin Bomba[#], değiştirildiğinde veya sahibi yenilgiye uğradığında da etkinleşir."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Efsanevi Yenilemede çağrılan bir [#!]Efsanevi[#] Kahramanı aynı çağrıdan rastgele bir [#!]Efsanevi[#] Kahramanla yenileyebilirsin. Kahramanlar, sadece çağrıldıklarında etkin olan Çağrı sırasında yenilenebilir.\nSeçilen Kahraman, yenilenen Kahramanla değiştirilir. Yeni kahraman, garantili Yükseliş seviyelerine sahip olur. Eski kahramanla ilişkili kostümler, envanterde kalır. \n\nHer yenileme ayrıca bir bonus Antrenör Kahraman verir.\n\nMevcut [#!]{0}[#] için Efsanevi Yenileme etkin"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Bu karakterin Yapı Merkezi [#!]Hizmetkar Merkezidir[#].\n\n[#!]Hizmetkar Merkezi[#], bu karakterin [#!]Özel Yeteneği[#] her uygulandığında etkinleşir:\n\n[*] Tamamen dolan bir [#!]Hizmetkar Merkezi[#], eylemciden tüm müttefiklere miras kalan [#!]%{FAMILIARHEALTHPERCENT}[#] SP'ye ve [#!]%{FAMILIARATTACK}[#] saldırıya sahip bir [#!]Katil Bot Hizmetkar[#] çağırır.\n[*] Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.\n[*] Katil Bot Hizmetkar, her turun sonunda sahibi için %{FAMILIARHEAL} sağlık yeniler.\n[*] [#!]Soldurma:[#] Katil Bot Hizmetkarın yaptığı her vuruş hedefine [#!]{ATTACKMODIFIER}[#] saldırı verir."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Kızıl Sopa Taşıyıcısı"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Hızlı Elaphocentaur Savaşçısı"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Çağrılar, mücevherlerle veya [#!]Efsaneler Görevlerinden[#] elde edilebilen [#!]Efsaneler Jetonlarıyla[#] gerçekleştirilebilir.\n\nHer {0} çağrıdan sonra bir [#!]Bonus Amblem Sandığı[#] verilir. Her Efsaneler Çağrısı etkinliği sırasında en fazla [#!]{1}[#] sandık alabilirsin.\n\nÇağrılan [#!]Efsanevi[#] Kahramanı aynı çağrıdan rastgele bir [#!]Efsanevi[#] Kahraman ile yenileyebilirsin. Seçilen Kahraman, yenilenmiş Kahramanla değiştirilir. Yeni kahraman, garantili Yükseliş seviyelerine sahip olur. Eski kahramanla ilişkili kostümler, envanterde kalır."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Bu etkinliğin başlangıcından [#!]{0}[#] ila [#!]{1}[#] gün önce yayınlanan Kahramanları içerir"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Geçmiş Ayın Kahramanları ve Şampiyon Ailesi Kahramanlarını içerir"
           }
         ]
       },
       "English": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Safely cleanses all status ailments from the caster."
-          },
-          {
-            "key": "familybonuses.description.long.buff_on_ransack_shady_scoundrels.limitedactivations",
-            "text": "Stack (max: {MAXSTACK}): All allies get [#!]{FAMILYMEMBERS1ATTACK}%[#]/[#!]{FAMILYMEMBERS2ATTACK}%[#]/[#!]{FAMILYMEMBERS3ATTACK}%[#] attack stack each time this character attempts to [#!]Ransack[#] an enemy. This effect can activate up to [#!]{MAXACTIVATIONSPERTURN}[#] times per turn."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ransacks[#] all enemies, stealing [#!]{DAMAGE}[#] health and a buff from each, and randomly distributes stolen buffs on allies."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Ransacks[#] the target, stealing [#!]{DAMAGE}[#] health and a buff."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Steals {ABSPOWER}% mana from the target and nearby enemies and distributes it to allies."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Safely steals one status effect buff from the target. This includes Stubborn effects, undispellable buffs and Dance effects.\n[*]Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "All enemies fall [#!]asleep[#] and receive {DAMAGEMODIFIER}% increased damage while sleeping."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Changes the element of all enemies to [##elementred]Fire[#] for {TURNS} turns."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "All allies recover {REMOVALEFFECT1FIXEDPOWER} health after {TURNS} turns. If the effect is removed or replaced before the duration ends, recovers {REMOVALEFFECT2FIXEDPOWER} health instead."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "The target receives {DAMAGE} Bleed damage over {TURNS} turns. The caster absorbs {ABSORBHEALING}% of dealt Bleed damage as boosted health."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Receive [#!]{DAMAGEPERTURN}[#] Bleed damage per turn. The caster absorbs [#!]{ABSORBHEALING}%[#] of dealt damage as boosted health."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Wither:[#] The target gets {ATTACKINCREASE} attack."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "The target turns into a [#!]Mindworm[#]. [#!]Mindworms[#] have {ATTACK}% attack, {DEFENSE}% defense and the following Special Skill:\n\n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Inflicts 75 [#!]Insanity[#] on one random ally.\n[>]Removes the [#!]Mindworm[#] ailment from the caster."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Removes the [#!]Mindworm[#] ailment from the caster."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Excludes Mimic, Adventurous Rodent and Dryad Heroes"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "The Construct Core of this character is a [#!]Minion Core[#].\n\nThe [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:\n\n[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.\n[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.\n[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.\n[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] mana generation."
@@ -942,83 +450,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Pungent Bomb[#]: The owner and nearby allies receive [#!]{DAMAGE}[#] damage after [#!]{TURNSLEFT}[#] turns. The [#!]Pungent Bomb[#] also activates if it is replaced or if the owner is defeated."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "In Legendary Reroll, you can reroll a summoned [#!]Legendary[#] Hero for a random [#!]Legendary[#] Hero from the same summon. Heroes can only be rerolled during the Summon that was active when they were summoned.\n\nThe selected Hero will be replaced by the newly rerolled Hero. The new hero will have guaranteed Ascension levels. Costumes associated with the old hero will remain in the inventory. \n\nEach reroll also gives a bonus Trainer Hero.\n\nLegendary Reroll active for current [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "The Construct Core of this character is a [#!]Minion Core[#].\n\nThe [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:\n\n[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.\n[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.\n[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.\n[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Wielder of Crimson Club"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Swift Elaphocentaur Warrior"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Summons can be done with gems or [#!]Legends Coins[#] which can be obtained from [#!]Legends Quests[#].\n\nAfter every {0} summons a [#!]Bonus Emblem Chest[#] is granted. You can claim a maximum of [#!]{1}[#] chests during each Legends Summon event.\n\nYou can reroll a summoned [#!]Legendary[#] Hero for a random [#!]Legendary[#] Hero from the same summon. The selected Hero will be replaced by the newly rerolled Hero. The new hero will have guaranteed Ascension levels. Costumes associated with the old hero will remain in the inventory."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Includes Heroes released [#!]{0}[#] to [#!]{1}[#] days before the start of this event"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Includes past Heroes of the Month and Champions Family Heroes"
           }
         ]
       },
       "Arabic": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "تشفي الرامي من حالات الأمراض كلها بأمان."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]تنهب[#]  كل الأعداء، وتسرق [#!]{DAMAGE}[#] الصحة والتعزيزات، وتوزيع المزايا المسروقة عشوائيًّا على الحلفاء."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]ينهب[#] الهدف، ويسرق [#!]{DAMAGE}[#] الصحة والتعزيزات."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "تسرق {ABSPOWER}% من القوة من الهدف والأعداء القريبين، وتوزعها على الحلفاء."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]تسرق تعزيز تأثير الحالة بأمان مرة واحدة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة والتأثيرات العنيدة، وتأثيرات الرقص.\n[*]تتجاوز السرقة الآمنة التأثيرات الثانوية -مثل الضرر عند الإزالة- من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضرر زائد أثناء النوم."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "[#!]ينام[#] جميع الأعداء ويتلقون {DAMAGEMODIFIER}% ضررًا زائدًا أثناء النوم."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "تغير عنصر جميع الأعداء ليكون عنصر [##elementred]النار[#] طوال {TURNS} من الجولات."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "يستعيد جميع الحلفاء {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "يتلقى الهدف {DAMAGE} من ضرر النزيف طوال {TURNS} من الجولات. يمتص الملقي نسبة {ABSORBHEALING}% من ضرر النزيف الملحق على هيئة صحة معززة."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "تلقَّ [#!]{DAMAGEPERTURN}[#] من ضرر النزيف في كل جولة. يمتص الرامي نسبة [#!]{ABSORBHEALING}%[#] من الضرر الملحق على هيئة صحة معززة."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]التلف:[#] يحصل الهدف على {ATTACKINCREASE} من الهجوم."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "يتحول الهدف إلى [#!]دودة عقل[#]. يمتلك [#!]دود العقل[#] {ATTACK}% من الهجوم، و{DEFENSE}% من الدفاع، والمهارة الخاصة التالية:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]تلحق 75 من [#!]الجنون[#] بحليف عشوائي.\n[>]تزيل مرض [#!]دودة العقل[#] عن الرامي."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "تُزيل مرض [#!]دودة العقل[#] من الملقي."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.addstatuseffectonremoval.all.enemies.onremoval.expiration.paralysis_kitou_sayomi.turns.one",
-            "text": "بعد مرور {TURNS} من الجولات، يُصاب جميع الأعداء بـ[#!]الشلل[#] لمدة {STATUSEFFECT1TURNS} من الجول"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healmultiplier.allminor.enemies.decrease",
-            "text": "يحصل الهدف على شفاء بنسبة {HEALING}%، ويحصل جميع الأعداء الآخرين على تخفيض {MINORHEALING}% لأي شفاء يحصلون عليه لمدة {TURNS} من الجو"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "استثناء أبطال المحاكاة، القوارض المغامرة والحوريات"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "جوهر بناء هذه الشخصية هو [#!]جوهر تابع[#].\n\n يتم تفعيل [#!]جوهر التابع[#] كلما يتم إلقاء [#!]المهارة الخاصة[#] لهذه الشخصية:\n\n[*] مع [#!]جوهر تابع[#] مشحون بالكامل، لاستدعاء [#!]تابع آلي قاتل[#] مع صحة بنسبة [#!]{FAMILIARHEALTHPERCENT}%[#] وهجوم بنسبة [#!]{FAMILIARATTACK}%[#] موروث من الملقي لكل الحلفاء.\n[*] يتم تحديد الصحة والهجوم الموروثين من الملقي حسب مقدار الشحن في الجوهر. يتم استنفاد كل الشحن عند تفعيل الجوهر.\n[*] يستعيد تابع الآلي القاتل {FAMILIARHEAL}% من الصحة لمالكه في نهاية كل دور.\n[*][#!]الذبول:[#] تمنح كل ضربة من تابع الآلي القاتل هدفها [#!]{ATTACKMODIFIER}[#] من الهجوم."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] توليد قوة."
@@ -1034,75 +498,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]القنبلة النفاذة[#] يتلقى المالك والحلفاء القريبون منه [#!]{DAMAGE}[#] من الضرر بعد [#!]{TURNSLEFT}[#] من الجولات. تنشط [#!]القنبلة النفاذة[#] أيضًا إذا تم استبدالها أو عند هزيمة المالك."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "في إعادة السحب الأسطوري، يمكنك إعادة سحب بطل [#!]أسطوري[#] تم استدعاؤه مسبقًا للحصول على بطل [#!]أسطوري[#] عشوائي من نفس عملية الاستدعاء. لا يمكن إعادة سحب الأبطال إلا أثناء الاستدعاء الذي كان نشطًا وقت استدعائهم الأساسي.\n\nسُيستبدل البطل المحدد بالبطل الجديد المُعاد سحبه. سيحظى البطل الجديد بمستويات تصعيد مضمونة. ستظل الأزياء المرتبطة بالبطل القديم في المخزون. \n\nتمنحك كل عملية إعادة سحب بطل مدرب إضافي.\n\nميزة إعادة السحب الأسطوري نشطة لـ [#!]{0}[#] الحالية"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "جوهر بناء هذه الشخصية هو [#!]جوهر تابع[#].\n\nيتم تفعيل [#!]جوهر التابع[#] كلما يتم إلقاء [#!]المهارة الخاصة[#] لهذه الشخصية:\n\n[*] مع [#!]جوهر تابع[#] مشحون بالكامل، لاستدعاء [#!]تابع آلي قاتل[#] مع صحة بنسبة [#!]{FAMILIARHEALTHPERCENT}%[#] وهجوم بنسبة [#!]{FAMILIARATTACK}%[#] موروث من الملقي لكل الحلفاء.\n[*] يتم تحديد الصحة والهجوم الموروثين من الملقي حسب مقدار الشحن في الجوهر. يتم استنفاد كل الشحن عند تفعيل الجوهر.\n[*]يستعيد تابع الآلي القاتل {FAMILIARHEAL}% من الصحة لمالكه في نهاية كل دور.\n[*][#!]الذبول:[#] تمنح كل ضربة من تابع الآلي القاتل هدفها [#!]{ATTACKMODIFIER}[#] من الهجوم."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "حامل الهراوة القرمزية"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "محارب إيلافوسنتور السريع"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "يمكن إجراء الاستدعاءات باستخدام الجواهر أو [#!]عملات الأساطير[#] التي يمكن الحصول عليها من [#!]مهام الأساطير[#].\n\nبعد كل {0} من الاستدعاءات يتم منح [#!]صندوق شعار إضافي[#]. يمكنك المطالبة بحد أقصى {1} من الصناديق أثناء كل فعالية من فعاليات استدعاء الأساطير.\n\nيمكنك إعادة سحب بطل [#!]أسطوري[#] تم استدعاؤه مسبقًا للحصول على بطل [#!]أسطوري[#] عشوائي من الاستدعاء نفسه. سيتم استبدال البطل المحدد بالبطل الذي تم إعادة سحبه حديثًا. سيحصل البطل الجديد على مستويات تصعيد مضمونة. ستظل الأزياء المقترنة بالبطل القديم في المخزون."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "يتضمن الأبطال الذين تم إطلاقهم قبل بدء هذه الفعالية بفترة من [#!]{0}[#] إلى [#!]{1}[#] أيام."
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "يتضمن أبطال الشهر السابقين وأبطال عائلة الأبطال"
           }
         ]
       },
       "French": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Purifie de façon sûre tous les effets négatifs du lanceur."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Pille[#] tous les ennemis, vole [#!]{DAMAGE}[#] PV et un bonus à chacun, et distribue les bonus volés aux alliés de façon aléatoire."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Pille[#] la cible pour lui voler [#!]{DAMAGE}[#] PV et un bonus."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Vole {ABSPOWER} % du mana de la cible et des ennemis proches et les distribue aux alliés."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Vole de façon sûre un effet appliqué positif de la cible. Il peut s'agir d'un effet obstiné, d'un bonus non dissipable ou d'un effet de danse.\n[*]Le vol sûr contourne les effets secondaires comme les dégâts lors du vol. Les compétences passives et les effets de famille peuvent toujours s'activer."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tous les ennemis [#!]s'endorment[#]. Ils subissent {DAMAGEMODIFIER} % de dégâts supplémentaires tant qu'ils sont endormis."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Tous les ennemis [#!]s'endorment[#]. Ils subissent {DAMAGEMODIFIER} % de dégâts supplémentaires tant qu'ils sont endormis."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Change l'élément de tous les ennemis en [##elementred]feu[#] pour {TURNS} tours."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Tous les alliés récupèrent {REMOVALEFFECT1FIXEDPOWER} PV après {TURNS} tours. Si l'effet est supprimé ou remplacé avant la fin de cette durée, la récupération s'élève à {REMOVALEFFECT2FIXEDPOWER} PV."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "La cible reçoit {DAMAGE} points de dégâts de saignement en {TURNS} tours. Le lanceur obtient de la santé boostée à hauteur de [#!]{ABSORBHEALING} %[#] des dégâts."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Reçoit {DAMAGE} points de dégâts de saignement en {TURNS} tours. Le lanceur obtient de la santé boostée à hauteur de [#!]{ABSORBHEALING} %[#] des dégâts."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Flétrissement :[#] la cible reçoit {ATTACKINCREASE} points d'attaque."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "La cible se transforme en [#!]ver de l'esprit[#]. Le [#!]ver de l'esprit[#] a {ATTACK} % d'attaque, {DEFENSE} % de défense et la compétence spéciale suivante :\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Inflige 75 points de [#!]folie[#] à un allié aléatoire.\n[>]Retire le malus [#!]Ver de l'esprit[#] du lanceur."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Supprime le [#!]ver de l'esprit[#] du lanceur."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Héros Imposteurs, Rongeurs aventureux et Dryades non inclus"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Le noyau de golem de ce personnage est un [#!]noyau sbire[#].\n\nLe [#!]noyau sbire[#] s'active à chaque fois que le personnage utilise sa [#!]compétence spéciale[#] :\n\n[*] Avec un [#!]noyau sbire[#] entièrement chargé, chaque allié reçoit un [#!]sbire robot tueur[#] avec [#!]{FAMILIARHEALTHPERCENT} %[#] de PV et [#!]{FAMILIARATTACK} %[#] d'attaque hérités du lanceur.\n[*] Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.\n[*]Le sbire robot tueur récupère {FAMILIARHEAL} % de santé pour son propriétaire à la fin de chaque tour.\n[*] [#!]Flétrissement :[#] chaque coup du sbire robot tueur donne à sa cible [#!]{ATTACKMODIFIER}[#] d'attaque."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] de génération de mana."
@@ -1118,75 +546,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Bombe caustique[#] : son propriétaire et les alliés proches subissent [#!]{DAMAGE}[#] points de dégâts après [#!]{TURNSLEFT}[#] tours. La [#!]bombe caustique[#] s'active également si elle est remplacée ou si le propriétaire est vaincu."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Lors de la relance légendaire, vous pouvez relancer un héros [#!]légendaire[#] invoqué pour obtenir un héros [#!]légendaire[#] aléatoire de la même invocation. Vous pouvez relancer un héros tant que l'invocation durant laquelle il a été invoqué est active.\n\nLe héros sélectionné sera remplacé par celui obtenu. Le nouveau héros aura des niveaux d'évolution garantis. Les costumes associés à l'ancien héros resteront dans l'inventaire.\n\nChaque relance octroie également un héros entraîneur bonus.\n\nRelance légendaire active pour : [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Le noyau de golem de ce personnage est un [#!]noyau sbire[#].\n\nLe [#!]noyau sbire[#] s'active à chaque fois que le personnage utilise sa [#!]compétence spéciale[#] :\n\n[*] Avec un [#!]noyau sbire[#] entièrement chargé, chaque allié reçoit un [#!]sbire robot tueur[#] avec [#!]{FAMILIARHEALTHPERCENT} %[#] de PV et [#!]{FAMILIARATTACK} %[#] d'attaque hérités du lanceur.\n[*] Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.\n[*] Le sbire robot tueur récupère {FAMILIARHEAL} % de santé pour son propriétaire à la fin de chaque tour.\n[*] [#!]Flétrissement :[#] chaque coup du sbire robot tueur donne à sa cible [#!]{ATTACKMODIFIER}[#] d'attaque."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Manieuse de masse écarlate"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Guerrier élaphocentaure rapide"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Pour pouvoir effectuer des invocations, vous devez utiliser des gemmes ou des [#!]pièces Légendes[#] qui s'obtiennent lors des [#!]quêtes de Légendes[#].\n\nToutes les {0} invocations, vous recevez un [#!]coffre d'emblèmes bonus[#]. Vous pouvez obtenir jusqu'à [#!]{1}[#] coffres pendant chaque invocation de Légendes.\n\nVous pouvez relancer un héros [#!]légendaire[#] invoqué pour obtenir un héros [#!]légendaire[#] aléatoire de la même invocation. Le héros sélectionné sera remplacé par celui obtenu. Le nouveau héros aura des niveaux d'évolution garantis. Les costumes associés à l'ancien héros resteront dans l'inventaire."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Inclut des héros sortis entre [#!]{0}[#] et [#!]{1}[#] jours avant le début de cet événement"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Inclut des héros du mois dernier et des héros de la même famille de champions"
           }
         ]
       },
       "Portuguese": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Expurga com segurança todos os males de status do invocador."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Saqueia[#] todos os inimigos, roubando [#!]{DAMAGE}[#] de vida e um reforço de cada, e distribui os reforços roubados entre os aliados."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Saqueia[#] o alvo, roubando [#!]{DAMAGE}[#] de vida e um reforço."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Rouba {ABSPOWER}% de mana do alvo e dos inimigos próximos e distribui entre os aliados."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Rouba com segurança um reforço de efeito de status do alvo. Isso inclui efeitos persistentes, efeitos de dança e reforços indissipáveis.\n[*] O roubo com segurança ignora os efeitos secundários, como dano ao remover, dos reforços removidos. Efeitos passivos e de família ainda podem ser ativados."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Todos os inimigos [#!]adormecem[#] e recebem {DAMAGEMODIFIER}% de dano aumentado enquanto dormem."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Altera o elemento de todos os inimigos para [##elementred]Fogo[#] por {TURNS} turnos."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, restaura {REMOVALEFFECT2FIXEDPOWER} de vida."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "O alvo recebe {DAMAGE} de dano de sangramento por {TURNS} turnos. O invocador absorve como vida reforçada {ABSORBHEALING}% do dano de sangramento causado."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Recebe [#!]{DAMAGEPERTURN}[#] de dano de sangramento por turno. O invocador absorve como vida reforçada [#!]{ABSORBHEALING}%[#] do dano causado."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Atrofia:[#] o alvo recebe {ATTACKINCREASE} de ataque."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "O alvo se transforma em um [#!]Vermental[#]. [#!]Vermentais[#] têm {ATTACK}% de ataque, {DEFENSE}% de defesa e a seguinte habilidade especial:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aplica 75 [#!]Insanidade[#] a um aliado aleatório.\n[>]Remove o mal [#!]Vermental[#] do invocador."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Remove a doença [#!]Vermental[#] do invocador."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Exclui heróis Mimese, Roedores Aventureiros e Dríades"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "O núcleo de construto deste personagem é um [#!]núcleo de ajudante[#].\n\nO [#!]núcleo de ajudante[#] é ativado sempre que a [#!]habilidade especial[#] deste personagem é lançada:\n\n[*] Com um [#!]núcleo de ajudante[#] totalmente carregado, convoca um [#!]ajudante Bot Assassino[#] com [#!]{FAMILIARHEALTHPERCENT}%[#] de HP e [#!]{FAMILIARATTACK}%[#] de ataque do invocador para todos os aliados.\n[*] O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.\n[*] O ajudante Bot Assassino restaura {FAMILIARHEAL}% da vida do dono ao fim de cada turno.\n[*] [#!]Atrofia:[#] cada acerto de um ajudante Bot Assassino dá [#!]{ATTACKMODIFIER}[#] de ataque ao alvo."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] de geração de mana."
@@ -1202,75 +594,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Bomba pungente[#]: o dono e os aliados próximos recebem [#!]{DAMAGE}[#] de dano após [#!]{TURNSLEFT}[#] turnos. A [#!]bomba pungente[#] também é ativada quando é substituída ou o dono é derrotado."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Na troca lendária, você pode trocar um herói [#!]lendário[#] convocado por outro herói [#!]lendário[#] da mesma convocação. Só é possível trocar heróis durante a convocação que estava ativa no momento em que eles foram convocados.\n\nO herói selecionado será substituído pelo novo herói. O novo herói terá níveis de ascensão garantidos. Os trajes associados ao antigo herói continuarão no inventário.\n\nCada troca também dá um herói de treino adicional.\n\nTroca lendária ativa para a [#!]{0}[#] atual."
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "O núcleo de construto deste personagem é um [#!]núcleo de ajudante[#].\n\nO [#!]núcleo de ajudante[#] é ativado sempre que a [#!]habilidade especial[#] deste personagem é lançada:\n\n[*] Com um [#!]núcleo de ajudante[#] totalmente carregado, convoca um [#!]ajudante Bot Assassino[#] com [#!]{FAMILIARHEALTHPERCENT}%[#] de HP e [#!]{FAMILIARATTACK}%[#] de ataque do invocador para todos os aliados.\n[*] O total de PV e o ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.\n[*] O ajudante Bot Assassino restaura {FAMILIARHEAL}% da vida do dono ao fim de cada turno.\n[*] [#!]Atrofia:[#] cada acerto de um ajudante Bot Assassino dá [#!]{ATTACKMODIFIER}[#] de ataque ao alvo."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Portador da Clava Rubra"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Guerreiro Elafocentauro Veloz"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "É possível fazer convocações com gemas ou [#!]moedas das lendas[#], que podem ser obtidas em [#!]objetivos das lendas[#].\n\nApós cada {0} convocações, um [#!]baú de emblemas de bônus[#] é concedido. É possível receber até [#!]{1}[#] baús durante cada evento da Convocação das Lendas.\n\nVocê pode trocar um herói [#!]lendário[#] por um herói [#!]lendário[#] aleatório da mesma convocação. O herói selecionado será substituído pelo novo herói. O noivo herói terá níveis de ascensão garantidos. Os trajes associados ao herói original permanecerão no inventário."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Inclui heróis lançados de [#!]{0}[#] a [#!]{1}[#] dias antes do início deste evento"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Inclui heróis do mês anteriores e heróis da família Campeões"
           }
         ]
       },
       "Indonesian": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Dengan aman membersihkan semua status pelemahan dari perapal."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Menggeledah[#] semua musuh, mencuri [#!]{DAMAGE}[#] kesehatan dan genjotan dari tiap musuh, dan secara acak mendistribusikan genjotan curian kepada sekutu."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Menggeledah[#] sasaran, mencuri [#!]{DAMAGE}[#] kesehatan dan genjotan."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Mencuri {ABSPOWER}% mana dari sasaran dan musuh terdekat dan membagikannya kepada sekutu."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Dengan aman mencuri satu genjotan efek status dari sasaran. Ini termasuk efek Bandel, genjotan yang tidak bisa dienyahkan, dan efek Tarian.\n[*]Pencurian aman mengabaikan efek sekunder, seperti kerusakan saat dihapus, dari genjotan yang dihapus. Keahlian pasif dan efek keluarga masih dapat diaktifkan."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Semua musuh [#!]tertidur[#] dan menerima peningkatan kerusakan sebesar {DAMAGEMODIFIER}% selagi tidur."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Semua musuh [#!]tertidur[#] dan menerima peningkatan kerusakan sebesar {DAMAGEMODIFIER}% selagi tidur."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Mengubah elemen semua musuh menjadi [##elementred]Api[#] selama {TURNS} giliran."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Kesehatan semua sekutu pulih {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, kesehatan akan pulih {REMOVALEFFECT2FIXEDPOWER}."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Sasaran menerima {DAMAGE} kerusakan Berdarah selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Berdarah yang ditimbulkan sebagai peningkatan kesehatan."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Mengalami [#!]{DAMAGEPERTURN}[#] kerusakan Berdarah per giliran. Perapal menyerap [#!]{ABSORBHEALING}%[#] dari kerusakan yang ditimbulkan sebagai peningkatan kesehatan."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Layu:[#] Sasaran mendapat {ATTACKINCREASE} serangan."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Sasaran berubah jadi [#!]Mindworm[#]. [#!]Mindworm[#] memiliki {ATTACK}% serangan, {DEFENSE}% pertahanan, dan Keahlian Khusus berikut:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Menimpakan 75 [#!]Kegilaan[#] pada satu sekutu acak.\n[>]Menghilangkan pelemahan [#!]Mindworm[#] dari perapal."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Menghapus pelemahan [#!]Mindworm[#] dari perapal."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Kecuali Pahlawan Mimik, Pengerat Petualang, dan Dryad"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Inti Konstruksi karakter ini adalah [#!]Inti Antek[#].\n\n[#!]Inti Antek[#] aktif setiap kali [#!]Keahlian Khusus[#] karakter ini dirapal:\n\n[*] Dengan [#!]Inti Antek[#] yang terisi penuh, memanggil [#!]Antek Bot Pembunuh[#] dengan [#!]{FAMILIARHEALTHPERCENT}%[#] HP dan serangan [#!]{FAMILIARATTACK}%[#] yang diwarisi dari perapal pada semua sekutu.\n[*] HP dan serangan yang diwarisi dari perapal diskalakan berdasarkan jumlah muatan di Inti. Semua muatan akan habis saat Inti diaktifkan.\n[*]Antek Bot Pembunuh memulihkan {FAMILIARHEAL}% kesehatan untuk pemiliknya di akhir setiap giliran.\n[*][#!]Layu:[#] Setiap serangan dari Antek Bot Pembunuh memberi targetnya [#!]{ATTACKMODIFIER}[#] serangan."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "Generasi mana [#!]{MODIFIER}%[#]."
@@ -1286,75 +642,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Bom Bau Tajam[#]: Pemilik dan sekutu terdekat menerima [#!]{DAMAGE}[#] kerusakan setelah [#!]{TURNSLEFT}[#] giliran. [#!]Bom Bau Tajam[#] juga akan aktif jika diganti atau jika pemiliknya kalah."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Dalam Cari Lagi Legendaris, kamu dapat menggunakan Pahlawan [#!]Legendaris[#] panggilan untuk mencari lagi Pahlawan [#!]Legendaris[#] acak dari panggilan yang sama. Pahlawan hanya bisa dicari lagi selama Panggilan yang aktif saat mereka dipanggil.\n\nPahlawan terpilih akan diganti dengan Pahlawan baru. Pahlawan baru dijamin akan memiliki level Kenaikan. Kostum yang terkait dengan pahlawan lama akan tetap ada dalam inventaris.\n\nSetiap Cari Lagi juga menghasilkan Pahlawan Pelatih bonus.\n\nCari Lagi aktif untuk [#!]{0}[#] saat ini."
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Inti Konstruksi karakter ini adalah [#!]Inti Antek[#].\n\n[#!]Inti Antek[#] aktif setiap kali [#!]Keahlian Khusus[#] karakter ini dirapal:\n\n[*] Dengan [#!]Inti Antek[#] yang terisi penuh, memanggil [#!]Antek Bot Pembunuh[#] dengan [#!]{FAMILIARHEALTHPERCENT}%[#] HP dan serangan [#!]{FAMILIARATTACK}%[#] yang diwarisi dari perapal pada semua sekutu.\n[*] HP dan serangan yang diwarisi dari perapal diskalakan berdasarkan jumlah muatan di Inti. Semua muatan akan habis saat Inti diaktifkan.\n[*]Antek Bot Pembunuh memulihkan {FAMILIARHEAL}% kesehatan untuk pemiliknya di akhir setiap giliran.\n[*][#!]Layu:[#] Setiap serangan dari Antek Bot Pembunuh memberi targetnya [#!]{ATTACKMODIFIER}[#] serangan."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Pemegang Pentungan Merah Tua"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Pejuang Elaphocentaur Gesit"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Panggilan dapat dilakukan dengan permata atau [#!]Koin Legenda[#] yang bisa didapatkan dari [#!]Petualangan Legenda[#].\n\nSetelah setiap {0} panggilan, satu [#!]Peti Emblem Bonus[#] diberikan. Kamu bisa mengklaim maksimum [#!]{1}[#] peti selama acara Panggilan Legenda.\n\nKamu bisa Mencari Lagi Pahlawan [#!]Legendaris[#] panggilan untuk mendapat satu Pahlawan [#!]Legendaris[#] acak dari panggilan yang sama. Pahlawan terpilih akan digantikan oleh Pahlawan yang baru. Pahlawan baru akan memiliki level Kenaikan terjamin. Kostum yang terkait dengan pahlawan lama akan tetap ada di inventaris."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Termasuk Pahlawan yang dirilis [#!]{0}[#] hingga [#!]{1}[#] hari sebelum dimulainya acara ini"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Termasuk Pahlawan Bulan Ini yang lampau dan Pahlawan Keluarga Juara"
           }
         ]
       },
       "Finnish": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Puhdistaa turvallisesti kaikki vaivat loitsijalta."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ryöstää[#] kaikki viholliset varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen jokaiselta ja jakaa varastetut tehosteet sattumanvaraisesti liittolaisille."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Ryöstää[#] kohteen varastaen [#!]{DAMAGE}[#] terveyttä ja tehosteen."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Anastaa kohteelta ja lähellä olevilta vihollisilta {ABSPOWER} % manaa ja jakaa sen liittolaisille."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Varastaa kohteelta turvallisesti yhden tilaefektitehosteen. Tämä koskee myös sitkeitä efektejä, tehosteita, joita ei voi häivyttää, sekä tanssiefektejä.\n[*]Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutukset, kuten poistosta johtuvan vaurion. Passiiviset taidot ja perhevaikutukset voivat silti aktivoitua."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Kaikki viholliset [#!]nukahtavat[#] ja kärsivät {DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Kaikkien vihollisten elementti muuttuu [##elementred]tuleksi[#] {TURNS} vuoron ajaksi."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Palauttaa kaikille liittolaisille {REMOVALEFFECT1FIXEDPOWER} terveyttä {TURNS} vuoron jälkeen. Jos vaikutus poistetaan tai korvataan ennen keston päättymistä, palauttaa {REMOVALEFFECT2FIXEDPOWER} terveyttä sen sijaan."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Kohde kärsii {DAMAGE} verenvuotovauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta verenvuotovauriosta tehostettuna terveytenä."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Kärsii [#!]{DAMAGEPERTURN}[#] verenvuotovauriota vuoroa kohden. Loitsija imee [#!]{ABSORBHEALING} %[#] tuotetusta vauriosta tehostettuna terveytenä."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Näivettäminen:[#] Kohde saa {ATTACKINCREASE} hyökkäystä."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Kohde muuttuu [#!]mielimadoksi[#]. [#!]Mielimadoilla[#] on {ATTACK} % hyökkäystä, {DEFENSE} % puolustusta ja seuraava erikoistaito:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Aiheuttaa 75 [#!]hulluutta[#] yhdelle satunnaiselle liittolaiselle.\n[>]Poistaa loitsijalta [#!]mielimato[#]-vaivan."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Poistaa [#!]mielimato[#]-vaivan loitsijalta."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Ei sisällä Matkija-, Seikkaileva jyrsijä- ja Dryadisankareita"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Tämän hahmon rakennelmaydin on [#!]käskyläisydin[#].\n\n[#!]Käskyläisydin[#] aktivoituu aina kun tämän hahmon [#!]erikoistaitoa[#] käytetään:\n\n[*] Täysin ladattu [#!]käskyläisydin[#] kutsuu kaikille liittolaisille [#!]tappajabottikäskyläisen[#], joka perii loitsijalta [#!]{FAMILIARHEALTHPERCENT} %[#] terveyttä ja [#!]{FAMILIARATTACK} %[#] hyökkäystä.\n[*] Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.\n[*]Tappajabottikäskyläinen palauttaa {FAMILIARHEAL} % terveyttä omistajalleen joka vuoron lopussa.\n[*] [#!]Näivetys:[#] Tappajabottikäskyläisen osumat antavat kohteelle [#!]{ATTACKMODIFIER}[#] hyökkäystä."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] manatuotantoa."
@@ -1370,75 +690,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Hajupommi[#]: Omistaja ja lähellä olevat liittolaiset kärsivät [#!]{DAMAGE}[#] vauriota [#!]{TURNSLEFT}[#] vuoron jälkeen. [#!]Hajupommi[#] aktivoituu myös silloin, jos se korvataan tai sen omistaja kukistuu."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Uuden legendaarisen etsinnällä voit vaihtaa kutsutun [#!]legendaarisen[#] sankarin uuteen satunnaiseen [#!]legendaariseen[#] sankariin samasta kutsusta. Sankarin tilalle voi etsiä uuden vain siitä kutsusta, joka oli aktiivisena sankarin kutsumisen aikana.\n\nValittu sankari korvataan uudella sankarilla. Uusi sankari saa taattuja ylennystasoja. Vanhaan sankariin liittyvät asut jäävät tavaraluetteloon. \n\nJokaisesta uuden sankarin etsinnästä saa myös bonuksena kouluttajasankarin.\n\nNykyinen aktiivinen uuden legendaarisen etsintä: [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Tämän hahmon rakennelmaydin on [#!]käskyläisydin[#].\n\n[#!]Käskyläisydin[#] aktivoituu aina kun tämän hahmon [#!]erikoistaitoa[#] käytetään:\n\n[*] Täysin ladattu [#!]käskyläisydin[#] kutsuu kaikille liittolaisille [#!]tappajabottikäskyläisen[#], joka perii loitsijalta [#!]{FAMILIARHEALTHPERCENT} %[#] terveyttä ja [#!]{FAMILIARATTACK} %[#] hyökkäystä.\n[*] Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.\n[*]Tappajabottikäskyläinen palauttaa {FAMILIARHEAL} % terveyttä omistajalleen joka vuoron lopussa.\n[*] [#!]Näivetys:[#] Tappajabottikäskyläisen osumat antavat kohteelle [#!]{ATTACKMODIFIER}[#] hyökkäystä."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Verenpunaisen nuijan käyttäjä"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Nopea peurakentaurisoturi"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Kutsuja voi tehdä jalokivillä tai [#!]Legendat-kolikoilla[#], joita voi saada [#!]Legendaseikkailuista[#].\n\nJoka {0}. kutsun jälkeen annetaan [#!]Bonusembleemiarkku[#]. Voit lunastaa enintään [#!]{1}[#] arkkua kunkin Legendat-kutsutapahtuman aikana.\n\nVoit vaihtaa kutsutun [#!]legendaarisen[#] sankarin uuteen satunnaiseen [#!]legendaariseen[#] sankariin samasta kutsusta. Valittu sankari korvataan uudella sankarilla. Uusi sankari saa taattuja ylennystasoja. Vanhaan sankariin liittyvät asut jäävät tavaraluetteloon."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Sisältää sankareita, jotka on julkaistu [#!]{0}[#]–[#!]{1}[#] päivää ennen tämän tapahtuman alkamista"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Sisältää aiempia kuukauden sankareita ja mestariperheen sankareita"
           }
         ]
       },
       "Danish": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Rydder på sikker vis alle statuslidelser fra kasteren."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ransager[#] alle fjender, stjæler [#!]{DAMAGE}[#] helbred og en buffer fra hver, og fordeler stjålne buffere tilfældigt blandt allierede."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Ransager[#] målet, stjæler [#!]{DAMAGE}[#] helbred og en buffer."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stjæler {ABSPOWER} % mana fra målet og fjender i nærheden, og fordeler den blandt allierede."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Stjæler på sikker vis en statuseffektbuffer fra målet. Dette omfatter stædige effekter, uophævelige buffere og danseeffekter.\n[*]Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede buffere, såsom skade ved fjernelse. Passive evner og familieeffekter kan stadig aktiveres."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle fjender falder i [#!]søvn[#] og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Ændrer alle fjenders element til [##elementred]ild[#] i {TURNS} runder."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle allierede genvinder {REMOVALEFFECT1FIXEDPOWER} helbred efter {TURNS} runder. Hvis effekten fjernes eller erstattes, før den udløber, genvindes {REMOVALEFFECT2FIXEDPOWER} HP i stedet."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Målet får {DAMAGE} bløderskade i {TURNS} runder. Kasteren absorberer {ABSORBHEALING} % af den påførte bløderskade som forstærket helbred."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Modtag [#!]{DAMAGEPERTURN}[#] bløderskade per runde. Kasteren absorberer [#!]{ABSORBHEALING} %[#] af den påførte skade som forstærket helbred."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Visne:[#] Målet får {ATTACKINCREASE} angreb."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Målet bliver til en [#!]Sindsorm[#]. [#!]Sindsorme[#] har {ATTACK} % angreb, {DEFENSE} % forsvar og følgende særlige evne:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Giver 75 [#!]vanvid[#] til en tilfældig allieret.\n[>]Fjerner [#!]Sindsormens[#] lidelse fra kasteren."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Fjerner [#!]Sindsorm[#]-lidelsen fra kasteren."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Efterligner-, Eventyrlysten gnaver- og Skovnymfehelte er ikke inkluderet"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Denne figurs byggekerne er en [#!]håndlangerkerne[#].\n\n[#!]Håndlangerkernen[#] aktiveres, hver gang denne figurs særlige egenskab kastes:\n\n[*] Med en fuldt opladet [#!]håndlangerkerne[#] hidkaldes en  dræberbot-håndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet kasteren på alle allierede.\n[*] De HP og det angreb, der arves fra kasteren, skaleres med ladningen i kernen. Al ladning udtømmes, når kernen aktiveres.\n[*]Dræberbot-håndlangeren genvinder {FAMILIARHEAL} % helbred til sin ejer i slutningen af hver runde.\n[*][#!]Forvitring:[#] Hver træffer fra en dræberbot-håndlanger giver dens mål [#!]{ATTACKMODIFIER}[#] angreb."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] managendannelse."
@@ -1454,75 +738,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Den ubehagelige bombe[#]: Ejeren og allierede i nærheden påføres [#!]{DAMAGE}[#] skade efter [#!]{TURNSLEFT}[#] runder. [#!]Den ubehagelige bombe[#] aktiveres også, hvis den erstattes, eller hvis ejeren besejres."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "På legendarisk ruller kan du kaste en hidkaldt [#!]legendarisk[#] helt tilbage for en tilfældig [#!]legendarisk[#] helt fra samme hidkaldelse. Helte kan kun kastes tilbage under hidkaldelsen, der var aktiv, da de blev hidkaldt. Den valgte helt erstattes af den nyvalgte helt. Den nye helt har garanteret forfremmelsesniveauer. Kostumer, der er forbundet med den gamle helt, forbliver i lageret. \n\nHver omgang giver også en bonustrænerhelt.\n\nLegendarisk tilbagekastning for aktuel [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Denne figurs byggekerne er en [#!]håndlangerkerne[#].\n\n[#!]Håndlangerkernen[#] aktiveres, hver gang denne figurs særlige egenskab kastes:\n\n[*] Med en fuldt opladet [#!]håndlangerkerne[#] hidkaldes en  dræberbot-håndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet kasteren på alle allierede.\n[*] De HP og det angreb, der arves fra kasteren, skaleres med ladningen i kernen. Al ladning udtømmes, når kernen aktiveres.\n[*]Dræberbot-håndlangeren genvinder {FAMILIARHEAL} % helbred til sin ejer i slutningen af hver runde.\n[*][#!]Forvitring:[#] Hver træffer fra en dræberbot-håndlanger giver dens mål [#!]{ATTACKMODIFIER}[#] angreb."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Bærer af den højrøde kølle"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Hurtig hjortekentaurkriger"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Hidkaldelser kan udføres med ædelsten eller [#!]legendemønter[#], som kan fås fra [#!]legendeekspeditioner[#].\n\nEfter hver {0} hidkalder en [#!]Bonus-emblemkiste[#]. Du kan maksimalt gøre krav på [#!]{1}[#] kister for hver legende-hidkaldelsesevent.\n\nDu kan kaste en hidkaldt [#!]legendarisk[#] helt tilbage for at få en tilfældig [#!]legendarisk[#] helt fra samme hidkaldelse. Den valgte helt erstattes af den nyvalgte helt. Den nye helt har garanterede forfremmelsesniveauer. Kostumer, der er forbundet med den gamle helt, forbliver i lageret."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Inkluderer helte udgivet [#!]{0}[#] til [#!]{1}[#] dage før starten på denne begivenhed"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Inkluderer tidligere Månedens helte og Mesterfamiliehelte"
           }
         ]
       },
       "Spanish": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Purifica de forma segura todos los estados alterados del héroe."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Saquea[#] a todos los enemigos, les roba [#!]{DAMAGE}[#] de vitalidad y una bendición a cada uno, y distribuye las bendiciones robadas entre los aliados de forma aleatoria."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Saquea[#] al objetivo y le roba  [#!]{DAMAGE}[#] de vitalidad y una bendición."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Roba un {ABSPOWER} % de maná del objetivo y los enemigos cercanos y lo distribuye entre los aliados."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*] Roba de forma segura una bendición de estado del objetivo. Se incluyen los efectos obstinados, las bendiciones indescartables y los efectos de danza.\n[*] El robo seguro ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse habilidades pasivas y efectos de familia."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Todos los enemigos [#!]se duermen[#] y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Todos los enemigos [#!]se duermen[#] y reciben un {DAMAGEMODIFIER} % más de daño mientras están dormidos."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Cambia el elemento de todos los enemigos a [##elementred]fuego[#] durante {TURNS} turnos."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Todos los aliados recuperan {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "El objetivo recibe {DAMAGE} de daño de sangrado durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de sangrado infligido como vitalidad aumentada."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Recibe [#!]{DAMAGEPERTURN}[#] de daño de sangrado por turno. El héroe absorbe un [#!]{ABSORBHEALING} %[#] del daño infligido como vitalidad aumentada."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Merma:[#] El objetivo obtiene {ATTACKINCREASE} de ataque."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "El objetivo se convierte en [#!]gusano mental[#]. Los [#!]gusanos mentales[#] cuentan con {ATTACK} % de ataque, {DEFENSE} % de defensa y la siguiente habilidad especial:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Infllige 75 de [#!]demencia[#] a un aliado aleatorio.\n[>]Elimina la alteración del [#!]gusano mental[#] del héroe."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Elimina la alteración [#!]gusano mental[#] del héroe."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Excluye héroes Copias, Roedores aventureros y Dríades"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "El núcleo de creación de este personaje es un [#!]núcleo secuaz[#].\n\nEl [#!]núcleo secuaz[#] se activa cada vez que este personaje lanza su [#!]habilidad especial[#]:\n\n[*] Con un [#!]núcleo secuaz[#] cargado al máximo, invoca a un [#!]secuaz robot asesino[#] para cada aliado con un [#!]{FAMILIARHEALTHPERCENT}[#] % VIT y un [#!]{FAMILIARATTACK}[#] % de ataque heredados del héroe.\n[*] La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.\n[*] El secuaz robot asesino recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.\n[*] [#!]Merma:[#] Cada golpe de un secuaz robot asesino le otorga al objetivo [#!]{ATTACKMODIFIER}[#] de ataque."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] de regeneración de maná."
@@ -1538,75 +786,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Bomba punzante[#]: Su dueño y los aliados cercanos reciben [#!]{DAMAGE}[#] de daño después de [#!]{TURNSLEFT}[#] turnos. La [#!]bomba punzante[#] también se activa si se reemplaza o si el dueño cae derrotado."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "En búsqueda legendaria, puedes volver a buscar un héroe [#!]legendario[#] invocado por un héroe [#!]legendario[#] aleatorio de la misma invocación. Los héroes solo se pueden volver a buscar durante la invocación que estaba activa cuando fueron invocados.\n\nEl héroe seleccionado se reemplazará por el héroe recién buscado. El nuevo héroe tendrá niveles de ascensión garantizados. Los atuendos asociados con el héroe anterior permanecerán en el inventario.\n\nCada búsqueda también otorga un entrenador de héroes adicional.\n\nBúsqueda legendaria activa para [#!]{0}[#] actual."
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "El núcleo de creación de este personaje es un [#!]núcleo secuaz[#].\n\nEl [#!]núcleo secuaz[#] se activa cada vez que este personaje lanza su [#!]habilidad especial[#]:\n\n[*] Con un [#!]núcleo secuaz[#] cargado al máximo, invoca a un [#!]secuaz robot asesino[#] para cada aliado con un [#!]{FAMILIARHEALTHPERCENT}[#] % VIT y un [#!]{FAMILIARATTACK}[#] % de ataque heredados del héroe.\n[*] La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.\n[*] El secuaz robot asesino recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.\n[*] [#!]Merma:[#] Cada golpe de un secuaz robot asesino le otorga al objetivo [#!]{ATTACKMODIFIER}[#] de ataque."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Portadora de porra carmesí"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Guerrero elafocentauro veloz"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Puedes realizar invocaciones con gemas o [#!]monedas de leyendas[#] que puedes obtener en [#!]aventuras de leyendas[#].\n\nTras cada {0} invocaciones, recibirás un [#!]cofre de emblemas de bonificación[#]. Puedes reclamar un máximo de [#!]{1}[#] cofres durante cada evento de invocación de leyendas.\n\nPuedes volver a buscar un héroe [#!]legendario[#] invocado y reemplazarlo por un héroe aleatorio [#!]legendario[#] de la misma invocación. El héroe seleccionado se reemplazará por el héroe recién buscado. El nuevo héroe tendrá niveles de ascensión garantizados. Los atuendos asociados con el héroe anterior permanecerán en el inventario."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Incluye héroes estrenados de [#!]{0}[#] a [#!]{1}[#] días antes del comienzo de este evento"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Incluye héroes del mes y de la familia de campeones anteriores"
           }
         ]
       },
       "Norwegian": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Renser bort statuslidelser fra brukeren på en trygg måte."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Ransaker[#] alle fiender, stjeler [#!]{DAMAGE}[#] helse og en økning fra hver, og fordeler tilfeldig stjålne økninger på allierte."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Ransaker[#] målet for å stjele [#!]{DAMAGE}[#] helse og en økning."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Stjeler {ABSPOWER} % mana fra målet og fiender i nærheten, og fordeler det til allierte."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Stjeler på en trygg måte én statuseffektøkning fra målet. Dette inkluderer sta-effekter, økninger som ikke kan fjernes og danseeffekter.\n[*]Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fjernede økningene. Passive ferdigheter og familieeffekter kan fortsatt aktiveres."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle fiender [#!]sovner[#] og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle fiender [#!]sovner[#] og tar {DAMAGEMODIFIER} % økt skaden mens de sover."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Endrer elementet til alle fiender til [##elementred]ild[#] i {TURNS} runder."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle allierte får tilbake {REMOVALEFFECT1FIXEDPOWER} helse etter {TURNS} runder. Hvis effekten fjernes eller erstattes før varigheten er over, fås {REMOVALEFFECT2FIXEDPOWER} helse tilbake i stedet."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Målet tar {DAMAGE} blødeskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført blødeskade som økt helse."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Tar [#!]{DAMAGEPERTURN}[#] blødeskade per tur. Brukeren absorberer [#!]{ABSORBHEALING} %[#] av skade påført som økt helse."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Visne:[#] Målet får {ATTACKINCREASE} angrep."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Målet gjøres om til en [#!]tankeorm[#]. [#!]Tankeormer[#] har {ATTACK} % angrep, {DEFENSE} % forsvar og følgende spesialferdighet:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Påfører 75 [#!]galskap[#] på én tilfeldig alliert.\n[>]Fjerner [#!]tankeorm[#]-lidelsen fra brukeren."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Fjerner [#!]tankeorm[#]-lidelsen fra brukeren."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Ekskluderer Etterlign-, Eventyrlysten gnager- og Dryaderhelter"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "Konstruktørkjernen til denne figuren er en [#!]undersåttkjerne[#].\n\n[#!]Undersåttkjernen[#] aktiveres hver gang denne figurens [#!]spesialferdighet[#] brukes:\n\n[*] Med en fulladet [#!]undersåttkjerne[#] kan du fremkalle en [#!]drapsrobotundersått[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] HP og [#!]{FAMILIARATTACK} %[#] nedarvet angrep fra brukeren på alle allierte.\n[*] HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.\n[*]Drapsrobotundersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.\n[*][#!]Visne:[#] Hvert treff fra en drapsrobotundersått gir målet [#!]{ATTACKMODIFIER}[#] angrep."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] mana-generering."
@@ -1622,75 +834,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Skarp bombe[#]: Eieren og allierte i nærheten tar [#!]{DAMAGE}[#] skade etter [#!]{TURNSLEFT}[#] runder. Den [#!]skarpe bomben[#] aktiveres også hvis den erstattes eller eieren beseires."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "Med legendarisk søking på nytt kan du bruke en fremkalt [#!]legendarisk[#] helt til å søke på nytt etter en tilfeldig [#!]legendarisk[#] helt fra samme fremkalling. Det er bare mulig å søke på nytt etter helter under fremkallingen som var aktiv da de ble fremkalt.\n\nDen valgte helten erstattes av helten som ble funnet. Den nye helten vil garantert ha forbedringsnivåer. Kostymer forbundet med den gamle helten vil forbli i beholdningen. \n\nHvert nye søk gir også en bonustrenerhelt.\n\nLegendarisk søking på nytt aktiv for nåværende [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Konstruktørkjernen til denne figuren er en [#!]undersåttkjerne[#].\n\n[#!]Undersåttkjernen[#] aktiveres hver gang denne figurens [#!]spesialferdighet[#] brukes:\n\n[*] Med en fulladet [#!]undersåttkjerne[#] kan du fremkalle en [#!]drapsrobotundersått[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] HP og [#!]{FAMILIARATTACK} %[#] nedarvet angrep fra brukeren på alle allierte.\n[*] HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.\n[*]Drapsrobotundersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.\n[*][#!]Visne:[#] Hvert treff fra en drapsrobotundersått gir målet [#!]{ATTACKMODIFIER}[#] angrep."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Bruker av blodrød klubbe"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Rask elaphocentaur-kriger"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Fremkallinger kan gjøres med juveler eller [#!]Legende-mynter[#], som du kan få fra [#!]Legende-oppdrag[#].\n\nEtter hver {0}. fremkalling får du en [#!]Bonus-emblemkiste[#]. Du kan sikre deg maksimalt [#!]{1}[#] kister under hver Legende-fremkallingshendelse.\n\nDu kan bruke en fremkalt [#!]legendarisk[#] helt til å søke på nytt etter en tilfeldig [#!]legendarisk[#] helt fra samme fremkalling. Den valgte helten erstattes av helten som blir funnet. Den nye helten har garantert forbedringsnivåer. Kostymer forbundet med den gamle helten vil forbli i beholdningen."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Inkluderer helter sluppet [#!]{0}[#] til [#!]{1}[#] dager før starten på denne hendelsen"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Inkluderer tidligere måneders helter og mesterfamiliehelter"
           }
         ]
       },
       "Dutch": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "Zuivert veilig alle statuseffecten van de spreukspreker."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]Plundert[#] alle vijanden, steelt van elk [#!]{DAMAGE}[#] gezondheid en een oppepper, en verdeelt de gestolen oppeppers willekeurig onder bondgenoten."
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]Plundert[#] het doelwit, steelt [#!]{DAMAGE}[#] gezondheid en een oppepper."
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "Steelt {ABSPOWER}% mana van het doelwit en vijanden in de buurt en verspreidt het onder bondgenoten."
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]Steelt veilig één statuseffectoppepper van het doelwit. Dit is inclusief hardnekkige effecten, niet-verwijderbare oppeppers en danseffecten.\n[*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "Alle vijanden vallen [#!]in slaap[#] en alle schade die slapende vijanden oplopen, is {DAMAGEMODIFIER}% hoger."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "Verandert het element van alle vijanden {TURNS} beurten lang in [##elementred]vuur[#]."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "Alle bondgenoten herstellen na {TURNS} beurten {REMOVALEFFECT1FIXEDPOWER} gezondheid. Als het effect voortijdig verwijderd of vervangen wordt, herstelt het in plaats daarvan {REMOVALEFFECT2FIXEDPOWER} gezondheid."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "Het doelwit loopt gedurende {TURNS} beurten {DAMAGE} bloedschade op. De spreukspreker absorbeert {ABSORBHEALING}% van de toegebrachte bloedschade als extra gezondheid."
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "Lijd [#!]{DAMAGEPERTURN}[#] bloedschade per beurt. De spreukspreker absorbeert [#!]{ABSORBHEALING}%[#] van de toegebrachte schade als extra gezondheid."
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]Verwelking[#]: het doelwit krijgt {ATTACKINCREASE} aanval."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "Het doelwit verandert in een [#!]geestworm[#]. De [#!]geestwormen[#] hebben {ATTACK}% aanvalskracht, {DEFENSE}% verdediging en de volgende speciale vaardigheid:\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]Brengt 75 [#!]waanzin[#] toe aan één willekeurige bondgenoot.\n[>]Verwijdert de [#!]geestwormaandoening[#] van de spreukspreker."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "Verwijdert de [#!]geestworm[#]aandoening van de spreukspreker."
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "Exclusief Nabootsers-, Avontuurlijk knaagdier- en Dryadenhelden"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "De constructiekern van dit personage is een [#!]volgelingkern[#].\n\nDe [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van dit personage wordt gebruikt:\n\n[*] Met een volledig opgeladen [#!]volgelingkern[#], wordt een [#!]killerbotvolgeling aangeroepen. Deze erft [#!]{FAMILIARHEALTHPERCENT}%[#] HP en [#!]{FAMILIARATTACK}%[#] aanvalskracht van de spreukspreker voor alle bondgenoten.\n[*] De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.\n[*]De killerbotvolgeling herstelt aan het eind van iedere beurt {FAMILIARHEAL}% gezondheid voor zijn eigenaar.[*] [#!]Verwelken:[#] iedere treffer van een killerbotvolgeling levert het doelwit [#!]{ATTACKMODIFIER}[#] aanvalskracht op."
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] manarecuperatie."
@@ -1706,83 +882,39 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]Penetrante bom[#]: de eigenaar en bondgenoten in de buurt lijden [#!]{DAMAGE}[#] schade na [#!]{TURNSLEFT}[#] beurten. De [#!]penetrante bom[#] wordt ook geactiveerd als deze wordt vervangen of als de eigenaar wordt verslagen."
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "In de legendarische zoekpoging kun je een aangeroepen [#!]legendarische[#] held zoeken voor een willekeurige [#!]legendarische[#] held uit dezelfde aanroep. Je kunt alleen een nieuwe zoekpoging voor helden doen tijdens de aanroep die actief was toen ze aangeroepen werden. De geselecteerde held wordt vervangen door de pas opnieuw gezochte held. De nieuwe held heeft verheffingsniveaus gegarandeerd. Outfits die aan de oude held zijn gekoppeld, blijven in de inventaris.\n\nElke zoekpoging levert ook een bonustrainerheld op.\n\nLegendarische zoekpoging actief voor huidige [#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "De constructiekern van dit personage is een [#!]volgelingkern[#].\n\nDe [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van dit personage wordt gebruikt:\n\n[*] Met een volledig opgeladen [#!]volgelingkern[#], wordt een [#!]killerbotvolgeling aangeroepen. Deze erft [#!]{FAMILIARHEALTHPERCENT}%[#] HP en [#!]{FAMILIARATTACK}%[#] aanvalskracht van de spreukspreker voor alle bondgenoten.\n[*] De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.\n[*] De killerbotvolgeling herstelt aan het eind van iedere beurt {FAMILIARHEAL}% gezondheid voor zijn eigenaar.[*] [#!]Verwelken:[#] iedere treffer van een killerbotvolgeling levert het doelwit [#!]{ATTACKMODIFIER}[#] aanvalskracht op."
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "Drager van de karmozijnknuppel"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "Snelle elaphocentaur-krijger"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "Je kunt helden aanroepen met edelstenen of [#!]legendarische munten[#], die je kunt verdienen via [#!]legendarische missies[#].\n\nNa elke {0} aanroepen ontvang je een [#!]bonusembleemkist[#]. Je kunt tijdens elk Legendarische aanroep-evenement maximaal [#!]{1}[#] kisten claimen.\n\nJe kunt voor een aangeroepen [#!]legendarische[#] held een nieuwe zoekpoging doen om een willekeurige [#!]legendarische[#] held uit dezelfde aanroep te krijgen. De geselecteerde held wordt vervangen door de nieuw gezochte held. De nieuwe held heeft gegarandeerde verheffingsniveaus. Kostuums die bij de oude held horen, blijven in de inventaris."
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "Inclusief helden die [#!]{0}[#] tot [#!]{1}[#] dagen voor de start van dit evenement worden uitgebracht"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "Inclusief eerdere helden van de maand en helden uit de kampioensfamilie"
           }
         ]
       },
       "ChineseSimplified": {
         "overrideEntries": [
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects",
-            "text": "安全净化施法者的所有状态异常。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.all.enemies.to.all.allies",
-            "text": "[#!]掠夺[#]所有敌人，从每名敌人身上偷取[#!]{DAMAGE}[#]点生命值和增益效果，并将偷取的增益效果随机分配给盟友。"
-          },
-          {
-            "key": "specials.v2.property.ransack.from.single.enemies.to.single.allies",
-            "text": "[#!]掠夺[#]目标，偷取[#!]{DAMAGE}[#]点生命值和增益效果。"
-          },
-          {
-            "key": "specials.v2.property.pre.manareallocation.from.neartotarget.enemies.to.all.allies",
-            "text": "从目标和附近敌人身上偷取{ABSPOWER}%法力，并分配给盟友。"
-          },
-          {
-            "key": "specials.v2.property.ransack.extra",
-            "text": "[*]安全地从目标身上偷取一个状态效果增益。包括顽固效果、不可驱散增益与舞蹈效果。\n[*]安全偷取会无视状态效果增益被移除时的副作用，例如移除时的伤害。但被动技能和家族效果仍会触发。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "所有敌人陷入[#!]沉睡[#]，且沉睡期间受到的伤害增加{DAMAGEMODIFIER}%。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.sleep.all.enemies.removeonnonfamiliardamagereceived",
-            "text": "所有敌人陷入[#!]沉睡[#]，且沉睡期间受到的伤害增加{DAMAGEMODIFIER}%。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.elementswap.all.enemies.red",
-            "text": "将所有敌人的元素属性转变为[##elementred]烈火系[#]，持续{TURNS}回合。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "目标会变成[#!]噬心虫[#]。此效果无法净化。[#!]噬心虫[#]拥有{ATTACK}%攻击力、{DEFENSE}%防御力以及以下特殊技能：\n\n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]对随机一名盟友施加100层[#!]狂乱[#]。\n[>]移除施法者身上的[#!]噬心虫[#]状态异常。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect",
-            "text": "{TURNS}回合后，所有盟友恢复{REMOVALEFFECT1FIXEDPOWER}点生命。若该效果在持续时间结束前被移除或取代，则改为恢复{REMOVALEFFECT2FIXEDPOWER}点生命。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.bleeding.single.enemies.absorb_boostedhealth.to.single",
-            "text": "目标在{TURNS}回合内受到共计{DAMAGE}点流血伤害。施法者会吸收所造成流血伤害的{ABSORBHEALING}%并转化为生命值加成。"
-          },
-          {
-            "key": "statuseffects.description.bleeding.absorb_boostedhealth.to.single",
-            "text": "每回合受到[#!]{DAMAGEPERTURN}[#]点流血伤害。施法者会吸收所造成剧毒伤害的[#!]{ABSORBHEALING}%[#]并转化为生命值加成。"
-          },
-          {
-            "key": "specials.v2.property.wither.none.single.enemies.attack",
-            "text": "[#!]衰退：[#]目标获得{ATTACKINCREASE}点攻击力。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance",
-            "text": "目标会变成[#!]噬心虫[#]。[#!]噬心虫[#]拥有{ATTACK}%攻击力、{DEFENSE}%防御力以及以下特殊技能：\n \n[#!]{REPLACEDSPECIALTITLE}[#] ({REPLACEDMANASPEED})\n[>]对随机一名盟友施加75层[#!]狂乱[#]。\n[>]移除施法者身上的[#!]噬心虫[#]状态异常。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies",
-            "text": "移除施法者身上的[#!]噬心虫[#]状态异常。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.berserkdefense.neartotarget.allies",
-            "text": "施法者与附近盟友获得{DEFENSE}%防御力，每次被击中后额外增加{CHANGE}%防御力，持续{TURNS}回合，最多增加{MAXMODIFIER}%防御力。"
-          },
-          {
-            "key": "odds.asterisk.info.excluded.dryad_mimic_rodent",
-            "text": "不包含拟态兽、冒险鼠和树妖英雄"
-          },
-          {
-            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
-            "text": "此角色的机械核心为[#!]小兵核心[#]。\n\n每当此角色施放[#!]特殊技能[#]时，都会启动[#!]小兵核心[#]：\n\n[*]若[#!]小兵核心[#]已完全充满，为所有盟友召唤一个[#!]杀戮机器人小兵[#]，小兵继承施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻击力。\n[*]核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。\n[*]每回合结束时，杀戮机器人小兵为其所有者恢复{FAMILIARHEAL}%的生命值。\n[*][#!]衰退：[#]杀戮机器人小兵每次命中，会给予目标[#!]{ATTACKMODIFIER}[#]攻击力。"
-          },
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#]法力生成。"
@@ -1798,10 +930,38 @@
           {
             "key": "statuseffects.description.pungentbomb.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect",
             "text": "[#!]刺鼻炸弹[#]：[#!]{TURNSLEFT}[#]回合后，所有者及附近盟友受到[#!]{DAMAGE}[#]伤害。如被替换或所有者被击败，[#!]刺鼻炸弹[#]也会启动。"
+          },
+          {
+            "key": "characterlotteryreroll.info.message",
+            "text": "在传奇重抽中，你可以将一名已召唤的[#!]传奇[#]英雄重抽为本次召唤中的一名随机[#!]传奇[#]英雄。英雄仅可在召唤该英雄时正在生效的召唤活动期间进行重抽。\n\n所选英雄将替换为重抽获得的新英雄。\n\n新英雄将必定获得进阶等级。原英雄关联的服装将保留在背包中。\n\n每次重抽还可额外获得一名训练师英雄。\n\n当前开启的传奇重抽：[#!]{0}[#]"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "此角色的机械核心为[#!]小兵核心[#]。\n\n每当此角色施放[#!]特殊技能[#]时，都会启动[#!]小兵核心[#]：\n\n[*]若[#!]小兵核心[#]已完全充满，为所有盟友召唤一个[#!]杀戮机器人小兵[#]，小兵继承施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻击力。\n[*]核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。\n[*]每回合结束时，杀戮机器人小兵为其所有者恢复{FAMILIARHEAL}%的生命值。\n[*][#!]衰退：[#]杀戮机器人小兵每次命中，会给予目标[#!]{ATTACKMODIFIER}[#]攻击力。"
+          },
+          {
+            "key": "heroes.name_fancy.fire_god_zeif",
+            "text": "猩红战棍持有者"
+          },
+          {
+            "key": "heroes.name_fancy.nature_god_theron",
+            "text": "迅疾鹿人战士"
+          },
+          {
+            "key": "lottery.description.long.legendssummon",
+            "text": "消耗宝石或[#!]神话币[#]即可进行召唤，[#!]神话币[#]可通过完成[#!]神话任务[#]获取。\n\n每完成{0}次召唤，即可获得一个[#!]奖励纹章宝箱[#]。每次神话召唤活动期间，最多可领取 [#!]{1}[#]个宝箱。\n\n 你可以对已召唤出的[#!]传奇[#]英雄进行重抽，随机获取该召唤池内的另一名[#!]传奇[#]英雄。选中的原有英雄将会被重抽得到的新英雄替换。新英雄将拥有保底进阶等级。原英雄对应的皮肤将会保留在背包内。"
+          },
+          {
+            "key": "odds.asterisk.info.cutoff.young.old",
+            "text": "包含此活动开始前[#!]{0}[#]天至[#!]{1}[#]天之间发布的英雄"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_hotm",
+            "text": "包含过往的月度英雄与冠军家族英雄"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2703876896
+  "languageOverridesConfigId": 643162893
 }

@@ -2790,6 +2790,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_perseus_costume_cute",
+        "name": "Perseus Toon",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "The target resists healing and receives 500 damage per each resisted healing for 4 turns. This effect can't be cleansed.",
+            "All allies get +95% defense against Nature for 4 turns.",
+            "Deals extra damage against Fire.",
+            "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "gargoyle_pophit",
         "name": "Pophit",
         "effects": [
@@ -10192,6 +10203,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_niso",
+        "name": "Niso",
+        "effects": [
+            "Deals 335% damage to the  enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "The less HP the caster has before dealing damage to a target, the more damage they will deal, up to 470%.",
+            "If the caster is defeated during the next 3 turns, they are resurrected in the beginning of their next turn with 45% health and 700 damage is dealt to all enemies. (All status effect and stacks are removed when the caster is defeated.)"
+        ]
+    },
+    {
         "heroId": "christmas_noel",
         "name": "Noel",
         "effects": [
@@ -12405,6 +12425,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "s2_rugged_fisherman_costume_cute",
+        "name": "Wilbur Toon",
+        "effects": [
+            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.",
+            "All allies get +63% defense for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "All enemies get -44% defense for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer."
+        ]
+    },
+    {
         "heroId": "bard_zhabog",
         "name": "Zhabog",
         "effects": [
@@ -14294,6 +14324,16 @@ const allTranslations =
             "Deals 270% damage to all enemies.",
             "All allies get +125% normal attack for 4 turns. (If additional effect increase attack in general, normal attacks can have a total maximum of +180% increased power.)",
             "All allies get +50% defense for 4 turns."
+        ]
+    },
+    {
+        "heroId": "s2_oceanus_costume_cute",
+        "name": "Oceanus Toon",
+        "effects": [
+            "Deals 350% damage to all enemies.",
+            "All allies get +150% normal attack for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters. (If additional effects increase attack in general, normal attacks can have a total maximum of +200% increased power.)",
+            "All allies get +55% defense for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire characters.",
+            "Deals extra damage against Nature."
         ]
     },
     {
@@ -18677,28 +18717,38 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "construct_niso",
-        "name": "Niso",
-        "effects": []
-    },
-    {
-        "heroId": "s2_oceanus_costume_cute",
-        "name": "Oceanus Toon",
-        "effects": []
-    },
-    {
-        "heroId": "ice_god_perseus_costume_cute",
-        "name": "Perseus Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_rugged_fisherman_costume_cute",
-        "name": "Wilbur Toon",
-        "effects": []
-    },
-    {
         "heroId": "vegetable_garlacteus",
         "name": "Garlacteus",
+        "effects": []
+    },
+    {
+        "heroId": "holy_god_onatel_costume_divine",
+        "name": "Onatel C",
+        "effects": []
+    },
+    {
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "name": "Kunchen C",
+        "effects": []
+    },
+    {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_fafnir_costume_fallen",
+        "name": "Fafnir C",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_snorri_costume_powder",
+        "name": "Snorri C",
         "effects": []
     }
 ];
