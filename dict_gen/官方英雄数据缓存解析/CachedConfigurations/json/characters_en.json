@@ -34037,7 +34037,7 @@
     "parentHeroId": "tales2_fafnir"
   },
   "tales2_svafa_costume_spirit_hunter": {
-    "id": "tales2_svafa_costume_spirit_hunter",
+    "id": "Dwarven Spirit Hunter",
     "element": "Blue",
     "family": "myrkheim",
     "baseHealth": 1095,
@@ -34058,7 +34058,7 @@
     "parentHeroId": "tales2_svafa"
   },
   "tales2_fimafeng_costume_skater": {
-    "id": "tales2_fimafeng_costume_skater",
+    "id": "Dwarven Ice Skating Master",
     "element": "Red",
     "family": "myrkheim",
     "baseHealth": 1101,
@@ -34079,7 +34079,7 @@
     "parentHeroId": "tales2_fimafeng"
   },
   "tales2_motsognir_costume_holy": {
-    "id": "tales2_motsognir_costume_holy",
+    "id": "Paragon of the Dwarven Frontier",
     "element": "Yellow",
     "family": "myrkheim",
     "baseHealth": 1209,
@@ -34100,7 +34100,7 @@
     "parentHeroId": "tales2_motsognir"
   },
   "tales2_bragi_costume_stone": {
-    "id": "tales2_bragi_costume_stone",
+    "id": "Dwarven Stone Boxer",
     "element": "Yellow",
     "family": "myrkheim",
     "baseHealth": 1094,
@@ -34494,7 +34494,7 @@
     "parentHeroId": "goblin_darkfeather"
   },
   "goblin_kettle_costume_field_cook": {
-    "id": "goblin_kettle_costume_field_cook",
+    "id": "Field Cook",
     "element": "Blue",
     "family": "goblin",
     "baseHealth": 801,
@@ -34516,7 +34516,7 @@
     "parentHeroId": "goblin_kettle"
   },
   "goblin_smarttongue_costume_jeweller": {
-    "id": "goblin_smarttongue_costume_jeweller",
+    "id": "Goblin Jeweller",
     "element": "Green",
     "family": "goblin",
     "baseHealth": 808,
@@ -34538,7 +34538,7 @@
     "parentHeroId": "goblin_smarttongue"
   },
   "goblin_deadboot_costume_jester": {
-    "id": "goblin_deadboot_costume_jester",
+    "id": "Harrowing Goblin Jester",
     "element": "Purple",
     "family": "goblin",
     "baseHealth": 783,
@@ -34858,7 +34858,7 @@
     "parentHeroId": "goblin_fighter"
   },
   "ninja_peridot_costume_herbalist": {
-    "id": "ninja_peridot_costume_herbalist",
+    "id": "Ninja of Deadly Herbs",
     "element": "Green",
     "family": "ninja",
     "baseHealth": 697,
@@ -34880,7 +34880,7 @@
     "parentHeroId": "ninja_peridot"
   },
   "ninja_ruby_costume_menancer": {
-    "id": "ninja_ruby_costume_menancer",
+    "id": "Menacing Oni Ninja",
     "element": "Red",
     "family": "ninja",
     "baseHealth": 700,
@@ -34902,7 +34902,7 @@
     "parentHeroId": "ninja_ruby"
   },
   "exalted_female_statue_costume_stylish": {
-    "id": "exalted_female_statue_costume_stylish",
+    "id": "Stylish Ancient of Stone",
     "element": "Yellow",
     "family": "classic",
     "baseHealth": 680,
@@ -34923,7 +34923,7 @@
     "parentHeroId": "exalted_female_statue"
   },
   "royal_female_knight_costume_stylish": {
-    "id": "royal_female_knight_costume_stylish",
+    "id": "Stylish Champion",
     "element": "Blue",
     "family": "classic",
     "baseHealth": 461,
@@ -34944,7 +34944,7 @@
     "parentHeroId": "royal_female_knight"
   },
   "oriental_monkey_captain_costume_stylish": {
-    "id": "oriental_monkey_captain_costume_stylish",
+    "id": "Stylish Monkey",
     "element": "Yellow",
     "family": "classic",
     "baseHealth": 497,
@@ -34965,7 +34965,7 @@
     "parentHeroId": "oriental_monkey_captain"
   },
   "orc_warrior_costume_stylish": {
-    "id": "orc_warrior_costume_stylish",
+    "id": "Stylish Orc",
     "element": "Red",
     "family": "classic",
     "baseHealth": 373,
@@ -34986,7 +34986,7 @@
     "parentHeroId": "orc_warrior"
   },
   "dwarven_smasher_costume_stylish": {
-    "id": "dwarven_smasher_costume_stylish",
+    "id": "Stylish Dwarf",
     "element": "Blue",
     "family": "classic",
     "baseHealth": 413,
@@ -35007,7 +35007,7 @@
     "parentHeroId": "dwarven_smasher"
   },
   "holy_god_onatel_costume_divine": {
-    "id": "holy_god_onatel_costume_divine",
+    "id": "Blind Diviner",
     "element": "Yellow",
     "family": "hotm2019",
     "baseHealth": 705,
@@ -35029,7 +35029,7 @@
     "parentHeroId": "holy_god_onatel"
   },
   "dark_god_kunchen_costume_mystic": {
-    "id": "dark_god_kunchen_costume_mystic",
+    "id": "Mystic of Croquet",
     "element": "Purple",
     "family": "hotm2019",
     "baseHealth": 701,
@@ -35051,7 +35051,7 @@
     "parentHeroId": "dark_god_kunchen"
   },
   "ice_god_frida_costume_juggernaut": {
-    "id": "ice_god_frida_costume_juggernaut",
+    "id": "Arctic Juggernaut",
     "element": "Blue",
     "family": "hotm2019",
     "baseHealth": 645,
@@ -35073,7 +35073,7 @@
     "parentHeroId": "ice_god_frida"
   },
   "fire_god_anzogh_costume_expeditioner": {
-    "id": "fire_god_anzogh_costume_expeditioner",
+    "id": "Expeditioner with a Grudge",
     "element": "Red",
     "family": "hotm2019",
     "baseHealth": 615,
@@ -35095,7 +35095,7 @@
     "parentHeroId": "fire_god_anzogh"
   },
   "fire_god_natalya_costume_cute": {
-    "id": "fire_god_natalya_costume_cute",
+    "id": "Fireborn Toon",
     "element": "Red",
     "family": "hotm2018",
     "baseHealth": 690,
@@ -35115,7 +35115,7 @@
     "parentHeroId": "fire_god_natalya"
   },
   "holy_god_delilah_costume_cute": {
-    "id": "holy_god_delilah_costume_cute",
+    "id": "Hero of Toon Island",
     "element": "Yellow",
     "family": "hotm2018",
     "baseHealth": 654,
@@ -35295,7 +35295,7 @@
     "origin": "The Brave & The Beautiful"
   },
   "beauty_beast_henriette": {
-    "id": "beauty_beast_henriette",
+    "id": "Beauty's Supercilious Sister",
     "element": "Purple",
     "family": "beauty_beast",
     "baseHealth": 1125,
@@ -35335,7 +35335,7 @@
     "origin": "The Brave & The Beautiful"
   },
   "beauty_beast_mirielle": {
-    "id": "beauty_beast_mirielle",
+    "id": "Petrified Maid of the Bewitched Castle",
     "element": "Red",
     "family": "beauty_beast",
     "baseHealth": 1152,
@@ -35743,7 +35743,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_shaw": {
-    "id": "scoundrel_shaw",
+    "id": "Muttering Rat Catcher",
     "element": "Green",
     "family": "shady_scoundrels",
     "baseHealth": 1200,
@@ -35762,7 +35762,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_clim": {
-    "id": "scoundrel_clim",
+    "id": "Deadeye Sharpshooter",
     "element": "Yellow",
     "family": "shady_scoundrels",
     "baseHealth": 1165,
@@ -35781,7 +35781,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_vasily": {
-    "id": "scoundrel_vasily",
+    "id": "Scale Clan's Debt Collector",
     "element": "Yellow",
     "family": "shady_scoundrels",
     "baseHealth": 1150,
@@ -35800,7 +35800,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_saci": {
-    "id": "scoundrel_saci",
+    "id": "Prodigal Mistborn Occultist",
     "element": "Blue",
     "family": "shady_scoundrels",
     "baseHealth": 1128,
@@ -35819,7 +35819,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_marton": {
-    "id": "scoundrel_marton",
+    "id": "Moonstruck Druid of the Woods",
     "element": "Green",
     "family": "shady_scoundrels",
     "baseHealth": 1111,
@@ -35838,7 +35838,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_nevison": {
-    "id": "scoundrel_nevison",
+    "id": "Gambling Scoundrel",
     "element": "Red",
     "family": "shady_scoundrels",
     "baseHealth": 1166,
@@ -35857,7 +35857,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_paracelsus": {
-    "id": "scoundrel_paracelsus",
+    "id": "Mad Poison Brewer",
     "element": "Purple",
     "family": "shady_scoundrels",
     "baseHealth": 1105,
@@ -35876,7 +35876,7 @@
     "origin": "Goblin Village"
   },
   "scoundrel_jaz": {
-    "id": "scoundrel_jaz",
+    "id": "Failed Jackrabbit Experiment",
     "element": "Blue",
     "family": "shady_scoundrels",
     "baseHealth": 1161,
@@ -37212,7 +37212,7 @@
     "origin": "MonthlyHeroAugust2026"
   },
   "nature_god_theron": {
-    "id": "nature_god_theron",
+    "id": "Swift Elaphocentaur Warrior",
     "element": "Green",
     "family": "hotm2026",
     "baseHealth": 1050,
@@ -37231,7 +37231,7 @@
     "origin": "MonthlyHeroOctober2026"
   },
   "fire_god_zeif": {
-    "id": "fire_god_zeif",
+    "id": "Wielder of Crimson Club",
     "element": "Red",
     "family": "hotm2026",
     "baseHealth": 1060,
@@ -37825,7 +37825,7 @@
     "origin": "Astral Plane"
   },
   "astral_demon_ksorath": {
-    "id": "astral_demon_ksorath",
+    "id": "Astral Demon Courier",
     "element": "Red",
     "family": "astral_demons",
     "baseHealth": 1138,
@@ -37845,7 +37845,7 @@
     "origin": "Astral Plane"
   },
   "astral_demon_gremory": {
-    "id": "astral_demon_gremory",
+    "id": "Astral Demon Psychopomp",
     "element": "Yellow",
     "family": "astral_demons",
     "baseHealth": 1156,
@@ -37865,7 +37865,7 @@
     "origin": "Astral Plane"
   },
   "astral_demon_azaghim": {
-    "id": "astral_demon_azaghim",
+    "id": "Astral Demon Mauler",
     "element": "Green",
     "family": "astral_demons",
     "baseHealth": 1139,
@@ -37885,7 +37885,7 @@
     "origin": "Astral Plane"
   },
   "astral_demon_isharra": {
-    "id": "astral_demon_isharra",
+    "id": "Astral Demon Sentinel",
     "element": "Blue",
     "family": "astral_demons",
     "baseHealth": 1163,
@@ -37905,7 +37905,7 @@
     "origin": "Astral Plane"
   },
   "astral_demon_coronzom": {
-    "id": "astral_demon_coronzom",
+    "id": "Astral Demon Arbiter",
     "element": "Purple",
     "family": "astral_demons",
     "baseHealth": 1138,
@@ -38118,6 +38118,7 @@
     "specialId": "iron_mimic_bite_red",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonIronMimicRed",
+    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_green": {
@@ -38138,6 +38139,7 @@
     "specialId": "iron_mimic_bite_green",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonIronMimicGreen",
+    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_blue": {
@@ -38176,8 +38178,9 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "iron_mimic_bite_yellow",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-08-22 07:00:00",
     "origin": "SecretSummonIronMimicYellow",
+    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_purple": {
@@ -38198,7 +38201,6 @@
     "specialId": "iron_mimic_bite_purple",
     "canBeReceivedDate": "2026-08-04 07:00:00",
     "origin": "SecretSummonIronMimicPurple",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "dark_god_caravita": {
@@ -38314,7 +38316,7 @@
     "origin": "Windfall Temple"
   },
   "champions_marjatta": {
-    "id": "champions_marjatta",
+    "id": "Nordic Skittles Champion",
     "element": "Red",
     "family": "champions",
     "baseHealth": 1220,
@@ -38333,7 +38335,7 @@
     "origin": "Champions"
   },
   "champions_rubio": {
-    "id": "champions_rubio",
+    "id": "Rhythmic Gymnastic Champion",
     "element": "Purple",
     "family": "champions",
     "baseHealth": 1158,
@@ -38352,7 +38354,7 @@
     "origin": "Champions"
   },
   "champions_horace": {
-    "id": "champions_horace",
+    "id": "Archery Champion",
     "element": "Yellow",
     "family": "champions",
     "baseHealth": 1215,
@@ -38371,7 +38373,7 @@
     "origin": "Champions"
   },
   "champions_katzy": {
-    "id": "champions_katzy",
+    "id": "Boxing Champion",
     "element": "Green",
     "family": "champions",
     "baseHealth": 1162,
@@ -38390,7 +38392,7 @@
     "origin": "Champions"
   },
   "harpy_kyrathis": {
-    "id": "harpy_kyrathis",
+    "id": "Stormcaller Harpy",
     "element": "Blue",
     "family": "harpy",
     "baseHealth": 1154,
@@ -38408,7 +38410,7 @@
     "origin": "Harvest"
   },
   "harpy_jarrik": {
-    "id": "harpy_jarrik",
+    "id": "Cardinal Harpy Warrior",
     "element": "Red",
     "family": "harpy",
     "baseHealth": 1148,
@@ -38426,7 +38428,7 @@
     "origin": "Harvest"
   },
   "ghost_chou_kou_gui": {
-    "id": "ghost_chou_kou_gui",
+    "id": "Ghost of Noxious Mouth",
     "element": "Green",
     "family": "ghost",
     "baseHealth": 1151,
@@ -38444,7 +38446,7 @@
     "origin": "KingdomWar"
   },
   "ghost_xiwang_gui": {
-    "id": "ghost_xiwang_gui",
+    "id": "Hungry Ghost",
     "element": "Blue",
     "family": "ghost",
     "baseHealth": 1167,
@@ -38462,7 +38464,7 @@
     "origin": "KingdomWar"
   },
   "vegetable_pyaza": {
-    "id": "vegetable_pyaza",
+    "id": "Purple Onion Warlock",
     "element": "Purple",
     "family": "vegetable",
     "baseHealth": 1210,
@@ -38481,7 +38483,7 @@
     "origin": "Vigilant Vegetables"
   },
   "vegetable_yusopea": {
-    "id": "vegetable_yusopea",
+    "id": "Tactical Pea-Shooter",
     "element": "Green",
     "family": "vegetable",
     "baseHealth": 1137,
@@ -38500,7 +38502,7 @@
     "origin": "Vigilant Vegetables"
   },
   "mahayoddha_sangeeta": {
-    "id": "mahayoddha_sangeeta",
+    "id": "Wandering Minstrel",
     "element": "Red",
     "family": "mahayoddha",
     "baseHealth": 1203,
@@ -38519,7 +38521,7 @@
     "origin": "Windfall Temple"
   },
   "mahayoddha_sangram": {
-    "id": "mahayoddha_sangram",
+    "id": "Valiant Senapati",
     "element": "Purple",
     "family": "mahayoddha",
     "baseHealth": 1164,
@@ -38538,7 +38540,7 @@
     "origin": "Windfall Temple"
   },
   "ghost_mu_gui": {
-    "id": "ghost_mu_gui",
+    "id": "Ghost of Forgotten Grave",
     "element": "Purple",
     "family": "ghost",
     "baseHealth": 1203,

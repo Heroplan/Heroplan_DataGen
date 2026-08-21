@@ -984,18 +984,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Iron Mimic",
-        "fancy_name": "Iron Satchel of Terror",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_iron_yellow",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Bhagirathi",
         "fancy_name": "Sarita Goddess",
         "color": "Blue",

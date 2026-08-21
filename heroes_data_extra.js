@@ -49848,7 +49848,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "2200-01-01",
+        "Release date": "2026-08-22",
         "AetherPower": "Bulwark",
         "heroId": "mimic_iron_yellow",
         "baseAttack": 701,

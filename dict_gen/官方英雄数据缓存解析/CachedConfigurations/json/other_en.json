@@ -3114,6 +3114,12 @@
             "endTime": "2026-08-05 07:00:00"
           },
           {
+            "id": "SecretSummonIronMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2026-08-22 07:00:00",
+            "endTime": "2026-08-23 07:00:00"
+          },
+          {
             "id": "MonthlyHeroOctober2026",
             "type": "MonthlyHero",
             "startTime": "2026-10-01 07:00:00",
@@ -33701,123 +33707,123 @@
             "gemValue": 1000
           },
           {
-            "id": "champions_marjatta",
+            "id": "Nordic Skittles Champion",
             "gemValue": 1000
           },
           {
-            "id": "champions_rubio",
+            "id": "Rhythmic Gymnastic Champion",
             "gemValue": 1000
           },
           {
-            "id": "champions_katzy",
+            "id": "Boxing Champion",
             "gemValue": 1000
           },
           {
-            "id": "champions_horace",
+            "id": "Archery Champion",
             "gemValue": 1000
           },
           {
-            "id": "harpy_jarrik",
+            "id": "Cardinal Harpy Warrior",
             "gemValue": 1000
           },
           {
-            "id": "harpy_kyrathis",
+            "id": "Stormcaller Harpy",
             "gemValue": 1000
           },
           {
-            "id": "goblin_smarttongue_costume_jeweller",
+            "id": "Goblin Bard-Goblin Jeweller",
             "gemValue": 1000
           },
           {
-            "id": "goblin_deadboot_costume_jester",
+            "id": "Goblin Cultist-Harrowing Goblin Jester",
             "gemValue": 1000
           },
           {
-            "id": "nature_god_theron",
+            "id": "Swift Elaphocentaur Warrior",
             "gemValue": 1000
           },
           {
-            "id": "fire_god_zeif",
+            "id": "Wielder of Crimson Club",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_ksorath",
+            "id": "Astral Demon Courier",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_gremory",
+            "id": "Astral Demon Psychopomp",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_azaghim",
+            "id": "Astral Demon Mauler",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_isharra",
+            "id": "Astral Demon Sentinel",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_coronzom",
+            "id": "Astral Demon Arbiter",
             "gemValue": 1000
           },
           {
-            "id": "goblin_kettle_costume_field_cook",
+            "id": "Kitchen Alchemist-Field Cook",
             "gemValue": 1000
           },
           {
-            "id": "ghost_chou_kou_gui",
+            "id": "Ghost of Noxious Mouth",
             "gemValue": 1000
           },
           {
-            "id": "ghost_mu_gui",
+            "id": "Ghost of Forgotten Grave",
             "gemValue": 1000
           },
           {
-            "id": "ghost_xiwang_gui",
+            "id": "Hungry Ghost",
             "gemValue": 1000
           },
           {
-            "id": "ninja_ruby_costume_menancer",
+            "id": "The Red Oni Ninja-Menacing Oni Ninja",
             "gemValue": 1000
           },
           {
-            "id": "ninja_peridot_costume_herbalist",
+            "id": "Ninja of Deadly Toxins-Ninja of Deadly Herbs",
             "gemValue": 1000
           },
           {
-            "id": "scoundrel_shaw",
+            "id": "Muttering Rat Catcher",
             "gemValue": 1000
           },
           {
-            "id": "scoundrel_clim",
+            "id": "Deadeye Sharpshooter",
             "gemValue": 1000
           },
           {
-            "id": "scoundrel_nevison",
+            "id": "Gambling Scoundrel",
             "gemValue": 1000
           },
           {
-            "id": "beauty_beast_mirielle",
+            "id": "Petrified Maid of the Bewitched Castle",
             "gemValue": 1000
           },
           {
-            "id": "beauty_beast_henriette",
+            "id": "Beauty's Supercilious Sister",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_pyaza",
+            "id": "Purple Onion Warlock",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_yusopea",
+            "id": "Tactical Pea-Shooter",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_sangeeta",
+            "id": "Wandering Minstrel",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_sangram",
+            "id": "Valiant Senapati",
             "gemValue": 1000
           },
           {
@@ -83486,7 +83492,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_kettle_costume_field_cook",
+            "costumeId": "Kitchen Alchemist-Field Cook",
             "parentHeroId": "goblin_kettle"
           },
           {
@@ -83498,7 +83504,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_smarttongue_costume_jeweller",
+            "costumeId": "Goblin Bard-Goblin Jeweller",
             "parentHeroId": "goblin_smarttongue"
           },
           {
@@ -83510,7 +83516,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_deadboot_costume_jester",
+            "costumeId": "Goblin Cultist-Harrowing Goblin Jester",
             "parentHeroId": "goblin_deadboot"
           },
           {
@@ -83522,7 +83528,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_svafa_costume_spirit_hunter",
+            "costumeId": "Dwarven Big Game Hunter-Dwarven Spirit Hunter",
             "parentHeroId": "tales2_svafa"
           },
           {
@@ -83534,7 +83540,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_fimafeng_costume_skater",
+            "costumeId": "Dwarven Survivalist-Dwarven Ice Skating Master",
             "parentHeroId": "tales2_fimafeng"
           },
           {
@@ -83546,7 +83552,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_motsognir_costume_holy",
+            "costumeId": "Dwarven Frontier Wildman-Paragon of the Dwarven Frontier",
             "parentHeroId": "tales2_motsognir"
           },
           {
@@ -83558,7 +83564,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_bragi_costume_stone",
+            "costumeId": "Dwarven Prizefighter-Dwarven Stone Boxer",
             "parentHeroId": "tales2_bragi"
           },
           {
@@ -83570,7 +83576,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_peridot_costume_herbalist",
+            "costumeId": "Ninja of Deadly Toxins-Ninja of Deadly Herbs",
             "parentHeroId": "ninja_peridot"
           },
           {
@@ -83582,7 +83588,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_ruby_costume_menancer",
+            "costumeId": "The Red Oni Ninja-Menacing Oni Ninja",
             "parentHeroId": "ninja_ruby"
           },
           {
@@ -83594,7 +83600,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "exalted_female_statue_costume_stylish",
+            "costumeId": "Ancient of Stone-Stylish Ancient of Stone",
             "parentHeroId": "exalted_female_statue"
           },
           {
@@ -83606,7 +83612,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "royal_female_knight_costume_stylish",
+            "costumeId": "Willful Champion-Stylish Champion",
             "parentHeroId": "royal_female_knight"
           },
           {
@@ -83618,7 +83624,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_monkey_captain_costume_stylish",
+            "costumeId": "Monkey Lord-Stylish Monkey",
             "parentHeroId": "oriental_monkey_captain"
           },
           {
@@ -83630,7 +83636,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "orc_warrior_costume_stylish",
+            "costumeId": "First in Battle-Stylish Orc",
             "parentHeroId": "orc_warrior"
           },
           {
@@ -83642,7 +83648,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "dwarven_smasher_costume_stylish",
+            "costumeId": "The Hotblooded-Stylish Dwarf",
             "parentHeroId": "dwarven_smasher"
           },
           {
@@ -83654,7 +83660,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-08-25 07:00:00",
-            "costumeId": "holy_god_onatel_costume_divine",
+            "costumeId": "Blind Seer-Blind Diviner",
             "parentHeroId": "holy_god_onatel"
           },
           {
@@ -83666,7 +83672,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-08-25 07:00:00",
-            "costumeId": "dark_god_kunchen_costume_mystic",
+            "costumeId": "Mystical Vagabond-Mystic of Croquet",
             "parentHeroId": "dark_god_kunchen"
           },
           {
@@ -83678,7 +83684,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ice_god_frida_costume_juggernaut",
+            "costumeId": "Arctic Menace-Arctic Juggernaut",
             "parentHeroId": "ice_god_frida"
           },
           {
@@ -83690,7 +83696,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "fire_god_anzogh_costume_expeditioner",
+            "costumeId": "Shaman with a Grudge-Expeditioner with a Grudge",
             "parentHeroId": "fire_god_anzogh"
           },
           {
@@ -83702,7 +83708,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "fire_god_natalya_costume_cute",
+            "costumeId": "Fireborn Enchantress-Fireborn Toon",
             "parentHeroId": "fire_god_natalya"
           },
           {
@@ -83714,7 +83720,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "holy_god_delilah_costume_cute",
+            "costumeId": "Hero of the Forbidden Island-Hero of Toon Island",
             "parentHeroId": "holy_god_delilah"
           }
         ],
@@ -100194,5 +100200,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 393772332
+  "otherConfigId": 1355966364
 }

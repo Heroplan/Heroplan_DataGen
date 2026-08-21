@@ -108074,7 +108074,7 @@ window.allHeroes =
         "speed": "中等",
         "skill": "钢铁泪滴",
         "source": "市集召唤",
-        "Release date": "2200-01-01",
+        "Release date": "2026-08-22",
         "specialId": "iron_mimic_bite_yellow",
         "passiveSkills": [
             "never_miss_special",

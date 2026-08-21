@@ -3114,6 +3114,12 @@
             "endTime": "2026-08-05 07:00:00"
           },
           {
+            "id": "SecretSummonIronMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2026-08-22 07:00:00",
+            "endTime": "2026-08-23 07:00:00"
+          },
+          {
             "id": "MonthlyHeroOctober2026",
             "type": "MonthlyHero",
             "startTime": "2026-10-01 07:00:00",
@@ -33701,99 +33707,99 @@
             "gemValue": 1000
           },
           {
-            "id": "champions_marjatta",
+            "id": "玛尔娅塔",
             "gemValue": 1000
           },
           {
-            "id": "champions_rubio",
+            "id": "鲁比奥",
             "gemValue": 1000
           },
           {
-            "id": "champions_katzy",
+            "id": "凯齐",
             "gemValue": 1000
           },
           {
-            "id": "champions_horace",
+            "id": "霍勒斯·B. F.",
             "gemValue": 1000
           },
           {
-            "id": "harpy_jarrik",
+            "id": "贾里克",
             "gemValue": 1000
           },
           {
-            "id": "harpy_kyrathis",
+            "id": "基拉西斯",
             "gemValue": 1000
           },
           {
-            "id": "goblin_smarttongue_costume_jeweller",
+            "id": "巧舌妇-哥布林珠宝匠",
             "gemValue": 1000
           },
           {
-            "id": "goblin_deadboot_costume_jester",
+            "id": "亡灵布特-骇人哥布林小丑",
             "gemValue": 1000
           },
           {
-            "id": "nature_god_theron",
+            "id": "塞隆",
             "gemValue": 1000
           },
           {
-            "id": "fire_god_zeif",
+            "id": "泽夫",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_ksorath",
+            "id": "克索拉丝",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_gremory",
+            "id": "格雷莫里",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_azaghim",
+            "id": "阿扎吉姆",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_isharra",
+            "id": "伊莎拉",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_coronzom",
+            "id": "科隆佐姆",
             "gemValue": 1000
           },
           {
-            "id": "goblin_kettle_costume_field_cook",
+            "id": "凯特尔-战地厨师",
             "gemValue": 1000
           },
           {
-            "id": "ghost_chou_kou_gui",
+            "id": "丑口鬼",
             "gemValue": 1000
           },
           {
-            "id": "ghost_mu_gui",
+            "id": "木鬼",
             "gemValue": 1000
           },
           {
-            "id": "ghost_xiwang_gui",
+            "id": "西王鬼",
             "gemValue": 1000
           },
           {
-            "id": "ninja_ruby_costume_menancer",
+            "id": "露比-煞鬼忍者",
             "gemValue": 1000
           },
           {
-            "id": "ninja_peridot_costume_herbalist",
+            "id": "珮绿朵-致命药草忍者",
             "gemValue": 1000
           },
           {
-            "id": "scoundrel_shaw",
+            "id": "肖",
             "gemValue": 1000
           },
           {
-            "id": "scoundrel_clim",
+            "id": "克利姆",
             "gemValue": 1000
           },
           {
-            "id": "scoundrel_nevison",
+            "id": "内维森",
             "gemValue": 1000
           },
           {
@@ -33805,19 +33811,19 @@
             "gemValue": 1000
           },
           {
-            "id": "vegetable_pyaza",
+            "id": "皮亚扎",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_yusopea",
+            "id": "尤索佩娅",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_sangeeta",
+            "id": "桑吉塔",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_sangram",
+            "id": "桑格拉姆",
             "gemValue": 1000
           },
           {
@@ -83486,7 +83492,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_kettle_costume_field_cook",
+            "costumeId": "凯特尔-战地厨师",
             "parentHeroId": "凯特尔"
           },
           {
@@ -83498,7 +83504,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_smarttongue_costume_jeweller",
+            "costumeId": "巧舌妇-哥布林珠宝匠",
             "parentHeroId": "巧舌妇"
           },
           {
@@ -83510,7 +83516,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_deadboot_costume_jester",
+            "costumeId": "亡灵布特-骇人哥布林小丑",
             "parentHeroId": "亡灵布特"
           },
           {
@@ -83522,7 +83528,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_svafa_costume_spirit_hunter",
+            "costumeId": "斯瓦法-矮人猎灵者",
             "parentHeroId": "斯瓦法"
           },
           {
@@ -83534,7 +83540,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_fimafeng_costume_skater",
+            "costumeId": "费玛芬格-矮人滑冰大师",
             "parentHeroId": "费玛芬格"
           },
           {
@@ -83546,7 +83552,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_motsognir_costume_holy",
+            "costumeId": "莫索尼尔-矮人边境楷模",
             "parentHeroId": "莫索尼尔"
           },
           {
@@ -83558,7 +83564,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_bragi_costume_stone",
+            "costumeId": "布拉吉-矮人岩拳斗士",
             "parentHeroId": "布拉吉"
           },
           {
@@ -83570,7 +83576,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_peridot_costume_herbalist",
+            "costumeId": "珮绿朵-致命药草忍者",
             "parentHeroId": "珮绿朵"
           },
           {
@@ -83582,7 +83588,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ninja_ruby_costume_menancer",
+            "costumeId": "露比-煞鬼忍者",
             "parentHeroId": "露比"
           },
           {
@@ -83594,7 +83600,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "exalted_female_statue_costume_stylish",
+            "costumeId": "贾斯提斯-英姿岩石长者",
             "parentHeroId": "贾斯提斯"
           },
           {
@@ -83606,7 +83612,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "royal_female_knight_costume_stylish",
+            "costumeId": "索尼娅-英姿冠军",
             "parentHeroId": "索尼娅"
           },
           {
@@ -83618,7 +83624,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_monkey_captain_costume_stylish",
+            "costumeId": "悟空-英姿猴子",
             "parentHeroId": "悟空"
           },
           {
@@ -83630,7 +83636,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "orc_warrior_costume_stylish",
+            "costumeId": "纳什加-英姿兽人",
             "parentHeroId": "纳什加"
           },
           {
@@ -83642,7 +83648,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "dwarven_smasher_costume_stylish",
+            "costumeId": "卡里尔-英姿矮人",
             "parentHeroId": "卡里尔"
           },
           {
@@ -83654,7 +83660,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-08-25 07:00:00",
-            "costumeId": "holy_god_onatel_costume_divine",
+            "costumeId": "奥纳特而-盲卜师",
             "parentHeroId": "奥纳特而"
           },
           {
@@ -83666,7 +83672,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-08-25 07:00:00",
-            "costumeId": "dark_god_kunchen_costume_mystic",
+            "costumeId": "坤奇恩-槌球巫师",
             "parentHeroId": "坤奇恩"
           },
           {
@@ -83678,7 +83684,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ice_god_frida_costume_juggernaut",
+            "costumeId": "弗里达-极地主宰",
             "parentHeroId": "弗里达"
           },
           {
@@ -83690,7 +83696,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "fire_god_anzogh_costume_expeditioner",
+            "costumeId": "安佐-宿怨远征客",
             "parentHeroId": "安佐"
           },
           {
@@ -83702,7 +83708,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "fire_god_natalya_costume_cute",
+            "costumeId": "娜塔莉亚-火裔卡通",
             "parentHeroId": "娜塔莉亚"
           },
           {
@@ -83714,7 +83720,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "holy_god_delilah_costume_cute",
+            "costumeId": "达利拉-卡通岛英雄",
             "parentHeroId": "达利拉"
           }
         ],
@@ -100194,5 +100200,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 393772332
+  "otherConfigId": 1355966364
 }
