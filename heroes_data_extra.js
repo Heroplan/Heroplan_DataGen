@@ -49860,5 +49860,25 @@ window.allHeroesExtra = [
             "mimic_iron_yellow"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Garlacteus",
+        "fancy name": "Garlic Demolitionist",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-08-23",
+        "AetherPower": "Fiend Resist",
+        "heroId": "vegetable_garlacteus",
+        "baseAttack": 681,
+        "baseDefense": 698,
+        "baseHealth": 1172,
+        "specialId": "pungent_punishment",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

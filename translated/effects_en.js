@@ -1849,6 +1849,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "vegetable_garlacteus",
+        "name": "Garlacteus",
+        "effects": [
+            "Harvests buffs from the target. (Harvest safely removes 2 buffs, positive Stacks or Growth effects from each target. This includes undispellable buffs and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe removal bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate. Growth effects are removed first. Other effects, the latest removed first.)",
+            "The target receives a Pungent Bomb. Pungent Bomb explodes after 3 turns and deals 1400 damage to the target and nearby allies. (The Pungent Bomb also explodes if it is replaced or if the target is defeated.)",
+            "The target gets -45% defense for 3 turns.",
+            "Deals 400% damage to the target."
+        ]
+    },
+    {
         "heroId": "construct_blue_mage",
         "name": "Ghealach",
         "effects": [
@@ -18725,11 +18735,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "vegetable_garlacteus",
-        "name": "Garlacteus",
-        "effects": []
     },
     {
         "heroId": "holy_god_onatel_costume_divine",
