@@ -412,5 +412,13 @@
   "hinder_cleansing": "passive_hinder_cleansing",
   "dragon_damage_on_turn_start": "passive_crackling_hatchling",
   "dragon_low_health_mana_recovery_on_damage_received": "passive_surgeback",
-  "attack_buff_on_damage_received_low": "passive_attack_buff_on_damage_received"
+  "attack_buff_on_damage_received_low": "passive_attack_buff_on_damage_received",
+  "construct_core_charge_saver": "passive_energy_saver",
+  "defense_stack_on_enemy_special_if_enemy_faster_than_slow_champions": "passive_defense_up_stack_on_enemy_special",
+  "steal_mana_over_time_harpy": "passive_swoop_and_steal",
+  "legendary_reflector": "passive_legendary_reflector",
+  "mana_on_dispel_buff_attempt": "passive_mana_on_dispel_buff",
+  "health_boost_on_dispel_attempt": "health_boost_on_dispel",
+  "damage_reduction_stack_on_enemy_special_if_faster_than_slow": "passive_reduced_damage_stack_on_enemy_special",
+  "legendary_reversal": "passive_legendary_reversal"
 }
