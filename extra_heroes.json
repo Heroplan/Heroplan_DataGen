@@ -1,41 +1,5 @@
 [
     {
-        "name": "Onatel C",
-        "fancy_name": "Blind Diviner",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-25 07:00:00",
-        "star": 5,
-        "family": "hotm2019",
-        "costume_id": 1,
-        "heroId": "holy_god_onatel_costume_divine",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kunchen C",
-        "fancy_name": "Mystic of Croquet",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-25 07:00:00",
-        "star": 5,
-        "family": "hotm2019",
-        "costume_id": 1,
-        "heroId": "dark_god_kunchen_costume_mystic",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Katzy",
-        "fancy_name": "Boxing Champion",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-25 07:00:00",
-        "star": 5,
-        "family": "champions",
-        "costume_id": 0,
-        "heroId": "champions_katzy",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Topaz C",
         "fancy_name": "Ninja of Deadly Precision",
         "color": "Yellow",

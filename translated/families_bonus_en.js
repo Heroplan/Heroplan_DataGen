@@ -282,90 +282,72 @@ window.families_bonus = [
         "originalIndex": 29,
         "name": "hotm2017",
         "bonus": [
-            "Bonus for 1/2/3:",
-            "+5%/+10%/+15% mana generation.",
-            "Bonus for 2+ Heroes:",
-            "Element Link affects all allies."
+            "Bonus for 1/2/3 unique Heroes of the same family:",
+            " * +5%/+10%/+15% mana generation."
         ]
     },
     {
         "originalIndex": 30,
         "name": "hotm2018",
         "bonus": [
-            "Bonus for 1/2/3:",
-            "+10%/+15%/+20% defense.",
-            "Bonus for 2+ Heroes:",
-            "Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +15%/+20%/+25% defense."
         ]
     },
     {
         "originalIndex": 31,
         "name": "hotm2019",
         "bonus": [
-            "Bonus for 1/2/3:",
-            "+10%/+15%/+20% attack.",
-            "Bonus for 2+ Heroes:",
-            "Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +15%/+20%/+25% attack."
         ]
     },
     {
         "originalIndex": 32,
         "name": "hotm2020",
         "bonus": [
-            "Bonus for 1/2/3:",
-            "+10%/+15%/+20% healing.",
-            "Bonus for 2+ Heroes:",
-            "Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +20%/+25%/+30% healing."
         ]
     },
     {
         "originalIndex": 33,
         "name": "hotm2021",
         "bonus": [
-            "Bonus for 1/2/3:",
-            "+10%/+15%/+20% critical chance.",
-            "Bonus for 2+ Heroes:",
-            "Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +20%/+25%/+30% critical chance."
         ]
     },
     {
         "originalIndex": 34,
         "name": "hotm2022",
         "bonus": [
-            "Bonus for 1/2/3 Heroes:",
-            "+10%/+15%/+20% attack.",
-            "Bonus for 2+ Heroes:",
-            "Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +15%/+20%/+25% attack."
         ]
     },
     {
         "originalIndex": 35,
         "name": "hotm2023",
         "bonus": [
-            "Bonus for 1/2/3 Heroes:",
-            "* +10%/+15%/+20% defense.",
-            "Bonus for 2+ Heroes:",
-            "* Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +15%/+20%/+25% defense."
         ]
     },
     {
         "originalIndex": 36,
         "name": "hotm2024",
         "bonus": [
-            "Bonus for 1/2/3 Heroes:",
-            " * +10%/+15%/+20% healing.",
-            "Bonus for 2+ Heroes:",
-            " * Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            " * +20%/+25%/+30% healing."
         ]
     },
     {
         "originalIndex": 37,
         "name": "hotm2025",
         "bonus": [
-            "Bonus for 1/2/3 Heroes:",
-            " * +10%/+15%/+20% critical chance.",
-            "Bonus for 2+ Heroes:",
-            " * Element Link affects all allies."
+            "Bonus for 1/2/3 Heroes of the same element in team:",
+            "* +15%/+20%/+25% critical chance."
         ]
     },
     {
@@ -824,7 +806,8 @@ window.families_bonus = [
         "name": "champions",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "* +35% / +50% / +65% attack."
+            " * +30% / +40% / +50% attack.",
+            " * +20% / +30% / +40% defense."
         ]
     },
     {

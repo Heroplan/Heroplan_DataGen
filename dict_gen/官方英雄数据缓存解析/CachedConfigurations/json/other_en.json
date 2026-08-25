@@ -100092,10 +100092,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "87.0.1",
-    "maxVersionToShowUpdateOutReminderIos": "87.0.1",
+    "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
+    "maxVersionToShowUpdateOutReminderIos": "87.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.4",
-    "standaloneNewVersionRolloutPercentage": 70,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -100200,5 +100200,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1355966364
+  "otherConfigId": 210031668
 }

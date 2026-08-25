@@ -2421,8 +2421,8 @@ const allTranslations =
         "name": "Satori",
         "passives": [
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
-            "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn.",
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
+            "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn. It also activates on attempted dispels.",
+            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn. It also activates on attempted dispels."
         ]
     },
     {
@@ -4871,6 +4871,14 @@ const allTranslations =
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
+    },
+    {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "passives": [
+            "Ignore Taunt: This character's Special Skill is not affected by Taunt.",
+            "Mana on Taunt: Each time an enemy receives Taunt status effect this character's mana is increased by 10%."
         ]
     },
     {
@@ -7782,6 +7790,14 @@ const allTranslations =
         "name": "Kunchen",
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
+        ]
+    },
+    {
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "name": "Kunchen C1",
+        "passives": [
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Legendary Reflector: Any status ailments this character resists with Passive Skills are reflected to all enemies."
         ]
     },
     {
@@ -11237,7 +11253,7 @@ const allTranslations =
         "passives": [
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Mana on Taunt: Each time an enemy receives Taunt status effect this character's mana is increased by 10%.",
-            "Ignore Taunt: The character's Special Skill is not affected by Taunt."
+            "Ignore Taunt: This character's Special Skill is not affected by Taunt."
         ]
     },
     {
@@ -14020,6 +14036,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "holy_god_onatel_costume_divine",
+        "name": "Onatel C1",
+        "passives": [
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
+            "Legendary Reflector: Any status ailments this character resists with Passive Skills are reflected to all enemies."
+        ]
+    },
+    {
         "heroId": "vegetable_onwyn",
         "name": "Onwyn",
         "passives": [
@@ -14757,21 +14781,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "holy_god_onatel_costume_divine",
-        "name": "Onatel C",
-        "passives": []
-    },
-    {
-        "heroId": "dark_god_kunchen_costume_mystic",
-        "name": "Kunchen C",
-        "passives": []
-    },
-    {
-        "heroId": "champions_katzy",
-        "name": "Katzy",
-        "passives": []
     },
     {
         "heroId": "ninja_topaz_costume_precise",

@@ -25259,8 +25259,8 @@
     "baseDefense": 481,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "mana_on_dispel_buff_satori",
-      "health_boost_on_dispel",
+      "mana_on_dispel_buff_attempt",
+      "health_boost_on_dispel_attempt",
       "mana_gen_on_debuff"
     ],
     "classType": "Paladin",

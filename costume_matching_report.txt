@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (622 / 0)
+✅ 成功匹配的服装 (624 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -35,6 +35,7 @@ Name: Queen of Hearts Costume1, Fancy Name: Benefactor of Wonderland
 Name: Hu Tao Glass, Fancy Name: Blade of Glass
 Name: Mitsuko Costume1, Fancy Name: Blazing Beauty
 Name: Finley Costume1, Fancy Name: Bleak Commodore
+Name: Onatel costume1, Fancy Name: Blind Diviner
 Name: Wilbur Costume1, Fancy Name: Bold Brewmaster
 Name: Guardian Jackal Costume1, Fancy Name: Bone Collector of Teltoc
 Name: Aramis costume1, Fancy Name: Boulanger Musketeer
@@ -334,6 +335,7 @@ Name: Tiburtus Toon, Fancy Name: Mournful Toon
 Name: Tiburtus glass, Fancy Name: Mournful Vitrail
 Name: Ahhotep Costume1, Fancy Name: Mummy Champion
 Name: Vaishali costume1, Fancy Name: Mystic Pie Master
+Name: Kunchen costume1, Fancy Name: Mystic of Croquet
 Name: Medea Costume1, Fancy Name: Naga Goddess of the Deep
 Name: Spartoi Costume1, Fancy Name: Naga Guard
 Name: Black Knight Costume1, Fancy Name: Negative Knight

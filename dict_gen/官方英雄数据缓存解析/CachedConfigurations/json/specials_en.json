@@ -9253,7 +9253,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 3050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -14529,7 +14529,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2600,
+          "powerMultiplierPerMil": 2900,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -19268,7 +19268,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3650,
+          "powerMultiplierPerMil": 3850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -68561,7 +68561,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_maple",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2650,
+        "powerMultiplierPerMil": 2850,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -77312,5 +77312,5 @@
       }
     ]
   },
-  "specialsConfigId": 1137440951
+  "specialsConfigId": 2595745944
 }

@@ -38397,6 +38397,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_1_1",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38421,6 +38422,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_1_2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38439,6 +38441,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_2_1",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38457,6 +38460,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_2_2",
         "dollarValue": 7,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38481,6 +38485,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_3_1",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38500,6 +38505,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_3_2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38524,6 +38530,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_4_1",
         "dollarValue": 12,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38549,6 +38556,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.legends_day_4_2",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58917,5 +58925,5 @@
       }
     ]
   },
-  "productsConfigId": 1088179690
+  "productsConfigId": 3030232500
 }

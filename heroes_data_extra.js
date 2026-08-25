@@ -6159,8 +6159,8 @@ window.allHeroesExtra = [
         "baseHealth": 809,
         "specialId": "thousand_palm_strikes",
         "passiveSkills": [
-            "mana_on_dispel_buff_satori",
-            "health_boost_on_dispel",
+            "mana_on_dispel_buff_attempt",
+            "health_boost_on_dispel_attempt",
             "mana_gen_on_debuff"
         ],
         "family": "champions"
@@ -49880,5 +49880,79 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Katzy",
+        "fancy name": "Boxing Champion",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
+        "Release date": "2026-08-25",
+        "AetherPower": "Special Boost",
+        "heroId": "champions_katzy",
+        "baseAttack": 705,
+        "baseDefense": 677,
+        "baseHealth": 1162,
+        "specialId": "guard_breaking_hook",
+        "passiveSkills": [
+            "add_mana_on_enemy_taunt_norman",
+            "bypass_taunt_effects"
+        ],
+        "family": "champions"
+    },
+    {
+        "name": "Kunchen costume1",
+        "fancy name": "Mystic of Croquet",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2026-08-25",
+        "AetherPower": "Damage Reduction",
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "baseAttack": 299,
+        "baseDefense": 399,
+        "baseHealth": 701,
+        "specialId": "power_of_ajna",
+        "specialId_costume": "might_of_ajna",
+        "passiveSkills": [
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "legendary_reflector"
+        ],
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2019"
+    },
+    {
+        "name": "Onatel costume1",
+        "fancy name": "Blind Diviner",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-08-25",
+        "AetherPower": "Counterattack",
+        "heroId": "holy_god_onatel_costume_divine",
+        "baseAttack": 302,
+        "baseDefense": 393,
+        "baseHealth": 705,
+        "specialId": "mana_stealer",
+        "specialId_costume": "eye_of_the_diviner",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "legendary_reflector"
+        ],
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2019"
     }
 ];

@@ -8,6 +8,14 @@
             "text": "[#!]{MODIFIER}%[#] di rigenerazione mana."
           },
           {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] di Difesa."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] di Difesa"
+          },
+          {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
             "text": "Ruba il {ABSPOWER}% di mana al bersaglio e ai nemici vicini e lo distribuisce agli alleati."
           },
@@ -46,6 +54,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Include Eroi del mese passati ed Eroi famiglia Campioni"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Include Eroi del mese passati, Eroi famiglia Volpi ed Eroi famiglia Campioni"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Include Eroi classici ed Eroi Volpi"
           }
         ]
       },
@@ -54,6 +70,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] генерации маны."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] защиты."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] защиты"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -94,6 +118,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Включает прошлых героев месяца и героев из семьи чемпионов"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Включает прошлых героев месяца, героев из семьи лис и семьи чемпионов"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Включает классических героев и героев из семьи лис"
           }
         ]
       },
@@ -102,6 +134,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] regeneracji many."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] obrony."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] obrony"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -142,6 +182,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Zawiera wcześniejszych bohaterów miesiąca i bohaterów z rodziny Czempionów."
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Zawiera wcześniejszych bohaterów miesiąca, bohaterów z rodziny Lisa i bohaterów z rodziny Czempionów."
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Zawiera klasycznych bohaterów i bohaterów z rodziny Lisa"
           }
         ]
       },
@@ -150,6 +198,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#]法力產出。"
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#]防禦"
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#]防禦"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -190,6 +246,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "包含過去的月度英雄與勇士家族英雄"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "包含過去的月度英雄、狐狸家族英雄與勇士家族英雄"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "包含經典英雄和狐狸英雄"
           }
         ]
       },
@@ -198,6 +262,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] 마나 재생력."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "방어력 [#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#]."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "방어력 [#!]{MULTIPLIERPERCENTCHANGE}%[#]"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -238,6 +310,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "지난 이달의 영웅 및 챔피언 패밀리 영웅 포함"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "지난 이달의 영웅, 여우 패밀리 영웅 및 챔피언 패밀리 영웅 포함"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "클래식 영웅 및 여우 영웅 포함"
           }
         ]
       },
@@ -246,6 +326,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] Manaregeneration."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] Verteidigung."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] Verteidigung"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -286,6 +374,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Enthält vergangene Helden des Monats und Helden aus der Champions-Familie."
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Enthält vergangene Helden des Monats und Helden aus der Fuchs- und Champions-Familie."
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Enthält klassische Helden und Fuchs-Helden."
           }
         ]
       },
@@ -294,6 +390,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "マナ生成が[#!]{MODIFIER}%[#]になる。"
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "防御力が[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#]になる"
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "防御力[#!]{MULTIPLIERPERCENTCHANGE}%[#]"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -334,6 +438,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "過去の今月のスペシャル英雄とチャンピオンファミリー英雄を含む"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "過去の今月のスペシャル英雄とキツネファミリー英雄とチャンピオンファミリー英雄を含む"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "クラシック英雄とキツネ英雄を含む"
           }
         ]
       },
@@ -342,6 +454,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] manaskapande."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] försvar."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] försvar"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -382,6 +502,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Innehåller tidigare månadens hjältar och hjältar från förkämpefamiljen"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Innehåller tidigare månadens hjältar och hjältar från rävfamiljen och förkämpefamiljen"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Innehåller klassiska hjältar och rävhjältar"
           }
         ]
       },
@@ -390,6 +518,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]%{MODIFIER}[#] mana üretimi."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]%{1MEMBERMULTIPLIERPERCENTCHANGE}[#]/[#!]%{2MEMBERSMULTIPLIERPERCENTCHANGE}[#]/[#!]%{3MEMBERSMULTIPLIERPERCENTCHANGE}[#] savunma."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]%{MULTIPLIERPERCENTCHANGE}[#] savunma"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -430,6 +566,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Geçmiş Ayın Kahramanları ve Şampiyon Ailesi Kahramanlarını içerir"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Geçmiş Ayın Kahramanları, Tilki Ailesi ve Şampiyon Ailesi Kahramanlarını içerir"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Klasik ve Tilki Kahramanlarını içerir"
           }
         ]
       },
@@ -438,6 +582,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] mana generation."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] defense."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] defense"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -478,6 +630,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Includes past Heroes of the Month and Champions Family Heroes"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Includes past Heroes of the Month, Fox and Champions Family Heroes"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Includes Classic and Fox Heroes"
           }
         ]
       },
@@ -486,6 +646,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] توليد قوة."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]\\[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]\\[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] من الدفاع."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] من الدفاع"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -526,6 +694,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "يتضمن أبطال الشهر السابقين وأبطال عائلة الأبطال"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "يتضمن أبطال الشهر السابقين وأبطال عائلة الثعلب وأبطال عائلة الأبطال"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "يتضمن الأبطال الكلاسيكيين وأبطال الثعلب"
           }
         ]
       },
@@ -534,6 +710,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] de génération de mana."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] de défense."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] de défense"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -574,6 +758,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Inclut des héros du mois dernier et des héros de la même famille de champions"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Inclut d'anciens héros du mois et des héros de la famille renard et de la famille de champions"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Inclut des héros classiques et des héros renard"
           }
         ]
       },
@@ -582,6 +774,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] de geração de mana."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] de defesa."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] de defesa"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -622,6 +822,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Inclui heróis do mês anteriores e heróis da família Campeões"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Inclui heróis do mês anteriores e heróis da família Raposa e da família Campeões"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Inclui heróis clássicos e heróis Raposa"
           }
         ]
       },
@@ -630,6 +838,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "Generasi mana [#!]{MODIFIER}%[#]."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] pertahanan."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] pertahanan"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -670,6 +886,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Termasuk Pahlawan Bulan Ini yang lampau dan Pahlawan Keluarga Juara"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Termasuk Pahlawan Bulan Ini yang lampau dan Pahlawan Keluarga Rubah dan Juara"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Termasuk Pahlawan Klasik dan Pahlawan Rubah"
           }
         ]
       },
@@ -678,6 +902,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] manatuotantoa."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] puolustusta."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] puolustusta"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -718,6 +950,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Sisältää aiempia kuukauden sankareita ja mestariperheen sankareita"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Sisältää aiempia kuukauden sankareita, kettuperheen sankareita ja mestariperheen sankareita"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Sisältää klassisia sankareita ja kettusankareita"
           }
         ]
       },
@@ -726,6 +966,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] managendannelse."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] forsvar"
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] forsvar"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -766,6 +1014,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Inkluderer tidligere Månedens helte og Mesterfamiliehelte"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Inkluderer tidligere Månedens helte, Ræv- og Mesterfamiliehelte"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Inkluderer klassiske helte og Ræv-helte"
           }
         ]
       },
@@ -774,6 +1030,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] de regeneración de maná."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] de defensa."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] de defensa"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -814,6 +1078,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Incluye héroes del mes y de la familia de campeones anteriores"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Incluye héroes del mes, de la familia de zorros y de la familia de campeones anteriores"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Incluye héroes clásicos y héroes zorros"
           }
         ]
       },
@@ -822,6 +1094,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER} %[#] mana-generering."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE} %[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE} %[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE} %[#] forsvar."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE} %[#] forsvar"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -862,6 +1142,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Inkluderer tidligere måneders helter og mesterfamiliehelter"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Inkluderer tidligere måneders helter, revfamiliehelter og mesterfamiliehelter"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Inkluderer klassiske helter og revhelter"
           }
         ]
       },
@@ -870,6 +1158,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#] manarecuperatie."
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#] verdediging."
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#] verdediging"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -910,6 +1206,14 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "Inclusief eerdere helden van de maand en helden uit de kampioensfamilie"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Inclusief eerdere helden van de maand en helden uit de vos- en kampioensfamilie"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "Inclusief klassieke helden en vossenhelden"
           }
         ]
       },
@@ -918,6 +1222,14 @@
           {
             "key": "herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition",
             "text": "[#!]{MODIFIER}%[#]法力生成。"
+          },
+          {
+            "key": "familybonuses.description.long.defense_multiplier_champion",
+            "text": "[#!]{1MEMBERMULTIPLIERPERCENTCHANGE}%[#]/[#!]{2MEMBERSMULTIPLIERPERCENTCHANGE}%[#]/[#!]{3MEMBERSMULTIPLIERPERCENTCHANGE}%[#]防御"
+          },
+          {
+            "key": "familybonuses.description.short.defense_multiplier_champion",
+            "text": "[#!]{MULTIPLIERPERCENTCHANGE}%[#]防御"
           },
           {
             "key": "specials.v2.property.manareallocation.from.neartotarget.enemies.to.all.allies",
@@ -958,10 +1270,18 @@
           {
             "key": "odds.asterisk.info.included.champions_hotm",
             "text": "包含过往的月度英雄与冠军家族英雄"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "包含过往的月度英雄、狐狸家族英雄与冠军家族英雄"
+          },
+          {
+            "key": "odds.asterisk.info.included.classic_fox",
+            "text": "包含经典英雄和狐狸英雄"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 643162893
+  "languageOverridesConfigId": 2195537731
 }

@@ -2421,8 +2421,8 @@ const translatedPassivesTC =
         "name": "Satori",
         "passives": [
             "獲得狀態異常的法力增益：此技能的角色受到任何狀態異常或負面疊加時，可獲得 +24% 法力產出，持續 3 回合。",
-            "驅散增益時獲得生命值加成：每次此角色身上的增益被驅散時，就會獲得 450 點生命值加成。此效果每回合僅能啟動一次。",
-            "驅散增益時獲得法力：每次此角色身上的增益被驅散時，就會獲得 10% 法力。此效果每回合僅能啟動一次。"
+            "驅散增益時獲得生命值加成：每次此角色身上的增益被驅散時，就會獲得 450 點生命值加成。此效果每回合僅能啟動一次。 且在嘗試驅散時亦會觸發。",
+            "驅散增益時獲得法力：每次此角色身上的增益被驅散時，就會獲得 10% 法力。此效果每回合僅能啟動一次。且在嘗試驅散時亦會觸發。"
         ]
     },
     {
@@ -4871,6 +4871,14 @@ const translatedPassivesTC =
         "passives": [
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
+        ]
+    },
+    {
+        "heroId": "champions_katzy",
+        "name": "Katzy",
+        "passives": [
+            "無視嘲諷：此角色的特殊技能不受嘲諷影響。",
+            "嘲諷法力：每當敵人受到嘲諷狀態效果時，此角色的法力增加 10%。"
         ]
     },
     {
@@ -7782,6 +7790,14 @@ const translatedPassivesTC =
         "name": "Kunchen",
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。"
+        ]
+    },
+    {
+        "heroId": "dark_god_kunchen_costume_mystic",
+        "name": "Kunchen C1",
+        "passives": [
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
+            "傳奇反射：此角色使用被動技能抵抗的状態異常都會反射給所有敵人。"
         ]
     },
     {
@@ -14020,6 +14036,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "holy_god_onatel_costume_divine",
+        "name": "Onatel C1",
+        "passives": [
+            "抵禦致盲：此角色對影響精準度的狀態異常免疫。不適用於盟友的原本狀態效果。",
+            "傳奇反射：此角色使用被動技能抵抗的状態異常都會反射給所有敵人。"
+        ]
+    },
+    {
         "heroId": "vegetable_onwyn",
         "name": "Onwyn",
         "passives": [
@@ -14757,21 +14781,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "holy_god_onatel_costume_divine",
-        "name": "Onatel C",
-        "passives": []
-    },
-    {
-        "heroId": "dark_god_kunchen_costume_mystic",
-        "name": "Kunchen C",
-        "passives": []
-    },
-    {
-        "heroId": "champions_katzy",
-        "name": "Katzy",
-        "passives": []
     },
     {
         "heroId": "ninja_topaz_costume_precise",
