@@ -176459,7 +176459,7 @@
         "id": "received_damage_increase_fafnir_fallen",
         "buff": "StackMinorDebuff",
         "extraStackCount": 1,
-        "receivedDamageMultiplierPerMil": 1100,
+        "receivedDamageMultiplierPerMil": 1050,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 0
       },
       {
@@ -201273,63 +201273,72 @@
         "familyEffects": [
           "critical_multiplier_hotm2021_elemental"
         ],
-        "deactivatedUntil": 1073026800
+        "deactivatedUntil": 1073026800,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2032",
         "familyEffects": [
           "heal_multiplier_hotm2020_elemental"
         ],
-        "deactivatedUntil": 1041490800
+        "deactivatedUntil": 1041490800,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2031",
         "familyEffects": [
           "defense_multiplier_hotm2018_elemental"
         ],
-        "deactivatedUntil": 1009868400
+        "deactivatedUntil": 1009868400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2030",
         "familyEffects": [
           "attack_multiplier_hotm2019_elemental"
         ],
-        "deactivatedUntil": 978332400
+        "deactivatedUntil": 978332400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2029",
         "familyEffects": [
           "critical_multiplier_hotm2021_elemental"
         ],
-        "deactivatedUntil": 946796400
+        "deactivatedUntil": 946796400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2028",
         "familyEffects": [
           "heal_multiplier_hotm2020_elemental"
         ],
-        "deactivatedUntil": 915260400
+        "deactivatedUntil": 915260400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2027",
         "familyEffects": [
           "defense_multiplier_hotm2018_elemental"
         ],
-        "deactivatedUntil": 884415600
+        "deactivatedUntil": 884415600,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2026",
         "familyEffects": [
           "attack_multiplier_hotm2019_elemental"
         ],
-        "deactivatedUntil": 852102000
+        "deactivatedUntil": 852102000,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2025",
         "familyEffects": [
           "critical_multiplier_hotm2021_elemental"
         ],
-        "deactivatedUntil": 820566000
+        "deactivatedUntil": 820566000,
+        "useCustomDescription": true
       },
       {
         "id": "moon",
@@ -201554,58 +201563,66 @@
       {
         "id": "hotm2017",
         "familyEffects": [
-          "mana_generation_multiplier_hotm2017"
+          "mana_generation_multiplier_hotm2017_elemental"
         ],
-        "deactivatedUntil": 688028400
+        "deactivatedUntil": 688028400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2018",
         "familyEffects": [
           "defense_multiplier_hotm2018_elemental"
         ],
-        "deactivatedUntil": 688028400
+        "deactivatedUntil": 688028400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2019",
         "familyEffects": [
           "attack_multiplier_hotm2019_elemental"
         ],
-        "deactivatedUntil": 688028400
+        "deactivatedUntil": 688028400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2020",
         "familyEffects": [
           "heal_multiplier_hotm2020_elemental"
         ],
-        "deactivatedUntil": 688028400
+        "deactivatedUntil": 688028400,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2021",
         "familyEffects": [
           "critical_multiplier_hotm2021_elemental"
         ],
-        "deactivatedUntil": 694335600
+        "deactivatedUntil": 694335600,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2022",
         "familyEffects": [
           "attack_multiplier_hotm2019_elemental"
         ],
-        "deactivatedUntil": 725871600
+        "deactivatedUntil": 725871600,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2023",
         "familyEffects": [
           "defense_multiplier_hotm2018_elemental"
         ],
-        "deactivatedUntil": 757407600
+        "deactivatedUntil": 757407600,
+        "useCustomDescription": true
       },
       {
         "id": "hotm2024",
         "familyEffects": [
           "heal_multiplier_hotm2020_elemental"
         ],
-        "deactivatedUntil": 789030000
+        "deactivatedUntil": 789030000,
+        "useCustomDescription": true
       },
       {
         "id": "kingdom",
@@ -220001,5 +220018,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2353265920
+  "battleConfigId": 2113860607
 }

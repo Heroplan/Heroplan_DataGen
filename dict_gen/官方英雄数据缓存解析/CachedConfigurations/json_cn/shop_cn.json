@@ -90909,28 +90909,20 @@
         "id": "dynamic_offer_30_construct_shacklebolt",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_100",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
-          },
-          {
             "id": "com.smallgiantgames.empires.dynamic_10d",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_8",
+            "purchaseLimit": 3
           },
           {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_5c",
+            "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_17",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -107845,6 +107837,33 @@
                 "zyngaStoreExtraAmount": 10
               }
             ]
+          },
+          {
+            "activationTime": "2026-08-25 09:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 5
+              }
+            ]
           }
         ]
       },
@@ -109066,6 +109085,32 @@
                 "type": "Item",
                 "id": "refill_energy_alliance_full",
                 "amount": 10
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-25 09:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_hotm_coin",
+                "amount": 1100,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_legendary_green",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_epic_green",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_green",
+                "amount": 15
               }
             ]
           }
@@ -118453,6 +118498,22 @@
             ]
           },
           {
+            "activationTime": "2026-08-25 09:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_challenge_coin",
+                "amount": 80,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2026-08-26 07:00:00",
             "contents": [
               {
@@ -123913,6 +123974,32 @@
                 "id": "hero_compass",
                 "amount": 1,
                 "zyngaStoreExtraAmount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-08-25 09:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_challenge_coin",
+                "amount": 40
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_red",
+                "amount": 15
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_epic_red",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 2
               }
             ]
           }
@@ -132385,6 +132472,13 @@
         "endTime": "2026-08-26 07:00:00"
       },
       {
+        "id": "dynamic_offer_30_construct_shacklebolt",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-08-25 09:45:00",
+        "endTime": "2026-08-26 06:30:00"
+      },
+      {
         "id": "dynamic_offer_51_ducks",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -132799,6 +132893,13 @@
         "id": "dragon_select_asc4_new",
         "slot": "LeftBottom",
         "startTime": "2026-09-09 07:00:00",
+        "endTime": "2026-09-11 07:00:00"
+      },
+      {
+        "id": "quintuple_sacred",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-09-10 07:00:00",
         "endTime": "2026-09-11 07:00:00"
       },
       {
@@ -142032,10 +142133,10 @@
               "endDate": "2026-08-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "画皮鬼",
+                "河鬼",
                 "伊尔梅",
-                "塔弗",
-                "哈拉迪亚"
+                "舒静",
+                "沃拉"
               ]
             }
           ],
@@ -165314,5 +165415,5 @@
       ]
     }
   },
-  "shopConfigId": 2578266604
+  "shopConfigId": 3820305070
 }
