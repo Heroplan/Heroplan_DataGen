@@ -66,7 +66,7 @@ window.family_values = {
     "institute": "暗影 - 學院",
     "garrison": "哥布林村 - 衛戍守衛",
     "slime": "超級元素 - 史萊姆",
-    "fox": "聖約召喚 - 狐狸",
+    "fox": "傳奇召喚 - 狐狸",
     "faun": "野地召喚 - 木地羊人",
     "mystery": "傳奇召喚 - 神秘",
     "beowulf": "挑戰 - 貝武夫",

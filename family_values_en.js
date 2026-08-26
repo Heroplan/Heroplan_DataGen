@@ -66,7 +66,7 @@ window.family_values = {
     "institute": "Shadow - The Institute",
     "garrison": "Goblin Village - Garrison Guards",
     "slime": "Super Elemental - Slimes",
-    "fox": "Covenant Summon - Foxes",
+    "fox": "Legends Summon - Foxes",
     "faun": "Wilderness Summon - Woodland Fauns",
     "mystery": "Legends Summon - Mystery",
     "beowulf": "Challenge - Beowulf",

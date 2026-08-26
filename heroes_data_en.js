@@ -18830,7 +18830,7 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Vicious Cyclone",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-08-09",
         "specialId": "vicious_cyclone",
         "passiveSkills": [
@@ -19161,7 +19161,7 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Fast",
         "skill": "I'll Bring You Back",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
         "passiveSkills": [
@@ -22177,7 +22177,7 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Never Ending Winter",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
         "passiveSkills": [
@@ -26017,7 +26017,7 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Friendly Critters' Feast",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-08-09",
         "specialId": "friendly_critters_feast",
         "passiveSkills": [
@@ -35959,7 +35959,7 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Barbed Arrows",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
         "passiveSkills": [
@@ -44075,7 +44075,7 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Fierce Pierce",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
         "passiveSkills": [
@@ -51467,7 +51467,7 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Venomfang Concoction",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
         "passiveSkills": [
@@ -67754,7 +67754,7 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Flying Bones",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
         "passiveSkills": [
@@ -68379,7 +68379,7 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Swift Little Friends",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
         "passiveSkills": [
@@ -84473,7 +84473,7 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Firewall",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-05-08",
         "specialId": "firewall",
         "passiveSkills": [
@@ -89875,7 +89875,7 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Fast",
         "skill": "Paw in Every Pie",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
         "passiveSkills": [
@@ -92342,7 +92342,7 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Cover Slam",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
         "passiveSkills": [
@@ -103205,7 +103205,7 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Divine Light",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-02-26",
         "specialId": "divine_light1",
         "passiveSkills": [
@@ -107380,7 +107380,7 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Unbroken Assault",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
         "passiveSkills": [
@@ -114835,7 +114835,7 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Greed And Bribery",
-        "source": "Covenant Summon",
+        "source": "Legends Summon",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
         "passiveSkills": [

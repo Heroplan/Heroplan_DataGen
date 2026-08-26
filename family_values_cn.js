@@ -66,7 +66,7 @@ window.family_values = {
     "institute": "暗影 - 学院",
     "garrison": "哥布林村 - 驻军守卫",
     "slime": "超级元素 - 史莱姆",
-    "fox": "盟约召唤 - 狐狸",
+    "fox": "神话召唤 - 狐狸",
     "faun": "荒野召唤 - 林地牧神",
     "mystery": "神话召唤 - 神秘",
     "beowulf": "挑战 - 贝奥武夫",

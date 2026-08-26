@@ -18830,7 +18830,7 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "恶毒旋风",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-08-09",
         "specialId": "vicious_cyclone",
         "passiveSkills": [
@@ -19161,7 +19161,7 @@ window.allHeroes =
         "class": "牧师",
         "speed": "飞速",
         "skill": "魂兮归来",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
         "passiveSkills": [
@@ -22177,7 +22177,7 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "无尽寒冬",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
         "passiveSkills": [
@@ -26017,7 +26017,7 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "友善生物盛宴",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-08-09",
         "specialId": "friendly_critters_feast",
         "passiveSkills": [
@@ -35959,7 +35959,7 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "棘刺箭矢",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
         "passiveSkills": [
@@ -44075,7 +44075,7 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "猛烈穿透",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
         "passiveSkills": [
@@ -51467,7 +51467,7 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "毒牙合剂",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
         "passiveSkills": [
@@ -67754,7 +67754,7 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "飞天骸骨",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
         "passiveSkills": [
@@ -68379,7 +68379,7 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "迅捷小友",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
         "passiveSkills": [
@@ -84473,7 +84473,7 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "火墙",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-05-08",
         "specialId": "firewall",
         "passiveSkills": [
@@ -89875,7 +89875,7 @@ window.allHeroes =
         "class": "牧师",
         "speed": "飞速",
         "skill": "处处留爪",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
         "passiveSkills": [
@@ -92342,7 +92342,7 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "掩护抨击",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
         "passiveSkills": [
@@ -103205,7 +103205,7 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "神圣之光",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-02-26",
         "specialId": "divine_light1",
         "passiveSkills": [
@@ -107380,7 +107380,7 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "不间断攻击",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
         "passiveSkills": [
@@ -114835,7 +114835,7 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "中饱私囊",
-        "source": "盟约召唤",
+        "source": "神话召唤",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
         "passiveSkills": [
