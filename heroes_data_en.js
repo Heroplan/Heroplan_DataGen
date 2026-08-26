@@ -11873,7 +11873,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Harvests"
                 ]
             },
             {
@@ -18336,8 +18336,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra"
+                "负面效果": [
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -26184,14 +26184,14 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra"
-                ]
-            },
-            {
                 "增益效果": [
                     "Atk - Bypass / Ignore",
                     "Atk - Crit Chance ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -33072,7 +33072,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Status - Cleanse Ailments"
+                    "Status - Uproot"
                 ]
             }
         ]
@@ -38564,7 +38564,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Dmg Taken ↑"
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -39394,8 +39394,12 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs",
-                    "Def - Dmg Share"
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -41385,7 +41389,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Status - Cleanse Ailments"
+                    "Status - Uproot"
                 ]
             }
         ]
@@ -55684,7 +55688,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs"
+                    "Status - Harvests"
                 ]
             },
             {
@@ -80892,7 +80896,7 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Def - Counterattack",
-                    "Status - Dispel Buffs"
+                    "Status - Harvests"
                 ]
             }
         ]
@@ -86810,13 +86814,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra"
-                ]
-            },
-            {
                 "负面效果": [
-                    "Def - Stack : Dmg Taken ↑"
+                    "Def - Stack : Dmg Taken ↑",
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -93163,8 +93163,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Clawing",
-                    "Mana - Mana Cut",
-                    "Dmg - Extra"
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -93891,7 +93895,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Def - Dmg Taken ↑",
+                    "Dmg - Pain Empathy",
                     "Def - Defense ↓"
                 ]
             }
@@ -101557,7 +101561,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Status - Dispel Buffs",
+                    "Status - Harvests",
                     "Mana - Stack : Mana Gen ↑"
                 ]
             }
