@@ -245,10 +245,19 @@
       "bucketConfig": [
         "heroes_event_3",
         "heroes_event_4",
-        "heroes_event_5",
         "featuredHero"
       ],
       "featuredHeroNum": 6
+    },
+    "LegendsSummon": {
+      "bucketConfig": [
+        "heroes_s1_3",
+        "heroes_s1_4",
+        "heroes_s1_5",
+        "heroes_event_5",
+        "featuredHero"
+      ],
+      "featuredHeroNum": 2
     },
     "AscensionSummon": {
       "bucketConfig": [
@@ -277,16 +286,6 @@
         "heroes_s1_3",
         "heroes_s1_4",
         "heroes_listed_5",
-        "featuredHero"
-      ],
-      "featuredHeroNum": 2
-    },
-    "LegendsSummon": {
-      "bucketConfig": [
-        "heroes_s1_3",
-        "heroes_s1_4",
-        "heroes_s1_5",
-        "heroes_event_5",
         "featuredHero"
       ],
       "featuredHeroNum": 2
@@ -385,93 +384,7 @@
         "astral_demon_madarika",
         "tales2_hreidmarr_costume_trader"
       ],
-      "advertisedHero": "fox_riverfang",
-      "includedHeroes": [
-        "nomad_female_shaman",
-        "knights_bauchan",
-        "nomad_mage",
-        "monster_hunter_basil",
-        "forest_archer",
-        "wonderland_bear",
-        "forest_female_spirit",
-        "forest_friar",
-        "monster_hunter_fianna",
-        "s3_grevle",
-        "dwarven_smasher",
-        "pirate_vodnik",
-        "monster_hunter_dawn",
-        "s3_nordri",
-        "royal_knight",
-        "monster_hunter_cedar",
-        "monster_hunter_edelaide",
-        "oriental_female_mage",
-        "oriental_panda_berserker",
-        "blackguard_female_captain",
-        "guardian_bat",
-        "s2_lantern_ghost",
-        "monster_hunter_greel",
-        "undead_running_skeleton",
-        "knights_sir_lancelot",
-        "nomad_female_assassin",
-        "nomad_female_berserker",
-        "monster_hunter_maheegan",
-        "s2_demon_master",
-        "monster_hunter_numbskull",
-        "forest_mage",
-        "fables_hansel",
-        "goblin_mage",
-        "s3_brynhild",
-        "monster_hunter_knuckles",
-        "dwarwen_brewmaster",
-        "nordic_ancestral_warrior",
-        "royal_female_knight",
-        "oriental_falconer",
-        "monster_hunter_bogart",
-        "s3_mist",
-        "oriental_panda_warrior",
-        "s2_proteus",
-        "pirate_first_mate",
-        "monster_hunter_meadow",
-        "undead_female_warrior",
-        "pirate_swashbuckler",
-        "s3_loki_female",
-        "s3_baldur",
-        "knights_morgan_le_fay",
-        "wonderland_hatter",
-        "guardian_chameleon",
-        "fables_rumpelstiltskin",
-        "wonderland_alice",
-        "s2_mercenary_woman",
-        "s2_poseidon",
-        "s3_norns",
-        "guardian_owl_gentleman",
-        "pirate_dread_captain",
-        "s2_hammerhead_hulk",
-        "fables_boss_wolf",
-        "construct_rustbeak",
-        "construct_bonechill",
-        "construct_ferrus",
-        "construct_haulstone",
-        "construct_blue_mage",
-        "construct_japanese_doll",
-        "construct_brimstone",
-        "construct_shacklebolt",
-        "construct_nocturne",
-        "construct_shaal",
-        "construct_frond",
-        "construct_nautica",
-        "construct_hornfel",
-        "construct_tenebrae",
-        "construct_rhineglow",
-        "construct_carta",
-        "construct_scoria",
-        "construct_skarn",
-        "construct_gwynn",
-        "fox_foxglove",
-        "fox_nettletail",
-        "construct_hotspin",
-        "construct_ironvein"
-      ]
+      "advertisedHero": "fox_riverfang"
     },
     "lottery_wilderness_default": {
       "AssociatedFamilies": [
@@ -485,89 +398,11 @@
         "ghost_shu_jing",
         "wild_cat_vora"
       ],
-      "advertisedHero": "wild_cat_stravia",
-      "includedHeroes": [
-        "styx_dante",
-        "knights_bauchan",
-        "mighty_pet_rufus",
-        "monster_hunter_basil",
-        "journey_general_yin",
-        "wonderland_bear",
-        "magic_roxia",
-        "forest_friar",
-        "bard_zarel",
-        "s3_grevle",
-        "musketeer_planchet",
-        "pirate_vodnik",
-        "gargoyle_soroca",
-        "s3_nordri",
-        "s4_helo",
-        "faun_saskia",
-        "musketeer_felton",
-        "oriental_female_mage",
-        "oriental_panda_berserker",
-        "s5_aqeela",
-        "knights_treevil",
-        "s2_lantern_ghost",
-        "gargoyle_budatin",
-        "undead_running_skeleton",
-        "knights_sir_lancelot",
-        "bard_zhabog",
-        "ballerina_raul",
-        "magic_lucy",
-        "s2_demon_master",
-        "gargoyle_kalo",
-        "styx_brontes",
-        "fables_hansel",
-        "goblin_mage",
-        "tales1_mulgog",
-        "masquerade_fosco",
-        "dwarwen_brewmaster",
-        "bard_garyas",
-        "s5_azmia",
-        "oriental_falconer",
-        "s5_scoratek",
-        "s3_mist",
-        "mighty_pet_waddles",
-        "s2_proteus",
-        "mighty_pet_cupcake",
-        "castle_bear_koda",
-        "journey_heifeng_guai",
-        "owl_fulvia",
-        "faun_araminta",
-        "s4_xenda",
-        "faun_isidore",
-        "ninja_ekanite",
-        "faun_peregrine",
-        "ballerina_prince_siegfried",
-        "s5_maat",
-        "ninja_oniwakamaru",
-        "magic_camilla",
-        "faun_verity",
-        "guardian_hippo",
-        "faun_gideon",
-        "s5_cleopatra",
-        "s5_eset",
-        "bard_ogima",
-        "s5_bastet",
-        "mighty_pet_luna",
-        "faun_tamlin",
-        "musketeer_rochefort",
-        "faun_myrtle",
-        "faun_maud",
-        "faun_yolanda",
-        "faun_philomena",
-        "faun_ysabel",
-        "faun_jolyon",
-        "faun_ascian",
-        "faun_bramble",
-        "wild_cat_ferni",
-        "wild_cat_tunes"
-      ]
+      "advertisedHero": "wild_cat_stravia"
     },
     "lottery_mercenary_war_default": {
       "featuredHeroes": [
-        "ghost_hua_pi_gui",
+        "ghost_chou_kou_gui",
         "ghost_shu_jing",
         "ghost_bai_wu_chang"
       ],
@@ -582,7 +417,7 @@
         "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
         "requiredItemAmount": 100,
         "heroes": [
-          "outlaw_wu_song",
+          "outlaw_lin_chong",
           "outlaw_wu_yong",
           "outlaw_li_kui",
           "outlaw_song_jiang",
@@ -609,9 +444,9 @@
     },
     "lottery_goblin_default": {
       "featuredHeroes": [
-        "scoundrel_sheppard",
-        "goblin_boom_and_fang_costume_poisonous",
-        "scoundrel_tofana"
+        "scoundrel_brin",
+        "scoundrel_tofana",
+        "goblin_darkfeather_costume_glowing"
       ],
       "AssociatedFamilies": [
         "goblin",
@@ -621,8 +456,8 @@
     },
     "lottery_temple_default": {
       "featuredHeroes": [
-        "mahayoddha_ajay",
-        "mahayoddha_bhima"
+        "mahayoddha_bhagirathi",
+        "mahayoddha_avani"
       ],
       "AssociatedFamilies": [
         "mahayoddha"
@@ -694,7 +529,7 @@
         "classic"
       ],
       "featuredHeroes": [
-        "nordic_ice_enchantress_costume_stylish",
+        "exalted_female_statue_costume_stylish",
         "nomad_female_captain_costume_stylish"
       ]
     },
@@ -1018,13 +853,6 @@
         "tales1_phorcys_costume_warrior_god",
         "tales1_persa_costume_jellyfish_noble",
         "tales1_ceto_costume_queen"
-      ],
-      "AssociatedFamilies": [
-        "tales1_goodies",
-        "tales1_baddies"
-      ],
-      "extraAssociatedFamilies": [
-        "atlantis"
       ]
     },
     "lottery_season_untold_tales2": {
@@ -1032,15 +860,6 @@
         "tales2_fafnir_costume_fallen",
         "tales2_thrivaldi_costume_void",
         "tales2_aethslegaur_costume_soul_seeker"
-      ],
-      "AssociatedFamilies": [
-        "nidavellir",
-        "myrkheim"
-      ],
-      "extraAssociatedFamilies": [
-        "jotunheim",
-        "muspelheim",
-        "svartalfheim"
       ]
     },
     "lottery_hero_lunar_new_year": {
@@ -1375,24 +1194,36 @@
       ],
       "latestIncludedHeroDate": "2026-02-24"
     },
+    "lottery_hotm_event_default": {
+      "AssociatedFamilies": [
+        "champions",
+        "fox",
+        "hotm2017",
+        "hotm2018",
+        "hotm2019",
+        "hotm2020",
+        "hotm2021",
+        "hotm2022",
+        "hotm2023",
+        "hotm2024",
+        "hotm2025",
+        "hotm2026"
+      ],
+      "featuredHeroes": [
+        "champions_katzy",
+        "holy_god_onatel_costume_divine"
+      ]
+    },
     "lottery_ascension_default": {
       "featuredHeroes": [
-        "castle_bear_bearnadette",
-        "garrison_fergus",
-        "shadow_zavinia",
-        "fox_nibbles"
+        "magic_carpet_agadh",
+        "owl_lodius",
+        "magic_ray",
+        "magic_vaishali"
       ]
     },
     "lottery_pickup_default": {
       "featuredHeroes": {
-        "2026-08-25": [
-          "wild_cat_rajesh",
-          "magic_carpet_naeem"
-        ],
-        "2026-08-26": [
-          "ballerina_daroga",
-          "ballerina_odile"
-        ],
         "2026-08-27": [
           "gargoyle_mena",
           "gargoyle_garten"
@@ -1412,6 +1243,34 @@
         "2026-08-31": [
           "gargoyle_hilda",
           "ballerina_von_rothbart"
+        ],
+        "2026-09-01": [
+          "shadow_hunter",
+          "shadow_atwood"
+        ],
+        "2026-09-02": [
+          "s5_hathor_costume_starlit",
+          "faun_tamlin"
+        ],
+        "2026-09-03": [
+          "astral_melodymuse",
+          "astral_dwarf_maegwyn"
+        ],
+        "2026-09-04": [
+          "garrison_shimmerscale",
+          "construct_carta"
+        ],
+        "2026-09-05": [
+          "owl_cennius",
+          "ballerina_meg_giry"
+        ],
+        "2026-09-06": [
+          "monster_hunter_thura",
+          "monster_hunter_revna"
+        ],
+        "2026-09-07": [
+          "construct_nautica",
+          "christmas_mrs_claus_costume_fangirl"
         ]
       },
       "includedHeroes": [
@@ -1419,26 +1278,6 @@
         "s3_odin",
         "s4_xnolphod",
         "s5_el_naddaha"
-      ]
-    },
-    "lottery_hotm_event_default": {
-      "AssociatedFamilies": [
-        "champions",
-        "fox",
-        "hotm2017",
-        "hotm2018",
-        "hotm2019",
-        "hotm2020",
-        "hotm2021",
-        "hotm2022",
-        "hotm2023",
-        "hotm2024",
-        "hotm2025",
-        "hotm2026"
-      ],
-      "featuredHeroes": [
-        "champions_katzy",
-        "holy_god_onatel_costume_divine"
       ]
     }
   }

@@ -14388,6 +14388,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
+            "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
+            "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
+        ]
+    },
+    {
         "heroId": "journey_tang_sanzang",
         "name": "Tang Sanzang",
         "passives": [
@@ -14438,6 +14449,14 @@ const translatedPassivesTC =
         "name": "Topaz",
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
+    },
+    {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C1",
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
+            "撕裂之觸：每當此角色反擊敵人時，攻擊者在 4 回合內受到 608 點流血傷害。"
         ]
     },
     {
@@ -14783,16 +14802,6 @@ const translatedPassivesTC =
         ]
     },
     {
-        "heroId": "ninja_topaz_costume_precise",
-        "name": "Topaz C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_tanaka_isako",
-        "name": "Tanaka Isako",
-        "passives": []
-    },
-    {
         "heroId": "tales2_fafnir_costume_fallen",
         "name": "Fafnir C",
         "passives": []
@@ -14800,6 +14809,41 @@ const translatedPassivesTC =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "passives": []
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_chou_kou_gui",
+        "name": "Chou Kou Gui",
         "passives": []
     },
     {

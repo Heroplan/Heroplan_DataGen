@@ -1026,7 +1026,7 @@ const allTranslations =
         "name": "Alasie",
         "effects": [
             "Deals 542% damage to the target.",
-            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed.",
+            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -1036,7 +1036,7 @@ const allTranslations =
         "effects": [
             "Deals 496% damage to the target and minor damage to nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 10%.",
-            "The target and nearby enemies get -24% mana generation for 3 turns.",
+            "The target and nearby enemies get -24% mana generation for 3 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -1197,9 +1197,9 @@ const allTranslations =
         "name": "Athena",
         "effects": [
             "Deals 365% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns.",
+            "The target and nearby enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns, down to -65% defense.",
             "Deals extra damage against Fire.",
-            "Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -1209,7 +1209,7 @@ const allTranslations =
             "Deals 350% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -41% defense, and a further -4% decrease every time that they are hit for 3 turns, down to -65% defense.",
             "All Fire enemies get -34% defense against Ice for 3 turns.",
-            "Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -1283,8 +1283,8 @@ const allTranslations =
         "name": "Balur",
         "effects": [
             "Deals 580% damage to the target.",
-            "The target receives 612 bleed damage over 3 turns.",
-            "Element Link gives all ice allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
+            "The target receives 612 Bleed damage over 3 turns.",
+            "Element Link gives all Ice allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -1559,7 +1559,7 @@ const allTranslations =
         "effects": [
             "Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 40% health in total.",
             "Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
-            "Elemental Link gives all Ice allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Ice allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -1644,7 +1644,7 @@ const allTranslations =
             "Deals 370% damage to the target and nearby enemies.",
             "The target and nearby enemies receive Corrosive Frost for 4 turns. The Corrosive Frost delas 286 Frost damage and lowers the target's attack by -11% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "The caster and nearby allies get +54% attack for 4 turns.",
-            "Elemental Link gives all Ice allies +20% critical chance for 4 turns. This effect can’t be dispelled."
+            "Element Link gives all Ice allies +20% critical chance for 4 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -2234,7 +2234,7 @@ const allTranslations =
         "effects": [
             "Deals 330% damage to all enemies.",
             "All enemies receive 500 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.",
-            "Element Link gives all ice allies +20% defense for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Ice allies +20% defense for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -2457,7 +2457,7 @@ const allTranslations =
             "Deals 310% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 824 Frost damage over 4 turns.",
             "The target and nearby enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.",
-            "Element Link gives all Ice allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Ice allies +20% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -2465,8 +2465,8 @@ const allTranslations =
         "name": "Miki",
         "effects": [
             "All allies get +130% normal attack that only applies when the enemy has more HP than the attacker. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this effect is active. The effect lasts for 5 turns.",
-            "The target and nearby enemies get silenced for 5 turns",
-            "Element Link gives +5% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled."
+            "The target and nearby enemies get silenced for 5 turns.",
+            "Element Link gives +5% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -2567,9 +2567,7 @@ const allTranslations =
         "name": "Mistra",
         "effects": [
             "Deals 350% damage to all enemies.",
-            "If the target is Average mana speed, deals an additional 50% damage.",
-            "If the target is Fast mana speed, deals an additional 100% damage.",
-            "If the target is Very Fast mana speed, deals an additional 150% damage. (In Rush Attack tournaments and wars, enemies are considered as Very Fast mana speed. All monsters are considered as Average mana speed.)",
+            "If the target is Average or faster mana speed, deals an additional damage. (Against Average mana speed targets deals an additional 50% damage. Against Fast mana speed targets deals an additional 100% damage. Against Very Fast mana speed or faster targets deals an additional 150% damage. All monsters and bosses are considered as Average mana speed. In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.)",
             "Heals all allies for 10% of damage dealt."
         ]
     },
@@ -2669,7 +2667,7 @@ const allTranslations =
             "Deals 460% damage to the target.",
             "If the target is defeated by the attack, the caster gains +50% mana. (After a character has received 5 direct mana addition from Special Skill during a single turn, all subsequent direct mana addition done by Special Skills will have reduced power on that character.)",
             "Stack (Max: 10): The caster gets +10% attack.",
-            "Elemental Link gives all Ice allies +20% attack for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Ice allies +20% attack for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -2786,7 +2784,7 @@ const allTranslations =
             "Deal 455% damage to the target.",
             "The target gets -100% decrease for any healing received for 4 turns.  This effect can't be cleansed.",
             "The caster and nearby allies get +94% defense against Nature for 4 turns.",
-            "Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect can't be displelled."
+            "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -2796,7 +2794,7 @@ const allTranslations =
             "Deals 405% damage to the target and nearby enemies.",
             "The target and nearby enemies get -100% decrease for any healing received for 4 turns. This effect can't be cleansed.",
             "The target and nearby enemies get -68% defense against Ice for 4 turns.",
-            "Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -2807,7 +2805,7 @@ const allTranslations =
             "The target resists healing and receives 500 damage per each resisted healing for 4 turns. This effect can't be cleansed.",
             "All allies get +95% defense against Nature for 4 turns.",
             "Deals extra damage against Fire.",
-            "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -2884,7 +2882,7 @@ const allTranslations =
         "heroId": "ice_god_raffaele",
         "name": "Raffaele",
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health.",
+            "Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal, healing modifiers and Fiends.)",
             "All allies regenerate 1200 HP over 4 turns.",
             "Cleanses status ailments from all allies.",
             "Element Link gives all Ice allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
@@ -2959,7 +2957,7 @@ const allTranslations =
             "Dispels buffs from target and nearby enemies.",
             "Deals 400% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 540 Water damage over 3 turns. The caster absorbs 50% of the dealt Water damage as health.",
-            "The target and nearby enemies take lasting +50% increased damage from status ailments. (This effect lasts until it is cleansed, replaced or removed.)"
+            "The target and nearby enemies take lasting +50% increased damage from status ailments and negative stacks. (This effect lasts until it is cleansed, replaced or removed.)"
         ]
     },
     {
@@ -3018,12 +3016,12 @@ const allTranslations =
         "heroId": "fox_sable",
         "name": "Sable",
         "effects": [
-            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stack that are otherwise undispelalble and uncleasable.",
-            "The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can't gain mana, and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise Stubborn, undispellable or uncleasable.)",
+            "The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can't gain mana, and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth, Wither and Insanity effects.)",
             "When the Ghost form expires:",
-            "The caster revives a random defeated ally with 40% HP.",
-            "All allies regenerate 900 health over 3 turns.",
-            "Cleanses status ailments from all allies at then end of each turn for 3 turns."
+            "* The caster revives a random defeated ally with 40% HP.",
+            "* All allies gain 900 health over 3 turns.",
+            "* Cleanses status ailments from all allies at then end of each turn for 3 turns."
         ]
     },
     {
@@ -3096,7 +3094,7 @@ const allTranslations =
             "Deals 300% damage to all enemies.",
             "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields become weakened with -47% attack.",
             "Deals extra damage against Fire.",
-            "Element Link gives all Ice allies +6% dodge chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Ice allies +6% dodge chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -3217,7 +3215,7 @@ const allTranslations =
         "name": "Suzuna",
         "effects": [
             "Cleanses status ailments from the caster and nearby allies.",
-            "The caster and nearby allies reflect status ailments and negative stacks for 3 turns. Status effects casts by characters, Minions and fiends on the same side cannot be reflected.",
+            "The caster and nearby allies reflect status ailments and negative stacks for 3 turns. (Status effects casts by characters, Minions and Fiends on the same side cannot be reflected.)",
             "The caster and nearby allies regenerate 960 HP over 3 turns.",
             "Element Link recovers 5% health for all Ice allies for 4 turns. This effect can't be dispelled."
         ]
@@ -3400,7 +3398,7 @@ const allTranslations =
             "Deals 420% damage to the target and 3 random enemies.",
             "All hit targets get -55% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)",
             "For each enemy defeated by the attack, the caster recovers +25% health and gains +25% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
-            "Elemental Link recovers +4% health for all Ice allies for 6 turns. This effect can’t be dispelled."
+            "Element Link recovers +5% health for all Ice allies for 6 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -3513,7 +3511,7 @@ const allTranslations =
         "effects": [
             "Dispels buffs from the target.",
             "Deals 550% damage to the target.",
-            "The target receives lasting 300 Frost damage per turn. This effect spreads to nearby enemies. (This effect lasts until it is cleansed or removed."
+            "The target receives lasting 300 Frost damage per turn. This effect spreads to nearby enemies. (This effect lasts until it is cleansed, replaced or removed.)"
         ]
     },
     {
@@ -4964,7 +4962,7 @@ const allTranslations =
         "effects": [
             "Each fallen ally has a 38% chance to get revived with 28% HP.",
             "All allies regenerate 648 HP over 4 turns.",
-            "All allies get +38% mana generation for 4 turns.",
+            "All allies get +38% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -5120,10 +5118,7 @@ const allTranslations =
         "name": "Balbar",
         "effects": [
             "Deals 350% damage to the target.",
-            "The target falls asleep.",
-            "While asleep, the target can't attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +60%.",
-            "The sleeping target is woken once it takes damage. This excludes damage from minions and fiends.",
+            "The target falls asleep and receives +60% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)",
             "Element Link gives +15% increase for any healing received for all Nature allies for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -5153,7 +5148,7 @@ const allTranslations =
             "Deals additional 25% damage for each Minion owned by the allies, up to 650% damage in total.",
             "Summons a Loyal Hound Minion for the caster with 35% HP and 35% attack inherited from the caster.",
             "When summoned the Loyal Hound Minion give +50% attack for tis owner as long as the owner has Loyal Hound Minions. This effect can't be dispelled.",
-            "Element Link gives all Nature allies +6% dodge chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Nature allies +6% dodge chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -5256,9 +5251,9 @@ const allTranslations =
         "name": "Chloris",
         "effects": [
             "Boosts health for all allies by 650. Boosted health can exceed max HP.",
-            "All allies regenerate 400 Bosted health over 4 turns. Boosted health can exceed max HP.",
+            "All allies regenerate 400 boosted health over 4 turns. Boosted health can exceed max HP.",
             "All allies get +50% attack as long as the caster has boosted health. This effect can't be cleansed.",
-            "Element Link gives all Nature allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Nature allies +20% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -5268,7 +5263,7 @@ const allTranslations =
             "Deals 330% damage to all enemies.",
             "All enemies get -70% decrease of any healing received for 3 turns.",
             "All enemies receive 450 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
+            "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -5287,7 +5282,7 @@ const allTranslations =
             "Deals 600% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "Wither: The target gets -330 defense.",
-            "Elemental Link recovers +4% health for all Nature allies for 6 turns. This effect can’t be dispelled."
+            "Element Link recovers +4% health for all Nature allies for 6 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -5597,10 +5592,10 @@ const allTranslations =
         "heroId": "forest_god_evelyn",
         "name": "Evelyn",
         "effects": [
-            "Deals 320% damage to the target and nearby enemies",
-            "The target and nearby enemies get -54% defense against Nature for 4 turns",
-            "Dispels buffs from the target and nearby enemies",
-            "Element Link recovers 4% health for all Nature allies for 6 turns. This effect can't be cleansed"
+            "Deals 320% damage to the target and nearby enemies.",
+            "The target and nearby enemies get -54% defense against Nature for 4 turns.",
+            "Dispels buffs from the target and nearby enemies.",
+            "Element Link recovers 5% health for all Nature allies for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -5610,7 +5605,7 @@ const allTranslations =
             "Deals 310% damage to the target and nearby enemies.",
             "The target and nearby enemies get -56% defense against Nature for 4 turns.",
             "Dispels buffs from target and nearby enemies.",
-            "Element Link recovers 4% health for all Nature allies for 6 turns. This effect can't be dispelled."
+            "Element Link recovers 5% health for all Nature allies for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -5658,7 +5653,7 @@ const allTranslations =
             "Deals 435% damage to the target.",
             "The target can't get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating of itself.)",
             "The target receives 1017 Poison damage over 3 turn. This effect spreads to nearby enemies.",
-            "Elemental Link gives all Nature allies +20% attack for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Nature allies +20% attack for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -5677,7 +5672,7 @@ const allTranslations =
         "effects": [
             "Deals 375% damage to the target and nearby enemies.",
             "The target and nearby enemies receive lasting 250 Bleed damage per turn. (This effect lasts until it is cleaned, replaced or removed.)",
-            "After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed enemies can't attack, or gain mana and receive +50% increased damage. Bosses, Titans and Mythic Titans are not affeced by this status effect.)"
+            "After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed enemies can't attack, or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)"
         ]
     },
     {
@@ -5901,7 +5896,7 @@ const allTranslations =
             "Deals 395% damage to the target and nearby enemies.",
             "The target and nearby enemies cannot cast any new Taunt status effects for 3 turns.",
             "The target and nearby enemies get -34% defense against Special Skills for 3 turns.",
-            "Element Link gives all Nature allies immunity to new Fiends for 4 turns."
+            "Element Link gives all Nature allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -5926,8 +5921,8 @@ const allTranslations =
         "heroId": "forest_god_gregorion_costume_alchemist",
         "name": "Gregorion C1",
         "effects": [
-            "Deals 535% damage to the target.",
-            "All allies get +45% critical chance for 4 turns.",
+            "Deals 550% damage to the target.",
+            "All allies get +35% critical chance for 3 turns.",
             "Element Link gives all Nature allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -6280,8 +6275,8 @@ const allTranslations =
         "name": "Kingston",
         "effects": [
             "Deals 495% damage to the target.",
-            "The target and nearby enemies get -31% attack, and a further -4% decrease every time they are hit during 4 turns.",
-            "Element Link gives +5% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
+            "The target and nearby enemies get -31% attack, and a further -4% decrease every time they are hit during 4 turns, down to -51% attack..",
+            "Element Link gives +5% mana generation for all Nature allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -6353,7 +6348,7 @@ const allTranslations =
             "Summons a Spirit of Spring Minion for all allies with 30% HP inherited from the caster.",
             "When summoned, the Spirit of Spring Minion boosts 120 health for its owner at the end of each turn for as long as the owner has a Spirit of Spring Minion. This effect can't be dispelled.",
             "All allies' Special Skill deal an additional 25% damage for 4 turn.",
-            "Element Link gives all Nature allies +15% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Nature allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -6446,8 +6441,8 @@ const allTranslations =
         "effects": [
             "Deals 385% damage to the enemy with the highest remaining HP. Deals 255% damage to all other enemies.",
             "The attack will always bypass counterattacks and reflection.",
-            "Steals the latest dispellable buff from all the enemies and randomly distributes them on alies who have 50% or less HP left.",
-            "Elemental Link gives all Nature allies +20% critical chance for 4 turns. This effect can't be dispelled."
+            "Steals the latest dispellable buff from all the enemies and randomly distributes them on allies who have 50% or less HP left.",
+            "Element Link gives all Nature allies +20% critical chance for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -6524,7 +6519,7 @@ const allTranslations =
         "effects": [
             "Deals 150% damage to the target and nearby enemies.",
             "The caster and nearby allies have from +30% to +90% chance of dodging special attacks that do damage. The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. Effect lasts 3 turns.",
-            "Elemental Link gives all Nature allies +60% defense against Fire for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Nature allies +60% defense against Fire for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -6684,7 +6679,7 @@ const allTranslations =
         "effects": [
             "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
             "All enemies get -34% defense for 4 turns.",
-            "All allies reflect all status effects and 145% damage back to the attacker and block other negative effects from enemies' Fire Special Skill for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
+            "All allies reflect all status ailments and 145% damage back to the attacker and block other negative effects from enemies' Fire Special Skill for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
             "Element Link gives all Nature allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -6694,7 +6689,7 @@ const allTranslations =
         "effects": [
             "Deals 460% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 504 Bleed damage over 3 turns.",
-            "For the next 3 turns, the target and nearby enemies convert all boosted  health received to max health reduction. Max health is reduced more for  targets that already have boosted health. (Max health can't get lower than 30% of the original max health. When boosted healing is converted, the max health reduction is doubled if the target already has boosted health.)"
+            "For the next 3 turns, the target and nearby enemies convert all boosted health received to max health reduction. Max health is reduced more for targets that already have boosted health. (Max health can't get lower than 30% of the original max health. When boosted healing is converted, the max health reduction is doubled if the target already has boosted health.)"
         ]
     },
     {
@@ -6953,7 +6948,7 @@ const allTranslations =
             "The target and nearby enemies get -34% defense for 3 turns.",
             "Deals 390% damage to the target.",
             "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
-            "Element Link gives all Nature allies +20% atack for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Nature allies +20% attack for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -7019,9 +7014,9 @@ const allTranslations =
         "heroId": "fox_spiff",
         "name": "Spiff",
         "effects": [
-            "The caster gets lasting bypass for defensive buffs. (Defensive buffs include counterattacks. This effect lasts until it is cleansed, replaced or removed.)",
+            "The caster gets lasting bypass for defensive buffs. (Defensive buffs include counterattacks. This effect lasts until it is dispelled, replaced or removed.)",
             "Deals 585% damage to the target.",
-            "The caster gets lasting +50% chance to dodge Special Skills. (This effect lasts until it is cleansed, replaced or removed.)"
+            "The caster gets lasting +50% chance to dodge Special Skills. (This effect lasts until it is dispelled, replaced or removed.)"
         ]
     },
     {
@@ -7159,7 +7154,7 @@ const allTranslations =
             "Deals 200% damage to all enemies.",
             "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
             "All allies regenerate 506 HP over 2 turns.",
-            "All enemies get -24% mana generation for 2 turns.",
+            "All enemies get -24% mana generation for 2 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Element Link gives all Nature allies +20% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -7326,7 +7321,7 @@ const allTranslations =
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 370% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 572 Poison damage over 4 turns.",
-            "Element Link gives all Nature allies +6% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Nature allies +6% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -7455,18 +7450,18 @@ const allTranslations =
             "All enemies get -34% attack for 4 turns.",
             "Deals extra damage against Ice.",
             "Dispels buffs from all enemies.",
-            "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
         "heroId": "forest_god_zeline_costume_avian",
         "name": "Zeline C1",
         "effects": [
+            "Deals 255% damage to all enemies.",
+            "All enemies get -34% attack for 4 turns.",
+            "Deals extra damage against Ice.",
             "Dispels buffs from all enemies.",
-            "Deals 240% damage to all enemies.",
-            "All enemies get -38% attack for 4 turns.",
-            "Deals extra damage against Ice",
-            "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -7485,8 +7480,8 @@ const allTranslations =
         "heroId": "forest_god_zocc",
         "name": "Zocc",
         "effects": [
-            "Deals 340% damage to the target",
-            "Increases the mana of the target by 50%",
+            "Deals 340% damage to the target.",
+            "Increases the mana of the target by 50%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.",
             "Element Link gives all Nature allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
@@ -8706,7 +8701,7 @@ const allTranslations =
             "Steals Minions from the target.",
             "Deals 540% damage to the target.",
             "The target and nearby enemies get -50% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "Elemental Link gives all Dark allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Dark allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -8764,7 +8759,7 @@ const allTranslations =
             "Recover 32% health for all allies.",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
             "The target falls asleep and receives +50% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable)",
-            "Elemental Link gives all Dark allies +15% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Dark allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -9036,7 +9031,7 @@ const allTranslations =
             "Deals 385% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 106-409 increasing Curse damage each turn for 5 turns. (On the first turn, 106 damage is dealt. The damage increases by +40% each turn, up to 409 damage per turn.)",
             "If the target is defeated in 4 turns, all enemies receive 1027 damage.",
-            "Elemental Link gives all Dark  allies +20% critical chance for 4 turns. This effect can’t be dispelled."
+            "Element Link gives all Dark  allies +20% critical chance for 4 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -9511,7 +9506,7 @@ const allTranslations =
             "Deals 375% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies can't gain mana for 4 turns.",
             "Deals extra damage against Holy.",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "Element Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -9519,9 +9514,9 @@ const allTranslations =
         "name": "Hel C1",
         "effects": [
             "Deals 350% damage to all enemies.",
-            "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster dies.",
+            "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.",
             "Deals extra damage to Holy.",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be displelled."
+            "Element Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -9532,7 +9527,7 @@ const allTranslations =
             "The target and nearby enemies get -34% defense against Dark for 4 turns.",
             "The target and nearby enemies can't gain mana for 4 turns.",
             "Deals extra damage against Holy.",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "Element Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -10024,14 +10019,14 @@ const allTranslations =
             "Deals 380% damage to the target and nearby enemies",
             "Randomly casts one of the following alternatives:",
             "Alternative 1:",
-            "* The target and nearby enemies get -54% defense for 3 turns",
-            "* The target and nearby enemies get -54% attack for 3 turns",
-            "* The target and nearby enemies get -34% mana generation for 3 turns",
+            "* The target and nearby enemies get -54% defense for 3 turns.",
+            "* The target and nearby enemies get -54% attack for 3 turns.",
+            "* The target and nearby enemies get -34% mana generation for 3 turns.",
             "Alternative 2:",
-            "* The target and nearby enemies get -24% defense for 3 turns",
+            "* The target and nearby enemies get -24% defense for 3 turns.",
             "Alternative 3:",
-            "* The target and nearby enemies get -24% attack for 3 turns",
-            "Element Link gives all Dark allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled"
+            "* The target and nearby enemies get -24% attack for 3 turns.",
+            "Element Link gives all Dark allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -10189,9 +10184,9 @@ const allTranslations =
         "name": "Morax",
         "effects": [
             "Deals 430% damage to the target and minor damage to nearby enemies.",
-            "The target gets -24% mana generation for 4 turns.",
+            "The target gets -24% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Reduces max health of the target's nearby enemies by 600. Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 600.",
-            "Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect cannot be dispelled"
+            "Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -10746,9 +10741,10 @@ const allTranslations =
         "name": "Seshat",
         "effects": [
             "Deals 450% damage to the target.",
-            "Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster. The minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.",
+            "Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster.",
+            "The minion generates a clone of itself every 3 turns. (Cloned Minions inherit the same amount of HP and attack as the original Minion. The Minion will only clone if the target does not already have the maximum number of Minions or Fiends.)",
             "Dispels buffs from the target and nearby enemies.",
-            "Elemental Link gives +5% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +5% mana generation for all Dark allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -10757,8 +10753,9 @@ const allTranslations =
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Deals 420% damage to the target.",
-            "Summons a Replicator Minion with 20% HP and 17% attack inherited from the caster. The Replicator Minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.",
-            "Element Link gives +5% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
+            "Summons a Replicator Minion with 20% HP and 17% attack inherited from the caster.",
+            "The Replicator Minion generates a clone of itself every 3 turns. (Cloned Minions inherit the same amount of HP and attack as the original Minion. The Minion will only clone if the target does not already have the maximum number of Minions or Fiends.)",
+            "Element Link gives +5% mana generation for all Dark allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -10825,7 +10822,7 @@ const allTranslations =
             "Cleanses status ailments from the caster and nearby allies.",
             "For the next 5 turns, this character has a 55% chance to deal 630% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "The caster and nearby allies reflect status ailments and negative stacks for 5 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "Element Link gives all Dark allies +6% dodge chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Dark allies +6% dodge chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -10890,7 +10887,7 @@ const allTranslations =
             "The target gets silenced for 3 turns.",
             "Summons a Sly Fox Minion to the caster and nearby allies with 5% HP and 100% attack inherited from the caster.",
             "Sly Fox Minion has 80% chance to dodge incoming attacks.",
-            "When a Sly Fox Minion dodges, it steals latest buff from the attacker and gives it to its owner."
+            "When a Sly Fox Minion dodges, it steals latest buff from the attacker and gives it to its owner. (For dodged normal attacks, only one buff can be reallocated per turn, per Minion.)"
         ]
     },
     {
@@ -10932,7 +10929,7 @@ const allTranslations =
         "effects": [
             "Deals 340% damage to the target and nearby enemies.",
             "Summons an Undead Minion for the caster and nearby allies with 30% HP and 20% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be displelled."
+            "Element Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -10940,8 +10937,8 @@ const allTranslations =
         "name": "Thoth-Amun C1",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
-            "Summons an Undead Minion for the Caster and Nearby allies with 27% HP and 27% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
+            "Summons an Undead Minion for the caster and nearby allies with 27% HP and 27% attack inherited from the caster.",
+            "Element Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -10951,7 +10948,7 @@ const allTranslations =
             "Deals 410% damage to the target and nearby enemies.",
             "Summons an Undead Minion for the caster and nearby allies with 32% HP and 27% attack inherited from the caster.",
             "Deals extra damage against Holy.",
-            "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -11005,9 +11002,9 @@ const allTranslations =
         "heroId": "dark_god_turgruk",
         "name": "Turgruk",
         "effects": [
-            "Deals 480% damage to the target.",
+            "Deals 500% damage to the target.",
             "Stack (Max:10): All damage the target receives is increased by +5%.",
-            "Element Link gives all Dark allies +6% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Dark allies +6% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -11117,7 +11114,7 @@ const allTranslations =
         "effects": [
             "Deals 180% damage to the target.",
             "The target and nearby enemies receive 822 Poison damage over 3 turns.  The caster absorbs 100% of dealt Poison damage as health.",
-            "Element Link gives +10% mana generation for all Dark allies for 4 turns.  This effect cannot be dispelled."
+            "Element Link gives +10% mana generation for all Dark allies for 4 turns. This effect can't be dispelled.  (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -11192,10 +11189,10 @@ const allTranslations =
         "name": "Viscaro",
         "effects": [
             "Deals 310% damage to all enemies.",
-            "Damage bypasses target's minions.",
+            "Damage bypasses target's Minions.",
             "Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target with 75% attack every turn.",
             "The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a healing amount equal to 60% of its owner's max health.",
-            "Attacks from Cursed Sapling Fiend deal extra damage if the target has minions.",
+            "Attacks from Cursed Sapling Fiend deal extra damage if the target has Minions.",
             "Element Link gives all Dark allies +20% attack for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -11292,7 +11289,7 @@ const allTranslations =
             "Deals 490% damage to the target.",
             "The target gets -34% defense for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
             "The target gets -34% decrease for any healing received for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
-            "Element Link gives all Dark allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Dark allies +20% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -12588,7 +12585,7 @@ const allTranslations =
             "Deals 390% damage to the target and nearby enemies.",
             "Gives cover to a random ally for 5 turns. This effect can't be dispelled. (While in Cover, the ally taks no damage from Special attacks or normal attacks. This covering character takes 50% of the damage dealt to the ally.)",
             "The caster and nearby allies get +89% defense against Ice for 5 turns.",
-            "Elemental Link gives all Fire allies +20% critical chance for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Fire allies +20% critical chance for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -13357,7 +13354,7 @@ const allTranslations =
             "Deals 330% damage to all enemies.",
             "All enemies receive 640 Burn damage over 4 turns.",
             "Dispel buffs from all enemies.",
-            "Elemental Link gives all Fire allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Fire allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -13681,7 +13678,7 @@ const allTranslations =
         "effects": [
             "Recovers 23% health for all allies.",
             "All allies are immune to new status ailments for 2 turns.",
-            "Element Link gives +5% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +5% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -14128,7 +14125,7 @@ const allTranslations =
             "This Special Skill never misses its targets.",
             "Deals 320% damage to 3 random enemies.",
             "All allies get +40% chance to dodge Special Skills that deal damage for 3 turns.",
-            "Elemental Link gives all Fire allies +20% attack for 5 turns. This effect can't be dispelled."
+            "Element Link gives all Fire allies +20% attack for 5 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -14254,9 +14251,9 @@ const allTranslations =
         "name": "Natalya",
         "effects": [
             "The target receives 1016 Burn damage over 4 turns. This effect can't be cleansed.",
-            "The target gets -54% mana generation for 4 turns. This effect can't be cleansed.",
+            "The target gets -54% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Deals extra damage against Nature.",
-            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -14264,9 +14261,9 @@ const allTranslations =
         "name": "Natalya C1",
         "effects": [
             "The target receives 1504 Burn damage over 4 turns. This effect can't be cleansed.",
-            "The target gets -50% mana generation for 4 turns. This effect can't be cleansed.",
+            "The target gets -50% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
             "Deals extra damage against Nature.",
-            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
+            "Element Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -14277,7 +14274,7 @@ const allTranslations =
             "Summons a Fire Tiger Fiend for all enemies. The Fiend damages its target with 45% attack every turn.",
             "The Fiend absorbs healing. It disappears after absorbing a healing amount equal to 45% of its target's max health.",
             "When summoned, the Fire Tiger Fiend's target cannot cast any new Taunt status effects for as long as the target has Fire Tiger Fiends. This effect can't be cleansed.",
-            "Elemental Link gives all Fire allies +15% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Fire allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -14286,7 +14283,7 @@ const allTranslations =
         "effects": [
             "Recovers 20% health for all allies.",
             "Steals the latest dispellable buffs for all enemies and randomly distributes them on allies.",
-            "All allies get lasting 310 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)"
+            "All allies get lasting 310 health regeneration per turn. (This effect lasts until it is dispelled, replaced or removed.)"
         ]
     },
     {
@@ -14324,7 +14321,7 @@ const allTranslations =
         "name": "Noor",
         "effects": [
             "Recovers 20% health for all allies.",
-            "Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30% attack from the caster",
+            "Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30% attack from the caster.",
             "Before Sparrow Minion hits target, it destroys all Minions from the target.",
             "Element Link gives all Fire allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
@@ -14633,7 +14630,7 @@ const allTranslations =
         "heroId": "fire_god_roughian_and_nurgib",
         "name": "Roughian & Nurgib",
         "effects": [
-            "Steals 50% mana from the target and distributes them on allies.",
+            "Steals 50% mana from the target and distributes them on allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Deals 480% damage to the target.",
             "The more health the enemy has, the more damage they will receive, up to 630%.",
             "Element Link gives all Fire allies get +6% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
@@ -14695,8 +14692,8 @@ const allTranslations =
         "name": "Rust",
         "effects": [
             "Deals 535% damage to the target and nearby enemies.",
-            "The target receives lasting 210 Bleed damage per turn. (This effect lasts until it is cleansed or removed.)",
-            "Gives cover to any ally with the lowest Health for 5 turns. This effect can't be dispelled. (While in Cover, the ally takes no damage from Special attaacks or normal attacks. The covering character takes 50% of the damage dealt to the ally.)",
+            "The target receives lasting 210 Bleed damage per turn. (This effect lasts until it is cleansed, replaced or removed.)",
+            "Gives cover to any ally with the lowest Health for 5 turns. This effect can't be dispelled. (While in Cover, the ally takes no damage from Special attacks or normal attacks. The covering character takes 50% of the damage dealt to the ally.)",
             "The caster regenerates 1750 HP over 5 turns."
         ]
     },
@@ -14840,8 +14837,8 @@ const allTranslations =
         "effects": [
             "Deals 375% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 20%.",
-            "The target and nearby enemies get -40% accuracy for 4 turns. (Chance to miss applies to offensive Special Skills.)",
-            "Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
+            "The target and nearby enemies get -40% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -14878,8 +14875,8 @@ const allTranslations =
         "effects": [
             "Deals 420% damage to the target.",
             "Deals 630% damage if the target has status ailments or negative stacks.",
-            "If the target still alive, the nearby enemies get 258 Bleed damage for 3 turns.",
-            "Element Link gives all Fire allies immunity to new Fiends for 4 turns. This effect cannot be dispelled."
+            "If the target is still alive, the nearby enemies get 258 Bleed damage for 3 turns.",
+            "Element Link gives all Fire allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -15090,7 +15087,7 @@ const allTranslations =
             "Deals 400% damage to the target.",
             "Has a 65% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
             "The caster gains the following status effect each hit:",
-            "Stack (Max: 10): The caster gets +6% attack.",
+            "* Stack (Max: 10): The caster gets +6% attack.",
             "Element Link gives all Fire allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -15108,8 +15105,8 @@ const allTranslations =
         "name": "Zagrog",
         "effects": [
             "Deals 520% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The caster gains 25% mana if any defensive buffs were bypassed.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "The caster gains 25% mana if any defensive buffs were bypassed. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "Element Link gives all Fire allies +20% defense for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -15118,9 +15115,9 @@ const allTranslations =
         "name": "Zarga",
         "effects": [
             "Deals 495% damage to the target.",
-            "The target has 60% chance to get 1068 Bleed damage over 6 turns.",
-            "The target gets a Bleed mark for 6 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%.",
-            "Element Link gives all Fire allies +6% dodge chance for 6 turns. This effect cannot be dispelled."
+            "The target has 60% chance to get 1104 Bleed damage over 6 turns.",
+            "The target gets a Mark of Bleed for 6 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%.",
+            "Element Link gives all Fire allies +6% dodge chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -15166,7 +15163,7 @@ const allTranslations =
             "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving any damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is increased on each consecutive hit. Each enemy can only be hit once.",
             "For each enemy defeated by the attack, reduces the mana of all enemies by -25%.",
             "Stack (Max: 10): The caster gets +10% attack.",
-            "Elemental Link recovers 4% health for all Fire allies for 6 turns. This effect can't be dispelled."
+            "Element Link recovers 5% health for all Fire allies for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -15192,7 +15189,7 @@ const allTranslations =
             "* The target receives 543 Poison damage over 3 turns.",
             "Fire Bolt:",
             "* The target receives 576 Burn damage over 3 turns.",
-            "Element Link gives all Fire allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Fire allies +20% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16380,8 +16377,8 @@ const allTranslations =
             "* Deals 300% damage to all enemies.",
             "* All enemies get lasting -40% attack. (This effect lasts until it is cleansed, replaced or removed.)",
             "Otherwise:",
-            "* All allies get lasting 200 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)",
-            "* All allies get lasting +40% attack. (This effect lasts until it is cleansed, replaced or removed.)"
+            "* All allies get lasting 200 health regeneration per turn. (This effect lasts until it is dispelled, replaced or removed.)",
+            "* All allies get lasting +40% attack. (This effect lasts until it is dispelled, replaced or removed.)"
         ]
     },
     {
@@ -16410,7 +16407,7 @@ const allTranslations =
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 360% damage to the target and nearby enemies.",
             "The target and nearby enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills)",
-            "Elemental Link gives all Holy allies +20% attack for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Holy allies +20% attack for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16420,7 +16417,7 @@ const allTranslations =
             "Deals 360% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effects buffs for 4 turns.",
             "The caster and nearby allies get +50% critical chance for 4 turns.",
-            "Element Link gives all Holy allies +6% dodge chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Holy allies +6% dodge chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16621,7 +16618,7 @@ const allTranslations =
         "effects": [
             "Recovers 42% health for all allies.",
             "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster.",
-            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16630,7 +16627,7 @@ const allTranslations =
         "effects": [
             "Recovers 40% health for all allies.",
             "Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.",
-            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -16640,8 +16637,8 @@ const allTranslations =
             "Deals 315% damage to the target and nearby enemies.",
             "Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.",
             "Before Lynx Minion hits target, it destroys all Minions from the target.",
-            "Dispells buffs from the target and nearby enemies.",
-            "Element Link givs all Holy allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
+            "Dispels buffs from the target and nearby enemies.",
+            "Element Link gives all Holy allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16686,7 +16683,7 @@ const allTranslations =
         "name": "Drake Fong C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
             "Element Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -16780,7 +16777,7 @@ const allTranslations =
             "Recovers 46% health for all allies.",
             "All allies get +35% increase for any healing received for 5 turns.",
             "Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
-            "Element Link gives all Holy allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "Element Link gives all Holy allies +20% critical chance for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -16876,7 +16873,7 @@ const allTranslations =
             "Deals 300% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
             "All hit targets gets -35% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "Elemental Link gives all Holy allies +20% critical chance for 4 turns. This effect can’t be dispelled."
+            "Element Link gives all Holy allies +20% critical chance for 4 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -16886,7 +16883,7 @@ const allTranslations =
             "Deals 410% damage to the target and nearby enemies.",
             "The attack has a 80% chance to bypass defensive buffs. (This includes counterattacks.)",
             "All allies get +45% defense for 4 turns.",
-            "Element Link gives all Holy allies a +6% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Holy allies a +6% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -17054,7 +17051,7 @@ const allTranslations =
         "name": "Hanitra",
         "effects": [
             "All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 450. Boosted health cand exceed max HP.",
-            "All allies resist max health reduction for 3 turns.",
+            "All allies are immune to max health reduction for 3 turns.",
             "Element Link gives +15% increase for any healing received for all Holy allies for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -17237,7 +17234,7 @@ const allTranslations =
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
             "Steals 35% mana from the target and distributes it to allies. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
             "All allies get +40% attack for 2 turns.",
-            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
+            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -17419,7 +17416,7 @@ const allTranslations =
         "name": "Kara",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster gets +74% defense against special skills for 4 turns.",
+            "The caster gets +74% defense against Special Skills for 4 turns.",
             "All allies except the caster get +34% attack fo 4 turns.",
             "Element Link gives all Holy allies +20% defense for 4 turns. This effect can't be dispelled."
         ]
@@ -17641,7 +17638,7 @@ const allTranslations =
             "Growth: All allies get 150 attack and 150 defense.",
             "Summon a Carrot Minion for each ally with 25% HP inherited from the caster.",
             "When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
-            "Elemental Link gives all Holy allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
+            "Element Link gives all Holy allies +40% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -17750,7 +17747,7 @@ const allTranslations =
         "effects": [
             "Deals 362% damage to the target and minor damage to nearby enemies",
             "The caster heals 50% of dealt normal damage for 5 turns.",
-            "Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be displelled."
+            "Element Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -17759,7 +17756,7 @@ const allTranslations =
         "effects": [
             "Deals 350% damage to the target and minor damage to nearby enemies.",
             "The caster heals 75% of dealt normal damage for 5 turns.",
-            "Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "Element Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -17779,7 +17776,7 @@ const allTranslations =
             "Deals 200% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
             "All enemies get -35% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "Element Link gives +5% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
+            "Element Link gives +5% mana generation for all Holy allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ]
     },
     {
@@ -18124,7 +18121,7 @@ const allTranslations =
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)",
-            "Deals 450% damage to the enemy with the highest remaining HP. Deals 250% damage to all other enmies.",
+            "Deals 450% damage to the enemy with the highest remaining HP. Deals 250% damage to all other enemies.",
             "The enemy that had the highest remaining HP get 810 Water damage over 3 turns. This effect can't be cleansed."
         ]
     },
@@ -18238,7 +18235,7 @@ const allTranslations =
         "name": "Silverpaw",
         "effects": [
             "Steals all Minions or a Mega Minion from target.",
-            "Inflicts the target wit lasting Greed. Friendly effects from all Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
+            "Inflicts the target wit lasting Greed. Friendly effects from all Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from gaining friendly effects from allies. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
             "All enemies receive 137-377 increasing Curse damage each turn for 4 turns. (On the first turn, 137 damage is dealt. The damage increases by +40% each turn, up to 377 damage per turn.)"
         ]
     },
@@ -18280,6 +18277,22 @@ const allTranslations =
             "All enemies receives 1200 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
             "If the caster is defeated in the next 4 turns, reduces max health for all enemies by 1000 over 4 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 250 per turn.)",
             "All allies are immune to new effects that prevent the use of Special Skills for 4 turns."
+        ]
+    },
+    {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Deals 225% damage to all enemies.",
+            "All allies get +35% chance to dodge Special Skill for 2 turns. Each dodge damages the attacker for 350 damage.",
+            "x2 Mana Charge:",
+            "Deals 350% damage to all enemies.",
+            "All allies get +45% chance to dodge Special Skill for 3 turns. Each dodge damages the attacker for 450 damage.",
+            "x3 Mana Charge:",
+            "Deals 550% damage to all enemies.",
+            "All allies get +65% chance to dodge Special Skill for 5 turns. Each dodge damages the attacker for 1000 damage."
         ]
     },
     {
@@ -18373,6 +18386,28 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C1",
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
+            "x1 Mana Charge:",
+            "Destroys all Minions from the target. This effect damages Mega Minions.",
+            "Deals 410% damage to the target.",
+            "The target can't summon new Minions with Special Skill and receives 100 damage for each Minion they attempt to summon for 2 turns.",
+            "All allies get 5% mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "x2 Mana Charge:",
+            "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
+            "Deals 420% damage to the target and nearby enemies.",
+            "The target and nearby enemies can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
+            "All allies get 5% mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "x3 Mana Charge:",
+            "Destroys all Minions from all enemies and damages Mega Minions.",
+            "Deals 430% damage to all enemies.",
+            "All enemies can't summon new Minions with Special Skill and receives 500 damage for each Minion they attempt to summon for 4 turns.",
+            "All allies get 10% mana for each destroyed Minion. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)"
+        ]
+    },
+    {
         "heroId": "mimic_troop_yellow",
         "name": "Troop Mimic Holy",
         "effects": [
@@ -18386,10 +18421,10 @@ const allTranslations =
         "heroId": "holy_god_uraeus",
         "name": "Uraeus",
         "effects": [
-            "Deals 635% damage to the target",
+            "Deals 635% damage to the target.",
             "Damage bypasses target's Minions.",
             "All enemies who own a Minion or a Fiend receive 420 Sand damage over 3 turns.",
-            "Element Link summons a Holy Minion for all Holy allies with 7% HP and 12% attack inherited from the caster"
+            "Element Link summons a Holy Minion for all Holy allies with 7% HP and 12% attack inherited from the caster."
         ]
     },
     {
@@ -18763,18 +18798,8 @@ const allTranslations =
             "Deals 380% damage to all enemies.",
             "Cleanses status ailments from all allies.",
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
-            "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "ninja_topaz_costume_precise",
-        "name": "Topaz C",
-        "effects": []
-    },
-    {
-        "heroId": "ronin_tanaka_isako",
-        "name": "Tanaka Isako",
-        "effects": []
     },
     {
         "heroId": "tales2_fafnir_costume_fallen",
@@ -18784,6 +18809,41 @@ const allTranslations =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "effects": []
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "effects": []
+    },
+    {
+        "heroId": "ghost_chou_kou_gui",
+        "name": "Chou Kou Gui",
         "effects": []
     },
     {

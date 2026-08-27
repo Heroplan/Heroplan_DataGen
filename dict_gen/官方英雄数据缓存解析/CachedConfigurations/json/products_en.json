@@ -116,7 +116,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 200,
+        "uiPriority": 205,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -2112,7 +2112,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 207,
+        "uiPriority": 204,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -36131,7 +36131,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58925,5 +58925,5 @@
       }
     ]
   },
-  "productsConfigId": 3030232500
+  "productsConfigId": 1182687348
 }

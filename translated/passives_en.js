@@ -14388,6 +14388,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_tanaka_isako",
+        "name": "Tanaka Isako",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ]
+    },
+    {
         "heroId": "journey_tang_sanzang",
         "name": "Tang Sanzang",
         "passives": [
@@ -14438,6 +14449,14 @@ const allTranslations =
         "name": "Topaz",
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
+        ]
+    },
+    {
+        "heroId": "ninja_topaz_costume_precise",
+        "name": "Topaz C1",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 608 Bleed damage over 4 turns."
         ]
     },
     {
@@ -14783,16 +14802,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "ninja_topaz_costume_precise",
-        "name": "Topaz C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_tanaka_isako",
-        "name": "Tanaka Isako",
-        "passives": []
-    },
-    {
         "heroId": "tales2_fafnir_costume_fallen",
         "name": "Fafnir C",
         "passives": []
@@ -14800,6 +14809,41 @@ const allTranslations =
     {
         "heroId": "tales2_snorri_costume_powder",
         "name": "Snorri C",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "passives": []
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_chou_kou_gui",
+        "name": "Chou Kou Gui",
         "passives": []
     },
     {

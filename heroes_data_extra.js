@@ -49954,5 +49954,53 @@ window.allHeroesExtra = [
         "healthBonus": "90%",
         "manaBonus": "5%",
         "family": "hotm2019"
+    },
+    {
+        "name": "Tanaka Isako",
+        "fancy name": "Ronin from a Rustic Village",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
+        "Release date": "2026-08-27",
+        "AetherPower": "Attack Up",
+        "heroId": "ronin_tanaka_isako",
+        "baseAttack": 700,
+        "baseDefense": 679,
+        "baseHealth": 1167,
+        "specialId": "swift_stabs",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health",
+            "reduce_minion_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Topaz costume1",
+        "fancy name": "Ninja of Deadly Precision",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "charge_ninja",
+        "Release date": "2026-08-27",
+        "AetherPower": "Attack Up",
+        "heroId": "ninja_topaz_costume_precise",
+        "baseAttack": 399,
+        "baseDefense": 343,
+        "baseHealth": 727,
+        "specialId": "lethal_needles",
+        "specialId_costume": "precise_needles",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "attackBonus": "77%",
+        "defenseBonus": "77%",
+        "healthBonus": "77%",
+        "manaBonus": "1%",
+        "family": "ninja"
     }
 ];

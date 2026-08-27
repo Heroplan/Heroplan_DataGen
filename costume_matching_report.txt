@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (624 / 0)
+✅ 成功匹配的服装 (625 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -342,6 +342,7 @@ Name: Black Knight Costume1, Fancy Name: Negative Knight
 Name: Horghall Costume2, Fancy Name: Nightmare of the Woods
 Name: Inari toon, Fancy Name: Nine-tailed Toon
 Name: Quartz costume1, Fancy Name: Ninja of Ancient Graves
+Name: Topaz costume1, Fancy Name: Ninja of Deadly Precision
 Name: Garnet costume1, Fancy Name: Ninja of Flaming Vigor
 Name: Zircon costume1, Fancy Name: Ninja of Iron Waves
 Name: Cobalt costume1, Fancy Name: Ninja of Turbulent Seas

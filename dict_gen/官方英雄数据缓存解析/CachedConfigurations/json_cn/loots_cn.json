@@ -40565,8 +40565,8 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                5,
-                10
+                10,
+                15
               ],
               "weights": [
                 50,
@@ -40685,8 +40685,8 @@
             "amountResolver": {
               "resolverType": "WeightedRandom",
               "amounts": [
-                5,
-                10
+                10,
+                15
               ],
               "weights": [
                 50,
@@ -42036,7 +42036,7 @@
             "type": "Item",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 50
+              "amount": 75
             },
             "idResolver": {
               "resolverType": "Fixed",
@@ -42169,7 +42169,7 @@
             "type": "Item",
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 50
+              "amount": 100
             },
             "idResolver": {
               "resolverType": "Fixed",
@@ -48592,5 +48592,5 @@
       }
     ]
   },
-  "lootsConfigId": 3656594609
+  "lootsConfigId": 1924398013
 }

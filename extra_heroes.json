@@ -1,29 +1,5 @@
 [
     {
-        "name": "Topaz C",
-        "fancy_name": "Ninja of Deadly Precision",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-27 07:00:00",
-        "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_topaz_costume_precise",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tanaka Isako",
-        "fancy_name": "Ronin from a Rustic Village",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-27 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_tanaka_isako",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Fafnir C",
         "fancy_name": "Fallen Lord of Myrkheim",
         "color": "Green",
@@ -45,6 +21,90 @@
         "family": "myrkheim",
         "costume_id": 1,
         "heroId": "tales2_snorri_costume_powder",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Bhagirathi",
+        "fancy_name": "Sarita Goddess",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-01 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_bhagirathi",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Justice Stylish",
+        "fancy_name": "Stylish Ancient of Stone",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-04 07:00:00",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "exalted_female_statue_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sonya Stylish",
+        "fancy_name": "Stylish Champion",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-04 07:00:00",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "royal_female_knight_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Wu Kong Stylish",
+        "fancy_name": "Stylish Monkey",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-04 07:00:00",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Nashgar Stylish",
+        "fancy_name": "Stylish Orc",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-04 07:00:00",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "orc_warrior_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Karil Stylish",
+        "fancy_name": "Stylish Dwarf",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-04 07:00:00",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "dwarven_smasher_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Chou Kou Gui",
+        "fancy_name": "Ghost of Noxious Mouth",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-05 07:00:00",
+        "star": 5,
+        "family": "ghost",
+        "costume_id": 0,
+        "heroId": "ghost_chou_kou_gui",
         "Lottery_Only": 1
     },
     {

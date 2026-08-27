@@ -34917,7 +34917,7 @@
     "aetherGift": "防御提升",
     "rarity": 5,
     "specialId": "风格审判",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-04 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "贾斯提斯"
@@ -34928,7 +34928,7 @@
     "family": "经典家族",
     "baseHealth": 461,
     "baseAttack": 334,
-    "baseDefense": 296,
+    "baseDefense": 297,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "stylish_epic"
@@ -34938,7 +34938,7 @@
     "aetherGift": "特殊技能加成",
     "rarity": 4,
     "specialId": "英姿打击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-04 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "索尼娅"
@@ -34948,7 +34948,7 @@
     "element": "黄",
     "family": "经典家族",
     "baseHealth": 497,
-    "baseAttack": 303,
+    "baseAttack": 304,
     "baseDefense": 319,
     "manaSpeedId": "中等",
     "passiveSkills": [
@@ -34959,7 +34959,7 @@
     "aetherGift": "气运",
     "rarity": 4,
     "specialId": "时髦架势",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-04 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "悟空"
@@ -34980,7 +34980,7 @@
     "aetherGift": "攻击提升",
     "rarity": 3,
     "specialId": "英姿打击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-04 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "纳什加"
@@ -34989,7 +34989,7 @@
     "id": "英姿矮人",
     "element": "蓝",
     "family": "经典家族",
-    "baseHealth": 413,
+    "baseHealth": 414,
     "baseAttack": 296,
     "baseDefense": 205,
     "manaSpeedId": "中等",
@@ -35001,7 +35001,7 @@
     "aetherGift": "怒气",
     "rarity": 3,
     "specialId": "英姿突袭",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-04 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "卡里尔"
@@ -35086,7 +35086,7 @@
     "classType": "圣骑士",
     "aetherGift": "攻击提升",
     "costumeBonusPassiveSkillIds": [
-      "legendary_reversal"
+      "legendary_reflector"
     ],
     "rarity": 5,
     "specialId": "永世积怨",
@@ -38207,9 +38207,9 @@
     "id": "卡拉维塔",
     "element": "紫",
     "family": "hotm2026",
-    "baseHealth": 1014,
-    "baseAttack": 606,
-    "baseDefense": 641,
+    "baseHealth": 1052,
+    "baseAttack": 628,
+    "baseDefense": 657,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_special_blocking",
@@ -38300,9 +38300,9 @@
     "id": "巴吉拉蒂",
     "element": "蓝",
     "family": "马哈尤达家族",
-    "baseHealth": 1208,
-    "baseAttack": 662,
-    "baseDefense": 662,
+    "baseHealth": 1170,
+    "baseAttack": 692,
+    "baseDefense": 691,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -38312,7 +38312,7 @@
     "aetherGift": "特殊技能加成",
     "rarity": 5,
     "specialId": "灾厄狂涛",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-01 07:00:00",
     "origin": "风泽神殿"
   },
   "champions_marjatta": {
@@ -38431,9 +38431,9 @@
     "id": "丑口鬼",
     "element": "绿",
     "family": "杨戬家族幽灵",
-    "baseHealth": 1151,
-    "baseAttack": 688,
-    "baseDefense": 655,
+    "baseHealth": 1169,
+    "baseAttack": 704,
+    "baseDefense": 676,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "vengeful_ghost_on_damage_received"
@@ -38442,7 +38442,7 @@
     "aetherGift": "恶魔抵抗",
     "rarity": 5,
     "specialId": "剧毒吐息",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-05 07:00:00",
     "origin": "KingdomWar"
   },
   "ghost_xiwang_gui": {

@@ -58693,7 +58693,7 @@
             "sideAffected": "Enemies",
             "typeOfTarget": "Single",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 4650,
+            "powerMultiplierPerMil": 4150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           },
           "maxLevel": 8,
@@ -58707,7 +58707,7 @@
             "sideAffected": "Enemies",
             "typeOfTarget": "NearToTargetMinor",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 5400,
+            "powerMultiplierPerMil": 5650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           },
           "maxLevel": 8,
@@ -58721,7 +58721,7 @@
             "sideAffected": "Enemies",
             "typeOfTarget": "AllMinor",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 6150,
+            "powerMultiplierPerMil": 7650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           },
           "maxLevel": 8,
@@ -61411,7 +61411,7 @@
             "sideAffected": "Enemies",
             "typeOfTarget": "NearToTarget",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 3650,
+            "powerMultiplierPerMil": 4150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           },
           "maxLevel": 8,
@@ -61444,7 +61444,6 @@
           },
           "maxLevel": 8,
           "properties": [
-            "bypass_defensive_buffs_always",
             "health_boost_allies_on_damage_anzogh_costume"
           ],
           "statusEffects": [
@@ -75187,7 +75186,7 @@
         {
           "propertyType": "HealthSteal",
           "id": "health_boost_all_on_damage_horace",
-          "sharedHealthPerMil": 150,
+          "sharedHealthPerMil": 250,
           "isHealthBoost": true,
           "targetType": "All",
           "sideAffected": "Allies"
@@ -76823,7 +76822,7 @@
           "propertyType": "ChainStrike",
           "id": "chain_strike_horace",
           "chainEffectType": "Damage",
-          "powerMultiplierPerMil": 4650,
+          "powerMultiplierPerMil": 4350,
           "powerMultiplierIncrementPerLevelPerMil": 50,
           "maxExtraHits": 4,
           "extraHitChancePerMil": 1000,
@@ -77361,7 +77360,7 @@
         {
           "propertyType": "HealthSteal",
           "id": "health_boost_allies_on_damage_anzogh_costume",
-          "sharedHealthPerMil": 300,
+          "sharedHealthPerMil": 270,
           "isHealthBoost": true,
           "targetType": "All",
           "sideAffected": "Allies"
@@ -112288,7 +112287,7 @@
           "aetherGift": "Defense Up",
           "rarity": 5,
           "specialId": "style_judgement",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-04 07:00:00",
           "origin": "Season1",
           "summonExclusiveTag": "Wardrobe1",
           "parentHeroId": "exalted_female_statue"
@@ -112299,7 +112298,7 @@
           "family": "classic",
           "baseHealth": 461,
           "baseAttack": 334,
-          "baseDefense": 296,
+          "baseDefense": 297,
           "manaSpeedId": "fast",
           "passiveSkills": [
             "stylish_epic"
@@ -112309,7 +112308,7 @@
           "aetherGift": "Special Boost",
           "rarity": 4,
           "specialId": "stylish_strike_sonya",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-04 07:00:00",
           "origin": "Season1",
           "summonExclusiveTag": "Wardrobe1",
           "parentHeroId": "royal_female_knight"
@@ -112319,7 +112318,7 @@
           "element": "Yellow",
           "family": "classic",
           "baseHealth": 497,
-          "baseAttack": 303,
+          "baseAttack": 304,
           "baseDefense": 319,
           "manaSpeedId": "average",
           "passiveSkills": [
@@ -112330,7 +112329,7 @@
           "aetherGift": "Gamble",
           "rarity": 4,
           "specialId": "stylish_stance",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-04 07:00:00",
           "origin": "Season1",
           "summonExclusiveTag": "Wardrobe1",
           "parentHeroId": "oriental_monkey_captain"
@@ -112351,7 +112350,7 @@
           "aetherGift": "Attack Up",
           "rarity": 3,
           "specialId": "stylish_strike_nashgar",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-04 07:00:00",
           "origin": "Season1",
           "summonExclusiveTag": "Wardrobe1",
           "parentHeroId": "orc_warrior"
@@ -112360,7 +112359,7 @@
           "id": "The Hotblooded-Stylish Dwarf",
           "element": "Blue",
           "family": "classic",
-          "baseHealth": 413,
+          "baseHealth": 414,
           "baseAttack": 296,
           "baseDefense": 205,
           "manaSpeedId": "average",
@@ -112372,7 +112371,7 @@
           "aetherGift": "Rage",
           "rarity": 3,
           "specialId": "stylish_rush",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-04 07:00:00",
           "origin": "Season1",
           "summonExclusiveTag": "Wardrobe1",
           "parentHeroId": "dwarven_smasher"
@@ -112457,7 +112456,7 @@
           "classType": "Paladin",
           "aetherGift": "Attack Up",
           "costumeBonusPassiveSkillIds": [
-            "legendary_reversal"
+            "legendary_reflector"
           ],
           "rarity": 5,
           "specialId": "perennial_grudge",
@@ -115578,9 +115577,9 @@
           "id": "Rider of Perdition",
           "element": "Purple",
           "family": "hotm2026",
-          "baseHealth": 1014,
-          "baseAttack": 606,
-          "baseDefense": 641,
+          "baseHealth": 1052,
+          "baseAttack": 628,
+          "baseDefense": 657,
           "manaSpeedId": "average",
           "passiveSkills": [
             "resist_special_blocking",
@@ -115671,9 +115670,9 @@
           "id": "Sarita Goddess",
           "element": "Blue",
           "family": "mahayoddha",
-          "baseHealth": 1208,
-          "baseAttack": 662,
-          "baseDefense": 662,
+          "baseHealth": 1170,
+          "baseAttack": 692,
+          "baseDefense": 691,
           "manaSpeedId": "average",
           "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
@@ -115683,7 +115682,7 @@
           "aetherGift": "Special Boost",
           "rarity": 5,
           "specialId": "tormenting_flood",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-01 07:00:00",
           "origin": "Windfall Temple"
         },
         {
@@ -115802,9 +115801,9 @@
           "id": "Ghost of Noxious Mouth",
           "element": "Green",
           "family": "ghost",
-          "baseHealth": 1151,
-          "baseAttack": 688,
-          "baseDefense": 655,
+          "baseHealth": 1169,
+          "baseAttack": 704,
+          "baseDefense": 676,
           "manaSpeedId": "very_fast",
           "passiveSkills": [
             "vengeful_ghost_on_damage_received"
@@ -115813,7 +115812,7 @@
           "aetherGift": "Fiend Resist",
           "rarity": 5,
           "specialId": "noxious_breath",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-05 07:00:00",
           "origin": "KingdomWar"
         },
         {
@@ -118220,7 +118219,7 @@
           ],
           "rarity": 5,
           "specialId": "light_of_the_wyrmspire",
-          "canBeReceivedDate": "2200-01-01 07:00:00",
+          "canBeReceivedDate": "2026-09-01 07:00:00",
           "origin": "AncientDragon",
           "dragonSpiritBaseBonusesId": "ancient",
           "dragonSpiritClassBonusesId": "paladin_ancient",
@@ -184391,8 +184390,10 @@
         "statusEffect": "UnderWater",
         "id": "underwater_bhagirathi",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 150,
-        "damageMultiplierIncrementPerLevelPerMil": 5
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 280,
+        "fixedDamagePerTurnIncrementPerLevel": 10
       },
       {
         "statusEffect": "DefenseModifier",
@@ -184766,7 +184767,7 @@
         "statusEffect": "BlueDefenseModifier",
         "id": "mark_ice_frida_costume",
         "buff": "MinorDebuff",
-        "defenseMultiplierPerMil": 550,
+        "defenseMultiplierPerMil": 660,
         "defenseMultiplierIncrementPerLevelPerMil": 226
       },
       {
@@ -220018,5 +220019,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2113860607
+  "battleConfigId": 2983302405
 }

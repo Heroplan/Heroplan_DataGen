@@ -58637,7 +58637,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4650,
+          "powerMultiplierPerMil": 4150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58651,7 +58651,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5400,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -58665,7 +58665,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "AllMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 6150,
+          "powerMultiplierPerMil": 7650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -61355,7 +61355,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3650,
+          "powerMultiplierPerMil": 4150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -61388,7 +61388,6 @@
         },
         "maxLevel": 8,
         "properties": [
-          "bypass_defensive_buffs_always",
           "health_boost_allies_on_damage_anzogh_costume"
         ],
         "statusEffects": [
@@ -75131,7 +75130,7 @@
       {
         "propertyType": "HealthSteal",
         "id": "health_boost_all_on_damage_horace",
-        "sharedHealthPerMil": 150,
+        "sharedHealthPerMil": 250,
         "isHealthBoost": true,
         "targetType": "All",
         "sideAffected": "Allies"
@@ -76767,7 +76766,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_horace",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 4650,
+        "powerMultiplierPerMil": 4350,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 4,
         "extraHitChancePerMil": 1000,
@@ -77305,12 +77304,12 @@
       {
         "propertyType": "HealthSteal",
         "id": "health_boost_allies_on_damage_anzogh_costume",
-        "sharedHealthPerMil": 300,
+        "sharedHealthPerMil": 270,
         "isHealthBoost": true,
         "targetType": "All",
         "sideAffected": "Allies"
       }
     ]
   },
-  "specialsConfigId": 2595745944
+  "specialsConfigId": 4218130585
 }
