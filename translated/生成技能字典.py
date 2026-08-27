@@ -1,11 +1,31 @@
 # -*- coding: utf-8 -*-
-# 【最终版】采用新规则：仅当结尾为“非标点符号”时才补全句号
+# 【自适应规则版】支持元素占位符，生成包含 {ElementN} 的正则规则
+# - 数字提取时排除元素占位符中的序号数字
+# - 中文元素匹配：仅替换核心词（如“烈火”），保留后缀“系”，实现自然区分
+# - 支持排除特定短语（如 Fire Bolt, Fire Tiger）
+# - 修复：捕获组编号冲突，统一为单个捕获组，确保 group(1) 始终为核心词
 
 import re
 import json
 import logging
 import os
 from collections import defaultdict
+
+# ========== 元素映射配置（核心词+可选“系”） ==========
+ELEMENTS_EN = ['Ice', 'Nature', 'Dark', 'Fire', 'Holy']
+
+# 每种语言的核心词列表（用于构建统一捕获组）
+ELEMENTS_CORE_WORDS = {
+    'CN': ['冰雪', '自然', '暗黑', '烈火', '神圣'],
+    'TC': ['冰雪', '自然', '暗黑', '烈火', '神聖']
+}
+
+# 英文元素正则（用于提取）
+ELEMENTS_PATTERN = re.compile(r'\b(' + '|'.join(ELEMENTS_EN) + r')\b', re.IGNORECASE)
+
+# ---- 排除短语（其中的元素词不视为元素） ----
+ELEMENTS_EXCLUDE_PHRASES = ['Fire Bolt', 'Fire Tiger']  # 可扩展
+# ==================================================
 
 # --- 全局配置 ---
 ORIGINAL_FILE = '../to_translate/effects_to_translate.js'
@@ -19,10 +39,7 @@ LOG_FILE = '../../logs/effects_generate_log.log'
 STRUCTURAL_DISCREPANCY_REPORT = '../../logs/effects_structural_discrepancy_report.txt'
 
 def merge_and_save_dict(filepath, new_dict, logger=None):
-    """
-    将 new_dict 合并到 filepath 对应的 JSON 字典文件中。
-    若文件不存在则直接保存 new_dict；若存在则读入旧字典，执行 update，然后保存。
-    """
+    """合并并保存字典。"""
     old_dict = {}
     if os.path.exists(filepath):
         try:
@@ -33,13 +50,9 @@ def merge_and_save_dict(filepath, new_dict, logger=None):
         except Exception as e:
             if logger:
                 logger.warning(f"读取旧字典失败，将直接覆盖。错误: {e}")
-            # 若读取失败，视为空字典，后续直接写入 new_dict
             old_dict = {}
     
-    # 合并：新字典覆盖旧字典，并追加新键
     old_dict.update(new_dict)
-    
-    # 写回文件
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(old_dict, f, ensure_ascii=False, indent=4)
     
@@ -47,7 +60,6 @@ def merge_and_save_dict(filepath, new_dict, logger=None):
         logger.info(f"合并后字典共 {len(old_dict)} 条规则，已保存至 {filepath}")
 
 def setup_logger():
-    """配置日志记录器。"""
     logger = logging.getLogger('EffectsDictionaryGenerator')
     logger.setLevel(logging.INFO)
     if logger.hasHandlers():
@@ -64,7 +76,6 @@ def setup_logger():
     return logger
 
 def parse_js_variable(file_path, logger):
-    """健壮地读取 .js 文件并解析其中的JSON数组。"""
     if not os.path.exists(file_path):
         logger.warning(f"警告: 文件 {file_path} 不存在，将跳过。")
         return None
@@ -82,7 +93,6 @@ def parse_js_variable(file_path, logger):
         return None
 
 def extract_string_from_item(item):
-    """从条目中安全地提取字符串。"""
     if isinstance(item, str):
         return item
     if isinstance(item, dict) and item:
@@ -90,14 +100,12 @@ def extract_string_from_item(item):
     return None
 
 def get_numeric_value(s):
-    """从字符串中提取核心整数值用于对比，会忽略所有空白字符。"""
     if not isinstance(s, str): return s
     cleaned_s = re.sub(r'\s', '', s)
     nums = re.findall(r'-?\d+', cleaned_s)
     return int(nums[0]) if nums else 0
 
 def normalize_text_for_regex(text):
-    """为正则表达式准备文本，使其更健壮。"""
     if not text: return ""
     escaped_text = re.escape(text)
     escaped_text = re.sub(r"['’]", "['’]?", escaped_text)
@@ -105,22 +113,63 @@ def normalize_text_for_regex(text):
     escaped_text = escaped_text.replace(r'\,', r',?\s*').replace(r'\.', r'\.?\s*')
     return escaped_text
 
+def extract_and_replace_elements(text):
+    """
+    提取英文元素并替换为 {ElementN}（排除短语中的元素）。
+    返回 (新文本, 元素顺序列表)
+    """
+    if not text:
+        return text, []
+    
+    # 找出排除短语的区间
+    exclude_pattern = re.compile(r'\b(' + '|'.join(re.escape(p) for p in ELEMENTS_EXCLUDE_PHRASES) + r')\b', re.IGNORECASE)
+    exclude_intervals = [(m.start(), m.end()) for m in exclude_pattern.finditer(text)]
+    
+    # 找到所有元素匹配，过滤掉落在排除区间内的
+    matches = list(ELEMENTS_PATTERN.finditer(text))
+    filtered = []
+    for m in matches:
+        start = m.start()
+        excluded = any(es <= start < ee for es, ee in exclude_intervals)
+        if not excluded:
+            filtered.append(m)
+    
+    if not filtered:
+        return text, []
+    
+    element_order = [m.group(0) for m in filtered]
+    # 构建替换字典：位置 -> 占位符
+    pos_map = {m.start(): f'{{Element{i+1}}}' for i, m in enumerate(filtered)}
+    def repl(m):
+        return pos_map.get(m.start(), m.group(0))
+    new_text = ELEMENTS_PATTERN.sub(repl, text)
+    return new_text, element_order
+
 def create_effects_dictionary(original_data, translated_data, lang_name, logger):
-    """
-    【核心函数】为技能(effects)生成健壮的翻译字典。
-    """
+    """生成带元素占位符的翻译字典（数字处理时忽略占位符内的数字）。"""
     regex_dict = {}
     number_pattern = r'([+-]?\s*\d+\s*%?)'
     split_pattern = re.compile(r'^(.*\S)\s*([\(\（][^)\）]+[\)\）])\s*([.。!?？]?)$', re.DOTALL)
-    
-    # 正则表达式，用于匹配结尾是否为“非标点”（字母、数字、汉字）
     ends_with_word_char = re.compile(r'[\w\u4e00-\u9fa5]$')
+
+    lang_code = 'CN' if '简体' in lang_name else 'TC'
+
+    # ---- 构建中文元素正则（统一捕获组） ----
+    core_words = ELEMENTS_CORE_WORDS.get(lang_code, [])
+    if core_words:
+        # 按长度降序，避免重叠（如“冰雪”和“冰雪系”，但核心词不会重叠，但以防万一）
+        core_words_sorted = sorted(core_words, key=len, reverse=True)
+        combined_pattern = f"({'|'.join(core_words_sorted)})(?:系)?"
+        elem_regex = re.compile(combined_pattern)
+    else:
+        elem_regex = None
 
     original_map = {item['heroId']: item.get('effects', []) for item in original_data}
     translated_map = {item['heroId']: item.get('effects', []) for item in translated_data}
 
     for index in original_map:
-        if index not in translated_map: continue
+        if index not in translated_map:
+            continue
         
         raw_eng_effects = [text for e in original_map.get(index, []) if (text := extract_string_from_item(e)) and text.strip()]
         raw_trans_effects = [text for t in translated_map.get(index, []) if (text := extract_string_from_item(t)) and text.strip()]
@@ -142,31 +191,98 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
             else:
                 final_eng_effects.append(eng_text)
                 final_trans_effects.append(trans_text)
-        
+
         for eng_text, trans_text in zip(final_eng_effects, final_trans_effects):
             try:
                 eng_text = eng_text.strip()
                 trans_text = trans_text.strip()
 
-                # 【核心修正】使用正则表达式判断是否需要补全句号
-                if trans_text and ends_with_word_char.search(trans_text):
-                    if not trans_text.startswith(('(', '（')):
-                        trans_text += "。"
+                # ---- 英文元素 -> 占位符 ----
+                eng_replaced, element_order = extract_and_replace_elements(eng_text)
 
-                eng_nums = re.findall(number_pattern, eng_text)
-                
+                if element_order and elem_regex:
+                    # 提取译文中所有匹配（含捕获组）
+                    matches = list(elem_regex.finditer(trans_text))
+                    if len(matches) == len(element_order):
+                        counter = 0
+                        def repl_cn(m):
+                            nonlocal counter
+                            if counter < len(element_order):
+                                placeholder = f'{{Element{counter+1}}}'
+                                core = m.group(1)  # 现在始终为核心词
+                                if core is None:
+                                    logger.warning(f"[{lang_name}] 元素替换异常：捕获组为空，原文: '{eng_text}' 译文: '{trans_text}'，匹配内容: '{m.group(0)}'")
+                                    return m.group(0)
+                                full = m.group(0)
+                                new_full = full.replace(core, placeholder, 1)  # 只替换核心词
+                                counter += 1
+                                return new_full
+                            else:
+                                return m.group(0)
+                        trans_replaced = elem_regex.sub(repl_cn, trans_text)
+                        if counter != len(element_order):
+                            logger.warning(f"[{lang_name}] 元素替换数量不一致，预期 {len(element_order)}，实际 {counter}。原文: '{eng_text}' 译文: '{trans_text}'。降级保留原译文。")
+                            trans_replaced = trans_text
+                    else:
+                        logger.warning(f"[{lang_name}] 元素匹配数量不一致，英文 {len(element_order)} 个，中文 {len(matches)} 个。原文: '{eng_text}' 译文: '{trans_text}'。降级保留原译文。")
+                        trans_replaced = trans_text
+                else:
+                    eng_replaced = eng_text
+                    trans_replaced = trans_text
+
+                # ---- 句号补全 ----
+                if trans_replaced and ends_with_word_char.search(trans_replaced):
+                    if not trans_replaced.startswith(('(', '（')):
+                        trans_replaced += "。"
+
+                # ---- 数字处理（需排除元素占位符中的数字） ----
+                # 1. 提取元素占位符，生成临时标记（不含数字）
+                all_placeholders = re.findall(r'\{Element\d+\}', eng_replaced)
+                seen_placeholders = []
+                for p in all_placeholders:
+                    if p not in seen_placeholders:
+                        seen_placeholders.append(p)
+                placeholder_map = {}
+                for idx, p in enumerate(seen_placeholders):
+                    letter = chr(ord('A') + idx)
+                    placeholder_map[p] = f'__ELEM_{letter}__'
+                temp_to_orig = {v: k for k, v in placeholder_map.items()}
+
+                def apply_placeholder_map(text):
+                    for orig, temp in placeholder_map.items():
+                        text = text.replace(orig, temp)
+                    return text
+
+                eng_no_elem = apply_placeholder_map(eng_replaced)
+                trans_no_elem = apply_placeholder_map(trans_replaced)
+
+                # 2. 检查是否为序数词（如 "1st: "），如果是则忽略数字
                 ordinal_pattern = r'^\s*\d+(st|nd|rd|th)\s*[:.]?\s*$'
-                if re.fullmatch(ordinal_pattern, eng_text.strip()):
+                if re.fullmatch(ordinal_pattern, eng_no_elem.strip()):
                     eng_nums = []
+                else:
+                    eng_nums = re.findall(number_pattern, eng_no_elem)
 
                 if eng_nums:
-                    trans_nums = re.findall(number_pattern, trans_text)
+                    trans_nums = re.findall(number_pattern, trans_no_elem)
                     eng_num_values = [get_numeric_value(n) for n in eng_nums]
                     trans_num_values = [get_numeric_value(n) for n in trans_nums]
-                    eng_parts = re.split(number_pattern, eng_text)
-                    regex_key_parts = [normalize_text_for_regex(p) if k % 2 == 0 else number_pattern for k, p in enumerate(eng_parts)]
+
+                    # 构建正则key（使用 eng_no_elem 分割，数字部分替换为 number_pattern，
+                    # 非数字部分恢复占位符并转义）
+                    eng_parts = re.split(number_pattern, eng_no_elem)
+                    regex_key_parts = []
+                    for k, part in enumerate(eng_parts):
+                        if k % 2 == 0:  # 非数字片段
+                            # 恢复临时标记为原始占位符
+                            for temp, orig in temp_to_orig.items():
+                                part = part.replace(temp, orig)
+                            regex_key_parts.append(normalize_text_for_regex(part))
+                        else:  # 数字片段
+                            regex_key_parts.append(number_pattern)
                     regex_key = f"^{''.join(regex_key_parts)}$"
-                    template_value = trans_text
+
+                    # 数字替换逻辑（基于 trans_no_elem）
                     if len(eng_nums) == len(trans_nums) and sorted(eng_num_values) == sorted(trans_num_values):
                         eng_num_counts = defaultdict(int)
                         eng_num_to_backreference = {}
@@ -182,42 +298,42 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
                             key = (matched_num_val, trans_num_counts[matched_num_val])
                             backreference_index = eng_num_to_backreference.get(key)
                             trans_num_counts[matched_num_val] += 1
-                            if backreference_index: return f"\\{backreference_index}"
+                            if backreference_index:
+                                return f"\\{backreference_index}"
                             return match.group(0)
-                        template_value = re.sub(number_pattern, replacer, trans_text)
+                        template_value = re.sub(number_pattern, replacer, trans_no_elem)
                     else:
-                        logger.warning(f"[{lang_name}] 降级处理：索引 {index} 的数字内容不匹配。| 原文: '{eng_text}' | 译文: '{trans_text}'")
+                        # 降级：数字不匹配，直接使用译文（不进行数字后向引用）
+                        logger.warning(f"[{lang_name}] 降级处理：索引 {index} 的数字内容不匹配。| 原文: '{eng_replaced}' | 译文: '{trans_replaced}'")
+                        template_value = trans_no_elem
+
+                    # 恢复临时标记为原始占位符
+                    for temp, orig in temp_to_orig.items():
+                        template_value = template_value.replace(temp, orig)
+
                     regex_dict[regex_key] = template_value
                 else:
-                    regex_key = f"^{normalize_text_for_regex(eng_text)}$"
-                    regex_dict[regex_key] = trans_text
+                    # 无数字，直接使用带占位符的原文和译文
+                    regex_key = f"^{normalize_text_for_regex(eng_replaced)}$"
+                    regex_dict[regex_key] = trans_replaced
+
             except Exception as e:
                 logger.error(f"[{lang_name}] 核心处理异常，索引 {index}：{e}")
-            
+
     return regex_dict
 
 def check_untouched_translations(logger, original_data, translated_data, lang_name):
-    """
-    检查指定语言版本的翻译是否与英文原文完全相同（疑似漏翻译）。
-    新增：检测主句未翻译，仅括号内翻译的情况（但排除整个条目都在括号内的情形）。
-    """
+    """检查漏翻译（比较原始文本，不受占位符影响）。"""
     logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的技能效果文本 ---")
     
-    untouched_entries = []      # 完全未翻译
-    bracket_only_entries = []   # 仅括号内翻译（且存在括号外主句）
+    untouched_entries = []
+    bracket_only_entries = []
     
     original_map = {item['heroId']: item.get('passives', []) for item in original_data}
     translated_map = {item['heroId']: item.get('passives', []) for item in translated_data}
     
-    def strip_parentheses(text):
-        """将圆括号和中文括号内的内容替换为 '()'，保留括号位置，便于比较主句部分。"""
-        return re.sub(r'\([^()]*\)|（[^（）]*）', '()', text).strip()
-    
     def extract_outside_parentheses(text):
-        """提取括号外（即主句）的内容，忽略括号及其内部。"""
-        # 先移除括号内内容，再去除空白
-        without_brackets = re.sub(r'\([^()]*\)|（[^（）]*）', '', text).strip()
-        return without_brackets
+        return re.sub(r'\([^()]*\)|（[^（）]*）', '', text).strip()
     
     for hero_id in original_map:
         if hero_id not in translated_map:
@@ -235,7 +351,6 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
                 eng_stripped = eng_text.strip()
                 trans_stripped = trans_text.strip()
                 if len(eng_stripped) > 5:
-                    # 1. 完全未翻译
                     if eng_stripped == trans_stripped:
                         hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
                         untouched_entries.append({
@@ -244,12 +359,9 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
                             'english': eng_stripped,
                             'translation': trans_stripped,
                         })
-                    # 2. 仅括号内翻译（但前提是括号外存在主句内容）
                     else:
-                        # 提取括号外内容
                         eng_outside = extract_outside_parentheses(eng_stripped)
                         trans_outside = extract_outside_parentheses(trans_stripped)
-                        # 只有当括号外内容非空且二者相等时，才视为“主句未翻译”
                         if eng_outside and trans_outside and eng_outside == trans_outside:
                             hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
                             bracket_only_entries.append({
@@ -259,7 +371,6 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
                                 'translation': trans_stripped,
                             })
     
-    # 输出报告（略，与原逻辑相同）
     if untouched_entries:
         logger.warning(f"  >>> 发现 {len(untouched_entries)} 条技能效果文本完全未翻译（与原文相同）。")
         for entry in untouched_entries:
@@ -273,7 +384,7 @@ def check_untouched_translations(logger, original_data, translated_data, lang_na
             logger.warning(f"英雄ID: {entry['heroId']}, 名称: {entry['name']}\n原文: {entry['english']}\n译文: {entry['translation']}\n")
     else:
         logger.info(f"  √ 未发现仅括号内翻译的条目。")
-        
+
 def analyze_effects_discrepancies(logger, original_data, cn_data, tc_data):
     logger.info("--- 开始生成技能(effects)的结构性差异报告 ---")
     original_map = {item['heroId']: item for item in original_data}
@@ -328,7 +439,6 @@ def main():
         return
     if cn_data and tc_data:
         analyze_effects_discrepancies(logger, original_data, cn_data, tc_data)
-    #漏翻译检查
     if cn_data:
         check_untouched_translations(logger, original_data, cn_data, "简体中文")
     if tc_data:
@@ -348,6 +458,7 @@ def main():
         logger.info(f"为 繁體中文 生成了 {len(dictionary_tc)} 条唯一翻译规则。")
     else:
         logger.warning("由于未能加载 繁體中文 数据，跳过字典生成。")
+    
     if dictionary_cn and dictionary_tc:
         if len(dictionary_cn) != len(dictionary_tc):
             logger.warning(f"!!! 字典规则数量不一致 (CN: {len(dictionary_cn)}, TC: {len(dictionary_tc)})。开始对比差异...")
@@ -368,12 +479,12 @@ def main():
             logger.warning("!!! 对比完成。")
         else:
             logger.info("✓ 字典规则数量一致。")
+    
     logger.info("--- 开始写入字典文件 ---")
     if dictionary_cn:
         try:
             merge_and_save_dict(OUTPUT_DICT_CN, dictionary_cn, logger)
             logger.info(f"简体中文 字典已合并保存到: {OUTPUT_DICT_CN}")
-        
         except Exception as e:
             logger.error(f"为 简体中文 保存字典时发生错误: {e}")
     if dictionary_tc:
