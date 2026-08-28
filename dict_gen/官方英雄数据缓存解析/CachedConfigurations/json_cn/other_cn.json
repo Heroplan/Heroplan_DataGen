@@ -65260,6 +65260,46 @@
               ],
               "startTime": "2026-05-28 07:00:00",
               "endTime": "2026-05-31 07:00:00"
+            },
+            {
+              "id": "soul_exchange_2026_08_29",
+              "soulExchangeTiers": [
+                {
+                  "cost": 5,
+                  "exchangesAvailable": 1,
+                  "heroes": [
+                    "葛瑞菲斯-幽影改造者",
+                    "萨丁皮门特",
+                    "罗莎娜",
+                    "白牙",
+                    "柯利亚"
+                  ]
+                },
+                {
+                  "cost": 15,
+                  "exchangesAvailable": 1,
+                  "heroes": [
+                    "斯雷迈尔",
+                    "扎莎",
+                    "鲁智深",
+                    "奥科",
+                    "维迪古"
+                  ]
+                },
+                {
+                  "cost": 30,
+                  "exchangesAvailable": 1,
+                  "heroes": [
+                    "希格德",
+                    "阮小七",
+                    "威尔科克斯",
+                    "凯莎",
+                    "弗农"
+                  ]
+                }
+              ],
+              "startTime": "2026-08-29 07:00:00",
+              "endTime": "2026-09-01 07:00:00"
             }
           ]
         }
@@ -100207,5 +100247,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 691192895
+  "otherConfigId": 605427561
 }

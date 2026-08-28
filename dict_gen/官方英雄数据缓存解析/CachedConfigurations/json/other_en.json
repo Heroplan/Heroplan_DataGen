@@ -65260,6 +65260,46 @@
               ],
               "startTime": "2026-05-28 07:00:00",
               "endTime": "2026-05-31 07:00:00"
+            },
+            {
+              "id": "soul_exchange_2026_08_29",
+              "soulExchangeTiers": [
+                {
+                  "cost": 5,
+                  "exchangesAvailable": 1,
+                  "heroes": [
+                    "elemental_griffex_costume_camera",
+                    "moth_satinpimenter",
+                    "shadow_rosanna",
+                    "fox_whitefang",
+                    "garrison_kolya"
+                  ]
+                },
+                {
+                  "cost": 15,
+                  "exchangesAvailable": 1,
+                  "heroes": [
+                    "slime_slaymire",
+                    "magic_carpet_zazha",
+                    "outlaw_lu_zhishen",
+                    "astral_dwarf_orcur",
+                    "slime_verdigoo"
+                  ]
+                },
+                {
+                  "cost": 30,
+                  "exchangesAvailable": 1,
+                  "heroes": [
+                    "beowulf_hygd",
+                    "outlaw_ruan_xiaoqi",
+                    "institute_wilcox",
+                    "magic_carpet_kesha",
+                    "valentines_vernon"
+                  ]
+                }
+              ],
+              "startTime": "2026-08-29 07:00:00",
+              "endTime": "2026-09-01 07:00:00"
             }
           ]
         }
@@ -100207,5 +100247,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 691192895
+  "otherConfigId": 605427561
 }

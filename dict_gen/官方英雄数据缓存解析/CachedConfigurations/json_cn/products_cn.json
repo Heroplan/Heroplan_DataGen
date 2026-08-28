@@ -21938,6 +21938,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_souloffer_1",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21976,6 +21977,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_souloffer_2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22014,6 +22016,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_souloffer_3",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58925,5 +58928,5 @@
       }
     ]
   },
-  "productsConfigId": 1182687348
+  "productsConfigId": 3064527990
 }
