@@ -850,7 +850,7 @@
     "^Attacks\\s+the\\s+target\\s+with\\s+Frostfall\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+if\\s+the\\s+target\\s+is\\s+of\\s+the\\s+\\{Element1\\}\\s+element\\.?\\s*\\s+This\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "使用霜降打击攻击目标，造成最多\\1点伤害。若目标为{Element1}系元素，则额外造成\\2 伤害。该特殊技能必定命中。",
     "^The\\s+target\\s+get\\s+Soul\\s+Bound\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "目标获得缚魂，持续\\1回合。此效果无法净化。",
     "^\\(This\\s+effect\\s+will\\s+always\\s+bypass\\s+reflection\\.?\\s*\\)$": "（此效果始终无视反弹。）",
-    "^All\\s+damage\\s+received\\s+by\\s+the\\s+caster\\s+is\\s+also\\s+dealt\\s+to\\s+all\\s+Soul\\s+Bound\\s+enemies\\.?\\s*$": "施法者受到的所有伤害，也会对所有被 灵魂绑定 的敌人造成。",
+    "^All\\s+damage\\s+received\\s+by\\s+the\\s+caster\\s+is\\s+also\\s+dealt\\s+to\\s+all\\s+Soul\\s+Bound\\s+enemies\\.?\\s*$": "施法者受到的所有伤害，也会对所有被缚魂的敌人造成。",
     "^\\(Damage\\s+is\\s+shared\\s+between\\s+all\\s+Soul\\s+Bound\\s+enemies\\.?\\s*\\s+This\\s+effect\\s+will\\s+not\\s+share\\s+damage\\s+coming\\s+from\\s+other\\s+shared\\s+damage\\s+sources\\s+or\\s+counterattacks\\.?\\s*\\)$": "（伤害由所有缚魂敌人分担。此效果不会分担来自其他共享伤害源或反击的伤害。）",
     "^The\\s+target\\s+receives([+-]?\\s*\\d+\\s*%?)Poison\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目标在\\2回合内受到共计\\1点剧毒伤害。",
     "^The\\s+target\\s+gets\\s+silence\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目标陷入沉默，持续\\1回合。",
@@ -1360,7 +1360,7 @@
     "^The\\s+target\\s+receives([+-]?\\s*\\d+\\s*%?)([+-]?\\s*\\d+\\s*%?)increasing\\s+Poison\\s+damage\\s+each\\s+turn\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目标每回合受到\\1\\2点剧毒伤害，持续\\3回合。",
     "^The\\s+target\\s+and\\s+nearby\\s+enemies\\s+can['’]?t\\s+gain\\s+mana\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "目标与附近敌人无法增加法力，持续\\1回合。",
     "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+inflicts([+-]?\\s*\\d+\\s*%?)Insanity\\s+on\\s+them\\.?\\s*$": "对目标造成\\1 伤害，并对其施加\\2点狂乱。",
-    "^The\\s+target\\s+gets\\s+Soul\\s+Bound\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "目标获得 灵魂绑定 效果，持续\\1回合。此效果无法净化。",
+    "^The\\s+target\\s+gets\\s+Soul\\s+Bound\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "目标获得缚魂效果，持续\\1回合。此效果无法净化。",
     "^\\(Damage\\s+is\\s+shared\\s+between\\s+all\\s+Soul\\s+Bound\\s+enemies\\.?\\s*\\s+This\\s+effect\\s+will\\s+not\\s+share\\s+damage\\s+incoming\\s+from\\s+other\\s+shared\\s+damage\\s+sources\\s+or\\s+counterattacks\\.?\\s*\\)$": "（伤害在所有被灵魂绑定的敌人之间共享。此效果不会共享来自其他共享伤害源或反击的伤害。）",
     "^All\\s+enemies\\s+are\\s+immune\\s+to\\s+new\\s+buffs\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有敌人对新的增益状态效果免疫，持续\\1回合。",
     "^Cleanses\\s+ailment\\s+from\\s+all\\s+allies\\.?\\s*$": "净化所有盟友的状态异常。",
@@ -5540,6 +5540,6 @@
     "^The\\s+Shu\\s+Guerrilla\\s+Fiend\\s+absorbs\\s+healing\\.\\s+It\\s+disappears\\s+after\\s+absorbing\\s+a\\s+healing\\s+amount\\s+equal\\s+to([+-]?\\s*\\d+\\s*%?)\\s+of\\s+its\\s+target's\\s+max\\s+health\\.$": "蜀军游击恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的\\1 时，它便会消失。",
     "^All\\s+allies\\s+except\\s+the\\s+caster\\s+get\\s+an\\s+additional\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+power\\s+for\\s+the\\s+next\\s+Special\\s+Skill\\s+they\\s+cast\\.\\s+The\\s+additional\\s+attack\\s+power\\s+increases\\s+([+-]?\\s*\\d+\\s*%?)\\s+each\\s+turn,\\s+up\\s+to\\s+a\\s+maximum\\s+of\\s+([+-]?\\s*\\d+\\s*%?)\\s+in\\s+total\\.$": "除施法者外的所有盟友下一次使用特殊技能时，其特殊技能的攻击强度会增加 \\1 ,之后每回合都会额外增加 \\2 攻击强度，最多加到 \\3。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack,\\s+and\\s+a\\s+further\\s+([+-]?\\s*\\d+\\s*%?)\\s+increase\\s+per\\s+each\\s+removed\\s+status\\s+effect\\s+up\\s+to\\s+([+-]?\\s*\\d+\\s*%?)\\s+in\\s+total,\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.$": "所有盟友获得 \\1 攻击力，且每移除一个状态效果便再增加 \\2 攻击力，最高可达 \\3，持续\\4回合。",
-    "^Attacks\\s+the\\s+target\\s+with\\s+Frostfall\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+damage\\s+if\\s+the\\s+target\\s+is\\s+of\\s+the\\s+\\{Element1\\}\\s+element\\.?\\s*\\s+This\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "使用霜降打击攻击目标，造成最多\\1点伤害。若目标为{Element1}系元素，则额外造成\\2伤害。该特殊技能必定命中。",
-    "^Stack\\s+([+-]?\\s*\\d+\\s*%?)\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+damage\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+receive\\s+is\\s+increased\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "叠加\\1（最多：\\2层）：目标和附近敌人受到的所有伤害增加\\3。"
+    "^Attacks\\s+the\\s+target\\s+with\\s+Frostfall\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+damage\\s+if\\s+the\\s+target\\s+is\\s+of\\s+the\\s+\\{Element1\\}\\s+element\\.?\\s*\\s+This\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "使用霜降打击攻击目标，造成最多\\1点伤害。若目标为{Element1}系元素，则额外造成\\2 伤害。该特殊技能必定命中。",
+    "^Stack\\s+([+-]?\\s*\\d+\\s*%?)\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+damage\\s+the\\s+target\\s+and\\s+nearby\\s+enemies\\s+receive\\s+is\\s+increased\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "叠加 \\1（最多：\\2层）：目标和附近敌人受到的所有伤害增加 \\3。"
 }

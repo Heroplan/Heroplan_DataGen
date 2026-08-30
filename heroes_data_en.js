@@ -53101,12 +53101,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Extra"
-                ]
-            },
-            {
                 "负面效果": [
+                    "Dmg - Pain Empathy",
                     "Status - Insanity",
                     "Status - Self-Debuff"
                 ]
@@ -68689,13 +68685,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dmg - Conditional Trigger"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Dmg Share"
+                "负面效果": [
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
@@ -103911,13 +103902,12 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Heal - From Dmg",
-                    "Dmg - Conditional Trigger",
                     "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
-                "增益效果": [
-                    "Def - Dmg Share"
+                "负面效果": [
+                    "Dmg - Pain Empathy"
                 ]
             }
         ]
