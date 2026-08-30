@@ -30728,8 +30728,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Bypass Dodge",
-                    "Dmg - Dmg ↑ : Fire",
-                    "Dmg - Conditional Trigger"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
@@ -30800,8 +30799,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Bypass Dodge",
-                    "Dmg - Dmg ↑ : Fire",
-                    "Dmg - Conditional Trigger"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
