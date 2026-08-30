@@ -3772,6 +3772,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_snorri_costume_powder",
+        "name": "Snorri C1",
+        "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 242 Frost damage and lowers the target's attack by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
         "heroId": "s4_tettukh",
         "name": "Tettukh",
         "passives": [
@@ -4438,6 +4449,17 @@ const allTranslations =
             "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "heroId": "tales2_fafnir_costume_fallen",
+        "name": "Fafnir C1",
+        "passives": [
+            "Resist Stealing: This character is immune to stealing and Ransacking.",
+            "Empowered Resist Frost: This character is immune to status ailments that deal Frost damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 418 Frost damage and lowers the target's attack by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -14800,16 +14822,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "tales2_fafnir_costume_fallen",
-        "name": "Fafnir C",
-        "passives": []
-    },
-    {
-        "heroId": "tales2_snorri_costume_powder",
-        "name": "Snorri C",
-        "passives": []
     },
     {
         "heroId": "mahayoddha_bhagirathi",

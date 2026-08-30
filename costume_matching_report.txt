@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (625 / 0)
+✅ 成功匹配的服装 (627 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -122,6 +122,7 @@ Name: Fjalar costume1, Fancy Name: Dwarven Ghostly Skald
 Name: Ott costume1, Fancy Name: Dwarven Maestro Trickster
 Name: Hogne costume1, Fancy Name: Dwarven Moon Knight
 Name: Dagr costume1, Fancy Name: Dwarven Plague Shaman
+Name: Snorri costume1, Fancy Name: Dwarven Powdermaster
 Name: Gandr costume1, Fancy Name: Dwarven Regal Soldier
 Name: Helgi costume1, Fancy Name: Dwarven Replenisher
 Name: Andvari costume1, Fancy Name: Dwarven Restorer
@@ -156,6 +157,7 @@ Name: Nordri Costume1, Fancy Name: Explorer Dwarf of Jotunheim
 Name: Phileas Fogg Costume1, Fancy Name: Exquisite Engineer
 Name: Bastet Costume1, Fancy Name: Eye of the Forest
 Name: Lemminkainen Costume1, Fancy Name: Fading Champion
+Name: Fafnir costume1, Fancy Name: Fallen Lord of Myrkheim
 Name: Athos costume1, Fancy Name: Farrier Musketeer
 Name: Proteus Costume1, Fancy Name: Farseer of Atlantis
 Name: Danzaburo Costume1, Fancy Name: Fearless Merchant

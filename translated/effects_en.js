@@ -4862,6 +4862,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_snorri_costume_powder",
+        "name": "Snorri C1",
+        "effects": [
+            "Attacks the target with Frostfall Strike, dealing up to 1100 damage. Deals 30% more damage if the target is of the Fire element. This Special Skill never misses its targets.",
+            "The target gets Soul Bound for 3 turns. This effect can't be cleansed. (This effect will always bypass reflection.)",
+            "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)",
+            "All damage the target receives is increased by +20% for 3 turns."
+        ]
+    },
+    {
         "heroId": "s4_tettukh",
         "name": "Tettukh",
         "effects": [
@@ -5628,6 +5638,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_fafnir_costume_fallen",
+        "name": "Fafnir C1",
+        "effects": [
+            "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2300 damage. Deals 40% more damage if the target is of the Fire element. This Special Skill never misses its targets.",
+            "Stack +2 (Max: 10): All damage the target and nearby enemies receive is increased by +10%.",
+            "The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)"
+        ]
+    },
+    {
         "heroId": "masquerade_februus",
         "name": "Februus",
         "effects": [
@@ -6286,7 +6305,7 @@ const allTranslations =
             "Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
             "Deals 300% damage to all enemies.",
             "Deals additional 6% damage per removed status effect, up to 330% damage in total.",
-            "Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
+            "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
         ]
     },
@@ -18800,16 +18819,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "tales2_fafnir_costume_fallen",
-        "name": "Fafnir C",
-        "effects": []
-    },
-    {
-        "heroId": "tales2_snorri_costume_powder",
-        "name": "Snorri C",
-        "effects": []
     },
     {
         "heroId": "mahayoddha_bhagirathi",

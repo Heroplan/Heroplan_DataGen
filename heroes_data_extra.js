@@ -50002,5 +50002,59 @@ window.allHeroesExtra = [
         "healthBonus": "77%",
         "manaBonus": "1%",
         "family": "ninja"
+    },
+    {
+        "name": "Snorri costume1",
+        "fancy name": "Dwarven Powdermaster",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-08-29",
+        "AetherPower": "Regen",
+        "heroId": "tales2_snorri_costume_powder",
+        "baseAttack": 365,
+        "baseDefense": 357,
+        "baseHealth": 644,
+        "specialId": "bound_by_tales",
+        "specialId_costume": "bound_by_blasts",
+        "passiveSkills": [
+            "arctic_core_costume",
+            "resist_frost_with_health_boost_and_mana_costume",
+            "resist_all_stealing"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "6%",
+        "defenseBonus": "6%",
+        "healthBonus": "6%",
+        "manaBonus": "1%",
+        "family": "myrkheim"
+    },
+    {
+        "name": "Fafnir costume1",
+        "fancy name": "Fallen Lord of Myrkheim",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-08-29",
+        "AetherPower": "Fiend Resist",
+        "heroId": "tales2_fafnir_costume_fallen",
+        "baseAttack": 610,
+        "baseDefense": 569,
+        "baseHealth": 1111,
+        "specialId": "lance_of_avarice",
+        "specialId_costume": "lance_of_myrkheim",
+        "passiveSkills": [
+            "arctic_core_costume",
+            "resist_frost_with_health_boost_and_mana_costume",
+            "resist_all_stealing"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "13%",
+        "healthBonus": "13%",
+        "manaBonus": "5%",
+        "family": "myrkheim"
     }
 ];

@@ -1,29 +1,5 @@
 [
     {
-        "name": "Fafnir C",
-        "fancy_name": "Fallen Lord of Myrkheim",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-29 07:00:00",
-        "star": 5,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_fafnir_costume_fallen",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Snorri C",
-        "fancy_name": "Dwarven Powdermaster",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-29 07:00:00",
-        "star": 4,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_snorri_costume_powder",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Bhagirathi",
         "fancy_name": "Sarita Goddess",
         "color": "Blue",
