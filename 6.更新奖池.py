@@ -44,6 +44,7 @@ TARGET_POOLS = {
     "lottery_mercenary_war_default": "lottery_mercenary_war_default",
     "lottery_mimic_default": "lottery_mimic_default",
     "lottery_hotm_event_default": "lottery_hotm_event_default",
+    "lottery_thunderbolt_default": "lottery_thunderbolt_default",
     # 从 other 文件提取的池子
     "lottery_tower_ninja_default": "lottery_tower_ninja_default",
     "lottery_tower_owl_default": "lottery_tower_owl_default",
