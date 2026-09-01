@@ -13673,6 +13673,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13754,6 +13755,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23225,6 +23227,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34596,6 +34599,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_mon1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34624,6 +34628,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_mon2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34662,6 +34667,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_mon3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34750,6 +34756,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_tue1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34763,6 +34770,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_tue2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34776,6 +34784,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_wed1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34789,6 +34798,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_wed2",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34802,6 +34812,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_thu1",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34815,6 +34826,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_thu2",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34828,6 +34840,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_fri1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34856,6 +34869,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_fri2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34894,6 +34908,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_fri3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34982,6 +34997,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sat1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35015,6 +35031,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sat2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35053,6 +35070,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sat3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35141,6 +35159,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sun1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35164,6 +35183,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sun2",
         "dollarValue": 25,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35202,6 +35222,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sun3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36096,7 +36117,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36124,7 +36144,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36134,7 +36154,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58622,6 +58641,36 @@
         "avatarPinId": "community_broccoli_beta_pin"
       },
       {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_apple",
+        "avatarPinId": "community_ec_apple"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_ghost",
+        "avatarPinId": "community_ec_ghost"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_leaf",
+        "avatarPinId": "community_ec_leaf"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_mustache_pin",
+        "avatarPinId": "community_mustache_pin"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_pumpkin",
+        "avatarPinId": "community_ec_pumpkin"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_quill_pin",
+        "avatarPinId": "community_quill_pin"
+      },
+      {
         "productType": "AvatarBackground",
         "id": "avatar_background_red",
         "avatarBackgroundId": "red"
@@ -58928,5 +58977,5 @@
       }
     ]
   },
-  "productsConfigId": 3064527990
+  "productsConfigId": 2810012443
 }

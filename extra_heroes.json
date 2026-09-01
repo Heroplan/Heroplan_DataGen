@@ -1,5 +1,17 @@
 [
     {
+        "name": "Caravita",
+        "fancy_name": "Rider of Perdition",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-01 07:00:00",
+        "star": 5,
+        "family": "hotm2026",
+        "costume_id": 0,
+        "heroId": "dark_god_caravita",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Bhagirathi",
         "fancy_name": "Sarita Goddess",
         "color": "Blue",

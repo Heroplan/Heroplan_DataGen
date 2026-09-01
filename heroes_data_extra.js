@@ -50056,5 +50056,45 @@ window.allHeroesExtra = [
         "healthBonus": "13%",
         "manaBonus": "5%",
         "family": "myrkheim"
+    },
+    {
+        "name": "Bhagirathi",
+        "fancy name": "Sarita Goddess",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-09-01",
+        "AetherPower": "Special Boost",
+        "heroId": "mahayoddha_bhagirathi",
+        "baseAttack": 692,
+        "baseDefense": 691,
+        "baseHealth": 1170,
+        "specialId": "tormenting_flood",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Caravita",
+        "fancy name": "Rider of Perdition",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-09-01",
+        "AetherPower": "Defense Up",
+        "heroId": "dark_god_caravita",
+        "baseAttack": 628,
+        "baseDefense": 657,
+        "baseHealth": 1052,
+        "specialId": "last_stand",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "healthboost_on_enemy_special"
+        ],
+        "family": "hotm2026"
     }
 ];

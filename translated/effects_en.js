@@ -1313,6 +1313,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "effects": [
+            "Deals 400% damage to the target and nearby enemies.",
+            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage  is based on the modified attack on the caster when damage is dealt. Up to a maximum 600 of additional damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
+            "Heals the caster and nearby allies for 20% of damage dealt.",
+            "The target and nearby enemies received lasting 350 Water damage per turn. (This effect lasts until it is cleansed, replaced or removed.)"
+        ]
+    },
+    {
         "heroId": "mahayoddha_bhairavi_devi",
         "name": "Bhairavi Devi",
         "effects": [
@@ -8967,6 +8977,17 @@ const allTranslations =
             "Against Titans, deals 500% damage.",
             "All allies get +50% attack for 4 turns. Against Holy Titans, all allies get +60% attack.",
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage."
+        ]
+    },
+    {
+        "heroId": "dark_god_caravita",
+        "name": "Caravita",
+        "effects": [
+            "Deals 365% damage to the target and nearby enemies.",
+            "Damage bypasses target's Minions.",
+            "The damage is increased by 25% per each defeated ally.",
+            "All allies receive +40% defense for 4 turns. Defense is further increased by +5% for each defeated ally.",
+            "Elemental Link recovers +5% health for all Dark  allies for 6 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -18819,11 +18840,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "mahayoddha_bhagirathi",
-        "name": "Bhagirathi",
-        "effects": []
     },
     {
         "heroId": "exalted_female_statue_costume_stylish",

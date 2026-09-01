@@ -1040,6 +1040,16 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "passives": [
+            "受到傷害時獲得法力：",
+            "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
+            "* 每回合最多可獲得 10% 法力。",
+            "對小兵和超級小兵造成額外傷害：此角色對小兵和超級小兵造成 +150% 傷害。"
+        ]
+    },
+    {
         "heroId": "mahayoddha_bhairavi_devi",
         "name": "Bhairavi Devi",
         "passives": [
@@ -7024,6 +7034,14 @@ const translatedPassivesTC =
             "防禦角色時的被動技能：",
             "* 此角色施放其特殊技能時，在面板上的暗黑護盾會降低 -47% 精準度。",
             "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ]
+    },
+    {
+        "heroId": "dark_god_caravita",
+        "name": "Caravita",
+        "passives": [
+            "敵人施展特殊技能時提升生命值：當敵人施放特殊技能時，此角色會有 50% 機率提升自身生命值 100 點。",
+            "抵禦特殊技能封鎖：此角色對於能夠讓特殊技能無法使用的狀態異常免疫。"
         ]
     },
     {
@@ -14822,11 +14840,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "mahayoddha_bhagirathi",
-        "name": "Bhagirathi",
-        "passives": []
     },
     {
         "heroId": "exalted_female_statue_costume_stylish",

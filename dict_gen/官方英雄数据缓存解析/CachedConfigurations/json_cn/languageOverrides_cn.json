@@ -90,6 +90,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#] di Attacco. Se questo effetto viene rimosso prima della fine della durata, questo personaggio ottiene [#!]+{REMOVALEFFECT1POWER}%[#] di mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Carta omaggio!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Carta omaggio!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Carta omaggio!"
           }
         ]
       },
@@ -182,6 +194,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] атаки. Если эффект снимается до окончания действия, этот персонаж получает [#!]+{REMOVALEFFECT1POWER} %[#] маны."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Бонусный раунд!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Бонусный раунд!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Бонусный раунд!"
           }
         ]
       },
@@ -274,6 +298,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#] ataku. Jeśli ten efekt zostanie zdjęty, zanim upłynie czas jego trwania, ta postać otrzyma [#!]+{REMOVALEFFECT1POWER}%[#] many."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Losowanie dodatkowe!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Losowanie dodatkowe!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Losowanie dodatkowe!"
           }
         ]
       },
@@ -366,6 +402,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#]攻擊。如果在持續時間結束之前移除此效果，此角色獲得[#!]+{REMOVALEFFECT1POWER}%[#]法力。"
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "抽獎！"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "抽獎！"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "抽獎！"
           }
         ]
       },
@@ -466,6 +514,18 @@
           {
             "key": "specials.v2.property.wither.none.sides.enemies.defense",
             "text": "[#!]쇠퇴:[#] 적 대형 양쪽 끝에 있는 적들이 {DEFENSEINCREASE} 방어력을 받습니다."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "보너스 뽑기!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "보너스 뽑기!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "보너스 뽑기!"
           }
         ]
       },
@@ -562,6 +622,18 @@
           {
             "key": "characterlotteryreroll.button.reroll",
             "text": "Neuwurf"
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonus-Zug!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonus-Zug!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonus-Zug!"
           }
         ]
       },
@@ -654,6 +726,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "攻撃力が[#!]{ATTACK}%[#]になる。効果持続時間終了までに、この効果が解除された場合は、このキャラクターが[#!]+{REMOVALEFFECT1POWER}%[#]のマナを獲得する。"
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "ボーナスドロー！"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "ボーナスドロー！"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "ボーナスドロー！"
           }
         ]
       },
@@ -746,6 +830,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] attack. Om effekten tas bort innan varaktigheten upphör får den här karaktären [#!]+{REMOVALEFFECT1POWER} %[#] mer mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonusdragning!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonusdragning!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonusdragning!"
           }
         ]
       },
@@ -838,6 +934,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]%{ATTACK}[#] saldırı. Bu efekt, süre dolmadan önce kaldırılırsa bu karakter [#!]+%{REMOVALEFFECT1POWER}[#] mana alır."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonus Çekiliş!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonus Çekiliş!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonus Çekiliş!"
           }
         ]
       },
@@ -930,6 +1038,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#] attack. If this effect is removed before the duration ends, this character gets [#!]+{REMOVALEFFECT1POWER}%[#] mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonus Draw!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonus Draw!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonus Draw!"
           }
         ]
       },
@@ -1022,6 +1142,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#] من الهجوم. في حال إزالة التأثير قبل انتهاء المدة، تحصل هذه الشخصية على [#!]+{REMOVALEFFECT1POWER}%[#] من القوة."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "سحب إضافي!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "سحب إضافي!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "سحب إضافي!"
           }
         ]
       },
@@ -1114,6 +1246,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] d'attaque. Si l'effet est supprimé avant d'arriver à terme, ce personnage reçoit [#!]{REMOVALEFFECT1POWER} %[#] de mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Tirage bonus !"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Tirage bonus !"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Tirage bonus !"
           }
         ]
       },
@@ -1206,6 +1350,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#] de ataque. Quando este efeito é removido antes de acabar, este personagem recebe [#!]+{REMOVALEFFECT1POWER}%[#] de mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bônus!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bônus!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bônus!"
           }
         ]
       },
@@ -1298,6 +1454,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "Serangan [#!]{ATTACK}%[#]. Jika efek ini dihapus sebelum durasi berakhir, karakter ini mendapat [#!]+{REMOVALEFFECT1POWER}%[#] mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Undian Bonus!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Undian Bonus!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Undian Bonus!"
           }
         ]
       },
@@ -1390,6 +1558,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] hyökkäystä. Jos tämä vaikutus poistetaan ennen keston päättymistä, tämä hahmo saa [#!]+{REMOVALEFFECT1POWER} %[#] manaa."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonusveto!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonusveto!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonusveto!"
           }
         ]
       },
@@ -1482,6 +1662,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] angreb. Hvis denne effekt fjernes, inden den udløber, får denne figur [#!]+{REMOVALEFFECT1POWER} %[#] mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonuslodtrækning!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonuslodtrækning!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonuslodtrækning!"
           }
         ]
       },
@@ -1574,6 +1766,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] de ataque. Si el efecto se elimina antes de que termine, este personaje recibe un [#!]{REMOVALEFFECT1POWER} %[#] de maná."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "¡Lotería de bonificación!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "¡Lotería de bonificación!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "¡Lotería de bonificación!"
           }
         ]
       },
@@ -1666,6 +1870,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK} %[#] angrep. Hvis denne effekten fjernes før varigheten er over, får denne figuren [#!]+{REMOVALEFFECT1POWER} %[#] mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonustrekning!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonustrekning!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonustrekning!"
           }
         ]
       },
@@ -1758,6 +1974,18 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#] aanvalskracht. Als dit effect wordt verwijderd voordat de tijd om is, krijgt dit personage [#!]+{REMOVALEFFECT1POWER}%[#] mana."
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "Bonusloting!"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "Bonusloting!"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "Bonusloting!"
           }
         ]
       },
@@ -1850,10 +2078,22 @@
           {
             "key": "statuseffects.description.attackmodifier.onremoval.addmana.single.allies.dispel.removal",
             "text": "[#!]{ATTACK}%[#]攻击力。如果该效果在持续时间结束前被移除，则该角色获得[#!]+{REMOVALEFFECT1POWER}%[#]法力。"
+          },
+          {
+            "key": "summon.bonusdraw.harvest",
+            "text": "额外抽卡！"
+          },
+          {
+            "key": "summon.bonusdraw_astralelves",
+            "text": "额外抽卡！"
+          },
+          {
+            "key": "summon.bonusdraw_goblin",
+            "text": "额外抽卡！"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 1194319475
+  "languageOverridesConfigId": 3088177302
 }

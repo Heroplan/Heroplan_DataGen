@@ -1,50 +1,14 @@
 [
     {
-        "name": "Topaz C",
-        "fancy_name": "Ninja of Deadly Precision",
-        "color": "Yellow",
+        "name": "Caravita",
+        "fancy_name": "Rider of Perdition",
+        "color": "Purple",
         "Release date": "",
-        "canBeReceivedDate": "2026-08-27 07:00:00",
+        "canBeReceivedDate": "2026-09-01 07:00:00",
         "star": 5,
-        "family": "ninja",
-        "costume_id": 1,
-        "heroId": "ninja_topaz_costume_precise",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tanaka Isako",
-        "fancy_name": "Ronin from a Rustic Village",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-27 07:00:00",
-        "star": 5,
-        "family": "ronin",
+        "family": "hotm2026",
         "costume_id": 0,
-        "heroId": "ronin_tanaka_isako",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Fafnir C",
-        "fancy_name": "Fallen Lord of Myrkheim",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-29 07:00:00",
-        "star": 5,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_fafnir_costume_fallen",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Snorri C",
-        "fancy_name": "Dwarven Powdermaster",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-08-29 07:00:00",
-        "star": 4,
-        "family": "myrkheim",
-        "costume_id": 1,
-        "heroId": "tales2_snorri_costume_powder",
+        "heroId": "dark_god_caravita",
         "Lottery_Only": 1
     },
     {

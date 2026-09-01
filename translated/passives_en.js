@@ -1040,6 +1040,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ]
+    },
+    {
         "heroId": "mahayoddha_bhairavi_devi",
         "name": "Bhairavi Devi",
         "passives": [
@@ -7024,6 +7034,14 @@ const allTranslations =
             "Passive Skill as defending character",
             "* Dark shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
             "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
+        ]
+    },
+    {
+        "heroId": "dark_god_caravita",
+        "name": "Caravita",
+        "passives": [
+            "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills."
         ]
     },
     {
@@ -14822,11 +14840,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "mahayoddha_bhagirathi",
-        "name": "Bhagirathi",
-        "passives": []
     },
     {
         "heroId": "exalted_female_statue_costume_stylish",

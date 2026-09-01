@@ -1040,6 +1040,16 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "mahayoddha_bhagirathi",
+        "name": "Bhagirathi",
+        "passives": [
+            "受到伤害时获得法力：",
+            "* 当该角色受到来自特殊技能或普通攻击的直接伤害时，会获得少量法力。",
+            "* 每回合最多获得 10% 法力。",
+            "对小兵和巨大体型小兵的额外伤害：此角色对小兵和巨大体型小兵造成 +150% 伤害。"
+        ]
+    },
+    {
         "heroId": "mahayoddha_bhairavi_devi",
         "name": "Bhairavi Devi",
         "passives": [
@@ -7024,6 +7034,14 @@ const translatedPassivesCN =
             "作为防守方时的被动技能：",
             "* 当此角色施放特殊技能时，面板上暗黑系护盾的精准度被削弱 -47%。",
             "泰坦猎手标记：当此角色施放特殊技能时，会随机标记一名敌人，使其携带狩猎火焰效果，持续 4 回合。被狩猎火焰标记的目标在受到暴击时，将额外承受 150 点伤害。"
+        ]
+    },
+    {
+        "heroId": "dark_god_caravita",
+        "name": "Caravita",
+        "passives": [
+            "敌方施放特殊技能时提升生命值：当敌人施放特殊技能时，该角色有 50% 的几率将自身生命值提升 100 点。",
+            "抵抗特殊技能格挡：此角色免疫禁用特殊技能的状态异常。"
         ]
     },
     {
@@ -14822,11 +14840,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "mahayoddha_bhagirathi",
-        "name": "Bhagirathi",
-        "passives": []
     },
     {
         "heroId": "exalted_female_statue_costume_stylish",
