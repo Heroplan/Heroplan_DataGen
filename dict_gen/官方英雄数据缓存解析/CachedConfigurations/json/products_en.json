@@ -30532,13 +30532,13 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 10
+            "id": "lottery_super_elemental_coin",
+            "amount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_elite_dragon",
-            "amount": 1
+            "id": "lottery_legendary_troop",
+            "amount": 100
           }
         ]
       },
@@ -33467,6 +33467,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33485,6 +33486,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33503,6 +33505,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33526,6 +33529,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34856,12 +34860,17 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_uncommon",
-            "amount": 14
+            "amount": 12
           },
           {
             "type": "Hero",
             "id": "trainer_rainbow_common",
-            "amount": 20
+            "amount": 18
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 5
           }
         ]
       },
@@ -34884,22 +34893,22 @@
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 3
+            "id": "tome_levels_red_lesser",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_large",
+            "id": "tome_levels_blue_lesser",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
             "amount": 10
           },
           {
             "type": "Item",
             "id": "refill_iron_giant",
-            "amount": 3
-          },
-          {
-            "type": "Item",
-            "id": "refill_iron_large",
             "amount": 10
           }
         ]
@@ -34923,62 +34932,42 @@
           },
           {
             "type": "Item",
-            "id": "tome_levels_epic",
-            "amount": 5
+            "id": "tome_levels_green_greater",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_monk",
-            "amount": 300
+            "id": "tome_levels_red_greater",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_rogue",
-            "amount": 300
+            "id": "tome_levels_purple_greater",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_druid",
-            "amount": 300
+            "id": "tome_levels_yellow_greater",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_wizard",
-            "amount": 300
-          },
-          {
-            "type": "Item",
-            "id": "emblem_cleric",
-            "amount": 300
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_monk",
-            "amount": 30
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_rogue",
-            "amount": 30
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_druid",
-            "amount": 30
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_wizard",
-            "amount": 30
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_cleric",
-            "amount": 30
+            "id": "tome_levels_blue_greater",
+            "amount": 1
           },
           {
             "type": "Item",
             "id": "titan_battle_scroll_of_alteration",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "titan_battle_hurricane",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "titan_battle_time_freeze",
             "amount": 10
           },
           {
@@ -34988,8 +34977,28 @@
           },
           {
             "type": "Item",
-            "id": "refill_energy_pve_full",
-            "amount": 10
+            "id": "relic_level_up_xp_multiplier",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "relic_harvester_generic",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "relic_harvester_recruits",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "relic_harvester_crafting",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "relic_harvester_food",
+            "amount": 1
           }
         ]
       },
@@ -35080,77 +35089,77 @@
           },
           {
             "type": "Item",
-            "id": "tome_ascension",
-            "amount": 1
-          },
-          {
-            "type": "Product",
-            "id": "hero_cap_increase",
+            "id": "tome_levels_legendary",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_barbarian",
-            "amount": 300
+            "id": "tome_levels_blue_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_fighter",
-            "amount": 300
+            "id": "tome_levels_green_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_ranger",
-            "amount": 300
+            "id": "tome_levels_red_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_paladin",
-            "amount": 300
+            "id": "tome_levels_purple_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_sorcerer",
-            "amount": 300
+            "id": "tome_levels_yellow_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_master_barbarian",
-            "amount": 30
+            "id": "hero_tome_of_tactics",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_master_fighter",
-            "amount": 30
+            "id": "hero_damascus_blade",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_master_ranger",
-            "amount": 30
+            "id": "hero_farsight_telescope",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_master_paladin",
-            "amount": 30
+            "id": "hero_mysterious_tonic",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "emblem_master_sorcerer",
-            "amount": 30
+            "id": "hero_mystic_rings",
+            "amount": 2
           },
           {
             "type": "Item",
-            "id": "titan_battle_time_freeze",
+            "id": "hero_royal_tabard",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_poison_darts",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "misc_loot_ticket",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "refill_energy_pve_full",
+            "id": "refill_iron_giant",
             "amount": 10
           }
         ]
@@ -35192,9 +35201,21 @@
             "zyngaStoreExtraAmount": 500
           },
           {
+            "type": "Item",
+            "id": "tome_levels_epic",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
             "type": "Hero",
             "id": "trainer_rainbow_epic",
-            "amount": 30
+            "amount": 20,
+            "zyngaStoreExtraAmount": 2
+          },
+          {
+            "type": "Item",
+            "id": "relic_level_up_xp_multiplier",
+            "amount": 1
           },
           {
             "type": "Item",
@@ -35204,16 +35225,6 @@
           {
             "type": "Item",
             "id": "refill_iron_giant",
-            "amount": 10
-          },
-          {
-            "type": "Product",
-            "id": "hero_cap_increase",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "misc_loot_ticket",
             "amount": 10
           }
         ]
@@ -35227,7 +35238,7 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 10000,
+            "amount": 11000,
             "zyngaStoreExtraAmount": 2000
           },
           {
@@ -35237,72 +35248,72 @@
           },
           {
             "type": "Item",
-            "id": "tome_levels_legendary",
+            "id": "collection_free_talent_points_legendary",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_damascus_blade",
+            "id": "collection_free_talent_points_epic",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_tome_of_tactics",
+            "id": "misc_free_talent_point",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_mystic_rings",
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
+          },
+          {
+            "type": "Product",
+            "id": "hero_cap_increase",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_farsight_telescope",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_mysterious_tonic",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_royal_tabard",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_poison_darts",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "tome_levels_epic",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
+            "id": "refill_food_giant",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "titan_battle_hurricane",
+            "id": "refill_iron_giant",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "titan_battle_giant_harpoon",
+            "id": "time_skip_hour",
+            "amount": 10
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_epic",
+            "amount": 2
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_rare",
+            "amount": 4
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_uncommon",
+            "amount": 7
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_uncommon",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "misc_loot_ticket",
+            "id": "refill_food_large",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "refill_energy_pve_full",
+            "id": "refill_iron_large",
             "amount": 10
           }
         ]
@@ -38368,6 +38379,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.squire_trial_offer_1",
         "dollarValue": 29,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38396,6 +38408,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.squire_trial_offer_2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58977,5 +58990,5 @@
       }
     ]
   },
-  "productsConfigId": 2810012443
+  "productsConfigId": 3821079949
 }
