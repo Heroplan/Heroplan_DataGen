@@ -4835,7 +4835,7 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "",
+        "heroId": "mimic_iron_green",
         "name": "Iron Mimic Nature",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",

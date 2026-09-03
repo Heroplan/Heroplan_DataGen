@@ -4835,7 +4835,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "heroId": "",
+        "heroId": "mimic_iron_green",
         "name": "Iron Mimic Nature",
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",

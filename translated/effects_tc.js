@@ -6151,7 +6151,7 @@ const translatedEffectsTC =
         ]
     },
     {
-        "heroId": "",
+        "heroId": "mimic_iron_green",
         "name": "Iron Mimic Nature",
         "effects": [
             "對目標和一名隨機敵人造成 450% 傷害。",

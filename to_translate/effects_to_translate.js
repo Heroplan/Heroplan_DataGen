@@ -6151,7 +6151,7 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "",
+        "heroId": "mimic_iron_green",
         "name": "Iron Mimic Nature",
         "effects": [
             "Deals 450% damage to the target and one random enemy.",
