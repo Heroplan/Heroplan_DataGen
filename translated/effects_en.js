@@ -6151,6 +6151,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "",
+        "name": "Iron Mimic Nature",
+        "effects": [
+            "Deals 450% damage to the target and one random enemy.",
+            "All hit targets get -20% defense for 4 turns.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "ninja_ito",
         "name": "Ito",
         "effects": [
@@ -18879,6 +18889,26 @@ const allTranslations =
     {
         "heroId": "harpy_jarrik",
         "name": "Jarrik",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
         "effects": []
     }
 ];

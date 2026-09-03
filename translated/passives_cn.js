@@ -4835,6 +4835,29 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "",
+        "name": "Iron Mimic Nature",
+        "passives": [
+            "完美精准度：该角色的特殊技能必定命中目标。",
+            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。:",
+            "传奇：",
+            "* 铁块巨型包。",
+            "史诗：",
+            "* 铁块大礼包。",
+            "稀有：",
+            "* 铁块中礼包。",
+            "罕见：",
+            "* 铁块小礼包。",
+            "* 叛逆箭手。",
+            "* 村庄战士。",
+            "普通：",
+            "* 铁块微小礼包。",
+            "* 普通村民。",
+            "* 反叛盗贼。",
+            "* 深林巫师。"
+        ]
+    },
+    {
         "heroId": "ninja_ito",
         "name": "Ito",
         "passives": [
@@ -14879,6 +14902,26 @@ const translatedPassivesCN =
     {
         "heroId": "harpy_jarrik",
         "name": "Jarrik",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "passives": []
+    },
+    {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
         "passives": []
     }
 ];

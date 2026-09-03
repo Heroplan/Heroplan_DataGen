@@ -4835,6 +4835,29 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "",
+        "name": "Iron Mimic Nature",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages:",
+            "Legendary:",
+            "* Giant Iron Bundle",
+            "Epic:",
+            "* Large Iron Bundle",
+            "Rare:",
+            "* Medium Iron Bundle",
+            "Uncommon:",
+            "* Small Iron Bundle",
+            "* Rebel Archers",
+            "* Village Fighters",
+            "Common",
+            "* Tiny Iron Bundle",
+            "* Common Villagers",
+            "* Rebel Rogues",
+            "* Deepwood Enchanters"
+        ]
+    },
+    {
         "heroId": "ninja_ito",
         "name": "Ito",
         "passives": [
@@ -14879,6 +14902,26 @@ const allTranslations =
     {
         "heroId": "harpy_jarrik",
         "name": "Jarrik",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "passives": []
+    },
+    {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
         "passives": []
     }
 ];

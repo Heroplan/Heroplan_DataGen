@@ -23043,7 +23043,7 @@
     "element": "Green",
     "family": "super_elemental",
     "baseHealth": 827,
-    "baseAttack": 491,
+    "baseAttack": 493,
     "baseDefense": 472,
     "manaSpeedId": "average",
     "passiveSkills": [
@@ -24513,7 +24513,7 @@
     "specialId": "jade_blades",
     "canBeReceivedDate": "2024-01-01 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_sep_2026"
   },
   "christmas_ginger": {
     "id": "Gnome Explorer",
@@ -36447,9 +36447,9 @@
     "id": "Vanguard of the Cove",
     "element": "Purple",
     "family": "titan_hunter",
-    "baseHealth": 1136,
-    "baseAttack": 663,
-    "baseDefense": 655,
+    "baseHealth": 1189,
+    "baseAttack": 696,
+    "baseDefense": 678,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -37828,9 +37828,9 @@
     "id": "Astral Demon Courier",
     "element": "Red",
     "family": "astral_demons",
-    "baseHealth": 1138,
-    "baseAttack": 686,
-    "baseDefense": 665,
+    "baseHealth": 1169,
+    "baseAttack": 696,
+    "baseDefense": 689,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "never_miss_special",
@@ -38137,7 +38137,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "iron_mimic_bite_green",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-09-04 07:00:00",
     "origin": "SecretSummonIronMimicGreen",
     "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
@@ -38180,7 +38180,6 @@
     "specialId": "iron_mimic_bite_yellow",
     "canBeReceivedDate": "2026-08-22 07:00:00",
     "origin": "SecretSummonIronMimicYellow",
-    "isSecret": true,
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_iron_purple": {
@@ -38395,9 +38394,9 @@
     "id": "Stormcaller Harpy",
     "element": "Blue",
     "family": "harpy",
-    "baseHealth": 1154,
-    "baseAttack": 665,
-    "baseDefense": 670,
+    "baseHealth": 1173,
+    "baseAttack": 706,
+    "baseDefense": 676,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "steal_mana_over_time_harpy"
@@ -38413,9 +38412,9 @@
     "id": "Cardinal Harpy Warrior",
     "element": "Red",
     "family": "harpy",
-    "baseHealth": 1148,
-    "baseAttack": 678,
-    "baseDefense": 657,
+    "baseHealth": 1177,
+    "baseAttack": 702,
+    "baseDefense": 679,
     "manaSpeedId": "average",
     "passiveSkills": [
       "steal_mana_over_time_harpy"

@@ -1205,7 +1205,7 @@
         "id": "lottery_super_elemental_green",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 187,
+        "uiPriority": 207,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_green",
         "bonusChestRequirement": 10,
@@ -2230,7 +2230,7 @@
         "id": "lottery_titan_hunter_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 201,
+        "uiPriority": 209,
         "associatedEvent": "TitanHunter",
         "bucketWeights": [
           710,
@@ -13844,6 +13844,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13925,6 +13926,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23286,6 +23288,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36128,6 +36131,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56476,7 +56480,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 202,
+        "uiPriority": 208,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -56493,7 +56497,7 @@
         "id": "lottery_harvest_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 132,
+        "uiPriority": 210,
         "associatedEvent": "Harvest",
         "bonusChest": "harvest_summon_chest",
         "bonusChestRequirement": 10,
@@ -58990,5 +58994,5 @@
       }
     ]
   },
-  "productsConfigId": 3821079949
+  "productsConfigId": 2822919069
 }

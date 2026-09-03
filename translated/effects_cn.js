@@ -6151,6 +6151,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "",
+        "name": "Iron Mimic Nature",
+        "effects": [
+            "对目标和随机一名敌人造成 450% 伤害。",
+            "所有命中的目标获得 -20% 防御，持续 4 回合。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。（在单个回合内，当一名角色已经从特殊技能获得了 5 次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
         "heroId": "ninja_ito",
         "name": "Ito",
         "effects": [
@@ -18879,6 +18889,26 @@ const translatedEffectsCN =
     {
         "heroId": "harpy_jarrik",
         "name": "Jarrik",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
         "effects": []
     }
 ];

@@ -60831,7 +60831,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Sides",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3150,
+          "powerMultiplierPerMil": 3250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -60849,7 +60849,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Sides",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2750,
+          "powerMultiplierPerMil": 2850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -76103,7 +76103,7 @@
         "propertyType": "Wither",
         "id": "wither_henriette2",
         "baseAttackIncrease": 0,
-        "baseDefenseIncrease": 65356,
+        "baseDefenseIncrease": 65306,
         "baseDefenseIncreasePerLevel": 246,
         "targetType": "Sides",
         "sideAffected": "Enemies"
@@ -77311,5 +77311,5 @@
       }
     ]
   },
-  "specialsConfigId": 4218130585
+  "specialsConfigId": 452219644
 }

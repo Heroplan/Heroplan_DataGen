@@ -50096,5 +50096,25 @@ window.allHeroesExtra = [
             "healthboost_on_enemy_special"
         ],
         "family": "hotm2026"
+    },
+    {
+        "name": "Iron Mimic Nature",
+        "fancy name": "Iron Satchel of Terror",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-09-04",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_iron_green",
+        "baseAttack": 701,
+        "baseDefense": 699,
+        "baseHealth": 1185,
+        "specialId": "iron_mimic_bite_green",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_iron_green"
+        ],
+        "family": "mimic"
     }
 ];

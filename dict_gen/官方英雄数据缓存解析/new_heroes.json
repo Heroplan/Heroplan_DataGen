@@ -60,6 +60,18 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Iron Mimic",
+        "fancy_name": "Iron Satchel of Terror",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-04 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_iron_green",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Chou Kou Gui",
         "fancy_name": "Ghost of Noxious Mouth",
         "color": "Green",

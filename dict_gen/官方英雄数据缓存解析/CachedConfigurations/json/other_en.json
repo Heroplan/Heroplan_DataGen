@@ -3121,6 +3121,12 @@
             "endTime": "2026-08-23 07:00:00"
           },
           {
+            "id": "SecretSummonIronMimicGreen",
+            "type": "MysteryHero",
+            "startTime": "2026-09-04 07:00:00",
+            "endTime": "2026-09-05 07:00:00"
+          },
+          {
             "id": "MonthlyHeroOctober2026",
             "type": "MonthlyHero",
             "startTime": "2026-10-01 07:00:00",
@@ -97841,6 +97847,51 @@
             ]
           },
           {
+            "id": "elemental_sep_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 300,
+                    "defenseBonusPerMil": 300,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 350,
+                    "defenseBonusPerMil": 350,
+                    "healthBonusPerMil": 350,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 400,
+                    "defenseBonusPerMil": 400,
+                    "healthBonusPerMil": 400,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 430,
+                    "defenseBonusPerMil": 430,
+                    "healthBonusPerMil": 420,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "atlantis_aug2026",
             "statBonuses": [
               {
@@ -99217,7 +99268,8 @@
         "androidWebViewType": "SafeBrowsing",
         "iOSWebViewType": "Embedded",
         "embeddedWebviewConfiguration": {
-          "autoRedirectView": true
+          "autoRedirectView": true,
+          "checkoutV2": true
         },
         "safeBrowsingWebviewConfiguration": {
           "autoRedirectView": true,
@@ -100150,8 +100202,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
     "maxVersionToShowUpdateOutReminderIos": "87.0.3",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "87.0.4",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "88.0.1",
+    "standaloneNewVersionRolloutPercentage": 30,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -100256,5 +100308,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1535806805
+  "otherConfigId": 4158276028
 }

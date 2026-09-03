@@ -6151,6 +6151,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "",
+        "name": "Iron Mimic Nature",
+        "effects": [
+            "對目標和一名隨機敵人造成 450% 傷害。",
+            "所有命中目標獲得 -20% 防禦，持續 4 回合。",
+            "若目標被該攻擊所打敗，施法者恢復 +50% 生命並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
+        ]
+    },
+    {
         "heroId": "ninja_ito",
         "name": "Ito",
         "effects": [
@@ -18879,6 +18889,26 @@ const translatedEffectsTC =
     {
         "heroId": "harpy_jarrik",
         "name": "Jarrik",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "effects": []
+    },
+    {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
         "effects": []
     }
 ];
