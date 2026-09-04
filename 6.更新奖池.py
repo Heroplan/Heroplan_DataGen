@@ -770,7 +770,8 @@ def update_data_js(file_path, soul_exchange_data, one_click_max_date, purchase_c
         match = re.search(pattern, new_content)
         if match:
             old_full = match.group(0)  # 完整匹配块
-            old_date_match = re.search(r"Date\s*:\s*'([^']*)'", old_full)
+            date_pattern = r'["\']?Date["\']?\s*:\s*["\']([^"\']+)["\']'
+            old_date_match = re.search(date_pattern, old_full, re.IGNORECASE)
             old_date = old_date_match.group(1) if old_date_match else ""
             if old_date and old_date > soul_exchange_data["Date"]:
                 print(f"⚠️ 现有 soulExchange.Date ({old_date}) 比新日期 ({soul_exchange_data['Date']}) 更未来，跳过更新")
