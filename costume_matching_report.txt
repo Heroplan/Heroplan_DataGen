@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (627 / 0)
+✅ 成功匹配的服装 (632 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -442,17 +442,20 @@ Name: Zhuge Liang Costume1, Fancy Name: Strategist Supreme
 Name: Aqeela Costume1, Fancy Name: Street-Smart Sorcerer
 Name: Jarif Costume1, Fancy Name: Stressed-Out Curator
 Name: Magni stylish, Fancy Name: Stylish Ancient of Ice
+Name: Justice stylish, Fancy Name: Stylish Ancient of Stone
 Name: Lianna stylish, Fancy Name: Stylish Archer
 Name: Obakan stylish, Fancy Name: Stylish Bodyguard
 Name: Colen stylish, Fancy Name: Stylish Bounty Hunter
 Name: Bane stylish, Fancy Name: Stylish Brawler
 Name: Little John stylish, Fancy Name: Stylish Brother
 Name: Rigard stylish, Fancy Name: Stylish Cavalier
+Name: Sonya stylish, Fancy Name: Stylish Champion
 Name: Kashhrek stylish, Fancy Name: Stylish Chieftain
 Name: Gormek stylish, Fancy Name: Stylish Connoisseur
 Name: Carver stylish, Fancy Name: Stylish Cutpurse
 Name: Cyprian stylish, Fancy Name: Stylish Deathbound Lord
 Name: Brienne stylish, Fancy Name: Stylish Druid
+Name: Karil stylish, Fancy Name: Stylish Dwarf
 Name: Caedmon stylish, Fancy Name: Stylish Elf
 Name: Sartana stylish, Fancy Name: Stylish Executioner
 Name: Li Xiu stylish, Fancy Name: Stylish General
@@ -462,6 +465,8 @@ Name: Marjana stylish, Fancy Name: Stylish Lady of Windemer
 Name: Azlar stylish, Fancy Name: Stylish Leor
 Name: Jahangir stylish, Fancy Name: Stylish Mage
 Name: Balthazar stylish, Fancy Name: Stylish Magician
+Name: Wu Kong stylish, Fancy Name: Stylish Monkey
+Name: Nashgar stylish, Fancy Name: Stylish Orc
 Name: Kelile stylish, Fancy Name: Stylish Priestess
 Name: Vivica stylish, Fancy Name: Stylish Scholar
 Name: Hawkmoon stylish, Fancy Name: Stylish Shaman

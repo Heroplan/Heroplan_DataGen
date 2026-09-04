@@ -26888,7 +26888,7 @@
           "contents": [
             {
               "type": "Item",
-              "id": "lottery_thunderbolt_coin",
+              "id": "lottery_covenant_coin",
               "amount": 200
             },
             {
@@ -26898,7 +26898,7 @@
             },
             {
               "type": "Item",
-              "id": "lottery_super_elemental_coin",
+              "id": "lottery_temple_coin",
               "amount": 300
             },
             {
@@ -87800,14 +87800,6 @@
             "purchaseLimit": 4
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12b",
-            "purchaseLimit": 3
-          },
-          {
             "id": "com.smallgiantgames.empires.dynamic_30",
             "purchaseLimit": 2
           },
@@ -87822,6 +87814,7 @@
         ],
         "requiresQuestsUnlocked": true,
         "requireStarterOffersSequenceFinished": true,
+        "disabled": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -91374,6 +91367,7 @@
         ],
         "requiresQuestsUnlocked": true,
         "requireStarterOffersSequenceFinished": true,
+        "disabled": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -111031,6 +111025,16 @@
             ]
           },
           {
+            "activationTime": "2026-09-04 07:15:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1200,
+                "zyngaStoreExtraAmount": 150
+              }
+            ]
+          },
+          {
             "activationTime": "2026-09-05 07:00:00",
             "contents": [
               {
@@ -118080,6 +118084,16 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2026-09-04 07:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_troop",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -118289,6 +118303,26 @@
           },
           {
             "activationTime": "2026-09-03 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 600
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-09-04 07:15:00",
             "contents": [
               {
                 "type": "Item",
@@ -129714,6 +129748,17 @@
             ]
           },
           {
+            "activationTime": "2026-09-04 07:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_temple_coin",
+                "amount": 1000,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
             "activationTime": "2026-09-05 07:00:00",
             "contents": [
               {
@@ -131231,6 +131276,17 @@
           },
           {
             "activationTime": "2026-09-03 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_ascension_coin",
+                "amount": 1000,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-09-04 07:15:00",
             "contents": [
               {
                 "type": "Item",
@@ -137268,13 +137324,6 @@
         "endTime": "2026-09-05 07:00:00"
       },
       {
-        "id": "dynamic_offer_39_purple_senan",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2026-09-03 10:00:00",
-        "endTime": "2026-09-04 06:30:00"
-      },
-      {
         "id": "dynamic_offer_18_ducks",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -137291,13 +137340,6 @@
       {
         "id": "com.smallgiantgames.empires.double_covenant2",
         "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-09-04 07:00:00",
-        "endTime": "2026-09-05 07:00:00"
-      },
-      {
-        "id": "mastertraineroffer2",
-        "slot": "LeftTop",
         "scheduledManually": true,
         "startTime": "2026-09-04 07:00:00",
         "endTime": "2026-09-05 07:00:00"
@@ -137337,11 +137379,25 @@
         "endTime": "2026-09-08 07:00:00"
       },
       {
+        "id": "dynamic_offer_39_purple_senan",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-09-04 07:15:00",
+        "endTime": "2026-09-05 06:30:00"
+      },
+      {
         "id": "dynamic_offer_43_green_gadeirus",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2026-09-04 10:00:00",
         "endTime": "2026-09-05 06:30:00"
+      },
+      {
+        "id": "summoning_bonanza_15",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-09-04 11:00:00",
+        "endTime": "2026-09-05 07:00:00"
       },
       {
         "id": "dynamic_offer_22_ludwig",
@@ -149912,13 +149968,13 @@
                 "requiredItemAmount": 100,
                 "heroes": [
                   "林冲",
-                  "吴用",
-                  "李逵",
-                  "宋江",
-                  "孙二娘",
-                  "阮小七",
-                  "张飞-暴熊将军",
                   "晁盖",
+                  "李逵",
+                  "阮小七",
+                  "孙二娘",
+                  "孙权-天命君主",
+                  "张飞-暴熊将军",
+                  "九头兽",
                   "孙权-天命君主",
                   "蝎子精"
                 ]
@@ -149945,9 +150001,9 @@
                   "貂蝉-出水芙蓉",
                   "孙二娘",
                   "宋江",
-                  "武松",
-                  "吴用",
-                  "鲁智深",
+                  "张飞-暴熊将军",
+                  "唐三藏",
+                  "蝎子精",
                   "唐三藏",
                   "关羽-地狱将军"
                 ]
@@ -170775,5 +170831,5 @@
       ]
     }
   },
-  "shopConfigId": 596382289
+  "shopConfigId": 2394083754
 }

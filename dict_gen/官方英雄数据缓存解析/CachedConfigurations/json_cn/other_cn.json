@@ -100203,7 +100203,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
     "maxVersionToShowUpdateOutReminderIos": "87.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "88.0.1",
-    "standaloneNewVersionRolloutPercentage": 30,
+    "standaloneNewVersionRolloutPercentage": 50,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -100308,5 +100308,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 4158276028
+  "otherConfigId": 640219828
 }

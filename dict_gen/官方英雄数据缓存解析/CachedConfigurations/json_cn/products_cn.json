@@ -26887,7 +26887,7 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_thunderbolt_coin",
+            "id": "lottery_covenant_coin",
             "amount": 200
           },
           {
@@ -26897,7 +26897,7 @@
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
+            "id": "lottery_temple_coin",
             "amount": 300
           },
           {
@@ -58994,5 +58994,5 @@
       }
     ]
   },
-  "productsConfigId": 2822919069
+  "productsConfigId": 3692461435
 }

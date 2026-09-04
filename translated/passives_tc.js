@@ -235,6 +235,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "ghost_miao_yin",
         "name": "Miao Yin",
         "passives": [
@@ -698,6 +705,13 @@ const translatedPassivesTC =
         "name": "Sonya Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -9247,6 +9261,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "wonderland_phoenicus",
         "name": "Phoenicus",
         "passives": []
@@ -12830,6 +12851,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
+        ]
+    },
+    {
         "heroId": "elemental_zione",
         "name": "Zione",
         "passives": [
@@ -13764,6 +13792,13 @@ const translatedPassivesTC =
         "name": "Justice Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
+        ]
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "passives": [
+            "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ]
     },
     {
@@ -14863,31 +14898,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "exalted_female_statue_costume_stylish",
-        "name": "Justice Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "royal_female_knight_costume_stylish",
-        "name": "Sonya Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_monkey_captain_costume_stylish",
-        "name": "Wu Kong Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "orc_warrior_costume_stylish",
-        "name": "Nashgar Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "dwarven_smasher_costume_stylish",
-        "name": "Karil Stylish",
-        "passives": []
     },
     {
         "heroId": "ghost_chou_kou_gui",

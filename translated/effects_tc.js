@@ -279,6 +279,14 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "effects": [
+            "對目標造成 310% 傷害，並對附近敵人造成輕微傷害。",
+            "對剩餘生命值少於 50% 的敵人造成額外傷害。"
+        ]
+    },
+    {
         "heroId": "ghost_miao_yin",
         "name": "Miao Yin",
         "effects": [
@@ -901,6 +909,15 @@ const translatedEffectsTC =
         "effects": [
             "對目標造成 365% 傷害。",
             "攻擊會無視防禦增益。（包含反擊。）",
+            "驅散所有敵人的增益。"
+        ]
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "effects": [
+            "對目標造成 375% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 425% 傷害。",
             "驅散所有敵人的增益。"
         ]
     },
@@ -11750,6 +11767,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "effects": [
+            "對目標造成 315% 傷害。",
+            "如果目標剩餘生命少於 50%，可對其造成 365% 傷害。",
+            "目標在 4 回合內受到共計 184 點燃燒傷害。"
+        ]
+    },
+    {
         "heroId": "wonderland_phoenicus",
         "name": "Phoenicus",
         "effects": [
@@ -16301,6 +16327,14 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "effects": [
+            "所有盟友獲得 +183% 攻擊力與 -32% 精準度，持續 5 回合。（進攻型特殊技能也有機率無法擊中。）",
+            "所有盟友在 5 回合內恢復 500 點生命值。"
+        ]
+    },
+    {
         "heroId": "elemental_zione",
         "name": "Zione",
         "effects": [
@@ -17442,6 +17476,15 @@ const translatedEffectsTC =
             "對所有敵人造成 445% 傷害。",
             "攻擊會無視防禦增益。（包含反擊。）",
             "所有敵人獲得 -34% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）"
+        ]
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "effects": [
+            "對所有敵人造成 455% 傷害。",
+            "對剩餘生命少於 50% 的敵人造成 605% 傷害。",
+            "所有敵人獲得 -36% 精準度，持續 4 回合。（進攻型特殊技能也有機率無法擊中。）"
         ]
     },
     {
@@ -18850,31 +18893,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +15% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "exalted_female_statue_costume_stylish",
-        "name": "Justice Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "royal_female_knight_costume_stylish",
-        "name": "Sonya Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_monkey_captain_costume_stylish",
-        "name": "Wu Kong Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "orc_warrior_costume_stylish",
-        "name": "Nashgar Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "dwarven_smasher_costume_stylish",
-        "name": "Karil Stylish",
-        "effects": []
     },
     {
         "heroId": "ghost_chou_kou_gui",

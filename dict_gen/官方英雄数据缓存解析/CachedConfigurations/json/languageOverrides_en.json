@@ -102,6 +102,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Carta omaggio!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Ogni [#!]{TURNSBETWEENEFFECTS}[#] turni, questo personaggio ruba il [#!]{MANASTEAL}%[#] di mana al nemico con la velocità mana più alta."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Incursione con furto"
           }
         ]
       },
@@ -206,6 +214,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Бонусный раунд!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Каждые [#!]{TURNSBETWEENEFFECTS}[#] х. этот персонаж крадет [#!]{MANASTEAL} %[#] маны у врага с самой высокой скоростью восстановления маны."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Налетай и хватай"
           }
         ]
       },
@@ -310,6 +326,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Losowanie dodatkowe!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Co [#!]{TURNSBETWEENEFFECTS}[#] tur(y) ta postać kradnie [#!]{MANASTEAL}%[#] many wrogowi z najwyższą szybkością many."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Zamach i kradzież"
           }
         ]
       },
@@ -414,6 +438,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "抽獎！"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "每[#!]{TURNSBETWEENEFFECTS}[#]回合，此角色會向擁有最快法力速度的敵人偷取[#!]{MANASTEAL}%[#]法力。"
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "突襲竊取"
           }
         ]
       },
@@ -526,6 +558,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "보너스 뽑기!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "[#!]{TURNSBETWEENEFFECTS}[#]턴마다 이 캐릭터가 마나 속도가 가장 빠른 적에게서 [#!]{MANASTEAL}%[#]의 마나를 훔칩니다."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "급강하 약탈"
           }
         ]
       },
@@ -634,6 +674,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonus-Zug!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Alle [#!]{TURNSBETWEENEFFECTS}[#] Züge stiehlt dieser Charakter [#!]{MANASTEAL} %[#] Mana vom Gegner mit dem schnellsten Manatempo."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Sturzflug-Überfall"
           }
         ]
       },
@@ -738,6 +786,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "ボーナスドロー！"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "[#!]{TURNSBETWEENEFFECTS}[#]ターンごとに、このキャラクターはマナ回復速度が最も速い敵から[#!]{MANASTEAL}%[#]のマナを奪う。"
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "急襲と強奪"
           }
         ]
       },
@@ -842,6 +898,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonusdragning!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Den här karaktären stjäl [#!]{MANASTEAL} %[#] mana från fienden med högst manahastighet med [#!]{TURNSBETWEENEFFECTS}[#] rundors mellanrum."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Stjäl snabbt"
           }
         ]
       },
@@ -946,6 +1010,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonus Çekiliş!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Bu karakter, her [#!]{TURNSBETWEENEFFECTS}[#] turda bir en hızlı mana hızına sahip olan düşmandan [#!]%{MANASTEAL}[#] mana çalar."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Saldırı ve Çalma"
           }
         ]
       },
@@ -1050,6 +1122,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonus Draw!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Every [#!]{TURNSBETWEENEFFECTS}[#] turns, this character steals [#!]{MANASTEAL}%[#] mana from the enemy with the fastest mana speed."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Swoop and Steal"
           }
         ]
       },
@@ -1154,6 +1234,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "سحب إضافي!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "كل [#!]{TURNSBETWEENEFFECTS}[#] من الجولات، تسرق هذه الشخصية [#!]{MANASTEAL}%[#] من القوة من العدو صاحب أعلى سرعة قوة."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "انقضاض وسرقة"
           }
         ]
       },
@@ -1258,6 +1346,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Tirage bonus !"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Tous les [#!]{TURNSBETWEENEFFECTS}[#] tours, ce personnage vole [#!]{MANASTEAL} %[#] de mana à l'ennemi à la vitesse de mana la plus élevée."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Vol rapide"
           }
         ]
       },
@@ -1362,6 +1458,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bônus!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "A cada [#!]{TURNSBETWEENEFFECTS}[#] turnos, este personagem rouba [#!]{MANASTEAL}%[#] de mana do inimigo com a maior velocidade de mana."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Furto Rasante"
           }
         ]
       },
@@ -1466,6 +1570,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Undian Bonus!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Setiap [#!]{TURNSBETWEENEFFECTS}[#] giliran, karakter ini mencuri [#!]{MANASTEAL}%[#] mana dari musuh yang memiliki kecepatan mana tertinggi."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Sambar dan Curi"
           }
         ]
       },
@@ -1570,6 +1682,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonusveto!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Aina [#!]{TURNSBETWEENEFFECTS}[#] vuoron välein tämä hahmo varastaa [#!]{MANASTEAL} %[#] manaa viholliselta, jolla on suurin mananopeus."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Syöksy ja anastus"
           }
         ]
       },
@@ -1674,6 +1794,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonuslodtrækning!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Hver [#!]{TURNSBETWEENEFFECTS}[#]. runde stjæler denne figur [#!]{MANASTEAL} %[#] mana fra fjenden med den hurtigste manahastighed."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Dyk ned og stjæl"
           }
         ]
       },
@@ -1778,6 +1906,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "¡Lotería de bonificación!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Cada [#!]{TURNSBETWEENEFFECTS}[#] turnos, este personaje roba un [#!]{MANASTEAL} %[#] de maná al enemigo con la velocidad de maná más rápida."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Picado y robo"
           }
         ]
       },
@@ -1882,6 +2018,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonustrekning!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Hver [#!]{TURNSBETWEENEFFECTS}[#]. tur stjeler denne figuren [#!]{MANASTEAL} %[#] mana fra fienden med raskest manahastighet."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Slå ned og stjel"
           }
         ]
       },
@@ -1986,6 +2130,14 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "Bonusloting!"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "Om de [#!]{TURNSBETWEENEFFECTS}[#] beurten steelt dit personage [#!]{MANASTEAL}%[#] mana van de vijand met de hoogste manasnelheid."
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "Duiken en stelen"
           }
         ]
       },
@@ -2090,10 +2242,18 @@
           {
             "key": "summon.bonusdraw_goblin",
             "text": "额外抽卡！"
+          },
+          {
+            "key": "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed",
+            "text": "每隔[#!]{TURNSBETWEENEFFECTS}[#]回合，该角色都会从法力速度最快的敌人身上偷取[#!]{MANASTEAL}%[#]法力值。"
+          },
+          {
+            "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
+            "text": "俯冲夺取"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 3088177302
+  "languageOverridesConfigId": 3715295158
 }

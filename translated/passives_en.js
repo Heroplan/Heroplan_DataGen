@@ -235,6 +235,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "ghost_miao_yin",
         "name": "Miao Yin",
         "passives": [
@@ -698,6 +705,13 @@ const allTranslations =
         "name": "Sonya Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -9247,6 +9261,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "wonderland_phoenicus",
         "name": "Phoenicus",
         "passives": []
@@ -12830,6 +12851,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
+        ]
+    },
+    {
         "heroId": "elemental_zione",
         "name": "Zione",
         "passives": [
@@ -13764,6 +13792,13 @@ const allTranslations =
         "name": "Justice Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "passives": [
+            "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ]
     },
     {
@@ -14863,31 +14898,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "exalted_female_statue_costume_stylish",
-        "name": "Justice Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "royal_female_knight_costume_stylish",
-        "name": "Sonya Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "oriental_monkey_captain_costume_stylish",
-        "name": "Wu Kong Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "orc_warrior_costume_stylish",
-        "name": "Nashgar Stylish",
-        "passives": []
-    },
-    {
-        "heroId": "dwarven_smasher_costume_stylish",
-        "name": "Karil Stylish",
-        "passives": []
     },
     {
         "heroId": "ghost_chou_kou_gui",

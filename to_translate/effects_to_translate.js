@@ -279,6 +279,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "dwarven_smasher_costume_stylish",
+        "name": "Karil Stylish",
+        "effects": [
+            "Deals 310% damage to the target and minor damage to nearby enemies.",
+            "Deals extra damage to enemies with less than 50% health remaining."
+        ]
+    },
+    {
         "heroId": "ghost_miao_yin",
         "name": "Miao Yin",
         "effects": [
@@ -901,6 +909,15 @@ const allTranslations =
         "effects": [
             "Deals 365% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "Dispels buffs from all enemies."
+        ]
+    },
+    {
+        "heroId": "royal_female_knight_costume_stylish",
+        "name": "Sonya Stylish",
+        "effects": [
+            "Deals 375% damage to the target.",
+            "If the target has less than 50% health remaining, deals 425% damage instead.",
             "Dispels buffs from all enemies."
         ]
     },
@@ -11750,6 +11767,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "orc_warrior_costume_stylish",
+        "name": "Nashgar Stylish",
+        "effects": [
+            "Deals 315% damage to the target.",
+            "If the target has less than 50% health remaining, deals 365% damage instead.",
+            "The target receives 184 Burn damage over 4 turns."
+        ]
+    },
+    {
         "heroId": "wonderland_phoenicus",
         "name": "Phoenicus",
         "effects": [
@@ -16301,6 +16327,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "oriental_monkey_captain_costume_stylish",
+        "name": "Wu Kong Stylish",
+        "effects": [
+            "All allies get +183% attack with -32% accuracy for 5 turns. (Chance to miss also applies to offensive special skills.)",
+            "All allies regenerate 500 HP over 5 turns."
+        ]
+    },
+    {
         "heroId": "elemental_zione",
         "name": "Zione",
         "effects": [
@@ -17442,6 +17476,15 @@ const allTranslations =
             "Deals 445% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "All enemies get -34% accuracy for 4 turns. (Chance to miss applies to offensive Special Skills.)"
+        ]
+    },
+    {
+        "heroId": "exalted_female_statue_costume_stylish",
+        "name": "Justice Stylish",
+        "effects": [
+            "Deals 455% damage to all enemies.",
+            "If the enemies have less than 50% health remaining, deals 605% damage instead.",
+            "All enemies get -36% accuracy for 4 turns. (Chance to miss applies to offensive Special Skills.)"
         ]
     },
     {
@@ -18850,31 +18893,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "exalted_female_statue_costume_stylish",
-        "name": "Justice Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "royal_female_knight_costume_stylish",
-        "name": "Sonya Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "oriental_monkey_captain_costume_stylish",
-        "name": "Wu Kong Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "orc_warrior_costume_stylish",
-        "name": "Nashgar Stylish",
-        "effects": []
-    },
-    {
-        "heroId": "dwarven_smasher_costume_stylish",
-        "name": "Karil Stylish",
-        "effects": []
     },
     {
         "heroId": "ghost_chou_kou_gui",
