@@ -665,7 +665,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 'passives': flatten_list(hero_data.get('passives', [])), 
                 'family': hero_family,
                 'costume_id': 0, 
-                'originalIndex': original_index_counter
+                'originalIndex': extra.get('heroId', ''),
             }
             lb_data = {}
 
@@ -800,7 +800,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         'passives': flatten_list(costume_data.get('passives', [])), 
                         'family': costume_family,
                         'costume_id': costume_id, 
-                        'originalIndex': original_index_counter
+                        'originalIndex': extra_c.get('heroId', '')
                     }
                     lb_data_c = {}
                     
@@ -933,7 +933,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 'passives': hero_data.get('passives', []), 
                 'family': hero_family_extra, 
                 'costume_id': hero_data.get('costume_id', 0), 
-                'originalIndex': original_index_counter
+                'originalIndex': hero_data.get('heroId', '')
             }
             # 如果附加数据本身已经有了lb1/lb2，则直接使用，否则可考虑在这里添加同样的计算逻辑
             # 目前保持原逻辑读取JSON中的值
