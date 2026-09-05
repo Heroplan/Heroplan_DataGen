@@ -50241,5 +50241,24 @@ window.allHeroesExtra = [
         "healthBonus": "95%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Chou Kou Gui",
+        "fancy name": "Ghost of Noxious Mouth",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
+        "Release date": "2026-09-05",
+        "AetherPower": "Fiend Resist",
+        "heroId": "ghost_chou_kou_gui",
+        "baseAttack": 704,
+        "baseDefense": 676,
+        "baseHealth": 1169,
+        "specialId": "noxious_breath",
+        "passiveSkills": [
+            "vengeful_ghost_on_damage_received"
+        ],
+        "family": "ghost"
     }
 ];

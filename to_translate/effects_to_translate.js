@@ -5294,6 +5294,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ghost_chou_kou_gui",
+        "name": "Chou Kou Gui",
+        "effects": [
+            "Safely dispels 1 buff from the target and nearby enemies. (The latest buffs are dispelled first.)",
+            "The target and nearby enemies receive 337-661 increasing Curse damage each turn for 3 turns. This effect is Stubborn. (On the first turn, 337 damage is dealt. The damage increases by +40% each turn, up to 661 damage per turn. Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
+            "All damage the target and nearby enemies receive is increased by +20% for 3 turns. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or decreases activations left by 1.)"
+        ]
+    },
+    {
         "heroId": "nature_god_cinisia",
         "name": "Cinisia",
         "effects": [
@@ -18893,11 +18902,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "ghost_chou_kou_gui",
-        "name": "Chou Kou Gui",
-        "effects": []
     },
     {
         "heroId": "harpy_kyrathis",
