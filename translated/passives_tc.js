@@ -1881,6 +1881,13 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "passives": [
+            "突襲竊取：每 3 回合，此角色會向擁有最快法力速度的敵人偷取 25% 法力。"
+        ]
+    },
+    {
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "passives": [
@@ -5754,7 +5761,7 @@ const translatedPassivesTC =
         "heroId": "villain_toxicandra_costume_rose",
         "name": "Toxicandra C1",
         "passives": [
-            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 461 詛咒傷害，傷害從低開始並每回合增加。"
+            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 60 -185 詛咒傷害，傷害從低開始並每回合增加。"
         ]
     },
     {
@@ -11007,6 +11014,13 @@ const translatedPassivesTC =
         "passives": []
     },
     {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
+        "passives": [
+            "突襲竊取：每 3 回合，此角色會向擁有最快法力速度的敵人偷取 25% 法力。"
+        ]
+    },
+    {
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "passives": [
@@ -14907,16 +14921,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "harpy_kyrathis",
-        "name": "Kyrathis",
-        "passives": []
-    },
-    {
-        "heroId": "harpy_jarrik",
-        "name": "Jarrik",
-        "passives": []
     },
     {
         "heroId": "elemental_desmond_costume_assassin",

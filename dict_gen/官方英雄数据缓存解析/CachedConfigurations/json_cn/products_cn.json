@@ -19591,6 +19591,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36131,7 +36132,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36159,7 +36159,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56502,7 +56502,6 @@
         "bonusChest": "harvest_summon_chest",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 30,
-        "resetChestSummonCountOnNextEvent": true,
         "bonusChestEnabled": true,
         "additionalDrawWeights": [
           0,
@@ -58994,5 +58993,5 @@
       }
     ]
   },
-  "productsConfigId": 3692461435
+  "productsConfigId": 4076967373
 }

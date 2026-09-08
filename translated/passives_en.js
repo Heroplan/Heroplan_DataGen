@@ -1881,6 +1881,13 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "passives": [
+            "Swoop and Steal: Every 3 turns, this character steals 25% mana from the enemy with the fastest mana speed."
+        ]
+    },
+    {
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "passives": [
@@ -3395,7 +3402,7 @@ const allTranslations =
         "heroId": "christmas_elf_costume_gift_bookkeper",
         "name": "Buddy C1",
         "passives": [
-            "Frost on Minion Hit: Each hit from the Minions owned by this character inflict 252 Frost damage over 4 turns."
+            "Frost on Minion Hit: Each hit from the Minions owned by this character inflicts 252 Frost damage over 4 turns."
         ]
     },
     {
@@ -5754,7 +5761,7 @@ const allTranslations =
         "heroId": "villain_toxicandra_costume_rose",
         "name": "Toxicandra C1",
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 60-185 increasing Curse damage each turn for 4 turns."
         ]
     },
     {
@@ -11007,6 +11014,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
+        "passives": [
+            "Swoop and Steal: Every 3 turns, this character steals 25% mana from the enemy with the fastest mana speed."
+        ]
+    },
+    {
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "passives": [
@@ -14907,16 +14921,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "harpy_kyrathis",
-        "name": "Kyrathis",
-        "passives": []
-    },
-    {
-        "heroId": "harpy_jarrik",
-        "name": "Jarrik",
-        "passives": []
     },
     {
         "heroId": "elemental_desmond_costume_assassin",

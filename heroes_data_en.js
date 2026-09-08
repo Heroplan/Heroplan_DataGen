@@ -14686,6 +14686,69 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Kyrathis",
+        "fancy_name": "Stormcaller Harpy",
+        "AetherPower": "Special Boost",
+        "color": "Ice",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Stormcaller Pact",
+        "source": "Harvest Summon",
+        "Release date": "2026-09-07",
+        "specialId": "stormcaller_pact",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "heroId": "harpy_kyrathis",
+        "star": 5,
+        "power": 1361,
+        "attack": 1454,
+        "defense": 1392,
+        "health": 2416,
+        "effects": [
+            "Deals 375% Talon damage to the target and nearby enemies. (Deals 475% damage to enemies with 50% mana or more. The enemies also get -25% mana generation for 3 turns.)",
+            "The target and nearby enemies receive 780 Wind damage over 3 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
+            "The target and nearby enemies take +50% increased damage from status ailments and negative stacks for 3 turns."
+        ],
+        "passives": [
+            "Swoop and Steal: Every 3 turns, this character steals 25% mana from the enemy with the fastest mana speed."
+        ],
+        "family": "harpy",
+        "costume_id": 0,
+        "originalIndex": "harpy_kyrathis",
+        "lb1": {
+            "attack": 1567,
+            "defense": 1500,
+            "health": 2604,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1793,
+            "defense": 1717,
+            "health": 2979,
+            "power": 1650
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Area",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Talon"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Wind",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Lane",
         "fancy_name": "The Road Bandit",
         "AetherPower": "Counterattack",
@@ -27299,7 +27362,7 @@ window.allHeroes =
             "Deals extra damage against Ice."
         ],
         "passives": [
-            "Frost on Minion Hit: Each hit from the Minions owned by this character inflict 252 Frost damage over 4 turns."
+            "Frost on Minion Hit: Each hit from the Minions owned by this character inflicts 252 Frost damage over 4 turns."
         ],
         "family": "winter",
         "costume_id": 1,
@@ -45974,7 +46037,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 60-185 increasing Curse damage each turn for 4 turns."
         ],
         "family": "villains",
         "costume_id": 1,
@@ -87927,6 +87990,66 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Jarrik",
+        "fancy_name": "Cardinal Harpy Warrior",
+        "AetherPower": "Attack Up",
+        "color": "Fire",
+        "class": "Fighter",
+        "speed": "Average",
+        "skill": "Wuthering Whips",
+        "source": "Harvest Summon",
+        "Release date": "2026-09-07",
+        "specialId": "wuthering_whips",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "heroId": "harpy_jarrik",
+        "star": 5,
+        "power": 1361,
+        "attack": 1446,
+        "defense": 1398,
+        "health": 2424,
+        "effects": [
+            "Deals 440% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All hit targets receive 1240 Wind damage over 4 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
+            "All hit targets cannot cast any new status effects on enemies or allies for 4 turns. (This includes stacks. This only includes status effects cast with Special Skills.)"
+        ],
+        "passives": [
+            "Swoop and Steal: Every 3 turns, this character steals 25% mana from the enemy with the fastest mana speed."
+        ],
+        "family": "harpy",
+        "costume_id": 0,
+        "originalIndex": "harpy_jarrik",
+        "lb1": {
+            "attack": 1558,
+            "defense": 1507,
+            "health": 2612,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1783,
+            "defense": 1724,
+            "health": 2989,
+            "power": 1650
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Chain",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Wind",
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Jean-Francois",
         "fancy_name": "Musketeer Mage",
         "AetherPower": "Counterattack",
@@ -118995,54 +119118,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Kyrathis",
-        "fancy_name": "Stormcaller Harpy",
-        "AetherPower": "",
-        "color": "Ice",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "harpy_kyrathis",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "harpy",
-        "costume_id": 0,
-        "originalIndex": "harpy_kyrathis",
-        "cn_skill_info": []
-    },
-    {
-        "name": "Jarrik",
-        "fancy_name": "Cardinal Harpy Warrior",
-        "AetherPower": "",
-        "color": "Fire",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "harpy_jarrik",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "harpy",
-        "costume_id": 0,
-        "originalIndex": "harpy_jarrik",
-        "cn_skill_info": []
     },
     {
         "name": "Desmond C",

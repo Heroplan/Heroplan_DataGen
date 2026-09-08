@@ -1,29 +1,5 @@
 [
     {
-        "name": "Kyrathis",
-        "fancy_name": "Stormcaller Harpy",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-07 07:00:00",
-        "star": 5,
-        "family": "harpy",
-        "costume_id": 0,
-        "heroId": "harpy_kyrathis",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Jarrik",
-        "fancy_name": "Cardinal Harpy Warrior",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-07 07:00:00",
-        "star": 5,
-        "family": "harpy",
-        "costume_id": 0,
-        "heroId": "harpy_jarrik",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Desmond C",
         "fancy_name": "Blade Assassin",
         "color": "Green",

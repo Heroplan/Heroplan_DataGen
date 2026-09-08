@@ -50260,5 +50260,43 @@ window.allHeroesExtra = [
             "vengeful_ghost_on_damage_received"
         ],
         "family": "ghost"
+    },
+    {
+        "name": "Kyrathis",
+        "fancy name": "Stormcaller Harpy",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-09-07",
+        "AetherPower": "Special Boost",
+        "heroId": "harpy_kyrathis",
+        "baseAttack": 706,
+        "baseDefense": 676,
+        "baseHealth": 1173,
+        "specialId": "stormcaller_pact",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "family": "harpy"
+    },
+    {
+        "name": "Jarrik",
+        "fancy name": "Cardinal Harpy Warrior",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-09-07",
+        "AetherPower": "Attack Up",
+        "heroId": "harpy_jarrik",
+        "baseAttack": 702,
+        "baseDefense": 679,
+        "baseHealth": 1177,
+        "specialId": "wuthering_whips",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "family": "harpy"
     }
 ];

@@ -729,12 +729,15 @@ def update_data_js(file_path, soul_exchange_data, one_click_max_date, purchase_c
         match = re.search(pattern, new_content)
         if match:
             old_date = match.group(2)
-            if old_date != one_click_max_date:
-                new_content = re.sub(pattern, r"\1'" + one_click_max_date + "'", new_content)
-                updated = True
-                print(f"✅ 更新 oneClickMaxDate: {old_date} -> {one_click_max_date}")
+            if old_date and old_date > one_click_max_date:
+                print(f"⚠️ 现有 one_click_max_date ({old_date}) 比新日期 ({one_click_max_date}) 更未来，跳过更新")
             else:
-                print(f"ℹ️ oneClickMaxDate 已是 {old_date}，无需更新")
+                if old_date != one_click_max_date:
+                    new_content = re.sub(pattern, r"\1'" + one_click_max_date + "'", new_content)
+                    updated = True
+                    print(f"✅ 更新 oneClickMaxDate: {old_date} -> {one_click_max_date}")
+                else:
+                    print(f"ℹ️ oneClickMaxDate 已是 {old_date}，无需更新")
         else:
             print("⚠️ 未找到 oneClickMaxDate 定义，无法更新")
 
@@ -745,9 +748,12 @@ def update_data_js(file_path, soul_exchange_data, one_click_max_date, purchase_c
         if match:
             old_date = match.group(2)
             if old_date != purchase_costume_date:
-                new_content = re.sub(pattern, r"\1'" + purchase_costume_date + "'", new_content)
-                updated = True
-                print(f"✅ 更新 purchaseCostumeDate: {old_date} -> {purchase_costume_date}")
+                if old_date and old_date > purchase_costume_date:
+                    print(f"⚠️ 现有 purchase_costume_date ({old_date}) 比新日期 ({purchase_costume_date}) 更未来，跳过更新")
+                else:
+                    new_content = re.sub(pattern, r"\1'" + purchase_costume_date + "'", new_content)
+                    updated = True
+                    print(f"✅ 更新 purchaseCostumeDate: {old_date} -> {purchase_costume_date}")
             else:
                 print(f"ℹ️ purchaseCostumeDate 已是 {old_date}，无需更新")
         else:

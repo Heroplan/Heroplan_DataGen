@@ -2295,6 +2295,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "effects": [
+            "对目标和附近敌人造成 375% 利爪伤害。（对法力值达到或超过 50% 的敌人造成 475% 伤害。目标还会获得 -25% 法力生成，持续 3 回合。）",
+            "目标和附近敌人在 3 回合内受到共计 780 点风系伤害。该伤害无视防御增益、小兵和超级小兵。",
+            "目标和附近敌人从状态异常和负面效果叠加受到的伤害增加 +50%，持续 3 回合。"
+        ]
+    },
+    {
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "effects": [
@@ -13955,6 +13964,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
+        "effects": [
+            "对目标造成 440% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "命中的所有目标在 4 回合内受到共计 1240 点风系伤害。该伤害无视防御增益、小兵和超级小兵。",
+            "所有命中的目标无法对敌人或盟友施放任何新的状态效果，持续 4 回合。（叠加也包括在内。仅限由特殊技能施加的状态效果）"
+        ]
+    },
+    {
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "effects": [
@@ -18902,16 +18921,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +15% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "harpy_kyrathis",
-        "name": "Kyrathis",
-        "effects": []
-    },
-    {
-        "heroId": "harpy_jarrik",
-        "name": "Jarrik",
-        "effects": []
     },
     {
         "heroId": "elemental_desmond_costume_assassin",

@@ -53,6 +53,7 @@ family_name_corrections = {
     "ghosts": "ghost",
     "sunbayshark": "shark",
     "dryads": "dryad",
+    "harpies": "harpy",
     
     
     

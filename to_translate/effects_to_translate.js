@@ -2295,6 +2295,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "effects": [
+            "Deals 375% Talon damage to the target and nearby enemies. (Deals 475% damage to enemies with 50% mana or more. The enemies also get -25% mana generation for 3 turns.)",
+            "The target and nearby enemies receive 780 Wind damage over 3 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
+            "The target and nearby enemies take +50% increased damage from status ailments and negative stacks for 3 turns."
+        ]
+    },
+    {
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "effects": [
@@ -13955,6 +13964,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
+        "effects": [
+            "Deals 440% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All hit targets receive 1240 Wind damage over 4 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
+            "All hit targets cannot cast any new status effects on enemies or allies for 4 turns. (This includes stacks. This only includes status effects cast with Special Skills.)"
+        ]
+    },
+    {
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "effects": [
@@ -18902,16 +18921,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "harpy_kyrathis",
-        "name": "Kyrathis",
-        "effects": []
-    },
-    {
-        "heroId": "harpy_jarrik",
-        "name": "Jarrik",
-        "effects": []
     },
     {
         "heroId": "elemental_desmond_costume_assassin",

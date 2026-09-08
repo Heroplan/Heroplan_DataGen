@@ -1881,6 +1881,13 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "passives": [
+            "俯冲夺取：每隔 3 回合，该角色都会从法力速度最快的敌人身上偷取 25% 法力值。"
+        ]
+    },
+    {
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "passives": [
@@ -3395,7 +3402,7 @@ const translatedPassivesCN =
         "heroId": "christmas_elf_costume_gift_bookkeper",
         "name": "Buddy C1",
         "passives": [
-            "命中小兵时施加霜冻：该角色拥有的小兵每次攻击时，会对目标造成 252 点冰冻伤害，持续 4 回合。"
+            "小兵命中时施加霜冻：该角色拥有的小兵每次攻击时，会对目标造成 252 点冰冻伤害，持续 4 回合。"
         ]
     },
     {
@@ -5754,7 +5761,7 @@ const translatedPassivesCN =
         "heroId": "villain_toxicandra_costume_rose",
         "name": "Toxicandra C1",
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
+            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 60 -185 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
         ]
     },
     {
@@ -11007,6 +11014,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
+        "passives": [
+            "俯冲夺取：每隔 3 回合，该角色都会从法力速度最快的敌人身上偷取 25% 法力值。"
+        ]
+    },
+    {
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "passives": [
@@ -14907,16 +14921,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "harpy_kyrathis",
-        "name": "Kyrathis",
-        "passives": []
-    },
-    {
-        "heroId": "harpy_jarrik",
-        "name": "Jarrik",
-        "passives": []
     },
     {
         "heroId": "elemental_desmond_costume_assassin",

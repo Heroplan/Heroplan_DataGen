@@ -14686,6 +14686,69 @@ window.allHeroes =
         ]
     },
     {
+        "name": "基拉西斯 (Kyrathis)",
+        "fancy_name": "唤风暴鹰身女妖",
+        "AetherPower": "特殊技能加成",
+        "color": "冰雪",
+        "class": "术士",
+        "speed": "快速",
+        "skill": "风暴使者之契",
+        "source": "丰收召唤",
+        "Release date": "2026-09-07",
+        "specialId": "stormcaller_pact",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "heroId": "harpy_kyrathis",
+        "star": 5,
+        "power": 1361,
+        "attack": 1454,
+        "defense": 1392,
+        "health": 2416,
+        "effects": [
+            "对目标和附近敌人造成 375% 利爪伤害。（对法力值达到或超过 50% 的敌人造成 475% 伤害。目标还会获得 -25% 法力生成，持续 3 回合。）",
+            "目标和附近敌人在 3 回合内受到共计 780 点风系伤害。该伤害无视防御增益、小兵和超级小兵。",
+            "目标和附近敌人从状态异常和负面效果叠加受到的伤害增加 +50%，持续 3 回合。"
+        ],
+        "passives": [
+            "俯冲夺取：每隔 3 回合，该角色都会从法力速度最快的敌人身上偷取 25% 法力值。"
+        ],
+        "family": "harpy",
+        "costume_id": 0,
+        "originalIndex": "harpy_kyrathis",
+        "lb1": {
+            "attack": 1567,
+            "defense": 1500,
+            "health": 2604,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1793,
+            "defense": 1717,
+            "health": 2979,
+            "power": 1650
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-范围",
+                    "伤害-持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-利爪"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：风",
+                    "防御-受到伤害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "赖恩 (Lane)",
         "fancy_name": "公路强盗",
         "AetherPower": "反击",
@@ -27299,7 +27362,7 @@ window.allHeroes =
             "对冰雪系造成额外伤害。"
         ],
         "passives": [
-            "命中小兵时施加霜冻：该角色拥有的小兵每次攻击时，会对目标造成 252 点冰冻伤害，持续 4 回合。"
+            "小兵命中时施加霜冻：该角色拥有的小兵每次攻击时，会对目标造成 252 点冰冻伤害，持续 4 回合。"
         ],
         "family": "winter",
         "costume_id": 1,
@@ -45974,7 +46037,7 @@ window.allHeroes =
             "净化所有盟友的状态异常。"
         ],
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
+            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 60 -185 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
         ],
         "family": "villains",
         "costume_id": 1,
@@ -87927,6 +87990,66 @@ window.allHeroes =
         ]
     },
     {
+        "name": "贾里克 (Jarrik)",
+        "fancy_name": "红衣鹰身女妖战士",
+        "AetherPower": "攻击提升",
+        "color": "烈火",
+        "class": "战士",
+        "speed": "中等",
+        "skill": "呼啸长鞭",
+        "source": "丰收召唤",
+        "Release date": "2026-09-07",
+        "specialId": "wuthering_whips",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "heroId": "harpy_jarrik",
+        "star": 5,
+        "power": 1361,
+        "attack": 1446,
+        "defense": 1398,
+        "health": 2424,
+        "effects": [
+            "对目标造成 440% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "命中的所有目标在 4 回合内受到共计 1240 点风系伤害。该伤害无视防御增益、小兵和超级小兵。",
+            "所有命中的目标无法对敌人或盟友施放任何新的状态效果，持续 4 回合。（叠加也包括在内。仅限由特殊技能施加的状态效果）"
+        ],
+        "passives": [
+            "俯冲夺取：每隔 3 回合，该角色都会从法力速度最快的敌人身上偷取 25% 法力值。"
+        ],
+        "family": "harpy",
+        "costume_id": 0,
+        "originalIndex": "harpy_jarrik",
+        "lb1": {
+            "attack": 1558,
+            "defense": 1507,
+            "health": 2612,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1783,
+            "defense": 1724,
+            "health": 2989,
+            "power": 1650
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-单体",
+                    "攻击-连锁",
+                    "伤害-持续伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：风",
+                    "状态-增益无效化"
+                ]
+            }
+        ]
+    },
+    {
         "name": "让-弗朗索瓦 (Jean-Francois)",
         "fancy_name": "火枪手法师",
         "AetherPower": "反击",
@@ -118995,54 +119118,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "基拉西斯 (Kyrathis)",
-        "fancy_name": "唤风暴鹰身女妖",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "harpy_kyrathis",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "harpy",
-        "costume_id": 0,
-        "originalIndex": "harpy_kyrathis",
-        "cn_skill_info": []
-    },
-    {
-        "name": "贾里克 (Jarrik)",
-        "fancy_name": "红衣鹰身女妖战士",
-        "AetherPower": "",
-        "color": "烈火",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "harpy_jarrik",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "harpy",
-        "costume_id": 0,
-        "originalIndex": "harpy_jarrik",
-        "cn_skill_info": []
     },
     {
         "name": "德斯蒙德 (Desmond) C",

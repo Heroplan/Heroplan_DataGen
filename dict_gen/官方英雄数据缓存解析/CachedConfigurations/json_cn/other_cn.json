@@ -3249,8 +3249,8 @@
               "beauty_beast_jacquespierre"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
-            "startTime": "2026-11-18 07:00:00",
-            "endTime": "2026-11-23 07:00:00"
+            "startTime": "2026-10-06 07:00:00",
+            "endTime": "2026-10-11 07:00:00"
           }
         ],
         "treasureQuestEventEntries": [
@@ -3454,8 +3454,9 @@
           {
             "id": "Temple",
             "type": "TempleEvent",
-            "startTime": "2026-10-04 07:00:00",
-            "endTime": "2026-10-08 07:00:00"
+            "manuallyOverwritten": true,
+            "startTime": "2026-10-16 07:00:00",
+            "endTime": "2026-10-20 07:00:00"
           },
           {
             "id": "Temple",
@@ -4269,11 +4270,11 @@
             "endTime": "2026-10-04 07:00:00"
           },
           {
-            "id": "lottery_season_untold_tales2_2026_10_6",
-            "targetSeason": "UntoldTales2",
-            "rareMonsterStateConfigId": "map_untoldtales2",
-            "startTime": "2026-10-06 07:00:00",
-            "endTime": "2026-10-10 07:00:00"
+            "id": "lottery_season_underwild_2026_11_5",
+            "targetSeason": "Season4",
+            "rareMonsterStateConfigId": "map_season4",
+            "startTime": "2026-10-04 07:00:00",
+            "endTime": "2026-10-08 07:00:00"
           },
           {
             "id": "AncientDragon_2026_10_6",
@@ -4283,16 +4284,23 @@
             "endTime": "2026-10-10 07:00:00"
           },
           {
-            "id": "lottery_season_untold_tales1_2026_10_8",
-            "targetSeason": "UntoldTales1",
-            "rareMonsterStateConfigId": "map_untoldtales1",
-            "startTime": "2026-10-08 07:00:00",
-            "endTime": "2026-10-12 07:00:00"
+            "id": "AllianceQuestMusketeers_2026_10_6",
+            "targetEvent": "AllianceQuestMusketeers",
+            "rareMonsterStateConfigId": "alliance_quest2",
+            "startTime": "2026-10-06 07:00:00",
+            "endTime": "2026-10-11 07:00:00"
           },
           {
             "id": "lottery_season_season5_2026_10_12",
             "targetSeason": "Season5",
             "rareMonsterStateConfigId": "map_season5",
+            "startTime": "2026-10-08 07:00:00",
+            "endTime": "2026-10-12 07:00:00"
+          },
+          {
+            "id": "lottery_season_untold_tales1_2026_10_12",
+            "targetSeason": "UntoldTales1",
+            "rareMonsterStateConfigId": "map_untoldtales1",
             "startTime": "2026-10-12 07:00:00",
             "endTime": "2026-10-16 07:00:00"
           },
@@ -4302,6 +4310,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-10-13 07:00:00",
             "endTime": "2026-10-17 07:00:00"
+          },
+          {
+            "id": "lottery_season_untold_tales2_2026_10_16",
+            "targetSeason": "UntoldTales2",
+            "rareMonsterStateConfigId": "map_untoldtales2",
+            "startTime": "2026-10-16 07:00:00",
+            "endTime": "2026-10-20 07:00:00"
           },
           {
             "id": "lottery_season_atlantis_2026_10_19",
@@ -4346,13 +4361,6 @@
             "endTime": "2026-11-07 07:00:00"
           },
           {
-            "id": "lottery_season_underwild_2026_11_5",
-            "targetSeason": "Season4",
-            "rareMonsterStateConfigId": "map_season4",
-            "startTime": "2026-11-05 07:00:00",
-            "endTime": "2026-11-09 07:00:00"
-          },
-          {
             "id": "lottery_season_untold_tales1_2026_11_5",
             "targetSeason": "UntoldTales1",
             "rareMonsterStateConfigId": "map_untoldtales1",
@@ -4386,13 +4394,6 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-11-17 07:00:00",
             "endTime": "2026-11-21 07:00:00"
-          },
-          {
-            "id": "AllianceQuestMusketeers_2026_11_18",
-            "targetEvent": "AllianceQuestMusketeers",
-            "rareMonsterStateConfigId": "alliance_quest2",
-            "startTime": "2026-11-18 07:00:00",
-            "endTime": "2026-11-23 07:00:00"
           },
           {
             "id": "lottery_season_valhalla_2026_11_20",
@@ -5133,12 +5134,12 @@
               "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "ronin_tenzin_kiba",
-                "ronin_mizuno_seiko",
-                "ninja_zircon_costume_iron"
+                "ronin_tanaka_isako",
+                "ninja_topaz_costume_precise",
+                "ronin_kageyama_nagato"
               ],
-              "startTime": "2026-07-27 07:00:00",
-              "endTime": "2026-08-01 07:00:00"
+              "startTime": "2026-08-27 07:00:00",
+              "endTime": "2026-09-01 07:00:00"
             },
             {
               "id": "TowerNinja",
@@ -5148,12 +5149,12 @@
               "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "ronin_tanaka_isako",
-                "ninja_topaz_costume_precise",
+                "ninja_azurite",
+                "ninja_ekanite",
                 "ronin_kageyama_nagato"
               ],
-              "startTime": "2026-08-27 07:00:00",
-              "endTime": "2026-09-01 07:00:00"
+              "startTime": "2026-09-27 07:00:00",
+              "endTime": "2026-10-02 07:00:00"
             }
           ],
           "scheduleConfig": {
@@ -100174,6 +100175,17 @@
         "showInstantlyIfPossible": false,
         "waitForShopInitialization": true,
         "ignoreActivityTriggersPopupsRequirement": false
+      },
+      {
+        "type": "LeftTopOffer",
+        "group": "Essential",
+        "priority": 999,
+        "cooldownSeconds": 14400,
+        "cooldownXpLevels": 0,
+        "delayOnStartupSeconds": 0,
+        "showInstantlyIfPossible": false,
+        "waitForShopInitialization": true,
+        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -100203,7 +100215,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
     "maxVersionToShowUpdateOutReminderIos": "87.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "88.0.1",
-    "standaloneNewVersionRolloutPercentage": 50,
+    "standaloneNewVersionRolloutPercentage": 90,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -100308,5 +100320,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 640219828
+  "otherConfigId": 2756357156
 }

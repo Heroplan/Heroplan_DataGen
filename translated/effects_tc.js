@@ -2295,6 +2295,15 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "harpy_kyrathis",
+        "name": "Kyrathis",
+        "effects": [
+            "對目標和附近敵人造成 375% 利爪傷害。（對擁有 50% 以上法力的敵人造成 475% 傷害。該敵人還會獲得 -25% 法力產出，持續 3 個回合。）",
+            "目標與附近敵人在 3 個回合内受到 780 點疾風傷害。此傷害無視防禦增益、小兵和超级小兵。",
+            "目標和附近敵人受到狀態異常和負面疊加的 +50% 額外傷害，持續 3 回合。"
+        ]
+    },
+    {
         "heroId": "scoundrel_lane",
         "name": "Lane",
         "effects": [
@@ -13955,6 +13964,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "harpy_jarrik",
+        "name": "Jarrik",
+        "effects": [
+            "對目標造成 440% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "命中的所有敵人在 4 個回合内受到 1240 點疾風傷害。此傷害無視防禦增益、小兵和超級小兵。",
+            "所有命中目標在 4 回合內無法在敵人或盟友身上施放任何新的狀態效果。（包含叠加。包含以特殊技能施放的狀態效果。）"
+        ]
+    },
+    {
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "effects": [
@@ -18902,16 +18921,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +15% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "harpy_kyrathis",
-        "name": "Kyrathis",
-        "effects": []
-    },
-    {
-        "heroId": "harpy_jarrik",
-        "name": "Jarrik",
-        "effects": []
     },
     {
         "heroId": "elemental_desmond_costume_assassin",

@@ -14686,6 +14686,69 @@ window.allHeroes =
         ]
     },
     {
+        "name": "凱拉西斯 (Kyrathis)",
+        "fancy_name": "風暴呼喚者鳥妖",
+        "AetherPower": "特殊加成",
+        "color": "冰雪",
+        "class": "術士",
+        "speed": "快速",
+        "skill": "喚風之契",
+        "source": "豐收召喚",
+        "Release date": "2026-09-07",
+        "specialId": "stormcaller_pact",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "heroId": "harpy_kyrathis",
+        "star": 5,
+        "power": 1361,
+        "attack": 1454,
+        "defense": 1392,
+        "health": 2416,
+        "effects": [
+            "對目標和附近敵人造成 375% 利爪傷害。（對擁有 50% 以上法力的敵人造成 475% 傷害。該敵人還會獲得 -25% 法力產出，持續 3 個回合。）",
+            "目標與附近敵人在 3 個回合内受到 780 點疾風傷害。此傷害無視防禦增益、小兵和超级小兵。",
+            "目標和附近敵人受到狀態異常和負面疊加的 +50% 額外傷害，持續 3 回合。"
+        ],
+        "passives": [
+            "突襲竊取：每 3 回合，此角色會向擁有最快法力速度的敵人偷取 25% 法力。"
+        ],
+        "family": "harpy",
+        "costume_id": 0,
+        "originalIndex": "harpy_kyrathis",
+        "lb1": {
+            "attack": 1567,
+            "defense": 1500,
+            "health": 2604,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1793,
+            "defense": 1717,
+            "health": 2979,
+            "power": 1650
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-範圍",
+                    "傷害-持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-利爪"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：風",
+                    "防禦-受到傷害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "藍恩 (Lane)",
         "fancy_name": "公路盜賊",
         "AetherPower": "反擊",
@@ -45974,7 +46037,7 @@ window.allHeroes =
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
-            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 461 詛咒傷害，傷害從低開始並每回合增加。"
+            "特殊技能造成詛咒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 60 -185 詛咒傷害，傷害從低開始並每回合增加。"
         ],
         "family": "villains",
         "costume_id": 1,
@@ -87927,6 +87990,66 @@ window.allHeroes =
         ]
     },
     {
+        "name": "賈里克 (Jarrik)",
+        "fancy_name": "鮮紅鳥妖戰士",
+        "AetherPower": "攻擊提升",
+        "color": "烈火",
+        "class": "戰士",
+        "speed": "平均",
+        "skill": "呼嘯之鞭",
+        "source": "豐收召喚",
+        "Release date": "2026-09-07",
+        "specialId": "wuthering_whips",
+        "passiveSkills": [
+            "steal_mana_over_time_harpy"
+        ],
+        "heroId": "harpy_jarrik",
+        "star": 5,
+        "power": 1361,
+        "attack": 1446,
+        "defense": 1398,
+        "health": 2424,
+        "effects": [
+            "對目標造成 440% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "命中的所有敵人在 4 個回合内受到 1240 點疾風傷害。此傷害無視防禦增益、小兵和超級小兵。",
+            "所有命中目標在 4 回合內無法在敵人或盟友身上施放任何新的狀態效果。（包含叠加。包含以特殊技能施放的狀態效果。）"
+        ],
+        "passives": [
+            "突襲竊取：每 3 回合，此角色會向擁有最快法力速度的敵人偷取 25% 法力。"
+        ],
+        "family": "harpy",
+        "costume_id": 0,
+        "originalIndex": "harpy_jarrik",
+        "lb1": {
+            "attack": 1558,
+            "defense": 1507,
+            "health": 2612,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1783,
+            "defense": 1724,
+            "health": 2989,
+            "power": 1650
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標",
+                    "攻擊-連鎖",
+                    "傷害-持續傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：風",
+                    "狀態-增益無效化"
+                ]
+            }
+        ]
+    },
+    {
         "name": "尚-方思瓦 (Jean-Francois)",
         "fancy_name": "火槍手法師",
         "AetherPower": "反擊",
@@ -118995,54 +119118,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "凱拉西斯 (Kyrathis)",
-        "fancy_name": "風暴呼喚者鳥妖",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "harpy_kyrathis",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "harpy",
-        "costume_id": 0,
-        "originalIndex": "harpy_kyrathis",
-        "cn_skill_info": []
-    },
-    {
-        "name": "賈里克 (Jarrik)",
-        "fancy_name": "鮮紅鳥妖戰士",
-        "AetherPower": "",
-        "color": "烈火",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "harpy_jarrik",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "harpy",
-        "costume_id": 0,
-        "originalIndex": "harpy_jarrik",
-        "cn_skill_info": []
     },
     {
         "name": "戴斯蒙 (Desmond) C",
