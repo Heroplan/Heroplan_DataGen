@@ -1535,7 +1535,6 @@
         "id": "com.smallgiantgames.empires.kalevala_booster",
         "dollarValue": 12,
         "zyngaStoreDollarValueOverride": 11,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20700,7 +20699,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1a",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20745,7 +20743,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1b",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20790,7 +20787,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2a",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20810,7 +20806,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2b",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20830,7 +20825,6 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26852,24 +26846,24 @@
           {
             "type": "Item",
             "id": "refill_food_giant",
-            "amount": 10,
-            "zyngaStoreExtraAmount": 5
+            "amount": 30
           },
           {
             "type": "Item",
             "id": "lottery_mercenary_war_coin",
             "amount": 1000,
-            "zyngaStoreExtraAmount": 1000
+            "zyngaStoreExtraAmount": 500
           },
           {
             "type": "Hero",
             "id": "trainer_rainbow_epic",
-            "amount": 15
+            "amount": 30,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
             "id": "tome_levels_epic",
-            "amount": 5
+            "amount": 10
           },
           {
             "type": "Avatar",
@@ -28215,7 +28209,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price5",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -28223,7 +28216,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price10",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -28231,7 +28223,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price30",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -28239,7 +28230,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price100",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -36178,6 +36168,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic5_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58993,5 +58984,5 @@
       }
     ]
   },
-  "productsConfigId": 4076967373
+  "productsConfigId": 2515052073
 }

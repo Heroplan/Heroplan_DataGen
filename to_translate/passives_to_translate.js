@@ -4290,6 +4290,18 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C1",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
+            "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
+        ]
+    },
+    {
         "heroId": "valentines_matchmaker_dodgrom",
         "name": "Dodgrom",
         "passives": [
@@ -5005,7 +5017,7 @@ const allTranslations =
         "heroId": "pirate_lady_costume_queen",
         "name": "Lady Locke C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 572 Poison damage over 4 turns."
         ]
     },
     {
@@ -14923,11 +14935,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "elemental_desmond_costume_assassin",
-        "name": "Desmond C",
-        "passives": []
-    },
-    {
         "heroId": "astral_demon_ksorath",
         "name": "Ksorath",
         "passives": []
@@ -14940,6 +14947,36 @@ const allTranslations =
     {
         "heroId": "beauty_beast_mirielle",
         "name": "Mirielle",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_tyrix",
+        "name": "Tyrix",
+        "passives": []
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "passives": []
+    },
+    {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_pyaza",
+        "name": "Pyaza",
+        "passives": []
+    },
+    {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
         "passives": []
     }
 ];

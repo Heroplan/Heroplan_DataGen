@@ -1,17 +1,5 @@
 [
     {
-        "name": "Desmond C",
-        "fancy_name": "Blade Assassin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-10 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_desmond_costume_assassin",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Ksorath",
         "fancy_name": "Astral Demon Courier",
         "color": "Red",
@@ -45,6 +33,78 @@
         "family": "beauty_beast",
         "costume_id": 0,
         "heroId": "beauty_beast_mirielle",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Tyrix",
+        "fancy_name": "The Serval of the Zenith Shadow",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-16 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_tyrix",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Danzaburo Toon",
+        "fancy_name": "Dauntless Toon",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-17 07:00:00",
+        "star": 4,
+        "family": "japanese",
+        "costume_id": 2,
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Tethys Toon",
+        "fancy_name": "Toon Goddess of All Rivers",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-17 07:00:00",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 2,
+        "heroId": "s2_tethys_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Natalya Toon",
+        "fancy_name": "Fireborn Toon",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-17 07:00:00",
+        "star": 5,
+        "family": "hotm2018",
+        "costume_id": 2,
+        "heroId": "fire_god_natalya_costume_cute",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Pyaza",
+        "fancy_name": "Purple Onion Warlock",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-19 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_pyaza",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Nepant",
+        "fancy_name": "Junkyard Squire Construct",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-20 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_nepant",
         "Lottery_Only": 1
     }
 ]

@@ -4290,6 +4290,18 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C1",
+        "passives": [
+            "队伍大师：",
+            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
+            "* 造成的额外元素伤害： +150%",
+            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
+            "* 受到的伤害： -25%",
+            "抵抗冰雪异常状态：该角色免疫冰雪系角色所施放的状态异常状态和负面叠加。"
+        ]
+    },
+    {
         "heroId": "valentines_matchmaker_dodgrom",
         "name": "Dodgrom",
         "passives": [
@@ -5005,7 +5017,7 @@ const translatedPassivesCN =
         "heroId": "pirate_lady_costume_queen",
         "name": "Lady Locke C1",
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 540 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 572 点剧毒伤害。"
         ]
     },
     {
@@ -14923,11 +14935,6 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "elemental_desmond_costume_assassin",
-        "name": "Desmond C",
-        "passives": []
-    },
-    {
         "heroId": "astral_demon_ksorath",
         "name": "Ksorath",
         "passives": []
@@ -14940,6 +14947,36 @@ const translatedPassivesCN =
     {
         "heroId": "beauty_beast_mirielle",
         "name": "Mirielle",
+        "passives": []
+    },
+    {
+        "heroId": "wild_cat_tyrix",
+        "name": "Tyrix",
+        "passives": []
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "passives": []
+    },
+    {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_pyaza",
+        "name": "Pyaza",
+        "passives": []
+    },
+    {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
         "passives": []
     }
 ];

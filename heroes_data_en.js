@@ -14707,7 +14707,7 @@ window.allHeroes =
         "health": 2416,
         "effects": [
             "Deals 375% Talon damage to the target and nearby enemies. (Deals 475% damage to enemies with 50% mana or more. The enemies also get -25% mana generation for 3 turns.)",
-            "The target and nearby enemies receive 780 Wind damage over 3 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
+            "The target and nearby enemies receive 828 Wind damage over 3 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
             "The target and nearby enemies take +50% increased damage from status ailments and negative stacks for 3 turns."
         ],
         "passives": [
@@ -34548,7 +34548,82 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal - Boost Health",
+                    "Heal - Special",
                     "Atk - Edges"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Silence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Desmond C1",
+        "fancy_name": "Blade Assassin",
+        "AetherPower": "Counterattack",
+        "color": "Nature",
+        "class": "Druid",
+        "speed": "Average",
+        "skill": "Nephrite Blade",
+        "source": "Super Elementals",
+        "Release date": "2026-09-10",
+        "specialId": "nephrite_blade",
+        "parent_specialId": "jade_blades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "heroId": "elemental_desmond_costume_assassin",
+        "star": 5,
+        "power": 1361,
+        "attack": 1452,
+        "defense": 1390,
+        "health": 2419,
+        "effects": [
+            "Deals 530% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Boosts the caster's and nearby allies' health by 25% of damage dealt to each enemy.",
+            "For each hit Ice enemy, the boosted health is 45% of damage dealt to them.",
+            "The enemies on the edges of the enemy formation get silenced for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
+            "Deal extra damage against Ice."
+        ],
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
+            "Resist Ice Ailments: This character is immune to status ailments and negative stacks cast by Ice characters."
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_desmond_costume_assassin",
+        "lb1": {
+            "attack": 1565,
+            "defense": 1498,
+            "health": 2607,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1790,
+            "defense": 1714,
+            "health": 2982,
+            "power": 1648
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal - Boost Health",
+                    "Heal - Special",
+                    "Atk - Edges"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
@@ -40218,11 +40293,11 @@ window.allHeroes =
         "health": 1724,
         "effects": [
             "Deals 120% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 1118 damage over 4 turns, starting low and increasing with every turn.",
+            "The target and nearby enemies receive 166-457 increasing Curse damage each turn for 4 turns. (On the first turn, 166 damage is dealt. The damage increases by +40% each turn, up to 457 damage per turn.)",
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 572 Poison damage over 4 turns."
         ],
         "family": "pirate",
         "costume_id": 1,
@@ -119120,30 +119195,6 @@ window.allHeroes =
         ]
     },
     {
-        "name": "Desmond C",
-        "fancy_name": "Blade Assassin",
-        "AetherPower": "",
-        "color": "Nature",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_desmond_costume_assassin",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": "elemental_desmond_costume_assassin",
-        "cn_skill_info": []
-    },
-    {
         "name": "Ksorath",
         "fancy_name": "Astral Demon Courier",
         "AetherPower": "",
@@ -119213,6 +119264,150 @@ window.allHeroes =
         "family": "beauty_beast",
         "costume_id": 0,
         "originalIndex": "beauty_beast_mirielle",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Tyrix",
+        "fancy_name": "The Serval of the Zenith Shadow",
+        "AetherPower": "",
+        "color": "Holy",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "wild_cat_tyrix",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": "wild_cat_tyrix",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Danzaburo Toon",
+        "fancy_name": "Dauntless Toon",
+        "AetherPower": "",
+        "color": "Holy",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "star": 4,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": "s2_tanuki_raccoon_costume_cute",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Tethys Toon",
+        "fancy_name": "Toon Goddess of All Rivers",
+        "AetherPower": "",
+        "color": "Ice",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "s2_tethys_costume_cute",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": "s2_tethys_costume_cute",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Natalya Toon",
+        "fancy_name": "Fireborn Toon",
+        "AetherPower": "",
+        "color": "Fire",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fire_god_natalya_costume_cute",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2018",
+        "costume_id": 2,
+        "originalIndex": "fire_god_natalya_costume_cute",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Pyaza",
+        "fancy_name": "Purple Onion Warlock",
+        "AetherPower": "",
+        "color": "Dark",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "vegetable_pyaza",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": "vegetable_pyaza",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Nepant",
+        "fancy_name": "Junkyard Squire Construct",
+        "AetherPower": "",
+        "color": "Nature",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "construct_nepant",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": "construct_nepant",
         "cn_skill_info": []
     }
 ];

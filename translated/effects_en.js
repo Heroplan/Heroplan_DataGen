@@ -2299,7 +2299,7 @@ const allTranslations =
         "name": "Kyrathis",
         "effects": [
             "Deals 375% Talon damage to the target and nearby enemies. (Deals 475% damage to enemies with 50% mana or more. The enemies also get -25% mana generation for 3 turns.)",
-            "The target and nearby enemies receive 780 Wind damage over 3 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
+            "The target and nearby enemies receive 828 Wind damage over 3 turns. The damage bypasses defensive buffs, Minions and Mega Minions.",
             "The target and nearby enemies take +50% increased damage from status ailments and negative stacks for 3 turns."
         ]
     },
@@ -5454,6 +5454,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C1",
+        "effects": [
+            "Deals 530% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Boosts the caster's and nearby allies' health by 25% of damage dealt to each enemy.",
+            "For each hit Ice enemy, the boosted health is 45% of damage dealt to them.",
+            "The enemies on the edges of the enemy formation get silenced for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
+            "Deal extra damage against Ice."
+        ]
+    },
+    {
         "heroId": "valentines_matchmaker_dodgrom",
         "name": "Dodgrom",
         "effects": [
@@ -6377,7 +6388,7 @@ const allTranslations =
         "name": "Lady Locke C1",
         "effects": [
             "Deals 120% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 1118 damage over 4 turns, starting low and increasing with every turn.",
+            "The target and nearby enemies receive 166-457 increasing Curse damage each turn for 4 turns. (On the first turn, 166 damage is dealt. The damage increases by +40% each turn, up to 457 damage per turn.)",
             "Cleanses status ailments from all allies."
         ]
     },
@@ -18923,11 +18934,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "elemental_desmond_costume_assassin",
-        "name": "Desmond C",
-        "effects": []
-    },
-    {
         "heroId": "astral_demon_ksorath",
         "name": "Ksorath",
         "effects": []
@@ -18940,6 +18946,36 @@ const allTranslations =
     {
         "heroId": "beauty_beast_mirielle",
         "name": "Mirielle",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_tyrix",
+        "name": "Tyrix",
+        "effects": []
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "effects": []
+    },
+    {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_pyaza",
+        "name": "Pyaza",
+        "effects": []
+    },
+    {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
         "effects": []
     }
 ];

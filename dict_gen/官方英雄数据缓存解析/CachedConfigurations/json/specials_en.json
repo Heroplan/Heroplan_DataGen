@@ -60676,7 +60676,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2000,
+          "powerMultiplierPerMil": 1100,
           "powerMultiplierIncrementPerLevelPerMil": 200
         },
         "maxLevel": 8,
@@ -66396,7 +66396,7 @@
         "sideAffected": "Enemies",
         "extraEffectSideAffected": "Enemies",
         "extraEffectTargetType": "Single",
-        "basePowerPerMil": 4500,
+        "basePowerPerMil": 4000,
         "powerPerAllocationPerMil": 150,
         "powerPerAllocationIncrementPerLevelPerMil": 50,
         "maxAmountOfAllocations": 5,
@@ -66703,7 +66703,7 @@
         "propertyType": "Wither",
         "id": "wither_deadboot_jester",
         "baseAttackIncrease": 0,
-        "baseDefenseIncrease": 65256,
+        "baseDefenseIncrease": 65286,
         "baseDefenseIncreasePerLevel": 246,
         "targetType": "Single",
         "sideAffected": "Enemies"
@@ -77172,7 +77172,7 @@
         "propertyType": "TargetFamiliarBasedChainStrikeWithFamiliarSummon",
         "id": "add_seedling_fiend_chain_strike_yusopea",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3650,
+        "powerMultiplierPerMil": 4450,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -77182,7 +77182,7 @@
             "turns": 3
           }
         ],
-        "additionalHitDamagePerMil": 2800,
+        "additionalHitDamagePerMil": 2850,
         "additionalHitDamageIncrementPerLevelPerMil": 50,
         "requiredFamiliarTypes": [
           "Parasite",
@@ -77311,5 +77311,5 @@
       }
     ]
   },
-  "specialsConfigId": 452219644
+  "specialsConfigId": 2089864168
 }

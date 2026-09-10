@@ -172,6 +172,16 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
             "costume_id": 2,
             "name_suffix": " Toon"
         },
+        {
+            "condition": lambda family, heroId: family == "hotm2018" and "costume_cute" in heroId,
+            "costume_id": 2,
+            "name_suffix": " Toon"
+        },
+        {
+            "condition": lambda family, heroId: family == "hotm2019" and "costume_cute" in heroId,
+            "costume_id": 2,
+            "name_suffix": " Toon"
+        },
         # 后续可继续添加其他规则...
     ]
     

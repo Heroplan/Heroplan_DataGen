@@ -50298,5 +50298,32 @@ window.allHeroesExtra = [
             "steal_mana_over_time_harpy"
         ],
         "family": "harpy"
+    },
+    {
+        "name": "Desmond costume1",
+        "fancy name": "Blade Assassin",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-09-10",
+        "AetherPower": "Counterattack",
+        "heroId": "elemental_desmond_costume_assassin",
+        "baseAttack": 493,
+        "baseDefense": 472,
+        "baseHealth": 827,
+        "specialId": "jade_blades",
+        "specialId_costume": "nephrite_blade",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "attackBonus": "43%",
+        "defenseBonus": "43%",
+        "healthBonus": "42%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

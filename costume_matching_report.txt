@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (632 / 0)
+✅ 成功匹配的服装 (633 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -32,6 +32,7 @@ Name: Karnov Costume1, Fancy Name: Bedtime Bruiser
 Name: Kvasir Costume1, Fancy Name: Bee Captain of Alfheim
 Name: Kageburado Costume1, Fancy Name: Beetle Samurai
 Name: Queen of Hearts Costume1, Fancy Name: Benefactor of Wonderland
+Name: Desmond costume1, Fancy Name: Blade Assassin
 Name: Hu Tao Glass, Fancy Name: Blade of Glass
 Name: Mitsuko Costume1, Fancy Name: Blazing Beauty
 Name: Finley Costume1, Fancy Name: Bleak Commodore

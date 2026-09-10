@@ -61362,7 +61362,7 @@
         "statusEffect": "CounterAttack",
         "id": "counterattack_random_enemy_theron",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 860,
+        "damageDeflectionPerMil": 610,
         "damageDeflectionPerLevelPerMil": 20,
         "counterAttackTarget": "RandomEnemy"
       },
@@ -101671,5 +101671,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 398796439
+  "battleConfigId": 2103304536
 }

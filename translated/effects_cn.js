@@ -2299,7 +2299,7 @@ const translatedEffectsCN =
         "name": "Kyrathis",
         "effects": [
             "对目标和附近敌人造成 375% 利爪伤害。（对法力值达到或超过 50% 的敌人造成 475% 伤害。目标还会获得 -25% 法力生成，持续 3 回合。）",
-            "目标和附近敌人在 3 回合内受到共计 780 点风系伤害。该伤害无视防御增益、小兵和超级小兵。",
+            "目标和附近敌人在 3 回合内受到共计 828 点风系伤害。该伤害无视防御增益、小兵和超级小兵。",
             "目标和附近敌人从状态异常和负面效果叠加受到的伤害增加 +50%，持续 3 回合。"
         ]
     },
@@ -5454,6 +5454,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "elemental_desmond_costume_assassin",
+        "name": "Desmond C1",
+        "effects": [
+            "对位于敌军阵型边缘的敌人造成 530% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "提升施法者和附近盟友的生命值，提升幅度为每名敌人所受伤害的 25%。",
+            "每击中一名冰雪系敌人，提升的生命值为其所受伤害的 45%。",
+            "处于敌人阵型边缘的敌人会被沉默，持续 3 回合。此状态效果施加于冰雪系角色身上时，将变得不可净化，并会额外持续 2 回合。",
+            "对冰雪系造成额外伤害。"
+        ]
+    },
+    {
         "heroId": "valentines_matchmaker_dodgrom",
         "name": "Dodgrom",
         "effects": [
@@ -6377,7 +6388,7 @@ const translatedEffectsCN =
         "name": "Lady Locke C1",
         "effects": [
             "对目标造成 120% 伤害，并对附近敌人造成轻微伤害。",
-            "目标与附近敌人在 4 回合内受到共计 1118 点伤害，一开始伤害较低，之后每个回合会逐渐增加。",
+            "目标和附近敌人每回合获得 166 - 457 的诅咒伤害，持续 4 回合。（第一回合造成 166 点伤害，每回合伤害 +40%，每回合最多造成 457 点伤害。）",
             "净化所有盟友的状态异常。"
         ]
     },
@@ -18923,11 +18934,6 @@ const translatedEffectsCN =
         ]
     },
     {
-        "heroId": "elemental_desmond_costume_assassin",
-        "name": "Desmond C",
-        "effects": []
-    },
-    {
         "heroId": "astral_demon_ksorath",
         "name": "Ksorath",
         "effects": []
@@ -18940,6 +18946,36 @@ const translatedEffectsCN =
     {
         "heroId": "beauty_beast_mirielle",
         "name": "Mirielle",
+        "effects": []
+    },
+    {
+        "heroId": "wild_cat_tyrix",
+        "name": "Tyrix",
+        "effects": []
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "effects": []
+    },
+    {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_pyaza",
+        "name": "Pyaza",
+        "effects": []
+    },
+    {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
         "effects": []
     }
 ];

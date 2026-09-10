@@ -14707,7 +14707,7 @@ window.allHeroes =
         "health": 2416,
         "effects": [
             "對目標和附近敵人造成 375% 利爪傷害。（對擁有 50% 以上法力的敵人造成 475% 傷害。該敵人還會獲得 -25% 法力產出，持續 3 個回合。）",
-            "目標與附近敵人在 3 個回合内受到 780 點疾風傷害。此傷害無視防禦增益、小兵和超级小兵。",
+            "目標與附近敵人在 3 個回合内受到 828 點疾風傷害。此傷害無視防禦增益、小兵和超级小兵。",
             "目標和附近敵人受到狀態異常和負面疊加的 +50% 額外傷害，持續 3 回合。"
         ],
         "passives": [
@@ -34548,7 +34548,82 @@ window.allHeroes =
             {
                 "基础技能": [
                     "治療-提高生命",
+                    "治療-特殊",
                     "攻擊-兩側"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-沉默"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "戴斯蒙 (Desmond) C1",
+        "fancy_name": "刀鋒刺客",
+        "AetherPower": "反擊",
+        "color": "自然",
+        "class": "德魯伊",
+        "speed": "平均",
+        "skill": "軟玉刀鋒",
+        "source": "超級元素",
+        "Release date": "2026-09-10",
+        "specialId": "nephrite_blade",
+        "parent_specialId": "jade_blades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_blue"
+        ],
+        "heroId": "elemental_desmond_costume_assassin",
+        "star": 5,
+        "power": 1361,
+        "attack": 1452,
+        "defense": 1390,
+        "health": 2419,
+        "effects": [
+            "對位於敵方陣型邊緣的敵人造成 530% 傷害。如果只有一個敵人，傷害加倍。",
+            "為施法者和附近盟友提供對每名敵人造成傷害的 25% 生命值。",
+            "每名命中的冰雪敵人，加成生命值為對他們造成傷害的 45%。",
+            "位於敵方陣型邊緣的敵人陷入沉默，持續 3 個回合。對上冰雪系角色時，此狀態效果不可淨化，且會持續額外 2 個回合。",
+            "對冰雪系造成額外傷害。"
+        ],
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
+            "* 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
+            "* 受到元素傷害： -25%",
+            "抵禦冰雪異常：此角色免疫冰雪系角色施放的異常狀態及負面效果疊加。"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_desmond_costume_assassin",
+        "lb1": {
+            "attack": 1565,
+            "defense": 1498,
+            "health": 2607,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1790,
+            "defense": 1714,
+            "health": 2982,
+            "power": 1648
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療-提高生命",
+                    "治療-特殊",
+                    "攻擊-兩側"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-傷害↑：冰雪"
                 ]
             },
             {
@@ -40218,11 +40293,11 @@ window.allHeroes =
         "health": 1724,
         "effects": [
             "對目標造成 120% 傷害，並對附近敵人造成輕微傷害。",
-            "目標與附近敵人在 4 回合內受到共計 1118 點傷害，起始傷害較低，每個回合逐漸增加。",
+            "目標與附近敵人每回合受到 166 - 457 點詛咒傷害，持續 4 回合。（第一回合造成 166 點傷害。傷害每回合增加 +40%，最高可達每回合 457 點傷害。）",
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [
-            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 540 劇毒傷害。"
+            "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 572 劇毒傷害。"
         ],
         "family": "pirate",
         "costume_id": 1,
@@ -119120,30 +119195,6 @@ window.allHeroes =
         ]
     },
     {
-        "name": "戴斯蒙 (Desmond) C",
-        "fancy_name": "刀鋒刺客",
-        "AetherPower": "",
-        "color": "自然",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_desmond_costume_assassin",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": "elemental_desmond_costume_assassin",
-        "cn_skill_info": []
-    },
-    {
         "name": "克索拉斯 (Ksorath)",
         "fancy_name": "星界惡魔信使",
         "AetherPower": "",
@@ -119213,6 +119264,150 @@ window.allHeroes =
         "family": "beauty_beast",
         "costume_id": 0,
         "originalIndex": "beauty_beast_mirielle",
+        "cn_skill_info": []
+    },
+    {
+        "name": "泰瑞斯 (Tyrix)",
+        "fancy_name": "天影藪貓",
+        "AetherPower": "",
+        "color": "神聖",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "wild_cat_tyrix",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": "wild_cat_tyrix",
+        "cn_skill_info": []
+    },
+    {
+        "name": "團三郎狸 (Danzaburo) 公仔",
+        "fancy_name": "無畏公仔",
+        "AetherPower": "",
+        "color": "神聖",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "star": 4,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": "s2_tanuki_raccoon_costume_cute",
+        "cn_skill_info": []
+    },
+    {
+        "name": "泰西絲 (Tethys) 公仔",
+        "fancy_name": "眾河女神公仔",
+        "AetherPower": "",
+        "color": "冰雪",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "s2_tethys_costume_cute",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": "s2_tethys_costume_cute",
+        "cn_skill_info": []
+    },
+    {
+        "name": "娜塔莉亞 (Natalya) 公仔",
+        "fancy_name": "火裔公仔",
+        "AetherPower": "",
+        "color": "烈火",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fire_god_natalya_costume_cute",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2018",
+        "costume_id": 2,
+        "originalIndex": "fire_god_natalya_costume_cute",
+        "cn_skill_info": []
+    },
+    {
+        "name": "琵雅札 (Pyaza)",
+        "fancy_name": "紫色洋蔥術士",
+        "AetherPower": "",
+        "color": "暗黑",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "vegetable_pyaza",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": "vegetable_pyaza",
+        "cn_skill_info": []
+    },
+    {
+        "name": "尼潘特 (Nepant)",
+        "fancy_name": "垃圾場侍從構造體",
+        "AetherPower": "",
+        "color": "自然",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "construct_nepant",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": "construct_nepant",
         "cn_skill_info": []
     }
 ];
