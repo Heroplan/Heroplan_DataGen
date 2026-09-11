@@ -34548,6 +34548,7 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal - Boost Health",
+                    "Heal - From Dmg",
                     "Heal - Special",
                     "Atk - Edges"
                 ]
@@ -34617,6 +34618,7 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal - Boost Health",
+                    "Heal - From Dmg",
                     "Heal - Special",
                     "Atk - Edges"
                 ]

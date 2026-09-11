@@ -258,7 +258,7 @@ def setup_logging():
     if not os.path.exists(log_dir): os.makedirs(log_dir)
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s',
+        format='%(levelname)s - %(message)s',
         filename=os.path.join(log_dir, "generation.log"),
         encoding='utf-8',
         filemode='w'
@@ -270,7 +270,7 @@ def setup_logging():
     failure_logger = logging.getLogger('failures')
     failure_logger.setLevel(logging.WARNING)
     failure_handler = logging.FileHandler(os.path.join(log_dir, "translation_failures.log"), mode='w', encoding='utf-8')
-    failure_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
+    failure_handler.setFormatter(logging.Formatter('%(message)s'))
     failure_logger.addHandler(failure_handler)
 
 def clean_string_for_output(text):
