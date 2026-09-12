@@ -11143,6 +11143,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ]
+    },
+    {
         "heroId": "s3_loki_female",
         "name": "Lady Loki",
         "passives": []
@@ -14933,11 +14942,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "astral_demon_ksorath",
-        "name": "Ksorath",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_vendela",

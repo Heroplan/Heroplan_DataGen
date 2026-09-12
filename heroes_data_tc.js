@@ -88995,6 +88995,71 @@ window.allHeroes =
         ]
     },
     {
+        "name": "克索拉斯 (Ksorath)",
+        "fancy_name": "星界惡魔信使",
+        "AetherPower": "特殊加成",
+        "color": "烈火",
+        "class": "遊俠",
+        "speed": "快速",
+        "skill": "日晷灼燒",
+        "source": "星界召喚",
+        "Release date": "2026-09-12",
+        "specialId": "coronal_burn",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_ksorath",
+        "star": 5,
+        "power": 1360,
+        "attack": 1433,
+        "defense": 1419,
+        "health": 2408,
+        "effects": [
+            "對所有敵人造成 275% 傷害。",
+            "使所有敵人的最大生命值降低 900 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成额外降低 900 點。）",
+            "所有敵人受到法力腐朽，持續 3 個回合。每當受影響的目標從其他來源獲得法力時，都會受到 550 點傷害。（只有當目標具有法力產生增益或正的法力產生疊加時，於回合結束或從配對護盾中為防禦隊伍附加法力才會使法力腐朽生效。從其他來源附加法力一律會使法力腐朽生效。）"
+        ],
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": "astral_demon_ksorath",
+        "lb1": {
+            "attack": 1545,
+            "defense": 1529,
+            "health": 2595,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1767,
+            "defense": 1750,
+            "health": 2969,
+            "power": 1649
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-全體"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-條件觸發"
+                ]
+            },
+            {
+                "负面效果": [
+                    "治療-最大生命值↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "洛基夫人 (Lady Loki)",
         "fancy_name": "戲法師女神",
         "AetherPower": "防禦提升",
@@ -119195,30 +119260,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "克索拉斯 (Ksorath)",
-        "fancy_name": "星界惡魔信使",
-        "AetherPower": "",
-        "color": "烈火",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "astral_demon_ksorath",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "astral_demons",
-        "costume_id": 0,
-        "originalIndex": "astral_demon_ksorath",
-        "cn_skill_info": []
     },
     {
         "name": "費德拉 (Vendela)",

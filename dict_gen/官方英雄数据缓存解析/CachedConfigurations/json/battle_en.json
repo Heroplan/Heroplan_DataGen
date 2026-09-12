@@ -68841,9 +68841,7 @@
       },
       {
         "typeOfStatusEffect": "PungentBomb",
-        "tags": [
-          "DefenseModifier"
-        ]
+        "tags": []
       },
       {
         "typeOfStatusEffect": "Wind",
@@ -101671,5 +101669,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2103304536
+  "battleConfigId": 3888187037
 }

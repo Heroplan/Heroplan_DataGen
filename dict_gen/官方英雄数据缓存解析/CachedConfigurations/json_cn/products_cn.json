@@ -232,7 +232,7 @@
         "id": "lottery_featured_event_farmland",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 209,
+        "uiPriority": 213,
         "associatedEvent": "RecurringFarmland",
         "bonusChest": "beowulf_chest",
         "bonusChestRequirement": 5,
@@ -2111,7 +2111,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 204,
+        "uiPriority": 214,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2123,7 +2123,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 204,
+        "uiPriority": 212,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -18885,7 +18885,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple11_arctic_1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -18909,7 +18908,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple11_arctic_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -18968,7 +18966,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple11_arctic_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -56291,7 +56288,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 203,
+        "uiPriority": 211,
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
         "bonusChestRequirement": 5,
@@ -58984,5 +58981,5 @@
       }
     ]
   },
-  "productsConfigId": 2515052073
+  "productsConfigId": 2601417505
 }

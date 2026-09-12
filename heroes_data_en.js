@@ -88995,6 +88995,71 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Ksorath",
+        "fancy_name": "Astral Demon Courier",
+        "AetherPower": "Special Boost",
+        "color": "Fire",
+        "class": "Ranger",
+        "speed": "Fast",
+        "skill": "Coronal Burn",
+        "source": "Astral Summon",
+        "Release date": "2026-09-12",
+        "specialId": "coronal_burn",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "heroId": "astral_demon_ksorath",
+        "star": 5,
+        "power": 1360,
+        "attack": 1433,
+        "defense": 1419,
+        "health": 2408,
+        "effects": [
+            "Deals 275% damage to all enemies.",
+            "Reduces the max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of original health. Any boosted health is reduced by an additional 900.)",
+            "All enemies receive Mana Corruption for 3 turns. Each time an afflicted enemy receives mana from additional source, they receive 550 damage. (Mana added for defense team at the end of their turn from matching shields activates Mana Corruption only if the target has a mana generation buff or a positive mana generation stack. Mana additions from other sources always activate Mana Corruption.)"
+        ],
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ],
+        "family": "astral_demons",
+        "costume_id": 0,
+        "originalIndex": "astral_demon_ksorath",
+        "lb1": {
+            "attack": 1545,
+            "defense": 1529,
+            "health": 2595,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1767,
+            "defense": 1750,
+            "health": 2969,
+            "power": 1649
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Conditional Trigger"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Lady Loki",
         "fancy_name": "Trickster Goddess",
         "AetherPower": "Defense Up",
@@ -119195,30 +119260,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Ksorath",
-        "fancy_name": "Astral Demon Courier",
-        "AetherPower": "",
-        "color": "Fire",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "astral_demon_ksorath",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "astral_demons",
-        "costume_id": 0,
-        "originalIndex": "astral_demon_ksorath",
-        "cn_skill_info": []
     },
     {
         "name": "Vendela",

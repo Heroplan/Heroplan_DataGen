@@ -50325,5 +50325,26 @@ window.allHeroesExtra = [
         "healthBonus": "42%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Ksorath",
+        "fancy name": "Astral Demon Courier",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-09-12",
+        "AetherPower": "Special Boost",
+        "heroId": "astral_demon_ksorath",
+        "baseAttack": 696,
+        "baseDefense": 689,
+        "baseHealth": 1169,
+        "specialId": "coronal_burn",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];

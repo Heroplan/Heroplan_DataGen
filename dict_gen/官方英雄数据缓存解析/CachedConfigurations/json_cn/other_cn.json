@@ -63234,20 +63234,20 @@
               "endTime": "2026-09-05 07:00:00"
             },
             {
-              "id": "quick_brawl2",
-              "battleSpecificHeroEffectId": "quick_brawl2",
-              "levelPropertyId": "quick_brawl2",
-              "typeOfBrawl": "Quick",
-              "startTime": "2026-09-14 07:00:00",
-              "endTime": "2026-09-19 07:00:00"
-            },
-            {
               "id": "quick_brawl3",
               "battleSpecificHeroEffectId": "quick_brawl3",
               "levelPropertyId": "quick_brawl3",
               "typeOfBrawl": "Quick",
               "startTime": "2200-08-15 07:00:00",
               "endTime": "2200-08-16 07:00:00"
+            },
+            {
+              "id": "quick_brawl2",
+              "battleSpecificHeroEffectId": "quick_brawl2",
+              "levelPropertyId": "quick_brawl2",
+              "typeOfBrawl": "Quick",
+              "startTime": "2200-09-14 07:00:00",
+              "endTime": "2200-09-19 07:00:00"
             }
           ]
         },
@@ -97969,6 +97969,75 @@
             ]
           },
           {
+            "id": "atlantis_sep2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 190,
+                    "defenseBonusPerMil": 190,
+                    "healthBonusPerMil": 210,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 210,
+                    "defenseBonusPerMil": 210,
+                    "healthBonusPerMil": 240,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 230,
+                    "defenseBonusPerMil": 230,
+                    "healthBonusPerMil": 270,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 250,
+                    "defenseBonusPerMil": 250,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 450,
+                    "defenseBonusPerMil": 450,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 570,
+                    "defenseBonusPerMil": 570,
+                    "healthBonusPerMil": 570,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 600,
+                    "defenseBonusPerMil": 600,
+                    "healthBonusPerMil": 600,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 710,
+                    "defenseBonusPerMil": 710,
+                    "healthBonusPerMil": 710,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "legends_aug2026",
             "statBonuses": [
               {
@@ -100335,5 +100404,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1343581383
+  "otherConfigId": 2617372790
 }

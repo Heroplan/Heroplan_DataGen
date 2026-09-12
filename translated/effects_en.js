@@ -14116,6 +14116,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_ksorath",
+        "name": "Ksorath",
+        "effects": [
+            "Deals 275% damage to all enemies.",
+            "Reduces the max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of original health. Any boosted health is reduced by an additional 900.)",
+            "All enemies receive Mana Corruption for 3 turns. Each time an afflicted enemy receives mana from additional source, they receive 550 damage. (Mana added for defense team at the end of their turn from matching shields activates Mana Corruption only if the target has a mana generation buff or a positive mana generation stack. Mana additions from other sources always activate Mana Corruption.)"
+        ]
+    },
+    {
         "heroId": "s3_loki_female",
         "name": "Lady Loki",
         "effects": [
@@ -18932,11 +18941,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "astral_demon_ksorath",
-        "name": "Ksorath",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_vendela",
