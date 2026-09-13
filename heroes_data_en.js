@@ -70699,6 +70699,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Vendela",
+        "fancy_name": "Vanguard of the Cove",
+        "AetherPower": "Attack Up",
+        "color": "Dark",
+        "class": "Monk",
+        "speed": "Fast",
+        "skill": "Venom Hunt",
+        "source": "Titan Hunter Summon",
+        "Release date": "2026-09-13",
+        "specialId": "venom_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_purple_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_vendela",
+        "star": 5,
+        "power": 1360,
+        "attack": 1435,
+        "defense": 1396,
+        "health": 2449,
+        "effects": [
+            "Deals 600% damage to the target.",
+            "Against Titans, deals 700% damage.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "The target gets -40% defense for 3 turns. Against Holy Titans, the target gets -60% defense and the status effect lasts 2 turns longer."
+        ],
+        "passives": [
+            "Enhanced Shields on Special: Passive Skill as attacking character:",
+            "* Dark shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "Passive Skill as defending character:",
+            "* Dark shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": "titan_hunter_vendela",
+        "lb1": {
+            "attack": 1547,
+            "defense": 1505,
+            "health": 2639,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1770,
+            "defense": 1722,
+            "health": 3020,
+            "power": 1649
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Victor",
         "fancy_name": "Vampire King",
         "AetherPower": "Vampire",
@@ -119260,30 +119327,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Vendela",
-        "fancy_name": "Vanguard of the Cove",
-        "AetherPower": "",
-        "color": "Dark",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "titan_hunter_vendela",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "originalIndex": "titan_hunter_vendela",
-        "cn_skill_info": []
     },
     {
         "name": "Mirielle",

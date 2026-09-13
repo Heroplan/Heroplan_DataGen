@@ -11251,6 +11251,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "effects": [
+            "對目標造成 600% 傷害。",
+            "對上泰坦造成 700% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊。）",
+            "目標獲得 -40% 防禦，持續 3 個回合。對上神聖泰坦時，目標獲得 -60% 防禦，且狀態效果會持續額外 2 回合。"
+        ]
+    },
+    {
         "heroId": "vampire_king",
         "name": "Victor",
         "effects": [
@@ -18941,11 +18951,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +15% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_vendela",
-        "name": "Vendela",
-        "effects": []
     },
     {
         "heroId": "beauty_beast_mirielle",

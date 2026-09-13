@@ -8868,6 +8868,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "passives": [
+            "特殊技能强化护盾：作为进攻方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上暗黑系护盾的暴击几率将提升 +54%。",
+            "作为防守方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上暗黑系护盾的精准度被削弱 -47%。",
+            "泰坦猎手标记：当此角色施放特殊技能时，会随机标记一名敌人，使其携带狩猎火焰效果，持续 4 回合。被狩猎火焰标记的目标在受到暴击时，将额外承受 150 点伤害。"
+        ]
+    },
+    {
         "heroId": "vampire_king",
         "name": "Victor",
         "passives": [
@@ -14942,11 +14953,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_vendela",
-        "name": "Vendela",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_mirielle",

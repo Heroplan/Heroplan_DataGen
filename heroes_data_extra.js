@@ -50346,5 +50346,25 @@ window.allHeroesExtra = [
             "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Vendela",
+        "fancy name": "Vanguard of the Cove",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-09-13",
+        "AetherPower": "Attack Up",
+        "heroId": "titan_hunter_vendela",
+        "baseAttack": 697,
+        "baseDefense": 678,
+        "baseHealth": 1189,
+        "specialId": "venom_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_purple_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];

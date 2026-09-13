@@ -11251,6 +11251,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "Against Titans, deals 700% damage.",
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "The target gets -40% defense for 3 turns. Against Holy Titans, the target gets -60% defense and the status effect lasts 2 turns longer."
+        ]
+    },
+    {
         "heroId": "vampire_king",
         "name": "Victor",
         "effects": [
@@ -18941,11 +18951,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "titan_hunter_vendela",
-        "name": "Vendela",
-        "effects": []
     },
     {
         "heroId": "beauty_beast_mirielle",

@@ -70699,6 +70699,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "費德拉 (Vendela)",
+        "fancy_name": "峽谷先鋒",
+        "AetherPower": "攻擊提升",
+        "color": "暗黑",
+        "class": "僧侶",
+        "speed": "快速",
+        "skill": "毒液獵殺",
+        "source": "泰坦獵人召喚",
+        "Release date": "2026-09-13",
+        "specialId": "venom_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_purple_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_vendela",
+        "star": 5,
+        "power": 1360,
+        "attack": 1435,
+        "defense": 1396,
+        "health": 2449,
+        "effects": [
+            "對目標造成 600% 傷害。",
+            "對上泰坦造成 700% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊。）",
+            "目標獲得 -40% 防禦，持續 3 個回合。對上神聖泰坦時，目標獲得 -60% 防禦，且狀態效果會持續額外 2 回合。"
+        ],
+        "passives": [
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的暗黑護盾會強化 +54% 暴擊率。",
+            "防禦角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的暗黑護盾會降低 -47% 精準度。",
+            "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": "titan_hunter_vendela",
+        "lb1": {
+            "attack": 1547,
+            "defense": 1505,
+            "health": 2639,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1770,
+            "defense": 1722,
+            "health": 3020,
+            "power": 1649
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-穿透/繞過"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-防禦力↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "維克托 (Victor)",
         "fancy_name": "吸血鬼之王",
         "AetherPower": "吸血鬼",
@@ -119260,30 +119327,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "費德拉 (Vendela)",
-        "fancy_name": "峽谷先鋒",
-        "AetherPower": "",
-        "color": "暗黑",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "titan_hunter_vendela",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "originalIndex": "titan_hunter_vendela",
-        "cn_skill_info": []
     },
     {
         "name": "米麗爾 (Mirielle)",

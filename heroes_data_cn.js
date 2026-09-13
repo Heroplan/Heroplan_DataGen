@@ -70699,6 +70699,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "文德拉 (Vendela)",
+        "fancy_name": "海湾先锋",
+        "AetherPower": "攻击提升",
+        "color": "暗黑",
+        "class": "僧侣",
+        "speed": "快速",
+        "skill": "毒液狩猎",
+        "source": "泰坦猎手召唤",
+        "Release date": "2026-09-13",
+        "specialId": "venom_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_purple_on_special_titan_hunter_parent"
+        ],
+        "heroId": "titan_hunter_vendela",
+        "star": 5,
+        "power": 1360,
+        "attack": 1435,
+        "defense": 1396,
+        "health": 2449,
+        "effects": [
+            "对目标造成 600% 伤害。",
+            "对抗泰坦时，造成 700% 伤害。",
+            "攻击会无视防御增益。（包括反击。）",
+            "目标获得 -40% 防御，持续 3 回合。对抗神圣系泰坦时，目标获得 -60% 防御力，且状态效果持续时间延长 2 回合。"
+        ],
+        "passives": [
+            "特殊技能强化护盾：作为进攻方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上暗黑系护盾的暴击几率将提升 +54%。",
+            "作为防守方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上暗黑系护盾的精准度被削弱 -47%。",
+            "泰坦猎手标记：当此角色施放特殊技能时，会随机标记一名敌人，使其携带狩猎火焰效果，持续 4 回合。被狩猎火焰标记的目标在受到暴击时，将额外承受 150 点伤害。"
+        ],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": "titan_hunter_vendela",
+        "lb1": {
+            "attack": 1547,
+            "defense": 1505,
+            "health": 2639,
+            "power": 1457
+        },
+        "lb2": {
+            "attack": 1770,
+            "defense": 1722,
+            "health": 3020,
+            "power": 1649
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-穿透/绕过"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防御-防御力↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "维克托 (Victor)",
         "fancy_name": "吸血鬼之王",
         "AetherPower": "吸血",
@@ -119260,30 +119327,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "文德拉 (Vendela)",
-        "fancy_name": "海湾先锋",
-        "AetherPower": "",
-        "color": "暗黑",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "titan_hunter_vendela",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "originalIndex": "titan_hunter_vendela",
-        "cn_skill_info": []
     },
     {
         "name": "米瑞尔 (Mirielle)",

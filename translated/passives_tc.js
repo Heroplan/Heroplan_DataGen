@@ -8868,6 +8868,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "passives": [
+            "增強特殊技能護盾：攻擊角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的暗黑護盾會強化 +54% 暴擊率。",
+            "防禦角色時的被動技能：",
+            "* 此角色施放其特殊技能時，在面板上的暗黑護盾會降低 -47% 精準度。",
+            "泰坦獵人標記：當此角色施放其特殊技能時，會對一名隨機敵人標記狩獵耀斑，持續 4 回合。被標記狩獵耀斑的敵人受到暴擊時，會受到额外 150 點傷害。"
+        ]
+    },
+    {
         "heroId": "vampire_king",
         "name": "Victor",
         "passives": [
@@ -14942,11 +14953,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "titan_hunter_vendela",
-        "name": "Vendela",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_mirielle",

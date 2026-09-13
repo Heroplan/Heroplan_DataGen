@@ -8868,6 +8868,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_vendela",
+        "name": "Vendela",
+        "passives": [
+            "Enhanced Shields on Special: Passive Skill as attacking character:",
+            "* Dark shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "Passive Skill as defending character:",
+            "* Dark shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
+        ]
+    },
+    {
         "heroId": "vampire_king",
         "name": "Victor",
         "passives": [
@@ -14942,11 +14953,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "titan_hunter_vendela",
-        "name": "Vendela",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_mirielle",
