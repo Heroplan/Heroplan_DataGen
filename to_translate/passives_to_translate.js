@@ -11288,6 +11288,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
+        ]
+    },
+    {
         "heroId": "s2_noble_lady",
         "name": "Mitsuko",
         "passives": []
@@ -14953,11 +14962,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "beauty_beast_mirielle",
-        "name": "Mirielle",
-        "passives": []
     },
     {
         "heroId": "wild_cat_tyrix",

@@ -11288,6 +11288,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ]
+    },
+    {
         "heroId": "s2_noble_lady",
         "name": "Mitsuko",
         "passives": []
@@ -14953,11 +14962,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "beauty_beast_mirielle",
-        "name": "Mirielle",
-        "passives": []
     },
     {
         "heroId": "wild_cat_tyrix",

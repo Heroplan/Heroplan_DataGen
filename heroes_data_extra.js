@@ -50366,5 +50366,26 @@ window.allHeroesExtra = [
             "tile_enhancement_purple_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Mirielle",
+        "fancy name": "Petrified Maid of the Bewitched Castle",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-09-14",
+        "AetherPower": "Defense Up",
+        "heroId": "beauty_beast_mirielle",
+        "baseAttack": 702,
+        "baseDefense": 678,
+        "baseHealth": 1182,
+        "specialId": "unyielding_duty",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];

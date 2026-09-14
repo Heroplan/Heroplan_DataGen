@@ -1,17 +1,5 @@
 [
     {
-        "name": "Mirielle",
-        "fancy_name": "Petrified Maid of the Bewitched Castle",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-14 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_mirielle",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Tyrix",
         "fancy_name": "The Serval of the Zenith Shadow",
         "color": "Yellow",

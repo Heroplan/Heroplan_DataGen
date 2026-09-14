@@ -100259,17 +100259,6 @@
         "showInstantlyIfPossible": false,
         "waitForShopInitialization": true,
         "ignoreActivityTriggersPopupsRequirement": false
-      },
-      {
-        "type": "LeftTopOffer",
-        "group": "Essential",
-        "priority": 999,
-        "cooldownSeconds": 14400,
-        "cooldownXpLevels": 0,
-        "delayOnStartupSeconds": 0,
-        "showInstantlyIfPossible": false,
-        "waitForShopInitialization": true,
-        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -100404,5 +100393,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2617372790
+  "otherConfigId": 850392606
 }

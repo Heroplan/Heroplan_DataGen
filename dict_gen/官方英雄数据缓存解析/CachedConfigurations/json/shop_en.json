@@ -23800,7 +23800,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier1",
           "dollarValue": 5,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -23820,7 +23819,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier2",
           "dollarValue": 30,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -23839,7 +23837,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier1",
           "dollarValue": 4,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -23876,7 +23873,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier1",
           "dollarValue": 10,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -23896,7 +23892,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier2",
           "dollarValue": 100,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -27513,7 +27508,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.unlock_treasury_tier1",
           "dollarValue": 2,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -27527,7 +27521,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.unlock_treasury_tier2",
           "dollarValue": 5,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -27546,7 +27539,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.unlock_treasury_tier3",
           "dollarValue": 10,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -27570,7 +27562,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.unlock_treasury_tier4",
           "dollarValue": 30,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -27726,7 +27717,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.unlock_treasury_tier5",
           "dollarValue": 50,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -29397,7 +29387,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier2b",
           "dollarValue": 30,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -36868,7 +36857,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.dragon_festival_1a",
           "dollarValue": 5,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -36893,7 +36881,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.dragon_festival_1b",
           "dollarValue": 5,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -36918,7 +36905,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.dragon_festival_2a",
           "dollarValue": 12,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -36950,7 +36936,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.dragon_festival_2b",
           "dollarValue": 12,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -36982,7 +36967,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.dragon_festival_3a",
           "dollarValue": 30,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -37022,7 +37006,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.dragon_festival_3b",
           "dollarValue": 20,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -91507,43 +91490,7 @@
         "id": "dynamic_offer_42_blue_klaern",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           }
         ],
@@ -91924,16 +91871,12 @@
         "id": "dynamic_offer_54_shrubbear",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "id": "com.smallgiantgames.empires.dynamic_12d",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12d",
+            "id": "com.smallgiantgames.empires.dynamic_29",
             "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7c",
-            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -113245,6 +113188,22 @@
                 "id": "refill_energy_pve_full",
                 "amount": 20,
                 "zyngaStoreExtraAmount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-09-15 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3400,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 4,
+                "zyngaStoreExtraAmount": 1
               }
             ]
           }
@@ -134561,6 +134520,21 @@
                 "amount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2026-09-15 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1400,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -140743,6 +140717,13 @@
         "endTime": "2026-09-19 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-09-14 10:30:00",
+        "endTime": "2026-09-15 07:00:00"
+      },
+      {
         "id": "dynamic_offer_4_purple_senan",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -140755,6 +140736,13 @@
         "scheduledManually": true,
         "startTime": "2026-09-15 07:00:00",
         "endTime": "2026-09-16 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-09-15 07:00:00",
+        "endTime": "2026-09-16 07:00:00"
       },
       {
         "id": "titanhunter_a",
@@ -140802,6 +140790,13 @@
         "slot": "LeftExtraTop",
         "startTime": "2026-09-15 07:00:00",
         "endTime": "2026-09-19 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_54_shrubbear",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-09-15 10:00:00",
+        "endTime": "2026-09-16 06:30:00"
       },
       {
         "id": "dynamic_offer_12_blue_fenrir",
@@ -146742,7 +146737,8 @@
                 "s5_sobek_costume_guardian",
                 "s5_hetepheres_costume_spa",
                 "s5_ahmose_costume_reborn"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -146755,7 +146751,8 @@
                 "s5_bastet_costume_forest",
                 "s5_tetisheri_costume_molten",
                 "s5_horus_costume_golden"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -146767,7 +146764,8 @@
                 "s5_khonshu_costume_knight",
                 "s5_cleopatra_costume_feline",
                 "s5_anubis_costume_dancefloor"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -146779,7 +146777,8 @@
                 "s5_papyros_costume_colossus",
                 "s5_sobek_costume_guardian",
                 "s5_meresankh_costume_disco"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -146791,7 +146790,8 @@
                 "s5_cleopatra_costume_feline",
                 "s5_hathor_costume_starlit",
                 "s5_hetepheres_costume_spa"
-              ]
+              ],
+              "adSummonEnabled": true
             }
           ],
           "season": "Season5",
@@ -147184,7 +147184,8 @@
                 "tales1_spartoi_costume_guard",
                 "tales1_gelert_costume_scavenger",
                 "tales1_ceto_costume_queen"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147196,7 +147197,8 @@
                 "tales1_medea_costume_goddess",
                 "tales1_galapago_costume_quarry",
                 "tales1_atlanteia_costume_siren"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147208,7 +147210,8 @@
                 "tales1_atlanteia_costume_siren",
                 "tales1_gestalt_costume_pearls",
                 "tales1_gelert_costume_scavenger"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147220,7 +147223,8 @@
                 "tales1_gestalt_costume_pearls",
                 "tales1_gelert_costume_scavenger",
                 "tales1_ultrox_costume_ethereal"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147232,7 +147236,8 @@
                 "tales1_persa_costume_jellyfish_noble",
                 "tales1_phorcys_costume_warrior_god",
                 "tales1_galapago_costume_quarry"
-              ]
+              ],
+              "adSummonEnabled": true
             }
           ],
           "season": "UntoldTales1",
@@ -147631,7 +147636,8 @@
                 "tales2_regin_costume_omen",
                 "tales2_ott_costume_herbalist",
                 "tales2_gandr_costume_guardian"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147644,7 +147650,8 @@
                 "tales2_regin_costume_omen",
                 "tales2_ott_costume_herbalist",
                 "tales2_gandr_costume_guardian"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147656,7 +147663,8 @@
                 "tales2_regin_costume_omen",
                 "tales2_ott_costume_herbalist",
                 "tales2_gandr_costume_guardian"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147668,7 +147676,8 @@
                 "tales2_regin_costume_omen",
                 "tales2_ott_costume_herbalist",
                 "tales2_gandr_costume_guardian"
-              ]
+              ],
+              "adSummonEnabled": true
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -147680,7 +147689,8 @@
                 "tales2_regin_costume_omen",
                 "tales2_ott_costume_herbalist",
                 "tales2_gandr_costume_guardian"
-              ]
+              ],
+              "adSummonEnabled": true
             }
           ],
           "season": "UntoldTales2",
@@ -149654,6 +149664,22 @@
                 "ghost_hei_wu_chang",
                 "ghost_shu_jing",
                 "beauty_beast_rose_de_flo"
+              ]
+            },
+            {
+              "lotteryProductType": "Covenant Summon",
+              "id": "lottery_covenant_2026_09_14",
+              "productId": "lottery_covenant_default",
+              "startDate": "2026-09-14 10:30:00",
+              "endDate": "2026-09-16 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "construct_sylosis",
+                "construct_dancrag",
+                "construct_tengo",
+                "tales2_fafnir_costume_fallen",
+                "tales2_dularfulr_costume_engineer",
+                "tales2_dagr_costume_plague_shaman"
               ]
             }
           ],
@@ -159643,7 +159669,8 @@
               "weight": 10,
               "rarity": 5,
               "includedCostume": "None",
-              "isFeatured": true
+              "isFeatured": true,
+              "youngestCharacterAgeInDays": 730
             }
           ]
         },
@@ -165098,6 +165125,67 @@
                 "amount": 2
               }
             ]
+          },
+          {
+            "startTime": "2026-09-15 07:00:00",
+            "endTime": "2026-09-16 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              10
+            ],
+            "rewards": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 700
+              },
+              {
+                "type": "Item",
+                "id": "lottery_astralelves_coin",
+                "amount": 700
+              },
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 70
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 700
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_astralelves_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 30
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 300
+              }
+            ]
           }
         ]
       },
@@ -168997,8 +169085,8 @@
             "startDate": "2026-09-15 07:00:00",
             "endDate": "2026-09-16 07:00:00",
             "featuredHeroes": [
-              "garrison_theodosius",
-              "garrison_pip"
+              "wild_cat_thaffer",
+              "wild_cat_imagus"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -174205,5 +174293,5 @@
       ]
     }
   },
-  "shopConfigId": 1807760362
+  "shopConfigId": 317786367
 }

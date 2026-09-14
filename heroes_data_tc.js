@@ -90180,6 +90180,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "米麗爾 (Mirielle)",
+        "fancy_name": "受詛咒城堡的石化侍女",
+        "AetherPower": "防禦提升",
+        "color": "烈火",
+        "class": "牧師",
+        "speed": "平均",
+        "skill": "不屈職責",
+        "source": "聯盟 - 勇者與美人",
+        "Release date": "2026-09-14",
+        "specialId": "unyielding_duty",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_mirielle",
+        "star": 5,
+        "power": 1362,
+        "attack": 1446,
+        "defense": 1396,
+        "health": 2434,
+        "effects": [
+            "低於 40 謙遜：",
+            "對目標造成 440% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "所有盟友獲得 +30% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
+            "所有盟友啟動石膚，将對盟友造成的所有傷害降至 1 點，但在 2 次命中後移除。此效果無法驅散。",
+            "40 或以上的謙遜：",
+            "此特殊技能必定命中目標。",
+            "對目標造成 500% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "所有盟友獲得 +40% 法力產出，持續 4 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
+            "所有盟友啟動石膚，将對盟友造成的所有傷害降至 1 點，但在 3 次命中後移除。此效果無法驅散。"
+        ],
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": "beauty_beast_mirielle",
+        "lb1": {
+            "attack": 1558,
+            "defense": 1505,
+            "health": 2624,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1783,
+            "defense": 1722,
+            "health": 3002,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標",
+                    "攻擊-連鎖"
+                ]
+            },
+            {
+                "增益效果": [
+                    "法力-法力生成↑",
+                    "防禦-傷害減免"
+                ]
+            }
+        ]
+    },
+    {
         "name": "光子 (Mitsuko)",
         "fancy_name": "絕命美人",
         "AetherPower": "特殊加成",
@@ -119327,30 +119397,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "米麗爾 (Mirielle)",
-        "fancy_name": "受詛咒城堡的石化侍女",
-        "AetherPower": "",
-        "color": "烈火",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "beauty_beast_mirielle",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "originalIndex": "beauty_beast_mirielle",
-        "cn_skill_info": []
     },
     {
         "name": "泰瑞斯 (Tyrix)",

@@ -90180,6 +90180,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Mirielle",
+        "fancy_name": "Petrified Maid of the Bewitched Castle",
+        "AetherPower": "Defense Up",
+        "color": "Fire",
+        "class": "Cleric",
+        "speed": "Average",
+        "skill": "Unyielding Duty",
+        "source": "Alliance - The Brave & The Beautiful",
+        "Release date": "2026-09-14",
+        "specialId": "unyielding_duty",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_mirielle",
+        "star": 5,
+        "power": 1362,
+        "attack": 1446,
+        "defense": 1396,
+        "health": 2434,
+        "effects": [
+            "Less than 40  Humility:",
+            "Deals 440% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All allies get +30% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies activate Stoneskin that drops all damage dealt to the ally to 1 but is removed after 2 hits. This effect can't be dispelled.",
+            "40 or more Humility:",
+            "The Special Skill never misses its targets.",
+            "Deals 500% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies activate Stoneskin that drops all damage dealt to the ally to 1 but is removed after 3 hits. This effect can't be dispelled."
+        ],
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": "beauty_beast_mirielle",
+        "lb1": {
+            "attack": 1558,
+            "defense": 1505,
+            "health": 2624,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1783,
+            "defense": 1722,
+            "health": 3002,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Mitsuko",
         "fancy_name": "Fatal Beauty",
         "AetherPower": "Special Boost",
@@ -119327,30 +119397,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Mirielle",
-        "fancy_name": "Petrified Maid of the Bewitched Castle",
-        "AetherPower": "",
-        "color": "Fire",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "beauty_beast_mirielle",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "originalIndex": "beauty_beast_mirielle",
-        "cn_skill_info": []
     },
     {
         "name": "Tyrix",

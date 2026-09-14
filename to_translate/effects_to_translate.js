@@ -14316,6 +14316,23 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beauty_beast_mirielle",
+        "name": "Mirielle",
+        "effects": [
+            "Less than 40  Humility:",
+            "Deals 440% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All allies get +30% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies activate Stoneskin that drops all damage dealt to the ally to 1 but is removed after 2 hits. This effect can't be dispelled.",
+            "40 or more Humility:",
+            "The Special Skill never misses its targets.",
+            "Deals 500% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "All allies activate Stoneskin that drops all damage dealt to the ally to 1 but is removed after 3 hits. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "s2_noble_lady",
         "name": "Mitsuko",
         "effects": [
@@ -18951,11 +18968,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "beauty_beast_mirielle",
-        "name": "Mirielle",
-        "effects": []
     },
     {
         "heroId": "wild_cat_tyrix",

@@ -52,10 +52,6 @@
             "text": "Include gli Eroi rilasciati tra [#!]{0}[#] e [#!]{1}[#] giorni prima dell'inizio di questo evento"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Include Eroi del mese passati ed Eroi famiglia Campioni"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Include Eroi del mese passati, Eroi famiglia Volpi ed Eroi famiglia Campioni"
           },
@@ -162,10 +158,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Включает героев, выпущенных за [#!]{0}[#]–[#!]{1}[#] д. до начала события"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Включает прошлых героев месяца и героев из семьи чемпионов"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -276,10 +268,6 @@
             "text": "Obejmuje bohaterów udostępnionych od [#!]{0}[#] do [#!]{1}[#] dni przed rozpoczęciem tego wydarzenia"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Zawiera wcześniejszych bohaterów miesiąca i bohaterów z rodziny Czempionów."
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Zawiera wcześniejszych bohaterów miesiąca, bohaterów z rodziny Lisa i bohaterów z rodziny Czempionów."
           },
@@ -388,10 +376,6 @@
             "text": "包含在本次活動開始前 [#!]{0}[#]至[#!]{1}[#]天內推出的英雄"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "包含過去的月度英雄與勇士家族英雄"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "包含過去的月度英雄、狐狸家族英雄與勇士家族英雄"
           },
@@ -498,10 +482,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "이 이벤트 시작 전 [#!]{0}[#]일에서 [#!]{1}[#]일 사이에 출시된 영웅 포함"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "지난 이달의 영웅 및 챔피언 패밀리 영웅 포함"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -620,10 +600,6 @@
             "text": "Enthält auch Helden, die [#!]{0}[#] bis [#!]{1}[#] Tage vor Beginn dieses Events veröffentlicht wurden."
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Enthält vergangene Helden des Monats und Helden aus der Champions-Familie."
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Enthält vergangene Helden des Monats und Helden aus der Fuchs- und Champions-Familie."
           },
@@ -736,10 +712,6 @@
             "text": "このイベント開幕の[#!]{0}[#]～[#!]{1}[#]日前までに登場した英雄を含む"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "過去の今月のスペシャル英雄とチャンピオンファミリー英雄を含む"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "過去の今月のスペシャル英雄とキツネファミリー英雄とチャンピオンファミリー英雄を含む"
           },
@@ -846,10 +818,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Innehåller hjältar släppta [#!]{0}[#] till [#!]{1}[#] dagar före starten av det här evenemanget"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Innehåller tidigare månadens hjältar och hjältar från förkämpefamiljen"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -960,14 +928,6 @@
             "text": "Bu etkinliğin başlangıcından [#!]{0}[#] ila [#!]{1}[#] gün önce yayınlanan Kahramanları içerir"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Geçmiş Ayın Kahramanları ve Şampiyon Ailesi Kahramanlarını içerir"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_fox_hotm",
-            "text": "Geçmiş Ayın Kahramanları, Tilki Ailesi ve Şampiyon Ailesi Kahramanlarını içerir"
-          },
-          {
             "key": "odds.asterisk.info.included.classic_fox",
             "text": "Klasik ve Tilki Kahramanlarını içerir"
           },
@@ -1018,6 +978,10 @@
           {
             "key": "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed",
             "text": "Saldırı ve Çalma"
+          },
+          {
+            "key": "odds.asterisk.info.included.champions_fox_hotm",
+            "text": "Geçmiş Ayın Kahramanlarını, Tilki ve Şampiyon Ailesi Kahramanlarını içerir"
           }
         ]
       },
@@ -1070,10 +1034,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Includes Heroes released [#!]{0}[#] to [#!]{1}[#] days before the start of this event"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Includes past Heroes of the Month and Champions Family Heroes"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -1184,10 +1144,6 @@
             "text": "يتضمن الأبطال الذين تم إطلاقهم قبل بدء هذه الفعالية بفترة من [#!]{0}[#] إلى [#!]{1}[#] أيام."
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "يتضمن أبطال الشهر السابقين وأبطال عائلة الأبطال"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "يتضمن أبطال الشهر السابقين وأبطال عائلة الثعلب وأبطال عائلة الأبطال"
           },
@@ -1294,10 +1250,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Inclut des héros sortis entre [#!]{0}[#] et [#!]{1}[#] jours avant le début de cet événement"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Inclut des héros du mois précédents et des héros de la famille de champions"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -1408,10 +1360,6 @@
             "text": "Inclui heróis lançados de [#!]{0}[#] a [#!]{1}[#] dias antes do início deste evento"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Inclui heróis do mês anteriores e heróis da família Campeões"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Inclui heróis do mês anteriores e heróis da família Raposa e da família Campeões"
           },
@@ -1518,10 +1466,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Termasuk Pahlawan yang dirilis [#!]{0}[#] hingga [#!]{1}[#] hari sebelum dimulainya acara ini"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Termasuk Pahlawan Bulan Ini yang lampau dan Pahlawan Keluarga Juara"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -1632,10 +1576,6 @@
             "text": "Sisältää sankareita, jotka on julkaistu [#!]{0}[#]–[#!]{1}[#] päivää ennen tämän tapahtuman alkamista"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Sisältää aiempia kuukauden sankareita ja mestariperheen sankareita"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Sisältää aiempia kuukauden sankareita, kettuperheen sankareita ja mestariperheen sankareita"
           },
@@ -1742,10 +1682,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Inkluderer helte udgivet [#!]{0}[#] til [#!]{1}[#] dage før starten på denne begivenhed"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Inkluderer tidligere Månedens helte og Mesterfamiliehelte"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -1856,10 +1792,6 @@
             "text": "Incluye héroes estrenados de [#!]{0}[#] a [#!]{1}[#] días antes del comienzo de este evento"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Incluye héroes del mes y de la familia de campeones anteriores"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Incluye héroes del mes, de la familia de zorros y de la familia de campeones anteriores"
           },
@@ -1966,10 +1898,6 @@
           {
             "key": "odds.asterisk.info.cutoff.young.old",
             "text": "Inkluderer helter sluppet [#!]{0}[#] til [#!]{1}[#] dager før starten på denne hendelsen"
-          },
-          {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Inkluderer tidligere måneders helter og mesterfamiliehelter"
           },
           {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
@@ -2080,10 +2008,6 @@
             "text": "Inclusief helden die [#!]{0}[#] tot [#!]{1}[#] dagen voor de start van dit evenement worden uitgebracht"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "Inclusief eerdere helden van de maand en helden uit de kampioensfamilie"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "Inclusief eerdere helden van de maand en helden uit de vos- en kampioensfamilie"
           },
@@ -2192,10 +2116,6 @@
             "text": "包含此活动开始前[#!]{0}[#]天至[#!]{1}[#]天之间发布的英雄"
           },
           {
-            "key": "odds.asterisk.info.included.champions_hotm",
-            "text": "包含过往的月度英雄与冠军家族英雄"
-          },
-          {
             "key": "odds.asterisk.info.included.champions_fox_hotm",
             "text": "包含过往的月度英雄、狐狸家族英雄与冠军家族英雄"
           },
@@ -2255,5 +2175,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 3715295158
+  "languageOverridesConfigId": 1989839789
 }
