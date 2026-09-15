@@ -143,7 +143,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 14,
-        "name": "shadyscoundrel",
+        "name": "shady_scoundrels",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "* 疊加（疊加上限： 10 ）：每次此角色嘗試劫掠一名敵人時，所有盟友獲得 +4% / +5% / +6% 攻擊疊加。此效果每回合只能啟用 2 次。"

@@ -14756,7 +14756,7 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "路边惊喜",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2025-11-24",
         "specialId": "roadside_surprise",
         "passiveSkills": [
@@ -45963,7 +45963,7 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "幽毒托法娜",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2026-07-23",
         "specialId": "aqua_tofana",
         "passiveSkills": [
@@ -49366,7 +49366,7 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢",
         "skill": "随性劈砍",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2026-07-23",
         "specialId": "haphazard_chop",
         "passiveSkills": [
@@ -58908,7 +58908,7 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "偷袭射击",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2025-11-24",
         "specialId": "thieving_shot",
         "passiveSkills": [
@@ -75654,7 +75654,7 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "复仇狂潮",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2026-07-23",
         "specialId": "vengeful_mob",
         "passiveSkills": [
@@ -82334,7 +82334,7 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "魅心引魂",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2026-07-23",
         "specialId": "come_hither",
         "passiveSkills": [
@@ -115723,7 +115723,7 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "眨眼之间",
-        "source": "黑色星期五召唤",
+        "source": "哥布林召唤",
         "Release date": "2026-08-19",
         "specialId": "blink_of_an_eye",
         "passiveSkills": [

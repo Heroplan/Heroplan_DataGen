@@ -14756,7 +14756,7 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "平均",
         "skill": "道旁奇襲",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2025-11-24",
         "specialId": "roadside_surprise",
         "passiveSkills": [
@@ -45963,7 +45963,7 @@ window.allHeroes =
         "class": "術士",
         "speed": "平均",
         "skill": "托法娜毒水",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2026-07-23",
         "specialId": "aqua_tofana",
         "passiveSkills": [
@@ -49366,7 +49366,7 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "胡亂劈砍",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2026-07-23",
         "specialId": "haphazard_chop",
         "passiveSkills": [
@@ -58908,7 +58908,7 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "偷襲射擊",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2025-11-24",
         "specialId": "thieving_shot",
         "passiveSkills": [
@@ -75654,7 +75654,7 @@ window.allHeroes =
         "class": "牧師",
         "speed": "平均",
         "skill": "復仇暴民",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2026-07-23",
         "specialId": "vengeful_mob",
         "passiveSkills": [
@@ -82334,7 +82334,7 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "魅惑招手",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2026-07-23",
         "specialId": "come_hither",
         "passiveSkills": [
@@ -115723,7 +115723,7 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "非常快",
         "skill": "轉瞬之間",
-        "source": "黑色星期五召喚",
+        "source": "哥布林召喚",
         "Release date": "2026-08-19",
         "specialId": "blink_of_an_eye",
         "passiveSkills": [

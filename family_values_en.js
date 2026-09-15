@@ -81,7 +81,7 @@ window.family_values = {
     "mahayoddha": "Windfall Temple - Mahayoddha",
     "vegetable": "Challenge - Vegetable",
     "beauty_beast": "Alliance - Beauty and the Beast",
-    "shady_scoundrels": "Shady Scoundrel",
+    "shady_scoundrels": "Goblin Village - Shady Scoundrel",
     "titan_hunter": "Titan Hunter Summon - Titan Hunter",
     "fortune": "Monthly Event - Fortune Dancer",
     "rodent": "Birthday Summon - Adventurous Rodent",

@@ -78,9 +78,11 @@ family_corrections = {
     "zodiac_horse": "zodiac",
     "theinstitute": "institute",
     "astraldemons": "astral_demons",
+    "shadyscoundrel": "shady_scoundrels",
     "ghosts": "ghost",
     "sunbayshark": "shark",
     "harpies": "harpy",
+    
 }
 
 typo_corrections = {
@@ -623,7 +625,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['knight', 'pirate', 'fable', 'guardian', 'wonderland']: source_to_translate = 'challengefestival1'
             elif hero_family in ['villains', 'circus', 'slayers', 'bard', 'mighty_pet']: source_to_translate = 'challengefestival2'
             elif hero_family in ['musketeer', 'beauty_beast']: source_to_translate = 'musketeer'
-            elif hero_family in ['shady_scoundrels']: source_to_translate = 'blackfriday'
+            elif hero_family in ['shady_scoundrels']: source_to_translate = 'goblinvillage'
             elif hero_family in ['mahayoddha']: source_to_translate = 'temple'
             elif hero_family in ['vegetable']: source_to_translate = 'farmland'
             elif hero_family in ['fortune']: source_to_translate = 'lunarnewyear2026'

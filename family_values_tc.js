@@ -81,7 +81,7 @@ window.family_values = {
     "mahayoddha": "風降神殿 - 瑪哈悠達", 
     "vegetable": "挑戰 - 蔬菜",
     "beauty_beast": "聯盟 - 美女與野獸",
-    "shady_scoundrels": "陰險無賴",
+    "shady_scoundrels": "哥布林村 - 陰險無賴",
     "titan_hunter": "泰坦獵人召喚 - 泰坦獵人",
     "fortune": "月活動 - 鴻運舞者",
     "rodent": "生日召喚 - 冒險小鼠",

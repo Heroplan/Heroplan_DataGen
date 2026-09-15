@@ -14756,7 +14756,7 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Roadside Surprise",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2025-11-24",
         "specialId": "roadside_surprise",
         "passiveSkills": [
@@ -45963,7 +45963,7 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Aqua Tofana",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2026-07-23",
         "specialId": "aqua_tofana",
         "passiveSkills": [
@@ -49366,7 +49366,7 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Haphazard Chop",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2026-07-23",
         "specialId": "haphazard_chop",
         "passiveSkills": [
@@ -58908,7 +58908,7 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Thieving Shot",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2025-11-24",
         "specialId": "thieving_shot",
         "passiveSkills": [
@@ -75654,7 +75654,7 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Vengeful Mob",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2026-07-23",
         "specialId": "vengeful_mob",
         "passiveSkills": [
@@ -82334,7 +82334,7 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Come-Hither",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2026-07-23",
         "specialId": "come_hither",
         "passiveSkills": [
@@ -115723,7 +115723,7 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Blink of an Eye",
-        "source": "Black Friday Summon",
+        "source": "Goblin Summon",
         "Release date": "2026-08-19",
         "specialId": "blink_of_an_eye",
         "passiveSkills": [

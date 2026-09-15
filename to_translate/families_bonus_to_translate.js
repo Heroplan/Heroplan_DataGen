@@ -143,7 +143,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 14,
-        "name": "shadyscoundrel",
+        "name": "shady_scoundrels",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             " * Stack (Max 10): All allies get +4%/+5%/+6% attack stack each time this character attempts to Ransack an enemy. This effect can activate up to 2 times per turn."
