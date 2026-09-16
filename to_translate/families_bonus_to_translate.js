@@ -292,7 +292,7 @@ window.families_bonus = [
         "originalIndex": 30,
         "name": "hotm2017",
         "bonus": [
-            "Bonus for 1/2/3 unique Heroes of the same family:",
+            "Bonus for 1/2/3 unique Heroes of the same element in team:",
             " * +5%/+10%/+15% mana generation."
         ]
     },

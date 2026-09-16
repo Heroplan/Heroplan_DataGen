@@ -230,7 +230,8 @@
     "^\\*\\s+([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+critical\\s+chance\\.?\\s*$": "* \\1 / \\2 / \\3 暴击几率。",
     "^\\s+\\*\\s+([+-]?\\s*\\d+\\s*%?)\\s+/\\s+([+-]?\\s*\\d+\\s*%?)\\s+/\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "* \\1 / \\2 / \\3 攻击力。",
     "^\\s+\\*\\s+([+-]?\\s*\\d+\\s*%?)\\s+/\\s+([+-]?\\s*\\d+\\s*%?)\\s+/\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\.?\\s*$": "* \\1 / \\2 / \\3 防御。",
-    "^\\s+\\*\\s+The\\s+character\\s+deals([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+enemy\\s+with\\s+the\\s+fastest\\s+mana\\s+speed\\s+when\\s+another\\s+ally\\s+casts\\s+their\\s+Special\\s+Skill\\.?\\s*$": "* 当其他盟友施放特殊技能时，该角色会对法力速度最快的敌人造成\\1/\\2/\\3伤害。",
+    "^\\s+\\*\\s+The\\s+character\\s+deals([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+enemy\\s+with\\s+the\\s+fastest\\s+mana\\s+speed\\s+when\\s+another\\s+ally\\s+casts\\s+their\\s+Special\\s+Skill\\.?\\s*$": "* 当其他盟友施放特殊技能时，该角色会对法力速度最快的敌人造成\\1 /\\2 /\\3 伤害。",
     "^\\s+\\*\\s+The\\s+character\\s+gains\\s+Growth:([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)attack\\s+when\\s+another\\s+ally\\s+casts\\s+their\\s+Special\\s+Skill\\.?\\s*$": "* 该角色获得成长：当其他盟友施放特殊技能时，攻击力提高\\1/\\2/\\3。",
-    "^Limits\\s+for\\s+modified\\s+Ability\\s+Scores:\\s+Min([+-]?\\s*\\d+\\s*%?)\\s+and\\s+max([+-]?\\s*\\d+\\s*%?)\\s+of\\s+their\\s+original\\s+values\\.?\\s*$": "属性修正范围：最低为初始值的\\1，而最高为初始值的\\2."
+    "^Limits\\s+for\\s+modified\\s+Ability\\s+Scores:\\s+Min([+-]?\\s*\\d+\\s*%?)\\s+and\\s+max([+-]?\\s*\\d+\\s*%?)\\s+of\\s+their\\s+original\\s+values\\.?\\s*$": "属性修正范围：最低为初始值的\\1，而最高为初始值的\\2.",
+    "^Bonus\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)unique\\s+Heroes\\s+of\\s+the\\s+same\\s+element\\s+in\\s+team:$": "队伍中有\\1/\\2/\\3名相同元素英雄时的加成："
 }
