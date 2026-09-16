@@ -18586,6 +18586,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "wild_cat_tyrix",
+        "name": "Tyrix",
+        "effects": [
+            "对目标造成 335% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有被击中的目标在 6 回合内受到共计 1500 点奔涌流血伤害。（如果目标已拥有此效果，持续时间会被刷新，伤害增加 300 点。总伤害上限： 3300。）",
+            "叠加（最多： 10 层 ）：每次命中使目标受到的所有伤害增加 +4%。"
+        ]
+    },
+    {
         "heroId": "holy_god_uraeus",
         "name": "Uraeus",
         "effects": [
@@ -18968,11 +18978,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +15% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "wild_cat_tyrix",
-        "name": "Tyrix",
-        "effects": []
     },
     {
         "heroId": "s2_tanuki_raccoon_costume_cute",

@@ -1777,8 +1777,8 @@ const allTranslations =
         "effects": [
             "Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.",
             "All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
-            "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
+            "The target hit by the Sword Guard Mega Minion receives 414 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ]
     },
     {
@@ -5029,7 +5029,7 @@ const allTranslations =
             "Deals 300% damage to all enemies.",
             "Damage bypasses target's Minions.",
             "All enemies get -40% defense against Nature for 4 turns.",
-            "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
+            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
             "The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ]
     },
@@ -16973,7 +16973,7 @@ const allTranslations =
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "If any ally has a Mega Minion before this Special Skill is cast, deals 365% damage to all enemies instead.",
-            "Summnos a Recruit Guard Mega Minion with 20% HP and 100% attack inherited from the caster.",
+            "Summons a Recruit Guard Mega Minion with 20% HP and 100% attack inherited from the caster.",
             "The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack."
         ]
     },
@@ -18586,6 +18586,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "wild_cat_tyrix",
+        "name": "Tyrix",
+        "effects": [
+            "Deals 335% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All hit targets receive 1500 Surge Bleed damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3300.)",
+            "Stack (Max: 10): Each hit increases all damage the target receives by +4%."
+        ]
+    },
+    {
         "heroId": "holy_god_uraeus",
         "name": "Uraeus",
         "effects": [
@@ -18968,11 +18978,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "wild_cat_tyrix",
-        "name": "Tyrix",
-        "effects": []
     },
     {
         "heroId": "s2_tanuki_raccoon_costume_cute",

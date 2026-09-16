@@ -11331,8 +11331,8 @@ window.allHeroes =
         "effects": [
             "Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.",
             "All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
-            "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
+            "The target hit by the Sword Guard Mega Minion receives 414 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
@@ -31824,7 +31824,7 @@ window.allHeroes =
             "Deals 300% damage to all enemies.",
             "Damage bypasses target's Minions.",
             "All enemies get -40% defense against Nature for 4 turns.",
-            "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
+            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
             "The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
@@ -107059,7 +107059,7 @@ window.allHeroes =
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "If any ally has a Mega Minion before this Special Skill is cast, deals 365% damage to all enemies instead.",
-            "Summnos a Recruit Guard Mega Minion with 20% HP and 100% attack inherited from the caster.",
+            "Summons a Recruit Guard Mega Minion with 20% HP and 100% attack inherited from the caster.",
             "The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack."
         ],
         "passives": [
@@ -116958,6 +116958,75 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Tyrix",
+        "fancy_name": "The Serval of the Zenith Shadow",
+        "AetherPower": "Special Boost",
+        "color": "Holy",
+        "class": "Barbarian",
+        "speed": "Fast",
+        "skill": "Rending Flurry",
+        "source": "Wilderness Summon",
+        "Release date": "2026-09-16",
+        "specialId": "rending_flurry",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_tyrix",
+        "star": 5,
+        "power": 1362,
+        "attack": 1505,
+        "defense": 1308,
+        "health": 2463,
+        "effects": [
+            "Deals 335% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All hit targets receive 1500 Surge Bleed damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3300.)",
+            "Stack (Max: 10): Each hit increases all damage the target receives by +4%."
+        ],
+        "passives": [
+            "Nine Lives:",
+            "* When defeated this character has 80% chance to revive at the beginning of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affected by effects that increase or reduce defense.",
+            "This includes:",
+            "* Status effect buffs and ailments.",
+            "* Positive and negative stacks.",
+            "* Growth and Wither effects."
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": "wild_cat_tyrix",
+        "lb1": {
+            "attack": 1622,
+            "defense": 1409,
+            "health": 2655,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1856,
+            "defense": 1612,
+            "health": 3037,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Chain",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Surge Bleed",
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Uraeus",
         "fancy_name": "Arcane Vizier",
         "AetherPower": "Special Boost",
@@ -119397,30 +119466,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Tyrix",
-        "fancy_name": "The Serval of the Zenith Shadow",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "wild_cat_tyrix",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "wild_cat",
-        "costume_id": 0,
-        "originalIndex": "wild_cat_tyrix",
-        "cn_skill_info": []
     },
     {
         "name": "Danzaburo Toon",

@@ -50387,5 +50387,25 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Tyrix",
+        "fancy name": "The Serval of the Zenith Shadow",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-09-16",
+        "AetherPower": "Special Boost",
+        "heroId": "wild_cat_tyrix",
+        "baseAttack": 731,
+        "baseDefense": 635,
+        "baseHealth": 1196,
+        "specialId": "rending_flurry",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];

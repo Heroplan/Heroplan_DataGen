@@ -11332,7 +11332,7 @@ window.allHeroes =
             "使法力值最高的敵人減少 70% 法力。使其餘敵人減少 40% 法力。",
             "所有敵人獲得 -30% 法力產出，持續 6 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
             "召喚一個從此施法者繼承 35% 生命值和 300% 攻擊力的刀劍守衛超級小兵。",
-            "被刀劍守衛超級小兵擊中的目標在 3 個回合內受到 414 點流血傷害。此效果會擴散至附近的敵人。"
+            "被刀劍守衛超級小兵擊中的目標會在 3 回合內受到共計 414 點流血傷害。此效果會蔓延至附近敵人。"
         ],
         "passives": [
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。",
@@ -116958,6 +116958,75 @@ window.allHeroes =
         ]
     },
     {
+        "name": "泰瑞斯 (Tyrix)",
+        "fancy_name": "天影藪貓",
+        "AetherPower": "特殊加成",
+        "color": "神聖",
+        "class": "野人",
+        "speed": "快速",
+        "skill": "撕裂亂舞",
+        "source": "野地召喚",
+        "Release date": "2026-09-16",
+        "specialId": "rending_flurry",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_tyrix",
+        "star": 5,
+        "power": 1362,
+        "attack": 1505,
+        "defense": 1308,
+        "health": 2463,
+        "effects": [
+            "對目標造成 335% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "所有被擊中的目標在 6 個回合內受到 1500 點重傷流血傷害。（如果目標已擁有此效果，持續時間會被刷新，並增加 300 點傷害。最大總傷害： 3300 ）",
+            "疊加（最大值： 10 ）：每次擊中都會使目標受到的所有傷害增加 +4%。"
+        ],
+        "passives": [
+            "九條命：",
+            "* 落敗時，此角色有 80% 機率於其下個回合開始時復活，並恢復 50% 生命值和 80% 法力。",
+            "* 最多可觸發 9 次。復活幾率會在每次觸發後衰減。無法通過狀態異常或被動技能阻止該效果。",
+            "特性：輕巧自如的身姿。",
+            "此角色不受增加或減少防禦的效果影響。",
+            "這包括：",
+            "* 狀態效果增益以及異常。",
+            "* 正面與負面疊加。",
+            "* 成長和枯萎效果。"
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": "wild_cat_tyrix",
+        "lb1": {
+            "attack": 1622,
+            "defense": 1409,
+            "health": 2655,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1856,
+            "defense": 1612,
+            "health": 3037,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標",
+                    "攻擊-連鎖",
+                    "傷害-持續傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：重傷流血",
+                    "防禦-疊加：受到傷害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "烏賴烏斯 (Uraeus)",
         "fancy_name": "奧術大臣",
         "AetherPower": "特殊加成",
@@ -119397,30 +119466,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "泰瑞斯 (Tyrix)",
-        "fancy_name": "天影藪貓",
-        "AetherPower": "",
-        "color": "神聖",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "wild_cat_tyrix",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "wild_cat",
-        "costume_id": 0,
-        "originalIndex": "wild_cat_tyrix",
-        "cn_skill_info": []
     },
     {
         "name": "團三郎狸 (Danzaburo) 公仔",

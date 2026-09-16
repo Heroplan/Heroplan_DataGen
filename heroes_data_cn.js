@@ -116958,6 +116958,75 @@ window.allHeroes =
         ]
     },
     {
+        "name": "泰里克斯 (Tyrix)",
+        "fancy_name": "天顶暗影薮猫",
+        "AetherPower": "特殊技能加成",
+        "color": "神圣",
+        "class": "野人",
+        "speed": "快速",
+        "skill": "撕裂连击",
+        "source": "荒野召唤",
+        "Release date": "2026-09-16",
+        "specialId": "rending_flurry",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "heroId": "wild_cat_tyrix",
+        "star": 5,
+        "power": 1362,
+        "attack": 1505,
+        "defense": 1308,
+        "health": 2463,
+        "effects": [
+            "对目标造成 335% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有被击中的目标在 6 回合内受到共计 1500 点奔涌流血伤害。（如果目标已拥有此效果，持续时间会被刷新，伤害增加 300 点。总伤害上限： 3300。）",
+            "叠加（最多： 10 层 ）：每次命中使目标受到的所有伤害增加 +4%。"
+        ],
+        "passives": [
+            "九条命：",
+            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
+            "* 最多可触发 9 次。复活几率会在每次触发后衰减。无法通过状态异常或被动技能阻止该效果。",
+            "特质：轻盈体态。",
+            "此角色不会受到增强或削弱防御效果的影响。",
+            "这包括：",
+            "* 状态效果增益和异常。",
+            "* 正面和负面叠加。",
+            "* 成长和衰退效果。"
+        ],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": "wild_cat_tyrix",
+        "lb1": {
+            "attack": 1622,
+            "defense": 1409,
+            "health": 2655,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1856,
+            "defense": 1612,
+            "health": 3037,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-单体",
+                    "攻击-连锁",
+                    "伤害-持续伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：奔涌流血",
+                    "防御-叠加：受到伤害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "乌赖乌斯 (Uraeus)",
         "fancy_name": "奥术国师",
         "AetherPower": "特殊技能加成",
@@ -119397,30 +119466,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "泰里克斯 (Tyrix)",
-        "fancy_name": "天顶暗影薮猫",
-        "AetherPower": "",
-        "color": "神圣",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "wild_cat_tyrix",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "wild_cat",
-        "costume_id": 0,
-        "originalIndex": "wild_cat_tyrix",
-        "cn_skill_info": []
     },
     {
         "name": "团三郎狸 (Danzaburo) 卡通",
