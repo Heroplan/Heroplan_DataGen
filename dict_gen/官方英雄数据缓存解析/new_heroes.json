@@ -1,41 +1,5 @@
 [
     {
-        "name": "Ksorath",
-        "fancy_name": "Astral Demon Courier",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-12 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_ksorath",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Vendela",
-        "fancy_name": "Vanguard of the Cove",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-13 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_vendela",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Mirielle",
-        "fancy_name": "Petrified Maid of the Bewitched Castle",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-14 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_mirielle",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Tyrix",
         "fancy_name": "The Serval of the Zenith Shadow",
         "color": "Yellow",

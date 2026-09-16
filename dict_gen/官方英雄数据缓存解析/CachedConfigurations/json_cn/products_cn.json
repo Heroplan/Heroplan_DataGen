@@ -12994,6 +12994,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple1_fairy_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13075,6 +13076,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple1_fairy_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22988,6 +22990,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple1_fairy_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58964,5 +58967,5 @@
       }
     ]
   },
-  "productsConfigId": 2950028714
+  "productsConfigId": 1015558487
 }

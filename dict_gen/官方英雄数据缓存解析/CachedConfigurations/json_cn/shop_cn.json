@@ -12995,6 +12995,7 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.triple1_fairy_1",
           "dollarValue": 5,
+          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -13076,6 +13077,7 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.triple1_fairy_3",
           "dollarValue": 100,
+          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -22989,6 +22991,7 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.triple1_fairy_2b",
           "dollarValue": 30,
+          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -140916,6 +140919,13 @@
         "endTime": "2026-09-19 07:00:00"
       },
       {
+        "id": "step_up_nature",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-09-18 07:00:00",
+        "endTime": "2026-09-19 07:00:00"
+      },
+      {
         "id": "dragon_trainer_2",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -141022,6 +141032,13 @@
       {
         "id": "com.smallgiantgames.empires.double_covenant",
         "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-09-20 07:00:00",
+        "endTime": "2026-09-21 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.triple1_fairy",
+        "slot": "LeftTop",
         "scheduledManually": true,
         "startTime": "2026-09-20 07:00:00",
         "endTime": "2026-09-21 07:00:00"
@@ -150309,9 +150326,9 @@
               "overridden": true,
               "featuredHeroes": [
                 "泰里克斯",
-                "水野圣子",
                 "谢泼德",
-                "马达里卡"
+                "八极",
+                "伊尔梅"
               ]
             }
           ],
@@ -174293,5 +174310,5 @@
       ]
     }
   },
-  "shopConfigId": 317786367
+  "shopConfigId": 3721068132
 }
