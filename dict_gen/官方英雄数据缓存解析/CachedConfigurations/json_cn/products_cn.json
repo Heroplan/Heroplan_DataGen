@@ -26917,12 +26917,12 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_shadow_coin",
+            "id": "lottery_wilderness_coin",
             "amount": 500
           },
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
+            "id": "lottery_monster_island_coin",
             "amount": 500
           },
           {
@@ -26932,8 +26932,8 @@
           },
           {
             "type": "Item",
-            "id": "lottery_pickup_coin",
-            "amount": 500
+            "id": "lottery_costume_key",
+            "amount": 25
           },
           {
             "type": "Item",
@@ -36111,6 +36111,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56476,6 +56477,7 @@
         "bonusChest": "harvest_summon_chest",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 30,
+        "resetChestSummonCountOnNextEvent": true,
         "bonusChestEnabled": true,
         "additionalDrawWeights": [
           0,
@@ -58967,5 +58969,5 @@
       }
     ]
   },
-  "productsConfigId": 1015558487
+  "productsConfigId": 3113547580
 }
