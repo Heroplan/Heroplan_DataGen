@@ -50407,5 +50407,25 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Iron Mimic Fire",
+        "fancy name": "Iron Satchel of Terror",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-09-18",
+        "AetherPower": "Bulwark",
+        "heroId": "mimic_iron_red",
+        "baseAttack": 701,
+        "baseDefense": 699,
+        "baseHealth": 1185,
+        "specialId": "iron_mimic_bite_red",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_iron_red"
+        ],
+        "family": "mimic"
     }
 ];

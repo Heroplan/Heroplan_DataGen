@@ -11023,6 +11023,29 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_red",
+        "name": "Iron Mimic Fire",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages:",
+            "Legendary:",
+            "* Giant Iron Bundle",
+            "Epic:",
+            "* Large Iron Bundle",
+            "Rare:",
+            "* Medium Iron Bundle",
+            "Uncommon:",
+            "* Small Iron Bundle",
+            "* Barbaric Berserkers",
+            "* Firecaller Wizards",
+            "Common",
+            "* Tiny Iron Bundle",
+            "* Common Villager",
+            "* Barbaric Monks",
+            "* Barbaric Fighters"
+        ]
+    },
+    {
         "heroId": "faun_isidore",
         "name": "Isidore",
         "passives": [

@@ -13967,6 +13967,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mimic_iron_red",
+        "name": "Iron Mimic Fire",
+        "effects": [
+            "Deals 450% damage to the target and one random enemy.",
+            "All hit targets get -20% defense for 4 turns.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ]
+    },
+    {
         "heroId": "faun_isidore",
         "name": "Isidore",
         "effects": [

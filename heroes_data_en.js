@@ -88020,6 +88020,93 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Iron Mimic Fire",
+        "fancy_name": "Iron Satchel of Terror",
+        "AetherPower": "Bulwark",
+        "color": "Fire",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Full Metal Tear",
+        "source": "Bazaar Summon",
+        "Release date": "2026-09-18",
+        "specialId": "iron_mimic_bite_red",
+        "passiveSkills": [
+            "never_miss_special",
+            "mimic_iron_red"
+        ],
+        "heroId": "mimic_iron_red",
+        "star": 5,
+        "power": 1375,
+        "attack": 1444,
+        "defense": 1439,
+        "health": 2441,
+        "effects": [
+            "Deals 450% damage to the target and one random enemy.",
+            "All hit targets get -20% defense for 4 turns.",
+            "If the target is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions don by Special Skills will have a reduced power on that character.)",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages:",
+            "Legendary:",
+            "* Giant Iron Bundle",
+            "Epic:",
+            "* Large Iron Bundle",
+            "Rare:",
+            "* Medium Iron Bundle",
+            "Uncommon:",
+            "* Small Iron Bundle",
+            "* Barbaric Berserkers",
+            "* Firecaller Wizards",
+            "Common",
+            "* Tiny Iron Bundle",
+            "* Common Villager",
+            "* Barbaric Monks",
+            "* Barbaric Fighters"
+        ],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": "mimic_iron_red",
+        "lb1": {
+            "attack": 1556,
+            "defense": 1551,
+            "health": 2630,
+            "power": 1472
+        },
+        "lb2": {
+            "attack": 1780,
+            "defense": 1775,
+            "health": 3009,
+            "power": 1666
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Isidore",
         "fancy_name": "Charismatic Faun Champion",
         "AetherPower": "Defense Up",
