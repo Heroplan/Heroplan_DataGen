@@ -1,41 +1,5 @@
 [
     {
-        "name": "Danzaburo Toon",
-        "fancy_name": "Dauntless Toon",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-17 07:00:00",
-        "star": 4,
-        "family": "japanese",
-        "costume_id": 2,
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tethys Toon",
-        "fancy_name": "Toon Goddess of All Rivers",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-17 07:00:00",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 2,
-        "heroId": "s2_tethys_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Natalya Toon",
-        "fancy_name": "Fireborn Toon",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-17 07:00:00",
-        "star": 5,
-        "family": "hotm2018",
-        "costume_id": 2,
-        "heroId": "fire_god_natalya_costume_cute",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Pyaza",
         "fancy_name": "Purple Onion Warlock",
         "color": "Purple",
@@ -57,6 +21,114 @@
         "family": "construct",
         "costume_id": 0,
         "heroId": "construct_nepant",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Fimafeng C",
+        "fancy_name": "Dwarven Ice Skating Master",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-22 07:00:00",
+        "star": 5,
+        "family": "myrkheim",
+        "costume_id": 1,
+        "heroId": "tales2_fimafeng_costume_skater",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kettle C",
+        "fancy_name": "Field Cook",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-23 07:00:00",
+        "star": 5,
+        "family": "goblin",
+        "costume_id": 1,
+        "heroId": "goblin_kettle_costume_field_cook",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Clim",
+        "fancy_name": "Deadeye Sharpshooter",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-23 07:00:00",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_clim",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Frida C",
+        "fancy_name": "Arctic Juggernaut",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-25 07:00:00",
+        "star": 5,
+        "family": "hotm2019",
+        "costume_id": 1,
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Horace B. F.",
+        "fancy_name": "Archery Champion",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-25 07:00:00",
+        "star": 5,
+        "family": "champions",
+        "costume_id": 0,
+        "heroId": "champions_horace",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Peridot C",
+        "fancy_name": "Ninja of Deadly Herbs",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-27 07:00:00",
+        "star": 5,
+        "family": "ninja",
+        "costume_id": 1,
+        "heroId": "ninja_peridot_costume_herbalist",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Ishida Aoga",
+        "fancy_name": "Steel-Hearted Ronin",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-09-27 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_ishida_aoga",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Maar",
+        "fancy_name": "Warden of the Rainforest",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-01 07:00:00",
+        "star": 5,
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "heroId": "titan_hunter_maar",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Jolt C",
+        "fancy_name": "Mythic Navigator",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-02 07:00:00",
+        "star": 5,
+        "family": "super_elemental",
+        "costume_id": 1,
+        "heroId": "elemental_jolt_costume_mythic",
         "Lottery_Only": 1
     }
 ]

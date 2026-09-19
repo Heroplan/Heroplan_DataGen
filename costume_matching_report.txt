@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (633 / 0)
+✅ 成功匹配的服装 (636 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -99,6 +99,7 @@ Name: Grimm Costume2, Fancy Name: Dark Messenger
 Name: Grimm Toon, Fancy Name: Dark Toon
 Name: Set Costume1, Fancy Name: Dark Tyrant
 Name: Grimm Glass, Fancy Name: Dark Vitrail
+Name: Danzaburo toon, Fancy Name: Dauntless Toon
 Name: Ursena Costume1, Fancy Name: Deadly Reef Queen
 Name: Sabina Costume2, Fancy Name: Deathbound Princess
 Name: Cyprian Costume2, Fancy Name: Deathbound Reveller
@@ -168,6 +169,7 @@ Name: Guardian Panther Costume1, Fancy Name: Fierce Panther
 Name: Colen Costume1, Fancy Name: Fiery Bounty Hunter
 Name: Baldur Costume1, Fancy Name: Fiery God
 Name: Natalya Costume1, Fancy Name: Fireborn Seamstress
+Name: Natalya toon, Fancy Name: Fireborn Toon
 Name: Li Xiu Costume2, Fancy Name: Fireworks General
 Name: Nashgar Toon, Fancy Name: First Toon in Battle
 Name: Bagreg Costume1, Fancy Name: Fishboy Scout
@@ -545,6 +547,7 @@ Name: Isshtak Toon, Fancy Name: Toon Fighter
 Name: Sumle toon, Fancy Name: Toon Fire Giant
 Name: Thorne Toon, Fancy Name: Toon Frostmorrow
 Name: Li Xiu Toon, Fancy Name: Toon General
+Name: Tethys toon, Fancy Name: Toon Goddess of All Rivers
 Name: Atomos toon, Fancy Name: Toon Guardian of Atlantis
 Name: Kailani Toon, Fancy Name: Toon Healer
 Name: Gill-Ra toon, Fancy Name: Toon Hunter

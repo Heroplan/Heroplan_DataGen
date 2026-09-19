@@ -3295,6 +3295,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "effects": [
+            "对目标及附近敌人造成 410% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 909 点水系伤害。",
+            "所有不属于冰雪系的盟友获得 +40% 攻击力，持续 3 回合。",
+            "所有冰雪系盟友获得 +70% 攻击力，持续 3 回合。此效果无法驱散。",
+            "对烈火系造成额外伤害。"
+        ]
+    },
+    {
         "heroId": "tales1_thalassa",
         "name": "Thalassa",
         "effects": [
@@ -14428,6 +14439,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "effects": [
+            "目标在 4 回合内受到共计 1968 点燃烧伤害。此效果无法净化。",
+            "目标获得 -54% 法力生成，持续 4 回合。此效果无法净化。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）",
+            "目标获得对烈火系 -34% 的防御，持续 4 回合。此效果无法净化。",
+            "对自然系造成额外伤害。",
+            "元素链为全体烈火系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
+        ]
+    },
+    {
         "heroId": "fire_god_neema",
         "name": "Neema",
         "effects": [
@@ -16024,6 +16046,22 @@ const translatedEffectsCN =
             "* 所有敌人获得 -44% 防御，持续 3 回合。",
             "清仓甩卖：",
             "* 除了施法者以外，所有盟友的法力增加 3%。（在单个回合内，当一名角色已经从特殊技能获得了 5 次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+            "* 施法者无法获得法力，持续 2 回合。此效果无法净化。"
+        ]
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "effects": [
+            "变个戏法获得一个特殊效果：",
+            "刀剑：",
+            "* 对所有敌人造成 300% 伤害。",
+            "* 所有敌人获得 -60% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空。）",
+            "* 对暗黑系造成额外伤害。",
+            "瓶子：",
+            "* 所有盟友获得 +30% 法力生成，持续 4 回合。对所有神圣系角色，此状态效果无法驱散且持续时间延长 2 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）",
+            "* 所有盟友获得 +65% 防御，持续 4 回合。对所有神圣系角色，此状态效果无法驱散且持续时间延长 2 回合。",
+            "冰冻：",
             "* 施法者无法获得法力，持续 2 回合。此效果无法净化。"
         ]
     },
@@ -18990,21 +19028,6 @@ const translatedEffectsCN =
         ]
     },
     {
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "name": "Danzaburo Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_tethys_costume_cute",
-        "name": "Tethys Toon",
-        "effects": []
-    },
-    {
-        "heroId": "fire_god_natalya_costume_cute",
-        "name": "Natalya Toon",
-        "effects": []
-    },
-    {
         "heroId": "vegetable_pyaza",
         "name": "Pyaza",
         "effects": []
@@ -19012,6 +19035,51 @@ const translatedEffectsCN =
     {
         "heroId": "construct_nepant",
         "name": "Nepant",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_kettle_costume_field_cook",
+        "name": "Kettle C",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_clim",
+        "name": "Clim",
+        "effects": []
+    },
+    {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C",
+        "effects": []
+    },
+    {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "effects": []
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "effects": []
     }
 ];

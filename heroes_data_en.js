@@ -20925,6 +20925,77 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Tethys Toon",
+        "fancy_name": "Toon Goddess of All Rivers",
+        "AetherPower": "Attack Up",
+        "color": "Ice",
+        "class": "Ranger",
+        "speed": "Fast",
+        "skill": "Toon Assault",
+        "source": "S2 - Atlantis",
+        "Release date": "2026-09-17",
+        "specialId": "toon_assault",
+        "parent_specialId": "amphibious_assault",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_tethys_costume_cute",
+        "star": 5,
+        "power": 1343,
+        "attack": 1444,
+        "defense": 1303,
+        "health": 2486,
+        "effects": [
+            "Deals 410% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 909 Water damage over 3 turns.",
+            "All allies that are not of Ice element get +40% attack for 3 turns.",
+            "All Ice Heroes get +70% attack for 3 turns. This effect can't be dispelled.",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": "s2_tethys_costume_cute",
+        "lb1": {
+            "attack": 1556,
+            "defense": 1404,
+            "health": 2680,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1780,
+            "defense": 1607,
+            "health": 3066,
+            "power": 1627
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Area",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Thalassa",
         "fancy_name": "Primordial Goddess of the Oceans",
         "AetherPower": "Heal Increase",
@@ -88061,9 +88132,9 @@ window.allHeroes =
             "* Firecaller Wizards",
             "Common",
             "* Tiny Iron Bundle",
-            "* Common Villager",
-            "* Barbaric Monks",
-            "* Barbaric Fighters"
+            "* Common Villagers",
+            "* Barbaric Fighters",
+            "* Barbaric Monks"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -90873,6 +90944,80 @@ window.allHeroes =
                 "负面效果": [
                     "Mana - Mana Gen ↓/Block",
                     "Dmg - DoT : Burn"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Natalya Toon",
+        "fancy_name": "Fireborn Toon",
+        "AetherPower": "Dodge",
+        "color": "Fire",
+        "class": "Sorcerer",
+        "speed": "Fast",
+        "skill": "Burning Toon Chains",
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-09-17",
+        "specialId": "burning_toon_chains",
+        "parent_specialId": "burning_chains",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "fire_god_natalya_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1369,
+        "defense": 1287,
+        "health": 2700,
+        "effects": [
+            "The target receives 1968 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target gets -54% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "The target gets -34% defense against Fire for 4 turns. This effect can't be cleansed.",
+            "Deals extra damage against Nature.",
+            "Element Link gives +10% mana generation for all Fire allies for 4 turns. This effect can't be dispelled."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ],
+        "family": "hotm2018",
+        "costume_id": 2,
+        "originalIndex": "fire_god_natalya_costume_cute",
+        "lb1": {
+            "attack": 1476,
+            "defense": 1387,
+            "health": 2910,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1689,
+            "defense": 1587,
+            "health": 3329,
+            "power": 1626
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Burn",
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -100879,6 +101024,84 @@ window.allHeroes =
                     "Atk - Attack ↓",
                     "Def - Defense ↓",
                     "Mana - Mana Gen ↓/Block",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Danzaburo Toon",
+        "fancy_name": "Dauntless Toon",
+        "AetherPower": "Gamble",
+        "color": "Holy",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Toon's Gambit",
+        "source": "S2 - Atlantis",
+        "Release date": "2026-09-17",
+        "specialId": "toons_gambit",
+        "parent_specialId": "tricksters_exchange",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "star": 4,
+        "power": 832,
+        "attack": 765,
+        "defense": 853,
+        "health": 1721,
+        "effects": [
+            "Perform a trick for a specific effect:",
+            "Swords",
+            "* Deals 300% damage to all enemies.",
+            "* All enemies get -60% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "* Deals extra damage against Dark.",
+            "Bottle",
+            "* All allies get +30% mana generation for 4 turns. This status effect is undispellable and lasts 2 turns longer on Holy characters. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "* All allies get +65% defense for 4 turns. This status effect is undispellable and lasts 2 turns longer on Holy characters.",
+            "Freeze",
+            "* The caster can't gain mana for 2 turns. This effect can't be cleansed."
+        ],
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": "s2_tanuki_raccoon_costume_cute",
+        "lb1": {
+            "attack": 831,
+            "defense": 927,
+            "health": 1870,
+            "power": 897
+        },
+        "lb2": {
+            "attack": 963,
+            "defense": 1075,
+            "health": 2168,
+            "power": 1026
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
                     "Status - Self-Debuff"
                 ]
             }
@@ -119555,78 +119778,6 @@ window.allHeroes =
         ]
     },
     {
-        "name": "Danzaburo Toon",
-        "fancy_name": "Dauntless Toon",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "star": 4,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "japanese",
-        "costume_id": 2,
-        "originalIndex": "s2_tanuki_raccoon_costume_cute",
-        "cn_skill_info": []
-    },
-    {
-        "name": "Tethys Toon",
-        "fancy_name": "Toon Goddess of All Rivers",
-        "AetherPower": "",
-        "color": "Ice",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "s2_tethys_costume_cute",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "atlantis",
-        "costume_id": 2,
-        "originalIndex": "s2_tethys_costume_cute",
-        "cn_skill_info": []
-    },
-    {
-        "name": "Natalya Toon",
-        "fancy_name": "Fireborn Toon",
-        "AetherPower": "",
-        "color": "Fire",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "fire_god_natalya_costume_cute",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2018",
-        "costume_id": 2,
-        "originalIndex": "fire_god_natalya_costume_cute",
-        "cn_skill_info": []
-    },
-    {
         "name": "Pyaza",
         "fancy_name": "Purple Onion Warlock",
         "AetherPower": "",
@@ -119672,6 +119823,222 @@ window.allHeroes =
         "family": "construct",
         "costume_id": 0,
         "originalIndex": "construct_nepant",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Fimafeng C",
+        "fancy_name": "Dwarven Ice Skating Master",
+        "AetherPower": "",
+        "color": "Fire",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "tales2_fimafeng_costume_skater",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "myrkheim",
+        "costume_id": 1,
+        "originalIndex": "tales2_fimafeng_costume_skater",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Kettle C",
+        "fancy_name": "Field Cook",
+        "AetherPower": "",
+        "color": "Ice",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "goblin_kettle_costume_field_cook",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "goblin",
+        "costume_id": 1,
+        "originalIndex": "goblin_kettle_costume_field_cook",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Clim",
+        "fancy_name": "Deadeye Sharpshooter",
+        "AetherPower": "",
+        "color": "Holy",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "scoundrel_clim",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "originalIndex": "scoundrel_clim",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Frida C",
+        "fancy_name": "Arctic Juggernaut",
+        "AetherPower": "",
+        "color": "Ice",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2019",
+        "costume_id": 1,
+        "originalIndex": "ice_god_frida_costume_juggernaut",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Horace B. F.",
+        "fancy_name": "Archery Champion",
+        "AetherPower": "",
+        "color": "Holy",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "champions_horace",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "champions",
+        "costume_id": 0,
+        "originalIndex": "champions_horace",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Peridot C",
+        "fancy_name": "Ninja of Deadly Herbs",
+        "AetherPower": "",
+        "color": "Nature",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ninja_peridot_costume_herbalist",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": "ninja_peridot_costume_herbalist",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Ishida Aoga",
+        "fancy_name": "Steel-Hearted Ronin",
+        "AetherPower": "",
+        "color": "Ice",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ronin_ishida_aoga",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": "ronin_ishida_aoga",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Maar",
+        "fancy_name": "Warden of the Rainforest",
+        "AetherPower": "",
+        "color": "Fire",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "titan_hunter_maar",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": "titan_hunter_maar",
+        "cn_skill_info": []
+    },
+    {
+        "name": "Jolt C",
+        "fancy_name": "Mythic Navigator",
+        "AetherPower": "",
+        "color": "Ice",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "elemental_jolt_costume_mythic",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_jolt_costume_mythic",
         "cn_skill_info": []
     }
 ];

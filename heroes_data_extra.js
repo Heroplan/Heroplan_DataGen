@@ -50427,5 +50427,81 @@ window.allHeroesExtra = [
             "mimic_iron_red"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Tethys toon",
+        "fancy name": "Toon Goddess of All Rivers",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-09-17",
+        "AetherPower": "Attack Up",
+        "heroId": "s2_tethys_costume_cute",
+        "baseAttack": 410,
+        "baseDefense": 370,
+        "baseHealth": 706,
+        "specialId": "amphibious_assault",
+        "specialId_costume": "toon_assault",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "71%",
+        "defenseBonus": "71%",
+        "healthBonus": "71%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Natalya toon",
+        "fancy name": "Fireborn Toon",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-09-17",
+        "AetherPower": "Dodge",
+        "heroId": "fire_god_natalya_costume_cute",
+        "baseAttack": 350,
+        "baseDefense": 329,
+        "baseHealth": 690,
+        "specialId": "burning_chains",
+        "specialId_costume": "burning_toon_chains",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "90%",
+        "defenseBonus": "90%",
+        "healthBonus": "90%",
+        "manaBonus": "5%",
+        "family": "hotm2018"
+    },
+    {
+        "name": "Danzaburo toon",
+        "fancy name": "Dauntless Toon",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2026-09-17",
+        "AetherPower": "Gamble",
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "baseAttack": 277,
+        "baseDefense": 309,
+        "baseHealth": 600,
+        "specialId": "tricksters_exchange",
+        "specialId_costume": "toons_gambit",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "35%",
+        "manaBonus": "5%",
+        "family": "japanese"
     }
 ];

@@ -2618,6 +2618,13 @@ const translatedPassivesCN =
         "passives": []
     },
     {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
+    },
+    {
         "heroId": "tales1_thalassa",
         "name": "Thalassa",
         "passives": [
@@ -11041,8 +11048,8 @@ const translatedPassivesCN =
             "普通：",
             "* 铁块微小礼包。",
             "* 普通村民。",
-            "* 野蛮僧侣。",
-            "* 野蛮战士。"
+            "* 野蛮战士。",
+            "* 野蛮僧侣。"
         ]
     },
     {
@@ -11375,6 +11382,14 @@ const translatedPassivesCN =
         "heroId": "fire_god_natalya_costume_seamstress",
         "name": "Natalya C1",
         "passives": [
+            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+        ]
+    },
+    {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。",
             "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
         ]
     },
@@ -12618,6 +12633,13 @@ const translatedPassivesCN =
         "heroId": "s2_tanuki_raccoon_costume_merchant",
         "name": "Danzaburo C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ]
     },
     {
         "heroId": "astral_dwarf_errin",
@@ -15002,21 +15024,6 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "name": "Danzaburo Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_tethys_costume_cute",
-        "name": "Tethys Toon",
-        "passives": []
-    },
-    {
-        "heroId": "fire_god_natalya_costume_cute",
-        "name": "Natalya Toon",
-        "passives": []
-    },
-    {
         "heroId": "vegetable_pyaza",
         "name": "Pyaza",
         "passives": []
@@ -15024,6 +15031,51 @@ const translatedPassivesCN =
     {
         "heroId": "construct_nepant",
         "name": "Nepant",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_kettle_costume_field_cook",
+        "name": "Kettle C",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_clim",
+        "name": "Clim",
+        "passives": []
+    },
+    {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C",
+        "passives": []
+    },
+    {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "passives": []
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "passives": []
     }
 ];

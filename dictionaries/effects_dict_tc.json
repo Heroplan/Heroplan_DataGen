@@ -5566,5 +5566,14 @@
     "^All\\s+enemies\\s+receive\\s+Mana\\s+Corruption\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Each\\s+time\\s+an\\s+afflicted\\s+enemy\\s+receives\\s+mana\\s+from\\s+additional\\s+source,\\s+they\\s+receive([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*$": "所有敵人受到法力腐朽，持續\\1個回合。每當受影響的目標從其他來源獲得法力時，都會受到\\2點傷害。",
     "^\\(Mana\\s+added\\s+for\\s+defense\\s+team\\s+at\\s+the\\s+end\\s+of\\s+their\\s+turn\\s+from\\s+matching\\s+shields\\s+activates\\s+Mana\\s+Corruption\\s+only\\s+if\\s+the\\s+target\\s+has\\s+a\\s+mana\\s+generation\\s+buff\\s+or\\s+a\\s+positive\\s+mana\\s+generation\\s+stack\\.?\\s*\\s+Mana\\s+additions\\s+from\\s+other\\s+sources\\s+always\\s+activate\\s+Mana\\s+Corruption\\.?\\s*\\)$": "（只有當目標具有法力產生增益或正的法力產生疊加時，於回合結束或從配對護盾中為防禦隊伍附加法力才會使法力腐朽生效。從其他來源附加法力一律會使法力腐朽生效。）",
     "^All\\s+allies\\s+activate\\s+Stoneskin\\s+that\\s+drops\\s+all\\s+damage\\s+dealt\\s+to\\s+the\\s+ally\\s+to([+-]?\\s*\\d+\\s*%?)but\\s+is\\s+removed\\s+after([+-]?\\s*\\d+\\s*%?)hits\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "所有盟友啟動石膚，将對盟友造成的所有傷害降至\\1點，但在\\2次命中後移除。此效果無法驅散。",
-    "^Summons\\s+a\\s+Recruit\\s+Guard\\s+Mega\\s+Minion\\s+with([+-]?\\s*\\d+\\s*%?)\\s+HP\\s+and([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+inherited\\s+from\\s+the\\s+caster\\.?\\s*$": "召喚一個從此施法者繼承\\1 生命值和\\2 攻擊力的新兵守衛超級小兵。"
+    "^Summons\\s+a\\s+Recruit\\s+Guard\\s+Mega\\s+Minion\\s+with([+-]?\\s*\\d+\\s*%?)\\s+HP\\s+and([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+inherited\\s+from\\s+the\\s+caster\\.?\\s*$": "召喚一個從此施法者繼承\\1 生命值和\\2 攻擊力的新兵守衛超級小兵。",
+    "^All\\s+\\{Element1\\}\\s+Heroes\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "所有{Element1}盟友獲得 \\1 攻擊，持續\\2回合。此效果無法驅散。",
+    "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+against\\s+\\{Element1\\}\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+cleansed\\.?\\s*$": "目標獲得對{Element1}系 \\1 的防禦，持續\\2回合。此效果無法淨化。",
+    "^Perform\\s+a\\s+trick\\s+for\\s+a\\s+specific\\s+effect:$": "變個戲法獲得特殊效果：",
+    "^Swords$": "刀劍：",
+    "^\\*\\s+Deals\\s+extra\\s+damage\\s+against\\s+\\{Element1\\}\\.?\\s*$": "* 對{Element1}系造成額外傷害。",
+    "^Bottle$": "瓶子：",
+    "^\\*\\s+All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+status\\s+effect\\s+is\\s+undispellable\\s+and\\s+lasts([+-]?\\s*\\d+\\s*%?)turns\\s+longer\\s+on\\s+\\{Element1\\}\\s+characters\\.?\\s*$": "* 所有盟友獲得 \\1 法力產出，持續\\2回合。對所有{Element1}系角色，此狀態效果變為無法驅散且持續時間延長\\3回合。",
+    "^\\*\\s+All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+status\\s+effect\\s+is\\s+undispellable\\s+and\\s+lasts([+-]?\\s*\\d+\\s*%?)turns\\s+longer\\s+on\\s+\\{Element1\\}\\s+characters\\.?\\s*$": "* 所有盟友獲得 \\1 防禦，持續\\2回合。 對所有{Element1}系角色，此狀態效果變為無法驅散且持續時間延長\\3回合。",
+    "^Freeze$": "冰凍："
 }

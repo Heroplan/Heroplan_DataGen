@@ -3295,6 +3295,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "effects": [
+            "Deals 410% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 909 Water damage over 3 turns.",
+            "All allies that are not of Ice element get +40% attack for 3 turns.",
+            "All Ice Heroes get +70% attack for 3 turns. This effect can't be dispelled.",
+            "Deals extra damage against Fire."
+        ]
+    },
+    {
         "heroId": "tales1_thalassa",
         "name": "Thalassa",
         "effects": [
@@ -14428,6 +14439,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "effects": [
+            "The target receives 1968 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target gets -54% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "The target gets -34% defense against Fire for 4 turns. This effect can't be cleansed.",
+            "Deals extra damage against Nature.",
+            "Element Link gives +10% mana generation for all Fire allies for 4 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "fire_god_neema",
         "name": "Neema",
         "effects": [
@@ -16024,6 +16046,22 @@ const allTranslations =
             "* All enemies get -44% defense for 3 turns.",
             "Clearance Sale",
             "* Increases the mana of all allies except the caster's by 3%. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "* The caster can't gain mana for 2 turns. This effect can't be cleansed."
+        ]
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "effects": [
+            "Perform a trick for a specific effect:",
+            "Swords",
+            "* Deals 300% damage to all enemies.",
+            "* All enemies get -60% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "* Deals extra damage against Dark.",
+            "Bottle",
+            "* All allies get +30% mana generation for 4 turns. This status effect is undispellable and lasts 2 turns longer on Holy characters. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "* All allies get +65% defense for 4 turns. This status effect is undispellable and lasts 2 turns longer on Holy characters.",
+            "Freeze",
             "* The caster can't gain mana for 2 turns. This effect can't be cleansed."
         ]
     },
@@ -18990,21 +19028,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "name": "Danzaburo Toon",
-        "effects": []
-    },
-    {
-        "heroId": "s2_tethys_costume_cute",
-        "name": "Tethys Toon",
-        "effects": []
-    },
-    {
-        "heroId": "fire_god_natalya_costume_cute",
-        "name": "Natalya Toon",
-        "effects": []
-    },
-    {
         "heroId": "vegetable_pyaza",
         "name": "Pyaza",
         "effects": []
@@ -19012,6 +19035,51 @@ const allTranslations =
     {
         "heroId": "construct_nepant",
         "name": "Nepant",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C",
+        "effects": []
+    },
+    {
+        "heroId": "goblin_kettle_costume_field_cook",
+        "name": "Kettle C",
+        "effects": []
+    },
+    {
+        "heroId": "scoundrel_clim",
+        "name": "Clim",
+        "effects": []
+    },
+    {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C",
+        "effects": []
+    },
+    {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "effects": []
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "effects": []
+    },
+    {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "effects": []
+    },
+    {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "effects": []
     }
 ];

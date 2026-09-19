@@ -2618,6 +2618,13 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "s2_tethys_costume_cute",
+        "name": "Tethys Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
+    },
+    {
         "heroId": "tales1_thalassa",
         "name": "Thalassa",
         "passives": [
@@ -11040,9 +11047,9 @@ const allTranslations =
             "* Firecaller Wizards",
             "Common",
             "* Tiny Iron Bundle",
-            "* Common Villager",
-            "* Barbaric Monks",
-            "* Barbaric Fighters"
+            "* Common Villagers",
+            "* Barbaric Fighters",
+            "* Barbaric Monks"
         ]
     },
     {
@@ -11375,6 +11382,14 @@ const allTranslations =
         "heroId": "fire_god_natalya_costume_seamstress",
         "name": "Natalya C1",
         "passives": [
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ]
+    },
+    {
+        "heroId": "fire_god_natalya_costume_cute",
+        "name": "Natalya Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist.",
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
@@ -12618,6 +12633,13 @@ const allTranslations =
         "heroId": "s2_tanuki_raccoon_costume_merchant",
         "name": "Danzaburo C1",
         "passives": []
+    },
+    {
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "name": "Danzaburo Toon",
+        "passives": [
+            "Empowered Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels. Gain 5% mana on each successful resist."
+        ]
     },
     {
         "heroId": "astral_dwarf_errin",
@@ -15002,21 +15024,6 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "name": "Danzaburo Toon",
-        "passives": []
-    },
-    {
-        "heroId": "s2_tethys_costume_cute",
-        "name": "Tethys Toon",
-        "passives": []
-    },
-    {
-        "heroId": "fire_god_natalya_costume_cute",
-        "name": "Natalya Toon",
-        "passives": []
-    },
-    {
         "heroId": "vegetable_pyaza",
         "name": "Pyaza",
         "passives": []
@@ -15024,6 +15031,51 @@ const allTranslations =
     {
         "heroId": "construct_nepant",
         "name": "Nepant",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C",
+        "passives": []
+    },
+    {
+        "heroId": "goblin_kettle_costume_field_cook",
+        "name": "Kettle C",
+        "passives": []
+    },
+    {
+        "heroId": "scoundrel_clim",
+        "name": "Clim",
+        "passives": []
+    },
+    {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C",
+        "passives": []
+    },
+    {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "passives": []
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "passives": []
+    },
+    {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "passives": []
+    },
+    {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "passives": []
     }
 ];

@@ -20925,6 +20925,77 @@ window.allHeroes =
         ]
     },
     {
+        "name": "忒提丝 (Tethys) 卡通",
+        "fancy_name": "卡通诸河女神",
+        "AetherPower": "攻击提升",
+        "color": "冰雪",
+        "class": "游侠",
+        "speed": "快速",
+        "skill": "卡通突袭",
+        "source": "S2 - 亚特兰蒂斯",
+        "Release date": "2026-09-17",
+        "specialId": "toon_assault",
+        "parent_specialId": "amphibious_assault",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_tethys_costume_cute",
+        "star": 5,
+        "power": 1343,
+        "attack": 1444,
+        "defense": 1303,
+        "health": 2486,
+        "effects": [
+            "对目标及附近敌人造成 410% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 909 点水系伤害。",
+            "所有不属于冰雪系的盟友获得 +40% 攻击力，持续 3 回合。",
+            "所有冰雪系盟友获得 +70% 攻击力，持续 3 回合。此效果无法驱散。",
+            "对烈火系造成额外伤害。"
+        ],
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ],
+        "family": "atlantis",
+        "costume_id": 2,
+        "originalIndex": "s2_tethys_costume_cute",
+        "lb1": {
+            "attack": 1556,
+            "defense": 1404,
+            "health": 2680,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1780,
+            "defense": 1607,
+            "health": 3066,
+            "power": 1627
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-范围",
+                    "伤害-持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-伤害↑：烈火"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻击-攻击力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：水"
+                ]
+            }
+        ]
+    },
+    {
         "name": "塔拉萨 (Thalassa)",
         "fancy_name": "原始海洋女神",
         "AetherPower": "治疗提升",
@@ -88062,8 +88133,8 @@ window.allHeroes =
             "普通：",
             "* 铁块微小礼包。",
             "* 普通村民。",
-            "* 野蛮僧侣。",
-            "* 野蛮战士。"
+            "* 野蛮战士。",
+            "* 野蛮僧侣。"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -90873,6 +90944,80 @@ window.allHeroes =
                 "负面效果": [
                     "法力-法力生成↓/阻止",
                     "伤害-持续伤害：燃烧"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "娜塔莉亚 (Natalya) 卡通",
+        "fancy_name": "火裔卡通",
+        "AetherPower": "闪避",
+        "color": "烈火",
+        "class": "术士",
+        "speed": "快速",
+        "skill": "炙热卡通锁链",
+        "source": "神话召唤 - 月英",
+        "Release date": "2026-09-17",
+        "specialId": "burning_toon_chains",
+        "parent_specialId": "burning_chains",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels",
+            "extra_special_dispel_newest"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "fire_god_natalya_costume_cute",
+        "star": 5,
+        "power": 1342,
+        "attack": 1369,
+        "defense": 1287,
+        "health": 2700,
+        "effects": [
+            "目标在 4 回合内受到共计 1968 点燃烧伤害。此效果无法净化。",
+            "目标获得 -54% 法力生成，持续 4 回合。此效果无法净化。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）",
+            "目标获得对烈火系 -34% 的防御，持续 4 回合。此效果无法净化。",
+            "对自然系造成额外伤害。",
+            "元素链为全体烈火系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
+        ],
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。",
+            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+        ],
+        "family": "hotm2018",
+        "costume_id": 2,
+        "originalIndex": "fire_god_natalya_costume_cute",
+        "lb1": {
+            "attack": 1476,
+            "defense": 1387,
+            "health": 2910,
+            "power": 1437
+        },
+        "lb2": {
+            "attack": 1689,
+            "defense": 1587,
+            "health": 3329,
+            "power": 1626
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "伤害-持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-伤害↑：自然"
+                ]
+            },
+            {
+                "增益效果": [
+                    "法力-法力生成↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-法力生成↓/阻止",
+                    "伤害-持续伤害：燃烧",
+                    "防御-防御↓：烈火"
                 ]
             }
         ]
@@ -100879,6 +101024,84 @@ window.allHeroes =
                     "攻击-攻击力↓",
                     "防御-防御力↓",
                     "法力-法力生成↓/阻止",
+                    "状态-自我减益"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "团三郎狸 (Danzaburo) 卡通",
+        "fancy_name": "无畏者卡通",
+        "AetherPower": "气运",
+        "color": "神圣",
+        "class": "盗贼",
+        "speed": "中等",
+        "skill": "卡通奇招",
+        "source": "S2 - 亚特兰蒂斯",
+        "Release date": "2026-09-17",
+        "specialId": "toons_gambit",
+        "parent_specialId": "tricksters_exchange",
+        "passiveSkills": [
+            "empowered_toon_resist_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "s2_tanuki_raccoon_costume_cute",
+        "star": 4,
+        "power": 832,
+        "attack": 765,
+        "defense": 853,
+        "health": 1721,
+        "effects": [
+            "变个戏法获得一个特殊效果：",
+            "刀剑：",
+            "* 对所有敌人造成 300% 伤害。",
+            "* 所有敌人获得 -60% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空。）",
+            "* 对暗黑系造成额外伤害。",
+            "瓶子：",
+            "* 所有盟友获得 +30% 法力生成，持续 4 回合。对所有神圣系角色，此状态效果无法驱散且持续时间延长 2 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）",
+            "* 所有盟友获得 +65% 防御，持续 4 回合。对所有神圣系角色，此状态效果无法驱散且持续时间延长 2 回合。",
+            "冰冻：",
+            "* 施法者无法获得法力，持续 2 回合。此效果无法净化。"
+        ],
+        "passives": [
+            "强化卡通：额外 75% 几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得 5% 法力。"
+        ],
+        "family": "japanese",
+        "costume_id": 2,
+        "originalIndex": "s2_tanuki_raccoon_costume_cute",
+        "lb1": {
+            "attack": 831,
+            "defense": 927,
+            "health": 1870,
+            "power": 897
+        },
+        "lb2": {
+            "attack": 963,
+            "defense": 1075,
+            "health": 2168,
+            "power": 1026
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-全体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-赌博/随机效果",
+                    "伤害-伤害↑：暗黑"
+                ]
+            },
+            {
+                "增益效果": [
+                    "法力-法力生成↑",
+                    "防御-防御力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻击-命中率↓",
                     "状态-自我减益"
                 ]
             }
@@ -119555,78 +119778,6 @@ window.allHeroes =
         ]
     },
     {
-        "name": "团三郎狸 (Danzaburo) 卡通",
-        "fancy_name": "无畏者卡通",
-        "AetherPower": "",
-        "color": "神圣",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "s2_tanuki_raccoon_costume_cute",
-        "star": 4,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "japanese",
-        "costume_id": 2,
-        "originalIndex": "s2_tanuki_raccoon_costume_cute",
-        "cn_skill_info": []
-    },
-    {
-        "name": "忒提丝 (Tethys) 卡通",
-        "fancy_name": "卡通诸河女神",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "s2_tethys_costume_cute",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "atlantis",
-        "costume_id": 2,
-        "originalIndex": "s2_tethys_costume_cute",
-        "cn_skill_info": []
-    },
-    {
-        "name": "娜塔莉亚 (Natalya) 卡通",
-        "fancy_name": "火裔卡通",
-        "AetherPower": "",
-        "color": "烈火",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "fire_god_natalya_costume_cute",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2018",
-        "costume_id": 2,
-        "originalIndex": "fire_god_natalya_costume_cute",
-        "cn_skill_info": []
-    },
-    {
         "name": "皮亚扎 (Pyaza)",
         "fancy_name": "紫洋葱术士",
         "AetherPower": "",
@@ -119672,6 +119823,222 @@ window.allHeroes =
         "family": "construct",
         "costume_id": 0,
         "originalIndex": "construct_nepant",
+        "cn_skill_info": []
+    },
+    {
+        "name": "费玛芬格 (Fimafeng) C",
+        "fancy_name": "矮人滑冰大师",
+        "AetherPower": "",
+        "color": "烈火",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "tales2_fimafeng_costume_skater",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "myrkheim",
+        "costume_id": 1,
+        "originalIndex": "tales2_fimafeng_costume_skater",
+        "cn_skill_info": []
+    },
+    {
+        "name": "凯特尔 (Kettle) C",
+        "fancy_name": "战地厨师",
+        "AetherPower": "",
+        "color": "冰雪",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "goblin_kettle_costume_field_cook",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "goblin",
+        "costume_id": 1,
+        "originalIndex": "goblin_kettle_costume_field_cook",
+        "cn_skill_info": []
+    },
+    {
+        "name": "克利姆 (Clim)",
+        "fancy_name": "神射手",
+        "AetherPower": "",
+        "color": "神圣",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "scoundrel_clim",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "originalIndex": "scoundrel_clim",
+        "cn_skill_info": []
+    },
+    {
+        "name": "弗里达 (Frida) C",
+        "fancy_name": "极地主宰",
+        "AetherPower": "",
+        "color": "冰雪",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2019",
+        "costume_id": 1,
+        "originalIndex": "ice_god_frida_costume_juggernaut",
+        "cn_skill_info": []
+    },
+    {
+        "name": "霍勒斯·B. F. (Horace B. F.)",
+        "fancy_name": "弓术冠军",
+        "AetherPower": "",
+        "color": "神圣",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "champions_horace",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "champions",
+        "costume_id": 0,
+        "originalIndex": "champions_horace",
+        "cn_skill_info": []
+    },
+    {
+        "name": "珮绿朵 (Peridot) C",
+        "fancy_name": "致命药草忍者",
+        "AetherPower": "",
+        "color": "自然",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ninja_peridot_costume_herbalist",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": "ninja_peridot_costume_herbalist",
+        "cn_skill_info": []
+    },
+    {
+        "name": "石田苍牙 (Ishida Aoga)",
+        "fancy_name": "铁心浪人",
+        "AetherPower": "",
+        "color": "冰雪",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ronin_ishida_aoga",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": "ronin_ishida_aoga",
+        "cn_skill_info": []
+    },
+    {
+        "name": "玛尔 (Maar)",
+        "fancy_name": "雨林守卫",
+        "AetherPower": "",
+        "color": "烈火",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "titan_hunter_maar",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": "titan_hunter_maar",
+        "cn_skill_info": []
+    },
+    {
+        "name": "珠尔特 (Jolt) C",
+        "fancy_name": "神话领航员",
+        "AetherPower": "",
+        "color": "冰雪",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "elemental_jolt_costume_mythic",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_jolt_costume_mythic",
         "cn_skill_info": []
     }
 ];
