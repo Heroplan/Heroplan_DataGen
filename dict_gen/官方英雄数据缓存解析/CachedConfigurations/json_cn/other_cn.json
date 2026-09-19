@@ -98109,6 +98109,186 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tales2_sep26",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 50,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 50,
+                    "defenseBonusPerMil": 50,
+                    "healthBonusPerMil": 70,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 125,
+                    "healthBonusPerMil": 135,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "goblin_sep26",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 145,
+                    "defenseBonusPerMil": 145,
+                    "healthBonusPerMil": 145,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 265,
+                    "defenseBonusPerMil": 265,
+                    "healthBonusPerMil": 265,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 375,
+                    "defenseBonusPerMil": 375,
+                    "healthBonusPerMil": 375,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 515,
+                    "defenseBonusPerMil": 520,
+                    "healthBonusPerMil": 520,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "legends_sep26",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 430,
+                    "defenseBonusPerMil": 430,
+                    "healthBonusPerMil": 550,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 580,
+                    "defenseBonusPerMil": 580,
+                    "healthBonusPerMil": 650,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 730,
+                    "defenseBonusPerMil": 730,
+                    "healthBonusPerMil": 750,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 920,
+                    "defenseBonusPerMil": 915,
+                    "healthBonusPerMil": 920,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ninja_sep26",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 470,
+                    "defenseBonusPerMil": 470,
+                    "healthBonusPerMil": 470,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 570,
+                    "defenseBonusPerMil": 570,
+                    "healthBonusPerMil": 570,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 670,
+                    "defenseBonusPerMil": 670,
+                    "healthBonusPerMil": 670,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 790,
+                    "defenseBonusPerMil": 785,
+                    "healthBonusPerMil": 780,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -100376,5 +100556,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3132419443
+  "otherConfigId": 3247014819
 }

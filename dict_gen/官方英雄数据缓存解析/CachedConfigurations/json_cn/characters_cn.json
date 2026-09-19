@@ -5560,7 +5560,7 @@
     "specialId": "极地怒击",
     "canBeReceivedDate": "2019-03-01 07:00:00",
     "origin": "MonthlyHeroMarch2019",
-    "costumeBonusesId": "legends_aug2026"
+    "costumeBonusesId": "legends_sep26"
   },
   "fire_god_anzogh": {
     "id": "安佐",
@@ -8657,7 +8657,7 @@
     "specialId": "窒息浓烟",
     "canBeReceivedDate": "2022-02-02 07:00:00",
     "origin": "忍者高塔",
-    "costumeBonusesId": "ninja_june_2026"
+    "costumeBonusesId": "ninja_sep26"
   },
   "ninja_quartz": {
     "id": "瓜尔茨",
@@ -19617,7 +19617,7 @@
     "specialId": "诡异菜品",
     "canBeReceivedDate": "2023-09-18 07:00:00",
     "origin": "哥布林村",
-    "costumeBonusesId": "goblin"
+    "costumeBonusesId": "goblin_sep26"
   },
   "goblin_smarttongue": {
     "id": "巧舌妇",
@@ -27246,7 +27246,7 @@
     "specialId": "自卫本能",
     "canBeReceivedDate": "2025-07-11 07:00:00",
     "origin": "烈焰与冰霜宝藏",
-    "costumeBonusesId": "tales2"
+    "costumeBonusesId": "tales2_sep26"
   },
   "tales2_bragi": {
     "id": "布拉吉",
@@ -34861,7 +34861,7 @@
     "id": "致命药草忍者",
     "element": "绿",
     "family": "忍者家族",
-    "baseHealth": 697,
+    "baseHealth": 700,
     "baseAttack": 355,
     "baseDefense": 410,
     "manaSpeedId": "charge_ninja",
@@ -35055,7 +35055,7 @@
     "element": "蓝",
     "family": "hotm2019",
     "baseHealth": 645,
-    "baseAttack": 357,
+    "baseAttack": 358,
     "baseDefense": 350,
     "manaSpeedId": "中等",
     "passiveSkills": [
@@ -35766,8 +35766,8 @@
     "element": "黄",
     "family": "暗影无赖家族",
     "baseHealth": 1165,
-    "baseAttack": 690,
-    "baseDefense": 685,
+    "baseAttack": 700,
+    "baseDefense": 690,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "cheat_death",
@@ -37989,8 +37989,8 @@
     "element": "蓝",
     "family": "浪人家族",
     "baseHealth": 1148,
-    "baseAttack": 678,
-    "baseDefense": 657,
+    "baseAttack": 713,
+    "baseDefense": 683,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -38355,9 +38355,9 @@
     "id": "霍勒斯·B. F.",
     "element": "黄",
     "family": "冠军家族",
-    "baseHealth": 1215,
-    "baseAttack": 668,
-    "baseDefense": 689,
+    "baseHealth": 1216,
+    "baseAttack": 672,
+    "baseDefense": 700,
     "manaSpeedId": "非常慢",
     "passiveSkills": [
       "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",

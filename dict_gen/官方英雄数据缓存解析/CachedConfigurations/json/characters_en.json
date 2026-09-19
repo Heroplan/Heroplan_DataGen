@@ -5560,7 +5560,7 @@
     "specialId": "polar_bash",
     "canBeReceivedDate": "2019-03-01 07:00:00",
     "origin": "MonthlyHeroMarch2019",
-    "costumeBonusesId": "legends_aug2026"
+    "costumeBonusesId": "legends_sep26"
   },
   "fire_god_anzogh": {
     "id": "Shaman with a Grudge",
@@ -8657,7 +8657,7 @@
     "specialId": "suffocating_smoke",
     "canBeReceivedDate": "2022-02-02 07:00:00",
     "origin": "Ninja Tower",
-    "costumeBonusesId": "ninja_june_2026"
+    "costumeBonusesId": "ninja_sep26"
   },
   "ninja_quartz": {
     "id": "Ninja of Quiet Graves",
@@ -19617,7 +19617,7 @@
     "specialId": "dubious_cuisine",
     "canBeReceivedDate": "2023-09-18 07:00:00",
     "origin": "Goblin Village",
-    "costumeBonusesId": "goblin"
+    "costumeBonusesId": "goblin_sep26"
   },
   "goblin_smarttongue": {
     "id": "Goblin Bard",
@@ -27246,7 +27246,7 @@
     "specialId": "self_preservation",
     "canBeReceivedDate": "2025-07-11 07:00:00",
     "origin": "Treasures of Flame and Frost",
-    "costumeBonusesId": "tales2"
+    "costumeBonusesId": "tales2_sep26"
   },
   "tales2_bragi": {
     "id": "Dwarven Prizefighter",
@@ -34861,7 +34861,7 @@
     "id": "Ninja of Deadly Herbs",
     "element": "Green",
     "family": "ninja",
-    "baseHealth": 697,
+    "baseHealth": 700,
     "baseAttack": 355,
     "baseDefense": 410,
     "manaSpeedId": "charge_ninja",
@@ -35055,7 +35055,7 @@
     "element": "Blue",
     "family": "hotm2019",
     "baseHealth": 645,
-    "baseAttack": 357,
+    "baseAttack": 358,
     "baseDefense": 350,
     "manaSpeedId": "average",
     "passiveSkills": [
@@ -35766,8 +35766,8 @@
     "element": "Yellow",
     "family": "shady_scoundrels",
     "baseHealth": 1165,
-    "baseAttack": 690,
-    "baseDefense": 685,
+    "baseAttack": 700,
+    "baseDefense": 690,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "cheat_death",
@@ -37989,8 +37989,8 @@
     "element": "Blue",
     "family": "ronin",
     "baseHealth": 1148,
-    "baseAttack": 678,
-    "baseDefense": 657,
+    "baseAttack": 713,
+    "baseDefense": 683,
     "manaSpeedId": "charge_ninja",
     "passiveSkills": [
       "dishonorable_death",
@@ -38355,9 +38355,9 @@
     "id": "Archery Champion",
     "element": "Yellow",
     "family": "champions",
-    "baseHealth": 1215,
-    "baseAttack": 668,
-    "baseDefense": 689,
+    "baseHealth": 1216,
+    "baseAttack": 672,
+    "baseDefense": 700,
     "manaSpeedId": "very_slow",
     "passiveSkills": [
       "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",

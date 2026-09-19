@@ -1078,7 +1078,7 @@
         "id": "lottery_season_untold_tales2",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 204,
+        "uiPriority": 215,
         "bonusChest": "untold_tales2",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 12,
@@ -2176,7 +2176,7 @@
         "id": "lottery_hotm_event_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 210,
+        "uiPriority": 217,
         "associatedEvent": "HeroesOfTheMonthEvent",
         "bonusChest": "legends_chest",
         "bonusChestRequirement": 10,
@@ -3585,7 +3585,7 @@
         "id": "lottery_tower_ninja_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 205,
+        "uiPriority": 218,
         "associatedEvent": "TowerNinja",
         "bucketWeights": [
           643,
@@ -19589,7 +19589,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36158,7 +36157,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic5_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56440,7 +56438,7 @@
         "id": "lottery_goblin_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 206,
+        "uiPriority": 216,
         "associatedEvent": "Goblin"
       },
       {
@@ -58969,5 +58967,5 @@
       }
     ]
   },
-  "productsConfigId": 3113547580
+  "productsConfigId": 4043342995
 }
