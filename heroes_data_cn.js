@@ -66529,6 +66529,82 @@ window.allHeroes =
         ]
     },
     {
+        "name": "皮亚扎 (Pyaza)",
+        "fancy_name": "紫洋葱术士",
+        "AetherPower": "攻击提升",
+        "color": "暗黑",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "御木之泪",
+        "source": "挑战 - 英勇植物召唤",
+        "Release date": "2026-09-19",
+        "specialId": "chlorokinesis_tears",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_pyaza",
+        "star": 5,
+        "power": 1362,
+        "attack": 1431,
+        "defense": 1404,
+        "health": 2457,
+        "effects": [
+            "对所有敌人造成 500% 伤害。",
+            "敌人每拥有一名恶魔或超级恶魔，便造成额外 5% 伤害，最多累计造成 550% 伤害。",
+            "所有敌人受到的所有伤害增加 25%，持续 5 回合。",
+            "如果施法者在后续 5 回合中被击败，该施法者将于下一个回合开始时以 35% 的生命复活，并对所有敌人造成 1000 点伤害。（施法者被击败时所有状态和叠加效果会被移除。）"
+        ],
+        "passives": [
+            "强化抵抗特殊技能格挡: 此英雄免疫禁用特殊技能的状态异常。每次抵抗时还会获得 450 点生命加成和 5% 法力。",
+            "幼苗召唤师：每回合为一名随机敌人召唤一个幼苗恶魔。",
+            "* 2 回合后，幼苗恶魔进化为萌芽恶魔。",
+            "* 再过 2 回合后萌芽恶魔进化为鲜花超级恶魔。",
+            "* 恶魔每次吸收治疗时，其进化将延迟 1 回合。",
+            "1 ） 幼苗恶魔: 50% 攻击力， 20% 生命值。",
+            "2 ） 萌芽恶魔: 75% 攻击力， 30% 生命值。",
+            "3 ） 鲜花超级恶魔: 250% 攻击力， 60% 生命值。"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": "vegetable_pyaza",
+        "lb1": {
+            "attack": 1542,
+            "defense": 1514,
+            "health": 2648,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1765,
+            "defense": 1732,
+            "health": 3030,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-全体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害",
+                    "伤害-条件触发"
+                ]
+            },
+            {
+                "增益效果": [
+                    "治疗-自我复活"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防御-受到伤害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "瓜尔茨 (Quartz)",
         "fancy_name": "静墓忍者",
         "AetherPower": "防御提升",
@@ -119776,30 +119852,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "皮亚扎 (Pyaza)",
-        "fancy_name": "紫洋葱术士",
-        "AetherPower": "",
-        "color": "暗黑",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_pyaza",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": "vegetable_pyaza",
-        "cn_skill_info": []
     },
     {
         "name": "尼潘特 (Nepant)",

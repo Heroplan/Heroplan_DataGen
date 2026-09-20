@@ -66529,6 +66529,82 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Pyaza",
+        "fancy_name": "Purple Onion Warlock",
+        "AetherPower": "Attack Up",
+        "color": "Dark",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "Chlorokinesis Tears",
+        "source": "Challenge - Vigilant Vegetables Summon",
+        "Release date": "2026-09-19",
+        "specialId": "chlorokinesis_tears",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_pyaza",
+        "star": 5,
+        "power": 1362,
+        "attack": 1431,
+        "defense": 1404,
+        "health": 2457,
+        "effects": [
+            "Deals 500% damage to all enemies.",
+            "Deals additional 5% damage for each Fiend or Mega Fiend owned by the enemies, up to 550% damage in total.",
+            "All damage all enemies receive is increased by 25% for 5 turns.",
+            "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 35% health and 1000 damage is dealt to all enemies. (All status effects and stacks are removed when the caster is defeated.)"
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
+            "1) Seedling Fiend: 50% attack, 20% health",
+            "2) Sprout Fiend: 75% attack, 30% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": "vegetable_pyaza",
+        "lb1": {
+            "attack": 1542,
+            "defense": 1514,
+            "health": 2648,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1765,
+            "defense": 1732,
+            "health": 3030,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Dmg - Conditional Trigger"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Quartz",
         "fancy_name": "Ninja of Quiet Graves",
         "AetherPower": "Defense Up",
@@ -119776,30 +119852,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Pyaza",
-        "fancy_name": "Purple Onion Warlock",
-        "AetherPower": "",
-        "color": "Dark",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_pyaza",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": "vegetable_pyaza",
-        "cn_skill_info": []
     },
     {
         "name": "Nepant",

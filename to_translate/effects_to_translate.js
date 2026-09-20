@@ -10568,6 +10568,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "vegetable_pyaza",
+        "name": "Pyaza",
+        "effects": [
+            "Deals 500% damage to all enemies.",
+            "Deals additional 5% damage for each Fiend or Mega Fiend owned by the enemies, up to 550% damage in total.",
+            "All damage all enemies receive is increased by 25% for 5 turns.",
+            "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 35% health and 1000 damage is dealt to all enemies. (All status effects and stacks are removed when the caster is defeated.)"
+        ]
+    },
+    {
         "heroId": "ninja_quartz",
         "name": "Quartz",
         "effects": [
@@ -19026,11 +19036,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "vegetable_pyaza",
-        "name": "Pyaza",
-        "effects": []
     },
     {
         "heroId": "construct_nepant",

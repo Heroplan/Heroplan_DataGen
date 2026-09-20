@@ -10568,6 +10568,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "vegetable_pyaza",
+        "name": "Pyaza",
+        "effects": [
+            "對所有敵人造成 500% 傷害。",
+            "敵人每持有一名惡魔或超級惡魔，都將造成 5% 額外傷害，最多累積造成 550% 傷害。",
+            "所有敵人受到的所有傷害提高 25%，持續 5 回合。",
+            "如果施法者在後續 5 個回合中被擊敗，他們將在下一個回合開始時以 35% 生命值復活，並對所有敵人造成 1000 點傷害。（施法者被擊敗時，所有狀態效果與疊加會被移除。）"
+        ]
+    },
+    {
         "heroId": "ninja_quartz",
         "name": "Quartz",
         "effects": [
@@ -19026,11 +19036,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +15% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "vegetable_pyaza",
-        "name": "Pyaza",
-        "effects": []
     },
     {
         "heroId": "construct_nepant",

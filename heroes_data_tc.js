@@ -66529,6 +66529,82 @@ window.allHeroes =
         ]
     },
     {
+        "name": "琵雅札 (Pyaza)",
+        "fancy_name": "紫色洋蔥術士",
+        "AetherPower": "攻擊提升",
+        "color": "暗黑",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "御木之淚",
+        "source": "挑戰 - 警戒蔬菜召唤",
+        "Release date": "2026-09-19",
+        "specialId": "chlorokinesis_tears",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_pyaza",
+        "star": 5,
+        "power": 1362,
+        "attack": 1431,
+        "defense": 1404,
+        "health": 2457,
+        "effects": [
+            "對所有敵人造成 500% 傷害。",
+            "敵人每持有一名惡魔或超級惡魔，都將造成 5% 額外傷害，最多累積造成 550% 傷害。",
+            "所有敵人受到的所有傷害提高 25%，持續 5 回合。",
+            "如果施法者在後續 5 個回合中被擊敗，他們將在下一個回合開始時以 35% 生命值復活，並對所有敵人造成 1000 點傷害。（施法者被擊敗時，所有狀態效果與疊加會被移除。）"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "樹苗召喚：每回合對一位随機敵人召喚一個種子恶魔。",
+            "* 2 回合後，種子惡魔會進化為發芽惡魔。",
+            "* 2 回合後，發芽惡魔會进化為盛開超級惡魔。",
+            "* 惡魔每次吸收傷害後，進化會延遲 1 回合。",
+            "1 ） 种子惡魔： 50% 攻撃、 20% 生命。",
+            "2 ） 發芽惡魔： 75% 攻撃、 30% 生命。",
+            "3 ） 盛开超級惡魔： 250% 攻撃、 60% 生命。"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": "vegetable_pyaza",
+        "lb1": {
+            "attack": 1542,
+            "defense": 1514,
+            "health": 2648,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1765,
+            "defense": 1732,
+            "health": 3030,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-全體"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害",
+                    "傷害-條件觸發"
+                ]
+            },
+            {
+                "增益效果": [
+                    "治療-自我復活"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-受到傷害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "石英 (Quartz)",
         "fancy_name": "幽靜墳場忍者",
         "AetherPower": "防禦提升",
@@ -119776,30 +119852,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "琵雅札 (Pyaza)",
-        "fancy_name": "紫色洋蔥術士",
-        "AetherPower": "",
-        "color": "暗黑",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_pyaza",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": "vegetable_pyaza",
-        "cn_skill_info": []
     },
     {
         "name": "尼潘特 (Nepant)",

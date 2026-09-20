@@ -1,20 +1,11 @@
-INFO - 成功加载并规范化 1888 条中文额外数据。
+INFO - 成功加载并规范化 1897 条中文额外数据。
 INFO - [skill] 已加载 cn 技能 2663 条
 INFO - [skill] 已加载 tc 技能 2663 条
 INFO - [skill] 已加载 en 技能 2663 条
 WARNING - 
---- 发现 9 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-INFO - 检测到 9 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
-INFO - 准备为 'Clim' 添加新条目，键名为 'Clim'。
-INFO - 准备为 'Fimafeng C' 添加新条目，键名为 'Fimafeng C'。
-INFO - 准备为 'Frida C' 添加新条目，键名为 'Frida C'。
-INFO - 准备为 'Horace B. F.' 添加新条目，键名为 'Horace B. F.'。
-INFO - 准备为 'Ishida Aoga' 添加新条目，键名为 'Ishida Aoga'。
-INFO - 准备为 'Jolt C' 添加新条目，键名为 'Jolt C'。
-INFO - 准备为 'Kettle C' 添加新条目，键名为 'Kettle C'。
-INFO - 准备为 'Maar' 添加新条目，键名为 'Maar'。
-INFO - 准备为 'Peridot C' 添加新条目，键名为 'Peridot C'。
-INFO - 成功！已将 9 个新的空白英雄条目追加到 'heroes_data_extra_skill_cn.json'，并规范化了所有现有键。
+--- 发现 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
+INFO - 检测到 5 个英雄可能在 'heroes_data_extra_skill_cn.json' 中缺少条目。正在检查并准备追加...
+INFO - 无需向 'heroes_data_extra_skill_cn.json' 追加新条目，文件已是最新。
 INFO - 成功加载并规范化 1897 条中文额外数据。
 WARNING - 
 --- 发现 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---

@@ -50503,5 +50503,25 @@ window.allHeroesExtra = [
         "healthBonus": "35%",
         "manaBonus": "5%",
         "family": "japanese"
+    },
+    {
+        "name": "Pyaza",
+        "fancy name": "Purple Onion Warlock",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-09-19",
+        "AetherPower": "Attack Up",
+        "heroId": "vegetable_pyaza",
+        "baseAttack": 695,
+        "baseDefense": 682,
+        "baseHealth": 1193,
+        "specialId": "chlorokinesis_tears",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

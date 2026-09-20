@@ -1,17 +1,5 @@
 [
     {
-        "name": "Pyaza",
-        "fancy_name": "Purple Onion Warlock",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-19 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_pyaza",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Nepant",
         "fancy_name": "Junkyard Squire Construct",
         "color": "Green",
