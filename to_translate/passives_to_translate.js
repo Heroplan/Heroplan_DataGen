@@ -5329,6 +5329,18 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
+        ]
+    },
+    {
         "heroId": "champions_nogu",
         "name": "Nogu",
         "passives": [
@@ -15036,11 +15048,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "construct_nepant",
-        "name": "Nepant",
-        "passives": []
     },
     {
         "heroId": "tales2_fimafeng_costume_skater",

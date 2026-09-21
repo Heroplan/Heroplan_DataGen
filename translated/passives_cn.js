@@ -5329,6 +5329,18 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
+        "passives": [
+            "强化抵抗特殊技能格挡: 此英雄免疫禁用特殊技能的状态异常。每次抵抗时还会获得 450 点生命加成和 5% 法力。",
+            "小兵核心：此角色的机械核心为小兵核心。每当此角色施放特殊技能时，都会启动小兵核心：",
+            "* 若小兵核心已完全充满，为所有盟友召唤一个杀戮机器人小兵，小兵继承施法者的 25% 生命值和 110% 攻击力。",
+            "* 核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。",
+            "* 每回合结束时，小兵为其所有者恢复 7% 的生命值。",
+            "* 衰退：杀戮机器人小兵每次命中，会给予目标 -40 攻击力。"
+        ]
+    },
+    {
         "heroId": "champions_nogu",
         "name": "Nogu",
         "passives": [
@@ -15036,11 +15048,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "construct_nepant",
-        "name": "Nepant",
-        "passives": []
     },
     {
         "heroId": "tales2_fimafeng_costume_skater",

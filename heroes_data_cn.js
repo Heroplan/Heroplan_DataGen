@@ -42754,6 +42754,74 @@ window.allHeroes =
         ]
     },
     {
+        "name": "尼潘特 (Nepant)",
+        "fancy_name": "废土侍从机械",
+        "AetherPower": "治疗提升",
+        "color": "自然",
+        "class": "盗贼",
+        "speed": "快速",
+        "skill": "再生武器",
+        "source": "盟约召唤",
+        "Release date": "2026-09-20",
+        "specialId": "recycled_weapons",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_nepant",
+        "star": 5,
+        "power": 1362,
+        "attack": 1425,
+        "defense": 1409,
+        "health": 2461,
+        "effects": [
+            "提高所有盟友 700 点生命值。提高的生命值可以超过最大生命值。",
+            "全体盟友获得 +50% 攻击力，持续 3 回合。如果该效果在持续时间结束前被移除，拥有该效果的盟友将获得 +5% 法力。",
+            "3 回合后，施法者对所有敌人造成 600 点伤害。若该效果在持续时间结束前被移除或取代，则改为造成 1000 点伤害。"
+        ],
+        "passives": [
+            "强化抵抗特殊技能格挡: 此英雄免疫禁用特殊技能的状态异常。每次抵抗时还会获得 450 点生命加成和 5% 法力。",
+            "小兵核心：此角色的机械核心为小兵核心。每当此角色施放特殊技能时，都会启动小兵核心：",
+            "* 若小兵核心已完全充满，为所有盟友召唤一个杀戮机器人小兵，小兵继承施法者的 25% 生命值和 110% 攻击力。",
+            "* 核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。",
+            "* 每回合结束时，小兵为其所有者恢复 7% 的生命值。",
+            "* 衰退：杀戮机器人小兵每次命中，会给予目标 -40 攻击力。"
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": "construct_nepant",
+        "lb1": {
+            "attack": 1536,
+            "defense": 1518,
+            "health": 2652,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1757,
+            "defense": 1737,
+            "health": 3035,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治疗-提高生命"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力恢复",
+                    "伤害-条件触发"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻击-攻击力↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "诺古 (Nogu)",
         "fancy_name": "标枪投掷冠军",
         "AetherPower": "攻击提升",
@@ -119852,30 +119920,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "尼潘特 (Nepant)",
-        "fancy_name": "废土侍从机械",
-        "AetherPower": "",
-        "color": "自然",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "construct_nepant",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "construct",
-        "costume_id": 0,
-        "originalIndex": "construct_nepant",
-        "cn_skill_info": []
     },
     {
         "name": "费玛芬格 (Fimafeng) C",

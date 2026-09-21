@@ -42754,6 +42754,74 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Nepant",
+        "fancy_name": "Junkyard Squire Construct",
+        "AetherPower": "Heal Increase",
+        "color": "Nature",
+        "class": "Rogue",
+        "speed": "Fast",
+        "skill": "Recycled Weapons",
+        "source": "Covenant Summon",
+        "Release date": "2026-09-20",
+        "specialId": "recycled_weapons",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_nepant",
+        "star": 5,
+        "power": 1362,
+        "attack": 1425,
+        "defense": 1409,
+        "health": 2461,
+        "effects": [
+            "Boosts health of all allies by 700. Boosted health can exceed max HP.",
+            "All allies get +50% attack for 3 turns. If this effect is removed before the duration ends, the ally with the effect get +5% mana.",
+            "The caster deals 600 damage to all enemies after 3 turns. If this effect is removed or replaced before the duration ends, deals 1000 damage instead."
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast.",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and 110% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* The Killer Bot Minion recovers 7% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -40 attack."
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": "construct_nepant",
+        "lb1": {
+            "attack": 1536,
+            "defense": 1518,
+            "health": 2652,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1757,
+            "defense": 1737,
+            "health": 3035,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal - Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain",
+                    "Dmg - Conditional Trigger"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Nogu",
         "fancy_name": "Javelin Throw Champion",
         "AetherPower": "Attack Up",
@@ -119852,30 +119920,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Nepant",
-        "fancy_name": "Junkyard Squire Construct",
-        "AetherPower": "",
-        "color": "Nature",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "construct_nepant",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "construct",
-        "costume_id": 0,
-        "originalIndex": "construct_nepant",
-        "cn_skill_info": []
     },
     {
         "name": "Fimafeng C",

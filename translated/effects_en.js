@@ -6780,6 +6780,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
+        "effects": [
+            "Boosts health of all allies by 700. Boosted health can exceed max HP.",
+            "All allies get +50% attack for 3 turns. If this effect is removed before the duration ends, the ally with the effect get +5% mana.",
+            "The caster deals 600 damage to all enemies after 3 turns. If this effect is removed or replaced before the duration ends, deals 1000 damage instead."
+        ]
+    },
+    {
         "heroId": "champions_nogu",
         "name": "Nogu",
         "effects": [
@@ -19036,11 +19045,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "construct_nepant",
-        "name": "Nepant",
-        "effects": []
     },
     {
         "heroId": "tales2_fimafeng_costume_skater",

@@ -5570,5 +5570,6 @@
     "^Bottle$": "瓶子：",
     "^\\*\\s+All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+status\\s+effect\\s+is\\s+undispellable\\s+and\\s+lasts([+-]?\\s*\\d+\\s*%?)turns\\s+longer\\s+on\\s+\\{Element1\\}\\s+characters\\.?\\s*$": "* 所有盟友获得 \\1 法力生成，持续\\2回合。对所有{Element1}系角色，此状态效果无法驱散且持续时间延长\\3回合。",
     "^\\*\\s+All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+defense\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+status\\s+effect\\s+is\\s+undispellable\\s+and\\s+lasts([+-]?\\s*\\d+\\s*%?)turns\\s+longer\\s+on\\s+\\{Element1\\}\\s+characters\\.?\\s*$": "* 所有盟友获得 \\1 防御，持续\\2回合。对所有{Element1}系角色，此状态效果无法驱散且持续时间延长\\3回合。",
-    "^Freeze$": "冰冻："
+    "^Freeze$": "冰冻：",
+    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+If\\s+this\\s+effect\\s+is\\s+removed\\s+before\\s+the\\s+duration\\s+ends,\\s+the\\s+ally\\s+with\\s+the\\s+effect\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\.?\\s*$": "全体盟友获得\\1攻击力，持续\\2回合。如果该效果在持续时间结束前被移除，拥有该效果的盟友将获得\\3法力。"
 }

@@ -42754,6 +42754,74 @@ window.allHeroes =
         ]
     },
     {
+        "name": "尼潘特 (Nepant)",
+        "fancy_name": "垃圾場侍從構造體",
+        "AetherPower": "治療增加",
+        "color": "自然",
+        "class": "盜賊",
+        "speed": "快速",
+        "skill": "回收武器",
+        "source": "聖約召喚",
+        "Release date": "2026-09-20",
+        "specialId": "recycled_weapons",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "construct_nepant",
+        "star": 5,
+        "power": 1362,
+        "attack": 1425,
+        "defense": 1409,
+        "health": 2461,
+        "effects": [
+            "為所有盟友提供 700 點加成生命值。加成生命值能夠超過最大生命值。",
+            "所有盟友在 3 回合內獲得 +50% 攻擊力。持續時間結束前若失去此狀態效果，有該效果的盟友將額外獲得 +5% 法力。",
+            "施法者在 3 個回合後對所有敵人造成 600 點傷害。若效果在持續時間結束前移除或取代，則改為造成 1000 點傷害。"
+        ],
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "小兵核心：此角色的構造體核心是小兵核心。每次施放此角色的特殊技能時，就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 25% 生命值和 110% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "* 小兵於每回合結束時，會為其主人治療 7% 生命值。",
+            "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -40。"
+        ],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": "construct_nepant",
+        "lb1": {
+            "attack": 1536,
+            "defense": 1518,
+            "health": 2652,
+            "power": 1458
+        },
+        "lb2": {
+            "attack": 1757,
+            "defense": 1737,
+            "health": 3035,
+            "power": 1651
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療-提高生命"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力恢復",
+                    "傷害-條件觸發"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-攻擊力↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "諾古 (Nogu)",
         "fancy_name": "標槍投擲冠軍",
         "AetherPower": "攻擊提升",
@@ -119852,30 +119920,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "尼潘特 (Nepant)",
-        "fancy_name": "垃圾場侍從構造體",
-        "AetherPower": "",
-        "color": "自然",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "construct_nepant",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "construct",
-        "costume_id": 0,
-        "originalIndex": "construct_nepant",
-        "cn_skill_info": []
     },
     {
         "name": "菲瑪豐 (Fimafeng) C",

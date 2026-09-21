@@ -6780,6 +6780,15 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "construct_nepant",
+        "name": "Nepant",
+        "effects": [
+            "提高所有盟友 700 点生命值。提高的生命值可以超过最大生命值。",
+            "全体盟友获得 +50% 攻击力，持续 3 回合。如果该效果在持续时间结束前被移除，拥有该效果的盟友将获得 +5% 法力。",
+            "3 回合后，施法者对所有敌人造成 600 点伤害。若该效果在持续时间结束前被移除或取代，则改为造成 1000 点伤害。"
+        ]
+    },
+    {
         "heroId": "champions_nogu",
         "name": "Nogu",
         "effects": [
@@ -19036,11 +19045,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +15% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "construct_nepant",
-        "name": "Nepant",
-        "effects": []
     },
     {
         "heroId": "tales2_fimafeng_costume_skater",

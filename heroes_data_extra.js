@@ -50523,5 +50523,25 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Nepant",
+        "fancy name": "Junkyard Squire Construct",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-09-20",
+        "AetherPower": "Heal Increase",
+        "heroId": "construct_nepant",
+        "baseAttack": 692,
+        "baseDefense": 684,
+        "baseHealth": 1195,
+        "specialId": "recycled_weapons",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];
