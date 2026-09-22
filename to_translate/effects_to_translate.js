@@ -13647,6 +13647,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C1",
+        "effects": [
+            "Safely cleanses all status ailments from the caster. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)",
+            "Attacks the target with Frostfall Strike, dealing up to 3300 damage. Deals +40% more damage if the target is of the Fire element. This Special Skill never misses its targets.",
+            "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "Stack (Max: 10): All damage all allies receive is reduced by -5%."
+        ]
+    },
+    {
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "effects": [
@@ -19045,11 +19055,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "tales2_fimafeng_costume_skater",
-        "name": "Fimafeng C",
-        "effects": []
     },
     {
         "heroId": "goblin_kettle_costume_field_cook",

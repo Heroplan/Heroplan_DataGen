@@ -13647,6 +13647,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C1",
+        "effects": [
+            "安全净化施法者的状态异常。（安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效。）",
+            "使用霜降打击攻击目标，造成最多 3300 点伤害。若目标为烈火系元素，则额外造成 +40% 伤害。该特殊技能必定命中。",
+            "叠加（最多： 10 层 ）：所有盟友获得 +5% 法力生成。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力。）",
+            "叠加（最多： 10 层 ）：全体盟友受到的所有伤害降低 -5%。"
+        ]
+    },
+    {
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "effects": [
@@ -19045,11 +19055,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +15% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "tales2_fimafeng_costume_skater",
-        "name": "Fimafeng C",
-        "effects": []
     },
     {
         "heroId": "goblin_kettle_costume_field_cook",

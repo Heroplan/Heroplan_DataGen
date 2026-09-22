@@ -50543,5 +50543,32 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Fimafeng costume1",
+        "fancy name": "Dwarven Ice Skating Master",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-09-22",
+        "AetherPower": "Boosted Regen",
+        "heroId": "tales2_fimafeng_costume_skater",
+        "baseAttack": 612,
+        "baseDefense": 586,
+        "baseHealth": 1101,
+        "specialId": "self_preservation",
+        "specialId_costume": "defending_the_title",
+        "passiveSkills": [
+            "arctic_core_costume",
+            "resist_frost_with_health_boost_and_mana_costume",
+            "resist_all_stealing"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "12.5%",
+        "healthBonus": "13.5%",
+        "manaBonus": "5%",
+        "family": "myrkheim"
     }
 ];

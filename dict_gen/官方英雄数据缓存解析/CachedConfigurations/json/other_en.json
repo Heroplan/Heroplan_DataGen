@@ -65315,7 +65315,7 @@
         "dismissCoolDownSeconds": 259200,
         "tierConfigs": [
           {
-            "rosterSize": 20000,
+            "rosterSize": 18000,
             "maxEligibleRarity": 3,
             "maxEligibleAscensionLevel": 3,
             "minAgeInDays": 730,
@@ -100556,5 +100556,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3247014819
+  "otherConfigId": 4162507826
 }

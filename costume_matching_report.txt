@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (636 / 0)
+✅ 成功匹配的服装 (637 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -121,6 +121,7 @@ Name: Cardinal Richelieu costume1, Fancy Name: Duplicitous Ambassador
 Name: Dularfulr costume1, Fancy Name: Dwarven Dark Engineer
 Name: Regin costume1, Fancy Name: Dwarven Fallen Prince
 Name: Fjalar costume1, Fancy Name: Dwarven Ghostly Skald
+Name: Fimafeng costume1, Fancy Name: Dwarven Ice Skating Master
 Name: Ott costume1, Fancy Name: Dwarven Maestro Trickster
 Name: Hogne costume1, Fancy Name: Dwarven Moon Knight
 Name: Dagr costume1, Fancy Name: Dwarven Plague Shaman

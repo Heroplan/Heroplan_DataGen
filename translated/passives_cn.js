@@ -10782,6 +10782,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C1",
+        "passives": [
+            "抵抗窃取：此角色对窃取和掠夺免疫。",
+            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
+            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
+            "* 所有敌人受到腐蝕冰冻，持续 3 回合。若极地核心已完全充满，腐蝕冰冻每回合将造成 338 点冰冻伤害，并使目标的攻击每回合降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。未充满时，核心里的充能越高冰冻伤害也会按比例增加。核心启动时会耗尽所有充能。",
+            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+        ]
+    },
+    {
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "passives": [
@@ -15048,11 +15059,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "tales2_fimafeng_costume_skater",
-        "name": "Fimafeng C",
-        "passives": []
     },
     {
         "heroId": "goblin_kettle_costume_field_cook",

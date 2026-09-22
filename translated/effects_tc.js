@@ -13647,6 +13647,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C1",
+        "effects": [
+            "安全淨化施法者的狀態異常。（安全淨化無視已移除狀態異常的第二效果，如移除時造成的傷害。外部效果如被動技能和家族效果仍可發動。）",
+            "使用霜落打擊攻擊目標，造成最多 3300 點傷害。如果目標為烈火元素角色，則造成额外 +40% 傷害。此特殊技能必定命中目標。",
+            "疊加（最大值： 10 ）：所有盟友獲得 +5% 法力產出。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
+            "疊加（最大值： 10 ）：所有盟友受到的所有傷害减少 -5%。"
+        ]
+    },
+    {
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "effects": [
@@ -19045,11 +19055,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +15% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "heroId": "tales2_fimafeng_costume_skater",
-        "name": "Fimafeng C",
-        "effects": []
     },
     {
         "heroId": "goblin_kettle_costume_field_cook",

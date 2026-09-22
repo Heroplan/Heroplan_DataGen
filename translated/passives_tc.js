@@ -10782,6 +10782,17 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "tales2_fimafeng_costume_skater",
+        "name": "Fimafeng C1",
+        "passives": [
+            "抵禦竊取：此角色對竊取和劫掠免疫。",
+            "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
+            "極地核心：每次此角色施放其特殊技能時，極地核心會啟動。",
+            "* 所有敵人獲得極地冰霜效果，持續 3 個回合。極地核心暴增时，腐触冰霜會造成 338 黏冰霜傷害，並在每回合降低目標 -15% 攻擊。對擁有小兵或超級小兵的英雄造成額外傷害。冰霜傷害依核心中的暴增量而定核心啟動時會消耗所有暴增。",
+            "* 冰霜傷害依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
+        ]
+    },
+    {
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "passives": [
@@ -15048,11 +15059,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "tales2_fimafeng_costume_skater",
-        "name": "Fimafeng C",
-        "passives": []
     },
     {
         "heroId": "goblin_kettle_costume_field_cook",
