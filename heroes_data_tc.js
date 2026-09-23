@@ -14300,6 +14300,88 @@ window.allHeroes =
         ]
     },
     {
+        "name": "水壺 (Kettle) C1",
+        "fancy_name": "戰地廚師",
+        "AetherPower": "回復已加成",
+        "color": "冰雪",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "可疑口糧",
+        "source": "哥布林召喚",
+        "Release date": "2026-09-23",
+        "specialId": "dubious_field_rations",
+        "parent_specialId": "dubious_cuisine",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "heroId": "goblin_kettle_costume_field_cook",
+        "star": 5,
+        "power": 1363,
+        "attack": 1435,
+        "defense": 1377,
+        "health": 2508,
+        "effects": [
+            "烹煮隨機食物，獲得特殊效果：",
+            "- 精緻食物：（45% ）",
+            "* 為所有盟友提供 1800 點加成生命值。加成生命值能夠超過最大生命值。",
+            "* 成長：所有盟友獲得 700 點攻擊和 700 點防禦。",
+            "- 腐敗食物：（45% ）",
+            "* 對所有敵人造成 550% 傷害。",
+            "* 所有敵人受到腐蝕劇毒，持續 5 回合。腐蝕劇毒會造成 573 點劇毒傷害，而且每個回合降低目標的法力產出 -10%。對擁有小兵或超級小兵的英雄造成額外傷害。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力。）",
+            "- 廚房大災難：（10% ）",
+            "* 對所有盟友與所有敵人造成 150% 傷害。"
+        ],
+        "passives": [
+            "施放特殊技能時的效果：此角色施放特殊技能時，有 60% 機率執行下列行動。",
+            "* 對所有敵人造成 90% 傷害。",
+            "* 所有敵人獲得 -25% 精準度，持續 3 回合。",
+            "施放特殊技能時效果的額外機率：此角色施放特殊技能時，為該施放賦予額外效果的任意被動技能有 3 次機會發動。"
+        ],
+        "family": "goblin",
+        "costume_id": 1,
+        "originalIndex": "goblin_kettle_costume_field_cook",
+        "lb1": {
+            "attack": 1547,
+            "defense": 1484,
+            "health": 2702,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1770,
+            "defense": 1698,
+            "health": 3092,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療-提高生命",
+                    "攻擊-全體",
+                    "傷害-持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-賭博/隨機效果"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-成長：攻擊力↑",
+                    "防禦-成長：防禦力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：毒"
+                ]
+            }
+        ]
+    },
+    {
         "name": "亞瑟王 (King Arthur)",
         "fancy_name": "阿瓦隆之王",
         "AetherPower": "攻擊提升",
@@ -14778,7 +14860,7 @@ window.allHeroes =
             "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
             "劫掠：",
             "* 竊取 100 生命值。",
-            "* 安全地從敵人身上竊取增益。包括顽固效果、不可驅散的增益和舞蹈效果。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
@@ -46125,7 +46207,7 @@ window.allHeroes =
             "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
             "劫掠：",
             "* 竊取 100 生命值。",
-            "* 安全地從敵人身上竊取增益。包括顽固效果、不可驅散的增益和舞蹈效果。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
@@ -59069,7 +59151,7 @@ window.allHeroes =
             "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
             "劫掠：",
             "* 竊取 100 生命值。",
-            "* 安全地從敵人身上竊取增益。包括顽固效果、不可驅散的增益和舞蹈效果。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
@@ -75891,7 +75973,7 @@ window.allHeroes =
             "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
             "劫掠：",
             "* 竊取 100 生命值。",
-            "* 安全地從敵人身上竊取增益。包括顽固效果、不可驅散的增益和舞蹈效果。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害的 50% 轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
@@ -82572,7 +82654,7 @@ window.allHeroes =
         "passives": [
             "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
             "* 竊取 100 生命值。",
-            "* 安全地從敵人身上竊取增益。包括顽固效果、不可驅散的增益和舞蹈效果。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
@@ -105972,6 +106054,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "克林姆 (Clim)",
+        "fancy_name": "死亡之眼神射手",
+        "AetherPower": "特殊加成",
+        "color": "神聖",
+        "class": "遊俠",
+        "speed": "快速",
+        "skill": "瞄準練習",
+        "source": "哥布林召喚",
+        "Release date": "2026-09-23",
+        "specialId": "target_practice",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "heroId": "scoundrel_clim",
+        "star": 5,
+        "power": 1363,
+        "attack": 1442,
+        "defense": 1421,
+        "health": 2399,
+        "effects": [
+            "對目標和 2 名隨機敵人造成 385% 傷害。",
+            "每次敵人被該攻擊所打敗，施法者恢復 +25% 生命值並獲得 +25% 法力。（角色在單一回合中，透過特殊技能獲得 5 點直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "施法者進入伏擊狀態。施法者造成的傷害提高 +40%，其受到的傷害降低 -25%。（角色進入伏擊状態時，移除所有現有的状態異常和枯萎效果。角色在伏擊期間無法獲得新的異常或枯萎效果。此效果無法驅散。角色受到 1200 點傷害後，伏擊狀態會結束。）"
+        ],
+        "passives": [
+            "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
+            "* 竊取 100 生命值。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
+            "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
+        ],
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "originalIndex": "scoundrel_clim",
+        "lb1": {
+            "attack": 1554,
+            "defense": 1531,
+            "health": 2586,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1778,
+            "defense": 1752,
+            "health": 2959,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標",
+                    "攻擊-隨機"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治療-自我恢復/提高生命",
+                    "法力-法力恢復（擊殺）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-躲藏/伏擊"
+                ]
+            }
+        ]
+    },
+    {
         "name": "寇特 (Colt)",
         "fancy_name": "箭袋鍊金術士",
         "AetherPower": "閃避",
@@ -116277,7 +116426,7 @@ window.allHeroes =
             "小偷的機會：每回合開始時，此角色會劫掠一名隨機敵人。",
             "劫掠：",
             "* 竊取 100 生命值。",
-            "* 安全地從敵人身上竊取增益。包括顽固效果、不可驅散的增益和舞蹈效果。",
+            "* 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。",
             "死裡逃生：當該角色首次承受致命傷害時，會將該傷害將轉移至隨機敵人身上。在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
         ],
         "family": "shady_scoundrels",
@@ -119997,54 +120146,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "水壺 (Kettle) C",
-        "fancy_name": "戰地廚師",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "goblin_kettle_costume_field_cook",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "goblin",
-        "costume_id": 1,
-        "originalIndex": "goblin_kettle_costume_field_cook",
-        "cn_skill_info": []
-    },
-    {
-        "name": "克林姆 (Clim)",
-        "fancy_name": "死亡之眼神射手",
-        "AetherPower": "",
-        "color": "神聖",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "scoundrel_clim",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "shady_scoundrels",
-        "costume_id": 0,
-        "originalIndex": "scoundrel_clim",
-        "cn_skill_info": []
     },
     {
         "name": "弗里達 (Frida) C",

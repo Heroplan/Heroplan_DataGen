@@ -13503,7 +13503,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple4_tree_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13585,7 +13584,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple4_tree_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -14185,6 +14183,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple8_globs_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -14266,6 +14265,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple8_globs_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -18848,7 +18848,7 @@
           },
           {
             "type": "Item",
-            "id": "lottery_valhalla_coin",
+            "id": "lottery_shadow_coin",
             "amount": 400
           },
           {
@@ -19782,6 +19782,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_limitbreak1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -19789,6 +19790,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_limitbreak2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -19796,6 +19798,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_limitbreak3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -20697,6 +20700,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1a",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20741,6 +20745,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1b",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20785,6 +20790,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2a",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20804,6 +20810,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2b",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20823,6 +20830,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22814,19 +22822,19 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
+            "type": "Item",
+            "id": "relic_level_up_xp_multiplier",
+            "amount": 1
+          },
+          {
             "type": "Hero",
             "id": "trainer_rainbow_epic",
-            "amount": 20
+            "amount": 22
           },
           {
             "type": "Hero",
             "id": "trainer_rainbow_rare",
-            "amount": 20
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_rainbow_uncommon",
-            "amount": 20
+            "amount": 25
           }
         ]
       },
@@ -23164,7 +23172,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple4_tree_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23399,6 +23406,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple8_globs_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36110,7 +36118,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58967,5 +58975,5 @@
       }
     ]
   },
-  "productsConfigId": 4043342995
+  "productsConfigId": 287484348
 }

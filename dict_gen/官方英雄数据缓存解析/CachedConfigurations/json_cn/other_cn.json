@@ -4478,6 +4478,13 @@
             "endTime": "2026-12-22 07:00:00"
           },
           {
+            "id": "AncientDragon_2026_12_22",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-12-22 07:00:00",
+            "endTime": "2026-12-26 07:00:00"
+          },
+          {
             "id": "lottery_season_untold_tales2_2026_12_29",
             "targetSeason": "UntoldTales2",
             "rareMonsterStateConfigId": "map_untoldtales2",
@@ -100556,5 +100563,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 4162507826
+  "otherConfigId": 149802787
 }

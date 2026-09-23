@@ -37220,7 +37220,7 @@
     "baseDefense": 620,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "bleed_on_counter_attack",
+      "never_miss_special",
       "heal_on_enemy_bleed"
     ],
     "classType": "德鲁伊",

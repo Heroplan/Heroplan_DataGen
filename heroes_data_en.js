@@ -14300,6 +14300,88 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Kettle C1",
+        "fancy_name": "Field Cook",
+        "AetherPower": "Boosted Regen",
+        "color": "Ice",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "Dubious Field Rations",
+        "source": "Goblin Summon",
+        "Release date": "2026-09-23",
+        "specialId": "dubious_field_rations",
+        "parent_specialId": "dubious_cuisine",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "heroId": "goblin_kettle_costume_field_cook",
+        "star": 5,
+        "power": 1363,
+        "attack": 1435,
+        "defense": 1377,
+        "health": 2508,
+        "effects": [
+            "Cook random food for a special effect:",
+            "- Exquisite Food (45%)",
+            "* Boosts health of all allies by 1800. Boosted health can exceed max HP.",
+            "* Growth: All allies get 700 attack and 700 defense.",
+            "- Rotten Food (45%)",
+            "* Deals 550% damage to all enemies.",
+            "* All enemies receive Corrosive Poison for 5 turns. The Corrosive Poison deals 573 Poison damage and lowers the target's mana generation by -10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "- Catastrophic Kitchen Failure (10%)",
+            "* Deals 150% damage to all allies and all enemies."
+        ],
+        "passives": [
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate."
+        ],
+        "family": "goblin",
+        "costume_id": 1,
+        "originalIndex": "goblin_kettle_costume_field_cook",
+        "lb1": {
+            "attack": 1547,
+            "defense": 1484,
+            "health": 2702,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1770,
+            "defense": 1698,
+            "health": 3092,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal - Boost Health",
+                    "Atk - All",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Growth : Atk↑",
+                    "Def - Growth : Def↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
+    },
+    {
         "name": "King Arthur",
         "fancy_name": "King of Avalon",
         "AetherPower": "Attack Up",
@@ -14778,7 +14860,7 @@ window.allHeroes =
             "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
@@ -46125,7 +46207,7 @@ window.allHeroes =
             "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
@@ -59069,7 +59151,7 @@ window.allHeroes =
             "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
@@ -75891,7 +75973,7 @@ window.allHeroes =
             "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect 50% of that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
@@ -82572,7 +82654,7 @@ window.allHeroes =
         "passives": [
             "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
             "* Steals 100 health.",
-            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
@@ -105972,6 +106054,73 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Clim",
+        "fancy_name": "Deadeye Sharpshooter",
+        "AetherPower": "Special Boost",
+        "color": "Holy",
+        "class": "Ranger",
+        "speed": "Fast",
+        "skill": "Target Practice",
+        "source": "Goblin Summon",
+        "Release date": "2026-09-23",
+        "specialId": "target_practice",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "heroId": "scoundrel_clim",
+        "star": 5,
+        "power": 1363,
+        "attack": 1442,
+        "defense": 1421,
+        "health": 2399,
+        "effects": [
+            "Deals 385% damage to the target and 2 random enemies.",
+            "For each enemy defeated by the attack, the caster recovers +25% health and gains +25% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "The caster goes into Ambush. Damage dealt by the caster is increased by +40%, and damage received by them is decreased by -25%. (When the character goes into Ambush, all existing status ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is undispellable. Ambush ends once the character has received 1200 damage.)"
+        ],
+        "passives": [
+            "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
+            "* Steals 100 health.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
+            "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+        ],
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "originalIndex": "scoundrel_clim",
+        "lb1": {
+            "attack": 1554,
+            "defense": 1531,
+            "health": 2586,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1778,
+            "defense": 1752,
+            "health": 2959,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Hide/Ambush"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Colt",
         "fancy_name": "Alchemist of the Quiver",
         "AetherPower": "Dodge",
@@ -116277,7 +116426,7 @@ window.allHeroes =
             "Thief's Opportunity: At the start of each turn this character Ransacks a random enemy:",
             "Ransack:",
             "* Steals 100 health.",
-            "* Safely steals a buff from the enemy. This includes Stubborn effects, undispellable buffs and Dance effects.",
+            "* Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the beginning of each wave."
         ],
         "family": "shady_scoundrels",
@@ -119997,54 +120146,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Kettle C",
-        "fancy_name": "Field Cook",
-        "AetherPower": "",
-        "color": "Ice",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "goblin_kettle_costume_field_cook",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "goblin",
-        "costume_id": 1,
-        "originalIndex": "goblin_kettle_costume_field_cook",
-        "cn_skill_info": []
-    },
-    {
-        "name": "Clim",
-        "fancy_name": "Deadeye Sharpshooter",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "scoundrel_clim",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "shady_scoundrels",
-        "costume_id": 0,
-        "originalIndex": "scoundrel_clim",
-        "cn_skill_info": []
     },
     {
         "name": "Frida C",

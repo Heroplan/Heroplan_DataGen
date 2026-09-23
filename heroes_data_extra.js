@@ -50570,5 +50570,52 @@ window.allHeroesExtra = [
         "healthBonus": "13.5%",
         "manaBonus": "5%",
         "family": "myrkheim"
+    },
+    {
+        "name": "Kettle costume1",
+        "fancy name": "Field Cook",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-09-23",
+        "AetherPower": "Boosted Regen",
+        "heroId": "goblin_kettle_costume_field_cook",
+        "baseAttack": 460,
+        "baseDefense": 440,
+        "baseHealth": 801,
+        "specialId": "dubious_cuisine",
+        "specialId_costume": "dubious_field_rations",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "iterate_passive_effects_on_special"
+        ],
+        "attackBonus": "51.5%",
+        "defenseBonus": "52%",
+        "healthBonus": "52%",
+        "manaBonus": "5%",
+        "family": "goblin"
+    },
+    {
+        "name": "Clim",
+        "fancy name": "Deadeye Sharpshooter",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-09-23",
+        "AetherPower": "Special Boost",
+        "heroId": "scoundrel_clim",
+        "baseAttack": 700,
+        "baseDefense": 690,
+        "baseHealth": 1165,
+        "specialId": "target_practice",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "family": "shady_scoundrels"
     }
 ];

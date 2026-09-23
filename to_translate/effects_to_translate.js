@@ -2228,6 +2228,21 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "goblin_kettle_costume_field_cook",
+        "name": "Kettle C1",
+        "effects": [
+            "Cook random food for a special effect:",
+            "- Exquisite Food (45%)",
+            "* Boosts health of all allies by 1800. Boosted health can exceed max HP.",
+            "* Growth: All allies get 700 attack and 700 defense.",
+            "- Rotten Food (45%)",
+            "* Deals 550% damage to all enemies.",
+            "* All enemies receive Corrosive Poison for 5 turns. The Corrosive Poison deals 573 Poison damage and lowers the target's mana generation by -10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)",
+            "- Catastrophic Kitchen Failure (10%)",
+            "* Deals 150% damage to all allies and all enemies."
+        ]
+    },
+    {
         "heroId": "knights_king_arthur",
         "name": "King Arthur",
         "effects": [
@@ -16803,6 +16818,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "scoundrel_clim",
+        "name": "Clim",
+        "effects": [
+            "Deals 385% damage to the target and 2 random enemies.",
+            "For each enemy defeated by the attack, the caster recovers +25% health and gains +25% mana. (After a character has received 5 direct mana additions from Special Skill during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "The caster goes into Ambush. Damage dealt by the caster is increased by +40%, and damage received by them is decreased by -25%. (When the character goes into Ambush, all existing status ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is undispellable. Ambush ends once the character has received 1200 damage.)"
+        ]
+    },
+    {
         "heroId": "holy_god_colt",
         "name": "Colt",
         "effects": [
@@ -19055,16 +19079,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "goblin_kettle_costume_field_cook",
-        "name": "Kettle C",
-        "effects": []
-    },
-    {
-        "heroId": "scoundrel_clim",
-        "name": "Clim",
-        "effects": []
     },
     {
         "heroId": "ice_god_frida_costume_juggernaut",

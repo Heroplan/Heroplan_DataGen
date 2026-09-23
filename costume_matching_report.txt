@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (637 / 0)
+✅ 成功匹配的服装 (638 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -166,6 +166,7 @@ Name: Proteus Costume1, Fancy Name: Farseer of Atlantis
 Name: Danzaburo Costume1, Fancy Name: Fearless Merchant
 Name: Cleopatra Costume1, Fancy Name: Feline Pharaoh
 Name: Ei-Dunn Costume1, Fancy Name: Ferocious Viking Battler
+Name: Kettle costume1, Fancy Name: Field Cook
 Name: Guardian Panther Costume1, Fancy Name: Fierce Panther
 Name: Colen Costume1, Fancy Name: Fiery Bounty Hunter
 Name: Baldur Costume1, Fancy Name: Fiery God

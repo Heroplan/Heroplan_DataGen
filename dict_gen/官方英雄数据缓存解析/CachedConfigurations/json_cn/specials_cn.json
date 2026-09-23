@@ -60676,7 +60676,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1100,
+          "powerMultiplierPerMil": 1350,
           "powerMultiplierIncrementPerLevelPerMil": 200
         },
         "maxLevel": 8,
@@ -77311,5 +77311,5 @@
       }
     ]
   },
-  "specialsConfigId": 2089864168
+  "specialsConfigId": 1533087692
 }
