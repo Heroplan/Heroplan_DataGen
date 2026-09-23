@@ -14294,7 +14294,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Poison"
+                    "Dmg - DoT : Poison",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -14376,7 +14377,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Dmg - DoT : Poison"
+                    "Dmg - DoT : Poison",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
