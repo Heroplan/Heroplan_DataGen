@@ -1165,7 +1165,7 @@
         "id": "lottery_super_elemental_blue",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 183,
+        "uiPriority": 220,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_blue",
         "bonusChestRequirement": 10,
@@ -2229,7 +2229,7 @@
         "id": "lottery_titan_hunter_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 209,
+        "uiPriority": 219,
         "associatedEvent": "TitanHunter",
         "bucketWeights": [
           710,
@@ -36118,7 +36118,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58975,5 +58975,5 @@
       }
     ]
   },
-  "productsConfigId": 287484348
+  "productsConfigId": 4239641185
 }

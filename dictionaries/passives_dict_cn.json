@@ -599,5 +599,6 @@
     "^Vengeful\\s+Haunting:\\s+When\\s+this\\s+character\\s+loses\\s+more\\s+than([+-]?\\s*\\d+\\s*%?)\\s+of\\s+max\\s+health\\s+at\\s+once,\\s+the\\s+following\\s+effects\\s+activate:$": "复仇阴影：当此角色一次性损失超过最大生命值的\\1 时，以下效果立即生效：",
     "^Swoop\\s+and\\s+Steal:\\s+Every([+-]?\\s*\\d+\\s*%?)turns,\\s+this\\s+character\\s+steals([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+from\\s+the\\s+enemy\\s+with\\s+the\\s+fastest\\s+mana\\s+speed\\.?\\s*$": "俯冲夺取：每隔\\1回合，该角色都会从法力速度最快的敌人身上偷取\\2 法力值。",
     "^Frost\\s+on\\s+Minion\\s+Hit:\\s+Each\\s+hit\\s+from\\s+the\\s+Minions\\s+owned\\s+by\\s+this\\s+character\\s+inflicts([+-]?\\s*\\d+\\s*%?)Frost\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "小兵命中时施加霜冻：该角色拥有的小兵每次攻击时，会对目标造成\\1点冰冻伤害，持续\\2回合。",
-    "^\\*\\s+Safely\\s+steals\\s+a\\s+buff\\s+from\\s+the\\s+enemy\\.?\\s*\\s+This\\s+includes\\s+undispellable\\s+buffs\\s+and\\s+Dance\\s+effects\\.?\\s*$": "* 安全地窃取目标的一个增益。包括不可驱散的增益与舞蹈效果。"
+    "^\\*\\s+Safely\\s+steals\\s+a\\s+buff\\s+from\\s+the\\s+enemy\\.?\\s*\\s+This\\s+includes\\s+undispellable\\s+buffs\\s+and\\s+Dance\\s+effects\\.?\\s*$": "* 安全地窃取目标的一个增益。包括不可驱散的增益与舞蹈效果。",
+    "^Damage\\s+Reduction\\s+on\\s+Enemy\\s+Special:\\s+If\\s+an\\s+enemy\\s+that\\s+is\\s+Average\\s+mana\\s+speed\\s+or\\s+faster\\s+casts\\s+a\\s+Special\\s+Skill,\\s+this\\s+character\\s+gets\\s+Stack\\s+\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+damage\\s+received\\s+is\\s+reduced\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "敌人施放特殊技能时伤害减少：当一名法力速度为中等或更快的敌人施放特殊技能时，该角色获得叠加（最多：\\1层 ）：受到的所有伤害降低\\2"
 }

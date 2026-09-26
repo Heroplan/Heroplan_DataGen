@@ -1479,6 +1479,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C1",
+        "passives": [
+            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
+            "传奇反射：该角色通过被动技能抵抗的任何状态异常，都会反射给所有敌人。"
+        ]
+    },
+    {
         "heroId": "ice_god_frosth",
         "name": "Frosth",
         "passives": [
@@ -13711,6 +13719,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "passives": [
+            "敌人施放特殊技能时伤害减少：当一名法力速度为中等或更快的敌人施放特殊技能时，该角色获得叠加（最多： 10 层 ）：受到的所有伤害降低 5%",
+            "敌方施放特殊技能时造成伤害：如果一个法力速度为中等或更快的敌人施放特殊技能，所有敌人将受到 100 点伤害。此效果每回合只能激活一次。"
+        ]
+    },
+    {
         "heroId": "s5_horus",
         "name": "Horus",
         "passives": [
@@ -15079,16 +15095,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "name": "Frida C",
-        "passives": []
-    },
-    {
-        "heroId": "champions_horace",
-        "name": "Horace B. F.",
-        "passives": []
     },
     {
         "heroId": "ninja_peridot_costume_herbalist",

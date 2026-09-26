@@ -23064,9 +23064,9 @@
     "id": "神话领航员",
     "element": "蓝",
     "family": "超级元素人家族",
-    "baseHealth": 774,
-    "baseAttack": 522,
-    "baseDefense": 474,
+    "baseHealth": 777,
+    "baseAttack": 525,
+    "baseDefense": 469,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
@@ -24920,7 +24920,7 @@
     "specialId": "连环闪电",
     "canBeReceivedDate": "2024-01-29 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_sep_2026_less"
   },
   "journey_xie_zi_jing": {
     "id": "蝎子精",
@@ -36504,9 +36504,9 @@
     "id": "玛尔",
     "element": "红",
     "family": "泰坦猎手家族",
-    "baseHealth": 1164,
-    "baseAttack": 676,
-    "baseDefense": 671,
+    "baseHealth": 1194,
+    "baseAttack": 692,
+    "baseDefense": 687,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -37215,9 +37215,9 @@
     "id": "塞隆",
     "element": "绿",
     "family": "hotm2026",
-    "baseHealth": 1050,
-    "baseAttack": 655,
-    "baseDefense": 620,
+    "baseHealth": 1058,
+    "baseAttack": 659,
+    "baseDefense": 624,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "never_miss_special",

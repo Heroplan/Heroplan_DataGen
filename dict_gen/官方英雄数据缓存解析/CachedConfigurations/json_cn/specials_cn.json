@@ -51948,7 +51948,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
-          "powerMultiplierPerMil": 1650,
+          "powerMultiplierPerMil": 1900,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -77311,5 +77311,5 @@
       }
     ]
   },
-  "specialsConfigId": 1533087692
+  "specialsConfigId": 2520336406
 }

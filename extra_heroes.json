@@ -1,29 +1,5 @@
 [
     {
-        "name": "Frida C",
-        "fancy_name": "Arctic Juggernaut",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-25 07:00:00",
-        "star": 5,
-        "family": "hotm2019",
-        "costume_id": 1,
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Horace B. F.",
-        "fancy_name": "Archery Champion",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-09-25 07:00:00",
-        "star": 5,
-        "family": "champions",
-        "costume_id": 0,
-        "heroId": "champions_horace",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Peridot C",
         "fancy_name": "Ninja of Deadly Herbs",
         "color": "Green",

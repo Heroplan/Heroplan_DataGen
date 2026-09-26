@@ -23064,9 +23064,9 @@
     "id": "Mythic Navigator",
     "element": "Blue",
     "family": "super_elemental",
-    "baseHealth": 774,
-    "baseAttack": 522,
-    "baseDefense": 474,
+    "baseHealth": 777,
+    "baseAttack": 525,
+    "baseDefense": 469,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
@@ -24920,7 +24920,7 @@
     "specialId": "chain_lightning",
     "canBeReceivedDate": "2024-01-29 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_sep_2026_less"
   },
   "journey_xie_zi_jing": {
     "id": "Scorpion Demoness",
@@ -36504,9 +36504,9 @@
     "id": "Warden of the Rainforest",
     "element": "Red",
     "family": "titan_hunter",
-    "baseHealth": 1164,
-    "baseAttack": 676,
-    "baseDefense": 671,
+    "baseHealth": 1194,
+    "baseAttack": 692,
+    "baseDefense": 687,
     "manaSpeedId": "average",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -37215,9 +37215,9 @@
     "id": "Swift Elaphocentaur Warrior",
     "element": "Green",
     "family": "hotm2026",
-    "baseHealth": 1050,
-    "baseAttack": 655,
-    "baseDefense": 620,
+    "baseHealth": 1058,
+    "baseAttack": 659,
+    "baseDefense": 624,
     "manaSpeedId": "average",
     "passiveSkills": [
       "never_miss_special",

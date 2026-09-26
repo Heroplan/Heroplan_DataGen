@@ -1849,6 +1849,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C1",
+        "effects": [
+            "对目标及附近敌人造成 450% 伤害。",
+            "目标与附近敌人获得对冰雪系 -55% 的防御，持续 4 回合。",
+            "对烈火系造成额外伤害。",
+            "驱散目标和附近敌人身上的增益。",
+            "元素链为全体冰雪系盟友提供针对自然系 +60% 的防御，持续 4 回合。此效果无法驱散。"
+        ]
+    },
+    {
         "heroId": "ice_god_frosth",
         "name": "Frosth",
         "effects": [
@@ -17356,6 +17367,21 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "effects": [
+            "对目标和随机 4 名敌人造成 470% 伤害。",
+            "叠加（最多： 10 层 ）：每次命中使目标受到的所有伤害增加 5%。",
+            "如果目标的法力速度为中等或更快，则造成额外伤害。",
+            "* 对法力速度为中等的目标额外造成 50% 伤害。",
+            "* 对法力速度为快速的目标额外造成 100% 伤害。",
+            "* 对法力速度为飞快或更快的目标额外造成 150% 伤害。",
+            "* 所有怪物和头目的法力速度默认为中等。",
+            "* 在“突袭攻击”联赛和战争中，敌人的法力速度默认为飞速。",
+            "为所有盟友提高相当于所造成伤害 15% 的生命值。"
+        ]
+    },
+    {
         "heroId": "s5_horus",
         "name": "Horus",
         "effects": [
@@ -19079,16 +19105,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +15% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "name": "Frida C",
-        "effects": []
-    },
-    {
-        "heroId": "champions_horace",
-        "name": "Horace B. F.",
-        "effects": []
     },
     {
         "heroId": "ninja_peridot_costume_herbalist",

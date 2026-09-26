@@ -5581,5 +5581,12 @@
     "^Stack\\s+\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+All\\s+damage\\s+all\\s+allies\\s+receive\\s+is\\s+reduced\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "疊加（最大值：\\1）：所有盟友受到的所有傷害減少 \\2。",
     "^Cook\\s+random\\s+food\\s+for\\s+a\\s+special\\s+effect:$": "烹煮隨機食物，獲得特殊效果：",
     "^\\*\\s+Growth:\\s+All\\s+allies\\s+get([+-]?\\s*\\d+\\s*%?)attack\\s+and([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "* 成長：所有盟友獲得\\1點攻擊和\\2點防禦。",
-    "^\\(When\\s+the\\s+character\\s+goes\\s+into\\s+Ambush,\\s+all\\s+existing\\s+status\\s+ailments\\s+and\\s+Wither\\s+effects\\s+are\\s+removed\\.?\\s*\\s+The\\s+character\\s+can['’]?t\\s+gain\\s+new\\s+ailments\\s+or\\s+Wither\\s+effects\\s+while\\s+in\\s+Ambush\\.?\\s*\\s+This\\s+effect\\s+is\\s+undispellable\\.?\\s*\\s+Ambush\\s+ends\\s+once\\s+the\\s+character\\s+has\\s+received([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\)$": "（角色進入伏擊状態時，移除所有現有的状態異常和枯萎效果。角色在伏擊期間無法獲得新的異常或枯萎效果。此效果無法驅散。角色受到\\1點傷害後，伏擊狀態會結束。）"
+    "^\\(When\\s+the\\s+character\\s+goes\\s+into\\s+Ambush,\\s+all\\s+existing\\s+status\\s+ailments\\s+and\\s+Wither\\s+effects\\s+are\\s+removed\\.?\\s*\\s+The\\s+character\\s+can['’]?t\\s+gain\\s+new\\s+ailments\\s+or\\s+Wither\\s+effects\\s+while\\s+in\\s+Ambush\\.?\\s*\\s+This\\s+effect\\s+is\\s+undispellable\\.?\\s*\\s+Ambush\\s+ends\\s+once\\s+the\\s+character\\s+has\\s+received([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\)$": "（角色進入伏擊状態時，移除所有現有的状態異常和枯萎效果。角色在伏擊期間無法獲得新的異常或枯萎效果。此效果無法驅散。角色受到\\1點傷害後，伏擊狀態會結束。）",
+    "^Stack\\s+\\(Max:([+-]?\\s*\\d+\\s*%?)\\):\\s+Each\\s+hit\\s+enemy\\s+increases\\s+all\\s+damage\\s+the\\s+target\\s+receives\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "疊加（最大值：\\1）：每次擊中都會使目標受到的所有傷害增加\\2。",
+    "^If\\s+the\\s+target\\s+is\\s+Average\\s+or\\s+faster\\s+mana\\s+speed,\\s+deals\\s+additional\\s+damage\\.?\\s*$": "如果目標擁有平均或更快的法力速度，可造成額外傷害。",
+    "^Against\\s+Average\\s+mana\\s+speed\\s+target\\s+deals\\s+an\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\.?\\s*$": "* 對平均法力速度目標可造成额外\\1 傷害。",
+    "^Against\\s+Fast\\s+mana\\s+speed\\s+target\\s+deals\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\.?\\s*$": "* 對快速法力速度目標可造成额外\\1 傷害。",
+    "^Against\\s+Very\\s+Fast\\s+mana\\s+speed\\s+or\\s+faster\\s+targets\\s+deals\\s+and\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\.?\\s*$": "* 對非常快或更快法力速度目標造成额外\\1 傷害。",
+    "^All\\s+monsters\\s+and\\s+bosses\\s+are\\s+considered\\s+as\\s+Average\\s+mana\\s+speed\\.?\\s*$": "* 所有怪物與頭目皆視為擁有平均法力速度。",
+    "^In\\s+Rush\\s+Attack\\s+tournaments\\s+and\\s+wars\\s+enemies\\s+are\\s+considered\\s+as\\s+Very\\s+Fast\\s+mana\\s+speed\\.?\\s*$": "* 在“急速攻擊”錦標賽與戰爭中，敵人有著非常快的法力速度。"
 }

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (638 / 0)
+✅ 成功匹配的服装 (639 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -11,6 +11,7 @@ Name: Zenobia Costume1, Fancy Name: Apocynacid Queen
 Name: Khufu Costume1, Fancy Name: Aquatic Androsphinx
 Name: Anubis Costume1, Fancy Name: Arbiter of the Dancefloor
 Name: Ratatoskr Costume1, Fancy Name: Architect of Yggdrasil
+Name: Frida costume1, Fancy Name: Arctic Juggernaut
 Name: D'Artagnan costume1, Fancy Name: Ardent Chimney-Sweeper
 Name: Hawkmoon Costume1, Fancy Name: Ascendant Mender
 Name: Hawkmoon Toon, Fancy Name: Ascendant Toon

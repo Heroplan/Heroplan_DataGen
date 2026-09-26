@@ -1479,6 +1479,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C1",
+        "passives": [
+            "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。",
+            "傳奇反射：此角色使用被動技能抵抗的状態異常都會反射給所有敵人。"
+        ]
+    },
+    {
         "heroId": "ice_god_frosth",
         "name": "Frosth",
         "passives": [
@@ -13711,6 +13719,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "passives": [
+            "敵人施展特殊技能時傷害減免：如果擁有平均或較快法力速度的敵人施放了特殊技能，此角色獲得疊加（最大值： 10 ）：受到的所有傷害降低 5%",
+            "敵人施展特殊技能時造成傷害：若法力速度為平均或更快的敵人施放特殊技能，則所有敵人受到 100 點傷害。此效果每回合僅限啟用一次。"
+        ]
+    },
+    {
         "heroId": "s5_horus",
         "name": "Horus",
         "passives": [
@@ -15079,16 +15095,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "name": "Frida C",
-        "passives": []
-    },
-    {
-        "heroId": "champions_horace",
-        "name": "Horace B. F.",
-        "passives": []
     },
     {
         "heroId": "ninja_peridot_costume_herbalist",

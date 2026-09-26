@@ -50617,5 +50617,52 @@ window.allHeroesExtra = [
             "ransack"
         ],
         "family": "shady_scoundrels"
+    },
+    {
+        "name": "Frida costume1",
+        "fancy name": "Arctic Juggernaut",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-09-25",
+        "AetherPower": "Special Boost",
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "baseAttack": 358,
+        "baseDefense": 350,
+        "baseHealth": 645,
+        "specialId": "polar_bash",
+        "specialId_costume": "polar_blast",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "legendary_reflector"
+        ],
+        "attackBonus": "92%",
+        "defenseBonus": "91.5%",
+        "healthBonus": "92%",
+        "manaBonus": "5%",
+        "family": "hotm2019"
+    },
+    {
+        "name": "Horace BF",
+        "fancy name": "Archery Champion",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_slow",
+        "Release date": "2026-09-25",
+        "AetherPower": "Dodge",
+        "heroId": "champions_horace",
+        "baseAttack": 672,
+        "baseDefense": 700,
+        "baseHealth": 1216,
+        "specialId": "steady_aim",
+        "passiveSkills": [
+            "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
+            "damage_reduction_stack_on_enemy_special_if_faster_than_slow"
+        ],
+        "family": "champions"
     }
 ];

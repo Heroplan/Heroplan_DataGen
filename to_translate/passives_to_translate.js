@@ -1479,6 +1479,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C1",
+        "passives": [
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
+            "Legendary Reflector: Any status ailments this character resists with Passive Skills are reflected to all enemies."
+        ]
+    },
+    {
         "heroId": "ice_god_frosth",
         "name": "Frosth",
         "passives": [
@@ -13711,6 +13719,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "passives": [
+            "Damage Reduction on Enemy Special: If an enemy that is Average mana speed or faster casts a Special Skill, this character gets Stack (Max: 10): All damage received is reduced by 5%.",
+            "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn."
+        ]
+    },
+    {
         "heroId": "s5_horus",
         "name": "Horus",
         "passives": [
@@ -15079,16 +15095,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "name": "Frida C",
-        "passives": []
-    },
-    {
-        "heroId": "champions_horace",
-        "name": "Horace B. F.",
-        "passives": []
     },
     {
         "heroId": "ninja_peridot_costume_herbalist",

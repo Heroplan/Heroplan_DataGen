@@ -11815,6 +11815,80 @@ window.allHeroes =
         ]
     },
     {
+        "name": "弗里達 (Frida) C1",
+        "fancy_name": "極地巨人",
+        "AetherPower": "特殊加成",
+        "color": "冰雪",
+        "class": "戰士",
+        "speed": "平均",
+        "skill": "極地爆裂",
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-09-25",
+        "specialId": "polar_blast",
+        "parent_specialId": "polar_bash",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "legendary_reflector"
+        ],
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "star": 5,
+        "power": 1363,
+        "attack": 1415,
+        "defense": 1380,
+        "health": 2551,
+        "effects": [
+            "對目標與附近敵人造成 450% 傷害。",
+            "目標與附近敵人獲得對冰雪系 -55% 的防禦，持續 4 回合。",
+            "對烈火系造成額外傷害。",
+            "驅散目標和附近敵人的增益。",
+            "元素鏈給予所有冰雪系盟友抵禦自然系的 +60% 防禦，持續 4 回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。",
+            "傳奇反射：此角色使用被動技能抵抗的状態異常都會反射給所有敵人。"
+        ],
+        "family": "hotm2019",
+        "costume_id": 1,
+        "originalIndex": "ice_god_frida_costume_juggernaut",
+        "lb1": {
+            "attack": 1525,
+            "defense": 1487,
+            "health": 2749,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1745,
+            "defense": 1702,
+            "health": 3145,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-範圍"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-傷害↑：烈火"
+                ]
+            },
+            {
+                "增益效果": [
+                    "狀態-驅散增益",
+                    "防禦-防禦↑：自然"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-防禦↓：冰雪"
+                ]
+            }
+        ]
+    },
+    {
         "name": "佛羅斯 (Frosth)",
         "fancy_name": "冬季使者",
         "AetherPower": "防禦提升",
@@ -109444,6 +109518,78 @@ window.allHeroes =
         ]
     },
     {
+        "name": "霍雷斯B.F. (Horace B. F.)",
+        "fancy_name": "箭術勇士",
+        "AetherPower": "閃避",
+        "color": "神聖",
+        "class": "遊俠",
+        "speed": "非常慢",
+        "skill": "穩定瞄準",
+        "source": "傳奇召喚",
+        "Release date": "2026-09-25",
+        "specialId": "steady_aim",
+        "passiveSkills": [
+            "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
+            "damage_reduction_stack_on_enemy_special_if_faster_than_slow"
+        ],
+        "heroId": "champions_horace",
+        "star": 5,
+        "power": 1363,
+        "attack": 1384,
+        "defense": 1442,
+        "health": 2504,
+        "effects": [
+            "對目標和 4 名隨機敵人造成 470% 傷害。",
+            "疊加（最大值： 10 ）：每次擊中都會使目標受到的所有傷害增加 5%。",
+            "如果目標擁有平均或更快的法力速度，可造成額外傷害。",
+            "* 對平均法力速度目標可造成额外 50% 傷害。",
+            "* 對快速法力速度目標可造成额外 100% 傷害。",
+            "* 對非常快或更快法力速度目標造成额外 150% 傷害。",
+            "* 所有怪物與頭目皆視為擁有平均法力速度。",
+            "* 在“急速攻擊”錦標賽與戰爭中，敵人有著非常快的法力速度。",
+            "為所有盟友提升所造成傷害 15% 的生命值。"
+        ],
+        "passives": [
+            "敵人施展特殊技能時傷害減免：如果擁有平均或較快法力速度的敵人施放了特殊技能，此角色獲得疊加（最大值： 10 ）：受到的所有傷害降低 5%",
+            "敵人施展特殊技能時造成傷害：若法力速度為平均或更快的敵人施放特殊技能，則所有敵人受到 100 點傷害。此效果每回合僅限啟用一次。"
+        ],
+        "family": "champions",
+        "costume_id": 0,
+        "originalIndex": "champions_horace",
+        "lb1": {
+            "attack": 1491,
+            "defense": 1554,
+            "health": 2699,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1706,
+            "defense": 1778,
+            "health": 3088,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標",
+                    "攻擊-隨機",
+                    "治療-傷害量",
+                    "治療-提高生命"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-疊加：受到傷害↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "荷魯斯 (Horus)",
         "fancy_name": "狩獵之神",
         "AetherPower": "閃避",
@@ -120148,54 +120294,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "弗里達 (Frida) C",
-        "fancy_name": "極地巨人",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2019",
-        "costume_id": 1,
-        "originalIndex": "ice_god_frida_costume_juggernaut",
-        "cn_skill_info": []
-    },
-    {
-        "name": "霍雷斯B.F. (Horace B. F.)",
-        "fancy_name": "箭術勇士",
-        "AetherPower": "",
-        "color": "神聖",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "champions_horace",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "champions",
-        "costume_id": 0,
-        "originalIndex": "champions_horace",
-        "cn_skill_info": []
     },
     {
         "name": "貴橄欖 (Peridot) C",

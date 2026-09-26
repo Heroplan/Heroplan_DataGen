@@ -97890,6 +97890,51 @@
             ]
           },
           {
+            "id": "elemental_sep_2026_less",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 300,
+                    "defenseBonusPerMil": 300,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 340,
+                    "defenseBonusPerMil": 340,
+                    "healthBonusPerMil": 350,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 390,
+                    "defenseBonusPerMil": 390,
+                    "healthBonusPerMil": 400,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 420,
+                    "defenseBonusPerMil": 420,
+                    "healthBonusPerMil": 420,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "atlantis_aug2026",
             "statBonuses": [
               {
@@ -100563,5 +100608,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 149802787
+  "otherConfigId": 2384834526
 }

@@ -1849,6 +1849,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "name": "Frida C1",
+        "effects": [
+            "Deals 450% damage to the target and nearby enemies.",
+            "The target and nearby enemies get -55% defense against Ice for 4 turns.",
+            "Deals extra damage against Fire.",
+            "Dispels buffs from the target and nearby enemies.",
+            "Element Link gives all Ice allies +60% defense against Nature for 4 turns. This effect can't be dispelled."
+        ]
+    },
+    {
         "heroId": "ice_god_frosth",
         "name": "Frosth",
         "effects": [
@@ -17356,6 +17367,21 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "champions_horace",
+        "name": "Horace B. F.",
+        "effects": [
+            "Deals 470% damage to the target and 4 random enemies.",
+            "Stack (Max: 10): Each hit enemy increases all damage the target receives by 5%.",
+            "If the target is Average or faster mana speed, deals additional damage.",
+            "Against Average mana speed target deals an additional 50% damage.",
+            "Against Fast mana speed target deals additional 100% damage.",
+            "Against Very Fast mana speed or faster targets deals and additional 150% damage.",
+            "All monsters and bosses are considered as Average mana speed.",
+            "In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.",
+            "Boosts all allies' health by 15% of damage dealt."
+        ]
+    },
+    {
         "heroId": "s5_horus",
         "name": "Horus",
         "effects": [
@@ -19079,16 +19105,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "name": "Frida C",
-        "effects": []
-    },
-    {
-        "heroId": "champions_horace",
-        "name": "Horace B. F.",
-        "effects": []
     },
     {
         "heroId": "ninja_peridot_costume_herbalist",

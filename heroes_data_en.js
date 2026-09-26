@@ -11815,6 +11815,80 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Frida C1",
+        "fancy_name": "Arctic Juggernaut",
+        "AetherPower": "Special Boost",
+        "color": "Ice",
+        "class": "Fighter",
+        "speed": "Average",
+        "skill": "Polar Blast",
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-09-25",
+        "specialId": "polar_blast",
+        "parent_specialId": "polar_bash",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "legendary_reflector"
+        ],
+        "heroId": "ice_god_frida_costume_juggernaut",
+        "star": 5,
+        "power": 1363,
+        "attack": 1415,
+        "defense": 1380,
+        "health": 2551,
+        "effects": [
+            "Deals 450% damage to the target and nearby enemies.",
+            "The target and nearby enemies get -55% defense against Ice for 4 turns.",
+            "Deals extra damage against Fire.",
+            "Dispels buffs from the target and nearby enemies.",
+            "Element Link gives all Ice allies +60% defense against Nature for 4 turns. This effect can't be dispelled."
+        ],
+        "passives": [
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
+            "Legendary Reflector: Any status ailments this character resists with Passive Skills are reflected to all enemies."
+        ],
+        "family": "hotm2019",
+        "costume_id": 1,
+        "originalIndex": "ice_god_frida_costume_juggernaut",
+        "lb1": {
+            "attack": 1525,
+            "defense": 1487,
+            "health": 2749,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1745,
+            "defense": 1702,
+            "health": 3145,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs",
+                    "Def - Def ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Frosth",
         "fancy_name": "Winter Bringer",
         "AetherPower": "Defense Up",
@@ -109444,6 +109518,78 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Horace B. F.",
+        "fancy_name": "Archery Champion",
+        "AetherPower": "Dodge",
+        "color": "Holy",
+        "class": "Ranger",
+        "speed": "Very Slow",
+        "skill": "Steady Aim",
+        "source": "Legends Summon",
+        "Release date": "2026-09-25",
+        "specialId": "steady_aim",
+        "passiveSkills": [
+            "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
+            "damage_reduction_stack_on_enemy_special_if_faster_than_slow"
+        ],
+        "heroId": "champions_horace",
+        "star": 5,
+        "power": 1363,
+        "attack": 1384,
+        "defense": 1442,
+        "health": 2504,
+        "effects": [
+            "Deals 470% damage to the target and 4 random enemies.",
+            "Stack (Max: 10): Each hit enemy increases all damage the target receives by 5%.",
+            "If the target is Average or faster mana speed, deals additional damage.",
+            "Against Average mana speed target deals an additional 50% damage.",
+            "Against Fast mana speed target deals additional 100% damage.",
+            "Against Very Fast mana speed or faster targets deals and additional 150% damage.",
+            "All monsters and bosses are considered as Average mana speed.",
+            "In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.",
+            "Boosts all allies' health by 15% of damage dealt."
+        ],
+        "passives": [
+            "Damage Reduction on Enemy Special: If an enemy that is Average mana speed or faster casts a Special Skill, this character gets Stack (Max: 10): All damage received is reduced by 5%.",
+            "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn."
+        ],
+        "family": "champions",
+        "costume_id": 0,
+        "originalIndex": "champions_horace",
+        "lb1": {
+            "attack": 1491,
+            "defense": 1554,
+            "health": 2699,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1706,
+            "defense": 1778,
+            "health": 3088,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Random",
+                    "Heal - From Dmg",
+                    "Heal - Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Horus",
         "fancy_name": "God of the Hunt",
         "AetherPower": "Dodge",
@@ -120148,54 +120294,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Frida C",
-        "fancy_name": "Arctic Juggernaut",
-        "AetherPower": "",
-        "color": "Ice",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ice_god_frida_costume_juggernaut",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2019",
-        "costume_id": 1,
-        "originalIndex": "ice_god_frida_costume_juggernaut",
-        "cn_skill_info": []
-    },
-    {
-        "name": "Horace B. F.",
-        "fancy_name": "Archery Champion",
-        "AetherPower": "",
-        "color": "Holy",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "champions_horace",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "champions",
-        "costume_id": 0,
-        "originalIndex": "champions_horace",
-        "cn_skill_info": []
     },
     {
         "name": "Peridot C",
