@@ -50664,5 +50664,53 @@ window.allHeroesExtra = [
             "damage_reduction_stack_on_enemy_special_if_faster_than_slow"
         ],
         "family": "champions"
+    },
+    {
+        "name": "Ishida Aoga",
+        "fancy name": "Steel-Hearted Ronin",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "charge_ninja",
+        "Release date": "2026-09-27",
+        "AetherPower": "Rage",
+        "heroId": "ronin_ishida_aoga",
+        "baseAttack": 713,
+        "baseDefense": 683,
+        "baseHealth": 1148,
+        "specialId": "devastating_blades",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health",
+            "reduce_minion_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Peridot costume1",
+        "fancy name": "Ninja of Deadly Herbs",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_ninja",
+        "Release date": "2026-09-27",
+        "AetherPower": "Counterattack",
+        "heroId": "ninja_peridot_costume_herbalist",
+        "baseAttack": 355,
+        "baseDefense": 410,
+        "baseHealth": 700,
+        "specialId": "suffocating_smoke",
+        "specialId_costume": "suffocating_miasma",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "attackBonus": "79%",
+        "defenseBonus": "78.5%",
+        "healthBonus": "78%",
+        "manaBonus": "1%",
+        "family": "ninja"
     }
 ];

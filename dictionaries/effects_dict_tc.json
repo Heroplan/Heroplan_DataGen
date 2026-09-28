@@ -5588,5 +5588,9 @@
     "^Against\\s+Fast\\s+mana\\s+speed\\s+target\\s+deals\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\.?\\s*$": "* 對快速法力速度目標可造成额外\\1 傷害。",
     "^Against\\s+Very\\s+Fast\\s+mana\\s+speed\\s+or\\s+faster\\s+targets\\s+deals\\s+and\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\.?\\s*$": "* 對非常快或更快法力速度目標造成额外\\1 傷害。",
     "^All\\s+monsters\\s+and\\s+bosses\\s+are\\s+considered\\s+as\\s+Average\\s+mana\\s+speed\\.?\\s*$": "* 所有怪物與頭目皆視為擁有平均法力速度。",
-    "^In\\s+Rush\\s+Attack\\s+tournaments\\s+and\\s+wars\\s+enemies\\s+are\\s+considered\\s+as\\s+Very\\s+Fast\\s+mana\\s+speed\\.?\\s*$": "* 在“急速攻擊”錦標賽與戰爭中，敵人有著非常快的法力速度。"
+    "^In\\s+Rush\\s+Attack\\s+tournaments\\s+and\\s+wars\\s+enemies\\s+are\\s+considered\\s+as\\s+Very\\s+Fast\\s+mana\\s+speed\\.?\\s*$": "* 在“急速攻擊”錦標賽與戰爭中，敵人有著非常快的法力速度。",
+    "^Wither:\\s+The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)attack\\s+and\\s+([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "枯萎：目標獲得\\1點攻擊和\\2點防禦。",
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+minor\\s+damage\\s+all\\s+other\\s+enemies\\.?\\s*$": "對敵人造成\\1傷害，並對所有其他敵人造成輕微傷害。",
+    "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*$": "目標獲得\\1精準度，持續\\2個回合。如果目標受到治癒，效果持續時間會重設。",
+    "^All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*$": "所有敵人精準度變為\\1，持續\\2個回合。如果目標受到治癒，效果持續時間會重設。"
 }

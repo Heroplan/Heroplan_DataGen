@@ -1782,6 +1782,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "passives": [
@@ -5419,6 +5430,14 @@ const allTranslations =
         "name": "Peridot",
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
+        ]
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C1",
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 548 Bleed damage over 4 turns."
         ]
     },
     {
@@ -15095,16 +15114,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "ninja_peridot_costume_herbalist",
-        "name": "Peridot C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_ishida_aoga",
-        "name": "Ishida Aoga",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_maar",

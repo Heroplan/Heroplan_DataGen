@@ -1782,6 +1782,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
+            "阻止生命加成：敌人的生命值不能增加到超过其最大生命值。",
+            "蒙羞落败：当此角色被特殊技能击败时，会执行以下操作：",
+            "* 攻击者受到 450% 伤害。",
+            "* 攻击者在 3 回合内受到共计 1500 点流血伤害。"
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "passives": [
@@ -5419,6 +5430,14 @@ const translatedPassivesCN =
         "name": "Peridot",
         "passives": [
             "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+        ]
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C1",
+        "passives": [
+            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
+            "反击回敬：每次此角色反击敌人时，攻击者将在 4 个回合内承受 548 点流血伤害。"
         ]
     },
     {
@@ -15095,16 +15114,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "ninja_peridot_costume_herbalist",
-        "name": "Peridot C",
-        "passives": []
-    },
-    {
-        "heroId": "ronin_ishida_aoga",
-        "name": "Ishida Aoga",
-        "passives": []
     },
     {
         "heroId": "titan_hunter_maar",

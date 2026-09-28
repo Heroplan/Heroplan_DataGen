@@ -2172,6 +2172,22 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "ronin_ishida_aoga",
+        "name": "Ishida Aoga",
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Deals 450% damage to the target.",
+            "Wither: The target gets -200 attack and -200 defense.",
+            "x2 Mana Charge:",
+            "Deals 600% damage to the target and minor damage to nearby enemies.",
+            "Wither: The target and nearby enemies get -250 attack and -250 defense.",
+            "x3 Mana Charge:",
+            "Deals 800% damage to the target and minor damage all other enemies.",
+            "Wither: All enemies get -650 attack and -650 defense."
+        ]
+    },
+    {
         "heroId": "astral_dwarf_ixinn",
         "name": "Ixinn",
         "effects": [
@@ -6887,6 +6903,25 @@ const allTranslations =
             "* Deals 320% damage to all enemies.",
             "* All enemies receive 764 Poison damage over 4 turns.",
             "* All enemies get -54% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
+        ]
+    },
+    {
+        "heroId": "ninja_peridot_costume_herbalist",
+        "name": "Peridot C1",
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
+            "x1 Mana Charge:",
+            "Deals 410% damage to the target.",
+            "The target receives 496 Poison damage over 2 turns.",
+            "The target gets -35% accuracy for 2 turns. The effect duration resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "x2 Mana Charge:",
+            "Deals 420% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 900 Poison damage over 3 turns.",
+            "The target and nearby enemies get -40% accuracy for 3 turns. The effect duration resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "x3 Mana Charge:",
+            "Deals 430% damage to all enemies.",
+            "All enemies receive 1368 Poison damage over 4 turns.",
+            "All enemies get -55% accuracy for 4 turns. The effect duration resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -19105,16 +19140,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "ninja_peridot_costume_herbalist",
-        "name": "Peridot C",
-        "effects": []
-    },
-    {
-        "heroId": "ronin_ishida_aoga",
-        "name": "Ishida Aoga",
-        "effects": []
     },
     {
         "heroId": "titan_hunter_maar",

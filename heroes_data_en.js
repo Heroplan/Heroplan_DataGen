@@ -13973,6 +13973,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Ishida Aoga",
+        "fancy_name": "Steel-Hearted Ronin",
+        "AetherPower": "Rage",
+        "color": "Ice",
+        "class": "Fighter",
+        "speed": "Charge",
+        "skill": "Devastating Blades",
+        "source": "Tower - Ninjas",
+        "Release date": "2026-09-27",
+        "specialId": "devastating_blades",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health",
+            "reduce_minion_health"
+        ],
+        "heroId": "ronin_ishida_aoga",
+        "star": 5,
+        "power": 1363,
+        "attack": 1468,
+        "defense": 1406,
+        "health": 2364,
+        "effects": [
+            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
+            "x1 Mana Charge:",
+            "Deals 450% damage to the target.",
+            "Wither: The target gets -200 attack and -200 defense.",
+            "x2 Mana Charge:",
+            "Deals 600% damage to the target and minor damage to nearby enemies.",
+            "Wither: The target and nearby enemies get -250 attack and -250 defense.",
+            "x3 Mana Charge:",
+            "Deals 800% damage to the target and minor damage all other enemies.",
+            "Wither: All enemies get -650 attack and -650 defense."
+        ],
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Prevent Boosted Healing: Enemies' health cannot increase above their max health.",
+            "Dishonorable Defeat: When this character is defeated by a Special Skill, they perform the following actions",
+            "* The attacker receives 450% damage.",
+            "* The attacker receives 1500 Bleed damage over 3 turns."
+        ],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": "ronin_ishida_aoga",
+        "lb1": {
+            "attack": 1582,
+            "defense": 1516,
+            "health": 2548,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1811,
+            "defense": 1734,
+            "health": 2915,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Ixinn",
         "fancy_name": "Astral Dwarf Demolisher",
         "AetherPower": "Defense Up",
@@ -43405,6 +43475,79 @@ window.allHeroes =
             "defense": 911,
             "health": 1770,
             "power": 979
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Variable Targets",
+                    "Dmg - DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Peridot C1",
+        "fancy_name": "Ninja of Deadly Herbs",
+        "AetherPower": "Counterattack",
+        "color": "Nature",
+        "class": "Druid",
+        "speed": "Charge",
+        "skill": "Suffocating Miasma",
+        "source": "Tower - Ninjas",
+        "Release date": "2026-09-27",
+        "specialId": "suffocating_miasma",
+        "parent_specialId": "suffocating_smoke",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "heroId": "ninja_peridot_costume_herbalist",
+        "star": 5,
+        "power": 1364,
+        "attack": 1309,
+        "defense": 1507,
+        "health": 2566,
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
+            "x1 Mana Charge:",
+            "Deals 410% damage to the target.",
+            "The target receives 496 Poison damage over 2 turns.",
+            "The target gets -35% accuracy for 2 turns. The effect duration resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "x2 Mana Charge:",
+            "Deals 420% damage to the target and nearby enemies.",
+            "The target and nearby enemies receive 900 Poison damage over 3 turns.",
+            "The target and nearby enemies get -40% accuracy for 3 turns. The effect duration resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)",
+            "x3 Mana Charge:",
+            "Deals 430% damage to all enemies.",
+            "All enemies receive 1368 Poison damage over 4 turns.",
+            "All enemies get -55% accuracy for 4 turns. The effect duration resets if the target is healed. (Chance to miss also applies to offensive Special Skills.)"
+        ],
+        "passives": [
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Rending Touch: Each time this character counterattacks an enemy, the attacker receives 548 Bleed damage over 4 turns."
+        ],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": "ninja_peridot_costume_herbalist",
+        "lb1": {
+            "attack": 1410,
+            "defense": 1624,
+            "health": 2766,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1614,
+            "defense": 1858,
+            "health": 3164,
+            "power": 1653
         },
         "cn_skill_info": [
             {
@@ -120294,54 +120437,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Peridot C",
-        "fancy_name": "Ninja of Deadly Herbs",
-        "AetherPower": "",
-        "color": "Nature",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ninja_peridot_costume_herbalist",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ninja",
-        "costume_id": 1,
-        "originalIndex": "ninja_peridot_costume_herbalist",
-        "cn_skill_info": []
-    },
-    {
-        "name": "Ishida Aoga",
-        "fancy_name": "Steel-Hearted Ronin",
-        "AetherPower": "",
-        "color": "Ice",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ronin_ishida_aoga",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ronin",
-        "costume_id": 0,
-        "originalIndex": "ronin_ishida_aoga",
-        "cn_skill_info": []
     },
     {
         "name": "Maar",

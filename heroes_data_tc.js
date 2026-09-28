@@ -13973,6 +13973,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "石田青牙 (Ishida Aoga)",
+        "fancy_name": "鋼心浪人",
+        "AetherPower": "憤怒",
+        "color": "冰雪",
+        "class": "戰士",
+        "speed": "衝鋒",
+        "skill": "毀滅之刃",
+        "source": "高塔 - 忍者",
+        "Release date": "2026-09-27",
+        "specialId": "devastating_blades",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health",
+            "reduce_minion_health"
+        ],
+        "heroId": "ronin_ishida_aoga",
+        "star": 5,
+        "power": 1363,
+        "attack": 1468,
+        "defense": 1406,
+        "health": 2364,
+        "effects": [
+            "特殊技能在法力暴增達 100% / 200% / 300% 時有不同效果：",
+            "x 1 法力暴增：",
+            "對目標造成 450% 傷害。",
+            "枯萎：目標獲得 -200 點攻擊和 -200 點防禦。",
+            "x 2 法力暴增：",
+            "對目標造成 600% 傷害，並對附近敵人造成輕微傷害。",
+            "枯萎：目標與附近敵人獲得 -250 點攻擊和 -250 點防禦。",
+            "x 3 法力暴增：",
+            "對敵人造成 800% 傷害，並對所有其他敵人造成輕微傷害。",
+            "枯萎：所有敵人獲得 -650 點攻擊和 -650 點防禦。"
+        ],
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
+            "無法加成生命值：敵人的生命值無法增加到超過最大生命值。",
+            "恥辱的敗北：此角色遭特殊技能擊敗時，會作出以下行動：",
+            "* 攻擊者受到 450% 點傷害。",
+            "* 攻擊者受到 1500 點流血傷害，持續 3 回合。"
+        ],
+        "family": "ronin",
+        "costume_id": 0,
+        "originalIndex": "ronin_ishida_aoga",
+        "lb1": {
+            "attack": 1582,
+            "defense": 1516,
+            "health": 2548,
+            "power": 1459
+        },
+        "lb2": {
+            "attack": 1811,
+            "defense": 1734,
+            "health": 2915,
+            "power": 1652
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-數量變化"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻擊-枯萎：攻擊力↓",
+                    "防禦-枯萎：防禦力↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "易辛 (Ixinn)",
         "fancy_name": "星界矮人拆除者",
         "AetherPower": "防禦提升",
@@ -43405,6 +43475,79 @@ window.allHeroes =
             "defense": 911,
             "health": 1770,
             "power": 979
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-數量變化",
+                    "傷害-持續傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻擊-命中率↓",
+                    "傷害-持續傷害：毒"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "貴橄欖 (Peridot) C1",
+        "fancy_name": "致死藥草忍者",
+        "AetherPower": "反擊",
+        "color": "自然",
+        "class": "德魯伊",
+        "speed": "衝鋒",
+        "skill": "窒息瘴氣",
+        "source": "高塔 - 忍者",
+        "Release date": "2026-09-27",
+        "specialId": "suffocating_miasma",
+        "parent_specialId": "suffocating_smoke",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "bleed_on_counter_attack"
+        ],
+        "heroId": "ninja_peridot_costume_herbalist",
+        "star": 5,
+        "power": 1364,
+        "attack": 1309,
+        "defense": 1507,
+        "health": 2566,
+        "effects": [
+            "特殊技能在法力暴增達 100% / 200% / 300% 時有不同效果：",
+            "x 1 法力暴增：",
+            "對目標造成 410% 傷害。",
+            "目標在 2 回合內受到共計 496 點劇毒傷害。",
+            "目標獲得 -35% 精準度，持續 2 個回合。如果目標受到治癒，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）",
+            "x 2 法力暴增：",
+            "對目標與附近敵人造成 420% 傷害。",
+            "目標與附近敵人在 3 回合內受到共計 900 點劇毒傷害。",
+            "目標與附近敵人精準度變為 -40%，持續 3 個回合。如果目標受到治癒，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）",
+            "x 3 法力暴增：",
+            "對所有敵人造成 430% 傷害。",
+            "所有敵人在 4 回合內受到共計 1368 點劇毒傷害。",
+            "所有敵人精準度變為 -55%，持續 4 個回合。如果目標受到治癒，效果持續時間會重設。（進攻型特殊技能也有機率無法擊中。）"
+        ],
+        "passives": [
+            "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。",
+            "撕裂之觸：每當此角色反擊敵人時，攻擊者在 4 回合內受到 548 點流血傷害。"
+        ],
+        "family": "ninja",
+        "costume_id": 1,
+        "originalIndex": "ninja_peridot_costume_herbalist",
+        "lb1": {
+            "attack": 1410,
+            "defense": 1624,
+            "health": 2766,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1614,
+            "defense": 1858,
+            "health": 3164,
+            "power": 1653
         },
         "cn_skill_info": [
             {
@@ -120294,54 +120437,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "貴橄欖 (Peridot) C",
-        "fancy_name": "致死藥草忍者",
-        "AetherPower": "",
-        "color": "自然",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ninja_peridot_costume_herbalist",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ninja",
-        "costume_id": 1,
-        "originalIndex": "ninja_peridot_costume_herbalist",
-        "cn_skill_info": []
-    },
-    {
-        "name": "石田青牙 (Ishida Aoga)",
-        "fancy_name": "鋼心浪人",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "ronin_ishida_aoga",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "ronin",
-        "costume_id": 0,
-        "originalIndex": "ronin_ishida_aoga",
-        "cn_skill_info": []
     },
     {
         "name": "馬爾 (Maar)",
