@@ -12,6 +12,8 @@
 åkallelse"
 "lottery.title.covenantsummon","Förbundsåkallelse"
 "lottery.title.dailysummon","Daglig åkallelse"
+"lottery.title.deluxe.ascensionsummon","Deluxe"
+"lottery.title.deluxeascensionsummon","Omedelbar kraft deluxe"
 "lottery.title.elementaldragonsummon","Elementdrakåkallelse"
 "lottery.title.elementalherosummon","Elementåkallelse"
 "lottery.title.epicdragonsummon","Legendarisk drakåkallelse"

@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Kostumehidkaldelse"
 "lottery.title.covenantsummon","Pagthidkaldelse"
 "lottery.title.dailysummon","Daglig hidkaldelse"
+"lottery.title.deluxe.ascensionsummon","Luksus"
+"lottery.title.deluxeascensionsummon","Øjeblikkelig luksuskraft"
 "lottery.title.elementaldragonsummon","Elementær dragehidkaldelse"
 "lottery.title.elementalherosummon","Elementær hidkaldelse"
 "lottery.title.epicdragonsummon","Legendarisk dragehidkaldelse"

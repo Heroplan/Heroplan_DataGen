@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Invocación de atuendo"
 "lottery.title.covenantsummon","Invocación de coalición"
 "lottery.title.dailysummon","Invocación diaria"
+"lottery.title.deluxe.ascensionsummon","Deluxe"
+"lottery.title.deluxeascensionsummon","Poder inmediato deluxe"
 "lottery.title.elementaldragonsummon","Invocación de dragón elemental"
 "lottery.title.elementalherosummon","Invocación elemental"
 "lottery.title.epicdragonsummon","Invocación de dragón legendario"

@@ -104350,6 +104350,700 @@
         },
         "stageHeroBonusId": "tales1_stage_hero_bonus",
         "isUntoldTalesSeason": true
+      },
+      {
+        "season": "Season6",
+        "enabled": false,
+        "provinces": [
+          {
+            "id": "s6_province_01",
+            "lootTableId": "s6_province_01"
+          },
+          {
+            "id": "s6_province_02",
+            "lootTableId": "s6_province_02"
+          },
+          {
+            "id": "s6_province_03",
+            "lootTableId": "s6_province_03"
+          },
+          {
+            "id": "s6_province_01_hardmode",
+            "lootTableId": "s6_province_01_hardmode"
+          },
+          {
+            "id": "s6_province_02_hardmode",
+            "lootTableId": "s6_province_02_hardmode"
+          },
+          {
+            "id": "s6_province_03_hardmode",
+            "lootTableId": "s6_province_03_hardmode"
+          }
+        ],
+        "levels": [
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_3_A",
+                "monsterDefinitions": [
+                  {
+                    "id": "goblin_thug"
+                  },
+                  {
+                    "id": "ratman_brute"
+                  },
+                  {
+                    "id": "goblin_thug"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_01",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_coastal_snake_blue",
+              "s6_siren_spear_yellow",
+              "s6_siren_coastal_blue"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_3_A",
+                "monsterDefinitions": [
+                  {
+                    "id": "goblin_thug"
+                  },
+                  {
+                    "id": "ratman_brute"
+                  },
+                  {
+                    "id": "goblin_thug"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_02",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_siren_daggers_purple",
+              "s6_coastal_snake_red",
+              "s6_siren_underwater_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_V"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_3_A",
+                "monsterDefinitions": [
+                  {
+                    "id": "goblin_thug"
+                  },
+                  {
+                    "id": "ratman_brute"
+                  },
+                  {
+                    "id": "goblin_thug"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          },
+          {
+            "provinceId": "s6_province_03",
+            "energyCost": 6,
+            "commonMonstersLevel": 66,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "s6_warrior_blue",
+              "s6_warrior_green",
+              "s6_warrior_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_5_M"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [],
+            "battlegroundId": "AridDesert",
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2
+          }
+        ],
+        "buttonUnlockProvinceRequirement": "s5_province_03",
+        "mapUnlockProvinceRequirement": "s5_province_05",
+        "provincesUnlockSchedule": {
+          "referenceDate": "2000-01-01 00:00:00",
+          "provincesUnlockedEachTime": 3,
+          "scheduledUnlocksEntries": [
+            {
+              "provinces": [
+                "s6_province_01",
+                "s6_province_02",
+                "s6_province_03"
+              ],
+              "startTime": "2200-01-01 07:00:00",
+              "overridden": true
+            }
+          ]
+        }
       }
     ],
     "lootTables": [
@@ -139067,10 +139761,634 @@
           0,
           0
         ]
+      },
+      {
+        "id": "s6_province_01",
+        "craftingRewardLimit": 12,
+        "craftingRarityWeights": [
+          40,
+          40,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 9,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          5,
+          4,
+          1
+        ],
+        "rewardHeroes": [
+          {
+            "id": "Talented Trapper",
+            "weight": 4
+          },
+          {
+            "id": "Fierce Maiden",
+            "weight": 4
+          },
+          {
+            "id": "Village Girl",
+            "weight": 4
+          },
+          {
+            "id": "Ninja Student",
+            "weight": 4
+          },
+          {
+            "id": "Aspiring Archer",
+            "weight": 4
+          },
+          {
+            "id": "Half-Blood Fighter",
+            "weight": 1
+          },
+          {
+            "id": "Exiled Warrior",
+            "weight": 1
+          },
+          {
+            "id": "Nimble Hunter",
+            "weight": 1
+          },
+          {
+            "id": "Morgovian Fugitive",
+            "weight": 1
+          },
+          {
+            "id": "Monkey Warrior",
+            "weight": 1
+          }
+        ],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            145,
+            3,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "Normal"
+        },
+        "troopRewardWeights": [
+          80,
+          15,
+          5
+        ],
+        "increasedProbabilityItems": [
+          {
+            "id": "hero_sharpening_stone",
+            "weight": 0
+          },
+          {
+            "id": "item_grimoire_dust",
+            "weight": 0
+          },
+          {
+            "id": "hero_scabbard",
+            "weight": 0
+          }
+        ],
+        "lotteryTokenReward": "lottery_season6_coin",
+        "lotteryTokenRewardAmount": 3,
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "s6_province_02",
+        "craftingRewardLimit": 12,
+        "craftingRarityWeights": [
+          40,
+          40,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 9,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          5,
+          4,
+          1
+        ],
+        "rewardHeroes": [
+          {
+            "id": "Talented Trapper",
+            "weight": 4
+          },
+          {
+            "id": "Fierce Maiden",
+            "weight": 4
+          },
+          {
+            "id": "Village Girl",
+            "weight": 4
+          },
+          {
+            "id": "Ninja Student",
+            "weight": 4
+          },
+          {
+            "id": "Aspiring Archer",
+            "weight": 4
+          },
+          {
+            "id": "Half-Blood Fighter",
+            "weight": 1
+          },
+          {
+            "id": "Exiled Warrior",
+            "weight": 1
+          },
+          {
+            "id": "Nimble Hunter",
+            "weight": 1
+          },
+          {
+            "id": "Morgovian Fugitive",
+            "weight": 1
+          },
+          {
+            "id": "Monkey Warrior",
+            "weight": 1
+          }
+        ],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            145,
+            3,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "Normal"
+        },
+        "troopRewardWeights": [
+          80,
+          15,
+          5
+        ],
+        "increasedProbabilityItems": [
+          {
+            "id": "hero_chainmail_shirt",
+            "weight": 0
+          },
+          {
+            "id": "hero_practice_sword",
+            "weight": 0
+          },
+          {
+            "id": "hero_rugged_clothes",
+            "weight": 0
+          }
+        ],
+        "lotteryTokenReward": "lottery_season6_coin",
+        "lotteryTokenRewardAmount": 3,
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "s6_province_03",
+        "craftingRewardLimit": 12,
+        "craftingRarityWeights": [
+          40,
+          40,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 9,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          5,
+          4,
+          1
+        ],
+        "rewardHeroes": [
+          {
+            "id": "Talented Trapper",
+            "weight": 4
+          },
+          {
+            "id": "Fierce Maiden",
+            "weight": 4
+          },
+          {
+            "id": "Village Girl",
+            "weight": 4
+          },
+          {
+            "id": "Ninja Student",
+            "weight": 4
+          },
+          {
+            "id": "Aspiring Archer",
+            "weight": 4
+          },
+          {
+            "id": "Half-Blood Fighter",
+            "weight": 1
+          },
+          {
+            "id": "Exiled Warrior",
+            "weight": 1
+          },
+          {
+            "id": "Nimble Hunter",
+            "weight": 1
+          },
+          {
+            "id": "Morgovian Fugitive",
+            "weight": 1
+          },
+          {
+            "id": "Monkey Warrior",
+            "weight": 1
+          }
+        ],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            145,
+            3,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "Normal"
+        },
+        "troopRewardWeights": [
+          80,
+          15,
+          5
+        ],
+        "increasedProbabilityItems": [
+          {
+            "id": "item_clean_cloth",
+            "weight": 0
+          },
+          {
+            "id": "item_crypt_mushroom",
+            "weight": 0
+          },
+          {
+            "id": "hero_training_manual",
+            "weight": 0
+          }
+        ],
+        "lotteryTokenReward": "lottery_season6_coin",
+        "lotteryTokenRewardAmount": 3,
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "s6_province_01_hardmode",
+        "craftingRewardLimit": 18,
+        "craftingRarityWeights": [
+          40,
+          40,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 13,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          4,
+          3,
+          2
+        ],
+        "rewardHeroes": [
+          {
+            "id": "Talented Trapper",
+            "weight": 4
+          },
+          {
+            "id": "Fierce Maiden",
+            "weight": 4
+          },
+          {
+            "id": "Village Girl",
+            "weight": 4
+          },
+          {
+            "id": "Ninja Student",
+            "weight": 4
+          },
+          {
+            "id": "Aspiring Archer",
+            "weight": 4
+          },
+          {
+            "id": "Half-Blood Fighter",
+            "weight": 1
+          },
+          {
+            "id": "Exiled Warrior",
+            "weight": 1
+          },
+          {
+            "id": "Nimble Hunter",
+            "weight": 1
+          },
+          {
+            "id": "Morgovian Fugitive",
+            "weight": 1
+          },
+          {
+            "id": "Monkey Warrior",
+            "weight": 1
+          }
+        ],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            145,
+            3,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "Normal"
+        },
+        "troopRewardWeights": [
+          80,
+          15,
+          5
+        ],
+        "increasedProbabilityItems": [
+          {
+            "id": "hero_sharpening_stone",
+            "weight": 0
+          },
+          {
+            "id": "item_grimoire_dust",
+            "weight": 0
+          },
+          {
+            "id": "hero_scabbard",
+            "weight": 0
+          }
+        ],
+        "lotteryTokenReward": "lottery_season6_coin",
+        "lotteryTokenRewardAmount": 5,
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "s6_province_02_hardmode",
+        "craftingRewardLimit": 18,
+        "craftingRarityWeights": [
+          40,
+          40,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 13,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          4,
+          3,
+          2
+        ],
+        "rewardHeroes": [
+          {
+            "id": "Talented Trapper",
+            "weight": 4
+          },
+          {
+            "id": "Fierce Maiden",
+            "weight": 4
+          },
+          {
+            "id": "Village Girl",
+            "weight": 4
+          },
+          {
+            "id": "Ninja Student",
+            "weight": 4
+          },
+          {
+            "id": "Aspiring Archer",
+            "weight": 4
+          },
+          {
+            "id": "Half-Blood Fighter",
+            "weight": 1
+          },
+          {
+            "id": "Exiled Warrior",
+            "weight": 1
+          },
+          {
+            "id": "Nimble Hunter",
+            "weight": 1
+          },
+          {
+            "id": "Morgovian Fugitive",
+            "weight": 1
+          },
+          {
+            "id": "Monkey Warrior",
+            "weight": 1
+          }
+        ],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            145,
+            3,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "Normal"
+        },
+        "troopRewardWeights": [
+          80,
+          15,
+          5
+        ],
+        "increasedProbabilityItems": [
+          {
+            "id": "hero_chainmail_shirt",
+            "weight": 0
+          },
+          {
+            "id": "hero_practice_sword",
+            "weight": 0
+          },
+          {
+            "id": "hero_rugged_clothes",
+            "weight": 0
+          }
+        ],
+        "lotteryTokenReward": "lottery_season6_coin",
+        "lotteryTokenRewardAmount": 5,
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "s6_province_03_hardmode",
+        "craftingRewardLimit": 18,
+        "craftingRarityWeights": [
+          40,
+          40,
+          8,
+          2
+        ],
+        "ascensionRewardLimit": 13,
+        "ascensionRarityWeights": [
+          70,
+          25,
+          5,
+          0
+        ],
+        "heroRewardWeights": [
+          4,
+          3,
+          2
+        ],
+        "rewardHeroes": [
+          {
+            "id": "Talented Trapper",
+            "weight": 4
+          },
+          {
+            "id": "Fierce Maiden",
+            "weight": 4
+          },
+          {
+            "id": "Village Girl",
+            "weight": 4
+          },
+          {
+            "id": "Ninja Student",
+            "weight": 4
+          },
+          {
+            "id": "Aspiring Archer",
+            "weight": 4
+          },
+          {
+            "id": "Half-Blood Fighter",
+            "weight": 1
+          },
+          {
+            "id": "Exiled Warrior",
+            "weight": 1
+          },
+          {
+            "id": "Nimble Hunter",
+            "weight": 1
+          },
+          {
+            "id": "Morgovian Fugitive",
+            "weight": 1
+          },
+          {
+            "id": "Monkey Warrior",
+            "weight": 1
+          }
+        ],
+        "trainerCharacterReward": {
+          "draws": 1,
+          "weights": [
+            145,
+            3,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trainerType": "Normal"
+        },
+        "troopRewardWeights": [
+          80,
+          15,
+          5
+        ],
+        "increasedProbabilityItems": [
+          {
+            "id": "item_clean_cloth",
+            "weight": 0
+          },
+          {
+            "id": "item_crypt_mushroom",
+            "weight": 0
+          },
+          {
+            "id": "hero_training_manual",
+            "weight": 0
+          }
+        ],
+        "lotteryTokenReward": "lottery_season6_coin",
+        "lotteryTokenRewardAmount": 5,
+        "assistSkillUpgradeMaterialRarityWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
       }
     ],
     "untoldTalesEnabled": true,
     "dragonProvinceCompletionRewardsEnabled": true
   },
-  "mapConfigId": 1713182610
+  "mapConfigId": 1356754873
 }

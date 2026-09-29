@@ -31,7 +31,11 @@
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","每回合開始時，對所有敵方小兵和超級小兵造成{DAMAGEPERTURN}點傷害。"
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","每回合開始時，對所有敵方小兵和超級小兵造成{DAMAGEPERTURN}點傷害。"
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","此角色對敵人造成的所有普通攻擊與特殊技能傷害，每擁有{INSANITYPERSTEP}點瘋狂時增加{DAMAGEINCREASEPERSTEP}%，最高可達{MAXDAMAGEINCREASE}%。不包含觸發瘋狂時對自身或盟友造成的傷害。"
-"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","連結英雄被特殊技能擊中時，移除剩餘持續時間最短的可驅散增益，將受到的傷害降低 {DAMAGEREDUCTION}%。如果連結英雄的生命值在{INCREASEDDAMAGEREDUCTIONTHRESHOLD}%以下，則傷害降低{INCREASEDDAMAGEREDUCTION}%。"
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","部隊能力
+
+ 當英雄受到特殊技能攻擊時，若身上有任何可驅散增益，將會消耗其中一個，使受到的傷害降低{DAMAGEREDUCTION}%。
+
+ 若英雄身上有多個可驅散增益，则會消耗持續時間最短的一個。頑固效果無法被消耗。"
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","目標每有一層血百合疊加，此角色普通攻擊和特殊技能造成的增加{MODIFIER}%。"
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","若有任意盟友正在跳舞，此角色的特殊技能造成的傷害增加{MODIFIERCHANGE}%。"
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","此角色的特殊技能、超級小兵和小兵對有水系傷害異常的敵人，可造成額外傷害。
@@ -61,6 +65,8 @@
 每回合最多可獲得{MAXMANAGAINPERTURN}%法力。"
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有{CHANCE}%機率對所有敵人造成所承受傷害的{POWER}%傷害。"
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","此角色受到特殊技能的傷害，或者代替受掩護角色承受傷害時，有{CHANCE}%機率對所有敵人造成所承受傷害的{POWER}%傷害。（最大傷害：{RARITYLIMITEDDAMAGE}）"
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies","此角色代替受掩護角色承受傷害時，會對所有敵人造成所承受傷害的{POWER}%傷害。"
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies.rarity_limit_damage","此角色代替受掩護角色承受傷害時，會對所有敵人造成所承受傷害的{POWER}%傷害。（傷害上限：{RARITYLIMITEDDAMAGE}）"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","此角色受到特殊技能傷害時，獲得{STATUSEFFECT1ATTACK}%攻擊疊加 (最大值：{STATUSEFFECT1MAXSTACK})。每回合能獲得一層疊加。"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","此角色受到特殊技能傷害時，獲得{STATUSEFFECT1ATTACK}%攻擊疊加 (最大值：{STATUSEFFECT1MAXSTACK})。每回合能獲得一層疊加。"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","此角色受到特殊技能傷害時，獲得{STATUSEFFECT1ATTACK}%攻擊疊加 (最大值：{STATUSEFFECT1MAXSTACK})。每回合能獲得一層疊加。"
@@ -97,7 +103,7 @@
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","此角色使用特殊技能造成暴擊時，會安全淨化所有盟友身上最新的可淨化狀態異常。"
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","此角色使用特殊技能造成暴擊時，會使所有盟友獲得{HEALTHBOOST}%生命值加成。"
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","此角色使用特殊技能造成暴擊時，會使所有盟友獲得{HEALTHBOOST}%生命值加成。"
-"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","當任何其他盟友施放特殊技能時，此角色對一位隨機的敵人造成 {POWER}%傷害。目標敵人獲得{DIRECTEFFECT1STATUSEFFECT1DEFENSE}%防禦，持續{DIRECTEFFECT1STATUSEFFECT1TURNS}回合。"
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","當任何其他盟友施放特殊技能時，此角色對一位隨機的敵人造成 {POWER}%傷害。敵人獲得{DIRECTEFFECT1STATUSEFFECT1DEFENSE}%防禦，持續{DIRECTEFFECT1STATUSEFFECT1TURNS}回合。"
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","當敵人施放特殊技能時，此角色會有{CHANCE}%機率提升自身生命值{HEALTHBOOST}點。"
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","此角色施放特殊技能時，有{CHANCE}%機率送出{POWER}%法力給所有盟友。特殊技能充滿時，機率則變為{CHANCEFULLYCHARGED}%。"
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","此角色施放特殊技能時，有{CHANCE}%機率送出{POWER}%法力給不屬於冰雪元素的所有盟友。特殊技能充滿時，機率則變為{CHANCEFULLYCHARGED}%。"
@@ -132,20 +138,43 @@
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","對任意敵人召喚惡魔時，此角色會獲得{POWER}%法力。此效果每回合僅可啟動一次。"
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","惡魔被召喚至任意敵人時，此角色對所有敵人造成{DAMAGE}%傷害。此效果每回合僅限啟動一次。"
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","對任意敵人召喚惡魔時，此角色會獲得{POWER}點生命值加成。此效果每回合僅可啟動一次。"
-"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","部隊連結加成：
-連結英雄的特殊技能可暴擊造成+50%額外傷害。
-暴擊率提升{PASSIVESKILL2CRITICALMODIFIER}%。"
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","部隊能力
+ 英雄的特殊技能可以造成暴擊。
+
+ 暴擊率提高{PASSIVESKILL2CRITICALMODIFIER}%。此效果可與其他改變暴擊率的效果同時生效。
+
+ 暴擊造成的傷害比普通攻擊高出+100%。
+
+特殊技能造成的暴擊：
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+在PvP模式中，暴擊會降低目標的最大生命值。敵人獲得生命值加成時，此效果更為顯著。
+
+特殊技能的效果（如寒霜襲擊、烈火風暴襲擊與月昇襲擊）無法造成暴擊。"
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.with_universalmaxhealthreduction.criticalmodifiersupportcharacter.troop","部隊能力
+ 英雄的特殊技能可以造成暴擊。
+
+ 暴擊率提高{PASSIVESKILL2CRITICALMODIFIER}%。此效果可與其他改變暴擊率的效果同時生效。
+
+ 暴擊造成的傷害比普通攻擊高出+100%。
+
+特殊技能造成的暴擊：
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+暴擊會降低目標的最大生命值。敵人獲得生命值加成時，此效果更為顯著。
+
+特殊技能的效果（如寒霜襲擊、烈火風暴襲擊與月昇襲擊）無法造成暴擊。"
 "herocard.passive_skill.description.extraactionsafterspecial","此角色施放特殊技能時，有{CHANCE}%機率施放額外行動。"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","所有敵方小兵擁有{MINIONMODIFIER}%精準度。
 所有敵方超級小兵擁有{MEGAMINIONMODIFIER}%精準度。"
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","此角色的構造體核心是[#!]小兵核心[#]。
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","此角色的構造體核心是小兵核心。
 
-每次施放此角色的[#!]特殊技能[#]時，就會啟動[#!]小兵核心[#]：
+每次施放此角色的特殊技能時，就會啟動小兵核心：
 
-[*]完全充能的[#!]小兵核心[#]會為所有盟友召喚一個[#!]殺手機器人小兵[#]，擁有繼承自施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻擊。
-[*]繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。
-[*]殺手機器人小兵在每回合結束時為其主人恢復{FAMILIARHEAL}%生命值。
-[*][#!]枯萎：[#]殺手機器人小兵每次攻擊， 都會使目標的攻擊力變為[#!]{ATTACKMODIFIER}[#]。"
+完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊。
+繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。
+殺手機器人小兵在每回合結束時為其主人恢復{FAMILIARHEAL}%生命值。
+枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為{ATTACKMODIFIER}。"
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","此角色的構造體核心是小兵核心。
 
 每次施放此角色的特殊技能時，就會啟動小兵核心：
@@ -194,6 +223,7 @@
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","降低 {MODIFIER}%特殊技能所增加的法力量。該效果適用於戰鬥的所有敵人。"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","降低 {MODIFIER}%特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","降低 {MODIFIER}%特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。"
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","{MODIFIER}%法力產出。"
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","此角色擁有的小兵被擊殺時，會獲得少量法力。"
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","此角色天賦異稟，能夠記住任何被敵方特殊技能召喚出來的小兵或惡魔。最近一次召喚的小兵或惡魔會持續被記憶住，直到特殊技能被使用為止。"
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","此角色天賦異稟，能夠記住任何被敵方特殊技能召喚出來的小兵或惡魔。最近一次召喚的{0}個小兵或惡魔會持續被記憶住，直到特殊技能被使用為止。"
@@ -207,21 +237,37 @@
 小兵變成駭異惡魔：{FAMILIAR1FAMILIARATTACK}%攻擊、{FAMILIAR1FAMILIARHEALTHPERCENT}%生命，每回合造成{FAMILIAR1INSANITYTOADD}點瘋狂。
 超級惡魔變成駭異超級惡魔：{FAMILIAR2FAMILIARATTACK}%攻擊{FAMILIAR2FAMILIARHEALTHPERCENT}%生命，每回合造成{FAMILIAR2INSANITYTOADD}點瘋狂。"
 "herocard.passive_skill.description.nevermissspecial","此角色的特殊技能必定命中目標。"
-"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","部隊連結加成：
-連結英雄特殊技能的直接治療提升{PASSIVESKILL1HEALMULTIPLIER}%。
-連結英雄施放特殊技能時，所有盟友獲得最大生命值降低免疫，持續{PASSIVESKILL2TURNS}回合。"
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","部隊能力
+
+此英雄特殊技能的直接治療提升{PASSIVESKILL1HEALMULTIPLIER}%。這也會提升加成治療。
+
+ 當施放特殊技能時，所有盟友獲得最大生命值降低的免疫效果，持續{PASSIVESKILL2TURNS}回合。這也可以防止PvP模式中因暴擊而導致的最大生命值降低。"
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.with_universalmaxhealthreduction.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","部隊能力
+
+此英雄特殊技能的直接治療提升{PASSIVESKILL1HEALMULTIPLIER}%。這也會提升加成治療。
+
+ 當施放特殊技能時，所有盟友獲得最大生命值降低的免疫效果，持續{PASSIVESKILL2TURNS}回合。這也可以防止因暴擊而導致的最大生命值降低。"
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","敵人的生命值無法增加到超過最大生命值。"
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","每回合開始時，此角色會劫掠一名隨機敵人：
+"herocard.passive_skill.description.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies.activates_on_specialcast","當任何其他盟友施放特殊技能時，此角色會劫掠擁有最多增益效果的敵人：
 
 竊取{DAMAGE}生命值。
 安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。"
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","每回合開始時，此角色有{CHANCE}%機率劫掠一名隨機敵人：
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn","每回合開始時，此角色會劫掠一名隨機敵人：
 
 竊取{DAMAGE}生命值。
+安全地從敵人身上竊取增益。包括不可驅散的增益和舞蹈效果。"
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn.chance","每回合開始時，此角色有{CHANCE}%機率劫掠一名隨機敵人：
+
+劫掠：
+竊取{DAMAGE}生命值。
 安全地從敵人身上竊取一個隨機成長效果、正面疊加增益或狀態效果。包括不可驅散的增益和舞蹈效果。
-安全竊取可避免移增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","當此角色施放其特殊技能時，會有{CHANCE}%機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成{DAMAGE}%傷害。"
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","當此角色施放其特殊技能時，會有{CHANCE}%機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成{DAMAGE}%傷害。"
+安全竊取可避免移除增益時的第二效果，例如移除時受到傷害。被動技能和家族效果仍可發動。"
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","當此角色施放其特殊技能時，會有{CHANCE}%機率執行下列其中一項：
+從隨機一名帶有增益的敵人身上偷取最新的可驅散增益；或
+若無可竊取的增益，則對所有敵人造成{DAMAGE}%傷害。"
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","當此角色施放其特殊技能時，會有{CHANCE}%機率執行下列其中一項：
+從隨機一名帶有增益的敵人身上偷取最新的可驅散增益；或
+若無可竊取的增益，則對所有敵人造成{DAMAGE}%傷害。"
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","當此角色施放特殊技能時，會將其最新的可淨化狀態異常從自身轉移至目標。如果特殊技能無法鎖定敵人，則會隨機選擇一個敵人。如果此角色沒有可淨化的狀態異常，則會恢復{HEALTH}%生命。"
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","有{REPLACEMENTCHANCE}%機率將受到的負面效果替換為相對應的正面效果。"
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","此角色受到較強元素部隊造成的傷害會減少。
@@ -237,6 +283,13 @@
 
 在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","當該角色首次承受致命傷害時，會將該傷害轉移至隨機敵人身上。（剩餘啟動次數：{ACTIVATIONSLEFT}）"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘發動次數：{ACTIVATIONSLEFT}）"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘發動次數：{ACTIVATIONSLEFT}）"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。
+
+在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘發動次數：{ACTIVATIONSLEFT}）"
+"herocard.passive_skill.description.reduceinsanityperturn","在每個回合開始時，此角色當前的瘋狂減少{REDUCTION}。"
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","此角色使用被動技能抵抗的狀態異常都會反射給所有敵人。"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","有額外{CHANCE}%機率反射狀態異常回至攻擊者。"
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","每{TURNS}回合移除所有盟友的全部枯萎效果。"
@@ -248,8 +301,10 @@
 修復核心暴增時，會為所有盟友提供{CHARGEDPOWER1}%生命值加成。
  治療量依核心中的暴增量而定。核心啟動時會消耗所有暴增。"
 "herocard.passive_skill.description.repeatspecial","有{REPEATCHANCE}%機率施展此英雄的特殊技能{REPEATS}次。"
-"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","部隊連結獎勵：
-連結英雄有{REPEATCHANCE}%機率獲得幸運！並連續施放一個特殊技能{REPEATS}次。
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","部隊能力
+
+英雄有{REPEATCHANCE}%機率獲得幸運！並連續施放一個特殊技能{REPEATS}次。
+
 如果有任何其他已啟動的幸運！效果，則此部隊的機率增加{REPEATCHANCEMODIFIER}%。"
 "herocard.passive_skill.description.resist.accuracymodifiers","此角色對影響精準度的狀態異常免疫。不適用於盟友的原本狀態效果。"
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","此角色對狀態異常和負面效果疊加免疫。"
@@ -298,6 +353,7 @@
 "herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE}%額外機率抵禦增益驅散。"
 "herocard.passive_skill.description.resist.buffimmunity","此角色對使其無法接收新狀態效果增益的效果免疫。"
 "herocard.passive_skill.description.resist.burn","此角色對造成燃燒傷害的狀態異常免疫。"
+"herocard.passive_skill.description.resist.burn.with_effect.addmana","此角色造成燃燒傷害的狀態異常免疫，且每次抵抗獲得{MANA}%法力。"
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","此角色造成燃燒傷害的狀態異常免疫，每次抵抗都會獲得{HEALTHBOOST}點生命值提升和{MANA}%法力。"
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","此角色對狀態異常免疫。"
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","有{CHANCE}%額外機率可抵禦所有狀態異常。"
@@ -308,6 +364,7 @@
 無法阻止其獲得小兵。
  小兵攻擊與能力無法關閉。"
 "herocard.passive_skill.description.resist.frost","此角色對造成冰霜傷害的狀態異常免疫。"
+"herocard.passive_skill.description.resist.frost.with_effect.addmana","此角色造成冰霜傷害的狀態異常免疫，且每次抵抗獲得{MANA}%法力。"
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","此角色對造成冰霜傷害的狀態異常免疫，每次抵抗都會獲得{HEALTHBOOST}點生命值提升和{MANA}%法力。"
 "herocard.passive_skill.description.resist.healeffects","此角色對影響治療的狀態異常免疫。"
 "herocard.passive_skill.description.resist.healthsteal","此角色對偷取生命的狀態異常免疫。"
@@ -318,6 +375,7 @@
 "herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","此角色對影響法力產出的狀態異常和負面疊加免疫。不適用於會阻止法力產出或偷走法力的狀態異常。"
 "herocard.passive_skill.description.resist.manareduction","此角色對法力減損免疫。"
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE}%額外機率抵禦法力減損。"
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.addmana","此角色法力減少效果免疫，每次抵抗都會獲得 {MANA}%法力。"
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","此角色對法力減損免疫，每次抵抗都會獲得{HEALTHBOOST}點生命值提升和{MANA}%法力。"
 "herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","此角色對竊取和劫掠免疫。"
 "herocard.passive_skill.description.resist.maxhealthreduction","此角色對最大生命值降低免疫。"
@@ -328,9 +386,11 @@
 "herocard.passive_skill.description.resist.sand","此角色對造成飛沙傷害的狀態異常免疫。"
 "herocard.passive_skill.description.resist.specialblocking","此角色對於能夠讓特殊技能無法使用的狀態異常免疫。"
 "herocard.passive_skill.description.resist.specialblocking.with_chance","此角色有{CHANCE}%機率會抵禦讓特殊技能無法使用的狀態異常。"
+"herocard.passive_skill.description.resist.specialblocking.with_effect.addmana","此角色對能夠讓特殊技能無法使用的狀態異常免疫，每次抵抗都會獲得{MANA}%法力。"
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","此角色對能夠讓特殊技能無法使用的狀態異常免疫，每次抵抗都會獲得{HEALTHBOOST}點生命值提升和{MANA}%法力。"
 "herocard.passive_skill.description.resist.stopmanageneration","此角色對影響阻止法力產出的狀態異常免疫。"
 "herocard.passive_skill.description.resist.water","此角色對造成水系傷害的狀態異常免疫。"
+"herocard.passive_skill.description.resist.water.with_effect.addmana","此角色造成水系傷害的狀態異常免疫，且每次抵抗時獲得{MANA}%法力。"
 "herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","此角色造成水系傷害的狀態異常免疫，每次抵抗都會獲得{HEALTHBOOST}點生命值提升和{MANA}%法力。"
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","此角色對來自小兵的狀態異常免疫。"
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","此角色對會使其受到小兵移除的效果免疫。"
@@ -383,10 +443,21 @@ The 駭異宿主具有：
 "herocard.passive_skill.description.statuseffectdefensemodifier.reduction","降低防禦的狀態異常，對此角色的效果降低{MODIFIER}%。"
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","提升防禦的狀態效果，對此角色的效果提升{MODIFIER}%。"
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","降低防禦的狀態異常，對此角色的效果降低{MODIFIER}%。"
-"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","這個角色受到來自特殊技能的狀態效果時，有前{MAXACTIVATIONCOUNT}次會將持續時間減少{DURATIONMODIFIER}個回合。"
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","縮短此角色受到來自特殊技能的前{MAXACTIVATIONCOUNT}個狀態異常的持續時間。
+
+縮短的回合數：{DURATIONMODIFIER}。"
 "herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","這個角色受到來自特殊技能的防禦狀態異常的持續時間減少{DURATIONMODIFIER}個回合。"
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","這個角色受到來自特殊技能的增益時，有前{MAXACTIVATIONCOUNT}次會將持續時間增加{DURATIONMODIFIER}個回合。"
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","此英雄的一個狀態異常受到淨化時，將隨機對一名敵人施加受淨化異常的新複製體。"
+"herocard.passive_skill.description.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","部隊能力
+
+此部隊能力會影響所有敵人，持續整場戰鬥。
+
+ 復活機率降低{FIXEDAMOUNTMODIFIER}%。此效果可與其他改變復活機率的效果同時生效。
+
+ 若敵人復活，將獲得{STATUSEFFECT1ACCURACY}%的命中率，持續{STATUSEFFECT1TURNS}回合。
+
+ 隊伍中的其他不死術士不會增加這些效果的強度。"
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","每次此石像鬼施放特殊技能時，所有盟友獲得柔軟膚。它們受之後{MAXACTIVATIONS}次的傷害，其傷害減少{DAMAGEREDUCTION}%且也對所有狀態異常、法力減損與瘋狂免疫。此效果無法驅散。"
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","此角色在施放特殊技能後，進入偽裝狀態，無法被敵方特殊技能直接作為目標，持續{TURNS}回合。此效果無法驅散或轉移。"
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","這個石像鬼每次施放特殊技能時，就會啟動柔軟膚。"
@@ -395,12 +466,36 @@ The 駭異宿主具有：
 被標記狩獵耀斑的敵人受到暴擊時，會受到額外{FIXEDPOWER}點傷害。"
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","此角色施放特殊技能時，可獲得{ATTACK}%攻擊，持續{TURNS}回合。除了可變更攻擊的效果，可另外啟動此效果。"
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","每場戰鬥一次，此英雄的元素能變更為你自選元素，持續{TURNS}回合。在沒有滿法力時，可以點擊該英雄來變更元素。"
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed","每{TURNSBETWEENEFFECTS}回合，此角色會向擁有最快法力速度的敵人偷取{MANASTEAL}%法力。"
 "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","每{TURNSBETWEENEFFECTS}回合，此角色會向擁有最快法力速度的敵人偷取{MANASTEAL}%法力。此效果無法被狀態效果或被動技能阻止。"
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","每{TURNSBETWEENEFFECTS}回合，此角色會向擁有最快法力速度的敵人偷取{MANASTEAL}%法力。"
 "herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","每{TURNSBETWEENEFFECTS}回合，此角色會向擁有最多法力的敵人會偷取{MANASTEAL}%法力。此效果無法被狀態效果或被動技能阻止。"
 "herocard.passive_skill.description.stopchainstrikes","連鎖或攻擊多次的特殊技能會停在這個角色上。不會停止友善效果。"
+"herocard.passive_skill.description.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","部隊能力
+
+ 英雄特殊技能召喚的所有小兵與超級小兵變得更強，並獲得治療能力。
+
+ 回合結束時，每個小兵與超級小兵會為其擁有者恢復{PASSIVESKILL2FAMILIAREFFECT1FIXEDFAMILIARHEAL}點生命值。
+
+ 小兵：{PASSIVESKILL1MINIONATTACKMODIFIER}%攻擊
+ 超級小兵：{PASSIVESKILL1MEGAMINIONATTACKMODIFIER}%攻擊"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","每回合對一位隨機敵人召喚一個種子惡魔。
 {EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
 {EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.blocked_by.minion","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+如果英雄已擁有小兵，惡魔就無法進化成超級惡魔。
+
 
 種子惡魔：
 {EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
@@ -422,10 +517,76 @@ The 駭異宿主具有：
 
 盛開超級惡魔：
 {EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+如果英雄已擁有小兵，惡魔就無法進化成超級惡魔。
+
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+如果英雄已擁有小兵，惡魔就無法進化成超級惡魔。
+
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","每回合對一位隨機敵人召喚一個種子惡魔。
 {EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
 {EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
 惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.blocked_by.minion","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+惡魔每次吸收治療後，進化會延遲{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+如果英雄已擁有小兵，惡魔則無法進化為超級惡魔。
 
 種子惡魔：
 {EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
@@ -461,10 +622,36 @@ The 駭異宿主具有：
 
 盛開超級惡魔：
 {EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn.blocked_by.minion","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+如果英雄已擁有小兵，惡魔就無法進化成超級惡魔。
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合對一位隨機敵人召喚一個種子惡魔。此被動技能每回合每隊只能啟用一次。
 {EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
 {EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
 惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+
+種子惡魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+
+發芽惡魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+
+盛開超級惡魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion","每回合對一位隨機敵人召喚一個種子惡魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+如果英雄已擁有小兵，惡魔就無法進化成超級惡魔。
 
 種子惡魔：
 {EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
@@ -492,11 +679,41 @@ The 駭異宿主具有：
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.purple","此角色施放其特殊技能時，在面板上的暗黑護盾會降低{MODIFIER}%精準度。"
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.red","此角色施放其特殊技能時，在面板上的烈火護盾會降低{MODIFIER}%精準度。"
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.yellow","此角色施放其特殊技能時，在面板上的神聖護盾會降低{MODIFIER}%精準度。"
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue","此角色施放其特殊技能時，在面板上的冰雪護盾會強化{MODIFIER}%暴擊率。"
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green","此角色施放其特殊技能時，在面板上的自然護盾會強化{MODIFIER}%暴擊率。"
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","此角色施放其特殊技能時，在面板上的暗黑護盾會強化{MODIFIER}%暴擊率。"
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","此角色施放其特殊技能時，在面板上的烈火護盾會強化{MODIFIER}%暴擊率。"
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","此角色施放其特殊技能時，在面板上的神聖護盾會強化{MODIFIER}%暴擊率。"
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue.increase","此角色施放其特殊技能時，在面板上的冰雪護盾會強化{MODIFIER}%暴擊率。"
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green.increase","此角色施放其特殊技能時，在面板上的自然護盾會強化{MODIFIER}%暴擊率。"
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple.increase","此角色施放其特殊技能時，在面板上的暗黑護盾會強化{MODIFIER}%暴擊率。"
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red.increase","此角色施放其特殊技能時，在面板上的烈火護盾會強化{MODIFIER}%暴擊率。"
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow.increase","此角色施放其特殊技能時，在面板上的神聖護盾會強化{MODIFIER}%暴擊率。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue","部隊能力
+
+此英雄施放其特殊技能時，面板上的冰雪護盾會遭到削弱，且提供的法力減少{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue.increase","部隊能力
+
+此英雄施放其特殊技能時，面板上的冰雪護盾會獲得強化，且提供的法力增加{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green","部隊能力
+
+此英雄施放其特殊技能時，面板上的自然護盾會遭到削弱，且提供的法力減少{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green.increase","部隊能會力
+
+此英雄施放其特殊技能時，面板上的自然護盾獲得增強，且提供的法力增加{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple","部隊能力
+
+此英雄施放特殊技能時，面板上的暗黑護盾會遭到削弱，且提供的法力減少{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple.increase","部隊能力
+
+此英雄施放特殊技能時，面板上的暗黑護盾會獲得增強，且提供的法力增加{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red","部隊能力
+
+此英雄施放特殊技能時，面板上的烈火護盾會遭到削弱，且提供的法力減少{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red.increase","部隊能力
+
+此英雄施放特殊技能時，面板上的烈火護盾會獲得增強，且提供的法力增加{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow","部隊能力
+
+此英雄施放特殊技能時，面板上的神聖護盾會遭到削弱，且提供的法力減少{MODIFIER}%。"
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow.increase","部隊能力
+
+此英雄施放特殊技能時，面板上的神聖護盾會獲得增強，且提供的法力增加{MODIFIER}%。"
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","每當該角色施放特殊技能時，所有會影響敵人攻擊、防禦與法力產出的可驅散增益，皆會轉化為對應的狀態異常，且此狀態無法驅散。"
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","每當該角色施放特殊技能時，所有會影響敵人攻擊、防禦與法力產出的可淨化狀態異常，皆會轉化為對應的增益，且此增益無法驅散。"
 "herocard.passive_skill.description.wither.all.enemies","所有敵人的基礎攻擊力與基礎防禦力每回合減少{STATINCREASE}點，持續{MAXACTIVATIONCOUNT}個回合。"
@@ -562,6 +779,7 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","特殊傷害法力"
 "herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","受到傷害時獲得法力"
 "herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","在受到特殊技能和掩護傷害時造成傷害"
+"herocard.passive_skill.title.effectondamagereceived.damage.statuseffectskill.cover","人人為我！"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","受到傷害時疊加攻擊"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","受到傷害時疊加攻擊"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","受到傷害時疊加攻擊"
@@ -686,6 +904,7 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.nevermissspecial","完美精準度"
 "herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","強效治療"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","無法加成生命值"
+"herocard.passive_skill.title.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies","小偷的機會"
 "herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies","小偷的機會"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","偷取增益"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","獵手感知"
@@ -694,6 +913,9 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","強力火球傷害提升"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","死裡逃生"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","死裡逃生"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","死裡逃生"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","死裡逃生"
+"herocard.passive_skill.title.reduceinsanityperturn","減少瘋狂"
 "herocard.passive_skill.title.reflectresistedstatuseffect","傳奇反射"
 "herocard.passive_skill.title.remove_growth_from_enemies","守衛集結"
 "herocard.passive_skill.title.remove_wither_from_allies","守衛集結"
@@ -723,11 +945,13 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.resist.buffdispels","抵禦驅散"
 "herocard.passive_skill.title.resist.buffimmunity","抵禦增益封鎖"
 "herocard.passive_skill.title.resist.burn","抵禦燃燒"
+"herocard.passive_skill.title.resist.burn.with_effect.addmana","賦能抵禦燃燒"
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","賦能抵禦燃燒"
 "herocard.passive_skill.title.resist.criticalhits.none","抵禦暴擊"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","抵禦防禦異常"
 "herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","勢不可擋的小兵"
 "herocard.passive_skill.title.resist.frost","抵禦寒冷"
+"herocard.passive_skill.title.resist.frost.with_effect.addmana","賦能抵禦冰霜"
 "herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","賦能抵禦冰霜"
 "herocard.passive_skill.title.resist.healeffects","抵禦治療異常"
 "herocard.passive_skill.title.resist.healthsteal","抵禦生命偷取異常"
@@ -736,6 +960,7 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.resist.manaeffectsandspecialblocking","抵禦法力異常和特殊技能封鎖"
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","抵禦法力產出異常"
 "herocard.passive_skill.title.resist.manareduction","抵禦法力減損"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.addmana","賦能抵禦法力減損"
 "herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","賦能抵禦法力減損"
 "herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","抵禦竊取"
 "herocard.passive_skill.title.resist.maxhealthreduction","抵禦最大生命值降低"
@@ -745,9 +970,11 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.resist.resonance","抵禦共振"
 "herocard.passive_skill.title.resist.sand","抵禦飛沙"
 "herocard.passive_skill.title.resist.specialblocking","抵禦特殊技能封鎖"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.addmana","賦能抵禦特殊技能封鎖"
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","賦能抵禦特殊技能封鎖"
 "herocard.passive_skill.title.resist.stopmanageneration","抵禦法力產出受阻"
 "herocard.passive_skill.title.resist.water","抵禦水"
+"herocard.passive_skill.title.resist.water.with_effect.addmana","賦能抵禦水"
 "herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","賦能抵禦水"
 "herocard.passive_skill.title.resist_all_attack_effects","特性：
 嬌小體型"
@@ -761,8 +988,10 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","抵禦惡魔和超級惡魔"
 "herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","抵抗狀態異常"
 "herocard.passive_skill.title.revivalchancemodifier.all.enemies","復活機率降低"
+"herocard.passive_skill.title.revivalchancemodifiersupportcharacter.troop.all.enemies","復活壓制光環"
 "herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","復活後生命值減少"
 "herocard.passive_skill.title.revive_chance_nine_lives","九條命"
+"herocard.passive_skill.title.revive_chance_nine_lives_mayhem","九條命"
 "herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","駭異契約"
 "herocard.passive_skill.title.revivewithchance","復活"
 "herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","快節奏：民謠"
@@ -780,6 +1009,11 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_purple_on_special_titan_hunter_parent","增強特殊技能護盾"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_red_on_special_titan_hunter_parent","增強特殊技能護盾"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_yellow_on_special_titan_hunter_parent","增強特殊技能護盾"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_blue","法力變換"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_green","法力變換"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_purple","法力變換"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_red","法力變換"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_yellow","法力變換"
 "herocard.passive_skill.title.specialdamagereduction","特殊技能傷害減少"
 "herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","特殊技能傷害減少"
 "herocard.passive_skill.title.startbattlewitheffect.addmana","用法力開始戰鬥"
@@ -801,6 +1035,7 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","減少防禦異常持續時間"
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","增加增益持續時間"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","淨化時複製異常"
+"herocard.passive_skill.title.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","復活壓制光環"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","獵人的威猛"
 "herocard.passive_skill.title.statuseffectonspecialcast.camouflage","乙太花瓣面紗"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","泰坦獵人標記"
@@ -808,15 +1043,20 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","石像鬼石膚"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","從異常效果中獲得的法力產出增益"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","元素面具"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed","突襲竊取"
 "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","突襲竊取"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","突襲竊取"
 "herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","突襲竊取"
 "herocard.passive_skill.title.stopchainstrikes","停止連鎖攻擊"
 "herocard.passive_skill.title.stylish","有型！"
 "herocard.passive_skill.title.stylish_epic","有型！"
 "herocard.passive_skill.title.stylish_legendary","有型！"
 "herocard.passive_skill.title.stylish_rare","有型！"
+"herocard.passive_skill.title.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","強化小兵"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","樹苗召喚"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","樹苗召喚"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","樹苗召喚"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","樹苗召喚"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","樹苗召喚"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","樹苗召喚"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","樹苗召喚"
@@ -834,6 +1074,7 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","樹苗召喚"
 "herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","優雅舞者"
 "herocard.passive_skill.title.taunt","無視嘲諷"
+"herocard.passive_skill.title.tileenhancementonspecialsupportcharacter.troop","法力變換"
 "herocard.passive_skill.title.titan_dread_damage_minions","恐懼"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","恐懼"
 "herocard.passive_skill.title.titan_dread_damage_minions_16","恐懼"
@@ -846,4 +1087,3 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","轉化增益"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","轉化異常"
 "herocard.passive_skill.title.wither.all.enemies","枯萎"
-"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER}%[#]法力產出。"

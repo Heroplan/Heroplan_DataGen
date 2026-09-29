@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","コスチュームサモン"
 "lottery.title.covenantsummon","盟約サモン"
 "lottery.title.dailysummon","デイリーサモン"
+"lottery.title.deluxe.ascensionsummon","デラックス"
+"lottery.title.deluxeascensionsummon","デラックス即時パワー"
 "lottery.title.elementaldragonsummon","エレメントドラゴンサモン"
 "lottery.title.elementalherosummon","エレメント サモン"
 "lottery.title.epicdragonsummon","レジェンドドラゴンサモン"

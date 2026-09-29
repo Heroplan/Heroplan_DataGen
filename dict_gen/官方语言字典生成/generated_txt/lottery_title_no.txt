@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Kostymefremkalling"
 "lottery.title.covenantsummon","Paktfremkalling"
 "lottery.title.dailysummon","Daglig fremkalling"
+"lottery.title.deluxe.ascensionsummon","Deluxe"
+"lottery.title.deluxeascensionsummon","Umiddelbar deluxekraft"
 "lottery.title.elementaldragonsummon","Elementdragefremkalling"
 "lottery.title.elementalherosummon","Elementfremkalling"
 "lottery.title.epicdragonsummon","Legendarisk drage-fremkalling"

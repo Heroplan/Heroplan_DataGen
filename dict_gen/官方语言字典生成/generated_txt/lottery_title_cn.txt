@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","服装召唤"
 "lottery.title.covenantsummon","盟约召唤"
 "lottery.title.dailysummon","每日召唤"
+"lottery.title.deluxe.ascensionsummon","豪华"
+"lottery.title.deluxeascensionsummon","豪华即时力量"
 "lottery.title.elementaldragonsummon","元素巨龙召唤"
 "lottery.title.elementalherosummon","元素人召唤"
 "lottery.title.epicdragonsummon","传奇巨龙召唤"

@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Asukutsu"
 "lottery.title.covenantsummon","Kovenanttikutsu"
 "lottery.title.dailysummon","Päivittäinen kutsu"
+"lottery.title.deluxe.ascensionsummon","Luksustaso"
+"lottery.title.deluxeascensionsummon","Luksustason pikavoimakutsu"
 "lottery.title.elementaldragonsummon","Elementaalinen lohikäärmekutsu"
 "lottery.title.elementalherosummon","Elementaalikutsu"
 "lottery.title.epicdragonsummon","Legendaarinen lohikäärmekutsu"

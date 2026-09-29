@@ -31,7 +31,11 @@ Förhindrar även att negativa statuseffekter och negativa staplar skadar andra 
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Gör {DAMAGEPERTURN} skada på alla fienders undersåtar och megaundersåtar i början av varje runda."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Gör {DAMAGEPERTURN} skada på alla fienders undersåtar och megaundersåtar i början av varje runda."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","All skada som görs mot fiender med vanliga attacker och specialförmågor ökas med {DAMAGEINCREASEPERSTEP} % per {INSANITYPERSTEP} vansinne på den här karaktären, upp till {MAXDAMAGEINCREASE} %. Inkluderar inte skadan mot sig själv eller allierade vid aktivering av vansinne."
-"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","När den länkade hjälten träffas av en specialförmåga försvinner den avbrytningsbara bonus som har kortast återstående tid. Då minskar den tagna skadan med {DAMAGEREDUCTION} %. Om den länkade hjälten har {INCREASEDDAMAGEREDUCTIONTHRESHOLD} % hälsa eller mindre minskas skadan med {INCREASEDDAMAGEREDUCTION} % istället."
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Truppförmåga
+
+ När hjälten träffas av en specialförmåga förbrukas en positiv effekt som kan avbrytas, om den har en sådan, vilket minskar tagen skada med {DAMAGEREDUCTION} %.
+
+ Om hjälten har flera positiva effekter som kan avbrytas förbrukas den med kortast varaktighet. Envisa effekter kan inte förbrukas."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","All skada från normala attacker och specialförmågor den här karaktären utför höjs med {MODIFIER} % per staplad blodslilja på målet."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Den här karaktärens specialförmåga gör {MODIFIERCHANGE} % mer skada när allierade dansar."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","Den här karaktärens specialförmåga, megaundersåtar och undersåtar gör extra skada mot fiender med negativa effekter som gör vattenskada.
@@ -61,6 +65,8 @@ Var och en av de här effekterna kan aktiveras en gång per runda."
  Den kan få upp till {MAXMANAGAINPERTURN} % mana per tur."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","När karaktären tar skada från specialförmågor eller istället för en skyddad karaktär har den {CHANCE} % chans att göra {POWER} % av den mottagna skadan mot alla fiender."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","När karaktären tar skada från specialförmågor eller istället för en skyddad karaktär har den {CHANCE} % chans att göra {POWER} % av den mottagna skadan mot alla fiender. (Maxskada: {RARITYLIMITEDDAMAGE})"
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies","När karaktären tar skada istället för en skyddad karaktär gör den {POWER} % av den tagna skadan mot alla fiender."
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies.rarity_limit_damage","När karaktären tar skada istället för en skyddad karaktär gör den {POWER} % av den tagna skadan mot alla fiender. (Maxskada: {RARITYLIMITEDDAMAGE})"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","När en karaktär tar skada av specialförmågor får den en attackstapel på {STATUSEFFECT1ATTACK} % (högst {STATUSEFFECT1MAXSTACK}). Karaktären kan få en stapel per runda."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","När en karaktär tar skada av specialförmågor får den en attackstapel på {STATUSEFFECT1ATTACK} % attack (högst {STATUSEFFECT1MAXSTACK}). Karaktären kan få en stapel per runda."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","När en karaktär tar skada av specialförmågor får den en attackstapel på {STATUSEFFECT1ATTACK} % attack (högst {STATUSEFFECT1MAXSTACK}). Karaktären kan få en stapel per runda."
@@ -98,7 +104,7 @@ Anfallaren tar {STATUSEFFECT1DAMAGE} blödningsskada över {TURNS} rundor."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","När den här karaktären lyckas få in en kritisk träff med sin specialförmåga ökar den hälsan hos alla sina allierade med {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","När den här karaktären lyckas få in en kritisk träff med sin specialförmåga ökar den hälsan hos alla sina allierade med {HEALTHBOOST} %"
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","När en annan allierad använder en specialförmåga gör den här karaktären {POWER} % skada mot en slumpvald fiende.
- Målfienden får {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % försvar i {DIRECTEFFECT1STATUSEFFECT1TURNS} rundor."
+ Fienden får {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % försvar i {DIRECTEFFECT1STATUSEFFECT1TURNS} rundor."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","När en fiende kastar sin specialförmåga har den här karaktären {CHANCE} % chans att öka sin hälsa med {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att ge {POWER} % mana till alla allierade. Med en fullt uppladdad specialförmåga är chansen {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att ge {POWER} % mana till alla allierade som inte har iselement. Med en fullt uppladdad specialförmåga är chansen {CHANCEFULLYCHARGED} %."
@@ -133,20 +139,43 @@ Anfallaren tar {STATUSEFFECT1DAMAGE} blödningsskada över {TURNS} rundor."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Karaktären får {POWER} % mana när en fiende åkallar ett odjur. Den här effekten kan bara aktiveras en gång per runda."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Karaktären gör {DAMAGE} % skada på alla fiender när en fiende åkallar ett odjur."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Karaktären får {POWER} hälsoökning när en fiende åkallar ett odjur. Den här effekten kan bara aktiveras en gång per runda."
-"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Trupplänksbonus:
- Den länkade hjältens specialförmåga kan få in kritiska träffar som gör 50 % mer skada.
- Chansen till kritisk träff ökar med {PASSIVESKILL2CRITICALMODIFIER} %."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Truppförmåga
+ Hjältens specialförmåga kan göra kritiska träffar.
+
+ Den kritiska träffchansen ökas med {PASSIVESKILL2CRITICALMODIFIER} %. Den här effekten kan vara aktiv utöver andra effekter som påverkar chansen till kritisk träff.
+
+ Kritiska träffar gör 100 % mer skada för vanliga attacker.
+
+ Kritiska träffar som orsakas av en specialförmåga: 
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+I PvP-lägen minskar kritiska träffar målets maxhälsa. Den här effekten är starkare mot ökad hälsa.
+
+Specialförmågeeffekter som Frostanfall, Eldstormsanfall och Månuppgångsanfall kan inte göra kritiska träffar."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.with_universalmaxhealthreduction.criticalmodifiersupportcharacter.troop","Truppförmåga
+ Hjältens specialförmåga kan göra kritiska träffar.
+
+ Den kritiska träffchansen ökas med {PASSIVESKILL2CRITICALMODIFIER} %. Den här effekten kan vara aktiv utöver andra effekter som påverkar chansen till kritisk träff.
+
+ Kritiska träffar gör 100 % mer skada för vanliga attacker.
+
+ Kritiska träffar som orsakas av en specialförmåga: 
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+Kritiska träffar minskar målets maxhälsa. Den här effekten är starkare mot ökad hälsa.
+
+Specialförmågeeffekter som Frostanfall, Eldstormsanfall och Månuppgångsanfall kan inte göra kritiska träffar."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE} % chans att utföra extra handlingar när karaktären använder sin specialförmåga:"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Alla fienders undersåtar har {MINIONMODIFIER} % träffsäkerhet.
 Alla fienders megaundersåtar har {MEGAMINIONMODIFIER} % träffsäkerhet."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Den här karaktärens konstruktionskärna är en undersåteskärna.
 
-[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:
+Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga används:
 
-[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.
-[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.
-[*] Mördarrobotsundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.
-[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
+ När undersåteskärnan är fulladdad åkallas en mördarrobotsundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från användaren åt alla allierade.
+ Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.
+ Mördarrobotsundersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.
+Vittring: Varje träff från en mördarrobotsundersåte ger dess mål {ATTACKMODIFIER} attack."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Den här karaktärens konstruktionskärna är en undersåteskärna.
 
 Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga används:
@@ -195,6 +224,7 @@ Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga 
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Minskar mängden mana specialförmågor ger med {MODIFIER} %. Effekten gäller alla fiender i striden."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Minskar mängden mana specialförmågor, passiva förmågor, familjebonusar och statuseffekter ger med {MODIFIER} %. Effekten gäller alla fiender i striden."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Minskar mängden mana specialförmågor, passiva förmågor, familjebonusar och statuseffekter ger med {MODIFIER} %. Effekten gäller alla fiender i striden."
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","{MODIFIER} % manaskapande."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","Karaktären får lite mana när en av dess undersåtar dör."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Karaktären har en medföljande förmåga att memorera en undersåte eller ett odjur som åkallats av fiendens specialförmågor. Den senaste undersåten och det senaste odjuret som fienden åkallat är memorerade tills specialförmågan används."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Karaktären har en medföljande förmåga att memorera en undersåte eller ett odjur som åkallats av fiendens specialförmågor. De senaste {0} undersåtarna och odjuren som fienden åkallat är memorerade tills specialförmågan används."
@@ -208,21 +238,37 @@ Undersåteskärnan aktiveras varje gång den här karaktärens specialförmåga 
  Undersåtar förvandlas till kusliga odjur: {FAMILIAR1FAMILIARATTACK} % attack, {FAMILIAR1FAMILIARHEALTHPERCENT} % hälsa, ger {FAMILIAR1INSANITYTOADD} vansinne varje runda.
  Megaundersåtar förvandlas till kusliga megaodjur: {FAMILIAR2FAMILIARATTACK} % attack, {FAMILIAR2FAMILIARHEALTHPERCENT} % hälsa, ger {FAMILIAR2INSANITYTOADD} vansinne varje runda."
 "herocard.passive_skill.description.nevermissspecial","Den här karaktärens specialförmåga missar aldrig."
-"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Trupplänksbonus:
- Direkt läkning från den länkade hjältens specialförmåga ökar med {PASSIVESKILL1HEALMULTIPLIER} %.
- När den länkade hjälten använder en specialförmåga får alla allierade immunitet mot minskning av maxhälsa i {PASSIVESKILL2TURNS} runda."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Truppförmåga
+
+Direkt läkning från den här hjältens specialförmåga ökas med {PASSIVESKILL1HEALMULTIPLIER} %. Det här ökar även bonusläkning.
+
+ När en specialförmåga används får alla allierade immunitet mot minskning av maxhälsa under {PASSIVESKILL2TURNS} rundor. Det här förhindrar även maxhälsominskningar som orsakas av kritiska träffar i PvP-lägen."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.with_universalmaxhealthreduction.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Truppförmåga
+
+Direkt läkning från den här hjältens specialförmåga ökas med {PASSIVESKILL1HEALMULTIPLIER} %. Det här ökar även bonusläkning.
+
+ När en specialförmåga används får alla allierade immunitet mot sänkning av maxhälsa i {PASSIVESKILL2TURNS} rundor. Det här förhindrar även maxhälsosänkningar som orsakas av kritiska träffar."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Fienders hälsa kan inte överstiga deras maxhälsa."
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","I början av varje runda plundrar den här karaktären en slumpmässig fiende:
+"herocard.passive_skill.description.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies.activates_on_specialcast","När andra allierade använder specialförmågor plundrar den här karaktären fienden med flest bonusar:
 
 Stjäl {DAMAGE} hälsa.
-Stjäl en bonus från fienden – även sådana som inte kan avbrytas och danseffekter."
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","I början av varje runda har den här karaktären {CHANCE} % chans att plundra en slumpmässig fiende:
+Stjäl riskfritt en bonus från fienden – även sådana som inte kan avbrytas och danseffekter."
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn","I början av varje runda plundrar den här karaktären en slumpmässig fiende:
 
+Stjäl {DAMAGE} hälsa.
+Stjäl en bonus säkert från fienden – även sådana som inte kan avbrytas och danseffekter."
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn.chance","I början av varje runda har den här karaktären {CHANCE} % chans att plundra en slumpmässig fiende:
+
+Plundra:
 Stjäl {DAMAGE} hälsa.
 Stjäl riskfritt en slumpmässig tillväxteffekt, positiv stapel eller statuseffektbonus från fienden – även sådana som inte kan avbrytas och danseffekter.
 Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, hos borttagna bonusar. Externa effekter, som passiva effekter och familjeeffekter, kan fortfarande aktiveras."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att stjäla den senaste bonusen som kan avbrytas från en slumpmässig fiende som har bonusar. Om ingen fiende har bonusar så gör den {DAMAGE} % skada till alla fiender."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att stjäla den senaste bonusen som kan avbrytas från en slumpmässig fiende som har bonusar. Om ingen fiende har bonusar så gör den {DAMAGE} % skada till alla fiender."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att
+Stjäla den senaste bonusen som kan avbrytas från en slumpmässig fiende som har bonusar, eller
+Göra {DAMAGE} % skada mot alla fiender om det inte finns några bonusar som kan stjälas."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","När den här karaktären använder sin specialförmåga har den {CHANCE} % chans att
+Stjäla den senaste bonusen som kan avbrytas från en slumpmässig fiende som har bonusar, eller
+Göra {DAMAGE} % skada mot alla fiender om det inte finns några bonusar som kan stjälas."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","När karaktären använder sin specialförmåga för den över den senaste reningsbara negativa statuseffekten från sig själv till målet. Om specialförmågan inte kan sikta in sig på en fiende väljs en slumpmässig fiende istället. Om karaktären inte har några reningsbara negativa statuseffekter återställs {HEALTH} % hälsa."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE} % chans att ersätta inkommande negativa effekter med motsvarande positiva effekter."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Den här karaktären tar mindre skada från trupper från det starkare elementet.
@@ -238,6 +284,13 @@ I strider med flera vågor återställs effekten i början av varje våg."
 
 I strider med flera vågor återställs effekten i början av varje våg."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Första gången den här karaktären hade tagit dödlig skada dirigeras den skadan vidare till en slumpmässig fiende. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada istället vidare till anfallaren.
+
+I strider med flera vågor återställs effekten i början av varje våg."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reduceinsanityperturn","I början av varje tur sänks den här karaktärens aktuella vansinne med {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alla negativa statuseffekter den här karaktären motstår med passiva förmågor reflekteras på alla fiender."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % extra chans att reflektera negativa statuseffekter på anfallaren."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Tar bort alla vittringseffekter från alla allierade med {TURNS} rundors mellanrum."
@@ -249,8 +302,10 @@ Reparationskärnan aktiveras varje gång den här karaktärens specialförmåga 
  En fulladdad reparationskärna ger alla allierade {CHARGEDPOWER1} % hälsa.
  Mängden återställd hälsa blir högre ju större laddning kärnan har. All laddning laddas ur när kärnan aktiveras."
 "herocard.passive_skill.description.repeatspecial","{REPEATCHANCE} % chans att använda hjältens specialförmåga {REPEATS} gånger."
-"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Trupplänksbonus:
- Den länkade hjälten har {REPEATCHANCE} % chans att vara lyckost och använda en specialförmåga {REPEATS} gånger i rad.
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Truppförmåga:
+
+ Hjälten har {REPEATCHANCE} % chans att vara lyckost och använda sin specialförmåga {REPEATS} gånger i rad.
+
  Om andra lyckosteffekter är aktiva ökar denna trupp chansen med {REPEATCHANCEMODIFIER} % istället."
 "herocard.passive_skill.description.resist.accuracymodifiers","Karaktären är immun mot negativa statuseffekter på träffsäkerheten. Gäller inte ursprungliga statuseffekter från allierade."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Karaktären är immun mot negativa statuseffekter och staplar."
@@ -299,6 +354,7 @@ Det här innefattar:
 "herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE} % extra chans att motstå alla bonusborttagningar."
 "herocard.passive_skill.description.resist.buffimmunity","Karaktären är immun mot effekter som förhindrar att den får nya statuseffektbonusar."
 "herocard.passive_skill.description.resist.burn","Karaktären är immun mot negativa statuseffekter som gör eldskada."
+"herocard.passive_skill.description.resist.burn.with_effect.addmana","Karaktären är immun mot statuseffekter som gör eldskada och får {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","Karaktären är immun mot statuseffekter som gör eldskada och får {HEALTHBOOST} hälsoökning och {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","Karaktären är immun mot negativa statuseffekter."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE} % extra chans att motstå alla negativa statuseffekter."
@@ -309,6 +365,7 @@ Det här innefattar:
  Får alltid undersåtar – det kan inte förhindras.
  Undersåtarnas attacker och förmågor kan inte inaktiveras."
 "herocard.passive_skill.description.resist.frost","Karaktären är immun mot negativa statuseffekter som gör frostskada."
+"herocard.passive_skill.description.resist.frost.with_effect.addmana","Karaktären är immun mot statuseffekter som gör frostskada och får {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Karaktären är immun mot statuseffekter som gör frostskada och får {HEALTHBOOST} hälsoökning och {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.healeffects","Karaktären är immun mot negativa statuseffekter som påverkar läkning."
 "herocard.passive_skill.description.resist.healthsteal","Karaktären är immun mot negativa statuseffekter som stjäl hälsa läkning."
@@ -319,6 +376,7 @@ Det här innefattar:
 "herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","Karaktären är immun mot negativa statuseffekter och staplar som påverkar manaskapande. Gäller inte negativa statuseffekter som påverkar manaskapande eller som stjäl mana."
 "herocard.passive_skill.description.resist.manareduction","Den här karaktären är immun mot manaminskningar."
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE} % extra chans att motstå manaminskning."
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.addmana","Karaktären är immun mot manaminskning och får {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Karaktären är immun mot manaminskning och får {HEALTHBOOST} hälsoökning och {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Den här karaktären är immun mot stöld och plundring."
 "herocard.passive_skill.description.resist.maxhealthreduction","Den här karaktären är immun mot minskning av maxhälsa."
@@ -329,9 +387,11 @@ Det här innefattar:
 "herocard.passive_skill.description.resist.sand","Karaktären är immun mot negativa statuseffekter som gör sandskada."
 "herocard.passive_skill.description.resist.specialblocking","Karaktären är immun mot negativa statuseffekter som hindrar användandet av specialförmågor."
 "herocard.passive_skill.description.resist.specialblocking.with_chance","Karaktären har {CHANCE} % chans att stå emot negativa statuseffekter som hindrar användandet av specialförmågor."
+"herocard.passive_skill.description.resist.specialblocking.with_effect.addmana","Karaktären är immun mot negativa statuseffekter som förhindrar användning av specialförmågor och får {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Karaktären är immun mot negativa statuseffekter som förhindrar användning av specialförmågor och får {HEALTHBOOST} hälsoökning och {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.stopmanageneration","Karaktären är immun mot negativa statuseffekter som stoppar manaskapande."
 "herocard.passive_skill.description.resist.water","Karaktären är immun mot negativa statuseffekter som gör vattenskada."
+"herocard.passive_skill.description.resist.water.with_effect.addmana","Karaktären är immun mot statuseffekter som gör vattenskada och får {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","Den här karaktären är immun mot negativa statuseffekter som gör vattenskada och får {HEALTHBOOST} extra hälsa och {MANA} % mana varje gång den motstår."
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Karaktären är immun mot negativa statuseffekter från undersåtar."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Den här karaktären är immun mot effekter som tar bort undersåtar från den."
@@ -384,10 +444,21 @@ Kan aktiveras upp till {MAXACTIVATIONCOUNT} gånger. Chansen att återupplivas b
 "herocard.passive_skill.description.statuseffectdefensemodifier.reduction","Negativa statuseffekter som minskar försvar är {MODIFIER} % mindre effektiva mot den här fienden."
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","Statuseffekter som ökar försvar är {MODIFIER} % mer effektiva på den här karaktären."
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","Negativa statuseffekter som minskar försvar är {MODIFIER} % mindre effektiva mot den här fienden."
-"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Tiden för de första {MAXACTIVATIONCOUNT} negativa statuseffekter den här karaktären får från specialförmågor minskas med {DURATIONMODIFIER} runda."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Förkorta varaktigheten för de första {MAXACTIVATIONCOUNT} negativa statuseffekterna den här karaktären får från specialförmågor.
+
+Antal rundor som dras av: {DURATIONMODIFIER}."
 "herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Tiden för de negativa statuseffekter som påverkar försvar den här karaktären får från specialförmågor minskas med {DURATIONMODIFIER} rundor."
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Tiden för de första {MAXACTIVATIONCOUNT} bonusar den här karaktären får från specialförmågor ökar med {DURATIONMODIFIER} runda."
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","När en negativ statuseffekt rensas från den här hjälten används en ny kopia av den på en slumpmässig fiende."
+"herocard.passive_skill.description.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","Truppförmåga
+
+Den här truppförmågan påverkar alla fiender under hela striden.
+
+ Chansen att återupplivas minskas med {FIXEDAMOUNTMODIFIER} %. Den här effekten kan vara aktiv utöver andra effekter som påverkar återupplivningschansen.
+
+ Om fienden återupplivas får den {STATUSEFFECT1ACCURACY} % träffsäkerhet under {STATUSEFFECT1TURNS} rundor.
+
+ Ytterligare odöda magiker i laget ökar inte de här effekternas kraft."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Varje gång den här grotesken använder en specialförmåga får alla allierade mjukskinn. Följande {MAXACTIVATIONS} gånger de tar skada minskas den med {DAMAGEREDUCTION} %. Den är även immun mot alla negativa statuseffekter, manaminskningar och vansinne. Effekten kan inte avbrytas."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","När du använder en specialförmåga kamoufleras karaktären, varpå den inte kan vara direkt måltavla för fienders specialförmågor under {TURNS} rundor. Effekten kan inte avbrytas eller omfördelas."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Varje gång den här grotesken använder en specialförmåga aktiveras dess mjukskinn."
@@ -396,12 +467,35 @@ Kan aktiveras upp till {MAXACTIVATIONCOUNT} gånger. Chansen att återupplivas b
  Mål som är markerade med jaktfacklor tar ytterligare {FIXEDPOWER} skada när de blir träffade av kritiska träffar."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","När karaktären använder sin specialförmåga får den {ATTACK} % attack i {TURNS} rundor. Den här effekten kan vara aktiv tillsammans med effekter som påverkar attackstyrka."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Hjältens element kan bytas ut mot valfritt element i {TURNS} rundor genom att trycka på hjälten när den inte har full mana. Det kan du göra en gång per strid."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed","Den här karaktären stjäl {MANASTEAL} % mana från fienden med högst manahastighet med {TURNSBETWEENEFFECTS} rundors mellanrum."
 "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Den här karaktären stjäl {MANASTEAL} % mana från fienden med högst manahastighet med {TURNSBETWEENEFFECTS} rundors mellanrum. Det här kan inte motstås av statuseffekter eller passiva förmågor."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","Den här karaktären stjäl {MANASTEAL} % mana från fienden med högst manahastighet med {TURNSBETWEENEFFECTS} rundors mellanrum."
 "herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Den här karaktären stjäl {MANASTEAL} % mana från fienden med högst mana med {TURNSBETWEENEFFECTS} rundors mellanrum. Det här kan inte motstås av statuseffekter eller passiva förmågor."
 "herocard.passive_skill.description.stopchainstrikes","Specialförmågor som kedjar eller anfaller flera gånger slutar vid den här karaktären. Påverkar inte vänliga effekter."
+"herocard.passive_skill.description.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","Truppförmåga
+
+ Alla undersåtar och megaundersåtar som åkallas av hjältens specialförmåga är starkare och får en läkande förmåga.
+
+ Vid turens slut återställer varje undersåte och megaundersåte {PASSIVESKILL2FAMILIAREFFECT1FIXEDFAMILIARHEAL} hälsa till sin ägare.
+
+ Undersåtar: {PASSIVESKILL1MINIONATTACKMODIFIER} % attack
+ Megaundersåtar: {PASSIVESKILL1MEGAMINIONATTACKMODIFIER} % attack"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
 Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
 Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.blocked_by.minion","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+Odjur kan inte utvecklas till megaodjur om samma hjälte har undersåtar.
 
 Groddodjuret:
 {EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
@@ -423,10 +517,74 @@ Skottodjuret:
 
 Blomstermegaodjuret: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+Odjur kan inte utvecklas till megaodjur om samma hjälte har undersåtar.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+Odjur kan inte utvecklas till megaodjur om samma hjälte har undersåtar.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Åkallar ett groddodjur på en slumpmässig fiende.
 Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
 Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
 Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.blocked_by.minion","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
+Odjur kan inte utvecklas till megaodjur om samma hjälte har undersåtar.
 
 Groddodjuret:
 {EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
@@ -462,10 +620,36 @@ Skottodjuret:
 
 Blomstermegaodjuret: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn.blocked_by.minion","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+Odjur kan inte utvecklas till megaodjur om samma hjälte har undersåtar.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Åkallar ett groddodjur på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.
 Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
 Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
 Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
+
+Groddodjuret:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+
+Skottodjuret:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+
+Blomstermegaodjuret: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion","Åkallar ett groddodjur på en slumpmässig fiende varje runda.
+Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+Odjur kan inte utvecklas till megaodjur om samma hjälte har undersåtar.
 
 Groddodjuret:
 {EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
@@ -493,11 +677,41 @@ Blomstermegaodjuret:
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.purple","Mörkersköldar på brädet försvagas med {MODIFIER} % träffsäkerhet när den här karaktären använder sin specialförmåga."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.red","Eldsköldar på brädet försvagas med {MODIFIER} % träffsäkerhet när den här karaktären använder sin specialförmåga."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.yellow","Heliga sköldar på brädet försvagas med {MODIFIER} % träffsäkerhet när den här karaktären använder sin specialförmåga."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue","Issköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green","Natursköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Mörkersköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Eldsköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Heliga sköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue.increase","Issköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green.increase","Natursköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple.increase","Mörkersköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red.increase","Eldsköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow.increase","Heliga sköldar på brädet förstärks med {MODIFIER} % kritisk chans när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue","Truppförmåga
+
+Issköldar på brädet försvagas och ger {MODIFIER} % mindre mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue.increase","Truppförmåga
+
+Issköldar på brädet förstärks och ger {MODIFIER} % mer mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green","Truppförmåga
+
+Natursköldar på brädet försvagas och ger {MODIFIER} % mindre mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green.increase","Truppförmåga
+
+Natursköldar på brädet förstärks och ger {MODIFIER} % mer mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple","Truppförmåga
+
+Mörkersköldar på brädet försvagas och ger {MODIFIER} % mindre mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple.increase","Truppförmåga
+
+Mörkersköldar på brädet förstärks och ger {MODIFIER} % mer mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red","Truppförmåga
+
+Eldsköldar på brädet försvagas och ger {MODIFIER} % mindre mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red.increase","Truppförmåga
+
+Eldsköldar på brädet förstärks och ger {MODIFIER} % mer mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow","Truppförmåga
+
+Heliga sköldar på brädet försvagas och ger {MODIFIER} % mindre mana när den här karaktären använder sin specialförmåga."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow.increase","Truppförmåga
+
+heliga sköldar på brädet förstärks och ger {MODIFIER} % mer mana när den här karaktären använder sin specialförmåga."
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alla avbrytningsbara bonusar som påverkar attack, försvar och manaskapande på alla fiender förvandlas till matchande icke avbrytbara negativa statuseffekter varje gång den här karaktären kastar sin specialförmåga."
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alla rensningsbara negativa statuseffekter som påverkar attack, försvar och manaskapande för alla allierade förvandlas till matchande icke avbrytbara bonusar varje gång den här karaktären kastar sin specialförmåga."
 "herocard.passive_skill.description.wither.all.enemies","Alla fienders grundattribut för attack och försvar minskar med {STATINCREASE} varje runda i {MAXACTIVATIONCOUNT} rundor."
@@ -563,6 +777,7 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","Mana vid specialskada"
 "herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","Mana vid tagen skada"
 "herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","Skada vid specialförmåga och skyddsskada"
+"herocard.passive_skill.title.effectondamagereceived.damage.statuseffectskill.cover","En för alla!"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","Staplar attack vid tagen skada"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Staplar attack vid tagen skada"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Staplar attack vid tagen skada"
@@ -687,6 +902,7 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.nevermissspecial","Perfekt träffsäkerhet"
 "herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Bättre läkning"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Förhindra bonusläkning"
+"herocard.passive_skill.title.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies","Tjuvsinne"
 "herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies","Tjuvsinne"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Stjäl bonus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Jägarsinne"
@@ -695,6 +911,9 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Stark skadeökning för eldklot"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Lura döden"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Lura döden"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Lura döden"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Lura döden"
+"herocard.passive_skill.title.reduceinsanityperturn","Sänk vansinne"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarisk reflekterare"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vaktsamling"
 "herocard.passive_skill.title.remove_wither_from_allies","Vaktsamling"
@@ -724,11 +943,13 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.resist.buffdispels","Motstå avbrytande"
 "herocard.passive_skill.title.resist.buffimmunity","Motstå blockering av bonusar"
 "herocard.passive_skill.title.resist.burn","Motstå eld"
+"herocard.passive_skill.title.resist.burn.with_effect.addmana","Stärkt eldmotstånd"
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Stärkt eldmotstånd"
 "herocard.passive_skill.title.resist.criticalhits.none","Motstå kritiska träffar"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Motstå negativa försvarseffekter"
 "herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Ostoppbara undersåtar"
 "herocard.passive_skill.title.resist.frost","Motstå frost"
+"herocard.passive_skill.title.resist.frost.with_effect.addmana","Stärkt frostmotstånd"
 "herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","Stärkt frostmotstånd"
 "herocard.passive_skill.title.resist.healeffects","Motstå negativa läkningseffekter"
 "herocard.passive_skill.title.resist.healthsteal","Motstå stöld av hälsa"
@@ -737,6 +958,7 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.resist.manaeffectsandspecialblocking","Motstå negativa effekter på mana och blockering av specialförmåga"
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Motstå negativa effekter på managenerering"
 "herocard.passive_skill.title.resist.manareduction","Motstå direkt manaminskning"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.addmana","Stärkt motstånd mot manaminskning"
 "herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Stärkt motstånd mot manaminskning"
 "herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Motstå stöld"
 "herocard.passive_skill.title.resist.maxhealthreduction","Motstå minskning av maximal hälsa"
@@ -746,9 +968,11 @@ Blomstermegaodjuret:
 "herocard.passive_skill.title.resist.resonance","Motstå resonans"
 "herocard.passive_skill.title.resist.sand","Motstå sand"
 "herocard.passive_skill.title.resist.specialblocking","Motstå blockering av specialförmåga"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.addmana","Förstärkt motstånd mot blockering av specialförmåga"
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Förstärkt motstånd mot blockering av specialförmåga"
 "herocard.passive_skill.title.resist.stopmanageneration","Motstå hindrande av managenerering"
 "herocard.passive_skill.title.resist.water","Motstå vatten"
+"herocard.passive_skill.title.resist.water.with_effect.addmana","Stärkt vattenmotstånd"
 "herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Stärkt vattenmotstånd"
 "herocard.passive_skill.title.resist_all_attack_effects","Egenskap:
 Liten kropp"
@@ -762,8 +986,10 @@ Vig kropp"
 "herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Stå emot odjur och megaodjur"
 "herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","Motstå negativa statuseffekter"
 "herocard.passive_skill.title.revivalchancemodifier.all.enemies","Sämre återupplivningschans"
+"herocard.passive_skill.title.revivalchancemodifiersupportcharacter.troop.all.enemies","Återupplivnings-motståndsaura"
 "herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","Minskad återupplivningshälsa"
 "herocard.passive_skill.title.revive_chance_nine_lives","Nio liv"
+"herocard.passive_skill.title.revive_chance_nine_lives_mayhem","Nio liv"
 "herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","Kuslig pakt"
 "herocard.passive_skill.title.revivewithchance","Återuppliva"
 "herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Snabbt tempo: ballad"
@@ -781,6 +1007,11 @@ Vig kropp"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_purple_on_special_titan_hunter_parent","Förstärkta sköldar vid special"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_red_on_special_titan_hunter_parent","Förstärkta sköldar vid special"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_yellow_on_special_titan_hunter_parent","Förstärkta sköldar vid special"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_blue","Manaförändring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_green","Manaförändring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_purple","Manaförändring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_red","Manaförändring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_yellow","Manaförändring"
 "herocard.passive_skill.title.specialdamagereduction","Skademinskning för specialförmåga"
 "herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","Skademinskning för specialförmåga"
 "herocard.passive_skill.title.startbattlewitheffect.addmana","Starta striden med mana"
@@ -802,6 +1033,7 @@ Vig kropp"
 "herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Minska tiden för negativa försvarseffekter"
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Öka tid för bonusar"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Kopiera negativ effekt vid rensning"
+"herocard.passive_skill.title.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","Återupplivnings-motståndsaura"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Jägarens styrka"
 "herocard.passive_skill.title.statuseffectonspecialcast.camouflage","Eterisk blomslöja"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","Titanjägarens märke"
@@ -809,15 +1041,20 @@ Vig kropp"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Grotesks stenskinn"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Manaskapandebonus från negativa statuseffekter"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementmask"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed","Stjäl snabbt"
 "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Stjäl snabbt"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","Stjäl snabbt"
 "herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Stjäl snabbt"
 "herocard.passive_skill.title.stopchainstrikes","Stoppa kedjeanfall"
 "herocard.passive_skill.title.stylish","Stilsäkert!"
 "herocard.passive_skill.title.stylish_epic","Stilsäkert!"
 "herocard.passive_skill.title.stylish_legendary","Stilsäkert!"
 "herocard.passive_skill.title.stylish_rare","Stilsäkert!"
+"herocard.passive_skill.title.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","Förstärkta undersåtar"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Groddåkallare"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Groddåkallare"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","Groddåkallare"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","Groddåkallare"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Groddåkallare"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Groddåkallare"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Groddåkallare"
@@ -835,6 +1072,7 @@ Vig kropp"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Groddåkallare"
 "herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Elegant dansare"
 "herocard.passive_skill.title.taunt","Ignorera hån"
+"herocard.passive_skill.title.tileenhancementonspecialsupportcharacter.troop","Manaförändring"
 "herocard.passive_skill.title.titan_dread_damage_minions","Fruktan"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Fruktan"
 "herocard.passive_skill.title.titan_dread_damage_minions_16","Fruktan"
@@ -847,4 +1085,3 @@ Vig kropp"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Förvandla bonusar"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Förvandla negativa effekter"
 "herocard.passive_skill.title.wither.all.enemies","Vittra"
-"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER} %[#] manaskapande."

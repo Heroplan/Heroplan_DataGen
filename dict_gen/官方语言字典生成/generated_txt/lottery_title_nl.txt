@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Outfit-aanroep"
 "lottery.title.covenantsummon","Convenantaanroep"
 "lottery.title.dailysummon","Dagelijkse aanroep"
+"lottery.title.deluxe.ascensionsummon","Deluxe"
+"lottery.title.deluxeascensionsummon","Deluxe directe kracht"
 "lottery.title.elementaldragonsummon","Elementdrakenaanroep"
 "lottery.title.elementalherosummon","Elementaanroep"
 "lottery.title.epicdragonsummon","Legendarische-drakenaanroep"

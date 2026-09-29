@@ -22,5 +22,89 @@
         "costume_id": 1,
         "heroId": "elemental_jolt_costume_mythic",
         "Lottery_Only": 1
+    },
+    {
+        "name": "Chrysostom",
+        "fancy_name": "Sanguine King",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 5,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_chrysostom",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Bezian",
+        "fancy_name": "Sanguine Jester",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 5,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_bezian",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Karlov",
+        "fancy_name": "Vampire Renegade",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 5,
+        "family": "halloween",
+        "costume_id": 0,
+        "heroId": "halloween_karlov",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Elyzabel de Tuillières C",
+        "fancy_name": "Sanguine Scout",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 5,
+        "family": "fleur_de_sang",
+        "costume_id": 1,
+        "heroId": "fleur_elyzabel_costume_scout",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Matilda C",
+        "fancy_name": "Gourmet Perfumer",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 5,
+        "family": "halloween",
+        "costume_id": 1,
+        "heroId": "halloween_matilda_costume_mafia",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Valeria C",
+        "fancy_name": "Fitness Trainer of Night",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 4,
+        "family": "halloween",
+        "costume_id": 1,
+        "heroId": "vampire_queen_costume_mafia",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Vlad C",
+        "fancy_name": "Vampire Lieutenant",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-19 07:00:00",
+        "star": 3,
+        "family": "halloween",
+        "costume_id": 1,
+        "heroId": "vampire_lord_costume_mafia",
+        "Lottery_Only": 1
     }
 ]

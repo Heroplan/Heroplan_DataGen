@@ -5,7 +5,7 @@ Hver træffer fra en vildfaren kæmpehåndlanger giver målet følgende statusli
 "specials.v2.bigminion.body_guard_mega_minion.single","Hidkalder en Megalivvagt med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, der er arvet fra kasteren."
 "specials.v2.bigminion.goblin_rat_princess.single","Hidkalder en Rotteprinsessemegaminion med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, der er arvet fra kasteren."
 "specials.v2.bigminion.ratter.eatfamiliars","Før Pesthound-kæmpehåndlangeren rammer et mål, ødelægger den alle håndlangere hos målet og skader kæmpehåndlangere."
-"specials.v2.bigminion.ratter.reallocateeffects.minorbuff.majorbuff.minorbuffstack.random.multiple","Hver gang Pesthound-kæmpehåndlangeren rammer en fjende, stjæler den {REALLOCATIONCOUNT} tilfældige buffere fra fjenden – herunder buffere og kumulative effekter, der ikke kan fjernes – og giver dem til sin ejer."
+"specials.v2.bigminion.ratter.reallocateeffects.minorbuff.random.multiple","Hver gang Pesthound-kæmpehåndlangeren rammer en fjende, stjæler den {REALLOCATIONCOUNT} tilfældige buffere, der kan ophæves, fra fjenden og giver dem til sin ejer."
 "specials.v2.bigminion.ratter.single","Hidkalder en Pesthound-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, der er nedarvet fra kasteren."
 "specials.v2.bigminion.recruit_guard_mega_minion.single","Hidkalder en menig vogter-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb fra kasteren. 
 Menig vogter-kæmpehåndlangeren får mere HP og angreb, når der er flere unikke garnisonsvogterhelte på holdet, op til {FAMILIARHEALTHPERCENT3MEMBERS} % HP og {FAMILIARATTACK3MEMBERS} % angreb."
@@ -23,6 +23,7 @@ Menig vogter-kæmpehåndlangeren får mere HP og angreb, når der er flere unikk
 "specials.v2.bigminion.sword_guard_mega_minion.single","Hidkalder en Megasværdvogter med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, der er arvet fra kasteren."
 "specials.v2.bigminion.white_boar_mega_minion.single","Hidkalder hvid vildsvin-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.bigminion.white_boar_mega_minion_c1.single","Hidkalder hvid vildsvin-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
+"specials.v2.bigminion.white_boar_mega_minion_c1_mayhem.single","Hidkalder hvid vildsvin-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.bigparasite.dusk_mothling_big_parasite.single","Hidkalder en skumringsmøl-kæmpedjævel til målet. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
 Skumringsmøl-kæmpedjævlen suger helbredelse til sig og forsvinder igen, når den har optaget helbred, der svarer til {FAMILIARHEALTHPERCENT} % af sin ejers maksimale helbred."
 "specials.v2.bigparasite.grave_mothling_big_parasite.single","Hidkalder en gravmøl-kæmpedjævel til målet. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
@@ -184,6 +185,7 @@ Hver træffer fra en bi-håndlanger giver målet følgende statuslidelser:"
 "specials.v2.minion.fire_hotm_2026.red","Elementlink hidkalder en ildhåndlanger til alle ild-allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.minion.firewall_minion.all","Hidkalder en ildmurhåndlanger til alle allierede med {FAMILIARHEALTHPERCENT} % HP, nedarvet fra kasteren."
 "specials.v2.minion.firewall_minion.explode","Når ildmurhåndlangeren ødelægges, forårsager den {FAMILIARFIXEDEXPLOSIONDAMAGE} skade mod den angribende fjende."
+"specials.v2.minion.firewall_minion_mayhem.all","Hidkalder en ildmurhåndlanger til alle allierede med {FAMILIARHEALTHPERCENT} % HP, nedarvet fra kasteren."
 "specials.v2.minion.fish.all","Hidkalder en fiske-håndlanger til hver allieret. Fiske-håndlangeren arver {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb fra kasteren.
 
 Hver træffer fra en fiske-håndlanger giver målet følgende statuslidelser:"
@@ -258,6 +260,8 @@ Hver træffer fra en natsværmer-håndlanger giver målet følgende statuslidels
 "specials.v2.minion.owlkyrie.removebasestatmodifiers","Fjerner effekterne vækst og vinter fra målet."
 "specials.v2.minion.owlkyrie.removestatuseffects.allstatuseffectsandstacks.single.enemies.bypassremoveeffects","Hvis uglekyrie-håndlangeren besejres, fjernes alle statuseffekter fra en tilfældig fjende."
 "specials.v2.minion.owlkyrie.removestatuseffectsandbasestatmodifiers","Hvis uglekyrie-håndlangeren besejres, kastes fuld fjernelse på angriberen."
+"specials.v2.minion.owlkyrie_mayhem.neartotarget","Hidkalder en uglekyrie-håndlanger til kasteren og allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb fra kasteren."
+"specials.v2.minion.owlkyrie_mayhem.removestatuseffectsandbasestatmodifiers","Hvis uglekyrie-håndlangeren besejres, kastes fuld fjernelse på angriberen."
 "specials.v2.minion.ratter.all","Hidkalder en Pesthound-håndlanger for hver allieret med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, der er nedarvet fra kasteren."
 "specials.v2.minion.ratter.eatfamiliars","Før Pesthound-håndlangeren rammer et mål, ødelægger den alle håndlangere hos målet og skader kæmpehåndlangere."
 "specials.v2.minion.ratter.reallocateeffects.minorbuff.random","Hver gang en Pesthound-håndlanger rammer en fjende, stjæler den en tilfældig ophævelig buffer fra fjenden og giver den til sin ejer."
@@ -277,6 +281,7 @@ Ravne-håndlangeren giver {ATTACK} % angreb til sin ejers øvrige håndlangere.
 "specials.v2.minion.sand_golem_papyros_costume.all","Hidkalder en sandgolem-håndlanger til alle allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.minion.sanguine_bat_minion.all","Hidkalder en rødmosset flagermus-håndlanger til allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.minion.sanguine_bat_minion.neartotarget","Hidkalder en rødmosset flagermus-håndlanger til kasteren og allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
+"specials.v2.minion.sanguine_bat_minion_costume_scout.all","Hidkalder en rødmosset flagermus-håndlanger til allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.minion.sanguine_bat_minion_pve_advanced.all","Hidkalder en rødmosset flagermus-håndlanger til allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.minion.sanguine_bat_minion_pve_advanced.neartotarget","Hidkalder en rødmosset flagermus-håndlanger til kasteren og allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "specials.v2.minion.sanguine_bat_minion_pve_normal.all","Hidkalder en rødmosset flagermus-håndlanger til allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
@@ -370,6 +375,8 @@ Sladderhviskeren optager helbredelse. Den forsvinder igen, når den har optaget 
 Grimoiredjævlen optager helbredelse. Den forsvinder igen, når den har optaget den mængde helbred, der svarer til {FAMILIARHEALTHPERCENT} % af sit måls maksimale helbred."
 "specials.v2.parasite.infernal_parasite.all","Hidkalder en infernodjævel til alle fjender. Djævlen skader sit mål med {FAMILIARATTACK} % angreb i hver runde.
 Infernodjævlen optager helbredelse. Den forsvinder igen, når den har optaget den mængde helbred, der svarer til {FAMILIARHEALTHPERCENT} % af sit måls maksimale helbred."
+"specials.v2.parasite.infernal_parasite_brimstone_hellforged.all","Hidkalder en infernodjævel til alle fjender. Djævlen skader sit mål med {FAMILIARATTACK} % angreb i hver runde.
+Infernodjævlen optager helbredelse. Den forsvinder igen, når den har optaget den mængde helbred, der svarer til {FAMILIARHEALTHPERCENT} % af sit måls maksimale helbred."
 "specials.v2.parasite.kunai_fiend_iga1.explode.hasturns","Kunai-djævlen eksploderer efter {FAMILIAREFFECTFREQUENCY} runder og forvolder {FAMILIARFIXEDEXPLOSIONDAMAGE} skade mod sit mål."
 "specials.v2.parasite.kunai_fiend_iga1.single","Hidkalder en kunaidjævel til målet. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
 Kunaidjævlen suger helbredelse til sig og forsvinder igen, når den har optaget helbred, der svarer til {FAMILIARHEALTHPERCENT} % af sin ejers maksimale helbred."
@@ -387,6 +394,13 @@ Lejesoldatsdjævlen optager helbredelse og forsvinder, når den har optaget helb
 "specials.v2.parasite.moldavite_owl_fiend.neartotarget","Hidkalder en moldavitugledjævel til målet og fjender i nærheden. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
 Moldavitugledjævlen optager helbredelse. Den forsvinder igen, når den har optaget den mængde helbred, der svarer til {FAMILIARHEALTHPERCENT} % af målets maksimale helbred."
 "specials.v2.parasite.moldavite_owl_fiend.removestatuseffects.minorbuff.single.allies.customremovalcount","I slutningen af hver runde ophæver moldavitugledjævlen en af målets ophævelsesforstærkere."
+"specials.v2.parasite.moldavite_owl_fiend_mayhem.neartotarget","Hidkalder en moldavitugledjævel til målet og fjender i nærheden. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
+Moldavitugledjævlen optager helbredelse. Den forsvinder igen, når den har optaget den mængde helbred, der svarer til {FAMILIARHEALTHPERCENT} % af målets maksimale helbred."
+"specials.v2.parasite.moldavite_owl_fiend_mayhem.removestatuseffects.minorbuff.single.allies.customremovalcount","I slutningen af hver runde ophæver moldavitugledjævlen en af målets ophævelige buffere."
+"specials.v2.parasite.muffin_fiend_costume_perfumer.all","Hidkalder en muffin-djævel til alle fjender. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
+Muffin-djævlen optager helbredelse og forsvinder, når den har optaget helbred, der svarer til {FAMILIARHEALTHPERCENT} % af målets maksimale helbred.
+ Hver træffer fra muffin-djævlen har følgende effekter:"
+"specials.v2.parasite.muffin_fiend_costume_perfumer.resetstatuseffectduration.minordebuff.majordebuff.all.allies","Der er {CHANCE} % chance for at forny varigheden for den statuslidelse, der er færrest runder tilbage af."
 "specials.v2.parasite.muffin_parasite.all","Hidkalder en muffin-djævel til alle fjender. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
 Muffin-djævlen optager helbredelse og forsvinder, når den har optaget helbred, der svarer til {FAMILIARHEALTHPERCENT} % af målets maksimale helbred.
  Hver træffer fra muffin-djævlen har følgende effekter:"
@@ -737,6 +751,8 @@ Alle allierede genvinder yderligere {POWERPERFAMILIAR} % helbred for hver djæv
 "specials.v2.property.effectperremovedstatuseffect.addmana.single.allies.no_base_effect","Kasteren får {POWERPEREFFECT} % mana for hver fjernet statuseffekt op til {MAXPOWER} % mana i alt."
 "specials.v2.property.effectperremovedstatuseffect.damage.all.enemies","Påfører {BASEPOWER} % skade til alle fjender.
 Påfører yderligere {POWERPEREFFECT} % skade for hver fjernet statuseffekt op til {MAXPOWER} % skade i alt."
+"specials.v2.property.effectperremovedstatuseffect.damage.neartotarget.enemies","Påfører målet og fjender i nærheden {BASEPOWER} % skade.
+Påfører yderligere {POWERPEREFFECT} % skade for hver fjernet statuseffekt op til {MAXPOWER} % skade i alt."
 "specials.v2.property.effectperremovedstatuseffect.damage.single.enemies","Påfører {BASEPOWER} % skade til målet.
 Påfører yderligere {POWERPEREFFECT} % skade for hver fjernet statuseffekt op til {MAXPOWER} % skade i alt."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies","Gendanner {BASEPOWER} % helbred for alle allierede.
@@ -759,11 +775,19 @@ Gendanner yderligere {POWERPEREFFECT} % helbred for hver fjernet statuseffekt, 
 "specials.v2.property.elementdependenteffect.elemental_griffex.extra","Det har ingen effekt på andre Griffex-figurer."
 "specials.v2.property.elementdependenteffect.elemental_griffex_costume_camera.extra","Det har ingen effekt på andre Griffex-figurer."
 "specials.v2.property.enablespecialcriticalhit","Denne særlige egenskab har en chance for at give kritiske træffere."
-"specials.v2.property.enablespecialcriticalhit.extra","Chancen for at uddele et kritisk slag er baseret på heltens samlede kritiske chance, når skaden uddeles.
+"specials.v2.property.enablespecialcriticalhit.effect.damagemultiplier","Gør 50 % mere skade."
+"specials.v2.property.enablespecialcriticalhit.effect.reducebuffstacks","Reducer positive kumulative effekter med {0}."
+"specials.v2.property.enablespecialcriticalhit.effect.removegrowth","Fjern vækst-effekter."
+"specials.v2.property.enablespecialcriticalhit.extra","Sandsynligheden for at uddele en kritisk træffer er baseret på heltens samlede kritiske sandsynlighed, når skaden uddeles.
 
-Kritiske slag forårsaget af denne særlige egenskab uddeler 50 % mere skade. 
+Kritiske træffere forårsaget af denne særlige evne:
+{EFFECTS}"
+"specials.v2.property.enablespecialcriticalhit.extra.with_pvpmaxhealthreduction","Kritiske træffere reducerer fjenders maksimale helbred i PVP-kampe. Denne effekt er stærkere mod boostet helbred."
+"specials.v2.property.enablespecialcriticalhit.extra.with_universalmaxhealthreduction","Kritiske træffere reducerer fjenders maksimale helbred. Denne effekt er stærkere mod boostet helbred."
+"specials.v2.property.enablespecialcriticalhit.minchance.extra","Sandsynligheden for at uddele en kritisk træffer er baseret på heltens samlede kritiske sandsynlighed, når skaden uddeles. Sandsynligheden er altid på mindst {MINCHANCE} %.
 
-Kritiske træffere kan reducere fjenders maksimale helbred i PVP-kampe. Denne effekt er stærkere mod boostet helbred."
+Kritiske træffere forårsaget af denne særlige evne:
+{EFFECTS}"
 "specials.v2.property.energy_of_mjolnir_rotation","Særlig evne har en anderledes virkning ved anvendelse i træk, i følgende rækkefølge:"
 "specials.v2.property.evolving_special","Særlig evne skal bruge gentagne anvendelser for at nå fuld kraft i følgende rækkefølge:"
 "specials.v2.property.excessdamagetonearbytargets","Hvis målet besejres, rammes hver fjende i nærheden af den overskydende skade."
@@ -811,6 +835,16 @@ Denne effekt er mindre effektiv, når den aktiveres af monstre og bosser."
 "specials.v2.property.growth.none.single.allies.attack","Vækst: Kasteren får {ATTACKINCREASE} angreb."
 "specials.v2.property.growth.none.single.allies.attack.defense","Vækst: Kasteren får {ATTACKINCREASE} angreb og {DEFENSEINCREASE} forsvar."
 "specials.v2.property.growth.none.single.allies.attack.hidden","Vækst: Kasteren får øget angreb."
+"specials.v2.property.growth.reduceondispel.extra","Visnen og vækst modificerer figurers evneværdier. Effekten forbliver, selv hvis figuren bliver besejret.
+Yderligere visne- og væksteffekter modificerer evneværdierne.
+Fjernelse svækker visneeffekten med {CLEANSEWITHERMULTIPLIER} %.
+Ophævelse svækker væksteffekten med {DISPELGROWTHMULTIPLIER} %.
+
+Grænser for modificerede evneværdier.
+Min. {MINSTAT} % og maks. {MAXSTAT} % af deres oprindelige værdi.
+Andre buffere og svækkelser bliver pålagt de modificerede evneværdier.
+
+Denne effekt er mindre effektiv, når den aktiveres af monstre og bosser."
 "specials.v2.property.heallowhealthtargets","Helbreder alle allierede, som har mindre end {HEALTHLIMIT} % HP tilbage, til {FINALHEALTH} % helbred."
 "specials.v2.property.heallowhealthtargets.extra","Ignorerer helbredtyveri, helbredsmodifikatorer og djævle."
 "specials.v2.property.healpertile.heal.all.allies.blue","Gendanner {BASEPOWER} % helbred for alle allierede.
@@ -822,7 +856,7 @@ Gendanner yderligere {POWERPERTILE} % helbred per helligt skjold på brættet, 
 "specials.v2.property.healthboostpertile.healthboost.all.allies.green","Forstærker helbred for alle allierede med {BASEPOWERFIXED}. Forstærket helbred kan overstige maks. HP.
  Forstærker helbred med yderligere {POWERPERTILEFIXED} per natur-skjold på brættet, op til et forstærket helbred på {MAXPOWERFIXED}."
 "specials.v2.property.healthsteal.heal.all.allies","Helbreder alle allierede med {SHAREDHEALTH} % af samlet påført skade."
-"specials.v2.property.healthsteal.healthboost.all.allies","Forstærker alle allieredes helbred med {SHAREDHEALTH} % af den forvoldte skade."
+"specials.v2.property.healthsteal.healthboost.all.allies","Forstærker alle allieredes helbred med {SHAREDHEALTH} % af den forvoldte skade. Boostet helbred kan overskride maks. HP."
 "specials.v2.property.healthsteal.healthboost.single.allies","Forstærker kasterens helbred med {SHAREDHEALTH} % af den forvoldte skade."
 "specials.v2.property.icestrike.enemies.all.red.always_hit","Angriber alle fjender i nærheden med frostangreb, som gør op til {MAX} skade. Forvolder {STRONGATTACKELEMENTDAMAGEMODIFIER} % mere skade, hvis målet tilhører elementet ild. Denne særlige egenskab rammer aldrig ved siden af."
 "specials.v2.property.icestrike.enemies.neartotarget.red.always_hit","Angriber målet og alle fjender i nærheden med frostangreb, som gør op til {MAX} skade. Forvolder {STRONGATTACKELEMENTDAMAGEMODIFIER} % mere skade, hvis målet tilhører elementet ild. Denne særlige egenskab rammer aldrig ved siden af."
@@ -905,6 +939,8 @@ Buffere og statuslidelser på angreb og forsvar påvirker ikke skadens skalering
 "specials.v2.property.pre.eatfamiliarswitheffectpereatenfamiliar.single.enemies.minion.follower.bigminion","Ødelægger alle håndlangere fra målet. Denne effekt skader kæmpehåndlangere."
 "specials.v2.property.pre.enablespecialcriticalhit","Denne særlige egenskab har en chance for at give kritiske træffere."
 "specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion","Ødelægger alle håndlangere fra målet. Denne effekt skader kæmpehåndlangere."
+"specials.v2.property.pre.familiarsteal.from.all.allies.to.all.enemies.parasite.bigparasite","Fjerner djævle og megadjævle fra alle allierede og fordeler dem tilfældigt på fjender."
+"specials.v2.property.pre.familiarsteal.from.all.enemies.to.all.allies.minion.bigminion","Stjæler alle håndlangere og megahåndlangere fra alle fjender og fordeler dem tilfældigt på allierede."
 "specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.bigminion.minion.follower","Berøver målet alle sine håndlangere eller kæmpehåndlangere."
 "specials.v2.property.pre.familiarsteal.from.single.enemies.to.single.allies.minion.follower","Berøver målet sine håndlangere."
 "specials.v2.property.pre.ignoredodgewithchance","Denne særlige egenskab har {IGNOREDODGECHANCE} % chance for at ignorere undvigelseseffekter."
@@ -984,7 +1020,9 @@ Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede 
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","Rydder {REMOVALCOUNT} statuslidelser fra alle allierede."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Statuslidelser ryddes i samme rækkefølge, som de er kommet. Den seneste statuslidelse ryddes først."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Sikker fjernelse tilsidesætter sekundære effekter, for eksempel skade ved fjernelse, fra den fjernede statuslidelse. Eksterne effekter som passive færdigheder og familieeffekter kan stadig være aktive."
+"specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies","Rydder statuslidelser fra kasteren og allierede i nærheden."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Rydder på sikker vis statuslidelser fra kasteren og allierede i nærheden."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies","Rydder statuslidelser fra kasteren."
 "specials.v2.property.removestatuseffects.minordebuff.single.allies.bypassremoveeffects","Rydder på sikker vis alle statuslidelser fra kasteren."
 "specials.v2.property.removestatuseffects.minordebuff.single.allies.customremovalcount","Rydder 1 statuslidelse fra kasteren."
 "specials.v2.property.removestatuseffects.minordebuff.wormappearance.single.allies","Fjerner Sindsorm-lidelsen fra kasteren."
@@ -1008,7 +1046,6 @@ Ved at stjæle på sikker vis kan man omgå sekundære effekter fra de fjernede 
  Stædige og uophævelige lidelser fjernes også."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minorbuff.all.enemies.bypassremoveeffects.effectonremoval.addmana.all.allies","Ophæver på sikker vis buffere fra alle fjender og øger alle allieredes mana med {POWERPERREMOVAL} % for hver fjernet buffer."
 "specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.all.allies","Fjerner på sikker vis alle statuslidelser fra alle allierede og øger alle allieredes mana med {POWERPERREMOVAL} % for hver af de rensede lidelser."
-"specials.v2.property.removestatuseffectswitheffectpertotalremoved.minordebuff.all.allies.bypassremoveeffects.effectonremoval.damage.single.enemies","Fjerner på sikker vis alle statuslidelser fra alle allierede og gør {FIXEDPOWERPERREMOVAL} skade på målet for hver fjernet lidelse."
 "specials.v2.property.repeatspecial.blade_wings.random","Efter et succesfuldt kast er der {REPEATCHANCE} % chance for at kaste klingevinger igen mod et tilfældigt mål.
 Kan kastes igen op til {MAXREPEATS} gange, hvor chancen for at kaste igen reduceres med {REPEATCHANCEDECREASE} % efter hvert succesfulde kast."
 "specials.v2.property.repeatspecial.heads_or_tails.random","Efter et vellykket kast er der {REPEATCHANCE} % chance for at kaste Plat eller krone? igen på et tilfældigt mål.
@@ -1027,6 +1064,8 @@ Hvert helligt skjold på brættet øger chancen for at blive genoplivet med {CHA
 "specials.v2.property.secondarydirecteffect.addmana.all.allies.increment","Øger mana hos alle allierede med {SECONDARYABSPOWER} %."
 "specials.v2.property.secondarydirecteffect.addmana.all.enemies.decrement","Reducerer mana hos alle fjender med {SECONDARYABSPOWER} %."
 "specials.v2.property.secondarydirecteffect.addmana.all.enemies.increment","Reducerer mana hos alle fjender med {SECONDARYABSPOWER} %."
+"specials.v2.property.secondarydirecteffect.addmana.all.enemies.statuseffecttag_filter.bloodlily.decrement.statuseffects.buff_immunity","Reducerer manaen hos alle fjender, der er markeret med en blodlilje, med {SECONDARYABSPOWER} %.
+Alle fjender, der er markeret med en blodlilje, er immune over for nye statuseffektbuffere i {STATUSEFFECT1TURNS} runder."
 "specials.v2.property.secondarydirecteffect.addmana.neartotarget.allies.increment","Øger mana hos kasteren og alle allierede i nærheden med {SECONDARYABSPOWER} %."
 "specials.v2.property.secondarydirecteffect.addmana.neartotarget.enemies.decrement","Reducerer mana for målet og fjender i nærheden med {SECONDARYABSPOWER} %."
 "specials.v2.property.secondarydirecteffect.addmana.neartotargetexceptcaster.allies.increment","Øger mana hos allierede i nærheden med {SECONDARYABSPOWER} %."
@@ -1041,6 +1080,7 @@ Hvert helligt skjold på brættet øger chancen for at blive genoplivet med {CHA
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus_mayhem","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Giver {SECONDARYPOWER} % i skade til alle fjender og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
@@ -1064,6 +1104,7 @@ Alle fjender markeret med en blodlilje får {STATUSEFFECT1DAMAGE} bløderskade o
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_on_damage_atwood","Giver {SECONDARYPOWER} % i skade til målet og fjender i nærheden og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_piper","Giver {SECONDARYPOWER} % i skade til målet og fjender i nærheden og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_zenas","Giver {SECONDARYPOWER} % i skade til målet og fjender i nærheden og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
+"specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_zenas_mayhem","Giver {SECONDARYPOWER} % i skade til målet og fjender i nærheden og påfører dem {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetexceptmaintarget.enemies","Giver yderligere {SECONDARYPOWER} % skade mod fjender i nærheden."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetminor.enemies","Giver {SECONDARYPOWER} % skade til målet og mindre skade til fjender i nærheden."
 "specials.v2.property.secondarydirecteffect.damage.random.enemies","Giver {SECONDARYPOWER} % skade til en tilfældig fjende."
@@ -1195,6 +1236,52 @@ Fjender med forsvarsbuffere, håndlangere eller kæmpehåndlangere får {STATUSE
 "specials.v2.property.talondamage.damage.all.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Gør {POWERFOROTHERTARGETS} % kløskade på alle fjender."
 "specials.v2.property.talondamage.damage.neartotarget.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","Gør {POWERFOROTHERTARGETS} % kløskade på målet og fjender i nærheden."
 "specials.v2.property.talondamage.extra","Gør {POWERFORTARGETSTHATMEETCONDITION} % skade på fjender med  {STATTHRESHOLDPERMIL} % mana eller mere. Fjenderne får også {STATUSEFFECTFORTARGETSTHATMEETCONDITION1MANAREGEN} % managendannelse i {STATUSEFFECTFORTARGETSTHATMEETCONDITION1TURNS} runder."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.blocked_by.minion.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+ Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+ Frøplantedjævel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred.
+ Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
+ Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
+
+En djævel skader sit mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
+Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbredelse.
+Djævle kan ikke udvikle sig til megadjævle, hvis der er håndlangere på den samme helt."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.blocked_by.minion.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+ Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+ Frøplantedjævel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred.
+ Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
+ Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
+
+En djævel skader sit mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
+Djævle kan ikke udvikle sig til megadjævle, hvis der er håndlangere på den samme helt."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+ Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+ Frøplantedjævel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred.
+ Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
+ Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
+
+En djævel skader sit mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+ Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+ Frøplantedjævel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred.
+ Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
+ Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
+
+En djævel skader sit mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
+Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbredelse.
+Djævle kan ikke udvikle sig til megadjævle, hvis der er håndlangere på den samme helt."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+ Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+ Frøplantedjævel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred.
+ Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
+ Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
+
+En djævel skader sit mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
+Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbredelse."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
  Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 
@@ -1202,13 +1289,15 @@ Fjender med forsvarsbuffere, håndlangere eller kæmpehåndlangere får {STATUSE
  Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
  Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
 
-Djævle skader deres mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
-Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbred."
+En djævel skader sit mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
+Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbredelse."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Hvis målet har djævle eller megadjævle, giver det {DAMAGE} % skade til en tilfældig anden fjende.
 Hidkalder en frøplantedjævel til hver ramt fjende."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Hvis målet har djævle eller megadjævle, giver det {DAMAGE} % skade til en tilfældig anden fjende.
 Hidkalder en frøplantedjævel til hver ramt fjende."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Hvis målet har djævle eller megadjævle, giver det {DAMAGE} % skade til en tilfældig anden fjende.
+Hidkalder en frøplantedjævel til hver ramt fjende."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_seedling_parasite","Hvis målet har djævle eller megadjævle, forvolder det {DAMAGE} % skade på {MAXHITS} andre tilfældige fjender.
 Hidkalder en frøplantedjævel til hver ramt fjende."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_seedling_parasite_with_delay","Hvis målet har djævle eller megadjævle, forvolder det {DAMAGE} % skade på {MAXHITS} andre tilfældige fjender.
 Hidkalder en frøplantedjævel til hver ramt fjende."
@@ -1290,6 +1379,16 @@ Denne effekt er mindre effektiv, når den aktiveres af monstre og bosser."
 "specials.v2.property.wither.none.single.enemies.attack","Visne: Målet modtager {ATTACKINCREASE} angreb."
 "specials.v2.property.wither.none.single.enemies.attack.defense","Visne: Målet får {ATTACKINCREASE} angreb og {DEFENSEINCREASE} forsvar."
 "specials.v2.property.wither.none.single.enemies.defense","Visne: Målet får {DEFENSEINCREASE} forsvar."
+"specials.v2.property.wither.reduceondispel.extra","Visnen og vækst modificerer figurers evneværdier. Effekten forbliver, selv hvis figuren bliver besejret.
+Yderligere visne- og væksteffekter modificerer evneværdierne.
+Fjernelse svækker visneeffekten med {CLEANSEWITHERMULTIPLIER} %.
+Ophævelse svækker væksteffekten med {DISPELGROWTHMULTIPLIER} %.
+
+Grænser for modificerede evneværdier.
+Min. {MINSTAT} % og maks. {MAXSTAT} % af deres oprindelige værdi.
+Andre buffere og svækkelser bliver pålagt de modificerede evneværdier.
+
+Denne effekt er mindre effektiv, når den aktiveres af monstre og bosser."
 "specials.v2.saturated_suffering.immuneelement.blue","Alle is-fjender er immune over for dette angreb."
 "specials.v2.statuseffect.major.abyss.sides.enemies","Fjender i udkanten af fjendeformationen tager form som Dybets spøgelse i {TURNS} runder.
  Som Dybets spøgelse tager målene {DAMAGEPERTURN} skade i hver runde."
@@ -1343,7 +1442,9 @@ Når kasteren kommer ud af skjul, påfører de {DAMAGE} skade mod alle fjender, 
 "specials.v2.statuseffect.major.bleeding.neartotarget.enemies","Målet og fjender i nærheden modtager {DAMAGE} blodskade i {TURNS} runder. Denne effekt kan ikke ryddes."
 "specials.v2.statuseffect.major.bluedefensemodifier.single.allies","Kasteren får {DEFENSE} % forsvar mod is i {TURNS} runder. Denne effekt kan ikke fjernes."
 "specials.v2.statuseffect.major.buffimmunity.all.enemies.damage","Alle fjender er immune over for nye statuseffektbuffere i {TURNS} runder og modtager {POWER} skade for hvert bufferforsøg. Denne effekt kan ikke fjernes."
+"specials.v2.statuseffect.major.buffimmunity.all.enemies.withactivationcount.damage","Alle fjender er immune over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået. Denne effekt kan ikke fjernes."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Målet og fjender i nærheden er immune over for nye statuseffekt-buffere i {TURNS} runder. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies.withactivationcount","Målet og fjender i nærheden er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået. Denne effekt er uophævelig."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Alle allierede forvolder {DAMAGE}-{MAXDAMAGE} skade på en vilkårlig fjende efter {TURNS} runder, baseret på den skade, de allierede tog, mens denne effekt var aktiv. Denne effekt kan ikke ophæves."
 "specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Forvolder {DAMAGE}-{MAXDAMAGE} skade på alle fjender efter {TURNS} ture, eller til kasteren bliver besejret, baseret på den skade, kasteren har taget, mens denne effekt var aktiv. Denne effekt kan ikke ophæves."
 "specials.v2.statuseffect.major.burn.all.enemies","Alle fjender får {DAMAGE} brandskade i {TURNS} runder. Denne effekt kan ikke ryddes."
@@ -1422,14 +1523,22 @@ Den mørke svanes ballade
 
 Birohos ballade
 {STATUSEFFECTS}"
+"specials.v2.statuseffect.major.dancemultieffect.single.enemies.contagious.ballad_of_biroho","Målet danser til Birohos ballade i {TURNS} runder. Dansen spreder sig til fjender i nærheden.
+
+Birohos ballade
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.major.dancemultieffect.single.enemies.contagious.ballad_of_pain","Målet og fjender i nærheden danser til Smertens ballade i {TURNS} ture. Dansen spreder sig til fjender i nærheden.
 
 Smertens ballade
 {STATUSEFFECTS}"
 "specials.v2.statuseffect.major.debuffshield.all.allies","Alle allierede er immune over for nye statuslidelser i {TURNS} runder. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.debuffshield.all.allies.withactivationcount","Alle allierede er immune over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået. Denne effekt kan ikke ophæves."
 "specials.v2.statuseffect.major.debuffshield.all.enemies.levelproperty","Alle fjender er immune over for nye statuslidelser i {TURNS} runder. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.debuffshield.all.enemies.withactivationcount.levelproperty","Alle fjender er immune over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået. Denne effekt kan ikke ophæves."
 "specials.v2.statuseffect.major.debuffshield.neartotarget.allies","Kasteren og allierede i nærheden er immune over for nye statuslidelser i {TURNS} runder. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.debuffshield.neartotarget.allies.withactivationcount","Kasteren og allierede i nærheden er immune over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået. Denne effekt kan ikke ophæves."
 "specials.v2.statuseffect.major.debuffshield.single.allies","Kasteren er immun over for nye statuslidelser i {TURNS} runder. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.debuffshield.single.allies.withactivationcount","Kasteren er immun over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået. Denne effekt kan ikke ophæves."
 "specials.v2.statuseffect.major.deepsleep.all.enemies.removeondamagereceived","Alle fjender falder i en dyb søvn og tager {DAMAGEMODIFIER} % mere skade, mens de sover dybt."
 "specials.v2.statuseffect.major.deepsleep.sides.enemies.removeondamagereceived","Alle fjender i udkanten af fjendens formation falder i en dyb søvn og tager {DAMAGEMODIFIER} % mere skade, mens de sover."
 "specials.v2.statuseffect.major.deepsleep.single.enemies.removeondamagereceived","Målet falder i en dyb søvn og tager {DAMAGEMODIFIER} % mere skade, mens vedkommende sover dybt."
@@ -1638,8 +1747,8 @@ Hver månestråle reducerer manaen for den ramte fjende med {ABSPOWER2} %."
 "specials.v2.statuseffect.major.poison.single.enemies.chain_strike","Alle ramte mål får {DAMAGE} i giftskade i {TURNS} runder. Denne effekt kan ikke ryddes."
 "specials.v2.statuseffect.major.poison.single.enemies.contagious","Målet modtager {DAMAGE} giftskade i {TURNS} runder. Denne effekt spreder sig til fjender i nærheden og kan ikke ryddes."
 "specials.v2.statuseffect.major.possession.single.enemies.mindless_attack","Målet kaster automatisk tankeløst angreb mod en tilfældig allieret, når mana er fyldt op i {TURNS} runder. Denne effekt kan ikke ophæves."
-"specials.v2.statuseffect.major.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies","Alle fjender bliver provokerede i {TURNS} runder. De provokerede figurer giver {POWER1} % skade til en tilfældig modstander, når runden slutter. Denne effekt kan ikke ophæves."
-"specials.v2.statuseffect.major.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies.with_chance","Alle fjender bliver provokerede i {TURNS} runder. De provokerede figurer giver {POWER1} % skade til en tilfældig modstander, når runden slutter. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies.majorbuff","Alle fjender bliver provokerede i {TURNS} runder. De provokerede figurer giver {POWER1} % skade til en tilfældig modstander, når runden slutter. Denne effekt kan ikke ophæves."
+"specials.v2.statuseffect.major.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies.majordebuff","Alle fjender bliver provokerede i {TURNS} runder. Den provokerede figur gør {POWER1} % skade på en tilfældig modstander, når runden slutter. Denne effekt kan ikke fjernes."
 "specials.v2.statuseffect.major.reallocateeffectsonhit.all.allies.effects.minorbuff.baseattackmodifier.basedefensemodifier.random","Alle allierede får klistrede overflader i {TURNS} runder. Effekten kan ikke ophæves.
 Klistret overflade: Stjæler {REALLOCATIONCOUNT} vilkårlig buffer, der kan ophæves, eller væksteffekt fra en angribende fjende."
 "specials.v2.statuseffect.major.reallocateeffectsonhit.all.enemies.effects.minorbuff.baseattackmodifier.basedefensemodifier.random","Kasteren og allierede i nærheden får klistrede overflader i {TURNS} runder. Effekten kan ikke ophæves.
@@ -1853,6 +1962,10 @@ Lykkedanse lægges sammen med andre danseeffekter."
 Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektbuffere.
  Astralkugler eksploderer efter {TURNS} runder og forvolder {DAMAGE} skade på ejeren.
  Hvis astralkuglen bliver ryddet, får ejeren resonans i {STATUSEFFECT1TURNS} runder. Hver runde forvolder {STATUSEFFECT1DAMAGEPERTURN} resonansskade på den ramte fjende og {RESONANCEDAMAGE} skade på fjender i nærheden."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.all.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_coronzom_mayhem.single.allies","Alle fjender påvirkes af en astralkugle.
+Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektbuffere.
+ Astralkugler eksploderer efter {TURNS} runder og forvolder {DAMAGE} skade på ejeren.
+ Hvis astralkuglen bliver ryddet, får ejeren resonans i {STATUSEFFECT1TURNS} runder. Hver runde forvolder {STATUSEFFECT1DAMAGEPERTURN} resonansskade på den ramte fjende og {RESONANCEDAMAGE} skade på fjender i nærheden."
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Ramte fjender påvirkes af astralkuglen.
 Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfstærkere.
  Astralkugler eksploderer efter {TURNS} runder og forvolder {DAMAGE} skade på ejeren.
@@ -1861,8 +1974,13 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfstærkere.
  Astralkugler eksploderer efter {TURNS} runder og forvolder {DAMAGE} skade på ejeren.
  Hvis astralkuglen bliver ryddet, får ejeren resonans i {STATUSEFFECT1TURNS} runder. Hver runde forvolder {STATUSEFFECT1DAMAGEPERTURN} resonansskade på den ramte fjende og {RESONANCEDAMAGE} skade på fjender i nærheden."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_anatemah_mayhem.single.allies.chain_strike","Ramte fjender påvirkes af astralkuglen.
+Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektbuffere.
+ Astralkugler eksploderer efter {TURNS} runder og forvolder {DAMAGE} skade på ejeren.
+ Hvis astralkuglen bliver ryddet, får ejeren resonans i {STATUSEFFECT1TURNS} runder. Hver runde forvolder {STATUSEFFECT1DAMAGEPERTURN} resonansskade på den ramte fjende og {RESONANCEDAMAGE} skade på fjender i nærheden."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","Alle allierede får {ATTACK} % angreb i {TURNS} runder."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies.noturns","Alle allierede får vedvarende {ATTACK} % angreb."
+"specials.v2.statuseffect.minor.attackmodifier.all.allies.onremoval.addmana.single.allies.dispel.removal","Alle allierede får {ATTACK} % angreb i {TURNS} runder. Hvis effekten fjernes, inden varigheden slutter, får den allierede med effekten +{REMOVALEFFECT1POWER} % mana."
 "specials.v2.statuseffect.minor.attackmodifier.all.enemies","Alle fjender får {ATTACK} % angreb i {TURNS} runder."
 "specials.v2.statuseffect.minor.attackmodifier.all.enemies.noturns","Alle fjender får vedvarende {ATTACK} % angreb."
 "specials.v2.statuseffect.minor.attackmodifier.allexceptcaster.allies","Alle allierede, undtagen kasteren, får {ATTACK} % angreb i {TURNS} runder."
@@ -1897,10 +2015,15 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 "specials.v2.statuseffect.minor.berserk.all.allies.onremoval.addmana.single.allies.dispel","Alle allierede får {ATTACK} % angreb og yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb. Hvis effekten fjernes, før varigheden er slut, vil den allierede med effekten få +{REMOVALEFFECT1POWER} % mana."
 "specials.v2.statuseffect.minor.berserk.all.allies.onremoval.addmana.single.allies.dispel.removal","Alle allierede får {ATTACK} % angreb og yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb. Hvis effekten fjernes, før varigheden er slut, vil den allierede med effekten få +{REMOVALEFFECT1POWER} % mana."
 "specials.v2.statuseffect.minor.berserk.all.enemies","Alle fjender får {ATTACK} % angreb og yderligere {CHANGE} % reducering, hver gang de bliver ramt i {TURNS} runder, ned til {MAXMODIFIER} % angreb."
+"specials.v2.statuseffect.minor.berserk.blue.allies","Alle is-allierede får {ATTACK} % angreb og en yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
+"specials.v2.statuseffect.minor.berserk.green.allies","Alle natur-allierede får {ATTACK} % angreb og en yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
 "specials.v2.statuseffect.minor.berserk.group.allies","Kasteren og allierede i nærheden får {ATTACK} % angreb og yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
 "specials.v2.statuseffect.minor.berserk.neartotarget.allies","Kasteren og allierede i nærheden får {ATTACK} % angreb og yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
 "specials.v2.statuseffect.minor.berserk.neartotarget.enemies","Målet og fjender i nærheden får {ATTACK} % angreb og yderligere {CHANGE} % reducering, hver gang de bliver ramt i {TURNS} runder, ned til {MAXMODIFIER} % angreb."
+"specials.v2.statuseffect.minor.berserk.purple.allies","Alle mørke-allierede får {ATTACK} % angreb og en yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
+"specials.v2.statuseffect.minor.berserk.red.allies","Alle ild-allierede får {ATTACK} % angreb og en yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
 "specials.v2.statuseffect.minor.berserk.single.allies","Kasteren får {ATTACK} % angreb og yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
+"specials.v2.statuseffect.minor.berserk.yellow.allies","Alle hellige allierede får {ATTACK} % angreb og en yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % angreb."
 "specials.v2.statuseffect.minor.berserkcounterattack.neartotarget.allies","Kasteren og allierede i nærheden modangriber med {DEFLECTION} % af den forvoldte skade i {TURNS} runder. Skaden fra modangrebet øges med +{CHANGE} % for hvert modangreb og maksimalt {MAXDEFLECTION} %."
 "specials.v2.statuseffect.minor.berserkdefense.all.allies","Alle allierede får {DEFENSE} % forsvar og yderligere {CHANGE} % forøgelse, hver gang de bliver ramt i {TURNS} runder, op til {MAXMODIFIER} % forsvar."
 "specials.v2.statuseffect.minor.berserkdefense.all.enemies.decrease","Alle ramte mål får {DEFENSE} % forsvar og yderligere {CHANGE} % reducering, hver gang de bliver ramt i {TURNS} runder, ned til {MAXMODIFIER} % forsvar."
@@ -1962,6 +2085,9 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.enemies","Målet og fjender i nærheden får {DEFENSE} % forsvar mod is i {TURNS} runder."
 "specials.v2.statuseffect.minor.bluedefensemodifier.red.enemies","Alle ild-fjender får {DEFENSE} % forsvar mod is i {TURNS} runder."
 "specials.v2.statuseffect.minor.bluedefensemodifier.single.enemies","Målet får {DEFENSE} % forsvar mod is i {TURNS} runder."
+"specials.v2.statuseffect.minor.bluetrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_red.against_titan.modifies_power","Ramte fjender bliver påvirket af pigfælder.
+ Pigfælder giver målet {DEFENSE} % forsvar mod is. Mod ild-titaner giver pigfælden sit mål {AMPLIFIEDDEFENSE} % forsvar mod is.
+ Pigfælder eksploderer i {TURNS} runder og gør {DAMAGE} skade på deres ejer."
 "specials.v2.statuseffect.minor.bonetossstatuseffectskill.single.allies.on.turnend.damage.random.enemies.summonfamiliar.random.enemies.fox_skeleton_fiend.with_chance","I slutningen af hver runde foretager kasteren et knoglekast over en tilfældig fjende i {TURNS} runder.
  Hvert knoglekast giver {POWER1} % skade.
  Hvert knoglekast hidkalder en skeletrævedjævel til målet. Djævlen forvolder {FAMILIARATTACK} % skade på sit mål i hver runde.
@@ -1981,13 +2107,26 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 "specials.v2.statuseffect.minor.buffimmunity.all.enemies.damage","Alle fjender er immune over for nye statuseffekt-buffere i {TURNS} runder og modtager {POWER} skade for hvert bufferforsøg."
 "specials.v2.statuseffect.minor.buffimmunity.all.enemies.mana_regen_reduction.requirementforeffect.managenerationmodifier","Alle fjender er immune over for statuseffektbuffere i {TURNS} runder. Forsøg på at bruge managendannelsesbuffer bliver erstattet med {RESISTSTATUSEFFECTMANAREGEN} % managendannelse i {RESISTSTATUSEFFECTTURNS} runder."
 "specials.v2.statuseffect.minor.buffimmunity.all.enemies.mana_regen_reduction_wolf.requirementforeffect.managenerationmodifier","Alle fjender er immune over for statuseffektbuffere i {TURNS} runder. Forsøg på at bruge managendannelsesbuffer bliver erstattet med {RESISTSTATUSEFFECTMANAREGEN} % managendannelse i {RESISTSTATUSEFFECTTURNS} runder."
+"specials.v2.statuseffect.minor.buffimmunity.all.enemies.withactivationcount","Alle fjender er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.all.enemies.withactivationcount.damage","Alle fjender er immune over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.all.enemies.withactivationcount.mana_regen_reduction.requirementforeffect.managenerationmodifier","Alle fjender er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} er blevet modstået. Forsøg på at bruge managendannelsesbuffere bliver erstattet med {RESISTSTATUSEFFECTMANAREGEN} % managendannelse i {RESISTSTATUSEFFECTTURNS} runder."
+"specials.v2.statuseffect.minor.buffimmunity.all.enemies.withactivationcount.mana_regen_reduction_wolf.requirementforeffect.managenerationmodifier","Alle fjender er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} er blevet modstået. Forsøg på at bruge managendannelsesbuffere bliver erstattet med {RESISTSTATUSEFFECTMANAREGEN} % managendannelse i {RESISTSTATUSEFFECTTURNS} runder."
+"specials.v2.statuseffect.minor.buffimmunity.all.enemies.withactivationcount.one","Alle fjender er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffer er blevet modstået."
 "specials.v2.statuseffect.minor.buffimmunity.neartotarget.enemies","Målet og fjender i nærheden er immune over for nye statuseffekt-buffere i {TURNS} runder."
 "specials.v2.statuseffect.minor.buffimmunity.neartotarget.enemies.damage","Målet og fjender i nærheden er immune over for nye statuseffekt-buffere i {TURNS} runder og modtager {POWER} skade for hvert bufferforsøg."
+"specials.v2.statuseffect.minor.buffimmunity.neartotarget.enemies.withactivationcount","Målet og fjender i nærheden er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.neartotarget.enemies.withactivationcount.damage","Målet og fjender i nærheden er immune over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies","Målet er immun over for nye statuseffekt-buffere i {TURNS} runder."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.chain_strike","Alle ramte mål er immune over for nye statuseffekt-buffere i {TURNS} runder."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","Målet er immunt over for nye statuseffekt-buffere i {TURNS} runder og modtager {POWER} skade for hvert bufferforsøg."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","Alle ramte mål er immune over for nye statuseffekt-buffere i {TURNS} runder og modtager {POWER} skade for hvert bufferforsøg."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.dispelincreasesactivations.chain_strike","Alle ramte mål er immune over for nye statuseffektbuffere i {TURNS} runder og modtager {POWER} skade for hvert bufferforsøg. Denne effekt er stædig."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.withactivationcount","Målet er immunt over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.withactivationcount.chain_strike","Alle ramte mål er immune over for nye statuseffektbuffere. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.withactivationcount.damage","Målet er immunt over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.withactivationcount.damage.chain_strike","Alle ramte mål er immune over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.withactivationcount.damage.dispelincreasesactivations.chain_strike","Alle ramte mål er immune over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffere er blevet modstået. Denne effekt er stædig."
+"specials.v2.statuseffect.minor.buffimmunity.single.enemies.withactivationcount.one.damage","Målet er immunt over for nye statuseffektbuffere og tager {POWER} skade for hvert bufferforsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} buffer er blevet modstået."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Forvolder {DAMAGE}-{MAXDAMAGE} skade på alle fjender efter {TURNS} runder, baseret på den skade, kasteren har taget, mens denne effekt var aktiv."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Forvolder {DAMAGE}-{MAXDAMAGE} skade på alle fjender efter {TURNS} runder, eller til kasteren bliver besejret, baseret på den skade, kasteren har modtaget, mens denne effekt var aktiv."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","Forvolder {POWER} %-{MAXPOWER} % skade på alle fjender efter {TURNS} runder, baseret på den skade, kasteren har taget, mens denne effekt var aktiv."
@@ -2007,6 +2146,7 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 "specials.v2.statuseffect.minor.burn.purple.enemies.absorb_boostedhealth.to.all","Alle mørke fjender modtager {DAMAGE} ildskade i {TURNS} runder. Kasteren og alle deres allierede absorberer {ABSORBHEALING} % af den påførte ildskade som forbedret helbred."
 "specials.v2.statuseffect.minor.burn.single.enemies","Målet får {DAMAGE} brandskade i {TURNS} runder."
 "specials.v2.statuseffect.minor.burn.single.enemies.absorb_healing.to.single.chain_strike","Alle ramte fjender får {DAMAGE} ildskade over {TURNS} runder. Kasteren absorberer {ABSORBHEALING} % af den påførte ildskade som helbred."
+"specials.v2.statuseffect.minor.burn.single.enemies.chain_strike","Alle ramte mål modtager {DAMAGE} ildskade i {TURNS} runder."
 "specials.v2.statuseffect.minor.burn.single.enemies.contagious","Målet rammes af {DAMAGE} brandskade i løbet af {TURNS} runder. Effekten spreder sig til fjender i nærheden."
 "specials.v2.statuseffect.minor.burn.single.enemies.contagious.absorb_healing.to.single.chain_strike","Ramte fjender får {DAMAGE} ildskade i {TURNS} runder. Denne effekt spredes til fjender i nærheden. Kasteren absorberer {ABSORBHEALING} % af den påførte ildskade som boostet helbred."
 "specials.v2.statuseffect.minor.burn.singleandgreen.enemies","Målet og alle natur-helte får {DAMAGE} brandskade i løbet af {TURNS} runder."
@@ -2085,16 +2225,26 @@ Mens målet er påvirket af astralkuglen, kan ejeren ikke få nye statuseffektfs
 "specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies.dispelincreasesactivations","Alle allierede er immune over for skade fra statuslidelser og negative kumulative effekter i {TURNS} runder. Denne effekt er stædig."
 "specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","Kasteren og alle allierede i nærheden er immune over for skade fra statuslidelser og negative kumulative effekter i {TURNS} runder."
 "specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","Målet tager {MULTIPLIER} % mere skade fra statuslidelser og negative kumulative effekter i {TURNS} runder."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies.chain_strike","Alle ramte mål modtager {MULTIPLIER} % forøget skade fra statuslidelser og negative kumulative effekter i {TURNS} runder."
 "specials.v2.statuseffect.minor.debuffshield.all.allies","Alle allierede er immune over for nye statuslidelser i {TURNS} omgang."
 "specials.v2.statuseffect.minor.debuffshield.all.allies.heal","Alle allierede er immune over for nye statuslidelser i {TURNS} runder og gendanner {POWER} helbred for hvert statuslidelse-forsøg."
 "specials.v2.statuseffect.minor.debuffshield.all.allies.healthboost","Alle allierede er immune over for nye statuslidelser i {TURNS} runder og får {POWER} boostet helbred for hvert statuslidelse-forsøg."
 "specials.v2.statuseffect.minor.debuffshield.all.allies.turns.one","Alle allierede er immune over for nye statuslidelser i {TURNS} runde."
+"specials.v2.statuseffect.minor.debuffshield.all.allies.withactivationcount","Alle allierede er immune over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået."
+"specials.v2.statuseffect.minor.debuffshield.all.allies.withactivationcount.heal","Alle allierede er immune over for nye statuslidelser og gendanner {POWER} helbred for hvert statuslidelse-forsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået."
+"specials.v2.statuseffect.minor.debuffshield.all.allies.withactivationcount.healthboost","Alle allierede er immune over for nye statuslidelser og får {POWER} boostet helbred for hvert statuslidelse-forsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået."
+"specials.v2.statuseffect.minor.debuffshield.all.allies.withactivationcount.one","Alle allierede er immune over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelse er blevet modstået."
+"specials.v2.statuseffect.minor.debuffshield.all.allies.withactivationcount.one.heal","Alle allierede er immune over for nye statuslidelser og gendanner {POWER} helbred for hvert statuslidelse-forsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelse er blevet modstået."
 "specials.v2.statuseffect.minor.debuffshield.neartotarget.allies","Kasteren og allierede i nærheden er immune over for nye statuslidelser i {TURNS} runder."
 "specials.v2.statuseffect.minor.debuffshield.neartotarget.allies.heal","Kasteren og allierede i nærheden er immune over for nye statuslidelser i {TURNS} runder og gendanner {POWER} helbred for hvert statuslidelse-forsøg."
+"specials.v2.statuseffect.minor.debuffshield.neartotarget.allies.withactivationcount","Kasteren og allierede i nærheden er immune over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået."
+"specials.v2.statuseffect.minor.debuffshield.neartotarget.allies.withactivationcount.heal","Kasteren og allierede i nærheden er immune over for nye statuslidelser og gendanner {POWER} helbred for hvert statuslidelse-forsøg. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået."
 "specials.v2.statuseffect.minor.debuffshield.single.allies","Kasteren er immun over for nye statuslidelser i {TURNS} omgang."
+"specials.v2.statuseffect.minor.debuffshield.single.allies.withactivationcount","Kasteren er immun over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modstået."
 "specials.v2.statuseffect.minor.defenderelementweakener.neartotarget.enemies","Målet og fjender i nærheden bliver svage mod det element, de er stærke imod, i {TURNS} runder. De forbliver svage mod det element, de normalt er svage imod."
 "specials.v2.statuseffect.minor.defenderelementweakener.single.enemies","Målet bliver svagt mod det element, de er stærke imod, i {TURNS} runder. De forbliver svage mod det element, de normalt er svage imod."
 "specials.v2.statuseffect.minor.defensebuffimmunity.all.enemies","Alle fjender er immune over for nye statuseffekt-buffere, der påvirker forsvaret, i {TURNS} runder."
+"specials.v2.statuseffect.minor.defensebuffimmunity.all.enemies.withactivationcount","Alle fjender er immune over for nye statuseffektbuffere, der påvirker forsvar. Denne effekt varer indtil {MAXACTIVATIONCOUNT} forsvarsbuffere er blevet modstået."
 "specials.v2.statuseffect.minor.defensedebuffprotection.all.allies","Alle allierede får beskyttelse mod påvirkning af forsvarsstatus i {TURNS} runder. Nye statuslidelser og negative kumulativer, der påvirker forsvar, bliver erstattet af {DEFENSE} % forsvar i {REPLACINGEFFECTTURNS} runder."
 "specials.v2.statuseffect.minor.defensemodifier.all.allies","Alle allierede får {DEFENSE} % forsvar i {TURNS} runder."
 "specials.v2.statuseffect.minor.defensemodifier.all.allies.noturns","Alle allierede får vedvarende {DEFENSE} % forsvar."
@@ -2197,6 +2347,8 @@ Altopslugende snask: Fjerner alle buffere, der kan ophæves, og væksteffekter s
 "specials.v2.statuseffect.minor.effectondodgedspecial.all.allies.addmana.turns.one","Alle allierede får {DODGE} % chance for at undvige særlige evner i {TURNS} runde. Hver undvigelse giver +{POWER} % mana."
 "specials.v2.statuseffect.minor.effectondodgedspecial.all.allies.damage","Alle allierede får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse gør {POWER} skade på angriberen."
 "specials.v2.statuseffect.minor.effectondodgedspecial.all.allies.healthboost","Alle allierede får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse booster helbred med {POWER}. Boostet helbred kan overstige maks. HP."
+"specials.v2.statuseffect.minor.effectondodgedspecial.allexceptcaster.allies.healthboost","Alle allierede, undtagen kasteren, får en {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse booster helbredet med {POWER}. Boostet helbred kan overstige maks. HP."
+"specials.v2.statuseffect.minor.effectondodgedspecial.neartotarget.allies.addmana","Kasteren og allierede i nærheden får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver +{POWER} % mana til den allierede."
 "specials.v2.statuseffect.minor.effectonspecialmiss.neartotarget.enemies.damage.random.allies","Målet og fjender i nærheden forvolder {FIXEDPOWER} skade mod en tilfældig allieret, hvis de misser den særlige egenskab i løbet af {TURNS} runder."
 "specials.v2.statuseffect.minor.effectonstatuseffectaddition.neartotarget.enemies.damage.on.statuseffectbuffs","Målet og fjender i nærheden tager {FIXEDPOWER} skade for hver modtaget buffer i {TURNS} runder."
 "specials.v2.statuseffect.minor.effectonstatuseffectaddition.neartotarget.enemies.damage.on.statuseffectdebuffs","Målet og fjender i nærheden tager {FIXEDPOWER} skade for hver modtaget statuslidelse i {TURNS} runder."
@@ -2219,17 +2371,13 @@ Altopslugende snask: Fjerner alle buffere, der kan ophæves, og væksteffekter s
 "specials.v2.statuseffect.minor.elementswap.single.allies.maintargetelement","Ændrer elementet for kasteren til målets element i {TURNS} runder."
 "specials.v2.statuseffect.minor.elementswap.single.allies.strongagainstelement","Ændrer elementet for kasteren til det element, de er stærke imod, i {TURNS} runder."
 "specials.v2.statuseffect.minor.elementswap.single.enemies.red","Målets element bliver ændret til ild i {TURNS} runder."
-"specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","I {TURNS} runder bliver elementet for alle allierede, undtagen kasteren, ændret i hver runde. I de første {TURNSLESS} runder er elementet tilfældigt.
-I den sidste runde vender de allierede tilbage til deres originale element."
-"specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","I {TURNS} runder bliver alle fjenders elementer ændret i hver runde. I de første {TURNSLESS} runder er elementet tilfældigt.
-I den sidste runde får fjenderne deres oprindelige element igen.
-Efter hvert elementskift får fjender {DAMAGEPERTURN} skade, hvis deres element er natur."
-"specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","I {TURNS} runder bliver alle fjenders elementer ændret i hver runde. I de første {TURNSLESS} runder er elementet tilfældigt.
-I den sidste runde får fjenderne deres oprindelige element igen.
-Efter hvert elementskift får fjender {DAMAGEPERTURN} skade, hvis deres element er hellig."
+"specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","I {TURNS} runder bliver alle allierede, undtagen kasteren, ramt af elementær flux. Deres element skifter tilfældigt for hver runde."
+"specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","I {TURNS} runder bliver alle fjender ramt af elementær flux. Deres element skifter tilfældigt for hver runde og gør {DAMAGEPERTURN} skade, når deres element skifter til natur."
+"specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","I {TURNS} runder bliver alle fjender ramt af elementær flux. Deres element skifter tilfældigt for hver runde og gør {DAMAGEPERTURN} skade, når deres element skifter til hellig."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Kasteren får {ATTACK} % angreb og yderligere {CHANGE} % forøgelse, hver gang denne eller dennes allierede rammes i {TURNS} runder, op til {MAXMODIFIER} % angreb. Når effekten slutter, tager alle fjender {DAMAGE} skade. Hver træffer på kasteren eller dennes allierede, mens effekten er aktiv, forøger skaden med {ADDITIONALDAMAGEPERHIT}, og op til {MAXDAMAGE} skade."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Alle allieredes normale og særlige evner angreb forvolder {DAMAGEMULTIPLIER} % skade på mål med forstærket helbred i {TURNS} runder."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Alle fjender bukker under for frygt i {TURNS} runder."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.neartotarget.enemies.on.allyspecial.damage.random.allies","Målet og fjender i nærheden bukker under for frygt i {TURNS} runder."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies","Målet bliver slået med frygt i {TURNS} runder."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies.chain_strike.only_main_target","Målet bliver slået med frygt i {TURNS} runder."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.allies","Alle allierede får {ATTACK} angreb i {TURNS} runder."
@@ -2261,6 +2409,7 @@ Efter hvert elementskift får fjender {DAMAGEPERTURN} skade, hvis deres element 
 "specials.v2.statuseffect.minor.fixedhealthrecovery.healthboost.moreorequaltohalfhpleft.allies","Alle allierede, der har mindst 50 % HP tilbage, gendanner {TOTAL} boostet helbred i løbet af {TURNS} runder. Boostet helbred kan overstige maks. HP."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.healthboost.neartotarget.allies","Kasteren og allierede i nærheden gendanner {TOTAL} boostet helbred i løbet af {TURNS} runder. Boostet helbred kan overstige maks. HP."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.healthboost.single.allies","Kasteren gendanner {TOTAL} boostet helbred i løbet af {TURNS} runder. Boostet helbred kan overstige maks. HP."
+"specials.v2.statuseffect.minor.fixedhealthrecovery.healthboost.single.allies.conditional.allies","Den allierede gendanner {TOTAL} boostet helbred i løbet af {TURNS} runder. Boostet helbred kan overskride maks. HP."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.healthboost.single.allies.noturns","Alle allierede får vedvarende {HPPERTURN} øget helbredsregenerering per runde. Øget helbred kan overgå maks. HP."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.neartotarget.allies","Kasteren og allierede i nærheden regenererer {TOTAL} HP i {TURNS} runder."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.neartotarget.allies.resetondirectspecialdamage","Kasteren og allierede i nærheden genvinder {TOTAL} HP i løbet af {TURNS} runder. Effektens varighed nulstilles, hvis statuseffektens ejer rammes af direkte skade fra en særlig evne."
@@ -2315,6 +2464,7 @@ Hver mønt giver {POWER1} % skade."
  Pigfælder giver målet {DEFENSE} % forsvar mod natur. Mod is-titaner giver pigfælden sit mål {AMPLIFIEDDEFENSE} % forsvar mod natur.
  Pigfælder eksploderer i {TURNS} runder og forvolder {DAMAGE} skade på deres ejer."
 "specials.v2.statuseffect.minor.healingdebuffimmunity.all.allies.removeresistedeffectsoncreation","Alle allierede er immune overfor nye statuslidelser, der påvirker helbredelse i {TURNS} ture. Fjerner statuslidelser, der påvirker helbredelse fra alle allierede."
+"specials.v2.statuseffect.minor.healingdebuffimmunity.all.allies.withactivationcount.removeresistedeffectsoncreation","Alle allierede er immune over for nye statuslidelser, der påvirker helbredelse. Denne effekt varer indtil {MAXACTIVATIONCOUNT} helbredelseslidelser er blevet modstået. Fjerner statuslidelser, der påvirker helbredelse fra alle allierede."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies","Alle allierede får {HEALING} % forøgelse af enhver modtaget helbredelse i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies.decrease","Alle allierede får {HEALING} % forringelse af enhver modtaget helbredelse i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.all.enemies","Alle fjender får {HEALING} % forøgelse af enhver helbredelse modtaget i {TURNS} runder."
@@ -2336,6 +2486,7 @@ Hver mønt giver {POWER1} % skade."
 "specials.v2.statuseffect.minor.healsteal.all.enemies","Kasteren stjæler {HEALING} % af alt helbredelse, som fjenderne har fået, i {TURNS} runder."
 "specials.v2.statuseffect.minor.healsteal.neartotarget.enemies","Kasteren stjæler {HEALING} % af alt helbredelse, som målet og fjender i nærheden har fået i {TURNS} runder."
 "specials.v2.statuseffect.minor.healsteal.single.enemies","Kasteren stjæler {HEALING} % af alt helbredelse, som målet har fået i {TURNS} runder."
+"specials.v2.statuseffect.minor.healsteal.single.enemies.chain_strike","Kasteren stjæler {HEALING} % af al helbredelse, der påføres alle ramte fjender, i {TURNS} runder."
 "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies","Forstærker allieredes helbred med {REMOVALEFFECT1FIXEDPOWER} efter {TURNS} runder eller med det samme, hvis effekten fjernes, før varigheden slutter. Forstærket helbred kan overstige maks. HP."
 "specials.v2.statuseffect.minor.healthboostonremoval.allexceptcaster.allies.single.allies.expiration.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Alle allierede undtagen kasteren gendanner {REMOVALEFFECT1FIXEDPOWER} boostet helbred efter {TURNS} runder. Hvis effekten fjernes eller erstattes, før varigheden slutter, gendannes {REMOVALEFFECT2FIXEDPOWER} boostet helbred i stedet."
 "specials.v2.statuseffect.minor.healthboostonremoval.single.allies.onremoval.healthboost.all.allies.expiration","Efter {TURNS} runder booster kasteren alle allieredes helbred med {HEALTHBOOST}. Boostet helbred kan overstige maks. HP."
@@ -2421,6 +2572,7 @@ Hver mønt giver {POWER1} % skade."
 "specials.v2.statuseffect.minor.manaonremoval.single.allies.all.allies.death","Hvis kasteren besejres i løbet af de næste {TURNS} runder, får alle allierede {MANA} % mana."
 "specials.v2.statuseffect.minor.manaonremoval.single.allies.all.enemies.death","Hvis kasteren besejres i løbet af de næste {TURNS} runder, reduceres manaen for alle fjender med {MANA} %."
 "specials.v2.statuseffect.minor.manaonremoval.single.allies.all.enemies.death.decrease","Hvis kasteren besejres i løbet af de næste {TURNS} runder, reduceres manaen for alle fjender med {MANA} %."
+"specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.allies.death.decrease","Hvis målet besejres i løbet af de næste {TURNS} runder, reduceres manaen for alle fjender med {MANA} %."
 "specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.enemies.death","Hvis målet besejres i løbet af de næste {TURNS} runder, får alle kasterens allierede {MANA} % mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.allies.onremoval.addmana.single.allies","Alle allierede får {MANAREGEN} % managendannelse i {TURNS} runder. Hvis effekten fjernes, inden varigheden slutter, får den allierede med effekten {MANA} % mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.enemies.onremoval.addmana.single.allies.decrease","Alle fjender får {MANAREGEN} % managendannelse i {TURNS} runder. Hvis effekten fjernes, inden varigheden slutter, får målet med effekten reduceret sin mana med {MANA} %."
@@ -2432,6 +2584,7 @@ Hver mønt giver {POWER1} % skade."
 "specials.v2.statuseffect.minor.manaovertime.moderate.single.allies","Kasteren modtager en moderat mængde mana i løbet af {TURNS} runder."
 "specials.v2.statuseffect.minor.manaovertime.neartotarget.allies","I de næste {TURNS} runder modtager kasteren og alle allierede i nærheden {MANAMODIFIERPERTURN} % mana i slutningen af runden."
 "specials.v2.statuseffect.minor.manaovertime.neartotarget.enemies.decrease","I {TURNS} runder reduceres mana med {MANAMODIFIERPERTURN} % for målet og fjender i nærheden i rundens afslutning."
+"specials.v2.statuseffect.minor.manaovertime.single.allies.conditional.allies","I de næste {TURNS} runder modtager den allierede {MANAMODIFIERPERTURN} % mana i slutningen af runden."
 "specials.v2.statuseffect.minor.manaovertime.single.enemies.decrease","I {TURNS} runder reduceres målets mana med {MANAMODIFIERPERTURN} % i rundens afslutning."
 "specials.v2.statuseffect.minor.manaovertime.small.all.allies","Alle allierede modtager en lille mængde mana i løbet af {TURNS} runder."
 "specials.v2.statuseffect.minor.manaovertime.small.neartotarget.allies","Kasteren og allierede i nærheden modtager en lille mængde mana i løbet af {TURNS} runder."
@@ -2546,7 +2699,7 @@ Hver gennemborende shuriken forvolder {POWER1} % skade."
 "specials.v2.statuseffect.minor.proportionalmanatoattackeroncounterattack.decrement.single.allies","Kasteren reducerer {PROPORTIONALMANA} % mana fra angriberen ved hvert modangreb i {TURNS} runder. Effekten aftager for efterfølgende aktiveringer i samme runde."
 "specials.v2.statuseffect.minor.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies","Alle fjender bliver provokerede i {TURNS} runder. De provokerede figurer giver {POWER1} % skade til en tilfældig modstander, når runden slutter."
 "specials.v2.statuseffect.minor.pumpkinbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Målet får en græskarbombe. Græskarbomben eksploderer efter {TURNS} runder og påfører {DAMAGE} skade mod målet og fjender i nærheden. Græskarbomben eksploderer også, når målet besejres."
-"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","Målet får en [#!]ubehagelig bombe[#]. [#!]Den ubehagelige bombe[#] eksploderer efter [#!]{TURNS}[#] runder og gør [#!]{FIXEDPOWER}[#] skade på målet og allierede i nærheden."
+"specials.v2.statuseffect.minor.pungentbomb.single.enemies.onremoval.damage.neartotarget.allies.dispel.expiration.death.replacesamestatuseffect","Målet får en ubehagelig bombe. Den ubehagelige bombe eksploderer efter {TURNS} runder og gør {FIXEDPOWER} skade på målet og allierede i nærheden."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.allies","Alle allierede får {DEFENSE} % forsvar mod mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Alle fjender får {DEFENSE} % forsvar mod mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","Kasteren og allierede i nærheden får {DEFENSE} % forsvar mod mørke i {TURNS} runder."
@@ -2555,12 +2708,16 @@ Hver gennemborende shuriken forvolder {POWER1} % skade."
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.allies","Kasteren får {DEFENSE} % forsvar mod mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.enemies.chain_strike","Alle ramte mål får {DEFENSE} % forsvar mod mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.yellow.enemies","Alle hellige fjender får {DEFENSE} % forsvar mod mørke i {TURNS} runder."
+"specials.v2.statuseffect.minor.purpletrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_yellow.against_titan.modifies_power","Ramte fjender bliver påvirket af pigfælder.
+ Pigfælder giver målet {DEFENSE} % forsvar mod mørke. Mod hellige titaner giver pigfælden sit mål {AMPLIFIEDDEFENSE} % forsvar mod mørke.
+ Pigfælder eksploderer i {TURNS} runder og gør {DAMAGE} skade på deres ejer."
 "specials.v2.statuseffect.minor.reallocatestatuseffectsperturn.single.allies.enemies.minorbuff.newest","Stjæler i slutningen af hver runde den seneste ophævelige buffer fra alle fjender og fordeler dem tilfældigt blandt allierede i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.all.allies.decrease","Alle allierede reducerer alt modtaget skade med {DAMAGEREDUCTION} % i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.all.allies.decrease.all.enemies","Alle allierede reducerer alt modtaget skade med {DAMAGEREDUCTION} % i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.all.enemies","Al skade, som fjender får, øges med {DAMAGEREDUCTION} % i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.neartotarget.allies.decrease","Kasteren og allierede i nærheden reducerer alt modtaget skade med {DAMAGEREDUCTION} % i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.neartotarget.enemies","Al skade, som målet og fjender i nærheden får, øges med {DAMAGEREDUCTION} % i {TURNS} runder."
+"specials.v2.statuseffect.minor.receiveddamagemodifier.neartotarget.enemies.dispelincreasesactivations","Al skade, som målet og fjender i nærheden får, øges med {DAMAGEREDUCTION} % i {TURNS} runder. Denne effekt er stædig."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.sides.enemies","Al skade, som fjender i udkanten af fjendens formation får, øges med {DAMAGEREDUCTION} % i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.single.allies.decrease","Kasteren reducerer al modtaget skade med {DAMAGEREDUCTION} % i {TURNS} runder."
 "specials.v2.statuseffect.minor.receiveddamagemodifier.single.allies.decrease.chain_strike","Alle helbredte allierede får {DAMAGEMODIFIER} % reduceret skade i {TURNS} runder."
@@ -2659,14 +2816,15 @@ Modstandsdygtig forrådnelse
 {DEFENSE} forsvar.
 Særlig evne: Evig loyalitet."
 "specials.v2.statuseffect.minor.revive.resurrect.all.allies","Hvis en allieret besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
-"specials.v2.statuseffect.minor.revive.resurrect.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
+"specials.v2.statuseffect.minor.revive.resurrect.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når kasteren besejres."
 "specials.v2.statuseffect.minor.revive.resurrectless.neartotargetexceptcaster.allies","Hvis en allieret ved siden af kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
-"specials.v2.statuseffect.minor.revive.resurrectless.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
+"specials.v2.statuseffect.minor.revive.resurrectless.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når kasteren besejres."
 "specials.v2.statuseffect.minor.revive.resurrectlessless.all.allies","Hvis en allieret besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
 "specials.v2.statuseffect.minor.revive.resurrectmore.all.allies","Hvis en allieret besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
-"specials.v2.statuseffect.minor.revive.resurrectmore.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
-"specials.v2.statuseffect.minor.revive.resurrectnadezhdacostume.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
-"specials.v2.statuseffect.minor.revive.reviveatomoscostume.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når den allierede besejres."
+"specials.v2.statuseffect.minor.revive.resurrectmore.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når kasteren besejres."
+"specials.v2.statuseffect.minor.revive.resurrectnadezhdacostume.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når kasteren besejres."
+"specials.v2.statuseffect.minor.revive.resurrecttyrcute.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når kasteren besejres."
+"specials.v2.statuseffect.minor.revive.reviveatomoscostume.single.allies","Hvis kasteren besejres i løbet af de næste {TURNS} runder, bliver de genoplivet i starten af deres næste runde med {HEALTH} % helbred. Alle statuseffekter og kumulative værdier fjernes, når kasteren besejres."
 "specials.v2.statuseffect.minor.revive.reviveslimeminor.all.allies","Alle allierede får slimgenoplivelse i {TURNS} runder.
 Hvis figuren besejres, mens slimgenoplivelsen er aktiv, bliver den genfødt som slim.
 
@@ -2720,8 +2878,8 @@ Efter genoplivelsen får alle fjender {STATUSEFFECT1ACCURACY} % præcision i {S
  Målet og fjender i nærheden bliver sjæleforbundet i {TURNS} runder. Sjæleforbundne fjender deler modtaget skade."
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.enemies","Målet og fjender i nærheden bliver sjæleforbundet i {TURNS} ture. Sjæleforbundne fjender deler modtaget skade."
 "specials.v2.statuseffect.minor.specialdamageabsorb.all.allies","Alle allierede helbredes med {LIFESTEAL} % den skade, der forvoldes af deres særlige egenskab, i {TURNS} runder."
-"specials.v2.statuseffect.minor.specialdamagepowermodifier.all.allies","Alle allieredes særlige evner forvolder ekstra {POWER} % skade i {TURNS} runder."
-"specials.v2.statuseffect.minor.specialdamagepowermodifier.allexceptcaster.allies","Alle allieredes, undtagen kasterens, særlige evner forvolder ekstra {POWER} % skade i {TURNS} runder."
+"specials.v2.statuseffect.minor.specialdamagepowermodifier.all.allies","Alle allieredes særlige evner gør yderligere {POWER} % skade i {TURNS} runder."
+"specials.v2.statuseffect.minor.specialdamagepowermodifier.allexceptcaster.allies","Alle allieredes særlige evner, undtagen kasterens, gør yderligere {POWER} % skade i {TURNS} runder."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.green.allies","Alle natur-helte får {POWER} % ekstra styrke til særlige egenskabs-angreb i {TURNS} runder."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies","Kasterens og alle allierede i nærhedens særlige evner forvolder {POWER} % ekstra skade i {TURNS} runder."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.neartotarget.allies.on.enemyspecialhit.damage.single.enemies","Hver gang kasteren og allierede i nærheden tager skade fra en fjendes særlige egenskab i de næste {TURNS} ture, påfører de angriberen {FIXEDPOWER} skade."
@@ -2885,6 +3043,7 @@ Hver undvigelse giver alle allierede {MANAREGEN} % managendannelse i {TURNS} ru
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.all.allies.stacking_defense","Alle allierede får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {DEFENSE} % forsvar kumulativ (maks.: {MAXSTACK}):."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.all.allies.stacking_defense_bastet_costume","Alle allierede får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {DEFENSE} % forsvar kumulativ (maks.: {MAXSTACK}):."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia","Alle allierede bortset fra kasteren får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {ATTACK} % angreb kumulativ (maks.: {MAXSTACK}):."
+"specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia_mayhem","Alle allierede bortset fra kasteren får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {ATTACK} % angreb kumulativ (maks.: {MAXSTACK}):."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.neartotarget.allies.stacking_defense","Kasteren og allierede i nærheden får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {DEFENSE} % forsvar kumulativ (maks.: {MAXSTACK}):."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.neartotarget.allies.stacking_defense_aqeela_costume","Kasteren og allierede i nærheden får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {DEFENSE} % forsvar kumulativ (maks.: {MAXSTACK}):."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.single.allies.stacking_defense","Kasteren får {DODGE} % chance for at undvige særlige evner i {TURNS} runder. Hver undvigelse giver {DEFENSE} % forsvar kumulativ (maks.: {MAXSTACK}):."
@@ -2897,6 +3056,7 @@ Hver undvigelse giver alle allierede {MANAREGEN} % managendannelse i {TURNS} ru
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume_cute","Alle allierede får {DODGE} % chance for at undgå særlige evner i {TURNS} runder. Hver undvigelse hidkalder en Sakura Fox-håndlanger."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_blue_titan","Alle allierede får {ATTACK} % angreb i {TURNS} runder. Mod is-titaner får alle allierede {ATTACKAGAINSTVALIDTARGET} % angreb."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_green_titan","Alle allierede får {ATTACK} % angreb i {TURNS} runder. Mod natur-titaner får alle allierede {ATTACKAGAINSTVALIDTARGET} % angreb."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_purple_titan","Alle allierede får {ATTACK} % angreb i {TURNS} runder. Mod mørke-titaner får alle allierede {ATTACKAGAINSTVALIDTARGET} % angreb."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Alle allierede får {ATTACK} % angreb i {TURNS} ture. Mod ild-titaner får alle allierede {ATTACKAGAINSTVALIDTARGET} % angreb."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Alle allierede får {ATTACK} % angreb i {TURNS} runder. Mod hellige titaner får alle allierede {ATTACKAGAINSTVALIDTARGET} % angreb."
 "specials.v2.statuseffect.minor.taunt.single.allies","Kasteren får hån, der forhindrer fjender fra at bruge særlig evneer på kasterens allierede i {TURNS} runder."
@@ -2926,13 +3086,20 @@ Hver undvigelse giver alle allierede {MANAREGEN} % managendannelse i {TURNS} ru
  Hvis magmakuben fjenes, får ejeren {STATUSEFFECT1MANAREGEN} % managendannelse i {REMOVALEFFECT2STATUSEFFECT1TURNS} runder."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Alle fjender tager {BASEDAMAGE} vandskade og yderligere {DAMAGEPERTILE} i skade for hvert is-skjold på brættet i {TURNS} runder, op til {MAXDAMAGE} skade. Denne effekt kan ikke ophæves på ild-fjender."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","Kasteren får hævn i {TURNS} runder. Hvis hævn ophæves af en særlige egenskab, tager alle fjender {DAMAGE} skade."
+"specials.v2.statuseffect.minor.vengefulghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies.customremovalcount.dispelincreasesactivations","Denne kaster tager form som det hævngerrige spøgelse i {TURNS} runder. I slutningen af hver runde gør det hævngerrige spøgelse {POWER} % skade på en tilfældig fjende, og det ophæver {REMOVALCOUNT} af vedkommendes buffere. Denne effekt er stædig."
+"specials.v2.statuseffect.minor.vengefulghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.remove_minorbuff.from_random.enemies.dispelincreasesactivations","Kasteren tager form som det hævngerrige spøgelse i {TURNS} runder. I slutningen af hver runde gør det hævngerrige spøgelse {POWER} % skade på en tilfældig fjende, og det ophæver buffere fra vedkommende. Denne effekt er stædig."
 "specials.v2.statuseffect.minor.vermistransformhero.single.enemies.noturns.worm_appearance","Målet bliver til en Sindsorm. Sindsorme har {ATTACK} % angreb, {DEFENSE} % forsvar og følgende særlige evne:
 
 {REPLACEDSPECIALTITLE} ({REPLACEDMANASPEED})
 Giver 75 vanvid til en tilfældig allieret.
 Fjerner Sindsormens lidelse fra kasteren."
+"specials.v2.statuseffect.minor.wildbleed.all.enemies","Vild: I {TURNS} runder får alle fjender {DAMAGEPERTURN} eller {WILDDAMAGEPERTURN} blodskade i hver runde."
+"specials.v2.statuseffect.minor.wildbleed.neartotarget.enemies","Vild: I {TURNS} runder får målet og fjender i nærheden {DAMAGEPERTURN} eller {WILDDAMAGEPERTURN} blodskade i hver runde."
+"specials.v2.statuseffect.minor.wildbleed.single.enemies","Vild: I {TURNS} runder får målet {DAMAGEPERTURN} eller {WILDDAMAGEPERTURN} blodskade i hver runde."
 "specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Vild: I {TURNS} runder får målet og fjender i nærheden {DAMAGEPERTURN} eller {WILDDAMAGEPERTURN} brandskade hver runde."
 "specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Vild: I {TURNS} runder regenererer alle allierede enten {HPPERTURN} HP eller får {WILDHPPERTURN} boostet helbred i hver runde."
+"specials.v2.statuseffect.minor.wildhealthrecovery.neartotarget.allies","Vild: I {TURNS} runder regenererer kasteren og allierede i nærheden enten {HPPERTURN} HP eller modtager {WILDHPPERTURN} boostet helbred i hver runde."
+"specials.v2.statuseffect.minor.wildhealthrecovery.single.allies","Vild: I {TURNS} runder regenererer kasteren enten {HPPERTURN} HP eller modtager {WILDHPPERTURN} boostet helbred i hver runde."
 "specials.v2.statuseffect.minor.wind.all.enemies.alldefensivebuffs.minion.bigminion.follower","Alle fjender modtager {DAMAGE} vindskade i {TURNS} runder. Skaden ignorerer forsvarsbuffere, håndlangere og kæmpehåndlangere."
 "specials.v2.statuseffect.minor.wind.neartotarget.enemies.alldefensivebuffs.minion.bigminion.follower","Målet og fjender i nærheden modtager {DAMAGE} vindskade i {TURNS} runder. Skaden ignorerer forsvarsbuffere, håndlangere og kæmpehåndlangere."
 "specials.v2.statuseffect.minor.wind.single.enemies.alldefensivebuffs.minion.bigminion.follower.chain_strike","Alle ramte mål modtager {DAMAGE} vindskade i {TURNS} runder. Skaden ignorerer forsvarsbuffere, håndlangere og kæmpehåndlangere."

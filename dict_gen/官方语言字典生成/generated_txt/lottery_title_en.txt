@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Costume Summon"
 "lottery.title.covenantsummon","Covenant Summon"
 "lottery.title.dailysummon","Daily Summon"
+"lottery.title.deluxe.ascensionsummon","Deluxe"
+"lottery.title.deluxeascensionsummon","Deluxe Instant Power"
 "lottery.title.elementaldragonsummon","Elemental Dragon Summon"
 "lottery.title.elementalherosummon","Elemental Summon"
 "lottery.title.epicdragonsummon","Legendary Dragon Summon"

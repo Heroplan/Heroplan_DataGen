@@ -31,7 +31,11 @@ Forhindrer også statuslidelser og negative stabler fra å skade andre allierte 
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Påfører {DAMAGEPERTURN} skade mot alle fiendtlige undersåtter og megaundersåtter ved starten av hver runde."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Påfører {DAMAGEPERTURN} skade mot alle fiendtlige undersåtter og megaundersåtter ved starten av hver runde."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","All skade påført fiende av vanlige angrep og spesialangrep, økes med {DAMAGEINCREASEPERSTEP} % per {INSANITYPERSTEP} galskap på denne figuren, opptil {MAXDAMAGEINCREASE} %. Inkluderer ikke skade påført seg selv eller allierte ved å aktivere galskap."
-"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Når den tilknyttede helten blir truffet av en spesialferdighet, fjernes den fjernbare økningen med den korteste gjenværende varigheten for å redusere den innkommende skaden med {DAMAGEREDUCTION} %. Hvis den tilknyttede helten har {INCREASEDDAMAGEREDUCTIONTHRESHOLD} % helse eller mindre, reduseres skaden med {INCREASEDDAMAGEREDUCTION} % i stedet."
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Troppegenskap
+
+ Når helten blir truffet av en spesialferdighet, og hvis de har noen fjernbare økninger, forbrukes én av dem for å redusere innkommende skade med {DAMAGEREDUCTION} %.
+
+ Hvis helten har flere fjernbare økninger, forbrukes den med kortest varighet. Sta effekter kan ikke forbrukes."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","All skade fra vanlige angrep og spesialferdigheter påført av denne figuren økes med {MODIFIER} % per blodlilje-stabel på målet."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Hvis noen allierte danser, gjør denne figurens spesialferdighet {MODIFIERCHANGE} % mer skade."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","Denne figurens spesialferdighet, megaundersåtter og undersåtter påfører økt skade mot fiender med lidelser som påfører vannskade.
@@ -61,6 +65,8 @@ Hver av disse effektene kan aktiveres én gang per runde."
   Maksimalt {MAXMANAGAINPERTURN} % mana per tur."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","Når denne figuren tar skade fra spesialferdigheter eller i stedet for en figur når dekke, er det en {CHANCE} % sjanse for å påføre {POWER} % av den tatte skaden til alle fiender."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","Når denne figuren tar skade fra spesialferdigheter eller i stedet for en figur når dekke, er det en {CHANCE} % sjanse for å påføre {POWER} % av den tatte skaden til alle fiender. (Maks. skade: {RARITYLIMITEDDAMAGE})"
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies","Når denne figuren tar skade i stedet for en figur i dekke, påfører de {POWER} % av den tatte skaden på alle fiender."
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies.rarity_limit_damage","Når denne figuren tar skade i stedet for en figur i dekke, påfører de {POWER} % av den tatte skaden på alle fiender. (Maksimal skade: {RARITYLIMITEDDAMAGE})"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","Når denne figuren tar skade fra spesialferdigheter, får de {STATUSEFFECT1ATTACK} % angrep Stabel (maksimalt: {STATUSEFFECT1MAXSTACK}). Én stabel kan fås per tur."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","Når denne figuren tar skade fra spesialferdigheter, får den {STATUSEFFECT1ATTACK} % angrep Stabel (maksimalt: {STATUSEFFECT1MAXSTACK}). Én stabel kan fås per tur."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","Når denne figuren tar skade fra spesialferdigheter, får den {STATUSEFFECT1ATTACK} % angrep Stabel (maksimalt: {STATUSEFFECT1MAXSTACK}). Én stabel kan fås per tur."
@@ -72,7 +78,7 @@ Hver av disse effektene kan aktiveres én gang per runde."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Denne figuren får {POWER} % helse hver gang en statuslidelse utløper eller renses, fjernes eller flyttes fra dem. Denne effekten kan kun aktiveres én gang per runde."
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","Denne figuren har en {CHANCE} % sjanse til å få {POWER} % helse hver gang en statuslidelse utløper eller renses, fjernes eller flyttes fra dem. Denne effekten kan kun aktiveres én gang per runde."
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","Denne figuren mottar {POWER} økt helse hver gang en økning fjernes fra denne figuren. Denne effekten kan kun aktiveres én gang per runde."
-"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","Denne figuren mottar {POWER}  økt helse hver gang en økning fjernes fra den. Denne effekten kan kun aktiveres én gang per runde. Den aktiveres også ved forsøk på fjerning."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel.activates_on_dispel_cast","Denne figuren mottar {POWER} økt helse hver gang en økning fjernes fra den. Denne effekten kan kun aktiveres én gang per runde. Den aktiveres også ved forsøk på fjerning."
 "herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","Hvert treff fra undersåttene eid av figuren påfører {DAMAGE} frostskade i {TURNS} runder"
 "herocard.passive_skill.description.effectonheal.addmana","Denne figuren får {POWER} % mana hver gang dens får tilbake helse."
 "herocard.passive_skill.description.effectonheal.heal","Denne figuren får {POWER} % helse hver gang den får tilbake helse."
@@ -97,7 +103,7 @@ Angriperen tar {STATUSEFFECT1DAMAGE} blødeskade i {TURNS} runder."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Når denne figuren får et kritisk treff med spesialferdigheten, renser figuren den siste rensbare statuslidelsen fra alle allierte."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Når denne figuren får et kritisk treff med spesialferdigheten sin, øker den helsen til alle sine allierte med {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Når denne figuren får et kritisk treff med spesialferdigheten sin, øker den helsen til alle sine allierte med {HEALTHBOOST} %."
-"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Når en annen alliert bruker en spesialferdighet, påfører denne figuren {POWER} % skade på en tilfeldig fiende. Den tilfeldige fienden får {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % forsvar i {DIRECTEFFECT1STATUSEFFECT1TURNS} runder."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Når en annen alliert bruker en spesialferdighet, påfører denne figuren {POWER} % skade på en tilfeldig fiende. Fienden får {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % forsvar i {DIRECTEFFECT1STATUSEFFECT1TURNS} runder."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Når en fiende bruker spesialferdigheten sin, har denne figuren {CHANCE} % sjanse til å booste denne figurens helse med {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Med en fullt ladet spesialferdighet har denne helten en {CHANCE} % sjanse til å gi {POWER} % mana til alle allierte. Hvis spesialferdigheten er fulladet, er sjansen {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Med en fullt ladet spesialferdighet har denne helten en {CHANCE} % sjanse til å gi {POWER} % mana til alle allierte som ikke er av iselement. Hvis spesialferdigheten er fulladet, er sjansen {CHANCEFULLYCHARGED} %."
@@ -132,20 +138,43 @@ Angriperen tar {STATUSEFFECT1DAMAGE} blødeskade i {TURNS} runder."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Når en djevel fremkalles til en fiende, får denne figuren {POWER} % mana. Denne effekten kan kun aktiveres én gang per tur."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Når en djevel fremkalles til en fiende, vil denne figuren påføre alle fiender {DAMAGE} % skade. Denne effekten kan kun aktiveres én gang per tur."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Når en djevel fremkalles til en fiende, får denne figuren {POWER} økt helse. Denne effekten kan kun aktiveres én gang per tur."
-"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Tropptilknytningsbonus:
- Sammenknyttet helts spesialferdighet kan påføre kritiske treff for +50 % mer skade.
- Sjanse for kritisk treff økes med {PASSIVESKILL2CRITICALMODIFIER} %."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Troppegenskap
+ Heltens spesialferdighet kan påføre kritiske treff.
+
+ Sjanse for kritisk treff økes med {PASSIVESKILL2CRITICALMODIFIER} %. Denne effekten kan være aktiv i tillegg til andre effekter som endrer sjansen for kritisk treff. 
+
+ Kritiske treff påfører +100 % mer skade fra vanlige angrep. 
+
+ Kritiske treff forårsaket av en spesialferdighet:
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+I PvP-modus reduseres målets maksimale helse. Denne effekten er sterkere mot økt helse.
+
+Spesialferdighet-effekter, som frostfallangrep, ildstormangrep og måneoppgangangrep, kan ikke påføre kritiske treff."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.with_universalmaxhealthreduction.criticalmodifiersupportcharacter.troop","Troppegenskap
+ Heltens spesialferdighet kan påføre kritiske treff.
+
+ Sjanse for kritisk treff økes med {PASSIVESKILL2CRITICALMODIFIER} %. Denne effekten kan være aktiv i tillegg til andre effekter som endrer sjansen for kritisk treff. 
+
+ Kritiske treff påfører +100 % mer skade fra vanlige angrep. 
+
+ Kritiske treff forårsaket av en spesialferdighet:
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+Kritiske treff reduserer målets maksimale helse. Denne effekten er sterkere mot økt helse.
+
+Spesialferdighet-effekter, som frostfallangrep, ildstormangrep og måneoppgangangrep, kan ikke påføre kritiske treff."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE} % sjanse til å utføre ekstra handlinger når denne figuren bruker spesialferdigheten sin:"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Alle fienders undersåtter har {MINIONMODIFIER} % treffsikkerhet.
 Alle fienders megaundersåtter har {MEGAMINIONMODIFIER} % treffsikkerhet."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Konstruktørkjernen til denne figuren er en [#!]undersåttkjerne[#].
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Konstruktørkjernen til denne figuren er en undersåttkjerne.
 
-[#!]Undersåttkjernen[#] aktiveres hver gang denne figurens [#!]spesialferdighet[#] brukes:
+Undersåttkjernen aktiveres hver gang denne figurens spesialferdighet brukes:
 
-[*] Med en fulladet [#!]undersåttkjerne[#] kan du fremkalle en [#!]drapsrobotundersått[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] HP og [#!]{FAMILIARATTACK} %[#] nedarvet angrep fra brukeren på alle allierte.
-[*] HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.
-[*]Drapsrobotundersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.
-[*][#!]Visne:[#] Hvert treff fra en drapsrobotundersått gir målet [#!]{ATTACKMODIFIER}[#] angrep."
+ Med en fulladet undersåttkjerne kan du fremkalle en drapsrobotundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % nedarvet angrep fra brukeren på alle allierte.
+ HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.
+Drapsrobotundersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.
+Visne: Hvert treff fra en drapsrobotundersått gir målet {ATTACKMODIFIER} angrep."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Konstruktørkjernen til denne figuren er en undersåttkjerne.
 
 Undersåttkjernen aktiveres hver gang denne figurens spesialferdighet brukes:
@@ -194,6 +223,7 @@ Undersåttkjernen aktiveres hver gang denne figurens spesialferdighet brukes:
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Reduserer økt mengde mana fra spesialferdigheter med {MODIFIER} %. Denne effekten påføres alle fiender i kampen."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Reduserer økt mengde mana fra spesialferdigheter, passive ferdigheter, familiebonuser og statuseffekter med {MODIFIER} %. Denne effekten påføres alle fiender i kampen."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Reduserer økt mengde mana fra spesialferdigheter, passive ferdigheter, familiebonuser og statuseffekter med {MODIFIER} %. Denne effekten påføres alle fiender i kampen."
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","{MODIFIER} % mana-generering."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","Denne figuren får en liten mengde mana når en undersått eid av den knuses."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Denne figuren har det naturlige talentet å huske alle undersåtter eller djevler fremkalt av fiendens spesialferdigheter. Den siste undersåtten eller djevelen som fienden fremkaller, vil forbli husket frem til spesialferdigheten brukes."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Denne figuren har det naturlige talentet å huske alle undersåtter eller djevler fremkalt av fiendens spesialferdigheter. De siste {0} undersåttene og djevlene som fienden fremkaller, vil forbli husket frem til spesialferdigheten brukes."
@@ -207,22 +237,37 @@ Undersåttkjernen aktiveres hver gang denne figurens spesialferdighet brukes:
  En undersått gjøres om til en uhyggelig djevel: {FAMILIAR1FAMILIARATTACK} % angrep, {FAMILIAR1FAMILIARHEALTHPERCENT} % helse, påfører {FAMILIAR1INSANITYTOADD} galskap hver runde.
  En megaundersått gjøres om til en uhyggelig megadjevel: {FAMILIAR2FAMILIARATTACK} % angrep, {FAMILIAR2FAMILIARHEALTHPERCENT} % helse, påfører {FAMILIAR2INSANITYTOADD} galskap hver runde."
 "herocard.passive_skill.description.nevermissspecial","Denne figurens spesialferdighet bommer aldri på målet sitt."
-"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Tropptilknytningsbonus:
- Direkte helbredelse gjort av spesialferdigheten til den tilknyttede heltens spesialferdighet økes med {PASSIVESKILL1HEALMULTIPLIER} %.
- Når den tilknyttede helten bruker en spesialferdighet, mottar alle allierte immunitet mot reduksjon av maksimal helse i {PASSIVESKILL2TURNS} runder."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Troppegenskap
+
+Direkte helbredelse fra denne heltens spesialferdighet økes med {PASSIVESKILL1HEALMULTIPLIER} %. Dette øker også økt helbredelse.
+
+ Når en spesialferdighet brukes, får alle allierte immunitet mot reduksjon av maksimal helse i {PASSIVESKILL2TURNS} runder. Dette forhindrer også reduksjon av maksimal helse forårsaket av kritiske treff i PvP-modus."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.with_universalmaxhealthreduction.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Troppegenskap
+
+Direkte helbredelse fra denne heltens spesialferdighet økes med {PASSIVESKILL1HEALMULTIPLIER} %. Dette øker også økt helbredelse.
+
+ Når en spesialferdighet brukes, får alle allierte immunitet mot reduksjon av maksimal helse i {PASSIVESKILL2TURNS} runder. Dette forhindrer også reduksjon av maksimal helse forårsaket av kritiske treff."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Fienders helse kan ikke øke over maksimal helse."
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","Ved starten av hver runde ransaker denne figuren en tilfeldig fiende:
+"herocard.passive_skill.description.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies.activates_on_specialcast","Når en annen alliert bruker en spesialferdighet, ransaker denne figuren fienden med flest økninger:
 
 Stjeler {DAMAGE} helse.
 Stjeler på en trygg måte en økning fra fienden. Dette inkluderer økninger som ikke kan fjernes, og danseeffekter."
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","Ved starten av hver runde har denne figuren en {CHANCE} % sjanse til å ransake en tilfeldig fiende:
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn","Ved starten av hver runde ransaker denne figuren en tilfeldig fiende:
+
+Stjeler {DAMAGE} helse.
+Stjeler på en trygg måte en økning fra fienden. Dette inkluderer økninger som ikke kan fjernes, og danseeffekter."
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn.chance","Ved starten av hver runde har denne figuren en {CHANCE} % sjanse til å ransake en tilfeldig fiende:
 
 Ransake:
 Stjeler {DAMAGE} helse.
 Stjeler på en trygg måte én tilfeldig veksteffekt, positiv stabel eller statuseffektøkning fra fienden. Dette inkluderer økninger som ikke kan fjernes, og danseeffekter.
 Trygg stjeling forbigår sekundære effekter, som skade ved fjerning, fra de fjernede økningene. Passive ferdigheter og familieeffekter kan fortsatt aktiveres."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Når denne figuren bruker spesialferdigheten sin, har hen en {CHANCE} % sjanse til å stjele den nyeste fjernbare økningen fra en tilfeldig fiende som har økninger. Hvis ingen fiende har økninger, påføres alle fiender {DAMAGE} % skade."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Når denne figuren bruker spesialferdigheten sin, har hen en {CHANCE} % sjanse til å stjele den nyeste fjernbare økningen fra en tilfeldig fiende som har økninger. Hvis ingen fiende har økninger, påføres alle fiender {DAMAGE} % skade."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Når denne figuren bruker spesialferdigheten sin, har hen en {CHANCE} % sjanse til å 
+stjele den nyeste fjernbare økningen fra en tilfeldig fiende som har økninger, eller 
+påføre alle fiender {DAMAGE} % skade hvis det ikke er noen økninger å stjele."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Når denne figuren bruker spesialferdigheten sin, har hen en {CHANCE} % sjanse til å 
+stjele den nyeste fjernbare økningen fra en tilfeldig fiende som har økninger, eller 
+påføre alle fiender {DAMAGE} % skade hvis det ikke er noen økninger å stjele."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Når denne figuren bruker spesialferdigheten sin, overfører de den nyeste rensbare statuslidelsen fra seg selv til målet. Hvis spesialferdigheten ikke kan brukes mot en fiende, velges en tilfeldig fiende i stedet. Hvis denne figuren ikke har noen rensbare statuslidelser, får figuren tilbake {HEALTH} % helse."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE} % sjanse til å erstatte innkommende negative effekter med matchende positive effekter."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Denne figuren tar mindre skade fra tropper av det sterkere elementet.
@@ -238,6 +283,13 @@ I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
 
 I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet skaden til en tilfeldig fiende. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen.
+
+I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reduceinsanityperturn","Ved starten av hver runde reduseres denne figurens nåværende galskap med {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alle statuslidelser denne figuren motstår med passive ferdigheter, reflekteres tilbake på alle fiender."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % ekstra sjanse til å reflektere statuslidelser tilbake til angriperen."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Hver {TURNS}. runde fjernes alle visne-effekter fra alle allierte."
@@ -249,9 +301,10 @@ Reparasjonskjernen aktiveres hver gang figurens spesialferdighet brukes:
  Med en fulladet reparasjonskjerne økes helsen til alle allierte med {CHARGEDPOWER1} %. 
  Helbredelsen skaleres med ladningen i kjernen. All ladning brukes når kjernen aktiveres."
 "herocard.passive_skill.description.repeatspecial","{REPEATCHANCE} % sjanse til å bruke spesialferdigheten til denne helten {REPEATS} ganger."
-"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Tropptilknytningsbonus:
- Den tilknyttede helten har en {REPEATCHANCE} % sjanse til å være Heldig! og bruke en spesialferdighet {REPEATS} ganger på rad.
- Hvis det er noen andre Heldig!-effekter aktiv, øker denne troppen sjansen med {REPEATCHANCEMODIFIER} % i stedet."
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Troppegenskap
+ Helten har en {REPEATCHANCE} % sjanse til å være Heldig! og bruke spesialferdigheten sin {REPEATS} ganger på rad.
+
+ Hvis det er noen andre Heldig!-effekter aktive, øker denne troppen sjansen med {REPEATCHANCEMODIFIER} % i stedet."
 "herocard.passive_skill.description.resist.accuracymodifiers","Denne figuren er immun mot statuslidelser som påvirker treffsikkerhet. Gjelder ikke for opprinnelige statustilstander fra allierte."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Denne figuren er immun mot statuslidelser og negative stabler."
 "herocard.passive_skill.description.resist.alldebuffs.blue.alldebuffs","Denne figuren er immun mot statuslidelser og negative stabler brukt av is-figurer."
@@ -299,6 +352,7 @@ Dette inkluderer
 "herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE} % ekstra sjanse til å motstå fjerning av økninger."
 "herocard.passive_skill.description.resist.buffimmunity","Denne figuren er immun mot effekter som hindrer dem i å motta nye statustilstand-økninger."
 "herocard.passive_skill.description.resist.burn","Denne figuren er immun mot statuslidelser som påfører brannskade."
+"herocard.passive_skill.description.resist.burn.with_effect.addmana","Denne figuren er immun mot statuslidelser som påfører brannskade, og får {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","Denne figuren er immun mot statuslidelser som påfører brannskade, og får {HEALTHBOOST} økt helse og {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","Denne figuren er immun mot statuslidelser."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE} % ekstra sjanse til å motstå alle statuslidelser."
@@ -309,6 +363,7 @@ Dette inkluderer
  Kan ikke hindres i å motta undersåtter.
  Undersåtts angrep og evner kan ikke deaktiveres."
 "herocard.passive_skill.description.resist.frost","Denne figuren er immun mot statuslidelser som påfører frostskade."
+"herocard.passive_skill.description.resist.frost.with_effect.addmana","Denne figuren er immun mot statuslidelser som påfører frostskade, og får {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Denne figuren er immun mot statuslidelser som påfører frostskade, og får {HEALTHBOOST} økt helse og {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.healeffects","Denne figuren er immun mot statuslidelser som påvirker helbredelse."
 "herocard.passive_skill.description.resist.healthsteal","Denne figuren er immun mot statuslidelser som stjeler helse."
@@ -319,6 +374,7 @@ Dette inkluderer
 "herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","Denne figuren er immun mot statuslidelser og negative stabler som påvirker mana-generering. Gjelder ikke for statuslidelser som stopper mana-generering eller stjeler mana."
 "herocard.passive_skill.description.resist.manareduction","Denne figuren er immun mot manareduksjoner."
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE} % ekstra sjanse til å motstå manareduksjoner."
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.addmana","Denne figuren er immun mot manareduksjoner. Den får også {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Denne figuren er immun mot manareduksjoner. Den får også {HEALTHBOOST} økt helse og {MANA} % mana hver gang de motstår."
 "herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Denne figuren er immun mot å stjele og ransake."
 "herocard.passive_skill.description.resist.maxhealthreduction","Denne figuren er immun mot reduksjon av maksimal helse."
@@ -329,9 +385,11 @@ Dette inkluderer
 "herocard.passive_skill.description.resist.sand","Denne figuren er immun mot statuslidelser som påfører sandskade."
 "herocard.passive_skill.description.resist.specialblocking","Denne figuren er immun mot statuslidelser som forhindrer bruken av spesialferdigheter."
 "herocard.passive_skill.description.resist.specialblocking.with_chance","Denne figuren har en {CHANCE} % sjanse til å motstå statuslidelser som forhindrer bruken av spesialferdigheter."
+"herocard.passive_skill.description.resist.specialblocking.with_effect.addmana","Denne figuren er immun mot statuslidelser som forhindrer bruken av spesialferdigheter. Den får også {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Denne figuren er immun mot statuslidelser som forhindrer bruken av spesialferdigheter. Den får også {HEALTHBOOST} økt helse og {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.stopmanageneration","Denne figuren er immun mot statuslidelser som stopper managenerering."
 "herocard.passive_skill.description.resist.water","Denne figuren er immun mot statuslidelser som påfører vannskade."
+"herocard.passive_skill.description.resist.water.with_effect.addmana","Denne figuren er immun mot statuslidelser som påfører vannskade, og får {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","Denne figuren er immun mot statuslidelser som påfører vannskade, og får {HEALTHBOOST} økt helse og {MANA} % mana hver gang den motstår."
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Denne figuren er immun mot statuslidelser som er fra undersåtter."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Denne figuren er immun mot effekter som fjerner undersåtter fra dem."
@@ -384,10 +442,21 @@ Aktiveres opptil {MAXACTIVATIONCOUNT} ganger. Sjansen for å gjenopplives reduse
 "herocard.passive_skill.description.statuseffectdefensemodifier.reduction","Statuslidelser som reduserer forsvar, er {MODIFIER} % mindre effektive mot denne fienden."
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","Statuseffekter som øker forsvar, er {MODIFIER} % mer effektive for denne figuren."
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","Statuslidelser som reduserer forsvar, er {MODIFIER} % mindre effektive mot denne fienden."
-"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Varigheten til de {MAXACTIVATIONCOUNT} første statuslidelsene denne figuren mottar fra spesialferdigheter, reduseres med {DURATIONMODIFIER} runde."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Reduser varigheten til de {MAXACTIVATIONCOUNT} første statuslidelsene denne figuren mottar fra spesialferdigheter.
+
+Antall runder redusert: {DURATIONMODIFIER}."
 "herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Varigheten til forvarsstatuslidelsene denne figuren mottar fra spesialferdigheter, reduseres med {DURATIONMODIFIER} runder."
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Varigheten til de {MAXACTIVATIONCOUNT} første økningene denne figuren mottar fra spesialferdigheter, økes med {DURATIONMODIFIER} runde."
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","Når en statuslidelse renses fra denne helten, brukes en ny kopi av den rensede lidensen på en tilfeldig fiende."
+"herocard.passive_skill.description.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","Troppegenskap
+
+Denne troppegenskapen påvirker alle fiender så lenge kampen varer.
+
+ Sjansen for gjenoppliving reduseres med {FIXEDAMOUNTMODIFIER} %. Denne effekten kan være aktiv i tillegg til andre effekter som endrer sjansen for gjenoppliving.
+
+ Hvis en fiende gjenopplives, mottar de {STATUSEFFECT1ACCURACY} % treffsikkerhet i {STATUSEFFECT1TURNS} runder.
+
+ Ekstra vandøde trollmenn på laget øker ikke kraften til disse effektene."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Hver gang denne griffen bruker en spesialferdighet, mottar alle allierte myk hud. De neste {MAXACTIVATIONS} gangene den tar skade, reduseres den med {DAMAGEREDUCTION} %. Den er også immun mot alle statuslidelser, manareduksjoner og galskap. Denne effekten kan ikke fjernes."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","Etter å ha brukt en spesialferdighet, er denne figuren kamuflert og kan ikke direkte siktes på av fiendens spesialferdigheter i {TURNS} runder. Denne effekten kan ikke fjernes eller flyttes."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Hver gang denne griffen bruker en spesialferdighet, aktiverer den myk hud."
@@ -396,12 +465,35 @@ Aktiveres opptil {MAXACTIVATIONCOUNT} ganger. Sjansen for å gjenopplives reduse
  Et mål merket med en jaktbluss mottar {FIXEDPOWER} ekstra skade når de utsettes for et kritisk treff."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Når denne figuren bruker spesialferdigheten sin, får den {ATTACK} % angrep i {TURNS} runder. Denne effekten kan være aktiv i tillegg til andre effekter som endrer angrep."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Én gang per kamp kan denne heltens element endres til elementet du velger i {TURNS} runder. Element kan endres ved å trykke på denne helten når den ikke har full mana."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed","Hver {TURNSBETWEENEFFECTS}. tur stjeler denne figuren {MANASTEAL} % mana fra fienden med raskest manahastighet."
 "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Hver {TURNSBETWEENEFFECTS}. tur stjeler denne figuren {MANASTEAL} % mana fra fienden med raskest manahastighet. Dette kan ikke hindres av statuseffekter eller passive ferdigheter."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","Hver {TURNSBETWEENEFFECTS}. tur stjeler denne figuren {MANASTEAL} % mana fra fienden med raskest manahastighet."
 "herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Hver {TURNSBETWEENEFFECTS}. tur stjeler denne figuren {MANASTEAL} % mana fra fienden med høyest mana. Dette kan ikke hindres av statuseffekter eller passive ferdigheter."
 "herocard.passive_skill.description.stopchainstrikes","Spesialferdigheter som kjeder eller angriper flere ganger stopper ved denne figuren. Stopper ikke vennskapelige effekter."
+"herocard.passive_skill.description.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","Troppegenskap
+
+ Alle undersåtter og megaundersåtter fremkalt av heltens spesialferdighet er sterkere og får en helbredende evne.
+
+ Ved slutten av runden vil hver undersått og megaundersått gi tilbake {PASSIVESKILL2FAMILIAREFFECT1FIXEDFAMILIARHEAL} HP til eieren sin. 
+
+ Undersåtter: {PASSIVESKILL1MINIONATTACKMODIFIER} % angrep
+ Megaundersåtter: {PASSIVESKILL1MEGAMINIONATTACKMODIFIER} % angrep"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
 Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
 Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+Frøplante-djevel: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.blocked_by.minion","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+Djevler kan ikke utvikle seg til megadjevler hvis det er undersåtter på samme helt.
 
 Frøplante-djevel: 
 {EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
@@ -423,10 +515,74 @@ Knopp-djevel:
 
 Blomst-megadjevel:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+Frøplante-djevel: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+Djevler kan ikke utvikle seg til megadjevler hvis det er undersåtter på samme helt.
+
+Frøplante-djevel: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+Frøplante-djevel: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+Djevler kan ikke utvikle seg til megadjevler hvis det er undersåtter på samme helt.
+
+Frøplante-djevel: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
 Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
 Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
+
+Frøplante-djevel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.blocked_by.minion","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
+Djevler kan ikke utvikle seg til megadjevler hvis det er undersåtter på samme helt.
 
 Frøplante-djevel:
 {EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
@@ -462,10 +618,36 @@ Knopp-djevel:
 
 Blomst-megadjevel:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn.blocked_by.minion","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+Djevler kan ikke utvikle seg til megadjevler hvis det er undersåtter på samme helt.
+
+Frøplante-djevel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.
 Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
 Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
+
+Frøplante-djevel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+
+Knopp-djevel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+
+Blomst-megadjevel:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende.
+Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+Djevler kan ikke utvikle seg til megadjevler hvis det er undersåtter på samme helt.
 
 Frøplante-djevel:
 {EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
@@ -493,11 +675,41 @@ Blomst-megadjevel:
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.purple","Mørke-skjold på brettet svekkes med {MODIFIER} % treffsikkerhet når denne figuren bruker spesialferdigheten sin."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.red","Ild-skjold på brettet svekkes med {MODIFIER} % treffsikkerhet når denne figuren bruker spesialferdigheten sin."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.yellow","Hellig-skjold på brettet svekkes med {MODIFIER} % treffsikkerhet når denne figuren bruker spesialferdigheten sin."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue","Is-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green","Natur-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Mørke-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Ild-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Hellig-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue.increase","Is-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green.increase","Natur-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple.increase","Mørke-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red.increase","Ild-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow.increase","Hellig-skjold på brettet forbedres med {MODIFIER} % kritisk treff når denne figuren bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue","Troppegenskap
+
+Is-skjold på brettet svekkes og gir {MODIFIER} % mindre mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue.increase","Troppegenskap
+
+Is-skjold på brettet forbedres og gir {MODIFIER} % mer mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green","Troppegenskap
+
+Natur-skjold på brettet svekkes og gir {MODIFIER} % mindre mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green.increase","Troppegenskap
+
+Natur-skjold på brettet forbedres og gir {MODIFIER} % mer mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple","Troppegenskap
+
+Mørke-skjold på brettet svekkes og gir {MODIFIER} % mindre mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple.increase","Troppegenskap
+
+Mørke-skjold på brettet forbedres og gir {MODIFIER} % mer mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red","Troppegenskap
+
+Ild-skjold på brettet svekkes og gir {MODIFIER} % mindre mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red.increase","Troppegenskap
+
+Ild-skjold på brettet forbedres og gir {MODIFIER} % mer mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow","Troppegenskap
+
+Hellig-skjold på brettet svekkes og gir {MODIFIER} % mindre mana når denne helten bruker spesialferdigheten sin."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow.increase","Troppegenskap
+
+Hellig-skjold på brettet forbedres og gir {MODIFIER} % mer mana når denne helten bruker spesialferdigheten sin."
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne figuren bruker spesialferdigheten sin, vil alle økninger som kan fjernes som påvirker angrep, forsvar og mana-generering for alle fiender, forvandles til matchende statuslidelser som ikke kan fjernes."
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne figuren bruker spesialferdigheten sin, vil alle statuslidelser som kan renses som påvirker angrep, forsvar og mana-generering for alle allierte, forvandles til matchende økninger som ikke kan fjernes."
 "herocard.passive_skill.description.wither.all.enemies","Grunnangrep og grunnforsvar til alle fiender reduseres med {STATINCREASE} hver runde i {MAXACTIVATIONCOUNT} runder."
@@ -563,6 +775,7 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","Mana ved spesialskade"
 "herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","Mana ved skade tatt"
 "herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","Skade ved spesialferdighet og dekkskade"
+"herocard.passive_skill.title.effectondamagereceived.damage.statuseffectskill.cover","Én for alle!"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","Stabling av angrep ved skade mottatt"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Stabling av angrep ved skade mottatt"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Stabling av angrep ved skade mottatt"
@@ -588,7 +801,7 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_purple","Slimundersått-splitt"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_red","Slimundersått-splitt"
 "herocard.passive_skill.title.effectonreceiveddamagewiththreshold.summonfamiliar.slime_big_minion_yellow","Slimundersått-splitt"
-"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","Legendarisk gjenoppliving"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.activates_on_ally_action.healthboost.addmana.once","Legendarisk reversering"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Helseøkning og mana ved motstand"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana ved bruk av spesialferdighet som øker helse"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Økt helse ved fiendtlig helseøkning"
@@ -687,6 +900,7 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.nevermissspecial","Perfekt treffsikkerhet"
 "herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Større helbredelse"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Hindre økt helbredelse"
+"herocard.passive_skill.title.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies","Tyvs mulighet"
 "herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies","Tyvs mulighet"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Stjel økning"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Jegerens sans"
@@ -695,6 +909,9 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Kraftig økning av ildkuleskade"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Lure døden"
 "herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Lure døden"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Lure døden"
+"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Lure døden"
+"herocard.passive_skill.title.reduceinsanityperturn","Reduser galskap"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarisk reflektor"
 "herocard.passive_skill.title.remove_growth_from_enemies","Voktersamling"
 "herocard.passive_skill.title.remove_wither_from_allies","Voktersamling"
@@ -724,11 +941,13 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.resist.buffdispels","Motstå fjerning"
 "herocard.passive_skill.title.resist.buffimmunity","Motstå økningsblokkering"
 "herocard.passive_skill.title.resist.burn","Motstå brann"
+"herocard.passive_skill.title.resist.burn.with_effect.addmana","Styrket motstand mot ild"
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Styrket motstand mot ild"
 "herocard.passive_skill.title.resist.criticalhits.none","Motstå kritiske treff"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Motstå forsvarslidelser"
 "herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Ustoppelige undersåtter"
 "herocard.passive_skill.title.resist.frost","Motstå frost"
+"herocard.passive_skill.title.resist.frost.with_effect.addmana","Styrket motstand mot frost"
 "herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","Styrket motstand mot frost"
 "herocard.passive_skill.title.resist.healeffects","Motstå helbredelseslidelser"
 "herocard.passive_skill.title.resist.healthsteal","Motstå helsestjelende lidelser"
@@ -737,7 +956,8 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.resist.manaeffectsandspecialblocking","Motstå manalidelser og spesialferdighetblokkering"
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Motstå mana-genereringlidelser"
 "herocard.passive_skill.title.resist.manareduction","Motstå direkte manareduksjon"
-"herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Styret motstå direkte manareduksjon"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.addmana","Styrket motstå direkte manareduksjon"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Styrket motstå direkte manareduksjon"
 "herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Motstå stjeling"
 "herocard.passive_skill.title.resist.maxhealthreduction","Motstå reduksjon av maksimal helse"
 "herocard.passive_skill.title.resist.poison","Motstå gift"
@@ -746,10 +966,12 @@ Blomst-megadjevel:
 "herocard.passive_skill.title.resist.resonance","Motstå resonans"
 "herocard.passive_skill.title.resist.sand","Motstå sand"
 "herocard.passive_skill.title.resist.specialblocking","Motstå blokkering av spesialferdigheter"
-"herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Styrket blokkering av spesialferdigheter"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.addmana","Styrket motstår blokkering av spesialferdighet"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Styrket motstår blokkering av spesialferdighet"
 "herocard.passive_skill.title.resist.stopmanageneration","Motstå stopp av mana-generering"
 "herocard.passive_skill.title.resist.water","Motstå vann"
-"herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Forsterket motstandsvann"
+"herocard.passive_skill.title.resist.water.with_effect.addmana","Styrket motstår vann"
+"herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Styrket motstår vann"
 "herocard.passive_skill.title.resist_all_attack_effects","Trekk:
 Liten ramme"
 "herocard.passive_skill.title.resist_all_defense_effects","Trekk: 
@@ -762,8 +984,10 @@ Lithe-ramme"
 "herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Motstå djevler og megadjevler"
 "herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","Motstå statuslidelser"
 "herocard.passive_skill.title.revivalchancemodifier.all.enemies","Reduksjon av sjanse for gjenoppliving"
+"herocard.passive_skill.title.revivalchancemodifiersupportcharacter.troop.all.enemies","Gjenopplevundertrykkelsesaura"
 "herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","Reduksjon i helse ved gjenoppliving"
 "herocard.passive_skill.title.revive_chance_nine_lives","Ni liv"
+"herocard.passive_skill.title.revive_chance_nine_lives_mayhem","Ni liv"
 "herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","Uhyggelig pakt"
 "herocard.passive_skill.title.revivewithchance","Gjenoppliv"
 "herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Raskt tempo: Ballade"
@@ -781,6 +1005,11 @@ Lithe-ramme"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_purple_on_special_titan_hunter_parent","Forbedrer skjold ved spesial"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_red_on_special_titan_hunter_parent","Forbedrer skjold ved spesial"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_yellow_on_special_titan_hunter_parent","Forbedrer skjold ved spesial"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_blue","Manaendring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_green","Manaendring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_purple","Manaendring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_red","Manaendring"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_yellow","Manaendring"
 "herocard.passive_skill.title.specialdamagereduction","Spesialferdighet-skadereduksjon"
 "herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","Spesialferdighet-skadereduksjon"
 "herocard.passive_skill.title.startbattlewitheffect.addmana","Start kamp med mana"
@@ -802,6 +1031,7 @@ Lithe-ramme"
 "herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Reduser varighet på forsvarslidelse"
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Øk økningsvarighet"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Kopier lidelse ved rens"
+"herocard.passive_skill.title.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","Gjenopplevundertrykkelsesaura"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Jegers vigør"
 "herocard.passive_skill.title.statuseffectonspecialcast.camouflage","Eterisk kronbladslør"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","Titanjegerens merke"
@@ -809,15 +1039,20 @@ Lithe-ramme"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Griffs steinhud"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Managenerasjonsøkning fra lidelser"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementmaske"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed","Slå ned og stjel"
 "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Slå ned og stjel"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","Slå ned og stjel"
 "herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Slå ned og stjel"
 "herocard.passive_skill.title.stopchainstrikes","Stopp kjedeangrep"
 "herocard.passive_skill.title.stylish","Stilig!"
 "herocard.passive_skill.title.stylish_epic","Stilig!"
 "herocard.passive_skill.title.stylish_legendary","Stilig!"
 "herocard.passive_skill.title.stylish_rare","Stilig!"
+"herocard.passive_skill.title.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","Forsterkede undersåtter"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Fremkalling av frøplante"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Fremkalling av frøplante"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","Fremkalling av frøplante"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","Fremkalling av frøplante"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Fremkalling av frøplante"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Fremkalling av frøplante"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Fremkalling av frøplante"
@@ -835,6 +1070,7 @@ Lithe-ramme"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Fremkalling av frøplante"
 "herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Grasiøs danser"
 "herocard.passive_skill.title.taunt","Ignorer Provoser"
+"herocard.passive_skill.title.tileenhancementonspecialsupportcharacter.troop","Manaendring"
 "herocard.passive_skill.title.titan_dread_damage_minions","Frykt"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Frykt"
 "herocard.passive_skill.title.titan_dread_damage_minions_16","Frykt"
@@ -847,4 +1083,3 @@ Lithe-ramme"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformer økninger"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformer lidelser"
 "herocard.passive_skill.title.wither.all.enemies","Visne"
-"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER} %[#] mana-generering."

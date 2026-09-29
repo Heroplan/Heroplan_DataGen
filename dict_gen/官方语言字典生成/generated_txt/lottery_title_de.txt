@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Kostümbeschwörung"
 "lottery.title.covenantsummon","Pakt-Beschwörung"
 "lottery.title.dailysummon","Tägliche Beschwörung"
+"lottery.title.deluxe.ascensionsummon","Deluxe"
+"lottery.title.deluxeascensionsummon","Sofortige Deluxe-Kraft"
 "lottery.title.elementaldragonsummon","Elementare Drachenbeschwörung"
 "lottery.title.elementalherosummon","Elementare Beschwörung"
 "lottery.title.epicdragonsummon","Legendäre Drachenbeschwörung"

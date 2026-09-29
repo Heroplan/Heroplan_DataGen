@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Призыв костюма"
 "lottery.title.covenantsummon","Заветный призыв"
 "lottery.title.dailysummon","Ежедневный призыв"
+"lottery.title.deluxe.ascensionsummon","Люкс"
+"lottery.title.deluxeascensionsummon","Люксовая мгновенная мощь"
 "lottery.title.elementaldragonsummon","Призыв дракона стихии"
 "lottery.title.elementalherosummon","Призыв стихии"
 "lottery.title.epicdragonsummon","Призыв легендарного дракона"

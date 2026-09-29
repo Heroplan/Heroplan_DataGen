@@ -43111,6 +43111,859 @@
             }
           }
         ]
+      },
+      {
+        "id": "mimic_titanpart_red",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_shell",
+                "titan_item_beak",
+                "titan_item_fang"
+              ],
+              "weights": [
+                9802,
+                66,
+                66,
+                66
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_egg",
+                "titan_item_plume",
+                "titan_item_eye"
+              ],
+              "weights": [
+                9850,
+                50,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_spine",
+                "titan_item_tail"
+              ],
+              "weights": [
+                9900,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_heart",
+                "titan_item_skull"
+              ],
+              "weights": [
+                9950,
+                25,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_battle_hurricane",
+                "titan_battle_athenas_blessing",
+                "titan_battle_titan_banner",
+                "titan_battle_scroll_of_alteration",
+                "titan_battle_time_freeze"
+              ],
+              "weights": [
+                9950,
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            }
+          },
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "nomad_female_archer",
+                "nomad_scout",
+                "nomad_female_thief",
+                "nomad_shaman",
+                "orc_skirmisher"
+              ],
+              "weights": [
+                936,
+                20,
+                20,
+                8,
+                8,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_titanpart_green",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_shell",
+                "titan_item_beak",
+                "titan_item_fang"
+              ],
+              "weights": [
+                9802,
+                66,
+                66,
+                66
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_egg",
+                "titan_item_plume",
+                "titan_item_eye"
+              ],
+              "weights": [
+                9850,
+                50,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_spine",
+                "titan_item_tail"
+              ],
+              "weights": [
+                9900,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_heart",
+                "titan_item_skull"
+              ],
+              "weights": [
+                9950,
+                25,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_battle_hurricane",
+                "titan_battle_athenas_blessing",
+                "titan_battle_titan_banner",
+                "titan_battle_scroll_of_alteration",
+                "titan_battle_time_freeze"
+              ],
+              "weights": [
+                9950,
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            }
+          },
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "forest_female_warrior",
+                "forest_woodsman",
+                "forest_female_illusionist",
+                "forest_thug",
+                "goblin_archer"
+              ],
+              "weights": [
+                936,
+                20,
+                20,
+                8,
+                8,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_titanpart_blue",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_shell",
+                "titan_item_beak",
+                "titan_item_fang"
+              ],
+              "weights": [
+                9802,
+                66,
+                66,
+                66
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_egg",
+                "titan_item_plume",
+                "titan_item_eye"
+              ],
+              "weights": [
+                9850,
+                50,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_spine",
+                "titan_item_tail"
+              ],
+              "weights": [
+                9900,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_heart",
+                "titan_item_skull"
+              ],
+              "weights": [
+                9950,
+                25,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_battle_hurricane",
+                "titan_battle_athenas_blessing",
+                "titan_battle_titan_banner",
+                "titan_battle_scroll_of_alteration",
+                "titan_battle_time_freeze"
+              ],
+              "weights": [
+                9950,
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            }
+          },
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "nordic_female_scout",
+                "nordic_warrior",
+                "dwarven_scout",
+                "nordic_female_warrior",
+                "royal_pikeman"
+              ],
+              "weights": [
+                936,
+                20,
+                20,
+                8,
+                8,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_titanpart_yellow",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_shell",
+                "titan_item_beak",
+                "titan_item_fang"
+              ],
+              "weights": [
+                9802,
+                66,
+                66,
+                66
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_egg",
+                "titan_item_plume",
+                "titan_item_eye"
+              ],
+              "weights": [
+                9850,
+                50,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_spine",
+                "titan_item_tail"
+              ],
+              "weights": [
+                9900,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_heart",
+                "titan_item_skull"
+              ],
+              "weights": [
+                9950,
+                25,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_battle_hurricane",
+                "titan_battle_athenas_blessing",
+                "titan_battle_titan_banner",
+                "titan_battle_scroll_of_alteration",
+                "titan_battle_time_freeze"
+              ],
+              "weights": [
+                9950,
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            }
+          },
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "oriental_female_ninja",
+                "oriental_warrior",
+                "oriental_monkey_warrior",
+                "oriental_panda_scout",
+                "oriental_squire"
+              ],
+              "weights": [
+                936,
+                20,
+                20,
+                8,
+                8,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mimic_titanpart_purple",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_shell",
+                "titan_item_beak",
+                "titan_item_fang"
+              ],
+              "weights": [
+                9802,
+                66,
+                66,
+                66
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_egg",
+                "titan_item_plume",
+                "titan_item_eye"
+              ],
+              "weights": [
+                9850,
+                50,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_spine",
+                "titan_item_tail"
+              ],
+              "weights": [
+                9900,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_item_heart",
+                "titan_item_skull"
+              ],
+              "weights": [
+                9950,
+                25,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "titan_battle_hurricane",
+                "titan_battle_athenas_blessing",
+                "titan_battle_titan_banner",
+                "titan_battle_scroll_of_alteration",
+                "titan_battle_time_freeze"
+              ],
+              "weights": [
+                9950,
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            }
+          },
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "blackguard_female_archer",
+                "cultist_thief",
+                "blackguard_scout",
+                "cultist_female_poisoner",
+                "undead_screaming_zombie"
+              ],
+              "weights": [
+                936,
+                20,
+                20,
+                8,
+                8,
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mayhem",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                3
+              ],
+              "weights": [
+                5625,
+                4375
+              ]
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "misc_loot_ticket"
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_energy_pve_full",
+                "refill_energy_pvp_full",
+                "refill_energy_alliance_full"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "trainer_rainbow_common",
+                "trainer_rainbow_uncommon"
+              ],
+              "weights": [
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_medium",
+                "refill_food_large"
+              ],
+              "weights": [
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_medium",
+                "refill_iron_large"
+              ],
+              "weights": [
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_elite_hero"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mayhem_beta",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                3
+              ],
+              "weights": [
+                5625,
+                4375
+              ]
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "misc_loot_ticket"
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_energy_pve_full",
+                "refill_energy_pvp_full",
+                "refill_energy_alliance_full"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "trainer_rainbow_common",
+                "trainer_rainbow_uncommon"
+              ],
+              "weights": [
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_medium",
+                "refill_food_large"
+              ],
+              "weights": [
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_medium",
+                "refill_iron_large"
+              ],
+              "weights": [
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_elite_hero"
+            }
+          }
+        ]
       }
     ],
     "sharedPoolLoots": [
@@ -48592,5 +49445,5 @@
       }
     ]
   },
-  "lootsConfigId": 1924398013
+  "lootsConfigId": 3993266508
 }

@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Wezwanie kostiumu"
 "lottery.title.covenantsummon","Wezwanie Przymierza"
 "lottery.title.dailysummon","Codzienne wezwanie"
+"lottery.title.deluxe.ascensionsummon","Luksusowe"
+"lottery.title.deluxeascensionsummon","Luksusowa natychmiastowa moc"
 "lottery.title.elementaldragonsummon","Wezwanie smoka żywiołu"
 "lottery.title.elementalherosummon","Wezwanie żywiołaków"
 "lottery.title.epicdragonsummon","Wezwanie legendarnego smoka"

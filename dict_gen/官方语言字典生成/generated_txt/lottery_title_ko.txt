@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","의상 소환"
 "lottery.title.covenantsummon","서약 소환"
 "lottery.title.dailysummon","일일 소환"
+"lottery.title.deluxe.ascensionsummon","디럭스"
+"lottery.title.deluxeascensionsummon","디럭스 즉시 강화"
 "lottery.title.elementaldragonsummon","속성 드래곤 소환"
 "lottery.title.elementalherosummon","속성 소환"
 "lottery.title.epicdragonsummon","전설 드래곤 소환"

@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Panggilan Kostum"
 "lottery.title.covenantsummon","Panggilan Perjanjian"
 "lottery.title.dailysummon","Panggilan Harian"
+"lottery.title.deluxe.ascensionsummon","Mewah"
+"lottery.title.deluxeascensionsummon","Kekuatan Instan Mewah"
 "lottery.title.elementaldragonsummon","Panggilan Naga Elemen"
 "lottery.title.elementalherosummon","Panggilan Elemen"
 "lottery.title.epicdragonsummon","Panggilan Naga Legendaris"

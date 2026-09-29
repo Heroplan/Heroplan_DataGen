@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","استدعاء الأزياء"
 "lottery.title.covenantsummon","استدعاء المعاهدة"
 "lottery.title.dailysummon","استدعاء يومي"
+"lottery.title.deluxe.ascensionsummon","فاخر"
+"lottery.title.deluxeascensionsummon","القوة الفورية الفاخرة"
 "lottery.title.elementaldragonsummon","استدعاء التنين الجوهري"
 "lottery.title.elementalherosummon","الاستدعاء الجوهري"
 "lottery.title.epicdragonsummon","استدعاء التنين الأسطوري"

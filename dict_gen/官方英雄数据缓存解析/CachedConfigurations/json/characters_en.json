@@ -2534,6 +2534,7 @@
     "aetherGift": "Defense Up",
     "rarity": 1,
     "specialId": "field_aid",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2550,6 +2551,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "backstab",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2562,6 +2564,7 @@
     "manaSpeedId": "slow",
     "rarity": 1,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "nomad_female_thief": {
@@ -2577,6 +2580,7 @@
     "aetherGift": "Defense Up",
     "rarity": 2,
     "specialId": "attack_rally",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2593,6 +2597,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "fierce_slash",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2609,6 +2614,7 @@
     "aetherGift": "Defense Up",
     "rarity": 2,
     "specialId": "attack_rally",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2625,6 +2631,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "tackle",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2637,6 +2644,7 @@
     "manaSpeedId": "slow",
     "rarity": 2,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "nomad_female_shaman": {
@@ -2652,6 +2660,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "wind_prayer",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2668,6 +2677,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "sharp_cut",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2684,6 +2694,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "fireball",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2700,6 +2711,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "burning_strike",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2712,6 +2724,7 @@
     "manaSpeedId": "average",
     "rarity": 3,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "nomad_axe_adventurer": {
@@ -2727,6 +2740,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "fire_storm",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2743,6 +2757,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "blade_barrage",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2759,6 +2774,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "dance_of_fire",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2775,6 +2791,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "warcry",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2791,6 +2808,7 @@
     "aetherGift": "Rage",
     "rarity": 4,
     "specialId": "ramming_pulverizer",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2803,6 +2821,7 @@
     "manaSpeedId": "fast",
     "rarity": 4,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "lionman_barbarian": {
@@ -2818,6 +2837,7 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "volcanic_eruption",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2834,6 +2854,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "magma_smash",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2850,6 +2871,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "wall_of_swords",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2866,6 +2888,7 @@
     "aetherGift": "Special Armor",
     "rarity": 5,
     "specialId": "khans_order",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2882,6 +2905,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "hacking_attack",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2898,6 +2922,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "axe_throw",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2910,6 +2935,7 @@
     "manaSpeedId": "slow",
     "rarity": 1,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "forest_female_illusionist": {
@@ -2925,6 +2951,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "mark_of_ivy",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2941,6 +2968,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "tackle",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2957,6 +2985,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "focused_shot",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -2969,6 +2998,7 @@
     "manaSpeedId": "slow",
     "rarity": 2,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "forest_archer": {
@@ -2984,6 +3014,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "entangling_shot",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3000,6 +3031,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "natures_blessing",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3016,6 +3048,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "calming_mist",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3032,6 +3065,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "have_faith",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3048,6 +3082,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "slash_of_four_blades",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3064,6 +3099,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "ramming_rush",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3076,6 +3112,7 @@
     "manaSpeedId": "average",
     "rarity": 3,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "elven_captain": {
@@ -3091,6 +3128,7 @@
     "aetherGift": "Special Boost",
     "rarity": 4,
     "specialId": "piercing_strike",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3107,6 +3145,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 4,
     "specialId": "fog_of_the_fallen",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3123,6 +3162,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "massive_chop",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3139,6 +3179,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 4,
     "specialId": "creeping_vines",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3155,6 +3196,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "swamp_skin",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3167,6 +3209,7 @@
     "manaSpeedId": "fast",
     "rarity": 4,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "elven_archer": {
@@ -3182,6 +3225,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "perfect_shot",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3198,6 +3242,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "eclipse_shield",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3214,6 +3259,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "crescent_spear",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3230,6 +3276,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "anger_of_forest",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3246,6 +3293,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "hacking_attack",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3262,6 +3310,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "fierce_slash",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3274,6 +3323,7 @@
     "manaSpeedId": "slow",
     "rarity": 1,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "dwarven_scout": {
@@ -3289,6 +3339,7 @@
     "aetherGift": "Defense Up",
     "rarity": 2,
     "specialId": "attack_rally",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3305,6 +3356,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "fierce_slash",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3321,6 +3373,7 @@
     "aetherGift": "Special Armor",
     "rarity": 2,
     "specialId": "defensive_tactics",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3333,6 +3386,7 @@
     "manaSpeedId": "slow",
     "rarity": 2,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "dwarven_smasher": {
@@ -3348,6 +3402,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "ramming_rush",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3364,6 +3419,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "wolf_bite",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3380,6 +3436,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "cold_blast",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3396,6 +3453,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "chilling_slash",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3412,6 +3470,7 @@
     "aetherGift": "Special Armor",
     "rarity": 3,
     "specialId": "stone_skin",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3424,6 +3483,7 @@
     "manaSpeedId": "average",
     "rarity": 3,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "dwarven_guard": {
@@ -3439,6 +3499,7 @@
     "aetherGift": "Regen",
     "rarity": 4,
     "specialId": "perfect_riposte",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3455,6 +3516,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 4,
     "specialId": "blessed_brew",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3471,6 +3533,7 @@
     "aetherGift": "Rage",
     "rarity": 4,
     "specialId": "ramming_pulverizer",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3487,6 +3550,7 @@
     "aetherGift": "Special Boost",
     "rarity": 4,
     "specialId": "piercing_strike",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3499,6 +3563,7 @@
     "manaSpeedId": "fast",
     "rarity": 4,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "exalted_warrior": {
@@ -3514,6 +3579,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "strike_of_the_ancients",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3530,6 +3596,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "glacial_shatter",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3546,6 +3613,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "cloud_hammer",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3562,6 +3630,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "icecold_finisher",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3578,6 +3647,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "backstab",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3594,6 +3664,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "fierce_slash",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3606,6 +3677,7 @@
     "manaSpeedId": "slow",
     "rarity": 1,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "oriental_monkey_warrior": {
@@ -3621,6 +3693,7 @@
     "aetherGift": "Special Armor",
     "rarity": 2,
     "specialId": "defensive_tactics",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3637,6 +3710,7 @@
     "aetherGift": "Defense Up",
     "rarity": 2,
     "specialId": "healing_chant",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3653,6 +3727,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "stunning_blow",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3665,6 +3740,7 @@
     "manaSpeedId": "slow",
     "rarity": 2,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "oriental_brawler": {
@@ -3680,6 +3756,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "harmonic_slam",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3696,6 +3773,7 @@
     "aetherGift": "Dodge",
     "rarity": 3,
     "specialId": "leaping_attack",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3712,6 +3790,7 @@
     "aetherGift": "Special Armor",
     "rarity": 3,
     "specialId": "stone_skin",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3728,6 +3807,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "mystic_chop",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3740,6 +3820,7 @@
     "manaSpeedId": "average",
     "rarity": 3,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "oriental_falconer": {
@@ -3755,6 +3836,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 4,
     "specialId": "tactical_cut",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3771,6 +3853,7 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "slash_of_seven_blades",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3787,6 +3870,7 @@
     "aetherGift": "Gamble",
     "rarity": 4,
     "specialId": "gamblers_stance",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3803,6 +3887,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "sonic_wall",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3815,6 +3900,7 @@
     "manaSpeedId": "fast",
     "rarity": 4,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "exalted_female_statue": {
@@ -3830,6 +3916,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "rite_of_judgement",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3846,6 +3933,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "solar_beam",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3862,6 +3950,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "omniheal",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3878,6 +3967,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "spartan_cleave",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3894,6 +3984,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "focused_shot",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3910,6 +4001,7 @@
     "aetherGift": "Attack Up",
     "rarity": 1,
     "specialId": "backstab",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3922,6 +4014,7 @@
     "manaSpeedId": "slow",
     "rarity": 1,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "blackguard_scout": {
@@ -3937,6 +4030,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "focused_shot",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3953,6 +4047,7 @@
     "aetherGift": "Attack Up",
     "rarity": 2,
     "specialId": "poisoned_blade",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3965,6 +4060,7 @@
     "manaSpeedId": "slow",
     "rarity": 2,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "undead_screaming_zombie": {
@@ -3980,6 +4076,7 @@
     "aetherGift": "Defense Up",
     "rarity": 2,
     "specialId": "attack_rally",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -3996,6 +4093,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "bleeding_stab",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4012,6 +4110,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "leeching_stars",
+    "canBeReceivedDate": "2017-01-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4028,6 +4127,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "electric_jolt",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4040,6 +4140,7 @@
     "manaSpeedId": "average",
     "rarity": 3,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "undead_horned_skeleton": {
@@ -4055,6 +4156,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 3,
     "specialId": "toxic_traps",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4071,6 +4173,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "piercing_hit",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4087,6 +4190,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "ramming_pulverizer",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4103,6 +4207,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "purification",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4115,6 +4220,7 @@
     "manaSpeedId": "fast",
     "rarity": 4,
     "specialId": "trainer_slash",
+    "canBeReceivedDate": "2017-06-01 00:00:00",
     "trainerType": "Normal"
   },
   "undead_captain_warrior": {
@@ -4130,6 +4236,7 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "perfect_riposte",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4146,6 +4253,7 @@
     "aetherGift": "Special Armor",
     "rarity": 4,
     "specialId": "fog_of_the_fallen",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4162,6 +4270,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "thunderstrike",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4178,6 +4287,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "deathstrike",
+    "canBeReceivedDate": "2016-09-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4194,6 +4304,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "shock_bolt",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4210,6 +4321,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "cleave_counter",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Season1",
     "costumeBonusesId": "classic"
   },
@@ -4225,6 +4337,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "reckless_stab",
+    "canBeReceivedDate": "2017-04-01 00:00:00",
     "origin": "Easter",
     "costumeBonusesId": "easter_2026"
   },
@@ -4272,6 +4385,7 @@
     "aetherGift": "Revive",
     "rarity": 5,
     "specialId": "pirate_shot",
+    "canBeReceivedDate": "2017-09-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4287,6 +4401,7 @@
     "aetherGift": "Revive",
     "rarity": 4,
     "specialId": "buccaneers_blade",
+    "canBeReceivedDate": "2017-09-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4302,6 +4417,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "reckless_slash",
+    "canBeReceivedDate": "2017-04-01 00:00:00",
     "origin": "Easter",
     "costumeBonusesId": "easter_2026"
   },
@@ -4317,6 +4433,7 @@
     "aetherGift": "Revive",
     "rarity": 5,
     "specialId": "moonlight_serenade",
+    "canBeReceivedDate": "2017-09-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -4398,6 +4515,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "reckless_finisher",
+    "canBeReceivedDate": "2017-04-01 00:00:00",
     "origin": "Easter",
     "costumeBonusesId": "easter"
   },
@@ -4429,6 +4547,7 @@
     "aetherGift": "Revive",
     "rarity": 4,
     "specialId": "watery_grave",
+    "canBeReceivedDate": "2017-09-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4476,6 +4595,7 @@
     "aetherGift": "Revive",
     "rarity": 5,
     "specialId": "curse_of_sargasso",
+    "canBeReceivedDate": "2017-09-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -4492,6 +4612,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "eye_of_panther",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -4508,6 +4629,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "stately_retribution",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4523,6 +4645,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "ray_strike",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4538,6 +4661,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 4,
     "specialId": "blazing_beak",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4553,6 +4677,7 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "lord_of_the_jungle",
+    "canBeReceivedDate": "2017-10-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -4569,6 +4694,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "word_of_queen",
+    "canBeReceivedDate": "2018-01-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -4585,6 +4711,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "excalibur",
+    "canBeReceivedDate": "2018-01-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4600,6 +4727,7 @@
     "aetherGift": "Special Boost",
     "rarity": 4,
     "specialId": "inspiring_fencing",
+    "canBeReceivedDate": "2018-01-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4615,6 +4743,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "unnatural_pact",
+    "canBeReceivedDate": "2018-01-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4630,6 +4759,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 4,
     "specialId": "arcane_blast",
+    "canBeReceivedDate": "2018-01-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -4709,6 +4839,7 @@
     "aetherGift": "Boosted Regen",
     "rarity": 4,
     "specialId": "tidal_wave",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4724,6 +4855,7 @@
     "aetherGift": "Fiend Resist",
     "rarity": 4,
     "specialId": "familiar_eater",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4739,6 +4871,7 @@
     "aetherGift": "Regen",
     "rarity": 4,
     "specialId": "spiritual_unity",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4754,6 +4887,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "martial_prowess",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4769,6 +4903,7 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "black_tide",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4784,6 +4919,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "chain_strike",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4799,6 +4935,7 @@
     "aetherGift": "Gamble",
     "rarity": 4,
     "specialId": "tricksters_exchange",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4814,6 +4951,7 @@
     "aetherGift": "Special Armor",
     "rarity": 4,
     "specialId": "ethereal",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4829,6 +4967,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "oji_waza",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4844,6 +4983,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "dark_mirror",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4859,6 +4999,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "lucky_nine",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4874,6 +5015,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "break_strike",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4889,6 +5031,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 4,
     "specialId": "scar_of_the_depths",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4904,6 +5047,7 @@
     "aetherGift": "Regen",
     "rarity": 4,
     "specialId": "heroic_noble",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4919,6 +5063,7 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "immortal_annihilator",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4934,6 +5079,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "divine_protection",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4949,6 +5095,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "ruler_of_seas",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -4964,6 +5111,7 @@
     "aetherGift": "Counterattack",
     "rarity": 3,
     "specialId": "song_of_regression",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4979,6 +5127,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "atlantean_blade",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -4994,6 +5143,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "frightening_pinch",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -5009,6 +5159,7 @@
     "aetherGift": "Dodge",
     "rarity": 3,
     "specialId": "bloodthirst",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon"
   },
   "s2_atlantean_robot": {
@@ -5023,6 +5174,7 @@
     "aetherGift": "Fiend Resist",
     "rarity": 4,
     "specialId": "empowering_bash",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "seasonal"
   },
@@ -5038,6 +5190,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "jungle_slash",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon"
   },
   "s2_lantern_ghost": {
@@ -5052,6 +5205,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "unholy_light",
+    "canBeReceivedDate": "2018-08-01 00:00:00",
     "origin": "Atlantis Summon"
   },
   "forest_god_gregorion": {
@@ -5098,6 +5252,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "unstoppable_growl",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5113,6 +5268,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "forest_friends",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5128,6 +5284,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "witch_killer",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5143,6 +5300,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "witch_slayer",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5158,6 +5316,7 @@
     "aetherGift": "Gamble",
     "rarity": 5,
     "specialId": "legerdemain",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5174,6 +5333,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "horses_curse",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Summer"
   },
   "sand_tower": {
@@ -5188,6 +5348,7 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "towers_curse",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Summer"
   },
   "sand_soldier": {
@@ -5202,6 +5363,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "soldiers_curse",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Summer"
   },
   "sand_vizier": {
@@ -5216,6 +5378,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "viziers_curse",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Summer"
   },
   "sand_king": {
@@ -5230,6 +5393,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "kings_curse",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Summer",
     "costumeBonusesId": "sand"
   },
@@ -5245,6 +5409,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "queens_curse",
+    "canBeReceivedDate": "2018-06-01 00:00:00",
     "origin": "Summer",
     "costumeBonusesId": "sand"
   },
@@ -5295,8 +5460,10 @@
     "aetherGift": "Vampire",
     "rarity": 3,
     "specialId": "lords_blood_poisoning",
+    "canBeReceivedDate": "2018-10-01 00:00:00",
     "origin": "Halloween",
-    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
+    "costumeBonusesId": "halloween2026"
   },
   "vampire_queen": {
     "id": "Child of Night",
@@ -5313,8 +5480,10 @@
     "aetherGift": "Vampire",
     "rarity": 4,
     "specialId": "queens_blood_poisoning",
+    "canBeReceivedDate": "2018-10-01 00:00:00",
     "origin": "Halloween",
-    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
+    "costumeBonusesId": "halloween2026"
   },
   "vampire_king": {
     "id": "Vampire King",
@@ -5331,6 +5500,7 @@
     "aetherGift": "Vampire",
     "rarity": 5,
     "specialId": "kings_blood_poisoning",
+    "canBeReceivedDate": "2018-10-01 00:00:00",
     "origin": "Halloween",
     "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
     "costumeBonusesId": "halloween"
@@ -5379,6 +5549,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "timeless_timepiece",
+    "canBeReceivedDate": "2019-02-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5395,6 +5566,7 @@
     "aetherGift": "Taunt",
     "rarity": 5,
     "specialId": "queen_of_cards",
+    "canBeReceivedDate": "2019-02-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5411,6 +5583,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "pest_control",
+    "canBeReceivedDate": "2019-02-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5426,6 +5599,7 @@
     "aetherGift": "Special Armor",
     "rarity": 4,
     "specialId": "dazzling_grin",
+    "canBeReceivedDate": "2019-02-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5441,6 +5615,7 @@
     "aetherGift": "Ailment Reflect",
     "rarity": 5,
     "specialId": "mad_as_a_hatter",
+    "canBeReceivedDate": "2019-02-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5457,6 +5632,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "giftsack",
+    "canBeReceivedDate": "2018-12-01 00:00:00",
     "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
@@ -5472,6 +5648,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "super_porridge",
+    "canBeReceivedDate": "2018-12-01 00:00:00",
     "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
@@ -5487,6 +5664,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "ultimate_giftsack",
+    "canBeReceivedDate": "2018-12-01 00:00:00",
     "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
@@ -5502,6 +5680,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "horn_attack",
+    "canBeReceivedDate": "2018-12-01 00:00:00",
     "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
@@ -5597,7 +5776,8 @@
     "rarity": 5,
     "specialId": "hide_in_shadows",
     "canBeReceivedDate": "2019-05-01 07:00:00",
-    "origin": "MonthlyHeroMay2019"
+    "origin": "MonthlyHeroMay2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "holy_god_ranvir": {
     "id": "Holy Centaur",
@@ -5615,7 +5795,8 @@
     "rarity": 5,
     "specialId": "mystics_virtue",
     "canBeReceivedDate": "2019-06-01 07:00:00",
-    "origin": "MonthlyHeroJune2019"
+    "origin": "MonthlyHeroJune2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "dark_god_seshat": {
     "id": "Reanimated Huntress",
@@ -5652,7 +5833,8 @@
     "rarity": 5,
     "specialId": "wrath_of_tundra",
     "canBeReceivedDate": "2019-08-01 07:00:00",
-    "origin": "MonthlyHeroAugust2019"
+    "origin": "MonthlyHeroAugust2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "s2_chameleon_bruiser": {
     "id": "Chameleon Warrior",
@@ -5666,6 +5848,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "bruiser_bros",
+    "canBeReceivedDate": "2019-05-01 07:00:00",
     "origin": "Atlantis Summon"
   },
   "s2_ursena": {
@@ -5680,6 +5863,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "depth_blast",
+    "canBeReceivedDate": "2019-05-01 07:00:00",
     "origin": "Atlantis Summon",
     "costumeBonusesId": "atlantis"
   },
@@ -5695,6 +5879,7 @@
     "aetherGift": "Revive",
     "rarity": 5,
     "specialId": "commodores_revenge",
+    "canBeReceivedDate": "2019-10-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5711,6 +5896,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "zombie_curse",
+    "canBeReceivedDate": "2019-10-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5731,7 +5917,8 @@
     "rarity": 5,
     "specialId": "mending_mantra",
     "canBeReceivedDate": "2019-09-01 07:00:00",
-    "origin": "MonthlyHeroSeptember2019"
+    "origin": "MonthlyHeroSeptember2019",
+    "costumeBonusesId": "legends_aug2026"
   },
   "guardian_chameleon": {
     "id": "Elementalist of Teltoc",
@@ -5745,6 +5932,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "elemental_magic",
+    "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5778,6 +5966,7 @@
     "aetherGift": "Knight's Endurance",
     "rarity": 5,
     "specialId": "just_a_flesh_wound",
+    "canBeReceivedDate": "2019-09-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5794,6 +5983,7 @@
     "aetherGift": "Special Armor",
     "rarity": 5,
     "specialId": "magical_sword",
+    "canBeReceivedDate": "2019-09-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5810,6 +6000,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "three_blind_mice",
+    "canBeReceivedDate": "2019-12-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5826,6 +6017,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 5,
     "specialId": "dance_of_spirits",
+    "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5842,6 +6034,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "enchanted_edge",
+    "canBeReceivedDate": "2019-12-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5858,6 +6051,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "sideswipe",
+    "canBeReceivedDate": "2019-11-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5874,6 +6068,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "rabbits_watch",
+    "canBeReceivedDate": "2019-11-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB",
     "costumeBonusesId": "festival"
@@ -5890,6 +6085,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "destructive_strike",
+    "canBeReceivedDate": "2019-10-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5905,6 +6101,7 @@
     "aetherGift": "Taunt",
     "rarity": 3,
     "specialId": "camouflage_foliage",
+    "canBeReceivedDate": "2019-11-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5920,6 +6117,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 3,
     "specialId": "merciless_bite",
+    "canBeReceivedDate": "2020-01-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5935,6 +6133,7 @@
     "aetherGift": "Counterattack",
     "rarity": 3,
     "specialId": "claw_power",
+    "canBeReceivedDate": "2019-09-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -5950,6 +6149,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "pixie_dust",
+    "canBeReceivedDate": "2019-12-01 07:00:00",
     "origin": "Challenge Festival I",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestivalB"
   },
@@ -6037,6 +6237,7 @@
     "aetherGift": "Heal Increase",
     "rarity": 5,
     "specialId": "boon_of_gjallarhorn",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "valhalla_buffed"
   },
@@ -6052,6 +6253,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "nuts_of_yggdrasil",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "valhalla_buffed"
   },
@@ -6149,6 +6351,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "frosty_axes",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6164,6 +6367,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "adamantite_claw",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "valhalla_buffed"
   },
@@ -6179,6 +6383,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 5,
     "specialId": "gold_weaver",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "valhalla_buffed"
   },
@@ -6194,6 +6399,7 @@
     "aetherGift": "Special Boost",
     "rarity": 4,
     "specialId": "chain_of_pain",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6225,6 +6431,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "valkyrie_charge",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6240,6 +6447,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 4,
     "specialId": "valkyrie_defense",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6271,6 +6479,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "ravens_vigil",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "valhalla_buffed"
   },
@@ -6286,6 +6495,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 3,
     "specialId": "tainted_axe",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6381,6 +6591,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "dual_slash",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6396,6 +6607,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "bee_bravado",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6411,6 +6623,7 @@
     "aetherGift": "Rage",
     "rarity": 4,
     "specialId": "dire_ghost",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6426,6 +6639,7 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "magma_boulders",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6441,6 +6655,7 @@
     "aetherGift": "Special Armor",
     "rarity": 3,
     "specialId": "hollow_boast",
+    "canBeReceivedDate": "2020-02-27 07:00:00",
     "origin": "Valhalla Summon",
     "costumeBonusesId": "kalevala"
   },
@@ -6574,6 +6789,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "compact_lance",
+    "canBeReceivedDate": "2020-04-06 07:00:00",
     "origin": "Easter"
   },
   "easter_lady_woolerton": {
@@ -6588,6 +6804,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "smooth_treatment",
+    "canBeReceivedDate": "2020-04-06 07:00:00",
     "origin": "Easter",
     "costumeBonusesId": "easter_2026"
   },
@@ -6603,6 +6820,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "luminous_lance",
+    "canBeReceivedDate": "2020-04-06 07:00:00",
     "origin": "Easter",
     "costumeBonusesId": "easter_2026"
   },
@@ -6618,6 +6836,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "reckless_swing",
+    "canBeReceivedDate": "2020-04-06 07:00:00",
     "origin": "Easter",
     "costumeBonusesId": "easter"
   },
@@ -6636,6 +6855,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "absordium_deflectors",
+    "canBeReceivedDate": "2020-05-01 07:00:00",
     "origin": "HeroesOfTheMonthEvent",
     "isSecret": true
   },
@@ -6715,6 +6935,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "sand_cyclone",
+    "canBeReceivedDate": "2020-06-29 07:00:00",
     "origin": "Summer",
     "costumeBonusesId": "sand"
   },
@@ -11477,7 +11698,8 @@
     "specialId": "muffin_poisoning",
     "canBeReceivedDate": "2022-10-03 07:00:00",
     "origin": "Halloween",
-    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
+    "costumeBonusesId": "halloween2026"
   },
   "halloween_ana_belle": {
     "id": "Charlady of Morlovia",
@@ -18692,7 +18914,8 @@
     "rarity": 5,
     "specialId": "corroding_cutlass",
     "canBeReceivedDate": "2023-06-28 07:00:00",
-    "origin": "Covenant Summon"
+    "origin": "Covenant Summon",
+    "costumeBonusesId": "construct_brimstone"
   },
   "construct_haulstone": {
     "id": "Carry-It-All Construct",
@@ -18711,7 +18934,8 @@
     "rarity": 5,
     "specialId": "bag_of_necessities",
     "canBeReceivedDate": "2023-06-28 07:00:00",
-    "origin": "Covenant Summon"
+    "origin": "Covenant Summon",
+    "costumeBonusesId": "construct_haulstone"
   },
   "ballerina_odette": {
     "id": "The White Swan",
@@ -19110,7 +19334,8 @@
     "rarity": 5,
     "specialId": "infernal_flames",
     "canBeReceivedDate": "2023-07-27 07:00:00",
-    "origin": "Covenant Summon"
+    "origin": "Covenant Summon",
+    "costumeBonusesId": "construct_brimstone"
   },
   "construct_bonechill": {
     "id": "Frost Construct",
@@ -19129,7 +19354,8 @@
     "rarity": 4,
     "specialId": "frost_and_rime",
     "canBeReceivedDate": "2024-04-25 07:00:00",
-    "origin": "Covenant Summon"
+    "origin": "Covenant Summon",
+    "costumeBonusesId": "construct_epicrare"
   },
   "kalevala_ukkonen": {
     "id": "Cursed Kin of Väinämöinen",
@@ -19300,7 +19526,8 @@
     "rarity": 3,
     "specialId": "swooping_support",
     "canBeReceivedDate": "2024-04-25 07:00:00",
-    "origin": "Covenant Summon"
+    "origin": "Covenant Summon",
+    "costumeBonusesId": "construct_epicrare"
   },
   "tales1_ultrox": {
     "id": "Temple Keeper of the Deep",
@@ -19504,7 +19731,8 @@
     "rarity": 5,
     "specialId": "pathfinders_compass",
     "canBeReceivedDate": "2024-02-08 07:00:00",
-    "origin": "Covenant Summon"
+    "origin": "Covenant Summon",
+    "costumeBonusesId": "construct_nautica"
   },
   "construct_hornfel": {
     "id": "Minotaur Construct",
@@ -20992,6 +21220,27 @@
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "forest_titan"
   },
+  "forest_titan_costume_stylish": {
+    "id": "forest_titan_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 760,
+    "baseAttack": 300,
+    "baseDefense": 340,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish_legendary"
+    ],
+    "classType": "Druid",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "anger_of_arboretum",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "forest_titan"
+  },
   "cultist_inventor_costume_glass": {
     "id": "Glass Scientist",
     "element": "Purple",
@@ -21009,6 +21258,27 @@
     "rarity": 5,
     "specialId": "glass_thunderstrike_quintus",
     "canBeReceivedDate": "2025-10-09 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "cultist_inventor"
+  },
+  "cultist_inventor_costume_stylish": {
+    "id": "cultist_inventor_costume_stylish",
+    "element": "Purple",
+    "family": "classic",
+    "baseHealth": 671,
+    "baseAttack": 338,
+    "baseDefense": 343,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish_legendary"
+    ],
+    "classType": "Sorcerer",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Mana Boost",
+    "rarity": 5,
+    "specialId": "stylish_ultimatum_quintus",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "cultist_inventor"
@@ -21538,6 +21808,27 @@
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nomad_female_assassin"
   },
+  "nomad_female_assassin_costume_stylish": {
+    "id": "nomad_female_assassin_costume_stylish",
+    "element": "Red",
+    "family": "classic",
+    "baseHealth": 496,
+    "baseAttack": 346,
+    "baseDefense": 258,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish_epic"
+    ],
+    "classType": "Rogue",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "stylish_barrage_scarlett",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "nomad_female_assassin"
+  },
   "blackguard_commander_costume_glass": {
     "id": "Mournful Vitrail",
     "element": "Purple",
@@ -21559,6 +21850,27 @@
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "blackguard_commander"
   },
+  "blackguard_commander_costume_stylish": {
+    "id": "blackguard_commander_costume_stylish",
+    "element": "Purple",
+    "family": "classic",
+    "baseHealth": 472,
+    "baseAttack": 306,
+    "baseDefense": 319,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish_epic"
+    ],
+    "classType": "Ranger",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "stylish_pulverizer_tiburtus",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "blackguard_commander"
+  },
   "dwarven_guard_costume_glass": {
     "id": "Glass Defender",
     "element": "Blue",
@@ -21576,6 +21888,27 @@
     "rarity": 4,
     "specialId": "glass_riposte_boril",
     "canBeReceivedDate": "2025-10-09 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "dwarven_guard"
+  },
+  "dwarven_guard_costume_stylish": {
+    "id": "dwarven_guard_costume_stylish",
+    "element": "Blue",
+    "family": "classic",
+    "baseHealth": 540,
+    "baseAttack": 265,
+    "baseDefense": 342,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish_epic"
+    ],
+    "classType": "Cleric",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Regen",
+    "rarity": 4,
+    "specialId": "stylish_riposte_boril",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "dwarven_guard"
@@ -22063,6 +22396,27 @@
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "lizardman_warrior"
   },
+  "lizardman_warrior_costume_stylish": {
+    "id": "lizardman_warrior_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 500,
+    "baseAttack": 245,
+    "baseDefense": 235,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish_rare"
+    ],
+    "classType": "Ranger",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Special Boost",
+    "rarity": 3,
+    "specialId": "stylish_rush_isshtak",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "lizardman_warrior"
+  },
   "undead_horned_skeleton_costume_glass": {
     "id": "Relentless Vitrail",
     "element": "Purple",
@@ -22080,6 +22434,27 @@
     "rarity": 3,
     "specialId": "glass_traps_oberon",
     "canBeReceivedDate": "2025-09-07 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "undead_horned_skeleton"
+  },
+  "undead_horned_skeleton_costume_stylish": {
+    "id": "undead_horned_skeleton_costume_stylish",
+    "element": "Purple",
+    "family": "classic",
+    "baseHealth": 459,
+    "baseAttack": 260,
+    "baseDefense": 234,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish_rare"
+    ],
+    "classType": "Fighter",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Mana Boost",
+    "rarity": 3,
+    "specialId": "stylish_traps_oberon",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "undead_horned_skeleton"
@@ -22105,6 +22480,27 @@
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "nordic_mage"
   },
+  "nordic_mage_costume_stylish": {
+    "id": "nordic_mage_costume_stylish",
+    "element": "Blue",
+    "family": "classic",
+    "baseHealth": 393,
+    "baseAttack": 275,
+    "baseDefense": 248,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish_rare"
+    ],
+    "classType": "Wizard",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "stylish_cold_blast_ulmer",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "nordic_mage"
+  },
   "oriental_female_guard_costume_glass": {
     "id": "Vitrail of Shaguad",
     "element": "Yellow",
@@ -22122,6 +22518,27 @@
     "rarity": 3,
     "specialId": "glass_leaping_attack_dawa",
     "canBeReceivedDate": "2025-10-09 07:00:00",
+    "origin": "Season1",
+    "summonExclusiveTag": "Wardrobe1",
+    "parentHeroId": "oriental_female_guard"
+  },
+  "oriental_female_guard_costume_stylish": {
+    "id": "oriental_female_guard_costume_stylish",
+    "element": "Yellow",
+    "family": "classic",
+    "baseHealth": 364,
+    "baseAttack": 277,
+    "baseDefense": 253,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish_rare"
+    ],
+    "classType": "Rogue",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Dodge",
+    "rarity": 3,
+    "specialId": "stylish_leap_dawa",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
     "parentHeroId": "oriental_female_guard"
@@ -32304,7 +32721,8 @@
     "rarity": 5,
     "specialId": "precious_pets",
     "canBeReceivedDate": "2025-10-08 07:00:00",
-    "origin": "Halloween2025"
+    "origin": "Halloween2025",
+    "costumeBonusesId": "fleur2026"
   },
   "fleur_ludovico": {
     "id": "Sanguine Steward",
@@ -35822,9 +36240,9 @@
     "id": "Moonstruck Druid of the Woods",
     "element": "Green",
     "family": "shady_scoundrels",
-    "baseHealth": 1111,
-    "baseAttack": 663,
-    "baseDefense": 702,
+    "baseHealth": 1205,
+    "baseAttack": 670,
+    "baseDefense": 695,
     "manaSpeedId": "average",
     "passiveSkills": [
       "cheat_death",
@@ -36462,6 +36880,25 @@
     "canBeReceivedDate": "2026-09-13 07:00:00",
     "origin": "TitanHunter"
   },
+  "titan_hunter_juniper": {
+    "id": "titan_hunter_juniper",
+    "element": "Green",
+    "family": "titan_hunter",
+    "baseHealth": 1172,
+    "baseAttack": 694,
+    "baseDefense": 674,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_green_on_special_titan_hunter_parent"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "verdant_hunt",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
   "titan_hunter_orson": {
     "id": "Warden of the Grove",
     "element": "Green",
@@ -36500,6 +36937,44 @@
     "canBeReceivedDate": "2026-08-03 07:00:00",
     "origin": "TitanHunter"
   },
+  "titan_hunter_ingrith": {
+    "id": "titan_hunter_ingrith",
+    "element": "Blue",
+    "family": "titan_hunter",
+    "baseHealth": 1163,
+    "baseAttack": 694,
+    "baseDefense": 678,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_blue_on_special_titan_hunter_parent"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "arctic_trap",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
+  "titan_hunter_yuralia": {
+    "id": "titan_hunter_yuralia",
+    "element": "Purple",
+    "family": "titan_hunter",
+    "baseHealth": 1163,
+    "baseAttack": 694,
+    "baseDefense": 678,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_purple_on_special_titan_hunter_parent"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "venom_trap",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
   "titan_hunter_maar": {
     "id": "Warden of the Rainforest",
     "element": "Red",
@@ -36517,6 +36992,25 @@
     "rarity": 5,
     "specialId": "crimson_guard",
     "canBeReceivedDate": "2026-10-01 07:00:00",
+    "origin": "TitanHunter"
+  },
+  "titan_hunter_crag": {
+    "id": "titan_hunter_crag",
+    "element": "Yellow",
+    "family": "titan_hunter",
+    "baseHealth": 1179,
+    "baseAttack": 681,
+    "baseDefense": 687,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_yellow_on_special_titan_hunter_parent"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "desert_guard",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
   "institute_zenas": {
@@ -37234,9 +37728,9 @@
     "id": "Wielder of Crimson Club",
     "element": "Red",
     "family": "hotm2026",
-    "baseHealth": 1060,
-    "baseAttack": 665,
-    "baseDefense": 630,
+    "baseHealth": 1057,
+    "baseAttack": 659,
+    "baseDefense": 624,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "never_miss_special",
@@ -37858,7 +38352,7 @@
       "mana_generation_modifier_all_enemies_more_sources"
     ],
     "classType": "Cleric",
-    "aetherGift": "Revive",
+    "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "power_of_shattered_moons",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -38022,6 +38516,86 @@
     "rarity": 5,
     "specialId": "swift_stabs",
     "canBeReceivedDate": "2026-08-27 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_kogan": {
+    "id": "ronin_kogan",
+    "element": "Yellow",
+    "family": "ronin",
+    "baseHealth": 1182,
+    "baseAttack": 679,
+    "baseDefense": 699,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health",
+      "reduce_minion_health"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "strength_of_the_mountain",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_mori_hyouei": {
+    "id": "ronin_mori_hyouei",
+    "element": "Blue",
+    "family": "ronin",
+    "baseHealth": 1167,
+    "baseAttack": 701,
+    "baseDefense": 678,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health",
+      "reduce_minion_health"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "whisper_in_the_night",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_ishikawa_genta": {
+    "id": "ronin_ishikawa_genta",
+    "element": "Green",
+    "family": "ronin",
+    "baseHealth": 1180,
+    "baseAttack": 700,
+    "baseDefense": 673,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health",
+      "reduce_minion_health"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "quiet_resolve",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_aoki_morika": {
+    "id": "ronin_aoki_morika",
+    "element": "Green",
+    "family": "ronin",
+    "baseHealth": 1175,
+    "baseAttack": 702,
+    "baseDefense": 673,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health",
+      "reduce_minion_health"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "cleansing_cut",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Ninja Tower"
   },
   "mahayoddha_baji": {
@@ -38512,7 +39086,7 @@
       "mana_on_damage_received"
     ],
     "classType": "Wizard",
-    "aetherGift": "Special Boost",
+    "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "ballad_of_biroho",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -38554,5 +39128,740 @@
     "specialId": "buried_vengeance",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "KingdomWar"
+  },
+  "fleur_chrysostom": {
+    "id": "fleur_chrysostom",
+    "element": "Purple",
+    "family": "fleur_de_sang",
+    "baseHealth": 1210,
+    "baseAttack": 665,
+    "baseDefense": 680,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "commanding_presence",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_bezian": {
+    "id": "fleur_bezian",
+    "element": "Green",
+    "family": "fleur_de_sang",
+    "baseHealth": 1208,
+    "baseAttack": 664,
+    "baseDefense": 670,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "flurry_of_bats",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "halloween_karlov": {
+    "id": "halloween_karlov",
+    "element": "Red",
+    "family": "halloween",
+    "baseHealth": 1135,
+    "baseAttack": 685,
+    "baseDefense": 662,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Vampire",
+    "rarity": 5,
+    "specialId": "midnight_blitzing",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
+  },
+  "wild_west_fast_red_legendary_temp1": {
+    "id": "wild_west_fast_red_legendary_temp1",
+    "element": "Red",
+    "family": "wild_west",
+    "baseHealth": 1185,
+    "baseAttack": 701,
+    "baseDefense": 699,
+    "manaSpeedId": "fast",
+    "classType": "Fighter",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "teargas_roulette",
+    "canBeReceivedDate": "2026-11-22 07:00:00",
+    "origin": "Black Friday Summon"
+  },
+  "wild_west_average_purple_legendary_temp1": {
+    "id": "wild_west_average_purple_legendary_temp1",
+    "element": "Purple",
+    "family": "wild_west",
+    "baseHealth": 1185,
+    "baseAttack": 701,
+    "baseDefense": 699,
+    "manaSpeedId": "average",
+    "classType": "Rogue",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "teargas_roulette",
+    "canBeReceivedDate": "2026-11-22 07:00:00",
+    "origin": "Black Friday Summon"
+  },
+  "vegetable_taterian": {
+    "id": "vegetable_taterian",
+    "element": "Yellow",
+    "family": "vegetable",
+    "baseHealth": 1215,
+    "baseAttack": 686,
+    "baseDefense": 682,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "potato_plunder",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Vigilant Vegetables"
+  },
+  "vegetable_cauliver": {
+    "id": "vegetable_cauliver",
+    "element": "Blue",
+    "family": "vegetable",
+    "baseHealth": 1211,
+    "baseAttack": 675,
+    "baseDefense": 695,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "summon_seedling_parasite_with_delay",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "happy_hops",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Vigilant Vegetables"
+  },
+  "construct_haulstone_costume_picnic": {
+    "id": "construct_haulstone_costume_picnic",
+    "element": "Green",
+    "family": "construct",
+    "baseHealth": 906,
+    "baseAttack": 369,
+    "baseDefense": 478,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "repair_core_costume",
+      "resist_special_blocking"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Damage Reduction",
+    "costumeBonusPassiveSkillIds": [
+      "construct_core_charge_saver"
+    ],
+    "rarity": 5,
+    "specialId": "picnic_bag",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon",
+    "parentHeroId": "construct_haulstone"
+  },
+  "construct_ferrus_costume_shipyard": {
+    "id": "construct_ferrus_costume_shipyard",
+    "element": "Green",
+    "family": "construct",
+    "baseHealth": 874,
+    "baseAttack": 445,
+    "baseDefense": 443,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "corrosive_core_costume",
+      "resist_special_blocking"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Counterattack",
+    "costumeBonusPassiveSkillIds": [
+      "construct_core_charge_saver"
+    ],
+    "rarity": 5,
+    "specialId": "charged_cutlass",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon",
+    "parentHeroId": "construct_ferrus"
+  },
+  "construct_brimstone_costume_hellforged": {
+    "id": "construct_brimstone_costume_hellforged",
+    "element": "Red",
+    "family": "construct",
+    "baseHealth": 857,
+    "baseAttack": 456,
+    "baseDefense": 440,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "destructive_core_costume",
+      "resist_special_blocking"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Rage",
+    "costumeBonusPassiveSkillIds": [
+      "construct_core_charge_saver"
+    ],
+    "rarity": 5,
+    "specialId": "smelting_wrath",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon",
+    "parentHeroId": "construct_brimstone"
+  },
+  "construct_bonechill_costume_bedrock": {
+    "id": "construct_bonechill_costume_bedrock",
+    "element": "Blue",
+    "family": "construct",
+    "baseHealth": 584,
+    "baseAttack": 307,
+    "baseDefense": 359,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "destructive_core_costume",
+      "resist_special_blocking"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "construct_core_charge_saver"
+    ],
+    "rarity": 4,
+    "specialId": "rock_and_rime",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon",
+    "parentHeroId": "construct_bonechill"
+  },
+  "construct_rustbeak_costume_devout": {
+    "id": "construct_rustbeak_costume_devout",
+    "element": "Yellow",
+    "family": "construct",
+    "baseHealth": 474,
+    "baseAttack": 285,
+    "baseDefense": 294,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "repair_core_costume",
+      "resist_special_blocking"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Fiend Resist",
+    "costumeBonusPassiveSkillIds": [
+      "construct_core_charge_saver"
+    ],
+    "rarity": 3,
+    "specialId": "swooping_aid",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon",
+    "parentHeroId": "construct_rustbeak"
+  },
+  "construct_nautica_costume_astronomer": {
+    "id": "construct_nautica_costume_astronomer",
+    "element": "Blue",
+    "family": "construct",
+    "baseHealth": 840,
+    "baseAttack": 484,
+    "baseDefense": 485,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "repair_core_costume",
+      "resist_special_blocking"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Boosted Regen",
+    "costumeBonusPassiveSkillIds": [
+      "construct_core_charge_saver"
+    ],
+    "rarity": 5,
+    "specialId": "stargazers_telescope",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Covenant Summon",
+    "parentHeroId": "construct_nautica"
+  },
+  "fleur_elyzabel_costume_scout": {
+    "id": "fleur_elyzabel_costume_scout",
+    "element": "Red",
+    "family": "fleur_de_sang",
+    "baseHealth": 1098,
+    "baseAttack": 626,
+    "baseDefense": 610,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "pernicious_pets",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween2025",
+    "parentHeroId": "fleur_elyzabel"
+  },
+  "halloween_matilda_costume_mafia": {
+    "id": "halloween_matilda_costume_mafia",
+    "element": "Yellow",
+    "family": "halloween",
+    "baseHealth": 726,
+    "baseAttack": 395,
+    "baseDefense": 402,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "perfume_poisoning",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "halloween_matilda"
+  },
+  "vampire_queen_costume_mafia": {
+    "id": "vampire_queen_costume_mafia",
+    "element": "Blue",
+    "family": "halloween",
+    "baseHealth": 566,
+    "baseAttack": 286,
+    "baseDefense": 310,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Regen",
+    "rarity": 4,
+    "specialId": "cardio_of_sorrow",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "vampire_queen"
+  },
+  "vampire_lord_costume_mafia": {
+    "id": "vampire_lord_costume_mafia",
+    "element": "Purple",
+    "family": "halloween",
+    "baseHealth": 498,
+    "baseAttack": 208,
+    "baseDefense": 283,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Regen",
+    "rarity": 3,
+    "specialId": "dawn_of_agony",
+    "canBeReceivedDate": "2026-10-19 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "vampire_lord"
+  },
+  "forest_god_elinor_costume_pirate": {
+    "id": "forest_god_elinor_costume_pirate",
+    "element": "Green",
+    "family": "hotm2019",
+    "baseHealth": 610,
+    "baseAttack": 402,
+    "baseDefense": 313,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "resist_buff_dispels"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reversal"
+    ],
+    "rarity": 5,
+    "specialId": "lurk_in_shadows",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroMay2019",
+    "parentHeroId": "forest_god_elinor"
+  },
+  "ice_god_miki_costume_expeditioner": {
+    "id": "ice_god_miki_costume_expeditioner",
+    "element": "Blue",
+    "family": "hotm2019",
+    "baseHealth": 617,
+    "baseAttack": 346,
+    "baseDefense": 380,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_special_blocking"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Rage",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reflector"
+    ],
+    "rarity": 5,
+    "specialId": "brush_of_tundra",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroAugust2019",
+    "parentHeroId": "ice_god_miki"
+  },
+  "holy_god_ranvir_costume_sunpriest": {
+    "id": "holy_god_ranvir_costume_sunpriest",
+    "element": "Yellow",
+    "family": "hotm2019",
+    "baseHealth": 547,
+    "baseAttack": 375,
+    "baseDefense": 379,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_poison"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reversal"
+    ],
+    "rarity": 5,
+    "specialId": "mystics_grace",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroJune2019",
+    "parentHeroId": "holy_god_ranvir"
+  },
+  "fire_god_nadnog_costume_harvester": {
+    "id": "fire_god_nadnog_costume_harvester",
+    "element": "Red",
+    "family": "hotm2019",
+    "baseHealth": 683,
+    "baseAttack": 304,
+    "baseDefense": 399,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "resist_heal_multiplier_debuffs"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Special Armor",
+    "costumeBonusPassiveSkillIds": [
+      "legendary_reversal"
+    ],
+    "rarity": 5,
+    "specialId": "renewing_mantra",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroSeptember2019",
+    "parentHeroId": "fire_god_nadnog"
+  },
+  "rodent_bonegnaw": {
+    "id": "rodent_bonegnaw",
+    "element": "Purple",
+    "family": "rodent",
+    "baseHealth": 1226,
+    "baseAttack": 663,
+    "baseDefense": 694,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_effects_on_ally_passive_skill"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "cleaver_of_carrots",
+    "canBeReceivedDate": "2200-01-01 07:00:00"
+  },
+  "rodent_galepaw": {
+    "id": "rodent_galepaw",
+    "element": "Yellow",
+    "family": "rodent",
+    "baseHealth": 1198,
+    "baseAttack": 695,
+    "baseDefense": 669,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_effects_on_ally_passive_skill"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "plummeting_arrow",
+    "canBeReceivedDate": "2200-01-01 07:00:00"
+  },
+  "rodent_oakspine": {
+    "id": "rodent_oakspine",
+    "element": "Green",
+    "family": "rodent",
+    "baseHealth": 1195,
+    "baseAttack": 679,
+    "baseDefense": 690,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_effects_on_ally_passive_skill"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "sturdy_club",
+    "canBeReceivedDate": "2200-01-01 07:00:00"
+  },
+  "rodent_dewfoot": {
+    "id": "rodent_dewfoot",
+    "element": "Blue",
+    "family": "rodent",
+    "baseHealth": 685,
+    "baseAttack": 392,
+    "baseDefense": 374,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_weak_effects_on_ally_passive_skill"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Special Armor",
+    "rarity": 4,
+    "specialId": "wild_splinter",
+    "canBeReceivedDate": "2200-01-01 07:00:00"
+  },
+  "rodent_honeytuft": {
+    "id": "rodent_honeytuft",
+    "element": "Yellow",
+    "family": "rodent",
+    "baseHealth": 560,
+    "baseAttack": 307,
+    "baseDefense": 322,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_weak_effects_on_ally_passive_skill"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Fiend Resist",
+    "rarity": 3,
+    "specialId": "purifying_brush",
+    "canBeReceivedDate": "2200-01-01 07:00:00"
+  },
+  "mimic_titan_part_red": {
+    "id": "mimic_titan_part_red",
+    "element": "Red",
+    "family": "mimic",
+    "baseHealth": 1181,
+    "baseAttack": 710,
+    "baseDefense": 690,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_titanpart_red"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "titan_part_mimic_bite_red",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonTitanPartMimicRed",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_titan_part_blue": {
+    "id": "mimic_titan_part_blue",
+    "element": "Blue",
+    "family": "mimic",
+    "baseHealth": 1181,
+    "baseAttack": 710,
+    "baseDefense": 690,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_titanpart_blue"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "titan_part_mimic_bite_blue",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonTitanPartMimicBlue",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_titan_part_green": {
+    "id": "mimic_titan_part_green",
+    "element": "Green",
+    "family": "mimic",
+    "baseHealth": 1181,
+    "baseAttack": 710,
+    "baseDefense": 690,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_titanpart_green"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "titan_part_mimic_bite_green",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonTitanPartMimicGreen",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_titan_part_purple": {
+    "id": "mimic_titan_part_purple",
+    "element": "Purple",
+    "family": "mimic",
+    "baseHealth": 1181,
+    "baseAttack": 710,
+    "baseDefense": 690,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_titanpart_purple"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "titan_part_mimic_bite_purple",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonTitanPartMimicPurple",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_titan_part_yellow": {
+    "id": "mimic_titan_part_yellow",
+    "element": "Yellow",
+    "family": "mimic",
+    "baseHealth": 1181,
+    "baseAttack": 710,
+    "baseDefense": 690,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "mimic_titanpart_yellow"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "titan_part_mimic_bite_yellow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SecretSummonTitanPartMimicYellow",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "s3_heimdall_costume_cute": {
+    "id": "s3_heimdall_costume_cute",
+    "element": "Green",
+    "family": "asgard",
+    "baseHealth": 689,
+    "baseAttack": 319,
+    "baseDefense": 411,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "toon_boon_of_gjallarhorn",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_heimdall"
+  },
+  "forest_god_zeline_costume_cute": {
+    "id": "forest_god_zeline_costume_cute",
+    "element": "Green",
+    "family": "hotm2018",
+    "baseHealth": 636,
+    "baseAttack": 372,
+    "baseDefense": 335,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "toon_flash",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroFebruary2018",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "forest_god_zeline"
+  },
+  "s3_gullinbursti_costume_cute": {
+    "id": "s3_gullinbursti_costume_cute",
+    "element": "Yellow",
+    "family": "asgard",
+    "baseHealth": 658,
+    "baseAttack": 287,
+    "baseDefense": 287,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Druid",
+    "aetherGift": "Heal Increase",
+    "rarity": 4,
+    "specialId": "toon_boar_frenzy",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_gullinbursti"
+  },
+  "s3_by_ulf_costume_cute": {
+    "id": "s3_by_ulf_costume_cute",
+    "element": "Green",
+    "family": "niflheim",
+    "baseHealth": 497,
+    "baseAttack": 252,
+    "baseDefense": 258,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Special Armor",
+    "rarity": 3,
+    "specialId": "toon_boast",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_by_ulf"
+  },
+  "s3_tyr_costume_cute": {
+    "id": "s3_tyr_costume_cute",
+    "element": "Red",
+    "family": "helheim",
+    "baseHealth": 638,
+    "baseAttack": 376,
+    "baseDefense": 368,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "toontastic_claw",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_tyr"
+  },
+  "s3_mist_costume_cute": {
+    "id": "s3_mist_costume_cute",
+    "element": "Yellow",
+    "family": "midgard",
+    "baseHealth": 562,
+    "baseAttack": 324,
+    "baseDefense": 285,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "toon_charge",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Valhalla Summon",
+    "summonExclusiveTag": "Wardrobe2",
+    "parentHeroId": "s3_mist"
   }
 }

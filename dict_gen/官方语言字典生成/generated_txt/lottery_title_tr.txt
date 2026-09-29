@@ -11,6 +11,8 @@
 "lottery.title.costumesummon.generic","Kostüm Çağrısı"
 "lottery.title.covenantsummon","Pakt Çağrısı"
 "lottery.title.dailysummon","Günlük Çağrı"
+"lottery.title.deluxe.ascensionsummon","Lüks"
+"lottery.title.deluxeascensionsummon","Lüks Anlık Güç"
 "lottery.title.elementaldragonsummon","Elementer Ejderha Çağrısı"
 "lottery.title.elementalherosummon","Elementer Çağrısı"
 "lottery.title.epicdragonsummon","Efsanevi Ejderha Çağrısı"

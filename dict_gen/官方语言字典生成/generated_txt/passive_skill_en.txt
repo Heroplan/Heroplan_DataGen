@@ -31,7 +31,11 @@ Also prevents status ailments and negative stacks from damaging other allies tha
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Deals {DAMAGEPERTURN} damage to all enemy Minions and Mega Minions at the start of each turn."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Deals {DAMAGEPERTURN} damage to all enemy Minions and Mega Minions at the start of each turn."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","All damage done to enemies by normal attacks and Special Skills is increased by {DAMAGEINCREASEPERSTEP}% per {INSANITYPERSTEP} Insanity on this character up to {MAXDAMAGEINCREASE}%. Does not include damage dealt to self or allies when activating Insanity."
-"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","When the Linked Hero is hit by a Special Skill, the dispellable buff with the shortest remaining duration is removed to reduce the incoming damage by {DAMAGEREDUCTION}%. If the Linked Hero has {INCREASEDDAMAGEREDUCTIONTHRESHOLD}% health or less, the damage is reduced by {INCREASEDDAMAGEREDUCTION}% instead."
+"herocard.passive_skill.description.damagereductionforstatuseffectsupportcharacter.troop.minorbuff.specialskill","Troop Ability
+
+ When the Hero is hit by a Special Skill, if they have any dispellable buffs, one is consumed to reduce incoming damage by {DAMAGEREDUCTION}%.
+
+ If the Hero has multiple dispellable buffs, the one with the shortest duration is consumed. Stubborn effects cannot be consumed."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","All damage from normal attacks and Special Skills dealt by this character is increased by {MODIFIER}% per Blood Lily stack on target."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","If any allies are Dancing, this character's Special Skill deals {MODIFIERCHANGE}% more damage."
 "herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.water.alldebuffs.enemies.single.specialskill.familiar.any","This character's Special Skill, Mega Minions and Minions deal increased damage against enemies with any ailment that deals Water damage.
@@ -61,6 +65,8 @@ Each of these effects can activate once per turn."
  Maximum of {MAXMANAGAINPERTURN}% mana gained per turn."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","When this character receives damage from Special Skills or in place of a character in Cover, there's a {CHANCE}% chance to deal {POWER}% of the received damage to all enemies."
 "herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance.rarity_limit_damage","When this character receives damage from Special Skills or in place of a character in Cover, there's a {CHANCE}% chance to deal {POWER}% of the received damage to all enemies. (Max damage: {RARITYLIMITEDDAMAGE})"
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies","When this character receives damage in place of a character in Cover, they deal {POWER}% of the received damage to all enemies."
+"herocard.passive_skill.description.effectondamagereceived.damage.statuseffectskill.cover.all.enemies.rarity_limit_damage","When this character receives damage in place of a character in Cover, they deal {POWER}% of the received damage to all enemies. (Max damage: {RARITYLIMITEDDAMAGE})"
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","When this character receives damage from Special Skills, they gain {STATUSEFFECT1ATTACK}% attack Stack (max: {STATUSEFFECT1MAXSTACK}). One Stack can be gained per turn."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low.single.allies.onceperturn","When this character receives damage from Special Skills, they gain {STATUSEFFECT1ATTACK}% attack Stack (max: {STATUSEFFECT1MAXSTACK}). One Stack can be gained per turn."
 "herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","When this character receives damage from Special Skills, they gain {STATUSEFFECT1ATTACK}% attack Stack (max: {STATUSEFFECT1MAXSTACK}). One Stack can be gained per turn."
@@ -97,7 +103,7 @@ The attacker receives {STATUSEFFECT1DAMAGE} Bleed damage over {TURNS} turns."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","When this character scores a critical hit with their Special Skill, they boost the health of all their allies by {HEALTHBOOST}%."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","When this character scores a critical hit with their Special Skill, they boost the health of all their allies by {HEALTHBOOST}%"
-"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","When any other ally casts a Special Skill, this character deals {POWER}% damage to a random enemy. The targeted enemy receives {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% defense for {DIRECTEFFECT1STATUSEFFECT1TURNS} turns."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","When any other ally casts a Special Skill, this character deals {POWER}% damage to a random enemy. The enemy receives {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% defense for {DIRECTEFFECT1STATUSEFFECT1TURNS} turns."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","When an enemy casts their Special Skill, this character has a {CHANCE}% chance to boost this character's health by {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","When this character casts their Special Skill, they have a {CHANCE}% chance to give {POWER}% mana to all allies. If the Special Skill is fully charged, the chance is {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","When this character casts their Special Skill, they have a {CHANCE}% chance to give {POWER}% mana to all allies that are not of Ice element. If the Special Skill is fully charged, the chance is {CHANCEFULLYCHARGED}%."
@@ -132,20 +138,43 @@ The attacker receives {STATUSEFFECT1DAMAGE} Bleed damage over {TURNS} turns."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","When a Fiend is summoned to any enemy, this character gains {POWER}% mana. This effect can activate only once per turn."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","When a Fiend is summoned to any enemy, this character deals {DAMAGE}% damage to all enemies. This effect can activate only once per turn."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","When a Fiend is summoned to any enemy, this character gets {POWER} boosted health. This effect can activate only once per turn."
-"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Troop Link Bonus:
- Linked Hero's Special Skill can deal critical hits for +50% more damage.
- Critical hit chance is increased by {PASSIVESKILL2CRITICALMODIFIER}%."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.criticalmodifiersupportcharacter.troop","Troop Ability
+ The Hero's Special Skill can deal critical hits.
+
+ Critical hit chance is increased by {PASSIVESKILL2CRITICALMODIFIER}%. This effect can be active in addition to other effects that alter critical chance. 
+
+ Critical hits deal +100% more damage from normal attacks. 
+
+ Critical hits caused by a Special Skill:
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+In PvP modes, critical hits reduce the target's max health. This effect is stronger against boosted health.
+
+Special Skill effects such as Frostfall Strike, Firestorm Strike and Moonrise Strike cannot deal critical hits."
+"herocard.passive_skill.description.enablespecialcriticalhitsupportcharacter.troop.with_universalmaxhealthreduction.criticalmodifiersupportcharacter.troop","Troop Ability
+ The Hero's Special Skill can deal critical hits.
+
+ Critical hit chance is increased by {PASSIVESKILL2CRITICALMODIFIER}%. This effect can be active in addition to other effects that alter critical chance. 
+
+ Critical hits deal +100% more damage from normal attacks. 
+
+ Critical hits caused by a Special Skill:
+{PASSIVESKILL1SPECIALSKILLEFFECTS}
+
+Critical hits reduce the target's max health. This effect is stronger against boosted health.
+
+Special Skill effects such as Frostfall Strike, Firestorm Strike and Moonrise Strike cannot deal critical hits."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% chance to cast extra actions when this character casts their Special Skill."
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","All enemies' Minions have {MINIONMODIFIER}% accuracy.
 All enemies' Mega Minions have {MEGAMINIONMODIFIER}% accuracy."
-"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","The Construct Core of this character is a [#!]Minion Core[#].
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","The Construct Core of this character is a Minion Core.
 
-The [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:
+The Minion Core activates each time this character's Special Skill is cast:
 
-[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.
-[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
-[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.
-[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
+ With a fully charged Minion Core, summons a Killer Bot Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster on all allies.
+ The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
+The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.
+Wither: Each hit from a Killer Bot Minion gives its target {ATTACKMODIFIER} attack."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","The Construct Core of this character is a Minion Core.
 
 The Minion Core activates each time this character's Special Skill is cast:
@@ -194,6 +223,7 @@ The Minion Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Reduces the amount of mana increased by Special Skills by {MODIFIER}%. The effect applies to all enemies in the battle."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by {MODIFIER}%. The effect applies to all enemies in the battle."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by {MODIFIER}%. The effect applies to all enemies in the battle."
+"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","{MODIFIER}% mana generation."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","This character gains a small amount of mana when a Minion owned by them is destroyed."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","This character has innate ability to Memorize any Minion or Fiend summoned by enemies' Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","This character has innate ability to Memorize any Minion or Fiend summoned by enemies' Special Skills. The latest {0} Minions and Fiends that enemies summon will stay memorized until the Special Skill is cast."
@@ -207,22 +237,37 @@ The Minion Core activates each time this character's Special Skill is cast:
  A Minion will transform into an Eldritch Fiend: {FAMILIAR1FAMILIARATTACK}% attack, {FAMILIAR1FAMILIARHEALTHPERCENT}% health, inflicts {FAMILIAR1INSANITYTOADD} Insanity every turn.
  A Mega Minion will transform into an Eldritch Mega Fiend: {FAMILIAR2FAMILIARATTACK}% attack, {FAMILIAR2FAMILIARHEALTHPERCENT}% health, inflicts {FAMILIAR2INSANITYTOADD} Insanity every turn."
 "herocard.passive_skill.description.nevermissspecial","This character's Special Skill never misses its targets."
-"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Troop Link Bonus:
- Direct healing done by the Linked Hero's Special Skill is increased by {PASSIVESKILL1HEALMULTIPLIER}%.
- When the Linked Hero casts a Special Skill, all allies gain immunity to max health reduction for {PASSIVESKILL2TURNS}turn."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Troop Ability
+
+Direct healing from this Hero's Special Skill is increased by {PASSIVESKILL1HEALMULTIPLIER}%. This also increases Boosted Healing.
+
+ When a Special Skill is cast, all allies gain immunity to max health reduction for {PASSIVESKILL2TURNS} turns. This also prevents max health reductions caused by critical hits in PvP modes."
+"herocard.passive_skill.description.outgoinghealmodifiersupportcharacter.troop.with_universalmaxhealthreduction.statuseffectonspecialsupportcharacter.troop.minor.all.allies.resistmaxhealthreduction","Troop Ability
+
+Direct healing from this Hero's Special Skill is increased by {PASSIVESKILL1HEALMULTIPLIER}%. This also increases Boosted Healing.
+
+ When a Special Skill is cast, all allies gain immunity to max health reduction for {PASSIVESKILL2TURNS} turns. This also prevents max health reductions caused by critical hits."
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Enemies' health cannot increase above their max health."
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies","At the start of each turn, this character Ransacks a random enemy:
+"herocard.passive_skill.description.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies.activates_on_specialcast","When any other ally casts a Special Skill, this character Ransacks the enemy with the most buffs:
 
 Steals {DAMAGE} health.
 Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects."
-"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.chance","At the start of each turn, this character has a {CHANCE}% chance to Ransack a random enemy:
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn","At the start of each turn, this character Ransacks a random enemy:
+
+Steals {DAMAGE} health.
+Safely steals a buff from the enemy. This includes undispellable buffs and Dance effects."
+"herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn.chance","At the start of each turn, this character has a {CHANCE}% chance to Ransack a random enemy:
 
 Ransack:
 Steals {DAMAGE} health.
 Safely steals one random Growth effect, positive Stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.
 Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","When this character casts their Special Skill, they have a {CHANCE}% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals {DAMAGE}% damage to all enemies."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","When this character casts their Special Skill, they have a {CHANCE}% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals {DAMAGE}% damage to all enemies."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","When this character casts their Special Skill, they have a {CHANCE}% chance to 
+Steal the newest dispellable buff from a random enemy that has buffs, or
+Deal {DAMAGE}% damage to all enemies if there are no buffs that can be stolen."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","When this character casts their Special Skill, they have a {CHANCE}% chance to 
+Steal the newest dispellable buff from a random enemy that has buffs, or
+Deal {DAMAGE}% damage to all enemies if there are no buffs that can be stolen."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover {HEALTH}% health."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE}% chance to replace incoming negative effects with matching positive ones."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","This character receives less damage from Troops of the stronger element.
@@ -234,10 +279,35 @@ Received damage: -{MODIFIER}%"
 
 In battles with multiple waves, the effect is refreshed at the beginning of each wave."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to a random enemy.  (Activations left: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
+
+Does not activate if this character is the only member of their team in battle.
+
+In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
+Does not activate if this character is the only member of their team in battle."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","The first time this character would receive fatal damage, they instead redirect that damage to a random enemy.
 
 In battles with multiple waves, the effect is refreshed at the beginning of each wave."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. (Activations left: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to a random enemy."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to a random enemy. (Activations left: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
+Does not activate if this character is the only member of their team in battle."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
+Does not activate if this character is the only member of their team in battle."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
+
+In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
+
+Does not activate if this character is the only member of their team in battle.
+
+In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
+Does not activate if this character is the only member of their team in battle."
+"herocard.passive_skill.description.reduceinsanityperturn","At the start of each turn, this character's current Insanity is reduced by {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Any status ailments this character resists with Passive Skills are reflected to all enemies."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% extra chance to reflect status ailments back to the attacker."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Every {TURNS} turns, removes all Wither effects from all allies."
@@ -249,9 +319,11 @@ The Repair Core activates each time this character's Special Skill is cast:
  With a fully charged Repair Core, boosts the health of all allies by {CHARGEDPOWER1}%.
  The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
 "herocard.passive_skill.description.repeatspecial","{REPEATCHANCE}% chance to cast the Special Skill of this hero {REPEATS} times."
-"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Troop Link Bonus:
- The Linked Hero has a {REPEATCHANCE}% chance to be Lucky! and cast a Special Skill {REPEATS} times in a row.
- If there are any other Lucky! effect active, this Troop increases the chance by {REPEATCHANCEMODIFIER}% instead."
+"herocard.passive_skill.description.repeatspecialsupportcharacter.troop","Troop Ability
+
+ The Hero has a {REPEATCHANCE}% chance to be Lucky! and cast their Special Skill {REPEATS} times in a row.
+
+ If there are any other Lucky! effects active, this Troop increases the chance by {REPEATCHANCEMODIFIER}% instead."
 "herocard.passive_skill.description.resist.accuracymodifiers","This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","This character is immune to status ailments and negative stacks."
 "herocard.passive_skill.description.resist.alldebuffs.blue.alldebuffs","This character is immune to status ailments and negative stacks cast by Ice characters."
@@ -299,6 +371,7 @@ This includes
 "herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE}% extra chance to resist buff dispels."
 "herocard.passive_skill.description.resist.buffimmunity","This character is immune to effects that would block them from receiving new status effect buffs."
 "herocard.passive_skill.description.resist.burn","This character is immune to status ailments that deal Burn damage."
+"herocard.passive_skill.description.resist.burn.with_effect.addmana","This character is immune to status ailments that deal Burn damage and gains {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","This character is immune to status ailments that deal Burn damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","This character is immune to status ailments."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE}% extra chance to resist all status ailments."
@@ -309,6 +382,7 @@ This includes
  Can't be prevented from receiving Minions.
  Minion attacks and abilities can't be disabled."
 "herocard.passive_skill.description.resist.frost","This character is immune to status ailments that deal Frost damage."
+"herocard.passive_skill.description.resist.frost.with_effect.addmana","This character is immune to status ailments that deal Frost damage and gains {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","This character is immune to status ailments that deal Frost damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.healeffects","This character is immune to status ailments that affect healing."
 "herocard.passive_skill.description.resist.healthsteal","This character is immune to status ailments that steal health."
@@ -319,6 +393,7 @@ This includes
 "herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
 "herocard.passive_skill.description.resist.manareduction","This character is immune to mana reductions."
 "herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE}% extra chance to resist mana reductions."
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.addmana","This character is immune to mana reductions. They also gain {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","This character is immune to mana reductions. They also gain {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","This character is immune to stealing and Ransacking."
 "herocard.passive_skill.description.resist.maxhealthreduction","This character is immune to max health reduction."
@@ -329,9 +404,11 @@ This includes
 "herocard.passive_skill.description.resist.sand","This character is immune to status ailments that deal Sand damage."
 "herocard.passive_skill.description.resist.specialblocking","This character is immune to status ailments that prevent the use of Special Skills."
 "herocard.passive_skill.description.resist.specialblocking.with_chance","This character has a {CHANCE}% chance to resist status ailments that prevent the use of Special Skills."
+"herocard.passive_skill.description.resist.specialblocking.with_effect.addmana","This character is immune to status ailments that prevent the use of Special Skills. They also gain {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","This character is immune to status ailments that prevent the use of Special Skills. They also gain {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.stopmanageneration","This character is immune to status ailments that stop mana generation."
 "herocard.passive_skill.description.resist.water","This character is immune to status ailments that deal Water damage."
+"herocard.passive_skill.description.resist.water.with_effect.addmana","This character is immune to status ailments that deal Water damage and gains {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.water.with_effect.healthboost.addmana","This character is immune to status ailments that deal Water damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","This character is immune to status ailments that are from Minions."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","This character is immune to effects that would remove Minions from them."
@@ -384,10 +461,21 @@ Activates up to {MAXACTIVATIONCOUNT} times. Chance to revive is reduced on each 
 "herocard.passive_skill.description.statuseffectdefensemodifier.reduction","Status ailments that reduce defense are {MODIFIER}% less effective against this character."
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","Status effects that increase defense are {MODIFIER}% more effective for this character."
 "herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","Status ailments that reduce defense are {MODIFIER}% less effective against this character."
-"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Duration of the first {MAXACTIVATIONCOUNT} status ailments this character receives from Special Skills is decreased by {DURATIONMODIFIER} turn."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Decrease the duration of the first {MAXACTIVATIONCOUNT} status ailments this character receives from Special Skills.
+
+Number of turns decreased: {DURATIONMODIFIER}."
 "herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Duration of the defense status ailments this character receives from Special Skills is decreased by {DURATIONMODIFIER} turns."
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Duration of the first {MAXACTIVATIONCOUNT} buffs this character receives from Special Skills is increased by {DURATIONMODIFIER} turn."
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
+"herocard.passive_skill.description.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","Troop Ability
+
+This Troop Ability affects all enemies for the total duration of the battle.
+
+ The chance of revival is reduced by {FIXEDAMOUNTMODIFIER}%. This effect can be active in addition to other effects that alter revive chance.
+
+ If an enemy revives they receive {STATUSEFFECT1ACCURACY}% accuracy for {STATUSEFFECT1TURNS} turns.
+
+ Additional Undead Warlocks in the team do not increase the power of these effects."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.camouflage","After casting a Special Skill this character is Camouflaged and can't be directly targeted by enemy Special Skills for {TURNS} turns. This effect can't be dispelled or reallocated."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Every time this Gargoyle casts a Special Skill, their Softskin activates."
@@ -396,12 +484,35 @@ Activates up to {MAXACTIVATIONCOUNT} times. Chance to revive is reduced on each 
  A target marked with a Hunting Flare receives additional {FIXEDPOWER} damage when they receive a critical hit."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","When this character casts their Special Skill, they get {ATTACK}% attack for {TURNS} turns. This effect can be active in addition to other effects that alter attack."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Once per battle, this Hero's element can be changed to the Element of your choosing for {TURNS} turns. Element can be changed by tapping this Hero when it does not have full mana."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed","Every {TURNSBETWEENEFFECTS} turns, this character steals {MANASTEAL}% mana from the enemy with the fastest mana speed."
 "herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Every {TURNSBETWEENEFFECTS} turns, this character steals {MANASTEAL}% mana from the enemy with the fastest mana speed. This can't be prevented by status effects or Passive Skills."
+"herocard.passive_skill.description.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","Every {TURNSBETWEENEFFECTS} turns, this character steals {MANASTEAL}% mana from the enemy with the fastest mana speed."
 "herocard.passive_skill.description.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Every {TURNSBETWEENEFFECTS} turns, this character steals {MANASTEAL}% mana from the enemy with the highest mana. This can't be prevented by status effects or Passive Skills."
 "herocard.passive_skill.description.stopchainstrikes","Special Skills that chain or attack multiple times stop at this character. Does not stop friendly effects."
+"herocard.passive_skill.description.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","Troop Ability
+
+ All Minions and Mega Minions summoned by the Hero's Special Skill are stronger and gain a healing ability.
+
+ At the end of the turn, each Minion and Mega Minion recovers {PASSIVESKILL2FAMILIAREFFECT1FIXEDFAMILIARHEAL} HP for their owner. 
+
+ Minions: {PASSIVESKILL1MINIONATTACKMODIFIER}% attack
+ Mega Minions: {PASSIVESKILL1MEGAMINIONATTACKMODIFIER}% attack"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Summons a Seedling Fiend every turn to a random enemy.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
 The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+
+Seedling Fiend: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.blocked_by.minion","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.
 
 Seedling Fiend: 
 {EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
@@ -423,10 +534,74 @@ Sprout Fiend:
 
 Blossom Mega Fiend:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+
+Seedling Fiend: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.
+
+Seedling Fiend: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+
+Seedling Fiend: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.
+
+Seedling Fiend: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Summons a Seedling Fiend every turn to a random enemy.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
 The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
 The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+
+Seedling Fiend:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.blocked_by.minion","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.
 
 Seedling Fiend:
 {EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
@@ -462,10 +637,36 @@ Sprout Fiend:
 
 Blossom Mega Fiend:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn.blocked_by.minion","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.
+
+Seedling Fiend:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
 The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
 The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+
+Seedling Fiend:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+
+Sprout Fiend:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.
 
 Seedling Fiend:
 {EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
@@ -493,11 +694,41 @@ Blossom Mega Fiend:
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.purple","Dark shields on the board become weakened with {MODIFIER}% accuracy when this character casts their Special Skill."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.red","Fire shields on the board become weakened with {MODIFIER}% accuracy when this character casts their Special Skill."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.yellow","Holy shields on the board become weakened with {MODIFIER}% accuracy when this character casts their Special Skill."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue","Ice shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green","Nature shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Dark shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Fire shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
-"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Holy shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.blue.increase","Ice shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.green.increase","Nature shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple.increase","Dark shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red.increase","Fire shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow.increase","Holy shields on the board become enhanced with {MODIFIER}% critical chance when this character casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue","Troop Ability
+
+Ice shields on the board become weakened and give {MODIFIER}% less mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.blue.increase","Troop Ability
+
+Ice shields on the board become enhanced and give {MODIFIER}% more mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green","Troop Ability
+
+Nature shields on the board become weakened and give {MODIFIER}% less mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.green.increase","Troop Ability
+
+Nature shields on the board become enhanced and give {MODIFIER}% more mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple","Troop Ability
+
+Dark shields on the board become weakened and give {MODIFIER}% less mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.purple.increase","Troop Ability
+
+Dark shields on the board become enhanced and give {MODIFIER}% more mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red","Troop Ability
+
+Fire shields on the board become weakened and give {MODIFIER}% less mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.red.increase","Troop Ability
+
+Fire shields on the board become enhanced and give {MODIFIER}% more mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow","Troop Ability
+
+Holy shields on the board become weakened and give {MODIFIER}% less mana when this Hero casts their Special Skill."
+"herocard.passive_skill.description.tileenhancementonspecialsupportcharacter.troop.manamultiplier.yellow.increase","Troop Ability
+
+Holy shields on the board become enhanced and give {MODIFIER}% more mana when this Hero casts their Special Skill."
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments."
 "herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs."
 "herocard.passive_skill.description.wither.all.enemies","Base attack and base defense of all enemies are decreased by {STATINCREASE} every turn for {MAXACTIVATIONCOUNT} turns."
@@ -563,6 +794,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","Mana on Special Damage"
 "herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","Mana On Damage Received"
 "herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","Damage on Special Skill and Cover Damage"
+"herocard.passive_skill.title.effectondamagereceived.damage.statuseffectskill.cover","One for all!"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","Stacking Attack on Damage Received"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_low","Stacking Attack on Damage Received"
 "herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Stacking Attack on Damage Received"
@@ -687,14 +919,15 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.nevermissspecial","Perfect Accuracy"
 "herocard.passive_skill.title.outgoinghealmodifiersupportcharacter.troop.statuseffectonspecialsupportcharacter.troop.resistmaxhealthreduction","Greater Healing"
 "herocard.passive_skill.title.preventboostedhealth.all.enemies","Prevent Boosted Healing"
+"herocard.passive_skill.title.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies","Thief's Opportunity"
 "herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies","Thief's Opportunity"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Steal Buff"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Hunter's Sense"
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Troop Damage Reduction"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troop Mastery"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Strong Fireball Damage Increase"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Cheat Death"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Cheat Death"
+"herocard.passive_skill.title.redirectlethaldamage","Cheat Death"
+"herocard.passive_skill.title.reduceinsanityperturn","Reduce Insanity"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendary Reflector"
 "herocard.passive_skill.title.remove_growth_from_enemies","Guard Rally"
 "herocard.passive_skill.title.remove_wither_from_allies","Guard Rally"
@@ -724,11 +957,13 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.resist.buffdispels","Resist Dispels"
 "herocard.passive_skill.title.resist.buffimmunity","Resist Buff Blocking"
 "herocard.passive_skill.title.resist.burn","Resist Burn"
+"herocard.passive_skill.title.resist.burn.with_effect.addmana","Empowered Resist Burn"
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Empowered Resist Burn"
 "herocard.passive_skill.title.resist.criticalhits.none","Resist Critical Hits"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Resist Defense Ailments"
 "herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Unstoppable Minions"
 "herocard.passive_skill.title.resist.frost","Resist Frost"
+"herocard.passive_skill.title.resist.frost.with_effect.addmana","Empowered Resist Frost"
 "herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","Empowered Resist Frost"
 "herocard.passive_skill.title.resist.healeffects","Resist Healing Ailments"
 "herocard.passive_skill.title.resist.healthsteal","Resist Health Steal Ailments"
@@ -737,6 +972,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.resist.manaeffectsandspecialblocking","Resist Mana Ailments and Special Skill Blocking"
 "herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Resist Mana Generation Ailments"
 "herocard.passive_skill.title.resist.manareduction","Resist Mana Reduction"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.addmana","Empowered Resist Mana Reduction"
 "herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Empowered Resist Mana Reduction"
 "herocard.passive_skill.title.resist.manasteal.familiarsteal.buffreallocation.ransack.healsteal.managainsteal","Resist Stealing"
 "herocard.passive_skill.title.resist.maxhealthreduction","Resist Max Health Reduction"
@@ -746,9 +982,11 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.resist.resonance","Resist Resonance"
 "herocard.passive_skill.title.resist.sand","Resist Sand"
 "herocard.passive_skill.title.resist.specialblocking","Resist Special Skill Blocking"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.addmana","Empowered Resist Special Skill Blocking"
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Empowered Resist Special Skill Blocking"
 "herocard.passive_skill.title.resist.stopmanageneration","Resist Mana Generation Stopping"
 "herocard.passive_skill.title.resist.water","Resist Water"
+"herocard.passive_skill.title.resist.water.with_effect.addmana","Empowered Resist Water"
 "herocard.passive_skill.title.resist.water.with_effect.healthboost.addmana","Empowered Resist Water"
 "herocard.passive_skill.title.resist_all_attack_effects","Trait:
 Tiny Frame"
@@ -762,8 +1000,10 @@ Lithe Frame"
 "herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Resist Fiends and Mega Fiends"
 "herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","Resist Status Ailments"
 "herocard.passive_skill.title.revivalchancemodifier.all.enemies","Revival Chance Reduction"
+"herocard.passive_skill.title.revivalchancemodifiersupportcharacter.troop.all.enemies","Revive Suppression Aura"
 "herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","Revival Health Reduction"
 "herocard.passive_skill.title.revive_chance_nine_lives","Nine Lives"
+"herocard.passive_skill.title.revive_chance_nine_lives_mayhem","Nine Lives"
 "herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","Eldritch Pact"
 "herocard.passive_skill.title.revivewithchance","Revive"
 "herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Quick Tempo: Ballad"
@@ -781,6 +1021,11 @@ Lithe Frame"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_purple_on_special_titan_hunter_parent","Enhanced Shields on Special"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_red_on_special_titan_hunter_parent","Enhanced Shields on Special"
 "herocard.passive_skill.title.sidedependentpassiveskill.tile_enhancement_yellow_on_special_titan_hunter_parent","Enhanced Shields on Special"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_blue","Mana Alteration"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_green","Mana Alteration"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_purple","Mana Alteration"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_red","Mana Alteration"
+"herocard.passive_skill.title.sidedependentpassiveskillsupportcharacter.troop.mana_drake_mana_alteration_yellow","Mana Alteration"
 "herocard.passive_skill.title.specialdamagereduction","Special Skill Damage Reduction"
 "herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","Special Skill Damage Reduction"
 "herocard.passive_skill.title.startbattlewitheffect.addmana","Start Battle With Mana"
@@ -802,6 +1047,7 @@ Lithe Frame"
 "herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Decrease Defense Ailment Duration"
 "herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Increase Buff Duration"
 "herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Copy Ailment on Cleanse"
+"herocard.passive_skill.title.statuseffectonrevivesupportcharacter.troop.all.enemies.accuracy_debuff_undead_warlock_legendary_troop","Revive Suppression Aura"
 "herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Hunter's Vigor"
 "herocard.passive_skill.title.statuseffectonspecialcast.camouflage","Ethereal Petal Veil"
 "herocard.passive_skill.title.statuseffectonspecialcast.damageonhitreceived","Mark of the Titan Hunter"
@@ -809,15 +1055,20 @@ Lithe Frame"
 "herocard.passive_skill.title.statuseffectonspecialcast.stone","Gargoyle's Stoneskin"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Mana Generation Buff from Ailments"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elemental Mask"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed","Swoop and Steal"
 "herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassalldefensivebuffs.bypassmanafreeze","Swoop and Steal"
+"herocard.passive_skill.title.stealmanaovertime.fastestmanaspeed.bypassmanafreeze","Swoop and Steal"
 "herocard.passive_skill.title.stealmanaovertime.highestmana.bypassalldefensivebuffs.bypassmanafreeze","Swoop and Steal"
 "herocard.passive_skill.title.stopchainstrikes","Stop Chain Attacks"
 "herocard.passive_skill.title.stylish","Stylish!"
 "herocard.passive_skill.title.stylish_epic","Stylish!"
 "herocard.passive_skill.title.stylish_legendary","Stylish!"
 "herocard.passive_skill.title.stylish_rare","Stylish!"
+"herocard.passive_skill.title.summonedfamiliarstatmodifiersupportcharacter.troop.specialskill.additionalfamiliareffectsonsummonsupportcharacter.troop.minion.bigminion.specialskill","Fortified Minions"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Seedling Summoner"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Seedling Summoner"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies","Seedling Summoner"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","Seedling Summoner"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Seedling Summoner"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Seedling Summoner"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Seedling Summoner"
@@ -835,6 +1086,7 @@ Lithe Frame"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Seedling Summoner"
 "herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Graceful Dancer"
 "herocard.passive_skill.title.taunt","Ignore Taunt"
+"herocard.passive_skill.title.tileenhancementonspecialsupportcharacter.troop","Mana Alteration"
 "herocard.passive_skill.title.titan_dread_damage_minions","Dread"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Dread"
 "herocard.passive_skill.title.titan_dread_damage_minions_16","Dread"
@@ -847,4 +1099,3 @@ Lithe Frame"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transform Buffs"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transform Ailments"
 "herocard.passive_skill.title.wither.all.enemies","Wither"
-"herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition","[#!]{MODIFIER}%[#] mana generation."

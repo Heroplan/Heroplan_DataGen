@@ -62,6 +62,47 @@
         "maximumDaysAway": 364
       },
       {
+        "productType": "MapSeasonSummon",
+        "id": "lottery_season_season6",
+        "gemPrice": 350,
+        "amount": 1,
+        "uiPriority": 40,
+        "bonusChest": "season6_ascension",
+        "bonusChestRequirement": 10,
+        "bonusChestLimit": 12,
+        "bonusChestEnabled": true,
+        "associatedSeason": "Season6"
+      },
+      {
+        "productType": "MapSeasonSummon",
+        "id": "lottery_season_season6_ad",
+        "sourceProductId": "lottery_season_season6",
+        "amount": 1,
+        "bonusChest": "season6_ascension",
+        "bonusChestRequirement": 10,
+        "bonusChestLimit": 12,
+        "bonusChestEnabled": true,
+        "extraBucketsPullAmount": 1,
+        "associatedSeason": "Season6"
+      },
+      {
+        "productType": "MapSeasonSummon",
+        "id": "lottery_season_season6_bulk",
+        "gemPrice": 3000,
+        "sourceProductId": "lottery_season_season6",
+        "amount": 10,
+        "associatedSeason": "Season6"
+      },
+      {
+        "productType": "MapSeasonSummon",
+        "id": "lottery_season_season6_30_bulk",
+        "gemPrice": 8400,
+        "sourceProductId": "lottery_season_season6",
+        "amount": 30,
+        "extraBucketsPullAmount": 30,
+        "associatedSeason": "Season6"
+      },
+      {
         "productType": "WelcomeBackSummon",
         "id": "lottery_welcome_back_medium_30_bulk",
         "gemPrice": 9400,
@@ -117,16 +158,7 @@
         "gemPrice": 400,
         "amount": 1,
         "uiPriority": 205,
-        "associatedEvent": "Temple",
-        "bucketWeights": [
-          568,
-          208,
-          16,
-          142,
-          57,
-          5,
-          4
-        ]
+        "associatedEvent": "Temple"
       },
       {
         "productType": "TempleSummon",
@@ -1427,6 +1459,32 @@
         ]
       },
       {
+        "productType": "SimpleProductWithInstantContents",
+        "id": "com.smallgiantgames.empires.halloween_lure_bonus",
+        "dollarValue": 10,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "instantContents": [
+          {
+            "type": "Item",
+            "id": "lure_bonus_halloween",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 150,
+            "zyngaStoreExtraAmount": 20
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 2
+          }
+        ]
+      },
+      {
         "productType": "QuestBoosterOffer",
         "id": "com.smallgiantgames.empires.christmas_booster",
         "dollarValue": 12,
@@ -1833,6 +1891,13 @@
         "amount": 10
       },
       {
+        "productType": "DeluxeAscensionSummon",
+        "id": "lottery_deluxe_ascension_default_bulk",
+        "gemPrice": 3400,
+        "sourceProductId": "lottery_deluxe_ascension_default",
+        "amount": 10
+      },
+      {
         "productType": "MimicSummon",
         "id": "lottery_mimic_default_bulk",
         "gemPrice": 2400,
@@ -1858,6 +1923,13 @@
         "id": "lottery_ascension_default_30_bulk",
         "gemPrice": 7200,
         "sourceProductId": "lottery_ascension_default",
+        "amount": 30
+      },
+      {
+        "productType": "DeluxeAscensionSummon",
+        "id": "lottery_deluxe_ascension_default_30_bulk",
+        "gemPrice": 9300,
+        "sourceProductId": "lottery_deluxe_ascension_default",
         "amount": 30
       },
       {
@@ -2136,6 +2208,13 @@
         "gemPrice": 270,
         "amount": 1,
         "uiPriority": 197
+      },
+      {
+        "productType": "DeluxeAscensionSummon",
+        "id": "lottery_deluxe_ascension_default",
+        "gemPrice": 400,
+        "amount": 1,
+        "uiPriority": 196
       },
       {
         "productType": "MimicSummon",
@@ -3680,16 +3759,7 @@
         "bonusChest": "monster_island_chest",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 20,
-        "bonusChestEnabled": true,
-        "bucketWeights": [
-          196,
-          119,
-          0,
-          514,
-          146,
-          15,
-          10
-        ]
+        "bonusChestEnabled": true
       },
       {
         "productType": "TowerEventSummon",
@@ -3860,12 +3930,6 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_halloween",
         "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "halloween_hortensia",
-          "halloween_edwin_costume_mafia",
-          "halloween_alucard_costume_mafia"
-        ],
-        "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_halloween",
         "spiritGainFromSingleSummon": 10
       },
@@ -3874,13 +3938,7 @@
         "id": "lottery_hero_christmas_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_christmas",
-        "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "christmas_noel",
-          "christmas_florencia",
-          "christmas_ginger_costume_gift_wrapper"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -3888,28 +3946,7 @@
         "gemPrice": 300,
         "amount": 1,
         "uiPriority": 40,
-        "associatedEvent": "Christmas",
-        "perfectSummon": "seasonal_perfect_10",
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          142,
-          57,
-          3,
-          0,
-          0,
-          13,
-          0,
-          0,
-          0
-        ],
-        "featuredNonCostumedHeroes": [
-          "christmas_noel",
-          "christmas_florencia",
-          "christmas_ginger_costume_gift_wrapper"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "associatedEvent": "Christmas"
       },
       {
         "productType": "EpicHeroSummon",
@@ -3918,30 +3955,9 @@
         "amount": 1,
         "uiPriority": 136,
         "associatedEvent": "Halloween2025",
-        "perfectSummon": "seasonal_perfect_10",
         "linkedOrigins": [
           "Halloween"
         ],
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13,
-          142,
-          57,
-          3
-        ],
-        "featuredNonCostumedHeroes": [
-          "halloween_hortensia",
-          "halloween_edwin_costume_mafia",
-          "halloween_alucard_costume_mafia"
-        ],
-        "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_halloween",
         "spiritGainFromSingleSummon": 10
       },
@@ -3952,30 +3968,9 @@
         "amount": 1,
         "uiPriority": 168,
         "associatedEvent": "LunarNewYear2026",
-        "perfectSummon": "seasonal_perfect_10",
         "linkedOrigins": [
           "LunarNewYear"
         ],
-        "bucketWeights": [
-          710,
-          265,
-          9,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13,
-          0,
-          0,
-          3
-        ],
-        "featuredNonCostumedHeroes": [
-          "lunar_new_year_hongyunxing",
-          "lunar_new_year_laohu_costume_golden",
-          "lunar_new_year_xiaotu_costume_golden"
-        ],
-        "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_lunar_new_year_2026",
         "spiritGainFromSingleSummon": 10
       },
@@ -3985,12 +3980,6 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_lunar_new_year_2026",
         "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "lunar_new_year_hongyunxing",
-          "lunar_new_year_laohu_costume_golden",
-          "lunar_new_year_xiaotu_costume_golden"
-        ],
-        "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_lunar_new_year_2026",
         "spiritGainFromSingleSummon": 10
       },
@@ -4000,12 +3989,6 @@
         "gemPrice": 450,
         "amount": 1,
         "uiPriority": 137,
-        "bucketWeights": [
-          710,
-          265,
-          19,
-          6
-        ],
         "featuredHeroes": [
           "fortune_wei_qi",
           "fortune_bai_yan",
@@ -4068,31 +4051,10 @@
         "amount": 1,
         "uiPriority": 194,
         "associatedEvent": "BeachParty2026",
-        "perfectSummon": "seasonal_perfect_10",
         "linkedOrigins": [
           "BeachParty",
           "Summer"
         ],
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13,
-          142,
-          57,
-          3
-        ],
-        "featuredNonCostumedHeroes": [
-          "beachparty_bubo",
-          "beachparty_skiff",
-          "beachparty_misty_costume_rogue"
-        ],
-        "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_beach_party_2026",
         "spiritGainFromSingleSummon": 10
       },
@@ -4102,12 +4064,6 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_beach_party_2026",
         "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "beachparty_bubo",
-          "beachparty_skiff",
-          "beachparty_misty_costume_rogue"
-        ],
-        "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_beach_party_2026",
         "spiritGainFromSingleSummon": 10
       },
@@ -4117,12 +4073,6 @@
         "gemPrice": 450,
         "amount": 1,
         "uiPriority": 194,
-        "bucketWeights": [
-          710,
-          265,
-          19,
-          6
-        ],
         "featuredHeroes": [
           "shark_brokhai",
           "shark_haikala",
@@ -4186,13 +4136,7 @@
         "id": "lottery_hero_easter_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_easter",
-        "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "easter_duke_whitley",
-          "easter_marko",
-          "easter_sir_roostley_costume_alchemist"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -4200,41 +4144,14 @@
         "gemPrice": 300,
         "amount": 1,
         "uiPriority": 182,
-        "associatedEvent": "Easter",
-        "perfectSummon": "seasonal_perfect_10",
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          142,
-          57,
-          3,
-          0,
-          0,
-          13,
-          0,
-          0,
-          0
-        ],
-        "featuredNonCostumedHeroes": [
-          "easter_duke_whitley",
-          "easter_marko",
-          "easter_sir_roostley_costume_alchemist"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "associatedEvent": "Easter"
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_kalevala_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_kalevala",
-        "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "kalevala_ajatar",
-          "kalevala_kaski",
-          "kalevala_iku_turso_costume_crown"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -4242,40 +4159,14 @@
         "gemPrice": 300,
         "amount": 1,
         "uiPriority": 196,
-        "associatedEvent": "Kalevala",
-        "perfectSummon": "seasonal_perfect_10",
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          142,
-          57,
-          3,
-          0,
-          0,
-          13,
-          0,
-          0,
-          0
-        ],
-        "featuredNonCostumedHeroes": [
-          "kalevala_ajatar",
-          "kalevala_kaski",
-          "kalevala_iku_turso_costume_crown"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "associatedEvent": "Kalevala"
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_lunar_new_year_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_lunar_new_year",
-        "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "lunar_new_year_xiaoqing",
-          "lunar_new_year_baishu"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -4283,40 +4174,14 @@
         "gemPrice": 300,
         "amount": 1,
         "uiPriority": 40,
-        "associatedEvent": "LunarNewYear",
-        "perfectSummon": "seasonal_perfect_10",
-        "bucketWeights": [
-          710,
-          265,
-          12,
-          0,
-          0,
-          5,
-          0,
-          0,
-          8,
-          0,
-          0,
-          0
-        ],
-        "featuredNonCostumedHeroes": [
-          "lunar_new_year_xiaoqing",
-          "lunar_new_year_baishu"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "associatedEvent": "LunarNewYear"
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_valentines_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_valentines",
-        "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "valentines_vernon",
-          "valentines_lempi",
-          "valentines_cupido_costume_flame"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -4324,28 +4189,7 @@
         "gemPrice": 300,
         "amount": 1,
         "uiPriority": 162,
-        "associatedEvent": "ValentinesSeasonal",
-        "perfectSummon": "seasonal_perfect_10",
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          142,
-          57,
-          3,
-          0,
-          0,
-          13,
-          0,
-          0,
-          0
-        ],
-        "featuredNonCostumedHeroes": [
-          "valentines_vernon",
-          "valentines_lempi",
-          "valentines_cupido_costume_flame"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "associatedEvent": "ValentinesSeasonal"
       },
       {
         "productType": "VipPackageOffer",
@@ -11523,6 +11367,21 @@
         "priceIncreaseStepCount": 5
       },
       {
+        "productType": "HeroCapIncreaseOffer",
+        "id": "hero_cap_increase5",
+        "amount": 5
+      },
+      {
+        "productType": "HeroCapIncreaseOffer",
+        "id": "hero_cap_increase10",
+        "amount": 10
+      },
+      {
+        "productType": "HeroCapIncreaseOffer",
+        "id": "hero_cap_increase15",
+        "amount": 15
+      },
+      {
         "productType": "DragonCapIncrease",
         "id": "dragon_cap_increase",
         "gemPrice": 50,
@@ -11891,60 +11750,28 @@
         "id": "lottery_hero_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 30,
-        "bucketWeights": [
-          720,
-          265,
-          15,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "availableEventCostumesAreFeatured": false
+        "uiPriority": 30
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_default_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_default",
-        "amount": 10,
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_featuring",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 30,
-        "bucketWeights": [
-          720,
-          265,
-          10,
-          0,
-          0,
-          0,
-          0,
-          0,
-          5,
-          0,
-          0,
-          0
-        ],
-        "availableEventCostumesAreFeatured": false
+        "uiPriority": 30
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_featuring_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_featuring",
-        "amount": 10,
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicTroopSummon",
@@ -12655,8 +12482,7 @@
         "id": "lottery_hero_summer_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_summer",
-        "amount": 10,
-        "availableEventCostumesAreFeatured": true
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -12664,35 +12490,14 @@
         "gemPrice": 300,
         "amount": 1,
         "uiPriority": 40,
-        "associatedEvent": "Summer",
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          142,
-          57,
-          0,
-          0,
-          0,
-          16,
-          0,
-          0,
-          0
-        ],
-        "availableEventCostumesAreFeatured": true
+        "associatedEvent": "Summer"
       },
       {
         "productType": "EpicHeroSummon",
         "id": "lottery_hero_beach_party_bulk",
         "gemPrice": 2600,
         "sourceProductId": "lottery_hero_beach_party",
-        "amount": 10,
-        "featuredNonCostumedHeroes": [
-          "beachparty_andy_jay",
-          "beachparty_serena",
-          "beachparty_flip_costume_donut"
-        ],
-        "availableEventCostumesAreFeatured": false
+        "amount": 10
       },
       {
         "productType": "EpicHeroSummon",
@@ -12701,30 +12506,9 @@
         "amount": 1,
         "uiPriority": 60,
         "associatedEvent": "BeachParty",
-        "perfectSummon": "seasonal_perfect_10",
         "linkedOrigins": [
           "Summer"
-        ],
-        "bucketWeights": [
-          568,
-          208,
-          9,
-          47,
-          19,
-          1,
-          0,
-          0,
-          13,
-          95,
-          38,
-          2
-        ],
-        "featuredNonCostumedHeroes": [
-          "beachparty_andy_jay",
-          "beachparty_serena",
-          "beachparty_flip_costume_donut"
-        ],
-        "availableEventCostumesAreFeatured": false
+        ]
       },
       {
         "productType": "Offer",
@@ -12945,6 +12729,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.halloweentier2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -12952,6 +12737,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.halloweentier3",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -12966,6 +12752,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.halloweentier5",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -12987,6 +12774,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.halloweentier8",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -20911,13 +20699,13 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
             "id": "refill_food_giant",
-            "amount": 12,
-            "zyngaStoreExtraAmount": 1
+            "amount": 12
           },
           {
             "type": "Item",
@@ -20932,18 +20720,20 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
             "id": "lottery_shadow_coin",
-            "amount": 300
+            "amount": 300,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
             "id": "lottery_ascension_coin",
             "amount": 300,
-            "zyngaStoreExtraAmount": 100
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
@@ -20957,24 +20747,19 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day3",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_shadow_coin",
-            "amount": 500
-          },
-          {
-            "type": "Item",
-            "id": "lottery_ascension_coin",
+            "id": "lottery_covenant_coin",
             "amount": 400,
             "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_legendary_troop",
-            "amount": 400,
-            "zyngaStoreExtraAmount": 100
+            "id": "lottery_hotm_coin",
+            "amount": 400
           },
           {
             "type": "Item",
@@ -20984,8 +20769,13 @@
           },
           {
             "type": "Item",
-            "id": "lottery_underwild_coin",
-            "amount": 400
+            "id": "lottery_costume_key",
+            "amount": 25
+          },
+          {
+            "type": "Item",
+            "id": "lottery_item_limit_break",
+            "amount": 30
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_3"
@@ -20994,24 +20784,13 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day4",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Product",
-            "id": "hero_cap_increase",
+            "type": "Item",
+            "id": "relic_harvester_items",
             "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "misc_loot_ticket",
-            "amount": 30,
-            "zyngaStoreExtraAmount": 5
-          },
-          {
-            "type": "Item",
-            "id": "refill_energy_pve_full",
-            "amount": 3,
-            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -21020,8 +20799,15 @@
           },
           {
             "type": "Item",
-            "id": "relic_harvester_crafting",
-            "amount": 1
+            "id": "misc_loot_ticket",
+            "amount": 40,
+            "zyngaStoreExtraAmount": 10
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 4,
+            "zyngaStoreExtraAmount": 1
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_4"
@@ -21030,14 +20816,9 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day5",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
-          {
-            "type": "Item",
-            "id": "lottery_mimic_coin",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 100
-          },
           {
             "type": "Item",
             "id": "lottery_covenant_coin",
@@ -21045,18 +20826,19 @@
           },
           {
             "type": "Item",
-            "id": "lottery_tower_coin",
-            "amount": 200
+            "id": "lottery_costume_key",
+            "amount": 15
           },
           {
             "type": "Item",
-            "id": "lottery_pickup_coin",
-            "amount": 200
+            "id": "lottery_challenge_coin",
+            "amount": 20
           },
           {
             "type": "Item",
-            "id": "lottery_season5_coin",
-            "amount": 200
+            "id": "lottery_mimic_coin",
+            "amount": 200,
+            "zyngaStoreExtraAmount": 100
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_5"
@@ -21065,6 +20847,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day6",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24182,6 +23965,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_1_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24201,6 +23985,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_1_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24219,6 +24004,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_2_tier1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24255,6 +24041,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_3_tier1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24274,6 +24061,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_3_tier2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29452,6 +29240,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_2_tier2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35310,6 +35099,60 @@
       },
       {
         "productType": "Offer",
+        "id": "com.smallgiantgames.empires.royalroster_1",
+        "dollarValue": 15,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Product",
+            "id": "hero_cap_increase15",
+            "amount": 1
+          },
+          {
+            "type": "Gem",
+            "amount": 2100,
+            "zyngaStoreExtraAmount": 350
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.royalroster_2",
+        "dollarValue": 10,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Product",
+            "id": "hero_cap_increase10",
+            "amount": 1
+          },
+          {
+            "type": "Gem",
+            "amount": 1400,
+            "zyngaStoreExtraAmount": 250
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.royalroster_3",
+        "dollarValue": 5,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Product",
+            "id": "hero_cap_increase5",
+            "amount": 1
+          },
+          {
+            "type": "Gem",
+            "amount": 600,
+            "zyngaStoreExtraAmount": 100
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_silver_coins",
         "dollarValue": 7,
         "realMoneyProductActive": true,
@@ -36812,6 +36655,139 @@
       },
       {
         "productType": "Offer",
+        "id": "com.smallgiantgames.empires.elemental_dragon_day_1_1",
+        "dollarValue": 3,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elemental_dragon_coin",
+            "amount": 200,
+            "zyngaStoreExtraAmount": 50
+          },
+          {
+            "type": "Item",
+            "id": "refill_dragon_energy_pve_full",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 2
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.elemental_dragon_day_1_2",
+        "dollarValue": 10,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elemental_dragon_coin",
+            "amount": 1000,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.elemental_dragon_day_2_1",
+        "dollarValue": 4,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elemental_dragon_coin",
+            "amount": 300,
+            "zyngaStoreExtraAmount": 50
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 10,
+            "zyngaStoreExtraAmount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.elemental_dragon_day_2_2",
+        "dollarValue": 18,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elemental_dragon_coin",
+            "amount": 1800,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "refill_fish_large",
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.elemental_dragon_day_3_1",
+        "dollarValue": 5,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elemental_dragon_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 50
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 5
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.elemental_dragon_day_3_2",
+        "dollarValue": 10,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elemental_dragon_coin",
+            "amount": 1000,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 5
+          },
+          {
+            "type": "Item",
+            "id": "refill_fish_large",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_levelup_1",
         "dollarValue": 3,
         "realMoneyProductActive": true,
@@ -36858,6 +36834,60 @@
           {
             "type": "Item",
             "id": "lottery_ascension_coin",
+            "amount": 600
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.triple_delux_1",
+        "dollarValue": 5,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 600
+          },
+          {
+            "type": "Item",
+            "id": "lottery_deluxe_ascension_coin",
+            "amount": 50,
+            "zyngaStoreExtraAmount": 50
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.triple_delux_2",
+        "dollarValue": 10,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 1200,
+            "zyngaStoreExtraAmount": 150
+          },
+          {
+            "type": "Item",
+            "id": "lottery_deluxe_ascension_coin",
+            "amount": 200
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.triple_delux_3",
+        "dollarValue": 30,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 3400,
+            "zyngaStoreExtraAmount": 400
+          },
+          {
+            "type": "Item",
+            "id": "lottery_deluxe_ascension_coin",
             "amount": 600
           }
         ]
@@ -56462,16 +56492,7 @@
         "gemPrice": 400,
         "amount": 1,
         "uiPriority": 208,
-        "associatedEvent": "AstralElves",
-        "bucketWeights": [
-          568,
-          208,
-          16,
-          142,
-          57,
-          5,
-          4
-        ]
+        "associatedEvent": "AstralElves"
       },
       {
         "productType": "HarvestSummon",
@@ -56556,56 +56577,53 @@
         "gemPrice": 450,
         "amount": 1,
         "uiPriority": 137,
-        "bucketWeights": [
-          710,
-          265,
-          19,
-          6
-        ],
         "featuredHeroes": [
-          "fleur_guillemette",
-          "fleur_elyzabel",
-          "fleur_ludovico"
+          "fleur_chrysostom",
+          "fleur_bezian",
+          "fleur_elyzabel_costume_scout"
         ],
         "includedHeroes": [
-          "faun_bramble",
-          "faun_ascian",
-          "faun_tamlin",
-          "faun_yolanda",
-          "faun_verity",
-          "faun_jolyon",
+          "fleur_guillemette",
+          "fleur_ludovico",
+          "halloween_karlov",
+          "fleur_talesie",
+          "fleur_eumachius",
           "halloween_francine_costume_mafia",
-          "halloween_matilda",
+          "halloween_matilda_costume_mafia",
           "halloween_chester",
+          "halloween_vanda_costume_mafia",
+          "halloween_miriam_and_midnight",
+          "vampire_king_costume_mafia",
           "halloween_wayne",
           "halloween_amber",
           "halloween_alucard_costume_mafia",
           "halloween_lucinda",
           "halloween_edwin_costume_mafia",
           "halloween_hortensia",
+          "vampire_queen_costume_mafia",
+          "halloween_frank_costume_mafia",
+          "halloween_ana_belle_costume_mafia",
           "ballerina_von_rothbart",
-          "ballerina_odile",
-          "ballerina_meg_giry",
           "elemental_gastille",
-          "elemental_ignazio_costume_medic",
-          "fleur_talesie",
           "slayer_cillian",
           "faun_myrtle",
           "gargoyle_kalo",
           "gargoyle_bellerive",
-          "vampire_queen",
-          "halloween_frank_costume_mafia",
-          "halloween_ana_belle_costume_mafia",
           "ballerina_raul",
           "s4_griffin_costume_priest",
-          "construct_rustbeak",
           "halloween_goopy",
           "halloween_jack",
-          "vampire_lord",
-          "fleur_eumachius",
-          "halloween_vanda_costume_mafia",
-          "halloween_miriam_and_midnight",
-          "vampire_king_costume_mafia"
+          "vampire_lord_costume_mafia",
+          "faun_bramble",
+          "faun_ascian",
+          "faun_tamlin",
+          "faun_yolanda",
+          "faun_verity",
+          "faun_jolyon",
+          "elemental_ignazio_costume_medic",
+          "ballerina_odile",
+          "ballerina_meg_giry",
+          "construct_rustbeak"
         ],
         "seasonalEventId": "Halloween2025",
         "summonSpiritTokenId": "lottery_seasonal_summon_spirit_halloween"
@@ -58669,6 +58687,11 @@
         "avatarPinId": "community_quill_pin"
       },
       {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_mayhem_2026_pin",
+        "avatarPinId": "mayhem_2026_pin"
+      },
+      {
         "productType": "AvatarBackground",
         "id": "avatar_background_red",
         "avatarBackgroundId": "red"
@@ -58975,5 +58998,5 @@
       }
     ]
   },
-  "productsConfigId": 4239641185
+  "productsConfigId": 1282191177
 }
