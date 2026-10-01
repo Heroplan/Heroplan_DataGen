@@ -5810,6 +5810,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "nature_god_theron",
+        "name": "Theron",
+        "passives": [
+            "流血时治疗：每当敌人受到流血伤害时，该角色恢复 50 点生命值。",
+            "完美精准度：该角色的特殊技能必定命中目标。"
+        ]
+    },
+    {
         "heroId": "scoundrel_tofana",
         "name": "Tofana",
         "passives": [
@@ -11332,6 +11340,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "passives": [
+            "特殊技能强化护盾：作为进攻方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上烈火系护盾的暴击几率将提升 +54%。",
+            "作为防守方时的被动技能：",
+            "* 当此角色施放特殊技能时，面板上烈火系护盾的精准度被削弱 -47%",
+            "泰坦猎手标记：当此角色施放特殊技能时，会随机标记一名敌人，使其携带狩猎火焰效果，持续 4 回合。被狩猎火焰标记的目标在受到暴击时，将额外承受 150 点伤害。"
+        ]
+    },
+    {
         "heroId": "goblin_madhammer",
         "name": "Madhammer",
         "passives": [
@@ -15116,13 +15135,58 @@ const translatedPassivesCN =
         ]
     },
     {
-        "heroId": "titan_hunter_maar",
-        "name": "Maar",
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "passives": []
     },
     {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
+        "heroId": "beauty_beast_henriette",
+        "name": "Henriette",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
+        "passives": []
+    },
+    {
+        "heroId": "fleur_chrysostom",
+        "name": "Chrysostom",
+        "passives": []
+    },
+    {
+        "heroId": "fleur_bezian",
+        "name": "Bezian",
+        "passives": []
+    },
+    {
+        "heroId": "halloween_karlov",
+        "name": "Karlov",
+        "passives": []
+    },
+    {
+        "heroId": "fleur_elyzabel_costume_scout",
+        "name": "Elyzabel de Tuillieres C",
+        "passives": []
+    },
+    {
+        "heroId": "halloween_matilda_costume_mafia",
+        "name": "Matilda C",
+        "passives": []
+    },
+    {
+        "heroId": "vampire_queen_costume_mafia",
+        "name": "Valeria C",
+        "passives": []
+    },
+    {
+        "heroId": "vampire_lord_costume_mafia",
+        "name": "Vlad C",
         "passives": []
     }
 ];

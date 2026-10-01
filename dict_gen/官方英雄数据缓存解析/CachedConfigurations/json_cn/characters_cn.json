@@ -21221,7 +21221,7 @@
     "parentHeroId": "霍格火"
   },
   "forest_titan_costume_stylish": {
-    "id": "forest_titan_costume_stylish",
+    "id": "树庭古灵",
     "element": "绿",
     "family": "经典家族",
     "baseHealth": 760,
@@ -21235,7 +21235,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "防御提升",
     "rarity": 5,
-    "specialId": "anger_of_arboretum",
+    "specialId": "树庭之怒",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -21263,7 +21263,7 @@
     "parentHeroId": "昆塔斯"
   },
   "cultist_inventor_costume_stylish": {
-    "id": "cultist_inventor_costume_stylish",
+    "id": "英姿科学家",
     "element": "紫",
     "family": "经典家族",
     "baseHealth": 671,
@@ -21277,7 +21277,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "法力加成",
     "rarity": 5,
-    "specialId": "stylish_ultimatum_quintus",
+    "specialId": "炫彩绝杀令",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -21809,7 +21809,7 @@
     "parentHeroId": "斯嘉丽"
   },
   "nomad_female_assassin_costume_stylish": {
-    "id": "nomad_female_assassin_costume_stylish",
+    "id": "英姿突袭者",
     "element": "红",
     "family": "经典家族",
     "baseHealth": 496,
@@ -21823,7 +21823,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "攻击提升",
     "rarity": 4,
-    "specialId": "stylish_barrage_scarlett",
+    "specialId": "英姿齐射",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -21851,7 +21851,7 @@
     "parentHeroId": "迪波特斯"
   },
   "blackguard_commander_costume_stylish": {
-    "id": "blackguard_commander_costume_stylish",
+    "id": "英姿公爵",
     "element": "紫",
     "family": "经典家族",
     "baseHealth": 472,
@@ -21865,7 +21865,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "攻击提升",
     "rarity": 4,
-    "specialId": "stylish_pulverizer_tiburtus",
+    "specialId": "英姿碎击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -21893,7 +21893,7 @@
     "parentHeroId": "博立尔"
   },
   "dwarven_guard_costume_stylish": {
-    "id": "dwarven_guard_costume_stylish",
+    "id": "英姿守卫",
     "element": "蓝",
     "family": "经典家族",
     "baseHealth": 540,
@@ -21907,7 +21907,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "生命恢复",
     "rarity": 4,
-    "specialId": "stylish_riposte_boril",
+    "specialId": "时尚反击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -22397,7 +22397,7 @@
     "parentHeroId": "伊师塔克"
   },
   "lizardman_warrior_costume_stylish": {
-    "id": "lizardman_warrior_costume_stylish",
+    "id": "英姿战士",
     "element": "绿",
     "family": "经典家族",
     "baseHealth": 500,
@@ -22411,7 +22411,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "特殊技能加成",
     "rarity": 3,
-    "specialId": "stylish_rush_isshtak",
+    "specialId": "英姿突袭",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -22439,7 +22439,7 @@
     "parentHeroId": "奥伯伦"
   },
   "undead_horned_skeleton_costume_stylish": {
-    "id": "undead_horned_skeleton_costume_stylish",
+    "id": "英姿残魂",
     "element": "紫",
     "family": "经典家族",
     "baseHealth": 459,
@@ -22453,7 +22453,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "法力加成",
     "rarity": 3,
-    "specialId": "stylish_traps_oberon",
+    "specialId": "英姿陷阱",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -22481,7 +22481,7 @@
     "parentHeroId": "乌尔墨"
   },
   "nordic_mage_costume_stylish": {
-    "id": "nordic_mage_costume_stylish",
+    "id": "冰谷造型师",
     "element": "蓝",
     "family": "经典家族",
     "baseHealth": 393,
@@ -22495,7 +22495,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "防御提升",
     "rarity": 3,
-    "specialId": "stylish_cold_blast_ulmer",
+    "specialId": "英姿暴风雪",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -22523,7 +22523,7 @@
     "parentHeroId": "达瓦"
   },
   "oriental_female_guard_costume_stylish": {
-    "id": "oriental_female_guard_costume_stylish",
+    "id": "沙戈造型师",
     "element": "黄",
     "family": "经典家族",
     "baseHealth": 364,
@@ -22537,7 +22537,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "闪避",
     "rarity": 3,
-    "specialId": "stylish_leap_dawa",
+    "specialId": "英姿之跃",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "summonExclusiveTag": "Wardrobe1",
@@ -35729,7 +35729,7 @@
     "aetherGift": "特殊技能加成",
     "rarity": 5,
     "specialId": "冗余珠宝",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-10-06 07:00:00",
     "origin": "勇者与美人"
   },
   "beauty_beast_laurent": {
@@ -36881,7 +36881,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_juniper": {
-    "id": "titan_hunter_juniper",
+    "id": "朱妮珀",
     "element": "绿",
     "family": "泰坦猎手家族",
     "baseHealth": 1172,
@@ -36895,7 +36895,7 @@
     "classType": "僧侣",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "verdant_hunt",
+    "specialId": "苍翠猎狩",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
@@ -36938,7 +36938,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_ingrith": {
-    "id": "titan_hunter_ingrith",
+    "id": "因格里斯",
     "element": "蓝",
     "family": "泰坦猎手家族",
     "baseHealth": 1163,
@@ -36952,12 +36952,12 @@
     "classType": "术士",
     "aetherGift": "生命恢复",
     "rarity": 5,
-    "specialId": "arctic_trap",
+    "specialId": "极地陷阱",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
   "titan_hunter_yuralia": {
-    "id": "titan_hunter_yuralia",
+    "id": "尤拉利亚",
     "element": "紫",
     "family": "泰坦猎手家族",
     "baseHealth": 1163,
@@ -36971,7 +36971,7 @@
     "classType": "术士",
     "aetherGift": "生命恢复",
     "rarity": 5,
-    "specialId": "venom_trap",
+    "specialId": "毒液陷阱",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
@@ -36995,7 +36995,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_crag": {
-    "id": "titan_hunter_crag",
+    "id": "峭壁",
     "element": "黄",
     "family": "泰坦猎手家族",
     "baseHealth": 1179,
@@ -37009,7 +37009,7 @@
     "classType": "圣骑士",
     "aetherGift": "防御提升",
     "rarity": 5,
-    "specialId": "desert_guard",
+    "specialId": "沙漠守卫",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
@@ -38355,7 +38355,7 @@
     "aetherGift": "坚壁",
     "rarity": 5,
     "specialId": "碎月之力",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-10-08 07:00:00",
     "origin": "星体位面"
   },
   "astral_demon_azaghim": {
@@ -38519,7 +38519,7 @@
     "origin": "忍者高塔"
   },
   "ronin_kogan": {
-    "id": "ronin_kogan",
+    "id": "寇根",
     "element": "黄",
     "family": "浪人家族",
     "baseHealth": 1182,
@@ -38534,12 +38534,12 @@
     "classType": "圣骑士",
     "aetherGift": "生命恢复",
     "rarity": 5,
-    "specialId": "strength_of_the_mountain",
+    "specialId": "山岳之力",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "忍者高塔"
   },
   "ronin_mori_hyouei": {
-    "id": "ronin_mori_hyouei",
+    "id": "森兵卫",
     "element": "蓝",
     "family": "浪人家族",
     "baseHealth": 1167,
@@ -38554,12 +38554,12 @@
     "classType": "盗贼",
     "aetherGift": "特殊技能加成",
     "rarity": 5,
-    "specialId": "whisper_in_the_night",
+    "specialId": "暗夜私语",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "忍者高塔"
   },
   "ronin_ishikawa_genta": {
-    "id": "ronin_ishikawa_genta",
+    "id": "石川玄太",
     "element": "绿",
     "family": "浪人家族",
     "baseHealth": 1180,
@@ -38574,12 +38574,12 @@
     "classType": "战士",
     "aetherGift": "生命恢复",
     "rarity": 5,
-    "specialId": "quiet_resolve",
+    "specialId": "静谧之志",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "忍者高塔"
   },
   "ronin_aoki_morika": {
-    "id": "ronin_aoki_morika",
+    "id": "青木森香",
     "element": "绿",
     "family": "浪人家族",
     "baseHealth": 1175,
@@ -38594,7 +38594,7 @@
     "classType": "游侠",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "cleansing_cut",
+    "specialId": "净化斩击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "忍者高塔"
   },
@@ -39032,7 +39032,7 @@
     "aetherGift": "攻击提升",
     "rarity": 5,
     "specialId": "饥不择食",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-10-11 07:00:00",
     "origin": "KingdomWar"
   },
   "vegetable_pyaza": {
@@ -39130,7 +39130,7 @@
     "origin": "KingdomWar"
   },
   "fleur_chrysostom": {
-    "id": "fleur_chrysostom",
+    "id": "克里索斯托",
     "element": "紫",
     "family": "弗勒德桑家族",
     "baseHealth": 1210,
@@ -39143,12 +39143,12 @@
     "classType": "圣骑士",
     "aetherGift": "减伤",
     "rarity": 5,
-    "specialId": "commanding_presence",
+    "specialId": "统帅气场",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween2025"
   },
   "fleur_bezian": {
-    "id": "fleur_bezian",
+    "id": "贝齐安",
     "element": "绿",
     "family": "弗勒德桑家族",
     "baseHealth": 1208,
@@ -39161,12 +39161,12 @@
     "classType": "牧师",
     "aetherGift": "状态异常反弹",
     "rarity": 5,
-    "specialId": "flurry_of_bats",
+    "specialId": "蝙蝠狂袭",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween2025"
   },
   "halloween_karlov": {
-    "id": "halloween_karlov",
+    "id": "卡尔洛夫",
     "element": "红",
     "family": "莫洛维亚家族",
     "baseHealth": 1135,
@@ -39179,7 +39179,7 @@
     "classType": "盗贼",
     "aetherGift": "吸血",
     "rarity": 5,
-    "specialId": "midnight_blitzing",
+    "specialId": "午夜突袭",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween",
     "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
@@ -39187,7 +39187,7 @@
   "wild_west_fast_red_legendary_temp1": {
     "id": "wild_west_fast_red_legendary_temp1",
     "element": "红",
-    "family": "wild_west",
+    "family": "荒野西部家族",
     "baseHealth": 1185,
     "baseAttack": 701,
     "baseDefense": 699,
@@ -39202,7 +39202,7 @@
   "wild_west_average_purple_legendary_temp1": {
     "id": "wild_west_average_purple_legendary_temp1",
     "element": "紫",
-    "family": "wild_west",
+    "family": "荒野西部家族",
     "baseHealth": 1185,
     "baseAttack": 701,
     "baseDefense": 699,
@@ -39215,7 +39215,7 @@
     "origin": "黑色星期五召唤"
   },
   "vegetable_taterian": {
-    "id": "vegetable_taterian",
+    "id": "泰特里安",
     "element": "黄",
     "family": "英勇植物家族",
     "baseHealth": 1215,
@@ -39229,12 +39229,12 @@
     "classType": "野蛮人",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "potato_plunder",
+    "specialId": "土豆掠夺",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "英勇植物"
   },
   "vegetable_cauliver": {
-    "id": "vegetable_cauliver",
+    "id": "考利弗",
     "element": "蓝",
     "family": "英勇植物家族",
     "baseHealth": 1211,
@@ -39248,12 +39248,12 @@
     "classType": "僧侣",
     "aetherGift": "治疗提升",
     "rarity": 5,
-    "specialId": "happy_hops",
+    "specialId": "欢欣弹跳",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "英勇植物"
   },
   "construct_haulstone_costume_picnic": {
-    "id": "construct_haulstone_costume_picnic",
+    "id": "饕餮机械",
     "element": "绿",
     "family": "机械家族",
     "baseHealth": 906,
@@ -39270,13 +39270,13 @@
       "construct_core_charge_saver"
     ],
     "rarity": 5,
-    "specialId": "picnic_bag",
+    "specialId": "野餐袋",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤",
     "parentHeroId": "运输石"
   },
   "construct_ferrus_costume_shipyard": {
-    "id": "construct_ferrus_costume_shipyard",
+    "id": "船坞机械",
     "element": "绿",
     "family": "机械家族",
     "baseHealth": 874,
@@ -39293,13 +39293,13 @@
       "construct_core_charge_saver"
     ],
     "rarity": 5,
-    "specialId": "charged_cutlass",
+    "specialId": "充能弯刀",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤",
     "parentHeroId": "费洛斯"
   },
   "construct_brimstone_costume_hellforged": {
-    "id": "construct_brimstone_costume_hellforged",
+    "id": "炼狱锻铸机械",
     "element": "红",
     "family": "机械家族",
     "baseHealth": 857,
@@ -39316,13 +39316,13 @@
       "construct_core_charge_saver"
     ],
     "rarity": 5,
-    "specialId": "smelting_wrath",
+    "specialId": "熔炼之怒",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤",
     "parentHeroId": "硫磺"
   },
   "construct_bonechill_costume_bedrock": {
-    "id": "construct_bonechill_costume_bedrock",
+    "id": "基岩机械",
     "element": "蓝",
     "family": "机械家族",
     "baseHealth": 584,
@@ -39339,13 +39339,13 @@
       "construct_core_charge_saver"
     ],
     "rarity": 4,
-    "specialId": "rock_and_rime",
+    "specialId": "霜岩撼击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤",
     "parentHeroId": "骨颤"
   },
   "construct_rustbeak_costume_devout": {
-    "id": "construct_rustbeak_costume_devout",
+    "id": "虔诚枭鸟机械",
     "element": "黄",
     "family": "机械家族",
     "baseHealth": 474,
@@ -39362,13 +39362,13 @@
       "construct_core_charge_saver"
     ],
     "rarity": 3,
-    "specialId": "swooping_aid",
+    "specialId": "俯冲驰援",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤",
     "parentHeroId": "锈喙"
   },
   "construct_nautica_costume_astronomer": {
-    "id": "construct_nautica_costume_astronomer",
+    "id": "天文学者机械",
     "element": "蓝",
     "family": "机械家族",
     "baseHealth": 840,
@@ -39385,13 +39385,13 @@
       "construct_core_charge_saver"
     ],
     "rarity": 5,
-    "specialId": "stargazers_telescope",
+    "specialId": "观星者望远镜",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤",
     "parentHeroId": "诺第卡"
   },
   "fleur_elyzabel_costume_scout": {
-    "id": "fleur_elyzabel_costume_scout",
+    "id": "血色密探",
     "element": "红",
     "family": "弗勒德桑家族",
     "baseHealth": 1098,
@@ -39404,13 +39404,13 @@
     "classType": "游侠",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "pernicious_pets",
+    "specialId": "蚀命萌宠",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween2025",
     "parentHeroId": "埃莉萨贝尔·德·蒂耶尔"
   },
   "halloween_matilda_costume_mafia": {
-    "id": "halloween_matilda_costume_mafia",
+    "id": "珍馐调香师",
     "element": "黄",
     "family": "莫洛维亚家族",
     "baseHealth": 726,
@@ -39423,13 +39423,13 @@
     "classType": "术士",
     "aetherGift": "恶魔抵抗",
     "rarity": 5,
-    "specialId": "perfume_poisoning",
+    "specialId": "毒香蚀身",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween",
     "parentHeroId": "玛蒂尔达"
   },
   "vampire_queen_costume_mafia": {
-    "id": "vampire_queen_costume_mafia",
+    "id": "暗夜健身教官",
     "element": "蓝",
     "family": "莫洛维亚家族",
     "baseHealth": 566,
@@ -39442,13 +39442,13 @@
     "classType": "游侠",
     "aetherGift": "生命恢复",
     "rarity": 4,
-    "specialId": "cardio_of_sorrow",
+    "specialId": "悲恸律动",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween",
     "parentHeroId": "法蕾莉"
   },
   "vampire_lord_costume_mafia": {
-    "id": "vampire_lord_costume_mafia",
+    "id": "吸血鬼副官",
     "element": "紫",
     "family": "莫洛维亚家族",
     "baseHealth": 498,
@@ -39461,13 +39461,13 @@
     "classType": "圣骑士",
     "aetherGift": "生命恢复",
     "rarity": 3,
-    "specialId": "dawn_of_agony",
+    "specialId": "痛苦黎明",
     "canBeReceivedDate": "2026-10-19 07:00:00",
     "origin": "Halloween",
     "parentHeroId": "弗拉德"
   },
   "forest_god_elinor_costume_pirate": {
-    "id": "forest_god_elinor_costume_pirate",
+    "id": "宝藏海盗",
     "element": "绿",
     "family": "hotm2019",
     "baseHealth": 610,
@@ -39483,13 +39483,13 @@
       "legendary_reversal"
     ],
     "rarity": 5,
-    "specialId": "lurk_in_shadows",
+    "specialId": "暗影潜伏",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "MonthlyHeroMay2019",
     "parentHeroId": "玛格丽特"
   },
   "ice_god_miki_costume_expeditioner": {
-    "id": "ice_god_miki_costume_expeditioner",
+    "id": "霜兽护卫",
     "element": "蓝",
     "family": "hotm2019",
     "baseHealth": 617,
@@ -39505,13 +39505,13 @@
       "legendary_reflector"
     ],
     "rarity": 5,
-    "specialId": "brush_of_tundra",
+    "specialId": "冻土画刷",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "MonthlyHeroAugust2019",
     "parentHeroId": "米琪"
   },
   "holy_god_ranvir_costume_sunpriest": {
-    "id": "holy_god_ranvir_costume_sunpriest",
+    "id": "辉光人马",
     "element": "黄",
     "family": "hotm2019",
     "baseHealth": 547,
@@ -39527,13 +39527,13 @@
       "legendary_reversal"
     ],
     "rarity": 5,
-    "specialId": "mystics_grace",
+    "specialId": "秘法恩赐",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "MonthlyHeroJune2019",
     "parentHeroId": "兰威尔"
   },
   "fire_god_nadnog_costume_harvester": {
-    "id": "fire_god_nadnog_costume_harvester",
+    "id": "烈焰收割者",
     "element": "红",
     "family": "hotm2019",
     "baseHealth": 683,
@@ -39549,13 +39549,13 @@
       "legendary_reversal"
     ],
     "rarity": 5,
-    "specialId": "renewing_mantra",
+    "specialId": "新生真言",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "MonthlyHeroSeptember2019",
     "parentHeroId": "格拉祖"
   },
   "rodent_bonegnaw": {
-    "id": "rodent_bonegnaw",
+    "id": "噬骨者",
     "element": "紫",
     "family": "冒险鼠家族",
     "baseHealth": 1226,
@@ -39569,11 +39569,11 @@
     "classType": "野蛮人",
     "aetherGift": "反击",
     "rarity": 5,
-    "specialId": "cleaver_of_carrots",
+    "specialId": "胡萝卜劈刀",
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_galepaw": {
-    "id": "rodent_galepaw",
+    "id": "风爪",
     "element": "黄",
     "family": "冒险鼠家族",
     "baseHealth": 1198,
@@ -39587,11 +39587,11 @@
     "classType": "游侠",
     "aetherGift": "闪避",
     "rarity": 5,
-    "specialId": "plummeting_arrow",
+    "specialId": "陨落箭矢",
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_oakspine": {
-    "id": "rodent_oakspine",
+    "id": "橡刺",
     "element": "绿",
     "family": "冒险鼠家族",
     "baseHealth": 1195,
@@ -39605,11 +39605,11 @@
     "classType": "圣骑士",
     "aetherGift": "状态异常反弹",
     "rarity": 5,
-    "specialId": "sturdy_club",
+    "specialId": "坚实棍棒",
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_dewfoot": {
-    "id": "rodent_dewfoot",
+    "id": "露足",
     "element": "蓝",
     "family": "冒险鼠家族",
     "baseHealth": 685,
@@ -39623,11 +39623,11 @@
     "classType": "盗贼",
     "aetherGift": "特殊护甲",
     "rarity": 4,
-    "specialId": "wild_splinter",
+    "specialId": "荒野碎击",
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_honeytuft": {
-    "id": "rodent_honeytuft",
+    "id": "蜜绒",
     "element": "黄",
     "family": "冒险鼠家族",
     "baseHealth": 560,
@@ -39641,11 +39641,11 @@
     "classType": "德鲁伊",
     "aetherGift": "恶魔抵抗",
     "rarity": 3,
-    "specialId": "purifying_brush",
+    "specialId": "净化之笔",
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "mimic_titan_part_red": {
-    "id": "mimic_titan_part_red",
+    "id": "泰坦骨拟态兽",
     "element": "红",
     "family": "拟态兽家族",
     "baseHealth": 1181,
@@ -39659,13 +39659,13 @@
     "classType": "牧师",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "titan_part_mimic_bite_red",
+    "specialId": "肆虐啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonTitanPartMimicRed",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_blue": {
-    "id": "mimic_titan_part_blue",
+    "id": "泰坦骨拟态兽",
     "element": "蓝",
     "family": "拟态兽家族",
     "baseHealth": 1181,
@@ -39679,13 +39679,13 @@
     "classType": "牧师",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "titan_part_mimic_bite_blue",
+    "specialId": "肆虐啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonTitanPartMimicBlue",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_green": {
-    "id": "mimic_titan_part_green",
+    "id": "泰坦骨拟态兽",
     "element": "绿",
     "family": "拟态兽家族",
     "baseHealth": 1181,
@@ -39699,13 +39699,13 @@
     "classType": "牧师",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "titan_part_mimic_bite_green",
+    "specialId": "肆虐啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonTitanPartMimicGreen",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_purple": {
-    "id": "mimic_titan_part_purple",
+    "id": "泰坦骨拟态兽",
     "element": "紫",
     "family": "拟态兽家族",
     "baseHealth": 1181,
@@ -39719,13 +39719,13 @@
     "classType": "牧师",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "titan_part_mimic_bite_purple",
+    "specialId": "肆虐啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonTitanPartMimicPurple",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_yellow": {
-    "id": "mimic_titan_part_yellow",
+    "id": "泰坦骨拟态兽",
     "element": "黄",
     "family": "拟态兽家族",
     "baseHealth": 1181,
@@ -39739,13 +39739,13 @@
     "classType": "牧师",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "titan_part_mimic_bite_yellow",
+    "specialId": "肆虐啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "SecretSummonTitanPartMimicYellow",
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "s3_heimdall_costume_cute": {
-    "id": "s3_heimdall_costume_cute",
+    "id": "机警卡通",
     "element": "绿",
     "family": "阿斯加德王国",
     "baseHealth": 689,
@@ -39758,14 +39758,14 @@
     "classType": "圣骑士",
     "aetherGift": "治疗提升",
     "rarity": 5,
-    "specialId": "toon_boon_of_gjallarhorn",
+    "specialId": "卡通加拉尔号角祝福",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "瓦尔哈拉召唤",
     "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "海姆达"
   },
   "forest_god_zeline_costume_cute": {
-    "id": "forest_god_zeline_costume_cute",
+    "id": "卡通自然神仙",
     "element": "绿",
     "family": "hotm2018",
     "baseHealth": 636,
@@ -39778,14 +39778,14 @@
     "classType": "巫师",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "toon_flash",
+    "specialId": "卡通闪电",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "MonthlyHeroFebruary2018",
     "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "西林"
   },
   "s3_gullinbursti_costume_cute": {
-    "id": "s3_gullinbursti_costume_cute",
+    "id": "卡通野猪",
     "element": "黄",
     "family": "阿斯加德王国",
     "baseHealth": 658,
@@ -39798,14 +39798,14 @@
     "classType": "德鲁伊",
     "aetherGift": "治疗提升",
     "rarity": 4,
-    "specialId": "toon_boar_frenzy",
+    "specialId": "卡通野猪狂怒",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "瓦尔哈拉召唤",
     "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "古林博斯帝"
   },
   "s3_by_ulf_costume_cute": {
-    "id": "s3_by_ulf_costume_cute",
+    "id": "卡通维京斗士",
     "element": "绿",
     "family": "尼福尔海姆王国",
     "baseHealth": 497,
@@ -39818,14 +39818,14 @@
     "classType": "圣骑士",
     "aetherGift": "特殊护甲",
     "rarity": 3,
-    "specialId": "toon_boast",
+    "specialId": "卡通夸耀",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "瓦尔哈拉召唤",
     "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "拜伍尔夫"
   },
   "s3_tyr_costume_cute": {
-    "id": "s3_tyr_costume_cute",
+    "id": "卡通正义",
     "element": "红",
     "family": "海姆冥界王国",
     "baseHealth": 638,
@@ -39838,14 +39838,14 @@
     "classType": "战士",
     "aetherGift": "攻击提升",
     "rarity": 5,
-    "specialId": "toontastic_claw",
+    "specialId": "卡通利爪",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "瓦尔哈拉召唤",
     "summonExclusiveTag": "Wardrobe2",
     "parentHeroId": "泰尔"
   },
   "s3_mist_costume_cute": {
-    "id": "s3_mist_costume_cute",
+    "id": "卡通女武神指挥官",
     "element": "黄",
     "family": "米德加德王国",
     "baseHealth": 562,
@@ -39858,7 +39858,7 @@
     "classType": "牧师",
     "aetherGift": "攻击提升",
     "rarity": 4,
-    "specialId": "toon_charge",
+    "specialId": "卡通冲锋",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "瓦尔哈拉召唤",
     "summonExclusiveTag": "Wardrobe2",

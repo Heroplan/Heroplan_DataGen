@@ -6,7 +6,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -26,7 +26,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -46,7 +46,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)"
@@ -66,7 +66,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -86,7 +86,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)"
@@ -133,7 +133,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-04-06",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -202,7 +202,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Immunity Providers",
@@ -223,7 +223,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Healers (Special)",
@@ -353,7 +353,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)",
@@ -583,7 +583,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -659,7 +659,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -782,7 +782,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Wizard",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -860,7 +860,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (DEF)",
@@ -963,7 +963,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-10-01",
         "AetherPower": "Rage",
         "skill_types": [
             "Snipers",
@@ -1006,7 +1006,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Boosted Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -1190,7 +1190,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Regen",
         "skill_types": [
             "Counterattackers"
@@ -1290,7 +1290,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Paladin",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Chain & Random Attackers",
@@ -1472,7 +1472,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -1655,7 +1655,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Buffers (ATK)",
@@ -1845,7 +1845,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Ranger",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -1963,7 +1963,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Paladin",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Dispellers",
@@ -2068,7 +2068,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Regen",
         "skill_types": [
             "Healers (Special)",
@@ -2116,7 +2116,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Monk",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2018-10-01",
         "AetherPower": "Vampire",
         "skill_types": [
             "DoT Attackers",
@@ -2431,7 +2431,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -2557,7 +2557,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Cleansers",
@@ -3692,7 +3692,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-10-01",
         "AetherPower": "Revive",
         "skill_types": [
             "Chain & Random Attackers",
@@ -4232,7 +4232,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Wizard",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -4499,7 +4499,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -4702,7 +4702,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -4861,7 +4861,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-04-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -5096,7 +5096,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Chain & Random Attackers",
@@ -5861,7 +5861,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -5997,7 +5997,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Gamble",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -6383,7 +6383,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -6753,7 +6753,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -7163,7 +7163,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -7183,7 +7183,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -7203,7 +7203,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -7223,7 +7223,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Druid",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -7243,7 +7243,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -7286,7 +7286,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Druid",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Dispellers",
@@ -7394,7 +7394,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -7502,7 +7502,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Druid",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)"
@@ -7605,7 +7605,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (ATK)",
@@ -7628,7 +7628,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -7864,7 +7864,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-06-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers",
@@ -8112,7 +8112,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Wizard",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Rage",
         "skill_types": [
             "Cleansers",
@@ -8136,7 +8136,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Ranger",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -8234,7 +8234,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Dispellers",
@@ -8282,7 +8282,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-05-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Revivers"
@@ -8359,7 +8359,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Monk",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2019-11-01",
         "AetherPower": "Taunt",
         "skill_types": [
             "Buffers (DEF)",
@@ -8626,7 +8626,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Buffers (DEF)",
@@ -8649,7 +8649,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Ranger",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -8672,7 +8672,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Druid",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Dispellers",
@@ -8831,7 +8831,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Druid",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Fiend Resist",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -8882,7 +8882,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Druid",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Fiend Resist",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8932,7 +8932,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -8982,7 +8982,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-04-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -9056,7 +9056,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-06-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -9219,7 +9219,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Barbarian",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2017-06-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -9378,7 +9378,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Druid",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Dispellers",
@@ -9710,7 +9710,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-09-01",
         "AetherPower": "Revive",
         "skill_types": [
             "Silencers",
@@ -9842,7 +9842,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Sorcerer",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -10346,7 +10346,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -11035,7 +11035,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-06-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -12046,7 +12046,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-01-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "Buffers (ATK)",
@@ -12122,7 +12122,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Heal Increase",
         "skill_types": [
             "Buffers (ATK)",
@@ -12173,7 +12173,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -12382,7 +12382,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-06-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -12567,7 +12567,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-09-01",
         "AetherPower": "Revive",
         "skill_types": [
             "Cleansers",
@@ -12618,7 +12618,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2019-09-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Healers",
@@ -12743,7 +12743,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -13251,7 +13251,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-01-01",
         "AetherPower": "Bulwark",
         "skill_types": [
             "Buffers (DEF)",
@@ -13272,7 +13272,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2018-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers",
@@ -13742,7 +13742,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Board Alterers",
@@ -14176,7 +14176,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "Buffers (ATK)",
@@ -14304,7 +14304,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-02-01",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -14636,7 +14636,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -14819,7 +14819,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -14839,7 +14839,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -14859,7 +14859,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -14879,7 +14879,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers"
@@ -14899,7 +14899,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)"
@@ -15019,7 +15019,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Wizard",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Snipers"
@@ -15148,7 +15148,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Chain & Random Attackers",
@@ -15223,7 +15223,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -15265,7 +15265,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Sorcerer",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "Cleansers",
@@ -15342,7 +15342,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-01-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -15494,7 +15494,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -15594,7 +15594,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Healers (Special)",
@@ -15702,7 +15702,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Healers (Special)",
@@ -15804,7 +15804,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Dispellers",
@@ -15907,7 +15907,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Rogue",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2018-10-01",
         "AetherPower": "Vampire",
         "skill_types": [
             "DoT Attackers",
@@ -15986,7 +15986,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Sorcerer",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (ATK)",
@@ -16114,7 +16114,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-09-01",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -16135,7 +16135,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Sorcerer",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-02-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Debuffers (DEF)",
@@ -16209,7 +16209,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "Counterattackers"
@@ -16411,7 +16411,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Cleansers",
@@ -16481,7 +16481,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -16625,7 +16625,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-01-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Mindless Attack & Mindless Heal",
@@ -16675,7 +16675,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "DoT Attackers",
@@ -16723,7 +16723,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Cleansers",
@@ -16830,7 +16830,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Dispellers",
@@ -17061,7 +17061,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Rage",
         "skill_types": [
             "Chain & Random Attackers",
@@ -17085,7 +17085,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Ranger",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -17773,7 +17773,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "very_slow",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "Counterattackers",
@@ -18157,7 +18157,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -18510,7 +18510,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Regen",
         "skill_types": [
             "Buffers (DEF)",
@@ -18732,7 +18732,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -19091,7 +19091,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -19172,7 +19172,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "Dispellers",
@@ -19468,7 +19468,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-04-06",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -19888,7 +19888,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2019-10-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -20052,7 +20052,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -20184,7 +20184,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2020-05-01",
         "AetherPower": "Bulwark",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -20255,7 +20255,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -20629,7 +20629,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -20850,7 +20850,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-09-01",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -20901,7 +20901,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Wizard",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "DoT Attackers",
@@ -21743,7 +21743,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-05-01",
         "AetherPower": "Bulwark",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -21896,7 +21896,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Wizard",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2018-10-01",
         "AetherPower": "Vampire",
         "skill_types": [
             "Buffers (DEF)",
@@ -22266,7 +22266,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Ranger",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers"
@@ -22286,7 +22286,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -22306,7 +22306,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -22326,7 +22326,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)"
@@ -22346,7 +22346,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)"
@@ -22366,7 +22366,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -22386,7 +22386,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Barbarian",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Rage",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -22573,7 +22573,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-09-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -22666,7 +22666,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -22738,7 +22738,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers"
@@ -22843,7 +22843,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Sorcerer",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -23022,7 +23022,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Barbarian",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "Buffers (ATK)",
@@ -23043,7 +23043,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Barbarian",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -23168,7 +23168,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -23236,7 +23236,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-04-01",
         "AetherPower": "Rage",
         "skill_types": [
             "Negative Effects On Self Or Allies",
@@ -23438,7 +23438,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -23622,7 +23622,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Fighter",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -23829,7 +23829,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -23965,7 +23965,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -24066,7 +24066,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -24465,7 +24465,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -24616,7 +24616,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Buffers (ATK)",
@@ -24638,7 +24638,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Counterattackers",
@@ -24688,7 +24688,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Monk",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Counterattack",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -24785,7 +24785,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Regen",
         "skill_types": [
             "Buffers (DEF)",
@@ -25280,7 +25280,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -25602,7 +25602,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-09-01",
         "AetherPower": "Knight's Endurance",
         "skill_types": [
             "Buffers (ATK)",
@@ -25732,7 +25732,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-09-01",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -26355,7 +26355,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -27041,7 +27041,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -27482,7 +27482,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Ranger",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -27964,7 +27964,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -28101,7 +28101,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Sorcerer",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -28642,7 +28642,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -28694,7 +28694,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-02-01",
         "AetherPower": "Taunt",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -28833,7 +28833,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Ranger",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -29139,7 +29139,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2018-12-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -29600,7 +29600,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Bypassers",
@@ -30176,7 +30176,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Rogue",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -30196,7 +30196,7 @@ window.allHeroesExtra = [
         "rarity": 1,
         "class": "Fighter",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -30216,7 +30216,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)"
@@ -30236,7 +30236,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Wizard",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -30257,7 +30257,7 @@ window.allHeroesExtra = [
         "rarity": 2,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers"
@@ -30298,7 +30298,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Fighter",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -30321,7 +30321,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Monk",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -30519,7 +30519,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -30672,7 +30672,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Monk",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -30859,7 +30859,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Cleric",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)",
@@ -30988,7 +30988,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Druid",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Defense Up",
         "skill_types": [
             "DoT Attackers",
@@ -31038,7 +31038,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Druid",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -31110,7 +31110,7 @@ window.allHeroesExtra = [
         "rarity": 3,
         "class": "Cleric",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -31438,7 +31438,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Ranger",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -31566,7 +31566,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Gamble",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -31702,7 +31702,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -31802,7 +31802,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Rogue",
         "speed": "very_fast",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (DEF)",
@@ -31924,7 +31924,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Fighter",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -32061,7 +32061,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2020-04-06",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers",
@@ -32082,7 +32082,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -32217,7 +32217,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -32419,7 +32419,7 @@ window.allHeroesExtra = [
         "rarity": 4,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Gamble",
         "skill_types": [
             "Buffers (ATK)",
@@ -33845,7 +33845,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-01-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Buffers (ATK)",
@@ -33903,7 +33903,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Druid",
         "speed": "very_slow",
-        "Release date": "",
+        "Release date": "2017-10-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -33926,7 +33926,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Wizard",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-01-01",
         "AetherPower": "Bulwark",
         "skill_types": [
             "Buffers (DEF)",
@@ -34191,7 +34191,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Dodgers",
@@ -34431,7 +34431,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "Debuffers (ATK)",
@@ -34591,7 +34591,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2016-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -34879,7 +34879,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "Healers (Special)",
@@ -35809,7 +35809,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Fighter",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Immunity Providers",
@@ -35934,7 +35934,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Monk",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2018-06-01",
         "AetherPower": "Counterattack",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -36038,7 +36038,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Barbarian",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-06-29",
         "AetherPower": "Dodge",
         "skill_types": [
             "Cleansers",
@@ -36274,7 +36274,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Rogue",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-02-27",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Buffers (DEF)",
@@ -36351,7 +36351,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Paladin",
         "speed": "average",
-        "Release date": "",
+        "Release date": "2020-04-06",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Chain & Random Attackers",
@@ -36602,7 +36602,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "slow",
-        "Release date": "",
+        "Release date": "2017-01-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -36793,7 +36793,7 @@ window.allHeroesExtra = [
         "rarity": 5,
         "class": "Cleric",
         "speed": "fast",
-        "Release date": "",
+        "Release date": "2019-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -50712,5 +50712,45 @@ window.allHeroesExtra = [
         "healthBonus": "78%",
         "manaBonus": "1%",
         "family": "ninja"
+    },
+    {
+        "name": "Theron",
+        "fancy name": "Swift Elaphocentaur Warrior",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-10-01",
+        "AetherPower": "Counterattack",
+        "heroId": "nature_god_theron",
+        "baseAttack": 659,
+        "baseDefense": 624,
+        "baseHealth": 1058,
+        "specialId": "spear_of_aggravation",
+        "passiveSkills": [
+            "never_miss_special",
+            "heal_on_enemy_bleed"
+        ],
+        "family": "hotm2026"
+    },
+    {
+        "name": "Maar",
+        "fancy name": "Warden of the Rainforest",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-10-01",
+        "AetherPower": "Defense Up",
+        "heroId": "titan_hunter_maar",
+        "baseAttack": 692,
+        "baseDefense": 687,
+        "baseHealth": 1194,
+        "specialId": "crimson_guard",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_red_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];

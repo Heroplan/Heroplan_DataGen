@@ -21221,7 +21221,7 @@
     "parentHeroId": "forest_titan"
   },
   "forest_titan_costume_stylish": {
-    "id": "forest_titan_costume_stylish",
+    "id": "Ancient of the Arboretum",
     "element": "Green",
     "family": "classic",
     "baseHealth": 760,
@@ -21263,7 +21263,7 @@
     "parentHeroId": "cultist_inventor"
   },
   "cultist_inventor_costume_stylish": {
-    "id": "cultist_inventor_costume_stylish",
+    "id": "Stylish Scientist",
     "element": "Purple",
     "family": "classic",
     "baseHealth": 671,
@@ -21809,7 +21809,7 @@
     "parentHeroId": "nomad_female_assassin"
   },
   "nomad_female_assassin_costume_stylish": {
-    "id": "nomad_female_assassin_costume_stylish",
+    "id": "Stylish Raider",
     "element": "Red",
     "family": "classic",
     "baseHealth": 496,
@@ -21851,7 +21851,7 @@
     "parentHeroId": "blackguard_commander"
   },
   "blackguard_commander_costume_stylish": {
-    "id": "blackguard_commander_costume_stylish",
+    "id": "Stylish Duke",
     "element": "Purple",
     "family": "classic",
     "baseHealth": 472,
@@ -21893,7 +21893,7 @@
     "parentHeroId": "dwarven_guard"
   },
   "dwarven_guard_costume_stylish": {
-    "id": "dwarven_guard_costume_stylish",
+    "id": "Stylish Defender",
     "element": "Blue",
     "family": "classic",
     "baseHealth": 540,
@@ -22397,7 +22397,7 @@
     "parentHeroId": "lizardman_warrior"
   },
   "lizardman_warrior_costume_stylish": {
-    "id": "lizardman_warrior_costume_stylish",
+    "id": "Stylish Fighter",
     "element": "Green",
     "family": "classic",
     "baseHealth": 500,
@@ -22439,7 +22439,7 @@
     "parentHeroId": "undead_horned_skeleton"
   },
   "undead_horned_skeleton_costume_stylish": {
-    "id": "undead_horned_skeleton_costume_stylish",
+    "id": "Stylish Remnant",
     "element": "Purple",
     "family": "classic",
     "baseHealth": 459,
@@ -22481,7 +22481,7 @@
     "parentHeroId": "nordic_mage"
   },
   "nordic_mage_costume_stylish": {
-    "id": "nordic_mage_costume_stylish",
+    "id": "Stylist of Glaceholm",
     "element": "Blue",
     "family": "classic",
     "baseHealth": 393,
@@ -22523,7 +22523,7 @@
     "parentHeroId": "oriental_female_guard"
   },
   "oriental_female_guard_costume_stylish": {
-    "id": "oriental_female_guard_costume_stylish",
+    "id": "Shaguadian Stylist",
     "element": "Yellow",
     "family": "classic",
     "baseHealth": 364,
@@ -35729,7 +35729,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "superfluous_jewelry",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-10-06 07:00:00",
     "origin": "The Brave & The Beautiful"
   },
   "beauty_beast_laurent": {
@@ -36881,7 +36881,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_juniper": {
-    "id": "titan_hunter_juniper",
+    "id": "Vanguard of the Grove",
     "element": "Green",
     "family": "titan_hunter",
     "baseHealth": 1172,
@@ -36938,7 +36938,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_ingrith": {
-    "id": "titan_hunter_ingrith",
+    "id": "Trapper from the Tundra",
     "element": "Blue",
     "family": "titan_hunter",
     "baseHealth": 1163,
@@ -36957,7 +36957,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_yuralia": {
-    "id": "titan_hunter_yuralia",
+    "id": "Trapper from the Cove",
     "element": "Purple",
     "family": "titan_hunter",
     "baseHealth": 1163,
@@ -36995,7 +36995,7 @@
     "origin": "TitanHunter"
   },
   "titan_hunter_crag": {
-    "id": "titan_hunter_crag",
+    "id": "Warden of the Wilds",
     "element": "Yellow",
     "family": "titan_hunter",
     "baseHealth": 1179,
@@ -38355,7 +38355,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "power_of_shattered_moons",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-10-08 07:00:00",
     "origin": "Astral Plane"
   },
   "astral_demon_azaghim": {
@@ -38519,7 +38519,7 @@
     "origin": "Ninja Tower"
   },
   "ronin_kogan": {
-    "id": "ronin_kogan",
+    "id": "Mountain Guardian of Horai-zan",
     "element": "Yellow",
     "family": "ronin",
     "baseHealth": 1182,
@@ -38539,7 +38539,7 @@
     "origin": "Ninja Tower"
   },
   "ronin_mori_hyouei": {
-    "id": "ronin_mori_hyouei",
+    "id": "Shadowy Ronin",
     "element": "Blue",
     "family": "ronin",
     "baseHealth": 1167,
@@ -38559,7 +38559,7 @@
     "origin": "Ninja Tower"
   },
   "ronin_ishikawa_genta": {
-    "id": "ronin_ishikawa_genta",
+    "id": "Unassuming Ronin",
     "element": "Green",
     "family": "ronin",
     "baseHealth": 1180,
@@ -38579,7 +38579,7 @@
     "origin": "Ninja Tower"
   },
   "ronin_aoki_morika": {
-    "id": "ronin_aoki_morika",
+    "id": "Demon-Vanquishing Ronin",
     "element": "Green",
     "family": "ronin",
     "baseHealth": 1175,
@@ -39032,7 +39032,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "all_consuming_hunger",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-10-11 07:00:00",
     "origin": "KingdomWar"
   },
   "vegetable_pyaza": {
@@ -39130,7 +39130,7 @@
     "origin": "KingdomWar"
   },
   "fleur_chrysostom": {
-    "id": "fleur_chrysostom",
+    "id": "Sanguine King",
     "element": "Purple",
     "family": "fleur_de_sang",
     "baseHealth": 1210,
@@ -39148,7 +39148,7 @@
     "origin": "Halloween2025"
   },
   "fleur_bezian": {
-    "id": "fleur_bezian",
+    "id": "Sanguine Jester",
     "element": "Green",
     "family": "fleur_de_sang",
     "baseHealth": 1208,
@@ -39166,7 +39166,7 @@
     "origin": "Halloween2025"
   },
   "halloween_karlov": {
-    "id": "halloween_karlov",
+    "id": "Vampire Renegade",
     "element": "Red",
     "family": "halloween",
     "baseHealth": 1135,
@@ -39215,7 +39215,7 @@
     "origin": "Black Friday Summon"
   },
   "vegetable_taterian": {
-    "id": "vegetable_taterian",
+    "id": "Potato Raider",
     "element": "Yellow",
     "family": "vegetable",
     "baseHealth": 1215,
@@ -39234,7 +39234,7 @@
     "origin": "Vigilant Vegetables"
   },
   "vegetable_cauliver": {
-    "id": "vegetable_cauliver",
+    "id": "Cauliflower Minstrel",
     "element": "Blue",
     "family": "vegetable",
     "baseHealth": 1211,
@@ -39253,7 +39253,7 @@
     "origin": "Vigilant Vegetables"
   },
   "construct_haulstone_costume_picnic": {
-    "id": "construct_haulstone_costume_picnic",
+    "id": "Snack-It-All Construct",
     "element": "Green",
     "family": "construct",
     "baseHealth": 906,
@@ -39276,7 +39276,7 @@
     "parentHeroId": "construct_haulstone"
   },
   "construct_ferrus_costume_shipyard": {
-    "id": "construct_ferrus_costume_shipyard",
+    "id": "Shipyard Construct",
     "element": "Green",
     "family": "construct",
     "baseHealth": 874,
@@ -39299,7 +39299,7 @@
     "parentHeroId": "construct_ferrus"
   },
   "construct_brimstone_costume_hellforged": {
-    "id": "construct_brimstone_costume_hellforged",
+    "id": "Hellforged Construct",
     "element": "Red",
     "family": "construct",
     "baseHealth": 857,
@@ -39322,7 +39322,7 @@
     "parentHeroId": "construct_brimstone"
   },
   "construct_bonechill_costume_bedrock": {
-    "id": "construct_bonechill_costume_bedrock",
+    "id": "Bedrock Construct",
     "element": "Blue",
     "family": "construct",
     "baseHealth": 584,
@@ -39345,7 +39345,7 @@
     "parentHeroId": "construct_bonechill"
   },
   "construct_rustbeak_costume_devout": {
-    "id": "construct_rustbeak_costume_devout",
+    "id": "Devout Owl Construct",
     "element": "Yellow",
     "family": "construct",
     "baseHealth": 474,
@@ -39368,7 +39368,7 @@
     "parentHeroId": "construct_rustbeak"
   },
   "construct_nautica_costume_astronomer": {
-    "id": "construct_nautica_costume_astronomer",
+    "id": "Astronomer Construct",
     "element": "Blue",
     "family": "construct",
     "baseHealth": 840,
@@ -39391,7 +39391,7 @@
     "parentHeroId": "construct_nautica"
   },
   "fleur_elyzabel_costume_scout": {
-    "id": "fleur_elyzabel_costume_scout",
+    "id": "Sanguine Scout",
     "element": "Red",
     "family": "fleur_de_sang",
     "baseHealth": 1098,
@@ -39410,7 +39410,7 @@
     "parentHeroId": "fleur_elyzabel"
   },
   "halloween_matilda_costume_mafia": {
-    "id": "halloween_matilda_costume_mafia",
+    "id": "Gourmet Perfumer",
     "element": "Yellow",
     "family": "halloween",
     "baseHealth": 726,
@@ -39429,7 +39429,7 @@
     "parentHeroId": "halloween_matilda"
   },
   "vampire_queen_costume_mafia": {
-    "id": "vampire_queen_costume_mafia",
+    "id": "Fitness Trainer of Night",
     "element": "Blue",
     "family": "halloween",
     "baseHealth": 566,
@@ -39448,7 +39448,7 @@
     "parentHeroId": "vampire_queen"
   },
   "vampire_lord_costume_mafia": {
-    "id": "vampire_lord_costume_mafia",
+    "id": "Vampire Lieutenant",
     "element": "Purple",
     "family": "halloween",
     "baseHealth": 498,
@@ -39467,7 +39467,7 @@
     "parentHeroId": "vampire_lord"
   },
   "forest_god_elinor_costume_pirate": {
-    "id": "forest_god_elinor_costume_pirate",
+    "id": "Treasure Pirate",
     "element": "Green",
     "family": "hotm2019",
     "baseHealth": 610,
@@ -39489,7 +39489,7 @@
     "parentHeroId": "forest_god_elinor"
   },
   "ice_god_miki_costume_expeditioner": {
-    "id": "ice_god_miki_costume_expeditioner",
+    "id": "Caretaker of Frost Beasts",
     "element": "Blue",
     "family": "hotm2019",
     "baseHealth": 617,
@@ -39511,7 +39511,7 @@
     "parentHeroId": "ice_god_miki"
   },
   "holy_god_ranvir_costume_sunpriest": {
-    "id": "holy_god_ranvir_costume_sunpriest",
+    "id": "Sunlit Centaur",
     "element": "Yellow",
     "family": "hotm2019",
     "baseHealth": 547,
@@ -39533,7 +39533,7 @@
     "parentHeroId": "holy_god_ranvir"
   },
   "fire_god_nadnog_costume_harvester": {
-    "id": "fire_god_nadnog_costume_harvester",
+    "id": "The Fiery Harvester",
     "element": "Red",
     "family": "hotm2019",
     "baseHealth": 683,
@@ -39555,7 +39555,7 @@
     "parentHeroId": "fire_god_nadnog"
   },
   "rodent_bonegnaw": {
-    "id": "rodent_bonegnaw",
+    "id": "The Savage Cotton Rat",
     "element": "Purple",
     "family": "rodent",
     "baseHealth": 1226,
@@ -39573,7 +39573,7 @@
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_galepaw": {
-    "id": "rodent_galepaw",
+    "id": "The Windborne Kangaroo Rat",
     "element": "Yellow",
     "family": "rodent",
     "baseHealth": 1198,
@@ -39591,7 +39591,7 @@
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_oakspine": {
-    "id": "rodent_oakspine",
+    "id": "The Lemming Warden",
     "element": "Green",
     "family": "rodent",
     "baseHealth": 1195,
@@ -39609,7 +39609,7 @@
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_dewfoot": {
-    "id": "rodent_dewfoot",
+    "id": "The Leaf-Hooded Spiny Mouse",
     "element": "Blue",
     "family": "rodent",
     "baseHealth": 685,
@@ -39627,7 +39627,7 @@
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "rodent_honeytuft": {
-    "id": "rodent_honeytuft",
+    "id": "The Stylish Woolly Mouse",
     "element": "Yellow",
     "family": "rodent",
     "baseHealth": 560,
@@ -39645,7 +39645,7 @@
     "canBeReceivedDate": "2200-01-01 07:00:00"
   },
   "mimic_titan_part_red": {
-    "id": "mimic_titan_part_red",
+    "id": "Hoard of the Horned Scavenger",
     "element": "Red",
     "family": "mimic",
     "baseHealth": 1181,
@@ -39665,7 +39665,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_blue": {
-    "id": "mimic_titan_part_blue",
+    "id": "Hoard of the Horned Scavenger",
     "element": "Blue",
     "family": "mimic",
     "baseHealth": 1181,
@@ -39685,7 +39685,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_green": {
-    "id": "mimic_titan_part_green",
+    "id": "Hoard of the Horned Scavenger",
     "element": "Green",
     "family": "mimic",
     "baseHealth": 1181,
@@ -39705,7 +39705,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_purple": {
-    "id": "mimic_titan_part_purple",
+    "id": "Hoard of the Horned Scavenger",
     "element": "Purple",
     "family": "mimic",
     "baseHealth": 1181,
@@ -39725,7 +39725,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_titan_part_yellow": {
-    "id": "mimic_titan_part_yellow",
+    "id": "Hoard of the Horned Scavenger",
     "element": "Yellow",
     "family": "mimic",
     "baseHealth": 1181,
@@ -39745,7 +39745,7 @@
     "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "s3_heimdall_costume_cute": {
-    "id": "s3_heimdall_costume_cute",
+    "id": "Vigilant Toon",
     "element": "Green",
     "family": "asgard",
     "baseHealth": 689,
@@ -39765,7 +39765,7 @@
     "parentHeroId": "s3_heimdall"
   },
   "forest_god_zeline_costume_cute": {
-    "id": "forest_god_zeline_costume_cute",
+    "id": "Toon Celestial of Nature",
     "element": "Green",
     "family": "hotm2018",
     "baseHealth": 636,
@@ -39785,7 +39785,7 @@
     "parentHeroId": "forest_god_zeline"
   },
   "s3_gullinbursti_costume_cute": {
-    "id": "s3_gullinbursti_costume_cute",
+    "id": "Toon Boar",
     "element": "Yellow",
     "family": "asgard",
     "baseHealth": 658,
@@ -39805,7 +39805,7 @@
     "parentHeroId": "s3_gullinbursti"
   },
   "s3_by_ulf_costume_cute": {
-    "id": "s3_by_ulf_costume_cute",
+    "id": "Toon Viking Brawler",
     "element": "Green",
     "family": "niflheim",
     "baseHealth": 497,
@@ -39825,7 +39825,7 @@
     "parentHeroId": "s3_by_ulf"
   },
   "s3_tyr_costume_cute": {
-    "id": "s3_tyr_costume_cute",
+    "id": "Toon Justice",
     "element": "Red",
     "family": "helheim",
     "baseHealth": 638,
@@ -39845,7 +39845,7 @@
     "parentHeroId": "s3_tyr"
   },
   "s3_mist_costume_cute": {
-    "id": "s3_mist_costume_cute",
+    "id": "Commander of Toon Valkyries",
     "element": "Yellow",
     "family": "midgard",
     "baseHealth": 562,

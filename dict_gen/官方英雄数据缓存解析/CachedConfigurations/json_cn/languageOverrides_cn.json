@@ -1,67 +1,76 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "English": {
-        "overrideEntries": []
-      },
-      "Dutch": {
-        "overrideEntries": []
-      },
-      "French": {
-        "overrideEntries": []
-      },
-      "German": {
-        "overrideEntries": []
-      },
-      "Indonesian": {
-        "overrideEntries": []
-      },
       "Italian": {
-        "overrideEntries": []
-      },
-      "Polish": {
-        "overrideEntries": []
-      },
-      "Portuguese": {
         "overrideEntries": []
       },
       "Russian": {
         "overrideEntries": []
       },
-      "Spanish": {
-        "overrideEntries": []
-      },
-      "Danish": {
-        "overrideEntries": []
-      },
-      "Finnish": {
-        "overrideEntries": []
-      },
-      "Norwegian": {
-        "overrideEntries": []
-      },
-      "Swedish": {
-        "overrideEntries": []
-      },
-      "Korean": {
-        "overrideEntries": []
-      },
-      "Japanese": {
-        "overrideEntries": []
-      },
-      "ChineseSimplified": {
+      "Polish": {
         "overrideEntries": []
       },
       "ChineseTraditional": {
         "overrideEntries": []
       },
+      "Korean": {
+        "overrideEntries": []
+      },
+      "German": {
+        "overrideEntries": []
+      },
+      "Japanese": {
+        "overrideEntries": []
+      },
+      "Swedish": {
+        "overrideEntries": []
+      },
       "Turkish": {
+        "overrideEntries": [
+          {
+            "key": "lottery.description.blacksolsticesummon.free_ascension_levels",
+            "text": "Çağırdığın her kahraman için [##specialpowerorange]ÜCRETSİZ[#] yükseliş seviyeleri alırsın!"
+          },
+          {
+            "key": "blackfriday.summon.guaranteed_ascended_hero",
+            "text": "Garantili [##specialpowerorange]Yükselmiş[#] Kahraman"
+          }
+        ]
+      },
+      "English": {
         "overrideEntries": []
       },
       "Arabic": {
         "overrideEntries": []
+      },
+      "French": {
+        "overrideEntries": []
+      },
+      "Portuguese": {
+        "overrideEntries": []
+      },
+      "Indonesian": {
+        "overrideEntries": []
+      },
+      "Finnish": {
+        "overrideEntries": []
+      },
+      "Danish": {
+        "overrideEntries": []
+      },
+      "Spanish": {
+        "overrideEntries": []
+      },
+      "Norwegian": {
+        "overrideEntries": []
+      },
+      "Dutch": {
+        "overrideEntries": []
+      },
+      "ChineseSimplified": {
+        "overrideEntries": []
       }
     }
   },
-  "languageOverridesConfigId": 1744595863
+  "languageOverridesConfigId": 4127832788
 }

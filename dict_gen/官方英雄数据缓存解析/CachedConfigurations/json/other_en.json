@@ -1,6 +1,5 @@
 {
   "otherConfig": {
-    "abCode": "checkout_v2_enabled",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -3321,9 +3320,9 @@
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
             "featuredCharacters": [
-              "beauty_beast_beauty",
-              "musketeer_queen_anne_costume_commander",
-              "beauty_beast_jacquespierre"
+              "beauty_beast_henriette",
+              "musketeer_rochefort_costume_ratcatcher",
+              "beauty_beast_mirielle"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-10-06 07:00:00",
@@ -4622,6 +4621,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-12-29 07:00:00",
             "endTime": "2027-01-02 07:00:00"
+          },
+          {
+            "id": "lottery_season_underwild_2026_12_31",
+            "targetSeason": "Season4",
+            "rareMonsterStateConfigId": "map_season4",
+            "startTime": "2026-12-31 07:00:00",
+            "endTime": "2027-01-04 07:00:00"
           },
           {
             "id": "lottery_season_untold_tales1_2026_12_31",
@@ -34748,19 +34754,19 @@
             "gemValue": 1000
           },
           {
-            "id": "titan_hunter_yuralia",
+            "id": "Trapper from the Cove",
             "gemValue": 1000
           },
           {
-            "id": "titan_hunter_ingrith",
+            "id": "Trapper from the Tundra",
             "gemValue": 1000
           },
           {
-            "id": "fleur_chrysostom",
+            "id": "Sanguine King",
             "gemValue": 1000
           },
           {
-            "id": "fleur_bezian",
+            "id": "Sanguine Jester",
             "gemValue": 1000
           },
           {
@@ -34768,19 +34774,19 @@
             "gemValue": 1000
           },
           {
-            "id": "vegetable_taterian",
+            "id": "Potato Raider",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_cauliver",
+            "id": "Cauliflower Minstrel",
             "gemValue": 1000
           },
           {
-            "id": "ronin_mori_hyouei",
+            "id": "Shadowy Ronin",
             "gemValue": 1000
           },
           {
-            "id": "ronin_kogan",
+            "id": "Mountain Guardian of Horai-zan",
             "gemValue": 1000
           },
           {
@@ -34788,51 +34794,51 @@
             "gemValue": 1000
           },
           {
-            "id": "rodent_galepaw",
+            "id": "The Windborne Kangaroo Rat",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_blue",
+            "id": "Hoard of the Horned Scavenger",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_green",
+            "id": "Hoard of the Horned Scavenger",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_purple",
+            "id": "Hoard of the Horned Scavenger",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_red",
+            "id": "Hoard of the Horned Scavenger",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_yellow",
+            "id": "Hoard of the Horned Scavenger",
             "gemValue": 1000
           },
           {
-            "id": "rodent_oakspine",
+            "id": "The Lemming Warden",
             "gemValue": 1000
           },
           {
-            "id": "ronin_ishikawa_genta",
+            "id": "Unassuming Ronin",
             "gemValue": 1000
           },
           {
-            "id": "ronin_aoki_morika",
+            "id": "Demon-Vanquishing Ronin",
             "gemValue": 1000
           },
           {
-            "id": "rodent_bonegnaw",
+            "id": "The Savage Cotton Rat",
             "gemValue": 1000
           },
           {
-            "id": "halloween_karlov",
+            "id": "Vampire Renegade",
             "gemValue": 1000
           },
           {
-            "id": "rodent_dewfoot",
+            "id": "The Leaf-Hooded Spiny Mouse",
             "gemValue": 1000
           },
           {
@@ -34852,7 +34858,7 @@
             "gemValue": 1000
           },
           {
-            "id": "rodent_honeytuft",
+            "id": "The Stylish Woolly Mouse",
             "gemValue": 1000
           },
           {
@@ -84248,7 +84254,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_heimdall_costume_cute",
+            "costumeId": "Vigilant Watchman-Vigilant Toon",
             "parentHeroId": "s3_heimdall"
           },
           {
@@ -84260,7 +84266,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_tyr_costume_cute",
+            "costumeId": "Relentless Justice-Toon Justice",
             "parentHeroId": "s3_tyr"
           },
           {
@@ -84272,7 +84278,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_gullinbursti_costume_cute",
+            "costumeId": "Golden Boar-Toon Boar",
             "parentHeroId": "s3_gullinbursti"
           },
           {
@@ -84284,7 +84290,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_mist_costume_cute",
+            "costumeId": "Commander of Valkyries-Commander of Toon Valkyries",
             "parentHeroId": "s3_mist"
           },
           {
@@ -84296,7 +84302,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_by_ulf_costume_cute",
+            "costumeId": "Cursed Viking Brawler-Toon Viking Brawler",
             "parentHeroId": "s3_by_ulf"
           },
           {
@@ -84596,7 +84602,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_god_zeline_costume_cute",
+            "costumeId": "Celestial of Nature-Toon Celestial of Nature",
             "parentHeroId": "forest_god_zeline"
           },
           {
@@ -84980,7 +84986,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_haulstone_costume_picnic",
+            "costumeId": "Carry-It-All Construct-Snack-It-All Construct",
             "parentHeroId": "construct_haulstone"
           },
           {
@@ -84992,7 +84998,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_ferrus_costume_shipyard",
+            "costumeId": "Pirate Construct-Shipyard Construct",
             "parentHeroId": "construct_ferrus"
           },
           {
@@ -85004,7 +85010,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_brimstone_costume_hellforged",
+            "costumeId": "Hellish Construct-Hellforged Construct",
             "parentHeroId": "construct_brimstone"
           },
           {
@@ -85016,7 +85022,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_bonechill_costume_bedrock",
+            "costumeId": "Frost Construct-Bedrock Construct",
             "parentHeroId": "construct_bonechill"
           },
           {
@@ -85028,7 +85034,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_rustbeak_costume_devout",
+            "costumeId": "Owl Construct-Devout Owl Construct",
             "parentHeroId": "construct_rustbeak"
           },
           {
@@ -85040,7 +85046,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_nautica_costume_astronomer",
+            "costumeId": "Navigator Construct-Astronomer Construct",
             "parentHeroId": "construct_nautica"
           },
           {
@@ -85052,7 +85058,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "fleur_elyzabel_costume_scout",
+            "costumeId": "Sanguine Countess-Sanguine Scout",
             "parentHeroId": "fleur_elyzabel"
           },
           {
@@ -85064,7 +85070,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "halloween_matilda_costume_mafia",
+            "costumeId": "Unhallowed Pastry Chef-Gourmet Perfumer",
             "parentHeroId": "halloween_matilda"
           },
           {
@@ -85076,7 +85082,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "vampire_queen_costume_mafia",
+            "costumeId": "Child of Night-Fitness Trainer of Night",
             "parentHeroId": "vampire_queen"
           },
           {
@@ -85088,7 +85094,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "vampire_lord_costume_mafia",
+            "costumeId": "Vampire Henchman-Vampire Lieutenant",
             "parentHeroId": "vampire_lord"
           },
           {
@@ -85100,7 +85106,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_god_elinor_costume_pirate",
+            "costumeId": "Treasure Hunter-Treasure Pirate",
             "parentHeroId": "forest_god_elinor"
           },
           {
@@ -85112,7 +85118,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ice_god_miki_costume_expeditioner",
+            "costumeId": "Slayer of Frost Beasts-Caretaker of Frost Beasts",
             "parentHeroId": "ice_god_miki"
           },
           {
@@ -85124,7 +85130,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "holy_god_ranvir_costume_sunpriest",
+            "costumeId": "Holy Centaur-Sunlit Centaur",
             "parentHeroId": "holy_god_ranvir"
           },
           {
@@ -85136,7 +85142,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "fire_god_nadnog_costume_harvester",
+            "costumeId": "The Fiery Healer-The Fiery Harvester",
             "parentHeroId": "fire_god_nadnog"
           },
           {
@@ -85148,7 +85154,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_titan_costume_stylish",
+            "costumeId": "Ancient of the Woods-Ancient of the Arboretum",
             "parentHeroId": "forest_titan"
           },
           {
@@ -85160,7 +85166,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "lizardman_warrior_costume_stylish",
+            "costumeId": "Lizardfolk Fighter-Stylish Fighter",
             "parentHeroId": "lizardman_warrior"
           },
           {
@@ -85172,7 +85178,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "undead_horned_skeleton_costume_stylish",
+            "costumeId": "Relentless Remnant-Stylish Remnant",
             "parentHeroId": "undead_horned_skeleton"
           },
           {
@@ -85184,7 +85190,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_female_assassin_costume_stylish",
+            "costumeId": "Raider from the Sandsea-Stylish Raider",
             "parentHeroId": "nomad_female_assassin"
           },
           {
@@ -85196,7 +85202,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "blackguard_commander_costume_stylish",
+            "costumeId": "Mournful Duke-Stylish Duke",
             "parentHeroId": "blackguard_commander"
           },
           {
@@ -85208,7 +85214,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "dwarven_guard_costume_stylish",
+            "costumeId": "Stout Defender-Stylish Defender",
             "parentHeroId": "dwarven_guard"
           },
           {
@@ -85220,7 +85226,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_female_guard_costume_stylish",
+            "costumeId": "Ranger of Shaguad-Shaguadian Stylist",
             "parentHeroId": "oriental_female_guard"
           },
           {
@@ -85232,7 +85238,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "cultist_inventor_costume_stylish",
+            "costumeId": "Mad Scientist-Stylish Scientist",
             "parentHeroId": "cultist_inventor"
           },
           {
@@ -85244,7 +85250,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nordic_mage_costume_stylish",
+            "costumeId": "Mage of Glaceholm-Stylist of Glaceholm",
             "parentHeroId": "nordic_mage"
           }
         ],
@@ -101694,6 +101700,17 @@
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
+            },
+            {
+              "id": "visiting_outfitter_9",
+              "startTime": "2026-10-08 07:00:00",
+              "endTime": "2026-10-11 07:00:00",
+              "maxTransactionCount": 1,
+              "maxHeroRarity": 5,
+              "costumeCutOffDate": "2025-04-07 07:00:00",
+              "rareCostumeGemCost": 100,
+              "epicCostumeGemCost": 200,
+              "legendaryCostumeGemCost": 300
             }
           ]
         }
@@ -102417,7 +102434,7 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
     "maxVersionToShowUpdateOutReminderIos": "87.0.3",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "88.0.1",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "89.0.0",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -102523,5 +102540,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1183470362
+  "otherConfigId": 2556396763
 }

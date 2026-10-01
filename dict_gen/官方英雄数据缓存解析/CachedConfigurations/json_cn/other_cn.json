@@ -1,6 +1,5 @@
 {
   "otherConfig": {
-    "abCode": "checkout_v2_enabled",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -3321,9 +3320,9 @@
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
             "featuredCharacters": [
-              "beauty_beast_beauty",
-              "musketeer_queen_anne_costume_commander",
-              "beauty_beast_jacquespierre"
+              "beauty_beast_henriette",
+              "musketeer_rochefort_costume_ratcatcher",
+              "beauty_beast_mirielle"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-10-06 07:00:00",
@@ -4622,6 +4621,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-12-29 07:00:00",
             "endTime": "2027-01-02 07:00:00"
+          },
+          {
+            "id": "lottery_season_underwild_2026_12_31",
+            "targetSeason": "Season4",
+            "rareMonsterStateConfigId": "map_season4",
+            "startTime": "2026-12-31 07:00:00",
+            "endTime": "2027-01-04 07:00:00"
           },
           {
             "id": "lottery_season_untold_tales1_2026_12_31",
@@ -34748,19 +34754,19 @@
             "gemValue": 1000
           },
           {
-            "id": "titan_hunter_yuralia",
+            "id": "尤拉利亚",
             "gemValue": 1000
           },
           {
-            "id": "titan_hunter_ingrith",
+            "id": "因格里斯",
             "gemValue": 1000
           },
           {
-            "id": "fleur_chrysostom",
+            "id": "克里索斯托",
             "gemValue": 1000
           },
           {
-            "id": "fleur_bezian",
+            "id": "贝齐安",
             "gemValue": 1000
           },
           {
@@ -34768,19 +34774,19 @@
             "gemValue": 1000
           },
           {
-            "id": "vegetable_taterian",
+            "id": "泰特里安",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_cauliver",
+            "id": "考利弗",
             "gemValue": 1000
           },
           {
-            "id": "ronin_mori_hyouei",
+            "id": "森兵卫",
             "gemValue": 1000
           },
           {
-            "id": "ronin_kogan",
+            "id": "寇根",
             "gemValue": 1000
           },
           {
@@ -34788,51 +34794,51 @@
             "gemValue": 1000
           },
           {
-            "id": "rodent_galepaw",
+            "id": "风爪",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_blue",
+            "id": "泰坦骨拟态兽",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_green",
+            "id": "泰坦骨拟态兽",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_purple",
+            "id": "泰坦骨拟态兽",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_red",
+            "id": "泰坦骨拟态兽",
             "gemValue": 1000
           },
           {
-            "id": "mimic_titan_part_yellow",
+            "id": "泰坦骨拟态兽",
             "gemValue": 1000
           },
           {
-            "id": "rodent_oakspine",
+            "id": "橡刺",
             "gemValue": 1000
           },
           {
-            "id": "ronin_ishikawa_genta",
+            "id": "石川玄太",
             "gemValue": 1000
           },
           {
-            "id": "ronin_aoki_morika",
+            "id": "青木森香",
             "gemValue": 1000
           },
           {
-            "id": "rodent_bonegnaw",
+            "id": "噬骨者",
             "gemValue": 1000
           },
           {
-            "id": "halloween_karlov",
+            "id": "卡尔洛夫",
             "gemValue": 1000
           },
           {
-            "id": "rodent_dewfoot",
+            "id": "露足",
             "gemValue": 1000
           },
           {
@@ -34852,7 +34858,7 @@
             "gemValue": 1000
           },
           {
-            "id": "rodent_honeytuft",
+            "id": "蜜绒",
             "gemValue": 1000
           },
           {
@@ -84248,7 +84254,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_heimdall_costume_cute",
+            "costumeId": "海姆达-机警卡通",
             "parentHeroId": "海姆达"
           },
           {
@@ -84260,7 +84266,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_tyr_costume_cute",
+            "costumeId": "泰尔-卡通正义",
             "parentHeroId": "泰尔"
           },
           {
@@ -84272,7 +84278,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_gullinbursti_costume_cute",
+            "costumeId": "古林博斯帝-卡通野猪",
             "parentHeroId": "古林博斯帝"
           },
           {
@@ -84284,7 +84290,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_mist_costume_cute",
+            "costumeId": "迷雾-卡通女武神指挥官",
             "parentHeroId": "迷雾"
           },
           {
@@ -84296,7 +84302,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s3_by_ulf_costume_cute",
+            "costumeId": "拜伍尔夫-卡通维京斗士",
             "parentHeroId": "拜伍尔夫"
           },
           {
@@ -84596,7 +84602,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_god_zeline_costume_cute",
+            "costumeId": "西林-卡通自然神仙",
             "parentHeroId": "西林"
           },
           {
@@ -84980,7 +84986,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_haulstone_costume_picnic",
+            "costumeId": "运输石-饕餮机械",
             "parentHeroId": "运输石"
           },
           {
@@ -84992,7 +84998,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_ferrus_costume_shipyard",
+            "costumeId": "费洛斯-船坞机械",
             "parentHeroId": "费洛斯"
           },
           {
@@ -85004,7 +85010,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_brimstone_costume_hellforged",
+            "costumeId": "硫磺-炼狱锻铸机械",
             "parentHeroId": "硫磺"
           },
           {
@@ -85016,7 +85022,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_bonechill_costume_bedrock",
+            "costumeId": "骨颤-基岩机械",
             "parentHeroId": "骨颤"
           },
           {
@@ -85028,7 +85034,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_rustbeak_costume_devout",
+            "costumeId": "锈喙-虔诚枭鸟机械",
             "parentHeroId": "锈喙"
           },
           {
@@ -85040,7 +85046,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "construct_nautica_costume_astronomer",
+            "costumeId": "诺第卡-天文学者机械",
             "parentHeroId": "诺第卡"
           },
           {
@@ -85052,7 +85058,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "fleur_elyzabel_costume_scout",
+            "costumeId": "埃莉萨贝尔·德·蒂耶尔-血色密探",
             "parentHeroId": "埃莉萨贝尔·德·蒂耶尔"
           },
           {
@@ -85064,7 +85070,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "halloween_matilda_costume_mafia",
+            "costumeId": "玛蒂尔达-珍馐调香师",
             "parentHeroId": "玛蒂尔达"
           },
           {
@@ -85076,7 +85082,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "vampire_queen_costume_mafia",
+            "costumeId": "法蕾莉-暗夜健身教官",
             "parentHeroId": "法蕾莉"
           },
           {
@@ -85088,7 +85094,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-10-19 07:00:00",
-            "costumeId": "vampire_lord_costume_mafia",
+            "costumeId": "弗拉德-吸血鬼副官",
             "parentHeroId": "弗拉德"
           },
           {
@@ -85100,7 +85106,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_god_elinor_costume_pirate",
+            "costumeId": "玛格丽特-宝藏海盗",
             "parentHeroId": "玛格丽特"
           },
           {
@@ -85112,7 +85118,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "ice_god_miki_costume_expeditioner",
+            "costumeId": "米琪-霜兽护卫",
             "parentHeroId": "米琪"
           },
           {
@@ -85124,7 +85130,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "holy_god_ranvir_costume_sunpriest",
+            "costumeId": "兰威尔-辉光人马",
             "parentHeroId": "兰威尔"
           },
           {
@@ -85136,7 +85142,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "fire_god_nadnog_costume_harvester",
+            "costumeId": "格拉祖-烈焰收割者",
             "parentHeroId": "格拉祖"
           },
           {
@@ -85148,7 +85154,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_titan_costume_stylish",
+            "costumeId": "霍格火-树庭古灵",
             "parentHeroId": "霍格火"
           },
           {
@@ -85160,7 +85166,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "lizardman_warrior_costume_stylish",
+            "costumeId": "伊师塔克-英姿战士",
             "parentHeroId": "伊师塔克"
           },
           {
@@ -85172,7 +85178,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "undead_horned_skeleton_costume_stylish",
+            "costumeId": "奥伯伦-英姿残魂",
             "parentHeroId": "奥伯伦"
           },
           {
@@ -85184,7 +85190,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_female_assassin_costume_stylish",
+            "costumeId": "斯嘉丽-英姿突袭者",
             "parentHeroId": "斯嘉丽"
           },
           {
@@ -85196,7 +85202,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "blackguard_commander_costume_stylish",
+            "costumeId": "迪波特斯-英姿公爵",
             "parentHeroId": "迪波特斯"
           },
           {
@@ -85208,7 +85214,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "dwarven_guard_costume_stylish",
+            "costumeId": "博立尔-英姿守卫",
             "parentHeroId": "博立尔"
           },
           {
@@ -85220,7 +85226,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_female_guard_costume_stylish",
+            "costumeId": "达瓦-沙戈造型师",
             "parentHeroId": "达瓦"
           },
           {
@@ -85232,7 +85238,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "cultist_inventor_costume_stylish",
+            "costumeId": "昆塔斯-英姿科学家",
             "parentHeroId": "昆塔斯"
           },
           {
@@ -85244,7 +85250,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nordic_mage_costume_stylish",
+            "costumeId": "乌尔墨-冰谷造型师",
             "parentHeroId": "乌尔墨"
           }
         ],
@@ -101694,6 +101700,17 @@
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
+            },
+            {
+              "id": "visiting_outfitter_9",
+              "startTime": "2026-10-08 07:00:00",
+              "endTime": "2026-10-11 07:00:00",
+              "maxTransactionCount": 1,
+              "maxHeroRarity": 5,
+              "costumeCutOffDate": "2025-04-07 07:00:00",
+              "rareCostumeGemCost": 100,
+              "epicCostumeGemCost": 200,
+              "legendaryCostumeGemCost": 300
             }
           ]
         }
@@ -102417,7 +102434,7 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
     "maxVersionToShowUpdateOutReminderIos": "87.0.3",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "88.0.1",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "89.0.0",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -102523,5 +102540,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1183470362
+  "otherConfigId": 2556396763
 }

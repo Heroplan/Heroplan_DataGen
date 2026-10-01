@@ -5810,6 +5810,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "nature_god_theron",
+        "name": "Theron",
+        "passives": [
+            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ]
+    },
+    {
         "heroId": "scoundrel_tofana",
         "name": "Tofana",
         "passives": [
@@ -11332,6 +11340,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "passives": [
+            "Enhanced Shields on Special: Passive Skill as attacking character",
+            "* Fire shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "Passive Skill as defending character:",
+            "* Fire shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
+        ]
+    },
+    {
         "heroId": "goblin_madhammer",
         "name": "Madhammer",
         "passives": [
@@ -15116,13 +15135,58 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "titan_hunter_maar",
-        "name": "Maar",
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "passives": []
     },
     {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
+        "heroId": "beauty_beast_henriette",
+        "name": "Henriette",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "passives": []
+    },
+    {
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
+        "passives": []
+    },
+    {
+        "heroId": "fleur_chrysostom",
+        "name": "Chrysostom",
+        "passives": []
+    },
+    {
+        "heroId": "fleur_bezian",
+        "name": "Bezian",
+        "passives": []
+    },
+    {
+        "heroId": "halloween_karlov",
+        "name": "Karlov",
+        "passives": []
+    },
+    {
+        "heroId": "fleur_elyzabel_costume_scout",
+        "name": "Elyzabel de Tuillieres C",
+        "passives": []
+    },
+    {
+        "heroId": "halloween_matilda_costume_mafia",
+        "name": "Matilda C",
+        "passives": []
+    },
+    {
+        "heroId": "vampire_queen_costume_mafia",
+        "name": "Valeria C",
+        "passives": []
+    },
+    {
+        "heroId": "vampire_lord_costume_mafia",
+        "name": "Vlad C",
         "passives": []
     }
 ];

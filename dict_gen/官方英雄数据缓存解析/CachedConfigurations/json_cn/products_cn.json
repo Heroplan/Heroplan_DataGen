@@ -1928,7 +1928,7 @@
       {
         "productType": "DeluxeAscensionSummon",
         "id": "lottery_deluxe_ascension_default_30_bulk",
-        "gemPrice": 9300,
+        "gemPrice": 9400,
         "sourceProductId": "lottery_deluxe_ascension_default",
         "amount": 30
       },
@@ -12953,6 +12953,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple2_giants_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13034,6 +13035,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple2_giants_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13460,7 +13462,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -13542,7 +13543,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21726,7 +21726,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_souloffer_1",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21765,7 +21764,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_souloffer_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21804,7 +21802,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_souloffer_3",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22839,6 +22836,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple2_giants_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23013,7 +23011,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27305,6 +27302,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_treasury_tier1",
         "dollarValue": 2,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27318,6 +27316,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_treasury_tier2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27336,6 +27335,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_treasury_tier3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27359,6 +27359,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_treasury_tier4",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27514,6 +27515,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_treasury_tier5",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35999,6 +36001,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36842,6 +36845,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_delux_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36860,6 +36864,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_delux_2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36878,6 +36883,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_delux_3",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -56578,18 +56584,18 @@
         "amount": 1,
         "uiPriority": 137,
         "featuredHeroes": [
-          "fleur_chrysostom",
-          "fleur_bezian",
-          "fleur_elyzabel_costume_scout"
+          "克里索斯托",
+          "贝齐安",
+          "埃莉萨贝尔·德·蒂耶尔-血色密探"
         ],
         "includedHeroes": [
           "吉耶梅特",
           "卢多维科",
-          "halloween_karlov",
+          "卡尔洛夫",
           "塔莱茜娅",
           "尤马基乌斯",
           "弗朗辛-女暴徒",
-          "halloween_matilda_costume_mafia",
+          "玛蒂尔达-珍馐调香师",
           "切斯特",
           "凡达-罪恶女王",
           "米丽安与午夜",
@@ -56600,7 +56606,7 @@
           "卢辛达",
           "艾德文-背刺管家",
           "霍滕西娅",
-          "vampire_queen_costume_mafia",
+          "法蕾莉-暗夜健身教官",
           "弗兰克-暴徒",
           "安娜·贝尔-尘埃女男爵",
           "冯·罗斯巴特",
@@ -56613,7 +56619,7 @@
           "格里芬-隐形祭司",
           "小黏糊",
           "杰克",
-          "vampire_lord_costume_mafia",
+          "弗拉德-吸血鬼副官",
           "布兰博",
           "阿西安",
           "塔姆林",
@@ -58998,5 +59004,5 @@
       }
     ]
   },
-  "productsConfigId": 1282191177
+  "productsConfigId": 830244329
 }

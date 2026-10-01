@@ -5361,7 +5361,7 @@ const translatedEffectsCN =
         "effects": [
             "安全驱散目标和附近敌人身上的 1 个增益。（最后获得的增益最先被驱散）",
             "目标和附近敌人每回合受到 337 - 661 点递增的诅咒伤害，持续 3 回合。此效果具有顽固特性。（第一回合，造成 337 点伤害。伤害每回合增加 +40%，最高可达每回合 661 点伤害。 每次尝试驱散、净化或转移顽固效果时，其持续时间减少 1 回合，或剩余生效次数减少 1 次。）",
-            "目标与附近敌人受到的所有伤害增加 +20% ,持续 3 回合。此效果具有顽固特性。（每次尝试驱散、净化或转移顽固效果时，其持续时间减少 1 回合，或剩余生效次数减少 1 次。）"
+            "目标与附近敌人受到的所有伤害增加 +20%，持续 3 回合。（每次尝试驱散、净化或转移顽固效果时，其持续时间减少 1 回合，或剩余生效次数减少 1 次。）"
         ]
     },
     {
@@ -7385,6 +7385,16 @@ const translatedEffectsCN =
             "所有敌人身上的增益持续时间减少 3 回合。（持续时间调整会对顽固、可驱散效果和不可驱散效果产生影响。如果任意效果的持续时间被削减至零.那么该效果将算作自然结束。）",
             "所有盟友获得 +35% 防御，持续 5 回合。",
             "所有敌人获得 -35% 防御，持续 5 回合。"
+        ]
+    },
+    {
+        "heroId": "nature_god_theron",
+        "name": "Theron",
+        "effects": [
+            "对所有敌人造成 275% 伤害。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "施法者以所受伤害的 75% 对随机一名敌人进行反击，持续 4 回合。",
+            "元素链为所有自然系盟友召唤出一名自然小兵，其可从施法者处继承 10% 生命和 15% 攻击力。"
         ]
     },
     {
@@ -14335,6 +14345,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "effects": [
+            "对所有敌人造成 250% 伤害。",
+            "对抗泰坦时，造成 500% 伤害。",
+            "所有盟友获得 +50% 攻击力，持续 4 回合。对抗自然系泰坦时，所有盟友获得 +60% 攻击力。",
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。"
+        ]
+    },
+    {
         "heroId": "goblin_madhammer",
         "name": "Madhammer",
         "effects": [
@@ -19142,13 +19162,58 @@ const translatedEffectsCN =
         ]
     },
     {
-        "heroId": "titan_hunter_maar",
-        "name": "Maar",
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "effects": []
     },
     {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
+        "heroId": "beauty_beast_henriette",
+        "name": "Henriette",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "effects": []
+    },
+    {
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
+        "effects": []
+    },
+    {
+        "heroId": "fleur_chrysostom",
+        "name": "Chrysostom",
+        "effects": []
+    },
+    {
+        "heroId": "fleur_bezian",
+        "name": "Bezian",
+        "effects": []
+    },
+    {
+        "heroId": "halloween_karlov",
+        "name": "Karlov",
+        "effects": []
+    },
+    {
+        "heroId": "fleur_elyzabel_costume_scout",
+        "name": "Elyzabel de Tuillieres C",
+        "effects": []
+    },
+    {
+        "heroId": "halloween_matilda_costume_mafia",
+        "name": "Matilda C",
+        "effects": []
+    },
+    {
+        "heroId": "vampire_queen_costume_mafia",
+        "name": "Valeria C",
+        "effects": []
+    },
+    {
+        "heroId": "vampire_lord_costume_mafia",
+        "name": "Vlad C",
         "effects": []
     }
 ];

@@ -5361,7 +5361,7 @@ const allTranslations =
         "effects": [
             "Safely dispels 1 buff from the target and nearby enemies. (The latest buffs are dispelled first.)",
             "The target and nearby enemies receive 337-661 increasing Curse damage each turn for 3 turns. This effect is Stubborn. (On the first turn, 337 damage is dealt. The damage increases by +40% each turn, up to 661 damage per turn. Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
-            "All damage the target and nearby enemies receive is increased by +20% for 3 turns. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or decreases activations left by 1.)"
+            "All damage the target and nearby enemies receive is increased by +20% for 3 turns. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)"
         ]
     },
     {
@@ -7385,6 +7385,16 @@ const allTranslations =
             "Reduces the duration of all enemies' active buffs by 3 turns.(The duration reduction affects both dispellable and undispellable status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)",
             "All allies get +35% defense for 5 turns.",
             "All enemies get -35% defense for 5 turns."
+        ]
+    },
+    {
+        "heroId": "nature_god_theron",
+        "name": "Theron",
+        "effects": [
+            "Deals 275% damage to all enemies.",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "The caster counterattacks a random enemy with 75% of the damage received for 4 turns.",
+            "Element Link summons a Nature Minion for all Nature allies with 10% HP and 15% attack inherited from the caster."
         ]
     },
     {
@@ -14335,6 +14345,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "titan_hunter_maar",
+        "name": "Maar",
+        "effects": [
+            "Deals 250% damage to all enemies.",
+            "Against Titans, deals 500% damage.",
+            "All allies get +50% attack for 4 turns. Against Nature Titans, all allies get +60% attack.",
+            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage."
+        ]
+    },
+    {
         "heroId": "goblin_madhammer",
         "name": "Madhammer",
         "effects": [
@@ -19142,13 +19162,58 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "titan_hunter_maar",
-        "name": "Maar",
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C",
         "effects": []
     },
     {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
+        "heroId": "beauty_beast_henriette",
+        "name": "Henriette",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "effects": []
+    },
+    {
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
+        "effects": []
+    },
+    {
+        "heroId": "fleur_chrysostom",
+        "name": "Chrysostom",
+        "effects": []
+    },
+    {
+        "heroId": "fleur_bezian",
+        "name": "Bezian",
+        "effects": []
+    },
+    {
+        "heroId": "halloween_karlov",
+        "name": "Karlov",
+        "effects": []
+    },
+    {
+        "heroId": "fleur_elyzabel_costume_scout",
+        "name": "Elyzabel de Tuillieres C",
+        "effects": []
+    },
+    {
+        "heroId": "halloween_matilda_costume_mafia",
+        "name": "Matilda C",
+        "effects": []
+    },
+    {
+        "heroId": "vampire_queen_costume_mafia",
+        "name": "Valeria C",
+        "effects": []
+    },
+    {
+        "heroId": "vampire_lord_costume_mafia",
+        "name": "Vlad C",
         "effects": []
     }
 ];
