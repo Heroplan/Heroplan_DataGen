@@ -140350,8 +140350,8 @@
             "contents": [
               {
                 "type": "Gem",
-                "amount": 1600,
-                "zyngaStoreExtraAmount": 100
+                "amount": 2000,
+                "zyngaStoreExtraAmount": 200
               },
               {
                 "type": "Item",
@@ -140367,9 +140367,8 @@
               },
               {
                 "type": "Item",
-                "id": "lottery_covenant_coin",
-                "amount": 200,
-                "zyngaStoreExtraAmount": 50
+                "id": "relic_harvester_generic",
+                "amount": 1
               }
             ]
           },
@@ -157394,9 +157393,9 @@
               "overridden": true,
               "featuredHeroes": [
                 "日和",
-                "丹增·牙",
-                "赫里德马尔-皇家矮人商人",
-                "雷金-矮人堕落王子"
+                "凯齐",
+                "法夫纳-马克海姆的堕落领主",
+                "赫里德马尔-皇家矮人商人"
               ]
             }
           ],
@@ -183831,5 +183830,5 @@
       ]
     }
   },
-  "shopConfigId": 1796977816
+  "shopConfigId": 173318455
 }

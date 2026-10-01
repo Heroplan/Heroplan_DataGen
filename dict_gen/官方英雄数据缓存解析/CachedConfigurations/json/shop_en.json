@@ -140350,8 +140350,8 @@
             "contents": [
               {
                 "type": "Gem",
-                "amount": 1600,
-                "zyngaStoreExtraAmount": 100
+                "amount": 2000,
+                "zyngaStoreExtraAmount": 200
               },
               {
                 "type": "Item",
@@ -140367,9 +140367,8 @@
               },
               {
                 "type": "Item",
-                "id": "lottery_covenant_coin",
-                "amount": 200,
-                "zyngaStoreExtraAmount": 50
+                "id": "relic_harvester_generic",
+                "amount": 1
               }
             ]
           },
@@ -157394,9 +157393,9 @@
               "overridden": true,
               "featuredHeroes": [
                 "ronin_hiyori",
-                "ronin_tenzin_kiba",
-                "tales2_hreidmarr_costume_trader",
-                "tales2_regin_costume_omen"
+                "champions_katzy",
+                "tales2_fafnir_costume_fallen",
+                "tales2_hreidmarr_costume_trader"
               ]
             }
           ],
@@ -183831,5 +183830,5 @@
       ]
     }
   },
-  "shopConfigId": 1796977816
+  "shopConfigId": 173318455
 }

@@ -1,29 +1,5 @@
 [
     {
-        "name": "Maar",
-        "fancy_name": "Warden of the Rainforest",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-10-01 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_maar",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Theron",
-        "fancy_name": "Swift Elaphocentaur Warrior",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-10-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "nature_god_theron",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Jolt C",
         "fancy_name": "Mythic Navigator",
         "color": "Blue",
