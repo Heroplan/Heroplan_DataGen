@@ -17433,7 +17433,7 @@ const allTranslations =
             "Against Very Fast mana speed or faster targets deals and additional 150% damage.",
             "All monsters and bosses are considered as Average mana speed.",
             "In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.",
-            "Boosts all allies' health by 15% of damage dealt."
+            "Boosts all allies' health by 25% of damage dealt."
         ]
     },
     {

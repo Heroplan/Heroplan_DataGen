@@ -46449,6 +46449,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Summon - Minion"
                 ]
             },
@@ -109818,7 +109819,7 @@ window.allHeroes =
             "Against Very Fast mana speed or faster targets deals and additional 150% damage.",
             "All monsters and bosses are considered as Average mana speed.",
             "In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.",
-            "Boosts all allies' health by 15% of damage dealt."
+            "Boosts all allies' health by 25% of damage dealt."
         ],
         "passives": [
             "Damage Reduction on Enemy Special: If an enemy that is Average mana speed or faster casts a Special Skill, this character gets Stack (Max: 10): All damage received is reduced by 5%.",
