@@ -2208,6 +2208,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C1",
+        "effects": [
+            "Deals 225% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "All Ice allies get +65% attack for 3 turns.",
+            "Deals extra damage against Fire."
+        ]
+    },
+    {
         "heroId": "faun_jolyon",
         "name": "Jolyon",
         "effects": [
@@ -7576,7 +7587,7 @@ const allTranslations =
             "Deals 630% damage to the target.",
             "Boosts the caster's health by 50% of damage dealt.",
             "The target receives Resonance for 3 turns. Each turn, Resonance deals 456 damage to the afflicted enemies and 228 damage to nearby enemies.",
-            "Deals 250% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
+            "Deals 300% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
         ]
     },
     {
@@ -19160,11 +19171,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
-        "effects": []
     },
     {
         "heroId": "beauty_beast_henriette",

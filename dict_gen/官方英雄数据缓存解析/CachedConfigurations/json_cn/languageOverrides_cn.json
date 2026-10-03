@@ -1,28 +1,58 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "Italian": {
+      "English": {
         "overrideEntries": []
       },
-      "Russian": {
+      "Dutch": {
         "overrideEntries": []
       },
-      "Polish": {
-        "overrideEntries": []
-      },
-      "ChineseTraditional": {
-        "overrideEntries": []
-      },
-      "Korean": {
+      "French": {
         "overrideEntries": []
       },
       "German": {
         "overrideEntries": []
       },
-      "Japanese": {
+      "Indonesian": {
+        "overrideEntries": []
+      },
+      "Italian": {
+        "overrideEntries": []
+      },
+      "Polish": {
+        "overrideEntries": []
+      },
+      "Portuguese": {
+        "overrideEntries": []
+      },
+      "Russian": {
+        "overrideEntries": []
+      },
+      "Spanish": {
+        "overrideEntries": []
+      },
+      "Danish": {
+        "overrideEntries": []
+      },
+      "Finnish": {
+        "overrideEntries": []
+      },
+      "Norwegian": {
         "overrideEntries": []
       },
       "Swedish": {
+        "overrideEntries": []
+      },
+      "Korean": {
+        "overrideEntries": []
+      },
+      "Japanese": {
+        "overrideEntries": []
+      },
+      "ChineseSimplified": {
+        "overrideEntries": []
+      },
+      "ChineseTraditional": {
         "overrideEntries": []
       },
       "Turkish": {
@@ -37,37 +67,7 @@
           }
         ]
       },
-      "English": {
-        "overrideEntries": []
-      },
       "Arabic": {
-        "overrideEntries": []
-      },
-      "French": {
-        "overrideEntries": []
-      },
-      "Portuguese": {
-        "overrideEntries": []
-      },
-      "Indonesian": {
-        "overrideEntries": []
-      },
-      "Finnish": {
-        "overrideEntries": []
-      },
-      "Danish": {
-        "overrideEntries": []
-      },
-      "Spanish": {
-        "overrideEntries": []
-      },
-      "Norwegian": {
-        "overrideEntries": []
-      },
-      "Dutch": {
-        "overrideEntries": []
-      },
-      "ChineseSimplified": {
         "overrideEntries": []
       }
     }

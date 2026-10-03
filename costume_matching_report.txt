@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (640 / 0)
+✅ 成功匹配的服装 (641 / 0)
 ================================
 Name: Darkfeather costume1, Fancy Name: Adept Eagle Enchanter
 Name: Berden Costume1, Fancy Name: Adroit Archer
@@ -344,6 +344,7 @@ Name: Tiburtus glass, Fancy Name: Mournful Vitrail
 Name: Ahhotep Costume1, Fancy Name: Mummy Champion
 Name: Vaishali costume1, Fancy Name: Mystic Pie Master
 Name: Kunchen costume1, Fancy Name: Mystic of Croquet
+Name: Jolt costume1, Fancy Name: Mythic Navigator
 Name: Medea Costume1, Fancy Name: Naga Goddess of the Deep
 Name: Spartoi Costume1, Fancy Name: Naga Guard
 Name: Black Knight Costume1, Fancy Name: Negative Knight

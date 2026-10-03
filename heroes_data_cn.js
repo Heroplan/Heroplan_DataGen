@@ -14173,6 +14173,84 @@ window.allHeroes =
         ]
     },
     {
+        "name": "珠尔特 (Jolt) C1",
+        "fancy_name": "神话领航员",
+        "AetherPower": "特殊技能加成",
+        "color": "冰雪",
+        "class": "盗贼",
+        "speed": "飞速",
+        "skill": "神话闪电",
+        "source": "超级元素人",
+        "Release date": "2026-10-02",
+        "specialId": "mythic_lightning",
+        "parent_specialId": "chain_lightning",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "heroId": "elemental_jolt_costume_mythic",
+        "star": 5,
+        "power": 1364,
+        "attack": 1535,
+        "defense": 1371,
+        "health": 2272,
+        "effects": [
+            "对目标造成 225% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空。）",
+            "所有冰雪系盟友获得 +65% 攻击力，持续 3 回合。",
+            "对烈火系造成额外伤害。"
+        ],
+        "passives": [
+            "队伍大师：",
+            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
+            "* 造成的额外元素伤害： +150%",
+            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
+            "* 受到的伤害： -25%",
+            "抵抗烈火异常状态：该角色免疫烈火系角色所施放的状态异常状态和负面叠加。"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_jolt_costume_mythic",
+        "lb1": {
+            "attack": 1655,
+            "defense": 1478,
+            "health": 2449,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1893,
+            "defense": 1691,
+            "health": 2802,
+            "power": 1653
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击-单体",
+                    "攻击-连锁"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-伤害↑：烈火"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻击-攻击力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻击-命中率↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "乔利恩 (Jolyon)",
         "fancy_name": "心思缜密的牧神工匠",
         "AetherPower": "防御提升",
@@ -47648,7 +47726,7 @@ window.allHeroes =
             "对目标造成 630% 伤害。",
             "为施法者提高相当于所造成伤害 50% 的生命值。",
             "目标获得共振，持续 3 回合。共振每回合会对受影响敌人造成 456 点伤害，并对附近敌人造成 228 点伤害。",
-            "施法者拥有生命加成期间，在每回合结束时对一名随机敌人造成 250% 伤害。此效果无法驱散。"
+            "施法者拥有生命加成期间，在每回合结束时对一名随机敌人造成 300% 伤害。此效果无法驱散。"
         ],
         "passives": [
             "阻碍法力：通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少 -80%。此效果适用于战场上的所有敌人。",
@@ -120566,30 +120644,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "珠尔特 (Jolt) C",
-        "fancy_name": "神话领航员",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_jolt_costume_mythic",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": "elemental_jolt_costume_mythic",
-        "cn_skill_info": []
     },
     {
         "name": "亨丽埃特 (Henriette)",

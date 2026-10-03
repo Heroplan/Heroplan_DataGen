@@ -2214,7 +2214,7 @@
         "id": "lottery_deluxe_ascension_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 196
+        "uiPriority": 221
       },
       {
         "productType": "MimicSummon",
@@ -3719,7 +3719,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 205,
+        "uiPriority": 223,
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -23406,7 +23406,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_1_1",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23430,7 +23429,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_1_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23454,7 +23452,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_1_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35963,7 +35960,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56317,7 +56314,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 211,
+        "uiPriority": 220,
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
         "bonusChestRequirement": 5,
@@ -56497,7 +56494,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 208,
+        "uiPriority": 222,
         "associatedEvent": "AstralElves"
       },
       {
@@ -59004,5 +59001,5 @@
       }
     ]
   },
-  "productsConfigId": 830244329
+  "productsConfigId": 2202304329
 }

@@ -14173,6 +14173,84 @@ window.allHeroes =
         ]
     },
     {
+        "name": "裘特 (Jolt) C1",
+        "fancy_name": "神秘導航者",
+        "AetherPower": "特殊加成",
+        "color": "冰雪",
+        "class": "盜賊",
+        "speed": "非常快",
+        "skill": "神秘閃電",
+        "source": "超級元素",
+        "Release date": "2026-10-02",
+        "specialId": "mythic_lightning",
+        "parent_specialId": "chain_lightning",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "heroId": "elemental_jolt_costume_mythic",
+        "star": 5,
+        "power": 1364,
+        "attack": 1535,
+        "defense": 1371,
+        "health": 2272,
+        "effects": [
+            "對目標造成 225% 傷害。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
+            "所有敵人獲得 -40% 精準度，持續 3 回合。（進攻型特殊技能也有機率無法擊中。）",
+            "所有冰雪盟友獲得 +65% 攻擊，持續 3 回合。",
+            "對烈火系造成額外傷害。"
+        ],
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
+            "* 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
+            "* 受到元素傷害： -25%",
+            "抵禦烈火異常：此角色免疫烈火系角色施放的異常狀態及負面效果疊加。"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_jolt_costume_mythic",
+        "lb1": {
+            "attack": 1655,
+            "defense": 1478,
+            "health": 2449,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1893,
+            "defense": 1691,
+            "health": 2802,
+            "power": 1653
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-單一目標",
+                    "攻擊-連鎖"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-傷害↑：烈火"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-攻擊力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻擊-命中率↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "喬里昂 (Jolyon)",
         "fancy_name": "深思熟慮的羊人修補匠",
         "AetherPower": "防禦提升",
@@ -47648,7 +47726,7 @@ window.allHeroes =
             "對目標造成 630% 傷害。",
             "為施法者提升所造成傷害 50% 的生命值。",
             "目標將受到持續 3 回合的共振效果，共振對受影響的敵人造成 456 點傷害，並對附近敵人造成 228 點傷害。",
-            "施法者擁有生命加成時，每回合结束時會對隨機敵人造成 250% 傷害。此效果無法驅散。"
+            "施法者擁有生命加成時，每回合结束時會對隨機敵人造成 300% 傷害。此效果無法驅散。"
         ],
         "passives": [
             "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
@@ -120566,30 +120644,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "裘特 (Jolt) C",
-        "fancy_name": "神秘導航者",
-        "AetherPower": "",
-        "color": "冰雪",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_jolt_costume_mythic",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": "elemental_jolt_costume_mythic",
-        "cn_skill_info": []
     },
     {
         "name": "亨麗埃塔 (Henriette)",

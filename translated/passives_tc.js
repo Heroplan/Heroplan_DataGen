@@ -1813,6 +1813,18 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C1",
+        "passives": [
+            "部隊精通：",
+            "攻擊角色時的被動技能：此英雄的部隊可對更弱的元素造成額外元素傷害。",
+            "* 造成額外元素傷害： +150%",
+            "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
+            "* 受到元素傷害： -25%",
+            "抵禦烈火異常：此角色免疫烈火系角色施放的異常狀態及負面效果疊加。"
+        ]
+    },
+    {
         "heroId": "faun_jolyon",
         "name": "Jolyon",
         "passives": [
@@ -15133,11 +15145,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_henriette",

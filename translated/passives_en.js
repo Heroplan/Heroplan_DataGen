@@ -1813,6 +1813,18 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_jolt_costume_mythic",
+        "name": "Jolt C1",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
+            "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
+        ]
+    },
+    {
         "heroId": "faun_jolyon",
         "name": "Jolyon",
         "passives": [
@@ -15133,11 +15145,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "elemental_jolt_costume_mythic",
-        "name": "Jolt C",
-        "passives": []
     },
     {
         "heroId": "beauty_beast_henriette",

@@ -102434,7 +102434,7 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
     "maxVersionToShowUpdateOutReminderIos": "87.0.3",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "89.0.0",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "89.0.1.539",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -102540,5 +102540,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2556396763
+  "otherConfigId": 4066960096
 }

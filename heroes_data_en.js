@@ -14173,6 +14173,84 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Jolt C1",
+        "fancy_name": "Mythic Navigator",
+        "AetherPower": "Special Boost",
+        "color": "Ice",
+        "class": "Rogue",
+        "speed": "Very Fast",
+        "skill": "Mythic Lightning",
+        "source": "Super Elementals",
+        "Release date": "2026-10-02",
+        "specialId": "mythic_lightning",
+        "parent_specialId": "chain_lightning",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "heroId": "elemental_jolt_costume_mythic",
+        "star": 5,
+        "power": 1364,
+        "attack": 1535,
+        "defense": 1371,
+        "health": 2272,
+        "effects": [
+            "Deals 225% damage to the target.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
+            "All enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
+            "All Ice allies get +65% attack for 3 turns.",
+            "Deals extra damage against Fire."
+        ],
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received damage: -25%",
+            "Resist Fire Ailments: This character is immune to status ailments and negative stacks cast by Fire characters."
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": "elemental_jolt_costume_mythic",
+        "lb1": {
+            "attack": 1655,
+            "defense": 1478,
+            "health": 2449,
+            "power": 1460
+        },
+        "lb2": {
+            "attack": 1893,
+            "defense": 1691,
+            "health": 2802,
+            "power": 1653
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Single",
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Jolyon",
         "fancy_name": "Thoughtful Faun Tinkerer",
         "AetherPower": "Defense Up",
@@ -47648,7 +47726,7 @@ window.allHeroes =
             "Deals 630% damage to the target.",
             "Boosts the caster's health by 50% of damage dealt.",
             "The target receives Resonance for 3 turns. Each turn, Resonance deals 456 damage to the afflicted enemies and 228 damage to nearby enemies.",
-            "Deals 250% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
+            "Deals 300% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
         ],
         "passives": [
             "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
@@ -120566,30 +120644,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Jolt C",
-        "fancy_name": "Mythic Navigator",
-        "AetherPower": "",
-        "color": "Ice",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_jolt_costume_mythic",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": "elemental_jolt_costume_mythic",
-        "cn_skill_info": []
     },
     {
         "name": "Henriette",

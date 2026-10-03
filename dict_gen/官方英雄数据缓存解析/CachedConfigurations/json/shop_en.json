@@ -2215,7 +2215,7 @@
           "id": "lottery_deluxe_ascension_default",
           "gemPrice": 400,
           "amount": 1,
-          "uiPriority": 196
+          "uiPriority": 221
         },
         {
           "productType": "MimicSummon",
@@ -3720,7 +3720,7 @@
           "id": "lottery_mercenary_war_default",
           "gemPrice": 350,
           "amount": 1,
-          "uiPriority": 205,
+          "uiPriority": 223,
           "associatedEvent": "KingdomWar",
           "bonusChest": "3kw_chest",
           "bonusChestRequirement": 5,
@@ -23407,7 +23407,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.triple_thunderbolt_1_1",
           "dollarValue": 12,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -23431,7 +23430,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.triple_thunderbolt_1_2",
           "dollarValue": 30,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -23455,7 +23453,6 @@
           "productType": "Offer",
           "id": "com.smallgiantgames.empires.triple_thunderbolt_1_3",
           "dollarValue": 100,
-          "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [
             {
@@ -35964,7 +35961,7 @@
           "realMoneyProductActive": true,
           "realMoneyProductInStore": true,
           "contents": [],
-          "allianceGiftCustomContentId": "dynamic2_alliancegift",
+          "allianceGiftCustomContentId": "dynamic4_alliancegift",
           "dynamicOfferProduct": true
         },
         {
@@ -56318,7 +56315,7 @@
           "id": "lottery_featured_alliance_quest_musketeers",
           "gemPrice": 350,
           "amount": 1,
-          "uiPriority": 211,
+          "uiPriority": 220,
           "associatedEvent": "AllianceQuestMusketeers",
           "bonusChest": "alliance_quest_chest",
           "bonusChestRequirement": 5,
@@ -56498,7 +56495,7 @@
           "id": "lottery_astralelves_default",
           "gemPrice": 400,
           "amount": 1,
-          "uiPriority": 208,
+          "uiPriority": 222,
           "associatedEvent": "AstralElves"
         },
         {
@@ -59489,19 +59486,8 @@
         "id": "dynamic4_alliancegift",
         "contents": [
           {
-            "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 35
-          },
-          {
-            "type": "Item",
-            "id": "lottery_untold_tales_coin",
-            "amount": 35
-          },
-          {
-            "type": "Item",
-            "id": "lottery_item_limit_break",
-            "amount": 5
+            "type": "Gem",
+            "amount": 100
           }
         ]
       },
@@ -92381,7 +92367,16 @@
       {
         "offerType": "Dynamic",
         "id": "dynamic_offer_64_motega",
-        "products": [],
+        "products": [
+          {
+            "id": "com.smallgiantgames.empires.dynamic_12d",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_17",
+            "purchaseLimit": 2
+          }
+        ],
         "requiresQuestsUnlocked": true,
         "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
@@ -92389,6 +92384,7 @@
         "zyngaStoreEnabled": true,
         "zyngaStorePlacementPool": "dynamic-offers",
         "offerLayoutSource": "dynamic_offer_31_motega",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.mystic_wonders"
       },
       {
@@ -115740,6 +115736,16 @@
             ]
           },
           {
+            "activationTime": "2026-10-04 09:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              }
+            ]
+          },
+          {
             "activationTime": "2026-10-05 10:00:00",
             "contents": [
               {
@@ -127661,18 +127667,8 @@
               {
                 "type": "Item",
                 "id": "lottery_pickup_coin",
-                "amount": 500,
-                "zyngaStoreExtraAmount": 150
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "tome_levels_epic",
-                "amount": 1
+                "amount": 1000,
+                "zyngaStoreExtraAmount": 100
               }
             ]
           },
@@ -141548,6 +141544,16 @@
                 "zyngaStoreExtraAmount": 200
               }
             ]
+          },
+          {
+            "activationTime": "2026-10-04 09:30:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1500,
+                "zyngaStoreExtraAmount": 200
+              }
+            ]
           }
         ]
       },
@@ -146374,13 +146380,6 @@
         "endTime": "2026-09-30 07:00:00"
       },
       {
-        "id": "dynamic_offer_12_blue_fenrir",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-09-26 09:45:00",
-        "endTime": "2026-09-27 06:30:00"
-      },
-      {
         "id": "com.smallgiantgames.empires.lootticketoffer2",
         "slot": "LeftTop",
         "scheduledManually": true,
@@ -146820,6 +146819,13 @@
         "scheduledManually": true,
         "startTime": "2026-10-04 07:00:00",
         "endTime": "2026-10-08 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_64_motega",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-10-04 09:30:00",
+        "endTime": "2026-10-05 06:30:00"
       },
       {
         "id": "dynamic_offer_44_purple_morganite",
@@ -174361,6 +174367,67 @@
                 "amount": 300
               }
             ]
+          },
+          {
+            "startTime": "2026-10-04 07:00:00",
+            "endTime": "2026-10-05 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              20
+            ],
+            "rewards": [
+              {
+                "type": "Troop",
+                "id": "blue_legendary_sorcerer",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "green_legendary_sorcerer",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "yellow_legendary_sorcerer",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "red_legendary_paladin",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "purple_legendary_ranger",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "blue_legendary_rogue",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "green_legendary_druid",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "yellow_legendary_monk",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "red_legendary_ranger",
+                "amount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "purple_legendary_cleric",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -178492,8 +178559,8 @@
             "startDate": "2026-10-03 07:00:00",
             "endDate": "2026-10-04 07:00:00",
             "featuredHeroes": [
-              "owl_livia",
-              "castle_bear_armel"
+              "construct_halwinter",
+              "beauty_beast_dominique"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -183830,5 +183897,5 @@
       ]
     }
   },
-  "shopConfigId": 173318455
+  "shopConfigId": 2358100713
 }

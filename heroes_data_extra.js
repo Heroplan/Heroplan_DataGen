@@ -50752,5 +50752,32 @@ window.allHeroesExtra = [
             "tile_enhancement_red_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Jolt costume1",
+        "fancy name": "Mythic Navigator",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
+        "Release date": "2026-10-02",
+        "AetherPower": "Special Boost",
+        "heroId": "elemental_jolt_costume_mythic",
+        "baseAttack": 525,
+        "baseDefense": 469,
+        "baseHealth": 777,
+        "specialId": "chain_lightning",
+        "specialId_costume": "mythic_lightning",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_ailments_red"
+        ],
+        "attackBonus": "42%",
+        "defenseBonus": "42%",
+        "healthBonus": "42%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];
