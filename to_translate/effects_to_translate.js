@@ -16024,7 +16024,7 @@ const allTranslations =
             "Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
             "* +25% mana generation for 3 turns.",
-            "* +50% increase for all healing received for 3 turns.",
+            "* +60% increase for all healing received for 3 turns.",
             "* The Source of Buffs will activate 4 times. This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases activations left by 1.)",
             "All allies regenerate 600 HP over 4 turns."
         ]
@@ -17369,7 +17369,7 @@ const allTranslations =
         "name": "Hachiko",
         "effects": [
             "Deals 270% damage to all enemies.",
-            "All allies counterattack with 80% of the damage received for 4 turns. The counterattack damage increases by +15% each turn, up to 125%.",
+            "All allies counterattack with 80% of the damage received for 4 turns. The counterattack damage increases by +20% each turn, up to 140%.",
             "All allies get +50% critical chance for 4 turns."
         ]
     },
