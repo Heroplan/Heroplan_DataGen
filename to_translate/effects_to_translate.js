@@ -5401,7 +5401,7 @@ const allTranslations =
             "Deals 600% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "Wither: The target gets -330 defense.",
-            "Element Link recovers +4% health for all Nature allies for 6 turns. This effect can’t be dispelled."
+            "Element Link recovers +5% health for all Nature allies for 6 turns. This effect can’t be dispelled."
         ]
     },
     {
@@ -9894,7 +9894,7 @@ const allTranslations =
         "effects": [
             "The target succumbs to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 250% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Deals 600% damage to the target and inflicts 50 Insanity on them.",
-            "If the target is defeated by the attack, then nearby enemies succumb to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
+            "If the target is defeated by the attack, then nearby enemies succumb to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 250% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
@@ -13260,7 +13260,7 @@ const allTranslations =
         "heroId": "wild_cat_catalina",
         "name": "Catalina",
         "effects": [
-            "Deals 580% Clawing damage to the target. (Deals 825% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
+            "Deals 580% Clawing damage to the target. (Deals 870% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
             "All allies except the caster get +45% attack for 4 turns.",
             "All allies except the caster get +45% critical chance for 4 turns.",
             "All allies except the caster heal 100% of dealt normal damage for 4 turns."
@@ -18368,7 +18368,7 @@ const allTranslations =
         "heroId": "institute_professor_ambrose",
         "name": "Prof. Ambrose",
         "effects": [
-            "All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to a random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
+            "All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 250% damage to a random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Wither: All enemies get -400 attack.",
             "Deals 420% damage to all enemies and inflicts 25 Insanity on them.",
             "Casting this Special Skill inflicts 45 Insanity on the caster."
