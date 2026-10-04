@@ -16032,7 +16032,7 @@ window.allHeroes =
             "Recovers 50% health for all allies.",
             "Cleanses status ailments from all allies at the end of each turn for 4 turns.",
             "All allies get +40% chance to dodge Special Skills that deal damage for 4 turns.",
-            "The caster gets -10% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
+            "The caster gets -15% mana generation for 4 turns. This effect can't be cleansed. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all allies get: Stack (Max: 10): Recovers 30 HP each turn."
@@ -18979,8 +18979,8 @@ window.allHeroes =
             "Cleanses status ailments from all allies.",
             "Deals 210% damage to all enemies.",
             "Deals additional 25% damage per removed status effect, up to 410% damage in total.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
+            "Stack (Max: 10): The caster gets +6% mana generation",
+            "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ],
         "passives": [
             "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
@@ -26708,7 +26708,7 @@ window.allHeroes =
             "Deals 240% damage to the target.",
             "Deals 390% damage to a random different enemy. Deals extra damage if the target is ice.",
             "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack (Max: 10): The caster recovers 5 HP each turn"
+            "Stack (Max: 10): The caster recovers 15 HP each turn"
         ],
         "passives": [
             "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
@@ -30618,7 +30618,7 @@ window.allHeroes =
         "health": 1285,
         "effects": [
             "Deals 230% damage to the target.",
-            "Deals 450% damage if the target has less than 50% health remaining.",
+            "Deals 460% damage if the target has less than 50% health remaining.",
             "The target and nearby enemies get -24% mana generation for 3 turns.",
             "Stack +2 (Max: 10): The caster gets +10% mana generation.",
             "Stack (Max: 10): The caster recovers 10 HP each turn."
@@ -38334,8 +38334,8 @@ window.allHeroes =
         "defense": 885,
         "health": 1923,
         "effects": [
-            "Deals 550% damage to the target.",
-            "All allies get +35% critical chance for 3 turns.",
+            "Deals 535% damage to the target.",
+            "All allies get +45% critical chance for 3 turns.",
             "Element Link gives all Nature allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
@@ -40017,7 +40017,7 @@ window.allHeroes =
         "effects": [
             "Deals 210% damage to all enemies.",
             "All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.",
-            "Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster."
+            "Empowered Thorn Minion has 20% HP and 20% attack inherited from the caster."
         ],
         "passives": [],
         "family": "classic",
@@ -48100,10 +48100,10 @@ window.allHeroes =
         "defense": 882,
         "health": 1908,
         "effects": [
-            "Deals 255% damage to all enemies.",
-            "All enemies get -34% attack for 4 turns.",
-            "Deals extra damage against Ice.",
             "Dispels buffs from all enemies.",
+            "Deals 240% damage to all enemies.",
+            "All enemies get -38% attack for 4 turns.",
+            "Deals extra damage against Ice.",
             "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled. (Affects only mana generated from matching shields or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
@@ -84972,7 +84972,7 @@ window.allHeroes =
         "health": 2301,
         "effects": [
             "Deals 450% damage to the target and nearby enemies.",
-            "The target nearby enemies receive 848 Burn damage over 4 turns. The caster and all their allies absorb 30% of dealt Burn damage as health.",
+            "The target nearby enemies receive 848 Burn damage over 4 turns. The caster and all their allies absorb 50% of dealt Burn damage as health.",
             "The damage and nearby enemies get -54% decrease of any healing received for 4 turns.",
             "The caster gets -51% defense against Ice for  4 turns. This effect can't be cleansed."
         ],
