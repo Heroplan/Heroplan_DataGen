@@ -4229,7 +4229,7 @@ const allTranslations =
         "effects": [
             "Deals 240% damage to the target.",
             "Deals 390% damage to a random different enemy. Deals extra damage if the target is ice.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
+            "Stack (Max: 10): The caster gets +6% mana generation",
             "Stack (Max: 10): The caster recovers 15 HP each turn"
         ]
     },
