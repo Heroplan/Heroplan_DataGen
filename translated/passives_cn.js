@@ -7697,6 +7697,15 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "beauty_beast_henriette",
+        "name": "Henriette",
+        "passives": [
+            "复活生命值削减：除头目外的所有敌人会以 -80% 的生命值复活。",
+            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
+            "内在美：每当该角色本应受到状态异常或负面叠加造成的伤害时，改为恢复相同数值的生命值。"
+        ]
+    },
+    {
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "passives": [
@@ -15145,11 +15154,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "beauty_beast_henriette",
-        "name": "Henriette",
-        "passives": []
     },
     {
         "heroId": "astral_demon_gremory",

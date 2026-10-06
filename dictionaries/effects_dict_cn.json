@@ -5584,8 +5584,11 @@
     "^Against\\s+Very\\s+Fast\\s+mana\\s+speed\\s+or\\s+faster\\s+targets\\s+deals\\s+and\\s+additional([+-]?\\s*\\d+\\s*%?)\\s+damage\\.?\\s*$": "* 对法力速度为飞快或更快的目标额外造成\\1 伤害。",
     "^All\\s+monsters\\s+and\\s+bosses\\s+are\\s+considered\\s+as\\s+Average\\s+mana\\s+speed\\.?\\s*$": "* 所有怪物和头目的法力速度默认为中等。",
     "^In\\s+Rush\\s+Attack\\s+tournaments\\s+and\\s+wars\\s+enemies\\s+are\\s+considered\\s+as\\s+Very\\s+Fast\\s+mana\\s+speed\\.?\\s*$": "* 在“突袭攻击”联赛和战争中，敌人的法力速度默认为飞速。",
-    "^Wither:\\s+The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)attack\\s+and\\s+([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "衰退：目标获得\\1点攻击力和\\2点防御。",
-    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+minor\\s+damage\\s+all\\s+other\\s+enemies\\.?\\s*$": "对敌人造成\\1伤害，并对其余敌人造成轻微伤害。",
-    "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*$": "目标获得\\1精准度，持续\\2回合。若目标受到治疗，则效果持续时间将重置。",
-    "^All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*$": "所有敌人获得\\1精准度，持续\\2回合。若目标受到治疗，则效果持续时间将重置。"
+    "^Wither:\\s+The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)attack\\s+and\\s+([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "衰退：目标获得 \\1点攻击力和 \\2点防御。",
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+the\\s+target\\s+and\\s+minor\\s+damage\\s+all\\s+other\\s+enemies\\.?\\s*$": "对敌人造成\\1 伤害，并对其余敌人造成轻微伤害。",
+    "^The\\s+target\\s+gets\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*$": "目标获得 \\1 精准度，持续\\2回合。若目标受到治疗，则效果持续时间将重置。",
+    "^All\\s+enemies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+accuracy\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+effect\\s+duration\\s+resets\\s+if\\s+the\\s+target\\s+is\\s+healed\\.?\\s*$": "所有敌人获得 \\1 精准度，持续\\2回合。若目标受到治疗，则效果持续时间将重置。",
+    "^Wither:\\s+Enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\s+get\\s+([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "衰退：阵型边缘的敌人获得\\1点防御。",
+    "^Dispels\\s+Buffs\\s+from\\s+the\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\.?\\s*$": "驱散敌方阵型边缘敌人身上的增益。",
+    "^Safely\\s+dispels\\s+Buffs\\s+from\\s+the\\s+enemies\\s+on\\s+the\\s+edges\\s+of\\s+the\\s+enemy\\s+formation\\.?\\s*$": "安全驱散敌方阵型边缘敌人身上的增益。"
 }

@@ -9729,6 +9729,20 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "beauty_beast_henriette",
+        "name": "Henriette",
+        "effects": [
+            "Less than 40  Humility:",
+            "Deals 265% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Wither: Enemies on the edges of the enemy formation get -300 defense.",
+            "Dispels Buffs from the enemies on the edges of the enemy formation.",
+            "40 or more Humility:",
+            "Safely dispels Buffs from the enemies on the edges of the enemy formation. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.)",
+            "Deals 360% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Wither: Enemies on the edges of the enemy formation get -350 defense."
+        ]
+    },
+    {
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "effects": [
@@ -19171,11 +19185,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
-    },
-    {
-        "heroId": "beauty_beast_henriette",
-        "name": "Henriette",
-        "effects": []
     },
     {
         "heroId": "astral_demon_gremory",

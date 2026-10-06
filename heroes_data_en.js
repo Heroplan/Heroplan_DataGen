@@ -61420,6 +61420,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Henriette",
+        "fancy_name": "Beauty's Supercilious Sister",
+        "AetherPower": "Special Boost",
+        "color": "Dark",
+        "class": "Sorcerer",
+        "speed": "Very Fast",
+        "skill": "Superfluous Jewelry",
+        "source": "Alliance - The Brave & The Beautiful",
+        "Release date": "2026-10-06",
+        "specialId": "superfluous_jewelry",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_henriette",
+        "star": 5,
+        "power": 1365,
+        "attack": 1495,
+        "defense": 1367,
+        "health": 2391,
+        "effects": [
+            "Less than 40  Humility:",
+            "Deals 265% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Wither: Enemies on the edges of the enemy formation get -300 defense.",
+            "Dispels Buffs from the enemies on the edges of the enemy formation.",
+            "40 or more Humility:",
+            "Safely dispels Buffs from the enemies on the edges of the enemy formation. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.)",
+            "Deals 360% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "Wither: Enemies on the edges of the enemy formation get -350 defense."
+        ],
+        "passives": [
+            "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
+            "Heal when Status Ailment Expires or Is Cleared: This character's receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Beautiful Inside: Whenever this character would take damage from a status ailment or from a negative stack, they will recover that much health instead."
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": "beauty_beast_henriette",
+        "lb1": {
+            "attack": 1611,
+            "defense": 1473,
+            "health": 2576,
+            "power": 1461
+        },
+        "lb2": {
+            "attack": 1843,
+            "defense": 1685,
+            "health": 2947,
+            "power": 1654
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk - Edges"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Hreidmarr",
         "fancy_name": "Dwarven Mountain King",
         "AetherPower": "Counterattack",
@@ -120644,30 +120714,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Henriette",
-        "fancy_name": "Beauty's Supercilious Sister",
-        "AetherPower": "",
-        "color": "Dark",
-        "class": "",
-        "speed": "",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "beauty_beast_henriette",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "originalIndex": "beauty_beast_henriette",
-        "cn_skill_info": []
     },
     {
         "name": "Gremory",

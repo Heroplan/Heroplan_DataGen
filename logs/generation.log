@@ -2,9 +2,6 @@ INFO - 成功加载并规范化 1908 条中文额外数据。
 INFO - [skill] 已加载 cn 技能 2854 条
 INFO - [skill] 已加载 tc 技能 2854 条
 INFO - [skill] 已加载 en 技能 2854 条
-ERROR - 写入简体中文文件时发生错误: [Errno 22] Invalid argument: 'heroes_data_cn.js'
-ERROR - 写入繁体中文文件时发生错误: [Errno 22] Invalid argument: 'heroes_data_tc.js'
-ERROR - 写入英文原文文件时发生错误: [Errno 22] Invalid argument: 'heroes_data_en.js'
 WARNING - 
 --- 4 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
 INFO - 成功加载并规范化 1908 条中文额外数据。

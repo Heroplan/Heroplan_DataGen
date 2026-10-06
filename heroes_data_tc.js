@@ -61420,6 +61420,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "亨麗埃塔 (Henriette)",
+        "fancy_name": "美人高傲姊妹",
+        "AetherPower": "特殊加成",
+        "color": "暗黑",
+        "class": "術士",
+        "speed": "非常快",
+        "skill": "冗餘珠寶",
+        "source": "聯盟 - 勇者與美人",
+        "Release date": "2026-10-06",
+        "specialId": "superfluous_jewelry",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "heroId": "beauty_beast_henriette",
+        "star": 5,
+        "power": 1365,
+        "attack": 1495,
+        "defense": 1367,
+        "health": 2391,
+        "effects": [
+            "低於 40 謙遜：",
+            "對位於敵方陣型邊緣的敵人造成 265% 傷害。如果只有一個敵人，傷害加倍。",
+            "枯萎：位於敵方陣型邊緣的敵人獲得-300點防禦。",
+            "驅散敵方陣型邊緣敵人的增益效果。",
+            "40 或以上的謙遜：",
+            "安全驅散敵方陣型邊緣敵人的增益效果。（安全驅散無視已移除狀態效果增益的第二效果，如移除時造成的傷害。外部效果如被動技能和家族效果仍可發動。）",
+            "對位於敵方陣型邊緣的敵人造成 360% 傷害。如果只有一個敵人，傷害加倍。",
+            "枯萎：位於敵方陣型邊緣的敵人獲得-350點防禦。"
+        ],
+        "passives": [
+            "復活後生命值減少：所有敵人（頭目除外）會以 -80% 的生命值復活。",
+            "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 15% 生命值。此效果每回合僅能啟動一次。",
+            "內在之美：每當此角色因狀態異常或負面疊加會受到傷害時，該角色會恢復等量的生命值。"
+        ],
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "originalIndex": "beauty_beast_henriette",
+        "lb1": {
+            "attack": 1611,
+            "defense": 1473,
+            "health": 2576,
+            "power": 1461
+        },
+        "lb2": {
+            "attack": 1843,
+            "defense": 1685,
+            "health": 2947,
+            "power": 1654
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊-兩側"
+                ]
+            },
+            {
+                "增益效果": [
+                    "狀態-驅散增益"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-枯萎：防禦力↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "赫里德馬爾 (Hreidmarr)",
         "fancy_name": "矮人山地王",
         "AetherPower": "反擊",
@@ -120644,30 +120714,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "亨麗埃塔 (Henriette)",
-        "fancy_name": "美人高傲姊妹",
-        "AetherPower": "",
-        "color": "暗黑",
-        "class": "",
-        "speed": "",
-        "skill": "",
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "beauty_beast_henriette",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "originalIndex": "beauty_beast_henriette",
-        "cn_skill_info": []
     },
     {
         "name": "格雷莫里 (Gremory)",

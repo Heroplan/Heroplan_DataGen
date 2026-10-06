@@ -1,17 +1,5 @@
 [
     {
-        "name": "Henriette",
-        "fancy_name": "Beauty's Supercilious Sister",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-10-06 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_henriette",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Gremory",
         "fancy_name": "Astral Demon Psychopomp",
         "color": "Yellow",

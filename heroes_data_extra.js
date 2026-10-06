@@ -50779,5 +50779,26 @@ window.allHeroesExtra = [
         "healthBonus": "42%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Henriette",
+        "fancy name": "Beauty's Supercilious Sister",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "very_fast",
+        "Release date": "2026-10-06",
+        "AetherPower": "Special Boost",
+        "heroId": "beauty_beast_henriette",
+        "baseAttack": 726,
+        "baseDefense": 664,
+        "baseHealth": 1161,
+        "specialId": "superfluous_jewelry",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];
